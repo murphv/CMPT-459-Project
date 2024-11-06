@@ -1,0 +1,2292 @@
+2023
+0.01
+0.01
+45,000,000
+45,000,000
+7,101,395
+7,101,395
+6,860,420
+6,769,923
+0
+90,497
+689,282
+9,835,876
+2,190,389
+30.0
+0
+0
+0
+0
+4.66
+37.73
+0
+1
+0.001
+0
+1:65
+20
+3
+5
+5
+5
+39
+10
+3
+3
+0
+0
+10
+3.0
+2.25
+1
+2
+18
+0
+0
+0
+0
+0
+0001502377 2022-07-01 2022-12-31
+xbrli:shares
+0001502377 2023-02-06
+iso4217:USD
+0001502377 2022-12-31
+0001502377 2022-06-30
+iso4217:USD xbrli:shares
+0001502377 2022-10-01 2022-12-31
+0001502377 2021-10-01 2021-12-31
+0001502377 2021-07-01 2021-12-31
+0001502377 srt:DirectorMember 2022-07-01 2022-12-31
+0001502377 srt:DirectorMember 2021-07-01 2021-12-31
+0001502377 2021-06-30
+0001502377 2021-12-31
+0001502377 us-gaap:CommonStockMember 2022-06-30
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2022-06-30
+0001502377 us-gaap:TreasuryStockMember 2022-06-30
+0001502377 us-gaap:RetainedEarningsMember 2022-06-30
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2022-07-01 2022-09-30
+0001502377 2022-07-01 2022-09-30
+0001502377 us-gaap:CommonStockMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-07-01 2022-09-30
+0001502377 us-gaap:AdditionalPaidInCapitalMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-07-01 2022-09-30
+0001502377 us-gaap:TreasuryStockMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-07-01 2022-09-30
+0001502377 us-gaap:RetainedEarningsMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-07-01 2022-09-30
+0001502377 ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-07-01 2022-09-30
+0001502377 us-gaap:CommonStockMember 2022-07-01 2022-09-30
+0001502377 us-gaap:TreasuryStockMember 2022-07-01 2022-09-30
+0001502377 us-gaap:RetainedEarningsMember 2022-07-01 2022-09-30
+0001502377 us-gaap:CommonStockMember 2022-09-30
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001502377 us-gaap:TreasuryStockMember 2022-09-30
+0001502377 us-gaap:RetainedEarningsMember 2022-09-30
+0001502377 2022-09-30
+0001502377 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001502377 us-gaap:TreasuryStockMember 2022-10-01 2022-12-31
+0001502377 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001502377 us-gaap:CommonStockMember ctgo:TreasurySharesIssuedInCommonStockIssuanceMember 2022-10-01 2022-12-31
+0001502377 us-gaap:AdditionalPaidInCapitalMember ctgo:TreasurySharesIssuedInCommonStockIssuanceMember 2022-10-01 2022-12-31
+0001502377 us-gaap:TreasuryStockMember ctgo:TreasurySharesIssuedInCommonStockIssuanceMember 2022-10-01 2022-12-31
+0001502377 us-gaap:RetainedEarningsMember ctgo:TreasurySharesIssuedInCommonStockIssuanceMember 2022-10-01 2022-12-31
+0001502377 ctgo:TreasurySharesIssuedInCommonStockIssuanceMember 2022-10-01 2022-12-31
+0001502377 us-gaap:CommonStockMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-10-01 2022-12-31
+0001502377 us-gaap:AdditionalPaidInCapitalMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-10-01 2022-12-31
+0001502377 us-gaap:TreasuryStockMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-10-01 2022-12-31
+0001502377 us-gaap:RetainedEarningsMember ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-10-01 2022-12-31
+0001502377 ctgo:SharesForConvertibleNoteInterestPaymentMember 2022-10-01 2022-12-31
+0001502377 us-gaap:CommonStockMember 2022-12-31
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001502377 us-gaap:TreasuryStockMember 2022-12-31
+0001502377 us-gaap:CommonStockMember 2021-06-30
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2021-06-30
+0001502377 us-gaap:TreasuryStockMember 2021-06-30
+0001502377 us-gaap:RetainedEarningsMember 2021-06-30
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2021-07-01 2021-09-30
+0001502377 2021-07-01 2021-09-30
+0001502377 us-gaap:CommonStockMember 2021-07-01 2021-09-30
+0001502377 us-gaap:TreasuryStockMember 2021-07-01 2021-09-30
+0001502377 us-gaap:RetainedEarningsMember 2021-07-01 2021-09-30
+0001502377 us-gaap:CommonStockMember 2021-09-30
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001502377 us-gaap:TreasuryStockMember 2021-09-30
+0001502377 us-gaap:RetainedEarningsMember 2021-09-30
+0001502377 2021-09-30
+0001502377 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001502377 us-gaap:TreasuryStockMember 2021-10-01 2021-12-31
+0001502377 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001502377 us-gaap:CommonStockMember 2021-12-31
+0001502377 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001502377 us-gaap:TreasuryStockMember 2021-12-31
+0001502377 us-gaap:RetainedEarningsMember 2021-12-31
+xbrli:pure
+0001502377 ctgo:TheJointVentureCompanyMember 2022-12-31
+utr:acre
+0001502377 ctgo:TetlinLeaseMember ctgo:TheJointVentureCompanyMember 2022-12-31
+0001502377 ctgo:TheJointVentureCompanyMember ctgo:StateOfAlaskaMiningClaimsForExplorationAndDevelopmentMember 2022-12-31
+0001502377 ctgo:AlaskaHardRockLeaseMember ctgo:AlaskaGoldTorrentLLCMember 2022-12-31
+0001502377 ctgo:ContangoMineralsMember ctgo:StateOfAlaskaMiningClaimsLocatedNorthAndNorthwestOfTetlinLeaseMember 2022-12-31
+0001502377 ctgo:ContangoMineralsMember ctgo:StateOfAlaskaMiningClaimsLocatedNearEaglehonaPropertyMember 2022-12-31
+0001502377 ctgo:ContangoMineralsMember ctgo:StateOfAlaskaMiningClaimsLocatedNearTripleZPropertyMember 2022-12-31
+0001502377 ctgo:ContangoMineralsMember ctgo:StateOfAlaskaMiningClaimsLocatedInRichardsonDistrictMember 2022-12-31
+0001502377 ctgo:ContangoMineralsMember ctgo:StateOfAlaskaMiningClaimsLocatedNorthAndEastOfLuckyShotPropertyMember 2022-12-31
+0001502377 ctgo:ContangoMineralsMember ctgo:StateOfAlaskaMiningClaimsLocatedNearEaglehonaPropertyMember 2022-11-30
+0001502377 ctgo:TheJointVentureCompanyMember 2022-07-01 2022-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2015-01-08
+0001502377 ctgo:TheJointVentureCompanyMember 2021-06-29
+0001502377 ctgo:TheJointVentureCompanyMember 2021-06-30 2022-06-30
+0001502377 ctgo:TheJointVentureCompanyMember 2022-06-30
+0001502377 ctgo:TheJointVentureCompanyMember 2022-10-01 2022-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2021-10-01 2021-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2022-07-01 2022-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2021-07-01 2021-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2015-01-08 2022-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2022-10-01 2022-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2021-10-01 2021-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2021-07-01 2021-12-31
+0001502377 ctgo:TheJointVentureCompanyMember 2020-06-30
+0001502377 2022-10-01 2022-12-30
+0001502377 2021-10-01 2021-12-30
+0001502377 2022-07-01 2022-12-30
+0001502377 2021-07-01 2021-12-30
+0001502377 us-gaap:RestrictedStockMember 2022-12-31
+0001502377 us-gaap:PrivatePlacementMember 2022-12-23 2022-12-23
+0001502377 us-gaap:PrivatePlacementMember 2022-12-23
+0001502377 ctgo:December2022WarrantsMember 2022-12-23
+0001502377 ctgo:December2022WarrantsMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-12-31
+0001502377 ctgo:December2022WarrantsMember us-gaap:MeasurementInputExpectedTermMember 2020-09-14
+0001502377 ctgo:December2022WarrantsMember us-gaap:MeasurementInputPriceVolatilityMember 2022-12-31
+0001502377 ctgo:December2022WarrantsMember us-gaap:MeasurementInputExpectedDividendRateMember 2022-12-31
+0001502377 ctgo:PetriePartnersSecuritiesLLCMember us-gaap:PrivatePlacementMember 2022-12-31
+0001502377 us-gaap:PrivatePlacementMember 2022-12-01 2022-12-31
+0001502377 ctgo:December2022WarrantsMember us-gaap:MeasurementInputExpectedTermMember 2020-09-23
+0001502377 ctgo:PersonOrGroupMember 2020-10-05 2020-10-05
+0001502377 ctgo:CertainPassiveInvestorsMember 2020-10-05 2020-10-05
+0001502377 2020-10-05 2020-10-05
+0001502377 ctgo:COREAlaskaMember ctgo:TheJointVentureCompanyMember 2020-09-30 2020-09-30
+0001502377 ctgo:KGMiningMember ctgo:RoyalAlaskaLLCMember 2020-09-30
+0001502377 ctgo:RoyalAlaskaLLCMember ctgo:TheJointVentureCompanyMember 2020-09-30
+0001502377 ctgo:COREAlaskaMember ctgo:TheJointVentureCompanyMember 2020-09-30
+0001502377 ctgo:KGMiningMember ctgo:TheJointVentureCompanyMember 2020-09-30
+0001502377 ctgo:TheJointVentureCompanyMember 2020-09-30 2020-09-30
+0001502377 ctgo:TheJointVentureCompanyMember 2020-09-30
+0001502377 ctgo:TheJointVentureCompanyMember 2020-09-29
+0001502377 ctgo:AlaskaGoldTorrentLLCMember 2021-08-24 2021-08-24
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:PromissoryNoteIssuedWithAGTAcquisitionMember 2021-08-24 2021-08-24
+utr:oz
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdOneMember 2021-08-24
+thunderdome:item
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdOneMember 2021-08-24 2022-12-31
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdOneMember 2021-08-24 2021-08-24
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdOneMember us-gaap:CommonStockMember 2021-08-24 2021-08-24
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdTwoMember 2021-08-24
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdTwoMember 2021-08-24 2022-12-31
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdTwoMember 2021-08-24 2021-08-24
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:ProductionThresholdTwoMember us-gaap:CommonStockMember 2021-08-24 2021-08-24
+0001502377 ctgo:AlaskaGoldTorrentLLCMember ctgo:LuckyShotProspectMember 2021-08-24 2021-08-24
+0001502377 ctgo:AlaskaGoldTorrentLLCMember us-gaap:CommonStockMember 2021-08-24
+0001502377 us-gaap:MiningPropertiesAndMineralRightsMember 2022-12-31
+0001502377 us-gaap:MiningPropertiesAndMineralRightsMember 2022-06-30
+0001502377 us-gaap:LandMember 2022-12-31
+0001502377 us-gaap:LandMember 2022-06-30
+utr:Y
+0001502377 us-gaap:BuildingAndBuildingImprovementsMember srt:MinimumMember 2022-07-01 2022-12-31
+0001502377 us-gaap:BuildingAndBuildingImprovementsMember 2022-12-31
+0001502377 us-gaap:BuildingAndBuildingImprovementsMember 2022-06-30
+0001502377 us-gaap:MachineryAndEquipmentMember srt:MinimumMember 2022-07-01 2022-12-31
+0001502377 us-gaap:MachineryAndEquipmentMember 2022-12-31
+0001502377 us-gaap:MachineryAndEquipmentMember 2022-06-30
+0001502377 us-gaap:VehiclesMember 2022-07-01 2022-12-31
+0001502377 us-gaap:VehiclesMember 2022-12-31
+0001502377 us-gaap:VehiclesMember 2022-06-30
+0001502377 ctgo:ComputerAndOfficeEquipmentMember 2022-07-01 2022-12-31
+0001502377 ctgo:ComputerAndOfficeEquipmentMember 2022-12-31
+0001502377 ctgo:ComputerAndOfficeEquipmentMember 2022-06-30
+0001502377 us-gaap:FurnitureAndFixturesMember 2022-07-01 2022-12-31
+0001502377 us-gaap:FurnitureAndFixturesMember 2022-12-31
+0001502377 us-gaap:FurnitureAndFixturesMember 2022-06-30
+0001502377 us-gaap:BuildingAndBuildingImprovementsMember srt:MaximumMember 2022-07-01 2022-12-31
+0001502377 us-gaap:MachineryAndEquipmentMember srt:MaximumMember 2022-07-01 2022-12-31
+0001502377 2021-07-01 2022-06-30
+0001502377 us-gaap:RestrictedStockMember srt:DirectorMember 2022-01-01 2022-01-01
+0001502377 us-gaap:RestrictedStockMember srt:DirectorMember 2022-01-01
+0001502377 ctgo:AmendedEquityPlanMember 2022-11-01 2022-11-01
+0001502377 ctgo:AmendedEquityPlanMember 2022-11-01
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:TwoEmployeesMember 2020-12-01 2020-12-01
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:TwoEmployeesMember 2020-12-11 2020-12-11
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:TwoEmployeesMember 2022-12-31
+0001502377 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2021-08-16 2021-08-16
+0001502377 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-12-31
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:ExecutivesAndNonExecutiveDirectorsMember 2021-11-11 2021-11-11
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:ExecutivesAndNonExecutiveDirectorsMember 2022-12-31
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:FourEmployeesMember 2022-02-02 2022-02-02
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:FourEmployeesMember 2022-07-01 2022-12-31
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember ctgo:ExecutivesAndNonExecutiveDirectorsMember 2022-12-01 2022-12-31
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember 2022-12-31
+0001502377 ctgo:The2010PlanMember 2022-10-01 2022-12-31
+0001502377 ctgo:The2010PlanMember 2022-07-01 2022-12-31
+0001502377 ctgo:The2010PlanMember 2022-06-30
+0001502377 ctgo:The2010PlanMember 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:TheJointVentureCompanyMember 2008-07-01 2008-07-31
+0001502377 ctgo:TetlinLeaseMember ctgo:TheJointVentureCompanyMember srt:MinimumMember 2008-07-31
+0001502377 ctgo:TetlinLeaseMember ctgo:TheJointVentureCompanyMember srt:MaximumMember 2008-07-31
+0001502377 ctgo:TetlinLeaseMember 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:TheJointVentureCompanyMember srt:MinimumMember 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:TheJointVentureCompanyMember srt:MaximumMember 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:Scenario1Member 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:Scenario1Member 2022-07-01 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:Scenario2Member 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:Scenario2Member 2022-07-01 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:Scenario3Member 2022-12-31
+0001502377 ctgo:TetlinLeaseMember ctgo:Scenario3Member 2020-12-30 2020-12-30
+0001502377 ctgo:TetlinLeaseMember srt:MinimumMember 2022-07-01 2022-12-31
+0001502377 ctgo:TetlinLeaseMember srt:MinimumMember 2012-07-15 2012-07-15
+0001502377 ctgo:TetlinLeaseAndCertainOtherPropertiesMember 2022-12-31
+0001502377 ctgo:TetlinLeaseAndCertainOtherPropertiesMember ctgo:RoyalGoldMember ctgo:TheJointVentureCompanyMember 2022-12-31
+0001502377 ctgo:AdditionalPropertiesMember ctgo:RoyalGoldMember ctgo:TheJointVentureCompanyMember 2022-12-31
+0001502377 2019-02-28
+0001502377 srt:ChiefExecutiveOfficerMember 2020-02-06
+0001502377 srt:ChiefFinancialOfficerMember 2020-02-06
+0001502377 srt:ChiefExecutiveOfficerMember 2020-06-10
+0001502377 us-gaap:RestrictedStockMember srt:ChiefExecutiveOfficerMember us-gaap:ShareBasedCompensationAwardTrancheOneMember 2020-06-10 2020-06-10
+0001502377 us-gaap:RestrictedStockMember srt:ChiefExecutiveOfficerMember us-gaap:ShareBasedCompensationAwardTrancheTwoMember 2020-06-10 2020-06-10
+utr:D
+0001502377 srt:ChiefExecutiveOfficerMember 2020-06-10 2020-06-10
+0001502377 srt:ChiefExecutiveOfficerMember 2020-12-01 2020-12-31
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember srt:ChiefExecutiveOfficerMember 2020-12-01 2020-12-31
+0001502377 srt:ChiefExecutiveOfficerMember 2022-01-01 2022-01-31
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember srt:ChiefExecutiveOfficerMember 2022-01-01 2022-01-31
+0001502377 us-gaap:RestrictedStockMember ctgo:The2010PlanMember srt:ChiefExecutiveOfficerMember 2022-12-01 2022-12-31
+utr:M
+0001502377 ctgo:RocGlobalFinancingFeesArrangementMember 2022-07-01 2022-12-31
+0001502377 ctgo:RocGlobalFinancingFeesArrangementMember 2022-12-31
+0001502377 ctgo:UnsecuredConvertibleDebentureMember 2022-04-26
+0001502377 ctgo:UnsecuredConvertibleDebentureMember 2022-04-26 2022-04-26
+0001502377 ctgo:UnsecuredConvertibleDebentureMember 2022-12-31
+0001502377 ctgo:UnsecuredConvertibleDebentureMember 2022-06-30
+0001502377 ctgo:UnsecuredConvertibleDebentureMember us-gaap:FairValueInputsLevel2Member 2022-12-31
+0001502377 ctgo:UnsecuredConvertibleDebentureMember 2022-10-01 2022-12-31
+0001502377 ctgo:UnsecuredConvertibleDebentureMember 2022-07-01 2022-12-31
+0001502377 us-gaap:SubsequentEventMember us-gaap:PrivatePlacementMember 2023-01-19 2023-01-19
+0001502377 ctgo:January2023SharesMember us-gaap:SubsequentEventMember us-gaap:PrivatePlacementMember 2023-01-19
+0001502377 ctgo:January2023WarrantsMember us-gaap:SubsequentEventMember us-gaap:PrivatePlacementMember 2023-01-19
+0001502377 us-gaap:PrivatePlacementMember 2023-01-19 2023-01-19
+0001502377 us-gaap:SubsequentEventMember us-gaap:PrivatePlacementMember 2023-01-19
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to
+Commission file number
+001-35770
+CONTANGO ORE, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+27-3431051
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+3700 BUFFALO SPEEDWAY, SUITE 925
+Houston ,
+Texas   77098
+(Address of principal executive offices)   (Zip code)
+( 713 )
+877-1311
+(Registrant ’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, Par Value $0.01 per share
+CTGO
+NYSE American
+Indicate by check mark whether the registrant (1)  has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.      Yes    ☒     No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).      Yes    ☒     No   ☐.
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,”  or “emerging growth company” in Rule 12b-2 of the Exchange Act.:
+Large  accelerated filer     ☐
+Accelerated  filer     ☐
+Non-accelerated  filer       ☒
+Smaller  reporting company     ☒
+Emerging growth company       ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.            ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes   ☐     No   ☒
+The total number of shares of common stock, par value $0.01 per share, outstanding as of February 6, 2023 was  7,217,368 .
+1
+CONTANGO ORE, INC.
+TABLE OF CONTENTS
+Page
+PART I
+– FINANCIAL INFORMATION
+Item  1.
+Financial Statements
+Condensed Consolidated Balance Sheets as of December 31, 2022 and June  30, 2022 (unaudited)
+3
+Condensed Consolidated Statements of Operations for the Three and Six Months Ended December 31, 2022 and 2021 (unaudited)
+4
+Condensed Consolidated Statements of Cash Flows for the Six Months Ended December 31, 2022 and 2021 (unaudited)
+5
+Condensed Consolidated Statement of Stockholders ’ Equity (Deficit) for the Six Months Ended December 31, 2022 and 2021 (unaudited)
+6
+Notes to Unaudited Condensed Consolidated Financial Statements
+7
+Item  2.
+Management ’s Discussion and Analysis of Financial Condition and Results of Operations
+19
+Item  3.
+Quantitative and Qualitative Disclosures about Market Risk
+27
+Item  4.
+Controls and Procedures
+27
+PART II
+– OTHER INFORMATION
+Item  1.
+Legal Proceedings
+28
+Item  1A.
+Risk Factors
+28
+Item  2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+28
+Item  4.
+Mine Safety Disclosures
+28
+Item  5.
+Other Information
+28
+Item  6.
+Exhibits
+29
+All references in this Form 10-Q to the “Company”, “CORE”, “we”, “us” or “our” are to Contango ORE, Inc.
+2
+CONTANGO ORE, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+Item 1 - Financial Statements
+December 31, 2022
+June 30, 2022
+ASSETS
+CURRENT ASSETS:
+Cash
+$ 8,765,154     $ 23,095,101
+Restricted cash     231,000       231,000
+Prepaid expenses and other
+816,596       453,353
+Total current assets
+9,812,750       23,779,454
+LONG-TERM ASSETS:
+Investment in Peak Gold (Note 5)     —       —
+Property & equipment, net     13,446,822       13,514,531
+Total long-term assets     13,446,822       13,514,531
+TOTAL ASSETS
+$ 23,259,572     $ 37,293,985
+LIABILITIES AND STOCKHOLDERS ’ EQUITY/(DEFICIT)
+CURRENT LIABILITIES:
+Accounts payable
+$ 150,677     $ 633,856
+Accrued liabilities
+1,254,837       870,981
+Total current liabilities
+1,405,514       1,504,837
+NON-CURRENT LIABILITIES:
+Advance royalty reimbursement      1,200,000       1,200,000
+Asset retirement obligations     234,056       228,082
+Contingent consideration liability     1,847,063       1,847,063
+Debt, net     19,350,322       19,239,960
+Total non-current liabilities     22,631,441       22,515,105
+TOTAL LIABILITIES     24,036,955       24,019,942
+COMMITMENTS AND CONTINGENCIES (NOTE 14)
+STOCKHOLDERS ’ EQUITY/(DEFICIT):
+Common Stock, $ 0.01
+par value,
+45,000,000
+shares authorized;
+7,101,395
+shares issued and outstanding at December 31, 2022;
+6,860,420
+shares issued and
+6,769,923
+shares outstanding at June 30, 2022)
+71,014       68,604
+Additional paid-in capital
+79,086,142       74,057,859
+Treasury stock at cost ( 0
+at December 31, 2022; and
+90,497
+shares at June 30, 2022)     —       ( 2,318,182 )
+Accumulated deficit
+( 79,934,539
+)
+( 58,534,238
+)
+TOTAL STOCKHOLDERS ’ EQUITY/(DEFICIT)
+( 777,383 )     13,274,043
+TOTAL LIABILITIES AND STOCKHOLDERS ’  EQUITY/(DEFICIT)
+$ 23,259,572     $ 37,293,985
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+CONTANGO ORE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Three Months Ended December 31,
+Six Months Ended December 31,
+2022
+2021
+2022
+2021
+EXPENSES:
+Claim rental expense
+$
+( 126,451
+)
+$
+( 157,163
+)
+$
+( 273,376
+)
+$
+( 306,973
+)
+Exploration expense
+( 2,219,913
+)
+( 1,219,437
+)
+( 6,616,483
+)
+( 2,165,682
+)
+Depreciation expense
+( 34,214
+)
+( 8,933
+)
+( 68,428
+)
+( 13,715
+)
+Accretion expense
+( 2,948
+)
+( 3,560
+)
+( 5,974
+)
+( 3,560
+)
+General and administrative expense
+( 2,176,097
+)
+( 2,796,664
+)
+( 4,600,164
+)
+( 4,766,933
+)
+Total expenses
+( 4,559,623
+)
+( 4,185,757
+)
+( 11,564,425
+)
+( 7,256,863
+)
+OTHER INCOME/(EXPENSE):
+Interest income
+7,799
+494
+16,344
+991
+Interest expense
+( 446,707
+)
+53,224
+( 896,177
+)
+( 3,380
+)
+Loss from equity investment in Peak Gold, LLC (Note 5)
+( 9,310,000
+)
+( 743,000
+)
+( 9,310,000
+)
+( 2,188,000
+)
+Insurance recoveries
+—
+—
+338,301
+—
+Other income
+—
+—
+15,656
+—
+Total other income/(expense)
+( 9,748,908
+)
+(689,282
+)
+(9,835,876
+)
+(2,190,389
+)
+LOSS BEFORE TAXES
+( 14,308,531
+)
+( 4,875,039
+)
+( 21,400,301
+)
+( 9,447,252
+)
+Income tax (expense)/benefit
+—
+—
+—
+—
+NET LOSS
+$
+( 14,308,531
+)
+$
+( 4,875,039
+)
+$
+( 21,400,301
+)
+$
+( 9,447,252
+)
+LOSS PER SHARE
+Basic and diluted
+$
+( 2.10
+)
+$
+( 0.72
+)
+$
+( 3.15
+)
+$
+( 1.41
+)
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING
+Basic and diluted
+6,807,317
+6,751,581
+6,787,864
+6,716,076
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+CONTANGO ORE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Six Months Ended December 31,
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss
+$
+( 21,400,301
+)
+$
+( 9,447,252
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Stock-based compensation
+1,598,421
+2,278,160
+Depreciation expense
+68,428
+13,715
+Accretion expense
+5,974
+3,560
+Loss from equity investment in Peak Gold, LLC
+9,310,000
+2,188,000
+Amortization of debt discount and debt issuance fees
+335,047
+—
+Changes in operating assets and liabilities:
+Increase in prepaid expenses and other
+( 363,243
+)
+( 721,162
+)
+Increase/(decrease) in accounts payable and accrued liabilities
+( 100,043
+)
+337,558
+Decrease in income tax receivable
+—
+( 80,000
+)
+Net cash used in operating activities
+( 10,545,717
+)
+( 5,427,421
+)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Cash invested in Peak Gold, LLC
+( 9,310,000
+)
+( 2,188,000
+)
+Acquisition of property, plant, and equipment
+—
+( 13
+)
+Cash paid for acquisition of Alaska Gold Torrent, LLC, net of cash received
+—
+( 5,393,305
+)
+Net cash used by investing activities
+( 9,310,000
+)
+( 7,581,318
+)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Cash paid for shares withheld from employees for payroll tax withholding
+( 86,932
+)
+( 69,307
+)
+Debt issuance costs
+14,202
+—
+Cash proceeds from capital raise, net
+5,598,500
+( 43,560
+)
+Net cash provided by financing activities
+5,525,770
+( 112,867
+)
+NET DECREASE IN CASH
+( 14,239,947
+)
+( 13,121,606
+)
+CASH AND RESTRICTED CASH, BEGINNING OF PERIOD
+23,326,101
+35,220,588
+CASH AND RESTRICTED CASH, END OF PERIOD
+$
+8,996,154
+$
+22,098,982
+Supplemental disclosure of cash flow information
+Cash paid for:
+Interest expense
+$
+716,687
+$
+—
+Income taxes
+—
+80,000
+Non-cash investing and financing activities
+Interest expense paid with treasury stock
+238,886
+—
+Note payable issued for acquisition of Alaska Gold Torrent, LLC
+—
+6,250,000
+Direct transaction costs for acquisition of Alaska Gold Torrent, LLC financed in accounts payable
+—
+719
+Asset retirement obligations
+—
+218,927
+Contingent liability for acquisition of Alaska Gold Torrent, LLC
+—
+1,847,063
+Total non-cash investing activities
+$
+238,886
+$
+8,316,709
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+CONTANGO ORE, INC.
+CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS ’ EQUITY/(DEFICIT)
+(Unaudited)
+Common Stock
+Additional
+Paid-In
+Treasury
+Accumulated
+Total
+Stockholders’
+Shares
+Amount
+Capital
+Stock
+Deficit
+Equity/(Deficit)
+Balance at June 30, 2022
+6,860,420
+$
+68,604
+$
+74,057,859
+$
+( 2,318,182
+)
+$
+( 58,534,238
+)
+$
+13,274,043
+Stock-based compensation
+—
+—
+787,874
+—
+—
+787,874
+Treasury shares issued for convertible note interest payment
+—
+—
+—
+138,886
+—
+138,886
+Treasury shares withheld for employee taxes
+—
+—
+—
+( 27,693
+)
+—
+( 27,693
+)
+Net loss for the period
+—
+—
+—
+—
+( 7,091,770
+)
+( 7,091,770
+)
+Balance at September 30, 2022
+6,860,420
+68,604
+74,845,733
+( 2,206,989
+)
+( 65,626,008
+)
+7,081,340
+Stock-based compensation
+—
+—
+810,547
+—
+—
+810,547
+Issuance of common stock
+283,500
+2,835
+2,844,257
+—
+—
+2,847,092
+Treasury shares issued in common stock issuance
+( 42,525
+)
+( 425
+)
+2,166,228
+—
+2,165,803
+Warrants
+—
+—
+657,105
+—
+—
+657,105
+Cost of common stock issuance
+—
+—
+( 71,500
+)
+—
+—
+( 71,500
+)
+Treasury shares issued for convertible note interest payment
+—
+—
+—
+100,000
+—
+100,000
+Treasury shares withheld for employee taxes
+—
+—
+—
+( 59,239
+)
+—
+( 59,239
+)
+Net loss for the period
+—
+—
+—
+—
+( 14,308,531
+)
+( 14,308,531
+)
+Balance at December 31, 2022
+7,101,395
+$
+71,014
+$
+79,086,142
+$
+—
+$
+(79,934,539
+)
+$
+( 777,383
+)
+Common Stock
+Additional
+Paid-In
+Treasury
+Accumulated
+Total
+Stockholders’
+Shares
+Amount
+Capital
+Stock
+Deficit
+Equity
+Balance at June 30, 2021
+6,675,746
+$
+66,757
+$
+69,509,606
+$
+—
+$
+( 35,027,588
+)
+$
+34,548,775
+Stock-based compensation
+—
+—
+1,021,851
+—
+—
+1,021,851
+Cost of common stock issuance
+—
+—
+( 43,560
+)
+—
+—
+( 43,560
+)
+Restricted shares activity
+10,000
+100
+( 100
+)
+—
+—
+—
+Net loss for the period
+—
+—
+—
+—
+( 4,572,213
+)
+( 4,572,213
+)
+Balance at September 30, 2021
+6,685,746
+66,857
+70,487,797
+—
+( 39,599,801
+)
+30,954,853
+Stock-based compensation
+—
+—
+1,256,309
+—
+—
+1,256,309
+Restricted stock activity
+123,500
+1,235
+( 1,235
+)
+—
+—
+—
+Treasury Shares withheld for employee taxes
+—
+—
+—
+( 69,307
+)
+—
+( 69,307
+)
+Net loss for the period
+—
+—
+—
+—
+( 4,875,039
+)
+( 4,875,039
+)
+Balance at December 31, 2021
+6,809,246
+$
+68,092
+$
+71,742,871
+$
+( 69,307
+)
+$
+( 44,474,840
+)
+$
+27,266,816
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+CONTANGO ORE, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1.
+Organization and Business
+Contango ORE, Inc. (“CORE” or the “Company”) engages in exploration for gold ore and associated minerals in Alaska.  The Company conducts its operations through
+three
+primary means:
+●
+a
+30.0 % membership interest in Peak Gold, LLC (the “Peak Gold JV”), which leases approximately
+675,000
+acres from the Tetlin Tribal Council and holds approximately
+13,000
+additional acres of State of Alaska mining claims (such combined acreage, the “Peak Gold JV Property”) for exploration and development, including in connection with the Peak Gold JV's plan to mine ore from the Peak and North Peak deposits within the Peak Gold JV Property (the “Manh Choh Project”);
+●
+its wholly-owned subsidiary, Alaska Gold Torrent, LLC, an Alaska limited liability company (“AGT”), which leases the mineral rights to approximately
+8,600
+acres of State of Alaska and patented mining claims for exploration from Alaska Hard Rock, Inc., located in
+three
+former producing gold mines located on the patented claims in the Willow Mining District about
+75
+miles north of Anchorage, Alaska (the “Lucky Shot Property”) (See Note
+10  - Acquisition of Lucky Shot Property); and
+●
+its wholly-owned subsidiary, Contango Minerals Alaska, LLC (“Contango Minerals”), which separately owns the mineral rights to approximately
+145,280
+acres of State of Alaska mining claims for exploration, including (i) approximately
+69,780
+acres located immediately northwest of the Peak Gold JV Property (the “Eagle/Hona Property”), (ii) approximately
+14,800
+acres located northeast of the Peak Gold JV Property (the “Triple Z Property”), (iii) approximately
+52,700
+acres of new property in the Richardson district of Alaska  (the “Shamrock Property”) and (iv) approximately
+8,000
+acres located to the north and east of the Lucky Shot Property (the “Willow Property” and, together with the Eagle/Hona Property,  the Triple Z Property, and the Shamrock Property, collectively the “Minerals Property”).  The Company relinquished approximately
+69,000
+acres located on the Eagle/Hona prospect in
+November 2022.
+The Lucky Shot Property and the Minerals Property are collectively referred to in these Notes to Unaudited Condensed Consolidated Financial Statements as the “Contango Properties”.
+The Company’s Manh Choh Project is in the development stage.  All other projects are in the exploration stage.
+The Company has been involved, directly and through the Peak Gold JV, in exploration on the Manh Choh Project for  twelve  years, which has resulted in identifying  two  mineral deposits (Main and North Manh Choh) and several other gold, silver, and copper prospects.  The Peak Gold JV plans to mine ore from the Main and North Manh Choh deposits and then process the ore at the existing Fort Knox mining and milling complex located approximately  240  miles ( 400
+km) away. The use of the Fort Knox facilities is expected to accelerate the development of the Peak Gold JV Property and result in reduced upfront capital development costs, smaller environmental footprint, a shorter permitting and development timeline and less overall execution risk for the Peak Gold JV to advance the Main and North Manh Choh deposits to production.  The Peak Gold JV will be charged a toll for using the Fort Knox facilities.  A toll milling agreement is expected to be finalized during the current calendar year.
+The Management Committee of the Peak Gold JV (the "Management Committee") approved a calendar year
+2022
+budget which covered the following areas of work: feasibility study, permitting, on-going environmental monitoring, community engagement, engineering, road and camp construction, and exploration.  Kinross Gold Corporation (“Kinross”) released a combined feasibility study for the Fort Knox mill and the Peak Gold JV in
+July 2022.
+Also, in
+July 2022,
+Kinross announced that its board of directors (the “Kinross Board”) made a decision to proceed with development of the Manh Choh project.  Effective
+December 31, 2022,
+CORE Alaska, KG Mining and the Peak Gold JV executed the First Amendment to the Amended and Restated Limited Liability Company Agreement of the Peak Gold JV (the “A&R JV LLCA Amendment”). The A&R JV LLCA Amendment provides that, beginning in
+2023,
+the budget of the Peak Gold JV shall be determined on a quarterly basis.  The Management Committee has approved a budget of $ 13.6
+million for the
+first
+calendar quarter of
+2023,
+of which the Company's share is $ 2.7
+million.  To date the Company, has funded $ 1
+million of the approved
+first
+calendar quarter budget.  This budget primarily relates to access road construction and costs incurred for the refurbishment and expansion of the Manh Choh Camp.   The Manh Choh camp facilities, located in Tok, Alaska, have now been completed and construction work on the road will continue through the winter months.  The Mine Operating permit issued by the State of Alaska Department of Natural Resources has been submitted.  Once issued mine site construction and mine development of the Manh Choh project site can be undertaken so that the project remains on schedule for
+first
+gold production in the
+second
+half of
+2024.
+At the Lucky Shot Property, the Company engaged Atkinson Construction and Major Drilling as contractors to execute the  2022  exploration/development program.  The Company completed
+29
+exploration drill holes on the property.  Drilling began in late
+June 2022,
+and ended in
+November
+when activities ceased  in preparation for the winter months. All
+29
+holes intersected the Lucky Shot vein structure. The Company has engaged a
+third -party structural geologist from Oriented Targeted Solutions Inc. to complete a structural analysis of the vein structure based on underground mapping and drill core logging. The Company will release all assay results once the results have been finalized and quality assurance and quality control has been completed.  The Company anticipates completing an initial resource estimate, and then making plans for a follow up program to continue exploration of the Lucky Shot vein structure.  Once a sufficient size and quality of mineralized material has been defined the Company expects to initiate a technical study to determine if commercial mining is viable.
+On the Shamrock Property, the Company conducted soil and surface rock chip sampling during  2021.  Follow up trenching and detailed geologic mapping is planned for the summer of  2023.   At the Eagle/Hona Property, the Company carried out a detailed reconnaissance of the northern and eastern portions of the large claim block that had  not  previously been detail sampled. Due to the steep topography, a helicopter was used to execute the program safely.  Follow up geologic mapping and sampling is planned for the summer of  2023.
+The Company’s  30.0 % membership interest in the Peak Gold JV, its ownership of AGT and Contango Minerals, and cash on hand constitute substantially all of the Company’s assets.
+The Company’s fiscal year end is
+June 30.
+7
+2.
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America (“US GAAP”) for interim financial information, pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”), including instructions to Form
+10 -Q and Article
+8
+of Regulation S- X.
+Accordingly, they do
+not
+include all the information and footnotes required by US GAAP for complete annual consolidated financial statements. In the opinion of management, all adjustments considered necessary for a fair presentation of the consolidated financial statements have been included. All such adjustments are of a normal recurring nature. The consolidated financial statements should be read in conjunction with the consolidated audited financial statements and notes included in the Company ’s Form
+10 -K for the fiscal year ended
+June  30, 2022.
+The results of operations for the
+three
+and
+six
+months  ended
+December 31, 2022  are
+not
+necessarily indicative of the results that
+may
+be expected for the fiscal year ending
+June  30, 2023.
+3.   Liquidity
+The Company’s cash needs going forward will primarily relate to capital calls from the Peak Gold JV, exploration of the Contango Properties, and general and administrative expenses of the Company.  If a large budget is undertaken by the Peak Gold JV, and
+no
+additional financing is obtained, the Company
+may
+elect
+not
+to fund its portion of the approved budget and dilute its interest in the Peak Gold JV, in which case management believes the Company would maintain sufficient liquidity to meet its working capital requirements for the next
+twelve
+months from the date of this report.  If the Company's interest in the Peak Gold JV is diluted, the Company
+may
+not
+be able to fully realize its investment in the Peak Gold JV.  Also, if
+no
+additional financing is obtained, the Company
+may
+not
+be able to fully realize its investment in the Contango Properties.
+4.
+Summary of Significant Accounting Policies
+Please see the Company's Form
+10 -K for the fiscal year ended
+June 30, 2022
+for a summary of the Company's significant accounting policies, as there have been
+no
+changes to the Company's significant accounting polices since the time of that filing.
+8
+5 .
+Investment in the Peak Gold JV
+The Company initially recorded its investment at the historical book value of the assets contributed to the Peak Gold JV, which was approximately $ 1.4
+million. As of
+December 31, 2022,
+the Company has contributed approximately $ 28.7
+million to the Peak Gold JV.   KG Mining acquired 70% of the Peak Gold JV on December 31, 2020 in connection with the Kinross Transactions.   As of
+December 31, 2022,
+the Company held a
+3 0.0%
+membership interest in the Peak Gold JV.
+The following table is a roll-forward of the Company's investment in the Peak Gold JV as of  December 31, 2022:
+Investment
+in Peak Gold, LLC
+Investment balance at June 30, 2021
+$ —
+Investment in Peak Gold, LLC     3,706,000
+Loss from equity investment in Peak Gold, LLC     ( 3,706,000 )
+Investment balance at June 30, 2022
+$ —
+Investment in Peak Gold, LLC     9,310,000
+Loss from equity investment in Peak Gold, LLC     ( 9,310,000 )
+Investment balance at December 31, 2022   $ —
+9
+In conjunction with the CORE Transactions, and KG Mining assuming the role of manager of the Peak Gold JV, the Peak Gold JV converted its method of accounting from US GAAP to International Financial Reporting Standards (“IFRS”).  The condensed unaudited financial statements presented below have been converted from IFRS to US GAAP for presentation purposes.  The following table presents the condensed unaudited results of operations for the Peak Gold JV for the
+three
+and
+six  month periods ended
+December 31, 2022  and
+2021,
+and for the period from inception through December
+31,
+2022  in accordance with US GAAP:
+Three Months Ended
+Three Months Ended     Six Months Ended     Six Months Ended     Period from Inception January 8, 2015 to
+December 31, 2022
+December 31, 2021     December 31, 2022     December 31, 2021     December 31, 2022
+EXPENSES:
+Exploration expense
+$ 2,552,237     $ 2,293,331     $ 3,990,993     $ 5,349,435     $ 62,402,520
+General and administrative
+31,843       387,100       108,892       692,157       12,389,912
+Total expenses
+2,584,080       2,680,431       4,099,885       6,041,592       74,792,432
+NET LOSS
+$ 2,584,080     $ 2,680,431     $ 4,099,885     $ 6,041,592     $ 74,792,432
+The Company’s share of the Peak Gold JV’s results of operations for the
+three  and
+six
+months ended
+December 31, 2022
+was a loss of approximately $ 0.8  million and $ 1.2
+million, respectively.   The Company’s share in the results of operations for the
+three  and
+six
+months ended December
+31 , 2021  was a loss of approximately $ 0.8
+million and $ 1.8
+million respectively .   The Peak Gold JV loss does
+not
+include any provisions related to income taxes as the Peak Gold JV is treated as a partnership for income tax purposes. As of  December 31, 2022  and
+June 30, 2022,
+the Company’s share of the Peak Gold JV’s inception-to-date cumulative loss of approximately $ 43.2  million and $ 42.0  million, respectively, exceeded the historical book value of our investment in the Peak Gold JV, of $ 28.7
+million. Therefore, the investment in the Peak Gold JV had a balance of
+zero
+as of  each December 31, 2022
+and
+June 30, 2022.
+The Company is currently obligated to make additional capital contributions to the Peak Gold JV in proportion to its percentage membership interest in the Peak Gold JV in order to maintain its ownership in the Peak Gold JV and
+not  be diluted.  Therefore, the Company only records losses up to the point of its cumulative investment, which was approximately $ 28.7  million as of December
+31,
+2022.
+The portion of the cumulative loss that exceeds the Company’s investment will be suspended and recognized against earnings, if any, from the Company’s investment in the Peak Gold JV in future periods.
+The suspended losses for the period from inception to
+December 31, 2022  are approximately $ 14.5  million.
+6.
+Prepaid Expenses and other assets
+The Company has prepaid expenses and other assets of $ 816,596  and $ 453,353  as of
+December 31, 2022  and
+June  30,
+2022,
+respectively. Prepaid expenses primarily relate to prepaid insurance and prepaid annual claim rentals.
+7.  Net Loss Per Share
+A reconciliation of the components of basic and diluted net loss per share of Common Stock is presented below:
+Three Months Ended December 31,
+2022
+2021
+Net Loss
+Weighted Average Shares
+Loss
+Per  Share
+Net Loss
+Weighted Average Shares
+Loss Per
+Share
+Basic Net Loss per Share:
+Net loss attributable to common stock
+$ ( 14,308,531
+)
+6,807,317     $ ( 2.10 )   $ ( 4,875,039 )     6,751,581     $ ( 0.72
+)
+Diluted Net Loss per Share:
+Net loss attributable to common stock
+$ ( 14,308,531 )     6,807,317     $ ( 2.10
+)
+$ ( 4,875,039 )     6,751,581     $ ( 0.72
+)
+Six Months Ended December 31,
+2022
+2021
+Net Loss
+Weighted Average Shares
+Loss
+Per
+Share
+Net Loss
+Weighted Average Shares
+Loss Per
+Share
+Basic Net Loss per Share:
+Net loss attributable to common stock
+$ ( 21,400,301
+)
+6,787,864
+$ ( 3.15
+)
+$
+( 9,447,252
+)
+6,716,076
+$
+( 1.41
+)
+Diluted Net Loss per Share:
+Net loss attributable to common stock
+$ ( 21,400,301
+)
+6,787,864
+$
+( 3.15
+)
+$ ( 9,447,252
+)
+6,716,076
+$
+( 1.41
+)
+Options and warrants to purchase
+383,500
+shares of Common Stock of the Company were outstanding as of
+December 31, 2022,
+and options to purchase
+100,000
+shares of Common Stock were outstanding as of
+December 31, 2021.   These options and warrants were
+not
+included in the computation of diluted earnings per share for the
+three
+and
+six
+month periods ended
+December 31, 2022
+and
+2021  due to being anti-dilutive.  There were
+no
+warrants outstanding as of
+December 31, 2021.
+10
+8.
+Stockholders ’ Equity
+The Company has  45,000,000  shares of Common Stock authorized, and  15,000,000  authorized shares of preferred stock. As of
+December 31, 2022,  7,101,395
+shares of Common Stock were outstanding, including  348,210
+shares of unvested restricted stock.  As of
+December 31, 2022,  options and warrants to purchase  383,500  shares of Common Stock of the Company were outstanding.   No  shares of preferred stock have been issued. The remaining restricted stock outstanding will vest between
+January 2023
+and
+January 2025.
+December 2022
+Private Placement
+On
+December 23, 2022
+the Company completed the issuance and sale of an aggregate of
+283,500
+shares (the
+“December  2022
+Shares”) of the Company’s Common Stock, for $ 20.00
+per share, and warrants (the
+“December  2022
+Warrants”) entitling each purchaser to purchase shares of Common Stock for $ 25.00
+per share (the
+“December  2022
+Warrant Shares” and together with the
+December  2022
+Shares and the
+December  2022
+Warrants, the
+“December  2022
+Securities”), in a private placement (the
+“December  2022
+Private Placement”) to certain accredited investors (the
+“December  2022
+Investors”) pursuant to Subscription Agreements (the
+“December  2022
+Subscription Agreements”), dated as of
+December 23, 2022
+between the Company and each of the
+December  2022
+Investors. The
+December  2022
+Subscription Agreements include customary representations, warranties, and covenants by the
+December  2022
+Investors and the Company.
+Pursuant to the
+December  2022
+Warrants between the Company and each of the
+December  2022
+Investors, the
+December  2022
+Warrants will be exercisable, in full or in part, at any time until the
+second
+anniversary of their issuance, at an exercise price of $ 25.00
+per share of Common Stock. The
+December  2022
+Warrants will also provide for certain adjustments that
+may
+be made to the exercise price and the number of shares of Common Stock issuable upon exercise due to future corporate events or otherwise.  The
+December 2022
+Warrants were classified within equity and the proceeds from the capital raise were allocated to the  warrants based on their relative fair value.   The fair value of each of the
+December  2022
+Warrants was estimated as of the date of grant using the Black-Scholes option-pricing model (Level
+2  of the fair value hierarchy) with the following weighted average assumptions used: (i) risk-free interest rate of
+4.66%;
+(ii) expected life of
+1
+year; (iii) expected volatility of
+37.73%;
+and (iv) expected dividend yield of
+0 %.
+Petrie Partners Securities, LLC (“Petrie”) assisted the Company with the
+December  2022
+Private Placement and will be entitled to receive compensation equal to
+3.25
+percent for the
+December  2022
+Investors solicited by Petrie.  Net proceeds from the
+December  2022
+Private Placement totaled approximately $ 5.6
+million. The Company will use these proceeds to fund its exploration and development program and for general corporate purposes. The
+December  2022
+Securities sold were
+not
+registered under the Securities Act of
+1933,
+as amended (the “Securities Act”), but the
+December  2022
+Shares and the
+December  2022
+Warrant Shares are subject to a Registration Rights Agreement allowing the shares to be registered by the holders at a future date.
+Rights Plan   Termination and Rights Agreement
+On
+September 23, 2020,  the Company adopted a limited duration stockholder rights agreement (the “Rights Agreement”) to replace the Company’s prior stockholder rights plan, which was terminated upon adoption of the Rights Agreement.
+Pursuant to the Rights Agreement, the Board declared a dividend of  one  preferred stock purchase right (a “Right”) for each share of the Company’s Common Stock held of record as of
+October 5, 2020.   The Rights will trade with the Company’s Common Stock and  no  separate Rights certificates will be issued, unless and until the Rights become exercisable. In general, the Rights will become exercisable only if a person or group acquires beneficial ownership of  18.0 % (or  20.0 % for certain passive investors) or more of the Company’s outstanding Common Stock or announces a tender or exchange offer that would result in beneficial ownership of  18.0%  (or  20.0%  for certain passive investors) or more of Common Stock. Each Right will entitle the holder to buy  one one -thousandth ( 1/1000 ) of a share of a series of junior preferred stock at an exercise price of $ 100.00  per Right, subject to anti-dilution adjustments.
+The Rights Agreement had an initial term of  one  year, expiring on
+September 22, 2021.   On
+September 21, 2021,  the Board of Directors of the Company approved an amendment to the Rights Agreement, extending the term of the Rights Agreement by an additional year to
+September 22, 2022.
+On
+August 31, 2022,
+the Board of Directors approved an amendment the Rights Agreement, extending the term of the Rights Agreement by an additional year to
+September 22, 2023.
+11
+9.
+Sales Transaction with KG Mining
+On
+September 29, 2020,
+the Company, CORE Alaska, LLC and KG Mining, entered into the CORE Purchase Agreement pursuant to which CORE Alaska sold a
+30.0 % membership interest in the Peak Gold JV, to KG Mining. The CORE Transactions closed on
+September 30, 2020.   In consideration for the CORE JV Interest, the Company received $ 32.4
+million in cash and
+809,744
+shares of Common Stock. The
+809,744
+shares of Common Stock were acquired by KG Mining from Royal Gold, as part of the Royal Gold Transactions and were subsequently canceled by the Company. Of the $ 32.4
+million cash consideration, $ 1.2
+million constituted a reimbursement prepayment to the Company relating to its proportionate share of silver royalty payments that the Peak Gold JV
+may
+be obligated to pay to Royal Gold, with the understanding that KG Mining will bear the entire economic impact of those royalty payments due from the Peak Gold JV.
+Concurrently with the Purchase Agreement, KG Mining, in a separate transaction, acquired from Royal Gold (i)
+100 % of the equity of Royal Alaska, LLC , which held a
+40.0 % membership interest in the Peak Gold JV and (ii)
+809,744
+shares of Common Stock held by Royal Gold.  After the consummation of the Kinross Transactions, CORE Alaska retains a
+30.0 % membership interest in the Peak Gold JV. KG Mining now holds a
+70.0 % membership interest in the Peak Gold JV and serves as the manager and operator of the Peak Gold JV. KG Mining and CORE Alaska entered into the Amended and Restated Limited Liability Company Agreement of Peak Gold JV (“A&R JV LLCA”) on
+October 1, 2020
+to address the new ownership arrangements and to incorporate additional terms that will permit the Peak Gold JV to further develop and produce from its properties.
+The Company recorded the $ 32.4
+million cash proceeds and the
+809,744
+shares of Common Stock, received from the CORE Transactions, at fair value and recognized a gain on sale of $ 39.6
+million.   The Company valued the Common Stock consideration from the CORE Transactions consistent with the accounting guidance for non-monetary exchanges.  The stock consideration was valued based on the implied fair value of the CORE Transactions in total less the cash proceeds.  The total value of the CORE Transactions was equated to the value of the Company's
+30.0 % ownership in the Peak Gold JV, post the
+30.0%
+membership interest transferred to KG Mining.  The Common Stock consideration received in the CORE Transactions is classified within Level
+3
+of the fair value hierarchy.  As of the date of the CORE Transactions, the Company's investment in the Peak Gold JV had a
+zero
+balance, therefore the $ 39.6
+million gain approximates the full fair value of the CORE JV Interest surrendered in the CORE Transactions.
+The Company recorded a non-current liability totaling $ 1.2
+million associated with the cash received for the reimbursement prepayment to the Company of its proportionate share of certain silver royalty payments that the Peak Gold JV
+may
+be obligated to pay Royal Gold.  The liability arises, because pursuant to Article IV of the A&R JV LLCA, if the Peak Gold JV terminates, or the Company’s membership interest falls below
+5%
+prior to when the prepaid royalty is paid out, the $ 1.2
+million (less any portion already paid out) is refundable to KG Mining.
+Prior to the CORE Transactions, the Peak Gold JV was a variable interest entity as defined by FASB ASU
+No.
+2015 - 02,
+Consolidation (Topic
+810 ): Amendments to the Consolidation Analysis. The Company was  not
+the primary beneficiary since it did
+not
+have the power to direct the activities of the Peak Gold JV. The Company’s ownership interest in the Peak Gold JV has therefore historically applied the equity method of accounting for its investment.   After the Kinross Transactions, the Company retained a
+30.0 % membership interest in the Peak Gold JV.  The Company continues to have significant influence in the Peak Gold JV pursuant to its right to designate  one
+of the
+three
+seats on the Management Committee.  Therefore, the Company will continue to account for its investment in the Peak Gold JV under the equity method.
+12
+10.   Acquisition of Lucky Shot Property
+On
+August 24, 2021
+the Company completed the purchase of all outstanding membership interests (the “Interests”) of AGT from CRH Funding II PTE. LTD, a Singapore private limited corporation (“CRH”) (the “Lucky Shot Transaction”). AGT holds rights to the Lucky Shot Property.  The Company agreed to purchase the Interests for a total purchase price of up to $ 30
+million. The purchase price included an initial payment at closing of $ 5
+million in cash and a promissory note in the original principal amount of $ 6.25
+million, payable by the Company to CRH (the “Promissory Note”), with a maturity date of
+February 28, 2022 ( the “Maturity Date”).  The Promissory Note was secured by the Interests.  The Company had the option to pay the Promissory Note through the issuance to CRH of shares of the Company’s common stock if the Company completed an offering and obtained a listing of its shares on the NYSE American prior to the Maturity Date.  In
+November 2021,
+the Company’s common stock commenced listing on the NYSE American. Since the Company did
+not
+complete the required offering, it paid the Promissory Note in cash on
+February 25, 2022.
+The Company will be obligated to pay CRH additional consideration if production on the Lucky Shot Property meets  two  separate milestone payment thresholds. If the  first  threshold of ( 1 ) an aggregate “mineral resource” equal to  500,000  ounces of gold or ( 2 ) production and receipt by the Company of an aggregate of  30,000  ounces of gold (including any silver based on a  1:65  gold:silver ratio) is met, then the Company will pay CRH $ 5  million in cash and $ 3.75  million in newly issued shares of CORE common stock. If the  second  threshold of ( 1 ) an aggregate “mineral resource” equal to  1,000,000  ounces of gold or ( 2 ) production and receipt by the Company of an aggregate of  60,000  ounces of gold (including any silver based on a  1:65  gold:silver ratio) is met, then the Company will pay CRH $ 5  million in cash and $ 5  million in newly issued shares of CORE common stock. If payable, the additional share consideration will be issued based on the  30 -day volume weighted average price for each of the  thirty  trading days immediately prior to the satisfaction of the relevant production goal.  If the milestones are
+not
+met,
+no
+additional payments would be made to CRH.
+The Company also agreed to make $ 10,000,000  in expenditures during the  36 -month period following closing toward the existence, location, quantity, quality or commercial value of mineral deposits in, under and upon the Lucky Shot Property.   As of
+December 31, 2022,
+the Company had exceeded the required $ 10,000,000
+in expenditures.
+The Company evaluated this acquisition under ASC  805,  Business Combinations.  ASC  805  requires that an acquirer determine whether it has acquired a business. If the criteria of ASC  805  are met, a transaction would be accounted for as a business combination and the purchase price is allocated to the respective net assets assumed based on their fair values and a determination is made whether any goodwill results from the transaction.  In evaluating the criteria outlined by this standard, the Company concluded that the acquired set of assets did  not  meet the US GAAP definition of a business (the assembled workforce does  not  currently perform a substantive process).  Therefore, the Company accounted for the purchase as an asset acquisition, and allocated the total consideration transferred on the date of the acquisition, approximately $ 13.5  million, to the assets acquired on a relative fair value basis.  The total consideration transferred was comprised of $ 5.1  million in cash, a $ 6.25  million promissory note, $ 0.3  million in direct transactions costs, plus the fair value of the contingent liability (described above), net of cash received.  The Company accounted for the share portion of the contingent liability in accordance with ASC  480  and measured at fair value at inception, approximately $ 1.85  million. The fair value of this liability was calculated using management’s projected timing of mining activities and mineral resources being defined and an estimate of the probability of achieving those targets.  The share portion of the contingent consideration is classified within Level  3  of the fair value hierarchy.  Changes in value in subsequent periods, based on management’s ongoing assessment of probability, will be recorded in earnings. There was
+no
+change in probability, and thus
+no
+change in value of the liability during the current period.  The Company’s accounting policy is to recognize the contingent consideration associated with cash contingent payments related to the asset acquisitions when the contingency is resolved. Any amounts issued in excess of the contingent consideration initially recognized as a liability would be an additional cost of the asset acquisition allocated to increase the eligible assets on a relative fair value basis.  Amounts issued that are less than the contingent consideration initially recognized as a liability would be a reduction of the cost of the asset(s) acquired and would reduce the eligible assets on a relative value basis.
+13
+11.   Property & Equipment
+The table below sets forth the book value by type of fixed asset as well as the estimated useful life:
+Asset Type   Estimated Useful Life
+December 31, 2022
+June 30, 2022
+Mineral properties   N/A - Units of Production   $ 11,700,726     $ 11,700,007
+Land
+Not Depreciated
+87,737
+87,737
+Buildings and improvements
+20-39 years
+1,455,546
+1,455,546
+Machinery and equipment
+3 - 10 years
+287,635
+287,635
+Vehicles
+5 years
+135,862
+135,862
+Computer and office equipment   5 years
+16,239
+16,239
+Furniture & fixtures   5 years     2,270       2,270
+Less: Accumulated depreciation and amortization         ( 124,168 )     ( 55,740 )
+Less: Accumulated impairment
+( 115,025
+)
+( 115,025
+)
+Property & Equipment, net
+$
+13,446,822
+$
+13,514,531
+12 .
+Related Party Transactions
+On
+January 1, 2022,  our non-executive directors realized a vesting of  160,000  restricted shares of Common Stock, which resulted in federal and state income tax obligations.  Consistent with the Company’s treatment of employees who experience similar tax obligations in connection with their vesting of restricted shares, the Company purchased a total of  60,100  shares of Common Stock from the non-executive directors on
+January 5, 2022,  at a price of $ 25.60  per share (the applicable closing price per share of Common Stock for vesting on
+January 1, 2022),  resulting in aggregate payments of $ 1.5  million that will be used by the non-executive directors to pay their tax obligations on the vested shares.
+14
+13.
+Stock-Based Compensation
+On
+September   15,
+2010,
+the Board adopted the Contango ORE, Inc. Equity Compensation Plan (the
+“2010
+Plan”).
+On
+November 10, 2022,
+the stockholders of the Company approved and adopted the Second Amendment (the “Second Amendment”) to the Contango ORE, Inc. Amended and Restated
+2010
+Equity Compensation Plan (as amended, the “Amended Equity Plan”) which increased the number of shares of Common Stock that the Company may issue under the Amended Equity Plan by
+600,000
+shares.   Under the Amended Equity Plan, the Board
+may
+issue up to
+2,600,000
+shares of Common Stock and options to officers, directors, employees or consultants of the Company. Awards made under the Amended Equity Plan are subject to such restrictions, terms and conditions, including forfeitures, if any, as
+may
+be determined by the Board.
+As of  December 31, 2022,
+there were
+348,210
+shares of unvested restricted Common Stock outstanding and
+100,000  options to purchase shares of Common Stock outstanding issued under the Equity Plan. Stock-based compensation expense for the
+three  and
+six
+months ended  December 31, 2022   was $ 810,547  and $ 1,598,421 , respectively.    Stock-based compensation expense for the
+three  and
+six
+months ended  December 31, 2021   was $ 1,256,309
+and $ 2,278,160 , respectively.  The amount of compensation expense recognized does
+not
+reflect cash compensation actually received by the individuals during the current period, but rather represents the amount of expense recognized by the Company in accordance with US GAAP.  All restricted stock grants are expensed over the applicable vesting period based on the fair value at the date the stock is granted.  The grant date fair value
+may  differ from the fair value on the date the individual’s restricted stock actually vests.
+Restricted Stock.
+On
+December 1, 2020,  the Company granted an aggregate  20,000
+shares of Common Stock to
+two  new employees.  The restricted stock granted to such employees vests in equal installments over
+three
+years on the anniversary of the grant date.
+As of  December 31, 2022,
+6,668
+shares of restricted stock granted in
+December 2020  remained unvested.
+On
+August 16, 2021,
+the Company granted
+10,000
+shares of Common Stock to a new employee.  The restricted stock granted to the employee vests in equal installments over
+three
+years on the anniversary of the grant date.  As of
+December 31, 2022,
+6,667
+shares of restricted stock granted in
+August 2021
+remain unvested.
+On
+November 11, 2021,
+the Company granted  123,500
+restricted shares of Common Stock to its executives and non-executive directors. The restricted stock granted to the executives and non-executive directors vests between
+January 2023
+and
+January 2024.     As of
+December 31, 2022,
+all
+113,500  shares of such restricted stock granted remained unvested.
+On
+February 2, 2022
+the Company also granted to
+four
+employees a total of  12,000
+shares of restricted stock.  These restricted shares will vest between
+January 2023
+and
+January 2025.   As of
+December 31, 2022,
+all
+12,000  shares of such restricted stock granted remained unvested.
+In
+December 2022,
+the Company cancelled
+167,500
+shares of unvested restricted stock held by executives and the non-executive directors that were set to vest in
+January 2023.
+The Company also granted
+209,375
+restricted shares of common stock to its executives and non-executive directors. The restricted shares cancellation and the subsequent new grants were accounted for as modification to the original restricted stock grants.  The incremental fair value will be recognized over the vesting period.  The impact of the modification to the current quarter was immaterial.  All of the restricted stock granted in
+December 2022
+vest in
+January 2025.  As of
+December 31, 2022,
+there were
+209,375
+shares of such restricted stock that remained unvested.
+As of
+December 31, 2022 , the total compensation cost related to unvested awards
+not
+yet recognized was $ 2,487,376 .  The remaining costs will be recognized over the remaining vesting period of the awards.
+15
+Stock options.   There were
+no
+stock option exercises during the
+three
+and
+six
+months ended
+December 31, 2022 .  There were also no stock option exercises during the three and six months ended December 31, 2021.    The Company applies the fair value method to account for stock option expense. Under this method, cash flows from the exercise of stock options resulting from tax benefits in excess of recognized cumulative compensation cost (excess
+tax benefits) are classified as financing cash flows.
+All employee stock option grants are expensed over the stock option’s vesting period based on the fair value at the date the options are granted. The fair value of each option is estimated as of the date of grant using the Black-Scholes options-pricing model (Level
+2  of the fair value hierarchy).   As of
+December 31, 2022,
+the stock options had a weighted-average remaining life of
+2.02
+years. All of the compensation cost related to these stock options had been recognized as of
+December 31, 2022.
+A summary of the status of stock options granted under the Equity Plan as of
+December 31, 2022
+and changes during the
+six  months then ended, is presented in the table below:
+Six Months Ended
+December 31, 2022
+Shares Under Options     Weighted Average Exercise Price
+Outstanding as of June 30, 2022   100,000   $ 14.50
+Granted    —
+Exercised   —
+Forfeited   —
+Outstanding at the end of the period   100,000   $ 14.50
+Aggregate intrinsic value $ 1,052,000
+Exercisable, end of the period   100,000
+Aggregate intrinsic value $ 1,052,000
+Available for grant, end of period   558,552
+Weighted average fair value per share of options granted during the period  $ —
+14.
+Commitments and Contingencies
+Tetlin Lease . The Tetlin Lease had an initial ten-year term beginning
+July 2008
+which was extended for an additional
+ten
+years to
+July 15, 2028,
+and for so long thereafter as the Peak Gold JV initiates and continues to conduct mining operations on the Tetlin Lease.
+Pursuant to the terms of the Tetlin Lease, the Peak Gold JV was required to spend $ 350,000
+per year until
+July   15,
+2018
+in exploration costs. The Company’s exploration expenditures through the
+2011
+exploration program have satisfied this requirement because exploration funds spent in any year in excess of
+$350,000
+are credited toward future years’ exploration cost requirements. Additionally, should the Peak Gold JV derive revenues from the properties covered under the Tetlin Lease, the Peak Gold JV is required to pay the Tetlin Tribal Council a production royalty ranging from
+3 .0%
+to
+5.0 %, depending on the type of metal produced and the year of production. The Company previously paid the Tetlin Tribal Council $ 225,000
+in exchange for reducing the production royalty payable to them by
+0.75 %. These payments lowered the production royalty to a range of
+2 .25%
+to
+4.25 %. The Tetlin Tribal Council had the option to increase their production royalty by (i)
+0.25 % by payment to the Peak Gold JV of $ 150,000 , (ii)
+0.50 % by payment to the Peak Gold JV of $ 300,000 , or (iii)
+0.75 % by payment to the Peak Gold JV of
+$450,000.  The Tetlin Tribal Council exercised the option
+to increase its production royalty by
+0.75%
+by payment to the Peak Gold JV of $ 450,000
+on
+December 30, 2020.
+In lieu of a cash payment, the
+$450,000
+will be credited against future production royalty and advance minimum royalty payments due by the Peak Gold JV to the Tetlin Tribal Council under the lease once production begins.  The exercise of this option by the tribe did
+not
+have an accounting impact to the Company.  Until such time as production royalties begin, the Peak Gold JV must pay the Tetlin Tribal Council an advance minimum royalty of $ 50,000
+per year. On
+July  15,
+2012,
+the advance minimum royalty increased to $ 75,000
+per year, and subsequent years are escalated by an inflation adjustment.
+Gold Exploration.
+The Company’s Triple Z, Eagle/Hona, Shamrock, Willow, and Lucky Shot claims are all located on State of Alaska lands.  The Company released its Bush and West Fork claims in
+November 2020.
+The annual claim rentals on these projects vary based on the age of the claims, and are due and payable in full by
+November  30
+of each year. Annual claims rentals for the
+2022 - 2023  assessment year totaled
+$ 355,805 . The Company paid the current year claim rentals in November
+2022.   The associated rental expense is amortized over the rental claim period, September
+1
+- August
+31  of each
+year.  As of
+December 31, 2022,
+the Peak Gold JV had met the annual labor requirements for the State of Alaska acreage for the next
+four
+years, which is the maximum period allowable by Alaska law.  The Company obtained
+100%
+ownership of these claims in conjunction with the Separation Agreement.
+Lucky Shot Acquisition .  With regard to the Lucky Shot Acquisition, in addition to the cash at closing and the Promissory Note, the Company will be obligated to pay CRH additional consideration if production on the Lucky Shot Property meets
+two
+separate milestone payment thresholds.  If the
+first
+threshold of ( 1 ) an aggregate “mineral resource” equal to
+500,000
+ounces of gold or ( 2 ) production and receipt by the Company of an aggregate of
+30,000
+ounces of gold (including any silver based on a
+1:65
+gold:silver ratio) is met, then the Company will pay CRH $ 5
+million in cash and $ 3.75
+million in newly issued shares of CORE common stock.  If the
+second
+threshold of ( 1 ) an aggregate “mineral resource” equal to
+1,000,000
+ounces of gold or ( 2 ) production and receipt by the Company of an aggregate of
+60,000
+ounces of gold (including any silver based on a
+1:65
+gold:silver ratio) is met, then the Company will pay CRH $ 5
+million in cash and $ 5
+million in newly issued shares of CORE common stock. If payable, the additional share consideration will be issued based on the
+30 -day volume weighted average price for each of the
+thirty
+trading days immediately prior to the satisfaction of the relevant production goal.
+Royal Gold Royalties . Initially, the Peak Gold JV was obligated to pay Royal Gold (i) an overriding royalty of
+3.0 % should the Peak Gold JV derive revenues from the Tetlin Lease, the Additional Properties and certain other properties and (ii) an overriding royalty of
+2.0 % should the Peak Gold JV derive revenues from certain other properties.  In conjunction with the Separation Agreement (described in Note
+9 ), the Peak Gold JV  granted a new
+28.0 % net smelter returns silver royalty on all silver produced from a defined area within the Tetlin Lease and transferred an additional
+1.0 % net smelter returns royalty on the state mining claims to Royal Gold.  Therefore, Royal Gold currently holds a
+3.0 % overriding royalty on the Tetlin Lease and the state mining claims that were transferred to the Company in conjunction with the Separation Agreement.
+16
+Retention Agreements.  In
+February 2019,
+the Company entered into Retention Agreements with its then Chief Executive Officer, Brad Juneau, its Chief Financial Officer, Leah Gaines, and
+one
+other employee providing for payments in an aggregate amount of $ 1,500,000
+upon the occurrence of certain conditions. The Retention Agreements are triggered upon a change of control (as defined in the applicable Retention Agreement), provided that the recipient is employed by the Company when the change of control occurs. On
+February 6, 2020,
+the Company entered into amendments to the Retention Agreements to extend the term of the change of control period from
+August 6, 2020
+until
+August 6, 2025.
+Mr. Juneau and Ms. Gaines will receive a payment of $ 1,000,000
+and $ 250,000 , respectively, upon a change of control that takes place prior to
+August 6, 2025.
+On
+June 10, 2020,
+the Company entered into a Retention Payment Agreement with Rick Van Nieuwenhuyse, the Company’s President and Chief Executive Officer, providing for a payment in an amount of $ 350,000
+upon the occurrence of certain conditions. The Retention Payment Agreement is triggered upon a change of control (as defined in the Retention Payment Agreement) which occurs on or prior to
+August 6, 2025,
+provided that Mr. Van Nieuwenhuyse is employed by the Company when the change of control occurs.
+Short Term Incentive Plan . The Compensation Committee of the Board of Directors of the Company (the “Compensation Committee”) adopted a Short-Term Incentive Plan (the “STIP”) effective as of
+June 10, 2020,
+for the benefit of Mr. Van Nieuwenhuyse. Pursuant to the terms of the STIP, the Compensation Committee will establish performance goals each year and evaluate the extent to which, if any, Mr. Van Nieuwenhuyse meets such goals. The STIP provides for a payout equal to
+25.0 % of Mr. Van Nieuwenhuyse’s annual base salary if the minimum performance target established by the Compensation Committee is met,
+100.0 % of his annual base salary if all performance goals are met, and up to
+200.0 % of his annual base salary if the maximum performance target is met. Amounts due under the STIP will be payable
+50.0 % in cash and
+50.0 % in the form of restricted stock granted under the Equity Plan, vesting in
+two
+equal annual installments on the
+first
+and
+second
+anniversaries of the grant date, and subject to the terms of the Equity Plan.  In addition, in the event of a Change of Control (as defined in the Equity Plan) during the term of the STIP, the Compensation Committee, in its sole and absolute discretion,
+may
+make a payment to Mr. Van Nieuwenhuyse in an amount up to
+200.0 % of his annual base salary, payable in cash, shares of Common Stock of the Company under the Equity Plan or a combination of both, as determined by the Compensation Committee,
+not
+later than
+30
+days following such Change of Control.  In conjunction with STIP plan, in
+December 2020,
+Mr. Van Nieuwenhuyse received a $ 350,000
+cash bonus and
+23,333
+restricted shares of Common Stock, which vested on
+January 1, 2022.   In conjunction with the STIP plan, in
+January 2022,  Mr. Van Nieuwenhuyse received a $ 300,000  cash bonus and  15,000  restricted shares of Common Stock, which will vest on
+January 15, 2023.    These
+15,000
+restricted shares were cancelled in
+December 2022,
+and
+18,750
+shares were issued to Mr. Van Nieuwenhuyse under the STIP plan which will vest in
+January 2025.
+Roc Global   Financing Fees.
+The Company has engaged ROC Global, LLC (“ROC Global”) as a financial advisor and investment banker.  The current term of the engagement is through
+March 31, 2023.
+If the Company completes or enters into a definitive agreement to complete a debt financing with a party introduced to the Company by ROC Global during the term of the agreement or within the
+eighteen
+months following the term of the agreement, the Company will pay ROC Global
+3.25 % of the gross proceeds received by the Company, before any expenses and fees of the loan transaction and/or the securities of the Company being offered and sold in such a debt financing.
+15.   Income Taxes
+The Company recognized a full valuation allowance on its deferred tax asset as of
+December 31, 2022
+and
+June 30, 2022  and has recognized
+zero  income tax expense for the
+three
+and
+six
+months ended
+December 31, 2022.
+The Company recognized
+zero
+income tax expense for the
+three
+and
+six
+months ended
+December 31, 2021.  The effective tax rate was
+0 % for the
+three
+and
+six
+months ending
+December 31, 2022
+and
+2021.   The Company has historically had a full valuation allowance, which resulted in
+no
+net deferred tax asset or liability appearing on its statement of financial position. The Company recorded this valuation allowance after an evaluation of all available evidence (including the Company's history of net operating losses) that led to a conclusion that, based upon the more-likely-than- not
+standard of the accounting literature, these deferred tax assets were unrecoverable. The Company is forecasting a book and taxable net loss for its fiscal year end,
+June 30, 2023.   The Company reviews its tax positions quarterly for tax uncertainties. The Company did
+not
+have any uncertain tax positions as of  December 31, 2022
+or
+June 30, 2022.
+On
+March 27, 2020,
+the Coronavirus Aid, Relief and Economic Security Act (the “CARES” Act) was enacted which is aimed at providing emergency assistance due to the impact of the COVID- 19
+pandemic. The CARES Act includes provisions related to refundable payroll tax credits, deferment of employer side social security payments, net operating loss carryback periods, alternative minimum tax credit refunds, modifications to the net interest deduction limitations and technical corrections to tax deprecation methods for qualified improvement property. The Company does
+not
+expect to be materially impacted by the CARES Act and does
+not
+anticipate the CARES Act to have a material effect on its ability to realize deferred tax assets with the exception of the relief from the
+80%
+limitation on some of its net operating losses that were fully utilized for the tax year ended
+June 30, 2021.
+16.
+Debt
+On
+April 26, 2022 ,  the Company closed on a $ 20,000,000  unsecured convertible debenture to Queen’s Road Capital Investment, Ltd. (“QRC”).  The Company will use the proceeds from the sale of the debenture to fund commitments to the Peak Gold JV, the exploration and development at its Lucky Shot properties, and for general corporate purposes.
+The debenture bears interest at  8 % per annum, payable quarterly, with  6 % paid in cash and  2 % paid in shares of Common Stock issued at the market price at the time of payment based on a  20 -day volumetric weighted average price (“VWAP”). The debenture is unsecured, with a maturity of  four  year s
+after issuance. The holder
+may  convert the debenture into Common Stock at any time at a conversion price of $ 30.50  per share (equivalent to
+655,738
+shares), subject to adjustment. The Company
+may  redeem the debenture after the  third  anniversary of issuance at  105 % of par, provided that the market price (based on a  20 -day VWAP) of the Company's Common Stock is at least  130 % of the conversion price. The Company
+may  also redeem the debenture, and the holder will have rights to put the debenture to the Company, upon a change of control of the Company, with the redemption or put price being  130 % of par for the  first   three  years following issuance and  115 % of par thereafter and accrued interest at the time of redemption or put being paid in the same form as other interest payments.  Upon the completion of a secured financing the holder has the right to require the Company to redeem the debenture.  Additionally, upon announcement of a change of control, the Company has the right to require the holder to convert some or the whole principal amount of the debenture into shares at the conversion price, subject to certain conditions.
+In connection with the issuance of the debenture, the Company agreed to pay an establishment fee of  3 % of the debenture face amount. In accordance with the investment agreement, QRC elected to receive the establishment fee in shares of Common Stock valued at $ 24.82  per share, for a total of  24,174  shares. The establishment fee shares were issued to QRC pursuant to an exemption from registration under Regulation S.  QRC entered into an investor rights agreement with the Company in connection with the issuance of the debenture. The investor rights agreement contains provisions that require QRC and its affiliates, while they own  5 % or more of our outstanding Common Stock, to standstill,  not  to participate in any unsolicited or hostile takeover of the Company,  not  to tender its shares of Common Stock unless the Company’s board recommends such tender, to vote its shares of Common Stock in the manner recommended by the Company’s board to its stockholders, and  not  to transfer its shares of Common Stock representing more than  0.5 % of outstanding shares without notifying the Company in advance, whereupon the Company will have a right to purchase those shares.
+The debt carried an original issue discount of $ 0.6
+million and debt issuance costs of approximately $ 0.2
+million.  As of
+December 31, 2022
+and
+June 30, 2022,
+the unamortized discount and issuance costs were $ 0.5  million and $ 0.1  million, respectively.  The carrying amount of the debt at
+December 31, 2022
+and
+June 30, 2022,
+net of the unamortized discount and issuance costs, was $ 19.4  million and $ 19.2
+million, respectively.  The fair value of the note (Level
+2 ) as of
+December 31, 2022
+and
+June 30, 2022
+was $ 20.0
+million.  The company recognized interest expense totaling $ 0.4  million related to this debt for the quarter ended
+December 31, 2022 ( inclusive of approximately $ 400,000
+of contractual interest, and approximately $ 47,000
+related to the amortization of the discount and issuance fees).  The company recognized interest expense totaling $ 0.9  million related to this debt for the
+six
+months ended
+December 31, 2022 ( inclusive of approximately $ 800,000
+of contractual interest, and approximately $ 96,000
+related to the amortization of the discount and issuance fees).  The interest paid in stock during the
+three
+and
+six
+months ended
+December 31, 2022
+was issued from shares held in the Company's Treasury account.  The effective interest rate of the note is the same as the stated interest rate,
+8.0 %.  The effective interest rate for the amortization of the discount and issuance costs as of
+June 30, 2022
+was
+1.0 %.  The Company reviewed the provisions of the debt agreement to determine if the agreement included any embedded features.  The Company concluded that the change of control provisions within the debt agreement met the characteristics of a derivative and required bifurcation and separate accounting.  The fair value of the identified derivative was determined to be de minimus at
+April 26, 2022,
+June 30, 2022,
+and
+December 31, 2022
+as the probability of a change of control was negligible as of those dates.   For each subsequent reporting period, the Company will evaluate each potential derivative feature to conclude whether or
+not
+they qualify for derivative accounting. Any derivatives identified will be recorded at the applicable fair value as of the end of each reporting period.
+17
+17.   Subsequent Events
+On
+January 19, 2023,
+the Company completed the issuance and sale of an aggregate of
+117,500
+shares (the
+“January  2023
+Shares”) of the Company’s Common Stock, for $ 20.00
+per share, and warrants (the
+“January  2023
+Warrants”) entitling each purchaser to purchase shares of Common Stock for $ 25.00
+per share (the
+“January  2023
+Warrant Shares” and together with the
+January  2023
+Common Stock and the
+January  2023
+Warrants, the
+“January  2023
+Securities”), in a private placement (the
+“January  2023
+Private Placement”) to certain accredited investors (the
+“January  2023
+Investors”) pursuant to Subscription Agreements (the
+“January  2023
+Subscription Agreements”), dated as of
+January 19, 2023
+between the Company and each of the
+January  2023
+Investors. The
+January  2023
+Subscription Agreements include customary representations, warranties, and covenants by the
+January  2023
+Investors and the Company.
+Pursuant to the
+January  2023
+Warrants between the Company and each of the
+January  2023
+Investors, the
+January  2023
+Warrants will be exercisable, in full or in part, at any time until the
+second
+anniversary of their issuance, at an exercise price of $ 25.00
+per share of Common Stock. The
+January  2023
+Warrants will also provide for certain adjustments that
+may
+be made to the exercise price and the number of shares of Common Stock issuable upon exercise due to future corporate events or actions.
+Petrie assisted the Company with the
+January  2023
+Private Placement and will be entitled to receive compensation equal to
+3.25
+percent for the
+January  2023
+Investors solicited by Petrie.  Net proceeds from the
+January  2023
+Private Placement totaled approximately $ 2.3
+million. The Company will use these proceeds to fund its exploration and development program and for general corporate purposes. The
+January  2023
+Securities sold were
+not
+registered under the Securities Act, but the
+January  2023
+Shares and the
+January  2023
+Warrant Shares are subject to a Registration Rights Agreement allowing the shares to be registered by the holders at a future date.
+18
+Available Information
+General information about the Company can be found on the Company’s website at www.contangoore.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, as well as any amendments and exhibits to those reports, are available free of charge through our website as soon as reasonably practicable after the Company files or furnishes them to the SEC.
+Item  2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and the accompanying notes and other information included elsewhere in this Form 10-Q and our Form 10-K for the fiscal year ended June  30, 2022, previously filed with the SEC.
+19
+Cautionary Statement about Forward-Looking Statements
+Some of the statements made in this report may contain “forward-looking statements” within the meaning of Section  27A of the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). The words and phrases “should be”, “will be”, “believe”, “expect”, “anticipate”, “estimate”, “forecast”, “goal” and similar expressions identify forward-looking statements and express our expectations about future events. Any statement that is not historical fact is a forward -looking statement.  These include such matters as:
+•
+The Company’s financial position;
+•
+Business strategy, including outsourcing;
+•
+Meeting Company forecasts and budgets;
+•
+Anticipated capital expenditures and availability of future financings;
+•
+Prices of gold and associated minerals;
+•
+Timing and amount of future discoveries (if any) and production of natural resources on the Contango Properties and the Peak Gold JV Property;
+•
+Operating costs and other expenses;
+•
+Cash flow and anticipated liquidity;
+•
+The Company’s ability to fund its business with current cash reserves based on currently planned activities;
+•
+Prospect development;
+•
+Operating and legal risks; and
+•
+New governmental laws and regulations.
+Although the Company believes the expectations reflected in such forward-looking statements are reasonable, such expectations may not occur. These forward-looking statements involve known and unknown risks, uncertainties and other factors, many of which are outside of our control, that may cause our actual results, performance or achievements to be materially different from future results expressed or implied by the forward-looking statements. In addition to the risk factors described in Part I, Item 2. Risk Factors, of this report and Part I, Item 1A. Risk Factors, in our Annual Report on Form 10-K for the year ended June 30, 2022, these factors include among others:
+•
+Ability to raise capital to fund capital expenditures;
+•
+Ability to retain or maintain our relative ownership interest in the Peak Gold JV;
+•
+Ability to influence management of the Peak Gold JV;
+•
+Ability to realize the anticipated benefits of the Kinross Transactions, including ability to process ore mined from the Peak Gold JV Property at the existing Fort Knox mining and milling complex;
+•
+Disruption from the Kinross Transactions and transition of the Peak Gold JV’s management to Kinross, including as it relates to maintenance of business and operational relationships potential delays or changes in plans with respect to exploration or development projects or capital expenditures;
+•
+Operational constraints and delays;
+•
+The risks associated with exploring in the mining industry;
+•
+The timing and successful discovery of natural resources;
+•
+Availability of capital and the ability to repay indebtedness when due;
+•
+Declines and variations in the price of gold and associated minerals;
+•
+Price volatility for natural resources;
+•
+Availability of operating equipment;
+•
+Operating hazards attendant to the mining industry;
+•
+Weather;
+•
+The ability to find and retain skilled personnel;
+•
+Restrictions on mining activities;
+•
+Legislation that may regulate mining activities;
+•
+Changes in applicable tax rates and other regulatory changes;
+•
+Impact of new and potential legislative and regulatory changes  (including commitments to international agreements) on mining operating and safety standards.;
+•
+Uncertainties of any estimates and projections relating to any future production, costs and expenses (including changes in the cost of fuel, power, materials, and supplies);
+•
+Timely and full receipt of sale proceeds from the sale of any of our mined products (if any);
+•
+Stock price and interest rate volatility;
+•
+Federal and state regulatory developments and approvals;
+•
+Availability and cost of material and equipment;
+•
+Actions or inactions of third-parties;
+•
+Potential mechanical failure or under-performance of facilities and equipment;
+•
+Environmental and regulatory, health and safety risks;
+•
+Strength and financial resources of competitors;
+•
+Worldwide economic conditions;
+•
+Impact of pandemics, such as the worldwide COVID-19 outbreak, which could impact the Company's or the Peak Gold JV’s exploration schedule;
+•
+Expanded rigorous monitoring and testing requirements;
+•
+Ability to obtain insurance coverage on commercially reasonable terms;
+•
+Competition generally and the increasing competitive nature of the mining industry;
+•
+Risks related to title to properties; and
+•
+Ability to consummate strategic transactions.
+20
+You should not unduly rely on these forward-looking statements in this report, as they speak only as of the date of this report. Except as required by law, the Company undertakes no obligation to publicly release any revisions to these forward-looking statements to reflect events or circumstances occurring after the date of this report or to reflect the occurrence of unanticipated events.  All forward-looking statements included herein are expressly qualified in their entirety by the cautionary statements contained or referred to in this section.
+Overview
+The Company engages in exploration for gold ore and associated minerals in Alaska.  The Company conducts its operations through three primary means:
+●
+a 30.0% membership interest in Peak Gold, LLC (the “Peak Gold JV”), which leases approximately 675,000 acres from the Tetlin Tribal Council and holds approximately 13,000 additional acres of State of Alaska mining claims (such combined acreage, the “Peak Gold JV Property”) for exploration and development, including in connection with the Peak Gold JV's plan to mine ore from the Peak and North Peak deposits within the Peak Gold JV Property (the “Manh Choh Project”);
+●
+its wholly-owned subsidiary, Alaska Gold Torrent, LLC, an Alaska limited liability company (“AGT”), which leases the mineral rights to approximately 8,600 acres of State of Alaska and patented mining claims for exploration from Alaska Hard Rock, Inc., located in three former producing gold mines located on the patented claims in the Willow Mining District about 75 miles north of Anchorage, Alaska (the “Lucky Shot Property”) (See Note 10 - Acquisition of Lucky Shot Property); and
+●
+its wholly-owned subsidiary, Contango Minerals Alaska, LLC (“Contango Minerals”), which separately owns the mineral rights to approximately 145,280 acres of State of Alaska mining claims for exploration, including (i) approximately 69,780 acres located immediately northwest of the Peak Gold JV Property (the “Eagle/Hona Property”), (ii) approximately 14,800 acres located northeast of the Peak Gold JV Property (the “Triple Z Property”), (iii) approximately 52,700 acres of new property in the Richardson district of Alaska  (the “Shamrock Property”) and (iv) approximately 8,000 acres located to the north and east of the Lucky Shot Property (the “Willow Property” and, together with the Eagle/Hona Property,  the Triple Z Property, and the Shamrock Property, collectively the “Minerals Property”).  The Company relinquished approximately 69,000 acres located on the Eagle/Hona prospect in November 2022.   The Company retained essentially all of the acreage where drilling work was performed in 2019 and 2021, and used sampling data to determine which acreage should be released.
+The Lucky Shot Property and the Minerals Property are collectively referred to in this Quarterly Report on Form 10-Q as the “Contango Properties”.
+The Company’s Manh Choh Project is in the development stage.  All other projects are in the exploration stage.
+The Company has been involved, directly and through the Peak Gold JV, in exploration on the Manh Choh Project for twelve years, which has resulted in identifying two mineral deposits (Main and North Manh Choh) and several other gold, silver, and copper prospects.  The Peak Gold JV plans to mine ore from the Main and North Manh Choh deposits and then process the ore at the existing Fort Knox mining and milling complex located approximately 240 miles (400 km) away. The use of the Fort Knox facilities is expected to accelerate the development of the Peak Gold JV Property and result in reduced upfront capital development costs, smaller environmental footprint, a shorter permitting and development timeline and less overall execution risk for the Peak Gold JV to advance the Main and North Manh Choh deposits to production.  The Peak Gold JV will be charged a toll for using the Fort Knox facilities.  A toll milling agreement is expected to be finalized during the current calendar year.
+The Management Committee of the Peak Gold JV (the "Management Committee") approved a calendar year 2022 budget which covered the following areas of work: feasibility study, permitting, on-going environmental monitoring, community engagement, engineering, road and camp construction, and exploration.  Kinross Gold Corporation (“Kinross”) released a combined feasibility study for the Fort Knox mill and the Peak Gold JV in July 2022.  Also, in July 2022, Kinross announced that its board of directors (the “Kinross Board”) made a decision to proceed with development of the Manh Choh project.  Effective December 31, 2022, CORE Alaska, KG Mining and the Peak Gold JV executed the First Amendment to the Amended and Restated Limited Liability Company Agreement of the Peak Gold JV (the “A&R JV LLCA Amendment”). The A&R JV LLCA Amendment provides that, beginning in 2023, the budget of the Peak Gold JV shall be determined on a quarterly basis.  The Management Committee has approved a budget of $13.6 million for the first calendar quarter of 2023, of which the Company's share is $2.7 million.  To date the Company, has funded $1 million of the approved first calendar quarter budget.  This budget primarily relates to access road construction and costs incurred for the refurbishment and expansion of the Manh Choh Camp.   The Manh Choh camp facilities, located in Tok, Alaska, have now been completed and construction work on the road will continue through the winter months.  The Mine Operating permit issued by the State of Alaska Department of Natural Resources has been submitted.  Once issued mine site construction and mine development of the Manh Choh project site can be undertaken so that the project remains on schedule for first gold production in the second half of 2024.
+At the Lucky Shot Property, the Company engaged Atkinson Construction and Major Drilling as contractors to execute the 2022 exploration/development program.  The Company completed 29 exploration drill holes on the property.  Drilling began in late June 2022, and ended in November when activities ceased  in preparation for the winter months. All 29 holes intersected the Lucky Shot vein structure. The Company has engaged a third-party structural geologist from Oriented Targeted Solutions Inc. to complete a structural analysis of the vein structure based on underground mapping and drill core logging. The Company will release all assay results once the results have been finalized and quality assurance and quality control has been completed.  The Company anticipates completing an initial resource estimate, and then making plans for a follow up program to continue exploration of the Lucky Shot vein structure.  Once a sufficient size and quality of mineralized material has been defined the Company expects to initiate a technical study to determine if commercial mining is viable.
+On the Shamrock Property, the Company conducted soil and surface rock chip sampling during 2021. Follow up trenching and detailed geologic mapping is planned for the summer of 2023.  At the Eagle/Hona Property, the Company carried out a detailed reconnaissance of the northern and eastern portions of the large claim block that had not previously been detail sampled. Due to the steep topography, a helicopter was used to execute the program safely.  Follow up geologic mapping and sampling is planned for the summer of 2023.
+The Company’s 30.0% membership interest in the Peak Gold JV, its ownership of AGT and Contango Minerals, and cash on hand constitute substantially all of the Company’s assets.
+21
+Kinross Transaction
+On September 29, 2020, the Company, CORE Alaska, LLC and KG Mining (Alaska), Inc. (“KG Mining”), an indirect wholly-owned subsidiary of Kinross Gold Corporation, a corporation formed under the laws of Ontario, Canada (“Kinross”), entered into a Purchase Agreement (the “CORE Purchase Agreement”), pursuant to which CORE Alaska sold a 30.0% membership interest (the “CORE JV Interest”) in the Peak Gold JV, to KG Mining (the “CORE Transactions”). The CORE Transactions closed on December 31, 2020.  In consideration for the CORE JV Interest, the Company received $32.4 million in cash and 809,744 shares of the Company’s common stock, par value $0.01 per share (the “Common Stock”). The 809,744 shares of Common Stock were acquired by KG Mining from Royal Gold, as part of the Royal Gold Transactions (described below) and were subsequently canceled by the Company. Of the $32.4 million cash consideration, $1.2 million constituted a reimbursement prepayment to the Company by KG Mining of amounts relating to CORE Alaska’s proportionate share of certain silver royalty payments that the Peak Gold JV may be obligated to pay to Royal Gold, with the understanding that as a result of such reimbursements, KG Mining would bear the entire economic impact of those silver royalty payments due from the Peak Gold JV.  Concurrently with the CORE Purchase Agreement, KG Mining, in a separate transaction, acquired from Royal Gold (i) 100% of the equity of Royal Alaska, LLC (“Royal Alaska”), which held a 40.0% membership interest in the Peak Gold JV (the “Royal Gold Transactions” and, together with the CORE Transactions, the “Kinross Transactions”).  Therefore, as of December 31, 2022, the Company holds a 30.0% membership interest in the Peak Gold JV, and KG Mining holds a 70.0% membership interest in the Peak Gold JV and serves as the manager and operator of the Peak Gold JV. KG Mining and CORE Alaska entered into the Amended and Restated Limited Liability Company Agreement of the Peak Gold JV (the “A&R JV LLCA”) on October 1, 2020 to address the new ownership arrangements and to incorporate additional terms that will permit the Peak Gold JV to further develop and produce from its properties.
+The Peak Gold JV had also historically held certain State of Alaska unpatented mining claims for the exploration of gold ore and associated minerals.  Prior to the Kinross Transactions, the Peak Gold JV, Contango Minerals Alaska, LLC, an Alaska limited liability company formed by the Peak Gold JV (“Contango Minerals”), the Company, CORE Alaska, Royal Gold and Royal Alaska entered into a Separation and Distribution Agreement, dated as of September 29, 2020 (the “Separation Agreement”). Pursuant to the Separation Agreement, the Peak Gold JV formed Contango Minerals, contributed approximately 167,000 acres of Alaska State mining claims to it, subject to the Option Agreement (described below), and retained an additional 1.0% net smelter returns royalty interest on certain of the Alaska state mining claims that were contributed. After the formation and contribution to Contango Minerals, the Peak Gold JV made simultaneous distributions to Royal Alaska and CORE Alaska by (i) granting a new 28.0% net smelter returns silver royalty on all silver produced from a defined area within the Tetlin Lease and transferring the additional 1.0% net smelter returns royalty described above to Royal Gold and (ii) assigning 100.0% of the membership interests in Contango Minerals to CORE Alaska, which were in turn distributed to the Company, resulting in Contango Minerals becoming a wholly-owned subsidiary of the Company. The Separation Agreement contains customary representations, warranties and covenants.
+In connection with the Separation Agreement, the Peak Gold JV and Contango Minerals entered into an Option Agreement, dated as of September 29, 2020 (the “Option Agreement”). Under the Option Agreement, Contango Minerals granted the Peak Gold JV an option, subject to certain conditions contained in the Option Agreement, to purchase approximately 13,000 acres of the Alaska state mining claims which were contributed to Contango Minerals pursuant to the Separation Agreement, together with all extralateral rights, water and water rights, and easements and rights of way in connection therewith, that are held by Contango Minerals.  Subject to the conditions in the Option Agreement, the Peak Gold JV had the right to exercise the option to purchase the Alaska state mining claims, in whole or in part, at an exercise price of $50,000. The Peak Gold JV exercised this option in whole in June 2021 and paid the Company $50,000.
+Effective December 31, 2022, CORE Alaska, KG Mining and the Peak Gold JV executed the First Amendment to the A&R JV LLCA (the “A&R JV LLCA Amendment”). The A&R JV LLCA Amendment provides that, beginning in 2023, the budget of the Peak Gold JV shall be determined on a quarterly basis.
+Kinross is a large gold producer with a diverse global portfolio and extensive operating experience in Alaska. The Peak Gold JV plans to mine ore from the Peak and North Peak deposits and then process ore at the existing Fort Knox mining and milling complex located approximately 250 miles away. The use of the Fort Knox mill is expected to accelerate the development of the Peak Gold JV Property and result in reduced upfront capital development costs, smaller environmental footprint, a shorter permitting and development timeline and less overall risk for Peak Gold JV Property.
+Acquisition of Lucky Shot Property
+On August 24, 2021 the Company completed the purchase of all outstanding membership interests (the “Interests”) of AGT from CRH Funding II PTE. LTD, a Singapore private limited corporation (“CRH”) (the “Lucky Shot Transaction”). AGT holds rights to the Lucky Shot Property.  The Company agreed to purchase the Interests for a total purchase price of up to $30 million. The purchase price included an initial payment at closing of $5 million in cash and a promissory note in the original principal amount of $6.25 million, payable by the Company to CRH (the “Promissory Note”), with a maturity date of February 28, 2022 (the “Maturity Date”).  The Promissory Note was secured by the Interests.  The Company had the option to pay the Promissory Note through the issuance to CRH of shares of the Company’s common stock if the Company completed an offering and obtained a listing of its shares on the NYSE American prior to the Maturity Date.  In November 2021, the Company’s common stock commenced listing on the NYSE American. Since the Company did not complete the required offering, it paid the Promissory Note in cash on February 25, 2022.
+In addition to the cash at closing and the Promissory Note, the Company will be obligated to pay CRH additional consideration if production on the Lucky Shot Property meets two separate milestone payment thresholds.  If the first threshold of (1) an aggregate “mineral resource” equal to 500,000 ounces of gold or (2) production and receipt by the Company of an aggregate of 30,000 ounces of gold (including any silver based on a 1:65 gold:silver ratio) is met, then the Company will pay CRH $5 million in cash and $3.75 million in newly issued shares of CORE common stock.  If the second threshold of (1) an aggregate “mineral resource” equal to 1,000,000 ounces of gold or (2) production and receipt by the Company of an aggregate of 60,000 ounces of gold (including any silver based on a 1:65 gold:silver ratio) is met, then the Company will pay CRH $5 million in cash and $5 million in newly issued shares of CORE common stock. If payable, the additional share consideration will be issued based on the 30-day volume weighted average price for each of the thirty trading days immediately prior to the satisfaction of the relevant production goal.
+The Company also agreed to make $10,000,000 in expenditures during the 36-month period following closing toward the existence, location, quantity, quality or commercial value of mineral deposits in, under and upon the Lucky Shot Property.  On August 16, 2021, the Company hired Chris Kennedy, who has prior experience in underground mine operations management, to serve as the Company's Mine General Manager. In his role, Mr. Kennedy will manage the Company's underground exploration and development program on the Lucky Shot Property.  As of December 31, 2022, the Company had exceeded the $10.0 million in required expenditures.
+ap
+22
+Strategy
+Retaining Proven Executive Leadership .  Effective as of January 6, 2020, Rick Van Nieuwenhuyse was appointed to serve as President and Chief Executive Officer of the Company.  Mr. Van Nieuwenhuyse will perform the functions of the Company’s principal executive officer.  Also effective on January 6, 2020, the size of the Board was increased from four to five directors with Mr. Van Nieuwenhuyse appointed to the Board to fill the vacancy created by the increase.  Mr. Van Nieuwenhuyse, 65, previously served as President and Chief Executive Officer of Trilogy Metals Inc. from January 2012 until December 2019. Between May 1999 and January of 2012, he served as the President and Chief Executive Officer of NOVAGOLD Resources, Inc.
+Partnering with strategic industry participants to expand future exploration work.   As of October 1, 2020, in conjunction with the Kinross Transactions and the signing of the A&R JV LLCA, KG Mining became the manager of the Peak Gold JV (the “Manager”).  KG Mining may resign as Manager and can be removed as Manager for a material breach of the A&R JV LLCA, a material failure to perform its obligations as the Manager, a failure to conduct the Peak Gold JV operations in accordance with industry standards and applicable laws, and other limited circumstances.  Except as expressly delegated to the Manager, the A&R JV LLCA provides that the Management Committee has exclusive authority to determine all management matters related to the Company. The Management Committee currently consists of one appointee designated by the Company and two appointees designated by KG Mining.  The Representatives designated by each member of the Peak Gold JV vote as a group, and in accordance with their respective membership interests in the Peak Gold JV. Except in the case of certain actions that require approval by unanimous vote of the Representatives, the affirmative vote of a majority of the membership interests in the Peak Gold JV constitutes the action of the Management Committee.
+Structuring Incentives to Drive Behavior . The Company believes that equity ownership aligns the interests of the Company’s executives and directors with those of its stockholders. As of December 31, 2022, the Company’s directors and executives beneficially own approximately 22.3% of the Company’s Common Stock.
+Acquiring exploration properties .  The Company anticipates from time to time acquiring additional properties in Alaska for exploration, subject to the availability of funds. The acquisitions may include leases or similar rights from Alaska Native corporations or may include filing Federal or State of Alaska mining claims by staking claims for exploration. Acquiring additional properties will likely result in additional expense to the Company for minimum royalties, minimum rents and annual exploratory work requirements.  The Company is open to strategic partnerships or alliances with other companies as a means to enhance its ability to fund new and existing exploration and development opportunities.
+Off-Balance Sheet Arrangements
+None.
+Contractual Obligations
+The Tetlin Lease had an initial ten year term beginning July 2008 which was extended for an additional ten years to July 15, 2028, or so long as the Peak Gold JV initiates and continues to conduct mining operations on the Tetlin Lease. The Peak Gold JV was required to spend $350,000 per year annually until July  15, 2018 in exploration costs pursuant to the Tetlin Lease. Exploration expenditures to date under the Tetlin Lease have satisfied this work commitment requirement for the full lease term, through 2028, because exploration funds spent in any year in excess of $350,000 are credited toward future years’ exploration cost requirements. The Tetlin Lease also provides that the Peak Gold JV will pay the Tetlin Tribal Council a production royalty ranging from 3.0% to 5.0% should the Peak Gold JV deliver to a purchaser on a commercial basis precious or non-precious metals derived from the properties under the Tetlin Lease. The Company had previously paid the Tetlin Tribal Council $225,000 in exchange for reducing the production royalty payable to them by 0.75%. These payments lowered the production royalty to a range of 2.25% to 4.25%. On or before December 30, 2020, the Tetlin Tribal Council had the option to increase its production royalty by (i) 0.25% by payment to the Peak Gold JV of $150,000, (ii) 0.50% by payment to the Peak Gold JV of $300,000, or (iii) 0.75% by payment to the Peak Gold JV of $450,000.  The Tetlin Tribal Council exercised the option
+to increase its production royalty by 0.75% by payment to the Peak Gold JV of $450,000
+on December 30, 2020.  In lieu of a cash payment, the $450,000 will be credited against future production royalty and advance minimum royalty payments due by the Peak Gold JV to the Tetlin Tribal Council under the lease once production begins.
+On January 8, 2015, the Company assigned the Tetlin Lease to the Peak Gold JV in connection with the formation of the Peak Gold JV.
+Until such time as production royalties begin, the Peak Gold JV will pay the Tetlin Tribal Council an advance minimum royalty of approximately $75,000 per year, plus an inflation adjustment. Additionally, the Peak Gold JV will pay Royal Gold an overriding royalty of 3.0% should it deliver to a purchaser on a commercial basis gold or associated minerals derived from the Tetlin Lease, and a 28.0% net smelter returns silver royalty on all silver produced from a defined area within the Tetlin Lease.  The Company will pay Royal Gold an overriding royalty of 3.0% on certain State of Alaska mining claims should it deliver to a purchaser on a commercial basis precious metals, non-precious metals or hydrocarbons. The Company pays claim rentals on State of Alaska mining claims which vary based on the ages of the claims. For the 2022–2023 assessment year, claims rentals totaled $355,805. Also, if the minimum work requirement is not performed on the property, additional minimum labor payments are due on certain state of Alaska acreage.
+In February 2019, the Company entered into Retention Agreements with its then-Chief Executive Officer, Brad Juneau, its Chief Financial Officer, Leah Gaines, and one other employee providing for payments in an aggregate amount of $1,500,000 upon the occurrence of certain conditions. The Retention Agreements, as amended, are triggered upon a change of control (as defined in the applicable Retention Agreement), that takes place prior to August 6, 2025, provided that the recipient is employed by the Company when the change of control occurs.  Mr. Juneau and Ms. Gaines will receive a payment of $1,000,000 and $250,000, respectively, upon a change of control.
+On June 10, 2020, the Company entered into a Retention Payment Agreement with Rick Van Nieuwenhuyse, the Company’s President and Chief Executive Officer, providing for a payment in an amount of $350,000 upon the occurrence of certain conditions. The Retention Payment Agreement is triggered upon a change of control (as defined in the Retention Payment Agreement) which occurs on or prior to August 6, 2025, provided that Mr. Van Nieuwenhuyse is employed by the Company when the change of control occurs.
+The Company received $32.4 million in cash consideration in conjunction with the Kinross Transactions.  Of the $32.4 million, $1.2 million constituted a reimbursement prepayment to the Company relating to its proportionate share of certain silver royalty payments that the Peak Gold JV may be obligated to pay to Royal Gold, with the understanding that KG Mining will bear the entire economic impact of those royalty payments due from the Peak Gold JV.  Pursuant to Article IV of the A&R JV LLCA, if the Peak Gold JV terminates, or the Company’s membership interest falls below 5% prior to when the prepaid royalty is paid out, the $1.2 million (less any portion already paid out) is refundable to KG Mining.
+With regard to the Lucky Shot Acquisition, in addition to the cash at closing and the Promissory Note, the Company will be obligated to pay CRH additional consideration if production on the Lucky Shot Property meets two separate milestone payment thresholds.  If the first threshold of (1) an aggregate “mineral resource” equal to 500,000 ounces of gold or (2) production and receipt by the Company of an aggregate of 30,000 ounces of gold (including any silver based on a 1:65 gold:silver ratio) is met, then the Company will pay CRH $5 million in cash and $3.75 million in newly issued shares of CORE common stock.  If the second threshold of (1) an aggregate “mineral resource” equal to 1,000,000 ounces of gold or (2) production and receipt by the Company of an aggregate of 60,000 ounces of gold (including any silver based on a 1:65 gold:silver ratio) is met, then the Company will pay CRH $5 million in cash and $5 million in newly issued shares of CORE common stock. If payable, the additional share consideration will be issued based on the 30-day volume weighted average price for each of the thirty trading days immediately prior to the satisfaction of the relevant production goal.  The Company also agreed to make $10,000,000 in expenditures during the 36-month period following closing toward the existence, location, quantity, quality or commercial value of mineral deposits in, under and upon the Lucky Shot Property.   The Company has exceeded the required $10,000,000 in expenditures as of December 31, 2022.
+23
+Critical Accounting  Estimates
+The discussion and analysis of the Company ’s financial condition and results of operations is based upon the consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires the Company to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. The Company has identified below the policies that are of particular importance to the portrayal of our financial position and results of operations and which require the application of significant judgment by management. The Company analyzes its estimates, including those related to its mineral reserve estimates, on a periodic basis and bases its estimates on historical experience, independent third party engineers and various other assumptions that management believes to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions. The Company believes the following critical accounting policies affect its more significant judgments and estimates used in the preparation of the Company’s consolidated financial statements:
+Stock-Based Compensation.
+The Company applies the fair value method of accounting for stock-based compensation. Under this method, the Company measures and recognizes compensation expense for all stock-based payments at fair value at the date of grant and amortize the amount over the employee’s service period. Management is required to make assumptions including stock price volatility and employee turnover that are utilized to measure compensation expense.
+Investment in the Peak Gold JV.
+The Company’s consolidated financial statements include the investment in the Peak Gold JV, which is accounted for under the equity method. The Company has designated one of the three members of the Management Committee and on December 31, 2022 held a 30.0% ownership interest in the Peak Gold JV. KG Mining serves as the manager of the Peak Gold JV and manages, directs, and controls operations of the Peak Gold JV. The Company recorded its investment at the historical cost of the assets contributed. The cumulative losses of the Peak Gold JV exceed the historical cost of the assets contributed to the Peak Gold JV; therefore, the Company’s investment in the Peak Gold JV as of December 31, 2022 is zero. The portion of the cumulative loss that exceeds the Company’s investment will be suspended and recognized against earnings, if any, from the investment in the Peak Gold JV in future periods.
+Business Combinations.   In determining whether an acquisition should be accounted for as a business combination or asset acquisition, the Company first determines whether substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or a group of similar identifiable assets. If this is the case, the single identifiable asset or the group of similar assets is not deemed to be a business, and is instead deemed to be an asset. If this is not the case, the Company then further evaluates whether the single identifiable asset or group of similar identifiable assets and activities includes, at a minimum, an input and a substantive process that together significantly contribute to the ability to create outputs. If so, the Company concludes that the single identifiable asset or group of similar identifiable assets and activities is a business.  The Company accounts for business combinations using the acquisition method of accounting. Application of this method of accounting requires that (i) identifiable assets acquired (including identifiable intangible assets) and liabilities assumed generally be measured and recognized at fair value as of the acquisition date and (ii) the excess of the purchase price over the net fair value of identifiable assets acquired and liabilities assumed be recognized as goodwill, which is not amortized for accounting purposes but is subject to testing for impairment at least annually.  The Company measures and recognizes asset acquisitions that are not deemed to be business combinations based on the cost to acquire the assets, which includes transaction costs. Goodwill is not recognized in asset acquisitions. Contingent consideration in asset acquisitions payable in the form of cash is recognized when payment becomes probable and reasonably estimable, unless the contingent consideration meets the definition of a derivative, in which case the amount becomes part of the asset acquisition cost when acquired. Contingent consideration payable in the form of a fixed number of the Company’s own shares is measured at fair value as of the acquisition date and recognized when the issuance of the shares becomes probable. Upon recognition of the contingent consideration payment, the amount is included in the cost of the acquired asset or group of assets.
+Convertible Debenture .  The Company accounts for its convertible debenture in accordance with ASC 470-20, Debt with Conversion and Other Options ("ASC 470-20"), which requires the liability and equity components of convertible debt to be separately accounted for in a manner that reflects the issuer's nonconvertible debt borrowing rate.  Debt discount created by the bifurcation of embedded features in the convertible debenture are reflected as a reduction to the related debt liability.  The discount is amortized to interest expense over the term of the debt using the effective-interest method.
+Derivative Asset/Liability for Embedded Conversion Features.   The Company does not use derivative instruments to hedge exposures to cash flow, market, or foreign currency risks.  The Company evaluates convertible notes to determine if those contracts or embedded components of those contracts qualify as derivatives to be accounted for separately. In circumstances where the embedded conversion option in a convertible instrument is required to be bifurcated and there are also other embedded derivative instruments in the convertible instrument that are required to be bifurcated, the bifurcated derivative instruments are evaluated and accounted for separately. The result of this accounting treatment is that the fair value of the embedded derivative is recorded as either an asset or a liability and marked-to-market each balance sheet date, with the change in fair value recorded in the statements of operations as other income or expense. Upon conversion or exercise of a derivative instrument, the instrument is marked to fair value at the conversion date and then that fair value is reclassified to equity. The fair value of the embedded conversion features are estimated using several probability weighted binomial lattice models. The Company estimated the fair value of the convertible notes conversion feature at the time of issuance and subsequent remeasurement dates, utilizing the with-and without method, where the value of the derivative feature is the difference in values between a note simulated with the embedded conversion feature and the value of the same note simulated without the embedded conversion feature. Estimating fair values of embedded conversion features requires the development of significant and subjective estimates that may, and are likely to, change over the duration of the instrument with related changes in internal and external market factors.
+Results of Operations
+Neither the Company nor the Peak Gold JV has commenced mining or producing commercially marketable minerals. To date, neither the Company nor the Peak Gold JV has generated any revenue from mineral sales or operations. Neither the Company nor the Peak Gold JV has any recurring source of revenue other than  contributions
+by the Company and KG Mining to the Peak Gold JV, and, in addition to the consideration received
+in the Kinross Transactions, the Company’s ability to continue as a going concern is dependent on the Company’s ability to raise capital to fund its future exploration and working capital requirements. In the future, the Peak Gold JV may generate revenue from a combination of mineral sales and other payments resulting from any commercially recoverable minerals from the Peak Gold JV Property. The Company does not expect the Peak Gold JV to generate revenue from mineral sales until at least the second half of 2024 based on KG Mining's current schedule. If the Peak Gold JV Property fails to contain any proven reserves, our ability to generate future revenue, and our results of operations and financial position, would be materially adversely affected. Other potential sources of cash, or relief of demand for cash, include external debt, the sale of shares of our stock, joint ventures, or alternative methods such as mergers or sale of our assets. No assurances can be given, however, that the Company will be able to obtain any of these potential sources of cash. The Company will need to generate significant revenues to achieve profitability and it may never do so.
+Three Months Ended December 31, 2022
+Compared to Three Months Ended December 31, 2021
+Claim Rentals Expense.   Claim rental expense primarily consists of State of Alaska rental payments and annual labor payments. We recognized claim rental expense of $126,451 compared to $157,163 for the three months ended December 31, 2021.   The Company relinquished approximately 69,000 acres located on the Eagle/Hona prospect in November 2022.
+Exploration Expense.
+Exploration expense for the three months ended December 31, 2022 was $2.2 million compared to $1.2 million for the three months ended December 31, 2021.  Current year exploration expense relates primarily to exploration work performed on our Lucky Shot Property.  Lucky Shot was acquired in August 2021, and the development and exploration program did not begin until late 2021.
+General and Administrative Expense.
+General and administrative expense for the three months ended December 31, 2022 and 2021 were $2.2 million and $2.8 million, respectively. The Company’s general and administrative expense primarily relates to legal fees, management fees, payroll and stock-based compensation expense. The current year decrease in general and administrative expenses primarily relates to the reduction in stock-based compensation expense.   The stock-based compensation expense for the quarter ended December 31, 2022 was approximately $0.8 million, compared to $1.3 million for the quarter ended December 31, 2021.
+24
+Loss from Equity Investment in the Peak Gold JV .  The loss from the Company’s equity investment in the Peak Gold JV for the three months ended December 31, 2022 and 2021 was $9.3 million and $0.7 million, respectively.  Pursuant to the terms of the A&R JV LLCA, the Company and KG Mining are required to jointly fund the joint venture operations in proportion to their membership interests in the Peak Gold JV to avoid dilution.  The Company invested $9.3 million in the Peak Gold JV during the current quarter.  The Company invested $0.7 million in the Peak Gold JV during the three months ended December 31, 2021.   The current quarter cash needs of the Peak Gold JV were higher compared to prior year, because the Peak Gold JV moved into the development phase in early 2022, and has been incurring costs related to Manh Choh camp and access roads in preparation for first production in 2024.   The portion of the cumulative loss that exceeds the Company’s cumulative investment will be suspended and recognized against earnings, if any, from the Company’s investment in the Peak Gold JV in future periods. The suspended losses for the period from inception to December 31, 2022 are $14.5 million.
+Interest Expense.   On April 26, 2022 ,  the Company closed on a $20,000,000 unsecured convertible debenture to QRC.  The debenture bears interest at 8% per annum, payable quarterly, with 6% paid in cash and 2% paid in shares of Common Stock (See Note 16 to our Consolidated Financial Statements). The Company acquired AGT in August 2021 for an initial payment at closing of $5 million (plus a working capital adjustment of $0.1 million) in cash and a Promissory Note (see Note 10 to our Consolidated Financial Statements).  Interest expense for the quarter ended December 31, 2022 of $0.4 million includes the interest related to the convertible debenture.  Interest expense for the quarter ended December 31, 2021 of relates to accrued interest related to the Promissory Note.   The Promissory Note was paid in full with cash on February 25, 2022.
+Six Months Ended December 31, 2022
+Compared to Six Months Ended December 31, 2021
+Claim Rentals Expense.   Claim rental expense primarily consists of State of Alaska rental payments and annual labor payments. We recognized claim rental expense of $273,376 compared to $306,973 for the six months ended December 31, 2021.   The Company relinquished approximately 69,000 acres located on the Eagle/Hona prospect in November 2022.
+Exploration Expense.
+Exploration expense for the six months ended December 31, 2022 was $6.6 million compared to $2.2 million for the six months ended December 31, 2021.  Current year exploration expense relates primarily to exploration work performed on our Lucky Shot Property.  Lucky Shot was acquired in August 2021, and the development and exploration program did not begin until late 2021.  Prior year exploration expense also relates to work completed on the Company's Eagle/Hona and Shamrock prospects.
+General and Administrative Expense.
+General and administrative expense for the six months ended December 31, 2022 and 2021 were $4.6 million and $4.8 million, respectively. The Company’s general and administrative expense primarily relates to legal fees, management fees, payroll and stock-based compensation expense. The current year decrease in general and administrative expenses primarily relates to the reduction in stock-based compensation expense.   The stock-based compensation expense for the six months ended December 31, 2022 was approximately $1.6 million, compared to $2.3 million for the six months ended December 31, 2021.
+Loss from Equity Investment in the Peak Gold JV .  The loss from the Company’s equity investment in the Peak Gold JV for the three months ended December 31, 2022 and 2021 was $9.3 million and $2.2 million, respectively.  Pursuant to the terms of the A&R JV LLCA, the Company and KG Mining are required to jointly fund the joint venture operations in proportion to their membership interests in the Peak Gold JV to avoid dilution.  The Company invested $9.3 million in the Peak Gold JV during the six months ended December 31, 2022.  The Company invested $2.2 million in the Peak Gold JV during the six months ended December 31, 2021.   The current quarter cash needs of the Peak Gold JV were higher compared to prior year, because the Peak Gold JV moved into the development phase in early 2022, and has been incurring costs related to Manh Choh camp and access roads in preparation for first production in 2024.  The portion of the cumulative loss that exceeds the Company’s cumulative investment will be suspended and recognized against earnings, if any, from the Company’s investment in the Peak Gold JV in future periods. The suspended losses for the period from inception to December 31, 2022 are $14.5 million.
+Interest Expense.   On April 26, 2022 ,  the Company closed on a $20,000,000 unsecured convertible debenture to QRC.  The debenture bears interest at 8% per annum, payable quarterly, with 6% paid in cash and 2% paid in shares of Common Stock (See Note 16 to our Consolidated Financial Statements). The Company acquired AGT in August 2021 for an initial payment at closing of $5 million (plus a working capital adjustment of $0.1 million) in cash and a Promissory Note (see Note 10 to our Consolidated Financial Statements).  Interest expense for the six months ended December 31, 2022 of $0.9 million includes the interest related to the convertible debenture.  Interest expense for the six months ended December 31, 2021 of relates to accrued interest related to the Promissory Note.   The Promissory Note was paid in full with cash on February 25, 2022.
+Insurance Recoveries.   In mid-February 2022 an avalanche occurred at the Lucky Shot Property.  The avalanche destroyed various vehicles and equipment at the site.  During the quarter ended December 31, 2022, the Company received insurance recoveries totaling $0.3 million related to the avalanche.  There were no such recoveries during the quarter ended December 31, 2021.
+Liquidity and Capital Resources
+The Company’s primary cash requirements have been for general and administrative expenses, capital calls from the Peak Gold JV for the Manh Choh Property, and exploration expenditures on the Lucky Shot Property.  Besides the Kinross Transactions, the Company’s sources of cash have been from Common Stock offerings and the issuance of the $20 million unsecured convertible debenture to Queens Road Capital Investment, Ltd. (“QRC”). In conjunction with the Kinross Transactions, the Company received $32.4 million and 809,744 shares of the Company’s Common Stock.  The 809,744 shares of Common Stock were acquired by KG Mining from Royal Gold, as part of the Royal Gold Transactions and were subsequently canceled by the Company.  Of the $32.4 million cash consideration, $1.2 million constituted a reimbursement prepayment to the Company of its proportionate share of certain silver royalty payments that the Peak Gold JV may be obligated to pay to Royal Gold, with the understanding that KG Mining will bear the entire impact of those royalty payments due from the Peak Gold JV.
+As of December 31, 2022, the Company had approximately $9.0 million of cash.  The Management Committee has approved a budget of $13.6 million for the first calendar quarter of 2023, of which the Company's share is $2.7 million.  To date the Company, has funded $1 million of the approved first calendar quarter budget.  This budget primarily relates to access road construction and refurbishment and expansion of the Manh Choh camp.  On December 23, 2022 the Company completed the issuance and sale of an aggregate of 283,500 shares of the Company’s Common Stock, for $20.00 per share, and warrants  entitling each purchaser to purchase shares of Common Stock for $25.00 per share in a private placement  to certain accredited investors. Net proceeds from the December 2022 Private Placement totaled approximately $5.6 million. (See Note 8 - Stockholder's Equity for further discussion). On January 19, 2023, the Company completed the issuance and sale of an aggregate of 117,500 shares, for $20.00 per share, and warrants  entitling each purchaser to purchase shares of Common Stock for $25.00 per share in a private placement  to certain accredited investors. Net proceeds from the January 2023 Private Placement totaled approximately $2.3 million. The Company will use the proceeds from the December 2022 and January 2023 private placements to fund its exploration and development program and for general corporate purposes.
+On April 26, 2022, the Company closed on a $20,000,000 unsecured convertible debenture to QRC. The debenture was purchased at par.  The Company’s cash needs going forward will primarily relate to capital calls from the Peak Gold JV, exploration of the Contango Properties,  and general and administrative expenses of the Company.  If a large budget is undertaken, and no additional financing is obtained, the Company can elect not to fund its portion of the approved budget, in which case the Company would maintain sufficient liquidity to meet its working capital requirements for the next twelve months; however, its membership interest in the Peak Gold JV would be diluted. If the Company's interest in the Peak Gold JV is diluted, the Company may not be able to fully realize its investment in the Peak Gold JV.  Also, if no additional financing is obtained, the Company may not be able to fully realize its investment in the Contango Properties.
+25
+KG Mining became the Manager of the Peak Gold JV in conjunction with the Kinross Transactions and the signing of the A&R JV LLCA.  Pursuant to the terms of the A&R JV LLCA, the Company and KG Mining are required to jointly fund the joint venture operations in proportion to their membership interests in the Peak Gold JV. If a member elects not to contribute to an approved program and budget or contributes less than its proportionate membership interest, its percentage membership interest will be reduced. The Company’s ability to contribute funds sufficient to retain its membership interests in the Peak Gold JV may be limited. To date, neither the Company nor the Peak Gold JV has generated any revenue from mineral sales or operations. In the future, the Peak Gold JV may generate revenue from a combination of mineral sales and other payments resulting from any commercially recoverable minerals from the Peak Gold JV Property. The Company currently does not have any recurring source of revenue. The Peak Gold JV currently does not  have any recurring source of revenue, and its only source of cash inflows are contributions received from KG Mining and the Company.  As a result, the Company’s ability to contribute funds to the Peak Gold JV and retain its membership interest will depend on its ability to raise capital. The Company has limited financial resources and the ability of the Company to arrange additional financing in the future will depend, in part, on the prevailing capital market conditions, the exploration results achieved at the Peak Gold JV Property, as well as the market price of metals. The Company cannot be certain that financing will be available to the Company on acceptable terms, if at all. If the Company were unable to fund its contributions to the approved programs and budgets for the Peak Gold JV, its membership interest in the Peak Gold JV would be diluted.
+Further financing by the Company may include issuances of equity, instruments convertible into equity (such as warrants) or various forms of debt. The Company believes that it is more likely than not that it will raise capital through the issuance of additional equity and or debt securities in the next six months for purposes of funding its proportionate share of future Peak Gold JV exploration and for the Company’s operating costs. The Company has issued Common Stock and other instruments convertible into equity in the past and cannot predict the size or price of any future issuances of Common Stock or other instruments convertible into equity, and the effect, if any, that such future issuances and sales will have on the market price of the Company’s securities. Any additional issuances of Common Stock or securities convertible into, or exercisable or exchangeable for, Common Stock may ultimately result in dilution to the holders of Common Stock, dilution in any future earnings per share of the Company and may have a material adverse effect upon the market price of the Common Stock of the Company.
+26
+Item  3.
+Quantitative and Qualitative Disclosures About Market Risk
+As a “smaller reporting company” the Company is not required to provide this information.
+Item  4.
+Controls and Procedures
+Evaluation of Disclosure Controls and Procedures.
+As required by Rule 13a-15(b) of the Exchange Act, the Company has evaluated, under the supervision and with the participation of its management, including our principal executive officer and principal financial officer, the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Form 10-Q. Our disclosure controls and procedures are designed to provide reasonable assurance that the information required to be disclosed by us in reports that the Company files or submits under the Exchange Act is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure and is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC. Based upon the evaluation, our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures were effective as of December 31, 2022 at the reasonable assurance level.
+Changes in Internal Control Over Financial Reporting.
+There have been no changes in our internal control over financial reporting
+(as defined in Rule 13a-15(f) under the Exchange Act)  that occurred during our last fiscal quarter that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+27
+PART II —OTHER INFORMATION
+Item  1.
+Legal Proceedings
+From time to time, the Company is party to litigation or other legal and administrative proceedings that it considers to be a part of the ordinary course of business. As of the date of this Form 10-Q, the Company is not a party to any material legal proceedings and the Company is not aware of any material proceedings contemplated against us, that could individually or in the aggregate, reasonably be expected to have a material adverse effect on the Company's financial condition, cash flows or results of operations.
+Item  1A.
+Risk Factors
+In addition to information set forth in this Form 10-Q,  you should carefully consider the risks discussed in our Annual Report on Form 10-K for the year ended June 30, 2022, under the headings “Item 1. Business — Adverse Climate Conditions,” “—Competition,” “— Government Regulation” and “Item 2. Properties— Environmental Regulation and Permitting,” “Item 1A. Risk Factors,” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” which risks could materially affect our business, financial condition or future results. There have been no material changes in our risk factors from those described in our Annual Report on Form 10-K for the year ended June 30, 2022. The risks described in our Annual Report on Form 10-K for the year ended June 30, 2022 are not the only risks the Company faces. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results. An investment in the Company is subject to risks inherent in our business and involves a high degree of risk. The trading price of the shares of the Company is affected by the performance of our business relative to, among other things, competition, market conditions and general economic and industry conditions. The value of an investment in the Company may decrease, resulting in a loss.
+Item  2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+Item  4. Mine Safety Disclosures
+None.
+Item  5. Other Information
+None.
+28
+Item  6. Exhibits
+(a)
+Exhibits:
+The following is a list of exhibits filed as part of this Form 10-Q. Where so indicated, exhibits, which were previously filed, are incorporated herein by reference.
+Exhibit
+Number
+Description
+3.1
+Certificate of Incorporation of Contango ORE, Inc.   (Filed as Exhibit 3.1 to Amendment No. 2 to the Company’s Registration Statement on Form 10, as filed with the Securities and Exchange Commission on November 26, 2010).
+3.2
+Certificate of Amendment to Certificate of Incorporation of Contango ORE, Inc.
+(Filed as Exhibit 3.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on December 17, 2020).
+3.3
+Bylaws of Contango ORE, Inc.  (Filed as Exhibit 3.2 to Amendment No. 2 to the Company’s Registration Statement on Form 10, as filed with the Securities and Exchange Commission on November 26, 2010).
+3.4
+Amendment No. 1 to the Bylaws of Contango ORE, Inc.
+(Filed as Exhibit 3.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on October 21, 2021).
+4.1
+Form of Certificate of Contango ORE, Inc. Common Stock.  (Filed as Exhibit 4.1 to the Company’s quarterly report on Form 10-Q for the three months ended December 31, 2013, as filed with the Securities and Exchange Commission on November 14, 2013).
+4.2
+Certificate of Designation of Series A Junior Preferred Stock of Contango ORE, Inc.   (Filed as Exhibit 3.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on December 21, 2012).
+4.3
+Certificate of Elimination of Series A Junior Preferred Stock of Contango ORE, Inc.
+(Filed as Exhibit 3.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on September 24, 2020).
+4.4
+Certificate of Designations of Series A-1 Junior Participating Preferred Stock of Contango ORE, Inc.
+(Filed as Exhibit 3.2 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on September 24, 2020).
+4.5
+Registration Rights Agreement dated as of June 17, 2021, by and between Contango ORE, Inc. and the Purchaser named therein
+(Filed as Exhibit 4.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on June 21, 2021).
+4.6
+Registration Rights Agreement dated as of August 24, 2021, by and between the Company and CRH Funding II Pte. Ltd.
+(Filed as Exhibit 4.1 to the Company's current report on Form 8-K, as filed with the Securities and Exchange Commission on August 25, 2021).
+4.7
+Rights Agreement, dated as of September 23, 2020, between Contango ORE, Inc. and Computershare Trust Company, N.A., as Rights Agent.
+(Filed as Exhibit 4.2 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on September 24, 2020).
+4.8
+Amendment No. 1 to Rights Agreement, dated as of September 22, 2021, between Contango ORE, Inc. and Computershare Trust Company. N.A. as Rights Agent
+( Filed as Exhibit 4.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on September 22, 2021).
+4.9
+Amendment No. 2 to Rights Agreement, dated as of August 31, 2022, between Contango ORE, Inc. and Computershare Trust Company. N.A.  as Rights Agent   ( Filed as Exhibit 4.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on September 2, 2022).
+4.10
+Form of Registration Rights Agreement dated as of December 23, 2022 .
+(Filed as Exhibit 4.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on December 23, 2022).
+4.11
+Form of Registration Rights Agreement dated as of January 19, 2023.
+(Filed as Exhibit 4.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on January 19, 2023).
+10.1
+Form of Subscription Agreement dated as of December 23, 2022 (Filed as Exhibit 10.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on December 23, 2022).
+10.2
+Form of Warrant dated as of December 23, 2022 (Filed as Exhibit 10.2 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on December 23, 2022).
+10.3
+Form of Subscription Agreement dated as of January 19, 2023 (Filed as Exhibit 10.1 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on January 19, 2023).
+10.4
+Form of Warrant dated as of January 19, 2023 (Filed as Exhibit 10.2 to the Company’s current report on Form 8-K, as filed with the Securities and Exchange Commission on January 19, 2023).
+31.1
+Certification of Principal Executive Officer required by Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934. *
+31.2
+Certification of Principal Financial Officer required by Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934. *
+32.1
+Certification of Principal Executive Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. *
+32.2
+Certification of Principal Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. *
+29
+101
+Financial statements from the Company’s quarterly report on Form 10-Q for the three months ended December 31, 2022, formatted in Inline XBRL: (i) Condensed Consolidated Balance Sheets; (ii) Condensed Consolidated Statements of Operations; (iii) Condensed Consolidated Statements of Cash Flows; (iv) Condensed Consolidated Statements of Changes in Shareholders’ Equity; and (v) Notes to Unaudited Condensed Consolidated Financial Statements.
+*
+Filed herewith.
+30
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.
+CONTANGO ORE, INC.
+Date: February 6, 2023
+By:
+/s/      RICK VAN NIEUWENHUYSE
+Rick Van Nieuwenhuyse
+President and Chief Executive Officer
+(Principal Executive Officer)
+Date: February 6, 2023
+By:
+/s/      LEAH GAINES
+Leah Gaines
+Vice President, Chief Financial Officer, Chief Accounting Officer and Controller
+(Principal Financial and Accounting Officer)
+31

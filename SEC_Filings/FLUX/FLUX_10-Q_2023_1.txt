@@ -1,0 +1,3160 @@
+P5Y
+P5Y
+P5Y
+P12Y
+0001083743
+2022-07-01
+2022-12-31
+0001083743
+2023-02-06
+0001083743
+2022-12-31
+0001083743
+2022-06-30
+0001083743
+2022-10-01
+2022-12-31
+0001083743
+2021-10-01
+2021-12-31
+0001083743
+2021-07-01
+2021-12-31
+0001083743
+us-gaap:CommonStockMember
+2022-06-30
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2022-06-30
+0001083743
+us-gaap:RetainedEarningsMember
+2022-06-30
+0001083743
+us-gaap:CommonStockMember
+2022-09-30
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001083743
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001083743
+2022-09-30
+0001083743
+us-gaap:CommonStockMember
+2021-06-30
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2021-06-30
+0001083743
+us-gaap:RetainedEarningsMember
+2021-06-30
+0001083743
+2021-06-30
+0001083743
+us-gaap:CommonStockMember
+2021-09-30
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-30
+0001083743
+us-gaap:RetainedEarningsMember
+2021-09-30
+0001083743
+2021-09-30
+0001083743
+us-gaap:CommonStockMember
+2022-07-01
+2022-09-30
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2022-07-01
+2022-09-30
+0001083743
+us-gaap:RetainedEarningsMember
+2022-07-01
+2022-09-30
+0001083743
+2022-07-01
+2022-09-30
+0001083743
+us-gaap:CommonStockMember
+2022-10-01
+2022-12-31
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0001083743
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0001083743
+us-gaap:CommonStockMember
+2021-07-01
+2021-09-30
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2021-07-01
+2021-09-30
+0001083743
+us-gaap:RetainedEarningsMember
+2021-07-01
+2021-09-30
+0001083743
+2021-07-01
+2021-09-30
+0001083743
+us-gaap:CommonStockMember
+2021-10-01
+2021-12-31
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2021-10-01
+2021-12-31
+0001083743
+us-gaap:RetainedEarningsMember
+2021-10-01
+2021-12-31
+0001083743
+us-gaap:CommonStockMember
+2022-12-31
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001083743
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001083743
+us-gaap:CommonStockMember
+2021-12-31
+0001083743
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001083743
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001083743
+2021-12-31
+0001083743
+2021-07-01
+2022-06-30
+0001083743
+us-gaap:SubsequentEventMember
+FLUX:SVBCreditFacilityMember
+2023-02-06
+0001083743
+FLUX:ATMAgreementMember
+us-gaap:SubsequentEventMember
+2023-02-06
+0001083743
+us-gaap:EmployeeStockOptionMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:EmployeeStockOptionMember
+2021-07-01
+2021-12-31
+0001083743
+us-gaap:RestrictedStockUnitsRSUMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:RestrictedStockUnitsRSUMember
+2021-07-01
+2021-12-31
+0001083743
+us-gaap:WarrantMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:WarrantMember
+2021-07-01
+2021-12-31
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:FirstAmendmentAndSecurityAgreementMember
+srt:MinimumMember
+2021-10-29
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:FirstAmendmentAndSecurityAgreementMember
+srt:MaximumMember
+2021-10-29
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:FirstAmendmentAndSecurityAgreementMember
+2021-10-28
+2021-10-29
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:FirstAmendmentAndSecurityAgreementMember
+2021-10-29
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:SecondAmendmentAndSecurityAgreementMember
+2022-06-22
+2022-06-23
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:SecondAmendmentAndSecurityAgreementOneMember
+2022-06-22
+2022-06-23
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:SecondAmendmentAndSecurityAgreementMember
+2022-06-23
+0001083743
+FLUX:ThirdAmendmentToLoanAndSecurityAgreementMember
+FLUX:SiliconValleyBankMember
+2022-11-06
+2022-11-07
+0001083743
+us-gaap:SubsequentEventMember
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:FourthAmendmentAndSecurityAgreementMember
+srt:MinimumMember
+2023-01-10
+0001083743
+us-gaap:SubsequentEventMember
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+FLUX:FourthAmendmentAndSecurityAgreementMember
+srt:MaximumMember
+2023-01-10
+0001083743
+us-gaap:SubsequentEventMember
+FLUX:FourthAmendmentToLoanAndSecurityAgreementMember
+FLUX:SiliconValleyBankMember
+2023-01-10
+2023-01-10
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+2022-07-01
+2022-12-31
+0001083743
+FLUX:SiliconValleyBankMember
+us-gaap:RevolvingCreditFacilityMember
+2022-12-31
+0001083743
+FLUX:FourthAmendmentToLoanAndSecurityAgreementMember
+FLUX:SiliconValleyBankMember
+us-gaap:SubsequentEventMember
+2023-01-10
+0001083743
+us-gaap:SubsequentEventMember
+FLUX:FourthAmendmentToLoanAndSecurityAgreementMember
+FLUX:SiliconValleyBankMember
+2023-02-06
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+srt:MinimumMember
+2022-05-11
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+srt:MaximumMember
+2022-05-11
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+2022-07-01
+2022-12-31
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+2022-05-10
+2022-05-11
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+2022-12-14
+2022-12-15
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+srt:MaximumMember
+2022-05-10
+2022-05-11
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+2022-05-11
+0001083743
+FLUX:CreditFacilityAgreementMember
+FLUX:LendersMember
+FLUX:PlacementAgentMember
+2022-05-10
+2022-05-11
+0001083743
+FLUX:HCWainwrightCoLLCMember
+2020-12-21
+0001083743
+FLUX:HCWainwrightCoLLCMember
+2020-12-20
+2020-12-21
+0001083743
+FLUX:AtTheMarketOfferingMember
+srt:MinimumMember
+2021-05-26
+2021-05-27
+0001083743
+FLUX:AtTheMarketOfferingMember
+srt:MaximumMember
+2021-05-26
+2021-05-27
+0001083743
+FLUX:AtTheMarketOfferingMember
+2020-12-20
+2022-12-31
+0001083743
+FLUX:AtTheMarketOfferingMember
+2022-12-31
+0001083743
+FLUX:RegisteredDirectOfferingMember
+2021-09-26
+2021-09-27
+0001083743
+FLUX:RegisteredDirectOfferingMember
+2021-09-27
+0001083743
+FLUX:UnderwritersMember
+2020-08-31
+0001083743
+FLUX:UnderwritersMember
+2020-08-01
+2020-08-31
+0001083743
+FLUX:InvestorsMember
+2021-09-30
+0001083743
+FLUX:InvestorsMember
+2021-09-01
+2021-09-30
+0001083743
+FLUX:LendersMember
+2022-05-31
+0001083743
+FLUX:LendersMember
+2022-05-01
+2022-05-31
+0001083743
+FLUX:SiliconValleyBankMember
+FLUX:SecondAmendmentToLoanAndSecurityAgreementMember
+2022-06-30
+0001083743
+FLUX:SiliconValleyBankMember
+FLUX:SecondAmendmentToLoanAndSecurityAgreementMember
+2022-06-01
+2022-06-30
+0001083743
+FLUX:TwoThousandAndTenOptionPlanMember
+2022-12-31
+0001083743
+FLUX:TwoThousandFourteenEquityIncentivePlanMember
+srt:MaximumMember
+2015-02-17
+0001083743
+FLUX:TwoThousandFourteenEquityIncentivePlanMember
+2022-12-31
+0001083743
+FLUX:TwoThousandTwentyOneEquityIncentivePlanMember
+2021-04-29
+0001083743
+FLUX:TwoThousandTwentyOneEquityIncentivePlanMember
+2022-12-31
+0001083743
+FLUX:TwoThousandFourteenAndTwoThousandTwentyOneEquityIncentivePlanMember
+2022-10-31
+0001083743
+FLUX:TwoThousandAndFourteenOptionPlanMember
+us-gaap:RestrictedStockUnitsRSUMember
+FLUX:ExecutiveOfficersMember
+2020-11-03
+2020-11-05
+0001083743
+FLUX:TwoThousandAndFourteenOptionPlanMember
+us-gaap:RestrictedStockUnitsRSUMember
+FLUX:EmployeesMember
+2020-11-03
+2020-11-05
+0001083743
+FLUX:TwoThousandAndFourteenOptionPlanMember
+FLUX:PerformanceBasedRestrictedStockUnitsRSUMember
+2020-11-03
+2020-11-05
+0001083743
+FLUX:TwoThousandAndFourteenOptionPlanMember
+FLUX:TimeBasedRestrictedStockUnitsRSUMember
+2020-11-03
+2020-11-05
+0001083743
+FLUX:TwoThousandAndFourteenPlanMember
+FLUX:TimeBasedRestrictedStockUnitsRSUMember
+2021-04-28
+2021-04-29
+0001083743
+FLUX:TwoThousandAndFourteenOptionPlanMember
+us-gaap:RestrictedStockUnitsRSUMember
+FLUX:ExecutiveOfficersMember
+2021-10-27
+2021-10-29
+0001083743
+FLUX:TwoThousandAndFourteenOptionPlanMember
+FLUX:PerformanceBasedRestrictedStockUnitsRSUMember
+2021-10-27
+2021-10-29
+0001083743
+FLUX:TwoThousandAndFourteenPlanMember
+FLUX:TimeBasedRestrictedStockUnitsRSUMember
+2021-10-27
+2021-10-29
+0001083743
+FLUX:TwoThousandAndFourteenOptionPlanMember
+FLUX:TimeBasedRestrictedStockUnitsRSUMember
+FLUX:EmployeesMember
+2021-10-27
+2021-10-29
+0001083743
+us-gaap:EmployeeStockOptionMember
+2022-12-31
+0001083743
+us-gaap:RestrictedStockUnitsRSUMember
+2022-12-31
+0001083743
+us-gaap:EmployeeStockOptionMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:RestrictedStockUnitsRSUMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:WarrantMember
+2022-06-30
+0001083743
+us-gaap:WarrantMember
+2021-07-01
+2021-12-31
+0001083743
+us-gaap:WarrantMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:WarrantMember
+2022-12-31
+0001083743
+us-gaap:WarrantMember
+2021-06-30
+0001083743
+us-gaap:WarrantMember
+2021-12-31
+0001083743
+2020-07-01
+2021-06-30
+0001083743
+us-gaap:ResearchAndDevelopmentExpenseMember
+2022-10-01
+2022-12-31
+0001083743
+us-gaap:ResearchAndDevelopmentExpenseMember
+2021-10-01
+2021-12-31
+0001083743
+us-gaap:ResearchAndDevelopmentExpenseMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:ResearchAndDevelopmentExpenseMember
+2021-07-01
+2021-12-31
+0001083743
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2022-10-01
+2022-12-31
+0001083743
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2021-10-01
+2021-12-31
+0001083743
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2021-07-01
+2021-12-31
+0001083743
+FLUX:ThreeMajorCustomersMember
+us-gaap:RevenueFromContractWithCustomerMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-01
+2022-12-31
+0001083743
+FLUX:ThreeMajorCustomersMember
+us-gaap:RevenueFromContractWithCustomerMember
+us-gaap:CustomerConcentrationRiskMember
+2022-07-01
+2022-12-31
+0001083743
+FLUX:TwoMajorCustomersMember
+us-gaap:RevenueFromContractWithCustomerMember
+us-gaap:CustomerConcentrationRiskMember
+2021-10-01
+2021-12-31
+0001083743
+FLUX:TwoMajorCustomersMember
+us-gaap:RevenueFromContractWithCustomerMember
+us-gaap:CustomerConcentrationRiskMember
+2021-07-01
+2021-12-31
+0001083743
+us-gaap:SupplierConcentrationRiskMember
+FLUX:PurchaseMember
+FLUX:OneSupplierMember
+2022-10-01
+2022-12-31
+0001083743
+us-gaap:SupplierConcentrationRiskMember
+FLUX:PurchaseMember
+FLUX:OneSupplierMember
+2022-07-01
+2022-12-31
+0001083743
+us-gaap:SupplierConcentrationRiskMember
+FLUX:PurchaseMember
+FLUX:ThreeSuppliersMember
+2021-10-01
+2021-12-31
+0001083743
+us-gaap:SupplierConcentrationRiskMember
+FLUX:PurchaseMember
+FLUX:ThreeSuppliersMember
+2021-07-01
+2021-12-31
+0001083743
+FLUX:AccutekMember
+2019-04-25
+0001083743
+FLUX:AccutekMember
+2019-04-24
+2019-04-25
+0001083743
+FLUX:FirstTwelveMonthsMember
+FLUX:AccutekMember
+2019-04-24
+2019-04-25
+0001083743
+FLUX:AccutekMember
+FLUX:SpaceMember
+2020-02-26
+0001083743
+FLUX:AccutekMember
+FLUX:ResidentialUnitMember
+2020-02-26
+0001083743
+FLUX:AccutekMember
+2020-02-26
+0001083743
+FLUX:AccutekMember
+2020-02-25
+2020-02-26
+0001083743
+2022-09-02
+0001083743
+2022-09-01
+2022-09-02
+0001083743
+2022-10-17
+0001083743
+2022-10-17
+2022-10-17
+0001083743
+FLUX:FourthAmendmentToLoanAndSecurityAgreementMember
+FLUX:SiliconValleyBankMember
+us-gaap:SubsequentEventMember
+srt:MinimumMember
+2023-01-10
+0001083743
+FLUX:FourthAmendmentToLoanAndSecurityAgreementMember
+FLUX:SiliconValleyBankMember
+us-gaap:SubsequentEventMember
+srt:MaximumMember
+2023-01-10
+0001083743
+us-gaap:SubsequentEventMember
+FLUX:FourthAmendmentToLoanAndSecurityAgreementMember
+FLUX:SiliconValleyBankMember
+2023-01-10
+2023-01-10
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:sqft
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the quarterly period ended
+December 31, 2022
+☐
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission
+File Number:
+001-31543
+FLUX
+POWER HOLDINGS, INC.
+(Exact
+name of registrant as specified in its charter)
+Nevada
+86-0931332
+(State
+or other jurisdiction of
+(I.R.S.
+Employer
+incorporation
+or organization)
+Identification
+Number)
+2685
+S. Melrose Drive ,
+Vista ,
+California
+92081
+(Address
+of principal executive offices)
+(Zip
+Code)
+877 - 505-3589
+(Registrant’s
+telephone number, including area code)
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title
+of Each Class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+Common
+Stock, par value $0.001 per share
+FLUX
+Nasdaq
+Capital Market
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the issuer was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files).
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”,
+“smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large
+accelerated filer
+☐
+Accelerated
+filer
+☐
+Non-accelerated
+filer
+☒
+Smaller
+reporting company
+☒
+Emerging
+growth company
+☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐
+No
+☒
+The
+number of shares of registrant’s common stock outstanding as of February 6, 2023 was
+16,029,478 .
+FLUX
+POWER HOLDINGS, INC.
+FORM
+10-Q
+For
+the Quarterly Period Ended December 31, 2022
+Table
+of Contents
+PART
+I - Financial Information
+ITEM
+1.
+CONDENSED
+CONSOLIDATED FINANCIAL STATEMENTS (unaudited)
+5
+ITEM
+2.
+MANAGEMENT’S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+20
+ITEM
+3.
+QUANTITATIVE
+AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+27
+ITEM
+4.
+CONTROLS
+AND PROCEDURES
+28
+PART
+II - Other Information
+ITEM
+1.
+LEGAL
+PROCEEDINGS
+29
+ITEM
+1A.
+RISK
+FACTORS
+29
+ITEM
+2.
+UNREGISTERED
+SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+29
+ITEM
+3.
+DEFAULTS
+UPON SENIOR SECURITIES
+29
+ITEM
+4.
+MINE
+SAFETY DISCLOSURES
+29
+ITEM
+5.
+OTHER
+INFORMATION
+29
+ITEM
+6.
+EXHIBITS
+30
+SIGNATURES
+31
+2
+SPECIAL
+NOTE REGARDING FORWARD LOOKING STATEMENTS
+This
+report contains forward-looking statements. The forward-looking statements are contained principally in the section captioned “Risk
+Factors,” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” These
+statements involve known and unknown risks, uncertainties and other factors which may cause our actual results, performance or achievements
+to be materially different from any future results, performances or achievements expressed or implied by the forward-looking statements.
+These risks and uncertainties include, but are not limited to, the factors described in the section captioned “Risk Factors”
+in our Annual Report on Form 10-K for the fiscal year ended June 30, 2022 filed with the SEC on September 28, 2022. In some cases, you
+can identify forward-looking statements by terms such as “anticipates,” “believes,” “could,” “estimates,”
+“expects,” “intends,” “may,” “plans,” “potential,” “predicts,”
+“projects,” “should,” “would,” and similar expressions intended to identify forward-looking statements.
+Forward-looking statements reflect our current views with respect to future events and are based on assumptions and subject to risks
+and uncertainties. You should read these factors and the other cautionary statements made in this report and in the documents we incorporate
+by reference into this report as being applicable to all related forward-looking statements wherever they appear in this report or the
+documents we incorporate by reference into this report. If one or more of these factors materialize, or if any underlying assumptions
+prove incorrect, our actual results, performance or achievements may vary materially from any future results, performance or achievements
+expressed or implied by these forward-looking statements.
+Given
+these uncertainties, you should not place undue reliance on these forward-looking statements. These forward-looking statements include,
+among other things, statements relating to:
+●
+to date
+we have not generated sufficient cash to fund our operations. At December 31, 2022, we had a cash balance of $157,000 and an accumulated
+deficit of $85.6 million. Our operating plan and forecast include a number of estimates and assumptions including our ability to
+execute our proposed plans, to generate revenue from our current backlog, to increase both revenue and gross profit, to implement
+cost reductions and to maintain access to financing under existing debt agreements. If we are not successful in executing our plans
+as expected, our ability to continue as a going concern will be adversely affected;
+●
+our
+ability to secure sufficient funding to support our current and proposed operations, which could be more difficult considering the
+negative impact of the COVID-19 pandemic on our operations, customer demand and supply chain, difficult stock market conditions as
+well as investor sentiment regarding our industry and our stock;
+●
+our
+ability to manage our working capital requirements efficiently;
+●
+our
+ability to maintain our credit facilities and obtain the necessary funds as needed;
+●
+our
+ability to maintain effective internal controls, our ability to record, process and report financial information timely and accurately
+could be adversely affected and could result in a material misstatement in our financial statements, which could subject us to litigation
+or investigations, require management resources, increase our expenses, negatively affect investor confidence in our financial statements
+and adversely impact the trading price of our common stock.
+●
+our
+ability to realize revenue from the current backlog is dependent on among other things, the delivery of key parts from our vendors
+in a timely manner. Backlog may not be indicative of future operating results, and existing orders may be cancelled, modified or
+otherwise altered by customers. We can provide no assurance as to the profitability of the contracts reflected in our backlog;
+●
+our
+ability to obtain raw materials and other supplies for our products at existing or competitive prices and on a timely basis, particularly
+considering the impact of COVID-19 pandemic and inflation on our suppliers and supply chain;
+●
+our
+anticipated growth strategies and our ability to manage the expansion of our business operations effectively;
+3
+●
+our
+ability to maintain or increase our market share in the competitive markets in which we do business;
+●
+our
+ability to grow our revenue, increase our gross profit margin and become a profitable business;
+●
+our
+ability to fulfill our backlog of open sales orders given delays in the receipt of key component parts and other potential manufacturing
+disruptions posed by the ongoing COVID-19 pandemic and general supply chain issues;
+●
+our
+ability to keep up with rapidly changing technologies and evolving industry standards, including our ability to achieve technological
+advances;
+●
+our
+dependence on the growth in demand for our products;
+●
+our
+ability to compete with larger companies with far greater resources than we have;
+●
+our
+ability to shift to new suppliers and incorporate new components into our products in a manner that is not disruptive to our business;
+●
+our
+ability to obtain and maintain UL Listings and OEM approvals for our energy storage solutions;
+●
+our
+ability to diversify our product offerings and capture new market opportunities;
+●
+our
+ability to source our needs for skilled labor, machinery, parts, and raw materials economically;
+●
+our
+ability to attract and retain key members of our senior management;
+●
+our
+ability to continue to operate safely and effectively during the COVID-19 pandemic; and
+●
+our
+dependence on few major customers.
+Also,
+forward-looking statements represent our estimates and assumptions only as of the date of this report. You should read this report and
+the documents that we reference, and file as exhibits to this report completely and with the understanding that our actual future results
+may be materially different from what we expect. Except as required by law, we assume no obligation to update any forward-looking statements
+publicly, or to update the reasons actual results could differ materially from those anticipated in any forward-looking statements, even
+if new information becomes available in the future.
+Use
+of Certain Defined Terms
+Except
+where the context otherwise requires and for the purposes of this report only:
+●
+the
+“Company,” “Flux,” “we,” “us,” and “our” refer to the combined business
+of Flux Power Holdings, Inc., a Nevada corporation and its wholly owned subsidiary, Flux Power, Inc., a California corporation (“Flux
+Power”);
+●
+“Exchange
+Act” refers the Securities Exchange Act of 1934, as amended;
+●
+“SEC”
+refers to the Securities and Exchange Commission; and
+●
+“Securities
+Act” refers to the Securities Act of 1933, as amended.
+4
+PART
+I - Financial Information
+Item
+1. Financial Statements
+FLUX
+POWER HOLDINGS, INC.
+CONDENSED
+CONSOLIDATED BALANCE SHEETS
+December
+31,
+2022
+June
+30,
+2022
+(Unaudited)
+ASSETS
+Current
+assets:
+Cash
+$ 157,000
+$ 485,000
+Accounts
+receivable
+10,467,000
+8,609,000
+Inventories,
+net
+19,507,000
+16,262,000
+Other
+current assets
+884,000
+1,261,000
+Total
+current assets
+31,015,000
+26,617,000
+Right
+of use assets
+2,601,000
+2,597,000
+Property,
+plant and equipment, net
+1,561,000
+1,578,000
+Other
+assets
+115,000
+89,000
+Total
+assets
+$ 35,292,000
+$ 30,881,000
+LIABILITIES
+AND STOCKHOLDERS’ EQUITY
+Current
+liabilities:
+Accounts
+payable
+$ 12,797,000
+$ 6,645,000
+Accrued
+expenses
+2,298,000
+2,209,000
+Line
+of credit
+6,811,000
+4,889,000
+Deferred
+revenue
+81,000
+163,000
+Customer
+deposits
+29,000
+175,000
+Finance
+lease payable, current portion
+64,000
+-
+Office
+lease payable, current portion
+542,000
+504,000
+Accrued
+interest
+1,000
+1,000
+Total
+current liabilities
+22,623,000
+14,586,000
+Office
+lease payable, less current portion
+2,079,000
+2,361,000
+Finance
+lease payable, less current portion
+172,000
+-
+Total
+liabilities
+24,874,000
+16,947,000
+Stockholders’
+equity:
+Preferred
+stock, $ 0.001
+par value;
+500,000
+shares authorized;
+none
+issued and outstanding
+-
+-
+Common
+stock, $ 0.001
+par value;
+30,000,000
+shares authorized;
+16,029,478
+and
+15,996,658
+shares issued and outstanding at December 31, 2022
+and June 30, 2022, respectively
+16,000
+16,000
+Additional
+paid-in capital
+96,036,000
+95,732,000
+Accumulated
+deficit
+( 85,634,000 )
+( 81,814,000 )
+Total
+stockholders’ equity
+10,418,000
+13,934,000
+Total
+liabilities and stockholders’ equity
+$ 35,292,000
+$ 30,881,000
+The
+accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+FLUX
+POWER HOLDINGS, INC.
+CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+2022
+2021
+2022
+2021
+Three
+Months Ended December 31,
+Six
+Months Ended December 31,
+2022
+2021
+2022
+2021
+Revenues
+$ 17,158,000
+$ 7,690,000
+$ 34,998,000
+$ 13,961,000
+Cost
+of sales
+13,050,000
+6,648,000
+26,942,000
+11,581,000
+Gross
+profit
+4,108,000
+1,042,000
+8,056,000
+2,380,000
+Operating
+expenses:
+Selling
+and administrative
+4,250,000
+4,000,000
+8,786,000
+7,498,000
+Research
+and development
+1,162,000
+2,088,000
+2,385,000
+4,055,000
+Total
+operating expenses
+5,412,000
+6,088,000
+11,171,000
+11,553,000
+Operating
+loss
+( 1,304,000 )
+( 5,046,000 )
+( 3,115,000 )
+( 9,173,000 )
+Other
+income
+8,000
+-
+8,000
+-
+Interest
+expense
+( 385,000 )
+( 31,000 )
+( 713,000 )
+( 34,000 )
+Net
+loss
+$ ( 1,681,000 )
+$ ( 5,077,000 )
+$ ( 3,820,000 )
+$ ( 9,207,000 )
+Net
+loss per share - basic and diluted
+$ ( 0.10 )
+$ ( 0.32 )
+$ ( 0.24 )
+$ ( 0.62 )
+Weighted
+average number of common shares outstanding - basic and diluted
+16,020,183
+15,987,502
+16,008,740
+14,895,989
+The
+accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+FLUX
+POWER HOLDING, INC.
+CONDENSED
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(unaudited)
+Common
+Stock
+Shares
+Capital
+Stock Amount
+Additional
+Paid-in Capital
+Accumulated
+Deficit
+Total
+Balance
+at June 30, 2022
+15,996,658
+$ 16,000
+$ 95,732,000
+$ ( 81,814,000 )
+$ 13,934,000
+Issuance
+of common stock – exercised options and RSU settlement
+1,678
+-
+-
+-
+-
+Stock
+based compensation
+-
+-
+95,000
+-
+95,000
+Net
+loss
+-
+-
+-
+( 2,139,000 )
+( 2,139,000 )
+Balance
+at September 30, 2022
+15,998,336
+16,000
+95,827,000
+( 83,953,000 )
+11,890,000
+Issuance
+of common stock – exercised options and RSU settlement
+31,142
+-
+-
+-
+-
+Stock
+based compensation
+-
+-
+209,000
+-
+209,000
+Net
+loss
+-
+-
+-
+( 1,681,000 )
+( 1,681,000 )
+Balance
+at December 31, 2022
+16,029,478
+$ 16,000
+$ 96,036,000
+$ ( 85,634,000 )
+$ 10,418,000
+Common
+Stock
+Shares
+Capital
+Stock Amount
+Additional
+Paid-in Capital
+Accumulated
+Deficit
+Total
+Balance
+at June 30, 2021
+13,652,164
+$ 14,000
+$ 79,197,000
+$ ( 66,205,000 )
+$ 13,006,000
+Issuance
+of common stock and warrants – registered direct offering, net of costs
+2,142,860
+2,000
+14,074,000
+-
+14,076,000
+Issuance
+of common stock – public offering, net of costs
+190,782
+-
+1,602,000
+-
+1,602,000
+Issuance
+of common stock – exercised options
+1,696
+-
+-
+-
+-
+Stock
+based compensation
+-
+-
+200,000
+-
+200,000
+Net
+loss
+-
+-
+-
+( 4,130,000 )
+( 4,130,000 )
+Balance
+at September 30, 2021
+15,987,502
+16,000
+95,073,000
+( 70,335,000 )
+24,754,000
+Balance
+value
+15,987,502
+16,000
+95,073,000
+( 70,335,000 )
+24,754,000
+Additional
+offering costs related to the registered direct offering
+-
+-
+( 105,000 )
+-
+( 105,000 )
+Stock
+based compensation
+-
+-
+249,000
+-
+249,000
+Net
+loss
+-
+-
+-
+( 5,077,000 )
+( 5,077,000 )
+Balance
+at December 31, 2021
+15,987,502
+$ 16,000
+$ 95,217,000
+$ ( 75,411,000 )
+$ 19,822,000
+Balance value
+15,987,502
+$ 16,000
+$ 95,217,000
+$ ( 75,411,000 )
+$ 19,822,000
+The
+accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+FLUX
+POWER HOLDINGS, INC.
+CONDENSED
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+2022
+2021
+Six
+Months Ended December 31,
+2022
+2021
+Cash
+flows from operating activities:
+Net
+loss
+$ ( 3,820,000 )
+$ ( 9,207,000 )
+Adjustments
+to reconcile net loss to net cash used in operating activities
+Depreciation
+371,000
+259,000
+Stock-based
+compensation
+304,000
+449,000
+Amortization
+of debt issuance costs
+368,000
+-
+Noncash
+lease expense
+236,000
+214,000
+Allowance
+for inventory reserve
+135,000
+169,000
+Changes
+in operating assets and liabilities:
+Accounts
+receivable
+( 1,858,000 )
+913,000
+Inventories
+( 3,380,000 )
+( 9,239,000 )
+Other
+current assets
+( 17,000 )
+( 409,000 )
+Accounts
+payable
+6,152,000
+2,064,000
+Accrued
+expenses
+89,000
+( 350,000 )
+Accrued
+interest
+-
+1,000
+Office
+lease payable
+( 244,000 )
+( 211,000 )
+Deferred
+revenue
+( 82,000 )
+116,000
+Customer
+deposits
+( 146,000 )
+( 171,000 )
+Net
+cash used in operating activities
+( 1,892,000 )
+( 15,401,000 )
+Cash
+flows from investing activities
+Purchases
+of equipment
+( 344,000 )
+( 530,000 )
+Proceeds
+from sale of fixed assets
+8,000
+-
+Net
+cash used in investing activities
+( 336,000 )
+( 530,000 )
+Cash
+flows from financing activities:
+Proceeds
+from issuance of common stock in registered direct offering, net of offering costs
+-
+13,971,000
+Proceeds
+from issuance of common stock in public offering, net of offering costs
+-
+1,602,000
+Proceeds
+from revolving line of credit
+30,550,000
+3,500,000
+Payment
+of revolving line of credit
+( 28,628,000 )
+-
+Payment
+of financed leases
+( 22,000 )
+-
+Net
+cash provided by financing activities
+1,900,000
+19,073,000
+Net
+change in cash
+( 328,000 )
+3,142,000
+Cash,
+beginning of period
+485,000
+4,713,000
+Cash,
+end of period
+$ 157,000
+$ 7,855,000
+Supplemental
+Disclosures of Non-Cash Investing and Financing Activities:
+Initial
+right of use asset recognition
+$ 258,000
+$ -
+Common
+stock issued for vested RSUs
+$ 114,000
+$ -
+Supplemental
+cash flow information:
+Interest
+paid
+$ 288,000
+$ 33,000
+The
+accompanying notes are an integral part of these condensed consolidated financial statements.
+8
+FLUX
+POWER HOLDINGS, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+DECEMBER
+31, 2022
+(Unaudited)
+NOTE
+1 -
+NATURE OF BUSINESS
+Basis
+of Presentation
+The
+accompanying unaudited condensed consolidated financial statements of the Company have been prepared in accordance with accounting principles
+generally accepted in the United States of America (“GAAP”) and the rules of the Securities and Exchange Commission (“SEC”)
+applicable to interim reports of companies filing as a smaller reporting company. These financial statements should be read in conjunction
+with the audited financial statements and notes thereto contained in the Company’s Annual Report on Form 10-K for the fiscal year
+ended June 30, 2022 filed with the SEC on September 28, 2022. In the opinion of management, the accompanying condensed consolidated interim
+financial statements include all adjustments necessary in order to make the financial statements not misleading. The results of operations
+for interim periods are not necessarily indicative of the results to be expected for the full year or any other future period. Certain
+notes to the financial statements that would substantially duplicate the disclosures contained in the audited financial statements for
+the most recent fiscal year as reported in the Company’s Annual Report on Form 10-K have been omitted. The accompanying condensed
+consolidated balance sheet at June 30, 2022 has been derived from the audited balance sheet at June 30, 2022 contained in such Form 10-K.
+Nature
+of Business
+Flux
+Power Holdings, Inc. (“Flux”) was incorporated in 2008 in the State of Nevada, and Flux’s operations are conducted
+through its wholly owned subsidiary, Flux Power, Inc. (“Flux Power”), a California corporation (collectively, the “Company”).
+We
+design, develop, manufacture, and sell a portfolio of advanced lithium-ion energy storage solutions for electrification of a range of
+industrial commercial sectors which include material handling, airport ground support equipment (“GSE”), and stationary energy
+storage. We believe our mobile and stationary energy storage solutions provide customers with a reliable, high performing, cost effective,
+and more environmentally friendly alternative as compared to traditional lead acid and propane-based solutions. Our modular and scalable
+design allows different configurations of lithium-ion battery packs to be paired with our proprietary wireless battery management system
+to provide the level of energy storage required and “state of the art” real time monitoring of pack performance. We believe
+that the increasing demand for lithium-ion battery packs and more environmentally friendly energy storage solutions in the material handling
+sector should continue to drive our revenue growth.
+As
+used herein, the terms “we,” “us,” “our,” “Flux,” and “Company” mean Flux
+Power Holdings, Inc., unless otherwise indicated. All dollar amounts herein are in U.S. dollars unless otherwise stated.
+NOTE
+2 -
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The
+Company’s significant accounting policies are described in Note 2, “Summary of Significant Accounting Policies,” in
+the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2022. There have been no material changes in these
+policies or their application.
+Management
+has considered all recent accounting pronouncements issued since the last audit of the Company’s consolidated financial statements
+and believes that these recent pronouncements will not have a material effect on the Company’s condensed consolidated financial
+statements.
+9
+Net
+Loss Per Common Share
+The
+Company calculates basic loss per common share by dividing net loss by the weighted average number of common shares outstanding during
+the periods. Diluted loss per common share includes the impact from all dilutive potential common shares relating to outstanding convertible
+securities.
+For
+the three months ended December 31, 2022 and 2021, basic and diluted weighted-average common shares outstanding were
+16,020,183
+and
+15,987,502 ,
+respectively. For the six months ended December 31, 2022 and 2021, basic and diluted weighted-average common shares outstanding were
+16,008,740
+and
+14,895,989 , respectively. The Company incurred a net loss for the three and six months ended December 31, 2022 and 2021,
+and therefore, basic and diluted loss per share for the periods were the same because potential common share equivalent would have been
+anti-dilutive. The total potentially dilutive common shares outstanding at December 31, 2022 and 2021 that were excluded from diluted
+weighted-average common shares outstanding represent shares underlying outstanding convertible debt, stock options, RSUs, and warrants,
+and totaled
+2,608,505
+and
+2,092,851 , respectively.
+At
+December 31, 2022 and 2021 potentially dilutive common shares outstanding that were excluded from diluted weighted-average common shares
+outstanding were as follows:
+SCHEDULE OF DILUTIVE COMMON SHARES OUTSTANDING EXCLUDED FROM DILUTIVE WEIGHTED AVERAGE COMMON SHARES OUTSTANDING
+December
+31,
+2022
+December
+31,
+2021
+Stock
+options
+1,019,602
+513,606
+RSUs
+216,989
+292,932
+Warrants
+1,371,914
+1,286,313
+Total
+2,608,505
+2,092,851
+Liquidity
+Considerations
+The
+accompanying financial statements and notes have been prepared assuming the Company will continue as a going concern. For the six months
+ended December 31, 2022 and the year ended June 30, 2022, the Company generated negative cash flows from operations of $ 1.9
+million and
+$ 23.9
+million, respectively, and had an accumulated deficit of $ 85.6
+million and $ 81.8
+million, respectively. Management has evaluated
+the Company’s expected cash requirements over the next twelve (12) months, including investments in additional sales and marketing
+and research and development, capital expenditures, and working capital requirements. Management believes the Company’s existing
+cash, funding available under the SVB Credit Facility and the subordinated line of credit (“Subordinated LOC”), expected improvements in the gross margin and lower cash
+requirements will enable the Company to fund planned operations for the next twelve (12) months.
+Historically,
+the Company has not generated sufficient cash to fund its operations. The Company is continuing efforts to improve operational efficiencies
+and to generate revenue from its existing backlog. Management currently anticipates increased revenues as well as improvements in the
+Company’s gross margin over the next twelve (12) months. The Company has received new orders in the twelve-month period ended December
+31, 2022, of approximately $ 62.4
+million.
+As
+of February 6, 2023, the Company had a cash balance of $ 964,000 , $ 5.7
+million remaining balance under the SVB Credit Facility and $ 4.0
+million was available for future draws under the Subordinated LOC. As of February 6, 2023, $ 5.7
+million remained available under the
+Company’s ATM agreement. In addition, to support our operations and anticipated growth, we intend to explore additional sources
+of capital as needed. We also continue to execute our cost reduction, sourcing, pricing recovery initiatives in efforts to increase our
+gross margins and improve cash flow from operations. Any unforeseen factors in the general economy beyond management’s control
+could potentially have negative impact on the planned gross margin improvement plan.
+10
+NOTE
+3 –
+ACCRUED EXPENSES
+Accrued
+expenses consist of the following:
+SCHEDULE OF ACCRUED EXPENSES
+December
+31,
+2022
+June
+30,
+2022
+Payroll
+and bonus accrual
+$ 719,000
+$ 767,000
+PTO
+accrual
+412,000
+430,000
+Warranty
+liability
+1,167,000
+1,012,000
+Total
+Accrued expenses
+$ 2,298,000
+$ 2,209,000
+NOTE
+4 –
+NOTES PAYABLE
+Revolving
+Line of Credit
+On
+November 9, 2020, the Company entered into a Loan and Security Agreement (“Agreement”) with Silicon Valley Bank (“SVB”).
+On
+October 29, 2021, the Company entered into a First Amendment to Loan and Security Agreement (“First Amendment” and together
+with the Agreement, the “Loan Agreement”) with SVB which amended certain terms of the Agreement including, but not limited
+to, increasing the amount of the revolving line of credit from $ 4.0
+million to $ 6.0
+million, and extending the maturity date to
+November
+7, 2022 . The First Amendment provided the Company with a senior secured credit facility for up to $ 6.0
+million available on a revolving
+basis (“Revolving LOC”). Outstanding principal under the Revolving LOC accrued interest at a floating rate per annum equal
+to the greater of
+(i) Prime Rate plus two and a half percent (2.50%), or (ii) five and three-quarters percent (5.75%). The Company paid
+a non-refundable commitment fee of $ 15,000
+upon execution of the Agreement and an additional non-refundable commitment fee of $22,500
+in connection with the First Amendment.
+On
+June 23, 2022, the Company entered into a Second Amendment to Loan and Security Agreement (“Second Amendment” and together
+with the Loan Agreement,, the “Second Amended Loan Agreement”) with SVB, which amended certain terms of the Loan Agreement
+, including but not limited to, (i) increasing the amount of the revolving line of credit to $8.0 million, (ii) changing the financial
+covenants of the Company from one based on tangible net worth to another based on adjusted EBITDA (as defined in the Second Amendment)
+on a trailing six (6) month basis and liquidity ratio certified as of the end of each month pursuant to the calculations set forth therein,
+and (iii) allowing for the assignment and transfer by SVB of all of its obligations, rights and benefits under the Agreement and Loan
+Documents (as defined in the Agreement and except for the Warrants).
+In
+addition, under the Second Amendment, the interest rate terms for the outstanding principal under the Revolving LOC were amended to accrue
+interest at a floating per annum rate equal to the greater of either
+(A) Prime Rate plus three and one-half of one percent (3.50%) or
+(B) seven and one-half of one percent (7.50%). Interest payments are due monthly on the last day of the month. In addition, the Company
+is required to pay a quarterly unused facility fee equal to one-quarter of one percent (0.25%) per annum of the average daily unused
+portion of the $8.0 million commitment under the SVB Credit Facility, depending upon availability of borrowings under the Revolving LOC.
+Pursuant to the Second Amendment, the Company paid SVB a non-refundable amendment fee of $ 5,000
+and SVB’s legal fees and expenses
+incurred in connection with the Second Amendment.
+In
+connection with the Second Amendment, the Company issued a
+twelve-year
+warrant to SVB and its designee, SVB Financial Group, to purchase
+up to
+40,806
+shares of common stock of the Company at an exercise price of $ 2.23
+per share pursuant to the terms set forth therein.
+On
+November 7, 2022, we entered into a Third Amendment to Loan and Security Agreement (“Third Amendment”) with SVB, which amended
+certain terms of the Second Amended Loan Agreement (together with the Third Amendment, the “Third Amended Loan Agreement”),
+including but not limited to, (i) extending the maturity date from November 7, 2022 to May 7, 2023 (the “Extension Period”),
+(ii) amending the financial covenants of the Company to cover the Extension Period and to include a liquidity ratio financial covenant,
+and (iii) amending the definition of Permitted Liens (as defined in the Third Amendment). Pursuant to the Third Amendment, the Company
+paid SVB a non-refundable amendment fee of $ 12,500
+and SVB’s legal fees and expenses incurred in connection with the Third Amendment.
+11
+On
+January 10, 2023, the Company entered into a Fourth Amendment to Loan and Security Agreement (the “Fourth Amendment”)
+with SVB, which amended certain terms of the Third Amended Loan Agreement (together with the Fourth Amendment, the
+“Agreement”), including but not limited to, (i) increasing the amount of the SVB Credit Facility from $ 8.0
+million
+to $ 14.0
+million,
+(ii) removing the liquidity ratio financial covenant of the Company under Section 6.9 of the Third Amended Loan Agreement, (iii)
+amending the definition of Borrowing Base (as defined in the Fourth Amendment), which includes a new defined term for Net Orderly
+Liquidation Value (as defined in the Fourth Amendment), and (iv) removing certain defined liquidity terms under Section 13.1 of the
+Third Amended Loan Agreement. (See Note 9 – Subsequent Events).
+Pursuant to the Fourth Amendment, the Company paid SVB
+a non-refundable amendment fee of $ 10,000
+and
+SVB’s legal fees and expenses incurred in connection with the Fourth Amendment.
+The
+Company has used the SVB Credit Facility to fund its operations and working capital requirements. Amounts outstanding under the
+Revolving LOC are secured by substantially all tangible and intangible assets of the Company (including, without limitation,
+intellectual property) pursuant to the terms of the Fourth Amended Loan Agreement, and the Intellectual Property Security Agreement
+dated as of October 29, 2021. During the six months ended December 31, 2022, the Company had multiple Revolving LOC drawdowns
+totaling $ 30.6
+million and multiple Revolving LOC payments totaling $ 28.6
+million. As of December 31, 2022, the outstanding balance under the Revolving LOC was approximately $ 6.8
+million.
+As
+noted above, on January 10, 2023, the SVB Credit Facility was increased by $ 6.0
+million to $ 14.0
+million and as of February 6, 2023,
+$ 5.7
+million remaining balance for future draws through May 7, 2023, unless the credit facility is renewed and its term is extended
+prior to its expiration. (See Note 9 – Subsequent Events)
+NOTE
+5 -
+RELATED PARTY DEBT AGREEMENTS
+As
+of December 31, 2022 and June 30, 2022, the Company had no related party debt balance outstanding. Below are the activities for the Company’s
+related party debt agreements that existed during the periods ended December 31, 2022 and 2021 covered by the accompanying unaudited
+condensed consolidated financial statements.
+Subordinated
+Line of Credit Facility
+On
+May 11, 2022, the Company entered into a Credit Facility Agreement (the “Subordinated LOC”) with Cleveland Capital,
+L.P., a Delaware limited partnership (“Cleveland”), Herndon Plant Oakley, Ltd., (“HPO”), and other lenders
+(together with Cleveland and HPO, the “Lenders”). The Subordinated LOC provides the Company with a short-term line of
+credit not less than $ 3,000,000
+and not more than $ 5,000,000 ,
+the proceeds of which shall be used by the Company for working capital purposes. In connection with the Subordinated LOC, the
+Company issued a separate subordinated unsecured promissory note in favor of each respective Lender (each promissory note, a
+“Note”) for each Lender’s commitment amount (each such commitment amount, a “Commitment Amount”). As
+of December 31, 2022, the Lenders committed to an aggregate commitment of $ 4,000,000 .
+Pursuant
+to the terms of the Subordinated LOC, each Lender severally agrees to make loans (each such loan, an “Advance”) up to such
+Lender’s Commitment Amount to the Company from time to time, until December 31, 2022 (the “Due Date”). The Company
+may, from time to time, prior to the Due Date, draw down, repay, and re-borrow on the Note, by giving notice to the Lenders of the amount
+to be requested to be drawn down.
+Each
+Note bears an interest rate of
+15.0 % per annum on each Advance from and after the date of disbursement of such Advance and is payable
+on (i) the Due Date in cash or shares of common stock of the Company (the “Common Stock”) at the sole election of the Company,
+unless such Due Date extended pursuant to the Note, or (ii) on occurrence of an event of Default (as defined in the Note). The Due Date
+may be extended (i) at the sole election of the Company for one (1) additional year period from the Due Date upon the payment of a commitment
+fee equal to two percent ( 2 %) of the Commitment Amount to the Lender within thirty (30) days prior to the original Due Date, or (ii)
+by the Lender in writing. In addition, each Lender signed a Subordination Agreement by and between the Lenders and SVB dated as of May
+11, 2022 (the “Subordination Agreement”) for the purposes of subordinating the right to payment under the Note to SVB’s
+indebtedness by the Company now outstanding or hereinafter incurred. On December 15, 2022, the Board of Directors of the Company elected
+to extend the Due Date to December 31, 2023 and the Company paid the Lenders an extension fee in the aggregate amount of $ 80,000 .
+12
+The
+Subordinated LOC includes customary representations, warranties and covenants by the Company and the Lenders. The Company has also agreed
+to pay the legal fees of Cleveland’s counsel in an amount up to $ 10,000 . In addition, each Note also provides that, upon the occurrence
+of a Default, at the option of the Lender, the entire outstanding principal balance, all accrued but unpaid interest and/or Late Charges
+(as defined in the Note) at once will become due and payable upon written notice to the Company by the Lender.
+In
+connection with entry into the Subordinated LOC, the Company paid to each Lender a one-time committee fee in cash equal to
+3.5 % of such
+Lender’s Commitment Amount. In addition, in consideration of the Lenders’ commitment to provide the Advances to the Company,
+the Company issued the Lenders five-year warrants to purchase an aggregate of
+128,000
+shares of common stock at an exercise price of
+$ 2.53
+per share that are, subject to certain ownership limitations, exercisable immediately (the “Warrants”)
+(the number
+of warrants issued to each Lender is equal to the product of (i) 160,000 shares of common stock multiplied by (ii) the ratio represented
+by each Lender’s Commitment Amount divided by the $5,000,000).
+Pursuant
+to a selling agreement, dated as of May 11, 2022, the Company retained HPO as its placement agent in connection with the Subordinated
+LOC. As compensation for services rendered in conjunction with the Subordinated LOC, the Company paid HPO a finder fee equal to
+3 % of
+the Commitment Amount from each such Lender placed by HPO in cash.
+NOTE
+6 -
+STOCKHOLDERS’ EQUITY
+At-The-Market
+(“ATM”) Offering
+On
+December 21, 2020 the Company entered into a Sales Agreement (the “Sales Agreement”) with H.C. Wainwright & Co., LLC
+(“HCW”) to sell shares of its common stock, par value $ 0.001
+(the “Common Stock”) from time to time, through
+an “at-the-market offering” program (the “ATM Offering”).
+The
+Company agreed to pay HCW a commission in an amount equal to
+3.0 % of the gross sales proceeds of the shares sold under the Sales Agreement.
+In addition, the Company agreed to reimburse HCW for certain legal and other expenses incurred up to a maximum of $50,000 to establish
+the ATM Offering, and $2,500 per quarter thereafter to maintain such program under the Sales Agreement.
+The Company has also agreed pursuant
+to the Sales Agreement to indemnify and provide contribution to HCW against certain liabilities, including liabilities under the Securities
+Act.
+On
+May 27, 2021, the Company filed Amendment No. 1 (the “Amendment”) to the prospectus supplement dated December 21, 2020 (the
+“Prospectus Supplement”) to increase the size of the ATM Offering from an aggregate offering price of up to $ 10
+million in
+the Prospectus Supplement to an amended maximum aggregate offering price of up to $ 20
+million of shares of the Company’s common
+stock (the “Shares”) (which amount includes the value of shares the Company has already sold prior to the date of the Amendment)
+pursuant to the base prospectus dated October 26, 2020, the Prospectus Supplement, and the Amendment (collectively, the “Prospectus”).
+From
+December 21, 2020 through December 31, 2022, the Company sold an aggregate of
+1,169,564
+shares of common stock at an average price of
+$ 12.24
+per share for gross proceeds of approximately $ 14.3
+million under the ATM Offering. The Company received net proceeds of approximately
+$ 13.7
+million, net of commissions and other offering related expenses.
+The
+Shares was registered under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to the Company’s
+Registration Statement on Form S-3 (File No. 333-249521), declared effective by the Securities and Exchange Commission (the “Commission”)
+on October 26, 2020, and the Prospectus. Sales of the Shares, if any, may be made by any method permitted by law deemed to be an “at-the-market
+offering” as defined in Rule 415(a)(4) of the Securities Act. The Company or the HCW may, upon written notice to the other party
+in accordance with the terms of the Sales Agreement, suspend offers and sales of the Shares. The Company and HCW each have the right,
+in its sole discretion, to terminate the Sales Agreement at any time upon prior written notice pursuant to the terms and subject to the
+conditions set forth in the Sales Agreement.
+13
+Registered
+Direct Offering
+On
+September 27, 2021, the Company closed a registered direct offering, priced at-the-market under Nasdaq rules (“RDO”) for
+the sale of
+2,142,860
+shares of common stock and warrants to purchase up to an aggregate of
+1,071,430
+shares of common stock, at an offering
+price of $ 7.00
+per share and associated warrant for gross proceeds of approximately $ 15.0
+million prior to deducting offering expenses
+totaling approximately $ 1.0
+million. The associated warrants have an exercise price equal to $ 7.00
+per share and are exercisable upon
+issuance and expire in five years. HCW acted as the exclusive placement agent for the registered direct offering.
+The
+securities sold in the RDO were sold pursuant to a “shelf” registration statement on Form S-3 (File No. 333-249521), including
+a base prospectus, previously filed with the Securities and Exchange Commission (the “SEC”) on October 16, 2020 and declared
+effective by the SEC on October 26, 2020. The registered direct offering of the securities was made by means of a prospectus supplement
+dated September 22, 2021 and filed with the SEC, that forms a part of the effective registration statement.
+Warrants
+In
+August 2020 and in conjunction with the Company’s public offering, the Company issued
+five-year
+warrants to the underwriters to
+purchase up to
+185,955
+shares of the Company’s common stock at an exercise price of $ 4.80
+per share and had a fair value of approximately
+$ 513,000 . The underwriters’ warrants became exercisable on February 8, 2021.
+In
+connection with the Company’s RDO, in September 2021 the Company issued
+five-year
+warrants to the RDO investors to purchase up
+to
+1,071,430
+shares of the Company’s common stock at an exercise price of $ 7.00
+per share and were estimated to have a fair value
+of approximately $ 3,874,000 . The warrants were exercisable immediately and are limited to beneficial ownership of
+4.99 % at any point
+in time in accordance with the warrant agreement.
+In
+May 2022 and in conjunction with entry into a credit facility with Cleveland , HPO, and other lenders (together with Cleveland and HPO,
+the “Lenders”), the Company issued
+five-year
+warrants to the Lenders to purchase up to
+128,000
+shares of the Company’s
+common stock at an exercise price of $ 2.53
+per share and had a fair value of approximately $ 173,000 .
+In
+June 2022 and in conjunction with the entry into the Second Amendment to Loan and Security Agreement with SVB, the Company issued
+twelve-year
+warrants to SVB and its designee, SVB Financial Group, to purchase up to
+40,806
+shares of the Company’s common stock at an exercise
+price of $ 2.23
+per share and had a fair value of approximately $ 80,000 .
+Warrant
+detail for the six months ended December 31, 2022 is reflected below:
+SCHEDULE
+OF STOCK WARRANT ACTIVITY
+Number
+of Warrants
+Weighted
+Average
+Exercise
+Price
+Per
+Warrant
+Weighted
+Average
+Remaining Contract
+Term
+(#
+years)
+Warrants
+outstanding and exercisable at June 30, 2022
+1,455,119
+$ 6.10
+Warrants
+issued
+1,071,430
+$      7.00
+Warrants
+cancelled
+( 83,205 )
+$     4.00
+Warrants
+outstanding and exercisable at December 31, 2022
+1,371,914
+$ 6.23
+3.92
+14
+Warrant
+detail for the six months ended December 31, 2021 is reflected below:
+Number
+of Warrants
+Weighted
+Average Exercise Price Per Warrant
+Remaining
+Contract
+Term
+(#
+years)
+Warrants
+outstanding and exercisable at June 30, 2021
+214,883
+$ 4.49
+Warrants
+issued
+1,071,430
+$      7.00
+Warrants
+outstanding and exercisable at December 31, 2021
+1,286,313
+$ 6.58
+4.35
+Stock
+Options
+In
+connection with the reverse acquisition of Flux Power, Inc. in 2012, the Company assumed the 2010 Plan. As of December 31, 2022, there
+were
+22,536
+options to purchase common stock outstanding under the 2010 Plan. No additional options may be granted under the 2010 Plan.
+On
+February 17, 2015 the Company’s stockholders approved the 2014 Equity Incentive Plan (the “2014 Plan”). The 2014 Plan
+offers certain employees, directors, and consultants the opportunity to acquire the Company’s common stock subject to vesting requirements
+and serves to encourage such persons to remain employed by the Company and to attract new employees. The 2014 Plan allows for the award
+of the Company’s common stock and stock options, up to
+1,000,000
+shares of the Company’s common stock. As of December 31,
+2022,
+109,027
+shares of the Company’s common stock were available for future grants under the 2014 Plan.
+On
+April 29, 2021, the Company’s stockholders approved the 2021 Equity Incentive Plan (the “2021 Plan”). The 2021 Plan
+authorizes the issuance of awards for up to
+2,000,000
+shares of common stock in the form of incentive stock options, non-statutory stock
+options, stock appreciation rights, restricted stock units, restricted stock awards and unrestricted stock awards to officers, directors
+and employees of, and consultants and advisors to, the Company or its affiliates. As of December 31, 2022,
+1,552,674
+shares of the Company’s
+common stock were available for future grants under the 2021 Plan.
+On
+October 31, 2022, the Board of Directors authorized a total of
+624,441
+stock options to be granted under the Company’s 2014 Plan
+and 2021 Plan.
+Activity
+in the Company’s stock options during the six months ended December 31, 2022 and related balances outstanding as of that date are
+reflected below:
+SCHEDULE
+OF STOCK OPTIONS ACTIVITY
+Number
+of Shares
+Weighted
+Average Exercise Price
+Weighted
+Average Remaining Contract
+Term
+(#
+years)
+Outstanding
+at June 30, 2022
+503,433
+$ 11.03
+Granted
+624,441
+$ 3.43
+Exercised
+( 22,500 )
+$ 4.60
+Forfeited
+and cancelled
+( 85,772 )
+$ 13.46
+Outstanding
+at December 31, 2022
+1,019,602
+$ 6.32
+7.98
+Exercisable
+at December 31, 2022
+399,922
+$ 10.79
+5.10
+15
+Activity
+in the Company’s stock options during the six months ended December 31, 2021 and related balances outstanding as of that date are
+reflected below:
+Number
+of Shares
+Weighted
+Average Exercise Price
+Weighted
+Average Remaining Contract
+Term
+(#
+years)
+Outstanding
+at June 30, 2021
+531,205
+$
+11.02
+Granted
+-
+$
+-
+Exercised
+( 3,400
+)
+$
+4.65
+Forfeited
+and cancelled
+( 14,199
+)
+$
+13.70
+Outstanding
+at December 31, 2021
+513,606
+$
+10.99
+6.20
+Exercisable
+at December 31, 2021
+500,623
+$
+10.95
+6.16
+Restricted
+Stock Units
+On
+November 5, 2020, the Company’s Board of Directors approved an amendment to the 2014 Plan, to allow for grants of Restricted Stock
+Units (“RSUs”). Subject to vesting requirements set forth in the RSU Award Agreement, one share of common stock is issuable
+for one vested RSU. On November 5, 2020, the Board of Directors authorized the following RSUs to be granted under the amended 2014 Option
+Plan: (i) a total of
+43,527
+RSUs to certain executive officers as one-time retention incentive awards, and (ii) a total of
+91,338
+RSUs
+to certain key employees as annual equity compensation of which
+45,652
+were performance-based RSUs and
+45,686
+were time-based RSUs. On
+April 29, 2021, an additional
+18,312
+time-based RSUs were authorized by the Company’s Board of Directors to be granted under the
+amended 2014 Option Plan. On October 29, 2021, the Board of Directors authorized the following RSUs to be granted under the amended 2014
+Option Plan: (i) a total of
+97,828
+RSUs to certain executive officers of which
+48,914
+were performance-based RSUs and
+48,914
+were time-based
+RSUs, and (ii) a total of
+81,786
+time-based RSUs to certain other key employees. The RSUs are subject to the terms and conditions provided
+in (i) the Restricted Stock Unit Award Agreement for time-based awards (“Time-based Award Agreement”), and (ii) the Performance
+Restricted Stock Unit Award Agreement for performance-based awards (“Performance-based Award Agreement”).
+Activity
+in RSUs during the six months ended December 31, 2022 and related balances outstanding as of that date are reflected below:
+SCHEDULE
+OF RESTRICTED STOCK UNITS ACTIVITY
+Number
+of Shares
+Weighted
+Average
+Grant
+date
+Fair
+Value
+Weighted
+Average Remaining Contract
+Term
+(#
+years)
+Outstanding
+at June 30, 2022
+304,221
+$ 6.06
+Granted
+5,034
+$ 2.70
+Vested
+and settled
+( 32,248 )
+$ 3.49
+Forfeited
+and cancelled
+( 60,018 )
+$     6.51
+Outstanding
+at December 31, 2022
+216,989
+$ 5.92
+1.07
+Activity
+in RSUs during the six months ended December 31, 2021 and related balances outstanding as of that date are reflected below:
+Number
+of Shares
+Weighted
+Average
+Grant
+date
+Fair
+Value
+Weighted
+Average Remaining Contract Term
+(#
+years)
+Outstanding
+at June 30, 2021
+131,652
+$ 9.25
+2.72
+Granted
+179,614
+$ 5.75
+-
+Forfeited
+and cancelled
+( 18,334 )
+$      7.71
+-
+Outstanding
+at December 31, 2021
+292,932
+$ 7.22
+2.69
+16
+Stock-based
+Compensation
+Stock-based
+compensation expense for the three and six months ended December 31, 2022 and 2021 represents the estimated fair value of stock options
+and RSUs at the time of grant amortized under the straight-line method over the expected vesting period and reduced for estimated forfeitures
+of options and RSUs. Forfeitures are estimated at the time of grant and revised, if necessary, in subsequent periods if actual forfeitures
+differ from original estimates. At December 31, 2022, the aggregate intrinsic value of exercisable stock options was approximately $ 335,000 .
+The
+following table summarizes stock-based compensation expense for employee and non-employee stock option and RSU grants:
+SCHEDULE
+OF STOCK-BASED COMPENSATION EXPENSES
+2022
+2021
+2022
+2021
+Three
+Months Ended
+December 31,
+Six
+Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Research
+and development
+$ 43,000
+$ 54,000
+$ 69,000
+$ 90,000
+Selling
+and administrative
+166,000
+195,000
+235,000
+359,000
+Total
+stock-based compensation expense
+$ 209,000
+$ 249,000
+$ 304,000
+$ 449,000
+The
+Company uses the Black-Scholes valuation model to calculate the fair value of stock options. The fair value of stock options was measured
+at the grant date using the assumptions (annualized percentages) in the table below:
+SCHEDULE OF FAIR VALUE ASSUMPTIONS OF STOCK OPTIONS
+2022
+2021
+Six
+Months Ended December 31,
+2022
+2021 (1)
+Expected
+volatility
+90.12 %
+- *
+Risk
+free interest rate
+4.21 %
+- *
+Forfeiture
+rate
+20 %
+- *
+Dividend
+yield
+0 %
+- *
+Expected
+term (years)
+6.25
+- *
+(1)
+No
+stock option was granted during the six months ended December 31, 2021.
+At
+December 31, 2022, the unamortized stock-based compensation expense related to outstanding stock options and RSUs was approximately $ 1,030,000
+and $ 503,000 , respectively, and these amounts are expected to be expensed over the weighted-average remaining recognition period of
+3.83
+years and
+1.07
+years, respectively.
+NOTE
+7 -
+CONCENTRATIONS
+Credit
+Risk
+Financial
+instruments that potentially subject the Company to concentrations of credit risk consist principally of cash and unsecured trade accounts
+receivable. The Company maintains cash balances in non-interest bearing bank deposit accounts at a California commercial bank. The Company’s
+cash balance at this institution is secured by the Federal Deposit Insurance Corporation up to $ 250,000 . As of December 31, 2022 and
+June 30, 2022, cash was approximately $ 157,000
+and $ 485,000 , respectively. The Company has not experienced any losses in such accounts.
+Management believes that the Company is not exposed to any significant credit risk with respect to its cash.
+Customer
+Concentrations
+During
+the three months ended December 31, 2022, the Company had three (3) major customers that each represented more than 10% of revenues on
+an individual basis, and together represented approximately $ 11,542,000
+or
+67 % of total revenues. During the six months ended December
+31, 2022, the Company had three (3) major customers that each represented more than 10% of revenues on an individual basis, and together
+represented approximately $ 22,336,000
+or
+64 % of total revenues.
+During
+the three months ended December 31, 2021, the Company had two (2) major customers that each represented more than 10% of revenues on
+an individual basis, and together represented approximately $ 4,239,000
+or
+55 % of total revenues. During the six months ended December
+31, 2021, the Company had three (3) major customers that each represented more than 10% of revenues on an individual basis, and together
+represented approximately $ 7,699,000
+or
+55 % of total revenues.
+17
+Suppliers/Vendor
+Concentrations
+The
+Company obtains several components and supplies included in its products from a group of suppliers. During the three months ended December
+31, 2022, the Company had one (1) supplier who accounted for more than 10% of total purchases and represented approximately $ 4,992,000
+or
+32 % of total purchases. During the six months ended December 31, 2022, the Company had one (1) supplier who accounted for more than
+10% of total purchases and represented approximately $ 9,149,000
+or
+29 % of total purchases. We continue to assess our supplier base to
+ensure alignment with our expanding needs.
+During
+the three months ended December 31, 2021, the Company had three (3) suppliers who accounted for more than 10% of total purchases on an
+individual basis, and together represented approximately $ 4,614,000
+or
+39 % of total purchases. During the six months ended December 31,
+2021, the Company had two (2) suppliers who accounted for more than 10% of total purchases on an individual basis, and together represented
+approximately $ 5,397,000
+or
+26 % of total purchases.
+NOTE
+8 -
+COMMITMENTS AND CONTINGENCIES
+From
+time to time, the Company may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business.
+However, litigation is subject to inherent uncertainties and an adverse result in these or other matters may arise from time to time
+that may harm the Company’s business. The Company is not aware of any material legal proceedings currently pending or expected
+against the Company.
+Operating
+Leases
+On
+April 25, 2019 the Company signed a Standard Industrial/Commercial Multi-Tenant Lease (“Lease”) with Accutek to rent approximately
+45,600
+square feet of industrial space at 2685 S. Melrose Drive, Vista, California.
+The Lease has an initial term of seven years and
+four months and commenced on or about June 28, 2019.
+The lease contains an option to extend the term for two periods of 24 months each,
+and the right of first refusal to lease an additional approximate 15,300 square feet.
+The monthly rental rate was $ 42,400
+for the first
+12 months, escalating at
+3 % each year.
+On
+February 26, 2020, the Company entered into the First Amendment to Standard Industrial/Commercial Multi-Tenant Lease dated April 25,
+2019 (the “Amendment”) with Accutek to rent an additional
+16,309
+rentable square feet of space plus a residential unit of
+approximately
+1,230
+rentable square feet (for a total of approximately
+17,539
+rentable square feet).
+The lease for the additional space
+commenced 30 days following the occupancy date of the additional space and will terminate concurrently with the term of the original
+lease, which expires on
+November 20, 2026 .
+The base rent for the additional space is the same rate as the space rented under the terms
+of the original lease, $ 0.93
+per rentable square (subject to 3% annual increase). In connection with the Amendment, the Company purchased
+certain existing office furniture for a total purchase price of $ 8,300 .
+Total
+rent expense was approximately $ 217,000
+and $ 215,000
+for the three months ended December 31, 2022 and 2021, respectively. Total rent
+expense was approximately $ 439,000
+and $ 429,000
+for the six months ended December 31, 2022 and 2021, respectively.
+Capital
+Leases
+On
+September 2, 2022 the Company leased a vehicle to be used for corporate transportation activities. The Lease has a term of sixty ( 60 )
+months and commenced on September 10, 2022. The monthly lease payment is approximately $ 1,100
+excluding sales tax and other fees.
+On
+October 17, 2022 the Company leased certain equipment to be used for manufacturing and testing our products. The Lease has a term of
+thirty-six ( 36 ) months and commenced on October 17, 2022. The monthly lease payment is approximately $ 5,500 .
+18
+Lease
+costs are amortized on a straight-line basis over their respective lease terms. Depreciation expense related to leased assets was approximately
+$ 18,000
+for the three and six months ended December 31, 2022. Interest expense on leased liabilities was approximately $ 5,000
+for the
+three and six months ended December 31, 2022. The Company did not have any financed leases during the six months ended December 31, 2021.
+The
+Future Minimum Lease Payments as of December 31, 2022 are as follows:
+SCHEDULE
+OF FUTURE MINIMUM LEASE PAYMENTS
+Operating
+Leases
+Finance
+Leases
+Year
+Ending June 30,
+2023
+(remaining six months)
+$ 385,000
+$ 36,000
+2024
+791,000
+81,000
+2025
+815,000
+80,000
+2026
+840,000
+32,000
+2027
+359,000
+15,000
+Thereafter
+-
+20,000
+Total
+Future Minimum Lease Payments
+3,190,000
+264,000
+Less:
+discount
+( 569,000 )
+( 28,000 )
+Total
+lease liability
+$ 2,621,000
+$ 236,000
+NOTE
+9 -
+SUBSEQUENT EVENTS
+On
+January 10, 2023, the Company entered into a Fourth Amendment to Loan and Security Agreement (the “Fourth Amendment”)
+with SVB, which amended certain terms of the Loan and Security Agreement dated November 9, 2020, as amended on October 29, 2021, as
+further amended on June 23, 2022, and as further amended on November 7, 2022 (together with the Fourth Amendment, the
+“Agreement”), including but not limited to, (i) increasing the amount of the revolving line of credit from $ 8.0
+million
+to $ 14.0
+million,
+(ii) removing the liquidity ratio financial covenant of the Company under Section 6.9 of the Agreement, (iii) amending the
+definition of Borrowing Base (as defined in the Fourth Amendment), which includes a new defined term for Net Orderly Liquidation
+Value (as defined in the Fourth Amendment), and (iv) removing certain defined liquidity terms under Section 13.1 of the Agreement.
+Pursuant
+to the Fourth Amendment, the Company paid SVB a non-refundable amendment fee of $ 10,000
+and
+SVB’s legal fees and expenses incurred in connection with the Fourth Amendment. As of February 6, 2023, $ 5.7
+million remaining balance for future draws through May 7, 2023, unless the credit facility
+is renewed and its term is extended prior to its expiration.
+19
+ITEM
+2 - MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The
+following discussion provides information which management believes is relevant to an assessment and understanding of the Company’s
+results of operations and financial condition. The discussion should be read in conjunction with the unaudited interim condensed consolidated
+Financial Statements and Notes thereto and Part II, Item 7, Management’s Discussion and Analysis of Financial condition and Results
+of Operations contained in our Annual Report on Form 10-K for the fiscal year ended June 30, 2022.
+Business
+Overview
+We
+design, develop, manufacture, and sell a portfolio of advanced lithium-ion energy storage solutions for electrification of a range of
+industrial commercial sectors which include material handling, airport ground support equipment (“GSE”), and other commercial
+and industrial applications. We believe our mobile and stationary energy storage solutions provide our customers a reliable, high performing,
+cost effective, and more environmentally friendly alternative as compared to traditional lead acid and propane-based solutions. Our modular
+and scalable design allows different configurations of lithium-ion battery packs to be paired with our proprietary wireless battery management
+system to provide the level of energy storage required and “state of the art” real time monitoring of pack performance. We
+believe that the increasing demand for lithium-ion battery packs and more environmentally friendly energy storage solutions in the material
+handling sector should continue to drive our revenue growth.
+Our
+long-term strategy is to meet the rapidly growing demand for lithium-ion energy solutions and to be the supplier of choice, targeting
+large companies having demanding energy storage needs. We have established selling relationships equipment OEMs and customers with large
+fleets of forklifts and GSEs. We intend to reach this goal by investing in research and development to expand our product mix, expanding
+our sales and marketing efforts, improving our customer support efforts and continuing our efforts to improve production capacity and
+efficiencies. Our research and development efforts will continue to focus on providing adaptable, reliable and cost-effective energy
+storage solutions for our customers.
+Our
+largest sector of penetration thus far has been the material handling sector which we believe is a multi-billion dollar addressable market.
+We believe the sector will provide us with an opportunity to grow our business as we enhance our product mix and service levels and grow
+our sales to large fleets of forklifts and GSEs. Applications of our modular packs for other industrial and commercial uses, such as
+solar energy storage, are providing additional growth opportunities. We intend to continue to expand our supply chain and customer partnerships
+and seek further partnerships and/or acquisitions that provide synergy to meeting our growth and “building scale” objectives.
+The
+following table summarizes the new orders, shipments, and backlog activities for the last six (6) fiscal quarters:
+Fiscal
+Quarter
+Ended
+Beginning
+Backlog
+New
+Orders
+Shipments
+Ending
+Backlog
+September
+30, 2021
+$ 12,624,000
+$ 13,122,000
+$ 6,313,000
+$ 19,433,000
+December
+31, 2021
+$ 19,433,000
+$ 19,819,000
+$ 7,837,000
+$ 31,415,000
+March
+31, 2022
+$ 31,415,000
+$ 20,495,000
+$ 13,317,000
+$ 38,593,000
+June
+30, 2022
+$ 38,593,000
+$ 11,622,000
+$ 15,195,000
+$ 35,020,000
+September
+30, 2022
+$ 35,020,000
+$ 9,678,000
+$ 17,840,000
+$ 26,858,000
+December
+31, 2022
+$ 26,858,000
+$ 20,652,000
+$ 17,158,000
+$ 30,352,000
+“Backlog”
+represents the amount of anticipated revenues we may recognize in the future from existing contractual orders with customers that are
+in progress and have not yet shipped. Backlog values may not be indicative of future operating results as orders may be cancelled, modified
+or otherwise altered by customers. In addition, our ability to realize revenue from our backlog will be dependent on the delivery of
+key parts from our suppliers and our ability to manufacture and ship our products to customers in a timely manner. There can be no assurance
+that outstanding customer orders will be fulfilled as expected and that our backlog will result in future revenues.
+As
+of February 6, 2023, our order backlog was approximately $29.8 million .
+20
+Business
+Updates
+Supply
+Chain Issues and Higher Procurement Costs
+The
+supply chain disruptions that started during the COVID-19 pandemic continue, notably with delivery delays at the ports of Los Angeles
+and Long Beach. In addition, the price of steel and certain other electrical components used in our products have seen dramatic increases,
+along with increased shipping costs. It is impossible to predict how long the current disruptions to the cost and availability of raw
+materials and component parts will last. We implemented price increases on certain new product orders in October 2021 and April 2022
+to offset rising global costs of raw materials and component parts. In addition, we increased our inventory of raw materials and component
+parts to $19.5 million as of December 31, 2022 to mitigate potential supply chain disruptions and support timely deliveries. However,
+there can be no assurance that our price increases, inventory levels or any future steps we take will be sufficient to offset the rising
+procurement costs and manage sourcing of raw materials and component parts effectively.
+To
+address some of these negative consequences and to support the future growth of our business, we have implemented a number of new strategic
+initiatives. Our first priority over the coming quarters is achieving “profitability,” specifically, cash flow breakeven.
+Accordingly, we continue to focus our efforts on the following strategic initiatives:
+○
+Gross
+margin improvements
+●
+Utilize
+lower cost, more reliable, and secondary suppliers of key components including cells, steel, electronics, circuit boards and other
+key components.
+●
+Actively
+manage our suppliers to avoid supply chain disruptions and related risks.
+●
+Introduce
+new designs, including a simplified “platform” that reduces part count, lowers cost, improves manufacturability and serviceability.
+●
+Focus
+on ensuring profitability of all product lines by increasing prices where appropriate, discontinuing unprofitable lines and closely
+managing our mix of products.
+●
+Seek
+more competitive carriers to reduce shipping costs.
+●
+Implement
+Lean Manufacturing process to enhance capacity utilization, efficiency, quality.
+●
+Introduce
+comprehensive “cost of quality” initiative to ensure effective and robust processes.
+●
+Implement
+“automated cell module assembly” to assemble purchased “individual” battery cells into a “module”
+for the battery pack. This will enable lower inventory from simplified SKU count and lower costs.
+○
+Business
+expansion to accelerate gross margin
+●
+Leverage
+current high-profile “proven customer relationships” to respond to growing demand of large fleets for lithium-ion value
+proposition.
+●
+Pursue
+new markets that can leverage our technology and manufacturing capabilities.
+●
+Expand
+features of our popular “SkyBMS” (telemetry) which provides customized fleet management, and real time reports.
+●
+Expand
+our manufacturing and service capacities to ensure customer satisfaction from increased deliveries, and service.
+●
+Capitalize
+on our leadership position with new offerings.
+●
+While
+we are “agnostic to the type of lithium chemistry,” ensure our research to support other chemistries as they may become
+available. Ensure we have leadership with our core technology, without dependence on purchasing critical technology.
+There
+can be no assurance that these initiatives and efforts will be successful.
+21
+Recent
+Corporate Developments
+Amendment
+to Revolving Line of Credit with Silicon Valley Bank
+On
+January 10, 2023, we entered into a Fourth Amendment to Loan and Security Agreement (the “Fourth Amendment”) with Silicon
+Valley Bank (“SVB”), which amended certain terms of the Loan and Security Agreement dated November 9, 2020, as amended on
+October 29, 2021, as further amended on June 23, 2022, and as further amended on November 7, 2022 (together with the Fourth Amendment,
+the “Agreement”), including but not limited to, (i) increasing the amount of the revolving line of credit from $8.0 million
+to $14.0 million, (ii) removing the liquidity ratio financial covenant of the Company under Section 6.9 of the Agreement, (iii) amending
+the definition of Borrowing Base (as defined in the Fourth Amendment), which includes a new defined term for Net Orderly Liquidation
+Value (as defined in the Fourth Amendment), and (iv) removing certain defined liquidity terms under Section 13.1 of the Agreement. Pursuant
+to the Fourth Amendment, we paid SVB a non-refundable amendment fee of $10,000 and SVB’s legal fees and expenses incurred in connection
+with the Fourth Amendment. We have used the SVB Credit Facility to fund our operations and working capital requirements. As of December 31, 2022, the outstanding balance under
+the Revolving LOC was approximately $6.8 million. As noted above, on January 10, 2023, the SVB Credit Facility was increased by $6.0
+million.to $14.0 million and as of February 6, 2023, $5.7 million remaining balance for future draws through May 7, 2023, unless the
+credit facility is renewed and its term is extended prior to its expiration. (See Note 9 – Subsequent Events)
+Segment
+and Related Information
+We
+operate as a single reportable segment.
+Results
+of Operations and Financial Condition
+The
+following table represents our unaudited condensed consolidated statement of operations for the three months ended December 31, 2022
+and December 31, 2021.
+Three
+Months Ended December 31,
+2022
+2021
+$
+%
+of
+Revenues
+$
+%
+of
+Revenues
+Revenues
+$ 17,158,000
+100 %
+$ 7,690,000
+100 %
+Cost
+of sales
+13,050,000
+76 %
+6,648,000
+86 %
+Gross
+profit
+4,108,000
+24 %
+1,042,000
+14 %
+Operating
+expenses:
+Selling
+and administrative
+4,250,000
+25 %
+4,000,000
+53 %
+Research
+and development
+1,162,000
+7 %
+2,088,000
+27 %
+Total
+operating expenses
+5,412,000
+32 %
+6,088,000
+80 %
+Operating
+loss
+(1,304,000 )
+-8 %
+(5,046,000 )
+-66 %
+Other
+income
+8,000
+0 %
+-
+0 %
+Interest
+expense, net
+(385,000 )
+-2 %
+(31,000 )
+-0 %
+Net
+loss
+$ (1,681,000 )
+-10 %
+$ (5,077,000 )
+-66 %
+Revenues
+Revenues
+for the quarter ended December 31, 2022, increased by $9,468,000 or 123% to $17,158,000, compared to $7,690,000 for the quarter ended
+December 31, 2021. The increase in revenues was due to sales of energy storage solutions with higher average selling prices and a higher
+volume of units sold. The increase in revenues included both greater sales to existing customers as well as initial sales to new customers.
+22
+Cost
+of Sales
+Cost
+of sales for the quarter ended December 31, 2022, increased by $6,402,000, or 96%, to $13,050,000 compared to $6,648,000 for the quarter
+ended December 31, 2021. The increase in cost of sales was directly associated with higher sales of energy storage solutions, as well
+as increased costs of steel, electronic parts, and common off the shelf parts chiefly as a result of the supply chain interruptions.
+Cost of sales as a percent of revenues for the quarter ended December 31, 2022 was 76%, an improvement of 10 percentage points compared
+to 86% for the quarter ended December 31, 2021.
+Gross
+Profit
+Gross
+profit for the quarter ended December 31, 2022 increased by $3,066,000 or 294%, to $4,108,000 compared to $1,042,000 for the quarter
+ended December 31, 2021. The gross profit margin (gross profit as a percent of revenues) increased to 24% for the quarter ended December
+31, 2022 compared to 14% for the quarter ended December 31, 2021. Gross profit improved by 10 percentage points as a result of higher
+volume of units sold with greater gross margin and lower cost of sales as a result of the gross margin improvement initiatives.
+Selling
+and Administrative Expenses
+Selling
+and administrative expenses for the quarter ended December 31, 2022 increased by $250,000 or 6%, to $4,250,000 compared to $4,000,000
+for the quarter ended December 31, 2021. The increase was primarily attributable to increases in marketing expenses, commissions, insurance
+premiums, depreciation, recruiting costs, and outbound shipping costs, partially offset by decreases in bad debt expenses, stock-based
+compensation, and professional service fees.
+Research
+and Development Expense
+Research
+and development expenses for the quarter ended December 31, 2022 decreased by $926,000 or 44%, to $1,162,000 compared to $2,088,000 for
+the quarter ended December 31, 2021. Such expenses consisted primarily of materials, supplies, salaries and personnel related expenses,
+product testing, consulting, and other expenses associated with revisions to existing product designs and new product development. The
+decrease in research and development expenses was primarily due to lower staff related expenses and expenses related to development of
+new products.
+Interest
+Expense
+Interest
+expense for the quarter ended December 31, 2022 increased by $354,000 to $385,000 compared to $31,000 for the quarter ended December
+31, 2021. The increase in interest expense was primarily related to higher balances outstanding under our SVB Credit Facility as well
+as higher interest rate. Also included in interest expense during quarter ended December 31, 2022 was additional interest expense of
+approximately $197,000 representing the amortization of debt issuance costs related to our existing lines of credit.
+Net
+Loss
+Net
+loss for the quarter ended December 31, 2022 decreased by $3,396,000 or 67%, to $1,681,000 as compared to $5,077,000 for the quarter
+ended December 31, 2021. The lower net loss for the three months ended December 31, 2022 was primarily attributable to increased gross
+profit, and decreased operating expenses, partially offset by increased interest expense.
+23
+The
+following table represents our unaudited condensed consolidated statement of operations for the six months ended December 31, 2022 and
+December 31, 2021.
+Six
+Months Ended December 31,
+2022
+2021
+$
+%
+of
+Revenues
+$
+%
+of
+Revenues
+Revenues
+$ 34,998,000
+100 %
+$ 13,961,000
+100 %
+Cost
+of sales
+26,942,000
+77 %
+11,581,000
+83 %
+Gross
+profit
+8,056,000
+23 %
+2,380,000
+17 %
+Operating
+expenses:
+Selling
+and administrative
+8,786,000
+25 %
+7,498,000
+54 %
+Research
+and development
+2,385,000
+7 %
+4,055,000
+29 %
+Total
+operating expenses
+11,171,000
+32 %
+11,553,000
+83 %
+Operating
+loss
+(3,115,000 )
+-9 %
+(9,173,000 )
+-66 %
+Other
+income
+8,000
+0 %
+-
+0 %
+Interest
+expense, net
+(713,000 )
+-2 %
+(34,000 )
+-0 %
+Net
+loss
+$ (3,820,000 )
+-11 %
+$ (9,207,000 )
+-66 %
+Revenues
+Revenues
+for the six months ended December 31, 2022, increased by $21,037,000 or 151% to $34,998,000, compared to $13,961,000 for the six months
+ended December 31, 2021. The increase in revenues was due to sales of energy storage solutions with higher average selling prices and
+a higher volume of units sold. The increase in revenues included both greater sales to existing customers as well as initial sales to
+new customers.
+Cost
+of Sales
+Cost
+of sales for the six months ended December 31, 2022, increased by $15,361,000, or 133%, to $26,942,000 compared to $11,581,000 for the
+six months ended December 31, 2021. The increase in cost of sales was directly associated with higher sales of energy storage solutions,
+as well as increased costs of steel, electronic parts, and common off the shelf parts chiefly as a result of the supply chain interruptions.
+Cost of sales as a percent of revenues for the six months ended December 31, 2022 was 77%, an improvement of 6 percentage points compared
+to 83% for the six months ended December 31, 2021.
+Gross
+Profit
+Gross
+profit for the six months ended December 31, 2022 increased by $5,676,000 or 238%, to $8,056,000 compared to $2,380,000 for the six months
+ended December 31, 2021. The gross profit margin (gross profit as a percent of revenues) increased to 23% for the six months ended December
+31, 2022 compared to 17% for the six months ended December 31, 2021. Gross profit improved by 6 percentage points as a result of higher
+volume of units sold with greater gross margin and lower cost of sales as a result of the gross margin improvement initiatives.
+Selling
+and Administrative Expenses
+Selling
+and administrative expenses for the six months ended December 31, 2022 increased by $1,288,000 or 17%, to $8,786,000 compared to $7,498,000
+for the six months ended December 31, 2021. The increase was primarily attributable to increases in personnel expenses related to new
+hires and temporary labor, severance expenses incurred, and recruiting costs, and increases in depreciation expense, outbound shipping
+costs, insurance premiums, commissions, travel expenses, marketing expenses, and facilities related costs, partially offset by decreases
+in bad debt expenses, and stock-based compensation.
+24
+Research
+and Development Expense
+Research
+and development expenses for the six months ended December 31, 2022 decreased by $1,670,000 or 41%, to $2,385,000 compared to $4,055,000
+for the six months ended December 31, 2021. Such expenses consisted primarily of materials, supplies, salaries and personnel related
+expenses, product testing, consulting, and other expenses associated with revisions to existing product designs and new product development.
+The decrease in research and development expenses was primarily due to lower staff related expenses and expenses related to development
+of new products.
+Interest
+Expense
+Interest
+expense for the six months ended December 31, 2022 increased by $679,000 to $713,000 compared to $34,000 for the six months ended December
+31, 2021. The increase in interest expense was primarily related to higher balances outstanding under our SVB Credit Facility as well
+as higher interest rate. Also included in interest expense during the six months ended December 31, 2022 was additional interest expense
+of approximately $426,000 representing the amortization of debt issuance costs related to our existing lines of credit.
+Net
+Loss
+Net
+loss for the six months ended December 31, 2022 decreased by $5,387,000 or 59%, to $3,820,000 as compared to $9,207,000 for the six months
+ended December 31, 2021. The lower net loss for the six months ended December 31, 2022 was primarily attributable to increased gross
+profit, and decreased operating expenses, partially offset by increased interest expense.
+Adjusted
+EBITDA
+Adjusted
+EBITDA is a non-GAAP financial measure. Adjusted EBITDA is calculated by taking net income and adding back the expenses related to interest,
+income taxes, depreciation, amortization, and stock-based compensation, each of which has been calculated in accordance with GAAP. Adjusted
+EBITDA was a loss of approximately $2,432,000 for the six months ended December 31, 2022 compared to a loss of $8,465,000 for the six
+months ended December 31, 2021.
+Management
+believes that Adjusted EBITDA, when viewed with our results under GAAP and the accompanying reconciliations, provides useful information
+about our period-over-period results. Adjusted EBITDA is presented because management believes it provides additional information with
+respect to the performance of our fundamental business activities and is also frequently used by securities analysts, investors and other
+interested parties in the evaluation of comparable companies. We also rely on Adjusted EBITDA as a primary measure to review and assess
+the operating performance of our company and our management team.
+As
+Adjusted EBITDA is a non-GAAP financial measure, it should not be construed as a substitute for EBITDA and net income (loss) (as determined
+in accordance with GAAP) for the purpose of analyzing our operating performance or financial position.
+A
+reconciliation of our Adjusted EBITDA to net loss is included in the table below:
+Six
+Months Ended December 31,
+2022
+2021
+Net
+loss
+$ (3,820,000 )
+$ (9,207,000 )
+Add/Subtract:
+Interest,
+net
+713,000
+34,000
+Income
+tax provision
+-
+-
+Depreciation
+and amortization
+371,000
+259,000
+EBITDA
+(2,736,000 )
+(8,914,000 )
+Add/Subtract:
+Stock-based
+compensation
+304,000
+449,000
+Adjusted
+EBITDA
+$ (2,432,000 )
+$ (8,465,000 )
+25
+Liquidity
+and Capital Resources
+Overview
+For the six months ended December 31, 2022 and the year ended June 30,
+2022, we generated negative cash flows from operations of $1.9 million and $23.9 million, respectively. To date our business has not generated
+sufficient cash to fund our operations. However, we believe that based on our ability to recognize revenue from our existing backlog,
+we anticipate increased revenues as well as planned improvements in our gross margin over the next twelve (12) months. Our planned gross
+margin improvement tasks continue to include, but is not limited to, a plan to drive bill of material costs down while increasing price
+of our products for new orders. We have received new orders during the twelve (12) months period ended December 31, 2022, of approximately
+$62.4 million.
+As of February 6, 2023, we believe that our existing cash of $964,000,
+together with $5.7 million remaining balance under our $14.0 million revolving line of credit with Silicon Valley Bank
+(“SVB Credit Facility”), and $4.0 million available under the Subordinated LOC, along with the forecasted gross margin will
+be sufficient to meet our anticipated capital resources to fund planned operations for the next twelve (12) months. See “Future
+Liquidity Needs” below
+Cash
+Flows
+Cash
+Flow Summary
+Six
+Months Ended December 31,
+2022
+2021
+Net
+cash used in operating activities
+$ (1,892,000 )
+$ (15,401,000 )
+Net
+cash used in investing activities
+(336,000 )
+(530,000 )
+Net
+cash provided by financing activities
+1,900,000
+19,073,000
+Net
+change in cash
+$ (328,000 )
+$ 3,142,000
+Operating
+Activities
+Net
+cash used in operating activities was $1,892,000 for the six months ended December 31, 2022, compared to net cash used in operating activities
+of $15,401,000 for the six months ended December 31, 2021. The primary usages of cash for the six months ended December 31, 2022 were
+the net loss of $3,820,000 and increases in accounts receivable, inventory, and other assets, and decreases in deferred revenue, customer
+deposits and office lease payable, that were partially offset by non-cash operating costs, and increases in accounts payable and accrued
+expenses. The primary usages of cash for the six months ended December 31, 2021 were the net loss of $9,207,000, increases in inventory,
+and other assets, partially offset by non-cash operating costs, and a decrease in accounts receivable and an increase in accounts payable.
+Investing
+Activities
+Net
+cash used in investing activities was $336,000 for the six months ended December 31, 2022 and consisted primarily of the costs of internal
+software development and other capital equipment.
+Net
+cash used in investing activities was $530,000 for the six months ended December 31, 2021 and consisted primarily of the costs of internal
+software development and purchase of furniture and equipment and warehouse equipment.
+26
+Financing
+Activities
+Net
+cash provided by financing activities was $1,900,000 for the six months ended December 31, 2022, mainly representing net borrowings under
+the SVB Credit Facility during six months ended December 31, 2022.
+Net
+cash provided by financing activities was $19,073,000 for the six months ended December 31, 2021, which primarily consisted of $13,971,000
+in net proceeds from issuances of common stock in the registered direct offering closed on September 27, 2021, $3,500,000 in borrowing
+under the working capital line of credit, and $1,602,000 in net proceeds from sales of common stock under our ATM offering.
+Future
+Liquidity Needs
+We
+have evaluated our expected cash requirements over the next twelve (12) months, which include, but are not limited to, investments
+in additional sales and marketing and research and development, capital expenditures, and working capital requirements. As of
+February 6, 2023, we believe that our existing cash of $964,000, cash from our future operations, and additional funding of up to
+$5.7 million remaining balance under our SVB Credit Facility, combined with funds available to us under our Subordinated LOC of up to $4.0 million,
+along with the forecasted gross margin will be sufficient to meet our anticipated capital resources to fund planned operations for
+at least the next twelve (12) months. As of February 6, 2023, $5.7 million remained available under our ATM offering that may be
+utilized if necessary subject to the volume of trading and price of our stock and market conditions. In addition, to support our
+operations and anticipated growth, we intend to continue our efforts to secure additional capital from a variety of current and new
+sources including, but not limited to, sales of our equity securities. We also continue to execute our cost reduction, sourcing,
+pricing recovery initiatives in efforts to increase our gross margins and improve cash flow from operations.
+Although
+management believes that our existing cash and the additional funding sources currently available to us under the lines of credit are
+sufficient to fund planned operations for the next twelve (12) months, this is dependent our ability to successfully maintain and draw
+on our credit facilities. Our ability to draw funds from the SVB Credit Facility are subject to certain restrictions and covenants. If
+we are unable to meet the conditions provided in the loan documents, the funds will not be available to us. In addition, should there
+be any delays in the receipts of key component parts, due in part to supply change disruptions, our ability to fulfil the backlog of
+sales orders will be negatively impacted resulting in lower availability of cash resources from operations. In that event, we may be
+required to raise additional funds by issuing equity or convertible debt securities. If such funds are not available when required, management
+will be required to curtail investments in additional sales and marketing and product development, which may have a material adverse
+effect on future cash flows and results of operations. In addition, any, unforeseen factors in the general economy beyond management’s
+control could potentially have negative impact on the planned gross margin improvement plan.
+In
+the event we are required to obtain additional funds, there is no guarantee that additional funds will be available on a timely basis
+or on acceptable terms. To the extent that we raise additional funds by issuing equity or convertible debt securities, our stockholders
+may experience additional dilution and such financing may involve restrictive covenants.
+Critical
+Accounting Policies
+The
+unaudited interim financial statements have been prepared in accordance with accounting principles generally accepted in the United States
+of America, which require us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date
+of the unaudited financial statements and revenues and expenses during the periods reported. Actual results could differ from those estimates.
+Information with respect to our critical accounting policies which we believe could have the most significant effect on our reported
+results and require subjective or complex judgments by management is contained in Item 7, Management’s Discussion and Analysis
+of Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the fiscal year ended June 30, 2022 filed with
+the SEC on September 28, 2022.
+ITEM
+3 - QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The
+Company is a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and is not required to provide the information required
+under this item.
+27
+ITEM
+4 - CONTROLS AND PROCEDURES
+Evaluation
+of Disclosure Controls and Procedures
+Under
+the supervision and with the participation of our management, including our principal executive officer and principal financial officer,
+as of the end of the period covered by this report, we conducted an evaluation of the effectiveness of the design and operation of our
+disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Act of 1934. Our disclosure controls
+and procedures are designed to provide reasonable assurance that the information required to be included in our SEC reports is recorded,
+processed, summarized and reported within the time periods specified in SEC rules and forms, relating to the Company, including our consolidated
+subsidiaries, and was made known to them by others within those entities, particularly during the period when this report was being prepared.
+Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that our disclosure controls and procedures
+were effective as of December 31, 2022.
+The
+management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The Company’s
+internal control over financial reporting is a process designed under the supervision of the Company’s principal executive officer
+and principal financial officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+of the Company’s financial statements for external purposes in accordance with generally accepted accounting principles. Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. All internal control
+systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide
+only reasonable assurances with respect to financial statement preparation and presentation. Additionally, projections of any evaluation
+of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate.
+As
+described in the Company’s 10-K for the fiscal year ended June 30, 2022, management assessed the effectiveness of the Company’s
+internal control over financial reporting and based on such assessment, management concluded that as of June 30, 2022, our internal control
+over financial reporting was not effective due to material weakness related to ineffective oversight of the Company’s internal
+control over financial reporting and lack of sufficient review and approval of the underlying data used in the calculation of warranty
+reserve. During the six months ended December 31, 2022, we have implemented additional control procedures to strengthen the oversight
+of the Company’s internal control over financial reporting through review and sign off by the senior management of all significant
+assumptions and estimates being used and the underlying data used in producing financial schedules/estimates and financial reporting.
+We have also added a second level of review and approval for all manual journal entries for significant estimates and assumptions made
+by management. Based on the foregoing, we believe we have remediated the material weaknesses. We plan to continue to assess our internal
+controls and control procedures and intend to take further action as necessary or appropriate to address any other matters we identify
+or are brought to our attention.
+Changes
+in Internal Control Over Financial Reporting
+Except
+as discussed above, there have been no changes in the Company’s internal controls over financial reporting during the quarter ended
+December 31, 2022 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control
+over financial reporting.
+28
+PART
+II - OTHER INFORMATION
+ITEM
+1 - LEGAL PROCEEDINGS
+From
+time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business. However,
+litigation is subject to inherent uncertainties and an adverse result in these or other matters may arise from time to time that may
+harm our business. To the best knowledge of management, there are no material legal proceedings pending against the Company.
+ITEM
+1A - RISK FACTORS
+An
+investment in our common stock involves a high degree of risk. You should carefully consider the risks set forth in the section captioned
+“Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended June 30, 2022, filed with the SEC on September
+28, 2022, before making an investment decision. If any of the risks actually occur, our business, financial condition or results of operations
+could suffer. In that case, the trading price of our common stock could decline, and you may lose all or part of your investment. You
+should read the section captioned “Special Note Regarding Forward Looking Statements” above for a discussion of what types
+of statements are forward-looking statements, as well as the significance of such statements in the context of this report.
+ITEM
+2 - UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+None
+ITEM
+3 - DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM
+4 - MINE SAFETY DISCLOSURES
+Not
+applicable.
+ITEM
+5 - OTHER INFORMATION
+None.
+29
+ITEM
+6 - EXHIBITS
+The
+following exhibits are filed as part of this Report.
+Exhibit
+No.
+Description
+10.1
+Fourth
+Amendment to Loan and Security Agreement, dated January 10, 2023 (1)
+31.1
+Certifications of the Chief Executive Officer under Section 302 of the Sarbanes-Oxley Act.*
+31.2
+Certifications of the Chief Financial Officer under Section 302 of the Sarbanes-Oxley Act.*
+32.1
+Certifications of the Chief Executive Officer under Section 906 of the Sarbanes-Oxley Act.*
+32.2
+Certifications of the Chief Financial Officer under Section 906 of the Sarbanes-Oxley Act.*
+101.INS
+XBRL
+Instance Document- the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the
+Inline XBRL document*
+101.SCH
+Inline
+XBRL Taxonomy Extension Schema Document*
+101.CAL
+Inline
+XBRL Taxonomy Extension Calculation Linkbase Document*
+101.DEF
+Inline
+XBRL Taxonomy Extension Definition Linkbase Document*
+101.LAB
+Inline
+XBRL Taxonomy Extension Label Linkbase Document*
+101.PRE
+Inline
+XBRL Taxonomy Extension Presentation Linkbase Document*
+104
+Cover
+Page Interactive Data File, formatted in Inline XBRL (included as Exhibit 101)
+*
+Filed
+herewith
+(1)
+Incorporated
+by reference to Current Report on Form 8-K filed with the SEC on January 13, 2023.
+30
+SIGNATURES
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+Flux
+Power Holdings, Inc.
+Date:
+February 9, 2023
+By:
+/s/
+Ronald F. Dutt
+Ronald
+F. Dutt
+Chief
+Executive Officer
+(Principal
+Executive Officer)
+By:
+/s/
+Charles A. Scheiwe
+Charles
+A. Scheiwe
+Chief
+Financial Officer
+( Principal
+Financial Officer )
+31

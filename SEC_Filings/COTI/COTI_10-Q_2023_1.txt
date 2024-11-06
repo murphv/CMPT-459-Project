@@ -1,0 +1,1066 @@
+0001624140
+2022-10-01
+2022-12-31
+0001624140
+2023-01-23
+0001624140
+2022-12-31
+0001624140
+2022-09-30
+0001624140
+2021-10-01
+2021-12-31
+0001624140
+us-gaap:CommonStockMember
+2022-09-30
+0001624140
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001624140
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001624140
+us-gaap:CommonStockMember
+2022-10-01
+2022-12-31
+0001624140
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0001624140
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0001624140
+us-gaap:CommonStockMember
+2022-12-31
+0001624140
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001624140
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001624140
+2021-09-30
+0001624140
+2021-12-31
+0001624140
+2021-02-24
+0001624140
+2021-02-05
+0001624140
+2021-02-25
+0001624140
+us-gaap:CommonStockMember
+2021-10-01
+2022-09-30
+0001624140
+2020-10-01
+2021-09-30
+0001624140
+2021-10-01
+2022-09-30
+0001624140
+2023-01-01
+2023-01-18
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(MARK ONE)
+X
+. QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December
+31, 2022
+OR
+¨
+. TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________________
+to __________________
+Commission File No.
+000-56293
+Nine Alliance Science & Technology Group
+(Exact name of registrant as specified in its
+charter)
+Nevada
+35-2515740
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+7325 Oswego Road
+Liverpool ,
+NY
+13090
+(Address of principal executive offices, zip
+code)
+(315) 451-7515
+(Registrant’s telephone number, including
+area code)
+(Former name, former address and former
+fiscal year, if changed since last report)
+Indicate
+by check mark whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.    Yes
+x ..
+No ¨
+.
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit and post such files).
+Yes
+x .
+No   ¨
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.  See the definitions
+of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of
+the Exchange Act.  (check one):
+Large accelerated filer
+.
+Accelerated filer
+.
+Non-accelerated filer
+(Do not check if a smaller reporting company)
+Smaller reporting company
+x
+Emerging growth
+¨
+As of December 31, 2022, there were 225,000,000 shares of common
+stock, $0.0001 par value per share, outstanding.
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+¨
+No
+x
+As of January 30, 2023, the date of this filing, there were
+225,000,000
+shares of common stock, $0.0001 par value per share, outstanding.
+1
+NINE ALLIANCE SCIENCE & TECHNOLOGY GROUP
+QUARTERLY REPORT ON FORM 10-Q
+FOR THE PERIOD ENDED DECEMBER 31, 2022
+INDEX
+Page
+Part I.
+Financial Information
+Item 1.
+Financial Statements
+4
+Balance Sheets as at December 31, 2022 (Unaudited) and September 30, 2022 (Audited).
+4
+Statements of Operations for the Three months Ended December 31, 2022 and December 31, 2021 (Unaudited)
+5
+Statements of Changes in Stockholders’
+Deficit for the Three months Ended December 31, 2022 and December 31, 2021 (Unaudited)
+6
+Statements of Cash Flow for the Three months Ended December 31, 2022 and December 31, 2021 (Unaudited).
+7
+Notes to the Financial Statements (Unaudited).
+8
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+13
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk.
+18
+Item 4.
+Controls and Procedures.
+19
+Part II.
+Other Information
+Item 1.
+Legal Proceedings.
+20
+Item 1A.
+Risk Factors
+20
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+20
+Item 3.
+Defaults Upon Senior Securities.
+20
+Item 4.
+Mine Safety Disclosures
+20
+Item 5.
+Other Information.
+20
+Item 6.
+Exhibits.
+21
+Signatures
+22
+2
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q of Nine
+Alliance Science & Technology Group, a Nevada corporation (the “Company”), contains “forward-looking statements.”  In
+some cases, you can identify forward-looking statements by terminology such as “may”, “will”, “should”,
+“could”, “expects”, “plans”, “intends”, “anticipates”, “believes”,
+“estimates”, “predicts”, “potential” or “continue” or the negative of such terms and other
+comparable terminology.  These forward-looking statements include, without limitation, statements about our market opportunity,
+our strategies, competition, expected activities and expenditures as we pursue our business plan, and the adequacy of our available cash
+resources.  Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot
+guarantee future results, levels of activity, performance or achievements.  Actual results may differ materially from the predictions
+discussed in these forward-looking statements.  The economic environment within which we operate could materially affect our
+actual results. Additional factors that could materially affect these forward-looking statements and/or predictions include, among other
+things: the Company’s need for and ability to obtain additional financing and the demand for the Company’s products, and other
+factors over which we have little or no control; and other factors discussed in the Company’s filings with the Securities and Exchange
+Commission (“SEC”).
+We caution readers not to place undue reliance
+on any such forward-looking statements, which speak only as of the date made.  We disclaim any obligation subsequently to revise
+any forward-looking statements to reflect events or circumstances after the date of such statements or to reflect the occurrence of anticipated
+or unanticipated events, except as required by law.
+Our financial statements are stated in United States dollars ($US) and are
+prepared in accordance with United States Generally Accepted Accounting Principles.
+In this quarterly report, unless otherwise specified, all references to
+"common stock" refer to the common shares in our capital stock.
+As used in this annual report, the terms "we", "us",
+"our", “Nine Alliance" mean Nine Alliance Science & Technology Group, unless the context clearly requires otherwise.
+3
+PART I. FINANCIAL INFORMATION
+ITEM 1:   FINANCIAL STATEMENTS.
+Nine Alliance Science & Technology Group
+BALANCE SHEETS
+(Unaudited)
+(Audited)
+December
+31,
+September 30,
+2022
+2022
+ASSETS
+Current Assets:
+Cash
+$ 95
+$ 68
+Total Current Assets
+95
+68
+TOTAL ASSETS
+$ 95
+$ 68
+LIABILITIES & STOCKHOLDER'S EQUITY (DEFICIT)
+Current Liabilities:
+Accounts Payable
+$ 19,390
+$ 15,830
+Accounts Payable - Related Party
+8,250
+7,000
+Income Tax Payable
+2,303
+2,303
+Note Payable - Related Party
+14,500
+14,424
+Total Current Liabilities
+44,443
+39,557
+Total Liabilities
+$ 44,443
+$ 39,557
+Stockholder's Equity
+Preferred Stock; Blank Check, par value
+$ 0.0001 ,
+10,000,000
+shares Authorized,   0
+shares Issued and Outstanding
+Preferred Stock; Blank Check, par value $0.0001, 10,000,000 shares Authorized,  0
+shares Issued and Outstanding
+as of September 30, 2022 and September 30, 2021
+Common Stock, par value $ 0.0001 ,
+290,000,000
+shares Authorized,   225,000,000
+shares Issued and Outstanding
+Common Stock, par value $0.0001, 290,000,000 shares Authorized,  225,000,000
+shares Issued and Outstanding
+as of December 31, 2022 and September 30, 2022
+22,500
+22,500
+Additional Paid-In Capital
+52,194
+52,194
+Accumulated Deficit
+( 119,042 )
+( 114,183 )
+Total Stockholder's Deficit
+( 44,348 )
+( 39,489 )
+TOTAL LIABILITIES AND STOCKHOLDER'S EQUITY (DEFICIT)
+$ 95
+$ 68
+The accompanying notes are an integral part of these unaudited financial statements
+4
+Nine Alliance Science & Technology Group
+STATEMENTS OF OPERATIONS
+(Unaudited)
+For the Three Months Ended
+December 31,
+2022
+2021
+Revenues:
+$ —
+$ —
+Operating Expenses
+General and Administrative Expenses
+348
+2,297
+Professional Fees
+4,511
+2,148
+Total Operating Expenses
+4,859
+4,445
+Loss From Operations
+( 4,859 )
+( 4,445
+)
+Income Tax Provision
+$ —
+$ —
+Net Loss
+$ ( 4,859 )
+$ ( 4,445 )
+Basic & Diluted Loss per Common Share
+$ ( 0.00 )
+$ ( 0.00 )
+Weighted Average Common Shares
+Weighted Average Common Shares
+Outstanding
+225,000,000
+225,000,000
+The accompanying notes are an integral part of these unaudited financial statements
+5
+Nine Alliance Science & Technology Group
+STATEMENT OF STOCKHOLDERS' EQUITY (DEFICIT)
+For the Three Months Ended December 31, 2022
+(Uaudited)
+Common Stock
+Shares
+Par Value
+Additional Paid-In Capital
+Accumulated Deficit
+Total Stockholders' Equity (Deficit)
+Balance as of September 30, 2022
+225,000,000
+$ 22,500
+$ 52,194
+$ ( 114,183 )
+$ ( 39,489 )
+Net Loss for the Three Months Ended December 31, 2022
+—
+$ —
+$ —
+$ ( 4,859 )
+$ ( 4,859 )
+Balance as of December 31, 2022
+225,000,000
+$ 22,500
+$ 52,194
+$ ( 119,042 )
+$ ( 44,348 )
+The accompanying notes are an integral part of these unaudited financial statements
+6
+Nine Alliance Science & Technology Group
+STATEMENT OF CASH FLOWS
+(Unaudited)
+For the Three Months
+December 31,
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net Loss
+$ ( 4,859 )
+$ ( 4,445 )
+Adjustments to reconcile net loss to net cash used in operating activities:
+Changes In:
+Accounts Payable
+3,561
+( 1,577 )
+Accounts Payable - Related Party
+1,250
+( 22,672 )
+Net Cash Used in Operating Activities
+$ ( 48 )
+$ ( 28,694 )
+CASH FLOWS FROM FINANCING
+Issuance of Shares for Capital
+—
+28,694
+Notes Payable - Related Party
+75
+—
+Net Cash Provided by Financing Activities
+$ 75
+$ 28,694
+Net Increase (Decrease) in Cash
+$ 27
+$ —
+Cash at the Beginning of Year
+$ 68
+$ —
+Cash at the End of Year
+$ 95
+$ —
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid during the year for:
+Interest
+$ —
+$ —
+Taxes
+$ —
+$ —
+SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES
+Issuance of
+150,000,000
+shares of Common Stock in exchange for
+$ 28,694
+in Debt paid by a Related Party.
+The accompanying notes are an integral part of these unaudited financial statements
+7
+NINE ALLIANCE SCIENCE & TECHNOLOGY GROUP
+NOTES TO THE UNAUDITED FINANCIAL STATEMENTS
+FOR THE THREE MONTHS ENDED DECEMBER 31, 2022 (UNAUDITED)
+NOTE 1 – NATURE OF OPERATIONS
+Nine Alliance Science and Technology Group (the “Company”)
+was incorporated as Paramount Supply Inc. and established under the Corporation Laws of the State of Nevada on September 12, 2014. On
+September 29, 2017, the Company filed a Certificate of Amendment changing the name from “Paramount Supply Inc.” to “Nine
+Alliance Science and Technology Group”. The Company was formed for the purpose of marketing and distributing ladies fashion handbags.
+At the end of 2017 the Company became dormant and ceased all business operations.
+On August 27, 2020, a motion and application was made
+to appoint a Custodian of the Company based on prior management abandoning its responsibilities to continue making filings at the Nevada
+Secretary of State’s office and for failing to hold a stockholders’ meeting in over 3 years and otherwise failing to keep
+current in its obligations to the Company.  Upon motion and application to the District Court, Clark County Nevada, the Court granted
+the request for Custodian for the Company (“Custodian”).   Upon granting the motion, the Court issued an Order
+acknowledging that the Custodian has performed all of the duties that had been required of it and the management of the Company will
+revert exclusively to the officers and directors appointed by the Custodian. In the Revival of the Company, Investment Reserves Series,
+as the Custodian of the Company, appointed Joseph Passalaqua as CEO, CFO and Secretary. As of the period ended, December 31, 2022, Joseph
+Passalaqua is CEO, CFO and Secretary.
+NOTE
+2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+2.1 Basis of Presentation
+The financial statements of the Company have been
+prepared in accordance with generally accepted accounting principles in the United States of America and are presented in US dollars.
+The Company has adopted a September 30 fiscal year end.
+2.2 Use of Estimates and Assumptions
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Due to the limited level of operations, the Company
+has not had to make material assumptions or estimates other than the assumption that the Company is a going concern.
+2.3 Cash and Cash Equivalents
+The Company considers all highly liquid instruments
+purchased with a maturity of three months or less to be cash equivalents to the extent the funds are not being held for investment purposes.
+As of the previous year ended September 30, 2022 the Company had $68 in total assets, cash on hand. At December 31, 2022, the Company
+had $95 in total assets, cash on hand.
+2.4 Fair Value of Financial Instruments
+As defined in (Financial Accounting Standards Board
+ASC 820), fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date (exit price). The Company will utilize the market data of similar entities in its industry
+or assumptions that market participants would use in pricing the asset or liability, including assumptions about risk and the risks inherent
+in the inputs to the valuation technique. These inputs can be readily observable, market corroborated, or generally unobservable. The
+Company classifies fair value balances based on the observability of those inputs. FASB ASC 820 establishes a fair value hierarchy that
+prioritizes the inputs used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets
+for identical assets or liabilities (level 1 measurement) and the lowest priority to unobservable inputs (level 3 measurement).
+The Company's financial instruments consist of cash
+and cash equivalents, accounts payable and related party loans. The carrying amount of these financial instruments approximates fair value
+due either to length of maturity or interest rates that approximate prevailing market rates unless otherwise disclosed in these financial
+statements.
+Financial assets and liabilities recorded at fair value
+in our balance sheet, are categorized based upon a fair value hierarchy established by GAAP, which prioritizes the inputs used to measure
+fair value into the following levels:
+Level 1 — Quoted market prices in active markets
+for identical assets or liabilities at the measurement date.
+Level 2 — Quoted prices for similar assets or
+liabilities in active markets; quoted prices for identical or similar assets and liabilities in markets that are not active; or other
+inputs that are observable and can be corroborated by observable market data.
+Level 3 — Inputs reflecting management's best
+estimates and assumptions of what market participants would use in pricing assets or liabilities at the measurement date. The inputs are
+unobservable in the market and significant to the valuation of the instruments.
+8
+NINE ALLIANCE SCIENCE & TECHNOLOGY GROUP
+NOTES TO THE UNAUDITED FINANCIAL STATEMENTS
+FOR THE THREE MONTHS ENDED DECEMBER 31, 2022 (UNAUDITED)
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+A financial instrument's categorization within the
+valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+The Company follows ASC 820’s financial instruments
+consist of accounts payable and amounts provided to the Company from related parties. The carrying amount of financial instruments approximates
+fair value because of the short-term nature of these items.
+2.5 Stock-Based Compensation
+For the three months ended December 31, 2022 and the
+year ended September 30, 2022, the Company has not issued any stock-based payments to its employees Stock-based compensation is accounted
+for at fair value in accordance with ASC 718, when applicable. To date, the Company has not adopted a stock option plan and has not granted
+any stock options.
+2.6 Income Taxes
+The Company follows the ASC 740-10 deferral method
+of accounting for income taxes for assets and liabilities. Under this method, deferred income tax assets and liabilities are recognized
+for the estimated tax consequences attributable to differences between the financial statement carrying values and their respective income
+tax basis (temporary differences). The effect on deferred income tax assets and liabilities of a change in tax rates is recognized in
+income in the period that includes the enactment date. Future tax benefits which arise as result of accumulated losses have not be recognized
+in these financial statements, as their realization is not likely to occur.
+2.7 Basic Income (Loss) Per Share
+The Company computes loss per share in accordance with
+“ASC-260”, “Earnings per Share” which requires presentation of both basic and diluted earnings per share on the
+face of the statement of operations.
+Basic loss per share is computed by
+dividing net loss available to common shareholders by the weighted average number of outstanding common shares during the period. Diluted
+loss per share gives effect to all dilutive potential common shares outstanding during the period. Dilutive loss per share excludes all
+potential common shares if their effect is anti-dilutive.
+For the three months ended December
+31, 2022 and the year ended September 30, 2022 there were no potentially dilutive debt or equity instruments issued or outstanding and
+any such shares would have been excluded from the computation because they would have been anti-dilutive as the Company incurred losses
+in this period.
+2.8 Commitments and Contingencies
+The Company follows ASC 440 & ASC 450, subtopic
+450-20 of the FASB Accounting Standards Codification to report accounting for contingencies and commitments respectively. Certain conditions
+may exist as of the date the financial statements are issued, which may result in a loss to the Company, but which will only be resolved
+when one or more future events occur or fail to occur.
+The Company assesses such contingent liabilities, and
+such assessment inherently involves an exercise of judgment. In assessing loss contingencies related to legal proceedings that are pending
+against the Company or un-asserted claims that may result in such proceedings, the Company evaluates the perceived merits of any legal
+proceedings or un-asserted claims as well as the perceived merits of the amount of relief sought or expected to be sought therein.
+If the assessment of a contingency indicates
+that it is probable that a material loss has been incurred and the amount of the liability can be estimated, then the estimated liability
+would be accrued in the Company’s financial statements. If the assessment indicates that a potentially material loss contingency
+is not probable but is reasonably possible, or is probable but cannot be estimated, then the nature of the contingent liability, and an
+estimate of the range of possible losses, if determinable and material, would be disclosed.
+Loss contingencies considered remote are generally
+not disclosed unless they involve guarantees, in which case the guarantees would be disclosed. Management does not believe, based upon
+information available at this time, that these matters will have a material adverse effect on the Company’s consolidated financial
+position, results of operations or cash flows. However, there is no assurance that such matters will not materially and adversely affect
+the Company’s business, financial position, and results of operations or cash flows.
+2.9 Recent Accounting Pronouncements
+The Company reviewed all the recently issued, but
+not yet effective, accounting pronouncements and we do not believe any of these pronouncements will have a material impact on the Company.
+9
+. NINE
+ALLIANCE SCIENCE & TECHNOLOGY GROUP
+NOTES TO THE UNAUDITED FINANCIAL STATEMENTS
+FOR THE THREE MONTHS ENDED DECEMBER 31, 2022 (UNAUDITED)
+NOTE 3 – GOING CONCERN
+The financial statements have
+been prepared on a going concern basis which assumes the Company will be able to realize its assets and discharge its liabilities in the
+normal course of business for the foreseeable future. The Company has incurred a loss since Inception (March 25, 2008) resulting in an
+accumulated deficit of $ 119,042
+as of December 31, 2022 and further losses are anticipated in the development of its business. Further,
+the Company has current liabilities in excess of current assets and has a stockholders’ deficit at December 31, 2022. These factors
+raise substantial doubts about the Company’s ability to continue as a going concern for a period of one year from the issuance of
+these financial statements.
+Further, the effects of Covid-19
+could also impact our ability to operate under the going concern and maintain sufficient liquidity to continue operations. The impact
+of COVID-19 on companies is evolving rapidly and its future effects are uncertain. There are material uncertainties from Covid-19 that
+cast significant doubt on the company’s ability to operate under the going concern. It is possible that our company will have issues
+relating to the current situation that will need to be considered by management in the future. There will be a wide range of factors to
+take into account in going concern judgments and financial projections including travel bans, restrictions, government assistance and
+potential sources of replacement financing, financial health of suppliers and customers and their effect on expected profitability and
+other key financial performance ratios including information that shows whether there will be sufficient liquidity to continue to meet obligations
+when they are due.
+Management believes that the
+ability to continue as a going concern is dependent upon the Company generating profitable operations in the future and/or obtaining the
+necessary financing to meet its obligations and repay its liabilities arising from normal business operations when they come due. Management
+intends to finance operating costs over the next twelve months with loans from directors and/or private placement of common stock. The
+failure to achieve the necessary levels of profitability or obtaining additional funding would be detrimental to the Company.
+NOTE 4 – COMMON STOCK
+On February 25, 2021, the
+Company filed a Certificate of Amendment through which the par value has been changed from $0.001 to $ 0.0001 . This change in par value
+has been applied retroactively in the financial statements presented for the year ended September 30, 2020 and September 30, 2019. The
+Company changed the par value to increase the possibility of attracting a merger candidate.
+Through this amendment (effective
+February 25, 2021) Company also increased the authorized shares from
+75,000,000
+to
+300,000,000 , of which
+290,000,000
+will be Common Stock
+with a par value of $0.0001 and
+10,000,000
+will be Blank Check Preferred Stock with a par value of $ 0.0001 . Before this amendment, Company
+did not have any authorized Preferred Stock.
+On December 7, 2021, the Company
+issued
+150,000,000
+shares of Common Stock to Friction & Heat LLC; Joseph Passalaqua as Managing Member, in exchange for debt in the
+amount of $ 28,694 , paid for Company expenses in 2020 and 2021.
+As of the year ended September
+30, 2022, the Company had
+290,000,000
+shares of Common Stock Authorized and
+225,000,000
+shares of Common Stock Issued and Outstanding
+and
+10,000,000
+shares of Blank Check Preferred Stock Authorized and 0 Issued and Outstanding.
+As of the three months ended
+December 31, 2022, the Company had
+290,000,000
+shares of Common Stock Authorized and
+225,000,000
+shares of Common Stock Issued and Outstanding
+and
+10,000,000
+shares of Blank Check Preferred Stock Authorized and 0 Issued and Outstanding.
+10
+NINE ALLIANCE SCIENCE & TECHNOLOGY GROUP
+NOTES TO THE UNAUDITED FINANCIAL STATEMENTS
+FOR THE THREE MONTHS ENDED DECEMBER 31, 2022 (UNAUDITED)
+NOTE 5 – RELATED PARTY TRANSACTIONS
+In support of the Company’s efforts and cash
+requirements, it may rely on advances from related parties until such time that the Company can support its operations or attains adequate
+financing through sales of its equity or traditional debt financing. There is no formal written commitment for continued support by shareholders
+or directors. Amounts represent advances or amounts paid in satisfaction of liabilities. The advances were considered temporary in nature.
+In 2020 – 2021 Joseph
+Passalaqua, an officer and Related Party , advanced the Company $ 23,444
+to cover the Company’s expenses and Lyboldt-Daly, Inc; its
+sole officer Joseph Passalaqua, provided the internal accounting for the Company for $ 5,250 . These amounts were held in a Convertible
+Note owed to Joseph Passalaqua, dated November 30, 2021 and were non-interest bearing, payable on demand and unsecured. On December 7,
+2021, the Company issued
+150,000,000
+shares of Common Stock to Friction & Heat LLC; Joseph Passalaqua as Managing Member, in exchange
+for $ 28,694
+in debt conversion and the Convertible Note was paid in full.
+In the Year Ended September
+30, 2022, Joseph Passalaqua, an officer and Related Party, advanced the Company $ 14,424
+to cover the Company’s expenses This amount
+is held in a Convertible Note owed to Joseph Passalaqua, dated September 30, 2022 and is non-interest bearing, payable on demand and unsecured.
+In the three months ended
+December 31, 2022, Joseph Passalaqua, an officer and Related Party, advanced the Company $ 75
+to cover the Company’s expenses This
+amount is held in a Convertible Note owed to Joseph Passalaqua, dated December 31, 2022 and is non-interest bearing, payable on demand
+and unsecured.
+As of December 31, 2022, $ 14,499
+is outstanding and included in Related Party – Notes Payable, due to Joseph Passalaqua.
+In the Year Ended September
+30, 2022, Lyboldt-Daly, Inc; its sole officer is Joseph Passalaqua, who is also an officer and Related Party of Nine Alliance Science
+and Technology Group, Inc., provided the internal accounting for the Company in the amount of $ 7,000 . This amount is non-interest bearing,
+payable on demand and unsecured.
+In the three months ended
+December 31, 2022, Lyboldt-Daly, Inc; its sole officer is Joseph Passalaqua, who is also an officer and Related Party of Nine Alliance
+Science and Technology Group, Inc., provided the internal accounting for the Company in the amount of $ 1,250 . This amount is non-interest
+bearing, payable on demand and unsecured.
+As of December 31, 2022, $ 8,250
+is outstanding and included in Related Party Payable, due to Lyboldt-Daly Inc.
+The Company currently operates out of an office of
+a Related Party- the sole Officer, Joseph Passalaqua, free of rent.
+11
+NINE ALLIANCE SCIENCE & TECHNOLOGY GROUP
+NOTES TO THE UNAUDITED FINANCIAL STATEMENTS
+FOR THREE MONTHS ENDED DECEMBER 31, 2022 (UNAUDITED)
+NOTE 6 – INCOME TAXES
+As of three months ended December 31, 2022, the Company
+had net operating loss carry forwards of approximately $ 119,042
+that may be available to reduce future years' taxable income in varying
+amounts through 2043.
+As of the year ended September 30, 2022, the Company
+had net operating loss carry forwards of approximately
+$ 114,183
+that may be available to reduce future years' taxable income in varying
+amounts through 2042.
+Future tax benefits which arise as a result of these
+losses have not been recognized in these financial statements, as their realization is determined not likely to occur and accordingly,
+the Company has recorded a valuation allowance for the deferred tax asset relating to these tax loss carry-forwards.
+The
+21 %
+tax rate provision for Federal income tax consists
+of the following:
+December 31,
+2022
+September 30,
+2022
+Federal income tax benefit attributable to:
+Current operations
+$ 24,999
+$ 23,978
+Less: change in valuation allowance
+( 24,999 )
+( 23,978 )
+Net provision for Federal income taxes
+$ —
+$ —
+The cumulative tax effect at the expected rate of 35% of significant items
+comprising our net deferred tax amount is as follows:
+December 31,
+2022
+September 30,
+2022
+Deferred tax asset attributable to:
+Net operating loss carry over
+$ 41,664
+$ 39,964
+Less: valuation allowance
+( 41,664 )
+( 39,964 )
+Net deferred tax asset
+$ —
+$ —
+Due to the change in ownership provisions of the Tax
+Reform Act of 1986, net operating loss carry forwards of approximately $ 119,042
+for Federal income tax reporting purposes are subject
+to annual limitations. Should a change in ownership occur net operating loss carry forwards may be limited as to use in future years.
+The Company’s returns are open to examination by the Internal Revenue Services for all tax years since inception.
+NOTE 7 - SUBSEQUENT EVENTS
+In January 2023 Joseph Passalaqua,
+an officer and Related Party, advanced the Company
+$ 1,800
+to cover the Company’s expenses This amount is held in a Convertible Note
+owed to Joseph Passalaqua, dated January 18, 2023 and is non-interest bearing, payable on demand and unsecured.
+12
+ITEM 2: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS.
+The following discussion and analysis should be read in conjunction with,
+and is qualified in its entirety by, our financial statements (and notes related thereto) and other more detailed financial information
+appearing elsewhere in this Quarterly Report on Form 10-Q. Consequently, you should read the following discussion and analysis of our
+financial condition and results of operations together with such financial statements and other financial data included elsewhere in this
+Quarterly Report on Form 10-Q. Some of the information contained in this discussion and analysis are set forth elsewhere in this prospectus,
+including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks
+and uncertainties. You should review the “Risk Factors” section of our Annual Report on Form 10-K for a discussion of important
+factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements
+contained in the following discussion and analysis.
+Statements in this section and elsewhere in this Form 10-Q that are not
+statements of historical or current fact constitute “forward-looking” statements.
+OVERVIEW OF OUR PERFORMANCE AND OPERATIONS
+Our Business and Recent Developments
+Nine Alliance Science & Technology Group (“Nine Alliance”,
+“We”, or the “Company”) was incorporated in the State of Nevada on September 12, 2014, under the name Paramount
+Supply Inc. The Company then known as Paramount Supply Inc. last filed a financial report with the SEC on August 25, 2017. On September
+29, 2017, our name was changed to Nine Alliance Science & Technology Group. On August 27, 2020, a motion and application was made
+to appoint a Custodian of the Company based on prior management abandoning its responsibilities to continue making filings at the Nevada
+Secretary of State’s office and for failing to hold a shareholders’ meeting in over 3 years and otherwise failing to keep
+current in its obligations to the Company.  Upon motion and application to the District Court, Clark County Nevada, the Court granted
+the request for Custodian for the Company (“Custodian”).   Upon granting the motion, the Court issued an Order acknowledging
+that the Custodian has performed all of the duties that had been required of it and the management of the Company will revert exclusively
+to the officers and directors appointed by the Custodian. In the Revival of the Company, Investment Reserves Series, as the Custodian
+of the Company, appointed Joseph Passalaqua as CEO, CFO and Secretary.
+The Company is a “blank check company,” as that term is defined
+in Rule 419(a)(2) of Regulation C of the Securities Act of 1933, as amended. We have not had preliminary contact or discussions with,
+nor do we have any present plans, proposals, arrangements, or understandings with, any representatives of the owners of any business or
+company regarding the possibility of an acquisition or merger. We are a “shell company” within the meaning of Rule 405, promulgated
+pursuant to Securities Act, because we do have no hard assets and real business operations.
+From inception until the date of this filing we have had limited operating
+activities, primarily consisting of the incorporation of our company and the initial equity funding by our sole officer and director.
+We received our initial funding of $4,000 from a previous sole officer and director at that time who purchased 4,000,000 shares of common
+stock at $0.001 per share.  Our independent auditor has issued an audit opinion for our Company which includes a statement expressing
+substantial doubt as to our ability to continue as a going concern.
+Previous business operations of the Company generated limited revenues and
+the Company currently has no business operations.
+No revenue has been generated in the last two years ended September 30,
+2021 and September 30, 2022.
+On June 2, 2021, we voluntarily filed a termination of our registration
+statement on Form 15-15D pursuant to Rule 15d-6 and our termination becomes effective 90 days thereafter.  The Company has since
+been seeking a merger target and has been evaluating various opportunities.
+We never sold any securities under the offering statement, so there was
+no need to keep the prospectus and Form S-1 filing current.
+13
+The Company filed a Registration Statement; Form-10-12g on June
+16, 2021 and was effective 60 days post filing.
+We are subject to the requirements of Regulation 13A under the Exchange
+Act, which require us to file annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and we are
+required to comply with all other obligations of the Exchange Act applicable to issuers filing registration statements pursuant to Section
+12(g) of the Exchange Act.
+We are not currently engaged in any business operations. We are, however,
+in the process of attempting to identify, locate, and if warranted, acquire new commercial opportunities. The Company is currently attempting
+to locate and negotiate with eligible portfolio companies to acquire an interest in them. In addition to acquiring an interest in them,
+the Company intends to assist these portfolio companies with raising capital and offer them substantial managerial assistance needed to
+succeed.
+The authorized capital stock of Nine Alliance Science & Technology Group
+consists of 290,000,000 shares of Common Stock, $0.0001 par value per share (the “Common Stock”) and 10,000,000 shares of
+Preferred Stock, $0.0001 par value per share (the “Preferred”).
+As of our previous year ended September 30, 2022, there were 225,000,000
+shares of Common Stock issued and outstanding and no shares of Preferred Stock issued and outstanding.
+As of the three months ended December 31, 2022, there were 225,000,000 shares
+of Common Stock issued and outstanding and no shares of Preferred Stock issued and outstanding.
+Our Business
+The Company is currently attempting to locate and negotiate with eligible
+portfolio companies to acquire an interest in them. In addition to acquiring an interest in them, the Company intends to assist these
+portfolio companies with raising capital and offer them substantial managerial assistance needed to succeed.
+We are currently considered a shell company Rule 405 defines a shell company
+as a company with 1) no or nominal operations, and either 2)no or nominal assets, 3) assets consisting solely of cash and cash equivalents,
+or 4) assets consisting of any amount of cash and cash equivalents and nominal other assets. We will remain classified as a shell company
+until we qualify for an exemption pursuant to Rule 144 (i)(2) by meeting the following requirements: Nine Alliance Science & Technology
+Group is no longer a shell company and has not been one for a year, it mandatorily files reports with the SEC, it has filed all required
+reports during the past 12 months, and it has been over a year since the current Form 10 information was filed. Security holders will
+not be able to rely on Rule 144 for the resale of restricted and/or control securities as long as JMKJ remains classified as a shell corporation.
+Our current business address is: 7325 Oswego Road, Liverpool, NY 13090 .
+Our telephone number is (315) 451-7515.
+This location serves as our primary office for planning and implementing
+our business plan. Management believes the current premises arrangements are sufficient for its needs for at least the next 12 months.
+Employees
+We have no employees.
+14
+Results of Operations for the Three Months Ended December 31, 2022
+and December 31, 2021
+Revenues
+We have generated revenues of $0 and $0 for the three months ended December
+31, 2022 and December 31, 2021.
+Operating and Administrative Expenses
+Operating expenses for the three months ended December 31, 2022 were $4,859
+compared with $4,445 for the three months ended December 31, 2021.  The increase in operating expenses were attributable to a increase
+in professional fees, from $2,148 for the three months December 31, 2021 to $4,511 for the three months ended December 31, 2022 and included
+a decrease of general and administrative fees, from $2,297 for the three months ended December 31, 2021 to $348 for the three months ended
+December 31, 2022.
+Loss from Operations
+Operating Loss before income tax for the three months ended December 31,
+2022 was $(4,859), an increase of $414 for the comparable period of December 31, 2021, of which the loss from operations was $(4,445).
+This increase was primarily attributable to Professional fees, that included Auditor and Internal Accounting fees for quarterly and annual
+filings.
+Net loss
+The Net loss for the three months ended December 31, 2022 was $(4,859),
+compared to a Net loss of $(4,445) for the three months ended December 31, 2021. This increase was primarily attributable to Professional
+fees, that included Auditor and Internal Accounting fees for quarterly and annual filings for 2022.
+Liquidity and Capital Resources
+As of the year ended September 30, 2022 and the three months ended December
+31, 2022, the Company's total assets were $68 and $95, respectively.
+As of the last year ended, September 30, 2022, the Company had total liabilities
+of $39,557 that consisted of $15,830 in Accounts Payable, $7,000 in Accounts Payable – Related Party and $14,424 in Notes Payable
+- Related Party, ( with Joseph Passalaqua the Related Party for both) and $2,303 in Income Tax Payable. These amounts are non-interest
+bearing, payable upon demand and unsecured.
+As of the three months ended December 31, 2022, the Company had total
+liabilities of $44,443 that consisted of $19,391 in Accounts Payable, $8,250 in Accounts Payable – Related Party and $14,499 in
+Notes Payable - Related Party, ( with Joseph Passalaqua the Related Party for both) and $2,303 in Income Tax Payable. These amounts are
+non-interest bearing, payable upon demand and unsecured.
+As of the last year ended September 30, 2022, the Company has a working
+capital deficit of $39,489,
+As of the three months ended December 31, 2022, the Company has a
+working capital deficit of $44,348.
+15
+Working Capital and Cash Flows
+Working Capital
+December 31,
+September 30,
+2022
+2022
+Current Assets
+$ 95
+$ 68
+Current Liabilities
+44,443
+39,557
+Working Capital (Deficit)
+$ 44,348
+$ 39,489
+Cash Flows
+December 31,
+December 31,
+2022
+2021
+Cash Flows from (used in) Operating Activities
+$ (48 )
+$ (28,694 )
+Cash Flows from (used in) Financing Activities
+75
+28,694
+Net Increase (decrease) in Cash During Period
+$ 27
+$ —
+Cash Flows from Operating Activities
+During the three months ended December 31, 2021 and December 31, 2022, the
+Company had $28,694 and $48, respectively, in cash used for operating activities.
+Cash Flows from Financing Activities
+During the three months December 31, 2021 and December 31, 2022, the Company
+had $28,694 and $75, respectively, in cash received from financing activities.
+Critical Accounting Policies
+Going Concern
+We have not attained profitable operations and are
+dependent upon the continued financial support from our shareholders, the ability to raise equity or debt financing, and the attainment
+of profitable operations from our future business. These factors raise substantial doubt regarding our ability to continue as a going
+concern .
+Our ability to continue as a going concern is dependent
+upon our ability to generate future profitable operations and/or to obtain the necessary financing to meet our obligations and repay our
+liabilities arising from normal business operations when they come due. Our ability to continue as a going concern is also dependent on
+our ability to find a suitable target company and enter into a possible reverse merger with such company. Management’s plan includes
+obtaining additional funds by equity financing through a reverse merger transaction and/or related party advances; however, there is no
+assurance of additional funding being available.
+The Company, as of the date of this filing had
+approximately $95 in cash and has not earned any revenues from operations to date. For the last three months ending December 31, 2022,
+our operating expenses were $4,859. In the previous two fiscal years our operating expenses were $33,890 and $17,308 in the years ended
+September 30, 2022 and September 30, 2021 respectively, consisting primarily of professional fees, administrative expenses and filing
+fees. The ongoing expenses of the Company will be related to seeking out a suitable acquisition as well as mandatory filing requirements
+including our reporting requirements under the Securities Exchange Act of 1934 of the registration statement filed.
+16
+The Company continues to rely on borrowings and financings
+either arranged by the Company’s President or through entities controlled by the President. In the next 12 months we expect to incur
+expenses equal to approximately $20,000 related to legal, accounting, audit, and other professional service fees incurred in relation
+to the Company’s Exchange Act filing requirements. The costs related to the acquisition of a business combination target company
+vary widely and are dependent on a variety of factors including, but not limited to, the amount of time it takes to complete a business
+combination, the location of the target company, the size and complexity of the business of the target company, whether stockholders of
+the Company prior to the transaction will retain equity in the Company, the scope of the due diligence investigation required, the involvement
+of the Company’s auditors in the transaction, possible changes in the Company’s capital structure in connection with the transaction,
+and whether funds may be raised contemporaneously with the transaction. Therefore, we believe such costs are unascertainable until the
+Company identifies a business combination target. These conditions raise substantial doubt about our ability to continue as a going concern.
+The Company is currently devoting its efforts to locating merger candidates. The Company’s ability to continue as a going concern
+is dependent upon our ability to develop additional sources of capital, locate and complete a merger with another company, and ultimately,
+achieve profitable operations.
+The Company may consider a business which has recently commenced operations,
+is a developing company in need of additional funds for expansion into new products or markets, is seeking to develop a new product or
+service, or is an established business which may be experiencing financial or operating difficulties and is in need of additional capital.
+Our management believes that the public company status that results from a combination with the Company will provide such company greater
+access to the capital markets, increase its visibility in the investment community, and offer the opportunity to utilize its stock to
+make acquisitions. There is no assurance that we will in fact have access to additional capital or financing as a public company. In the
+alternative, a business combination may involve the acquisition of, or merger with, a company which does not need substantial additional
+capital, but which desires to establish a public trading market for its shares, while avoiding, among other things, the time delays, significant
+expense, and loss of voting control which may occur in a public offering.
+Our sole officer and director has not had any preliminary contact or discussions
+with any representative of any other entity regarding a business combination with us. Any target business that is selected may be a financially
+unstable company or an entity in its early stages of development or growth, including entities without established records of sales or
+earnings. In that event, we will be subject to numerous risks inherent in the business and operations of financially unstable and early
+stage or potential emerging growth companies. In addition, we may effect a business combination with an entity in an industry characterized
+by a high level of risk, and, although our management will endeavor to evaluate the risks inherent in a particular target business, there
+can be no assurance that we will properly ascertain or assess all significant risks.
+Our management anticipates that it will likely be able
+to effect only one business combination, due primarily to our limited financing and the dilution of interest for present and prospective
+stockholders, which is likely to occur as a result of our management’s plan to offer a controlling interest to a target business
+in order to achieve a tax-free reorganization. This lack of diversification should be considered a substantial risk in investing in us,
+because it will not permit us to offset potential losses from one venture against gains from another.
+The Company anticipates that the selection of a business combination will be complex and extremely risky. While the Company is in a competitive market with a small number of business opportunities, through information obtained from industry professionals including attorneys, investment bankers, and other consultants with experience in the reverse merger industry, our management believes that there are opportunities for a business combination with firms seeking the perceived benefits of becoming a publicly traded corporation. Such perceived benefits of becoming a publicly traded corporation include, among other things, facilitating or improving the terms on which additional equity financing may be obtained, providing liquidity for the principals of and investors in a business, creating a means for providing incentive stock options or similar benefits to key employees, and offering greater flexibility in structuring acquisitions, joint ventures and the like through the issuance of stock. Potentially available business combinations may occur in many different industries and at various stages of development, all of which will make the task of comparative investigation and analysis of such business opportunities extremely difficult and complex.
+We do not currently intend to retain any entity to act as a “finder”
+to identify and analyze the merits of potential target businesses.
+17
+We have not established a specific timeline nor have we created a
+specific plan to identify an acquisition target and consummate a business combination. We expect that our management and the Company,
+through its various contacts and affiliations with other entities will locate a business combination target. We expect that funds in the
+amount of approximately $20,000 will be required in order for the Company to satisfy its Exchange Act reporting requirements during the
+next 12 months, in addition to any other funds that will be required in order to complete a business combination. Such funds can only
+be estimated upon identifying a business combination target. Our management and stockholders have indicated an intent to advance funds
+on behalf of the Company as needed in order to accomplish its business plan and comply with its Exchange Act reporting requirements, however,
+there are no agreements in effect between the Company and our management or stockholders specifically requiring they provide any funds
+to the Company. Therefore, there are no assurances that the Company will be able to obtain the required financing as needed in order to
+consummate a business combination transaction.
+The effects of Covid -19 could impact our ability to operate under the going
+concern and maintain sufficient liquidity to continue operations. The impact of COVID-19 on companies is evolving rapidly and its future
+effects are uncertain. There are material uncertainties from Covid-19 that cast significant doubt on the company’s ability to operate
+under the going concern. It is possible that our company will have issues relating to the current situation that will need to be considered
+by management in the future. There will be a wide range of factors to take into account in going concern judgments and financial projections
+including travel bans, restrictions, government assistance and potential sources of replacement financing, financial health of suppliers
+and customers and their effect on expected profitability and other key financial performance ratios including information that shows whether
+there will be sufficient liquidity to continue to meet obligations when they are due.
+The Company filed a Form 10K for the year ended September 30, 2022 and a
+Form 10Q ended December 31, 2022 and will continue to file all required annual and quarterly reports on schedule. Management believes
+that this plan provides an opportunity for the Company to continue as a going concern. The ability to continue as a going concern is dependent
+upon the Company generating profitable operations in the future and/or obtaining the necessary financing to meet its obligations and repay
+its liabilities arising from normal business operations when they come due. Management intends to finance operating costs over the next
+twelve months with existing cash on hand and loans from directors and/or private placement of common stock. The failure to achieve the
+necessary levels of profitability or obtaining additional funding would be detrimental to the Company.
+Off-Balance Sheet Arrangements
+We have not entered into any off-balance sheet arrangements that have or
+are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses,
+results of operations, liquidity, capital expenditures or capital resources and would be considered material to investors.
+Default on Notes
+There are currently no notes in default.
+Other Contractual Obligations
+As of the year ended September 30, 2022
+and the three months ended December 31, 2022, we did not have any contractual obligations.
+ITEM 3. QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK.
+As a smaller reporting company (as defined
+in Rule 12b-2 of the Exchange Act), we are not required to provide the information called for by this Item 3.
+18
+ITEM 4. CONTROLS AND PROCEDURES.
+Evaluation of Disclosure Controls and Procedures.
+We carried out an evaluation, under the supervision and with the participation
+of our management, including Joseph Passalaqua, our principal executive officer and principal financial officer, of the effectiveness
+of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange
+Act. Disclosure controls and procedures include, without limitation, means controls and other procedures that are designed to ensure that
+information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is (i) recorded, processed,
+summarized and reported, within the time periods specified in the Commission's rules and forms and (ii) accumulated and communicated to
+the issuer's management, including its principal executive and principal financial officers, or persons performing similar functions,
+as appropriate to allow timely decisions regarding required disclosure. Based on this evaluation, because of the Company’s limited
+resources and lack of employees, management, including Joseph Passalaqua, our principal executive officer and principal financial officer,
+concluded that our disclosure controls and procedures were ineffective as of December 31, 2022 and as of the date of this filing, January
+30, 2023.
+Management has identified control deficiencies regarding inadequate accounting
+resources, the lack of segregation of duties and the need for a stronger internal control environment. Management of the Company believes
+that these material weaknesses are due to the small size of the Company’s accounting staff.  The small size of the Company’s
+accounting staff may prevent adequate controls in the future due to the cost/benefit of such remediation.
+To mitigate the current limited resources and limited employees, we rely
+heavily on direct management oversight of transactions, along with the use of external legal and accounting professionals. As we grow,
+we expect to increase our number of employees, which will enable us to implement adequate segregation of duties within the internal control
+framework.
+These control deficiencies could result in a misstatement of account balances
+that would result in a reasonable possibility that a material misstatement to our financial statements may not be prevented or detected
+on a timely basis. In light of this material weakness, we performed additional analyses and procedures in order to conclude that our financial
+statements for the quarter ended December 31, 2022 included in this Quarterly Report on Form 10-Q were fairly stated in accordance with
+US GAAP. Accordingly, management believes that despite our material weaknesses, our financial statements for the quarter ended December
+31, 2022 are fairly stated, in all material respects, in accordance with US GAAP.
+Limitations on Effectiveness of Controls and Procedures
+Our management, including our principal executive officer and principal
+financial officer, does not expect that our disclosure controls and procedures or our internal controls will prevent all errors and all
+fraud. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls
+must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can
+provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent
+limitations include, but are not limited to, the realities that judgments in decision-making can be faulty and that breakdowns can occur
+because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of
+two or more people, or by management override of the control. The design of any system of controls also is based in part upon certain
+assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals
+under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance
+with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements
+due to error or fraud may occur and not be detected.
+Changes in Internal Control over Financial Reporting
+No changes in the Company's internal control over financial reporting have
+come to management's attention during the Company's last fiscal quarter that have materially affected, or are likely to materially affect,
+the Company's internal control over financial reporting.
+19
+PART II.  OTHER INFORMATION
+ITEM 1.  LEGAL PROCEEDINGS.
+None.
+ITEM 1A.    RISK FACTORS
+As a smaller reporting company (as defined in Rule 12b-2 of the Exchange
+Act), we are not required to provide the information called for by this Item 1A.
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF
+PROCEEDS.
+None.
+ITEM 3.  DEFAULTS UPON SENIOR SECURITIES.
+None.
+ITEM 4.  MINE SAFETY DISCLOSURES.
+Not applicable.
+ITEM 5.  OTHER INFORMATION.
+None.
+20
+ITEM 6.  EXHIBITS.
+Exhibit
+Number
+Description
+31.1
+Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+EX-101.INS
+XBRL Instance Document*
+EX-101.SCH
+XBRL Taxonomy Extension Schema Document*
+EX-101.CAL
+XBRL Taxonomy Extension Calculation Linkbase Document*
+EX-101.DEF
+XBRL Taxonomy Extension Definition Linkbase Document*
+EX-101.LAB
+XBRL Taxonomy Extension Labels Linkbase Document*
+EX-101.PRE
+XBRL Taxonomy Extension Presentation Linkbase Document*
+* The XBRL related information in Exhibit
+101 shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise
+subject to liability of that section and shall not be incorporated by reference into any filing or other document pursuant to the Securities
+Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing or document.
+21
+SIGNATURES
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+NINE ALLIANCE SCIENCE & TECHNOLOGY GROUP
+Date: January 30 , 2023
+By:
+/s/ Joseph Passalaqua
+Name: Joseph Passalaqua
+Title: President
+Chief Executive Officer
+Chief Financial Officer
+22

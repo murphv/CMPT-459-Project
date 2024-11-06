@@ -1,0 +1,2441 @@
+2023
+0.001
+0.001
+1,000,000
+1,000,000
+11,000
+11,000
+350
+350
+350
+350
+0.001
+0.001
+50,000,000
+50,000,000
+10,417,609
+10,417,609
+10,417,609
+10,417,609
+80
+80
+1,872
+1,872
+2
+0.9
+1.1
+3.0
+3.0
+0.99
+0.99
+1.5
+1.5
+October 31, 2022
+October 31, 2022
+1.3
+1.3
+4.0
+4.0
+September 30, 2025
+September 30, 2025
+0
+0
+350
+38,889
+0
+6
+5
+8
+5.5
+4.00
+4.00
+5.5
+5.5
+2.51
+5
+2.85
+October 10, 2017
+October 10, 2025
+October 19, 2018
+October 19, 2023
+December 16, 2018
+October 16, 2023
+March 12, 2019
+October 19, 2023
+March 12, 2019
+September 12, 2024
+March 12, 2019
+September 12, 2024
+March 12, 2019
+September 12, 2024
+February 4, 2021
+February 4, 2026
+May 14, 2021
+November 16, 2026
+May 14, 2021
+May 12, 2026
+3
+3
+0
+0
+19
+0
+0
+0
+-
+0001378590 2022-10-01 2022-12-31
+xbrli:shares
+0001378590 2023-02-14
+thunderdome:item
+iso4217:USD
+0001378590 2022-12-31
+0001378590 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember 2022-09-30
+iso4217:USD xbrli:shares
+0001378590 blin:SeriesCConvertiblePreferredStockMember 2022-12-31
+0001378590 blin:SeriesCConvertiblePreferredStockMember 2022-09-30
+0001378590 blin:DigitalEngagementServicesMember 2022-10-01 2022-12-31
+0001378590 blin:DigitalEngagementServicesMember 2021-10-01 2021-12-31
+0001378590 blin:SubscriptionAndPerpetualLicensesMember 2022-10-01 2022-12-31
+0001378590 blin:SubscriptionAndPerpetualLicensesMember 2021-10-01 2021-12-31
+0001378590 2021-10-01 2021-12-31
+0001378590 us-gaap:PreferredStockMember 2022-09-30
+0001378590 us-gaap:CommonStockMember 2022-09-30
+0001378590 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001378590 us-gaap:RetainedEarningsMember 2022-09-30
+0001378590 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0001378590 us-gaap:PreferredStockMember 2022-10-01 2022-12-31
+0001378590 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001378590 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001378590 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0001378590 us-gaap:PreferredStockMember 2022-12-31
+0001378590 us-gaap:CommonStockMember 2022-12-31
+0001378590 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001378590 us-gaap:RetainedEarningsMember 2022-12-31
+0001378590 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0001378590 us-gaap:PreferredStockMember 2021-09-30
+0001378590 us-gaap:CommonStockMember 2021-09-30
+0001378590 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001378590 us-gaap:RetainedEarningsMember 2021-09-30
+0001378590 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0001378590 2021-09-30
+0001378590 us-gaap:PreferredStockMember 2021-10-01 2021-12-31
+0001378590 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001378590 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001378590 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001378590 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0001378590 us-gaap:PreferredStockMember 2021-12-31
+0001378590 us-gaap:CommonStockMember 2021-12-31
+0001378590 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001378590 us-gaap:RetainedEarningsMember 2021-12-31
+0001378590 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0001378590 2021-12-31
+xbrli:pure
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember srt:MinimumMember us-gaap:MarketApproachValuationTechniqueMember 2022-12-31
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember srt:MaximumMember us-gaap:MarketApproachValuationTechniqueMember 2022-12-31
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember srt:WeightedAverageMember us-gaap:MarketApproachValuationTechniqueMember 2022-12-31
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember srt:MinimumMember us-gaap:MarketApproachValuationTechniqueMember 2022-09-30
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember srt:MaximumMember us-gaap:MarketApproachValuationTechniqueMember 2022-09-30
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember srt:WeightedAverageMember us-gaap:MarketApproachValuationTechniqueMember 2022-09-30
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember blin:ValuationTechniqueCompanySpecificVolatilityMember 2022-09-30
+0001378590 us-gaap:MeasurementInputPriceVolatilityMember us-gaap:MarketApproachValuationTechniqueMember 2022-09-30
+0001378590 blin:MontageWarrantMember us-gaap:MeasurementInputPriceVolatilityMember 2022-12-31
+0001378590 blin:SeriesCWarrantsMember us-gaap:MeasurementInputPriceVolatilityMember 2022-12-31
+0001378590 blin:SeriesDWarrantsMember us-gaap:MeasurementInputPriceVolatilityMember 2022-12-31
+0001378590 blin:MontageWarrantMember us-gaap:MeasurementInputPriceVolatilityMember 2022-09-30
+0001378590 blin:SeriesCWarrantsMember us-gaap:MeasurementInputPriceVolatilityMember 2022-09-30
+0001378590 blin:SeriesDWarrantsMember us-gaap:MeasurementInputPriceVolatilityMember 2022-09-30
+0001378590 blin:MontageWarrantMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-12-31
+0001378590 blin:SeriesCWarrantsMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-12-31
+0001378590 blin:SeriesDWarrantsMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-12-31
+0001378590 blin:MontageWarrantMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-09-30
+0001378590 blin:SeriesCWarrantsMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-09-30
+0001378590 blin:SeriesDWarrantsMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-09-30
+0001378590 blin:MontageWarrantMember us-gaap:MeasurementInputSharePriceMember 2022-12-31
+0001378590 blin:SeriesCWarrantsMember us-gaap:MeasurementInputSharePriceMember 2022-12-31
+0001378590 blin:SeriesDWarrantsMember us-gaap:MeasurementInputSharePriceMember 2022-12-31
+0001378590 blin:MontageWarrantMember us-gaap:MeasurementInputSharePriceMember 2022-09-30
+0001378590 blin:SeriesCWarrantsMember us-gaap:MeasurementInputSharePriceMember 2022-09-30
+0001378590 blin:SeriesDWarrantsMember us-gaap:MeasurementInputSharePriceMember 2022-09-30
+0001378590 blin:MontageWarrantMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:MontageWarrantMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:MontageWarrantMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:MontageWarrantMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001378590 blin:MontageWarrantMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:MontageWarrantMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:MontageWarrantMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:MontageWarrantMember us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesWarrantsMember us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 blin:SeriesDWarrantsMember us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001378590 us-gaap:FairValueInputsLevel3Member blin:ContingentConsiderationMember 2022-09-30
+0001378590 us-gaap:FairValueInputsLevel3Member us-gaap:WarrantMember 2022-09-30
+0001378590 us-gaap:FairValueInputsLevel3Member blin:ContingentConsiderationMember 2022-10-01 2022-12-31
+0001378590 us-gaap:FairValueInputsLevel3Member us-gaap:WarrantMember 2022-10-01 2022-12-31
+0001378590 us-gaap:FairValueInputsLevel3Member blin:ContingentConsiderationMember 2022-12-31
+0001378590 us-gaap:FairValueInputsLevel3Member us-gaap:WarrantMember 2022-12-31
+0001378590 blin:DomainAndTradeNamesMember 2022-12-31
+0001378590 blin:DomainAndTradeNamesMember 2022-09-30
+0001378590 us-gaap:CustomerRelationshipsMember 2022-12-31
+0001378590 us-gaap:CustomerRelationshipsMember 2022-09-30
+0001378590 us-gaap:TechnologyBasedIntangibleAssetsMember 2022-12-31
+0001378590 us-gaap:TechnologyBasedIntangibleAssetsMember 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:VendorLoanMember 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:VendorLoanMember 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember srt:MinimumMember 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember srt:MinimumMember 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember srt:MaximumMember 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember srt:MaximumMember 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember 2022-10-01 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember 2021-10-01 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansOneMember 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansTwoMember 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:TermLoansTwoMember 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:SellerNoteMember 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:SellerNoteMember 2022-09-30
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:SellerNoteMember 2022-10-01 2022-12-31
+0001378590 blin:DebtInstrumentsExcludingPaycheckProtectionProgramLiabilityMember blin:SellerNoteMember 2021-10-01 2022-09-30
+0001378590 blin:SeriesAConvertiblePreferredStockMember 2014-10-27
+0001378590 blin:SeriesAConvertiblePreferredStockMember 2022-09-30
+0001378590 blin:SeriesAConvertiblePreferredStockMember 2022-12-31
+0001378590 blin:SeriesBConvertiblePreferredStockMember 2022-12-31
+0001378590 blin:SeriesBConvertiblePreferredStockMember 2022-09-30
+0001378590 blin:SeriesDConvertiblePreferredStockMember 2021-05-14
+0001378590 blin:SeriesDConvertiblePreferredStockMember 2022-09-30
+0001378590 blin:SeriesDConvertiblePreferredStockMember 2022-12-31
+0001378590 blin:AmendedAndRestatedStockIncentivePlanMember 2016-07-31
+0001378590 blin:The2016StockIncentivePlanMember 2022-12-31
+0001378590 us-gaap:CostOfSalesMember 2022-10-01 2022-12-31
+0001378590 us-gaap:CostOfSalesMember 2021-10-01 2021-12-31
+0001378590 us-gaap:OperatingExpenseMember 2022-10-01 2022-12-31
+0001378590 us-gaap:OperatingExpenseMember 2021-10-01 2021-12-31
+utr:Y
+utr:M
+0001378590 blin:MontageWarrantMember 2022-12-31
+0001378590 blin:SeriesAWarrantsMember 2021-12-31
+0001378590 blin:SeriesBWarrantsMember 2021-12-31
+0001378590 blin:SeriesCWarrantsMember 2021-12-31
+0001378590 blin:PlacementAgentWarrantsMember 2021-12-31
+0001378590 blin:SeriesAWarrantsMember 2022-12-31
+0001378590 blin:SeriesCWarrantsMember 2022-12-31
+0001378590 blin:SeriesCPreferredPlacementAgentWarrantsMember 2022-12-31
+0001378590 blin:InvestorWarrantsMember 2022-12-31
+0001378590 blin:SeriesDPreferredStockWarrantsMember 2021-05-14
+0001378590 blin:PlacementAgentWarrantsMember 2021-05-14
+0001378590 blin:SeriesDWarrantsMember 2022-10-01 2022-12-31
+0001378590 blin:SeriesDWarrantsMember 2022-12-31
+0001378590 blin:PlacementAgentWarrantsMember 2022-12-31
+0001378590 blin:PlacementAgentWarrantsMember 2022-10-01 2022-12-31
+0001378590 blin:PlacementAgentWarrantsMember 2021-10-01 2021-12-31
+0001378590 blin:FinancingWarrantsMember 2022-10-01 2022-12-31
+0001378590 blin:FinancingWarrantsMember 2022-12-31
+0001378590 blin:InvestorStockWarrants1Member 2022-10-01 2022-12-31
+0001378590 blin:InvestorStockWarrants1Member 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants1Member 2022-10-01 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants1Member 2022-12-31
+0001378590 blin:InvestorStockWarrants2Member 2022-10-01 2022-12-31
+0001378590 blin:InvestorStockWarrants2Member 2022-12-31
+0001378590 blin:InvestorStockWarrants3Member 2022-10-01 2022-12-31
+0001378590 blin:InvestorStockWarrants3Member 2022-12-31
+0001378590 blin:InvestorStockWarrants4Member 2022-10-01 2022-12-31
+0001378590 blin:InvestorStockWarrants4Member 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants2Member 2022-10-01 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants2Member 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants3Member 2022-10-01 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants3Member 2022-12-31
+0001378590 blin:InvestorStockWarrants5Member 2022-10-01 2022-12-31
+0001378590 blin:InvestorStockWarrants5Member 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants4Member 2022-10-01 2022-12-31
+0001378590 blin:PlacementAgentStockWarrants4Member 2022-12-31
+0001378590 us-gaap:ShareBasedCompensationAwardTrancheThreeMember 2022-12-31
+0001378590 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedCompensationAwardTrancheThreeMember 2022-10-01 2022-12-31
+0001378590 us-gaap:ShareBasedCompensationAwardTrancheThreeMember 2021-12-31
+0001378590 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedCompensationAwardTrancheThreeMember 2021-10-01 2021-12-31
+0001378590 us-gaap:EmployeeStockOptionMember srt:DirectorMember 2022-10-01 2022-12-31
+0001378590 us-gaap:EmployeeStockOptionMember blin:NonBoardOfDirectorsMember 2021-10-01 2021-12-31
+utr:Rate
+0001378590 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0001378590 us-gaap:RestrictedStockMember 2022-09-30
+0001378590 us-gaap:EmployeeStockOptionMember 2022-09-30
+0001378590 blin:StockWarrantsMember 2022-09-30
+0001378590 us-gaap:RestrictedStockMember 2022-10-01 2022-12-31
+0001378590 blin:StockWarrantsMember 2022-10-01 2022-12-31
+0001378590 us-gaap:RestrictedStockMember 2022-12-31
+0001378590 us-gaap:EmployeeStockOptionMember 2022-12-31
+0001378590 blin:StockWarrantsMember 2022-12-31
+0001378590 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0001378590 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0001378590 us-gaap:WarrantMember 2022-10-01 2022-12-31
+0001378590 us-gaap:WarrantMember 2021-10-01 2021-12-31
+0001378590 blin:SeriesCConvertiblePreferredStockMember 2022-10-01 2022-12-31
+0001378590 blin:SeriesCConvertiblePreferredStockMember 2021-10-01 2021-12-31
+0001378590 country:US 2022-10-01 2022-12-31
+0001378590 country:US 2021-10-01 2021-12-31
+0001378590 us-gaap:NonUsMember 2022-10-01 2022-12-31
+0001378590 us-gaap:NonUsMember 2021-10-01 2021-12-31
+0001378590 us-gaap:NonUsMember 2022-12-31
+0001378590 us-gaap:NonUsMember 2022-09-30
+0001378590 us-gaap:ServiceMember 2022-10-01 2022-12-31
+0001378590 us-gaap:ServiceMember 2021-10-01 2021-12-31
+0001378590 us-gaap:SubscriptionAndCirculationMember 2022-10-01 2022-12-31
+0001378590 us-gaap:SubscriptionAndCirculationMember 2021-10-01 2021-12-31
+0001378590 us-gaap:MaintenanceMember 2022-10-01 2022-12-31
+0001378590 us-gaap:MaintenanceMember 2021-10-01 2021-12-31
+0001378590 blin:HostingMember 2022-10-01 2022-12-31
+0001378590 blin:HostingMember 2021-10-01 2021-12-31
+0001378590 blin:PerpetualLicensesMember 2022-10-01 2022-12-31
+0001378590 blin:PerpetualLicensesMember 2021-10-01 2021-12-31
+0001378590 blin:PlacementAgentWarrantsMember blin:TaglichBrothersIncMember 2013-10-31
+0001378590 blin:TaglichBrothersIncMember 2022-12-31
+0001378590 blin:PlacementAgentWarrantsMember blin:MichaelTaglichMember 2022-12-31
+0001378590 blin:TaglichBrothersIncMember 2018-11-01 2018-11-30
+0001378590 blin:MichaelTaglichMember 2019-03-13 2019-03-13
+0001378590 blin:WarrantsAssociatedWithTheFebruaryAndMay2021OfferingsMember blin:TaglichBrothersIncMember 2021-05-31
+0001378590 blin:WarrantsAssociatedWithTheFebruaryAndMay2021OfferingsMember srt:WeightedAverageMember blin:TaglichBrothersIncMember 2021-05-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+OR
+☐
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ______________ to ______________
+Commission File Number
+333-139298
+Bridgeline Digital, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+52-2263942
+State or other jurisdiction of incorporation or organization
+IRS Employer Identification No.
+100 Sylvan Road, Suite G700
+Woburn ,
+Massachusetts
+01801
+(Address of Principal Executive Offices)
+(Zip Code)
+( 781 )
+376-5555
+(Registrant’s telephone number, including area code)
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section (12)b of the Act:
+Title of each class
+Trading Symbols(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001
+BLIN
+NASDAQ
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes   ☒     No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)   ☒   Yes     ☐  No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer  ☐
+Accelerated filer  ☐
+Non-accelerated filer   ☒
+Smaller reporting company  ☒
+Emerging growth company  ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes   ☐     No ☒
+The number of shares of common stock par value $0.001 per share, outstanding as of February 14, 2023 was
+10,417,609 .
+1
+Bridgeline Digital, Inc.
+Quarterly Report on Form 10-Q
+For the Quarterly Period ended December 31, 2022
+Index
+Page
+Part I
+Financial Information
+Item 1.
+Condensed Consolidated Financial Statements
+Condensed Consolidated Balance Sheets (unaudited) as of December 31, 2022 and September 30, 2022
+4
+Condensed Consolidated Statements of Operations (unaudited) for the three months ended December 31, 2022 and 2021
+5
+Condensed Consolidated Statements of Comprehensive Income/(Loss) (unaudited) for the three months ended December 31, 2022 and 2021
+6
+Condensed Consolidated Statements of Stockholders’ Equity (unaudited) for the three months December 31, 2022 and 2021
+7
+Condensed Consolidated Statements of Cash Flows (unaudited) for the three months ended December 31, 2022 and 2021
+8
+Notes to Unaudited Condensed Consolidated Financial Statements
+9
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+24
+Item 3.
+Qualitative and Quantitative Disclosures About Market Risk
+31
+Item 4.
+Controls and Procedures
+32
+Part   II
+Other Information
+Item 1.
+Legal Proceedings
+33
+Item 1A.
+Risk Factors
+33
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+33
+Item 3.
+Defaults Upon Senior Securities
+33
+Item 4.
+Mine Safety Disclosures
+33
+Item 5.
+Other Information
+33
+Item 6 .
+Exhibits
+34
+Signatures
+35
+2
+Bridgeline Digital, Inc.
+Quarterly Report on Form 10-Q
+For the Quarterly Period ended December 31, 2022
+Statements contained in this Report on Form 10-Q, other than statements or characterizations of historical fact, are forward-looking statements. These
+“ forward-looking statements ”
+within the meaning of the Private Securities Litigation Reform Act of 1995, are based on our current expectations, estimates and projections about our industry, management's beliefs, and certain assumptions made by us, all of which are subject to change. Forward-looking statements can often be identified by words such as "anticipates," "expects," "intends," "plans," "predicts," "believes," "seeks," "estimates," "may," "will," "should," "would," "could," "potential," "continue," "ongoing," similar expressions, and variations or negatives of these words. These statements appear in a number of places in this Form 10-Q and include statements regarding the intent, belief or current expectations of Bridgeline Digital, Inc.
+These forward-looking statements are not guarantees of future results and are subject to risks, uncertainties and assumptions, including, but not limited to, the impact of the COVID – 19 pandemic and related public health measures that may affect our financial results; business operations and the business of our customers, suppliers and partners; our ability to retain and upgrade current customers; increasing our recurring revenue; our ability to attract new customers; our revenue growth rate; our history of net loss and our ability to achieve or maintain profitability, our liability for any unauthorized access to our data or our users ’
+content, including through privacy and data security breaches; any decline in demand for our platform or products; changes in the interoperability of our platform across devices, operating systems, and third-party applications that we do no control; competition in our markets; our ability to respond to rapid technological changes, extend our platform, develop new features or products, or gain market acceptance for such new features or products, particularly in light of potential disruptions to the productivity of our employees resulting from remote work; our ability to manage our growth or plan for future growth, and our acquisition of other businesses and the potential of such acquisitions to require significant management attention, disrupt our business, or dilute stockholder value; the volatility of the market price of our common stock; the ability to maintain our listing on the NASDAQ Capital Market; or our ability to maintain an effective system of internal controls as well as other risks described in our filings with the Securities and Exchange Commission.
+Any of such risks could cause our actual results to differ materially and adversely from those expressed in any forward-looking statement. Bridgeline Digital, Inc. assumes no obligation to, and does not currently intend to, update any such forward-looking statements, except as required by applicable law. We urge readers to
+review carefully the risk factors described in our Annual Report on Form 10-K for the fiscal year ended September 30, 2022, and in the other documents that we file with the Securities and Exchange Commission. You can read these documents at
+www.sec.gov .
+Where we say “we,” “us,” “our,” “Company” or “Bridgeline Digital” we mean Bridgeline Digital, Inc.
+3
+PART I — FINANCIAL INFORMATION
+Item 1.
+Condensed Consolidated Financial Statements.
+BRIDGELINE DIGITAL, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands, except share and per share data)
+(Unaudited)
+December 31,
+2022
+September 30,
+2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$ 2,508     $ 2,856
+Accounts receivable, net
+1,589       1,182
+Prepaid expenses and other current assets
+577       242
+Total current assets
+4,674       4,280
+Property and equipment, net
+239       268
+Operating lease assets
+539       589
+Intangible assets, net
+5,927       6,268
+Goodwill
+15,985       15,985
+Other assets
+115       123
+Total assets
+$ 27,479     $ 27,513
+LIABILITIES AND STOCKHOLDERS ’
+EQUITY
+Current liabilities:
+Current portion of long-term debt
+$ 443     $ 429
+Current portion of operating lease liabilities
+199       199
+Accounts payable
+1,198       972
+Accrued liabilities
+1,319       995
+Current portion of purchase price and contingent consideration payable
+-       250
+Deferred revenue
+1,913       1,943
+Total current liabilities
+5,072       4,788
+Long-term debt, net of current portion (Note 7)
+625       588
+Operating lease liabilities, net of current portion
+340       390
+Warrant liabilities
+452       749
+Other long-term liabilities
+686       646
+Total liabilities
+7,175       7,161
+Commitments and contingencies (Note 13)
+Stockholders’ equity:
+Preferred stock - $ 0.001
+par value;
+1,000,000
+shares authorized;
+-       -
+Series C Convertible Preferred stock:
+11,000
+shares authorized;
+350
+shares issued and outstanding at December 31, 2022 and September 30, 2022
+-       -
+Common stock - $ 0.001
+par value;
+50,000,000
+shares authorized;
+10,417,609
+shares issued and outstanding at December 31, 2022, and September 30, 2022
+10       10
+Additional paid-in capital
+100,797       100,704
+Accumulated deficit
+( 80,222
+)
+( 80,142
+)
+Accumulated other comprehensive loss
+( 281
+)
+( 220
+)
+Total stockholders’ equity
+20,304       20,352
+Total liabilities and stockholders’ equity
+$ 27,479     $ 27,513
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+BRIDGELINE DIGITAL, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except share and per share data)
+(Unaudited)
+Three Months Ended
+December 31,
+2022
+2021
+Net revenue:
+Digital engagement services
+$
+854
+$
+869
+Subscription and perpetual licenses
+3,229
+3,417
+Total net revenue
+4,083
+4,286
+Cost of revenue:
+Digital engagement services
+418
+451
+Subscription and perpetual licenses
+861
+829
+Total cost of revenue
+1,279
+1,280
+Gross profit
+2,804
+3,006
+Operating expenses:
+Sales and marketing
+1,209
+1,231
+General and administrative
+832
+873
+Research and development
+747
+859
+Depreciation and amortization
+378
+424
+Restructuring and acquisition related expenses
+-
+98
+Total operating expenses
+3,166
+3,485
+Loss from operations
+( 362
+)
+( 479
+)
+Change in fair value of contingent consideration, interest (income) expense and other, net
+( 9
+)
+( 87
+)
+Change in fair value of warrant liabilities
+297
+2,441
+Income (loss) before income taxes
+( 74
+)
+1,875
+Provision for income taxes
+6
+3
+Net income (loss)
+( 80
+)
+1,872
+Net income (loss) per share attributable to common shareholders:
+Basic net income (loss) per share
+$
+( 0.01
+)
+$
+0.18
+Diluted net income (loss) per share
+$
+( 0.01
+)
+$
+0.06
+Number of weighted average shares outstanding:
+Basic
+10,417,609
+10,189,012
+Diluted
+10,430,822
+10,625,617
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+BRIDGELINE DIGITAL, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME/(LOSS)
+(in thousands)
+(Unaudited)
+Three Months Ended
+December 31,
+2022
+2021
+Net income (loss)
+$
+( 80
+)
+$
+1,872
+Other comprehensive income (loss):
+Net change in foreign currency translation adjustment
+( 61
+)
+41
+Comprehensive income (loss)
+$
+( 141
+)
+$
+1,913
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+BRIDGELINE DIGITAL, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS ’
+EQUITY
+(in thousands, except share data)
+(Unaudited)
+For the Three Months Ended December 31, 2022
+Accumulated
+Preferred Stock
+Common Stock
+Additional
+Other
+Total
+Paid-in
+Accumulated
+Comprehensive
+Stockholders ’
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Loss
+Equity
+Balance at October 1, 2022
+350
+$
+-
+10,417,609
+$
+10
+$
+100,704
+$
+( 80,142
+)
+$
+( 220
+)
+$
+20,352
+Stock-based compensation expense
+-
+-
+-
+-
+93
+-
+-
+93
+Net loss
+-
+-
+-
+-
+-
+(80
+)
+-
+(80
+)
+Foreign currency translation
+-
+-
+-
+-
+-
+-
+( 61
+)
+( 61
+)
+Balance at December 31, 2022
+350
+$
+-
+10,417,609
+$
+10
+$
+100,797
+$
+( 80,222
+)
+$
+( 281
+)
+$
+20,304
+For the Three Months Ended December 31, 2021
+Accumulated
+Preferred Stock
+Common Stock
+Additional
+Other
+Total
+Paid-in
+Accumulated
+Comprehensive
+Stockholders ’
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Loss
+Equity
+Balance at October 1, 2021
+350
+$
+-
+10,187,128
+$
+10
+$
+100,207
+$
+( 82,287
+)
+$
+( 353
+)
+$
+17,577
+Stock-based compensation expense
+-
+-
+-
+-
+63
+-
+-
+63
+Issuance of common stock –warrants exercised
+-
+-
+17,148
+-
+-
+-
+-
+-
+Net loss
+-
+-
+-
+-
+-
+1,872
+-
+1,872
+Foreign currency translation
+-
+-
+-
+-
+-
+-
+41
+41
+Balance at December 31, 2021
+350
+$
+-
+10,204,276
+$
+10
+$
+100,270
+$
+( 80,415
+)
+$
+( 312
+)
+$
+19,553
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+BRIDGELINE DIGITAL, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+(Unaudited)
+Three Months Ended
+December,
+2022
+2021
+Cash flows from operating activities:
+Net income (loss)
+$
+( 80
+)
+$
+1,872
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+Amortization of intangible assets
+342
+401
+Depreciation and other amortization
+42
+23
+Change in fair value of contingent consideration
+-
+70
+Change in fair value of warrant liabilities
+( 297
+)
+( 2,441
+)
+Stock-based compensation
+93
+63
+Changes in operating assets and liabilities
+Accounts receivable
+( 400
+)
+106
+Prepaid expenses and other current assets
+( 339
+)
+( 188
+)
+Other assets
+9
+( 5
+)
+Accounts payable and accrued liabilities
+528
+506
+Deferred revenue
+31
+( 307
+)
+Other liabilities
+( 11
+)
+( 21
+)
+Total adjustments
+(2
+)
+( 1,793
+)
+Net cash provided by (used in) operating activities
+( 82
+)
+79
+Cash flows from investing activities:
+Software development capitalization costs
+-
+( 46
+)
+Purchase of property and equipment
+( 6
+)
+( 18
+)
+Net cash used in investing activities
+( 6
+)
+( 64
+)
+Cash flows from financing activities:
+Payments of contingent consideration and deferred cash payable
+( 250
+)
+( 2,423
+)
+Payments of long-term debt
+( 46
+)
+( 81
+)
+Net cash used in financing activities
+( 296
+)
+( 2,504
+)
+Effect of exchange rate changes on cash and cash equivalents
+36
+( 7
+)
+Net decrease in cash and cash equivalents
+( 348
+)
+( 2,496
+)
+Cash and cash equivalents at beginning of period
+2,856
+8,852
+Cash and cash equivalents at end of period
+$
+2,508
+$
+6,356
+Supplemental disclosures of cash flow information:
+Cash paid for:
+Interest
+$
+2
+$
+3
+Income taxes
+$
+5
+$
+-
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+8
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+1.
+Description of Business
+Overview
+Bridgeline Digital is a marketing technology company that offers a suite of products that help companies grow online revenue by driving more traffic to their websites, converting more visitors to purchasers, and increasing average order value.
+HawkSearch is a site search, recommendation, and personalization application, built for marketers, merchandisers, and developers to enhance, normalize, and enrich an online customer's content search and product discovery experience. HawkSearch leverages advanced artificial intelligence, machine learning and industry-leading merchandising features to deliver accurate and highly relevant results and recommendations derived from multiple data sources.
+Celebros Search is a commerce-oriented site search product that provides Natural Language Processing with artificial intelligence to present relevant search results based on long-tail keyword searches with support for multiple languages.
+Woorank is a Search Engine Optimization (“SEO”) audit tool that generates an instant performance audit of the site’s technical, on-page, and off-page SEO.  Woorank’s clear, actionable insights help companies increase their search engine ranking, while boosting website traffic, audience engagement, conversion, and customer retention rates.
+Our Unbound platform is a Digital Experience Platform that includes Web Content Management, eCommerce, Digital Marketing, and Web Analytics. The Unbound platform, combined with its professional services, assists customers in powering engaging digital experiences that drive lead generation, increase revenue, improve customer service and loyalty, enhance employee knowledge, and reduce operational costs.
+The TruPresence product empowers large franchises, brand networks, and other multi-unit organizations to manage a large hierarchy of digital properties at scale. TruPresence provides centralized and distributed management of content and products from parent sites down to multiple child sites for consistency in branding and messaging, while also enabling regional / local site owners to manage the local messaging, products and promotions specific to their local market.
+OrchestraCMS is the only content and digital experience platform built
+100%
+native on Salesforce and helps customers create websites and intranets for their customers, partners, and employees. The software uniquely combines content with business data, processes and applications across any channel or device, including Salesforce Communities, social media, portals, intranets, websites, applications and services.
+All of Bridgeline’s software is available through a cloud-based Software as a Service (“ SaaS ”) model, whose flexible architecture provides customers hosting and support. Additionally, Unbound and HawkSearch have the option to be available via a traditional perpetual licensing business model, in which the software can reside on a dedicated infrastructure either on premise at the customer’s facility, or manage-hosted by Bridgeline via a cloud-based, dedicated hosted services model.
+Bridgeline Digital was incorporated under the laws of the State of Delaware on
+August 28, 2000.
+Locations
+The Company’s corporate office is located in Woburn, Massachusetts.  The Company maintains regional field offices serving the following geographical locations: Woodbury, New York; Rosemont, Illinois; Atascadero, California; Ontario, Canada; and Brussels, Belgium.
+The Company has
+four
+wholly-owned subsidiaries: Bridgeline Digital Pvt. Ltd., located in Bangalore, India; Bridgeline Digital Canada, Inc., located in Ontario, Canada; Hawk Search Inc. located in Rosemont, Illinois and Bridgeline Digital Belgium BV, located in Brussels, Belgium.
+9
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+2.
+Summary of Significant Accounting Policies
+Basis of Presentation and Principles of Consolidation
+The condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All significant inter-company balances and transactions have been eliminated in consolidation.
+Unaudited Interim Financial Information
+The unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”), and with the instructions to Form
+10 -Q and Regulation S- X,
+and in the opinion of the Company’s management, these condensed consolidated financial statements include all adjustments, consisting of normal recurring adjustments and accruals, necessary for their fair presentation. The operating results for the
+three
+months ended
+December 31, 2022
+are
+not
+necessarily indicative of the results to be expected for the year ending
+September 30, 2023.
+The accompanying
+September 30, 2022
+Condensed Consolidated Balance Sheet has been derived from the audited financial statements at that date, but does
+not
+include all of the information and footnotes required by U.S. GAAP for complete financial statements. For further information, refer to the consolidated financial statements and footnotes thereto included in the Company’s annual report on Form
+10 -K for the year ended
+September 30, 2022,
+filed with the Securities and Exchange Commission (“SEC”) on
+December 21, 2022.
+Recently Adopted Accounting Pronouncements
+Debt — Debt with Conversion and Other Options
+In
+August 2020,  the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”)  2020 - 06,   Debt — Debt with Conversion and Other Options (Subtopic   470 - 20 )  and  Derivatives and Hedging — Contracts in Entity ’ s Own Equity (Subtopic   815 -   40 )  (“ASU  2020 - 06 ”). The ASU  2020 - 06  simplifies the accounting for convertible instruments and application of the equity classification guidance and made certain disclosure amendments. In addition, this ASU also amends certain aspects of the earnings per share (“EPS”) guidance. ASU  2020 - 06  is effective for financial reporting periods beginning after
+December 15, 2021 ,  except smaller reporting companies for which this ASU is effective for financial reporting periods beginning after
+December 15, 2023 .  Early adoption is permitted, and an entity should adopt this ASU as of the beginning of its annual fiscal year. The Company elected to early adopt ASU  2020 - 06  as of the  first  day of the fiscal year ending
+September 30, 2023 ,  using the modified retrospective approach which allows for a cumulative-effect adjustment to the opening balance of retained earnings or accumulated deficit in the period of adoption. The adoption of ASU
+2020 - 06
+did
+not
+have any impact on the accumulated deficit or any other components of the condensed consolidated balance sheet as of
+October 1, 2022
+nor did it have a material impact on earnings per share for the
+three
+months ended
+December 31, 2022.
+Accounting Pronouncements Pending Adoption
+Financial Instruments
+–
+Credit Losses
+In
+June 2016,
+the FASB issued ASU
+No.
+2016 - 13,   Financial Instruments-Credit Losses (Topic
+326 ) , which requires entities to measure all expected credit losses for financial assets held at the reporting date based on historical experience, current conditions, and reasonable and supportable forecasts. This replaces the existing incurred loss model and is applicable to the measurement of credit losses on financial assets measured at amortized cost. ASU
+2016 - 13
+is effective for smaller reporting companies for annual reporting periods beginning after
+December 15, 2022,
+including interim periods within those annual reporting periods, with early adoption permitted. The Company is currently evaluating the impact of the new standard on its consolidated financial statements and related disclosures.
+Business Combinations
+In
+October 2021,
+the FASB issued ASU
+No.
+2021 - 08,
+Business Combinations (Topic
+606 ): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers , which requires that an entity recognize and measure contract assets and contract liabilities acquired in a business combination in accordance with Topic
+606
+as if it had originated the contracts. Generally, this should result in an acquirer recognizing and measuring the acquired contract assets and contract liabilities consistent with how they were recognized and measured in the acquiree’s financial statements, if the acquiree prepared financial statements in accordance with U.S. GAAP. The amendment in this update is effective for fiscal years beginning after
+December 15, 2022,
+including interim periods within those fiscal years. Early adoption is permitted, including adoption in an interim period. The guidance should be applied prospectively to business combinations occurring on or after the effective date of the amendment in this update. The Company is evaluating the potential impact of this adoption on its consolidated financial statements and related disclosures.
+All other Accounting Standards Updates issued but
+not
+yet effective are
+not
+expected to have a material effect on the Company’s future consolidated financial statements or related disclosures.
+10
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+3.
+Accounts Receivable
+Accounts receivable consist of the following:
+As of
+December 31,
+2022
+As of
+September 30,
+2022
+Accounts receivable
+$ 1,767     $ 1,332
+Allowance for doubtful accounts
+( 178
+)
+( 150
+)
+Accounts receivable, net
+$ 1,589     $ 1,182
+As of
+December 31, 2022
+and
+September 30, 2022,
+no
+customer exceeded
+10%
+of accounts receivable.
+4.     Fair Value Measurement and Fair Value of Financial Instruments
+The Company’s financial instruments consist principally of accounts receivable, accounts payable, warrant liabilities, contingent consideration and long-term debt arrangements. The Company measures its financial assets and liabilities at fair value. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (i.e., exit price) in an orderly transaction between market participants at the measurement date. Additionally, under U.S. GAAP, companies are required to provide disclosure and categorize assets and liabilities measured at fair value into
+one
+of
+three
+different levels depending on the assumptions (i.e., inputs) used in the valuation. Level  1
+provides the most reliable measure of fair value while Level  3
+generally requires significant management judgment. Financial assets and liabilities are classified in their entirety based on the lowest level of input significant to the fair value measurement. The fair value hierarchy is defined as follows:
+Level  1—Valuations
+are based on unadjusted quoted prices in active markets for identical assets or liabilities.
+Level  2—Valuations
+are based on quoted prices for similar assets or liabilities in active markets, or quoted prices in markets that are
+not
+active for which significant inputs are observable, either directly or indirectly.
+Level  3—Valuations
+are based on prices or valuation techniques that require inputs that are both unobservable and significant to the overall fair value measurement. Inputs reflect management’s best estimate of what market participants would use in valuing the asset or liability at the measurement date.
+The carrying value of the Company’s accounts receivable and accounts payable approximates fair value due to their short-term nature. As of
+December 31, 2022
+and
+September 30, 2022,
+the aggregate fair values of long-term debts were each $ 0.9  million, with an aggregate carrying value of $ 1.1
+million. The fair value is based on interest rates that are currently available to the Company for issuance of debt with similar terms and remaining maturities. If measured at fair value in the financial statements, the debt would be classified as Level
+2
+in the fair value hierarchy.
+The Company’s warrant liabilities are measured at fair value at each reporting period with changes in fair value recognized in earnings during the period. The fair value of the Company’s warrant liabilities are valued utilizing Level
+3
+inputs. Warrant liabilities are valued using a Monte Carlo option-pricing model, which takes into consideration the volatilities of comparable public companies, due to the relatively low trading volume of the Company’s common stock. The Monte Carlo option-pricing model uses certain assumptions, including expected life and annual volatility. The range and weighted average volatilities of comparable public companies utilized was
+28.0 % -
+65.1 % and
+54.8 %, respectively, as of
+December 31, 2022,
+and
+26.6 % -
+64.3 % and
+55.3 %, respectively, as of
+September 30, 2022.
+The volatility utilized in the Monte Carlo option-pricing model was determined by weighing
+60 % to the Company-specific volatility and
+40 % on comparable public companies. The significant inputs and assumptions utilized were as follows:
+11
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+As of December 31, 2022
+As of September 30, 2022
+Montage
+Capital
+Series C
+Preferred
+Series D
+Preferred
+Montage
+Capital
+Series C
+Preferred
+Series D
+Preferred
+Volatility
+81.4
+%
+83.4
+%
+80.8
+%
+82.0
+%
+83.9
+%
+84.7
+%
+Risk-free rate
+4.30
+%
+4.50
+%
+4.12
+%
+4.20
+%
+4.20
+%
+4.10
+%
+Stock price
+$ 1.05     $ 1.05     $ 1.05     $ 1.31     $ 1.31     $ 1.31
+The Company recognized gains of $ 297
+and $ 2,441
+for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively, related to the change in fair value of warrant liabilities. The changes in fair value of warrant liabilities were due to changes in inputs, primarily a change in the stock price, to the Monte Carlo option-pricing model.
+The Company’s contingent consideration obligations are from arrangements resulting from acquisitions completed in prior periods
+not
+presented that involve potential future payment of consideration that is contingent upon the achievement of revenue targets and operational goals. Contingent consideration is recognized at its estimated fair value at the date of acquisition based on the Company’s expected probability of future payment, discounted using a weighted-average cost of capital in accordance with accepted valuation methodologies.
+The Company reviews and re-assesses the estimated fair value of contingent consideration liabilities at each reporting period and the updated fair value could differ materially from the initial estimates. The Company measures contingent consideration recognized in connection with acquisitions at fair value on a recurring basis using significant unobservable inputs classified as Level
+3
+inputs. The Company uses a simulation-based model to estimate the fair value of contingent consideration on the acquisition date and at each reporting period. The simulation model uses certain inputs and assumptions, including revenue projections, an estimate of revenue discount and volatility rate based on comparable public companies’ data, and risk-free rate. Significant increases or decreases to either of these inputs in isolation could result in a significantly higher or lower liability with a higher liability limited to the contractual maximum of the contingent consideration liabilities. Ultimately, the liability will be equivalent to the amount paid, and the difference between the fair value estimate on the acquisition date and each reporting period and the amount paid will be recognized in earnings.
+Assets and liabilities of the Company measured at fair value on a recurring basis as of
+December 31, 2022
+and
+September 30, 2022,
+are as follows:
+As of December 31, 2022
+Level 1
+Level 2
+Level 3
+Total
+Liabilities:
+Warrant liabilities:
+Montage
+$ -     $ -     $ 12     $ 12
+Series A and C
+-       -       113       113
+Series D
+-       -       327       327
+Total warrant liabilities
+$ 452     $ 452
+As of September 30, 2022
+Level 1
+Level 2
+Level 3
+Total
+Liabilities:
+Warrant liabilities:
+Montage
+$ -     $ -     $ 12     $ 12
+Series A and C
+-       -       234       234
+Series D
+-       -       503       503
+Total warrant liabilities
+749       749
+Contingent consideration obligations
+-       -       250       250
+Total Liabilities
+$ -     $ -     $ 999     $ 999
+12
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+The following table provides a rollforward of the fair value, as determined by Level
+3
+inputs, as follows:
+Contingent
+Consideration
+Obligations
+Warrant
+Liabilities
+Balance at beginning of period, October 1, 2022
+$ 250     $ 749
+Additions
+-       -
+Payments or exercises
+( 250
+)
+-
+Adjustment to fair value
+-       ( 297
+)
+Balance at end of period, December 31, 2022
+$ -     $ 452
+5.
+Intangible Assets
+The components of intangible assets, net of accumulated amortization, are as follows:
+As of
+December,
+2022
+As of
+September 30,
+2022
+Domain and trade names
+$ 669     $ 682
+Customer related
+4,313       4,522
+Technology
+945       1,064
+Balance at end of period
+$ 5,927     $ 6,268
+Total amortization expense was $ 342  and $ 401
+related to intangible assets for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively, and is reflected in operating expenses on the Condensed Consolidated Statements of Operations. The estimated amortization expense for fiscal year
+2023
+(remaining),
+2024,
+2025,
+2026,
+and
+2027
+and thereafter is $ 1,016 , $ 1,015 , $ 725 , $ 668 , $ 555  and $ 1,948 , respectively.
+6.     Accrued Liabilities
+Accrued liabilities consist of the following:
+As of
+December 31,
+2022
+As of
+September 30,
+2022
+Compensation and benefits
+$ 559     $ 477
+Professional fees
+156       186
+Taxes
+127       98
+Insurance
+140       -
+Other
+337       234
+Balance at end of period
+$ 1,319     $ 995
+13
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+7.
+Long-term debt
+On
+March 1, 2021,
+the Company assumed the outstanding long-term debt obligations of an acquired business and issued a seller note to
+one
+of the selling shareholders. The assumed debt obligations and seller note are denominated in Euros.
+Long-term debt consisted of the following:
+As of
+December 31,
+2022
+As of
+September 30,
+2022
+Vendor loan payable (“Vendor loan”), accruing interest at
+3.0 % per annum. Principal and interest are payable in one remaining installment in March 2023.
+$ 320     $ 292
+Term loan payable, accruing interest at fixed rates ranging between
+0.99 % to
+1.5 % per annum, payable in monthly or quarterly payments of interest and principal and matured in
+October 2022 .
+-       44
+Term loan payable, accruing interest at 3-Month EURIBOR plus
+1.3 % per annum, payable in quarterly installments starting in April 2023 and matures in July 2028.
+428       389
+Seller’s note payable (“Seller’s note”), due to one of the selling shareholders, accruing interest at a fixed rate of
+4.0 % per annum. The Seller’s note is payable over 5 installments and matures in
+September 2025 .
+320       292
+Total debt
+1,068       1,017
+Less: current portion
+( 443
+)
+( 429
+)
+Long-term debt, net of current portion
+$ 625     $ 588
+At
+December 31, 2022,
+future maturities of long-term debt are as follows:
+Fiscal year:
+2023 (remaining)
+$ 423
+2024
+206
+2025
+206
+2026
+78
+2027
+78
+Thereafter
+77
+Total long-term debt
+$ 1,068
+8.     Stockholders ’
+Equity
+Under our Certificate of Incorporation, we are authorized, subject to limitations prescribed by Delaware law and our Charter, to issue up to  1,000,000  shares of preferred stock in  one  or more series, to establish from time to time the number of shares to be included in each series and to fix the designation, powers, preferences and rights of the shares of each series and any of its qualifications, limitations or restrictions. Our Board of Directors can increase or decrease the number of shares of any series, but  not  below the number of shares of that series then outstanding, without any further vote or action by our stockholders. Our Board of Directors
+may  authorize the issuance of preferred stock with voting or conversion rights that could adversely affect the voting power or other rights of the holders of the common stock.
+Series A Convertible Preferred Stock
+The Company has designated  264,000  shares of its preferred stock as Series A Convertible Preferred Stock (“Series A Preferred Stock”). The shares of Series A Preferred Stock
+may  be converted, at the option of the holder at any time, into such number of shares of common stock equal to (i) the number of shares of Series A Preferred Stock to be converted, multiplied by the stated value of $ 10  and (ii) divided by the conversion price in effect at the time of conversion. As of
+December
+31,
+2022  and
+September 30,  2022 ,  the Company had  no  shares of Series A Preferred Stock outstanding.
+Series B Convertible Preferred Stock
+The Company has designated  5,000  shares of its preferred stock as Series B Convertible Preferred Stock (“Series B Preferred Stock”). The shares of Series B Preferred Stock
+may  be converted, at the option of the holder at any time, into such number of shares of common stock equal to (i) the number of shares of Series B Preferred Stock to be converted, multiplied by the stated value of $ 1,000  and (ii) divided by the conversion price in effect at the time of conversion. As of
+December 31, 2022  and
+September 30, 2022,  the Company had  no  shares of Series B Preferred Stock outstanding.
+14
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Series C Convertible Preferred Stock
+The Company has designated  11,000  shares of its preferred stock as Series C Convertible Preferred Stock (“Series C Preferred Stock”). The shares of Series C Preferred Stock
+may  be converted, at the option of the holder at any time, into such number of shares of common stock equal to (i) the number of shares of Series C Preferred Stock to be converted, multiplied by the stated value of $ 1,000  and (ii) divided by the conversion price in effect at the time of conversion. Series C Preferred Stock vote on an as-converted basis along with shares of the Company’s common stock, are  not  entitled to receive dividends, unless specifically declared by our Board of Directors, and in the event of any liquidation, dissolution or winding up of the Company the holders of Series C Preferred Stock are entitled to receive in preference to the holders of common stock, Series A Preferred Stock, Series B Preferred Stock and any other stock, the amount equal to the stated value per share of Series C Preferred Stock. The Company
+may  not  effect, and a holder will  not  be entitled to, convert the Series C Preferred Stock or exercise any Series C Preferred Warrants, which, upon giving effect to such conversion or exercise, would cause the aggregate number of shares of common stock beneficially owned by the Purchaser (together with its affiliates) to exceed  4.99%  (or, at the election of the holder,  9.99% ) of the number of shares of common stock outstanding immediately after giving effect to the exercise. As of
+December
+31,
+2022  and
+September 30, 2022 ,  the Company had  350  shares of Series C Preferred Stock outstanding, which were convertible into an aggregate of  38,889  shares of the Company’s common stock.
+Series D Convertible Preferred Stock
+The Company has designated  4,200  shares of its preferred stock as Series D Convertible Preferred Stock (“Series D Preferred Stock”).  The shares of Series D Preferred Stock
+may  be converted, at the option of the holder at any time, into such number of shares of common stock equal to (i) the number of shares of Series D Preferred Stock to be converted, multiplied by the stated value of $ 1,000  and (ii) divided by the conversion price in effect at the time of conversion. The Company
+may  not  effect, and a holder will  not  be entitled to convert, the Series D Preferred Stock or exercise any Series D Preferred Warrants, which, upon giving effect to such conversion or exercise, would cause (i) the aggregate number of shares of common stock beneficially owned by the Purchaser (together with its affiliates) to exceed  4.99 % (or, at the election of the holder,  9.99 %) of the number of shares of common stock outstanding immediately after giving effect to the exercise. As of
+December 31, 2022
+and
+September 30, 2022,
+the Company had
+no
+shares of Series D Preferred Stock outstanding.
+15
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Amended and Restated Stock Incentive Plan
+The Company has granted common stock, common stock warrants, and common stock option awards (the “Equity Awards”) to employees, consultants, advisors and former debt holders of the Company and to former owners and employees of acquired companies that have become employees of the Company. The Company’s Amended and Restated Stock Incentive Plan (the “Plan”) provided for the issuance of up to
+5,000
+shares of common stock. This Plan expired in
+August 2016.
+On
+April 29, 2016,
+the stockholders approved a new stock incentive plan, the
+2016
+Stock Incentive Plan (the
+“2016
+Plan”). The
+2016
+Plan authorizes the award of incentive stock options, non-statutory stock options, restricted stock, unrestricted stock, performance shares, stock appreciation rights and any combination thereof to employees, officers, directors, consultants, independent contractors and advisors of the Company. The
+2016
+Plan provides for the issuance in the aggregate of up to
+1,650,000
+shares of common stock associated with awards granted under the Stock Incentive Plan. As of
+December 31, 2022,
+there were
+1,192,094  options outstanding and
+204,907  shares available for future issuance under the
+2016
+Plan.
+Compensation Expense
+Compensation expense is generally recognized on a graded accelerated basis over the vesting period of grants. Compensation expense is recorded in the consolidated statements of operations with a portion charged to Cost of revenue and a portion to Operating expenses, depending on the employee’s department.
+During the
+three
+months ended
+December 31, 2022
+and
+2021,  compensation expense related to share-based payments was as follows:
+Three Months Ended
+December 31,
+2022
+2021
+Cost of revenue
+$ 5     $ 8
+Operating expenses
+88       55
+$ 93     $ 63
+As of
+December 31, 2022,
+the Company had approximately $ 0.7
+million of unrecognized compensation costs related to unvested options, which is expected to be recognized over a weighted-average period of
+2.2
+years.
+16
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Common Stock Warrants
+The Company typically issues warrants to individual investors and placement agents to purchase shares of the Company’s common stock in connection with public and private placement fund raising activities. Warrants
+may  also be issued to individuals or companies in exchange for services provided to the Company. The warrants are typically exercisable  six  months after the issue date, expire in  five  years, and contain a cashless exercise provision and piggyback registration rights.
+Montage Warrant  - As additional consideration for a prior loan arrangement which was paid in full in a prior period  not  presented, the Company issued to Montage Capital an  eight -year warrant (the “Montage Warrant”) to purchase the Company’s common stock at a price equal to $ 132.50  per share. The Montage Warrant contains an equity buy-out provision upon the earlier of ( 1 ) dissolution or liquidation of the Company, ( 2 ) any sale or distribution of all or substantially all of the assets of the Company, or ( 3 ) a “Change in Control” as defined within the meaning of Sections  13 (d) and  14 (d)( 2 ) of the Securities Exchange Act of  1934.  Montage Capital has the right to receive an equity buy-out of $ 250 . If the equity buy-out is exercised, the Montage Warrant will be surrendered to the Company for cancellation.
+Series A and B and C Preferred Warrants -  In
+March 2019,  in connection with the issuance of the Company’s Series C Preferred Stock, the Company issued warrants to purchase the Company’s common stock. These warrants were designated as (i) Series A Warrants with an initial term of  5.5  years and an exercise price of  $4.00;  (ii) Series B Warrants, which expired unexercised during the Company’s  2021  fiscal year, with an initial term of  24  months and an exercise price of  $4.00;  and (iii) Series C Warrants with an initial term of  5.5  years and an exercise price of $ 0.05  (collectively, hereinafter referred to as the “Series C Preferred Warrants”). The Company also issued warrants with an exercise price of $ 4.00  to purchase shares of the Company’s common stock to the Placement Agents. The Company
+may   not  effect, and a holder will  not  be entitled to convert, the Series C Preferred Stock or exercise any Series C Preferred Warrants, which, upon giving effect to such conversion or exercise, would cause (i) the aggregate number of shares of common stock beneficially owned by the Purchaser (together with its affiliates) to exceed  4.99%  (or, at the election of the holder,  9.99% ) of the number of shares of common stock outstanding immediately after giving effect to the exercise.
+As of
+December 31 ,
+2022 ,  the number of shares issuable upon exercise of the (i) Series A Warrants were  872,625  shares; (ii) Series C Warrants were  13,738  shares; (iii) the Placement Agent Warrants issued in connection with the Series C Preferred Stock were  11,992  shares; and (iv) Investor Warrants were  41,621  shares.
+Series D Preferred Warrants
+– In
+May 2021,
+in connection with the issuance of the Company’s Series D Preferred Stock, the Company issued warrants to purchase the Company’s common stock. These warrants consisted of (i) warrants issued to investors in Series D Preferred Stock to purchase in the aggregate up to  592,106  shares of common stock with an initial term of  five  and a half years which ends on
+November 16, 2026
+and
+an initial exercise price of  $2.51
+and (ii) Placement Agents warrants to purchase an aggregate of  179,536  shares of common stock with an initial term of  five  years which ends on
+May 12, 2026
+and an initial exercise price of  $2.85.
+Collectively, these warrants are referred to as the “Series D Preferred Warrants.”
+The Company
+may  not  effect, and a holder will  not  be entitled to convert, the Series D Preferred Stock or exercise any Series D Preferred Warrants, which, upon giving effect to such conversion or exercise, would cause (i) the aggregate number of shares of common stock beneficially owned by the Purchaser (together with its affiliates) to exceed  4.99%  (or, at the election of the holder,  9.99% ) of the number of shares of common stock outstanding immediately after giving effect to the exercise. As of
+December 31, 2022 ,   no  Series D Warrants have been exercised and the aggregate number of shares issuable upon exercise was  592,106  and  179,536  shares for investors and placement agents, respectively.
+The Montage Warrants, Series A and C Preferred Warrants, the Placement Agent Warrants issued in connection with the Series C Preferred Stock, and the Series D Warrants were all determined to be derivative liabilities and are subject to remeasurement each reporting period (see Note  4 ).
+17
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+During
+three
+months ended
+December 31, 2022,
+and
+2021,
+there were
+no
+warrants exercised and
+26,605
+Placement Agent Warrants were exercised, respectively.
+Total warrants outstanding as
+December 31, 2022,
+were as follows:
+Type
+Issue
+Date
+Shares
+Price
+Expiration
+Financing (Montage)
+10/10/2017
+1,327     $ 132.50
+10/10/2025
+Investors
+10/19/2018
+3,120     $ 25.00
+10/19/2023
+Placement Agent
+10/16/2018
+10,000     $ 31.25
+10/16/2023
+Investors
+3/12/2019
+41,621     $ 4.00
+10/19/2023
+Investors
+3/12/2019
+872,625     $ 4.00
+9/12/2024
+Investors
+3/12/2019
+13,738     $ 0.05
+9/12/2024
+Placement Agent
+3/12/2019
+11,992     $ 4.00
+9/12/2024
+Placement Agent
+2/4/2021
+31,564     $ 3.88
+2/4/2026
+Investors
+5/14/2021
+592,106     $ 2.51
+11/16/2026
+Placement Agent
+5/14/2021
+179,536     $ 2.85
+5/12/2026
+Total
+1,757,629
+Summary of Option and Warrant Activity and Outstanding Shares
+During the
+three
+months ended
+December 31, 2022,
+the Company granted options to purchase
+50,000  shares at an exercise price of $ 1.34 , which vest ratably over a
+three -year period. During the
+three
+months ended
+December 31, 2021,
+the Company granted options to purchase
+5,000  shares at an exercise price of $ 4.11 , which vest ratably over a
+three -year period commencing on
+October 1, 2021.
+The weighted-average option fair values, as determined using the Black-Scholes option valuation model, and the assumptions used to estimate these values for stock options granted during the periods ended are as follows:
+Three months ended December 31,
+2022
+2021
+Weighted-average fair value per share option
+$ 1.12     $ 2.96
+Expected life (in years)
+6.0       6.0
+Volatility
+108.5
+%
+90.8
+%
+Risk-free interest rate
+3.8
+%
+1.1
+%
+Dividend yield
+0.0
+%
+0.0
+%
+The expected option term is the number of years the Company estimates the options will be outstanding prior to exercise based on historical trends of employee turnover. Expected volatility is based on historical daily price changes of the Company’s common stock for a period equal to the expected life. The risk-free interest rate is based on the U.S. Treasury yield in effect at the time of grant. The expected dividend yield is
+zero
+since the Company does
+not
+currently pay cash dividends on its common stock and does
+not
+anticipate doing so in the foreseeable future.
+A summary of combined restricted stock, stock option and warrant activity for the
+three
+months ended
+December 31, 2022,
+is as follows:
+Restricted Stock
+Stock Options
+Stock Warrants
+Weighted
+Average
+Weighted
+Average
+Awards
+Awards
+Exercise
+Price
+Warrants
+Exercise
+Price
+Outstanding, October 1, 2022
+200,000       1,157,927     $ 3.49       1,757,629     $ 3.64
+Granted
+-       50,000       1.34       -       -
+Exercised
+-       -       -       -       -
+Forfeited
+-       ( 15,833
+)
+2.51       -       -
+Expired
+-       -       -       -       -
+Outstanding, December 31, 2022
+200,000       1,192,094     $ 3.41       1,757,629     $ 3.64
+Options vested and exercisable, December 31, 2022
+780,257     $ 4.23
+As of
+December 31, 2022,
+there was
+no
+aggregate intrinsic value of options outstanding and exercisable, and the weighted-average remaining contractual term was
+8.3
+and
+7.8
+years, respectively.
+18
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+9.
+Net Income (Loss) Per Share Attributable to Common Shareholders
+Basic net income (loss) per share is computed by dividing net income (loss) applicable to common shareholders by the weighted average number of common shares outstanding.  Diluted net loss per share attributable to common shareholders is computed using the weighted average number of common shares outstanding during the period plus the dilutive effect of outstanding stock options and warrants using the “treasury stock” method and convertible preferred stock using the “as-if-converted” method. The computation of diluted earnings per share does
+not
+include the effect of outstanding stock options, warrants and convertible preferred stock that are considered anti-dilutive.
+Basic and diluted net income (loss) per share is computed as follows:
+Three Months Ended December 31,
+(in thousands, except per share data)
+2022
+2021
+Numerator:
+Net income (loss) - basic earnings per share
+$ ( 80
+)
+$ 1,872
+Effect on dilutive securities:
+Change in fair value of in-the-money warrant derivative liabilities
+( 2 )     ( 1,247
+)
+Net income (loss) applicable to common shareholders – diluted earnings per share
+$ ( 82
+)
+$ 625
+Denominator:
+Weighted-average shares outstanding for basic earnings per share
+10,417,609       10,189,012
+Effect on dilutive securities:
+Options
+-       242,699
+Warrants
+13,213       155,017
+Preferred Stock
+-       38,889
+Weighted-average shares outstanding for diluted earnings per share
+10,430,822       10,625,617
+Basic net income (loss) per share
+$ ( 0.01 )   $ 0.18
+Diluted net income (loss) per share
+$ ( 0.01 )   $ 0.06
+Potential common stock equivalents excluded from the computation of diluted net income (loss) per share because their inclusion would have been anti-dilutive were as follows (in shares):
+As of December 31,
+2022
+2021
+Stock options
+1,192,094       244,348
+Warrants
+1,744,416       976,520
+Convertible preferred stock
+38,889       -
+10.    Revenues and Other Related Items
+Disaggregated Revenues
+The Company disaggregates revenue from contracts with customers by geography and product grouping, as it believes this best depicts how the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors.
+The Company’s revenue by geography (based on customer address) is as follows:
+Three Months Ended
+December 31,
+2022
+2021
+Revenues:
+United States
+$ 3,295     $ 3,360
+International
+788       926
+$ 4,083     $ 4,286
+19
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+The largest concentration within the Company’s international revenue geography is within Canada.
+Long-lived assets located in foreign jurisdictions aggregated approximately $ 6.5
+million and $ 6.7
+million as of
+December 31, 2022
+and
+September 30, 2022,
+respectively.
+The Company’s revenue by type is as follows:
+Three Months Ended
+December 31,
+2022
+2021
+Revenues:
+Digital engagement services
+$ 854     $ 869
+Subscription
+2,832       3,014
+Maintenance
+136       117
+Hosting
+261       221
+Perpetual licenses     -       65
+$ 4,083     $ 4,286
+For the
+three
+months ended
+December 31, 2022
+and
+2021,
+no
+customers exceeded
+10%
+of the Company’s total revenue.
+Deferred Revenue
+Amounts that have been invoiced are recorded in accounts receivable and deferred revenue or revenue, depending on whether the revenue recognition criteria have been met. Deferred revenue represents amounts billed for which revenue has
+not
+yet been recognized. Deferred revenue that is expected to be recognized during the succeeding
+12 -month period is recorded as current deferred revenue, and the remaining portion is recorded as noncurrent deferred revenue included in Other long-term liabilities.
+The following table summarizes the classification and net change in deferred revenue as of and for the
+three
+months ended
+December 31, 2022:
+Deferred Revenue
+Current
+Long-Term
+Balance as of October 1, 2022
+$ 1,943     $ 384
+Increase (decrease)
+( 30
+)
+( 12
+)
+Balance as of December 31, 2022
+$ 1,913     $ 372
+11.    Income Taxes
+Income tax expense consists of the estimated liability for state income taxes owed by the Company.  Net operating loss carryforwards are estimated to be sufficient to offset any potential taxable income for all periods presented. During the
+three
+months ended
+December 31, 2022
+and
+2021,
+the Company recognized an income tax expense of $ 6
+and $ 3 , respectively.
+20
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+12.    Leases
+The Company leases facilities in the United States for its corporate and regional field offices. During the
+three
+months ended
+December 31, 2022,
+the Company was also a lessee/sublessor for certain office locations.
+The components of net lease costs were as follows:
+Three Months Ended
+December 31,
+2022
+2021
+Condensed Consolidated Statement of Operations:
+Operating lease cost
+$ 50     $ 54
+Variable lease cost
+10       14
+Less: Sublease income, net
+(19
+)
+( 25
+)
+Total
+$ 41     $ 43
+Cash paid for amounts included in the measurement of lease liabilities was $ 58
+thousand and $ 47
+thousand for the
+three
+months ended
+December 31, 2022
+and
+2021,
+all of which represents operating cash flows from operating leases. As of
+December 31, 2022,
+the weighted average remaining lease term was
+3.5
+years and the weighted average discount rate was
+7.0 %.
+21
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+At
+December 31, 2022,
+future minimum rental commitments under non-cancelable leases with initial or remaining terms in excess of
+one
+year were as follows:
+Operating
+Leases
+Receipts
+Subleases
+Net Leases
+Fiscal year:
+2023 (remaining)
+$ 175       56       119
+2024
+157       25       132
+2025
+141       -       141
+2026
+72       -       72
+2027
+61       -       61
+Thereafter
+11       -       11
+Total lease commitments
+617       81       536
+Less: Amount representing interest
+( 78
+)
+Present value of lease liabilities
+539
+Less: current portion
+( 199
+)
+Operating lease liabilities, net of current portion
+$ 340
+13.     Commitments and Contingencies
+The Company leases certain of its buildings under noncancelable lease agreements. Refer to the
+Leases
+footnote (Note
+12 ) of the Notes to the Condensed Financial Statements for additional information.
+The Company frequently warrants that the technology solutions it develops for its clients will operate in accordance with the project specifications without defects for a specified warranty period, subject to certain limitations that the Company believes are standard in the industry. In the event that defects are discovered during the warranty period, and
+none
+of the limitations apply, the Company is obligated to remedy the defects until the solution that the Company provided operates within the project specifications. The Company is
+not
+typically obligated by contract to provide its clients with any refunds of the fees they have paid, although a small number of its contracts provide for the payment of liquidated damages upon default. The Company has purchased insurance policies covering professional errors and omissions, property damage and general liability that reduce its monetary exposure for warranty-related claims and enable it to recover a portion of any future amounts paid.
+The Company’s contracts typically provide for testing and client acceptance procedures that are designed to mitigate the likelihood of warranty-related claims, although there can be
+no
+assurance that such procedures will be effective for each project.  The Company has
+not
+paid any material amounts related to warranties for its solutions.  The Company sometimes commits unanticipated levels of effort to projects to remedy defects covered by its warranties.  The Company’s estimate of its exposure to warranties on contracts is immaterial as of
+December 31, 2022
+and
+September 30, 2022.
+The Company’s agreements with customers generally require the Company to indemnify the customer against claims in which the Company’s products infringe
+third -party patents, copyrights, or trademarks and indemnify against product liability matters. As of
+December 31, 2022
+and
+September 30, 2022,
+the Company has
+not
+experienced any losses related to the indemnification obligations and
+no
+significant claims with respect thereto were outstanding.  The Company does
+not
+expect significant claims related to the indemnification obligations and, consequently, concluded that the fair value of these obligations is negligible, and
+no
+related reserves were established.
+Litigation
+The Company is subject to ordinary routine litigation and claims incidental to its business. As of
+December 31, 2022,
+the Company was
+not
+engaged with any material legal proceedings.
+22
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+14.    Related Party Transactions
+In
+October 2013,
+Mr. Michael Taglich joined the Board of Directors. Michael Taglich is the Chairman and President of Taglich Brothers, Inc. (“Taglich Brothers”), a New York based securities firm. Taglich Brothers were the Placement Agents for many of the Company’s private offerings and debt issuances. In connection with previous private offerings and debt issuances which occurred prior to the fiscal years presented in these consolidated financial statements, Taglich Brothers were granted Placement Agent Warrants to purchase
+10,926
+shares of common stock at a weighted average price of $ 761.61
+per share. As of
+December 31, 2022,
+Michael Taglich beneficially owns approximately
+3.6 % of the Company’s stock.
+In consideration of previous loans made by Michael Taglich to the Company and the personal guaranty on a former
+third -party credit facility
+no
+longer maintained by the Company, Mr. Taglich has been issued warrants to purchase common stock totaling
+1,080
+shares at an exercise price of $ 1,000
+per share.
+In
+November 2018,
+the Company engaged Taglich Brothers Inc, on a non-exclusive basis, to perform advisory and investment banking services to identify possible acquisition target possibilities. Michael Taglich, a director and shareholder of the Company, is the President and Chairman of Taglich Brothers Inc. Fees for the services were $ 8
+per month for
+three
+months and $ 5
+per month thereafter, cancellable at any time. Taglich Brothers Inc. could also earn a success fee ranging from $ 200
+for a revenue target acquisition of under
+$5
+million up to $ 1
+million for an acquisition target over
+$200
+million.
+Michael Taglich purchased
+350
+units in the amount of $ 350
+of Series C Preferred Stock and associated warrants in the private transaction consummated on
+March 13, 2019.
+Mr. Taglich’s purchase was subject to stockholder approval pursuant to Nasdaq Marketplace Rule
+5635 (c), for which approval by the stockholders of the Company was obtained on
+April 26, 2019.
+In connection with
+February
+and
+May 2021
+Offerings, Taglich Brothers, Inc. received warrants to purchase
+82,945
+shares of the Company’s common stock with a weighted average exercise price of $ 3.21
+and weighted average term of
+5.0
+years.
+15.
+Subsequent Events
+The Company evaluated subsequent events through the date of this filing and concluded there were
+no
+material subsequent events requiring adjustment to or disclosure in these interim condensed consolidated financial statements.
+23
+BRIDGELINE DIGITAL, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share data)
+Item 2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations.
+All statements included in this section, other than statements or characterizations of historical fact, are forward-looking statements. These
+“ forward looking statements ”
+within the meaning of the Private Securities Litigation Reform Act of 1995, are based on our current expectations, estimates and projections about our industry, management's beliefs, and certain assumptions made by us, all of which are subject to change. Forward-looking statements can often be identified by words such as "anticipates," "expects," "intends," "plans," "predicts," "believes," "seeks," "estimates," "may" "will," "should," "would," "could," "potential," "continue," "ongoing," similar expressions, and variations or negatives of these words. These statements appear in a number of places and include statements regarding the intent, belief or current expectations of Bridgeline Digital, Inc. These forward-looking statements are not guarantees of future results and are subject to risks, uncertainties and assumptions, including, but not limited to, the impact of the COVID – 19 pandemic and related public health measures on our financial results; business operations and the business of our customers, suppliers and partners; our ability to retain and upgrade current customers; increasing our recurring revenue; our ability to attract new customers; our revenue growth rate; our history of net loss and our ability to achieve or maintain profitability; our liability for any unauthorized access to our data or our users ’
+content, including through privacy and data security breaches; any decline in demand for our platform or products; changes in the interoperability of our platform across devices, operating systems, and third-party applications that we do no control; competition in our markets; our ability to respond to rapid technological changes, extend our platform, develop new features or products, or gain market acceptance for such new features or products, particularly in light of potential disruptions to the productivity of our employees resulting from remote work; our ability to manage our growth or plan for future growth, and our acquisition of other businesses and the potential of such acquisitions to require significant management attention, disrupt our business, or dilute stockholder value; the volatility of the market price of our common stock; the ability to maintain our listing on the NASDAQ Capital Market; or our ability to maintain an effective system of internal controls as well as other risks described in our filings with the Securities and Exchange Commission. Any of such risks could cause our actual results to differ materially and adversely from those expressed in any forward-looking statement. We urge readers to review carefully the risk factors described in our Annual Report on Form 10-K for the fiscal year ended September 30, 2022, as well as in the other documents that we file with the Securities and Exchange Commission.
+This section should be read in combination with the accompanying unaudited condensed consolidated financial statements and related notes prepared in accordance with United States generally accepted accounting principles.
+Overview
+We offer a suite of marketing technology products that help companies grow online revenue by driving more traffic to their websites, converting more visitors to purchasers, and increasing average order value.
+HawkSearch is a site search, recommendation, and personalization application, built for marketers, merchandisers, and developers to enhance, normalize, and enrich an online customer's content search and product discovery experience. HawkSearch leverages advanced artificial intelligence, machine learning and industry-leading merchandising features to deliver accurate and highly relevant results and recommendations derived from multiple data sources.
+Celebros Search is a commerce-oriented site search product that provides Natural Language Processing with artificial intelligence to present relevant search results based on long-tail keyword searches with support for multiple languages.
+Woorank is a Search Engine Optimization (“SEO”) audit tool that generates an instant performance audit of the site’s technical, on-page, and off-page SEO.  Woorank’s clear, actionable insights help companies increase their search engine ranking, while boosting website traffic, audience engagement, conversion, and customer retention rates.
+Our Unbound platform is a Digital Experience Platform that includes Web Content Management, eCommerce, Digital Marketing, and Web Analytics. The Unbound platform, combined with its professional services, assists customers in powering engaging digital experiences that drive lead generation, increase revenue, improve customer service and loyalty, enhance employee knowledge, and reduce operational costs.
+The TruPresence product empowers large franchises, brand networks, and other multi-unit organizations to manage a large hierarchy of digital properties at scale. TruPresence provides centralized and distributed management of content and products from parent sites down to multiple child sites for consistency in branding and messaging, while also enabling regional / local site owners to manage the local messaging, products and promotions specific to their local market.
+OrchestraCMS is the only content and digital experience platform built 100% native on Salesforce and helps customers create websites and intranets for their customers, partners, and employees. The software uniquely combines content with business data, processes and applications across any channel or device, including Salesforce Communities, social media, portals, intranets, websites, applications and services.
+24
+All of Bridgeline’s software is available through a cloud-based Software as a Service (“ SaaS ”) model, whose flexible architecture provides customers hosting and support. Additionally, Unbound and HawkSearch have the option to be available via a traditional perpetual licensing business model, in which the software can reside on a dedicated infrastructure either on premise at the customer’s facility, or manage-hosted by Bridgeline via a cloud-based, dedicated hosted services model.
+Bridgeline Digital was incorporated under the laws of the State of Delaware on August 28, 2000.
+Locations
+The Company’s corporate office is located in Woburn, Massachusetts.  The Company maintains regional field offices serving the following geographical locations: Woodbury, New York; Rosemont, Illinois; Atascadero, California; Ontario, Canada; and Brussels, Belgium.
+The Company has four wholly-owned subsidiaries: Bridgeline Digital Pvt. Ltd., located in Bangalore, India; Bridgeline Digital Canada, Inc., located in Ontario, Canada; Hawk Search Inc. located in Rosemont, Illinois and Bridgeline Digital Belgium BV, located in Brussels, Belgium.
+Customer Information
+We currently have over 2,000 active customers. For the three months ended December 31, 2022 and 2021, no customer exceeded 10% of the Company’s revenue.
+Results of Operations for the Three Months Ended December 31, 2022
+compared to the Three Months Ended December 31, 2021
+Total net revenue for each of the three months ended December 31, 2022 and 2021, was $4.1 million and $4.3 million, respectively. We had net income (loss) of ($0.08) million and $1.9 million for the three months ended December 31, 2022 and 2021, respectively. Included in the net loss for the three months ended December 31, 2022, was a gain of $0.3 million as a result of the change in the fair value of certain warrant liabilities. Included in the net income for the three months ended December 31, 2021, was a gain of $2.4 million as a result of the change in fair value of certain warrant liabilities. Basic and diluted net loss per share attributable to common shareholders was ($0.01) for the three months ended December 31, 2022. Basic net income per share attributable to common shareholders was $0.18 and diluted net income per share attributed to common shareholders was $0.06 for the three months ended December 31, 2021.
+(in thousands)
+Three Months
+Ended
+December 31,
+$
+%
+Revenue
+2022
+2021
+Change
+Change
+Digital engagement services
+$
+854
+$
+869
+$
+(15
+)
+(2
+%)
+% of total net revenue
+21
+%
+20
+%
+Subscription and perpetual licenses
+3,229
+3,417
+(188
+)
+(6
+%)
+% of total net revenue
+79
+%
+80
+%
+Total net revenue
+4,083
+4,286
+(203
+)
+(5
+%)
+Cost of revenue
+Digital engagement services
+418
+451
+(33
+)
+(7
+%)
+% of digital engagement services revenue
+49
+%
+52
+%
+Subscription and perpetual licenses
+861
+829
+32
+4
+%
+% of subscription and perpetual revenue
+27
+%
+24
+%
+Total cost of revenue
+1,279
+1,280
+(1
+)
+0
+%
+Gross profit
+2,804
+3,006
+(202
+)
+(7
+%)
+Gross profit margin
+69
+%
+70
+%
+Operating expenses
+Sales and marketing
+1,209
+1,231
+(22
+)
+(2
+%)
+% of total revenue
+30
+%
+29
+%
+General and administrative
+832
+873
+(41
+)
+(5
+%)
+% of total revenue
+20
+%
+20
+%
+Research and development
+747
+859
+(112
+)
+(13
+%)
+% of total revenue
+18
+%
+20
+%
+Depreciation and amortization
+378
+424
+(46
+)
+(11
+%)
+% of total revenue
+9
+%
+10
+%
+Restructuring and acquisition related expenses
+-
+98
+(98
+)
+(100
+)%
+% of total revenue
+0
+%
+2
+%
+Total operating expenses
+3,166
+3,485
+(319
+)
+(9
+%)
+Loss from operations
+(362
+)
+(479
+)
+117
+(24
+%)
+Change in fair value of contingent consideration, interest income (expense), and other, net
+(9
+)
+(87
+)
+78
+90
+%
+Change in fair value of warrant liabilities
+297
+2,441
+(2,144
+)
+(88
+%)
+Income (loss) before income taxes
+(74
+)
+1,875
+(1,949
+)
+(104
+%)
+Provision for income taxes
+6
+3
+3
+100
+%
+Net income (loss)
+$
+(80
+)
+$
+1,872
+$
+(1,952
+)
+(104
+%)
+Non-GAAP Measure:
+Adjusted EBITDA
+$
+115
+$
+106
+$
+9
+8
+%
+25
+Revenue
+Our revenue is derived from two sources: (i) digital engagement services and (ii) subscription and perpetual licenses.
+Digital Engagement Services
+Digital engagement services revenue is comprised of implementation and retainer-related services. Total revenue from digital engagement services of $0.9 million in December 31, 2022 decreased 2% from $0.9 million in December 31, 2021. Digital engagement services revenue as a percentage of total revenue increased to 21% in December 31, 2022 from 20% in December 31, 2021.
+Subscription and Perpetual Licenses
+Revenue from subscription (SaaS) and perpetual licenses decreased $0.2 million, or 6%, to $3.2 million for the three months ended December 31, 2022 compared to $3.4 million for the three months ended December 31, 2021. The decrease compared to the prior period is primarily due to a large customer, renewing for their 9th year, restructured their Website which reduced their subscription by half to $75 thousand per quarter and $0.1 million of non-recurring perpetual licenses in the three months ended December 31, 2021. Subscription and perpetual license revenue as a percentage of total revenue decreased to 79% from 80% for the three months ended December 31, 2022 compared to the three months ended December 31, 2021.
+Cost of Revenue
+Total cost of revenue for December 31, 2022 of $1.3 million was consistent with $1.3 million in the prior year comparable period.
+Cost of Digital Engagement Services
+Cost of digital engagement services decreased 7%, to $0.4 million for the three months ended December 31, 2022 from $0.5 million for the three months ended December 31, 2021. The decrease in cost of digital engagement services is primarily due to personnel costs. The cost of total digital engagement services as a percentage of total digital engagement services revenue decreased to 49% from 52%. The decrease as a percentage of revenues in December 2022 compared to December 2021 is primarily due to the overall decrease in personnel costs.
+Cost of Subscription and Perpetual License
+Cost of subscription and perpetual licenses increased 4% to $0.9 million for the three months ended December 31, 2022 from $0.8 million for the three months ended December 31, 2021. The increase in cost of subscription and perpetual licenses is primarily due to higher costs to operate our cloud-based hosting model with Amazon Web Services to support increased holiday traffic and additional personnel costs. The cost of subscription and perpetual licenses as a percentage of subscription and perpetual license revenue increased to 27% for the three months ended December 31, 2022 from 24% for the three months ended December 31, 2021. The increase as a percentage of revenues is primarily due to the overall decrease in subscription and perpetual license revenue.
+Gross Profit
+Gross profit of $2.8 million decreased $0.2 million, or 7%, for the three months ended December 31, 2022 as compared to $3.0 million for the three months ended December 31, 2021. The gross profit margin decreased to 69% for the three months ended December 31, 2022 compared to 70% for the three months ended December 31, 2021. The decrease in the gross profit margin for December 2022 compared to December 2021 is primarily attributable to the decrease in the proportion of license revenue, which is generally associated with higher margins, to digital engagement service revenue.
+26
+Operating Expenses
+Sales and Marketing Expenses
+Sales and marketing expenses of $1.2 million for the three months ended December 31, 2022 decreased 2% from $1.2 million for the three months ended December 31, 2021. Sales and marketing expense as a percentage of total revenue was 30% for the three months ended December 31, 2022 and 29% for the three months ended December 31, 2021, respectively. The decrease in expenses compared to the prior period is primarily attributable to lower personnel costs offsetting additional sales and marketing costs.
+General and Administrative Expenses
+General and administrative expenses of $0.8 million for the three months ended December 31, 2022 decreased 5% from $0.9 million for the three months ended December 31, 2021. General and administrative expense as a percentage of total revenue remained consistent at 20% for the three months ended December 31, 2022 and 2021. The decrease in costs is primarily due to lower personnel costs.
+Research and Development
+Research and development expense of $0.7 million for the three months ended December 31, 2022 decreased $0.1 million, or 13%, from $0.9 million for the three months ended December 31, 2021. Research and development expense as a percentage of total revenue decreased to 18% for the three months ended December 31, 2022 compared to 20% for the three months ended December 31, 2021. These decreases compared to the prior period are primarily attributable to lower personnel costs.
+Depreciation and Amortization
+Depreciation and amortization expense of $0.4 million for the three months ended December 31, 2022 decreased 11% from $0.4 million for the three months ended December 31, 2021. Depreciation and amortization as a percentage of total revenue decreased to 9% for the three months ended December 31, 2022 compared to 10% for the three months ended December 31, 2021. These decreases are primarily due to completion of amortization of certain intangible assets from prior business acquisitions.
+Income (loss) from Operations
+The loss from operations was $0.4 million for the three months ended December 31, 2022 compared to a loss from operations of $0.5 million for the three months ended December 31, 2021, a decrease of $0.1 million or 24%.
+Change in fair value of warrant liabilities
+The Company recognized a gain related to the change in fair value of warrant liabilities of $0.3 million and $2.4 million, for the three months ended December 31, 2022 and December 31, 2021, respectively.
+Provision for Income Taxes
+The provision for income taxes was $6 thousand for the three months ended December 31, 2022 and $3 thousand for the three months ended December 31, 2021, respectively. Income tax expense consists of estimated liability for federal and state income taxes owed by the Company.  Net operating loss (“NOL”) carryforwards are estimated to be sufficient to offset any potential taxable income for all periods presented. A valuation allowance is established if it is more likely than not that all or a portion of the deferred tax asset will not be realized. The Company maintains a valuation allowance against its net deferred tax assets.
+27
+Adjusted EBITDA
+We also measure our performance based on a non-GAAP (“Generally Accepted Accounting Principles”) measurement of earnings before interest, taxes, depreciation, amortization, stock-based compensation expense, impairment of goodwill and intangible assets, non-cash warrant related expenses, other income and expenses, change in fair value of derivative instruments, change in fair value of contingent consideration, and restructuring and acquisition related charges (“Adjusted EBITDA”).
+We believe this non-GAAP financial measure of Adjusted EBITDA is useful to management and investors in evaluating our operating performance for the periods presented and provides a tool for evaluating our ongoing operations.
+Adjusted EBITDA, however, is not a measure of operating performance under accounting principles generally accepted in the United States of America (“U.S. GAAP”) and should not be considered as an alternative or substitute for U.S. GAAP profitability measures such as (i) income from operations and net income, or (ii) cash flows from operating, investing and financing activities, both as determined in accordance with U.S. GAAP. Adjusted EBITDA as an operating performance measure has material limitations because it excludes the financial statement impact of net interest expense, income taxes, depreciation, amortization of intangibles, stock-based compensation, goodwill impairment, changes in fair value of warrant liabilities, loss on disposal of assets, other amortization, changes in fair value of contingent consideration and restructuring charges, acquisition related expenses, and therefore does not represent an accurate measure of profitability. As a result, Adjusted EBITDA should be evaluated in conjunction with net income (loss) for a complete analysis of our profitability, as net income (loss) includes the financial statement impact of these items and is the most directly comparable U.S. GAAP operating performance measure to Adjusted EBITDA. Our definition of Adjusted EBITDA may also differ from and therefore may not be comparable with similarly titled measures used by other companies, thereby limiting its usefulness as a comparative measure. Because of the limitations that Adjusted EBITDA has as an analytical tool, investors should not consider it in isolation, or as a substitute for analysis of our operating results as reported under U.S. GAAP.
+The following table reconciles net income (loss) (which is the most directly comparable U.S. GAAP operating performance measure) to Adjusted EBITDA (in thousands):
+Three Months Ended
+December 31,
+2022
+2021
+Net income (loss)
+$
+(80
+)
+$
+1,872
+Provision for income taxes
+6
+3
+Change in fair value of contingent consideration and interest expense, net
+9
+87
+Change in fair value of warrant liabilities
+(297
+)
+(2,441
+)
+Amortization of intangible assets
+342
+401
+Depreciation and other amortization
+42
+23
+Restructuring and acquisition related charges
+-
+98
+Stock-based compensation
+93
+63
+Adjusted EBITDA
+$
+115
+$
+106
+Adjusted EBITDA increased in the three months ended December 31, 2022 compared to December 31, 2021, which is primarily attributable to lower operating expenses.
+Liquidity and Capital Resources
+Cash Flows
+Operating Activities
+Cash used in operating activities was $82 thousand for the three months ended December 31, 2022, compared to cash provided by operating activities of $79 thousand for the three months ended December 31, 2021. The change in cash provided by operating activities, compared to the prior period, was primarily due to changes in accounts receivable and prepaid expenses and other current assets.
+Investing Activities
+Cash used in investing activities was $6 thousand for the three months ended December 31, 2022, related primarily to purchases of property and equipment. Cash used in investing activities was $64 thousand for the three months ended December 31, 2021, related software capitalization costs and purchases of property and equipment.
+Financing Activities
+Cash used in financing activities was $0.3 million for the three months ended December 31, 2022, primarily related to contingent consideration payments related to acquisitions completed during fiscal 2021. Cash used in financing activities was $2.5 million for the three months ended December 31, 2021, primarily related to payments of long-term debt and deferred purchase price payable and contingent consideration payments.
+28
+Capital Resources and Liquidity Outlook
+In connection with an acquisition of a business completed during the 2021 fiscal year (WooRank), the Company assumed the outstanding long-term debt obligations of which approximately $1.1 million remains outstanding at December 31, 2022, with $0.4 million payable over the next twelve months.
+The Company has historically incurred operating losses and used cash on hand and from financing activities to fund operations as well as develop new products. The Company believes that future revenues and cash flows will supplement its working capital and it has an appropriate cost structure to support future revenue growth.
+The Company may offer and sell, from time to time, in one or more offerings, up to $50 million of its debt or equity securities, or any combination thereof.  Such securities offerings may be made pursuant to the Company’s currently effective registration statement on Form S-3 (File No. 333-262764), which was initially filed with the Securities and Exchange Commission on February 16, 2022 and declared effective on March 4, 2022 (the “Shelf Registration”).  A complete description of the types of securities that the Company may sell is described in the Preliminary Prospectus contained in the Shelf Registration.   As of the date of the filing of this Quarterly Report, there are no active offerings for the sale or obligations to purchase any of the Company’s securities pursuant to the Shelf Registration.  There can be no assurances that the Company will offer any securities for sale or that if the Company does offer any securities that it will be successful in selling any portion of the securities offered on a timely basis if at all, or on terms acceptable to us.  Further, our ability to offer or sell such securities may be limited by rules of the NASDAQ Capital Market.
+Off-Balance Sheet Arrangements
+The Company does not have any off-balance sheet arrangements, financings or other relationships with unconsolidated entities or other persons.
+Contractual Obligations
+We lease all of our office locations. The gross obligations for operating leases and subleases is $0.5 million, of which $0.2 million is expected in the next twelve months. Debt payments on the Company’s various debt obligations total $1.1 million of which $0.4 million is expected to be paid in the next twelve months.
+Critical Accounting Policies
+These critical accounting policies and estimates by our management were prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) and should be read in conjunction with Note 2
+Summary of
+Significant Accounting Policies
+to the Consolidated Financial Statements of our Annual Report on Form 10-K filed with the Securities and Exchange Commission on December 21, 2022.
+The preparation of financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses in the reporting period. We regularly make estimates and assumptions that affect the reported amounts of assets and liabilities. The most significant estimates included in our financial statements are the valuation of accounts receivable and long-term assets, including intangibles, goodwill and deferred tax assets, stock-based compensation, amounts of revenue to be recognized on service contracts in progress, unbilled receivables, and deferred revenue. We base our estimates and assumptions on current facts, historical experience and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. The actual results experienced by us may differ materially and adversely from our estimates. To the extent there are material differences between our estimates and the actual results, our future results of operations will be affected.
+29
+We consider the following accounting policies to be both those most important to the portrayal of our financial condition and those that require the most subjective judgment:
+●
+Revenue recognition;
+●
+Allowance for doubtful accounts;
+●
+Accounting for goodwill and other intangible assets;
+●
+Accounting for business combinations;
+●
+Accounting for common stock purchase warrants; and
+●
+Accounting for stock-based compensation.
+Revenue Recognition
+The Company derives its revenue from two sources: (i) Software Licenses, which are comprised of subscription fees (“SaaS”), perpetual software licenses, and maintenance for post-customer support (“PCS”) on perpetual licenses, and (ii) Digital Engagement Services, which are professional services to implement our products such as web development, digital strategy, information architecture and usability engineering search. Customers who license the software on a subscription basis, which can be described as “Software as a Service” or “SaaS”, do not take possession of the software.
+Revenue is recognized when control of these services is transferred to the Company’s customers, in an amount that reflects the consideration the Company expects to be entitled to in exchange for those services. If the consideration promised in a contract includes a variable amount, for example, overage fees, contingent fees or service level penalties, the Company includes an estimate of the amount it expects to receive for the total transaction price if it is probable that a significant reversal of cumulative revenue recognized will not occur. The Company’s subscription service arrangements are non-cancelable and do not contain refund-type provisions. Revenue is reported net of applicable sales and use tax.
+The Company recognizes revenue from contracts with customers using a five-step model, which is described below:
+1.
+Identify the customer contract;
+2.
+Identify performance obligations that are distinct;
+3.
+Determine the transaction price;
+4.
+Allocate the transaction price to the distinct performance obligations; and
+5.
+Recognize revenue as the performance obligations are satisfied.
+Allowance for Doubtful Accounts
+We maintain an allowance for doubtful accounts, which represents estimated losses resulting from the inability, failure or refusal of our clients to make required payments.
+We analyze historical percentages of uncollectible accounts and changes in payment history when evaluating the adequacy of the allowance for doubtful accounts. We use an internal collection effort, which may include our sales and services groups as we deem appropriate. Although we believe that our allowances are adequate, if the financial condition of our clients deteriorates, resulting in an impairment of their ability to make payments, or if we underestimate the allowances required, additional allowances may be necessary, resulting in increased expense in the period in which such determination is made.
+Accounting for Goodwill and Intangible Assets
+Goodwill is tested for impairment annually during the fourth quarter of every fiscal year and more frequently if events and circumstances indicate that the asset might be impaired. The purpose of an impairment test is to identify any potential impairment by comparing the carrying value of a reporting unit including goodwill to its fair value. An impairment charge is recognized for the amount by which the carrying amount exceeds the reporting unit’s fair value; however, the loss recognized should not exceed the total amount of goodwill allocated to that reporting unit.
+Factors that could lead to a future impairment include material uncertainties such as operational, economic and competitive factors specific to the key assumptions underlying the fair value estimate we use in our impairment testing that have a reasonable possibility of changing. This could include a significant reduction in projected revenues, a deterioration of projected financial performance, future acquisitions and/or mergers, and a decline in our market value as a result of a significant decline in our stock price.
+30
+Accounting for Business Combinations
+The Company allocates the amount it pays for each acquisition to the assets acquired and liabilities assumed based on their fair values at the date of acquisition, including identifiable intangible assets which arise from a contractual or legal right or are separable from goodwill. The Company bases the fair value of identifiable intangible assets acquired in a business combination on detailed valuations that use information and assumptions provided by management, which consider management’s best estimates of inputs and assumptions that a market participant would use. The Company allocates any excess purchase price that exceeds the fair value of the net tangible and identifiable intangible assets acquired to goodwill. The use of alternative valuation assumptions, including estimated growth rates, cash flows and discounts rates and estimated useful lives could result in different purchase price allocations and amortization expense in current and future periods. Transaction costs associated with these acquisitions are expensed as incurred through general and administrative expense on the consolidated statements of operations. In those circumstances where an acquisition involves a contingent consideration arrangement, the Company recognizes a liability equal to the fair value of the contingent payments expected to be made as of the acquisition date. The Company re-measures this liability each reporting period and recognizes changes in the fair value through income (loss) before income taxes within the consolidated statements of operations.
+Accounting for Common Stock Purchase Warrants
+The Company evaluates common stock warrants as they are issued to determine whether they should be classified as an equity instrument or a liability. Those warrants that are classified as a liability are carried at fair value at each reporting period, with changes in their fair value recognized in change in fair value of warrant liabilities in the consolidated statements of operations. The fair value of the Company’s warrant liabilities are valued utilizing Level 3 inputs. Warrant liabilities are valued using a Monte Carlo option-pricing model, which takes into consideration the volatilities of comparable public companies, due to the relatively low trading volume of the Company’s common stock. The Monte Carlo option-pricing model uses certain assumptions, including expected life and annual volatility.
+Accounting for Stock-Based Compensation
+At December 31, 2022, we maintained two stock-based compensation plans, one of which has expired but still contains vested stock options. The two plans are more fully described in Note 8 of these consolidated financial statements.
+The Company accounts for stock-based compensation awards in accordance with ASC 718,
+Compensation-Stock
+Topic of the Codification.  Share-based payments (to the extent they are compensatory) are recognized in our consolidated statements of operations based on their fair values.
+We recognize stock-based compensation expense for share-based payments issued that are expected to vest on a straight-line basis over the service period of the award, which is generally three years.  In determining whether an award is expected to vest, we use an estimated, forward-looking forfeiture rate based upon our historical forfeiture rate and reduce the expense over the recognition period. Estimated forfeiture rates are updated for actual forfeitures quarterly.  We also consider, each quarter, whether there have been any significant changes in facts and circumstances that would affect our forfeiture rate.  Although we estimate forfeitures based on historical experience, actual forfeitures in the future may differ.  In addition, to the extent our actual forfeitures are different than our estimates, we recognize a true-up for the difference in the period that the awards vest, and such true-ups could materially affect our operating results.
+We estimate the fair value of stock options using the Black-Scholes-Merton option valuation model.  The fair value of an award is affected by our stock price on the date of grant as well as other assumptions, including the estimated volatility of our stock price over the term of the awards and the estimated period of time that we expect employees to hold their stock options.  The risk-free interest rate assumption we use is based upon United States Treasury interest rates appropriate for the expected life of the awards.  We use the historical volatility of our publicly traded options in order to estimate future stock price trends.  In order to determine the estimated period of time that we expect employees to hold their stock options, we use historical trends of employee turnovers.  Our expected dividend rate is zero since we do not currently pay cash dividends on our common stock and do not anticipate doing so in the foreseeable future. The aforementioned inputs entered into the option valuation model we use to fair value our stock awards are subjective estimates and changes to these estimates will cause the fair value of our stock awards and related stock-based compensation expense we recognize to vary.
+We recognize deferred tax assets for stock-based awards that result in deductions on our income tax returns, based on the amount of stock-based compensation recognized and the statutory tax rate in the jurisdiction in which we will receive a tax deduction.
+Item   3.
+Qualitative and Quantitative Disclosures About Market Risk.
+Not
+required.
+31
+Item 4.
+Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+As of the end of the period covered by this Quarterly Report on Form 10-Q, we carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) were effective as of December 31, 2022.
+Changes in Internal Control over Financial Reporting
+There were no changes to our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) that occurred during our most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Limitations on Controls
+Our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving the desired control objectives. Our management recognizes that any control system, no matter how well designed and operated, is based upon certain judgments and assumptions and cannot provide absolute assurance that its objectives will be met. Similarly, an evaluation of controls cannot provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected.
+32
+PART II
+–
+OTHER INFORMATION
+Item 1.
+Legal Proceedings.
+From time to time, we are subject to ordinary routine litigation and claims incidental to our business. We are not currently involved in any legal proceedings that we believe are material beyond those previously disclosed in our Annual Report on Form 10-K for the fiscal year ended September 30, 2022, filed with the Securities and Exchange Commission on December 21, 2022.
+Item 1A.
+Risk Factors.
+There have been no material changes to the risk factors described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended September 30, 2022, filed with the Securities and Exchange Commission on December 21, 2022.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+There were no sales of unregistered equity securities in the three months ended December 31, 2022.
+Item 3.
+Defaults Upon Senior Securities.
+None.
+Item 4.
+Mine Safety Disclosures.
+Not applicable.
+Item 5.
+Other Information.
+None.
+33
+Item   6.
+Exhibits.
+Exhibit No.
+Description of Document
+3.1
+Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to our Quarterly Report on Form 10-Q filed on May 15, 2013).
+3.2
+Amended and Restated By-laws (incorporated by reference to Exhibit 3.1 to our current Report on Form 8-K filed on December 14, 2018).
+3.3
+Amendment to the Amended and Restated By-laws (incorporated by reference to Exhibit 3.1 to our current Report on Form 8-K filed on September 20, 2021).
+3.4
+Certificate of Designations of the Series A Convertible Preferred Stock (incorporated by reference to Exhibit 3.1 to our Current Report on Form 8-K filed on November 4, 2014).
+3.5
+Certificate of Designations of the Series B Convertible Preferred Stock (incorporated by reference to Exhibit 3.1 to our Current Report on Form 8-K filed on October 19, 2018).
+31.1*
+Certification of Chief Executive Officer, pursuant to Section 302 of Sarbanes-Oxley Act of 2002.
+31.2*
+Certification of Chief Financial Officer, pursuant to Section 302 of Sarbanes-Oxley Act of 2002.
+32.1*
+Certification of Chief Executive Officer, pursuant to Section 906 of Sarbanes-Oxley Act of 2002.
+32.2*
+Certification of Chief Financial Officer, pursuant to Section 906 of Sarbanes-Oxley Act of 2002.
+101.INS**
+Inline XBRL Instance
+101.SCH**
+Inline XBRL Taxonomy Extension Schema
+101.CAL**
+Inline XBRL Taxonomy Extension Calculation
+101.DEF**
+Inline XBRL Taxonomy Extension Definition
+101.LAB**
+Inline XBRL Taxonomy Extension Labels
+101.PRE**
+Inline XBRL Taxonomy Extension Presentation
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101)
+* Filed herewith.
+** XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended and otherwise is not subject to liability under these sections.
+34
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Bridgeline Digital, Inc.
+(Registrant)
+February 14, 2023
+/s/    Roger Kahn
+Date
+Roger Kahn
+President and Chief Executive Officer
+(Principal Executive Officer)
+February 14, 2023
+/s/    Thomas R. Windhausen
+Date
+Thomas R. Windhausen
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+35

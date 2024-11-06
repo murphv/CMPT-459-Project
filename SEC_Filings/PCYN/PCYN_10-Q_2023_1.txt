@@ -1,0 +1,1098 @@
+0
+4,792
+0
+0
+1
+0
+0.10
+0
+0
+0
+0
+0
+0
+0
+0000812306 2022-07-01 2022-12-31
+thunderdome:item
+iso4217:USD
+0000812306 2022-12-31
+0000812306 2022-10-01 2022-12-31
+xbrli:pure
+utr:Y
+0000812306 2021-07-01 2021-12-31
+0000812306 2021-10-01 2021-12-31
+0000812306 2022-06-30
+0000812306 pcyn:OperatingLeaseForOfficeSpaceMember 2021-01-31
+0000812306 pcyn:OperatingLeaseForOfficeSpaceMember 2021-01-01 2021-01-31
+utr:M
+0000812306 pcyn:OperatingLeaseForWarehouseMember 2021-01-31
+0000812306 pcyn:OperatingLeaseForWarehouseMember 2021-01-01 2021-01-31
+0000812306 pcyn:OperatingLeaseForOfficeEquipmentMember 2020-08-31
+0000812306 pcyn:OperatingLeaseForOfficeEquipmentMember 2020-08-01 2020-08-31
+0000812306 pcyn:OperatingLeaseForOfficeEquipmentMember 2015-06-30
+0000812306 pcyn:PaycheckProtectionProgramCaresActMember 2020-04-13
+0000812306 2021-07-01 2022-06-30
+0000812306 2021-06-30
+xbrli:shares
+0000812306 us-gaap:ConvertiblePreferredStockMember 2022-07-01 2022-12-31
+iso4217:USD xbrli:shares
+0000812306 srt:MinimumMember 2022-12-31
+0000812306 srt:MinimumMember 2022-07-01 2022-12-31
+0000812306 us-gaap:ConvertiblePreferredStockMember 2022-12-31
+0000812306 us-gaap:ConvertiblePreferredStockMember 1995-01-01 1995-01-31
+0000812306 us-gaap:ConvertiblePreferredStockMember 1995-01-31
+0000812306 pcyn:The2020OptionPlanMember 2022-12-31
+0000812306 pcyn:The2009OptionPlanMember 2022-12-31
+0000812306 2021-12-31
+0000812306 us-gaap:RetainedEarningsMember 2021-12-31
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000812306 us-gaap:CommonStockMember 2021-12-31
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2021-12-31
+0000812306 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000812306 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2021-10-01 2021-12-31
+0000812306 2021-09-30
+0000812306 us-gaap:RetainedEarningsMember 2021-09-30
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000812306 us-gaap:CommonStockMember 2021-09-30
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2021-09-30
+0000812306 2021-07-01 2021-09-30
+0000812306 us-gaap:RetainedEarningsMember 2021-07-01 2021-09-30
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2021-07-01 2021-09-30
+0000812306 us-gaap:CommonStockMember 2021-07-01 2021-09-30
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2021-07-01 2021-09-30
+0000812306 us-gaap:RetainedEarningsMember 2021-06-30
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2021-06-30
+0000812306 us-gaap:CommonStockMember 2021-06-30
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2021-06-30
+0000812306 us-gaap:RetainedEarningsMember 2022-12-31
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000812306 us-gaap:CommonStockMember 2022-12-31
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2022-12-31
+0000812306 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0000812306 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2022-10-01 2022-12-31
+0000812306 2022-09-30
+0000812306 us-gaap:RetainedEarningsMember 2022-09-30
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000812306 us-gaap:CommonStockMember 2022-09-30
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2022-09-30
+0000812306 2022-07-01 2022-09-30
+0000812306 us-gaap:RetainedEarningsMember 2022-07-01 2022-09-30
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2022-07-01 2022-09-30
+0000812306 us-gaap:CommonStockMember 2022-07-01 2022-09-30
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2022-07-01 2022-09-30
+0000812306 us-gaap:RetainedEarningsMember 2022-06-30
+0000812306 us-gaap:AdditionalPaidInCapitalMember 2022-06-30
+0000812306 us-gaap:CommonStockMember 2022-06-30
+0000812306 us-gaap:ConvertiblePreferredStockMember us-gaap:PreferredStockMember 2022-06-30
+0000812306 us-gaap:ConvertiblePreferredStockMember 2022-06-30
+0000812306 2023-02-07
+0000812306 pcyn:PPPLoanMember 2022-07-01 2022-12-31
+UNITED STATES SECURITIES & EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒          QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For Quarterly Period Ended
+December 31, 2022
+or
+☐          TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from         to
+Commission File Number:
+0-17449
+PROCYON CORPORATION
+(Exact Name of Registrant as specified in its charter)
+Colorado
+59-3280822
+(State of Incorporation)
+(I.R.S. Employer Identification Number)
+164 Douglas Road East ,
+Oldsmar ,
+FL
+34677
+(Address of Principal Executive Offices)
+( 727 )
+447-2998
+(Registrant’s Telephone Number, Including Area Code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+None
+None
+None
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ NO ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ NO ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer  ☐
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). YES
+☐
+NO ☒
+Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date: Common stock, no par value;
+8,087,388
+shares outstanding as of February 7, 2023.
+PART I. - FINANCIAL INFORMATION
+Item
+Page
+ITEM 1. FINANCIAL STATEMENTS
+3
+Index to Financial Statements
+Financial Statements:
+Consolidated Balance Sheets
+F-2
+Consolidated Statements of Operations
+F-3
+Consolidated Statements of Changes in Stockholders’ Equity
+F-4
+Consolidated Statements of Cash Flows
+F-5
+Notes to Consolidated Financial Statements
+7
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+13
+ITEM 4. CONTROLS AND PROCEDURES
+17
+PART II. - OTHER INFORMATION
+ITEM 6. EXHIBITS
+18
+SIGNATURES
+19
+PROCYON CORPORATION & SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+December 31, 2022, and June 30, 2022
+(unaudited)
+(audited)
+December 31,
+June 30,
+2022
+2022
+ASSETS
+CURRENT ASSETS
+Cash
+$
+604,752
+$
+760,396
+Certificates of Deposit, plus accrued interest
+281,419
+281,105
+Accounts Receivable, less allowance for doubtful accounts of $ 12,755
+and $ 13,569
+respectively
+585,644
+407,085
+Inventories
+551,597
+761,651
+Prepaid Expenses
+256,740
+374,817
+TOTAL CURRENT ASSETS
+2,280,152
+2,585,054
+PROPERTY AND EQUIPMENT, NET
+155,413
+153,702
+OTHER ASSETS
+Deposits
+8,970
+12,311
+Inventories
+302,807
+182,224
+Intangible Asset
+17,000
+17,000
+ROU Assets - Operating Leases
+616,157
+706,155
+Deferred Tax Asset, Net of Valuation Allowance of $ 0
+and $ 31,960
+respectively
+154,853
+146,051
+1,099,787
+1,063,741
+TOTAL ASSETS
+$
+3,535,352
+$
+3,802,497
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES
+Accounts Payable
+$
+131,388
+$
+178,083
+Accrued Expenses
+190,747
+302,601
+Short Term Lease Liabilities
+166,944
+162,547
+TOTAL CURRENT LIABILITIES
+489,079
+643,231
+LONG TERM LIABILITIES
+Long Term Lease Liabilities
+406,584
+491,312
+TOTAL LONG TERM LIABILITIES
+406,584
+491,312
+TOTAL LIABILITIES
+895,663
+1,134,543
+COMMITMENTS AND CONTINGENCIES (NOTE G)
+-
+-
+STOCKHOLDERS' EQUITY
+Preferred Stock,
+496,000,000
+sharesauthorized,
+none
+issued.
+-
+-
+Series A Cumulative Convertible Preferred Stock,
+no
+par value;
+4,000,000
+shares authorized;  167,100
+and
+167,100
+shares issued and outstanding, respectively.
+126,860
+126,860
+Common Stock,
+no
+par value,
+80,000,000
+shares authorized;
+8,087,388
+and
+8,087,388
+shares issued and outstanding, respectively
+4,444,766
+4,444,766
+Paid-in Capital
+35,564
+35,564
+Accumulated Deficit
+( 1,967,501
+)
+( 1,939,236
+)
+TOTAL STOCKHOLDERS' EQUITY
+2,639,689
+2,667,954
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY
+$
+3,535,352
+$
+3,802,497
+The accompanying notes are an integral part of these financial statements.
+F-2
+PROCYON CORPORATION & SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Three and Six Months Ended December 31, 2022 and 2021
+(unaudited)
+(unaudited)
+(unaudited)
+(unaudited)
+Three Months
+Three Months
+Six Months
+Six Months
+Ended
+Ended
+Ended
+Ended
+Dec. 31, 2022
+Dec. 31, 2021
+Dec. 31, 2022
+Dec. 31, 2021
+NET SALES
+$
+1,183,937
+$
+1,330,636
+$
+2,359,640
+$
+2,520,613
+COST OF SALES
+293,455
+411,914
+588,359
+740,167
+GROSS PROFIT
+890,482
+918,722
+1,771,281
+1,780,446
+OPERATING EXPENSES
+Salaries and Benefits
+447,633
+497,261
+915,790
+936,721
+Selling, General and Administrative
+474,394
+475,371
+898,489
+831,751
+922,027
+972,632
+1,814,279
+1,768,472
+INCOME/(LOSS) FROM OPERATIONS
+( 31,545
+)
+( 53,910
+)
+( 42,998
+)
+11,974
+OTHER INCOME
+Rental income
+2,844
+2,844
+Interest Income
+2,192
+697
+3,087
+1,068
+5,036
+697
+5,931
+1,068
+INCOME/(LOSS) BEFORE INCOME TAXES
+( 26,509
+)
+( 53,213
+)
+( 37,067
+)
+13,042
+INCOME TAX (EXPENSE) / BENEFIT
+6,431
+( 14,349
+)
+8,802
+( 38,122
+)
+NET LOSS
+( 20,078
+)
+( 67,562
+)
+( 28,265
+)
+( 25,080
+)
+Dividend requirements on preferred stock
+( 4,178
+)
+( 4,178
+)
+( 8,355
+)
+( 8,356
+)
+Basic net loss available to common shares
+$
+( 24,256
+)
+$
+( 71,740
+)
+$
+( 36,620
+)
+$
+( 33,436
+)
+Basic net loss per common share
+$
+( 0.00
+)
+$
+( 0.01
+)
+$
+( 0.00
+)
+$
+( 0.00
+)
+Weighted average number of common shares outstanding
+8,087,388
+8,087,388
+8,087,388
+8,087,388
+Diluted net loss per common share
+$
+( 0.00
+)
+$
+( 0.01
+)
+$
+( 0.00
+)
+$
+( 0.00
+)
+Weighted average number of common shares outstanding, diluted
+8,087,388
+8,087,388
+8,087,388
+8,087,388
+The accompanying notes are an integral part of these financial statements.
+F-3
+PROCYON CORPORATION & SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+For the Six Months Ended December 31, 2022 and 2021
+Total
+Six Months Ended December 31, 2022
+Preferred Stock
+Common Stock
+Paid-In
+Accumulated
+Stockholders'
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Equtiy
+Balance, June 30, 2022
+167,100
+126,860
+8,087,388
+4,444,766
+35,564
+( 1,939,236
+)
+2,667,954
+Net (Loss)
+-
+-
+-
+-
+-
+( 8,187
+)
+( 8,187
+)
+Balance, September 30, 2022
+167,100
+126,860
+8,087,388
+4,444,766
+35,564
+( 1,947,423
+)
+$
+2,659,767
+Net (Loss)
+-
+-
+-
+-
+-
+( 20,078
+)
+( 20,078
+)
+Balance, December 31, 2022
+167,100
+126,860
+8,087,388
+4,444,766
+35,564
+( 1,967,501
+)
+2,639,689
+Total
+Six Months Ended December 31, 2021
+Preferred Stock
+Common Stock
+Paid-In
+Accumulated
+Stockholders'
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Equtiy
+Balance, June 30, 2021
+167,100
+$
+126,860
+8,087,388
+$
+4,444,766
+$
+35,564
+$
+( 1,729,446
+)
+$
+2,877,744
+Net Income
+-
+-
+-
+-
+-
+42,482
+42,482
+Balance, September 30, 2021
+167,100
+126,860
+8,087,388
+4,444,766
+35,564
+( 1,686,964
+)
+2,920,226
+Net (Loss)
+-
+-
+-
+-
+-
+( 67,562
+)
+( 67,562
+)
+Balance, December 31, 2021
+167,100
+126,860
+8,087,388
+4,444,766
+35,564
+( 1,754,526
+)
+2,852,664
+The accompanying notes are an integral part of these financial statements.
+F-4
+PROCYON CORPORATION & SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For Six Months Ending December 31, 2022 and 2021
+(unaudited)
+(unaudited)
+December 31,
+December 31,
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net Income/(Loss)
+$
+( 28,265
+)
+$
+( 25,080
+)
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation
+22,050
+17,614
+Decrease in Allowance for Doubtful Accounts
+( 814
+)
+-
+Right of Use Asset Amortization
+89,998
+87,472
+Accrued Interest on Certificate of Deposit
+( 314
+)
+( 402
+)
+Deferred Income Taxes
+23,158
+6,162
+Valuation Allowance
+( 31,960
+)
+31,960
+Decrease (increase) in:
+Accounts Receivable
+( 177,745
+)
+78,767
+Deposits
+3,341
+( 24,664
+)
+Inventory
+89,471
+( 181,177
+)
+Prepaid Expenses
+118,077
+28,670
+Increase (decrease) in:
+Accounts Payable
+( 46,695
+)
+( 129,367
+)
+Accrued Expenses
+( 111,854
+)
+( 181,588
+)
+NET CASH (USED IN) OPERATING ACTIVITIES
+( 51,552
+)
+( 291,633
+)
+CASH FLOW FROM INVESTING ACTIVITIES
+Purchase of Property & Equipment
+( 23,761
+)
+( 52,208
+)
+NET CASH RECEIEVED/(USED IN) INVESTING ACTIVITIES
+( 23,761
+)
+( 52,208
+)
+CASH FLOW FROM FINANCING ACTIVITIES
+Payments on Operating Lease Liability
+( 80,331
+)
+( 76,107
+)
+NET CASH (USED IN) FINANCING ACTIVITIES
+( 80,331
+)
+( 76,107
+)
+NET CHANGE IN CASH
+( 155,644
+)
+( 419,948
+)
+CASH AT BEGINNING OF THE YEAR
+760,396
+1,226,522
+CASH AT END OF THE YEAR
+$
+604,752
+$
+806,574
+SUPPLEMENTAL DISCLOSURES
+Interest Paid
+$
+-
+$
+-
+Taxes Paid
+$
+-
+$
+-
+NONCASH TRANSACTION DISCLOSURES
+The accompanying notes are an integral part of these financial statements.
+F-5
+Notes to Financial Statements
+NOTE A - SUMMARY OF ACCOUNTING POLICIES
+The interim consolidated financial statements included herein have been prepared by the Company without audit, pursuant to the rules and regulations of the Securities and Exchange Commission. Certain information and footnote disclosures normally included in the financial statements prepared in accordance with generally accepted accounting principles ("GAAP") have been condensed or omitted as allowed by such rules and regulations. The Company believes that the disclosures are adequate to make the information presented not misleading. These consolidated financial statements should be read in conjunction with the Company's audited consolidated financial statements dated June 30, 2022. The results for interim periods are not necessarily indicative of results that may be expected for any other interim period or for the full year.
+Management of the Company has prepared the accompanying unaudited condensed consolidated financial statements prepared in conformity with generally accepted accounting principles, which require the use of management estimates, contain all adjustments (including normal recurring adjustments) necessary to present fairly the operations and cash flows for the period presented and to make the financial statements not misleading.
+STOCK-BASED COMPENSATION
+Stock based compensation is accounted for in accordance with Topic 718 - Compensation - Stock Compensation in the Accounting Standards Codification. Pursuant to Topic 718, all share-based payments to employees, including grants of employee stock options, are to be recognized in the statement of operations based upon their fair values. Topic 718 rescinds the acceptance of pro forma disclosure. In December 2009, our shareholders approved the adoption of a new stock option plan, providing the Company a continued means of offering stock-based compensation.
+On December 31, 2022, there were
+65,000
+outstanding options to purchase shares of our common stock granted under our prior 2009 Stock Option Plan. There were
+50,000
+outstanding options to purchase shares of our common stock granted under our 2020 Stock Option Plan.
+The fair value of a stock option is determined using the Black-Scholes option-pricing model, which values options based on the stock price at the grant date, the expected life of the option, the estimated volatility of the stock, the expected dividend payments, and the risk-free interest rate over the life of the option. There were
+no
+options granted during the quarter ended December 31, 2022.
+The Black-Scholes option valuation model was developed for estimating the fair value of traded options that have no vesting restrictions and are fully transferable. Because option valuation models require the use of subjective assumptions, changes in these assumptions can materially affect the fair value of the options. Our options do not have the characteristics of traded options, therefore, the option valuation models do not necessarily provide a reliable measure of the fair value of our options.
+EARNINGS PER SHARE
+Basic earnings per share (EPS) is computed by dividing income available to common stockholders by the weighted-average number of common shares outstanding for the period. Diluted EPS reflects the potential dilution that would occur if dilutive securities such as stock options and other contracts to issue Common Stock were exercised or converted into Common Stock or resulted in the issuance of Common Stock that then shared in earnings. We use the treasury stock method to compute potential common shares from stock options and the as-if-converted method to compute potential common shares from Preferred Stock.
+-7-
+For the six months ended December 31, 2022, the potential dilutive effects of the preferred stock and stock options were excluded in the weighted-average shares outstanding, as the shares would have an anti-dilutive effect on the loss from operations.
+For the six months ended December 31, 2021, the potential dilutive effects of the preferred stock and stock options were excluded in the weighted-average shares outstanding, as the shares would have an anti-dilutive effect on the loss from operations.
+NOTE B - INVENTORIES
+Inventories consisted of the following:
+December 31,
+June 30,
+2022
+2022
+Finished Goods
+$
+829,299
+$
+759,118
+Raw Materials
+25,105
+184,757
+$
+854,404
+$
+943,875
+At December 31, 2022 and June 30, 2022, respectively, $ 302,807
+and $ 182,224
+of our inventory was considered non-current as it will not be used within a one year period.
+NOTE C - STOCKHOLDERS' EQUITY
+During January 1995, the Company's Board of Directors authorized the issuance of up to
+4,000,000
+shares of Series A Cumulative Convertible Preferred Stock ("Series A Preferred Stock"). The preferred stockholders are entitled to receive, as and if declared by the board of directors, quarterly dividends at an annual rate of $ .10
+per share of Series A Preferred Stock per annum. Dividends will accrue without interest and will be cumulative from the date of issuance of the Series A Preferred Stock and will be payable quarterly in arrears in cash or publicly traded common stock when and if declared by the Board of Directors. As of December 31, 2022,
+no
+dividends have been declared. Dividends in arrears on the outstanding preferred shares total $ 429,581
+as of December 31, 2022.
+Holders of the Preferred Stock have the right to convert their shares of Preferred Stock into an equal number of shares of Common Stock of the Company. In addition, Preferred Stock holders have the right to vote the number of shares into which their shares are convertible into Common Stock. Such preferred shares will automatically convert into
+one
+share of Common Stock at the close of a public offering of Common Stock by the Company provided the Company receives gross proceeds of at least $ 1,000,000 , and the initial offering price of the Common Stock sold in such offering is equal to or in excess of $ 1
+per share. The Company is obligated to reserve an adequate number of shares of its common stock to satisfy the conversion of all the outstanding Series A Preferred Stock. There were
+no
+shares converted during the reporting period. So long as any share of Series A Preferred Stock is outstanding, the Company is prohibited from declaring dividends or other distributions related to its Common Stock or purchasing, redeeming or otherwise acquiring any of the Common Stock.
+-8-
+NOTE D - INCOME TAXES AND AVAILABLE CARRYFORWARD
+As of December 31, 2022, the Company had consolidated income tax net operating loss ("NOL") carryforwards for federal income tax purposes of approximately $ 732,000 . NOL arising before December 31, 2020 will expire in various years ending through the year 2035 and for losses arising in taxable years beginning after December 31, 2020, the deduction is limited to 80% of taxable income and can be carried forward indefinitely. The utilization of certain loss carryforwards are limited under Section 382 of the Internal Revenue Code.
+The components of the provision for income tax (expense) attributable to continuing operations are as follows:
+Six Months
+Six Months
+December 31, 2022
+December 31, 2021
+Current
+Federal
+$
+0
+$
+0
+State
+0
+0
+$
+0
+$
+0
+Deferred
+Federal
+$
+7,293
+$
+( 31,587
+)
+State
+1,509
+( 6,535
+)
+$
+8,802
+$
+( 38,122
+)
+Total Income Tax Benefit / (Expense)
+$
+8,802
+$
+( 38,122
+)
+-9-
+Deferred income taxes reflect the net tax effects of the temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant components of the Company's deferred tax assets and liabilities are as follows:
+Non-Current
+Deferred tax assets
+NOL and contribution carryforwards
+$
+185,632
+Share based payments
+4,988
+Lease liabilities - operating leases
+145,361
+Accrued compensated absences
+8,104
+Accrued bonus
+2,918
+Allowance for doubtful accounts
+3,233
+Total deferred tax assets
+350,236
+Deferred tax (liabilities)
+Right-of-use-assets - operating leases
+( 156,165
+)
+Excess of tax over book depreciation
+( 39,218
+)
+Total deferred tax (liabilities)
+( 195,383
+)
+Total deferred tax asset
+154,853
+Valuation Allowance
+-
+Net Deferred tax asset
+$
+154,853
+The change in the valuation allowance is as follows:
+June 30, 2022
+$
+( 31,960
+)
+December 31 2022
+$
+-
+$
+( 31,960
+)
+Income taxes for the six months ended December 31, 2022 and 2021 differ from the amounts computed by applying the effective income tax rate of
+25.35 %, to income before income taxes as a result of the following:
+Six Months
+Six Months
+December 31, 2022
+December 31, 2021
+Expected (provision) at US statutory rate
+$
+7,784
+$
+( 2,739
+)
+State income tax net of federal (provision)
+1,611
+( 567
+)
+Nondeductible Expense
+( 593
+)
+( 1,854
+)
+Change in estimates of loss carryforward
+( 31,960
+)
+( 1,002
+)
+Change in valuation allowance
+31,960
+$
+( 31,960
+)
+Income Tax (Expense)
+$
+8,802
+$
+( 38,122
+)
+The earliest tax year still subject to examination by a major taxing jurisdiction is fiscal year end June 30, 2019.
+The Company performed a review of its uncertain tax positions in accordance with Accounting Standards Codification ASC 740-10 "Uncertainty in Income Taxes". In this regard, an uncertain tax position represents the Company's expected treatment of a tax position taken in a filed tax return, or planned to be taken in a future tax return, that has not been reflected in measuring income tax expense for financial reporting purposes.
+-10-
+NOTE E - LINE OF CREDIT
+A line of credit was procured in June 2021, with a new bank. The limit for this line of credit is $ 250,000 . Terms of the Line of credit include an interest rate that fluctuates based on prime plus a half of point, with monthly interest only payments. The line of credit matures on June 30, 2023. This line of credit renews annually until either party decides otherwise. At December 31, 2022, the Company owed $0 on the line of credit.
+Interest expense for the year ended June 30, 2022 and the period ending December 31, 2022, was $ 0
+and $ 0 , respectively.
+The line of credit is guaranteed by Justice W. Anderson, President and Chief Executive Officer.
+NOTE F - PAYCHECK PROTECTION PROGRAM LOAN
+The Company applied for a loan with the Small Business Administration (the "SBA") Paycheck Protection Program ("PPP") of the Coronavirus Aid, Relief and Economic Security Act of 2020 (the "CARES Act") in the amount of $ 201,000
+(the "Loan"). The Loan was funded on April 13, 2020. The Company used the proceeds of the Loan for covered payroll costs, rent and utilities in accordance with the relevant terms and conditions of the CARES Act.
+The Loan was subject to being forgiven partially or fully if the Loan proceeds were used for covered payroll costs, rent and utilities, provided that such amounts were incurred during the eight-week period that commenced on April 13, 2020. Any forgiveness of the Loan would be subject to approval by the SBA and would require the Company to apply for such treatment.
+The loan was forgiven in full by the SBA in May of 2021.
+NOTE G - RECENT ACCOUNTING PRONOUNCEMENTS
+In June 2016, the FASB issued Accounting Standards Update No. 2016-13, Financial Instruments - Credit Loss (Topic 326) (44ASU 2016-13"), which updates the guidance on recognition and measurement of credit losses for financial assets. The new requirements, known as the current expected credit loss model ("CECL ") will require entities to adopt an impairment model based on expected losses rather than incurred losses. ASU 2016-13 must be adopted on a modified-retrospective approach. This update was effective for fiscal years beginning after December 15, 2020 including interim periods within those fiscal years. In October 2019, the F ASB approved an extension for all non-SEC filers, including small reporting companies, to extend the effective date to fiscal years beginning after December 15, 2022, including interim periods within those fiscal years. Therefore, the effective date for this update will be July 1, 2023. The Company is currently evaluating the potential impact of the adoption of the new standard on its consolidated statements of financial condition and results of operations.
+NOTE H - RIGHT-OF-USE ASSETS AND LEASE LIABILITIES
+Operating leases
+In August 2020, the Company entered into a lease agreement to lease certain office equipment with a lease term of
+63
+months. The lease renews on a month-to-month basis and contains an option to purchase the equipment at fair market value or return the equipment. Historically, the Company has not exercised the option to purchase at the end of the initial lease term for similar leases and simply returned the equipment at the end of the initial lease term. Initial rent amount was $ 574
+per month. In applying ASC 842, the Company uses a lease term of 63 months and an incremental borrowing rate of
+4.25 % which was the borrowing rate on the Company’s line of credit with a financial institution.
+-11-
+In January 2021, the Company entered in a lease agreement to lease warehouse space with a lease term of
+64
+months. The Company paid
+no
+rent for the first four months of the lease and pays $ 4,792.50
+per month beginning the 5th month of the lease. Rent will increase each succeeding year by no less than
+2 % but not more than
+5 %. The rent amount includes common area maintenance charges which are considered nonlease components. In applying ASC 842, the Company is electing to account for nonlease components as being related to the lease component. In addition, the Company uses a lease term of
+64
+months and an incremental borrowing rate at prime rate of
+3.25 % which was the borrowing rate on the Company’s recent line of credit with a financial institution.
+In January 2021, the Company entered in a lease agreement to lease office space with a lease term of
+64
+months. The Company paid
+no
+rent for the first four months of the lease and pays $ 9,372
+per month beginning the 5th month of the lease. Rent will increase each succeeding year by no less than
+2 % but not more than
+5 %. The rent amount includes common area maintenance charges which are considered nonlease components. In applying ASC 842, the Company is electing to account for nonlease components as being related to the lease component. The Company also incurred initial direct cost of $ 114,083
+related to existing improvements in the leased space. This initial direct cost has been included in determining the initial ROU asset and liability amounts. In addition, the Company uses a lease term of 64 months and an incremental borrowing rate at prime rate of
+3.25 % which was the borrowing rate on the Company’s recent line of credit with a financial institution.
+The following is information related to the Company’s right-of-use assets and liabilities for its operating leases:
+ROU assets - operating leases obtained in exchange for lease liabilities - operating leases
+$
+973,081
+Amortization of ROU assets since lease inception
+$
+( 356,924
+)
+ROU assets - operating leases at December 31, 2022
+$
+616,157
+Lease liabilities - operating leases on adoption date and increase in lease liabilities
+$
+973,081
+Payments on lease liabilities
+( 399,553
+)
+Lease liabilities - operating leases on December 31, 2022
+573,528
+Lease liabilities - operating leases due in the 12 months ending December 31, 2022
+166,944
+Lease liabilities - operating leases due after December 31, 2022
+$
+406,584
+Variable lease expense was $ 50,020
+and $ 50,020
+for the three months ended December 31, 2022 and 2021, respectively.
+Variable lease expense was $ 100,041
+and $ 100,041
+for the six months ended December 31, 2022 and 2021, respectively.
+Weighted average remaining lease term was
+3.24
+years and weighted average discount rate was
+3.29 % at December 31, 2022.
+-12-
+Sublease to Third Party
+During the three months ended December 31, 2022, the Company entered into a lease agreement with an unrelated party to sublease a portion of the warehouse space that it is leasing from its landlord. The contract conveys the right to control the use of the specified area of the warehouse for a period of time in exchange for consideration. Therefore, the sublease meets the definition of a lease pursuant to ASC 842. The Company classifies the sublease as an operating lease because it does not transfer ownership at the end of the lease term. The sublease is for a term of twelve months and it contains a renewal option of which the sublessee is not reasonably certain to exercise. The Company received sublease income of $ 2,844
+during the three months ended December 31, 2022. Management considered if the sublease created an impairment of the Right of Use Asset and determined that no impairment was noted at this time.
+The following is the amount of sublease income the Company will receive overthe next five years:
+12 months ending December 31,
+2023
+$
+31,284
+2024
+-
+2025
+-
+2026
+-
+2027
+-
+$
+31,284
+NOTE I - CONTINGENCY
+At the time of release of these financial statements, the United States had recently experienced a National Emergency related to persistent health issues caused by the COVID-19 pandemic. Management is unable to quantify the economic impact as a result of the pandemic.
+NOTE J - SUBSEQUENT EVENTS
+We have evaluated subsequent events through February 10, 2023, which is the date the financial statements were available to be issued.
+ITEM 2.         MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+General
+You should read the following discussion and analysis in conjunction with the unaudited Condensed Financial Statements and Notes thereto appearing elsewhere in this report.
+-13-
+This Report on Form 10-Q, including Management's Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements. When used in this report, the words "may," "will," "expect," "anticipate," "continue," "estimate," "project," "intend," "hope," "believe" and similar expressions, variations of these words or the negative of those words, and, any statement regarding possible or assumed future results of operations of the Company's business, the markets for its products, anticipated expenditures, regulatory developments or competition, or other statements regarding matters that are not historical facts, are intended to identify forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 regarding events, conditions and financial trends including, without limitation, business conditions in the skin and wound care market and the general economy, competitive factors, changes in product mix, production delays, product recalls, manufacturing capabilities, the loss of any significant customers or suppliers, general supply chain delays, the cost of rising inflation, cyber security breaches, natural disaster impacts, the impact of the COVID-19 pandemic on the Company’s sales, operations and supply chain and other risks or uncertainties detailed in other of the Company's Securities and Exchange Commission filings. Such statements are based on management's current expectations and are subject to risks, uncertainties and assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, the Company's actual plan of operations, business strategy, operating results and financial position could differ materially from those expressed in, or implied by, such forward-looking statements.
+Recent Developments
+In fiscal 2023 to date, management has expanded on the services and options the Company provides for its customers. We have introduced a new Rolled Gauze form of our Amerx Branded Collagen Wound Care Kits. We also introduced a gel form of our Collagen products.
+Impact of COVID-19 on Our Business
+The financial effects of the COVID-19 pandemic started showing their impact on our Company in March of 2020. Due to the timing of these events, the full effect of COVID-19 on our business cannot yet be fully quantified. We have felt the effects of the COVID-19 pandemic in our operations, as management continues to dedicate time and effort researching, discussing and implementing policies and procedures necessary to navigate through the ever changing landscape the COVID-19 pandemic has and continues to provide. As an essential business, management was tasked with remaining open, while keeping our employees safe, and providing our customers, who were still able to actively provide healthcare services, with the products they need.
+The most severe effects of the pandemic on our business were seen in April 2020; however, this could change with news of expected spikes and potential shut down in the future. This was a direct result of the inability for customers to have elective surgery. Once elective surgeries were permitted again we have seen a steady increase in volume. We continue to monitor operations, and are still implementing procedures to keep all our employees as safe as possible. Currently, the Company is restricted in its marketing efforts as Tradeshows for the most part are typically well attended in their traditional in-person form. Most available tradeshows have chosen the virtual route, which has not proven successful from a vendor sales relationship perspective. Operationally, the pandemic has made it increasingly difficult to hire new or replacement personnel to support the Company’s growth. It has also caused wages to increase dramatically.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The Company's condensed consolidated financial statements have been prepared in accordance with standards of the Public Company Accounting Oversight Board (United States), which require the Company to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and the related disclosures. A summary of those significant accounting policies can be found in the Notes to the Consolidated Financial Statements included in the Company's annual report on form 10-K, for the year ended June 30, 2022, which was filed with the Securities and Exchange Commission on September 28, 2022. The estimates used by management are based upon the Company's historical experiences combined with management's understanding of current facts and circumstances. Certain of the Company's accounting policies are considered critical as they are both important to the portrayal of the Company's financial condition and the results of its operations and require significant or complex judgments on the part of management. We believe that the following critical accounting policies affect the more significant judgments and estimates used in the preparation of our consolidated financial statements.
+-14-
+Accounts Receivable Allowance
+Accounts receivable allowance reflects a reserve that reduces our customer accounts and receivable to the net amount estimated to be collectible. The valuation of accounts receivable is based upon the credit-worthiness of customers and third-party payers as well as historical collection experience. Allowances for doubtful accounts are recorded as a selling, general and administrative expense for estimated amounts expected to be uncollectible from third-party payers and customers. The Company bases its estimates on its historical collection experience, current trends, credit policy and on the analysis of accounts by aging category. At December 31, 2022, and June 30, 2022, our allowance for doubtful accounts totaled $12,755 and $13,569, respectively.
+Advertising and Marketing
+The Company uses several forms of advertising, including sponsorships to agencies who represent the professionals in their respective fields. The Company expenses these sponsorships over the term of the advertising arrangements on a straight line basis. Other forms of advertising used by the Company include professional journal advertisements, distributor catalogs, website and mailing campaigns. These forms of advertising are expensed when incurred.
+Deferred Income Taxes
+Deferred income taxes are recognized for the expected tax consequences in future years for differences between the tax bases of assets and liabilities and their financial reporting amounts, based upon enacted tax laws and statutory tax rates applicable to the periods in which the differences are expected to affect taxable income. The Company accounts for income taxes under Topic 740 - Income Tax in the Accounting Standards Codification. A valuation allowance is used to reduce deferred tax assets to the net amount expected to be recovered in future periods. The estimates for deferred tax assets and the corresponding valuation allowance require us to exercise complex judgments. We periodically review and adjust those estimates based upon the most current information available. The Company had a valuation allowance of $0 as of December 31, 2022 and $31,960 as of June 30, 2022, respectively. Because the recoverability of deferred tax assets is directly dependent upon future operating results, actual recoverability of deferred tax assets may differ materially from our estimates.
+Revenue Recognition
+The Company recognizes revenue in accordance with the Financial Accounting Standards Board's (FASB) release of Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers (Topic 606) which requires that five basic criteria must be met before revenue can be recognized: (1) identify the contract with a customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4) allocate the transaction price to the performance obligations in the contract, and (5) recognize revenue when (or as) the entity satisfies a performance obligation.
+-15-
+Stock Based Compensation
+Stock based compensation is accounted for in accordance with Topic 718 - Compensation - Stock Compensation in the Accounting Standards Codification. All share-based payments to employees, including grants of employee stock options, are to be recognized in the statement of operations based upon their fair values. Topic 718 rescinds the acceptance of pro forma disclosure.
+FINANCIAL CONDITION
+As of December 31, 2022 the Company's principal sources of liquid assets included cash of $604,752, inventories of $854,404, and net accounts receivable of $585,644. The Company also has $281,419 in Certificate of Deposits. The Company had net working capital of $1,791,071, and long-term lease of $406,584, at December 31, 2022.
+During the six months ended December 31, 2022 cash decreased from $760,396 as of June 30, 2022, to $604,752. Operating activities used cash of $51,552 during the period. Investing and Financing activities used cash of $23,761 and $80,331, respectively during the period.
+The Company reflected a net non-current deferred tax asset of $154,853, at December 31, 2022. Because the recoverability of deferred tax assets is directly dependent upon future operating results, actual recoverability of deferred tax assets may differ materially from our estimates.
+RESULTS OF OPERATIONS
+Comparison of the three and six months ended December 31, 2022 and 2021.
+Net sales during the quarter ended December 31, 2022, were $1,183,937 as compared to the previous year's quarter net sales of $1,330,636, a decrease of $146,699, or approximately 11%. We believe the decrease in sales was driven by many factors including fluctuations in sales cycles related to international sales, economic pressure on consumers and customers staffing challenges throttling utilization of AMERX products. Net sales during the six months ended December 31, 2022, were $2,359,640 as compared to the previous year's period net sales of $2,520,613, a decrease of $160,973, or approximately 6%. We believe the decrease in sales was driven by many factors including fluctuations in sales cycles related to international sales, economic pressure on consumers and customers staffing challenges throttling utilization of AMERX products.
+Gross profit during the quarter ended December 31, 2022, was $890,482 as compared to $918,722 during the quarter ended December 31, 2021, a decrease of $28,240 or 3%. As a percentage of net sales, gross profit was approximately 75% in the quarter ended December 31, 2022, and approximately 69% in the corresponding quarter in 2021. We believe the increase in Gross Profit comes from a shift in sales channels to more sales coming from our highest margin channel of retail sales. Gross profit during the six months ended December 31, 2022, was $1,771,281 as compared to $1,780,446 during the six months ended December 31, 2021, a decrease of $9,165 or 1%. As a percentage of net sales, gross profit was approximately 75% in the six months ended December 31, 2022, and approximately 71% in the corresponding quarter in 2021. We believe the increase in Gross Profit comes from a shift in sales channels to more sales coming from our highest margin channel of retail sales.
+-16-
+Operating expenses during the quarter ended December 31, 2022 were $922,027, consisting of $447,633 in salaries and benefits and $474,394 in selling, general and administrative expenses. This compares to operating expenses during the quarter ended December 31, 2021 of $972,632, consisting of $497,261 in salaries and benefits; and $475,371 in selling, general and administrative expenses. Expenses for the quarter ended December 31, 2022, decreased by $50,605 or approximately 5% compared to the corresponding quarter in 2021. Salaries and Benefits decreased as a result of shifts in personnel needs . Operating expenses were consistent in comparing the two periods. Operating expenses during the six months ended December 31, 2022 were $1,814,279, consisting of $915,790 in salaries and benefits and $898,489 in selling, general and administrative expenses. This compares to operating expenses during the six months ended December 31, 2021 of $1,768,472, consisting of $936,721 in salaries and benefits; and $831,751 in selling, general and administrative expenses. Expenses for the six months ended December 31, 2022, increased by $45,808 or approximately 3% compared to the corresponding period in 2021. Salaries and Benefits decreased as a result of employee turnover. Operating expenses increased primarily due to increases in marketing expenses and expenses associated with tradeshows, as some shows have begun to open back up, and channel fees from new retail markets.
+Operating loss decreased by $22,365 to an operating loss of $31,545 for the quarter ended December 31, 2022, as compared to an operating loss of $53,910 in the comparable quarter of the prior year. The decrease in net loss for the three month period, of the comparable quarter of the prior year before income taxes was primarily attributable to the decreases in salaries and benefits. Operating profit decreased by $54,972 to an operating loss of $42,998 for the six months ended December 31, 2022, as compared to an operating profit of $11,974 in the comparable period of the prior year. The decrease in net income for the six month period, of the comparable period of the prior year before income taxes was primarily attributable to the increases in marketing expenses, including Trade Shows and new Retail channel fees.
+ITEM 4. CONTROLS AND PROCEDURES
+(a)
+Evaluation of Disclosure Controls and Procedures
+Management of the Company, with the participation of the Chief Executive Officer and Chief Financial Officer, has conducted an evaluation of the effectiveness of the Company's disclosure controls and procedures pursuant to Rule 13a-15 under the Securities Exchange Act of 1934 as of the end of the period covered by this report. Based on that evaluation, management, including the Chief Executive and Chief Financial Officer, has concluded that, as of the end of the period covered by this report, the Company's disclosure controls and procedures were not effective in ensuring that all material information relating to the Company required to be disclosed in this report has been made known to management in a timely manner and ensuring that this information is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and regulations, because of the identification of a material weakness in our internal controls over financial reporting, identified below, which we view as an integral part of our disclosure controls and procedures.
+(b)
+Changes in Internal Controls Over Financial Reporting
+As previously reported, our annual assessment of the internal controls over financial reporting as of June 30, 2022 revealed a deficiency that we consider to be a material weakness: inadequate segregation of duties consistent with control objectives.
+During fiscal 2023, the Company will continue to address changes needed to improve segregation of duties consistent with control objectives. We have added staff to grow sales. We expect that increased sales will enable us to add support staff, specifically in the accounting and shipping departments. A secondary effect of adding more staff will address needed improvements in segregation of duties consistent with control objectives.
+-17-
+PART II. OTHER INFORMATION
+ITEM 6. EXHIBITS
+(A) EXHIBITS
+//
+10.1
+Restated and Amended Executive Employment Agreement effective July1, 2022 between Justice W. Anderson, Procyon Corporation and AMERX Health Care Corporation.
+//
+10.2
+Restated and Amended Executive Employment Agreement effective July1, 2022 between James B. Anderson, Procyon Corporation and AMERX Health Care Corporation.
+//
+10.3
+Restated and Amended Executive Employment Agreement effective July1, 2022 between George O. Borak, Procyon Corporation and AMERX Health Care Corporation.
+++
+10.5
+Business Line of Credit - Loan Agreement dated June 10, 2021
+++
+10.6
+Business Line of Credit - Promissory Note dated June 10, 2021
+**
+10.7
+Lease (164-166), effective January 15, 2021.
+**
+10.8
+Lease (172), effective January 15, 2021.
+31.1
+Certification of Justice W. Anderson pursuant to Exchange Act Rule 13a-14(a)/15d-14(a)
+31.2
+Certification of James B. Anderson pursuant to Exchange Act Rule 13a-14(a)/15d-14(a)
+32.1
+Certification Pursuant to 18 U.S.C.§1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act Of 2002
+101.1*
+The following materials from the Company's Quarterly Report on Form 10-Q for the quarter ended December 31, 2022, formatted in iXBRL (Inline Extensible Business Reporting Language): (I) the Condensed Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Consolidated Statements of Cash Flows, and (iv) the Notes to Condensed Consolidated Financial Statements
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101)
+*
+Furnished, not filed
+//
+Incorporated by reference to the Company’s form 10-K filed on or about September 28, 2022.
+++
+Incorporated by reference to the Company’s form 10-K filed on or about October 28, 2021.
+**
+Incorporated by reference to the Company’s form 8-K filed on or about January 27, 2021.
+-18-
+SIGNATURES
+In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, there unto duly authorized.
+PROCYON CORPORATION
+February 14, 2023
+By: /s/  JUSTICE W. ANDERSON
+Date
+Justice W. Anderson, Chief Executive Officer
+-19-

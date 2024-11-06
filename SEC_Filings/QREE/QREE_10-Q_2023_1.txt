@@ -1,0 +1,1426 @@
+0.25
+0.25
+0.25
+0.3253
+0
+1
+no
+4,363
+1,453
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0001295961 2022-03-01 2022-11-30
+thunderdome:item
+iso4217:USD
+0001295961 qegy:RaulFactorMember 2022-02-28
+0001295961 qegy:RaulFactorMember 2022-11-30
+0001295961 qegy:EESEAndEETCMember 2019-07-08
+iso4217:USD xbrli:shares
+0001295961 qegy:WarrantsToPurchaseRestrictedSharesIssuedToRfMember 2019-07-11
+xbrli:shares
+utr:M
+0001295961 qegy:RaulFactorBVMember 2019-07-11 2019-07-11
+0001295961 qegy:RaulFactorBVMember 2019-07-11
+0001295961 2022-02-28
+0001295961 2022-11-30
+0001295961 2021-03-01 2022-02-28
+0001295961 2021-02-28
+xbrli:pure
+0001295961 2022-02-23 2022-02-23
+0001295961 us-gaap:SeriesDPreferredStockMember us-gaap:PreferredStockMember 2022-03-01 2022-11-30
+0001295961 us-gaap:SeriesDPreferredStockMember us-gaap:PreferredStockMember 2021-03-01 2022-02-28
+utr:Rate
+0001295961 qegy:ReverseStockSplitMember 2022-02-23 2022-02-23
+0001295961 qegy:TaxExemptBondsPayableMember 2022-11-30
+0001295961 qegy:TaxExemptBondsPayableMember 2022-03-01 2022-11-30
+0001295961 qegy:VariousInvestorsMember 2022-02-28
+0001295961 qegy:VariousInvestorsMember 2022-11-30
+0001295961 2021-03-01 2021-11-30
+0001295961 2021-09-01 2021-11-30
+0001295961 2022-09-01 2022-11-30
+0001295961 2021-06-07 2021-06-07
+0001295961 2021-06-07
+0001295961 qegy:LandlordMember 2021-06-07 2021-06-07
+0001295961 qegy:LandlordMember 2021-02-28
+0001295961 qegy:RaulFactorMember 2021-02-28
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2022-02-28
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2022-11-30
+0001295961 qegy:ProfessionalFeesMember qegy:AdvisoryCompanyOwnedByFormerCEOMember 2021-03-01 2022-02-28
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2021-03-01 2022-02-28
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2022-01-31
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2022-01-01 2022-01-31
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2021-02-28
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2021-11-30
+0001295961 qegy:ManagementFeeMember qegy:AdvisoryCompanyOwnedByFormerCEOMember 2019-03-01 2022-11-30
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2019-02-28
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2019-01-01 2019-01-01
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2021-03-01 2021-11-30
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2022-03-01 2022-11-30
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2021-09-01 2021-11-30
+0001295961 qegy:AdvisoryCompanyOwnedByFormerCEOMember 2022-09-01 2022-11-30
+0001295961 qegy:The8PercentPromissoryNotesIssuedOctober2019Member 2022-02-28
+0001295961 qegy:TheSecond6PercentPromissoryNotesIssuedApril2019Member 2022-02-28
+0001295961 qegy:The6PercentPromissoryNotesIssuedApril2019Member 2022-02-28
+0001295961 us-gaap:UnsecuredDebtMember 2021-03-01 2021-11-30
+0001295961 us-gaap:UnsecuredDebtMember 2022-03-01 2022-11-30
+0001295961 us-gaap:UnsecuredDebtMember 2021-09-01 2021-11-30
+0001295961 us-gaap:UnsecuredDebtMember 2022-09-01 2022-11-30
+0001295961 qegy:The8PercentPromissoryNotesIssuedOctober2019Member 2022-11-30
+0001295961 qegy:The8PercentUnsecuredNotePayableIssuedOctober2018Member 2022-02-28
+0001295961 qegy:The0PercentUnsecuredNotePayableIssuedNovember2015Member 2022-02-28
+0001295961 qegy:The0PercentUnsecuredNotePayableIssuedDecember2013Member 2022-02-28
+0001295961 2021-10-12
+0001295961 us-gaap:VehiclesMember 2022-11-30
+0001295961 qegy:TrailerMember 2022-11-30
+utr:Y
+0001295961 srt:MaximumMember 2022-03-01 2022-11-30
+0001295961 us-gaap:FairValueMeasurementsRecurringMember 2022-11-30
+0001295961 us-gaap:FairValueMeasurementsRecurringMember 2022-02-28
+0001295961 us-gaap:TreasuryStockMember 2022-11-30
+0001295961 us-gaap:RetainedEarningsMember 2022-11-30
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2022-11-30
+0001295961 us-gaap:CommonStockMember 2022-11-30
+0001295961 us-gaap:PreferredStockMember 2022-11-30
+0001295961 us-gaap:TreasuryStockMember 2022-03-01 2022-11-30
+0001295961 us-gaap:RetainedEarningsMember 2022-03-01 2022-11-30
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2022-03-01 2022-11-30
+0001295961 us-gaap:CommonStockMember 2022-03-01 2022-11-30
+0001295961 us-gaap:PreferredStockMember 2022-03-01 2022-11-30
+0001295961 us-gaap:TreasuryStockMember 2022-02-28
+0001295961 us-gaap:RetainedEarningsMember 2022-02-28
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2022-02-28
+0001295961 us-gaap:CommonStockMember 2022-02-28
+0001295961 us-gaap:PreferredStockMember 2022-02-28
+0001295961 2021-11-30
+0001295961 us-gaap:TreasuryStockMember 2021-11-30
+0001295961 us-gaap:RetainedEarningsMember 2021-11-30
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2021-11-30
+0001295961 us-gaap:CommonStockMember 2021-11-30
+0001295961 us-gaap:PreferredStockMember 2021-11-30
+0001295961 us-gaap:TreasuryStockMember 2021-03-01 2021-11-30
+0001295961 us-gaap:RetainedEarningsMember 2021-03-01 2021-11-30
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2021-03-01 2021-11-30
+0001295961 us-gaap:CommonStockMember 2021-03-01 2021-11-30
+0001295961 us-gaap:PreferredStockMember 2021-03-01 2021-11-30
+0001295961 us-gaap:TreasuryStockMember 2021-02-28
+0001295961 us-gaap:RetainedEarningsMember 2021-02-28
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2021-02-28
+0001295961 us-gaap:CommonStockMember 2021-02-28
+0001295961 us-gaap:PreferredStockMember 2021-02-28
+0001295961 us-gaap:TreasuryStockMember 2022-09-01 2022-11-30
+0001295961 us-gaap:RetainedEarningsMember 2022-09-01 2022-11-30
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2022-09-01 2022-11-30
+0001295961 us-gaap:CommonStockMember 2022-09-01 2022-11-30
+0001295961 us-gaap:PreferredStockMember 2022-09-01 2022-11-30
+0001295961 2022-08-31
+0001295961 us-gaap:TreasuryStockMember 2022-08-31
+0001295961 us-gaap:RetainedEarningsMember 2022-08-31
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2022-08-31
+0001295961 us-gaap:CommonStockMember 2022-08-31
+0001295961 us-gaap:PreferredStockMember 2022-08-31
+0001295961 us-gaap:TreasuryStockMember 2021-09-01 2021-11-30
+0001295961 us-gaap:RetainedEarningsMember 2021-09-01 2021-11-30
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2021-09-01 2021-11-30
+0001295961 us-gaap:CommonStockMember 2021-09-01 2021-11-30
+0001295961 us-gaap:PreferredStockMember 2021-09-01 2021-11-30
+0001295961 2021-08-31
+0001295961 us-gaap:TreasuryStockMember 2021-08-31
+0001295961 us-gaap:RetainedEarningsMember 2021-08-31
+0001295961 us-gaap:AdditionalPaidInCapitalMember 2021-08-31
+0001295961 us-gaap:CommonStockMember 2021-08-31
+0001295961 us-gaap:PreferredStockMember 2021-08-31
+0001295961 us-gaap:SeriesDPreferredStockMember 2022-11-30
+0001295961 us-gaap:SeriesDPreferredStockMember 2022-02-28
+U.S. SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM   10-Q
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended   November 30, 2022
+☐ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT OF 1934
+Commission file number   333-225892
+Quantum Energy, Inc.
+(Exact name of registrant as specified in its charter)
+Nevada
+98-0428608
+(State or other jurisdiction of incorporation or
+organization)
+(I.R.S. Employer Identification No.)
+3805 Rockbottom
+North Las Vegas ,   NV
+89030
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+702 - 323-6455
+Securities   registered   pursuant to Section   12(b) of the   Act:
+Title   of   Each   Class
+Trading   Symbol
+Name of Each   Exchange
+on   Which   Registered
+Common stock, $0.001 Par Value
+QEGY
+OTC.PK
+Securities   registered   pursuant to Section   12(g) of the   Act:
+None
+Indicate by check mark whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒  No ☐
+Indicate by check mark whether the registrant has submitted electronically on its corporate Website, if any, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit filed).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+☒
+The number of shares of issuer’s common stock, par value $0.001 per share, outstanding as of November 30, 2022 was approximately
+49,491,498 .
+Page 1
+Contents
+PART I - FINANCIAL INFORMATION
+3
+ITEM 1. FINANCIAL STATEMENTS
+3
+ITEM 2.   MANAGEMENT’S DISCUSSION AND ANALYSIS AND PLAN OF OPERATION.
+13
+ITEM 3.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+18
+ITEM 4.   CONTROLS AND PROCEDURES
+18
+PART II - OTHER INFORMATION
+19
+ITEM 1.   LEGAL PROCEEDINGS.
+19
+ITEM 1A.   RISK FACTORS.
+19
+ITEM 2.   RECENT SALES OF UNREGISTERED SECURITIES.
+19
+ITEM 3.   DEFAULTS UPON SENIOR SECURITIES.
+20
+ITEM 4.   MINE SAFETY DISCLOSURES.
+20
+ITEM 5.   OTHER INFORMATION.
+20
+ITEM 6. EXHIBITS.
+20
+Page 2
+PART I - FINANCIAL INFORMATION
+ITEM 1.
+FINANCIAL STATEMENTS
+Page 3
+QUANTUM ENERGY, INC.
+CONSOLIDATED BALANCE SHEETS - UNAUDITED
+November 30,
+February 28,
+2022
+2022
+ASSETS
+Current Assets
+Cash
+$
+10,031,784
+$
+6,366,730
+Work in Progress
+118,358
+118,358
+Note Receivable - Related Party
+600,000
+—
+Total Current Assets
+10,750,142
+6,485,088
+Property and Equipment, Net
+101,315
+—
+Deposits - Related Party
+17,805,000
+12,005,000
+Total Assets
+$
+28,656,457
+$
+18,490,088
+LIABILITIES AND STOCKHOLDERS' EQUTIY (DEFICIT)
+Current Liabilities
+Accounts Payable and Accrued Expenses
+$
+143,297
+$
+166,080
+Accounts Payable and Accrued Expenses - Related Parties
+210,168
+217,584
+Bonds Payable
+4,920,977
+—
+Common Stock Payable - for Contracts/Agreements
+8,000,000
+1,990,107
+Common Stock Payable - Deposits Received on Subscription Agreements
+—
+18,515,734
+Promissory Notes Payable
+30,000
+76,305
+Promissory Notes Payable - Related Parties
+—
+41,715
+Total Current Liabilities
+13,304,442
+21,007,525
+Total Liabilities
+13,304,442
+21,007,525
+Stockholders' Equity (Deficit)
+Preferred Stock Class D - $ 0.001
+Par;
+1,500,000
+Shares Authorized,
+918,250
+and
+915,000
+Issued and Outstanding, Respectively
+918
+915
+Common Stock - $ 0.001
+Par;
+495,000,000
+Shares Authorized,
+149,633,884
+and
+332,324
+Issued and Outstanding, Respectively
+149,633
+332
+Additional Paid-In-Capital
+1,458,667,742
+64,933,850
+Accumulated Deficit
+( 1,443,466,278
+)
+( 67,452,348
+)
+Treasury Stock; - 0 - and
+186,096
+Shares, Respectively at Par $0.001
+—
+( 186
+)
+Total Stockholders' Equity (Deficit)
+15,352,015
+( 2,517,437
+)
+Total Liabilities and Stockholders' Equity (Deficit)
+$
+28,656,457
+$
+18,490,088
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+Page 4
+QUANTUM ENERGY, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS – UNAUDITED
+For the Three Months Ended
+For the Nine Months Ended
+November 30,
+November 30,
+November 30,
+November 30,
+For the Three Months Ended May 31,
+2022
+2021
+2022
+2021
+Sales
+$
+—
+$
+324,240
+$
+—
+$
+324,240
+Cost of Goods Sold
+—
+109,253
+—
+109,253
+Gross Profit
+—
+214,987
+—
+214,987
+Operating Expenses
+General and Administrative
+870,950
+672,761
+1,817,026
+1,451,994
+Management Fees and Consulting
+16,265
+—
+3,386,180
+—
+Professional Fees
+902,379
+310,383
+2,448,219
+946,070
+Total Operating Expenses
+1,789,594
+983,144
+7,651,425
+2,398,064
+Loss Before Other Income and (Expense)
+( 1,789,594
+)
+( 768,157
+)
+( 7,651,425
+)
+( 2,183,077
+)
+Other Income and (Expense)
+Gain on Debt Settlement
+2,980
+—
+2,980
+140,395
+Unrealized Gain (Loss) on Common Stock Payable
+( 499,748,593
+)
+9,589,356
+( 1,284,600,085
+)
+7,435,441
+Gain (Loss) on Issued Common Stock Payable
+4,948,406
+—
+( 83,686,942
+)
+360,000
+Interest Expense
+( 80,010
+)
+( 3,347
+)
+( 78,458
+)
+( 10,083
+)
+Total Other Income and (Expense)
+( 494,877,217
+)
+9,586,009
+( 1,368,362,505
+)
+7,925,753
+Income Before Income Tax Expense
+( 496,666,811
+)
+8,817,852
+( 1,376,013,930
+)
+5,742,676
+Income Tax Expense
+—
+—
+—
+—
+Net Income (Loss) for the Period
+$
+( 496,666,811
+)
+$
+8,817,852
+$
+( 1,376,013,930
+)
+$
+5,742,676
+Weighted Average Number of Common Shares -
+Basic and Diluted
+56,560,335
+329,943
+18,813,048
+50,425,551
+Net Income for the Period Per Common Shares -
+Basic and Diluted
+$
+( 8.78
+)
+$
+26.73
+$
+( 73.14
+)
+$
+0.11
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+Page 5
+QUANTUM ENERGY, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS - UNAUDITED
+For the Nine Months Ended November 30,
+2022
+2021
+Cash Flows from Operating Activities
+Net Loss for the Period
+$
+( 1,376,013,930
+)
+$
+5,742,676
+Non-Cash Adjustments:
+Depreciation
+17,023
+—
+Preferred Stock Issued for Consulting Services
+105,723
+—
+Common Stock Payable for Consulting Services
+3,265,957
+—
+Unrealized (Gain) Loss on Common Stock Payable
+1,284,600,085
+( 7,435,441
+)
+Gain on Debt Settlement
+( 2,980
+)
+( 140,395
+)
+(Gain) Loss on Issued Common Stock Payable
+83,686,942
+( 360,000
+)
+Changes in Assets and Liabilities:
+Work In Progress
+—
+( 118,358
+)
+Accounts Payable and Accrued Expenses
+( 17,787
+)
+( 60,574
+)
+Accounts Payable and Accrued Expenses - Related Parties
+—
+34,978
+Net Cash Flows Used In Operating Activities
+( 4,358,967
+)
+( 2,337,114
+)
+Cash Flows from Investing Activities
+Cash Purchase of Treasury Stock
+—
+( 813,261
+)
+Cash Disbursement - Note Receivable
+( 600,000
+)
+—
+Purchase of Property & Equipment
+( 118,338
+)
+—
+Deposits - Related Party
+( 5,800,000
+)
+( 8,080,000
+)
+Net Cash Flows Used In Investing Activities
+( 6,518,338
+)
+( 8,893,261
+)
+Cash Flows from Financing Activities
+Proceeds from Stock Subscription
+9,629,707
+17,489,421
+Bond Payable
+4,920,977
+—
+Repayment of Note Payable
+( 8,325
+)
+—
+Repayment of Convertible Note Payable
+—
+( 67,500
+)
+Net Cash Flows Provided By Financing Activities
+14,542,359
+17,421,921
+Net Change in Cash
+3,665,054
+6,191,546
+Cash - Beginning of Period
+6,366,730
+1,969,508
+Cash - End of Period
+$
+10,031,784
+$
+8,161,054
+Cash Paid During the Period for:
+Interest
+$
+78,458
+$
+2,500
+Income Taxes
+$
+—
+$
+—
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+Page 6
+QUANTUM ENERGY, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY (DEFICIT) FOR THE THREE AND NINE MONTHS ENDED NOVEMBER 30, 2022 AND 2021 - UNAUDITED
+Preferred Stock Class D
+Common Stock
+Additional
+Treasury Stock
+Total
+$0.001 Par
+$0.001 Par
+Paid-In
+Accumulated
+$0.001 Par
+Stockholders'
+For the Three Months Ended November 30, 2021
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Shares
+Amount
+Deficit
+Balance - September 1, 2021
+—
+$
+—
+329,943
+$
+330
+$
+11,179,105
+$
+( 22,923,473
+)
+967,567
+$
+( 967
+)
+$
+( 11,745,005
+)
+Cash Purchase of Treasury Stock
+—
+—
+—
+—
+( 245,710
+)
+—
+7,846,844
+( 7,847
+)
+( 253,557
+)
+Net Income for the Period
+—
+—
+—
+—
+—
+8,817,852
+—
+—
+8,817,852
+Balance - November 30, 2021
+—
+$
+—
+329,943
+$
+330
+$
+10,933,395
+$
+( 14,105,621
+)
+8,814,411
+$
+( 8,814
+)
+$
+( 3,180,710
+)
+Preferred Stock Class D
+Common Stock
+Additional
+Treasury Stock
+Total
+$0.001 Par
+$0.001 Par
+Paid-In
+Accumulated
+$0.001 Par
+Stockholders'
+For the Three Months Ended November 30, 2022
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Shares
+Amount
+Equity (Deficit)
+Balance - September 1, 2022
+917,750
+$
+918
+56,560,335
+$
+56,560
+$
+742,052,143
+$
+( 946,799,467
+)
+—
+$
+—
+$
+( 204,689,846
+)
+Issuance of Preferred Stock
+500
+—
+—
+—
+16,265
+—
+—
+—
+16,265
+Issuance of Common Stock Payable
+—
+—
+93,073,549
+93,073
+716,599,334
+—
+—
+—
+716,692,407
+Net Income for the Period
+—
+—
+—
+—
+—
+( 496,666,811
+)
+—
+—
+( 496,666,811
+)
+Balance - November 30, 2022
+918,250
+$
+918
+149,633,884
+$
+149,633
+$
+1,458,667,742
+$
+( 1,443,466,278
+)
+—
+$
+—
+$
+15,352,015
+Preferred Stock Class D
+Common Stock
+Additional
+Treasury Stock
+Total
+$0.001 Par
+$0.001 Par
+Paid-In
+Accumulated
+$0.001 Par
+Stockholders'
+For the Nine Months Ended November 30, 2021
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Shares
+Amount
+Deficit
+Balance - March 1, 2021
+—
+$
+—
+323,277
+$
+323
+$
+11,497,849
+$
+( 19,848,297
+)
+—
+$
+—
+$
+( 8,350,125
+)
+Common Stock Issued from Subscriptions - Restated
+—
+—
+6,667
+7
+239,993
+—
+—
+—
+240,000
+Cash Purchase of Treasury Stock
+—
+—
+—
+—
+( 804,447
+)
+—
+8,814,411
+( 8,814
+)
+( 813,261
+)
+Net Income for the Period
+—
+—
+—
+—
+—
+5,742,676
+—
+—
+5,742,676
+Balance - November 30, 2021
+—
+$
+—
+329,943
+$
+330
+$
+10,933,395
+$
+( 14,105,621
+)
+8,814,411
+$
+( 8,814
+)
+$
+( 3,180,710
+)
+Preferred Stock Class D
+Common Stock
+Additional
+Treasury Stock
+Total
+$0.001 Par
+$0.001 Par
+Paid-In
+Accumulated
+$0.001 Par
+Stockholders'
+For the Nine Months Ended November 30, 2022
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Shares
+Amount
+Equity (Deficit)
+Balance - March 1, 2022
+915,000
+$
+915
+332,324
+$
+332
+$
+64,933,850
+$
+( 67,452,348
+)
+( 186,096
+)
+$
+( 186
+)
+$
+( 2,517,437
+)
+Issuance of Preferred Stock
+3,250
+3
+—
+—
+105,720
+—
+—
+—
+105,723
+Reclass of Treasury Stock
+—
+—
+( 186,096
+)
+( 186
+)
+186,096
+186
+—
+Purchase of Treasury Stock
+—
+—
+( 8,556
+)
+( 9
+)
+9
+—
+—
+—
+—
+Issuance of Common Stock Payable
+—
+—
+149,496,212
+149,496
+1,393,628,163
+—
+—
+—
+1,393,777,659
+Net Income for the Period
+—
+—
+—
+—
+—
+( 1,376,013,930
+)
+—
+—
+( 1,376,013,930
+)
+Balance - November 30, 2022
+918,250
+$
+918
+149,633,884
+$
+149,633
+$
+1,458,667,742
+$
+( 1,443,466,278
+)
+—
+$
+—
+$
+15,352,015
+The accompanying notesi.8re an integral part of these unaudited condensed financial statements.
+Page 7
+QUANTUM ENERGY, INC.
+CONSOLIDATED NOTES TO FINANCIAL STATEMENTS- UNAUDITED
+FEBRUARY 28, 2022
+NOTE 1 - NATURE OF OPERATIONS
+QUANTUM ENERGY INC. (“the Company”) was incorporated under the name “Boomers Cultural Development Inc.” under the laws of the State of Nevada on February 5, 2004. On May 18, 2006, the Company changed its name to Quantum Energy, Inc.
+The Company is a development stage diversified holding company with an emphasis in land holdings, refinery and fuel distribution.
+The Company is domiciled in the Unites States of America and trades on the OTC market under the symbol QEGY.
+NOTE 2 - SIGNIFICANT ACCOUNTING POLICIES
+Principles of Consolidation
+The consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries FTPM Resources Ltd. and Dominion Energy Processing Group, Inc. after elimination of the intercompany accounts and transactions.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Risks and uncertainties
+The Company’s operations are subject to significant risks and uncertainties, including financial, operational, technological and other risks associated with operating an emerging business, including the potential risk of business failure.
+Cash and cash equivalents
+The Company considers all highly liquid investments with original maturities of three months or less when acquired to be cash equivalents.
+Fair value of financial instruments
+The Company's financial instruments include cash and cash equivalents, promissory notes payable, and promissory notes payable - related parties. All instruments are accounted for on a cost basis, which, due to the short maturity of these financial instruments, approximates fair value at November 30, 2022 and February 28, 2022, respectively.
+When required to measure assets or liabilities at fair value, the Company uses a fair value hierarchy based on the level of independent, objective evidence surrounding the inputs used. The Company determines the level within the fair value hierarchy in which the fair value measurements in their entirety fall. The categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. Level 1 uses quoted prices in active markets for identical assets or liabilities, Level 2 uses significant other observable inputs, and Level 3 uses significant unobservable inputs. The amount of the total gains or losses for the period are included in earnings that are attributable to the change in unrealized gains or losses relating to those assets and liabilities still held at the reporting date.
+At November 30, 2022 and February 28, 2022, the Company had
+no
+assets or liabilities accounted for at fair value on a recurring basis.
+Page 8
+NOTE 2 - SIGNIFICANT ACCOUNTING POLICIES - continued
+Long-Lived Assets
+The Company reviews long-lived assets which include a deposit on land purchase for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Events relating to recoverability may include significant unfavorable changes in business conditions or a forecasted inability to achieve break-even operating results over an extended period. The Company evaluates the recoverability of long-lived assets based upon forecasted undiscounted cash flows and reports any impairment at the lower of the carrying amount or the fair value less costs to sell.
+Stock-based Compensation
+The Company estimates the fair value of options to purchase common stock using the Black-Scholes model, which requires the input of some subjective assumptions. These assumptions include estimating the length of time stock options will be held before they are exercised (“expected life”), the estimated volatility of the Company’s common stock price over the expected term (“volatility”), forfeiture rate, the risk-free interest rate and the dividend yield. Changes in the subjective assumptions can materially affect the estimate of fair value of stock-based compensation. Options granted have a
+ten-year
+maximum term and varying vesting periods as determined by the Board of Directors. The value of shares of common stock awards is determined based on the closing price of the Company’s stock on the date of the award.
+Related Parties
+In accordance with ASC 850 “Related Party Disclosure”, a party is considered to be related to the Company if the party directly or indirectly or through one or more intermediaries, controls, is controlled by, or is under common control with the Company. Related parties also include principal owners of the Company; its directors, officers, and management; members of the immediate families of principal owners of the Company and its management; and other parties with which the Company may deal with if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests.
+New Accounting Pronouncements
+The Company has implemented all new accounting pronouncements that are in effect and is evaluating any that may impact its financial statements, including the new lease standard. The Company does not have any leases and does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations.
+NOTE 3
+–
+GOING CONCERN
+These consolidated financial statements have been prepared in accordance with U.S. GAAP to a going concern, which assumes that the Company will be able to meet its obligations and continue its operations for the next twelve months.
+As shown in the accompanying financial statements, the Company has incurred operating losses since inception. As of November 30, 2022 and February 28, 2022, the Company has limited financial resources with which to achieve the objectives and obtain profitability and positive cash flows. As shown in the accompanying consolidated balance sheets and consolidated statements of operations, the Company has an accumulated deficit at November 30, 2022 and February 28, 2022 and a working capital deficit at November 30, 2022 and February 28, 2022. Achievement of the Company's objectives will be dependent upon the ability to obtain additional financing, generate revenue from current and planned business operations, and control costs. The Company plans to fund its future operations by joint venturing, obtaining additional financing from investors, and/or lenders, and attaining additional commercial revenue. However, there is no assurance that the Company will be able to achieve these objectives, therefore substantial doubt about its ability to continue as a going concern exists.
+NOTE 4
+–
+EARNINGS PER SHARE
+Basic Earnings Per Share (“EPS”) is computed as net income (loss) available to common stockholders divided by the weighted average number of common shares outstanding for the period. Diluted EPS reflects the potential dilution that could occur from common shares issuable through stock options and warrants.
+The dilutive effect of outstanding securities as of November 30, 2022 and February 28, 2022, respectively, would be as follows:
+November
+February
+30, 2022
+28, 2022
+Warrants
+––
+1,925,000
+TOTAL POSSIBLE DILUTION
+––
+1,925,000
+Page 9
+At February 28, 2022 the effect of the Company's outstanding options and warrants would have been anti-dilutive.
+NOTE 5
+–
+PROPERTY and EQUIPMENT
+Property and equipment consisted of the following at November 30, 2022 and February 28, 2022:
+November
+February
+30, 2022
+28, 2022
+Trailer
+$
+53,400
+$
+––
+Vehicle
+64,938
+Less: Accumulated Depreciation
+( 17,023
+)
+––
+Net Property and Equipment
+$
+101,315
+$
+––
+Depreciation expense for the three and nine months ended November 30, 2022 and 2021 was $ 10,246
+(2021: $- 0 -) and $ 17,023
+(2021: $- 0 -), respectively.
+NOTE 6 - OTHER ASSETS
+Work in Progress
+Work in progress consists of partially manufactured and raw rare earth metal products used in production in the amount of $ 118,358
+at November 30, 2022 and February 28, 2022.
+Deposits
+–
+Related Party
+Deposits – Related Party consist of deposits made to a related party that share board members of the Company. A with a letter of intent signed on October 12,2021 calls for the purchase of shares of common stock of the related party to obtain a majority stake at $ 2.10
+for up to eighteen (18) months with closing on December 15, 2022. The letter of intent is non-binding and if the majority shares are not obtained the deal is terminated and the money is refunded. Hence, the classification of deposits of $ 17,805,000
+and $ 12,005,000
+at November 30, 2022 and February 28, 2022, respectively. The Company is expecting to acquire majority ownership by the closing date.
+NOTE 7
+–
+PROMISSORY and CONVERTIBLE NOTES PAYABLE
+The Company’s outstanding notes payable are summarized as follows:
+November
+February
+30, 2022
+28, 2022
+0% unsecured note payable - December 2013, due on demand
+$
+––
+$
+2,000
+0% unsecured note payable - November 2015, due on demand
+––
+980
+8% unsecured note payable - October 2018, due on demand
+––
+5,000
+6% unsecured note payable – April 2019, due on demand
+––
+3,325
+8% unsecured notes payable - October 2019, due on demand
+30,000
+65,000
+Total Notes Payable
+$
+30,000
+$
+76,305
+NOTE 7
+–
+PROMISSORY and CONVERTIBLE NOTES PAYABLE - continued
+Interest expense for the three and nine months ended November 30, 2022 and 2021 was $ 600
+(2021: $ 1,453)
+$ 1,800
+(2021: $ 4,363) , respectively.
+NOTE 8
+–
+PROMISSORY NOTES PAYABLE, RELATED PARTY AND OTHER RELATED PARTY TRANSACTIONS
+The Company’s outstanding notes payable, related party are summarized as follows:
+November 30,
+February 28,
+2022
+2022
+6% unsecured note payable – April 2019, due on demand
+––
+15,825
+6% unsecured note payable – April 2019, due on demand
+––
+15,890
+8% unsecured note payable - October 2019, due on demand
+––
+10,000
+TOTAL
+$
+––
+$
+41,715
+Interest expense for the three and nine months ended November 30, 2022 and 2021 was $- 0 - (2021: $ 1,894 ) and $- 0 - and (2021: $ 5,720 ), respectively.
+Page 10
+Starting January 1, 2019, the Company began accruing a monthly management fee of $ 15,000
+due to an advisory company owned by Andrew J. Kacic, the Company’s former chief executive officer (“CEO”). During the year ended February 28, 2019, the Company recognized management fees of $ 30,000
+under this agreement which amount is included in “Accounts payable and accrued liabilities, related parties” on the consolidated balance sheet at February 28, 2019. Since February 28, 2019,
+no
+additional management fees have been accrued since the parties are in dispute. There were no similar management fees due the CEO prior to December 31, 2018. Certain directors and officers of the Company dispute the management fee asserting that no consulting agreement has been executed. It is possible that the amount ultimately paid to the advisory company will be other than the accrued balance of $ 30,000
+due to continuing negotiations between the board of directors and the former CEO. The disputed amount as of the date of these financials is $ 150,000 , which is the remaining 10 (ten) months of the management fee for the calendar year ended 2019. Amounts due to Andrew Kacic at November 30, 2021 and February 28, 2021 were $ 107,868
+and $ 17,868 , respectively. In January 2022, the Company settled their dispute with Andrew Kacic and paid him $ 88,000 . Included in this settlement was $107,868 in accounts payable – related parties, $ 64,300
+in notes payable related parties and $ 16,573
+in accrued interest – related parties. Write off of the notes payable and the accrued interest are included in gain on debt conversion in the amount of $ 80,873
+for the year ended February 28, 2022. Write off of $ 19,868
+of accounts payable related parties is included in professional fees at February 28, 2022.
+Certain officers, directors and other related parties of the Company have paid various expenses on behalf of the Company. Balances due to the officers, directors and a related company for reimbursement of these expenses were $ 198,803
+at November 30, 2022 and February 2022, respectively, which amounts are included in “Accounts payable and accrued liabilities - related parties” on the consolidated balance sheets.
+NOTE 9
+–
+COMMON STOCK PAYABLE
+Common Stock Payable
+–
+for Contracts/Agreements
+Common stock payable for contracts/agreements consists of
+1
+million shares owed to Raul Factor per the joint venture agreement (Note 11) and
+1
+million shares owed to landlord for rent at February 28, 2021. On June 7, 2021,
+6,667
+shares were issued to the landlord. These shares were adjusted to its fair value of $ 600,000
+on June 7, 2021, and $ 150,000
+was recognized as unrealized gain on that date. The Company also recognized a gain on the issuance of these shares in the amount of $ 360,000 . At November 30, 2022 and February 28, 2022, the fair value of the remaining shares owed to Raul Factor were adjusted to its fair value of $ 8,000,000
+and $ 380,000
+based on the closing price of the stock on those dates. The Company recognized unrealized gain (loss) on common stock payable of $ 4,000,000
+(2021: $ 250,000 ) and ($ 7,620,000 ) (2021: $ 6,955,441 ) during the three and nine months ended November 30, 2022 and 2021, respectively. At November 30, 2022 and February 28, 2022, the Company also owed - 0 - and
+3,354,037
+shares, respectively to various people which was valued at the market rates at November 30, 2022 and February 28, 2022 totaling $- 0 - and $ 1,610,107 , respectively.
+NOTE 10
+–
+BOND PAYABLE
+The Company is authorized to sell $ 15,000,000
+in bonds. $ 5,000,000
+are tax exempt with an interest rate of
+8.9 %. Both bond offerings are expected to mature on December 15, 2027. At November 30, 2022 and February 28, 2022 bonds payable were $ 4,920,977
+and $- 0 -, respectively.
+NOTE 11 –
+COMMON STOCK
+Common stock
+The Company is authorized to issue
+495,000,000
+shares of its common stock with a par value of $ 0.001
+per share. All shares of common stock are equal to each other with respect to voting, liquidation, dividend, and other rights. Owners of shares are entitled to
+one
+vote for each share owned at any Shareholders’ meeting.
+On February 23, 2022, the board of directors approved a
+150
+to 1 reverse stock split. The reverse has been retrospectively accounted for at March 1, 2021 in the statements of changes in stockholders’ deficit.
+Preferred stock
+The Company is authorized to issue
+5,000,000
+shares of its preferred stock with a
+no -par value per share with no designation of rights and preferences. The Company issued
+915,000
+shares of its preferred stock class D to pay consulting services in the amount of $ 539,850
+during the year ended February 28, 2022. During the nine months ended November 30, 2022, the Company issued
+3,250
+shares of its preferred stock in the amount of $ 105,723 . These shares have voting rights of
+100
+to 1. The shares value was based on the market price of the Company’s common stock of $ .3253
+and $ 0.59
+on the measurement date. The reverse stock split did not affect preferred stock.
+Page 11
+Treasury Stock
+During year ended February 28, 2022, the Company bought back
+27,914,411
+shares of its common stock in the amount of $ 813,261
+and placed it in treasury. On February 23, 2022, the board of directors approved a
+150
+to 1 reverse stock split. The reverse has been retrospectively accounted for at March 1, 2021 in the statements of changes in stockholders’ deficit.
+NOTE 12 - WARRANTS
+The following is a summary of the Company’s warrants issued and outstanding:
+November 30,
+February 28,
+2022
+2022
+Warrants
+Price (a)
+Warrants
+Price (a)
+Beginning balance
+1,925,000
+$
+.25
+2,925,000
+$
+.25
+Issued
+––
+––
+––
+––
+Exercised
+––
+––
+––
+––
+Expired
+( 1,925,000
+)
+––
+( 1,000,000
+)
+––
+Ending balance
+––
+$
+0.00
+1,925,000
+$
+.25
+(a)
+Weighted average exercise price per shares
+NOTE 13
+–
+OTHER MATTERS- Joint Venture
+Private Placement
+–
+Raul Factor
+Pursuant to (2) two prior License and Operating Agreements, the principals of Raul Factor BV agreed to provide an aggregate of $ 200,000
+(USD) to purchase an aggregate of
+1,000,000
+units of Quantum at a price of $ 0.20
+per Unit, (for an aggregate of
+1,000,000
+shares of the Company’s common stock plus
+18
+month warrants to purchase an aggregate of
+1,000,000
+shares of the Company’s common stock at a price of $ 0.25
+per share. Pursuant to these transactions, the Company agreed to use $ 150,000
+of the proceeds from the sale of the Units to purchase the distribution rights of EES-E and EETC and in turn the Company would assign such distribution rights to EES-E and EETC respectively. Also, Raul Factor agreed to invest the required reasonable funding as determined by the board of directors of EETC for the startup, working capital, specific module development and required 6 months of economic demonstration of carpet and artificial turf into energy or value-added products for EETC. Also, EES agreed to contribute its module technologies developed by or available via license agreements from others to EES further on to EES-E via license agreements conforming to the terms set forth in these License and Operating Agreements. Raul Factor also agreed to fund additional capital requirements. At the date of this report, while the $200,000 was received from Raul Factor, the stock has yet to be issued. As of November 30, 2022 and February 28, 2022, the stock was valued at $ 8,000,000
+and $ 380,000
+utilizing the closing prices on November 30, 2022 and February 28, 2022.
+NOTE 14
+–
+RISKS and UNCERTAINTIES
+Suprock Litigation
+On December 10, 2021, the Company filed an action against the Suprock Parties in the United States District Court of the State of Nevada. (See: 2:21-cv-02184-JAD-BNW Quantum Energy Inc. v. PCS Advisors LLC et al). The complaint alleges breach of implied covenant of good faith & fair dealing, unjust enrichment, and breach of contract. The Company is seeking the return of the shares of its common stock and monetary damages.
+Page 12
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS AND PLAN OF OPERATION.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report and the exhibits attached hereto contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. Such forward-looking statements concern the Company’s anticipated results and developments in the Company’s operations in future periods, plans related to its business and other matters that may occur in the future. These statements relate to analyses and other information that are based on forecasts of future results, estimates of amounts not yet determinable and assumptions of management.
+Any statement that expresses or involves discussions with respect to predictions, expectations, beliefs, plans, projections, objectives, assumptions or future events or performance (often, but not always using words or phrases such as “expects” or “does not expect”, “is expected”, “anticipates” or “does not anticipate”, “plans”, “estimates”, or “intends”, or states that certain actions, events or results “may” or “could”, “would”, “might” or “will” be taken, occur or be achieved) are not statements of historical fact and may be forward-looking statements. Forward-looking statements are subject to a variety of known and unknown risks, uncertainties and other factors which could cause actual events or results to differ from those expressed or implied by the forward-looking statements, including, without limitation:
+●
+Risks related to government regulation;
+●
+Risks related to environmental concerns;
+●
+Risks related to the Company’s ability to obtain additional required capital
+●
+Risks related to the Company’s insurance coverage for operating risks;
+●
+Risks related to the fluctuation of prices for crude oil;
+●
+Risks related to the commodity prices of rare earth minerals and related materials;
+●
+Risks related to the possible dilution of the Company’s common stock from additional financing activities;
+●
+Risks related to potential conflicts of interest with the Company’s management;
+●
+Risks related to the Company’s shares of common stock.
+Page 13
+This list is not exhaustive of the factors that may affect the Company’s forward-looking statements. Some of the important risks and uncertainties that could affect forward-looking statements are described further under the sections “Description of Business” and “Management’s Discussion and Analysis and Plan of Operation” of this Quarterly Report. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those anticipated, believed, estimated or expected. The Company cautions readers not to place undue reliance on any such forward-looking statements, which speak only as of the date made. Quantum Energy, Inc. disclaims any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after the date of such statements or to reflect the occurrence of anticipated or unanticipated events, except as required by law. The Company advises readers to carefully review the reports and documents filed from time to time with the Securities and Exchange Commission (the “SEC”), particularly the Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K.
+Quantum Energy, Inc. qualifies all forward-looking statements contained in this Quarterly Report by the foregoing cautionary statement.
+Certain statements contained in this Quarterly Report on Form 10-Q constitute “forward-looking statements.” These statements, identified by words such as “plan,” “anticipate,” “believe,” “estimate,” “should,” “expect,” and similar expressions include the Company’s expectations and objectives regarding its future financial position, operating results and business strategy. These statements reflect the current views of management with respect to future events and are subject to risks, uncertainties and other factors that may cause actual results, performance or achievements, or industry results, to be materially different from those described in the forward-looking statements. Such risks and uncertainties include those set forth under the caption “Management’s Discussion and Analysis and Plan of Operation” and elsewhere in this Quarterly Report.
+As used in this Quarterly Report, the terms “we,” “us,” “our,” “Quantum Energy,”, “Quantum” and the “Company”, mean Quantum Energy, Inc., unless otherwise indicated. All dollar amounts in this Quarterly Report are expressed in U.S. dollars, unless otherwise indicated.
+The following statements may be forward-looking in nature and actual results may differ materially.
+OFFICES
+Our principal executive offices are located at 3805 Rockbottom, Henderson, Nevada. The Company’s telephone number is (877) 355-1277. Our website is www.qegy.energy and is not part of this Quarterly Report.
+Historical Operations
+The Company was originally incorporated as Boomers Cultural Development, Inc. (“Boomers”) on February 5, 2004, in the State of Nevada to be a service-oriented firm that would integrate the cultural interests of baby boomers with destination learning, by packaging onsite personal growth, education, and entertainment seminars with a variety of vacation destinations. On May 18, 2006, its name was changed to Quantum Energy, Inc. and business plans were changed to focus on the energy industry and in particular the oil and gas segments of the energy industry. From 2008 through 2010, the Company planned, when and if funding became available, to acquire high-quality oil and gas properties, primarily proven producing and proven undeveloped reserves as well as exploring low-risk development drilling and work-over opportunities with experienced, well-established operators. However, the anticipated funding opportunities did not materialize.
+The business plan from 2008 to 2020 included our plan to develop, construct and operate a “state-of-the-art”, energy efficient, full slate oil refinery including a storage tank farm and associated facilities in Stoughton, Saskatchewan, Canada (the Stoughton Refinery”). In this regard, on August 2, 2016, the Company formed a Canadian subsidiary, Dominion Energy Processing Group, Inc. for purposes of the Pre-development work, construction and operation of the Stoughton Refinery.
+Page 14
+The Company previously identified a 480-acre site in Stoughton Saskatchewan (the “Land”) on which it planned to construct the Stoughton Refinery. However, we never obtained the necessary funding to build the finery and so in 2020, it we gave up on that idea.
+The Company formed a strategic alliance with Inductance Energy Corporation in 2019, finding tactical advantages through solutions in mining, producing, trading, and manufacturing components and working instruments from rare earth metals and oxides. Within this alliance the two companies also found leadership and specialized talent advantages, thereby fulfilling the Company’s past due compliance obligations to the SEC. This raised investors interest and awareness to the opportunities associated with the production of rare earth materials, which can be used to produce and manufacture innovative technological devices over the next era of energy supply and demand.
+Current Business Strategy
+On September 22, 2020 the Company entered into a joint development agreement with MP Special Purpose Corporation to enter into the business of mining and refining rare earth materials.
+The Company developed a straightforward strategic and tactical business plan that could be executed around 3 basic business segments: Mining, Minerals and Magnets. These 3 segments would become a highly focused center of work for the Company.
+Various work at the Company by its technical committee had shown that the Company could enter the mining industry through a very unique path of recovering rare earth and ferrite magnet material from discarded appliances, computers, and other sources in the United States and Canada. Secondly, the Company would concentrate its efforts on the recovery of rare earth materials from other waste streams including fly ash and fly bottom waste streams from combusted coal burning power plants in the United States and Canada. It is estimated that over 1 billion tons of this material exists and dumpsites, and far greater than 4 billion pounds of this material is still generated from coal burning power plants and other sources in the United States alone each year.
+Successful recovery from these waste streams are described as follows;
+1.
+Rare Earth and Ferrite (Iron) Magnets  that are used in a wide variety of appliances and electronics that can be recovered, that were disposed of in the United States and Canada. These appliances include; televisions, computers, refrigerators, microwaves, dishwashers, as well as motor vehicles, and used electrical motors. Quantum is working with a wide variety of returned merchandise centers, landfills, and other recycling businesses to secure these resources. These types of magnet resources can be mechanically gathered, and reprocessed for use by IEC, and other customers.
+2.
+Fly ash and fly bottom waste streams . Fly ash and fly bottom waste streams are the remaining byproduct of coal combustion. There are billions of pounds of fly ash and fly bottom waste that are produced every year in the United States and Canada, as well as foreign countries. Currently Quantum has two large developmental projects to recover and test both fly ash and fly bottom waste streams for their rare earth content. These two sources currently produce just over 1.4 billion pounds of fly ash and fly bottom waste on an annual basis. Well-known resource testing shows that most fly ash, as well as fly bottom waste streams on average contain about 1.85% rare earth material.
+Page 15
+3.
+Coal and other mining resources . Currently in the United States and Canada, the mining of coal to be consumed in coal power plants is in rapid decline. Coal producing states such as Wyoming, Kentucky, and West Virginia must move from a coal-based economy or continue to face declining royalty revenues from these natural resources. Rare earth minerals could be one answer to this problem. It is well known from a wide variety of Department of Energy studies that coal, and coal byproducts contain high concentrations of rare earth materials. Quantum is in negotiations with several operating and now defunct coal burning properties in order to secure rights to process and refine rare earth materials.
+Governmental Regulation
+All of our contemplated operations and properties are and will be subject to extensive Canadian and U.S. federal, provincial, state and local environmental and health and safety regulations governing, among other things, the generation, storage, handling, use and transportation of rare earth minerals; the emission and discharge of materials into the environment; waste management. Our operations also require numerous permits and authorizations under various environmental and health and safety laws and regulations. Failure to comply with these permits or environmental laws generally could result in fines, penalties or other sanctions or a revocation of our permits. We will have to make significant capital and other expenditures related to environmental and health and safety compliance, including with respect to our air permits and the low-sulfur gasoline and ultra-low-sulfur diesel regulations.
+Certain environmental laws hold current or previous owners or operators of real property liable for the costs of cleaning up spills, releases and discharges of petroleum or hazardous substances, even if these owners or operators did not know of and were not responsible for such spills, releases and discharges. These environmental laws also assess liability on any person who arranges for the disposal or treatment of hazardous substances, regardless of whether the affected site is owned or operated by such person.
+In addition to clean-up costs, we may face liability for personal injury or property damage due to exposure to chemicals or other hazardous substances that we may have manufactured, used, handled or disposed of or that are located at or released from our refinery or otherwise related to our current or former operations. We may also face liability for personal injury, property damage, natural resource damage or for clean-up costs for the alleged migration of petroleum or hazardous substances.
+Results of Operations
+Three Months Ended   August 31, 2022 Compared to Three Months Ended August 31, 2021.
+Sales for the three months ended August 31, 2022 was $0 compared to $-0- for the three months ended August 31, 2021. Cost of goods sold for the three months ended August 31, 2022 was $0 compared to $-0- for the three months ended August 31, 2021. Operating expenses for the three months ended August 31, 2022, was $556,464 compared to $668,229 for the three months ended August 31, 2021. The increase in operating expenses was due to the fact that the Company had cash available and therefore were able to resume operations and their SEC filings. Other income and (expense) for the three months ended August 31, 2022 was $4,013,855 compared to $785,500 for the three months ended August 31, 2021. This increase in other income and (expense) of $3,228,355 was due to an increase in unrealized gain on common stock payable of $3,366,158, absence a gain on debt settlement of $140.395 and a decrease in interest expense of $(2,592).
+Page 16
+Net Income
+Net income for the three months ended August 31, 2022 and 2021 was $2,447,391 and $117,271, respectively. The increase in net income of $2,330,120 was due to the sales and increase in operating expenses of $978,290 and increase in other income and (expense) of $3,228,355.
+Liquidity and Capital Resources:
+As of August 31, 2022, our assets totaled $21,158,115 which consisted of $6,533,299 in cash, $118,358 in work in progress and $13,855,000 in deposits - related part,51,558 in PPE,$5,00,000 in Escrow-related party,$1,00,000 in Note receivable-related party The Company's total liabilities were $21,138,703 which consisted of accounts payable and accrued expenses, – related parties, common stock payable – for contracts/agreements, , common stock payable – deposits received on subscriptions agreements, promissory notes payable and promissory notes payable – related parties. As of May 31, 2022, the Company had an accumulated deficit of $65,004,957 and working capital deficit of $13,887,046.
+Cash Used in Operating Activities
+Net cash used in operating activities for the three months ended August 31, 2022 and 2021 was $1,945,449 and $718,502-, respectively. The increase in the amount used was attributed to Increase in unrealized gain on common stock payable.
+Cash from   Investing Activities
+Net cash used in investing activities was $2,003,400 and $ 2,430,000 for the three months ended August 31, 2022 and 2021, respectively.
+Cash from Financing Activities
+Net cash provided by financing activities was $4,115,418 and $2,532842- for the three months ended August 31, 2022 and 2021.
+Page 17
+ITEM 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The Company does not hold any derivative instruments and does not engage in any hedging activities.
+ITEM 4.
+CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+As required by Rule 13a-15 under the Exchange Act, our management evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of August 31, 2022.
+Our management, with the participation of our president (our principal executive officer, principal accounting officer and principal financial officer), evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) as of the end of the period covered by this report. Based on this evaluation, our president (our principal executive officer, principal accounting officer and principal financial officer) has concluded that, as of the end of such period, our disclosure controls and procedures were not effective to ensure that information that is required to be disclosed by us in the reports we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms and (ii) accumulated and communicated to our management, including our president (our principal executive officer and our principal accounting officer and principal financial officer), as appropriate, to allow timely decisions regarding required disclosure.
+1)
+We have an inadequate number of administrative personnel.
+2)
+We do not have sufficient segregation of duties within our accounting functions.
+3)
+We have insufficient written policies and procedures over our disclosures.
+The reason for this deficiency relates to the fact that our management is relying on external consultants for purposes of preparing our financial reporting package; however, the officers may not be able to identify errors and irregularities in the financial reporting package before its release as a continuous disclosure document.
+Evaluation of Internal Control over Financial Reporting
+Management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act). Internal control over financial reporting is a process designed by, or under the supervision of, our president (our principal executive officer and our principal accounting officer and principal financial officer), to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. Internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of our Company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that receipts and expenditures are being made only in accordance with authorizations of management and directors of our Company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of our Company’s assets that could have a material affect on the financial statements. Because of its inherent limitations, internal control over financial reporting may not provide absolute assurance that a misstatement of our financial statements would be prevented or detected.
+Further, the evaluation of the effectiveness of internal control over financial reporting was made as of a specific date, and continued effectiveness in future periods is subject to the risks that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Page 18
+Management has conducted, with the participation of our president, our principal executive officer and our principal accounting officer and principal financial officer, an evaluation of the effectiveness of our internal control over financial reporting as of August 31, 2022 in accordance with the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO") in Internal Control — Integrated Framework. Based on this assessment, management concluded that as of August 31, 2022, our internal control over financial reporting was not effective. We are in the process of adopting specific internal control mechanisms. Future controls, among other things, will include more checks and balances and communication strategies between the management and the board to ensure efficient and effective oversight over Company activities as well as more stringent accounting policies to track and update our financial reporting.
+Changes in Internal Controls Over Financial Reporting
+There were no changes in our internal controls over financial reporting identified in connection with the evaluation described above during the quarter ended August 31, 2022 that has materially affected or is reasonably likely to materially affect our internal controls over financial reporting.
+PART II - OTHER INFORMATION
+ITEM 1.
+LEGAL PROCEEDINGS.
+Quantum Energy, Inc. is not a party to any material legal proceedings and, to Management’s knowledge, no such proceedings are threatened or contemplated. No director, officer or affiliate of Quantum Energy, Inc. and no owner of record or beneficial owner of more than 5% of the Company’s securities or any associate of any such director, officer or security holder is a party adverse to Quantum Energy, Inc. or has a material interest adverse to Quantum Energy, Inc. in reference to pending litigation.
+Quantum Energy, Inc. initiated a lawsuit against PCS Advisors, LLC and its principal John Suprock (See  2:21-cv-02184-JAD-BNW   Quantum Energy Inc. v. PCS Advisors LLC et al  in regards to failure to perform on an agreement executed between Suprock and Quantum on March 30, 2017, which was agreed to and executed by previous Quantum management, all of whom have voluntarily resigned and are no longer associated with the Company. The Company as Plaintiff in this matter seeks the return of approximately 3.4 million shares that the Company intends to prove were gained through the defendants operating as unlicensed broker/dealers.
+The Company is not a  party to any other material legal proceedings and, to Management’s knowledge, no such proceedings are threatened or contemplated. No director, officer or affiliate of Quantum Energy, Inc. and no owner of record or beneficial owner of more than 5% of the Company’s securities or any associate of any such director, officer or security holder is a party adverse to Quantum Energy, Inc. or has a material interest adverse to Quantum Energy, Inc. in reference to pending litigation.
+ITEM 1A.
+RISK FACTORS.
+Not applicable.
+ITEM 2.
+RECENT SALES OF UNREGISTERED SECURITIES.
+On June 7, 2021 the Company issued 1,000,000 shares of its common stock in consideration for cancellation of a debt in the amount of $190,000.00. These shares were issued pursuant to an exemption from registration provided by Section 4(2) of the Securities Act of 1933. The issuance was not a public offering as defined in Section 4(2) due to the limited number of persons that received the shares, and the manner of the issuances.  In addition, the transferees of the common stock represented that they had the necessary investment intent as required by Section 4(2) and agreed to receive share certificates or book entry shares containing a legend that states the securities were restricted pursuant to Rule 144 of the Securities Act.
+Page 19
+ITEM 3.
+DEFAULTS UPON SENIOR SECURITIES.
+None
+ITEM 4.
+MINE SAFETY DISCLOSURES.
+None
+ITEM 5.
+OTHER INFORMATION.
+None
+ITEM 6.
+EXHIBITS.
+Exhibit
+Number
+Description of Exhibits
+31.1
+Certification of Principal Executive Officer as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certification of Principal Accounting Officer as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification of Principal Executive Officer as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certification of Principal Accounting Officer as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+Inline XBRL Instance
+101.SCH
+Inline XBRL Taxonomy Extension Schema
+101.CAL
+Inline XBRL Taxonomy Extension Calculation
+101.DEF
+Inline XBRL Taxonomy Extension Definition
+101.LAB
+Inline XBRL Taxonomy Extension Labels
+101.PRE
+Inline XBRL Taxonomy Extension Presentation
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+Page 20
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+QUANTUM ENERGY, INC.
+Date:
+1/31/2023
+By:
+/s/  HARRY EWERT
+Page 21

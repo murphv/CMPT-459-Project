@@ -1,0 +1,1988 @@
+2023
+99,819
+99,819
+1
+1
+10,000,000
+10,000,000
+8,868,716
+8,334,975
+1,493,128
+1,488,966
+0
+7,325,860
+1,721,700
+6,498,040
+0.02
+0.02
+0.02
+0.02
+0.02
+0.02
+Cash and restricted cash at June 30, 2022 and March 31, 2022 included $1,320,670 and $13,523,416, respectively, of cash required to collateralize open derivative positions. These amounts are reported in "Other current assets" on the Company's consolidated balance sheets at June 30, 2022 and March 31, 2022. The Company had $29,360,060 in restricted cash at June 30, 2021.
+The loss reclassified from AOCI is presented net of tax benefits of $719,282 which are included in the provision for (benefit from) income taxes on the Company's Consolidated Statement of Operations for the nine months ended December 31, 2022.
+50,000 shares were issued out of treasury stock
+The loss reclassified from AOCI is presented net of tax benefits of $2,976,019 which are included in the provision for (benefit from) income taxes on the Company's Consolidated Statement of Operations for the nine months ended December 31, 2021.
+1,854,978
+13,523,416
+1,585,350
+0000039092 2022-04-01 2022-12-31
+xbrli:shares
+0000039092 2023-02-23
+iso4217:USD
+0000039092 2022-12-31
+0000039092 2022-03-31
+iso4217:USD xbrli:shares
+0000039092 2022-10-01 2022-12-31
+0000039092 2021-10-01 2021-12-31
+0000039092 2021-04-01 2021-12-31
+0000039092 frd:PlateplusIncMember 2022-04-01 2022-12-31
+0000039092 frd:PlateplusIncMember 2021-04-01 2021-12-31
+0000039092 2021-03-31
+0000039092 2021-12-31
+0000039092 frd:PlateplusIncMember 2022-04-30 2022-04-30
+0000039092 frd:PlateplusIncMember frd:ABLFacilityMember frd:JPMorganChaseBankNAMember 2022-04-30 2022-04-30
+0000039092 frd:PlateplusIncMember frd:ABLFacilityMember frd:JPMorganChaseBankNAMember 2022-07-01 2022-09-30
+0000039092 frd:PlateplusIncMember 2022-04-30
+0000039092 frd:PlateplusIncMember 2022-04-01 2022-06-30
+0000039092 frd:PlateplusIncMember frd:EastChicagoAndGraniteCityMember 2022-10-01 2022-12-31
+0000039092 frd:PlateplusIncMember frd:EastChicagoAndGraniteCityMember 2022-04-01 2022-12-31
+0000039092 frd:PlateplusIncMember frd:HoustonAndLoudonMember 2022-04-01 2022-12-31
+0000039092 frd:PlateplusIncMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-01 2022-12-31
+0000039092 frd:PrimeCoilInventoryMember 2022-12-31
+0000039092 frd:PrimeCoilInventoryMember 2022-03-31
+0000039092 frd:NonStandardCoilInventoryMember 2022-12-31
+0000039092 frd:NonStandardCoilInventoryMember 2022-03-31
+0000039092 frd:TubularInventoryMember 2022-12-31
+0000039092 frd:TubularInventoryMember 2022-03-31
+0000039092 frd:PaycheckProtectionProgramCARESActMember us-gaap:NonoperatingIncomeExpenseMember 2021-04-01 2021-12-31
+0000039092 us-gaap:RevolvingCreditFacilityMember frd:JPMorganChaseBankNAMember 2021-03-08
+0000039092 us-gaap:RevolvingCreditFacilityMember frd:JPMorganChaseBankNAMember 2021-04-12
+0000039092 frd:ABLFacilityMember frd:JPMorganChaseBankNAMember 2021-05-19
+0000039092 frd:ABLFacilityMember frd:JPMorganChaseBankNAMember 2022-03-11
+0000039092 frd:ABLFacilityMember frd:JPMorganChaseBankNAMember 2022-04-29
+0000039092 frd:BMOHarrisBankNAMember 2022-07-06
+xbrli:pure
+0000039092 frd:ABLFacilityMember frd:JPMorganChaseBankNAMember us-gaap:PrimeRateMember 2022-04-29 2022-04-29
+0000039092 frd:ABLFacilityMember frd:JPMorganChaseBankNAMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-04-29 2022-04-29
+0000039092 frd:ABLFacilityMember frd:JPMorganChaseBankNAMember 2021-05-19 2022-04-29
+0000039092 2022-04-29
+0000039092 frd:ABLFacilityMember frd:JPMorganChaseBankNAMember 2022-12-31
+0000039092 frd:ABLFacilityMember 2022-12-31
+0000039092 frd:ABLFacilityMember 2022-04-29
+0000039092 frd:ABLFacilityMember 2022-07-06
+utr:Y
+0000039092 frd:GraniteCityIlFacilityMember 2022-12-31
+0000039092 frd:GraniteCityIlFacilityMember 2022-04-01 2022-12-31
+0000039092 frd:PlateplusIncMember frd:GraniteCityIlFacilityMember 2022-04-01 2022-06-30
+0000039092 frd:OfficeSpaceInLongviewTexasMember 2022-04-01 2022-12-31
+0000039092 frd:HeavydutyForkliftMember 2019-10-31
+0000039092 frd:HeavydutyForkliftMember 2019-10-01 2019-10-31
+0000039092 us-gaap:OtherNoncurrentAssetsMember 2022-12-31
+0000039092 us-gaap:OtherNoncurrentAssetsMember 2022-03-31
+0000039092 frd:PropertyPlantAndEquipmentNetMember 2022-12-31
+0000039092 frd:PropertyPlantAndEquipmentNetMember 2022-03-31
+0000039092 us-gaap:AccountsPayableAndAccruedLiabilitiesMember 2022-12-31
+0000039092 us-gaap:AccountsPayableAndAccruedLiabilitiesMember 2022-03-31
+0000039092 frd:CurrentPortionOfFinancingLeaseMember 2022-12-31
+0000039092 frd:CurrentPortionOfFinancingLeaseMember 2022-03-31
+0000039092 us-gaap:OtherNoncurrentLiabilitiesMember 2022-12-31
+0000039092 us-gaap:OtherNoncurrentLiabilitiesMember 2022-03-31
+0000039092 frd:AccruedExpenseAndOtherNoncurrentLiabilitiesMember 2022-12-31
+utr:sqft
+0000039092 frd:FacilityInSintonTexasMember 2021-05-25
+utr:acre
+0000039092 frd:FacilityInSintonTexasMember 2021-05-25
+0000039092 frd:FacilityInSintonTexasMember 2022-12-31
+0000039092 frd:FacilityInSintonTexasMember 2022-04-01 2022-12-31
+0000039092 frd:RestrictedStockPlan2016Member 2016-09-01
+0000039092 us-gaap:RestrictedStockMember 2022-03-31
+0000039092 us-gaap:RestrictedStockMember 2022-04-01 2022-12-31
+0000039092 us-gaap:RestrictedStockMember 2022-12-31
+0000039092 us-gaap:RestrictedStockMember frd:RestrictedStockPlan2016Member 2022-04-01 2022-12-31
+0000039092 us-gaap:RestrictedStockMember frd:RestrictedStockPlan2016Member 2021-04-01 2021-12-31
+0000039092 us-gaap:RestrictedStockMember frd:RestrictedStockPlan2016Member 2022-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:ShortMember 2022-12-31
+0000039092 frd:CurrentPortionOfDerivativeAssetsMember frd:HotrolledCoilFutureContractsMember us-gaap:NondesignatedMember us-gaap:ShortMember 2022-12-31
+0000039092 frd:CurrentPortionOfDerivativeLiabilityMember frd:HotrolledCoilFutureContractsMember us-gaap:NondesignatedMember us-gaap:ShortMember 2022-12-31
+0000039092 frd:CurrentPortionOfDerivativeLiabilityMember frd:HotrolledCoilFutureContractsMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:ShortMember 2022-03-31
+0000039092 frd:CurrentPortionOfDerivativeLiabilityMember frd:HotrolledCoilFutureContractsMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-03-31
+0000039092 frd:CurrentPortionOfDerivativeLiabilityMember frd:HotrolledCoilFutureContractsMember us-gaap:NondesignatedMember us-gaap:ShortMember 2022-03-31
+utr:T
+0000039092 us-gaap:DesignatedAsHedgingInstrumentMember 2022-04-01 2022-12-31
+0000039092 us-gaap:NondesignatedMember 2022-04-01 2022-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-10-01 2022-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-10-01 2022-12-31
+0000039092 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-10-01 2022-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:DesignatedAsHedgingInstrumentMember 2021-10-01 2021-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-10-01 2021-12-31
+0000039092 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-10-01 2021-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-04-01 2022-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-04-01 2022-12-31
+0000039092 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-04-01 2022-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:DesignatedAsHedgingInstrumentMember 2021-04-01 2021-12-31
+0000039092 frd:HotrolledCoilFutureContractsMember us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-04-01 2021-12-31
+0000039092 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-04-01 2021-12-31
+0000039092 frd:ClosedHedgesWithHedgedTransactionStillExpectedToOccurMember 2022-04-01 2022-12-31
+0000039092 frd:OpenHedgesSubjectToFairValueChangesMember 2022-04-01 2022-12-31
+0000039092 frd:HotrolledCoilSteelContractsMember us-gaap:NonoperatingIncomeExpenseMember 2022-10-01 2022-12-31
+0000039092 frd:HotrolledCoilSteelContractsMember us-gaap:NonoperatingIncomeExpenseMember 2022-04-01 2022-12-31
+0000039092 frd:HotrolledCoilSteelContractsMember us-gaap:NonoperatingIncomeExpenseMember 2021-10-01 2021-12-31
+0000039092 frd:HotrolledCoilSteelContractsMember us-gaap:NonoperatingIncomeExpenseMember 2021-04-01 2021-12-31
+0000039092 us-gaap:NondesignatedMember us-gaap:ShortMember 2022-04-01 2022-12-31
+0000039092 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-03-31
+0000039092 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-04-01 2022-12-31
+0000039092 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-12-31
+0000039092 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-03-31
+0000039092 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-04-01 2021-12-31
+0000039092 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-12-31
+0000039092 us-gaap:OtherCurrentAssetsMember 0202-12-31
+0000039092 us-gaap:OtherCurrentAssetsMember 2022-03-31
+0000039092 us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0000039092 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0000039092 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-03-31
+0000039092 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2021-03-31
+0000039092 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2021-03-31
+0000039092 us-gaap:FairValueMeasurementsRecurringMember 2022-03-31
+0000039092 us-gaap:OperatingSegmentsMember frd:CoilMember 2022-10-01 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:CoilMember 2021-10-01 2021-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:CoilMember 2022-04-01 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:CoilMember 2021-04-01 2021-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:TubularMember 2022-10-01 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:TubularMember 2021-10-01 2021-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:TubularMember 2022-04-01 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:TubularMember 2021-04-01 2021-12-31
+0000039092 us-gaap:OperatingSegmentsMember 2022-10-01 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember 2021-10-01 2021-12-31
+0000039092 us-gaap:OperatingSegmentsMember 2022-04-01 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember 2021-04-01 2021-12-31
+0000039092 us-gaap:CorporateNonSegmentMember 2022-10-01 2022-12-31
+0000039092 us-gaap:CorporateNonSegmentMember 2021-10-01 2021-12-31
+0000039092 us-gaap:CorporateNonSegmentMember 2022-04-01 2022-12-31
+0000039092 us-gaap:CorporateNonSegmentMember 2021-04-01 2021-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:CoilMember 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:CoilMember 2022-03-31
+0000039092 us-gaap:OperatingSegmentsMember frd:TubularMember 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember frd:TubularMember 2022-03-31
+0000039092 us-gaap:OperatingSegmentsMember 2022-12-31
+0000039092 us-gaap:OperatingSegmentsMember 2022-03-31
+0000039092 us-gaap:CorporateNonSegmentMember 2022-12-31
+0000039092 us-gaap:CorporateNonSegmentMember 2022-03-31
+0000039092 frd:PaycheckProtectionProgramCARESActMember 2021-04-01 2022-12-31
+0000039092 frd:PrimeCoilMember frd:CoilMember 2022-10-01 2022-12-31
+0000039092 frd:PrimeCoilMember frd:CoilMember 2021-10-01 2021-12-31
+0000039092 frd:PrimeCoilMember frd:CoilMember 2022-04-01 2022-12-31
+0000039092 frd:PrimeCoilMember frd:CoilMember 2021-04-01 2021-12-31
+0000039092 frd:SecondaryCoilMember frd:CoilMember 2022-10-01 2022-12-31
+0000039092 frd:SecondaryCoilMember frd:CoilMember 2021-10-01 2021-12-31
+0000039092 frd:SecondaryCoilMember frd:CoilMember 2022-04-01 2022-12-31
+0000039092 frd:SecondaryCoilMember frd:CoilMember 2021-04-01 2021-12-31
+0000039092 frd:CustomerOwnedMember frd:CoilMember 2022-10-01 2022-12-31
+0000039092 frd:CustomerOwnedMember frd:CoilMember 2021-10-01 2021-12-31
+0000039092 frd:CustomerOwnedMember frd:CoilMember 2022-04-01 2022-12-31
+0000039092 frd:CustomerOwnedMember frd:CoilMember 2021-04-01 2021-12-31
+0000039092 frd:CoilMember 2022-10-01 2022-12-31
+0000039092 frd:CoilMember 2021-10-01 2021-12-31
+0000039092 frd:CoilMember 2022-04-01 2022-12-31
+0000039092 frd:CoilMember 2021-04-01 2021-12-31
+0000039092 frd:ManufacturedPipeMember frd:TubularMember 2022-10-01 2022-12-31
+0000039092 frd:ManufacturedPipeMember frd:TubularMember 2021-10-01 2021-12-31
+0000039092 frd:ManufacturedPipeMember frd:TubularMember 2022-04-01 2022-12-31
+0000039092 frd:ManufacturedPipeMember frd:TubularMember 2021-04-01 2021-12-31
+0000039092 frd:MillRejectPipeMember frd:TubularMember 2022-10-01 2022-12-31
+0000039092 frd:MillRejectPipeMember frd:TubularMember 2021-10-01 2021-12-31
+0000039092 frd:MillRejectPipeMember frd:TubularMember 2022-04-01 2022-12-31
+0000039092 frd:MillRejectPipeMember frd:TubularMember 2021-04-01 2021-12-31
+0000039092 frd:TubularMember 2022-10-01 2022-12-31
+0000039092 frd:TubularMember 2021-10-01 2021-12-31
+0000039092 frd:TubularMember 2022-04-01 2022-12-31
+0000039092 frd:TubularMember 2021-04-01 2021-12-31
+0000039092 us-gaap:CommonStockMember 2022-03-31
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-03-31
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2022-03-31
+0000039092 us-gaap:TreasuryStockMember 2022-03-31
+0000039092 us-gaap:RetainedEarningsMember 2022-03-31
+0000039092 us-gaap:CommonStockMember 2022-04-01 2022-06-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-04-01 2022-06-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2022-04-01 2022-06-30
+0000039092 us-gaap:TreasuryStockMember 2022-04-01 2022-06-30
+0000039092 us-gaap:RetainedEarningsMember 2022-04-01 2022-06-30
+0000039092 2022-04-01 2022-06-30
+0000039092 frd:PlateplusIncMember us-gaap:CommonStockMember 2022-04-01 2022-06-30
+0000039092 frd:PlateplusIncMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-04-01 2022-06-30
+0000039092 frd:PlateplusIncMember us-gaap:AdditionalPaidInCapitalMember 2022-04-01 2022-06-30
+0000039092 frd:PlateplusIncMember us-gaap:TreasuryStockMember 2022-04-01 2022-06-30
+0000039092 frd:PlateplusIncMember us-gaap:RetainedEarningsMember 2022-04-01 2022-06-30
+0000039092 us-gaap:CommonStockMember 2022-06-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2022-06-30
+0000039092 us-gaap:TreasuryStockMember 2022-06-30
+0000039092 us-gaap:RetainedEarningsMember 2022-06-30
+0000039092 2022-06-30
+0000039092 us-gaap:CommonStockMember 2022-07-01 2022-09-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-01 2022-09-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2022-07-01 2022-09-30
+0000039092 us-gaap:TreasuryStockMember 2022-07-01 2022-09-30
+0000039092 us-gaap:RetainedEarningsMember 2022-07-01 2022-09-30
+0000039092 2022-07-01 2022-09-30
+0000039092 us-gaap:CommonStockMember 2022-09-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000039092 us-gaap:TreasuryStockMember 2022-09-30
+0000039092 us-gaap:RetainedEarningsMember 2022-09-30
+0000039092 2022-09-30
+0000039092 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0000039092 us-gaap:TreasuryStockMember 2022-10-01 2022-12-31
+0000039092 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000039092 us-gaap:CommonStockMember 2022-12-31
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000039092 us-gaap:TreasuryStockMember 2022-12-31
+0000039092 us-gaap:RetainedEarningsMember 2022-12-31
+0000039092 us-gaap:CommonStockMember 2021-03-31
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-03-31
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2021-03-31
+0000039092 us-gaap:TreasuryStockMember 2021-03-31
+0000039092 us-gaap:RetainedEarningsMember 2021-03-31
+0000039092 us-gaap:CommonStockMember 2021-04-01 2021-06-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-04-01 2021-06-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2021-04-01 2021-06-30
+0000039092 us-gaap:TreasuryStockMember 2021-04-01 2021-06-30
+0000039092 us-gaap:RetainedEarningsMember 2021-04-01 2021-06-30
+0000039092 2021-04-01 2021-06-30
+0000039092 us-gaap:CommonStockMember 2021-06-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2021-06-30
+0000039092 us-gaap:TreasuryStockMember 2021-06-30
+0000039092 us-gaap:RetainedEarningsMember 2021-06-30
+0000039092 2021-06-30
+0000039092 us-gaap:CommonStockMember 2021-07-01 2021-09-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-07-01 2021-09-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2021-07-01 2021-09-30
+0000039092 us-gaap:TreasuryStockMember 2021-07-01 2021-09-30
+0000039092 us-gaap:RetainedEarningsMember 2021-07-01 2021-09-30
+0000039092 2021-07-01 2021-09-30
+0000039092 us-gaap:CommonStockMember 2021-09-30
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000039092 us-gaap:TreasuryStockMember 2021-09-30
+0000039092 us-gaap:RetainedEarningsMember 2021-09-30
+0000039092 2021-09-30
+0000039092 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000039092 us-gaap:TreasuryStockMember 2021-10-01 2021-12-31
+0000039092 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000039092 us-gaap:CommonStockMember 2021-12-31
+0000039092 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0000039092 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000039092 us-gaap:TreasuryStockMember 2021-12-31
+0000039092 us-gaap:RetainedEarningsMember 2021-12-31
+0000039092 us-gaap:RestrictedStockUnitsRSUMember 2022-10-01 2022-12-31
+0000039092 us-gaap:RestrictedStockUnitsRSUMember 2021-10-01 2021-12-31
+0000039092 us-gaap:RestrictedStockUnitsRSUMember 2022-04-01 2022-12-31
+0000039092 us-gaap:RestrictedStockUnitsRSUMember 2021-04-01 2021-12-31
+0000039092 frd:PlateplusIncMember 2022-04-01 2022-09-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE QUARTERLY PERIOD ENDED
+December 31, 2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FROM THE TRANSITION PERIOD FROM
+TO
+COMMISSION FILE NUMBER
+1-7521
+FRIEDMAN INDUSTRIES, INCORPORATED
+(Exact name of registrant as specified in its charter)
+Texas
+74-1504405
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification Number)
+1 121 Judson Road, Suite 124 ,
+Longview ,
+Texas   75601
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code ( 903 ) 758 - 3431
+Former name, former address and former fiscal year, if changed since last report
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange
+on which registered
+Common Stock, $1 Par Value
+FRD
+NYSE  American
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☒
+Non-accelerated filer
+☐
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). (Check one):    Yes   ☐     No   ☒
+At
+February 9, 2023, the number of shares outstanding of the issuer’s only class of stock wa s
+7,375,588  shares
+of Common Stock.
+Table of Contents
+TABLE OF CONTENTS
+Part I — FINANCIAL INFORMATION
+3
+Item 1. Financial Statements
+3
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+17
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+22
+Item 4. Controls and Procedures
+22
+Part II — OTHER INFORMATION
+24
+Item 6. Exhibits
+24
+SIGNATURES
+25
+2
+Table of Contents
+Part I — FINANCIAL INFORMATION
+Item 1. Financial Statements
+FRIEDMAN INDUSTRIES, INCORPORATED
+CONDENSED CONSOLIDATED BALANCE SHEETS — UNAUDITED
+DECEMBER 31, 2022
+MARCH 31, 2022
+ASSETS
+CURRENT ASSETS:
+Cash
+$ 3,544,508     $ 2,598,102
+Accounts receivable, net of allowances for bad debts and cash discounts of $ 99,819
+at December 31, and March 31, 2022
+43,072,920       35,670,657
+Inventories
+97,834,103       67,946,122
+Current portion of derivative assets
+808,820       4,240,740
+Other current assets
+3,096,007       14,906,194
+TOTAL CURRENT ASSETS
+148,356,358       125,361,815
+PROPERTY, PLANT AND EQUIPMENT:
+Land
+1,669,831       1,179,831
+Buildings and yard improvements
+30,664,230       8,581,676
+Machinery and equipment
+48,495,480       30,422,066
+Construction in process
+832,761       15,925,306
+Less accumulated depreciation
+( 27,882,265 )     ( 26,002,820 )
+53,780,037       30,106,059
+OTHER ASSETS:
+Cash value of officers’ life insurance and other assets
+464,892       157,248
+Operating lease right-of-use asset
+1,281,996       113,168
+Deferred income tax asset
+—       2,133,295
+Income taxes recoverable
+—       1,403,485
+TOTAL ASSETS
+$ 203,883,283     $ 159,275,070
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+CURRENT LIABILITIES:
+Accounts payable and accrued expenses
+$ 42,378,677     $ 44,803,602
+Dividends payable
+147,512       137,120
+Contribution to retirement plan
+350,000       250,000
+Employee compensation and related expenses
+2,258,823       1,085,676
+Income taxes payable
+2,631,006       —
+Current portion of financing lease
+106,214       104,689
+Current portion of derivative liability
+649,700       14,429,520
+TOTAL CURRENT LIABILITIES
+48,521,932       60,810,607
+POSTRETIREMENT BENEFITS OTHER THAN PENSIONS
+96,535       119,591
+DEFERRED INCOME TAX LIABILITY
+820,960       —
+OTHER NON-CURRENT LIABILITIES
+1,274,431       221,767
+ASSET BASED LENDING FACILITY
+44,510,967       18,436,457
+TOTAL LIABILITIES
+95,224,825       79,588,422
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS’ EQUITY:
+Common stock, par value $ 1 : Authorized shares —
+10,000,000 ; Issued shares —
+8,868,716
+shares and
+8,344,975
+shares at December 31, and March 31, 2022, respectively
+8,868,716       8,344,975
+Additional paid-in capital
+34,926,801       30,442,361
+Accumulated other comprehensive loss
+( 846,905 )     ( 10,268,509 )
+Treasury stock at cost ( 1,493,128  shares and
+1,488,966
+shares at December 31, and March 31, 2022, respectively)
+( 7,777,769 )     ( 7,741,197 )
+Retained earnings
+73,487,615       58,909,018
+TOTAL STOCKHOLDERS’ EQUITY
+108,658,458       79,686,648
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+$ 203,883,283     $ 159,275,070
+The accompanying notes are an integral part of these financial statements.
+3
+Table of Contents
+FRIEDMAN INDUSTRIES, INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF
+OPERATIONS
+— UNAUDITED
+THREE MONTHS ENDED
+NINE MONTHS ENDED
+DECEMBER 31,
+DECEMBER 31,
+2022
+2021
+2022
+2021
+Net Sales
+$ 111,860,093     $ 51,655,943     $ 423,355,592     $ 210,143,277
+Costs and expenses:
+Costs of products sold
+105,730,259       55,259,964       393,875,438       166,722,381
+Selling, general and administrative
+4,700,850       1,994,242       15,661,476       10,634,407
+110,431,109       57,254,206       409,536,914       177,356,788
+EARNINGS (LOSS) FROM OPERATIONS
+1,428,984       ( 5,598,263 )     13,818,678       32,786,489
+Interest expense     ( 447,551 )     ( 58,385 )     ( 1,498,147 )     ( 153,891 )
+Other income (loss), net
+826,039       1,727,134       7,349,916       ( 4,801,121 )
+EARNINGS (LOSS) BEFORE INCOME TAXES
+1,807,472       ( 3,929,514 )     19,670,447       27,831,477
+Provision for (benefit from) income taxes:
+Current
+447,995       ( 855,309 )     4,686,413       6,639,198
+Deferred
+( 16,416 )     ( 112,372 )     ( 47,141 )     ( 335,299 )
+431,579       ( 967,681 )     4,639,272       6,303,899
+NET EARNINGS (LOSS)
+$ 1,375,893     $ ( 2,961,833 )   $ 15,031,175     $ 21,527,578
+Net earnings (loss) per share:
+Basic
+$ 0.19     $ ( 0.45 )   $ 2.06     $ 3.12
+Diluted
+$ 0.19     $ ( 0.45 )   $ 2.06     $ 3.12
+Cash dividends declared per common share
+$ 0.02     $ 0.02     $ 0.06     $ 0.06
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME — UNAUDITED
+THREE MONTHS ENDED
+NINE MONTHS ENDED
+DECEMBER 31,
+DECEMBER 31,
+2022
+2021
+2022
+2021
+Net earnings (loss)
+$
+1,375,893
+$
+( 2,961,833
+)
+$
+15,031,175
+$
+21,527,578
+Other comprehensive income:
+Cash flow hedges, net of tax
+669,454
+13,795,418
+9,421,604
+4,329,266
+669,454
+13,795,418
+9,421,604
+4,329,266
+Comprehensive income
+$
+2,045,347
+$
+10,833,585
+$
+24,452,779
+$
+25,856,844
+The accompanying notes are an integral part of these financial statements.
+4
+Table of Contents
+FRIEDMAN INDUSTRIES, INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS — UNAUDITED
+NINE MONTHS ENDED DECEMBER 31,
+2022
+2021
+OPERATING ACTIVITIES
+Net earnings
+$ 15,031,175     $ 21,527,578
+Adjustments to reconcile net earnings to cash provided by (used in) operating activities:
+Depreciation
+1,879,445       994,209
+Deferred taxes
+( 47,141 )     ( 335,299 )
+Compensation expense for restricted stock
+224,481       375,935
+Change in postretirement benefits
+8,237       6,559
+Gain recognized on open derivatives not designated for hedge accounting
+( 1,353,520 )     ( 1,238,320 )
+Deferred realized gain (loss) on derivatives
+3,155,821       ( 3,393,260 )
+Forgiveness of Paycheck Protection Program Loan
+—       ( 1,706,614 )
+Decrease (increase) in operating assets, net of amounts acquired in business combination:
+Accounts receivable
+( 7,402,263 )     ( 5,865,531 )
+Inventories
+47,658,608       ( 48,538,400 )
+Federal income taxes recoverable
+1,403,485       —
+Other current assets
+426,712       ( 667,196 )
+Increase (decrease) in operating liabilities, net of amounts acquired in business combination:
+Accounts payable and accrued expenses
+( 20,790,614 )     17,415,657
+Income taxes payable
+2,631,006       ( 206,842 )
+Contribution to retirement plan
+100,000       150,000
+Employee compensation and related expenses
+1,173,147       ( 1,455,785 )
+NET CASH PROVIDED BY (USED IN) OPERATING ACTIVITIES
+44,098,579       ( 22,937,309 )
+INVESTING ACTIVITIES
+Plateplus business combination
+( 71,720,208 )     —
+Purchase of property, plant and equipment
+( 8,278,891 )     ( 7,350,081 )
+Proceeds on sale from assets
+—       160,542
+Increase in cash surrender value of officers’ life insurance
+( 10,389 )     ( 8,686 )
+NET CASH USED IN INVESTING ACTIVITIES
+( 80,009,488 )     ( 7,198,225 )
+FINANCING ACTIVITIES
+Debt issuance cost
+( 328,548 )     —
+Cash dividends paid
+( 442,186 )     ( 414,092 )
+Cash paid for principal portion of finance lease
+( 78,327 )     ( 76,831 )
+Cash paid for share repurchases
+( 36,572 )     ( 102,075 )
+Asset based lending facility proceeds
+26,074,510       15,187,824
+NET CASH PROVIDED BY FINANCING ACTIVITIES
+25,188,877       14,594,826
+DECREASE IN CASH AND RESTRICED CASH
+( 10,722,032 )     ( 15,540,708 )
+CASH AND RESTRICTED CASH AT BEGINNING OF PERIOD
+16,121,518       20,192,486
+CASH AND RESTRICTED CASH AT END OF PERIOD
+$ 5,399,486     $ 4,651,778
+Cash and restricted cash at December 31, 2022 and March 31, 2022 included $1,854,978 and $13,523,416, respectively, of cash required to collateralize open derivative positions. These amounts are reported in "Other current assets" on the Company's consolidated balance sheets at December 31, 2022 and March 31, 2022.  The Company had $1,585,350 in restricted cash at
+December 31, 2021 .
+The accompanying notes are an integral part of these financial statements.
+5
+Table of Contents
+FRIEDMAN INDUSTRIES, INCORPORATED
+CONDENSED NOTES TO QUARTERLY REPORT — UNAUDITED
+NOTE A — BASIS OF PRESENTATION
+The accompanying unaudited, condensed consolidated financial statements have been prepared in accordance with the instructions to Form
+10 -Q and do
+not
+include all of the information and footnotes required by U.S. generally accepted accounting principles for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. For further information, refer to the consolidated financial statements and footnotes of Friedman Industries, Incorporated (the “Company”) included in its annual report on Form
+10 -K for the year ended
+March 31, 2022 .
+Business Combinations
+The results of a business acquired in a business combination are included in the Company’s financial statements from the date of acquisition. The Company allocates the purchase price to the identifiable assets and liabilities of the acquired business at their acquisition date fair values. The excess of the purchase price over the amount allocated to the identifiable assets and liabilities, if any, is recorded as goodwill. Determining the fair value of assets acquired and liabilities assumed requires management to make significant judgments and estimates, including the selection of valuation methodologies, estimates of future revenue and cash flows, discount rates and selection of comparable companies. Acquisition-related transaction costs are expensed in the period in which the costs are incurred. Please refer to Note B for additional discussion of the acquisition completed by the Company during the quarter ended
+June 30, 2022.
+Reclassifications
+The unaudited condensed consolidated financial statements for the previous year
+may
+include certain reclassifications to conform to the current presentation. To conform with the current year presentation, “ Interest expense ” on the unaudited condensed consolidated statements of operations was moved below the calculation of " Earnings (Loss) From Operations ". This reclassification had
+no
+impact on previously reported net earnings or stockholder's equity.
+NOTE B — BUSINESS COMBINATIONS
+On
+April 30, 2022, ( the “Acquisition Date”), the Company acquired certain assets and liabilities of Plateplus, Inc. (“Plateplus”), a wholly owned subsidiary of Metal One, Inc. (“Metal One” or “Seller”), whereby the Company acquired the real estate, buildings, equipment, inventory, and other assets of Plateplus’ East Chicago, IN and Granite City, IL facilities and certain steel inventory at Plateplus’ Loudon, TN and Houston, TX facilities (the “Transaction”). The East Chicago and Granite City facilities are steel coil processing facilities that produce the same type of products as the Company's facilities in Hickman, AR; Decatur, AL and  Sinton, TX. As a result of the Transaction, the Company expanded its footprint and distribution capabilities in the mid-western United States.
+The Transaction resulted in the Company acquiring the assets noted above, for a total consideration of $ 76.5
+million, of which $ 71.7
+million was cash consideration and $ 4.8
+million related to
+516,041
+shares of the Company's common stock issued to the Seller. The fair value of the
+516,041
+shares issued was determined based on the closing market price of the Company’s common stock on
+April 29, 2022,
+the last trading day prior to the Acquisition Date. At the Acquisition Date, the Transaction was funded with net borrowings of $ 64.0
+million made under the Company's asset-based lending facility ("ABL Facility") provided by JPMorgan Chase Bank. An additional $ 7.9
+million was funded by the ABL Facility during the quarter ended
+September 30, 2022
+to pay the final net working capital adjustment.
+The Transaction was accounted for using the acquisition method of accounting, in accordance with Topic
+805,
+Business Combinations , whereby the consideration transferred and the acquired identifiable assets and liabilities assumed are recorded at their respective fair values. The excess of the consideration transferred over the fair values of these identifiable net assets is recorded as goodwill. The Transaction resulted in
+no
+residual goodwill. The estimated fair values of assets acquired and liabilities assumed are provisional and are based on the information that was available as of the Acquisition Date to estimate the fair value of assets acquired and liabilities assumed. Therefore, the provisional measurements of fair value reflected are subject to change and such changes could be significant. The Company expects to finalize its fair value estimates as soon as practicable but
+no
+later than
+one
+year from the Acquisition Date.
+Fair value of assets acquired and liabilities assumed
+Inventory
+$ 77,546,000
+Property, plant and equipment
+18,022,000
+Operating lease right-of-use asset     1,237,097
+Accounts payable
+( 19,065,000 )
+Operating lease liability     ( 1,237,097 )
+Total
+$ 76,503,000
+The following unaudited pro forma consolidated operating results give effect to the Transaction as if it had been completed as of
+April 1, 2021.
+These pro forma amounts are
+not
+necessarily indicative of the operating results that would have occurred if the Transaction had occurred on such date. The pro forma adjustments are based on certain assumptions that we believe are reasonable.
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Net sales
+$ 111,860,093     $ 122,495,733     $ 442,756,025     $ 391,652,365
+Earnings (loss) from operations
+$ 981,433     $ ( 20,068,874 )   $ 12,291,240     $ 14,918,837
+Our consolidated statements of operations for the
+three
+month and
+nine
+month periods ended
+December 31, 2022,
+include net sales of approximately $ 52.0
+million and $ 175.0
+million, respectively, and earnings from operations of approximately $ 4.6
+million and $ 10.3
+million, respectively, attributable to the East Chicago and Granite City facilities acquired from Plateplus. At the Acquisition Date, the Company acquired the inventory on hand at Plateplus' Houston and Loudon facilities and also assumed inventory on order related to these locations. Plateplus provided toll processing services for this material for a period of time following the Acquisition Date with these services having concluded by
+August 31, 2022
+resulting in
+no
+impact to sales and earnings from operations for the
+three
+months ended
+December 31, 2022.
+In addition to the East Chicago and Granite City sales and earnings from operations, our consolidated statement of operations for the
+nine
+month period ended
+December 31, 2022,
+include net sales of approximately $ 43.4
+million and earnings from operations of approximately $ 300,000
+attributable to sales of inventory from Houston and Loudon where the fixed assets were
+not
+acquired. The Company did
+not
+have any transaction specific costs during the
+three
+months ended
+December 31, 2022.
+For the
+nine
+months ended
+December 31, 2022,
+the Company recorded transaction specific costs of approximately $ 1.2
+million as a component of "Selling, general and administrative" expenses on the Condensed Consolidated Statements of Operations. Information about the debt issuance costs associated with the acquisition financing is provided in Note D.
+6
+Table of Contents
+NOTE C — INVENTORIES
+Inventories consist of prime coil, non-standard coil and tubular materials. Prime coil inventory consists primarily of raw materials, non-standard coil inventory consists primarily of raw materials and tubular inventory consists of both raw materials and finished goods. Cost for prime coil inventory is determined using the average cost method. Cost for non-standard coil inventory is determined using the specific identification method. Cost for tubular inventory is determined using the average cost method. All inventories are valued at the lower of cost or net realizable value.
+A summary of inventory values by product group follows:
+December 31, 2022
+March 31, 2022
+Prime Coil Inventory
+$ 89,007,944     $ 50,482,022
+Non-Standard Coil Inventory
+295,925       1,063,374
+Tubular Raw Material
+4,542,470       9,049,598
+Tubular Finished Goods
+3,987,764       7,351,128
+$ 97,834,103     $ 67,946,122
+Tubular raw material inventory consists of hot-rolled steel coils that the Company will manufacture into pipe. Tubular finished goods inventory consists of pipe the Company has manufactured.
+NOTE D – DEBT
+On
+June  22,
+2021,
+the Small Business Administration authorized full forgiveness of the Company's Paycheck Protection Program loan. The gain of $ 1,706,614
+from this extinguishment of debt included both principal and interest and is recorded as a component of "Other income (loss), net" on the Company's Condensed Consolidated Statement of Operations for the
+nine
+months ended
+December 31, 2021.
+On
+March 8, 2021,
+the Company entered into a Credit Agreement providing for a $ 10
+million revolving line of credit facility (the "Interim Credit Facility) with JPMorgan Chase Bank, N.A. (the "Bank"). The Interim Credit Facility had an expiration date of
+July 15, 2021
+because the Company was evaluating options for longer term credit arrangements. On
+April 12, 2021,
+the Company executed a
+first
+amendment to the Interim Credit Facility that increased the size of the facility from
+$10
+million to $ 20
+million. On
+May 19, 2021,
+the Company entered into an Amended and Restated Credit Agreement ("ABL Facility") with the Bank that amended and restated the Interim Credit Facility and provided for asset-based revolving loans in an aggregate principal amount up to $ 40
+million. On
+March 11, 2022,
+the Company executed a
+first
+amendment to the ABL Facility which increased the size of the facility from $ 40
+million to $ 75
+million. On
+April 29, 2022,
+the Company entered into a Second Amendment to the ABL Facility. The Second Amendment increased the revolving loans available under the ABL facility from an aggregate principal amount of up to $ 75
+million to an aggregate principal amount of up to $ 150
+million. On
+July 6, 2022,
+the Company entered into a Third Amendment to the ABL Facility. The Third Amendment to the ABL Facility provided for the syndication of the asset-based revolving loans available thereunder with BMO Harris Bank, N.A. ("BMO") with JPMorgan Chase Bank serving as the arranging agent (the "Agent"). The Third Amendment also amended provisions of the ABL Facility authorizing the Agent to make protective advances under the ABL Facility and added a covenant requiring each of the Company and its subsidiaries to maintain the Agent as its principal depository bank. In connection with the Third Amendment, the Company also entered into a Revolving Note payable to BMO in a principal amount of up to $ 50
+million establishing BMO as a
+one - third  syndicated participant in the Company's ABL facility. The ABL Facility matures on
+May 19, 2026
+and is secured by substantially all of the assets of the Company. The Company can elect borrowings on a floating rate basis or a term basis. Floating rate borrowings accrue interest at a rate equal to the prime rate minus
+1 % per annum. Term rate borrowings accrue interest at a rate equal to the SOFR rate applicable to the selected term plus
+1.8 % per annum. Availability of funds under the ABL Facility is subject to a borrowing base calculation determined as the sum of (a)
+90 % of eligible accounts receivable, plus (b) the product of
+85 % multiplied by the net orderly liquidating value percentage identified in the most recent inventory appraisal multiplied by eligible inventory. The ABL Facility contains a springing financial covenant whereby the financial covenant is only tested when availability falls below the greater of
+15 % of the revolving commitment or $ 22.5
+million. The financial covenant restricts the Company from allowing its fixed charge coverage ratio to be, as of the end of any calendar month, less than
+1.10
+to
+1.00
+for the trailing
+twelve -month period then ending. The fixed charge coverage ratio is calculated as the ratio of (a) EBITDA, as defined in the ABL Facility, minus unfinanced capital expenditures to (b) cash interest expense plus scheduled principal payments on indebtedness plus taxes paid in cash plus restricted payments paid in cash plus capital lease obligation payments plus cash contributions to any employee pension benefit plans. The ABL Facility contains other representations and warranties and affirmative and negative covenants that are usual and customary. If certain conditions precedent are satisfied, the ABL facility
+may
+be increased by up to an aggregate of $ 25
+million, in minimum increments of $ 5
+million. At
+December 31, 2022 , the Company had a balance of $ 44,510,967  under the ABL Facility with an applicable interest rate of  6.5 %. At
+December 31, 2022 , the Company's applicable borrowing base calculation supported access to $ 99
+million of the ABL Facility.
+The Company incurred debt issuance costs of $ 239,887
+in connection with the Second Amendment to the ABL Facility and $ 154,000
+in connection with the Third Amendment to the ABL Facility. The Company recorded these debt issuance costs as non-current other assets and will amortize these costs on an equal monthly basis over the remaining term of the ABL facility.
+7
+Table of Contents
+NOTE E — LEASES
+The Company was assigned an operating lease associated with the real property and leasehold improvements for the Granite City, IL facility acquired from Plateplus pursuant to the Transaction disclosed in Note B. The current lease expires
+August 31, 2023
+but contains a
+20
+year extension option in favor of the Company which the Company expects to exercise. The lease calls for quarterly rental payments of $ 18,832 . The Company recognized an initial right-of-use ("ROU") asset and lease liability of $ 1,237,097  during the
+June 30, 2022
+quarter related to this lease. The anticipated
+20
+year extension of this lease is included in the ROU asset and lease liability calculation. The Company’s lease of its office space in Longview, Texas is the only other operating lease included in the Company's ROU assets and lease liabilities. The lease calls for monthly rent payments of $ 4,878
+and expires on
+April 30, 2024.
+The Company’s other operating leases for items such as IT equipment and storage space are either short-term in nature or immaterial.
+In
+October 2019,
+the Company received a new heavy-duty forklift under a
+5 -year finance lease arrangement with a financed amount of $ 518,616
+and a monthly payment of $ 9,074 .
+The components of expense related to leases for the
+three
+and
+nine
+months ended
+December 31, 2022  and
+2021
+are as follows:
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Finance lease – amortization of ROU asset
+$ 26,235     $ 25,734     $ 78,327     $ 76,831
+Finance lease – interest on lease liability
+988       1,489       3,342       4,838
+Operating lease expense
+33,466       14,634       94,120       43,902
+$ 60,689     $ 41,857     $ 175,789     $ 125,571
+The following table illustrates the balance sheet classification for ROU assets and lease liabilities as of
+December 31, 2022  and
+March 31, 2022 :
+December 31, 2022
+March 31, 2022
+Balance Sheet Classification
+Assets
+Operating lease right-of-use asset
+$ 1,281,996     $ 113,168
+Operating lease right-of-use asset
+Finance lease right-of-use asset
+436,499       455,948
+Property, plant & equipment
+Total right-of-use assets
+$ 1,718,495     $ 569,116
+Liabilities
+Operating lease liability, current
+$ 100,744     $ 52,270
+Accrued expenses
+Finance lease liability, current
+106,214       104,689
+Current portion of finance lease
+Operating lease liability, non-current
+1,193,415       60,898
+Other non-current liabilities
+Finance lease liability, non-current
+81,016       160,869
+Other non-current liabilities
+Total lease liabilities
+$ 1,481,389     $ 378,726
+As of
+December 31, 2022 , the weighted-average remaining lease term was
+19.6  years for operating leases and
+1.7  years for finance leases. The weighted average discount rate was
+2.7 % for operating leases and
+1.9 % for finance leases.
+Maturities of lease liabilities as of
+December 31, 2022
+were as follows:
+Operating Leases
+Finance Leases
+Fiscal 2023 (remainder of fiscal year)
+33,466       27,223
+Fiscal 2024
+133,863       108,892
+Fiscal 2025
+80,205       54,446
+Fiscal 2026
+75,327       —
+Fiscal 2027 and beyond
+1,311,941       —
+Total undiscounted lease payments
+$ 1,634,802     $ 190,561
+Less: imputed interest
+( 340,643 )     ( 3,331 )
+Present value of lease liability
+$ 1,294,159     $ 187,230
+8
+Table of Contents
+NOTE F — PROPERTY, PLANT AND EQUIPMENT
+On
+May 25, 2021,
+the Company announced plans for a new facility in Sinton, Texas that would be part of the coil product segment. The new facility is on the campus of Steel Dynamics, Inc.'s ("SDI") new flat roll steel mill in Sinton, Texas. The Company's new location consists of an approximately
+70,000
+square foot building located on approximately
+26.5  acres leased from SDI under a
+99 -year agreement with an annual rental payment of
+$1.  The facility is equipped with a stretcher leveler cut-to-length line that is capable of handling material up to
+1”
+thick, widths up to
+96”
+and yields exceeding
+100,000
+psi. The Company put the facility into service at the end of
+October 2022  and estimates the total cost of the project to be approximat ely $ 22.3  million. At
+December 31, 2022 , the Company had paid approximately $ 14,826,000  related to the project and accrued approximately $ 7,448,000  to be paid during the
+three
+months ending
+March 31, 2023.
+NOTE G — STOCK BASED COMPENSATION
+The Company maintains the Friedman Industries, Incorporated
+2016
+Restricted Stock Plan (the “Plan”). The Plan is administered by the Compensation Committee (the “Committee”) of the Board of Directors (the “Board”) and continues indefinitely until terminated by the Board or until all shares allowed by the Plan have been awarded and earned. The aggregate number of shares of the Company’s Common Stock eligible for award under the Plan is
+500,000
+shares. Subject to the terms and provisions of the Plan, the Committee
+may,
+from time to time, select the employees, directors or consultants to whom awards will be granted and shall determine the amount and applicable restrictions of each award. Restricted awards entitle recipients to vote and receive non-forfeitable dividends during the restriction period. Because dividends are non-forfeitable, they are reflected in retained earnings. Forfeitures are accounted for upon their occurrence. Because the Company accounts for forfeitures as they occur, the non-forfeitable dividends are reclassified from retained earnings to additional stock compensation for the actual forfeitures that occurred.
+The following table summarizes the activity related to restricted stock units ("RSUs") for the
+nine
+months ended
+December 31, 2022 :
+Weighted Average
+Number of Shares
+Grant Date Fair Value Per Share
+Unvested at March 31, 2022
+139,523     $ 5.96
+Cancelled or forfeited
+—       —
+Granted
+7,700       9.10
+Vested
+( 46,857 )     7.65
+Unvested at December 31, 2022
+100,366     $ 5.41
+The Company measures compensation expense for RSUs at the market price of the common stock as of the grant date. Compensation expense is recognized over the requisite service period applicable to each award. The Company recorded compensation expen se of $ 224,481  and $ 375,935  in the
+nine
+months ended
+December 31, 2022
+and
+2021 , respectively, relating to the RSUs issued under the Plan. As of
+December 31, 2022 , unrecognized compensation expense related to unvested RSUs was appr oximately $ 391,000 , which is expected to be recognized over a weighted average period of approximately
+1.5  ye ars. As of
+December 31, 2022 , a total of
+122,485  shares were still available to be issued under the Plan.
+NOTE H — DERIVATIVE FINANCIAL INSTRUMENTS
+From time to time, we expect to use derivative financial instruments to minimize our exposure to commodity price risk that is inherent in our business. At the time derivative contracts are entered into, we assess whether the nature of the instrument qualifies for hedge accounting treatment according to the requirements of ASC
+815
+– Derivatives and Hedging (“ASC
+815” ). By using derivatives, the Company is exposed to credit and market risk. The Company’s exposure to credit risk includes the counterparty’s failure to fulfill its performance obligations under the terms of the derivative contract. The Company attempts to minimize its credit risk by entering into transactions with high quality counterparties and uses exchange-traded derivatives when available. Market risk is the risk that the value of the financial instrument might be adversely affected by a change in commodity prices. The Company manages market risk by continually monitoring exposure within its risk management strategy and portfolio. For those transactions designated as hedging instruments for accounting purposes, we document all relationships between hedging instruments and hedged items, as well as our risk-management objective and strategy for undertaking the various hedge transactions. We also assess, both at the hedge’s inception and on an ongoing basis, whether the derivatives used in hedging transactions are highly effective in offsetting changes in cash flows or fair value of hedged items.
+From time to time, derivatives designated for hedge accounting
+may
+be closed prior to contract expiration. The accounting treatment of closed positions depends on whether the closure occurred due to the hedged transaction occurring early or if the hedged transaction is still expected to occur as originally forecasted. For hedged transactions that occur early, the closure results in the realized gain or loss from closure being recognized in the same period the accelerated hedged transaction affects earnings. For hedged transactions that are still expected to occur as originally forecasted, the closure results in the realized gain or loss being deferred until the hedged transaction affects earnings.
+If it is determined that hedged transactions associated with cash flow hedges are
+no
+longer probable of occurring, the gain or loss associated with the instrument is recognized immediately into earnings.
+From time to time, we
+may
+have derivative financial instruments for which we do
+not
+elect hedge accounting.
+The Company has forward physical purchase supply agreements in place with some of its suppliers for a portion of its monthly physical steel needs. These supply agreements are  not
+subject to mark-to-market accounting due to the Company electing the normal purchase normal sale exclusion provided in ASC
+815.
+9
+Table of Contents
+At
+December 31, 2022  and
+March 31, 2022 , the Company held hot-rolled coil futures contracts which were designated as hedging instruments and classified as cash flow hedges, either as hedges of variable purchase prices or as hedges of variable sales prices. Accordingly, realized and unrealized gains and losses associated with the instruments are reported as a component of other comprehensive income and reclassified into earnings during the period in which the hedged transaction affects earnings.  During the
+three
+and
+nine
+months ended
+December 31, 2022 , the Company also entered into hot-rolled coil futures contracts that were
+not
+designated as hedging instruments for accounting purposes. Accordingly, the change in fair value related to these instruments was immediately recognized in earnings.
+The following table summarizes the fair value of the Company’s derivative financial instruments and the respective line in which they were recorded in the Consolidated Balance Sheet as of
+December 31, 2022 :
+Asset Derivatives
+Liability Derivatives
+Balance Sheet
+Balance Sheet
+Derivatives designated as cash flow hedges:
+Location
+Fair Value
+Location
+Fair Value
+Hot-rolled coil steel contracts hedging sales
+Current portion of derivative assets
+$ 22,100
+Derivatives not designated as hedging instruments:
+Hot-rolled coil steel contracts
+Current portion of derivative assets
+$ 786,720
+Current portion of derivative liability
+$ 649,700
+The following table summarizes the fair value of the Company’s derivative financial instruments and the respective line in which they were recorded in the Consolidated Balance Sheet as of
+March 31, 2022 :
+Asset Derivatives
+Liability Derivatives
+Balance Sheet
+Balance Sheet
+Derivatives designated as cash flow hedges:
+Location
+Fair Value
+Location
+Fair Value
+Hot-rolled coil steel contracts hedging sales
+Current portion of derivative liability
+$ 8,905,500
+Derivatives not designated as hedging instruments:
+Hot-rolled coil steel contracts
+Current portion of derivative assets
+$ 4,240,740
+Current portion of derivative liability
+$ 5,524,020
+All derivatives are presented on a gross basis on the Consolidated Balance Sheets.
+At
+March 31, 2022 , the Company reported $ 933,200
+in "Other current assets" on its Consolidated Balance Sheet related to futures contracts which were closed but were pending cash settlement. At
+December 31, 2022 , the Company did
+not
+have any closed futures contracts pending cash settlement.
+The notional amount (quantity) of our cash flow hedges outstanding at
+December 31, 2022  consisted of
+2,080
+tons hedging sales with maturity dates ranging from
+February 2023
+to
+March 2023.
+The following table summarizes the pre-tax gain (loss) recognized in other comprehensive income and the gain (loss) reclassified from accumulated other comprehensive loss into earnings for derivative financial instruments designated as cash flow hedges for the periods presented:
+Pre-Tax Gain (Loss)
+Location of Gain (Loss) Reclassified
+Pre- Tax Gain (Loss) Reclassified from
+Recognized in OCI
+from AOCI into Net Earnings
+AOCI into Net Earnings
+For the three months ended December 31, 2022:
+Hot-rolled coil steel contracts
+$ 22,100
+Sales
+$ ( 860,620 )
+Total
+$ 22,100       $ ( 860,620 )
+For the three months ended December 31, 2021:
+Hot-rolled coil steel contracts
+$ 3,473,300
+Sales
+$ ( 14,766,060 )
+Hot-rolled coil steel contracts
+Costs of goods sold
+49,200
+Total
+$ 3,473,300       $ ( 14,716,860 )
+For the nine months ended December 31, 2022:
+Hot-rolled coil steel contracts
+$ 9,445,840
+Sales
+$ ( 2,977,160 )
+Total
+$ 9,445,840       $ ( 2,977,160 )
+For the nine months ended December 31, 2021:
+Hot-rolled coil steel contracts
+$ ( 6,609,540 )
+Sales
+$ ( 22,950,860 )
+Hot-rolled coil steel contracts
+Costs of goods sold
+10,632,900
+Total
+$ ( 6,609,540 )     $ ( 12,317,960 )
+The estimated amount of net
+losses  recognized in AOCI
+at
+December 31, 2022  expected to be reclassified into net earnings (loss) within the succeeding
+twelve
+months is
+$ 1,116,700 . This amount consists of $ 1,138,800
+in realized losses associated with closed hedges and $ 22,100
+in unrealized gains associated with open hedges that was computed using the fair value of the cash flow hedges as of
+December 31, 2022
+and is subject to change before actual reclassification from AOCI to net earnings (loss) .
+10
+Table of Contents
+The following table summarizes the
+gains
+recognized in earnings for derivative instruments
+not
+designated as hedging instruments during the  three
+and
+nine
+months ended
+December 31, 2022 :
+Gain Recognized in Earnings
+Location of Gain
+for the Three Months Ended
+Recognized in Earnings
+December 31, 2022
+Hot-rolled coil steel contracts
+Other income (loss), net
+$ 822,200
+Gain Recognized in Earnings
+Location of Gain
+for the Nine Months Ended
+Recognized in Earnings
+December 31, 2022
+Hot-rolled coil steel contracts
+Other income (loss), net
+$ 7,325,860
+The following table summarizes the losses recognized in earnings for derivative instruments
+not
+designated as hedging instruments during the
+three
+and
+nine
+months ended
+December 31, 2021:
+Gain Recognized in Earnings
+Location of Gain
+for the Three Months Ended
+Recognized in Earnings
+December 31, 2021
+Hot-rolled coil steel contracts
+Other income (loss), net
+$ 1,721,700
+Loss Recognized in Earnings
+Location of Loss
+for the Nine Months Ended
+Recognized in Earnings
+December 31, 2021
+Hot-rolled coil steel contracts
+Other income (loss), net
+$ (6,498,040 )
+The notional amount (quantity) of our derivative instruments
+not
+designated as hedging instruments at
+December 31, 2022
+consisted of
+35,040
+tons of short positions with maturity dates ranging from
+January 2023
+to
+December 2023.
+The following table reflects the change in accumulated other comprehensive income (loss), net of tax, for
+the periods presented :
+Gain (Loss) on
+Derivatives
+Balance at March 31, 2022
+$ ( 10,268,509 )
+Other comprehensive income, net of loss, before reclassification
+7,163,726
+Total loss reclassified from AOCI (1)
+2,257,878
+Net current period other comprehensive income
+9,421,604
+Balance at December 31, 2022
+$ ( 846,905 )
+( 1 ) The loss reclassified from
+AOCI is presented net of tax
+benefit s of $ 719,282   which are included in the provision for (benefit from) income taxes on the Company's Consolidated Statement of Operations for
+the
+nine
+months ended
+December 31, 2022.
+Gain (Loss) on
+Derivatives
+Balance at March 31, 2021
+$ ( 11,187,841 )
+Other comprehensive loss, net of income, before reclassification
+( 5,012,675 )
+Total loss reclassified from AOCI (1)
+9,341,941
+Net current period other comprehensive income
+4,329,266
+Balance at December 31, 2021
+$ ( 6,858,575 )
+( 1 ) The loss reclassified from AOCI is presented net of tax benefits of $ 2,976,019
+which are included in the provision for (benefit from) income taxes on the Company's Consolidated Statement of Operations for the
+nine
+months ended
+December 31, 2021.
+At
+December 31, 2022  and
+March 31, 2022 , cash of $ 1,854,978  and $ 13,523,416 , respectively, was held by our clearing agent to collateralize our open derivative positions. These cash  requirements are included in "Other current assets" on the Company's Consolidated Balance Sheets at
+December 31, 2022  and
+March 31, 2022 .
+11
+Table of Contents
+NOTE I — FAIR VALUE MEASUREMENTS
+Accounting standards provide a comprehensive framework for measuring fair value and sets forth a definition of fair value and establishes a hierarchy prioritizing the inputs to valuation techniques, giving the highest priority to quoted prices in active markets for identical assets and liabilities and the lowest priority to unobservable value inputs. Levels within the hierarchy are defined as follows:
+●
+Level
+1
+– Quoted prices for identical assets and liabilities in active markets.
+●
+Level
+2
+– Inputs other than quoted prices included within Level
+1
+that are observable for the assets and liabilities, either directly or indirectly.
+●
+Level
+3
+– Unobservable inputs that are supported by little or
+no
+market activity and that are significant to the fair value of the assets and liabilities.
+Recurring Fair Value Measurements
+At
+December 31, 2022 , our financial assets, net, measured at fair value on a recurring basis were as follows:
+Quoted Prices
+in Active
+Significant
+Markets for
+Other
+Significant
+Identical
+Observable
+Unobservable
+Assets
+Inputs
+Inputs
+(Level 1)
+(Level 2)
+(Level 3)
+Total
+Commodity futures – financial assets, net
+$ 159,120     $ —     $ —     $ 159,120
+Total
+$ 159,120     $ —     $ —     $ 159,120
+At
+March 31, 2022 , our financial liabilities, net, measured at fair value on a recurring basis were as follows:
+Quoted Prices
+in Active
+Significant
+Markets for
+Other
+Significant
+Identical
+Observable
+Unobservable
+Assets
+Inputs
+Inputs
+(Level 1)
+(Level 2)
+(Level 3)
+Total
+Commodity futures – financial liabilities, net
+$ ( 10,188,780 )   $ —     $ —     $ ( 10,188,780 )
+Total
+$ ( 10,188,780 )   $ —     $ —     $ ( 10,188,780 )
+At
+December 31, 2022  and
+March 31, 2022 , the Company did
+not
+have any fair value measurements on a non-recurring basis.
+12
+Table of Contents
+NOTE J — SEGMENT INFORMATION (in thousands)
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Net sales
+Coil
+$ 100,231     $ 41,795     $ 372,830     $ 172,814
+Tubular
+11,629       9,861       50,526       37,329
+Total net sales
+$ 111,860     $ 51,656     $ 423,356     $ 210,143
+Operating profit (loss)
+Coil
+$ 3,259     $ ( 4,032 )   $ 15,684     $ 33,497
+Tubular
+692       ( 647 )     6,136       3,951
+Total operating profit (loss)
+3,951       ( 4,679 )     21,820       37,448
+General corporate expenses
+2,522       920       8,002       4,662
+Interest expense
+448       58       1,498       154
+Other income (loss), net
+826       1,727       7,350       ( 4,801 )
+Total earnings (loss) before income taxes
+$ 1,807     $ ( 3,930 )   $ 19,670     $ 27,831
+December 31, 2022
+March 31, 2022
+Segment assets
+Coil
+$ 185,210     $ 115,232
+Tubular
+12,651       24,017
+197,861       139,249
+Corporate assets
+6,022       20,026
+$ 203,883     $ 159,275
+Operating profit is total net sales less operating expenses, excluding general corporate expenses, interest expense and other income (loss). General corporate expenses reflect general and administrative expenses
+not
+directly associated with segment operations and consist primarily of corporate and accounting salaries, professional fees and services, bad debts, retirement plan contribution expense, corporate insurance expenses, restricted stock plan compensation expense and office supplies. Other income (loss) for the
+three
+and
+nine
+month periods ended
+December 31, 2022
+consisted primarily of gains related to derivatives
+not
+designated for hedge accounting of $ 822,200
+and $ 7,325,860 , respectively. Other income (loss) for the
+three
+months ended
+December 31, 2021
+consisted primarily of a $ 1,721,700
+gain related to derivatives
+not
+designated for hedge accounting. Other income (loss) for the
+nine
+months ended
+December 31, 2021
+consisted primarily of a $ 6,498,040
+loss related to derivatives
+not
+designated for hedge accounting partially offset by a $ 1,706,614
+gain from the PPP Loan forgiveness. Corporate assets consist primarily of cash, restricted cash and the cash value of officers’ life insurance. Although inventory is transferred at cost between product groups, there are
+no
+sales between product groups.
+13
+Table of Contents
+NOTE K — REVENUE
+Revenue is generated primarily from contracts to manufacture or process steel products. Most of the Company’s revenue is generated by sales of material out of the Company’s inventory, but a portion of the Company’s revenue is derived from processing or storage of customer owned material. Generally, the Company’s performance obligations are satisfied, control of our products is transferred, and revenue is recognized at a single point in time, when title transfers to our customer for product shipped or when services are provided. Revenues are recorded net of any sales incentives. Shipping and other transportation costs charged to customers are treated as fulfillment activities and are recorded in both revenue and cost of sales at the time control is transferred to the customer. Costs related to obtaining sales contracts are incidental and expensed when incurred. Because customers are invoiced at the time title transfers and the Company’s rights to consideration are unconditional at that time, the Company does
+not
+maintain contract asset balances. Additionally, the Company does
+not
+maintain contract liability balances, as performance obligations are satisfied prior to customer payment for product. The Company offers industry standard payment terms.
+The Company has
+two
+reportable segments: Coil and Tubular. Coil primarily generates revenue from cutting to length hot-rolled steel coils. Coil segment revenue consists of
+three
+main product types: Prime Coil, Non-Standard Coil and Customer Owned Coil. Tubular primarily generates revenue from manufacturing and distributing steel pipe. Tubular segment revenue has consisted of
+two
+main product types: Manufactured Pipe and Mill Reject Pipe.
+In
+March 2020,
+U.S. Steel announced the idling of their Lone Star Tubular Operations which was the Company's sole supplier of mill reject pipe. U.S. Steel's facility was idled as announced and the Company's receipts of mill reject pipe ceased in
+August 2020.  At
+June 30, 2022 , the Company was sold out of mill reject pipe so manufactured pipe was the sole revenue stream for the tubular segment for the
+three
+months ended
+December 31, 2022.
+The Company has expanded its focus on manufactured pipe sales to counteract the impact of mill reject pipe revenue concluding.
+The following table disaggregates our revenue by product for each of our reportable business segments for the
+three
+and
+nine
+months ended
+December 31, 2022
+and
+2021 , respectively:
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Coil Segment:
+Prime Coil
+$ 99,100,019     $ 39,588,438     $ 368,583,106     $ 164,096,180
+Non-standard Coil
+796,112       1,852,272       3,219,043       7,704,262
+Customer Owned Coil
+334,870       354,876       1,028,037       1,013,801
+$ 100,231,001     $ 41,795,586     $ 372,830,186     $ 172,814,243
+Tubular Segment:
+Manufactured Pipe
+$ 11,629,092     $ 6,906,450     $ 50,071,386     $ 27,889,886
+Mill Reject Pipe
+—       2,953,907       454,020       9,439,148
+$ 11,629,092     $ 9,860,357     $ 50,525,406     $ 37,329,034
+NOTE L — STOCKHOLDERS’ EQUITY
+The following tables reflect the changes in stockholders’ equity for each of the
+nine
+months ended
+December 31, 2022  and
+December 31, 2021 :
+Accumulated
+Other
+Comprehensive
+Additional
+Common
+Income,
+Paid-In
+Treasury
+Retained
+Stock
+Net of Tax
+Capital
+Stock
+Earnings
+Total
+BALANCE AT MARCH 31, 2022
+$ 8,344,975     $ ( 10,268,509 )   $ 30,442,361     $ ( 7,741,197 )   $ 58,909,018     $ 79,686,648
+Net earnings
+—       —       —       —       11,184,374       11,184,374
+Other comprehensive income
+—       7,174,117       —       —       —       7,174,117
+Paid in capital – restricted stock awards
+—       —       73,153       —       —       73,153
+Shares issued – Plateplus business combination
+516,041       —       4,267,659       —       —       4,783,700
+Repurchase of shares
+—       —       —       ( 29,268 )     —       ( 29,268 )
+Cash dividends ($ 0.02
+per share)
+—       —       —       —       ( 157,694 )     ( 157,694 )
+BALANCE AT JUNE 30, 2022
+$ 8,861,016     $ ( 3,094,392 )   $ 34,783,173     $ ( 7,770,465 )   $ 69,935,698     $ 102,715,030
+Net earnings
+—       —       —       —       2,470,908       2,470,908
+Other comprehensive income
+—       1,578,033       —       —       —       1,578,033
+Paid in capital – restricted stock awards
+—       —       73,153       —       —       73,153
+Cash dividends ($ 0.02
+per share)
+—       —       —       —       ( 147,372 )     ( 147,372 )
+BALANCE AT SEPTEMBER 30, 2022
+$ 8,861,016     $ ( 1,516,359 )   $ 34,856,326     $ ( 7,770,465 )   $ 72,259,234     $ 106,689,752
+Net earnings
+—       —       —       —       1,375,893       1,375,893
+Other comprehensive income
+—       669,454       —       —       —       669,454
+Issuance of restricted stock
+7,700       —       ( 7,700 )     —       —       —
+Paid in capital – restricted stock awards
+—       —       78,175       —       —       78,175
+Repurchase of shares
+—       —       —       ( 7,304 )     —       ( 7,304 )
+Cash dividends ($ 0.02
+per share)
+—       —       —       —       ( 147,512 )     ( 147,512 )
+BALANCE AT DECEMBER 31, 2022
+$ 8,868,716     $ ( 846,905 )   $ 34,926,801     $ ( 7,777,769 )   $ 73,487,615     $ 108,658,458
+14
+Table of Contents
+Accumulated
+Other
+Comprehensive
+Additional
+Common
+Income,
+Paid-In
+Treasury
+Retained
+Stock
+Net of Tax
+Capital
+Stock
+Earnings
+Total
+BALANCE AT MARCH 31, 2021
+$ 8,334,785     $ ( 11,187,841 )   $ 30,003,462     $ ( 7,203,342 )   $ 45,392,912     $ 65,339,976
+Net earnings
+—       —       —       —       11,311,797       11,311,797
+Other comprehensive loss
+—       ( 13,693,337 )     —       —       —       ( 13,693,337 )
+Paid in capital – restricted stock awards
+—       —       121,704       —       —       121,704
+Cash dividends ($ 0.02
+per share)
+—       —       —       —       ( 137,865 )     ( 137,865 )
+BALANCE AT JUNE 30, 2021
+$ 8,334,785     $ ( 24,881,178 )   $ 30,125,166     $ ( 7,203,342 )   $ 56,566,844     $ 62,942,275
+Net earnings
+—       —       —       —       13,177,614       13,177,614
+Other comprehensive income
+—       4,227,185       —       —       —       4,227,185
+Issuance of restricted stock
+6,000       —       ( 6,000 )     —       —       —
+Paid in capital – restricted stock awards
+—       —       126,037       —       —       126,037
+Cash dividends ($ 0.02
+per share)
+—       —       —       —       ( 138,110 )     ( 138,110 )
+BALANCE AT SEPTEMBER 30, 2021
+$ 8,340,785     $ ( 20,653,993 )   $ 30,245,203     $ ( 7,203,342 )   $ 69,606,348     $ 80,335,001
+Net loss
+—       —       —       —       ( 2,961,833 )     ( 2,961,833 )
+Other comprehensive income
+—       13,795,418       —       —       —       13,795,418
+Issuance of restricted stock
+4,190       —       ( 4,190 )     —       —       —
+Paid in capital – restricted stock awards
+—       —       128,194       —       —       128,194
+Repurchase of shares
+—       —       —       ( 102,075 )     —       ( 102,075 )
+Cash dividends ($ 0.02
+per share)
+—       —       —       —       ( 138,024 )     ( 138,024 )
+BALANCE AT DECEMBER 31, 2021
+$ 8,344,975     $ ( 6,858,575 )   $ 30,369,207     $ ( 7,305,417 )   $ 66,506,491     $ 91,056,681
+NOTE M — OTHER COMPREHENSIVE INCOME
+The following table summarizes the tax effects on each component of Other Comprehensive Income (Loss) for the periods presented:
+Three Months Ended December 31, 2022
+Before-Tax
+Tax
+Net-of-Tax
+Cash flow hedges
+$ 882,720     $ ( 213,266 )   $ 669,454
+Other comprehensive income (loss)
+$ 882,720     $ ( 213,266 )   $ 669,454
+Three Months Ended December 31, 2021
+Before-Tax
+Tax
+Net-of-Tax
+Cash flow hedges
+$ 18,190,160     $ ( 4,394,742 )   $ 13,795,418
+Other comprehensive income (loss)
+$ 18,190,160     $ ( 4,394,742 )   $ 13,795,418
+Nine Months Ended December 31, 2022
+Before-Tax
+Tax
+Net-of-Tax
+Cash flow hedges
+$ 12,423,000     $ ( 3,001,396 )   $ 9,421,604
+Other comprehensive income (loss)
+$ 12,423,000     $ ( 3,001,396 )   $ 9,421,604
+Nine Months Ended December 31, 2021
+Before-Tax
+Tax
+Net-of-Tax
+Cash flow hedges
+$ 5,708,420     $ ( 1,379,154 )   $ 4,329,266
+Other comprehensive income (loss)
+$ 5,708,420     $ ( 1,379,154 )   $ 4,329,266
+15
+Table of Contents
+NOTE N — EARNINGS PER SHARE
+Basic and dilutive net earnings per share is computed based on the following information:
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Numerator (basic and diluted)
+Net earnings (loss)
+$ 1,375,893     $ ( 2,961,833 )   $ 15,031,175     $ 21,527,578
+Less: Allocation to unvested restricted stock units
+18,656       5,992       240,482       966,761
+Net earnings (loss) attributable to common shareholders
+$ 1,357,237     $ ( 2,967,825 )   $ 14,790,693     $ 20,560,817
+Denominator (basic and diluted)
+Weighted average common shares outstanding
+7,275,212       6,610,204       7,196,452       6,593,343
+For the
+three
+and
+nine
+month periods ended
+December 31, 2022
+and
+2021,
+the Company allocated dividends and undistributed earnings to the unvested restricted stock units.
+As the restricted stock qualifies as participating securities, the following restricted stock units were
+not
+accounted in the computation of weighted average diluted common shares outstanding under the
+two -class method:
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Restricted Stock Units
+56,621       239,485       48,510       232,601
+NOTE O — SUPPLEMENTAL CASH FLOW INFORMATION
+The Company paid interest o f approximately $ 1,316,000  during the
+nine
+months ended
+December 31, 2022
+and $ 154,000  during the
+nine
+months ended
+December 31, 2021 . The Company paid income taxes of approximately $ 428,000   during the
+nine
+months ended
+December 31, 2022  and paid income taxes of approximately $ 7,487,000 , net of a tax refund of approximately $ 423,000 , during the  nine
+months ended
+December 31, 2021 . At
+December 31, 2022 , the “Machinery and equipment” balance on the Consolidated Balance Sheet includes non-cash investing activities of approximately $ 7,448,000  in accrued capital expenditures for the balance due related to the new Sinton, Texas facility. During the
+nine
+months ended
+December 31, 2022 , the Company issued
+516,041
+shares of common stock as part of the Plateplus business combination resulting in non-cash investing activity of $ 4,783,700 . During the
+three
+months ended
+December 31, 2022,
+there was a non-cash transaction of approximately $ 31,000
+for the transfer of ownership of a life insurance policy maintained by the Company with respect to an officer from the Company to such officer upon his retirement.
+NOTE P — INCOME TAXES
+For the
+nine
+months ended
+December 31, 2022 , the Company recorded an income tax provision of $ 4,639,272 , or
+23.6 % of earnings before income taxes, compared to an income tax provision of $ 6,303,899 , or
+22.7 % of earnings before income taxes for the
+nine
+months ended
+December 31, 2021 . For the  nine
+months ended
+December 31, 2022 , the effective tax rate differed from the federal statutory rate due primarily to the inclusion of state tax expenses in the provision. For the  nine
+months ended
+December 31, 2021 , the Company’s effective tax rate differed from the federal statutory rate due to a combination of the inclusion of state tax expenses in the provision and the exclusion of the non-taxable gain associated with forgiveness of the Company’s PPP Loan from the provision.
+16
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Overview
+Friedman Industries, Incorporated is a manufacturer and processor of steel products and operates in two reportable segments; coil products and tubular products.
+The coil product segment includes the operation of five hot-rolled coil processing facilities located in Hickman, AR; Decatur, AL; Granite City, IL; East Chicago, IN and Sinton, TX. The facilities in Granite City and East Chicago were acquired on April 30, 2022 from Plateplus, Inc ("Plateplus"). More information about the Plateplus transaction can be found in Note B to the Company's Financial Statements. The facility in Sinton is a newly constructed facility that commenced operations during October 2022. The Hickman, Granite City and East Chicago facilities operate temper mills and cut-to-length lines. The Decatur and Sinton facilities operate stretcher leveler cut-to-length lines. The equipment at all locations improves the flatness and surface quality of the coils and cuts the coils into sheet and plate of prescribed lengths. On a combined basis, the facilities are capable of cutting sheet and plate with thicknesses ranging from 16 gauge to 1” thick in widths ranging from 36” wide to 96” wide. The coil product segment sells its prime grade inventory under the Friedman Industries name but also maintains an inventory of non-standard coil products, consisting primarily of mill secondary and excess prime coils, which are sold through the Company’s XSCP division. The coil product segment also processes customer-owned coils on a fee basis.
+As discussed above, the Company commenced operations at its new facility in Sinton, Texas in October 2022 which is part of the coil product segment. The new facility is on the campus of Steel Dynamics, Inc.'s ("SDI") new flat roll steel mill in Sinton, Texas. The Company's new location consists of an approximately 70,000 square foot building located on approximately 26.5 acres leased from SDI under a 99-year agreement. The facility is equipped with one of the world’s largest stretcher leveler cut-to-length lines, capable of handling material up to 1” thick, widths up to 96” and yields exceeding 100,000 psi. The total cost of the project is estimated to be approximately $22.3 million. At December 31, 2022, the Company had paid approximately $14,826,000 related to the project and accrued approximately $7,448,000 to be paid during the three months ended March 31, 2023. The Company expects to fund the remainder of the Sinton capital expenditure through a combination of cash generated from operations and funds drawn under the ABL Facility. The Company expects the remainder of fiscal 2023 to be a ramp up period for the facility and then expects the facility’s annual shipments could be in the range of 110,000 tons to 140,000 tons for fiscal 2024.
+The tubular product segment consists of the Company’s Texas Tubular Products division (“TTP”) located in Lone Star, Texas. TTP operates two electric resistance welded pipe mills with a combined outside diameter (“OD”) size range of 2 3/8” OD to 8 5/8” OD. Both pipe mills are American Petroleum Institute (“API”) licensed to manufacture line pipe and oil country pipe and also manufacture pipe for structural purposes that meets other recognized industry standards.
+TTP has a pipe finishing facility capable of applying threads and couplings to oil country tubular goods and performing other services that are customary in the pipe finishing process. The pipe finishing facility is currently idled. TTP’s inventory consists of raw materials and finished goods. Raw material inventory consists of hot-rolled steel coils that TTP will manufacture into pipe. Finished goods inventory consists of pipe TTP has manufactured.
+17
+Table of Contents
+Results of Operations
+Nine Months Ended December 31, 2022 Compared to Nine Months Ended December 31, 2021
+During the nine months ended
+December 31, 2022
+(the “ 2022
+period”), sales and costs of goods sold increased
+$213,212,315 and $227,153,057, respectively, and gross profit decreased $13,940,742  compared to the amounts recorded during the nine months ended
+December 31, 2021
+(the “ 2021
+period”). The increase in sales was primarily related to an increase in tons sold. Tons sold increased from approximately 147,500 tons in the
+2021
+period to approximately
+335,000 t ons in the
+2022
+period. The significant growth in sales volume was primarily related to the acquisition of facilities and inventory from Plateplus, Inc. which is discussed in more detail in Note B to the Company's Financial Statements. Discussion of the change in sales is expanded upon at the segment level in the following paragraphs. Gross profit decreased from $43,420,896 for the 2021 period to
+$29,480,154
+for the 2022 period. Gross profit as a percentage of sales decreased from approximately 20.7% for the  2021
+period to approximately
+7.0%
+for the  2022
+period. Gross profit for the  2022
+period included
+$2,977,160 in recognized losses
+related to hedging activities while gross profit for the  2021
+period included $12,317,960 in recognized net losses related to hedging activities. Excluding the recognized hedging losses, gross profit related to physical material as a percentage of sales was approximately
+7.6%
+for the  2022
+period compared to approximately 23.9% for the  2021
+period.
+Our operating results are significantly impacted by the market price of hot-rolled steel coil ("HRC"). The Company experienced significant volatility in steel price during both the 2022
+period
+and the 2021
+period . HRC prices were on a historic rise entering the 2021 period that continued until reaching an all-time high of approximately $1,950 per ton at the end of August 2021. These circumstances created a high margin environment during the 2021 period in a period of historically high steel prices. From September 2021 to February 2022, HRC prices declined approximately 52% until the Russian invasion of Ukraine triggered a sharp and abrupt increase. HRC prices increased approximately 60% from the beginning of March 2022 to the end of April 2022 and then declined approximately 60% until the middle of December 2022. In late November 2022 and December 2022, domestic steel producers announced price increases which caused HRC prices to increase at the end of the 2022 period. These circumstances created strong margins to start the 2022 period and then margin compression for the remainder of the 2022 period due to the prevailing downward trend in HRC price.
+Coil Segment
+Coil product segment sales for the
+2022
+period totaled
+$372,830,186  compared to $172,814,243 for the
+2021
+period. For a more complete understanding of the average selling prices of goods sold, it is helpful to exclude any hedging related gains or losses that are captured in sales and any sales generated from processing of customer owned material. Coil segment sales for the  2022  period were
+reduced by $2,977,160 for the recognition of hedging related losses . Coil segment sales for the  2021  period were reduced by $20,920,640 for the recognition of hedging related losses. Sales generated from processing of customer owned material totaled
+$1,028,037
+for the
+2022
+period compared to $1,013,801 for the
+2021
+period. Sales generated from coil segment inventory, excluding the impact of any hedging related gains or losses, totaled
+$374,779,309
+for the
+2022
+period compared to $192,721,082 for the
+2021
+period. The average per ton selling price related to these shipments
+decreased
+from approximately $1,737 per ton in the
+2021
+period to approximately
+$1,222
+per ton in the
+2022
+period. Inventory tons sold increased from approximately 111,000 tons in the
+2021
+period to approximately
+306,500
+tons in the
+2022
+period. The significant increase in sales volume was primarily attributable to the facilities and inventory acquired from
+Plateplus which account for approximately 170,000 tons of the 306,500 tons sold in the 2022 period.  Coil segment operations recorded operating profits of approximately
+$15,684,000
+and $33,497,000 for the
+2022  period and  2021
+period, respectively.  The operating profit for the
+2022
+period includes recognized
+net losses on hedging activities of $2,977,160  while the  2021  period operating profit included recognized net losses on hedging activities of $10,511,300.
+The Company’s coil segment purchases its inventory from a limited number of suppliers. Loss of any of these suppliers could have a material adverse effect on the Company’s business.
+Tubular Segment
+Tubular product segment sales for the
+2022
+period totaled
+$50,525,406
+compared to $37,329,034 for the
+2021
+period. Sales increased due to an increase in the average selling price per ton, partially offset by a decline in the volume sold. For a more complete understanding of the average selling prices of goods sold, it is helpful to exclude any hedging related gains or losses that are captured in sales. Tubular segment sales for the  2022  period were not impacted by any hedging related gains or losses. Tubular segment sales for the  2021  period were reduced by $2,030,220 for the recognition of hedging related losses. Sales generated from tubular segment inventory, excluding the impact of any hedging related gains or losses, totaled
+$50,525,406
+for the
+2022
+period compared to $39,359,254 for the
+2021
+period. The average per ton selling price related to these shipments increased from approximately $1,074 per ton in the
+2021
+period to approximately $1,785 per ton in the
+2022
+period. Tons sold decreased from approximately 36,500 tons in the  2021
+period to approximately 28,500 tons in the  2022
+period. The decline in sales volume was primarily related to a decline in mill reject pipe sales partially offset by an increase in manufactured pipe sales. U.S. Steel's Lone Star Tubular Operations was the Company's sole source of supply for mill reject pipe. With U.S. Steel's idling of their Lone Star Operations, the Company's receipts of mill reject pipe ceased in August 2020 and the inventory balance started to decline steadily each quarter. The Company sold out of mill reject pipe during the quarter ended June 30, 2022 . Mill reject pipe sales volume was approximately 1,000 tons for the 2022 period compared to approximately 19,500 tons for the 2021 period. Manufactured pipe sales volume was approximately 27,500 tons for the 2022 period compared to approximately 17,000 tons for the 2021 period. The average selling price increase was also primarily related to this shift in sales mix between manufactured pipe and mill reject pipe. The selling price associated with manufactured pipe is typically much higher than the selling prices associated with mill reject pipe. The Company will continue to focus on the expansion of its manufactured pipe operations to counteract the impact of mill reject pipe sales ending. The tubular segment recorded operating profits of approximately
+$6,136,000  and $3,951,000 for the  2022
+period and  2021
+period, respectively. The operating profit for the
+2021  period included recognized net losses on hedging activities of $1,806,660 while the Company did not have any hedging related gains or losses affecting operating results for the  2022  period.
+The tubular segment purchases its inventory from a limited number of suppliers. Loss of any of these suppliers could have a material adverse effect on the Company’s business.
+18
+Table of Contents
+General, Selling and Administrative Costs
+During the
+2022
+period, general, selling and administrative costs increased
+$5,027,069  compared to the
+2021
+period. This increase is primarily associated with costs associated with the Plateplus transaction and increased personnel but partially offset by less incentive based compensation expense for the 2022 period. Cost for the 2022 period includes approximately
+$1.2 million
+of one-time expenses related to the Plateplus transaction. Cost for the 2022 period includes approximately $2.9 million of general, selling and administrative costs associated with the East Chicago and Granite City locations acquired from Plateplus and  approximately $1.4 million in personnel costs for additional sales, accounting, IT and corporate employees hired during the 2022 period.
+Other Income
+For the
+2022
+period, the Company reported other income of $7,349,916. This income consists primarily of a $ 7,325,860
+gain on derivative instruments not designated for hedge accounting. For the  2021
+period, the Company reported other loss of $4,801,121.  This loss consists primarily of a loss of $6,498,040 on derivative instruments not designated for hedge accounting partially offset by a $1,706,614 gain associated with the forgiveness of the Company's Paycheck Protection Program loan.
+Income Taxes
+Income taxes decreased from a provision for the  2021
+period of $6,303,899 to a provision for the  2022  period of
+$4,639,272 . This decrease was primarily related to the lower earnings before income tax for the 2022 period but partially offset by  the non-taxable treatment of the Paycheck Protection Program loan forgiveness which was recognized as part of earnings before income taxes for the 2021 period.
+Three Months Ended December 31, 2022 Compared to Three Months Ended December 31, 2021
+During the three months ended
+December 31, 2022
+(the “ 2022
+quarter”), sales, costs of goods sold and gross profit increased  $60,204,150, $50,470,295 and $9,733,855, respectively,
+compared to the amounts recorded during the three months ended
+December 31, 2021
+(the “ 2021
+quarter”). The increase in sales was primarily related to an increase in tons sold. Tons sold increased from approximately 39,000 tons in the
+2021
+quarter to approximately 113,000 tons in the
+2022
+quarter. The significant growth in sales volume was related to the acquisition of facilities and inventory from Plateplus, Inc. which is discussed in more detail in Note B to the Company's Financial Statements. Discussion of the change in sales is expanded upon at the segment level in the following paragraphs. Gross margin improved from a loss of $3,604,021 for the 2021 quarter to a profit of $6,129,834 for the 2022 quarter .
+Gross margin
+as a percentage of sales improved from a negative margin of approximately 7.0% for the 2021 quarter to a positive margin of approximately
+5.5%
+for the 2022  quarter . Gross margin for the  2022
+quarter included
+$860,620  in recognized losses related to hedging activities while gross margin for the  2021
+quarter included $14,716,860 in recognized net losses related to hedging activities. Excluding the recognized hedging gains and losses, gross profit related to physical material as a percentage of sales was approximately
+6.2%
+for the  2022
+quarter compared to approximately 16.7% for the  2021
+quarter.
+Our operating results are significantly impacted by the market price of hot-rolled steel coil ("HRC"). Entering the 2022 quarter, HRC prices had seen an overall declining trend since April 2022. The downward trend continued until December 2022 when HRC prices stabilized and started increasing in response to price increase announcements from various domestic steel producers. The Company experienced lower physical margins during the 2022 quarter due to the declining HRC price environment. Physical margins for the 2021 quarter were declining after HRC prices reached an all-time high in August 2021 but were still at a historically higher level because margins declined from all-time high levels.
+Coil Segment
+Coil product segment sales for the
+2022
+quarter totaled
+$100,231,001  compared to $41,795,586 for the
+2021
+quarter. For a more complete understanding of the average selling prices of goods sold, it is helpful to exclude any hedging related gains or losses that are captured in sales and any sales generated from processing of customer owned material. Coil segment sales for the  2022  quarter were reduced by $860,620 for the recognition of hedging related losses. Coil segment sales for the  2021  quarter were reduced by $13,169,420 for the recognition of hedging related losses. Sales generated from processing of customer owned material totaled
+$334,870
+for the
+2022
+quarter compared to $354,876 for the
+2021
+quarter. Sales generated from coil segment inventory, excluding the impact of any hedging related gains or losses, totaled
+$100,756,751
+for the
+2022
+quarter compared to $54,610,130 for the
+2021
+quarter. The average per ton selling price related to these shipments decreased from approximately $1,899 per ton in the
+2021
+quarter to approximately $949 per ton in the
+2022
+quarter. Inventory tons sold increased from approximately 29,000 tons in the
+2021
+quarter to approximately 106,000 tons in the
+2022
+quarter. The significant increase in sales volume was primarily attributable to the facilities acquired from
+Plateplus which account for approximately 51,500 tons of the 106,000 tons sold in the 2022 quarter.  Coil segment operations recorded an operating profit of approximately
+$3,259,000  for the
+2022  quarter compared to an operating loss of approximately $4,032,000 for the  2021
+quarter.  The operating profit for the
+2022
+quarter includes recognized net losses on hedging activities of $860,620 while the  2021  quarter operating loss included recognized net losses on hedging activities of $13,120,220.
+19
+Table of Contents
+The Company’s coil segment purchases its inventory from a limited number of suppliers. Loss of any of these suppliers could have a material adverse effect on the Company’s business.
+Tubular Segment
+Tubular product segment sales for the
+2022
+quarter totaled
+$11,629,092  compared to $9,860,357 for the
+2021
+quarter. Sales increased due to an increase in the average selling price per ton, offset by a decrease in tons sold. For a more complete understanding of the average selling prices of goods sold, it is helpful to exclude any hedging related gains or losses that are captured in sales. Tubular segment sales for the  2022  quarter were not impacted by any hedging related gains or losses. Tubular segment sales for the  2021  quarter were reduced by $1,596,640 for the recognition of hedging related losses. Sales generated from tubular segment inventory, excluding the impact of any hedging related gains or losses, totaled
+$11,629,092 f or the
+2022
+quarter compared to $11,456,997 for the
+2021
+quarter. The average per ton selling price related to these shipments increased from approximately $1,111 per ton in the
+2021
+quarter to approximately $1,648 per ton in the
+2022
+quarter. Tons sold decreased from approximately 10,500 tons in the  2021
+quarter to approximately 7,000 tons in the  2022
+quarter. The decline in sales volume was primarily related to a decline in mill reject pipe sales partially offset by an increase in manufactured pipe sales. U.S. Steel's Lone Star Tubular Operations was the Company's sole source of supply for mill reject pipe. With U.S. Steel's idling of their Lone Star Operations, the Company's receipts of mill reject pipe ceased in August 2020 and the inventory balance started to decline steadily each quarter. The Company sold out of mill reject pipe during the quarter ended June 30, 2022. Mill reject pipe sales were approximately 6,000 tons for the 2021 quarter. All of the 2022 quarter's sales volume of approximately 7,000 tons was from manufactured pipe sales compared to approximately 4,500 tons for the 2021 period. The average selling price increase was also primarily related to this shift in sales mix between manufactured pipe and mill reject pipe. The selling price associated with manufactured pipe is typically much higher than the selling prices associated with mill reject pipe. The Company will continue to focus on the expansion of its manufactured pipe operations to counteract the impact of mill reject pipe sales ending. The tubular segment recorded operating profit of approximately
+$692,000 for the 2022 quarter compared to an operating loss of approximately  $647,000 for the   2021
+quarter. The operating loss for the
+2021  quarter included recognized net losses on hedging activities of $1,596,640 while the Company did not have any hedging related gains or losses affecting operating results for the  2022  quarter.
+The tubular segment purchases its inventory from a limited number of suppliers. Loss of any of these suppliers could have a material adverse effect on the Company’s business.
+General, Selling and Administrative Costs
+During the
+2022
+quarter, general, selling and administrative costs increased
+$2,706,608 c ompared to the
+2021
+quarter. This increase is due primarily to increased payroll expenses associated with the additional sales, purchasing and administrative personnel that converted to Friedman employment after the Plateplus transaction, increased professional fees, increased insurance expenses, increased IT expenses and increased incentive related compensation. Approximately $600,000 of the increase is associated with the East Chicago and Granite City locations acquired from Plateplus and approximately $900,000 of the increase is associated with other additional sales, accounting, IT and corporate personnel employed during the 2022 quarter. In addition to these amounts, accrued incentive based compensation was approximately $400,000 higher for the 2022 quarter compared to the 2021 quarter.
+Other Income
+For the
+2022
+quarter, the Company reported other income of
+$826,039 . This income consists primarily of a
+$822,200  gain on derivative instruments not designated for hedge accounting. For the  2021
+quarter, the Company reported other income of $1,727,134. This income consists primarily of a $1,721,700 gain on derivative instruments not designated for hedge accounting.
+Income Taxes
+Income taxes increased from a benefit for the  2021
+quarter of $967,681 to a provision for the  2022  quarter of
+$431,579.
+The increase in the provision for income taxes is primarily associated with the higher earnings before income taxes for the 2022 quarter .
+20
+Table of Contents
+FINANCIAL POSITION, LIQUIDITY AND CAPITAL RESOURCES
+The Company’s current ratio was
+3.1  at
+December 31, 2022
+and 2.1 at
+March 31, 2022 . Working capital was
+$99,834,426  at
+December 31, 2022
+and $64,551,208 at
+March 31, 2022 .
+During the nine months ended December 31, 2022, the Company maintained assets and liabilities at levels it believed were commensurate with operations. Changes in balance sheet amounts occurred in the ordinary course of business and due to the transaction with Plateplus described in Note B. Accounts receivable and inventories increased significantly due primarily to the Plateplus transaction. Cash and restricted cash decreased primarily due to the Plateplus acquisition investing activities partially offset by cash generated from the Company's operating activities and by cash provided from the Company's credit facility. T he Company expects to continue to monitor, evaluate and manage balance sheet components depending on changes in market conditions and the Company’s operations.
+In June 2021, the Small Business Administration authorized full forgiveness of the Company's Paycheck Protection Program loan.
+On April 29, 2022, the Company entered into a Second Amendment to its asset-based lending facility ("ABL Facility") provided by JPMorgan Chase Bank, N.A. The Second Amendment increased the revolving loans available under the ABL facility from an aggregate principal amount of up to $75 million to an aggregate principal amount of up to $150 million. The ABL Facility matures on May 19, 2026 and is secured by substantially all of the assets of the Company. The Company can elect borrowings on a floating rate basis or a term basis. Floating rate borrowings accrue interest at a rate equal to the prime rate minus 1% per annum. Term rate borrowings accrue interest at a rate equal to the SOFR rate applicable to the selected term plus 1.8% per annum. Availability of funds under the ABL Facility is subject to a borrowing base calculation determined as the sum of (a) 90% of eligible accounts receivable, plus (b) the product of 85% multiplied by the net orderly liquidating value percentage identified in the most recent inventory appraisal multiplied by eligible inventory. The ABL Facility contains a springing financial covenant whereby the financial covenant is only tested when availability falls below the greater of 15% of the revolving commitment or $22.5 million. The financial covenant restricts the Company from allowing its fixed charge coverage ratio to be, as of the end of any calendar month, less than 1.10 to 1.00 for the trailing twelve month period then ending. The fixed charge coverage ratio is calculated as the ratio of (a) EBITDA, as defined in the ABL Facility, minus unfinanced capital expenditures to (b) cash interest expense plus scheduled principal payments on indebtedness plus taxes paid in cash plus restricted payments paid in cash plus capital lease obligation payments plus cash contributions to any employee pension benefit plans. The ABL Facility contains other representations and warranties and affirmative and negative covenants that are usual and customary. If certain conditions precedent are satisfied, the ABL facility may be increased by up to an aggregate of $25 million, in minimum increments of $5 million. On July 6, 2022, the Company entered into a Third Amendment to the ABL Facility. The Third Amendment to the ABL Facility provides for the syndication of the asset based revolving loans available thereunder with BMO Harris Bank, N.A. ("BMO") with JPMorgan Chase Bank serving as the arranging agent (the "Agent"). The Third Amendment also amends provisions of the ABL Facility authorizing the Agent to make protective advances under the ABL Facility and adds a covenant requiring each of the Company and its subsidiaries to maintain the Agent as its principal depository bank. In connection with the Third Amendment, the Company also entered into a Revolving Note payable to BMO in a principal amount of up to $50 million establishing BMO as a one-third syndicated participant in the Company's ABL facility. At December 31, 2022, the Company had a balance of $44,510,967 under the ABL Facility with an applicable interest rate of 6.5%. At December 31, 2022, the Company's applicable borrowing base calculation supported access to approximately $99 million of the ABL Facility. As of the filing date of this Form 10-Q, the Company had borrowings of approximately $44 million outstanding under the ABL Facility and the Company's most recent borrowing base calculation provided access to approximately $100 million of the ABL Facility.
+The Company believes that its current cash position along with cash flows from operations and borrowing capability due to its financial position are adequate to fund its expected cash requirements for the next 12 months.
+DERIVATIVE CONTRACTS
+From time to time, the Company may use futures contracts to partially manage exposure to commodity price risk. The Company elects hedge accounting for some of its derivatives and classifies the transactions as either cash flow hedges or fair value hedges. From time to time, the Company may also transact futures contracts where hedge accounting is not elected. The Company recognized losses related to derivatives designated for hedge accounting of $860,620 and $2,977,160 for the three month and nine month periods ended December 31, 2022. For derivatives not designated for hedge accounting, the Company recognized gains of $822,200 and $7,325,860 for the three month and nine month periods ended December 31, 2022. See Note H for further information.
+OUTLOOK
+The Company expects sales volume of approximately 115,000 tons to 125,000 tons for its fourth quarter of fiscal 2023. The fourth quarter volume expectation is higher than the third quarter due primarily to increasing sales volume at the new Sinton, Texas facility and the third quarter volume being impacted by holidays and fewer shipping days. The Company expects margin improvement during the fourth quarter. From November 2022 to February 2023, four rounds of hot-rolled coil price increases were announced by multiple domestic steel producers. The Company expects margin improvement during the fourth quarter due to the rising price environment.
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. The more significant estimates and judgements include forecasted purchases of hot-rolled coil and forecasted sales of prime coil inventory and manufactured pipe inventory in relation to hedging activities and the fair value of the pipe-finishing facility, when impaired. From time to time, the Company hedges these forecasted purchases and sales and may designate those transactions for hedge accounting. If the original forecasts are subsequently reduced, it could result in the Company’s hedged positions exceeding revised forecasts, thus warranting immediate recognition in earnings of previously deferred hedge income or losses associated with excess hedges. A pattern of missed forecasts could call into question the Company’s ability to accurately predict forecasted transactions and the propriety of using hedge accounting in the future for similar forecasted transactions. To mitigate against the negative consequences of missing forecasts we have set an internal policy to designate hedging instruments for accounting purposes only up to 75% of forecasted sales or purchases. Determination of forecasted purchases of hot-rolled coil and forecasted sales of prime coil inventory and manufactured pipe inventory require the Company to make assumptions related to customer demand and the volume and timing of inventory purchases. The pipe-finishing facility impairment analysis requires assumptions related to future operations of the facility and estimates related to the replacement cost and value in exchange for the assets. Actual results could differ from these estimates.
+21
+Table of Contents
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+From time to time, the Company may make certain statements that contain forward-looking information (as defined in the Private Securities Litigation Reform Act of 1996, as amended) and that involve risk and uncertainty. Such statements may include those risks disclosed in the Management’s Discussion and Analysis of Financial Condition and Results of Operations section of this report, including the adequacy of cash and expectations as to future sales, prices and margins and our expectations for the construction and performance of our new Sinton, TX facility. These forward-looking statements may include, but are not limited to, future changes in the Company’s financial condition or results of operations, future production capacity, product quality and proposed expansion plans. Forward-looking statements may be made by management orally or in writing including, but not limited to, this Management’s Discussion and Analysis of Financial Condition and Results of Operations and other sections of the Company’s filings with the U.S. Securities and Exchange Commission (the “SEC”) under the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended (the “Exchange Act”), including the Company’s Annual Report on Form 10-K and its other Quarterly Reports on Form 10-Q. Forward-looking statements include those preceded by, followed by or including the words “will,” “expect,” “intended,” “anticipated,” “believe,” “project,” “forecast,” “propose,” “plan,” “estimate,” “enable,” and similar expressions, including, for example, statements about our business strategy, our industry, our future profitability, growth in the industry sectors we serve, our expectations, beliefs, plans, strategies, objectives, prospects and assumptions, and estimates and projections of future activity and trends in the oil and natural gas industry. These forward-looking statements are not guarantees of future performance. These statements are based on management’s expectations that involve a number of business risks and uncertainties, any of which could cause actual results to differ materially from those expressed in or implied by the forward-looking statements. Although forward-looking statements reflect our current beliefs, reliance should not be placed on forward-looking statements because they involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance or achievements to differ materially from anticipated future results, performance or achievements expressed or implied by such forward-looking statements. Actual results and trends in the future may differ materially depending on a variety of factors including, but not limited to, changes in the demand for and prices of the Company’s products, changes in government policy regarding steel, changes in the demand for steel and steel products in general and the Company’s success in executing its internal operating plans, changes in and availability of raw materials, unplanned shutdowns of our production facilities due to equipment failures or other issues, increased competition from alternative materials and risks concerning innovation, new technologies, products and increasing customer requirements. Accordingly, undue reliance should not be placed on our forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, changed circumstances or otherwise, except to the extent law requires.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Not required
+Item 4. Controls and Procedures
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) and 15(d)-15(f) promulgated under the Securities Exchange Act of 1934, as amended). We have established disclosure controls and procedures designed to ensure that material information required to be disclosed in our reports filed under the Exchange Act is recorded, processed, summarized and reported within the time periods specified by the Securities and Exchange Commission and that any material information relating to us is recorded, processed, summarized and reported to our management including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures. In designing and evaluating our disclosure controls and procedures, our management recognizes that controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving desired control objectives. In reaching a reasonable level of assurance, our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+As required by Rule 13a-15(b) under the Exchange Act, we have evaluated, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures (as defined in rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this quarterly report. Based upon our evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures were not effective as of the end of the period covered by this Quarterly Report on Form 10-Q because the Company has not yet completed its remediation of the material weaknesses previously identified and disclosed in the Company’s Annual Report on Form 10-K for the fiscal year ended March 31, 2022 and because the Company's Form 10-K for the fiscal year ended March 31, 2022 and Form 10-Q's for the three months ended June 30, 2022 and the three and six months ended September 30, 2022 were not filed timely.
+Notwithstanding the identified material weaknesses, the Company's management, including our Chief Executive Officer and Chief Financial Officer, believes that the consolidated financial statements included in this Quarterly Report on Form 10-Q fairly present in all material respects our financial condition and results of operations for the three month and nine month periods ended December 31, 2022 and 2021 in accordance with U.S. Generally Accepted Accounting Principles.
+Material Weakness in Internal Control Over Financial Reporting
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company's annual or interim financial statements will not be prevented or detected on a timely basis.
+During the audit process related to our fiscal year ended March 31, 2022, management, in connection with our independent auditors, identified the following material weaknesses:
+-  The Company did not design relevant control activities necessary to address all identified risks of material misstatement or in some circumstances, controls were designed appropriately but were implemented late in the fiscal year not allowing a sufficient period of time to evidence operating effectiveness.
+-  The Company did not design and implement control activities to ensure completeness and accuracy of key reports used in the performance of certain controls.
+-  Management review were not designed to operate at a level of precision sufficient to identify all potential material errors.
+-  Certain controls were not executed or performed or were performed without sufficient documentation supporting the execution of the controls.
+-  The Company had inadequate segregation of duties for certain business transactions.
+22
+Table of Contents
+Plan for Remediation of Material Weakness
+The Company has determined that the number of accounting personnel and the limited utilization of information technology in its control structure are the primary contributing factors to the material weaknesses identified. As a part of the transaction with Plateplus, the Company had eight additional accounting personnel convert from Plateplus employment to Friedman employment with five of these individuals becoming Friedman employees on September 1, 2022 and the remaining three individuals becoming Friedman employees on October 1, 2022. The Company also hired an individual with an internal audit and SOX internal control background during September 2022. Additionally, as part of the Plateplus transaction, the Company transferred the enterprise resource planning (“ERP”) system that was in place at Plateplus to Friedman at the end of August 2022. The Company is currently working to integrate all of its operations into the transferred ERP system. The Company expects the additional accounting personnel to allow for improved segregation of duties and consistent execution of controls. The Company expects the new ERP system to allow for many of the Company’s current manual controls and missing controls to be performed by the design and capabilities of the ERP system rather than relying on manual human execution.
+We will continue to monitor the design and effectiveness of these procedures and controls and make any further changes the Company determines appropriate. We believe the additional investment in human capital and technology described above will remediate the material weaknesses the Company has identified. However, the material weaknesses will not be considered remediated until the applicable remedial actions operate effectively for a sufficient period of time.
+Changes in Internal Controls over Financial Reporting
+Except as discussed above, there were no changes in the Company's internal control over financial reporting that occurred during the fiscal quarter ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.
+23
+Table of Contents
+FRIEDMAN INDUSTRIES, INCORPORATED
+Three Months Ended December 31, 2022
+Part II — OTHER INFORMATION
+Item 6. Exhibits
+Exhibits
+3.1
+—
+Articles of Incorporation of the Company, as amended (incorporated by reference from Exhibit 3.1 to the Company’s Form S-8 filed on December 21, 2016).
+3.2
+—
+Articles of Amendment to the Articles of Incorporation of the Company, as filed with the Texas Secretary of State on September 22, 1987 (incorporated by reference from Exhibit 3.1 to the Company’s Form S-8 filed on December 21, 2016).
+3.3
+—
+Amended and Restated Bylaws of the Company, as amended on November 8, 2021. (incorporated by reference from Exhibit 3.3 to the Company's Form 10-Q filed on November 19, 2021).
+31.1
+—
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, signed by Michael J. Taylor.
+31.2
+—
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, signed by Alex LaRue.
+32.1
+—
+Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, signed by Michael J. Taylor.
+32.2
+—
+Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, signed by Alex LaRue.
+101.INS
+—
+Inline XBRL Instance Document.
+101.SCH
+—
+Inline XBRL Taxonomy Schema Document.
+101.CAL
+—
+Inline XBRL Calculation Linkbase Document.
+101.DEF
+—
+Inline XBRL Definition Linkbase Document.
+101.LAB
+—
+Inline XBRL Label Linkbase Document.
+101.PRE
+—
+Inline XBRL Presentation Linkbase Document.
+104
+—
+Cover Page Interactive File (formatted as Inline XBRL and contained in Exhibit 101)
+24
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+FRIEDMAN INDUSTRIES, INCORPORATED
+Date: February 9, 2023
+By
+/s/    ALEX LARUE
+Alex LaRue, Chief Financial Officer – Secretary and
+Treasurer (Principal Financial Officer)
+25

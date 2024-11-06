@@ -1,0 +1,1727 @@
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended:
+December 31, 2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ________________ to ________________
+Commission File Number:
+0-11412
+AMTECH SYSTEMS, INC.
+(Exact name of registrant as specified in its charter)
+Arizona
+86-0411215
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+131 South Clark Drive ,
+Tempe ,
+Arizona
+85288
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+480 - 967-5146
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+ASYS
+NASDAQ
+Global Select Market
+Indicate by a check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ☒
+Yes
+☐ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). ☒
+Yes
+☐ No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.:
+Large Accelerated Filer
+☐
+Accelerated Filer
+☐
+Non-Accelerated Filer
+☒
+Smaller Reporting Company
+☒
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No
+☒
+At February 3, 2023, there were outstanding
+14,023,534
+shares of Common Stock.
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+TABLE OF
+CONTENTS
+Page
+Cautionary Statement Regarding Forward-Looking Statements
+3
+PART I. FINANCIAL INFORMATION
+4
+Item 1. Condensed Consolidated Financial Statements
+4
+Condensed Consolidated Balance Sheets December 31, 2022 (Unaudited) and September 30, 2022
+4
+Condensed Consolidated Statements of Operations (Unaudited) Three Months Ended December 31, 2022 and 2021
+5
+Condensed Consolidated Statements of Comprehensive Income (Loss) (Unaudited) Three Months Ended December 31, 2022 and 2021
+6
+Condensed Consolidated Statements of Shareholders’ Equity (Unaudited) Three Months Ended December 31, 2022 and 2021
+7
+Condensed Consolidated Statements of Cash Flows (Unaudited) Three Months Ended December 31, 2022 and 2021
+8
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+9
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+19
+Overview
+19
+Results of Operations
+21
+Liquidity and Capital Resources
+24
+Off-Balance Sheet Arrangements
+25
+Contractual Obligations
+25
+Critical Accounting Estimates
+25
+Impact of Recently Issued Accounting Pronouncements
+26
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+26
+Item 4. Controls and Procedures
+26
+PART II. OTHER INFORMATION
+27
+Item 1. Legal Proceedings
+27
+Item 1A. Risk Factors
+27
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+27
+Item 3. Defaults Upon Senior Securities
+27
+Item 4. Mine Safety Disclosures
+27
+Item 5. Other Information
+27
+Item 6. Exhibits
+28
+SIGNATURES
+30
+2
+Cautionary Statement Regardin g Forward-Looking Statements
+Our discussion and analysis in this Quarterly Report on Form 10-Q ("Quarterly Report"), our Annual Report on Form 10-K for the fiscal year ended September 30, 2022 (the “2022 Form 10-K”), our other reports that we file with the Securities and Exchange Commission (the “SEC”), our press releases and in public statements of our officers and corporate spokespersons contain “forward-looking” statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the Private Securities Litigation Reform Act of 1995. Forward-looking statements give our or our officers’ current expectations or forecasts of future events. You can identify these statements by the fact that they do not relate strictly to historical or current events. You can also identify forward-looking statements by discussions of strategy, plans or intentions of management. We have tried, wherever possible, to identify such statements by using words such as “may,” “plan,” “anticipate,” “seek,” “will,” “expect,” “intend,” “estimate,” “believe,” “continue,” “predict,” “potential,” “project,” “should,” “would,” “could,” “likely,” “future,” “target,” “forecast,” “goal,” “observe,” and “strategy” or the negative thereof or variations thereon or similar terminology relating to the uncertainty of future events or outcomes. Any expectations based on these forward-looking statements are subject to risks and uncertainties and other important factors. Some factors that could cause actual results to differ materially from those anticipated include, among others, future economic conditions, including changes in the markets in which we operate; changes in demand for our services and products; our revenue and operating performance; difficulties in successfully executing our growth initiatives; difficulties in executing on our strategic initiatives with respect to our material and substrate business segment; our ability to effectively integrate our acquisition of Entrepix, Inc., which we acquired in January 2023; the effects of competition in the markets in which we operate, including the adverse impact of competitive product announcements or new entrants into our markets and transfers of resources by competitors into our markets; the cyclical nature of the semiconductor industry; pricing and gross profit pressures; control of costs and expenses; risks associated with new technologies and the impact on our business; legislative, regulatory, and competitive developments in markets in which we operate; possible future claims, litigation or enforcement actions and the results of any such claim, litigation proceeding, or enforcement action; business interruptions, including those related to the COVID-19 pandemic, the potential impacts of the COVID-19 pandemic, including ongoing logistical and supply chain challenges, and any future pandemic on our business operations, financial results and financial position; the severity, magnitude and duration of the COVID-19 pandemic, including impacts of the pandemic and of businesses’ and governments’ responses to the pandemic on our operations and personnel, including any future Chinese government mandated shutdown in Shanghai; risks of future cybersecurity incidents; and other circumstances and risks identified in this Quarterly Report or referenced from time to time in our filings with the SEC. The occurrence of the events described, and the achievement of expected results, depend on many events, some or all of which are not predictable or within our control. These and many other factors could affect Amtech’s future operating results and financial condition and could cause actual results to differ materially from expectations based on forward-looking statements made in this document or elsewhere by Amtech or on its behalf.
+You should not place undue reliance on these forward-looking statements. We cannot guarantee that any forward-looking statement will be realized, although we believe that the expectations reflected in the forward-looking statements are reasonable as of the date of this Quarterly Report. Achievement of future results is subject to events out of our control, risks, uncertainties and potentially inaccurate assumptions. The 2022 Form 10-K listed various important factors that could affect Amtech’s future operating results and financial condition and could cause actual results to differ materially from historical results and expectations based on forward-looking statements made in this document or elsewhere by Amtech or on its behalf. These factors can be found under the heading “Item 1A. Risk Factors” in our 2022 Form 10-K and investors should refer to them as well as the additional risk factors identified in this Quarterly Report. Because it is not possible to predict or identify all such factors, any such list cannot be considered a complete set of all potential risks or uncertainties.
+The Company undertakes no obligation to update or publicly revise any forward-looking statement whether as a result of new information, future developments or otherwise. All subsequent written or oral forward-looking statements attributable to the Company or persons acting on its behalf are expressly qualified in their entirety by this paragraph. You are advised, however, to consult any further disclosures we make on related subjects in our subsequently filed Form 10-Q and Form 8-K reports and our other filings with the SEC. As noted above, we provide a cautionary discussion of risks, uncertainties and possibly inaccurate assumptions relevant to our business under “Item 1A. Risk Factors” of our 2022 Form 10-K. We note these factors for investors as permitted by the Private Securities Litigation Reform Act of 1995. You should understand it is not possible to predict or identify all such factors.
+Unless the context indicates otherwise, the terms “Amtech,” the “Company,” “we,” “us” and “our” refer to Amtech Systems, Inc., an Arizona corporation, together with its subsidiaries.
+3
+PART I. FINANCI AL INFORMATION
+Item
+1. Condensed Consolidated
+Financial Statements
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+Condensed Consolida ted Balance Sheets
+(in thousands, except share data)
+December 31, 2022
+September 30, 2022
+Assets
+(Unaudited)
+Current Assets
+Cash and cash equivalents
+$
+44,534
+$
+46,874
+Accounts receivable (less allowance for doubtful accounts of $ 147  and $ 114  at    December 31, 2022 and September 30, 2022, respectively)
+21,785
+25,013
+Inventories
+28,236
+25,488
+Other current assets
+4,890
+5,561
+Total current assets
+99,445
+102,936
+Property, Plant and Equipment - Net
+6,451
+6,552
+Right-of-Use Assets - Net
+10,832
+11,258
+Intangible Assets - Net
+733
+758
+Goodwill
+11,168
+11,168
+Deferred Income Taxes - Net
+114
+79
+Other Assets
+794
+783
+Total Assets
+$
+129,537
+$
+133,534
+Liabilities and Shareholders’ Equity
+Current Liabilities
+Accounts payable
+$
+6,835
+$
+7,301
+Accrued compensation and related taxes
+2,923
+4,109
+Other accrued liabilities
+2,722
+1,771
+Current maturities of finance lease liabilities and long-term debt
+71
+107
+Current portion of long-term operating lease liabilities
+2,134
+2,101
+Contract liabilities
+6,955
+7,231
+Income taxes payable
+19
+6
+Total current liabilities
+21,659
+22,626
+Finance Lease Liabilities and Long-Term Debt
+59
+220
+Long-Term Operating Lease Liabilities
+8,937
+9,395
+Income Taxes Payable
+2,551
+2,849
+Other Long-Term Liabilities
+93
+76
+Total Liabilities
+33,299
+35,166
+Commitments and Contingencies (Note 7)
+Shareholders’ Equity
+Preferred stock;
+100,000,000  shares authorized;
+none  issued
+—
+—
+Common stock; $ 0.01  par value;
+100,000,000  shares authorized; shares    issued and outstanding:
+14,003,029  and
+13,994,154  at December 31, 2022    and September 30, 2022, respectively
+140
+140
+Additional paid-in capital
+124,656
+124,458
+Accumulated other comprehensive loss
+( 1,351
+)
+( 1,767
+)
+Retained deficit
+( 27,207
+)
+( 24,463
+)
+Total Shareholders’ Equity
+96,238
+98,368
+Total Liabilities and Shareholders’ Equity
+$
+129,537
+$
+133,534
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+Condensed Consolidated S tatements of Operations
+(Unaudited)
+(in thousands, except per share data)
+Three Months Ended December 31,
+2022
+2021
+Revenues, net
+$
+21,558
+$
+26,463
+Cost of sales
+13,255
+16,565
+Gross profit
+8,303
+9,898
+Selling, general and administrative
+9,190
+7,086
+Research, development and engineering
+1,393
+1,572
+Severance expense
+400
+—
+Operating (loss) income
+( 2,680
+)
+1,240
+Interest expense and other, net
+( 68
+)
+( 83
+)
+(Loss) income before income tax provision
+( 2,748
+)
+1,157
+Income tax (benefit) provision
+( 4
+)
+160
+Net (loss) income
+$
+( 2,744
+)
+$
+997
+(Loss) Income Per Share:
+Net (loss) income per basic share
+$
+( 0.20
+)
+$
+0.07
+Net (loss) income per diluted share
+$
+( 0.20
+)
+$
+0.07
+Weighted average shares outstanding:
+Basic
+14,008
+14,254
+Diluted
+14,008
+14,485
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+Condensed Consolidated Statement s of Comprehensive Income (Loss)
+(Unaudited)
+(in thousands)
+Three Months Ended December 31,
+2022
+2021
+Net (loss) income
+$
+( 2,744
+)
+$
+997
+Foreign currency translation adjustment
+416
+237
+Comprehensive (loss) income
+$
+( 2,328
+)
+$
+1,234
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+Condensed Consolidated Statem ents of Shareholders’ Equity
+(Unaudited)
+(in thousands)
+Common Stock
+Treasury Stock
+Accumulated Other
+Total
+Shares
+Par Value
+Shares
+Cost
+Additional Paid- In Capital
+Comprehensive Income (Loss)
+Retained  Deficit
+Shareholders' Equity
+Balance at September 30, 2021
+14,304
+$
+143
+—
+$
+—
+$
+126,380
+$
+14
+$
+( 40,903
+)
+$
+85,634
+Net income
+—
+—
+—
+—
+—
+—
+997
+997
+Translation adjustment
+—
+—
+—
+—
+—
+237
+—
+237
+Stock compensation expense
+—
+—
+—
+—
+103
+—
+—
+103
+Repurchase of treasury stock
+—
+—
+( 291
+)
+( 2,713
+)
+—
+—
+—
+( 2,713
+)
+Retirement of treasury stock
+( 291
+)
+( 3
+)
+291
+2,713
+( 2,122
+)
+—
+( 588
+)
+—
+Stock options exercised
+12
+—
+—
+—
+69
+—
+—
+69
+Balance at December 31, 2021
+14,025
+$
+140
+—
+$
+—
+$
+124,430
+$
+251
+$
+( 40,494
+)
+$
+84,327
+Balance at September 30, 2022
+13,994
+$
+140
+—
+$
+—
+$
+124,458
+$
+( 1,767
+)
+$
+( 24,463
+)
+$
+98,368
+Net loss
+—
+—
+—
+—
+—
+—
+( 2,744
+)
+( 2,744
+)
+Translation adjustment
+—
+—
+—
+—
+—
+416
+—
+416
+Stock compensation expense
+—
+—
+—
+—
+164
+—
+—
+164
+Stock options exercised
+9
+—
+—
+—
+34
+—
+—
+34
+Balance at December 31, 2022
+14,003
+$
+140
+—
+$
+—
+$
+124,656
+$
+( 1,351
+)
+$
+( 27,207
+)
+$
+96,238
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+Condensed Consolidated S tatements of Cash Flows
+(Unaudited)
+(in thousands)
+Three Months Ended December 31,
+2022
+2021
+Operating Activities
+Net (loss) income
+$
+( 2,744
+)
+$
+997
+Adjustments to reconcile net income to net cash (used in) provided by    operating activities:
+Depreciation and amortization
+388
+430
+Write-down of inventory
+48
+120
+Deferred income taxes
+( 35
+)
+—
+Non-cash stock compensation expense
+164
+103
+Provision for (reversal of) allowance for doubtful accounts
+35
+( 19
+)
+Changes in operating assets and liabilities:
+Accounts receivable
+3,194
+( 2,683
+)
+Inventories
+( 2,796
+)
+( 2,161
+)
+Other assets
+1,106
+( 207
+)
+Accounts payable
+( 643
+)
+1,979
+Accrued income taxes
+( 284
+)
+968
+Accrued and other liabilities
+( 665
+)
+140
+Contract liabilities
+( 276
+)
+2,822
+Net cash (used in) provided by operating activities
+( 2,508
+)
+2,489
+Investing Activities
+Purchases of property, plant and equipment
+( 224
+)
+( 45
+)
+Net cash used in investing activities
+( 224
+)
+( 45
+)
+Financing Activities
+Proceeds from the exercise of stock options
+34
+69
+Repurchase of common stock
+—
+( 2,713
+)
+Payments on long-term debt
+( 14
+)
+( 97
+)
+Net cash provided by (used in) financing activities
+20
+( 2,741
+)
+Effect of Exchange Rate Changes on Cash, Cash Equivalents and    Restricted Cash
+372
+175
+Net Decrease in Cash, Cash Equivalents and Restricted Cash
+( 2,340
+)
+( 122
+)
+Cash and Cash Equivalents, Beginning of Period
+46,874
+32,836
+Cash, Cash Equivalents and Restricted Cash, End of Period
+$
+44,534
+$
+32,714
+Supplemental Cash Flow Information:
+Income tax payments, net
+$
+378
+$
+629
+Interest paid
+$
+2
+$
+75
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+8
+AMTECH SYSTEMS, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLI DATED FINANCIAL STATEMENTS
+THREE MONTHS ENDED DECEMBER 31, 2022 AND 2021
+(UNAUDITED)
+1.
+Basis of Presentation and Significant Accounting Policies   Nature of Operations and Basis of Presentation
+– Amtech Systems, Inc. (the “Company,” “Amtech,” “we,” “our” or “us”) is a leading, global manufacturer of capital equipment, including thermal processing and wafer polishing, and related consumables used in fabricating semiconductor devices, such as silicon carbide (“SiC”) and silicon power devices, analog and discrete devices, electronic assemblies and light-emitting diodes (“LEDs”). We sell these products to semiconductor device and module manufacturers worldwide, particularly in Asia, North America and Europe.   We serve niche markets in industries that are experiencing technological advances, and which historically have been very cyclical. Therefore, our future profitability and growth depend on our ability to develop or acquire and market profitable new products and on our ability to adapt to cyclical trends.   The accompanying unaudited condensed consolidated financial statements have been prepared pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (the “SEC”), and consequently do not include all disclosures normally required by accounting principles generally accepted in the United States of America (“GAAP”). In the opinion of management, the accompanying unaudited interim condensed consolidated financial statements contain all adjustments necessary, all of which are of a normal and recurring nature, to present fairly our financial position, results of operations and cash flows. Certain information and note disclosures normally included in financial statements have been condensed or omitted pursuant to the rules and regulations of the SEC. The condensed consolidated balance sheet at September 30, 2022, has been derived from the audited consolidated financial statements at that date but does not include all of the information and footnotes required by GAAP for complete financial statements. These unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended September 30, 2022.   Our fiscal year is from October 1 to September 30. Unless otherwise stated, references to particular years, quarters, months or periods refer to our fiscal years ending or ended September 30, and the associated quarters, months, and periods of those fiscal years.   The consolidated results of operations for the three months ended December 31, 2022, are not necessarily indicative of the results to be expected for the full fiscal year.   In March 2020, the outbreak of COVID-19 was recognized as a pandemic by the World Health Organization, and the outbreak became increasingly widespread, including in all of the markets in which we operate. We continue to monitor the impact of COVID-19 on all aspects of our business. We are a company operating in a critical infrastructure industry, as defined by the U.S. Department of Homeland Security. Consistent with federal guidelines and with foreign government, state and local orders to date, we have continued to operate across our footprint throughout the COVID-19 pandemic. There remain many unknowns and we continue to monitor the expected trends and related demand for our products and services and have and will continue to adjust our operations accordingly.
+On March 28, 2022, the Chinese government issued a mandatory shutdown in Shanghai, the location of one of our manufacturing facilities. The factory was allowed to partially reopen in May 2022 and was fully reopened on June 1, 2022.
+Upon reopening on June 1, 2022, the factory was able to operate at near full capacity for the entire month of June. We were able to make up the shipments missed in the fourth quarter of fiscal 2022 and are now operating at normal capacity levels. Additionally, given the uncertainty surrounding the COVID-19 pandemic and the emergence of variations thereof, there can be no assurance that this facility will be allowed to remain open on a consistent basis in the future.   9
+Principles of Consolidation
+– The consolidated financial statements include the accounts of the Company and our wholly-owned subsidiaries.
+All significant intercompany balances and transactions have been eliminated in consolidation.   Use of Estimates
+– The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.   Contract Liabilities
+– Contract liabilities are reflected in current liabilities on the Condensed Consolidated Balance Sheets as all performance obligations are expected to be satisfied within the next 12 months.
+Contract liabilities relate to payments invoiced or received in advance of completion of performance obligations under a contract. Contract liabilities are recognized as revenue upon the fulfillment of performance obligations. Contract liabilities consist of customer deposits as of December 31, 2022 and September 30, 2022. Of the $ 7.2
+million contract liabilities recorded at September 30, 2022 , $ 0.6
+million was recorded as revenue for the
+three months ended December 31, 2022.   Warranty
+– A limited warranty is provided free of charge, generally for periods of
+12
+to
+36
+months to all purchasers of our new products and systems. Accruals are recorded for estimated warranty costs at the time revenue is recognized, generally upon shipment or acceptance, as determined under the revenue recognition policy above. On occasion, we have been required and may be required in the future to provide additional warranty coverage to ensure that the systems are ultimately accepted or to maintain customer goodwill. While our warranty costs have historically been within our expectations and we believe that the amounts accrued for warranty expenditures are sufficient for all systems sold through December 31, 2022, we cannot guarantee that we will continue to experience a similar level of predictability with regard to warranty costs. In addition, technological changes or previously unknown defects in raw materials or components may result in more extensive and frequent warranty service than anticipated, which could result in an increase in our warranty expense.
+Our accrued warranty expense is less than $ 1.0
+million in all periods presented and is included in other accrued liabilities on the Condensed Consolidated Balance Sheets.   Shipping Expense
+– Shipping and handling fees associated with outbound freight are expensed as incurred and included in selling, general and administrative expenses. Shipping expense was $ 0.6
+million and $ 1.2
+million for the
+three months ended December 31, 2022 and 2021 , respectively.   Concentrations of Credit Risk
+– Our customers consist of semiconductor manufacturers worldwide, as well as the lapping and polishing marketplace. Financial instruments that potentially subject us to significant concentrations of credit risk consist principally of cash and trade accounts receivable. Credit risk is managed by performing ongoing credit evaluations of the customers’ financial condition, by requiring significant deposits where appropriate, and by actively monitoring collections. Letters of credit are required of certain customers depending on the size of the order, type of customer or its creditworthiness, and country of domicile.   As of December 31, 2022 , one Semiconductor segment customer individually represented
+14 % of accounts receivable.
+As of
+September 30, 2022 , one Semiconductor segment customer individually represented
+12 % of accounts receivable.   We maintain our cash and cash equivalents in multiple financial institutions. Balances in the United States, which account for approximately
+83 % and
+84 % of total cash balances as of
+December 31, 2022 and September 30, 2022, respectively, are primarily invested in AAA-rated U.S Treasury and U.S. Government Agency repo money market mutual funds, which have a constant net asset value and consist of direct U.S. Treasuries and/or U.S. Government Agencies with repurchase agreements backed by U.S. Treasury or U.S. Government Agency collateral only, or are in financial institutions insured by the FDIC. The remainder of our cash is maintained with financial institutions with reputable credit in China, the United Kingdom and Malaysia.
+We maintain cash in bank accounts in amounts which at times may exceed federally insured limits. We have not experienced any losses on such accounts.   Refer to Note 9
+to Condensed Consolidated Financial Statements for information regarding major customers, foreign sales and revenue in other countries subject to fluctuation in foreign currency exchange rates. 10
+Impact of Recently Issued Accounting Pronouncements   There were no new accounting pronouncements issued or effective as of December 31, 2022
+that had or are expected to have a material impact on our consolidated financial statements.   Correction of Immaterial Misstatements   During the preparation of the condensed consolidated financial statements for the period ended June 30, 2022, the Company identified certain immaterial misstatements related to the classification of sales discounts to distributors within our semiconductor reportable segment.  The Company previously presented these sales discounts as part of selling, general and administrative expenses instead of as a reduction of revenues in its unaudited condensed consolidated statements of operations for the three-month period ended December 31, 2021, and the three and six-month periods ended March 31, 2022, which resulted in overstatements of revenue and selling, general and administrative expenses for those periods.   In accordance with Staff Accounting Bulletin No. 99, “Materiality,” the Company evaluated the misstatements and determined that the related impact was not material to the Company’s financial statements for any interim period. Accordingly, the Company revised the unaudited condensed consolidated statements of operations for the periods ended December 31, 2021 and March 31, 2022, including the related notes presented herein, as applicable. The misstatements did not impact operating income or net income in the condensed consolidated statements of operations, or the condensed consolidated balance sheets or the condensed consolidated statements of cash flows for any of those periods.   A summary of the corrections to previously reported condensed consolidated statements of operations is as follows:
+Six Months Ended March 31, 2022
+As Reported
+Adjustment
+As Corrected
+Revenues, net
+$
+55,908
+$
+( 1,889
+)
+$
+54,019
+Gross profit
+$
+22,947
+$
+( 1,889
+)
+$
+21,058
+Selling, general and administrative
+$
+15,740
+$
+( 1,889
+)
+$
+13,851
+Three Months Ended March 31, 2022
+As Reported
+Adjustment
+As Corrected
+Revenues, net
+$
+28,579
+$
+( 1,023
+)
+$
+27,556
+Gross profit
+$
+12,183
+$
+( 1,023
+)
+$
+11,160
+Selling, general and administrative
+$
+7,788
+$
+( 1,023
+)
+$
+6,765
+Three Months Ended December 31, 2021
+As Reported
+Adjustment
+As Corrected
+Revenues, net
+$
+27,329
+$
+( 866
+)
+$
+26,463
+Gross profit
+$
+10,764
+$
+( 866
+)
+$
+9,898
+Selling, general and administrative
+$
+7,952
+$
+( 866
+)
+$
+7,086
+2.
+Earnings Per Share   Basic earnings per share (“EPS”) is computed by dividing net income by the weighted average number of common shares outstanding for the period. Diluted EPS is computed similarly to basic EPS except that the denominator is increased to include the number of additional common shares that would have been outstanding if potentially dilutive common shares had been issued. In the case of a net loss, diluted earnings per share is calculated in the same manner as basic EPS.   For the three months ended December 31, 2022 and 2021 , options for
+259,000
+and
+47,000
+weighted average shares, respectively, were excluded from the diluted EPS calculations because they were anti-dilutive. These shares could become dilutive in the future. 11
+A reconciliation of the components of the basic and diluted EPS calculations follows, in thousands, except per share amounts:
+Three Months Ended December 31,
+2022
+2021
+Numerator:
+Net (loss) income
+$
+( 2,744
+)
+$
+997
+Denominator:
+Weighted-average shares used to compute basic EPS
+14,008
+14,254
+Common stock equivalents (1)
+—
+231
+Weighted-average shares used to compute diluted EPS
+14,008
+14,485
+(Loss) income per share:
+Net (loss) income per basic share
+$
+( 0.20
+)
+$
+0.07
+Net (loss) income per diluted share
+$
+( 0.20
+)
+$
+0.07
+(1) The number of common stock equivalents is calculated using the treasury method and the average market price during the period.
+3.
+Inventories   The components of inventories are as follows, in thousands:
+December 31, 2022
+September 30, 2022
+Purchased parts and raw materials
+$
+15,918
+$
+15,377
+Work-in-process
+8,065
+6,146
+Finished goods
+4,253
+3,965
+$
+28,236
+$
+25,488
+4.
+Leases   The following table provides information about the financial statement classification of our lease balances reported within the Condensed Consolidated Balance Sheets, in thousands:
+December 31, 2022
+September 30, 2022
+Assets
+Right-of-use assets - operating
+$
+10,832
+$
+11,258
+Right-of-use assets - finance
+131
+149
+Total right-of-use assets
+$
+10,963
+$
+11,407
+Liabilities
+Current
+Operating lease liabilities
+$
+2,134
+$
+2,101
+Finance lease liabilities
+71
+71
+Total current portion of long-term lease liabilities
+2,205
+2,172
+Long-term
+Operating lease liabilities
+8,937
+9,395
+Finance lease liabilities
+59
+76
+Total long-term lease liabilities
+8,996
+9,471
+Total lease liabilities
+$
+11,201
+$
+11,643
+12
+The following table provides information about the financial statement classification of our lease expenses reported in the Condensed Consolidated Statements of Operations, in thousands:
+Three Months Ended December 31,
+Lease cost
+Classification
+2022
+2021
+Operating lease cost
+Cost of sales
+$
+461
+$
+197
+Operating lease cost
+Selling, general and administrative
+177
+84
+Operating lease cost
+Research, development and engineering
+3
+—
+Finance lease cost
+Cost of sales
+1
+1
+Finance lease cost
+Selling, general and administrative
+18
+16
+Short-term lease cost
+Cost of sales
+8
+—
+Total lease cost
+$
+668
+$
+298
+Future minimum lease payments under non-cancelable leases as of
+December 31, 2022, are as follows, in thousands:
+Operating Leases
+Finance Leases
+Total
+Remainder of 2023
+$
+1,917
+$
+57
+$
+1,974
+2024
+2,158
+57
+2,215
+2025
+997
+9
+1,006
+2026
+871
+9
+880
+2027
+782
+3
+785
+Thereafter
+7,892
+—
+7,892
+Total lease payments
+14,617
+135
+14,752
+Less:
+Interest
+3,546
+5
+3,551
+Present value of lease liabilities
+$
+11,071
+$
+130
+$
+11,201
+Operating
+le ase payments include
+$ 6.3
+million related to optional lease extension periods for multiple leases that are not yet exercisable but are reasonably certain of being exercised.
+The following table provides information about the remaining lease terms and discount rates applied:
+December 31, 2022
+September 30, 2022
+Weighted average remaining lease term
+Operating leases
+12.77
+years
+12.65  years
+Finance leases
+2.25
+years
+2.45  years
+Weighted average discount rate
+Operating leases
+4.17
+%
+4.17
+%
+Finance leases
+4.17
+%
+4.17
+%
+5.
+Income Taxes   Income Tax (Benefit) Provision   Our effective tax rate was
+0.1 % and
+13.8 % for the
+three months ended December 31, 2022 and 2021 , respectively. The effective tax rate for the three months ended December 31, 2022 differs from the U.S. statutory tax rate of
+21 % primarily due to higher state taxes partially offset by lower taxes in foreign jurisdictions. For the
+three months ended December 31, 2022 and 2021, we recorded an income tax benefit of $ 4,000
+and income tax expense of $ 0.2
+million, respectively. The quarterly income tax provision is calculated using an estimated annual effective tax rate, based upon expected annual income, permanent items, statutory rates and planned tax strategies in the various jurisdictions in which we operate. However, losses in certain jurisdictions and discrete items are excluded from the determination of the estimated annual effective tax rate.   13
+Deferred Income Taxes and Valuation Allowance   GAAP requires that a valuation allowance be established when it is “more likely than not” that all or a portion of deferred tax assets will not be realized. A review of all available positive and negative evidence needs to be considered, including a company’s performance, the market environment in which the company operates and the length of carryback and carryforward periods. According to those principles, it is difficult to conclude that a valuation allowance is not needed when the negative evidence includes cumulative losses in recent years. Based on the considerations of all available evidence, we have concluded that we will maintain a full valuation allowance for all net deferred tax assets related to the carryforwards of U.S. net operating losses and foreign tax credits. We will continue to monitor our cumulative income and loss positions in the U.S. and foreign jurisdictions to determine whether full valuation allowances on net deferred tax assets are appropriate. We expect to pay minimal U.S federal cash taxes for the foreseeable future as a result of our U.S. net operating losses that are carried forward.
+6.
+Equity and Stock-Based Compensation   Stock-based compensation expense was $ 0.2
+million and $ 0.1
+million in the three months ended December 31, 2022 and 2021, respectively. Stock-based compensation expense is included in selling, general and administrative expenses.   The following table summarizes our stock option activity during the
+three months ended December 31, 2022:
+Options
+Weighted Average Exercise Price
+Outstanding at beginning of period
+589,341
+$
+8.06
+Granted
+111,500
+9.27
+Exercised
+( 8,875
+)
+3.80
+Forfeited
+( 2,000
+)
+9.27
+Outstanding at end of period
+689,966
+$
+8.31
+Exercisable at end of period
+451,221
+$
+7.41
+Weighted average fair value of options granted during the period
+$
+4.81
+The fair value of options was estimated at the applicable grant date using the Black-Scholes option pricing model with the following assumptions:
+Three Months Ended December 31, 2022
+Three Months Ended December 31, 2021
+Risk free interest rate
+4
+%
+1
+%
+Expected term
+5  years
+5  years
+Dividend rate
+—
+%
+—
+%
+Volatility
+56
+%
+57
+%
+2022 Stock Repurchase Plan   On February 10, 2022, our Board of Directors (the “Board”) approved a new stock repurchase program, pursuant to which we may repurchase up to $ 5
+million of our outstanding Common Stock over a
+one-year
+period, commencing on February 16, 2022. Repurchases under the program will be made in open market transactions at prevailing market prices, in privately negotiated transactions, or by other means in compliance with the rules and regulations of the SEC; however, we have no obligation to repurchase shares and the timing, actual number, and value of shares to be repurchased is subject to management’s discretion and will depend on our stock price and other market conditions. We may, in the sole discretion of the Board, terminate the repurchase program at any time while it is in effect. Repurchased shares may be retired or kept in treasury for further issuance. During the quarter ended March 31, 2022, we repurchased
+143,430
+shares of our Common Stock on the open market at a total cost of approximately $ 1.4
+million (an average price of $ 9.78
+per share). All repurchased shares have been retired. There were
+no
+repurchases during the quarter ended December 31, 2022, and $ 3.6
+million remains available for repurchases.   14
+2021 Stock Repurchase Plan   On February 9, 2021, the Board approved a stock repurchase program, pursuant to which we may repurchase up to $ 4
+million of our outstanding Common Stock over a
+one-year
+period, commencing on February 16, 2021. Repurchases under the program were to be made in open market transactions at prevailing market prices, in privately negotiated transactions, or by other means in compliance with the rules and regulations of the SEC; however, we had no obligation to repurchase shares and the timing, actual number, and value of shares to be repurchased was subject to management’s discretion and depended on our stock price and other market conditions. We could have, in the sole discretion of the Board, terminated the repurchase program at any time while it was in effect. Repurchased shares were to be retired or kept in treasury for further issuance. During the quarter ended December 31, 2021, we repurchased
+291,383
+shares of our Common Stock on the open market at a total cost of approximately $ 2.7
+million (an average price of $ 9.31
+per share). All repurchased shares have been retired. The term of this repurchase program expired during the quarter ended March 31, 2022.
+7.
+Commitments and Contingencies   Purchase Obligations
+– As of December 31, 2022 , we had unrecorded purchase obligations in the amount of $ 19.5
+million.
+These purchase obligations consist of outstanding purchase orders for goods and services. While the amount represents purchase agreements, the actual amounts to be paid may be less in the event that any agreements are renegotiated, canceled or terminated.   Legal Proceedings and Other Claims
+– From time to time, we are a party to claims and actions for matters arising out of our business operations. We regularly evaluate the status of the legal proceedings and other claims in which we are involved to assess whether a loss is probable or there is a reasonable possibility that a loss, or an additional loss, may have been incurred and determine if accruals are appropriate. If accruals are not appropriate, we further evaluate each legal proceeding to assess whether an estimate of possible loss or range of possible loss can be made for disclosure. Although the outcome of claims and litigation is inherently unpredictable, we believe that we have adequate provisions for any probable and estimable losses. It is possible, nevertheless, that our consolidated financial position, results of operations or liquidity could be materially and adversely affected in any particular period by the resolution of a claim or legal proceeding. Legal expenses related to defense, negotiations, settlements, rulings and advice of outside legal counsel are expensed as incurred.   Employment Contracts
+– We have employment contracts and change in control agreements with, and severance plans covering, certain officers and management employees under which severance payments would become payable in the event of specified terminations without cause or terminations under certain circumstances after a change in control. If severance payments under the current employment contracts or severance plans were to become payable, the severance payments would generally range from
+six
+to
+twelve months
+of salary.
+8. Reportable Segments   Amtech has
+two
+operating segments that are structured around the types of product offerings provided to our customers. In addition, the operating segments may be further distinguished by the Company’s respective brands. These
+two
+operating segments comprise our
+two
+reportable segments discussed below. Our
+two
+reportable segments are as follows:   Semiconductor
+–
+We design, manufacture, sell and service thermal processing equipment and related controls for use by leading semiconductor manufacturers, and in electronics, automotive and other industries.   Material and Substrate
+–
+We produce consumables and machinery for lapping (fine abrading) and polishing of materials, such as sapphire substrates, optical components, silicon wafers, numerous types of crystal materials, ceramics and metal components.   15
+Information concerning our reportable segments is as follows, in thousands:
+Three Months Ended December 31,
+2022
+2021
+Net Revenues:
+Semiconductor
+$
+16,887
+$
+22,765
+Material and Substrate
+4,671
+3,698
+$
+21,558
+$
+26,463
+Operating income (loss):
+Semiconductor
+$
+869
+$
+2,357
+Material and Substrate
+633
+181
+Non-segment related
+( 4,182
+)
+( 1,298
+)
+$
+( 2,680
+)
+$
+1,240
+December 31, 2022
+September 30, 2022
+Identifiable Assets:
+Semiconductor
+$
+73,517
+$
+75,622
+Material and Substrate
+21,606
+22,032
+Non-segment related*
+34,414
+35,880
+$
+129,537
+$
+133,534
+* Non-segment related assets include cash, property, and other assets.   Goodwill and other long-lived assets   We review our long-lived assets, including goodwill, for impairment at least annually in our fourth quarter or whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Additional information on impairment testing of long-lived assets, intangible assets and goodwill can be found in Notes 1 and 11 of our Annual Report on Form 10-K for the year ended September 30, 2022 .
+9.
+Major Customers and Foreign Sales   During the three months ended December 31, 2022, one Semiconductor segment
+customer individually represented
+11 % of our net revenues.
+During the
+three months ended December 31, 2021 , one Semiconductor segment customer individually represented
+20 % of our net revenues.   Our net revenues were from customers in the following geographic regions:
+Three Months Ended December 31,
+2022
+2021
+United States
+26
+%
+18
+%
+Canada
+8
+%
+5
+%
+Mexico
+6
+%
+1
+%
+Other
+4
+%
+3
+%
+Total Americas
+44
+%
+27
+%
+China
+17
+%
+20
+%
+Malaysia
+4
+%
+9
+%
+Taiwan
+6
+%
+9
+%
+Other
+4
+%
+9
+%
+Total Asia
+31
+%
+47
+%
+Germany
+4
+%
+10
+%
+Austria
+11
+%
+8
+%
+Other
+10
+%
+8
+%
+Total Europe
+25
+%
+26
+%
+100
+%
+100
+%
+16
+10.
+Subsequent Events   Merger Agreement   On January 17, 2023, we acquired
+100 % of the issued and outstanding shares of capital stock of Entrepix, Inc., an Arizona corporation (“Entrepix”), which primarily manufactures chemical mechanical polishing (“CMP”) technology, through a reverse triangular merger resulting in Entrepix becoming a wholly owned subsidiary of Amtech.
+Entrepix’s CMP technology portfolio and water cleaning equipment will complement our existing substrate polishing and wet process chemical offerings. The acquisition was consummated pursuant to the terms of an Agreement and Plan of Merger (the “Merger Agreement”), dated January 17, 2023, by and among Amtech, Emerald Merger Sub, Inc., an Arizona corporation and wholly owned subsidiary of Amtech (“Merger Sub”), Entrepix, Timothy P. Tobin, solely in his capacity as the shareholders’ representative, and the Key Shareholders (as defined in the Merger Agreement). Upon the terms and subject to the conditions set forth in the Merger Agreement, Merger Sub merged with and into Entrepix (the “Merger”), with Entrepix surviving the Merger as a direct, wholly owned subsidiary of Amtech. At the closing of the Merger on January 17, 2023 (the “Closing”), we paid a purchase price of $ 35.0
+million, subject to certain customary purchase price adjustments. We used cash on hand and the net proceeds from the Term Loan (as described below) to pay the purchase price at the Closing.
+The purchase accounting is not yet finalized.   The Merger Agreement includes representations, warranties and covenants of the parties that are customary for a transaction of this nature. The Merger Agreement also contains certain indemnification obligations with respect to breaches of representations and warranties and certain other specified matters. To provide for losses for which we would not otherwise be able to seek indemnification from Entrepix under the Merger Agreement, we purchased a buyer-side representations and warranties insurance policy (the “R&W Policy”), which R&W Policy was issued as of the Closing, and which will be our primary recourse with respect to any breaches of Entrepix’s representations and warranties. The R&W Policy is subject to coverage limitations and certain customary terms, exclusions and deductibles, which limit our ability to make recoveries under the R&W Policy.   Loan and Security Agreement   On January 17, 2023, we entered into a Loan and Security Agreement (the “LSA”) by and among Amtech, its U.S. based wholly owned subsidiaries Bruce Technologies, Inc., a Massachusetts corporation, BTU International, Inc., a Delaware corporation, Intersurface Dynamics, Incorporated, a Connecticut corporation, P.R. Hoffman Machine Products, Inc., an Arizona corporation, and Entrepix, Inc., (collectively the “Borrowers”) and UMB Bank, N.A., national banking association (the “Lender”). The LSA provides for (i) a term loan (the “Term Loan”) in the amount of $ 12.0
+million maturing
+January 17, 2028 , and (ii) a revolving loan facility (the “Revolver”) with an availability of $ 8.0
+million maturing
+January 17, 2024 . As of the date of this filing,
+no
+amounts have been borrowed against the Revolver, and the full amount of the Term Loan is outstanding.   The Term Loan and Revolver are secured by a first priority lien on substantially all of the Borrowers’ assets (other than certain customary excluded assets) and the LSA contains customary events of default, representations and warranties, and covenants that restrict the Borrowers’ ability to, among other things, incur additional indebtedness, other than permitted indebtedness, enter into mergers or acquisitions, sell or otherwise dispose of assets, or pay dividends, subject to customary exceptions.   The LSA additionally contains financial covenants such that, as of the end of each of its fiscal quarters, beginning March 31, 2023, the Borrowers must maintain (i) a ratio of consolidated debt owed to Lender to consolidated EBITDA (as defined in the LSA) for such fiscal quarter, of not greater than
+1.50
+to 1.00, through December 31, 2024, based on a building 4 quarters (as described in the LSA), and then
+1.00
+to 1.00 each fiscal quarter thereafter, (ii) a ratio of (a) the total for such fiscal quarter of EBITDAR (as defined in the LSA) minus the sum of all income taxes paid in cash plus cash dividends/distributions plus maintenance Capital Expenditures (as defined in the LSA) plus management fees paid in cash, to (b) the sum for such fiscal quarter of (1) Interest Charges (as defined in the LSA) plus (2) required payments of principal on Debt (as defined in the LSA) (including the Term Loan, but excluding the Revolver) plus (3) operating lease/rent expense, of not less than
+1.30
+to 1.00 based on a building 4 quarters (as described in the LSA), and (iii) a consolidated working capital of current assets (excluding related party receivables and prepaid expenses) minus current liabilities of at least $ 35.0
+million. 17
+Stock Repurchase Program   On February 7, 2023, the Board approved a stock repurchase program, pursuant to which we may repurchase up to
+$ 5
+million
+of our outstanding Common Stock over a
+one-year
+period, commencing on
+February 10, 2023.
+Repurchases under the program will be made in open market transactions at prevailing market prices, in privately negotiated transactions, or by other means in compliance with the rules and regulations of the Securities and Exchange Commission; however, we have no obligation to repurchase shares and the timing, actual number, and value of shares to be repurchased is subject to management’s discretion and will depend on our stock price and other market conditions. We may, in the sole discretion of the Board, terminate the repurchase program at any time while it is in effect.
+18
+Item
+2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FIN ANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our “Condensed Consolidated Financial Statements” in Item 1 of this Quarterly Report on Form 10-Q (“Quarterly Report”) and our consolidated financial statements and related notes included in “Item 8. Financial Statements and Supplementary Data” in our Annual Report on Form 10-K for the fiscal year ended September 30, 2022 (the “2022 Form 10-K”).
+Overv iew
+We are a leading, global manufacturer of capital equipment, including thermal processing and wafer polishing, and related consumables used in fabricating semiconductor devices, such as silicon carbide (“SiC”) and silicon power, analog and discrete devices, and electronic assemblies and modules focusing on enabling technologies for electric vehicles (EV) and clean technology (CleanTech) applications. We sell these products to semiconductor device and module manufacturers worldwide, particularly in Asia, North America and Europe.
+We operate in two reportable segments, based primarily on the industry they serve: (i) Semiconductor and (ii) Material and Substrate. In our Semiconductor segment, we supply thermal processing equipment, including solder reflow ovens, horizontal diffusion furnaces and custom high-temp belt furnaces for use by semiconductor, electronics and electro/mechanical assembly manufacturers. Our semiconductor customers are primarily manufacturers of integrated circuits and optoelectronic sensors and discrete (“O-S-D”) components used in analog, power and radio frequency (“RF”). In our Material and Substrate segment, we produce substrate consumables, chemicals and machinery for lapping (fine abrading) and polishing of materials, such as silicon wafers for semiconductor products, sapphire wafers for LED applications, and compound substrates, like silicon carbide wafers, for power device applications.
+The semiconductor industry is cyclical, but not seasonal, and historically has experienced fluctuations. Our revenue is impacted by these broad industry trends.
+Strategy
+We continue to focus on our plans to profitably grow our business and have developed a strategic growth plan and a capital allocation plan that we believe will support our growth objectives. Our power semiconductor strategic growth plan leverages our experience, products and capabilities in pursuit of growth, profitability and sustainability. Our core focus areas are:
+• Emerging opportunities in the SiC industry – We believe we are well-positioned to take part in this significant growth area, specifically as it relates to silicon carbide wafer capacity expansion. We are working closely with our customers to understand their SiC growth plans, needs and opportunities. We are investing in our capacity, next generation product development, and in our people. During 2021, we completed the acquisition of Intersurface Dynamics, Inc. ("Intersurface Dynamics"), which added numerous coolants and chemical products to our existing consumable and machine product lines. We believe these investments will help fuel our growth in the emerging growth SiC industry.
+• 300mm Horizontal Diffusion Furnace – We have a highly successful and proven 300mm horizontal diffusion furnace solution used for power semiconductor device manufacturing applications. We have a strong foundation with the leading 300mm power chip manufacturer. We believe we have a strong opportunity to continue expanding our customer base and grow revenue with our 300mm solution.
+• As the largest revenue contributor to our organization, we expect our subsidiary, BTU International, Inc. (“BTU”), will continue to track semiconductor industry growth cycles for our advanced semi-packaging and surface-mount technology products, in addition to specialized custom belt furnaces used in automotive and other specialized industrial applications. We believe that our investments in product innovation will provide BTU with opportunities to grow further, especially in high growth applications of consumer and industrial electronics, Internet of Things, electric vehicles and 5G communications.
+19
+We anticipate future investments will be required to meet the expected demand from the growing markets we serve to achieve our revenue growth targets, including investments in research and development as well as capital expenditures, which also includes additional investments in capacity expansion, talent, and management information systems.
+In June 2022, we completed the sale of the real property where our manufacturing facility in Massachusetts is located. In connection with this sale, we entered into a two-year leaseback of the facility.
+This sale-leaseback transaction resulted in a net cash inflow of approximately $14.9 million, after repayment of the existing mortgage and settlement of related sale expenses.
+During the two-year leaseback period, we will conduct a search for a new manufacturing facility more in line with the needs of our Semiconductor product lines.
+In the fourth quarter of 2021, we completed the move of our Shanghai facility to a new location. This new location increases our capacity and allows us to streamline our manufacturing processes, thus reducing our lead times. In addition, we are evaluating our management information systems and needs in order to allow for greater efficiencies and to ensure our infrastructure can support our future growth plans. As a capital equipment manufacturer, we will continue to invest in our business to drive future growth.
+In addition to investments in our organic growth, another key aspect of our capital allocation policy is our plan to grow through acquisitions. We have the expertise and track record to identify complimentary and synergistic acquisition targets in the Semiconductor and SiC growth environments and to execute transactions and integrations to provide for value creating, profitable growth in both the short-term and long-term. On March 3, 2021, we acquired Intersurface Dynamics, a Connecticut-based manufacturer of substrate process chemicals used in various manufacturing processes, including semiconductors, silicon and compound semiconductor wafers, and optics. On January 17, 2023, we acquired Entrepix, an Arizona-based expert in chemical mechanical polishing (CMP) and wafer cleaning. As of the date of the filing of this Quarterly Report, we do not have an agreement to acquire any additional acquisition target.
+COVID-19 Update
+On March 28, 2022, the Chinese government issued a mandatory shutdown in Shanghai, the location of one of our manufacturing facilities.
+The factory was allowed to partially reopen in May 2022 and fully reopened on June 1, 2022.
+After such reopening, the factory was able to operate near full capacity for the entire month of June.
+We were able to make up the shipments missed in the fourth quarter of fiscal 2022 and are now operating at normal capacity levels.
+Given the uncertainty surrounding the COVID-19 pandemic, there can be no assurance that our Shanghai facility will be allowed to remain open on a consistent basis.
+Cybersecurity Incident
+On April 12, 2021, we detected a data incident in which attackers acquired data and disabled some of the technology systems used by one of our subsidiaries.
+Upon learning of the incident, we immediately engaged external counsel and retained a team of third-party forensic, incident response, and security professionals to investigate and determine the full scope of this incident.
+We also notified law enforcement officials and confirmed that the incident is covered by our insurance.
+We have completed the investigation of the data incident with assistance from our outside professionals, and indications were that the unauthorized third-party gained access to certain personal information relating to employees and their beneficiaries for some of our operations.
+There was no indication of any misuse of this information.
+Despite this disruption, production continued in our facilities.
+Our previously disabled subsidiary network is now back up and running securely. Working alongside our security professionals, we were able to bring our subsidiary’s systems online with enhanced security controls. We have deployed an advanced next generation anti-virus and endpoint detection and response tool, as well as Managed Detection & Response services.
+We remain committed to protecting the security of the personal information entrusted to us and providing high-quality products and service to our customers.
+We recorded approximately $1.1 million of expense related to this incident, which is included in selling, general and administrative expenses, during the third quarter of fiscal 2021.
+The expense is primarily related to third-party service providers, including security professionals as well as legal and response teams. We may make additional investments in the future to further strengthen our cybersecurity. We filed an insurance claim during the fourth quarter of fiscal
+20
+2021 related to the incident. During the second quarter of 2022, we signed a final settlement agreement with our insurer resulting in total reimbursement of approximately $0.6 million, which included $0.4 million received during the quarter ended December 31, 2021 and $0.2 million received during the quarter ended March 31, 2022. No portion of the reimbursement remains outstanding as of December 31, 2022.
+Results of
+Operations
+The following table sets forth certain operational data as a percentage of net revenue for the periods indicated:
+Three Months Ended December 31,
+2022
+2021
+Net revenue
+100
+%
+100
+%
+Cost of sales
+61
+%
+63
+%
+Gross margin
+39
+%
+37
+%
+Selling, general and administrative
+43
+%
+26
+%
+Research, development and engineering
+6
+%
+6
+%
+Severance expense
+2
+%
+—
+%
+Operating (loss) income
+(12
+)%
+5
+%
+Interest expense and other, net
+—
+%
+—
+%
+(Loss) income before income taxes
+(12
+)%
+5
+%
+Income tax provision
+—
+%
+1
+%
+Net (loss) income
+(12
+)%
+4
+%
+Net Revenue
+Net revenue consists of revenue recognized upon shipment or delivery of equipment. Spare parts sales are recognized upon shipment and service revenue is recognized upon completion of the service activity, which is generally ratable over the term of the service contract. Since the majority of our revenue is generated from large system sales, revenue, gross profit and operating income can be significantly impacted by the timing of system shipments.
+Our net revenue by reportable segment was as follows, dollars in thousands:
+Three Months Ended December 31,
+Segment
+2022
+2021
+Change
+% Change
+Semiconductor
+$
+16,887
+$
+22,765
+$
+(5,878
+)
+(26
+)%
+Material and Substrate
+4,671
+3,698
+973
+26
+%
+Total net revenue
+$
+21,558
+$
+26,463
+$
+(4,905
+)
+(19
+)%
+Total net revenue for the three months ended December 31, 2022 and 2021 was $21.6 million and $26.5 million, respectively, a decrease of approximately $4.9 million or 19%.
+Our Semiconductor results for the first quarter of fiscal 2023 reflect a decrease in production from our Shanghai facility as well as lower shipments of our diffusion furnaces.
+Material and Substrate revenue increased due to increased shipments of consumables resulting from capacity expansion and production increases by our customers.
+Orders and Backlog
+New orders booked in the three months ended December 31, 2022 and 2021 were as follows, dollars in thousands:
+Three Months Ended December 31,
+Segment
+2022
+2021
+Change
+% Change
+Semiconductor
+$
+21,084
+$
+27,809
+$
+(6,725
+)
+(24
+)%
+Material and Substrate
+4,145
+3,828
+317
+8
+%
+Total new orders
+$
+25,229
+$
+31,637
+$
+(6,408
+)
+(20
+)%
+21
+Our backlog as of December 31, 2022 and 2021 was as follows, dollars in thousands:
+December 31,
+Segment
+2022
+2021
+Change
+% Change
+Semiconductor
+$
+52,209
+$
+46,921
+$
+5,288
+11
+%
+Material and Substrate
+2,243
+1,531
+712
+47
+%
+Total backlog
+$
+54,452
+$
+48,452
+$
+6,000
+12
+%
+As of December 31, 2022, three Semiconductor segment customers individually accounted for 28%, 15% and 11% of our backlog. No other customer accounted for more than 10% of our backlog as of December 31, 2022.
+The orders included in our backlog are generally credit approved customer purchase orders believed to be firm and are generally expected to ship within the next twelve months.
+Because our orders are typically subject to cancellation or delay by the customer, our backlog at any particular point in time is not necessarily representative of actual sales for future periods, nor is backlog any assurance that we will realize profit from completing these orders.
+Gross Profit and Gross Margin
+Gross profit is the difference between net revenue and cost of goods sold. Cost of goods sold consists of purchased material, labor and overhead to manufacture equipment and spare parts and the cost of service and support to customers for installation, warranty and paid service calls. Gross margin is gross profit as a percent of net revenue.
+Our gross profit and gross margin by business segment were as follows, dollars in thousands:
+Three Months Ended December 31,
+Segment
+2022
+Gross
+Margin
+2021
+Gross
+Margin
+Change
+Semiconductor
+$
+6,172
+37
+%
+$
+8,662
+38
+%
+$
+(2,490
+)
+Material and Substrate
+2,131
+46
+%
+1,236
+33
+%
+895
+Total gross profit
+$
+8,303
+39
+%
+$
+9,898
+37
+%
+$
+(1,595
+)
+Gross profit for the three months ended December 31, 2022 and 2021 was $8.3 million (39% of net revenue) and $9.9 million (37% of net revenue), respectively, a decrease of $1.6 million.
+Our gross margins can be affected by capacity utilization and the type and volume of machines and consumables sold each quarter. Gross margin on products from our Semiconductor segment was consistent between periods.
+Gross margin on products from our Material and Substrate segment increased compared to the three months ended December 31, 2021, due to higher consumables sales, which have higher margins than our equipment, and increased capacity utilization. We are experiencing increased material costs across all of our segments and expect this trend to continue through at least the first half of fiscal 2023.
+In response to such increased costs, we continually review our pricing plans and supplier agreements, with the objective of passing these increased costs to our customers where possible; however, we continue to experience pricing pressure from our customers.
+Additionally, we have experienced rising labor costs across our divisions, and we expect this trend to continue, as the labor markets in which we operate remain competitive.
+Selling, General and Administrative
+Selling, general and administrative expenses (“SG&A”) consists of the cost of employees, consultants and contractors, facility costs, sales commissions, shipping costs, promotional marketing expenses, legal and accounting expenses and bad debt expense.
+SG&A expenses for the three months ended December 31, 2022 and 2021 were $9.2 million and $7.1 million, respectively. SG&A increased compared to the prior year quarter due primarily to $1.4 million of transaction expenses related to the acquisition of Entrepix, Inc., which was completed in the second quarter of fiscal 2023.
+22
+Research, Development and Engineering
+Research, development and engineering (“RD&E”) expenses consist of the cost of employees, consultants and contractors who design, engineer and develop new products and processes as well as materials and supplies used in producing prototypes.
+RD&E expenses may vary from period to period depending on the engineering projects in process.
+Expenses related to engineers working on strategic projects or sustaining engineering projects are recorded in RD&E.
+However, from time to time we add functionality to our products or develop new products during engineering and manufacturing to fulfill specifications in a customer’s order, in which case the cost of development, along with other costs of the order, are charged to cost of goods sold.
+Occasionally, we receive reimbursements through governmental research and development grants which are netted against these expenses when certain conditions have been met.
+RD&E expense, net of grants earned, for the three months ended December 31, 2022 and 2021 were $1.4 million and $1.6 million, respectively.
+The decrease in RD&E is due to the timing of purchases related to specific strategic-development projects at our Semiconductor segment.
+Grants earned are immaterial in all periods presented.
+Severance Expenses
+We recorded severance expense of $0.4 million in the three months ended December 31, 2022. This one-time charge relates to the retirement of our founder, Mr. J.S. Whang. There was no severance expense recorded in the three months ended December 31, 2021.
+Income Taxes
+Our effective tax rate was 0.1% and 13.8% for the three months ended December 31, 2022 and 2021, respectively. The effective tax rate for the three months ended December 31, 2022 differs from the U.S. statutory tax rate of 21% primarily due to higher state taxes partially offset by lower taxes in foreign jurisdictions. For the three months ended December 31, 2022 and 2021, we recorded an income tax benefit of $4,000 and income tax expense of $0.2 million, respectively. The quarterly income tax provision is calculated using an estimated annual effective tax rate, based upon expected annual income, permanent items, statutory rates and planned tax strategies in the various jurisdictions in which we operate. However, losses in certain jurisdictions and discrete items are excluded from the determination of the estimated annual effective tax rate.
+Generally accepted accounting principles of the United States ("GAAP") require that a valuation allowance be established when it is “more likely than not” that all or a portion of deferred tax assets will not be realized. A review of all available positive and negative evidence needs to be considered, including a company’s performance, the market environment in which the company operates and the length of carryback and carryforward periods. According to those principles, it is difficult to conclude that a valuation allowance is not needed when the negative evidence includes cumulative losses in recent years. Based on the consideration of all available evidence, we have concluded that we will maintain a full valuation allowance for all net deferred tax assets related to the carryforwards of U.S. net operating losses and foreign tax credits. We will continue to monitor our cumulative income and loss positions in the U.S. and foreign jurisdictions to determine whether full valuation allowances on net deferred tax assets are appropriate. We expect to pay minimal U.S federal cash taxes for the foreseeable future as a result of our U.S. net operating losses that are carried forward.
+Our future effective income tax rate depends on various factors, such as the amount of income (loss) in each tax jurisdiction, tax regulations governing each region, non-tax deductible expenses incurred as a percent of pre-tax income and the effectiveness of our tax planning strategies.
+23
+Liquidity and Ca pital Resources
+The following table sets forth for the periods presented certain consolidated cash flow information, in thousands:
+Three Months Ended December 31,
+2022
+2021
+Net cash (used in) provided by operating activities
+$
+(2,508
+)
+$
+2,489
+Net cash used in investing activities
+(224
+)
+(45
+)
+Net cash provided by (used in) financing activities
+20
+(2,741
+)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+372
+175
+Net decrease in cash, cash equivalents and restricted cash
+(2,340
+)
+(122
+)
+Cash and cash equivalents, beginning of period
+46,874
+32,836
+Cash, cash equivalents and restricted cash, end of period
+$
+44,534
+$
+32,714
+Cash and Cash Flow
+The decrease in cash and cash equivalents from September 30, 2022 of $2.3 million was primarily due to the net loss in the current year period, as we incurred $1.4 million in acquisition-related expenses.
+We maintain a portion of our cash and cash equivalents in Renminbis, a Chinese currency, at our operations in China; therefore, changes in the exchange rates have an impact on our cash balances. Our working capital was $77.8 million as of December 31, 2022 and $80.3 million as of September 30, 2022.
+The decrease in working capital was primarily due to the decrease in cash as well as a decrease in accounts receivable, as we collected customer payments that were not offset with new receivables.
+Our ratio of current assets to current liabilities was 4.6:1 as of December 31, 2022, and 4.5:1 as of September 30, 2022.
+During periods of weakening demand, we typically generate cash from operating activities. Conversely, we are more likely to use operating cash flows for working capital requirements during periods of higher growth. The success of our growth strategy is dependent upon the availability of additional capital resources on terms satisfactory to management. Our sources of capital in the past have included the sale of equity securities, which includes common stock sold in private transactions and public offerings, the incurrence of long-term debt and customer deposits.
+There can be no assurance that we can raise such additional capital resources when needed or on satisfactory terms.
+We believe that our principal sources of liquidity discussed above are sufficient to support operations for at least the next twelve months.
+We have never paid dividends on our common stock.
+Cash Flows from Operating Activities
+Cash used in our operating activities was approximately $2.5 million for the three months ended December 31, 2022, compared to $2.5 million provided by operating activities for the three months ended December 31, 2021.
+During the first quarter of fiscal 2023, our accounts receivable collections exceeded new accounts receivable, primarily due to the slowdown at our Shanghai facility.
+During the three months ended December 31, 2021, we increased our inventory balances in preparation for shipments scheduled for the second, third and fourth quarters of fiscal 2022.
+Additionally, our accounts receivable increased during this period as most of our shipments occurred late in the first quarter of fiscal 2022 and our customers generally have payment terms of 60-90 days.
+Cash Flows from Investing Activities
+Cash used in investing activities was $0.2 million and less than $0.1 million in the three month periods ended December 31, 2022 and 2021, respectively. Both periods consist solely of capital expenditures. We expect capital expenditures to increase throughout fiscal 2023 as we make targeted investments in our IT systems.
+24
+Cash Flows from Financing Activities
+For the three months ended December 31, 2022, cash provided by financing activities was less than $0.1 million, comprised of proceeds received from the exercise of stock options partially offset by payments on long-term debt.
+For the three months ended December 31, 2021, $2.7 million of cash used in financing activities was comprised of $2.7 million of cash used for the repurchase of common stock and payments on long-term debt of $97,000, partially offset by $69,000 of proceeds received from the exercise of stock options.
+Off-Balance She et Arrangements
+As of December 31, 2022, we had no off-balance sheet arrangements as defined in Item 303(a)(4) of Regulation S-K promulgated by the SEC that have or are reasonably likely to have a current or future effect on financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.
+Contractual
+Obligations
+Unrecorded purchase obligations were $19.5 million as of December 31, 2022, compared to $20.0 million as of September 30, 2022, a decrease of $0.5 million.
+Subsequent to the end of our fiscal quarter ended December 31, 2022, we entered into a Loan and Security Agreement with UMB Bank.
+See Note 10 “Subsequent Events” of our condensed consolidated financial statements for a description of this credit facility.
+There were no other material changes to the contractual obligations included in "Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our 2022 Form 10-K.
+Critical Accoun ting Estimates
+"Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Quarterly Report discusses our condensed consolidated financial statements that have been prepared in accordance with GAAP. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amount of assets and liabilities at the date of the condensed consolidated financial statements, the disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenue and expenses during the reporting period.
+On an ongoing basis, we evaluate our estimates and judgments, including those related to revenue recognition, income taxes, inventory valuation, and goodwill. We base our estimates and judgments on historical experience, expectations regarding the future and on various other factors that we believe to be reasonable under the circumstances. The results of these estimates and judgments form the basis for making conclusions about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+A critical accounting estimate is one that is both important to the presentation of our financial position and results of operations, and requires management’s most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. These uncertainties are discussed in Part I, Item 1A of our 2022 Form 10-K. We believe our critical accounting estimates relate to the more significant judgments and estimates used in the preparation of our consolidated financial statements.
+We believe the critical accounting estimates discussed in the section entitled “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Critical Accounting Policies” in our 2022 Form 10-K represent the most significant judgments and estimates used in the preparation of our consolidated financial statements. There have been no significant changes in our critical accounting estimates during the three months ended December 31, 2022.
+25
+Impact of Recently Issued
+Accounting Pronouncements
+For discussion of the impact of recently issued accounting pronouncements, see “Part I, Item 1. Financial Information” under “Impact of Recently Issued Accounting Pronouncements.”
+Item
+3. QUANTITATIVE AND QUALITATIVE D ISCLOSURES ABOUT MARKET RISK
+As a smaller reporting company, as defined by Rule 12b-2 of the Exchange Act and in Item 10(f)(1) of Regulation S-K, we are electing scaled disclosure reporting obligations and, therefore, are not required to provide the information requested by this Item.
+Item
+4. CONTROLS AND
+PROCEDURES
+Disclosure Controls and Procedures
+Our management, including our Chief Executive Officer (“CEO”) and our Chief Financial Officer (“CFO”), has carried out an evaluation of the effectiveness of our disclosure controls and procedures as of December 31, 2022, pursuant to Exchange Act Rules 13a-15(e) and 15(d)-15(e).
+Disclosure controls and procedures means controls and other procedures that are designed to ensure that information required to be disclosed by the Company in the reports it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to management, including the principal executive and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+Based upon that evaluation, our CEO and CFO have concluded that as of such date, our disclosure controls and procedures in place were effective.
+Changes in Internal Control Over Financial Reporting
+There have not been any changes in the Company’s internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the first fiscal quarter to which this report relates that materially affected, or are reasonably likely to materially affect, the internal control over financial reporting of the Company.
+26
+PART II. OTHER
+INFORMATION
+Item
+1. Legal
+Proceedings
+For discussion of legal proceedings, see Note 7 to our condensed consolidated financial statements under “Part I, Item 1. Financial Information” under “Commitments and Contingencies” of this Quarterly Report.
+Item
+1A. Risk F actors
+We refer you to documents filed by us with the SEC, specifically “Item 1A. Risk Factors” in our 2022 Form 10-K, which identifies important risk factors that could materially affect our business, financial condition and future results. We also refer you to the factors and cautionary language set forth in the section entitled “Cautionary Statements Regarding Forward-Looking Statements” immediately preceding “Item 1. Condensed Consolidated Financial Statements” of this Quarterly Report. This Quarterly Report, including the accompanying condensed consolidated financial statements and related notes, should be read in conjunction with such risks and other factors for a full understanding of our operations and financial condition. The risks described in our 2022 Form 10-K and any described herein are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or operating results.
+There have been no material changes to the risk factors previously disclosed in our 2022 Form 10-K.
+Item
+2. Unregistered Sales of Equi ty Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+On February 10, 2022, the Board approved a stock repurchase program, pursuant to which the Company may repurchase up to $5 million of its outstanding Common Stock over a one-year period, commencing on February 16, 2022. Repurchases under the program will be made in open market transactions at prevailing market prices, in privately negotiated transactions, or by other means in compliance with the rules and regulations of the Securities and Exchange Commission; however, the Company has no obligation to repurchase shares and the timing, actual number, and value of shares to be repurchased is subject to management’s discretion and will depend on the Company’s stock price and other market conditions. The Company may, in the sole discretion of the Board, terminate the repurchase program at any time while it is in effect. Repurchased shares may be retired or kept in treasury for further issuance.
+During the three months ended December 31, 2022, we did not repurchase any of our equity securities nor did we sell any equity securities that were not registered under the Securities Act of 1933, as amended.
+Item 3. Defaults Upo n Senior Securities
+None.
+Item 4. Mine Saf ety Disclosures
+Not applicable.
+Item 5. Other
+Information
+None.
+27
+Item 6.
+Exhibits
+EXHIBIT
+INCORPORATED BY REFERENCE
+FILED
+NO.
+EXHIBIT DESCRIPTION
+FORM
+FILE NO.
+EXHIBIT NO.
+FILING DATE
+HEREWITH
+10.1*
+Agreement and Plan of Merger, dated January 17, 2023, by and among the Registrant, Emerald Merger Sub, Inc., an Arizona corporation and wholly owned subsidiary of the Registrant, Entrepix, Inc., an Arizona corporation, Timothy P. Tobin, solely in his capacity as the shareholders’ representative, and the Key Shareholders (as defined in the Agreement and Plan of Merger).
+X
+10.2*
+Loan and Security Agreement, dated as of January 17, 2023, by and among the Registrant, its U.S. based wholly owned subsidiaries Bruce Technologies, Inc., a Massachusetts corporation, BTU International, Inc., a Delaware corporation, Intersurface Dynamics, Incorporated, a Connecticut corporation, P.R. Hoffman Machine Products, Inc., an Arizona corporation, and Entrepix, Inc., an Arizona corporation, as borrowers, and UMB Bank, N.A., national banking association, as lender.
+X
+31.1
+Certification Pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as Amended
+X
+31.2
+Certification Pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as Amended
+X
+32.1
+Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+X
+32.2
+Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+X
+101.INS
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+X
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+X
+101.PRE
+Inline Taxonomy Presentation Linkbase Document
+X
+101.CAL
+Inline XBRL Taxonomy Calculation Linkbase Document
+X
+101.LAB
+Inline XBRL Taxonomy Label Linkbase Document
+X
+28
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+X
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+X
+* Schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby undertakes to furnish copies of any of the omitted schedules upon request by the Securities and Exchange Commission.
+29
+SIGNAT URES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+AMTECH SYSTEMS, INC.
+By
+/s/ Lisa D. Gibbs
+Dated:
+February 8, 2023
+Lisa D. Gibbs
+Vice President and Chief Financial Officer
+(Principal Financial Officer and Duly Authorized Officer)
+30

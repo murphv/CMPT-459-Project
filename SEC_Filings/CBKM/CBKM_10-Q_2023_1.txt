@@ -1,0 +1,3382 @@
+2023
+6,911
+7,831
+0
+0
+350,000
+350,000
+0
+0
+8,500,000
+8,500,000
+3,138,000
+3,132,056
+48,639
+75,382
+26,743
+2,879
+0.17
+2,821
+0.16
+26,743
+5,944
+0.34
+2,821
+20,571
+0.32
+10
+1
+400
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6,216
+Income tax expense
+Securities (gains) losses, net
+0001006830 2022-07-01 2022-12-31
+xbrli:shares
+0001006830 2023-02-09
+thunderdome:item
+iso4217:USD
+0001006830 2022-12-31
+0001006830 2022-06-30
+iso4217:USD xbrli:shares
+0001006830 2022-10-01 2022-12-31
+0001006830 2021-10-01 2021-12-31
+0001006830 2021-07-01 2021-12-31
+0001006830 us-gaap:DepositAccountMember 2022-10-01 2022-12-31
+0001006830 us-gaap:DepositAccountMember 2021-10-01 2021-12-31
+0001006830 us-gaap:DepositAccountMember 2022-07-01 2022-12-31
+0001006830 us-gaap:DepositAccountMember 2021-07-01 2021-12-31
+0001006830 us-gaap:DebitCardMember 2022-10-01 2022-12-31
+0001006830 us-gaap:DebitCardMember 2021-10-01 2021-12-31
+0001006830 us-gaap:DebitCardMember 2022-07-01 2022-12-31
+0001006830 us-gaap:DebitCardMember 2021-07-01 2021-12-31
+0001006830 us-gaap:CommonStockMember 2022-09-30
+0001006830 us-gaap:RetainedEarningsMember 2022-09-30
+0001006830 us-gaap:TreasuryStockMember 2022-09-30
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0001006830 2022-09-30
+0001006830 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001006830 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001006830 us-gaap:TreasuryStockMember 2022-10-01 2022-12-31
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0001006830 us-gaap:CommonStockMember 2022-12-31
+0001006830 us-gaap:RetainedEarningsMember 2022-12-31
+0001006830 us-gaap:TreasuryStockMember 2022-12-31
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0001006830 us-gaap:CommonStockMember 2021-09-30
+0001006830 us-gaap:RetainedEarningsMember 2021-09-30
+0001006830 us-gaap:TreasuryStockMember 2021-09-30
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0001006830 2021-09-30
+0001006830 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0001006830 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001006830 us-gaap:TreasuryStockMember 2021-10-01 2021-12-31
+0001006830 us-gaap:CommonStockMember 2021-12-31
+0001006830 us-gaap:RetainedEarningsMember 2021-12-31
+0001006830 us-gaap:TreasuryStockMember 2021-12-31
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0001006830 2021-12-31
+0001006830 us-gaap:CommonStockMember 2022-06-30
+0001006830 us-gaap:RetainedEarningsMember 2022-06-30
+0001006830 us-gaap:TreasuryStockMember 2022-06-30
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-30
+0001006830 us-gaap:RetainedEarningsMember 2022-07-01 2022-12-31
+0001006830 us-gaap:CommonStockMember 2022-07-01 2022-12-31
+0001006830 us-gaap:TreasuryStockMember 2022-07-01 2022-12-31
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-01 2022-12-31
+0001006830 us-gaap:CommonStockMember 2021-06-30
+0001006830 us-gaap:RetainedEarningsMember 2021-06-30
+0001006830 us-gaap:TreasuryStockMember 2021-06-30
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-30
+0001006830 2021-06-30
+0001006830 us-gaap:RetainedEarningsMember 2021-07-01 2021-12-31
+0001006830 us-gaap:CommonStockMember 2021-07-01 2021-12-31
+0001006830 us-gaap:TreasuryStockMember 2021-07-01 2021-12-31
+0001006830 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-07-01 2021-12-31
+0001006830 cbkm:CFBankBranchesMember 2022-12-31
+0001006830 cbkm:CFBankBranchesMember 2021-12-31
+xbrli:pure
+0001006830 us-gaap:UnfundedLoanCommitmentMember srt:MinimumMember 2022-12-31
+0001006830 us-gaap:UnfundedLoanCommitmentMember srt:MaximumMember 2022-12-31
+0001006830 cbkm:TwoBranchesFromCfbankMember 2021-07-16
+0001006830 cbkm:TwoBranchesFromCfbankMember 2021-07-16 2021-07-16
+utr:Y
+0001006830 cbkm:TwoBranchesFromCfbankMember us-gaap:CoreDepositsMember 2021-07-16 2021-07-16
+0001006830 cbkm:CFBankBranchesMember 2021-07-16
+0001006830 cbkm:CFBankBranchesMember 2021-07-16 2021-07-16
+0001006830 cbkm:TwoBranchesFromCfbankMember 2021-07-01 2021-09-30
+0001006830 us-gaap:USTreasurySecuritiesMember 2022-12-31
+0001006830 us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-12-31
+0001006830 us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:CommercialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:CollateralizedMortgageObligationsMember 2022-12-31
+0001006830 us-gaap:OtherDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:USTreasurySecuritiesMember 2022-06-30
+0001006830 us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-06-30
+0001006830 us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:CommercialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:CollateralizedMortgageObligationsMember 2022-06-30
+0001006830 us-gaap:OtherDebtSecuritiesMember 2022-06-30
+0001006830 srt:MaximumMember 2021-07-01 2021-12-31
+0001006830 srt:MaximumMember 2021-10-01 2021-12-31
+0001006830 cbkm:USGovernmentSponsoredMortgageBackedAndRelatedSecuritiesMember 2022-12-31
+0001006830 us-gaap:CollateralizedDebtObligationsMember 2022-12-31
+0001006830 us-gaap:CollateralizedDebtObligationsMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember cbkm:MortgageLoanWarehouseLineOfCreditMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember cbkm:MortgageLoanWarehouseLineOfCreditMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2022-09-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-09-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2022-09-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2022-09-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2022-10-01 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-10-01 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2022-10-01 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2022-10-01 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2022-07-01 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-07-01 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2022-07-01 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2022-07-01 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2021-09-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2021-09-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2021-09-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2021-09-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2021-10-01 2021-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2021-10-01 2021-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2021-10-01 2021-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2021-10-01 2021-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2021-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2021-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2021-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2021-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2021-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2021-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2021-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2021-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember 2021-07-01 2021-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember 2021-07-01 2021-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember 2021-07-01 2021-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember 2021-07-01 2021-12-31
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:CommercialPortfolioSegmentMember 2022-12-31
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-12-31
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:ResidentialPortfolioSegmentMember 2022-12-31
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:ConsumerPortfolioSegmentMember 2022-12-31
+0001006830 cbkm:FinancialAssetAcquiredMember 2022-12-31
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:CommercialPortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:ResidentialPortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:ConsumerPortfolioSegmentMember 2022-12-31
+0001006830 us-gaap:FinancialAssetOriginatedMember 2022-12-31
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:CommercialPortfolioSegmentMember 2022-06-30
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-06-30
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:ResidentialPortfolioSegmentMember 2022-06-30
+0001006830 cbkm:FinancialAssetAcquiredMember us-gaap:ConsumerPortfolioSegmentMember 2022-06-30
+0001006830 cbkm:FinancialAssetAcquiredMember 2022-06-30
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:CommercialPortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:CommercialRealEstatePortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:ResidentialPortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:FinancialAssetOriginatedMember us-gaap:ConsumerPortfolioSegmentMember 2022-06-30
+0001006830 us-gaap:FinancialAssetOriginatedMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember 2022-07-01 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember 2022-07-01 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember 2022-07-01 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember 2022-10-01 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember 2022-10-01 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember 2022-10-01 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember 2021-07-01 2021-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember 2021-07-01 2021-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember 2021-07-01 2021-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember 2021-10-01 2021-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember 2021-10-01 2021-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember 2021-10-01 2021-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-12-31
+0001006830 us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-12-31
+0001006830 us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-12-31
+0001006830 us-gaap:FinancialAssetPastDueMember 2022-12-31
+0001006830 us-gaap:FinancialAssetNotPastDueMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-06-30
+0001006830 us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-06-30
+0001006830 us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-06-30
+0001006830 us-gaap:FinancialAssetPastDueMember 2022-06-30
+0001006830 us-gaap:FinancialAssetNotPastDueMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:DoubtfulMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:DoubtfulMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:DoubtfulMember 2022-12-31
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:DoubtfulMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:DoubtfulMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:DoubtfulMember 2022-12-31
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:DoubtfulMember 2022-12-31
+0001006830 us-gaap:ConsumerPortfolioSegmentMember cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:PassMember 2022-12-31
+0001006830 us-gaap:SpecialMentionMember 2022-12-31
+0001006830 us-gaap:SubstandardMember 2022-12-31
+0001006830 us-gaap:DoubtfulMember 2022-12-31
+0001006830 cbkm:NotRatedMember 2022-12-31
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember us-gaap:DoubtfulMember 2022-06-30
+0001006830 us-gaap:CommercialPortfolioSegmentMember cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:DoubtfulMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember us-gaap:ConstructionLoansMember cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember us-gaap:DoubtfulMember 2022-06-30
+0001006830 us-gaap:CommercialRealEstatePortfolioSegmentMember cbkm:OtherCommercialRealEstateMember cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember us-gaap:DoubtfulMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateOwnerOccupiedLoansMember cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember us-gaap:DoubtfulMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember cbkm:ResidentialRealEstateNonOwnerOccupiedMember cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember us-gaap:DoubtfulMember 2022-06-30
+0001006830 us-gaap:ResidentialPortfolioSegmentMember us-gaap:ConstructionLoansMember cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember us-gaap:DoubtfulMember 2022-06-30
+0001006830 us-gaap:ConsumerPortfolioSegmentMember cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:PassMember 2022-06-30
+0001006830 us-gaap:SpecialMentionMember 2022-06-30
+0001006830 us-gaap:SubstandardMember 2022-06-30
+0001006830 us-gaap:DoubtfulMember 2022-06-30
+0001006830 cbkm:NotRatedMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USTreasurySecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:USStatesAndPoliticalSubdivisionsMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:ResidentialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:CommercialMortgageBackedSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember us-gaap:OtherDebtSecuritiesMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsRecurringMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsNonrecurringMember cbkm:ImpairedLoansMember 2022-09-30
+0001006830 us-gaap:FairValueMeasurementsNonrecurringMember cbkm:ImpairedLoansMember 2022-06-30
+0001006830 us-gaap:FairValueMeasurementsNonrecurringMember cbkm:ImpairedLoansMember 2022-07-01 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsNonrecurringMember cbkm:ImpairedLoansMember 2021-07-01 2021-12-31
+0001006830 us-gaap:FairValueMeasurementsNonrecurringMember cbkm:ImpairedLoansMember 2022-10-01 2022-12-31
+0001006830 us-gaap:FairValueMeasurementsNonrecurringMember cbkm:ImpairedLoansMember 2021-10-01 2021-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel1Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel3Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:DemandAndSavingsDepositsMember us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:DemandAndSavingsDepositsMember us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:DemandAndSavingsDepositsMember us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:DemandAndSavingsDepositsMember us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:TimeDepositsMember us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:TimeDepositsMember us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:TimeDepositsMember us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:FairValueInputsLevel2Member cbkm:TimeDepositsMember us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-06-30
+0001006830 us-gaap:RestrictedStockUnitsRSUMember 2022-10-01 2022-12-31
+0001006830 us-gaap:RestrictedStockUnitsRSUMember 2022-07-01 2022-12-31
+0001006830 us-gaap:RestrictedStockUnitsRSUMember 2021-10-01 2021-12-31
+0001006830 us-gaap:RestrictedStockUnitsRSUMember 2021-07-01 2021-12-31
+0001006830 cbkm:COVID19Member 2022-07-01 2022-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+☒
+Quarterly Report Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934
+For the quarterly period ended
+December 31, 2022
+OR
+☐
+Transition Report Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934
+Commission File No.
+033-79130
+CONSUMERS BANCORP, INC.
+(Exact name of registrant as specified in its charter)
+Ohio
+34-1771400
+(State or other jurisdiction
+(I.R.S. Employer Identification No.)
+of incorporation or organization)
+614 East Lincoln Way, P.O. Box 256 ,
+Minerva ,
+Ohio
+44657
+(Address of principal executive offices)
+(Zip Code)
+( 330 )
+868-7701
+(Registrant’s telephone number)
+Not applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.          Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).               Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer  ☐
+Smaller reporting company  ☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).          Yes
+☐  No ☒
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+None
+There were
+3,089,361
+shares of Registrant’s common stock, no par value, outstanding as of February 9, 2023.
+CONSUMERS BANCORP, INC.
+FORM 10-Q
+QUARTER ENDED December 31, 2022
+Table of Contents
+Page
+Number (s)
+Part I
+–  Financial Information
+Item 1 – Financial Statements
+Consolidated Balance Sheets at December 31, 2022 and June 30, 2022
+1
+Consolidated Statements of Income for the three and six months ended December 31, 2022 and 2021 (unaudited)
+2
+Consolidated Statements of Comprehensive Income for the three and six months ended December 31, 2022 and 2021 (unaudited)
+3
+Condensed Consolidated Statements of Changes in Shareholders’ Equity for the three and six months ended December 31, 2022 and 2021 (unaudited)
+4-5
+Condensed Consolidated Statements of Cash Flows for the six months ended December 31, 2022 and 2021 (unaudited)
+6
+Notes to the Consolidated Financial Statements (unaudited)
+7-23
+Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations
+24-32
+Item 3 – Not Applicable for Smaller Reporting Companies
+Item 4 – Controls and Procedures
+33
+Part II
+–  Other Information
+Item 1 – Legal Proceedings
+34
+Item 1A – Not Applicable for Smaller Reporting Companies
+34
+Item 2 – Unregistered Sales of Equity Securities and Use of Proceeds
+34
+Item 3 – Defaults Upon Senior Securities
+34
+Item 4 – Mine Safety Disclosure
+34
+Item 5 – Other Information
+34
+Item 6 – Exhibits
+34
+Signatures
+35
+PART I – FINANCIAL INFORMATION
+Item 1  –
+Financial Statements
+CONSUMERS BANCORP, INC.
+CONSOLIDATED BALANCE SHEETS
+(Dollars in thousands, except per share data)
+December 31, 2022
+(unaudited)
+June 30,
+2022
+ASSETS
+Cash on hand and noninterest-bearing deposits in financial institutions
+$ 13,133     $ 11,254
+Federal funds sold and interest-bearing deposits in financial institutions
+169       9,698
+Total cash and cash equivalents
+13,302       20,952
+Certificates of deposit in other financial institutions
+3,264       3,781
+Securities, available-for-sale
+287,142       296,347
+Securities, held-to-maturity (fair value of $ 6,911
+at December 31, 2022 and $ 7,831
+at June 30, 2022)
+7,338       7,874
+Equity securities, at fair value
+367       400
+Federal bank and other restricted stocks, at cost
+2,583       2,525
+Loans held for sale
+100       1,165
+Total loans
+664,969       611,843
+Less allowance for loan losses
+( 7,675
+)
+( 7,160
+)
+Net loans
+657,294       604,683
+Cash surrender value of life insurance
+10,089       9,959
+Premises and equipment, net
+16,278       16,521
+Goodwill
+2,452       2,452
+Core deposit intangible, net
+442       470
+Accrued interest receivable and other assets
+12,505       10,184
+Total assets
+$ 1,013,156     $ 977,313
+LIABILITIES
+Deposits
+Noninterest-bearing demand
+$ 254,646     $ 257,665
+Interest bearing demand
+151,848       157,462
+Savings
+354,406       369,054
+Time
+145,252       102,381
+Total deposits
+906,152       886,562
+Short-term borrowings
+25,380       21,295
+Federal Home Loan Bank advances
+24,603       8,256
+Accrued interest and other liabilities
+6,624       7,230
+Total liabilities
+962,759       923,343
+Commitments and contingent liabilities
+SHAREHOLDERS ’
+EQUITY
+Preferred stock ( no
+par value,
+350,000
+shares authorized, none outstanding)
+—       —
+Common stock ( no
+par value,
+8,500,000
+shares authorized;
+3,138,000
+and
+3,132,056
+shares issued as of December 31, 2022 and June 30, 2022, respectively)
+20,557       20,287
+Retained earnings
+61,205       56,906
+Treasury stock, at cost ( 48,639
+and
+75,382
+common shares as of December 31, 2022 and June 30, 2022, respectively)
+( 809
+)
+( 1,117
+)
+Accumulated other comprehensive loss
+( 30,556
+)
+( 22,106
+)
+Total shareholders’ equity
+50,397       53,970
+Total liabilities and shareholders’ equity
+$ 1,013,156     $ 977,313
+See accompanying notes to consolidated financial statements.
+1
+CONSUMERS BANCORP, INC.
+CONSOLIDATED STATEMENTS OF INCOME (Unaudited)
+Three Months ended
+December 31,
+Six Months ended
+December 31,
+(Dollars in thousands, except per share amounts)
+2022
+2021
+2022
+2021
+Interest and dividend income
+Loans, including fees
+$ 7,955     $ 7,497     $ 15,085     $ 14,565
+Securities, taxable
+1,301       806       2,549       1,517
+Securities, tax-exempt
+598       508       1,183       986
+Equity securities
+9       9       17       17
+Federal bank and other restricted stocks
+47       20       70       40
+Federal funds sold and other interest-bearing deposits
+116       43       196       93
+Total interest and dividend income
+10,026       8,883       19,100       17,218
+Interest expense
+Deposits
+1,127       274       1,724       570
+Short-term borrowings
+95       1       154       3
+Federal Home Loan Bank advances
+28       63       50       127
+Total interest expense
+1,250       338       1,928       700
+Net interest income
+8,776       8,545       17,172       16,518
+Provision for loan losses
+225       270       635       460
+Net interest income after provision for loan losses
+8,551       8,275       16,537       16,058
+Noninterest income
+Service charges on deposit accounts
+392       366       789       724
+Debit card interchange income
+534       522       1,075       1,031
+Mortgage banking activity
+72       171       154       429
+Bank owned life insurance income
+65       65       130       130
+Securities gains (losses), net
+( 4
+)
+2       ( 15
+)
+2
+Net change in market value of equity securities
+( 9
+)
+—       ( 33
+)
+—
+Other
+105       95       186       178
+Total noninterest income
+1,155       1,221       2,286       2,494
+Noninterest expenses
+Salaries and employee benefits
+3,591       3,269       7,030       6,516
+Occupancy and equipment
+793       728       1,581       1,436
+Data processing expenses
+192       192       384       406
+Debit card processing expenses
+275       259       549       527
+Professional and director fees
+352       158       587       502
+FDIC assessments
+87       186       239       270
+Franchise taxes
+141       133       282       266
+Marketing and advertising
+203       164       407       378
+Telephone and network communications
+95       88       182       202
+Amortization of intangible
+14       15       28       26
+Other
+577       457       1,129       952
+Total noninterest expenses
+6,320       5,649       12,398       11,481
+Income before income taxes
+3,386       3,847       6,425       7,071
+Income tax expense
+577       685       1,081       1,244
+Net income
+$ 2,809     $ 3,162     $ 5,344     $ 5,827
+Basic and diluted earnings per share
+$ 0.91     $ 1.04       1.74       1.92
+See accompanying notes to consolidated financial statements.
+2
+CONSUMERS BANCORP, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(Unaudited)
+(Dollars in thousands)
+Three Months ended
+December 31,
+Six Months ended
+December 31,
+2022
+2021
+2022
+2021
+Net income
+$ 2,809     $ 3,162     $ 5,344     $ 5,827
+Other comprehensive income (loss), net of tax:
+Net change in unrealized gains (losses) on securities available-for-sale:
+Unrealized gains (losses) arising during the period
+5,429       ( 922
+)
+( 10,711
+)
+( 2,488
+)
+Reclassification adjustment for (gains) losses included in income
+4       ( 2
+)
+15       ( 2
+)
+Net unrealized gains (losses)
+5,433       ( 924
+)
+( 10,696
+)
+( 2,490
+)
+Income tax effect
+( 1,141
+)
+194       2,246       522
+Other comprehensive income (loss)
+4,292       ( 730
+)
+( 8,450
+)
+( 1,968
+)
+Total comprehensive income (loss)
+$ 7,101     $ 2,432     $ ( 3,106
+)
+$ 3,859
+See accompanying notes to consolidated financial statements.
+3
+CONSUMERS BANCORP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS ’
+EQUITY
+(Unaudited)
+(Dollars in thousands, except per share data)
+Common Stock
+Retained
+Earnings
+Treasury
+Stock
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Shareholders ’
+Equity
+Balance, September 30, 2022
+$ 20,385     $ 58,922     $ ( 1,001
+)
+$ ( 34,848
+)
+$ 43,458
+Net income
+—       2,809       —       —       2,809
+Other comprehensive income
+—       —       —       4,292       4,292
+26,743
+shares associated with stock awards
+—       —       192       —       192
+Restricted stock expense
+118       —               —       118
+2,879
+shares issued associated with dividend reinvestment plan and stock purchase plan
+54       —       —       —       54
+Cash dividends declared ($ 0.17
+per share)
+—       ( 526
+)
+—       —       ( 526
+)
+Balance, December 31, 2022
+$ 20,557     $ 61,205     $ ( 809
+)
+$ ( 30,556
+)
+$ 50,397
+(Dollars in thousands, except per share data)
+Common Stock
+Retained
+Earnings
+Treasury
+Stock
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Shareholders ’
+Equity
+Balance, September 30, 2021
+$ 20,113     $ 49,844     $ ( 1,117
+)
+$ 2,312     $ 71,152
+Net income
+—       3,162       —       —       3,162
+Other comprehensive loss
+—       —       —       ( 730
+)
+( 730
+)
+2,821
+shares issued associated with dividend reinvestment plan and stock purchase plan
+62       —       —       —       62
+Cash dividends declared ($ 0.16
+per share)
+—       ( 488
+)
+—       —       ( 488
+)
+Balance, December 31, 2021
+$ 20,175     $ 52,518     $ ( 1,117
+)
+$ 1,582     $ 73,158
+(Dollars in thousands, except per share data)
+Common Stock
+Retained
+Earnings
+Treasury
+Stock
+Accumulated
+Other
+Comprehensive
+Loss
+Total
+Shareholders ’
+Equity
+Balance, June 30, 2022
+$ 20,287     $ 56,906     $ ( 1,117
+)
+$ ( 22,106
+)
+$ 53,970
+Net income
+—       5,344       —       —       5,344
+Other comprehensive loss
+—       —       —       ( 8,450
+)
+( 8,450
+)
+26,743
+shares associated with vested stock awards
+35       —       308       —       343
+Restricted stock expense
+118       —       —       —       118
+5,944
+shares issued associated with dividend reinvestment plan and stock purchase plan
+117       —       —       —       117
+Cash dividends declared ($ 0.34
+per share)
+—       ( 1,045
+)
+—       —       ( 1,045
+)
+Balance, December 31, 2022
+$ 20,557     $ 61,205     $ ( 809
+)
+$ ( 30,556
+)
+$ 50,397
+4
+CONSUMERS BANCORP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS ’
+EQUITY (CONTINUED)
+(Unaudited)
+(Dollars in thousands, except per share data)
+Common Stock
+Retained
+Earnings
+Treasury
+Stock
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Shareholders ’
+Equity
+Balance, June 30, 2021
+$ 20,011     $ 47,663     $ ( 1,324
+)
+$ 3,550     $ 69,900
+Net income
+—       5,827       —       —       5,827
+Other comprehensive loss
+—       —       —       ( 1,968
+)
+( 1,968
+)
+2,821
+shares issued associated with dividend reinvestment plan and stock purchase plan
+62       —       —       —       62
+20,571
+shares associated with vested stock awards
+102       —       207       —       309
+Cash dividends declared ($ 0.32
+per share)
+—       ( 972
+)
+—       —       ( 972
+)
+Balance, December 31, 2021
+$ 20,175     $ 52,518     $ ( 1,117
+)
+$ 1,582     $ 73,158
+See accompanying notes to consolidated financial statements.
+5
+CONSUMERS BANCORP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+(Dollars in thousands)
+Six Months Ended
+December 31,
+2022
+2021
+Cash flows from operating activities
+Net cash from operating activities
+$ 7,715     $ 8,548
+Cash flow from investing activities
+Purchases of securities, available-for-sale
+( 17,091
+)
+( 67,274
+)
+Maturities, calls and principal pay downs of securities, available-for-sale
+11,405       16,520
+Sale of securities, available-for-sale
+3,708       1,000
+Principal pay downs of securities, held-to-maturity
+536       976
+Net decrease in certificate of deposit in other financial institutions
+517       1,277
+Net change in Federal Home Loan Bank stock, at cost
+( 58
+)
+—
+Net increase in loans
+( 53,257
+)
+( 36,719
+)
+Acquisition, net cash received
+—       66,552
+Premises and equipment purchases
+( 298
+)
+( 794
+)
+Sale of other repossessed assets
+11       —
+Net cash from investing activities
+( 54,527
+)
+( 18,462
+)
+Cash flow from financing activities
+Net increase in deposit accounts
+19,590       16,833
+Net change in short-term borrowings
+4,085       ( 1,521
+)
+Proceeds from Federal Home Loan Bank advances
+16,400       —
+Repayments of Federal Home Loan Bank advances
+( 53
+)
+( 1,764
+)
+Proceeds from dividend reinvestment and stock purchase plan
+185       62
+Dividends paid
+( 1,045
+)
+( 972
+)
+Net cash from financing activities
+39,162       12,638
+Increase (decrease) in cash or cash equivalents
+( 7,650
+)
+2,724
+Cash and cash equivalents, beginning of period
+20,952       18,529
+Cash and cash equivalents, end of period
+$ 13,302     $ 21,253
+Supplemental disclosure of cash flow information:
+Cash paid during the period:
+Interest
+$ 1,815     $ 699
+Federal income taxes
+1,515       805
+Non-cash items:
+Transfer from loans to repossessed assets
+11       83
+Issuance of treasury stock for vested stock awards
+343       309
+Branch acquisition:
+Noncash assets acquired:
+Securities, available-for-sale
+—       15,602
+Loans
+—       19,943
+Premises and equipment
+—       413
+Goodwill
+—       1,616
+Core deposit intangible
+—       295
+Accrued interest receivable and other assets
+—       216
+Total noncash assets acquired
+—       38,085
+Liabilities assumed:
+Deposits
+—       104,538
+Other liabilities
+—       99
+Total liabilities assumed
+—       104,637
+Net noncash liabilities assumed
+—       ( 66,552
+)
+See accompanying notes to consolidated financial statements.
+6
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited)
+(Dollars in thousands, except per share data)
+Note
+1
+–
+Summary of Significant Accounting Policies :
+Nature of Operations:
+Consumers Bancorp, Inc. (the Corporation) is a bank holding company headquartered in Minerva, Ohio that provides, through its banking subsidiary, Consumers National Bank (the Bank), a broad array of products and services throughout its primary market area of Carroll, Columbiana, Jefferson, Mahoning, Stark, Summit, Wayne, and contiguous counties in Ohio, Pennsylvania, and West Virginia. The Bank’s business involves attracting deposits from businesses and individual customers and using such deposits to originate commercial, mortgage and consumer loans in its primary market area.
+Basis of Presentation : The consolidated financial statements for interim periods are unaudited and reflect all adjustments (consisting of only normal recurring adjustments), which, in the opinion of management, are necessary to present fairly the financial position and results of operations and cash flows for the periods presented. The unaudited financial statements are presented in accordance with the requirements of Form
+10 -Q and do
+not
+include all disclosures normally required by accounting principles generally accepted in the United States of America. The financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in the Corporation’s Form
+10 -K for the year ended
+June 30, 2022.
+The results of operations for the interim period disclosed herein are
+not
+necessarily indicative of the results that
+may
+be expected for a full year.
+The consolidated financial statements include the accounts of the Corporation and the Bank. All significant inter-company transactions and accounts have been eliminated in consolidation.
+Segment Information:
+The Corporation is a bank holding company engaged in the business of commercial and retail banking, which accounts for substantially all the revenues, operating income, and assets. Accordingly, all the Corporation’s operations are recorded in
+one
+segment, banking.
+Reclassifications:
+Certain items in prior financial statements have been reclassified to conform to the current presentation. Any reclassifications had
+no
+impact on prior year net income or shareholders’ equity.
+Recently Issued Accounting Pronouncements
+Not
+Yet Effective:
+In
+June 2016,
+the Financial Accounting Standards Board (FASB) issued ASU
+2016 - 13,
+Financial Instruments—Credit Losses (Topic
+326 ): Measurement of Credit Losses on Financial Instruments. This ASU adds a new Topic
+326
+to the codification and removes the thresholds that companies apply to measure credit losses on financial instruments measured at amortized cost, such as loans, receivables, and held-to-maturity debt securities. Under current U.S. generally accepted accounting principles, companies generally recognize credit losses when it is probable that the loss has been incurred. The revised guidance will remove all current loss recognition thresholds and will require companies to recognize an allowance for credit losses for the difference between the amortized cost basis of a financial instrument and the amount of amortized cost that the corporation expects to collect over the instrument’s contractual life. ASU
+2016 - 13
+also amends the credit loss measurement guidance for available-for-sale debt securities and beneficial interests in securitized financial assets. The guidance in ASU
+2016 - 13
+is effective for “public business entities,” as defined in the guidance, that are SEC filers for fiscal years and for interim periods within those fiscal years beginning after
+December 15, 2019.
+Early adoption of the guidance is permitted for fiscal years beginning after
+December 15, 2018,
+including interim periods within those fiscal years. However, during
+July 2019,
+FASB unanimously voted for a proposal to delay this ASU to
+January 2023
+for smaller reporting companies. On
+October 16, 2019,
+FASB approved a final ASU delaying the effective date. The new guidance is effective for annual and interim periods beginning after
+December 15, 2022
+for certain entities, including smaller reporting companies. The Corporation is a smaller reporting company.
+The Corporation is evaluating how adopting this new guidance will impact the consolidated financial statements and the Corporation’s current systems and processes. Management has analyzed and finalized its pool segmentation, established the peer group that will be used as the source of loss experience data, and has started back testing in preparation for adoption of the new methodology. Management plans to use the Net Present Value of Discounted Cash Flow methodology for all loan pools and expects the implementation of ASU
+No.
+2016 - 13
+to increase the balance of the allowance for loan losses by less than
+10%.
+In addition, a reserve for unfunded commitments will need to be established and Management expects it to be in a range of
+0.25 % to
+0.50 % of the amount of unfunded commitments that are
+not
+unconditionally cancellable. Management continues to evaluate the modeling and its potential impact on the Corporation's results of consolidated operations and financial position and, once the new guidance is adopted, the allowance for loan losses and reserve for unfunded commitments will increase through a
+one -time adjustment to retained earnings. The Corporation is also developing disclosure documentation related to adoption of this standard. The Corporation is planning to adopt this new guidance within the time frame noted above.
+7
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Note
+2
+–
+Acquisition
+On
+July 16, 2021,
+the Corporation completed its acquisition (branch acquisition) of
+two
+branches located in Calcutta and Wellsville, Ohio from CFBank, National Association. In connection with the branch acquisition, the Corporation assumed $ 104,538
+in branch deposits for a deposit premium of
+1.75 %. In addition, the Corporation acquired $ 15,602
+of subordinated debt securities issued by unrelated financial institutions and $ 19,943
+of loans. This transaction qualifies as a business combination.
+The following table summarizes the estimated fair values of the assets acquired and liabilities assumed by the Corporation at the date of the branch acquisition. The core deposit intangible will be amortized over
+ten
+years on a straight-line basis. Goodwill will
+not
+be amortized, but instead will be evaluated for impairment.
+Assets acquired:
+Cash and cash equivalents
+$ 515
+Securities, available-for-sale
+15,602
+Loans
+19,943
+Premises and equipment
+413
+Core deposit intangible
+295
+Accrued interest receivable
+216
+Total assets acquired
+36,984
+Liabilities assumed:
+Noninterest-bearing deposits
+10,535
+Interest-bearing deposits
+94,003
+Other liabilities
+99
+Total liabilities assumed
+104,637
+Fair value of net liabilities assumed
+( 67,653
+)
+Cash received
+66,037
+Goodwill
+$ 1,616
+The acquired assets and liabilities were measured at estimated fair values. Management made certain estimates and exercised judgement in accounting for the branch acquisition. The fair value of loans was estimated using discounted contractual cash flows. The book balance of the loans at the time of the branch acquisition was $ 20,325 . The fair value disclosed above reflects a credit-related adjustment of $( 388 ) and an adjustment for other factors of $ 6 . Loans evidencing credit deterioration since origination, purchased credit impaired loans, included in loans receivable were immaterial. Acquisition costs of $ 144
+pre-tax, or $ 118
+after-tax, were recorded during the
+first
+quarter of fiscal year
+2022.
+8
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Note
+3
+–
+Securities
+Debt securities
+The following tables summarize the Corporation’s debt securities as of
+December 31, 2022
+and
+June 30, 2022:
+Available
+– for-Sale
+Amortized
+Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized Losses
+Fair
+Value
+December 31, 2022
+Obligations of U.S. Treasury
+$ 8,925     $ —     $ ( 604
+)
+$ 8,321
+Obligations of U.S. government-sponsored entities and agencies
+27,783       —       ( 3,751
+)
+24,032
+Obligations of state and political subdivisions
+106,075       119       ( 10,259
+)
+95,935
+U.S. Government-sponsored mortgage-backed securities–residential
+108,903       5       ( 15,670
+)
+93,238
+U.S. Government-sponsored mortgage-backed securities– commercial
+8,613       —       ( 1,860
+)
+6,753
+U.S. Government-sponsored collateralized mortgage obligations– residential
+48,249       22       ( 5,187
+)
+43,084
+Other debt securities
+17,272       —       ( 1,493
+)
+15,779
+Total securities available-for-sale
+$ 325,820     $ 146     $ ( 38,824
+)
+$ 287,142
+Held-to-Maturity
+Amortized
+Cost
+Gross
+Unrecognized
+Gains
+Gross
+Unrecognized Losses
+Fair
+Value
+December 31, 2022
+Obligations of state and political subdivisions
+$ 7,338     $ —     $ ( 427
+)
+$ 6,911
+Available-for-sale
+Amortized
+Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+Fair
+Value
+June 30, 2022
+Obligation of U.S Treasury
+$ 8,909     $ —     $ ( 462
+)
+$ 8,447
+Obligations of U.S. government-sponsored entities and agencies
+28,689       —       ( 2,424
+)
+26,265
+Obligations of state and political subdivisions
+105,977       129       ( 8,749
+)
+97,357
+U.S. Government-sponsored mortgage-backed securities – residential
+113,812       13       ( 11,642
+)
+102,183
+U.S. Government-sponsored mortgage-backed securities – commercial
+8,623       —       ( 1,322
+)
+7,301
+U.S. Government-sponsored collateralized mortgage obligations – residential
+40,952       1       ( 2,774
+)
+38,179
+Other debt securities
+17,367       —       ( 752
+)
+16,615
+Total available-for-sale securities
+$ 324,329     $ 143     $ ( 28,125
+)
+$ 296,347
+Held-to-maturity
+Amortized
+Cost
+Gross
+Unrecognized
+Gains
+Gross
+Unrecognized
+Losses
+Fair
+Value
+June 30, 2022
+Obligations of state and political subdivisions
+$ 7,874     $ 47     $ ( 90
+)
+$ 7,831
+9
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Proceeds from the sale of available-for-sale securities were as follows:
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Proceeds from sales
+$ 1,639     $ 1,000     $ 3,708     $ 1,000
+Gross realized gains
+1       2       8       2
+Gross realized losses
+5       —       23       —
+The income tax benefit related to the net realized loss amounted to $ 1
+for the
+three -month and $ 3
+for the
+six -month periods ended
+December 31, 2022.
+The income tax provision related to the net realized gain amounted to less than $ 1
+for the
+three - and
+six -month periods ended
+December 31, 2021.
+The amortized cost and fair values of debt securities as of
+December 31, 2022,
+by expected maturity, are shown below. Expected maturities will differ from contractual maturities because borrowers
+may
+have the right to call or prepay obligations with or without call or prepayment penalties. Securities
+not
+due at a single maturity date, primarily mortgage-backed securities, are shown separately.
+Available-for-Sale
+Amortized
+Cost
+Estimated Fair
+Value
+Due in one year or less
+$ 2,747     $ 2,705
+Due after one year through five years
+31,708       30,013
+Due after five years through ten years
+52,323       46,902
+Due after ten years
+73,277       64,447
+Total
+160,055       144,067
+U.S. Government-sponsored mortgage-backed and related securities
+165,765       143,075
+Total securities available-for-sale
+$ 325,820     $ 287,142
+Held-to-Maturity
+Due after one year through five years
+$ 171     $ 169
+Due after five years through ten years
+3,289       3,182
+Due after ten years
+3,878       3,560
+Total securities held-to-maturity
+$ 7,338     $ 6,911
+Securities with a carrying value of approximately $ 131,731
+and $ 126,679
+were pledged at
+December 31, 2022
+and
+June 30, 2022,
+respectively, to secure public deposits and commitments as required or permitted by law.
+10
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+The following table summarizes the securities with unrealized losses as of
+December 31, 2022
+and
+June 30, 2022,
+aggregated by investment category and length of time that individual securities have been in a continuous unrealized loss position:
+Less than 12 Months
+12 Months or more
+Total
+Available-for-sale
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+December 31, 2022
+Obligation of U.S. Treasury
+$ —     $ —     $ 8,321     $ ( 604 )   $ 8,321     $ ( 604
+)
+Obligations of U.S. government-sponsored entities and agencies
+11,941       ( 1,392
+)
+12,091       ( 2,359
+)
+24,032       ( 3,751
+)
+Obligations of state and political subdivisions
+73,469       ( 7,882
+)
+11,583       ( 2,377
+)
+85,052       ( 10,259
+)
+U.S. Government-sponsored mortgage-backed securities – residential
+32,106       ( 2,959
+)
+59,845       ( 12,711
+)
+91,951       ( 15,670
+)
+U.S. Government-sponsored mortgage-backed securities – commercial
+2,279       ( 610
+)
+4,474       ( 1,250
+)
+6,753       ( 1,860
+)
+Collateralized mortgage obligations - residential
+27,929       ( 1,662
+)
+14,147       ( 3,525
+)
+42,076       ( 5,187
+)
+Other debt securities
+6,569       ( 554
+)
+9,210       ( 939
+)
+15,779       ( 1,493
+)
+Total temporarily impaired
+$ 154,293     $ ( 15,059
+)
+$ 119,671     $ ( 23,765
+)
+$ 273,964     $ ( 38,824
+)
+Less than 12 Months
+12 Months or more
+Total
+Held to Maturity
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+December 31, 2022
+Obligations of state and political subdivisions
+$ 3,729     $ ( 320
+)
+$ 3,182     $ ( 107
+)
+$ 6,911     $ ( 427
+)
+Total temporarily impaired
+$ 3,729     $ ( 320
+)
+$ 3,182     $ ( 107
+)
+$ 6,911     $ ( 427
+)
+Less than 12 Months
+12 Months or more
+Total
+Available-for-sale
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+June 30, 2022
+Obligations of U.S. Treasury
+$ 8,447     $ ( 462
+)
+$ —     $ —     $ 8,447     $ ( 462
+)
+Obligations of U.S. government-sponsored entities and agencies
+26,265       ( 2,424
+)
+—       —       26,265       ( 2,424
+)
+Obligations of state and political subdivisions
+80,445       ( 8,331
+)
+2,047       ( 418
+)
+82,492       ( 8,749
+)
+Mortgage-backed securities – residential
+76,526       ( 7,586
+)
+24,569       ( 4,056
+)
+101,095       ( 11,642
+)
+Mortgage-backed securities – commercial
+7,301       ( 1,322
+)
+—       —       7,301       ( 1,322
+)
+Collateralized mortgage obligations - residential
+30,729       ( 2,308
+)
+2,713       ( 466
+)
+33,442       ( 2,774
+)
+Other debt securities
+16,156       ( 711
+)
+459       ( 41
+)
+16,615       ( 752
+)
+Total temporarily impaired
+$ 245,869     $ ( 23,144
+)
+$ 29,788     $ ( 4,981
+)
+$ 275,657     $ ( 28,125
+)
+Less than 12 Months
+12 Months or more
+Total
+Held to Maturity
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+Fair
+Value
+Unrealized
+Loss
+June 30, 2022
+Obligations of state and political subdivisions
+$ 3,522     $ ( 90
+)
+—     $ —     $ 3,522     $ ( 90
+)
+Total temporarily impaired
+$ 3,522     $ ( 90
+)
+$ —     $ —     $ 3,522     $ ( 90
+)
+Management evaluates securities for other-than-temporary impairment (OTTI) on a quarterly basis, and more frequently when economic or market conditions warrant such an evaluation. The securities portfolio is evaluated for OTTI by segregating the portfolio into
+two
+general segments and applying the appropriate OTTI model. Investment securities are generally evaluated for OTTI under FASB ASC Topic
+320,
+Accounting for Certain Investments in Debt and Equity Securities .
+11
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+In determining OTTI under the ASC Topic
+320
+model, management considers many factors, including: ( 1 ) the length of time and the extent to which the fair value has been less than cost, ( 2 ) the financial condition and near-term prospects of the issuer, ( 3 ) whether the market decline was affected by macroeconomic conditions, and ( 4 ) whether the entity has the intent to sell the debt security or more likely than
+not
+will be required to sell the debt security before its anticipated recovery. The assessment of whether an other-than-temporary decline exists involves a high degree of subjectivity and judgment and is based on the information available to management at a point in time.
+At
+December 31 2022,
+there were a total of
+399
+available-for-sale and
+four
+held-to-maturity securities in the portfolio with unrealized losses due to an increase in market interest rates when compared to the time of purchase. The unrealized losses within the securities portfolio as of
+December 31, 2022
+have
+not
+been recognized into income because the decline in fair value is
+not
+attributed to credit quality and management does
+not
+intend to sell, and it is
+not
+likely that management will be required to sell, the securities prior to their anticipated recovery. The mortgage-backed securities and collateralized mortgage obligations were primarily issued by Fannie Mae, Freddie Mac and Ginnie Mae, institutions which the government has affirmed its commitment to support. The Corporation does
+not
+own any private label mortgage-backed securities.
+Equity Securities
+The Corporation owned equity securities with an amortized cost of $ 400
+as of
+December 31, 2022,
+and
+June 30, 2022.
+Changes in the fair value of these securities are included in noninterest income on the consolidated statements of income. The following table presents the net unrealized losses on equity securities recognized in earnings for the
+three
+and
+six -month periods ended
+December 31, 2022
+and
+2021.
+There were
+no
+sales of equity securities during the
+three
+and
+six -month periods ended
+December 31, 2022
+and
+2021.
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Unrealized loss recognized on equity securities held at the end of the period
+$ ( 9
+)
+$ —     $ ( 33
+)
+$ —
+Note
+4
+–
+Loans
+Major classifications of loans were as follows:
+December 31,
+2022
+June 30,
+2022
+Commercial
+$ 103,513     $ 87,008
+Commercial real estate:
+Construction
+16,656       15,158
+Other
+301,646       291,847
+1 – 4 Family residential real estate:
+Owner occupied
+149,177       142,244
+Non-owner occupied
+23,513       26,029
+Construction
+7,707       4,317
+Consumer
+62,470       44,964
+Subtotal
+664,682       611,567
+Net deferred loan fees and costs
+287       276
+Allowance for loan losses
+( 7,675
+)
+( 7,160
+)
+Net Loans
+$ 657,294     $ 604,683
+The commercial loan category in the above table includes a mortgage loan warehouse line of credit to another financial institution with an outstanding balance of $ 9,998
+as of
+December 31, 2022
+and it was
+zero
+as of
+June 30, 2022.
+12
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+The following table presents the activity in the allowance for loan losses by portfolio segment for the
+three
+months ended
+December 31, 2022:
+1-4 Family
+Commercial
+Residential
+Real
+Real
+Commercial
+Estate
+Estate
+Consumer
+Total
+Allowance for loan losses:
+Beginning balance
+$ 1,021     $ 4,072     $ 1,676     $ 777     $ 7,546
+Provision for loan losses
+( 15
+)
+11       1       228       225
+Loans charged-off
+—       —       —       ( 119
+)
+( 119
+)
+Recoveries
+—       1       —       22       23
+Total ending allowance balance
+$ 1,006     $ 4,084     $ 1,677     $ 908     $ 7,675
+The following table presents the activity in the allowance for loan losses by portfolio segment for the
+six
+months ended
+December 31, 2022:
+1-4 Family
+Commercial
+Residential
+Real
+Real
+Commercial
+Estate
+Estate
+Consumer
+Total
+Allowance for loan losses:
+Beginning balance
+$ 960     $ 3,927     $ 1,645     $ 628     $ 7,160
+Provision for loan losses
+46       156       36       397       635
+Loans charged-off
+—       —       ( 6
+)
+( 191
+)
+( 197
+)
+Recoveries
+—       1       2       74       77
+Total ending allowance balance
+$ 1,006     $ 4,084     $ 1,677     $ 908     $ 7,675
+The following table presents the activity in the allowance for loan losses by portfolio segment for the
+three
+months ended
+December 31, 2021:
+1-4 Family
+Commercial
+Residential
+Real
+Real
+Commercial
+Estate
+Estate
+Consumer
+Total
+Allowance for loan losses:
+Beginning balance
+$ 906     $ 3,985     $ 1,430     $ 356     $ 6,677
+Provision for loan losses
+49       62       97       62       270
+Loans charged-off
+—       —       ( 40
+)
+( 13
+)
+( 53
+)
+Recoveries
+21       2       3       12       38
+Total ending allowance balance
+$ 976     $ 4,049     $ 1,490     $ 417     $ 6,932
+The following table presents the activity in the allowance for loan losses by portfolio segment for the
+six
+months ended
+December 31, 2021:
+1-4 Family
+Commercial
+Residential
+Real
+Real
+Commercial
+Estate
+Estate
+Consumer
+Total
+Allowance for loan losses:
+Beginning balance
+$ 904     $ 3,949     $ 1,307     $ 311     $ 6,471
+Provision for loan losses
+51       98       207       104       460
+Loans charged-off
+—       —       ( 40
+)
+( 47
+)
+( 87
+)
+Recoveries
+21       2       16       49       88
+Total ending allowance balance
+$ 976     $ 4,049     $ 1,490     $ 417     $ 6,932
+13
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+The following table presents the balance in the allowance for loan losses and the recorded investment in loans by portfolio segment and based on impairment method as of
+December 31, 2022.
+Included in the recorded investment in loans is $ 1,494
+of accrued interest receivable.
+1-4 Family
+Commercial
+Residential
+Real
+Real
+Commercial
+Estate
+Estate
+Consumer
+Total
+Ending allowance for loan losses balance attributable to loans:
+Individually evaluated for impairment
+$ —     $ —     $ —     $ —     $ —
+Acquired loans collectively evaluated for impairment
+—       51       77       —       128
+Originated loans collectively evaluated for impairment
+1,006       4,033       1,600       908       7,547
+Total ending allowance balance
+$ 1,006     $ 4,084     $ 1,677     $ 908     $ 7,675
+Recorded investment in loans:
+Loans individually evaluated for impairment
+$ 315     $ 40     $ 47     $ —     $ 402
+Acquired loans collectively evaluated for impairment
+674       7,706       25,052       2,029       35,461
+Originated loans collectively evaluated for impairment
+102,804       310,578       156,784       60,434       630,600
+Total ending loans balance
+$ 103,793     $ 318,324     $ 181,883     $ 62,463     $ 666,463
+The following table presents the balance in the allowance for loan losses and the recorded investment in loans by portfolio segment and based on impairment method as of
+June 30, 2022.
+Included in the recorded investment in loans is $ 1,214
+of accrued interest receivable.
+1-4 Family
+Commercial
+Residential
+Real
+Real
+Commercial
+Estate
+Estate
+Consumer
+Total
+Allowance for loan losses:
+Ending allowance balance attributable to loans:
+Individually evaluated for impairment
+$ —     $ —     $ —     $ —     $ —
+Acquired loans collectively evaluated for impairment
+1       62       85       —       148
+Originated loans collectively evaluated for impairment
+959       3,865       1,560       628       7,012
+Total ending allowance balance
+$ 960     $ 3,927     $ 1,645     $ 628     $ 7,160
+Recorded investment in loans:
+Loans individually evaluated for impairment
+$ 276     $ 42     $ 155     $ —     $ 473
+Acquired loans collectively evaluated for impairment
+665       10,095       27,731       3,051       41,542
+Originated loans collectively evaluated for impairment
+86,310       296,776       146,058       41,898       571,042
+Total ending loans balance
+$ 87,251     $ 306,913     $ 173,944     $ 44,949     $ 613,057
+14
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+The following table presents information related to unpaid principal balance, recorded investment and interest income associated with loans individually evaluated for impairment by class of loans as of
+December 31, 2022
+and for the
+six
+months ended
+December 31, 2022:
+As of December 31, 2022
+Six Months ended December 31, 2022
+Unpaid
+Allowance for Loan
+Average
+Interest
+Cash Basis
+Principal
+Recorded
+Losses
+Recorded
+Income
+Interest
+Balance
+Investment
+Allocated
+Investment
+Recognized
+Recognized
+With no related allowance recorded:
+Commercial
+$ 408     $ 315     $ —     $ 297     $ 18     $ 18
+Commercial real estate:
+Other
+79       40       —       40       4       4
+1-4 Family residential real estate:
+Owner occupied
+45       20       —       20       2       2
+Non-owner occupied
+27       27       —       53       —       —
+Total
+$ 559     $ 402     $ —     $ 410     $ 24     $ 24
+The following table presents information related to average recorded investment and interest income associated with loans individually evaluated for impairment by class of loans for the
+three
+months ended
+December 31, 2022:
+Average
+Interest
+Cash Basis
+Recorded
+Income
+Interest
+Investment
+Recognized
+Recognized
+With no related allowance recorded:
+Commercial
+$ 308     $ 8     $ 8
+Commercial real estate:
+Other
+40       1       1
+1-4 Family residential real estate:
+Owner occupied
+20       1       1
+Non-owner occupied
+27       —       —
+Total
+$ 395     $ 10     $ 10
+15
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+The following table presents information related to unpaid principal balance, recorded investment and interest income associated with loans individually evaluated for impairment by class of loans as of
+June 30, 2022
+and for the
+six
+months ended
+December 31, 2021:
+As of June 30, 2022
+Six Months ended December 31, 2021
+Unpaid
+Allowance for Loan
+Average
+Interest
+Cash Basis
+Principal
+Recorded
+Losses
+Recorded
+Income
+Interest
+Balance
+Investment
+Allocated
+Investment
+Recognized
+Recognized
+With no related allowance recorded:
+Commercial
+$ 414     $ 276     $ —     $ 297     $ —     $ —
+Commercial real estate:
+Other
+83       42       —       802       102       102
+1-4 Family residential real estate:
+Owner occupied
+48       22       —       317       3       3
+Non-owner occupied
+193       133       —       167       75       75
+With an allowance recorded:
+Commercial
+—       —       —       128       4       4
+Total
+$ 738     $ 473     $ —     $ 1,711     $ 184     $ 184
+The following table presents information related to average recorded investment and interest income associated with loans individually evaluated for impairment by class of loans for the
+three
+months ended
+December 31, 2021:
+Average
+Interest
+Cash Basis
+Recorded
+Income
+Interest
+Investment
+Recognized
+Recognized
+With no related allowance recorded:
+Commercial
+$ 295     $ —     $ —
+Commercial real estate:
+Other
+691       99       99
+1-4 Family residential real estate:
+Owner occupied
+272       1       1
+Non-owner occupied
+132       75       75
+With an allowance recorded:
+Commercial
+126       2       2
+Total
+$ 1,516     $ 177     $ 177
+16
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+The following table presents the recorded investment in non-accrual and loans past due over
+90
+days still on accrual by class of loans as of
+December 31, 2022
+and
+June 30, 2022:
+December 31, 2022
+June 30, 2022
+Loans Past Due
+Loans Past Due
+Over 90 Days
+Over 90 Days
+Still
+Still
+Non-accrual
+Accruing
+Non-accrual
+Accruing
+Commercial
+$ —     $ —     $ 276     $ 9
+1 – 4 Family residential:
+Owner occupied
+20       —       22       —
+Non-owner occupied
+27       —       133       —
+Total
+$ 47     $ —     $ 431     $ 9
+Non-accrual loans and loans past due
+90
+days still on accrual include both smaller balance homogeneous loans that are collectively evaluated for impairment and individually classified impaired loans.
+The following table presents the aging of the recorded investment in past due loans as of
+December 31, 2022
+by class of loans:
+Days Past Due
+30 - 59     60 - 89
+90 Days or
+Total
+Loans Not
+Days
+Days
+Greater
+Past Due
+Past Due
+Total
+Commercial
+$ —     $ —     $ —     $ —     $ 103,793     $ 103,793
+Commercial real estate:
+Construction
+—       —       —       —       16,655       16,655
+Other
+52       —       —       52       301,617       301,669
+1-4 Family residential:
+Owner occupied
+532       6       —       538       150,033       150,571
+Non-owner occupied
+—       4       27       31       23,497       23,528
+Construction
+—       —       —       —       7,784       7,784
+Consumer
+499       131       —       630       61,833       62,463
+Total
+$ 1,083     $ 141     $ 27     $ 1,251     $ 665,212     $ 666,463
+The above table of past due loans includes the recorded investment in non-accrual loans of $ 27
+in the
+90
+days or greater category and $ 20
+in the loans
+not
+past due category.
+The following table presents the aging of the recorded investment in past due loans as of
+June 30, 2022
+by class of loans:
+Days Past Due
+30 - 59     60 - 89
+90 Days or
+Total
+Loans Not
+Days
+Days
+Greater
+Past Due
+Past Due
+Total
+Commercial
+$ —     $ —     $ 9     $ 9     $ 87,242     $ 87,251
+Commercial real estate:
+Construction
+—       —       —       —       15,138       15,138
+Other
+52       —       —       52       291,723       291,775
+1-4 Family residential:
+Owner occupied
+125       —       —       125       143,381       143,506
+Non-owner occupied
+—       —       27       27       26,036       26,063
+Construction
+—       —       —       —       4,375       4,375
+Consumer
+381       79       —       460       44,489       44,949
+Total
+$ 558     $ 79     $ 36     $ 673     $ 612,384     $ 613,057
+The above table of past due loans includes the recorded investment in non-accrual loans of $ 27
+in the
+90
+days or greater category and $ 404
+in the loans
+not
+past due category.
+17
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Troubled Debt Restructurings (TDR):
+The Corporation has certain loans that have been modified in order to maximize collection of loan balances that are classified as TDRs. A modified loan is usually classified as a TDR if, for economic reasons, management grants a concession to the original terms and conditions of the loan to a borrower who is experiencing financial difficulties that it would
+not
+have otherwise considered.
+As of
+December 31, 2022
+and
+June 30, 2022,
+the Corporation had $ 354
+and $ 318 , respectively, of loans classified as TDRs which are included in impaired loans above. As of
+December 31, 2022
+and
+June 30, 2022,
+the Corporation had
+not
+committed to lend any additional funds to customers with outstanding loans that were classified as troubled debt restructurings. As of
+December 31, 2022
+and
+June 30, 2022
+there were
+no
+specific reserves allocated to these loans.
+During the
+three - and
+six -month periods ended
+December 31, 2022
+and
+2021,
+there were
+no
+loan modifications completed that were classified as troubled debt restructurings. There were
+no
+charge-offs from troubled debt restructurings that were completed during the
+three - and
+six -month periods ended
+December 31, 2022
+and
+2021.
+There were
+no
+loans classified as troubled debt restructurings for which there was a payment default within
+12
+months following the modification during the
+three - and
+six -month periods ended
+December 31, 2022
+and
+2021.
+A loan is considered in payment default once it is
+90
+days contractually past due under the modified terms.
+Credit Quality Indicators:
+The Corporation categorizes loans into risk categories based on relevant information about the ability of borrowers to service their debt such as: current financial information, historical payment experience, credit documentation, public information, current economic trends and other relevant information. The Corporation analyzes loans individually by classifying the loans as to credit risk. This analysis includes loans with a total outstanding loan relationship greater than $ 100
+and non-homogeneous loans, such as commercial and commercial real estate loans. Management monitors the loans on an ongoing basis for any changes in the borrower’s ability to service their debt and affirms the risk ratings for the loans and leases in their respective portfolio on an annual basis. The Corporation uses the following definitions for risk ratings:
+Special Mention.
+Loans classified as special mention have a potential weakness that deserves management’s close attention. If left uncorrected, these potential weaknesses
+may
+result in deterioration of the repayment prospects for the loan or of the institution’s credit position at some future date.
+Substandard.
+Loans classified as substandard are inadequately protected by the current net worth and paying capacity of the obligor or of the collateral pledged, if any. Loans so classified have a well-defined weakness or weaknesses that jeopardize the liquidation of the debt. They are characterized by the distinct possibility that the institution will sustain some loss if the deficiencies are
+not
+corrected.
+Doubtful.
+Loans classified as doubtful have all the weaknesses inherent in those classified as substandard, with the added characteristic that the weaknesses make collection or liquidation in full, on the basis of currently existing facts, conditions, and values, highly questionable and improbable.
+18
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Loans
+not
+meeting the criteria above that are analyzed individually as part of the above described process are considered pass rated loans. Loans listed as
+not
+rated are either less than
+$100
+or are included in groups of homogeneous loans. Generally,
+1 - 4
+Family Residential and Consumer loans are
+not
+risk rated, except when collateral is used for a business purpose. These loans are evaluated based on delinquency status, which are disclosed in the previous table within this footnote. Based on the most recent analysis performed, the recorded investment by risk category of loans by class of loans was as follows:
+As of December 31, 2022
+Special
+Not
+Pass
+Mention
+Substandard
+Doubtful
+Rated
+Commercial
+$ 102,974     $ 206     $ 471     $ —     $ 142
+Commercial real estate:
+Construction
+16,655       —       —       —       —
+Other
+294,165       2,233       4,653       —       618
+1-4 Family residential real estate:
+Owner occupied
+1,326       —       19       20       149,206
+Non-owner occupied
+23,075       55       110       27       261
+Construction
+2,858       —       —       —       4,926
+Consumer
+1,648       —       —       —       60,815
+Total
+$ 442,701     $ 2,494     $ 5,253     $ 47     $ 215,968
+As of
+June 30, 2022,
+and based on the most recent analysis performed, the recorded investment by risk category of loans by class of loans is as follows:
+As of June 30, 2022
+Special
+Not
+Pass
+Mention
+Substandard
+Doubtful
+Rated
+Commercial
+$ 86,265     $ 350     $ 178     $ 276     $ 182
+Commercial real estate:
+Construction
+15,138       —       —       —       —
+Other
+283,877       2,500       4,711       —       687
+1-4 Family residential real estate:
+Owner occupied
+1,321       —       —       22       142,163
+Non-owner occupied
+25,606       59       —       133       265
+Construction
+1,234       —       —       —       3,141
+Consumer
+605       —       —       —       44,344
+Total
+$ 414,046     $ 2,909     $ 4,889     $ 431     $ 190,782
+Note
+5
+- Fair Value
+Fair value is the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. There are
+three
+levels of inputs that
+may
+be used to measure fair values:
+Level
+1:
+Quoted prices (unadjusted) for identical assets or liabilities in active markets that the entity has the ability to access as of the measurement date.
+Level
+2:
+Significant other observable inputs other than Level
+1
+prices such as quoted prices for similar assets or liabilities; quoted prices in markets that are
+not
+active; or other inputs that are observable or can be corroborated by observable market data.
+Level
+3:
+Significant unobservable inputs that reflect a company’s own assumptions about the assumptions that market participants would use in pricing an asset or liability.
+19
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Financial assets and financial liabilities measured at fair value on a recurring basis include the following:
+Securities available-for-sale:
+When available, the fair values of available-for-sale securities are determined by obtaining quoted prices on nationally recognized securities exchanges (Level
+1
+inputs). For securities where quoted market prices are
+not
+available, fair values are calculated based on market prices of similar securities (Level
+2
+inputs). For securities where quoted prices or market prices of similar securities are
+not
+available, fair values are calculated using discounted cash flows or other unobservable inputs (Level
+3
+inputs).
+Assets and liabilities measured at fair value on a recurring basis are summarized below, segregated by the level of the valuation inputs within the fair value hierarchy utilized to measure fair value:
+Balance at
+December 31,
+Fair Value Measurements at
+December 31, 2022
+2022
+Level 1
+Level 2
+Level 3
+Assets:
+Obligations of U.S. Treasury
+$ 8,321     $ —     $ 8,321     $ —
+Obligations of U.S. government-sponsored entities and agencies
+24,032       —       24,032       —
+Obligations of state and political subdivisions
+95,935       —       95,935       —
+U.S. Government-sponsored mortgage-backed securities – residential
+93,238       —       93,238       —
+U.S. Government-sponsored mortgage-backed securities – commercial
+6,753       —       6,753       —
+U.S. Government-sponsored collateralized mortgage obligations - residential
+43,084       —       43,084       —
+Other debt securities
+15,779       —       15,779       —
+Equity securities
+367       —       367       —
+Balance at
+June 30,
+Fair Value Measurements at
+June 30, 2022
+2022
+Level 1
+Level 2
+Level 3
+Assets:
+Obligations of U.S. treasury
+$ 8,447     $ —     $ 8,447     $ —
+Obligations of U.S. government-sponsored entities and agencies
+26,265       —       26,265       —
+Obligations of state and political subdivisions
+97,357       —       97,357       —
+U.S. government-sponsored mortgage-backed securities - residential
+102,183       —       102,183       —
+U.S. government-sponsored mortgage-backed securities - commercial
+7,301       —       7,301       —
+U.S. government-sponsored collateralized mortgage obligations - residential
+38,179       —       38,179       —
+Other debt securities
+16,615       —       16,615       —
+Equity securities
+400       —       400       —
+There were
+no
+transfers between Level
+1
+and Level
+2
+during the
+three -month and
+six -month periods ended
+December 31, 2022.
+Certain assets and liabilities are measured at fair value on a non-recurring basis; that is, the instruments are
+not
+measured at fair value on an ongoing basis but are subject to fair value adjustments in certain circumstances. Assets and liabilities measured at fair value on a non-recurring basis include the following:
+20
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Impaired Loans:
+At the time a loan is considered impaired, it is valued at the lower of cost or fair value. Impaired loans carried at fair value generally receive specific allocations of the allowance for loan losses or are charged down to their fair value. For collateral dependent loans, fair value is commonly based on recent real estate appraisals. These appraisals
+may
+utilize a single valuation approach or a combination of approaches including comparable sales and the income approach. Adjustments are routinely made in the appraisal process by the appraisers to adjust for differences between the comparable sales and income data available. Such adjustments are usually significant and typically result in a Level
+3
+classification of the inputs for determining fair value. There were
+no
+impaired loans measured at fair value on a non-recurring basis at
+December 31, 2022
+or
+June 30, 2022
+and there was
+no
+impact to the provision for loan losses for the
+three -month or
+six - month periods ended
+December 31, 2022
+or
+2021.
+Other Real Estate and Repossessed Assets Owned:
+Assets acquired through or instead of loan foreclosure are initially recorded at fair value less costs to sell when acquired, establishing a new cost basis. These assets are subsequently accounted for at lower of cost or fair value less estimated costs to sell. Real estate owned properties and other repossessed assets, which are primarily vehicles, are evaluated on a quarterly basis for additional impairment and adjusted accordingly. There was
+no
+other real estate owned or other repossessed assets being carried at fair value as of
+December 31, 2022
+or
+June 30, 2022.
+The following table shows the estimated fair values of financial instruments that are reported at amortized cost in the Corporation’s consolidated balance sheets, segregated by the level of the valuation inputs within the fair value hierarchy utilized to measure fair value:
+December 31, 2022
+June 30, 2022
+Carrying
+Amount
+Estimated
+Fair
+Value
+Carrying
+Amount
+Estimated
+Fair
+Value
+Financial Assets:
+Level 1 inputs:
+Cash and cash equivalents
+$ 13,302     $ 13,302     $ 20,952     $ 20,952
+Level 2 inputs:
+Certificates of deposit in other financial institutions
+3,264       3,146       3,781       3,847
+Loans held for sale
+100       101       1,165       1,188
+Accrued interest receivable
+3,017       3,017       2,703       2,703
+Level 3 inputs:
+Securities held-to-maturity
+7,338       6,911       7,874       7,831
+Loans, net
+657,294       600,039       604,683       577,708
+Financial Liabilities:
+Level 2 inputs:
+Demand and savings deposits
+760,900       760,900       784,181       784,181
+Time deposits
+145,252       145,027       102,381       102,622
+Short-term borrowings
+25,380       25,380       21,295       21,295
+Federal Home Loan Bank advances
+24,603       23,341       8,256       7,215
+Accrued interest payable
+162       162       49       49
+Note
+6
+–
+Earnings Per Share
+Basic earnings per share is the amount of earnings available to each share of common stock outstanding during the reporting period and is equal to net income divided by the weighted average number of shares outstanding during the period. Diluted earnings per share is the amount of earnings available to each share of common stock outstanding during the reporting period adjusted to include the effect of potentially dilutive common shares that
+may
+be issued upon the vesting of restricted stock awards. There were
+6,216
+shares of restricted stock that were anti-dilutive for the
+three -month and
+six -month periods ended
+December 31, 2022.
+There were
+no
+shares of restricted stock that were anti-dilutive for the
+three -month period ended
+December 31, 2021
+and
+9,766
+shares of restricted stock that were anti-dilutive for the
+six
+month period ended
+December 31, 2021.  The following table details the calculation of basic and diluted earnings per share:
+21
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+For the Three Months Ended December 31,
+For the Six Months Ended December 31,
+2022
+2021
+2022
+2021
+Basic:
+Net income available to common shareholders
+$ 2,809     $ 3,162     $ 5,344     $ 5,827
+Weighted average common shares outstanding
+3,076,207       3,034,362       3,065,719       3,032,416
+Basic income per share
+$ 0.91     $ 1.04     $ 1.74     $ 1.92
+Diluted:
+Net income available to common shareholders
+$ 2,809     $ 3,162     $ 5,344     $ 5,827
+Weighted average common shares outstanding
+3,076,207       3,034,362       3,065,719       3,032,416
+Dilutive effect of restricted stock
+814       438       —       233
+Total common shares and dilutive potential common shares
+3,077,021       3,034,800       3,065,719       3,032,649
+Dilutive income per share
+$ 0.91     $ 1.04     $ 1.74     $ 1.92
+Note
+7
+– Accumulated Other Comprehensive Income (Loss)
+The components of other comprehensive income related to unrealized gains and losses on available-for-sale securities for the
+three -month periods ended
+December 31, 2022
+and
+2021,
+were as follows:
+Pretax
+Tax Effect
+After-tax
+Affected Line
+Item in
+Consolidated
+Statements of
+Income
+Balance as of September 30, 2022
+$ ( 44,111
+)
+$ 9,263     $ ( 34,848
+)
+Unrealized holding gains on available-for-sale securities arising during the period
+5,429       ( 1,140
+)
+4,289
+Amounts reclassified from accumulated other comprehensive income
+4       ( 1
+)
+3
+(a)(b)
+Net current period other comprehensive gain
+5,433       ( 1,141
+)
+4,292
+Balance as of December 31, 2022
+$ ( 38,678
+)
+$ 8,122     $ ( 30,556
+)
+Pretax
+Tax Effect
+After-tax
+Affected Line
+Item in
+Consolidated
+Statements of
+Income
+Balance as of September 30, 2021
+$ 2,927     $ ( 615
+)
+$ 2,312
+Unrealized holding losses on available-for-sale securities arising during the period
+( 922
+)
+194       ( 728
+)
+Amounts reclassified from accumulated other comprehensive income
+( 2
+)
+—       ( 2
+)
+(a)(b)
+Net current period other comprehensive loss
+( 924
+)
+194       ( 730
+)
+Balance as of December 31, 2021
+$ 2,003     $ ( 421
+)
+$ 1,582
+22
+CONSUMERS BANCORP, INC.
+Notes to the Consolidated Financial Statements
+(Unaudited) (continued)
+(Dollars in thousands, except per share amounts)
+Pretax
+Tax Effect
+After-tax
+Affected Line
+Item in
+Consolidated
+Statements of
+Income
+Balance as of June 30, 2022
+$ ( 27,982
+)
+$ 5,876     $ ( 22,106
+)
+Unrealized holding losses on available-for-sale securities arising during the period
+( 10,711
+)
+2,249       ( 8,462
+)
+Amounts reclassified from accumulated other comprehensive income
+15       ( 3
+)
+12
+(a)(b)
+Net current period other comprehensive loss
+( 10,696
+)
+2,246       ( 8,450
+)
+Balance as of December 31, 2022
+$ ( 38,678
+)
+$ 8,122     $ ( 30,556
+)
+Pretax
+Tax Effect
+After-tax
+Affected Line
+Item in
+Consolidated
+Statements of
+Income
+Balance as of June 30, 2021
+$ 4,493     $ ( 943
+)
+$ 3,550
+Unrealized holding losses on available-for-sale securities arising during the period
+( 2,488
+)
+522       ( 1,966
+)
+Amounts reclassified from accumulated other comprehensive income
+( 2 )     —       ( 2
+)
+(a)(b)
+Net current period other comprehensive loss
+( 2,490
+)
+522       ( 1,968
+)
+Balance as of December 31, 2021
+$ 2,003     $ ( 421
+)
+$ 1,582
+(a) Securities (gains) losses, net
+(b) Income tax expense
+Note
+8
+–
+COVID- 19
+In
+December 2019,
+a novel strain of coronavirus surfaced in Wuhan, China, and has spread around the world, resulting in business and social disruption. The coronavirus was declared a Pandemic by the World Health Organization on
+March 11, 2020.
+The economic impacts related to the COVID- 19
+pandemic continue to linger due to supply chain disruptions, additional employee costs, rising inflationary pressures and the prospects of recession, all which
+may
+impact the ability of our customers to make payments on loans, resulting in elevated loan losses and an increase in the Corporation’s allowance for loan losses.
+23
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+Item 2
+–
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+(Dollars in thousands, except per share data)
+General
+The following is management’s analysis of the Corporation’s results of operations for the three-and six-month periods ended December 31, 2022, compared to the same period in 2021, and the consolidated balance sheet at December 31, 2022, compared to June 30, 2022. This discussion is designed to provide a more comprehensive review of the operating results and financial condition than could be obtained from an examination of the financial statements alone. This analysis should be read in conjunction with the consolidated financial statements and related footnotes and the selected financial data included elsewhere in this report.
+Overview
+Consumers Bancorp, Inc., a bank holding company incorporated under the laws of the State of Ohio (the Corporation), owns all the issued and outstanding common shares of Consumers National Bank, a bank chartered under the laws of the United States of America (the Bank). The Corporation’s activities have been limited primarily to holding the common shares of the Bank. The Bank’s business involves attracting deposits from businesses and individual customers and using such deposits to originate commercial, mortgage and consumer loans in its market area, consisting primarily of Carroll, Columbiana, Jefferson, Mahoning, Stark, Summit, Wayne and contiguous counties in Ohio, Pennsylvania, and West Virginia. The Bank also invests in securities consisting primarily of U.S. government sponsored entities, municipal obligations, mortgage-backed and collateralized mortgage obligations issued by Fannie Mae, Freddie Mac and Ginnie Mae.
+Results of Operations
+Three- and Six-Month Periods Ended December 31, 2022 and 2021
+Net income for the second quarter of fiscal year 2023 was $2,809, or $0.91 per common share, compared to $3,162, or $1.04 per common share for the three months ended December 31, 2021. The following are key highlights of our results of operations for the three months ended December 31, 2022, compared to the prior fiscal year comparable period:
+●
+net interest income increased by $231, or 2.7%, to $8,776 in the second quarter of fiscal year 2023 from the same prior year period primarily as a result of the growth in average interest-earning assets;
+●
+a $225 provision for loans loss expense was recorded for the three-month period ended December 31, 2022 compared with $270 for the same prior year period primarily as a result of the organic growth within the loan portfolio in the second quarter of fiscal year 2023;
+●
+noninterest income decreased by $66, or 5.4%, in the second quarter of fiscal year 2023 from the same prior year period primarily as a result of a $99, or 57.9%, decline in mortgage banking activity which was partially offset by a $26, or 7.1%, increase in service charges on deposit accounts and a $12, or 2.3%, increase in debit card interchange income; and
+●
+noninterest expenses increased by $671, or 11.9%, in the second quarter of fiscal year 2023 from the same prior year period primarily due to increases in salaries and employee benefits, director fees, advertising, and loan related expenses.
+In the first six months of fiscal year 2023, net income was $5,344, or $1.74 per common share, compared to $5,827, or $1.92 per common share for the six months ended December 31, 2021. The following are key highlights of our results of operations for the six months ended December 31, 2022, compared to the prior fiscal year comparable period:
+●
+net interest income increased by $654, or 4.0%, to $17,172 in the first six months of fiscal year 2023 from the same prior year period primarily as a result of the growth in average interest-earning assets;
+●
+a $635 provision for loans loss expense was recorded for the six-month period ended December 31, 2022 compared with $460 for the same prior year period primarily as a result of the organic growth within the loan portfolio;
+●
+noninterest income decreased by $208, or 8.3%, in the first six months of fiscal year 2023 from the same prior year period primarily as a result of a $275, or 64.1%, decline in mortgage banking activity which was partially offset by a $65, or 9.0%, increase in service charges on deposit accounts and a $44, or 4.3%, increase in debit card interchange income; and
+●
+noninterest expenses increased by $917, or 8.0%, in the first six months of fiscal year 2023 from the same prior year period primarily due to increases in salaries and employee benefits and occupancy and equipment expenses.
+24
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+The annualized return on average equity and return on average assets were 21.01% and 1.06%, respectively, for the six months ended December 31, 2022 compared to 16.03% and 1.23%, respectively, for the same prior year period.
+Net Interest Income
+Net interest income, the difference between interest income earned on interest-earning assets and interest expense incurred on interest-bearing liabilities, is the largest component of the Corporation’s earnings. Net interest income is affected by changes in the volumes, rates and composition of interest-earning assets and interest-bearing liabilities. In addition, prevailing economic conditions, fiscal and monetary policies and the policies of various regulatory agencies all affect market rates of interest and the availability and cost of credit, which, in turn, can significantly affect net interest income. Net interest margin is calculated by dividing net interest income on a fully tax equivalent basis (FTE) by total average interest-earning assets. FTE income includes tax-exempt income, restated to a pre-tax equivalent, based on the statutory federal income tax rate. The federal income tax rate in effect for the 2023 and 2022 fiscal years was 21.0%. All average balances are daily average balances. Non-accruing loans are included in average loan balances and average securities include unrealized gains and losses on securities available for sale, while yields are based on average amortized cost.
+The Corporation’s net interest margin was 3.53% for the three months ended December 31, 2022, compared with 3.77% for the same period in 2021. FTE net interest income for the three months ended December 31, 2022 increased by $195, or 2.2%, to $8,867 from $8,672 for the same prior year period.
+The yield on average interest-earning assets increased to 4.03% for the three months ended December 31, 2022, compared with 3.92% for the same period last year. Tax-equivalent interest income increased by $1,107, or 12.3%, for the three months ended December 31, 2022, from the same prior year period because of a $37,354, or 4.1%, increase in average interest-earning assets as well as the increase in current market rates. Interest expense for the three months ended December 31, 2022 increased by $912 from the same prior year period primarily due to an increase in deposit and short-term borrowing costs as a result of higher market interest rates. The Corporation’s cost of funds increased to 0.72% for the three months ended December 31, 2022 compared with 0.21% for the same prior year period.
+The Corporation’s net interest margin was 3.51% for the six months ended December 31, 2022, compared with 3.70% for the same period in 2021. FTE net interest income for the six months ended December 31, 2022 increased by $620, or 3.7%, to $17,384 from $16,764 for the same prior year period.
+Tax-equivalent interest income increased by $1,848, or 10.6%, for the six months ended December 31, 2022 from the same prior year period. Interest income was positively impacted by a $44,668, or 4.9%, increase in average interest-earning assets from the same prior year period as well by the impact of higher current market rates, which more than offset the loss of the $2,040 of interest and fee income that was recognized on the Paycheck Protection Program loans during the six-month period ended December 31, 2021 since these loans are now fully forgiven. The yield on average interest-earning assets increased to 3.90% for the six months ended December 31, 2022, compared with 3.85% for the same period last year.
+Interest expense for the six months ended December 31, 2022 increased by $1,228 from the same prior year period primarily due to an increase in deposit and borrowing costs as a result of higher market interest rates. The Corporation’s cost of funds increased to 0.57% for the six months ended December 31, 2022 compared with 0.22% for the same prior year period.
+25
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+Average Balance Sheets and Analysis of Net Interest Income for the Three Months Ended December 31,
+(In thousands, except percentages)
+2022
+2021
+Average
+Balance
+Interest
+Yield/
+Rate
+Average
+Balance
+Interest
+Yield/
+Rate
+Interest-earning assets:
+Taxable securities
+$
+203,006
+$
+1,301
+2.19
+%
+$
+182,705
+$
+806
+1.75
+%
+Nontaxable securities (1)
+85,446
+687
+2.83
+86,093
+633
+3.02
+Loans receivable (1)
+646,941
+7,957
+4.88
+592,633
+7,499
+5.02
+Federal bank and other restricted stocks
+2,276
+47
+8.19
+2,472
+20
+3.21
+Equity securities
+376
+9
+9.50
+424
+9
+8.42
+Interest bearing deposits and federal funds sold
+13,781
+116
+3.34
+50,145
+43
+0.34
+Total interest-earning assets
+951,826
+10,117
+4.03
+%
+914,472
+9,010
+3.92
+%
+Noninterest-earning assets
+48,769
+37,425
+Total Assets
+$
+1,000,595
+$
+951,897
+Interest-bearing liabilities:
+NOW
+$
+158,998
+$
+244
+0.61
+%
+$
+143,318
+$
+35
+0.10
+%
+Savings
+354,480
+454
+0.51
+343,763
+92
+0.11
+Time deposits
+140,192
+429
+1.21
+116,664
+147
+0.50
+Short-term borrowings
+21,878
+95
+1.72
+8,910
+1
+0.04
+FHLB advances
+8,973
+28
+1.24
+16,291
+63
+1.53
+Total interest-bearing liabilities
+684,521
+1,250
+0.72
+%
+628,946
+338
+0.21
+%
+Noninterest-bearing liabilities:
+Noninterest-bearing checking accounts
+263,866
+243,465
+Other liabilities
+7,060
+6,998
+Total liabilities
+955,447
+879,409
+Shareholders’ equity
+45,148
+72,488
+Total liabilities and shareholders’ equity
+$
+1,000,595
+$
+951,897
+Net interest income, interest rate spread (1)
+$
+8,867
+3.31
+%
+$
+8,672
+3.71
+%
+Net interest margin (net interest as a percent of average interest-earning assets) (1)
+3.53
+%
+3.77
+%
+Federal tax exemption on non-taxable securities and loans included in interest income
+$
+91
+$
+127
+Average interest-earning assets to interest-bearing liabilities
+139.05
+%
+145.40
+%
+(1) calculated on a fully taxable equivalent basis utilizing a statutory federal income tax rate of 21.0%
+26
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+Average Balance Sheets and Analysis of Net Interest Income for the Six Months Ended December 31,
+(In thousands, except percentages)
+2022
+2021
+Average
+Balance
+Interest
+Yield/
+Rate
+Average
+Balance
+Interest
+Yield/
+Rate
+Interest-earning assets:
+Taxable securities
+$
+208,514
+$
+2,549
+2.15
+%
+$
+168,323
+$
+1,517
+1.79
+%
+Nontaxable securities (1)
+87,462
+1,391
+2.86
+84,159
+1,228
+3.01
+Loans receivable (1)
+635,391
+15,089
+4.71
+585,497
+14,569
+4.94
+Federal bank and other restricted stocks
+2,306
+70
+6.02
+2,472
+40
+3.21
+Equity securities
+388
+17
+8.69
+424
+17
+7.95
+Interest bearing deposits and federal funds sold
+13,875
+196
+2.80
+62,393
+93
+0.30
+Total interest-earning assets
+947,936
+19,312
+3.90
+%
+903,268
+17,464
+3.85
+%
+Noninterest-earning assets
+47,588
+36,269
+Total Assets
+$
+995,524
+$
+939,537
+Interest-bearing liabilities:
+NOW
+$
+159,745
+$
+419
+0.52
+%
+$
+140,608
+$
+68
+0.10
+%
+Savings
+361,384
+714
+0.39
+334,222
+181
+0.11
+Time deposits
+124,436
+591
+0.94
+118,888
+321
+0.54
+Short-term borrowings
+21,414
+154
+1.43
+10,239
+3
+0.06
+FHLB advances
+8,602
+50
+1.15
+16,444
+127
+1.53
+Total interest-bearing liabilities
+675,581
+1,928
+0.57
+%
+620,401
+700
+0.22
+%
+Noninterest-bearing liabilities:
+Noninterest-bearing checking accounts
+261,941
+239,965
+Other liabilities
+7,540
+7,081
+Total liabilities
+945,062
+867,447
+Shareholders’ equity
+50,462
+72,090
+Total liabilities and shareholders’ equity
+$
+995,524
+$
+939,537
+Net interest income, interest rate spread (1)
+$
+17,384
+3.33
+%
+$
+16,764
+3.63
+%
+Net interest margin (net interest as a percent of average interest-earning assets) (1)
+3.51
+%
+3.70
+%
+Federal tax exemption on non-taxable securities and loans included in interest income
+$
+212
+$
+246
+Average interest-earning assets to interest-bearing liabilities
+140.31
+%
+145.59
+%
+(1) calculated on a fully taxable equivalent basis utilizing a statutory federal income tax rate of 21.0%
+27
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+Provision for Loan Losses
+The provision for loan losses represents the charge to income necessary to adjust the allowance for loan losses to an amount that represents management’s assessment of the estimated probable incurred credit losses in the Bank’s loan portfolio that have been incurred at each balance sheet date. For the six-month period ended December 31, 2022, the provision for loan losses was $635 compared with $460 for the same period last year. Net charge-offs of $120 were recorded during the six-month period ended December 31, 2022 compared with net recoveries of $1 for the same period last year. The loan loss provision expense recorded in fiscal year 2023 was primarily due to the organic growth within the loan portfolio.
+Non-performing loans were $47 as of December 31, 2022, compared with $440 as of June 30, 2022 and $744 as of December 31, 2021. Non-performing loans to total loans were 0.01% at December 31, 2022 and 0.07% at June 30, 2022. Non-performing loans declined from June 30, 2022 since two loans were upgraded and returned to accrual status during the first quarter of fiscal year 2023. The allowance for loan losses as a percentage of loans was 1.15% at December 31, 2022 and 1.17% at June 30, 2022. Uncertainty remains regarding future levels of criticized and classified loans, non-performing loans and charge-offs. Management will continue to closely monitor changes in the loan portfolio and adjust the provision accordingly.
+Noninterest Income
+Noninterest income decreased by $66, or 5.4%, for the second quarter of fiscal year 2023 from the same period last year. For the six-month period ended December 31, 2022, noninterest income decreased by $208, or 8.3%, from the same period last year. The decrease in noninterest income was primarily the result of a reduction in mortgage banking activity from the same prior year period. Gains from the sale of mortgage loans to the secondary market declined as refinancing of mortgages slowed because of the increase in mortgage rates from the previous record lows. The decline in mortgage banking revenue was partially offset by increases in service charges on deposit accounts of $65, or 9.0%, and debit card interchange income of $44, or 4.3% for the six-month period ended December 31, 2022 compared with the same period last year. Effective March 1, 2022, the Bank made a small reduction to the non-sufficient funds/overdraft fee and eliminated many internal account transfer fees. The Bank may make future reductions to the non-sufficient funds/overdraft fee in response to the industry wide trend of reducing overdraft fees as large banks have announced a reduction in these types of fees in response to regulatory pressure. As a result, service charges on deposit accounts may be negatively impacted in future periods.
+Noninterest Expenses
+Total noninterest expenses increased by $671, or 11.9%, for the second quarter of fiscal year 2023 and by $917, or 8.0%, for the six-month period ended December 31, 2022 compared with the same periods last year. Salaries and employee benefit expenses increased by $514 thousand, or 7.9%, for the six-month period ended December 31, 2022 compared to the same prior year period primarily due to merit and cost of living increases, the addition of lending staff, and increases in health care costs. Occupancy and equipment expenses increased by $145, or 10.1%, for the six-month period ended December 31, 2022 compared to the same prior year period primarily because of investments in new security equipment and technology.
+The FDIC assessments decreased by $31, or 11.5%, for the six-month period ended December 31, 2022 primarily due to a reduction in the assessment multiplier for the Bank since there is lower one-year asset growth rate. On October 18, 2022, the FDIC issued a final rule that will increase the initial base deposit insurance assessment rate paid by insured depository institutions by two basis points, beginning with the first quarterly assessment period of calendar year 2023. According to the FDIC, the proposal increases the likelihood that its designated reserve ratio will reach the required minimum level of 1.35% by the statutory deadline of September 30, 2028 and will support progress toward achieving the long-term goal of a 2% ratio. The proposed increase would remain in effect until the long-term goal of a 2% FDIC designated reserve ratio is achieved. Progressively lower assessment rates will take effect when the reserve ratio reaches 2% and again when the reserve ratio reaches 2.5%.
+On September 2, 2022, the OCC announced reduced assessment rates for OCC-chartered community banks. Effective with the March 2023 assessment, the OCC will make a 40% reduction in assessments based on the first $200 million in bank assets and a 20% reduction for assets between $200 million and $20 billion.
+Income Taxes
+Income tax expense was $577 and $1,081 for the three- and six-month periods ended December 31, 2022, compared to $685 and $1,244 for the three-and six-month periods ended December 31, 2021. The effective tax rates were 16.8% and 17.6% for the six-month periods ended December 31, 2022 and 2021, respectively. The effective tax rates differed from the federal statutory rate because of tax-exempt income from obligations of state and political subdivisions, loans, and bank owned life insurance income.
+28
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+Financial Condition
+Total assets as of December 31, 2022 were $1,013,156 compared to $977,313 at June 30, 2022, an increase of $35,843, or an annualized 7.3%. From June 30, 2022, total loans increased by $53,126, or an annualized 17.4% and total deposits increased by $19,590, or an annualized 4.4%.
+Available-for-sale securities decreased from $296,347 as of June 30, 2022, to $287,142 as of December 31, 2022. The portfolio had an unrealized loss of $38,711 as of December 31, 2022 as a result of recent increases in market interest rates compared with the yields within the portfolio that were available at the time the underlying securities were purchased. The fair value is expected to recover as the securities approach their maturity or repricing dates or if market yields for such securities decline. As of December 31, 2022, the projected cash flow from the portfolio over the next 12 months was approximately $25,431 which will be available to reinvest into loans or securities at the then current market rates.
+Total loans increased by $53,126, or an annualized 17.4%, from June 30, 2022. The growth in loans was primarily within the consumer, commercial, and commercial real estate loan portfolios. Consumer loan growth was primarily from indirect loans due to the expansion of consumer loan sales staff and an expanded dealer network. Commercial loans included a mortgage loan warehouse line of credit to another financial institution with an outstanding balance of $9,998 as of December 31, 2022 and it was zero as of June 30, 2022. The outstanding balance of the warehouse line of credit is expected to be at or near zero by March 31, 2023.
+Non-Performing Assets
+The following table presents the aggregate amounts of non-performing assets and select ratios as of the dates indicated.
+December 31,
+2022
+June 30,
+2022
+December 31,
+2021
+Non-accrual loans
+$
+47
+$
+431
+$
+740
+Loans past due over 90 days and still accruing
+—
+9
+4
+Total non-performing loans
+47
+440
+744
+Other real estate and repossessed assets
+—
+—
+83
+Total non-performing assets
+$
+47
+$
+440
+$
+827
+Non-performing loans to total loans
+0.01
+%
+0.07
+%
+0.12
+%
+Allowance for loan losses to total non-performing loans
+16,329.79
+%
+1,661.25
+%
+931.72
+%
+As of December 31, 2022, impaired loans totaled $354, of which $47 are included in non-accrual loans. As of June 30, 2022, impaired loans totaled $473, of which $431 are included in non-accrual loans. Commercial and commercial real estate loans are classified as impaired if management determines that full collection of principal and interest, in accordance with the terms of the loan documents, is not probable. Impaired loans and non-performing loans have been considered in management’s analysis of the appropriateness of the allowance for loan losses. Management and the Board of Directors are closely monitoring these loans and believe that the prospects for recovery of principal and interest, less identified specific reserves, are favorable.
+Contractual Obligations, Commitments, Contingent Liabilities and Off-Balance Sheet Arrangements
+Liquidity
+The objective of liquidity management is to ensure adequate cash flows to accommodate the demands of our customers and provide adequate flexibility for the Corporation to take advantage of market opportunities under both normal operating conditions and under unpredictable circumstances of industry or market stress. Cash is used to fund loans, purchase investments, fund the maturity of liabilities, and, at times, to fund deposit outflows and operating activities. The Corporation’s principal sources of funds are deposits; amortization and prepayments of loans; maturities, sales and principal receipts from securities; borrowings; and operations. Management considers the asset position of the Corporation to be sufficiently liquid to meet normal operating needs and conditions. The Corporation’s earning assets are mainly comprised of loans and investment securities. Management continually strives to obtain the best mix of loans and investments to both maximize yield and ensure the soundness of the portfolio, as well as to provide funding for loan demand as needed.
+29
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+For the six months ended December 31, 2022, net cash inflow from operating activities was $7,715, net cash outflows from investing activities was $53,527 and net cash inflows from financing activities was $39,162. A major source of cash was an increase of $16,400 in short term Federal Home Loan Bank (FHLB) advances, a $19,590 increase in deposits, and $15,113 from maturity, calls, principal pay downs and sales of available-for-sale securities. A major use of cash was a $53,257 increase in loans and the purchase of $17,091 of available-for-sale securities. Total cash and cash equivalents were $13,302 as of December 31, 2022, compared to $20,952 at June 30, 2022 and $21,253 at December 31, 2021.
+The Bank offers several types of deposit products to its customers. We believe the rates offered by the Bank and the fees charged for them are competitive with the rates and fees charged by other banks for similar deposit products currently available in the market area. Deposits totaled $906,152 at December 31, 2022 compared with $886,562 at June 30, 2022.
+To provide an additional source of liquidity, the Corporation has entered into an agreement with the FHLB of Cincinnati. At December 31, 2022, advances from the FHLB of Cincinnati totaled $24,603 compared with $8,256 at June 30, 2022. As of December 31, 2022, the Bank had the ability to borrow an additional $86,995 from the FHLB of Cincinnati based on a blanket pledge of qualifying first mortgage and multi-family loans. The Corporation considers the FHLB of Cincinnati to be a reliable source of liquidity funding, secondary to its deposit base.
+Short-term borrowings consisted of repurchase agreements, which are financing arrangements that mature daily, and a line of credit for the Corporation. The Bank pledges securities as collateral for the repurchase agreements. Short-term borrowings totaled $25,380 at December 31, 2022 and $21,295 at June 30, 2022.
+Jumbo time deposits (those with balances of $250 and over) totaled $41,884 as of December 31, 2022 and $18,164 as of June 30, 2022. These deposits are monitored closely by the Corporation and are mainly priced on an individual basis. The Corporation has the option to use a fee-paid broker to obtain deposits from outside its normal service area as an additional source of funding. The Corporation, however, does not rely upon these deposits as a primary source of funding. Although management monitors interest rates on an ongoing basis, a quarterly rate sensitivity report is used to determine the effect of interest rate changes on the financial statements. In the opinion of management, enough assets or liabilities could be repriced over the near term (up to three years) to compensate for such changes. The spread on interest rates, or the difference between the average earning assets and the average interest-bearing liabilities, is monitored quarterly.
+To meet the financial needs of our customers, commitments to originate mortgage, commercial, construction, and consumer loans and commitments for commercial, home equity, and consumer lines of credit have been issued. Since commitments to extend credit have a fixed expiration date or other termination clause, some commitments will expire without being drawn upon and the total commitment amounts do not necessarily represent future cash requirements. Financial standby letters of credit are conditional commitments issued to guarantee the performance of a customer to a third party. The same credit policies are used in making commitments and financial standby letters of credit as are used for on-balance sheet instruments. Total unused commitments were $171,578 as of December 31, 2022 and $149,500 as of June 30, 2022.
+Capital Resources
+Total shareholders’ equity declined to $50,397 as of December 31, 2022, from $53,970 as of June 30, 2022. The primary reason for the decline in shareholders’ equity was an increase of $8,450 in the accumulated other comprehensive loss from the mark-to-market of available-for-sale securities and from cash dividends paid of $1,045. As market interest rates rise, the fair value of fixed-rate available-for-sale securities decline with a corresponding net of tax decline recorded in the accumulated other comprehensive loss portion of equity. The fair value is expected to recover as the securities approach their maturity date or repricing date or if market yields for such securities decline. These declines were partially offset by net income of $5,344 for the six-month period ended December 31, 2022.
+30
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+The Bank is subject to various regulatory capital requirements administered by federal regulatory agencies. Capital adequacy guidelines and prompt corrective-action regulations involve quantitative measures of assets, liabilities, and certain off-balance-sheet items calculated under regulatory accounting practices. Failure to meet various capital requirements can initiate regulatory action that could have a direct material effect on the Corporation’s financial statements.
+As of December 31, 2022, the Bank’s common equity tier 1 capital and tier 1 capital ratios were 11.06% and the leverage and total risk-based capital ratios were 7.61% and 12.14%, respectively. This compares with common equity tier 1 capital and tier 1 capital ratios of 11.39% and leverage and total risk-based capital ratios of 7.39% and 12.49%, respectively, as of June 30, 2022. The Bank exceeded minimum regulatory capital requirements to be considered well-capitalized for both periods. Management is not aware of any matters occurring subsequent to December 31, 2022 that would cause the Bank’s capital category to change.
+Critical Accounting Policies
+The Corporation’s consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America and follow general practices within the industry in which it operates. Application of these principles requires management to make estimates or judgments that affect the amounts reported in the financial statements and accompanying notes. These estimates are based on information available as of the date of the financial statements; accordingly, as this information changes, the financial statements could reflect different estimates or judgments. Certain policies inherently have a greater reliance on the use of estimates, and as such have a greater possibility of producing results that could be materially different than originally reported.
+Critical accounting policies are those policies that are highly dependent on subjective or complex judgments, estimates and assumptions and where changes in those estimates and assumptions could have a significant impact on the financial statements. The Corporation has identified the appropriateness of the allowance for loan losses and the evaluation of goodwill for impairment as critical accounting policies and an understanding of these policies is necessary to understand the financial statements. Note one (Summary of Significant Accounting Policies - Allowance for Loan Losses and Goodwill and Other Intangible Assets), Note four (Loans), Note six (Goodwill and Intangible Assets) and Management’s Discussion and Analysis of Financial Condition and Results of Operation (Critical Accounting Policies and Use of Significant Estimates) of the 2022 Form 10-K provide detail regarding the Corporation’s accounting for the critical accounting policies. There have been no significant changes in the application of accounting policies since June 30, 2022.
+Allowance for Loan Losses.
+The determination of the allowance for loan losses involves considerable subjective judgment and estimation by management. The allowance for loan losses is a reserve established through a provision for loan losses charged to expense, which represents management’s best estimate of probable losses that have been incurred within the existing portfolio of loans. The balance in the allowance for loan losses is determined based on management’s review and evaluation of the loan portfolio in relation to past loss experience, the size and composition of the portfolio, current economic events and conditions and other pertinent factors, including management’s assumptions as to future delinquencies, recoveries, and losses. All these factors may be susceptible to significant change. Among the many factors affecting the allowance for loan losses, some are quantitative while others require qualitative judgment. Although management believes its process for determining the allowance adequately considers all the potential factors that could potentially result in credit losses, the process includes subjective elements and may be susceptible to significant change. To the extent actual outcomes differ from management’s estimates, additional provisions for loan losses may be required that would adversely impact the Corporation’s financial condition or earnings in future periods.
+Goodwill.
+The Company accounts for business combinations using the acquisition method of accounting. Accordingly, the identifiable assets acquired and the liabilities assumed are recorded at their estimated fair values as of the date of acquisition with any excess of the cost of the acquisition over the fair value recorded as goodwill. The Company performs an evaluation of goodwill for impairment on an annual basis, or more frequently if events or changes in circumstances indicate that the asset might be impaired. The evaluation for impairment involves comparing the current estimated fair value of the Company to its carrying value. If the current estimated fair value exceeds the carrying value, no additional testing is required, and an impairment loss is not recorded. If the estimated fair value is less than the carrying value, further valuation procedures are performed that could result in impairment of goodwill being recorded. As of April 30, 2022, the measurement date, a qualitative assessment was performed to determine whether there is a more likely than not (greater than 50% likelihood) that the fair value of the Corporation was less than its carrying amount. The qualitative impairment test of goodwill indicated no impairment existed as of the measurement date. However, it is impossible to know the future impact of the evolving economic conditions. If for any future period it is determined that there has been impairment in the carrying value of our goodwill balances, the Corporation will record a charge to earnings, which could have a material adverse effect on net income, but not risk-based capital ratios.
+31
+CONSUMERS BANCORP, INC.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations (continued)
+(Dollars in thousands, except per share amounts)
+Forward-Looking Statements
+Certain statements contained in this Quarterly Report on Form 10-Q, which are not statements of historical fact, constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. The words “may,” “continue,” “estimate,” “intend,” “plan,” “seek,” “will,” “believe,” “project,” “expect,” “anticipate” and similar expressions are intended to identify forward-looking statements. These forward-looking statements may involve risks and uncertainties that are difficult to predict, may be beyond our control, and could cause actual results to differ materially from those described in such statements. Any such forward-looking statements are made only as of the date of this report or the respective dates of the relevant incorporated documents, as the case may be, and, except as required by law, we undertake no obligation to update these forward-looking statements to reflect subsequent events or circumstances. Risks and uncertainties that could cause actual results for future periods to differ materially from those anticipated or projected include, but are not limited to:
+●
+changes in local, regional and national economic conditions becoming less favorable than we expect, resulting in a deterioration in asset credit quality or debtors being unable to meet their obligations because of high unemployment rates and inflationary pressures;
+●
+rapid fluctuations in market interest rates could result in changes in fair market valuations and a decline in net interest income;
+●
+changes in the level of non-performing assets and charge-offs;
+●
+unanticipated changes in our liquidity position, including, but not limited to, changes in the cost of liquidity and our ability to find alternative funding sources;
+●
+the effect of changes in laws and regulations (including laws and regulations concerning taxes, banking, securities, and insurance) with which we must comply;
+●
+the effects of, and changes in, trade, monetary and fiscal policies and laws, including interest rate policies of the Federal Reserve Board;
+●
+breaches of security or failures of our technology systems due to technological or other factors and cybersecurity threats;
+●
+changes in consumer spending, borrowing and savings habits;
+●
+declining asset values impacting the underlying value of collateral;
+●
+changes in accounting policies, rules and interpretations that may come as a result of COVID-19 or otherwise;
+●
+our ability to attract and retain qualified employees;
+●
+competitive pressures on product pricing and services; and
+●
+changes in the reliability of our vendors, internal control systems or information systems.
+32
+CONSUMERS BANCORP, INC.
+Item 4
+–
+Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+As of the end of the period covered by the report, an evaluation was performed under the supervision and with the participation of the Corporation’s management, including the Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Corporation’s disclosure controls and procedures pursuant to Exchange Act Rule 13a-15e. Based on the evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Corporation’s disclosure controls and procedures were effective as of December 31, 2022.
+Changes in Internal Controls Over Financial Reporting
+There have not been any changes in the Corporation’s internal control over financial reporting that occurred during the Corporation’s last quarter that have materially affected, or are reasonably likely to materially affect, the Corporation’s internal control over financial reporting.
+33
+CONSUMERS BANCORP, INC.
+PART II
+–
+OTHER INFORMATION
+Item 1
+–
+Legal Proceedings
+None
+Item 2
+–
+Unregistered Sales of Equity Securities and Use of Proceeds
+None
+Item 3
+–
+Defaults Upon Senior Securities
+None
+Item 4
+–
+Mine Safety Disclosures
+Not Applicable
+Item 5
+–
+Other Information
+None
+Item 6
+–
+Exhibits
+Exhibit
+Number
+Description
+Exhibit 31.1
+Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer.
+Exhibit 31.2
+Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer.
+Exhibit 32.1
+Certification of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes Oxley Act of 2002.
+101.INS
+Inline XBRL Instance Document (The instance document does not appear in the interactive data file because its XBRL tags are embedded within the Inline XBRL document) (1)
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document (1)
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document (1)
+101.DEF
+Inline XBRL Taxonomy Extension Definitions Linkbase Document (1)
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document (1)
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document (1)
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101.1)
+(1)
+These interactive date files shall not be deemed filed for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, or Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to liability under those sections.
+34
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CONSUMERS BANCORP, INC.
+(Registrant)
+Date:
+February 10, 2023
+/s/ Ralph J. Lober
+Ralph J. Lober, II
+President & Chief Executive Officer
+(principal executive officer)
+Date:
+February 10, 2023
+/s/ Renee K. Wood
+Renee K. Wood
+Chief Financial Officer & Treasurer
+(principal financial officer)
+35

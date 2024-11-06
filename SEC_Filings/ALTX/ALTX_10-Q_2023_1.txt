@@ -1,0 +1,408 @@
+Q1
+0000775057
+2022-10-01
+2022-12-31
+0000775057
+2022-12-31
+0000775057
+2023-02-03
+0000775057
+2022-09-30
+0000775057
+2021-10-01
+2021-12-31
+0000775057
+2021-09-30
+0000775057
+2021-12-31
+0000775057
+us-gaap:CommonStockMember
+2022-10-01
+2022-12-31
+0000775057
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0000775057
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0000775057
+us-gaap:TreasuryStockMember
+2022-10-01
+2022-12-31
+0000775057
+us-gaap:CommonStockMember
+2022-09-30
+0000775057
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0000775057
+us-gaap:RetainedEarningsMember
+2022-09-30
+0000775057
+us-gaap:TreasuryStockMember
+2022-09-30
+0000775057
+us-gaap:CommonStockMember
+2022-12-31
+0000775057
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0000775057
+us-gaap:RetainedEarningsMember
+2022-12-31
+0000775057
+us-gaap:TreasuryStockMember
+2022-12-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+☐  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission file number
+1-9030
+ALTEX INDUSTRIES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+84-0989164
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+700 Colorado Blvd #273
+Denver
+CO
+80206
+(Address of principal executive offices) (Zip Code)
+( 303 )
+265-9312
+(Registrant's telephone number, including area code)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+x
+No
+¨
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+x
+No
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a small reporting company, or an emerging growth company.
+Large accelerated filer
+¨
+Accelerated filer
+¨
+Non-accelerated filer
+¨
+Smaller reporting company
+☒
+Emerging growth company
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+x
+Number of shares outstanding of issuer's Common Stock as of February 3, 2023:
+11,517,426
+ALTEX INDUSTRIES, INC.
+Condensed Consolidated Balance Sheets
+(Unaudited)
+December 31
+September 30
+2022
+2022
+Assets
+Current assets
+Cash and cash equivalents
+$ 2,304,000
+$ 2,358,000
+Accounts receivable
+5,000
+1,000
+Other
+18,000
+26,000
+Total current assets
+2,327,000
+2,385,000
+Property and equipment, at cost
+Proved oil and gas properties (successful efforts method)
+327,000
+327,000
+Less accumulated depreciation, depletion, and amortization
+( 294,000 )
+( 292,000 )
+Net property and equipment
+33,000
+35,000
+Right-of-Use Asset
+65,000
+71,000
+Total assets
+2,425,000
+2,491,000
+Liabilities and Stockholders’ Equity
+Current liabilities
+Accounts payable
+7,000
+4,000
+Operating lease liability
+25,000
+25,000
+Accrued expenses, related party
+1,141,000
+1,073,000
+Other accrued expenses
+2,000
+11,000
+Total current liabilities
+1,175,000
+1,113,000
+Long-term operating lease liability
+40,000
+47,000
+Total Liabilities
+1,215,000
+1,160,000
+Commitments and Contingencies
+-
+-
+Stockholders’ equity
+Preferred stock, $ 0.01
+par value. Authorized
+5,000,000
+shares,
+none
+issued
+-
+-
+Common stock, $ 0.01
+par value. Authorized
+50,000,000
+shares; issued and
+outstanding,
+11,517,426
+and
+12,011,401 , respectively
+116,000
+121,000
+Additional paid-in capital
+13,736,000
+13,776,000
+Accumulated deficit
+( 12,642,000 )
+( 12,566,000 )
+Total stockholders' equity
+1,210,000
+1,331,000
+Total liabilities and stockholders' equity
+$ 2,425,000
+$ 2,491,000
+See notes to unaudited condensed consolidated financial statements
+ALTEX INDUSTRIES, INC.
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended
+December 31
+2022
+2021
+Revenue
+Oil and gas sales
+$ 13,000
+$ 21,000
+Total revenue
+13,000
+21,000
+Operating expense
+Production taxes
+1,000
+1,000
+General and administrative
+113,000
+32,000
+Depreciation, depletion, and amortization
+2,000
+2,000
+Total operating expense
+116,000
+35,000
+Other income
+Interest income
+19,000
+-
+Other income
+8,000
+-
+Total other income
+27,000
+-
+Net loss
+$ ( 76,000 )
+$ ( 14,000 )
+Basic and diluted loss per share
+$ ( 0.01 )
+$ ( 0.00 )
+Basic and diluted weighted average shares outstanding
+11,517,426
+12,011,401
+See notes to unaudited condensed consolidated financial statements
+ALTEX INDUSTRIES, INC.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Three months ended
+December 31
+2022
+2021
+Cash flows used in operating activities
+Net loss
+$ ( 76,000 )
+$ ( 14,000 )
+Adjustments to reconcile net loss to net cash used in operating activities
+Depreciation, depletion, and amortization
+2,000
+2,000
+Changes in assets and liabilities
+Increase in accounts receivable
+( 4,000 )
+( 4,000 )
+Decrease in other current assets
+8,000
+4,000
+Increase in accounts payable
+3,000
+4,000
+Increase (decrease) in other accrued expenses
+59,000
+( 8,000 )
+Operating lease
+( 1,000 )
+-
+Net cash used in operating activities
+( 9,000 )
+( 16,000 )
+Cash flows from investing activities
+-
+-
+Cash flows from financing activities
+Acquistion of treasury stock
+( 45,000 )
+-
+Net cash used in financing activities
+( 45,000 )
+-
+Net decrease in cash and cash equivalents
+( 54,000 )
+( 16,000 )
+Cash and cash equivalents at beginning of period
+2,358,000
+2,037,000
+Cash and cash equivalents at end of period
+$ 2,304,000
+$ 2,021,000
+Noncash Investing and Financing Activities
+Retirement of treasury stock
+45,000
+-
+See notes to unaudited condensed consolidated financial statements
+ALTEX INDUSTRIES, INC.
+Condensed Consolidated Statements of Stockholders' Equity
+(Unaudited)
+For the three months ended December 31, 2022
+Common Stock
+Additional
+Accumulated
+Treasury
+Total stock holders'
+Shares
+Amount
+paid-in capital
+Deficit
+Stock
+equity
+Balance at September 30, 2022
+12,011,401
+$ 121,000
+$ 13,776,000
+$ ( 12,566,000 )
+$ -
+$ 1,331,000
+Net loss
+( 76,000 )
+( 76,000 )
+Acquisition of treasury stock, 493,975 shares at $0.09 per share
+( 45,000 )
+( 45,000 )
+Retirement of treasury stock
+( 493,975 )
+( 5,000 )
+( 40,000 )
+45,000
+Balance at December 31, 2022
+11,517,426
+$ 116,000
+$ 13,736,000
+$ ( 12,642,000 )
+$ -
+$ 1,210,000
+See notes to unaudited condensed consolidated financial statements
+ALTEX INDUSTRIES, INC. AND SUBSIDIARIES
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 1 - Basis of Presentation.
+The accompanying unaudited, consolidated, condensed financial statements have been prepared in accordance with U.S. GAAP for interim financial information, the instructions to Form 10-Q, and Article 10 of Regulation S-X. In the opinion of management, the accompanying unaudited, consolidated, condensed financial statements contain all adjustments necessary to present fairly the financial position of the Company as of December 31, 2022, and the cash flows and results of operations for the three months then ended. Such adjustments consisted only of normal recurring items. The results of operations for the three months ended December 31 are not necessarily indicative of the results for the full year. As of December 31, 2022, there were no potentially dilutive shares for the Company. Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted. The accounting policies followed by the Company are set forth in Note 1 to the Company's consolidated financial statements contained in the Company's 2022 Annual Report on Form 10-K, and it is suggested that these condensed, consolidated financial statements be read in conjunction therewith.
+“SAFE HARBOR” STATEMENT UNDER THE
+UNITED STATES PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+Statements that are not historical facts contained in this Form 10-Q are forward-looking statements that involve risks and uncertainties that could cause actual results to differ from projected results. Factors that could cause actual results to differ materially include, among others: general economic conditions; movements in interest rates; the market price of oil and natural gas; the risks associated with exploration and production of oil and gas; the Company's ability, or the ability of its operating subsidiary, Altex Oil Corporation ("AOC"), to find, acquire, market, develop, and produce new properties; operating hazards attendant to the oil and natural gas business; uncertainties in the estimation of proved reserves and in the projection of future rates of production and timing of development expenditures; the strength and financial resources of the Company's competitors; the Company's ability and AOC's ability to find and retain skilled personnel; climatic conditions; availability and cost of material and equipment; delays in anticipated start-up dates; environmental risks; the results of financing efforts; and other uncertainties detailed elsewhere herein and in the Company’s filings with the Securities and Exchange Commission.
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operation.
+Financial Condition
+The Company used $9,000 cash in operating activities in the three months ended December 31, 2022, (“Q1FY23”) and used $16,000 cash in operating activities in the three months ended December 31, 2021, (“Q1FY22”). On October 26, 2022, the Company acquired 493,975 shares of its common stock for $44,556.55, and on November 9, 2022, the Company retired the 493,975 shares. At December 31, 2022, $1,141,000 of accrued expenses is accrued but unpaid salary and bonus and related accrued payroll tax liability due to the Company’s president that the Company’s president has elected to defer. At December 31, 2021, $1,073,000 of accrued expenses is accrued but unpaid salary and related accrued payroll tax liability due to the Company’s president that the Company’s president has elected to defer. The Company’s president may cause the Company to pay the unpaid salary and bonus and payroll tax liability at any time.
+The Company is likely to experience negative cash flow from operations unless the Company invests in interests in producing oil and gas wells or in another venture that produces sufficient cash flow from operations. With the exception of capital expenditures related to production acquisitions or drilling or recompletion activities or an investment in another venture that produces cash flow from operations, none of which are currently planned, the cash flows that could result from such acquisitions, activities, or investments, and the possibility of a material change in the current level of interest rates or of oil and gas prices, the Company knows of no trends or demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in the Company's liquidity increasing or decreasing in any material way. Except for cash generated by the operation of the Company's producing oil and gas properties, asset sales, and interest income, the Company has no internal or external sources of liquidity other than its working capital. At February 3, 2023, the Company had no material commitments for capital expenditures.
+Results of Operations
+Oil and gas sales decreased from $21,000 in Q1FY22 to $13,000 in Q1FY23 principally because, effective January 1, 2022, the Company sold certain oil, gas, and mineral interests in Utah for $450,000 cash. General and administrative expensive increased from $32,000 in Q1FY22 to $114,000 in Q1FY23 principally because during Q1FY23 the Company recognized bonus expense and related payroll tax liability of $68,000 pursuant to the president’s employment agreement. Interest income increased from nil in Q1FY22 to $19,000 in Q1FY23 because of higher realized interest rates. In Q1FY23 other income consisted of $8,000 of out-of-period oil and gas sales received in Q1FY23.
+At the current levels of net oil and gas production, cash balances, interest rates, and oil and gas prices, the Company’s revenue is unlikely to exceed its expenses. Unless the Company invests a substantial portion of its cash balances in interests in producing oil and gas wells or in one or more other ventures that produce revenue and net income, the Company is likely to experience net losses. With the exception of unanticipated asset retirement obligations, unanticipated environmental expense, and possible changes in interest rates and oil and gas prices, the Company is not aware of any other trends, events, or uncertainties that have had or that are reasonably expected to have a material impact on net sales or revenues or income from continuing operations.
+Climate Change
+The company does not believe that climate change or regulations adopted to mitigate the consequences of climate change will have a material impact on the Company’s financial condition or results of operations.
+Item 4. Controls and Procedures.
+The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the Company’s Exchange Act reports is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to the Company’s management, including its Principal Executive Officer and Principal Financial Officer as appropriate, to allow timely decisions regarding required disclosure. Management necessarily applied its judgment in assessing the costs and benefits of such controls and procedures which, by their nature, can provide only reasonable assurance regarding management’s control objectives.
+As of the end of the period covered by the report, the Company carried out an evaluation, under the supervision and with the participation of the Company’s management, including the Company’s Principal Executive Officer and Principal Financial Officer, of the effectiveness of the design and operation of the Company’s disclosure controls and procedures pursuant to Exchange Act Rule 13a-14. Based upon the foregoing, the Company’s Principal Executive Officer and Principal Financial Officer concluded that the Company’s disclosure controls and procedures are effective in timely alerting them to material information relating to the Company (including its consolidated subsidiary) required to be included in the Company’s Exchange Act reports. There have been no significant changes in the Company’s internal controls or in other factors that could significantly affect internal controls subsequent to the date the Company carried out its evaluation.
+PART II - OTHER INFORMATION
+Item 6. Exhibits
+31.
+Rule 13a-14(a)/15d-14(a) Certifications
+32. *
+Section 1350 Certifications
+101.xml
+XBRL Instance Document
+101.xsd
+XBRL Taxonomy Extension Schema Document
+101.cal
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.def
+XBRL Taxonomy Extension Definition Linkbase Document
+101.lab
+XBRL Taxonomy Extension Label Linkbase Document
+101.pre
+XBRL Taxonomy Extension Presentation Linkbase Document
+_______________________
+*
+Furnished. Not Filed. Not incorporated by reference. Not subject to liability.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ALTEX INDUSTRIES, INC.
+Date: February 3, 2023
+By: /s/ STEVEN H. CARDIN
+Steven H. Cardin
+Chief Executive Officer and
+Principal Financial Officer

@@ -1,0 +1,3025 @@
+2023
+877
+941
+0.0001
+0.0001
+2,450,980
+2,450,980
+2,450,980
+2,450,980
+0.0001
+0.0001
+500,000,000
+500,000,000
+55,407,330
+55,407,330
+56,226,191
+56,226,191
+5
+5
+6.5
+5
+13,017,677
+0
+1
+25.9
+0.1
+0
+1
+4
+0001703956 2022-11-01 2023-01-31
+xbrli:shares
+0001703956 2023-03-07
+thunderdome:item
+iso4217:USD
+0001703956 2023-01-31
+0001703956 2022-10-31
+iso4217:USD xbrli:shares
+0001703956 2021-11-01 2022-01-31
+0001703956 bbcp:CommonStockOutstandingMember 2021-10-31
+0001703956 us-gaap:CommonStockMember 2021-10-31
+0001703956 us-gaap:AdditionalPaidInCapitalMember 2021-10-31
+0001703956 us-gaap:TreasuryStockMember 2021-10-31
+0001703956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-31
+0001703956 us-gaap:RetainedEarningsMember 2021-10-31
+0001703956 2021-10-31
+0001703956 us-gaap:CommonStockMember 2021-11-01 2022-01-31
+0001703956 us-gaap:AdditionalPaidInCapitalMember 2021-11-01 2022-01-31
+0001703956 us-gaap:TreasuryStockMember 2021-11-01 2022-01-31
+0001703956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-11-01 2022-01-31
+0001703956 us-gaap:RetainedEarningsMember 2021-11-01 2022-01-31
+0001703956 bbcp:CommonStockOutstandingMember 2021-11-01 2022-01-31
+0001703956 bbcp:CommonStockOutstandingMember 2022-01-31
+0001703956 us-gaap:CommonStockMember 2022-01-31
+0001703956 us-gaap:AdditionalPaidInCapitalMember 2022-01-31
+0001703956 us-gaap:TreasuryStockMember 2022-01-31
+0001703956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-01-31
+0001703956 us-gaap:RetainedEarningsMember 2022-01-31
+0001703956 2022-01-31
+0001703956 bbcp:CommonStockOutstandingMember 2022-10-31
+0001703956 us-gaap:CommonStockMember 2022-10-31
+0001703956 us-gaap:AdditionalPaidInCapitalMember 2022-10-31
+0001703956 us-gaap:TreasuryStockMember 2022-10-31
+0001703956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-31
+0001703956 us-gaap:RetainedEarningsMember 2022-10-31
+0001703956 us-gaap:CommonStockMember 2022-11-01 2023-01-31
+0001703956 us-gaap:AdditionalPaidInCapitalMember 2022-11-01 2023-01-31
+0001703956 us-gaap:TreasuryStockMember 2022-11-01 2023-01-31
+0001703956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-11-01 2023-01-31
+0001703956 us-gaap:RetainedEarningsMember 2022-11-01 2023-01-31
+0001703956 bbcp:CommonStockOutstandingMember 2022-11-01 2023-01-31
+0001703956 bbcp:CommonStockOutstandingMember 2023-01-31
+0001703956 us-gaap:CommonStockMember 2023-01-31
+0001703956 us-gaap:AdditionalPaidInCapitalMember 2023-01-31
+0001703956 us-gaap:TreasuryStockMember 2023-01-31
+0001703956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-31
+0001703956 us-gaap:RetainedEarningsMember 2023-01-31
+xbrli:pure
+0001703956 bbcp:BrundageBoneMember 2023-01-31
+0001703956 bbcp:CamfaudMember 2023-01-31
+0001703956 bbcp:EcoPanIncMember 2023-01-31
+0001703956 2021-11-01 2022-10-31
+0001703956 bbcp:CoastalCarolinaPumpingIncMember 2022-08-01 2022-08-31
+0001703956 bbcp:CoastalCarolinaPumpingIncMember 2022-08-31
+0001703956 bbcp:CoastalCarolinaPumpingIncMember us-gaap:CustomerRelationshipsMember 2022-08-01 2022-08-31
+0001703956 bbcp:CoastalCarolinaPumpingIncMember us-gaap:NoncompeteAgreementsMember 2022-08-01 2022-08-31
+utr:Y
+0001703956 bbcp:CoastalCarolinaPumpingIncLeasesMember 2022-08-31
+0001703956 bbcp:PioneerConcretePumpingServicesMember 2021-11-01 2021-11-30
+0001703956 bbcp:PioneerConcretePumpingServicesMember srt:MinimumMember 2021-11-01 2021-11-30
+0001703956 bbcp:PioneerConcretePumpingServicesMember srt:MaximumMember 2021-11-01 2021-11-30
+0001703956 bbcp:CoastalCarolinaPumpingIncMember 2022-11-01 2023-01-31
+0001703956 bbcp:CoastalCarolinaPumpingIncMember 2021-11-01 2022-01-31
+0001703956 srt:ProFormaMember 2022-11-01 2023-01-31
+0001703956 srt:ProFormaMember 2021-11-01 2022-01-31
+0001703956 bbcp:CoastalCarolinaPumpingIncMember bbcp:AssetBackedRevolvingCreditFacilityMember 2022-08-01 2022-08-31
+0001703956 us-gaap:CarryingReportedAmountFairValueDisclosureMember bbcp:SeniorSecuredNotesMember 2023-01-31
+0001703956 us-gaap:EstimateOfFairValueFairValueDisclosureMember bbcp:SeniorSecuredNotesMember 2023-01-31
+0001703956 us-gaap:CarryingReportedAmountFairValueDisclosureMember bbcp:SeniorSecuredNotesMember 2022-10-31
+0001703956 us-gaap:EstimateOfFairValueFairValueDisclosureMember bbcp:SeniorSecuredNotesMember 2022-10-31
+0001703956 us-gaap:CarryingReportedAmountFairValueDisclosureMember bbcp:FinanceLeaseObligationsMember 2023-01-31
+0001703956 us-gaap:EstimateOfFairValueFairValueDisclosureMember bbcp:FinanceLeaseObligationsMember 2023-01-31
+0001703956 us-gaap:CarryingReportedAmountFairValueDisclosureMember bbcp:FinanceLeaseObligationsMember 2022-10-31
+0001703956 us-gaap:EstimateOfFairValueFairValueDisclosureMember bbcp:FinanceLeaseObligationsMember 2022-10-31
+0001703956 bbcp:PublicWarrantsMember 2023-01-31
+0001703956 bbcp:PublicWarrantsMember 2022-10-31
+0001703956 bbcp:PrivateWarrantsMember 2023-01-31
+0001703956 bbcp:PrivateWarrantsMember 2022-10-31
+0001703956 bbcp:WarrantToPurchaseClassACommonStockMember 2023-01-31
+utr:D
+0001703956 bbcp:WarrantToPurchaseClassACommonStockMember 2022-11-01 2023-01-31
+0001703956 us-gaap:LandBuildingsAndImprovementsMember 2023-01-31
+0001703956 us-gaap:LandBuildingsAndImprovementsMember 2022-10-31
+0001703956 bbcp:FinanceLeasesForLandAndBuildingsMember 2023-01-31
+0001703956 bbcp:FinanceLeasesForLandAndBuildingsMember 2022-10-31
+0001703956 us-gaap:MachineryAndEquipmentMember 2023-01-31
+0001703956 us-gaap:MachineryAndEquipmentMember 2022-10-31
+0001703956 us-gaap:TransportationEquipmentMember 2023-01-31
+0001703956 us-gaap:TransportationEquipmentMember 2022-10-31
+0001703956 us-gaap:FurnitureAndFixturesMember 2023-01-31
+0001703956 us-gaap:FurnitureAndFixturesMember 2022-10-31
+0001703956 us-gaap:CostOfSalesMember bbcp:PropertyAndEquipmentMember 2022-11-01 2023-01-31
+0001703956 us-gaap:CostOfSalesMember bbcp:PropertyAndEquipmentMember 2021-11-01 2022-01-31
+0001703956 us-gaap:GeneralAndAdministrativeExpenseMember bbcp:PropertyAndEquipmentMember 2022-11-01 2023-01-31
+0001703956 us-gaap:GeneralAndAdministrativeExpenseMember bbcp:PropertyAndEquipmentMember 2021-11-01 2022-01-31
+0001703956 bbcp:USConcretePumpingMember 2022-11-01 2023-01-31
+0001703956 us-gaap:CustomerRelationshipsMember 2022-11-01 2023-01-31
+0001703956 us-gaap:CustomerRelationshipsMember 2023-01-31
+0001703956 us-gaap:TradeNamesMember 2022-11-01 2023-01-31
+0001703956 us-gaap:TradeNamesMember 2023-01-31
+0001703956 bbcp:AssembledWorkforceMember 2022-11-01 2023-01-31
+0001703956 bbcp:AssembledWorkforceMember 2023-01-31
+0001703956 us-gaap:NoncompeteAgreementsMember 2022-11-01 2023-01-31
+0001703956 us-gaap:NoncompeteAgreementsMember 2023-01-31
+0001703956 bbcp:TradeNamesIndefiniteLivedMember 2023-01-31
+0001703956 us-gaap:CustomerRelationshipsMember 2020-11-01 2021-10-31
+0001703956 us-gaap:CustomerRelationshipsMember 2021-10-31
+0001703956 us-gaap:TradeNamesMember 2020-11-01 2021-10-31
+0001703956 us-gaap:TradeNamesMember 2021-10-31
+0001703956 bbcp:AssembledWorkforceMember 2020-11-01 2021-10-31
+0001703956 bbcp:AssembledWorkforceMember 2021-10-31
+0001703956 us-gaap:NoncompeteAgreementsMember 2020-11-01 2021-10-31
+0001703956 us-gaap:NoncompeteAgreementsMember 2021-10-31
+0001703956 bbcp:TradeNamesIndefiniteLivedMember 2021-10-31
+0001703956 2020-11-01 2021-10-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcretePumpingMember 2022-10-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcretePumpingMember 2022-11-01 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcretePumpingMember 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKOperationsMember 2022-10-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKOperationsMember 2022-11-01 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKOperationsMember 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcreteWasteManagementServicesMember 2022-10-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcreteWasteManagementServicesMember 2022-11-01 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcreteWasteManagementServicesMember 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember 2022-10-31
+0001703956 us-gaap:OperatingSegmentsMember 2022-11-01 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember 2023-01-31
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:RevolvingLoanMember 2023-01-31
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:RevolvingLoanMember 2021-10-31
+0001703956 bbcp:SeniorSecuredNotesMember 2023-01-31
+0001703956 bbcp:SeniorSecuredNotesMember 2021-10-31
+0001703956 bbcp:SeniorSecuredNotesMember 2021-01-28
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember 2021-01-28
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember 2022-06-29
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember us-gaap:StandbyLettersOfCreditMember 2018-12-06
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember us-gaap:StandbyLettersOfCreditMember 2022-06-29
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:JpmorganChaseBankNaMember 2022-06-29
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember 2023-01-31
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember us-gaap:StandbyLettersOfCreditMember 2023-01-31
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:OtherLoanBorrowingsMember bbcp:SterlingOvernightIndexAverageMember 2022-10-01 2023-01-31
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:OtherLoanBorrowingsMember 2022-06-29 2022-06-29
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:OtherLoanBorrowingsMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-29 2022-06-29
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:OtherLoanBorrowingsMember us-gaap:BaseRateMember 2022-06-29 2022-06-29
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:OtherLoanBorrowingsMember us-gaap:BaseRateMember 2022-06-30 2022-06-30
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:OtherLoanBorrowingsMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-06-30 2022-06-30
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember bbcp:OtherLoanBorrowingsMember 2023-01-31 2023-01-31
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember 2022-10-31
+0001703956 bbcp:AssetBackedRevolvingCreditFacilityMember 2022-06-29
+0001703956 bbcp:ApproximationMember 2021-11-01 2022-01-31
+0001703956 us-gaap:ForeignCountryMember 2023-01-31
+0001703956 us-gaap:ForeignCountryMember 2022-10-31
+0001703956 bbcp:AccruedLiabilitiesAndOtherLiabilitiesMember 2023-01-31
+0001703956 bbcp:AccruedLiabilitiesAndOtherLiabilitiesMember 2022-10-31
+0001703956 bbcp:BankAccountToFacilitateAdministrationOfClaimsMember 2023-01-31
+0001703956 us-gaap:StandbyLettersOfCreditMember 2023-01-31
+0001703956 2018-12-06
+0001703956 us-gaap:SeriesAPreferredStockMember 2018-12-06 2018-12-06
+0001703956 bbcp:PublicWarrantsMember 2019-04-29 2019-04-29
+0001703956 bbcp:PrivateWarrantsMember 2019-04-29 2019-04-29
+0001703956 bbcp:PublicOfferingMember 2019-05-14 2019-05-14
+0001703956 bbcp:PublicOfferingMember 2019-05-14
+0001703956 bbcp:DirectorsOfficersStockholdersMember bbcp:PublicOfferingMember 2019-05-14 2019-05-14
+0001703956 bbcp:DirectorsOfficersStockholdersMember bbcp:PublicOfferingMember 2019-05-14
+0001703956 us-gaap:SeriesAPreferredStockMember 2020-11-01 2021-01-31
+0001703956 us-gaap:SeriesAPreferredStockMember 2019-06-06
+0001703956 2019-06-06 2019-06-06
+0001703956 bbcp:PublicWarrantsMember 2019-04-01 2019-04-01
+0001703956 bbcp:PrivateWarrantsMember 2019-04-01 2019-04-01
+0001703956 2019-04-29 2019-04-29
+0001703956 2022-06-30
+0001703956 us-gaap:EmployeeStockOptionMember 2022-11-01 2023-01-31
+0001703956 us-gaap:EmployeeStockOptionMember 2021-11-01 2022-01-31
+0001703956 us-gaap:RestrictedStockMember 2022-11-01 2023-01-31
+0001703956 us-gaap:RestrictedStockMember 2021-11-01 2022-01-31
+0001703956 us-gaap:WarrantMember 2022-11-01 2023-01-31
+0001703956 us-gaap:RestrictedStockMember 2022-11-01 2023-01-31
+0001703956 bbcp:UnvestedStockOptionsMember 2022-11-01 2023-01-31
+0001703956 bbcp:VestedNonqualifiedStockOptionsMember 2022-11-01 2023-01-31
+0001703956 bbcp:SeriesAPreferredStocksMember 2022-11-01 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcretePumpingMember 2021-11-01 2022-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKConcretePumpingMember 2022-11-01 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKConcretePumpingMember 2021-11-01 2022-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:USConcreteWasteManagementServicesMember 2021-11-01 2022-01-31
+0001703956 us-gaap:CorporateNonSegmentMember 2022-11-01 2023-01-31
+0001703956 us-gaap:CorporateNonSegmentMember 2021-11-01 2022-01-31
+0001703956 us-gaap:IntersegmentEliminationMember 2022-11-01 2023-01-31
+0001703956 us-gaap:IntersegmentEliminationMember 2021-11-01 2022-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKOperationsMember 2021-11-01 2022-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKConcretePumpingMember 2023-01-31
+0001703956 us-gaap:OperatingSegmentsMember bbcp:UKConcretePumpingMember 2022-10-31
+0001703956 us-gaap:CorporateNonSegmentMember 2023-01-31
+0001703956 us-gaap:CorporateNonSegmentMember 2022-10-31
+0001703956 us-gaap:IntersegmentEliminationMember 2023-01-31
+0001703956 us-gaap:IntersegmentEliminationMember 2022-10-31
+0001703956 country:US 2022-11-01 2023-01-31
+0001703956 country:US 2021-11-01 2022-01-31
+0001703956 country:GB 2022-11-01 2023-01-31
+0001703956 country:GB 2021-11-01 2022-01-31
+0001703956 country:US 2022-01-31
+0001703956 country:US 2022-10-31
+0001703956 country:GB 2022-01-31
+0001703956 country:GB 2022-10-31
+0001703956 bbcp:CherokeeMember us-gaap:SubsequentEventMember 2023-02-27 2023-02-27
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  January 31, 2023
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____ to ____
+Commission File Number:
+001-38166
+CONCRETE PUMPING HOLDINGS, INC.
+(Exact name of Registrant as specified in its charter)
+Delaware
+83-1779605
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+500 E. 84th Avenue, Suite A-5
+80229
+Thornton ,
+Colorado
+(Address of principal executive offices)
+(Zip Code)
+( 303 )
+289-7497
+(Registrant's telephone number, including area code)
+None
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.0001 per share
+BBCP
+Nasdaq
+Stock Market LLC
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☒
+Non-accelerated filer
+☐
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No ☒
+As of March 7, 2023, the registrant had
+55,409,996
+shares of common stock, par value $0.0001 per share, issued and outstanding.
+Table of Contents
+CONCRETE PUMPING HOLDINGS, INC.
+FORM 10-Q
+FOR THE QUARTER ENDED
+January 31, 2023
+Page
+Part   I. Financial Information
+Item 1.
+Financial Statements:
+Condensed Consolidated Balance Sheets (Unaudited)
+3
+Condensed Consolidated Statements of Operations and Comprehensive Income (Unaudited)
+4
+Condensed Consolidated Statements of Changes in Stockholders ’  Equity (Unaudited)
+6
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+7
+Notes to Unaudited Condensed Consolidated Financial Statements
+9
+Item 2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+24
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+35
+Item 4.
+Controls and Procedures
+35
+Part II. Other Information
+Item 1.
+Legal Proceedings
+36
+Item 1A.
+Risk Factors
+36
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+36
+Item 3.
+Defaults Upon Senior Securities
+36
+Item 4.
+Mine Safety Disclosures
+36
+Item 5.
+Other Information
+36
+Item 6.
+Exhibits
+37
+Signatures
+38
+2
+Table of Contents
+PART I
+ITEM 1.
+Financial Statements
+Concrete Pumping Holdings, Inc.
+Condensed Consolidated Balance Sheets
+January 31,
+October 31,
+(in thousands except per share amounts)
+2023
+2022
+(Unaudited)
+Current assets:
+Cash and cash equivalents
+$ 4,049     $ 7,482
+Trade receivables, net of allowance for doubtful accounts of $ 877
+and $ 941 , respectively
+53,020       62,882
+Inventory, net
+6,593       5,532
+Income taxes receivable
+109       485
+Prepaid expenses and other current assets
+12,516       5,175
+Total current assets
+76,287       81,556
+Property, plant and equipment, net
+422,800       419,377
+Intangible assets, net
+133,681       137,754
+Goodwill
+221,905       220,245
+Right-of-use operating lease assets
+23,796       24,833
+Other non-current assets
+2,029       2,026
+Deferred financing costs
+1,567       1,698
+Total assets
+$ 882,065     $ 887,489
+Current liabilities:
+Revolving loan
+$ 50,247     $ 52,133
+Operating lease obligations, current portion
+4,741       4,001
+Finance lease obligations, current portion
+111       109
+Accounts payable
+5,745       8,362
+Accrued payroll and payroll expenses
+11,430       13,341
+Accrued expenses and other current liabilities
+30,083       32,156
+Income taxes payable
+559       178
+Total current liabilities
+102,916       110,280
+Long term debt, net of discount for deferred financing costs
+370,824     370,476
+Operating lease obligations, non-current
+19,284     20,984
+Finance lease obligations, non-current
+140     169
+Deferred income taxes
+74,930     74,223
+Warrant liability
+2,473     7,030
+Total liabilities
+570,567     583,162
+Commitments and contingencies (Note 12)
+Zero-dividend convertible perpetual preferred stock, $ 0.0001
+par value,
+2,450,980
+shares issued and outstanding as of January 31, 2023 and October 31, 2022
+25,000       25,000
+Stockholders' equity
+Common stock, $ 0.0001
+par value,
+500,000,000
+shares authorized,
+55,407,330
+and
+56,226,191
+issued and outstanding as of January 31, 2023 and October 31, 2022, respectively
+6       6
+Additional paid-in capital
+380,535       379,395
+Treasury stock
+( 10,105 )     ( 4,609 )
+Accumulated other comprehensive loss
+( 4,176 )     ( 9,228 )
+Accumulated deficit
+( 79,762 )     ( 86,237 )
+Total stockholders' equity
+286,498       279,327
+Total liabilities and stockholders' equity
+$ 882,065     $ 887,489
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+Table of Contents
+Concrete Pumping Holdings, Inc.
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended January 31,
+(in thousands, except share and per share amounts)
+2023
+2022
+Revenue
+$
+93,575
+$
+85,448
+Cost of operations
+57,121
+51,321
+Gross profit
+36,454
+34,127
+General and administrative expenses
+27,038
+26,721
+Transaction costs
+3
+21
+Income from operations
+9,413
+7,385
+Other income (expense):
+Interest expense, net
+( 6,871
+)
+( 6,261
+)
+Change in fair value of warrant liabilities
+4,556
+-
+Other income, net
+21
+37
+Total other expense
+( 2,294
+)
+( 6,224
+)
+Income before income taxes
+7,119
+1,161
+Income tax expense (benefit)
+644
+( 22
+)
+Net income
+6,475
+1,183
+Less accretion of liquidation preference on preferred stock
+( 441
+)
+( 441
+)
+Income available to common shareholders
+$
+6,034
+$
+742
+Weighted average common shares outstanding
+Basic
+53,601,707
+53,667,290
+Diluted
+54,457,125
+54,712,478
+Net income per common share
+Basic
+$
+0.11
+$
+0.01
+Diluted
+$
+0.11
+$
+0.01
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+Table of Contents
+Concrete Pumping Holdings, Inc.
+Condensed Consolidated Statements of Comprehensive Income (Loss)
+(Unaudited)
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Net income
+$
+6,475
+$
+1,183
+Other comprehensive income (loss):
+Foreign currency translation adjustment
+5,052
+( 1,440
+)
+Total comprehensive income (loss)
+$
+11,527
+$
+( 257
+)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+Table of Contents
+Concrete Pumping Holdings, Inc.
+Condensed Consolidated Statements of Changes in Stockholders' Equity
+(Unaudited)
+Common Stock
+Additional Paid-In Capital
+Treasury Stock
+Accumulated Other Comprehensive Income (loss)
+Accumulated Deficit
+Total
+(in thousands, except share amounts)
+Shares
+Amount
+Balance, October 31, 2021
+56,564,642
+$
+6
+$
+374,272
+$
+( 461
+)
+$
+3,671
+$
+( 114,913
+)
+$
+262,575
+Stock-based compensation expense
+-
+-
+1,480
+-
+-
+-
+1,480
+Shares issued under stock-based program, net of treasury shares purchased for tax withholding
+135,506
+-
+2
+( 534
+)
+-
+-
+( 532
+)
+Net income
+-
+-
+-
+-
+-
+1,183
+1,183
+Foreign currency translation adjustment
+-
+-
+-
+-
+( 1,440
+)
+-
+( 1,440
+)
+Balance, January 31, 2022
+56,700,148
+$
+6
+$
+375,754
+$
+( 995
+)
+$
+2,231
+$
+( 113,730
+)
+$
+263,266
+Common Stock
+Additional Paid-In Capital
+Treasury Stock
+Accumulated Other Comprehensive Income (loss)
+Accumulated Deficit
+Total
+(in thousands, except share amounts)
+Shares
+Amount
+Balance, October 31, 2022
+56,226,191
+$
+6
+$
+379,395
+$
+( 4,609
+)
+$
+( 9,228
+)
+$
+( 86,237
+)
+$
+279,327
+Stock-based compensation expense
+-
+-
+1,140
+-
+-
+-
+1,140
+Forfeiture of restricted stock
+( 1,312
+)
+-
+-
+-
+-
+-
+-
+Shares issued under stock-based program, net of treasury shares purchased for tax withholding
+( 57,092
+)
+-
+-
+( 573
+)
+-
+-
+( 573
+)
+Treasury shares purchased under share repurchase program
+( 760,457
+)
+-
+-
+( 4,923
+)
+-
+-
+( 4,923
+)
+Net income
+-
+-
+-
+-
+-
+6,475
+6,475
+Foreign currency translation adjustment
+-
+-
+-
+-
+5,052
+-
+5,052
+Balance, January 31, 2023
+55,407,330
+$
+6
+$
+380,535
+$
+( 10,105
+)
+$
+( 4,176
+)
+$
+( 79,762
+)
+$
+286,498
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+Table of Contents
+Concrete Pumping Holdings, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+For the Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Net income
+$
+6,475
+$
+1,183
+Adjustments to reconcile net income to net cash provided by operating activities:
+Non-cash operating lease expense
+1,113
+893
+Foreign currency adjustments
+( 816
+)
+-
+Depreciation
+9,654
+8,341
+Deferred income taxes
+129
+( 175
+)
+Amortization of deferred financing costs
+479
+458
+Amortization of intangible assets
+4,795
+5,739
+Stock-based compensation expense
+1,140
+1,480
+Change in fair value of warrant liabilities
+( 4,556
+)
+-
+Net gain on the sale of property, plant and equipment
+( 578
+)
+( 444
+)
+Net changes in operating assets and liabilities:
+Trade receivables, net
+10,415
+676
+Inventory
+( 957
+)
+( 265
+)
+Prepaid expenses and other assets
+( 7,256
+)
+( 6,265
+)
+Accounts payable
+( 3,997
+)
+( 3,460
+)
+Accrued payroll, accrued expenses and other liabilities
+1,876
+5,027
+Net cash provided by operating activities
+17,916
+13,188
+Cash flows from investing activities:
+Purchases of property, plant and equipment
+( 17,120
+)
+( 35,431
+)
+Proceeds from sale of property, plant and equipment
+2,333
+1,950
+Purchases of intangible assets
+-
+( 1,050
+)
+Net cash used in investing activities
+( 14,787
+)
+( 34,531
+)
+Cash flows from financing activities:
+Proceeds on revolving loan
+83,812
+92,164
+Payments on revolving loan
+( 84,980
+)
+( 76,928
+)
+Payments on finance lease obligations
+( 26
+)
+( 25
+)
+Purchase of treasury stock
+( 5,495
+)
+( 534
+)
+Net cash provided by (used in) financing activities
+( 6,689
+)
+14,677
+Effect of foreign currency exchange rate on cash
+127
+155
+Net decrease in cash and cash equivalents
+( 3,433
+)
+( 6,511
+)
+Cash and cash equivalents:
+Beginning of period
+7,482
+9,298
+End of period
+$
+4,049
+$
+2,787
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+Table of Contents
+Concrete Pumping Holdings, Inc.
+Condensed Consolidated Statements of Cash Flows (Continued)
+(Unaudited)
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Supplemental cash flow information:
+Cash paid for interest
+$
+779
+$
+118
+Cash paid (refunded) for income taxes
+$
+( 306
+)
+$
+50
+Non-cash investing and financing activities:
+Equipment purchases included in accrued expenses and accounts payable
+$
+3,762
+$
+2,326
+Operating lease right-of-use assets recorded upon adoption of ASC 842
+$
+-
+$
+18,625
+Operating lease liabilities recorded upon adoption of ASC 842
+$
+-
+$
+18,593
+Operating lease assets obtained in exchange for new operating lease liabilities
+$
+1,070
+$
+216
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+8
+Table of Contents
+Concrete Pumping Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+Note
+1.
+Organization and Description of Business
+Organization
+Concrete Pumping Holdings, Inc. (the “Company”) is a Delaware corporation headquartered in Denver, Colorado. The Consolidated Financial Statements include the accounts of Concrete Pumping Holdings, Inc. and its wholly owned subsidiaries including Brundage-Bone Concrete Pumping, Inc. (“Brundage-Bone”), Capital Pumping (“Capital”), Camfaud Group Limited (“Camfaud”), and Eco-Pan, Inc. (“Eco-Pan”).
+Nature of business
+Brundage-Bone and Capital are concrete pumping service providers in the United States ("U.S.") and Camfaud is a concrete pumping service provider in the United Kingdom (“U.K.”). Their core business is the provision of concrete pumping services to general contractors and concrete finishing companies in the commercial, infrastructure and residential sectors. Most often equipment returns to a “home base” nightly and these service providers do
+not
+contract to purchase, mix, or deliver concrete. Brundage-Bone and Capital collectively have approximately  100
+branch locations across approximately
+20
+states, with its corporate headquarters in Denver, Colorado. Camfaud has approximately  30
+branch locations throughout the U.K., with its corporate headquarters in Epping (near London), England.
+Eco-Pan provides industrial cleanup and containment services, primarily to customers in the construction industry. Eco-Pan uses containment pans specifically designed to hold waste products from concrete and other industrial cleanup operations. Eco-Pan has  18
+operating locations across the U.S. with its corporate headquarters in Denver, Colorado. In addition, we have concrete waste management operations under our Eco-Pan brand name in the U.K. and currently operate from a shared Camfaud location.
+Seasonality
+The Company’s sales are historically seasonal, with lower revenue in the
+first
+quarter and higher revenue in the
+fourth
+quarter of each year. Such seasonality also causes the Company’s working capital cash flow requirements to vary from quarter to quarter and primarily depends on the variability of weather patterns with the Company generally having lower sales volume during the winter and spring months.
+Note
+2.
+Summary of Significant Accounting Policies
+We describe our significant accounting policies in Note
+2
+of the notes to consolidated financial statements in our Annual Report on Form
+10 -K for the year ended
+October 31, 2022.
+During the
+three
+months ended
+January 31, 2023 , there were
+no
+significant changes to those accounting policies.
+Basis of presentation
+The accompanying unaudited condensed consolidated financial statements have been prepared, without audit, in accordance with generally accepted accounting principles in the United States of America (“GAAP”) and the rules and regulations of the Securities and Exchange Commission ("SEC"). Accordingly, they do
+not
+include all information and footnotes required by GAAP for complete financial statements. The enclosed statements reflect all normal and recurring adjustments which, in the opinion of management, are necessary to present fairly the financial position, results of operations and cash flows of the Company at
+January 31, 2023
+and for all periods presented.
+Use of estimates
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+9
+Table of Contents
+Revenue recognition
+The Company generates revenues primarily from ( 1 ) concrete pumping services in both the U.S. and U.K and ( 2 ) the Company’s concrete waste services business, both of which are discussed below. In addition, the Company generates an immaterial amount of revenue from the sales of replacement parts to customers. The Company’s delivery terms for replacement part sales are FOB shipping point. Revenue is disaggregated between
+two
+accounting standards: ( 1 ) ASC
+606,
+Revenue Recognition
+("ASC
+606" ) and ( 2 ) ASC
+842,
+Leases
+("ASC
+842" ).
+Leases as Lessor
+Our Eco-Pan pan business involves contracts with customers whereby we are a lessor for the rental component of the contract and therefore, such rental components of the contract are recorded as lease revenue. We account for such rental contracts as operating leases. We recognize revenue from pan rentals in the period earned, regardless of the timing of billing to customers. The lease component of the revenue is disaggregated by a base price that is based on the number of contractual days and a variable component that is based on days in excess of the number of contractual days.
+The table below summarizes our revenues as presented in our consolidated statements of operations for the periods ended
+January 31, 2023
+and
+2022
+by revenue type and by applicable accounting standard:
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Service revenue - ASC 606
+86,365       80,079
+Lease fixed revenue – ASC 842
+4,054       3,018
+Lease variable revenue - ASC 842
+3,156       2,351
+Total revenue
+93,575       85,448
+Newly adopted accounting pronouncements
+Accounting Standards Update ("ASU")
+2020 - 04,
+Reference Rate Reform (Topic
+848 ): Facilitation of the Effects of Reference Rate Reform on Financial Reporting (“ASU
+2020 - 04” ) - In
+March 2020,
+the FASB issued ASU
+2020 - 04,
+which provides optional guidance for a limited period of time to ease the potential burden in accounting for (or recognizing the effects of) reference rate reform on financial reporting for contracts, hedging relationships, and other transactions that reference the London Interbank Offered Rate (“LIBOR”). Specifically, to the extent the Company's debt agreements are modified to replace LIBOR with another interest rate index, ASU
+2020 - 04
+will permit the Company to account for the modification as a continuation of the existing contract without additional analysis. Companies
+may
+generally elect to apply the guidance for periods that include
+March 12, 2020
+through
+December 31, 2022.
+Effective
+October 1, 2021,  the Company transitioned all of its GBP borrowings from LIBOR to the Sterling Overnight Index Average ("SONIA") rate. Effective
+June 29, 2022,
+the Company transitioned all of its U.S. Dollar borrowings from LIBOR to the Secured Overnight Financing Rate ("SOFR"). See Note
+8
+for further discussion.
+ASU
+2016 - 02,
+Leases ("ASU
+2016 - 02" ) - In
+February 2016,
+the FASB issued ASU
+2016 - 02,
+which is codified in ASC
+842,
+Leases (“ASC
+842” ) and supersedes current lease guidance in ASC
+840,
+Leases. ASC
+842
+requires a lessee to recognize a right-of-use asset ("ROU") and a corresponding lease liability for substantially all leases. The lease liability will be equal to the present value of the remaining lease payments while the right-of-use asset will be similarly calculated and then adjusted for initial direct costs. In addition, ASC
+842
+expands the disclosure requirements to increase the transparency and comparability of the amount, timing and uncertainty of cash flows arising from leases. In
+July 2018,
+the FASB issued ASU
+2018 - 11,
+Leases ASC
+842:
+Targeted Improvements, which allows entities to initially apply the new leases standard at the adoption date and recognize a cumulative-effect adjustment to the opening balance of retained earnings in the period of adoption.
+The new standard is effective for emerging growth companies that have elected to use private company adoption dates for fiscal years beginning after
+December 15, 2021,
+and interim periods within fiscal years beginning after
+December 15, 2022.
+The Company adopted the guidance for the year ended
+October 31, 2022,
+with an effective date of adoption of
+November 1, 2021.
+10
+Table of Contents
+Recently issued accounting pronouncements
+not
+yet effective
+ASU
+2016 - 13,  Financial Instruments Credit Losses (Topic
+326 ) (“ASU
+2016 - 13” ) - In
+June 2016,
+the FASB issued ASU
+No.
+2016 - 13,
+which, along with subsequently issued related ASUs, requires financial assets (or groups of financial assets) measured at amortized cost basis to be presented at the net amount expected to be collected, among other provisions. This ASU is effective for smaller reporting companies with fiscal years beginning after
+December 15, 2022,
+with early adoption permitted. The Company plans to adopt the guidance during the
+first
+quarter of the fiscal year ending
+October 31, 2024.
+The amendments of this ASU should be applied on a modified retrospective basis to all periods presented. The Company is currently evaluating the effects adoption of this guidance will have on the consolidated financial statements.
+Note
+3.
+Business Combinations and Asset Acquisitions
+The Company completed
+no
+acquisitions during the
+first
+quarter of fiscal
+2023
+and
+five
+acquisitions during fiscal
+2022.
+All acquisitions either added complementary assets in markets in which the Company already operates or expanded the Company's footprint into adjacent markets. With the exception of the acquisition during the
+fourth
+quarter of fiscal
+2022,
+all other transactions qualified as asset acquisitions. Except for the acquisition of Pioneer in the
+first
+quarter of fiscal
+2022
+and Coastal in the
+fourth
+quarter of fiscal
+2022,
+these acquisitions were
+not
+individually significant to our results of operations. The consideration for the acquisitions in fiscal
+2022
+consisted of cash and was allocated to the acquired long-lived tangible and intangible assets.
+August 2022 ( Fiscal
+2022 ) Coastal Acquisition
+In
+August 2022,
+the Company acquired the property, equipment and intangible assets of Coastal Carolina Pumping, Inc. (“Coastal”) for total purchase consideration of $ 30.8
+million, which was paid for using cash and the ABL Facility (defined below). This transaction expanded our operations in the Carolinas and Florida and qualified as a business combination under ASC
+805.
+Accordingly, the Company recorded all assets acquired and liabilities assumed at their acquisition-date fair values. There was
+no
+goodwill recognized in this transaction.
+The following table represents the final allocation of consideration to the assets acquired and liabilities assumed at their estimated acquisition-date fair values with any measurement-period adjustments included:
+(in thousands)
+Consideration paid:
+$ 30,762
+Net assets acquired:
+Intangible assets
+$ 2,500
+Property and equipment
+28,500
+Liabilities assumed
+( 238
+)
+Total net assets acquired
+$ 30,762
+All assets were valued using level
+3
+inputs. The equipment was valued using a market approach while the intangible assets were valued using an income approach based on management’s projections.
+Identifiable intangible assets acquired consist of customer relationships of $ 1.7
+million and non-compete agreements valued at $ 0.8
+million. The customer relationships were valued using the multi-period excess earnings method. The non-competes were valued using a direct valuation of economic damages approach. The Company determined the useful life of both the customer relationships and non-compete agreements to be
+5
+years.
+Concurrent with closing of the asset purchase agreement, the Company signed
+five
+leases directly with the seller. The leases were entered into at market rates and the Company recognized an ROU asset and liability of $ 6.5
+million related to these leases.
+11
+Table of Contents
+November 2021 ( Fiscal
+2022 ) Pioneer Acquisition
+In
+November 2021,
+the Company acquired the assets,
+no
+cash, of Pioneer Concrete Pumping Services (“Pioneer”) for total purchase consideration of $ 20.2
+million, of which, $ 1.0
+million was held back (the “Holdback”) to allow for a post-closing joint inspection of Pioneer’s fleet vehicles. The Holdback had
+not
+been paid out as of
+January 31, 2023 . This transaction was treated as an asset acquisition. The Company allocated $ 19.1
+million to the purchase of Pioneer's equipment. The remaining $ 1.1
+million was allocated to a definite-lived assembled workforce intangible asset and a definite-lived customer relationships intangible asset. All assets were valued using level
+3
+inputs. The equipment was valued using a market approach while the intangible assets were valued using an income approach based on management’s projections. The intangible assets will be amortized over
+3
+to
+5
+years.
+Transaction Costs
+Transaction costs include expenses for legal, accounting, and other professionals that were engaged in connection with an asset acquisition or business combination. There were
+no
+significant transaction costs incurred in each of the
+three
+months ended
+January 31, 2023
+and
+2022.
+Unaudited Pro Forma Financial Information
+The following unaudited pro forma financial information presents the combined results of operations for the Company and gives effect to the Coastal business combination discussed above as if they had occurred on
+November 1, 2021.
+The pro forma financial information is presented for illustrative purposes only and is
+not
+necessarily indicative of the results of operations that would have been realized if the Coastal business combinations had been completed on
+November 1, 2021,
+nor does it purport to project the results of operations of the combined company in future periods. The pro forma financial information does
+not
+give effect to any anticipated integration costs related to the acquired company.
+The unaudited pro forma financial information is as follows:
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Revenue
+$ 93,575     $ 85,448
+Pro forma revenue adjustments by Business Combination
+Coastal
+$ -     $ 4,124
+Total pro forma revenue
+$ 93,575     $ 89,572
+Net (loss) income
+$ 6,475     $ 1,183
+Pro forma net income adjustments by Business Combination
+Coastal
+$ -     $ ( 47 )
+Total pro forma net (loss) income
+$ 6,475     $ 1,136
+Significant pro forma adjustments include:
+●
+Tangible and intangible assets are assumed to be recorded at their estimated fair values as of
+November 1, 2021
+and are depreciated or amortized over their estimated useful lives; and
+●
+The Company incurred approximately $ 30.0
+million on the ABL Facility (defined below) in connection with the acquisition of Coastal. Interest expense has been adjusted as of
+November 1, 2020.
+Coastal’s contribution to the Company's
+first
+quarter of fiscal
+2023  revenue was $ 4.4
+million and net income was $ 0.7
+million.
+12
+Table of Contents
+Note
+4.
+Fair Value Measurement
+The carrying amounts of the Company's cash and cash equivalents, accounts receivable, accounts payable and current accrued liabilities approximate their fair value as recorded due to the short-term maturity of these instruments, which approximates fair value. The Company’s outstanding obligations on its asset-backed loan ("ABL") credit facility are deemed to be at fair value as the interest rates on these debt obligations are variable and consistent with prevailing rates. The fair value of the ABL credit facility is derived from Level
+2
+inputs. The carrying values of the Company's finance lease obligations represent fair value. There were
+no
+changes since
+October 31, 2022
+in the Company's valuation techniques used to measure fair value.
+Long-term debt instruments
+The Company's long-term debt instruments are recorded at their carrying values in the consolidated balance sheet, which
+may
+differ from their respective fair values. The fair values of the long-term debt instruments are derived from Level
+2
+inputs.  The fair value amount of the long-term debt instruments at
+January 31, 2023
+and at
+October 31, 2022
+is presented in the table below based on the prevailing interest rates and trading activity of the Senior Notes.
+January 31,
+October 31,
+2023
+2022
+(in thousands)
+Carrying Value
+Fair Value
+Carrying Value
+Fair Value
+Senior Notes
+$ 375,000     $ 347,813     $ 375,000     $ 339,375
+Finance lease obligations
+$ 251     $ 251     $ 278     $ 278
+Warrants
+At
+January 31, 2023
+and
+October 31, 2022 , there were
+13,017,677
+public warrants and
+no
+private warrants outstanding. Each warrant entitles its holder to purchase
+one
+share of Class A common stock at an exercise price of $ 11.50
+per share. The warrants expire on
+December 6, 2023,
+or earlier upon redemption or liquidation. The Company
+may
+call the outstanding public warrants for redemption at a price of $ 0.01
+per warrant, if the last sale price of the Company’s common stock equals or exceeds $ 18.00
+per share for any
+20
+trading days within a
+30 -trading day period ending on the
+third
+business day before the Company sends the notice of redemption to the warrant holders.
+The Company accounts for the public warrants issued in connection with its IPO in accordance with ASC
+815,
+under which certain provisions in the public warrant agreements do
+not
+meet the criteria for equity classification and therefore these warrants must be recorded as liabilities. The fair value of each public warrant is based on the public trading price of the warrant (Level
+2
+fair value measurement). Gains and losses related to the warrants are reflected in the change in fair value of warrant liabilities in the consolidated statements of operations.
+All other non-financial assets
+The Company's non-financial assets, which primarily consist of property and equipment, goodwill and other intangible assets, are
+not
+required to be carried at fair value on a recurring basis and are reported at carrying value. However, on a periodic basis or whenever events or changes in circumstances indicate that their carrying value
+may
+not
+be fully recoverable (and at least annually for goodwill and indefinite lived intangibles), non-financial instruments are assessed for impairment and, if applicable, written down to and recorded at fair value.
+13
+Table of Contents
+Note
+5.
+Prepaid Expenses and Other Current Assets
+The significant components of prepaid expenses and other current assets at
+January 31, 2023
+and at
+October 31, 2022
+are comprised of the following:
+January 31,
+October 31,
+(in thousands)
+2023
+2022
+Prepaid insurance
+$
+6,674
+$
+1,550
+Prepaid licenses and deposits
+1,127
+751
+Prepaid rent
+714
+402
+Other current assets and prepaids
+4,001
+2,472
+Total prepaid expenses and other current assets
+$
+12,516
+$
+5,175
+Note
+6.
+Property, Plant and Equipment
+The significant components of property, plant and equipment at
+January 31, 2023
+and at
+October 31, 2022
+are comprised of the following:
+January 31,
+October 31,
+(in thousands)
+2023
+2022
+Land, building and improvements
+$
+28,827
+$
+28,528
+Finance leases—land and buildings
+828
+828
+Machinery and equipment
+490,374
+478,162
+Transportation equipment
+7,728
+7,133
+Furniture and office equipment
+3,459
+3,870
+Property, plant and equipment, gross
+531,216
+518,521
+Less accumulated depreciation
+( 108,416
+)
+( 99,144
+)
+Property, plant and equipment, net
+$
+422,800
+$
+419,377
+Depreciation expense for the  three -month periods ended
+January 31, 2023
+and
+2022
+is as follows:
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Cost of operations
+$
+9,061
+$
+7,771
+General and administrative expenses
+593
+570
+Total depreciation expense
+9,654
+8,341
+Note
+7.
+Goodwill and Intangible Assets
+The Company has recognized goodwill and certain intangible assets in connection with prior business combinations.
+There were  no  triggering events during the
+three -month period ended
+January 31, 2023 . The Company will continue to evaluate its goodwill and intangible assets in future quarters.
+14
+Table of Contents
+The following table summarizes the composition of intangible assets at
+January 31, 2023
+and at
+October 31, 2022 :
+January 31,
+2023
+Weighted Average
+Gross
+Foreign Currency
+Net
+Remaining Life
+Carrying
+Accumulated
+Translation
+Carrying
+(in thousands)
+(in Years)
+Value
+Impairment
+Amortization
+Adjustment
+Amount
+Intangibles subject to amortization:
+Customer relationship
+10.8
+$
+195,036
+$
+-
+$
+( 117,156
+)
+$
+607
+$
+78,487
+Trade name
+5.8
+5,176
+-
+( 2,253
+)
+104
+3,027
+Assembled workforce
+1.8
+1,450
+-
+( 565
+)
+-
+885
+Noncompete agreements
+4.4
+1,000
+-
+( 218
+)
+-
+782
+Indefinite-lived intangible assets:
+Trade names (indefinite life)
+-
+55,500
+( 5,000
+)
+-
+-
+50,500
+Total intangibles
+$
+258,162
+$
+( 5,000
+)
+$
+( 120,192
+)
+$
+711
+$
+133,681
+October 31,
+2022
+Weighted Average
+Gross
+Foreign Currency
+Net
+Remaining Life
+Carrying
+Accumulated
+Translation
+Carrying
+(in thousands)
+(in Years)
+Value
+Impairment
+Amortization
+Adjustment
+Amount
+Intangibles subject to amortization:
+Customer relationship
+11.0
+$
+193,710
+$
+-
+$
+( 112,658
+)
+$
+1,416
+$
+82,468
+Trade name
+6.1
+4,836
+-
+( 2,127
+)
+239
+$
+2,948
+Assembled workforce
+2.1
+1,450
+-
+( 444
+)
+-
+$
+1,006
+Noncompete agreements
+4.6
+1,000
+-
+( 168
+)
+-
+$
+832
+Indefinite-lived intangible assets:
+Trade names (indefinite life)
+-
+55,500
+( 5,000
+)
+-
+-
+$
+50,500
+Total intangibles
+$
+256,496
+$
+( 5,000
+)
+$
+( 115,397
+)
+$
+1,655
+$
+137,754
+The changes in the carrying value of goodwill by reportable segment for the  three -month periods ended
+January 31, 2023
+and
+2022
+are as follows:
+Reportable Segment
+As of October 31, 2022
+Foreign Currency Translation
+As of
+January 31, 2023
+(in thousands)
+U.S. Concrete Pumping
+$
+147,482
+$
+-
+$
+147,482
+U.K. Operations
+23,630
+$
+1,660
+25,290
+U.S. Concrete Waste Management Services
+49,133
+$
+-
+49,133
+Total
+$
+220,245
+$
+1,660
+$
+221,905
+15
+Table of Contents
+Note
+8.
+Long Term Debt and Revolving Lines of Credit
+The table below is a summary of the composition of the Company’s debt balances at
+January 31, 2023
+and at
+October 31, 2022:
+January 31,
+October 31,
+(in thousands)
+Interest Rates
+Maturities
+2023
+2022
+Revolving loan (short term)
+Varies
+January 2026
+$
+50,247
+$
+52,133
+Senior Notes - all long term
+6.0000 %
+February 2026
+375,000
+375,000
+Total debt, gross
+425,247
+427,133
+Less: Unamortized deferred financing costs offsetting long term debt
+( 4,176
+)
+( 4,524
+)
+Total debt, net of unamortized deferred financing costs
+$
+421,071
+$
+422,609
+On
+January 28, 2021,
+Brundage-Bone Concrete Pumping Holdings Inc., a Delaware corporation (the “Issuer”) and a wholly-owned subsidiary of the Company (i) completed a private offering of $ 375.0
+million in aggregate principal amount of its
+6.000 % senior secured
+second
+lien notes due
+2026
+(the “Senior Notes”) issued pursuant to an indenture, among the Issuer, the Company, the other Guarantors (as defined below), Deutsche Bank Trust Company Americas, as trustee and as collateral agent (the "Indenture") and (ii) entered into an amended and restated ABL Facility (as subsequently amended, the "ABL Facility") by and among the Company, certain subsidiaries of the Company, Wells Fargo Bank, National Association, as agent, sole lead arranger and sole bookrunner, the other Lenders party thereto, which provided up to $ 125.0
+million of asset-based revolving loan commitments to the Company and the other borrowers under the ABL Facility. The proceeds from the Senior Notes, along with certain borrowings under the ABL Facility, were used to repay all outstanding indebtedness under the Company’s then existing Term Loan Agreement (see discussion below), dated
+December 6, 2018,
+and pay related fees and expenses.
+On
+July 29, 2022,
+the ABL Facility was amended to, among other changes, increase the maximum revolver borrowings available to be drawn thereunder from $ 125.0
+million to $ 160.0
+million and increase the letter of credit sublimit from $ 7.5
+million to $ 10.5
+million. The ABL Facility also provides for an uncommitted accordion feature under which the ABL borrowers can, subject to specified conditions, increase the ABL Facility by up to an additional $ 75.0
+million. The $ 35.0
+million in incremental commitments was provided by JPMorgan Chase Bank, N.A.
+Summarized terms of these facilities are included below.
+Senior Notes
+Summarized terms of the Senior Notes are as follows:
+●
+Provides for an original aggregate principal amount of
+$375.0
+million;
+●
+The Senior Notes will mature and be due and payable in full on
+February 1, 2026;
+●
+The Senior Notes bear interest at a rate of
+6.000%
+per annum, payable on
+February
+1st
+and
+August
+1st
+of each year;
+●
+The Senior Notes are jointly and severally guaranteed on a senior secured basis by the Company, Concrete Pumping Intermediate Acquisition Corp. and each of the Issuer’s domestic, wholly-owned subsidiaries that is a borrower or a guarantor under the ABL Facility (collectively, the "Guarantors"). The Senior Notes and the guarantees are secured on a
+second -priority basis by all the assets of the Issuer and the Guarantors that secure the obligations under the ABL Facility, subject to certain exceptions. The Senior Notes and the guarantees will be the Issuer’s and the Guarantors’ senior secured obligations, will rank equally with all of the Issuer’s and the Guarantors’ existing and future senior indebtedness and will rank senior to all of the Issuer’s and the Guarantors’ existing and future subordinated indebtedness. The Senior Notes are structurally subordinated to all existing and future indebtedness and liabilities of the Company’s subsidiaries that do
+not
+guarantee the Senior Notes; and,
+●
+The Indenture includes certain covenants that limit, among other things, the Issuer’s ability and the ability of its restricted subsidiaries to: incur additional indebtedness and issue certain preferred stock; make certain investments, distributions and other restricted payments; create or incur certain liens; merge, consolidate or transfer all or substantially all assets; enter into certain transactions with affiliates; and sell or otherwise dispose of certain assets.
+16
+Table of Contents
+The outstanding principal amount of the Senior Notes as of
+January 31, 2023
+was $ 375.0
+million and as of that date, the Company was in compliance with all covenants under the Indenture.
+ABL Facility
+Summarized terms of the ABL Facility, as amended, are as follows:
+●
+Borrowing availability in U.S. Dollars and GBP up to a maximum aggregate principal amount of $ 160.0
+million and an uncommitted accordion feature under which the Company can increase the ABL Facility by up to an additional $ 75.0
+million;
+●
+Borrowing capacity available for standby letters of credit of up to $ 10.5
+million and for swing loan borrowings of up to $ 10.5
+million. Any issuance of letters of credit or making of a swing loan will reduce the amount available under the ABL Facility;
+●
+All loans advanced will mature and be due and payable in full on
+January 28, 2026;
+●
+Amounts borrowed
+may
+be repaid at any time, subject to the terms and conditions of the agreement;
+●
+Borrowings in GBP bear interest at the SONIA rate plus an applicable margin currently set at
+2.0326 %. The applicable margins for SONIA are subject to a step down of
+0.25 % based on excess availability levels;
+●
+Through
+June 29, 2022,
+borrowings in U.S. Dollars bore interest at either ( 1 ) an adjusted LIBOR rate plus an applicable margin of
+2.25 % or ( 2 ) a base rate plus an applicable margin of
+1.25 %. After
+June 29, 2022,
+borrowings in U.S. Dollars bear interest at ( 1 ) a base rate plus an applicable margin currently set at
+1.0000 % or ( 2 ) the SOFR rate plus an applicable margin currently set at
+2.0000 %. The applicable margins for U.S. Dollar loans are subject to a step down of
+0.25 % based on excess availability levels;
+●
+U.S. ABL Facility obligations are secured by a
+first -priority perfected security interest in substantially all the assets of the Issuer, together with Brundage-Bone Concrete Pumping, Inc., Eco-Pan, Inc., Capital Pumping LP (collectively, the "US ABL Borrowers") and each of the Company's wholly-owned domestic subsidiaries (the "US ABL Guarantors"), subject to certain exceptions;
+●
+U.K. ABL Facility obligations are secured by a
+first
+priority perfected security interest in substantially all assets of Camfaud Concrete Pumps Limited and Premier Concrete Pumping Limited, each of the Company's wholly-owned U.K. subsidiaries, and by each of the US ABL Borrowers and the US ABL Guarantors, subject to certain exceptions; and
+●
+The ABL Facility also includes (i) a springing financial covenant (fixed charges coverage ratio) based on excess availability levels that the Company must comply with on a quarterly basis during required compliance periods and (ii) certain non-financial covenants.
+The outstanding balance under the ABL Facility as of
+January 31, 2023
+was $ 50.2
+million and as of that date, the Company was in compliance with all debt covenants.
+In addition, as of
+January 31, 2023 , the Company had $ 1.1
+million in credit line reserves and a letter of credit balance of $ 4.2
+million.
+As of
+January 31, 2023 , we had $ 106.2
+million of available borrowing capacity under the ABL Facility. Debt issuance costs related to revolving credit facilities are capitalized and reflected as an asset in deferred financing costs in the accompanying consolidated balance sheets. The Company had debt issuance costs related to the revolving credit facilities of $ 1.6
+million as of
+January 31, 2023.
+At
+January 31, 2023
+and
+October 31, 2022 , the weighted average interest rate for borrowings under the ABL Facility was
+5.2 % and
+4.4 %, respectively.
+The amended ABL Facility was treated as a debt modification. The Company capitalized an additional $ 0.3
+million of debt issuance costs related to the
+July 29, 2022
+ABL Facility amendment.
+17
+Table of Contents
+Note
+9.
+Accrued Payroll and Payroll Expenses
+The following table summarizes accrued payroll and expenses at
+January 31, 2023
+and at
+October 31, 2022 :
+January 31,
+October 31,
+(in thousands)
+2023
+2022
+Accrued vacation
+$
+2,663
+$
+2,705
+Accrued payroll
+3,802
+2,763
+Accrued bonus
+1,865
+4,835
+Accrued employee-related taxes
+2,796
+2,760
+Other accrued
+304
+278
+Total accrued payroll and payroll expenses
+$
+11,430
+$
+13,341
+Note
+10.
+Accrued Expenses and Other Current Liabilities
+The following table summarizes accrued expenses and other current liabilities at
+January 31, 2023
+and at
+October 31, 2022 :
+January 31,
+October 31,
+(in thousands)
+2023
+2022
+Accrued insurance
+$
+9,333
+$
+12,133
+Accrued interest
+11,612
+5,996
+Accrued equipment purchases
+2,589
+7,644
+Accrued property, sales and use tax
+1,490
+1,671
+Accrued professional fees
+1,836
+831
+Other
+3,223
+3,881
+Total accrued expenses and other liabilities
+$
+30,083
+$
+32,156
+Note
+11.
+Income Taxes
+For the  first
+fiscal quarter ended
+January 31, 2023 , the Company recorded an income tax expense of $ 0.6
+million on pretax income of $ 7.1
+million. For the same quarter a year ago, the Company recorded an income tax benefit of $ 0.0
+million on pretax income of $ 1.2
+million. The effective tax rate for the  three -month period ended
+January 31, 2023
+was primarily impacted by the respective change in fair value of warrant liabilities, all of which is
+not
+recognized for tax purposes.
+At
+January 31, 2023
+and
+October 31, 2022 , the Company had deferred tax liabilities, net of deferred tax assets, of $ 74.9
+million and $ 74.2
+million, respectively. Included in deferred tax assets at
+January 31, 2023
+and
+October 31, 2022
+were net operating loss carryforwards of $ 25.9
+million. The Company has a valuation allowance of $ 0.1
+million as of both
+January 31, 2023
+and
+October 31, 2022
+related to foreign tax credit carryforwards where realization is more uncertain at this time due to the limited carryforward periods that exist.
+Note
+12.
+Commitments and Contingencies
+Insurance
+As of
+January 31, 2023
+and
+October 31, 2022 , the Company was partially insured for automobile, general and worker's compensation liability. The Company has accrued $ 6.2
+million and $ 7.0
+million, as of
+January 31, 2023
+and
+October 31, 2022,
+respectively, for estimated ( 1 ) losses reported and ( 2 ) claims incurred but
+not
+reported, which is included in accrued expenses and other current liabilities in the accompanying consolidated balance sheets.
+18
+Table of Contents
+The Company offers employee health benefits via a partially self-insured medical benefit plan. Participant claims exceeding certain limits are covered by a stop-loss insurance policy. As of
+January 31, 2023
+and
+October 31, 2022 , the Company had accrued $ 1.0
+million and $ 3.3
+million, respectively, for estimated health claims incurred but
+not
+reported based on historical claims amounts and average lag time. These accruals are included in accrued expenses and other current liabilities in the accompanying consolidated balance sheets. The Company contracts with a
+third
+party administrator to process claims, remit benefits, etc. The
+third
+party administrator required the Company to maintain a bank account to facilitate the administration of claims. The account balance was $ 0.2
+million as of
+January 31, 2023
+and
+October 31, 2022 , and is included in cash and cash equivalents in the accompanying consolidated balance sheet.
+Litigation
+The Company is currently involved in certain legal proceedings and other disputes with
+third
+parties that have arisen in the ordinary course of business. Management believes that the outcomes of these matters will
+not
+have a material impact on the Company’s financial statements and does
+not
+believe that any amounts need to be recorded for contingent liabilities in the Company’s consolidated balance sheet.
+Letters of credit
+The ABL Facility provides for up to $ 10.5
+million of standby letters of credit. As of
+January 31, 2023 , total outstanding letters of credit totaled $ 4.2
+million, the vast majority of which had been committed to the Company’s general liability insurance provider.
+Note
+13.
+Stockholders ’
+Equity
+The Company’s amended and restated certificate of incorporation authorizes the issuance of
+500,000,000
+shares of common stock, par value $ 0.0001 , and
+10,000,000
+shares of preferred stock, par value $ 0.0001 . Immediately following
+December 6, 2018,
+there were:
+●
+28,847,707
+shares of common stock issued and outstanding;
+●
+34,100,000
+warrants outstanding, each exercisable for
+one
+share of common stock at an exercise price of $ 11.50
+per share; and
+●
+2,450,980
+shares of
+zero -dividend convertible perpetual preferred stock (“Series A Preferred Stock”) outstanding, as further discussed below
+Grants of new restricted stock awards and exercises of stock options are issued out of outstanding and available common stock.
+As discussed below, on
+April 29, 2019,
+2,101,213
+shares of common stock were issued in exchange for the Company's public warrants and
+1,707,175
+shares of common stock were issued in exchange for the Company's private warrants. As of
+January 31, 2023
+and
+October 31, 2022 , there were  13,017,677
+public warrants outstanding.
+On
+May 14, 2019,
+in order to finance a portion of the purchase price for the acquisition of Capital, the Company completed a public offering of
+18,098,166
+of its common stock at a price of $ 4.50
+per share, receiving net proceeds of approximately $ 77.4
+million, after deducting underwriting discounts, commissions, and other offering expenses. In connection with the offering, certain of the Company’s directors, officers and significant stockholders, and certain other related investors purchased an aggregate of
+3,980,166
+shares of its common stock from the underwriters at the public offering price of $ 4.50 , representing approximately
+25 % of the total shares issued (without giving effect to the underwriters’ option to purchase additional shares).
+The Company’s Series A Preferred Stock does
+not
+pay dividends and is convertible (effective
+June 6, 2019)
+into shares of the Company’s common stock at a
+1:1
+ratio (subject to customary adjustments). The Company has the right to elect to redeem all or a portion of the Series A Preferred Stock at its election after
+December 6, 2022
+for cash at a redemption price equal to the amount of the principal investment ($ 25,000,000 ) plus an additional cumulative amount that will accrue at an annual rate of
+7.0 % thereon. As of
+January 31, 2023 , the additional cumulative amount totaled $ 7.4
+million, which would be recognized when redemption is probable. The Series A Preferred Stock will rank senior in priority and will have a senior liquidation preference to the Common Stock. In addition, if the volume weighted average price of shares of the Company’s common stock equals or exceeds $ 13.00
+for
+30
+consecutive days, then the Company will have the right to require the holder of the Series A Preferred Stock to convert its Series A Preferred Stock into Company common stock, at a ratio of
+1:1
+(subject to customary adjustments such as adjustments for anti-dilution events for instance stock splits or reverse stock split).
+19
+Table of Contents
+Conditionally redeemable preferred shares (including preferred shares that feature redemption rights that are either within the control of the holder or subject to redemption upon the occurrence of uncertain events
+not
+solely within the Company’s control) are classified as temporary equity. The preferred stock contains a redemption feature contingent upon a change in control, which is
+not
+solely within the control of the Company. As such, the preferred stock is presented outside of permanent equity.
+Warrant Exchange
+On
+April 1, 2019,
+the Company commenced an offer to each holder of its publicly traded warrants (the “public warrants”) and private placement warrants that were issued in connection with Industrea’s initial public offering on
+April 17, 2017 ( the “private warrants”) to receive
+0.2105
+shares of common stock in exchange for each outstanding public warrant tendered and
+0.1538
+shares of common stock in exchange for each private warrant tendered pursuant to the offer (the “Offer” or “Warrant Exchange”).
+On
+April 26, 2019,
+a total of
+9,982,123
+public warrants and
+11,100,000
+private warrants were tendered for exchange pursuant to the Offer.  On
+April 29, 2019,
+2,101,213
+shares of common stock were issued in exchange for the tendered public warrants and
+1,707,175
+shares of common stock were issued in exchange for the tendered private warrants. A negligible amount of cash was paid for fractional shares. The fair value of common stock issued in exchange for the warrants, totaling $ 26.3
+million, was recognized in additional paid in capital.
+Share Repurchase Program
+In
+January 2023,
+the board of directors of the Company approved a $ 10.0
+million increase to the Company’s share repurchase program. This authorization will expire on
+March 31, 2024
+and is in addition to the repurchase authorization of up to $ 10.0
+million through
+June 15, 2023
+that was previously approved in
+June 2022.
+The repurchase program permits shares to be repurchased in the open market, by block purchase, in privately negotiated transactions, in
+one
+or more transactions from time to time, or pursuant to any trading plan adopted in accordance with Rule
+10b5 - 1
+of the Securities Exchange Act of
+1934
+(the “Exchange Act”). Open market purchases will be conducted in accordance with the limitations set forth in Rule
+10b - 18
+of the Exchange Act and other applicable legal and regulatory requirements. The repurchase program
+may
+be suspended, terminated, extended or otherwise modified by the Board without notice at any time for any reason, including, without limitation, market conditions, the cost of repurchasing shares, the availability of alternative investment opportunities, capital and liquidity objectives, and other factors deemed appropriate by CPH’s management.
+For the
+three -month period ended
+January 31, 2023
+the Company purchased an aggregate of  760,457
+shares of our common stock for a total of $ 4.9
+million resulting in an average price per share of $ 6.48 .
+Note
+14.
+Stock-Based Compensation
+Pursuant to the Concrete Pumping Holdings, Inc.
+2018
+Omnibus Incentive Plan, the Company granted stock-based awards to certain employees in the U.S. and U.K.
+The following table summarizes realized compensation expense related to stock options and restricted stock awards in the accompanying condensed consolidated statements of operations:
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Compensation expense – stock options
+$
+132
+$
+174
+Compensation expense – restricted stock awards
+1,008
+1,306
+Total
+$
+1,140
+$
+1,480
+20
+Table of Contents
+Note
+15.
+Earnings Per Share
+The Company calculates earnings per share in accordance with ASC
+260,
+Earnings Per Share . For purposes of calculating earnings (loss) per share (“EPS”), a company that has participating security holders (for example, holders of unvested restricted stock that have non-forfeitable dividend rights and the Company’s Series A Preferred Stock) is required to utilize the
+two -class method for calculating EPS unless the treasury stock method results in lower EPS. The
+two -class method is an allocation of earnings/(loss) between the holders of common stock and a company’s participating security holders. Under the
+two -class method, earnings/(loss) for the reporting period is calculated by taking the net income (loss) for the period, less both the dividends declared in the period on participating securities (whether or
+not
+paid) and the dividends accumulated for the period on cumulative preferred stock (whether or
+not
+earned) for the period. Our common shares outstanding are comprised of shareholder owned common stock and shares of unvested restricted stock held by participating security holders. Basic EPS is calculated by dividing income or loss attributable to common stockholders by the weighted average number of shares of common stock outstanding, excluding participating shares. To calculate diluted EPS, basic EPS is further adjusted to include the effect of potentially dilutive stock options outstanding and Series A Preferred Stock outstanding as of the beginning of the period.
+At
+January 31, 2023,
+the Company had outstanding ( 1 )  13.0
+million warrants to purchase shares of common stock at an exercise price of $ 11.50 , ( 2 )
+2.0
+million outstanding unvested restricted stock awards, ( 3 )
+1.1
+million outstanding unexercised incentive stock options, ( 4 )
+0.4
+million outstanding unexercised non-qualified stock options, and ( 5 )  2.5
+million shares of Series A Preferred Stock, all of which could potentially be dilutive. The dilutive effects of the
+2.5
+million shares of preferred stock and
+13.0
+million warrants were excluded from the calculation of diluted net income per share for the
+three -month periods ended
+January 31, 2023
+and
+2022,
+as their impact would have been anti-dilutive.
+The table below shows our basic and diluted EPS calculations for the
+three -month periods ended
+January 31, 2023
+and
+2022 :
+Three Months Ended January 31,
+(in thousands, except share and per share amounts)
+2023
+2022
+Net income (numerator):
+Net income attributable to Concrete Pumping Holdings, Inc.
+$ 6,475     $ 1,183
+Less: Accretion of liquidation preference on preferred stock
+( 441 )     ( 441 )
+Less: Undistributed earnings allocated to participating securities
+( 235 )     ( 40 )
+Net income attributable to common stockholders (numerator for basic earnings per share)
+$ 5,799     $ 702
+Add back: Undistributed earning allocated to participating securities
+235       40
+Less: Undistributed earnings reallocated to participating securities
+( 232 )     ( 39 )
+Numerator for diluted earnings (loss) per share
+$ 5,802     $ 703
+Weighted average shares (denominator):
+Weighted average shares - basic
+53,601,707       53,667,290
+Weighted average shares - diluted
+54,457,125       54,712,478
+Basic earnings (loss) per share
+$ 0.11     $ 0.01
+Diluted earnings (loss) per share
+$ 0.11     $ 0.01
+21
+Table of Contents
+Note
+16.
+Segment Reporting
+The Company’s revenues are derived from
+four
+reportable segments: U.S. Concrete Pumping, U.K. Operations, U.S. Concrete Waste Management Services and Corporate. Any differences between segment reporting and consolidated results are reflected in Intersegment below. The Company evaluates the performance of each segment based on revenue, and measures segment performance based upon EBITDA (earnings before interest, taxes, depreciation and amortization). Non-allocated interest expense and various other administrative costs are reflected in Corporate. Corporate assets primarily include cash and cash equivalents, prepaid expenses and other current assets, and real property. The following provides operating information about the Company’s reportable segments for the periods presented.
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Revenue
+U.S. Concrete Pumping
+$ 67,187     $ 63,069
+U.K. Operations
+12,708       12,022
+U.S. Concrete Waste Management Services
+13,773       10,457
+Corporate
+625       625
+Intersegment
+( 718 )     ( 725 )
+Total revenue
+$ 93,575     $ 85,448
+Income (loss) before income taxes
+U.S. Concrete Pumping
+$ ( 1,489 )   $ ( 1,340 )
+U.K. Operations
+( 140 )     ( 254 )
+U.S. Concrete Waste Management Services
+3,780       2,343
+Corporate
+4,968       412
+Total income before income taxes
+$ 7,119     $ 1,161
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+EBITDA
+U.S. Concrete Pumping
+$ 15,063     $ 13,951
+U.K. Operations
+2,380       2,509
+U.S. Concrete Waste Management Services
+5,815       4,417
+Corporate
+5,181       625
+Total EBITDA
+$ 28,439     $ 21,502
+Consolidated EBITDA reconciliation
+Net income
+$ 6,475     $ 1,183
+Interest expense, net
+6,871       6,261
+Income tax expense (benefit)
+644       ( 22 )
+Depreciation and amortization
+14,449       14,080
+Total EBITDA
+$ 28,439     $ 21,502
+22
+Table of Contents
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Depreciation and amortization
+U.S. Concrete Pumping
+$
+10,374
+$
+9,808
+U.K. Operations
+1,827
+1,985
+U.S. Concrete Waste Management Services
+2,035
+2,074
+Corporate
+213
+213
+Total depreciation and amortization
+$
+14,449
+$
+14,080
+Interest expense, net
+U.S. Concrete Pumping
+$
+( 6,178
+)
+$
+( 5,483
+)
+U.K. Operations
+( 693
+)
+( 778
+)
+Total interest expense, net
+$
+( 6,871
+)
+$
+( 6,261
+)
+Transaction costs
+U.S. Concrete Pumping
+$
+3
+$
+21
+Total transaction costs
+$
+3
+$
+21
+Total assets by segment for the periods presented are as follows:
+January 31,
+October 31,
+(in thousands)
+2023
+2022
+Total assets
+U.S. Concrete Pumping
+$
+692,013
+$
+693,048
+U.K. Operations
+108,546
+103,255
+U.S. Concrete Waste Management Services
+158,982
+157,370
+Corporate
+28,523
+27,834
+Intersegment
+( 105,999
+)
+( 94,018
+)
+Total assets
+$
+882,065
+$
+887,489
+The U.S. and U.K. were the only regions that accounted for more than
+10%
+of the Company’s revenue for the periods presented. There was
+no
+single customer that accounted for more than
+10%
+of revenue for the periods presented. Revenue for the periods presented and long-lived assets as of
+January 31, 2023
+and
+October 31, 2022
+are as follows:
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Revenue by geography
+U.S.
+$
+80,867
+$
+73,426
+U.K.
+12,708
+12,022
+Total revenue
+$
+93,575
+$
+85,448
+January 31,
+October 31,
+(in thousands)
+2023
+2022
+Property, plant and equipment, net
+U.S.
+$
+365,734
+$
+366,814
+U.K.
+57,066
+52,563
+Total property, plant and equipment, net
+$
+422,800
+$
+419,377
+Note
+17.
+Subsequent Events
+On
+February 27, 2023,
+the Company acquired the assets of Cherokee Pumping, Inc. and Cherokee Materials, LLC (together “Cherokee”), a concrete pumping and materials placement service provider in Atlanta, Georgia, for an aggregate purchase price of $ 6.3
+million, which was paid using cash on hand. As of the date of issuance of the Company's interim financial statements, the purchase price allocation for this transaction has
+not
+yet been completed.
+23
+Table of Contents
+Item 2.      Management ’ s Discussion and Analysis of Financial Condition and Results of Operations.
+You should read the following management ’ s discussion and analysis together with Concrete Pumping Holdings, Inc. ’ s (the
+“ Company ” ,
+“ we ” ,
+“ us ”
+or
+“ our ” ) condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report. All references to "Notes" in this Item 2 of Part I refer to the notes to condensed consolidated financial statements included in Item 1 of Part I of this report. All references to
+“ Annual Report ”
+refers to our Form 10-K for the year ended October 31, 2022 filed with the SEC on January 31, 2023.
+Cautionary Statement Concerning Forward-Looking Statements and Risk Factors Summary
+Certain statements in this Quarterly Report on Form 10-Q ("Report") constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, among other things, statements regarding our business, financial condition, results of operations, cash flows, strategies and prospects, and the potential impact of the COVID-19 pandemic on our business. These forward-looking statements may be identified by terminology such as “likely,” “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “potential,” “continue,” or "views" or the negative of such terms and other comparable terminology. Although we believe that the expectations reflected in the forward-looking statements contained in this Report are reasonable, we cannot guarantee future results.
+The forward-looking statements contained in this Report are based on our current expectations and beliefs concerning future developments and their potential effects. These statements involve known and unknown risks, uncertainties (some of which are beyond our control) and other factors that may cause the actual results, performance or achievements of the Company to be materially different from those expressed or implied by the forward-looking statements. These risks and uncertainties include, but are not limited to, the items in the following:
+●
+the adverse impact of recent inflationary pressures, including significant increases in fuel costs, global economic conditions and events related to these conditions, including the ongoing war in Ukraine and the COVID-19 pandemic,
+●
+general economic and business conditions, which may affect demand for commercial, infrastructure, and residential construction and adverse effects of major endemics or pandemics on our business;
+●
+our ability to successfully implement our operating strategy;
+●
+our ability to successfully identify, manage and integrate acquisitions;
+●
+the restatement of our financial statements for the quarter ended July 31, 2022 and our ability to establish and maintain effective internal control over financial reporting, including our ability to remediate the existing material weakness in our internal controls;
+●
+governmental requirements and initiatives, including those related to mortgage lending, financing or deductions, funding for public or infrastructure construction, land usage, and environmental, health, and safety matters;
+●
+seasonal and inclement weather conditions, which impede the installation of ready-mixed concrete;
+●
+the cyclical nature of, and changes in, the real estate and construction markets, including pricing changes by our competitors;
+●
+our ability to maintain favorable relationships with third parties who supply us with equipment and essential supplies;
+●
+our ability to retain key personnel and maintain satisfactory labor relations;
+●
+disruptions, uncertainties or volatility in the credit markets that may limit our, our suppliers’ and our customers’ access to capital;
+●
+personal injury, property damage, results of litigation and other claims and insurance coverage issues;
+●
+our substantial indebtedness and the restrictions imposed on us by the terms of our indebtedness;
+●
+the effects of currency fluctuations on our results of operations and financial condition;
+●
+other factors as described in the section entitled “Risk Factors” in our Annual Report.
+Our forward-looking statements speak only as of the date of this report or as of the date they are made, and we undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise. However, any further disclosures made on related subjects in subsequent reports on Forms 10-K, 10-Q and 8-K should be considered.
+24
+Table of Contents
+Business Overview
+The Company is a Delaware corporation headquartered in Denver, Colorado. The unaudited consolidated financial statements included herein include the accounts of Concrete Pumping Holdings, Inc. and its wholly owned subsidiaries including Brundage-Bone Concrete Pumping, Inc. (“Brundage-Bone”), Capital Pumping, LP (“Capital”), and Camfaud Group Limited (“Camfaud”), and Eco-Pan, Inc. (“Eco-Pan”).
+As part of the Company’s business growth and capital allocation strategy, the Company views strategic acquisitions as opportunities to enhance our value proposition through differentiation and competitiveness. Depending on the deal size and characteristics of the M&A opportunities available, we expect to allocate capital for opportunistic M&A utilizing cash on the balance sheet and the Company's revolving line of credit. In recent years and as further described below, we have successfully executed on this strategy, including (1) November 2021 acquisition of Pioneer Concrete Pumping Service, Inc. (“Pioneer”) for the purchase consideration of $20.2 million, which provided us with complementary assets and operations in both Georgia and Texas and (2) our acquisition of Coastal Carolina Concrete Pumping, Inc. ("Coastal") in August 2022 for the purchase consideration of $30.8 million, which expanded our operations in the Carolinas and Florida.
+U.S. Concrete Pumping
+All branches operating within our U.S Concrete Pumping segment are concrete pumping service providers in the United States ("U.S."). Their core business is the provision of concrete pumping services to general contractors and concrete finishing companies in the commercial, infrastructure and residential sectors. Equipment generally returns to a “home base” nightly and these branches do not contract to purchase, mix, or deliver concrete. This segment collectively has approximately 100 branch locations across approximately 20 states with their corporate headquarters in Denver, Colorado.
+In recent years, U.S. Concrete Pumping has grown through the acquisitions of Coastal in August 2022 and Pioneer in November 2021, as described above, in addition to its greenfield expansion into Metro Washington DC in fiscal 2022.
+U.S. Concrete Waste Management Services
+Our U.S. Concrete Waste Management Services segment consists of our U.S. based Eco-Pan business. Eco-Pan provides industrial cleanup and containment services, primarily to customers in the construction industry. Eco-Pan uses containment pans specifically designed to hold waste products from concrete and other industrial cleanup operations. Eco-Pan has 18 operating locations across the U.S. with its corporate headquarters in Denver, Colorado.
+U.K. Operations
+Our U.K. Operations segment consists of our Camfaud, Premier and U.K. based Eco-Pan businesses. Camfaud is a concrete pumping service provider in the U.K. Their core business is primarily the provision of concrete pumping services to general contractors and concrete finishing companies in the commercial, infrastructure and residential sectors. Equipment generally returns to a “home base” nightly and does not contract to purchase, mix, or deliver concrete. Camfaud has approximately 30 branch locations throughout the U.K., with its corporate headquarters in Epping (near London), England. In addition, we have concrete waste management operations under our Eco-Pan brand name in the U.K. and currently operate from a shared Camfaud location.
+Corporate
+Our Corporate segment is primarily related to the intercompany leasing of real estate to certain of our U.S Concrete Pumping branches.
+Impacts of Macroeconomic Factors and COVID-19 Recovery
+There have been no material changes to the "Impacts of Macroeconomic Factors and COVID-19 Recovery" previously disclosed in our Annual Report. For a detailed discussion of the risks that affect our business, please refer to the section entitled “Impacts of Macroeconomic Factors and COVID-19 Recovery” in the Annual Report.
+25
+Table of Contents
+Results of Operations
+Three Months Ended January 31,
+(dollars in thousands)
+2023
+2022
+Revenue
+$
+93,575
+$
+85,448
+Cost of operations
+57,121
+51,321
+Gross profit
+36,454
+34,127
+Gross margin
+39.0
+%
+39.9
+%
+General and administrative expenses
+27,038
+26,721
+Transaction costs
+3
+21
+Income from operations
+9,413
+7,385
+Other income (expense):
+Interest expense, net
+(6,871
+)
+(6,261
+)
+Change in fair value of warrant liabilities
+4,556
+-
+Other income, net
+21
+37
+Total other expense
+(2,294
+)
+(6,224
+)
+Income before income taxes
+7,119
+1,161
+Income tax expense (benefit)
+644
+(22
+)
+Net income
+6,475
+1,183
+Less accretion of liquidation preference on preferred stock
+(441
+)
+(441
+)
+Income available to common shareholders
+$
+6,034
+$
+742
+Three Months Ended January 31, 2023
+For the three months ended January 31, 2023, our net income was $6.5 million, as compared to net income of $1.2 million in the same period a year ago. The primary drivers impacting comparability between the two periods were (1) a $2.3 million improvement in gross profit, driven by an $8.1 million increase in revenue that was partially offset by a 90 basis point decline in gross margin, (2) a $4.6 million gain from the revaluation of warrant liabilities during fiscal 2022 compared to no revaluation in the first quarter of fiscal 2022 and (3) $0.7 million in higher income tax expense in fiscal 2023 when compared to fiscal 2022.
+26
+Table of Contents
+Total Assets
+January 31,
+October 31,
+(in thousands)
+2023
+2022
+Total Assets
+U.S. Concrete Pumping
+$
+692,013
+$
+693,048
+U.K. Operations
+108,546
+103,255
+U.S. Concrete Waste Management Services
+158,982
+157,370
+Corporate
+28,523
+27,834
+Intersegment
+(105,999
+)
+(94,018
+)
+$
+882,065
+$
+887,489
+Total assets decreased from $887.5 million as of October 31, 2022 to $882.1 million as of January 31, 2023. The decrease was primarily attributable to a decline in trade receivables of $9.9 million due to the seasonality of the business, partially offset by an increase in prepaid expenses of $7.3 million and organic growth through capital expenditures.
+Revenue
+Three Months Ended January 31,
+Change
+(in thousands)
+2023
+2022
+$
+%
+Revenue
+U.S. Concrete Pumping
+$
+67,187
+$
+63,069
+$
+4,118
+6.5
+%
+U.K. Operations
+12,708
+12,022
+686
+5.7
+%
+U.S. Concrete Waste Management Services
+13,773
+10,457
+3,316
+31.7
+%
+Corporate
+625
+625
+-
+0.0
+%
+Intersegment
+(718
+)
+(725
+)
+7
+-1.0
+%
+Total revenue
+$
+93,575
+$
+85,448
+$
+8,127
+9.5
+%
+U.S. Concrete Pumping
+Revenue for our U.S. Concrete Pumping segment increased by 7%, or $4.1 million, from $63.1 million in the first quarter of fiscal 2022 to $67.2 million for the first quarter of fiscal 2023. Revenue attributable to our acquisition of Coastal was $4.4 million for the first quarter of fiscal 2023.
+U.K. Operations
+Revenue for our U.K. Operations segment increased by 6%, or $0.7 million, from $12.0 million in the first quarter of fiscal 2022 to $12.7 million for the first quarter of fiscal 2023. Excluding the impact from foreign currency translation, revenue was up 17.9% year-over-year. The increase in revenue was primarily attributable to improved pricing across the U.K. region.
+U.S. Concrete Waste Management Services
+Revenue for the U.S. Concrete Waste Management Services segment improved by 32%, or $3.3 million, from $10.5 million in the first quarter of fiscal 2022 to $13.8 million for the first quarter of fiscal 2023. The increase in revenue was primarily due to organic volume growth and pricing improvements.
+Corporate
+There was no change in revenue for our Corporate segment for the periods presented. Any year-over-year changes for our Corporate segment were primarily related to the intercompany leasing of real estate to certain of our U.S Concrete Pumping branches. These revenues are eliminated in consolidation through the Intersegment line item.
+27
+Table of Contents
+Gross Margin
+Our industry has experienced significant inflation in our input costs, particularly in diesel fuel in both the U.S. and the U.K. in the last five fiscal quarters. To help maintain profitability in the face of these challenges, we have increased pricing in line with the rise in our actual costs. However, given the speed of recent input cost increases, there has been a slight lag between the time of our selling price increases and any resulting revenue. In addition, there is a mathematical dilution effect in margin percentage as we only seek to pass on the actual cost increases to our customers. As a result of these factors, our gross margin for the first quarter of fiscal 2023 was 39.0% compared to 39.9% in the first quarter of fiscal 2022.
+General and Administrative Expenses ("G&A")
+G&A expenses for the first quarter of fiscal 2023 were $27.0 million, an increase of $0.3 million from $26.7 million in the first quarter of fiscal 2022. The increase in G&A expenses was primarily due to (1) higher labor costs of approximately $1.2 million primarily due to additional headcount that joined the Company as a result of recent acquisitions and (2) higher legal and accounting expenses of $0.7 million. These increases were offset by (1) lower amortization of intangible assets expense of $0.9 million and (2) $1.0 million related to fluctuations in the GBP. G&A expenses as a percent of revenue were 28.9% for fiscal 2023 compared to 31.3% for the same period a year ago.
+Excluding amortization of intangible assets of $4.8 million, depreciation expense of $0.6 million and stock-based compensation expense of $1.1 million, G&A expenses were $20.5 million for the first quarter of fiscal 2023 (21.9% of revenue), up $1.6 million from $18.9 million for first quarter of fiscal 2022 (22.2% of revenue). The increase was primarily due to the additional headcount and higher labor costs from recent acquisitions, legal and accounting costs, that was partially offset by fluctuations in the GBP, as discussed above.
+Interest Expense, Net
+Interest expense, net for the three months ended January 31, 2023 was $6.9 million, up $0.6 million from $6.3 million in the first quarter of fiscal 2022. The increase was primarily attributable to an increase in the ABL revolver draw in the fourth quarter of fiscal year 2022.
+Change in Fair Value of Warrant Liabilities
+During the three-month period ended January 31, 2023 the Company recognized a $4.6 million gain on the fair value remeasurement of our liability-classified warrants. There was no change in the fair value remeasurement of our liability-classified warrants during the first quarter of fiscal 2022. The changes seen in the fair value remeasurement of the public warrants for all periods presented is due to changes in the Company's share price during the respective periods.
+Income Tax (Benefit)
+For the first fiscal quarter ended
+January 31, 2023 the Company recorded income tax expense of $
+0.6 million on pretax income of $
+7.1 million. For the same quarter a year ago, the Company recorded an income tax benefit of $
+0.0 million on a pretax income of $
+1.2 million. The effective tax rate for the three months ended January 31, 2023 was primarily impacted by the respective change in fair value of warrant liabilities, all of which is not recognized for tax purposes.
+28
+Table of Contents
+Adjusted EBITDA (1)
+and Net Income (Loss)
+Net Income (Loss)
+Adjusted EBITDA
+Three Months Ended January 31,
+Three Months Ended January 31,
+Change
+(in thousands)
+2023
+2022
+2023
+2022
+$
+%
+U.S. Concrete Pumping
+$
+(1,100
+)
+$
+(701
+)
+$
+14,688
+$
+14,496
+$
+192
+1.3
+%
+U.K. Operations
+(100
+)
+(172
+)
+3,186
+3,287
+(101
+)
+-3.1
+%
+U.S. Concrete Waste Management Services
+2,812
+1,749
+6,547
+4,911
+1,636
+33.3
+%
+Corporate
+4,863
+307
+625
+625
+-
+0.0
+%
+Total
+$
+6,475
+$
+1,183
+$
+25,046
+$
+23,319
+$
+1,727
+7.4
+%
+(1)
+See
+“ Non-GAAP Measures (EBITDA and Adjusted EBITDA) ”
+below
+(2)
+As of the first quarter of fiscal 2023, we have modified the method in which adjusted EBITDA is calculated by no longer including an add-back for director costs and public company expenses. The Company recast adjusted EBITDA for U.S. Concrete Pumping in the first quarter of 2022 by $0.7 million for these expenses to reflect this change. See
+“ Non-GAAP Measures (EBITDA and Adjusted EBITDA) ”  below for more information.
+U.S. Concrete Pumping
+Net loss for our U.S. Concrete Pumping segment was $1.1 million for the three months ended January 31, 2023, versus a net loss of $0.7 million for the three months ended January 31, 2022. Adjusted EBITDA for our U.S. Concrete Pumping segment was $14.7 million for the three months ended January 31, 2023, up 1.3% from $14.5 million for the same period in fiscal 2022. The year-over-year increase was primarily attributable to the year-over-year increase in revenue that was partially offset by slightly higher costs due to inflation that drove a marginal decline in our gross margins as discussed previously.
+U.K. Operations
+Net loss for U.K. Operations segment was $0.1 million for the three months ended January 31, 2023, versus a net loss of $0.2 million for the three months ended January 31, 2022. Adjusted EBITDA for our U.K. Operations segment was $3.2 million for the three months ended January 31, 2023, versus $3.3 million from the same period in fiscal 2022. These results reflect a year-over-year improvement in revenue, which was offset by inflationary cost pressures on gross margins.
+U.S. Concrete Waste Management Services
+Net income for our U.S. Concrete Waste Management Services segment was $2.8 million for the three months ended January 31, 2023, up from net income of $1.7 million for the three months ended January 31, 2022. Adjusted EBITDA for our U.S Concrete Waste Management Services segment was $6.5 million for the three months ended January 31, 2023, up 33.3% from $4.9 million for the same period in fiscal 2022. The increase was primarily attributable to the year-over-year organic growth in revenue as discussed above.
+Corporate
+There was no change in Adjusted EBITDA for our Corporate segment for the periods presented.
+29
+Table of Contents
+Liquidity and Capital Resources
+Overview
+Our capital structure is primarily a combination of (1) permanent financing, represented by stockholders’ equity; (2) zero-dividend convertible perpetual preferred stock; (3) long-term financing represented by our Senior Notes and (4) short-term financing under our ABL Facility. Our primary sources of liquidity are cash generated from operations, available cash and cash equivalents and access to our revolving credit facility under our ABL Facility, which provides for aggregate borrowings of up to $160.0 million, subject to a borrowing base limitation. We use our liquidity and capital resources to: (1) finance working capital requirements; (2) service our indebtedness; (3) purchase property, plant and equipment; and (4) finance strategic acquisitions, such as the acquisition of Pioneer, Coastal and others. As of January 31, 2023, we had $4.0 million of cash and cash equivalents and $106.2 million of available borrowing capacity under the ABL Facility, providing total available liquidity of $110.2 million.
+We may from time to time seek to retire or pay down borrowings on the outstanding balance of our ABL Facility or Senior Notes using cash on hand. Such repayments, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors.
+We believe our existing cash and cash equivalent balances, cash flow from operations and borrowing capacity under our ABL Facility will be sufficient to meet our working capital and capital expenditure needs for at least the next 12 months. Our future capital requirements may vary materially from those currently planned and will depend on many factors, including our rate of revenue growth, potential acquisitions and overall economic conditions. To the extent that current and anticipated future sources of liquidity are insufficient to fund our future business activities and requirements, we may be required to seek additional equity or debt financing. The sale of additional equity could result in dilution to our stockholders. The incurrence of debt financing would result in debt service obligations and the instruments governing such debt could provide for operating and financing covenants that would restrict our operations.
+Material Cash Requirements
+Our principal uses of cash historically have been to fund operating activities and working capital, purchases of property and equipment, strategic acquisitions, fund payments due under facility operating and finance leases, share repurchases and to meet debt service requirements.
+The amount of our future capital expenditures will depend on a number of factors including general economic conditions and growth prospects. In response to changing economic conditions, we believe we have the flexibility to modify our capital expenditures by adjusting them (either up or down) to match our actual performance. Our capital expenditures for the three-months ended January 31, 2023 and 2022 were approximately $17.1 million and $35.4 million, respectively.
+To service our debt, we require a significant amount of cash. Our ability to pay interest and principal on our indebtedness will depend upon our future operating performance and the availability of borrowings under the ABL Facility and/or other debt and equity financing alternatives available to us, which will be affected by prevailing economic conditions and conditions in the global credit and capital markets, as well as financial, business and other factors, some of which are beyond our control. Based on our current level of operations and given the current state of the capital markets, we believe our cash flow from operations, available cash and available borrowings under the ABL Facility will be adequate to service our debt and meet our future liquidity needs for the foreseeable future. See “Senior Notes and ABL Facility” discussion below for more information.
+Future Contractual Obligations
+For information regarding our future contractual obligations, see the MD&A discussion included in Item 7 of Part II of our Annual Report.
+30
+Table of Contents
+Senior Notes and ABL Facility
+The table below is a summary of the composition of the Company’s debt balances at January 31, 2023 and at October 31, 2022:
+January 31,
+October 31,
+(in thousands)
+Interest Rates
+Maturities
+2023
+2022
+Revolving loan (short term)
+Varies
+January 2026
+$
+50,247
+$
+52,133
+Senior Notes - all long term
+6.0000%
+February 2026
+375,000
+375,000
+Total debt, gross
+425,247
+427,133
+Less: Unamortized deferred financing costs offsetting long term debt
+(4,176
+)
+(4,524
+)
+Total debt, net of unamortized deferred financing costs
+$
+421,071
+$
+422,609
+The outstanding balance under the ABL Facility as of January 31, 2023 was $50.2 million and as of that date, the Company was in compliance with all debt covenants. In addition, as of January 31, 2023, the Company had $1.1 million in credit line reserves and a letter of credit balance of $4.2 million. As of January 31, 2023, we had $106.2 million of available borrowing capacity under the ABL Facility. Debt issuance costs related to revolving credit facilities are capitalized and reflected as an asset in deferred financing costs in the accompanying consolidated balance sheets. The Company had debt issuance costs related to the revolving credit facilities of $1.6 million as of January 31, 2023. See Note 8 for more information on the Senior Notes and ABL Facility.
+31
+Table of Contents
+Cash Flows
+Cash generated from operating activities typically reflects net income, as adjusted for non-cash expense items such as depreciation, amortization and stock-based compensation, and changes in our operating assets and liabilities. Generally, we believe our business requires a relatively low level of working capital investment due to low inventory requirements and timely customer payments due to daily billings for most of our services.
+Cash flow provided by operating activities.
+Net cash provided by operating activities generally reflects the cash effects of transactions and other events used in the determination of net income or loss.
+Net cash provided by operating activities during the three-month period ended January 31, 2023 was $17.9 million. The Company had net income of $6.5 million, which included non-cash expense items of $11.4 million. In addition, we had cash outflows related to a decrease to our working capital of $0.1 million. Working capital changes primarily include an increase in prepaid expenses and other assets of $7.3 million and a decrease of $4.0 million to accounts payable, offset by a decrease in trade receivables of $10.4 million, an increase in accrued payroll, accrued expenses and other current liabilities of $1.9 million, and an increase in inventory of $1.0 million. The increase to prepaid expenses and other current assets is primarily due to timing of prepaid insurance, which is generally prepaid during first quarter of fiscal year 2023. The decrease in accounts payable is driven by timing. The decrease in trade receivables is due to seasonal collection of trade receivables during the first quarter of fiscal year 2023, while the increase in accrued payroll, accrued expenses and other current liabilities is primarily related to an increase in accrued interest. The Company makes semi-annual interest payments in February and August each year.
+Net cash provided by operating activities during the three-month period ended January 31, 2022 was $13.2 million. The Company had net income of $1.2 million, which included non-cash expense items of $16.3 million. In addition, we had cash outflows related to a decrease to our working capital of $4.3 million. Working capital changes primarily include an increase to prepaid expenses and other current assets of $6.3 million and a decrease of $3.5 million to accounts payable, partially offset by an increase in accrued payroll, accrued expenses and other current liabilities of $5.0 million. The increase to prepaid expenses and other current assets is primarily due to timing of prepaid insurance, which is generally prepaid during first quarter of fiscal year 2022. The decrease to accounts payable is driven by timing. The increase in accrued payroll, accrued expenses and other current liabilities is primarily related to an increase in accrued interest. The Company makes semi-annual interest payments in February and August each year.
+Cash flow used in investing activities.
+Net cash used in operating activities generally reflects the cash outflows for property, plant and equipment.
+We used $14.8 million to fund investing activities during the three-months ended January 31, 2023. The Company used $17.1 million for the purchase of property, plant and equipment, which was partially offset by $2.3 million in proceeds from the sale of property, plant and equipment.
+We used $34.5 million to fund investing activities during the three-month period ended January 31, 2022. The Company used $35.4 million for the purchase of property, plant and equipment and $1.1 million for the purchase of intangible assets, which was partially offset by proceeds from the sale of property, plant and equipment of $2.0 million.
+Cash flow provided by (used in) financing activities .
+Net cash used in financing activities was $6.7 million for the three-months ended January 31, 2023. Financing activities during this period included $5.5 million in purchase of treasury stock, which included $4.9 million purchased under the share repurchase program and $0.6 million in outflows from the purchase of shares into treasury stock in order to fund the employee tax obligations for certain vested stock awards. In addition, cash used in financing activities included $1.2 million in net proceeds under the Company's ABL Facility.
+Net cash provided by financing activities was $14.7 million for the three-month period ended January 31, 2022. Financing activities during this period primarily included $15.2 million in net borrowings under the Company’s ABL Facility that were partially offset by $0.5 million in outflows from the purchase of shares into treasury stock in order to fund the employee tax obligations for certain vested stock awards.
+32
+Table of Contents
+Non-GAAP Measures (EBITDA and Adjusted EBITDA)
+We calculate EBITDA by taking GAAP net income and adding back interest expense, income taxes, depreciation and amortization. Adjusted EBITDA is calculated by taking EBITDA and adding back transaction expenses, loss on debt extinguishment, stock-based compensation, other income, net, goodwill and intangibles impairment and other adjustments. Transaction expenses represent expenses for legal, accounting, and other professionals that were engaged in the completion of various acquisitions. Transaction expenses can be volatile as they are primarily driven by the size of a specific acquisition. As such, we exclude these amounts from Adjusted EBITDA for comparability across periods. Other adjustments include the adjustments for warrant liabilities revaluation, restructuring costs, extraordinary expenses and gain/loss on currency transactions. As of the first quarter of fiscal 2023, we have modified the method in which adjusted EBITDA is calculated by no longer including an add-back for director costs and public company expenses. Adjusted EBITDA in the first quarter of fiscal 2022 is restated by $0.7 million for these expenses to reflect this change.
+We believe these non-GAAP measures of financial results provide useful information to management and investors regarding certain financial and business trends related to our financial condition and results of operations, and as a tool for investors to use in evaluating our ongoing operating results and trends and in comparing our financial measures with competitors who also present similar non-GAAP financial measures. In addition, these measures (1) are used in quarterly and annual financial reports prepared for management and our board of directors and (2) help management to determine incentive compensation. EBITDA and Adjusted EBITDA have limitations and should not be considered in isolation or as a substitute for performance measures calculated under GAAP. These non-GAAP measures exclude certain cash expenses that we are obligated to make. In addition, other companies in our industry may calculate EBITDA and Adjusted EBITDA differently or may not calculate it at all, which limits the usefulness of EBITDA and Adjusted EBITDA as comparative measures.
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Consolidated
+Net income
+$
+6,475
+$
+1,183
+Interest expense, net
+6,871
+6,261
+Income tax expense (benefit)
+644
+(22
+)
+Depreciation and amortization
+14,449
+14,080
+EBITDA
+28,439
+21,502
+Transaction expenses
+3
+21
+Stock-based compensation
+1,140
+1,480
+Change in fair value of warrant liabilities
+(4,556
+)
+-
+Other income, net
+(21
+)
+(37
+)
+Other adjustments 1
+41
+353
+Adjusted EBITDA
+$
+25,046
+$
+23,319
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+U.S. Concrete Pumping
+Net loss
+$
+(1,100
+)
+$
+(701
+)
+Interest expense, net
+6,178
+5,483
+Income tax benefit
+(389
+)
+(639
+)
+Depreciation and amortization
+10,374
+9,808
+EBITDA
+15,063
+13,951
+Transaction expenses
+3
+21
+Stock-based compensation
+1,140
+1,480
+Other income, net
+(10
+)
+(29
+)
+Other adjustments 1
+(1,508
+)
+(927
+)
+Adjusted EBITDA
+$
+14,688
+$
+14,496
+(1)
+Other adjustments include the adjustment for warrant liabilities revaluation, restructuring costs, extraordinary expenses and gain/loss on currency transactions. As of the first quarter of fiscal 2023, we have modified the method in which adjusted EBITDA is calculated by no longer including an add-back for director costs and public company expenses. The Company recast adjusted EBITDA in the first quarter of 2022 by approximately $0.7 million for these expenses to reflect this change.
+33
+Table of Contents
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+U.K. Operations
+Net loss
+$
+(100
+)
+$
+(172
+)
+Interest expense, net
+693
+778
+Income tax benefit
+(40
+)
+(82
+)
+Depreciation and amortization
+1,827
+1,985
+EBITDA
+2,380
+2,509
+Other income, net
+(6
+)
+(2
+)
+Other adjustments
+812
+780
+Adjusted EBITDA
+$
+3,186
+$
+3,287
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+U.S. Concrete Waste Management Services
+Net income
+$
+2,812
+$
+1,749
+Income tax expense
+968
+594
+Depreciation and amortization
+2,035
+2,074
+EBITDA
+5,815
+4,417
+Other income, net
+(5
+)
+(6
+)
+Other adjustments
+737
+500
+Adjusted EBITDA
+$
+6,547
+$
+4,911
+Three Months Ended January 31,
+(in thousands)
+2023
+2022
+Corporate
+Net income
+$
+4,863
+$
+307
+Income tax expense
+105
+105
+Depreciation and amortization
+213
+213
+EBITDA
+5,181
+625
+Change in fair value of warrant liabilities
+(4,556
+)
+-
+Adjusted EBITDA
+$
+625
+$
+625
+Critical Accounting Policies and Estimates
+Our critical accounting policies and estimates are disclosed in the “Critical Accounting Policies and Estimates” section of our Annual Report. No modifications have been made during the first quarter of 2023 to these policies or estimates.
+34
+Table of Contents
+Item 3.      Quantitative and Qualitative Disclosures About Market Risk.
+Not applicable.
+Item 4.      Controls and Procedures.
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures
+The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in its Securities Exchange Act of 1934 (the "Exchange Act") reports is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including its Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.  The Company’s management, with the participation of its Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Report. Based on that evaluation, the Company’s Chief Executive Officer and Chief Financial Officer concluded that, as of January 31, 2023, the Company’s disclosure controls and procedures were not effective due to the material weaknesses described below. As further described below, the Company believes that it has implemented measures that remediate its material weaknesses previously disclosed in its Annual Report; however, due to the nature of the remediation process, the newly implemented controls have not operated effectively for a sufficient period of time for a definitive conclusion.
+Remediation of Prior Material Weakness
+Management identified and disclosed two material weaknesses in the Company’s Annual Report. Specifically, material weaknesses were identified related to (1) the review of manual journal entries within the financial statement close process, which was identified in connection with the restatement of the Company’s interim unaudited financial statements as of July 31, 2022 ("MW #1"); and (2) the areas of user access and segregation of duties related to information technology systems that support the financial reporting process specifically related to accounts payable and expenditures ("MW #2").
+As of January 31, 2023, management implemented measures that it believes remediate the identified material weaknesses. Specifically, for MW #1, controls were implemented and evidenced to ensure that journal entries are adequately reviewed and approved, and for MW #2, the Company has implemented a review of user activity reports and steps to ensure appropriate segregation of duties. Notwithstanding these measures, due to the nature of the remediation process, newly implemented controls must operate effectively for a sufficient period of time for a definitive conclusion, validated through testing, that the deficiencies have been fully remediated and, as such, management can give no assurance that the measures it has undertaken have fully remediated the material weaknesses that it has identified or that additional material weaknesses will not arise in the future. Management will continue to monitor the design and effectiveness of these controls through ongoing tests and will make any further changes that management determines to be appropriate.
+Changes in Internal Control Over Financial Reporting
+Except as noted above, there have been no changes in our internal control over financial reporting that occurred during our first fiscal quarter of fiscal 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+35
+Table of Contents
+Part II
+Item 1.
+Legal Proceedings.
+From time to time, we may have been and may again become involved in legal proceedings arising in the ordinary course of our business. We are not presently a party to any litigation that we believe to be material and we are not aware of any pending or threatened litigation against us that we believe could have a material adverse effect on our business, operating results, financial condition, or cash flows.
+Item 1A. Risk Factors.
+There have been no material changes to the Risk Factors previously disclosed in our Annual Report. For a detailed discussion of the risks that affect our business, please refer to the section entitled “Risk Factors” in the Annual Report.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Issuer Purchases of Equity Securities
+During the first quarter of 2023, we repurchased an aggregate of 842,813 shares of our common stock for a total of $5.5 million at an average price of $6.60 per share. The following table reflects issuer purchases of equity securities for the three months ended January 31, 2023:
+ISSUER PURCHASES OF EQUITY SECURITIES
+Period
+Total Number of Shares Purchased (1)
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Approximate Dollar Value of Shares that May Yet be Purchased under Plans or Programs
+(2,3)
+November 1, 2022 – November 30, 2022
+240,618
+$
+6.89
+240,618
+$
+5,653,554
+December 1, 2022 – December 31, 2022
+397,478
+6.47
+315,122
+3,653,116
+January 1, 2023 - January 31, 2023
+204,717
+6.19
+204,717
+12,386,848
+(4)
+Total
+842,813
+$
+6.60
+760,457
+$
+12,386,848
+(1)
+In June 2022, our board of directors approved a share repurchase program, which was announced in June, 2022,   authorizing us to repurchase up to $10.0 million of our common stock from time to time through June 15, 2023. In January 2023, the board of directors of the Company approved a $10.0 million increase to the Company ’ s share repurchase program, which was announced in January 2023. This authorization will expire on March 31, 2024.
+(2)
+Dollar value of shares that may yet be purchased under the repurchase program
+is as of the end of the period.
+(3)
+Includes commission cost.
+(4)
+Reflects approval by board of directors of $10.0 million increase in authorization under share repurchase program announced in January 2023. See footnote 1.
+Item 3.
+Defaults Upon Senior Securities.
+None
+Item 4.   Mine Safety Disclosures.
+Not Applicable.
+Item 5.
+Other Information.
+(a) None
+(b) None
+36
+Table of Contents
+Item 6.
+Exhibits.
+The documents set forth below are filed herewith or incorporated herein by reference to the location indicated.
+Exhibit No.
+Description
+31.1
+Certification of the Chief Executive Officer required by Rule 13a-14(a) or Rule15d-14(a).
+31.2
+Certification of the Chief Financial Officer required by Rule 13a-14(a) or Rule15d-14(a).
+32.1
+Certification of the Chief Executive Officer required by Rule 13a-14(b) or Rule15d-14(b) and 18 U.S.C. Section 1350.
+32.2
+Certification of the Chief Financial Officer required by Rule 13a-14(b) or Rule15d-14(b) and 18 U.S.C. Section 1350.
+101.INS
+Inline XBRL Instance Document (the Instance Document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+37
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CONCRETE PUMPING HOLDINGS, INC.
+By:
+/s/ Iain Humphries
+Name: Iain Humphries
+Title: Chief Financial Officer and Secretary
+(Authorized Signatory)
+Dated: March 10, 2023
+38

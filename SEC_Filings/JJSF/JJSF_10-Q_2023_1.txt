@@ -1,0 +1,2550 @@
+0
+0
+0
+0
+0
+0000785956 2022-09-25 2022-12-24
+iso4217:USD
+0000785956 2022-09-24
+0000785956 2022-12-24
+0000785956 jjsf:ManagementServicesMember jjsf:NFIMember 2021-09-26 2021-12-25
+0000785956 jjsf:ManagementServicesMember jjsf:NFIMember 2022-09-25 2022-12-24
+0000785956 jjsf:DistributionAndShippingCostsMember jjsf:NFIMember 2021-09-26 2021-12-25
+0000785956 jjsf:DistributionAndShippingCostsMember jjsf:NFIMember 2022-09-25 2022-12-24
+utr:Y
+0000785956 2021-09-26 2021-12-25
+0000785956 jjsf:PropertyPlantAndEquipmentNetMember 2022-09-24
+0000785956 jjsf:PropertyPlantAndEquipmentNetMember 2022-12-24
+xbrli:pure
+0000785956 srt:MaximumMember 2022-12-24
+0000785956 srt:MinimumMember 2022-12-24
+utr:M
+0000785956 us-gaap:AccumulatedTranslationAdjustmentMember 2021-12-25
+0000785956 us-gaap:AccumulatedTranslationAdjustmentMember 2021-09-26 2021-12-25
+0000785956 us-gaap:AccumulatedTranslationAdjustmentMember 2021-09-25
+0000785956 us-gaap:AccumulatedTranslationAdjustmentMember 2022-12-24
+0000785956 us-gaap:AccumulatedTranslationAdjustmentMember 2022-09-25 2022-12-24
+0000785956 us-gaap:AccumulatedTranslationAdjustmentMember 2022-09-24
+0000785956 2021-09-26 2021-12-24
+0000785956 us-gaap:PreferredStockMember 2022-09-24
+0000785956 jjsf:MutualFundsMember 2022-09-24
+0000785956 us-gaap:CorporateBondSecuritiesMember 2022-09-24
+0000785956 us-gaap:CorporateBondSecuritiesMember 2022-12-24
+0000785956 us-gaap:PreferredStockMember 2022-12-24
+0000785956 jjsf:MutualFundsMember 2022-12-24
+0000785956 jjsf:FrozenBeveragesMember 2022-09-24
+0000785956 jjsf:RetailSupermarketMember 2022-09-24
+0000785956 jjsf:FoodServiceMember 2022-09-24
+0000785956 jjsf:FrozenBeveragesMember 2022-12-24
+0000785956 jjsf:RetailSupermarketMember 2022-12-24
+0000785956 jjsf:FoodServiceMember 2022-12-24
+0000785956 jjsf:LicenseAndRightsMember 2022-09-25 2022-12-24
+0000785956 us-gaap:CustomerRelationshipsMember 2022-09-25 2022-12-24
+0000785956 srt:MaximumMember 2022-09-25 2022-12-24
+0000785956 srt:MinimumMember 2022-09-25 2022-12-24
+0000785956 jjsf:FrozenBeveragesMember jjsf:LicenseAndRightsMember 2022-09-24
+0000785956 jjsf:FrozenBeveragesMember jjsf:LicenseAndRightsMember 2022-12-24
+0000785956 us-gaap:CustomerRelationshipsMember jjsf:FrozenBeveragesMember 2022-09-24
+0000785956 us-gaap:CustomerRelationshipsMember jjsf:FrozenBeveragesMember 2022-12-24
+0000785956 jjsf:DistributionRightsIndefinitelivedMember jjsf:FrozenBeveragesMember 2022-09-24
+0000785956 jjsf:DistributionRightsIndefinitelivedMember jjsf:FrozenBeveragesMember 2022-12-24
+0000785956 us-gaap:TradeNamesMember jjsf:FrozenBeveragesMember 2022-09-24
+0000785956 us-gaap:TradeNamesMember jjsf:FrozenBeveragesMember 2022-12-24
+0000785956 us-gaap:CustomerRelationshipsMember jjsf:RetailSupermarketMember 2022-09-24
+0000785956 us-gaap:CustomerRelationshipsMember jjsf:RetailSupermarketMember 2022-12-24
+0000785956 jjsf:FiniteLivedTradeNamesMember jjsf:RetailSupermarketMember 2022-09-24
+0000785956 jjsf:FiniteLivedTradeNamesMember jjsf:RetailSupermarketMember 2022-12-24
+0000785956 us-gaap:TradeNamesMember jjsf:RetailSupermarketMember 2022-09-24
+0000785956 us-gaap:TradeNamesMember jjsf:RetailSupermarketMember 2022-12-24
+0000785956 jjsf:FoodServiceMember jjsf:LicenseAndRightsMember 2022-09-24
+0000785956 jjsf:FoodServiceMember jjsf:LicenseAndRightsMember 2022-12-24
+0000785956 us-gaap:DevelopedTechnologyRightsMember jjsf:FoodServiceMember 2022-09-24
+0000785956 us-gaap:DevelopedTechnologyRightsMember jjsf:FoodServiceMember 2022-12-24
+0000785956 us-gaap:CustomerRelationshipsMember jjsf:FoodServiceMember 2022-09-24
+0000785956 us-gaap:CustomerRelationshipsMember jjsf:FoodServiceMember 2022-12-24
+0000785956 us-gaap:FranchiseRightsMember jjsf:FoodServiceMember 2022-09-24
+0000785956 us-gaap:FranchiseRightsMember jjsf:FoodServiceMember 2022-12-24
+0000785956 us-gaap:NoncompeteAgreementsMember jjsf:FoodServiceMember 2022-09-24
+0000785956 us-gaap:NoncompeteAgreementsMember jjsf:FoodServiceMember 2022-12-24
+0000785956 us-gaap:TradeNamesMember jjsf:FoodServiceMember 2022-09-24
+0000785956 us-gaap:TradeNamesMember jjsf:FoodServiceMember 2022-12-24
+0000785956 2021-12-25
+0000785956 jjsf:FrozenBeveragesMember 2021-12-25
+0000785956 jjsf:RetailSupermarketMember 2021-12-25
+0000785956 jjsf:FoodServiceMember 2021-12-25
+0000785956 jjsf:FrozenBeveragesMember 2021-09-26 2021-12-25
+0000785956 jjsf:FrozenBeveragesMember 2022-09-25 2022-12-24
+0000785956 jjsf:RetailSupermarketMember 2021-09-26 2021-12-25
+0000785956 jjsf:RetailSupermarketMember 2022-09-25 2022-12-24
+0000785956 jjsf:FoodServiceMember 2021-09-26 2021-12-25
+0000785956 jjsf:FoodServiceMember 2022-09-25 2022-12-24
+0000785956 jjsf:OtherProductsMember jjsf:FrozenBeveragesMember 2021-09-26 2021-12-25
+0000785956 jjsf:OtherProductsMember jjsf:FrozenBeveragesMember 2022-09-25 2022-12-24
+0000785956 jjsf:MachineSalesMember jjsf:FrozenBeveragesMember 2021-09-26 2021-12-25
+0000785956 jjsf:MachineSalesMember jjsf:FrozenBeveragesMember 2022-09-25 2022-12-24
+0000785956 jjsf:RepairAndMaintenanceServiceMember jjsf:FrozenBeveragesMember 2021-09-26 2021-12-25
+0000785956 jjsf:RepairAndMaintenanceServiceMember jjsf:FrozenBeveragesMember 2022-09-25 2022-12-24
+0000785956 jjsf:BeverageMember jjsf:FrozenBeveragesMember 2021-09-26 2021-12-25
+0000785956 jjsf:BeverageMember jjsf:FrozenBeveragesMember 2022-09-25 2022-12-24
+0000785956 jjsf:OtherProductsMember jjsf:RetailSupermarketMember 2021-09-26 2021-12-25
+0000785956 jjsf:OtherProductsMember jjsf:RetailSupermarketMember 2022-09-25 2022-12-24
+0000785956 jjsf:CouponRedemtionMember jjsf:RetailSupermarketMember 2021-09-26 2021-12-25
+0000785956 jjsf:CouponRedemtionMember jjsf:RetailSupermarketMember 2022-09-25 2022-12-24
+0000785956 jjsf:HandheldsMember jjsf:RetailSupermarketMember 2021-09-26 2021-12-25
+0000785956 jjsf:HandheldsMember jjsf:RetailSupermarketMember 2022-09-25 2022-12-24
+0000785956 jjsf:BiscuitsMember jjsf:RetailSupermarketMember 2021-09-26 2021-12-25
+0000785956 jjsf:BiscuitsMember jjsf:RetailSupermarketMember 2022-09-25 2022-12-24
+0000785956 jjsf:FrozenJuicesAndIcesMember jjsf:RetailSupermarketMember 2021-09-26 2021-12-25
+0000785956 jjsf:FrozenJuicesAndIcesMember jjsf:RetailSupermarketMember 2022-09-25 2022-12-24
+0000785956 jjsf:SoftPretzelsMember jjsf:RetailSupermarketMember 2021-09-26 2021-12-25
+0000785956 jjsf:SoftPretzelsMember jjsf:RetailSupermarketMember 2022-09-25 2022-12-24
+0000785956 jjsf:OtherProductsMember jjsf:FoodServiceMember 2021-09-26 2021-12-25
+0000785956 jjsf:OtherProductsMember jjsf:FoodServiceMember 2022-09-25 2022-12-24
+0000785956 jjsf:BakeryMember jjsf:FoodServiceMember 2021-09-26 2021-12-25
+0000785956 jjsf:BakeryMember jjsf:FoodServiceMember 2022-09-25 2022-12-24
+0000785956 jjsf:HandheldsMember jjsf:FoodServiceMember 2021-09-26 2021-12-25
+0000785956 jjsf:HandheldsMember jjsf:FoodServiceMember 2022-09-25 2022-12-24
+0000785956 jjsf:ChurrosMember jjsf:FoodServiceMember 2021-09-26 2021-12-25
+0000785956 jjsf:ChurrosMember jjsf:FoodServiceMember 2022-09-25 2022-12-24
+0000785956 jjsf:FrozenJuicesAndIcesMember jjsf:FoodServiceMember 2021-09-26 2021-12-25
+0000785956 jjsf:FrozenJuicesAndIcesMember jjsf:FoodServiceMember 2022-09-25 2022-12-24
+0000785956 jjsf:SoftPretzelsMember jjsf:FoodServiceMember 2021-09-26 2021-12-25
+0000785956 jjsf:SoftPretzelsMember jjsf:FoodServiceMember 2022-09-25 2022-12-24
+0000785956 jjsf:TheAmendedCreditAgreementMember 2022-09-24
+0000785956 jjsf:TheAmendedCreditAgreementMember 2022-12-24
+0000785956 us-gaap:RevolvingCreditFacilityMember jjsf:TheAmendedCreditAgreementMember 2022-06-21
+0000785956 jjsf:TheCreditAgreementMember jjsf:FederalFundsRateMember 2022-09-25 2022-12-24
+0000785956 us-gaap:RevolvingCreditFacilityMember jjsf:TheAmendedCreditAgreementMember 2021-12-31
+xbrli:shares
+0000785956 us-gaap:PerformanceSharesMember 2021-09-26 2021-12-25
+0000785956 us-gaap:PerformanceSharesMember 2022-09-25 2022-12-24
+0000785956 us-gaap:RestrictedStockUnitsRSUMember 2021-09-26 2021-12-25
+0000785956 us-gaap:RestrictedStockUnitsRSUMember 2022-09-25 2022-12-24
+0000785956 jjsf:StockIssuedToOutsideDirectorsMember 2021-09-26 2021-12-25
+0000785956 jjsf:StockIssuedToOutsideDirectorsMember 2022-09-25 2022-12-24
+0000785956 jjsf:StockPurchasePlanMember 2021-09-26 2021-12-25
+0000785956 jjsf:StockPurchasePlanMember 2022-09-25 2022-12-24
+0000785956 us-gaap:EmployeeStockOptionMember 2021-09-26 2021-12-25
+0000785956 us-gaap:EmployeeStockOptionMember 2022-09-25 2022-12-24
+iso4217:USD xbrli:shares
+0000785956 2021-09-25
+0000785956 jjsf:DippinDotsHoldingLlcMember 2022-09-25 2022-12-24
+0000785956 jjsf:DippinDotsHoldingLlcMember 2022-06-21
+0000785956 jjsf:DippinDotsHoldingLlcMember us-gaap:FranchiseRightsMember 2022-06-21 2022-06-21
+0000785956 jjsf:DippinDotsHoldingLlcMember us-gaap:CustomerRelationshipsMember 2022-06-21 2022-06-21
+0000785956 jjsf:DippinDotsHoldingLlcMember us-gaap:DevelopedTechnologyRightsMember 2022-06-21 2022-06-21
+0000785956 jjsf:DippinDotsHoldingLlcMember us-gaap:TradeNamesMember 2022-06-21 2022-06-21
+0000785956 jjsf:DippinDotsHoldingLlcMember 2022-12-24
+0000785956 jjsf:DippinDotsHoldingLlcMember 2022-06-25
+0000785956 jjsf:DippinDotsHoldingLlcMember 2022-06-26 2022-12-24
+0000785956 jjsf:DippinDotsHoldingLlcMember 2021-09-26 2022-09-24
+0000785956 jjsf:DippinDotsHoldingLlcMember 2022-06-21 2022-06-21
+0000785956 us-gaap:RetainedEarningsMember 2021-12-25
+0000785956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-25
+0000785956 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2021-12-25
+0000785956 us-gaap:RetainedEarningsMember 2021-09-26 2021-12-25
+0000785956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-26 2021-12-25
+0000785956 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2021-09-26 2021-12-25
+0000785956 us-gaap:RetainedEarningsMember 2021-09-25
+0000785956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-25
+0000785956 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2021-09-25
+0000785956 us-gaap:RetainedEarningsMember 2022-12-24
+0000785956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-24
+0000785956 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2022-12-24
+0000785956 us-gaap:RetainedEarningsMember 2022-09-25 2022-12-24
+0000785956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-25 2022-12-24
+0000785956 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2022-09-25 2022-12-24
+0000785956 us-gaap:RetainedEarningsMember 2022-09-24
+0000785956 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-24
+0000785956 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2022-09-24
+0000785956 2022-03-26
+0000785956 2023-01-31
+thunderdome:item
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒          Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the period ended
+December 24, 2022
+or
+☐          Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Commission File Number:          0-14616
+J&J SNACK FOODS CORP.
+(Exact name of registrant as specified in its charter)
+New Jersey
+22-1935537
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+6000 Central Highway ,
+Pennsauken ,
+New Jersey
+08109
+(Address of principal executive offices)
+Telephone ( 856 )
+665-9533
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, no par value
+JJSF
+The
+NASDAQ
+Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☒          Yes                                                  ☐     No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☒          Yes                                                  ☐     No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated filer
+☒
+Accelerated filer ☐
+Non-accelerated filer ☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐   Yes                                            ☒         No
+As of January 31, 2023 there were
+19,229,330
+shares of the Registrant’s Common Stock outstanding.
+1
+INDEX
+Page
+Number
+Part I.
+Financial Information
+Item l.
+Consolidated Financial Statements
+Consolidated Balance Sheets – December 24, 2022 (unaudited) and September 24, 2022
+3
+Consolidated Statements of Earnings (unaudited) – Three Months Ended December 24, 2022 and December 25, 2021
+4
+Consolidated Statements of Comprehensive Income (unaudited) – Three Months Ended December 24, 2022 and December 25, 2021
+5
+Consolidated Statements of Changes In Stockholders’ Equity (unaudited) – Three Months Ended December 24, 2022 and December 25, 2021
+6
+Consolidated Statements of Cash Flows (unaudited) – Three Months Ended December 24, 2022 and December 25, 2021
+7
+Notes to the Consolidated Financial Statements (unaudited)
+8
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+27
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+34
+Item 4.
+Controls and Procedures
+35
+Part II.
+Other Information
+Item 6.
+Exhibits
+35
+2
+PART I.         FINANCIAL INFORMATION
+Item 1.           Consolidated Financial Statements
+J & J SNACK FOODS CORP. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share amounts)
+December 24,
+2022
+September 24,
+(unaudited)
+2022
+Assets
+Current assets
+Cash and cash equivalents
+$
+54,866
+$
+35,181
+Marketable securities held to maturity
+2,008
+4,011
+Accounts receivable, net
+187,321
+208,178
+Inventories
+182,642
+180,473
+Prepaid expenses and other
+14,473
+16,794
+Total current assets
+441,310
+444,637
+Property, plant and equipment, at cost
+Land
+3,714
+3,714
+Buildings
+34,232
+34,232
+Plant machinery and equipment
+384,749
+374,566
+Marketing equipment
+280,172
+274,904
+Transportation equipment
+12,306
+11,685
+Office equipment
+46,073
+45,865
+Improvements
+49,544
+49,331
+Construction in progress
+80,453
+65,753
+Total Property, plant and equipment, at cost
+891,243
+860,050
+Less accumulated depreciation and amortization
+537,873
+524,683
+Property, plant and equipment, net
+353,370
+335,367
+Other assets
+Goodwill
+184,420
+184,420
+Other intangible assets, net
+190,027
+191,732
+Marketable securities available for sale
+4,371
+5,708
+Operating lease right-of-use assets
+50,063
+51,137
+Other
+3,987
+3,965
+Total other assets
+432,868
+436,962
+Total Assets
+$
+1,227,548
+$
+1,216,966
+Liabilities and Stockholders' Equity
+Current Liabilities
+Current finance lease liabilities
+$
+128
+$
+124
+Accounts payable
+91,610
+108,146
+Accrued insurance liability
+16,014
+15,678
+Accrued liabilities
+9,642
+9,214
+Current operating lease liabilities
+13,219
+13,524
+Accrued compensation expense
+16,104
+21,700
+Dividends payable
+13,461
+13,453
+Total current liabilities
+160,178
+181,839
+Long-term debt
+92,000
+55,000
+Noncurrent finance lease liabilities
+303
+254
+Noncurrent operating lease liabilities
+41,883
+42,660
+Deferred income taxes
+69,873
+70,407
+Other long-term liabilities
+3,575
+3,637
+Stockholders' Equity
+Preferred stock, $ 1
+par value; authorized
+10,000,000
+shares;
+none
+issued
+-
+-
+Common stock,
+no
+par value; authorized,
+50,000,000
+shares; issued and outstanding
+19,229,000
+and
+19,219,000
+respectively
+96,550
+94,026
+Accumulated other comprehensive loss
+( 12,842
+)
+( 13,713
+)
+Retained Earnings
+776,028
+782,856
+Total stockholders' equity
+859,736
+863,169
+Total Liabilities and Stockholders' Equity
+$
+1,227,548
+$
+1,216,966
+The accompanying notes are an integral part of these statements.
+3
+J & J SNACK FOODS CORP. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EARNINGS
+(Unaudited)
+(in thousands, except per share amounts)
+Three months ended
+December 24,
+December 25,
+2022
+2021
+Net Sales
+$
+351,343
+$
+318,490
+Cost of goods sold
+260,488
+239,115
+Gross Profit
+90,855
+79,375
+Operating expenses
+Marketing
+23,699
+20,907
+Distribution
+42,049
+33,315
+Administrative
+16,391
+10,369
+Other general (income)
+( 612
+)
+( 61
+)
+Total Operating Expenses
+81,527
+64,530
+Operating Income
+9,328
+14,845
+Other income (expense)
+Investment income
+685
+271
+Interest expense
+( 1,049
+)
+( 18
+)
+Earnings before income taxes
+8,964
+15,098
+Income tax expense
+2,331
+4,007
+NET EARNINGS
+$
+6,633
+$
+11,091
+Earnings per diluted share
+$
+0.34
+$
+0.58
+Weighted average number of diluted shares
+19,274
+19,153
+Earnings per basic share
+$
+0.35
+$
+0.58
+Weighted average number of basic shares
+19,222
+19,085
+The accompanying notes are an integral part of these statements.
+4
+J&J SNACK FOODS CORP. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+(in thousands)
+Three months ended
+December 24,
+December 25,
+2022
+2021
+Net Earnings
+$
+6,633
+$
+11,091
+Foreign currency translation adjustments
+871
+( 444
+)
+Total Other Comprehensive Income (Loss)
+871
+( 444
+)
+Comprehensive Income
+$
+7,504
+$
+10,647
+The accompanying notes are an integral part of these statements.
+5
+J & J SNACK FOODS CORP. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+(in thousands)
+Accumulated
+Other
+Common Stock
+Comprehensive
+Retained
+Shares
+Amount
+Loss
+Earnings
+Total
+Balance as September 24, 2022
+19,219
+$
+94,026
+$
+( 13,713
+)
+$
+782,856
+$
+863,169
+Issuance of common stock upon exercise of stock options
+10
+1,285
+-
+-
+1,285
+Foreign currency translation adjustment
+-
+-
+871
+-
+871
+Dividends declared
+-
+-
+-
+( 13,461
+)
+( 13,461
+)
+Share-based compensation
+-
+1,239
+-
+-
+1,239
+Net earnings
+-
+-
+-
+6,633
+6,633
+Balance at December 24, 2022
+19,229
+$
+96,550
+$
+( 12,842
+)
+$
+776,028
+$
+859,736
+Accumulated
+Other
+Common Stock
+Comprehensive
+Retained
+Shares
+Amount
+Loss
+Earnings
+Total
+Balance as September 25, 2021
+19,084
+$
+73,597
+$
+( 13,383
+)
+$
+785,440
+$
+845,654
+Issuance of common stock upon exercise of stock options
+5
+706
+-
+-
+706
+Foreign currency translation adjustment
+-
+-
+( 444
+)
+-
+( 444
+)
+Dividends declared
+-
+-
+-
+( 12,092
+)
+( 12,092
+)
+Share-based compensation
+-
+1,083
+-
+-
+1,083
+Net earnings
+-
+-
+-
+11,091
+11,091
+Balance at December 25, 2021
+19,089
+$
+75,386
+$
+( 13,827
+)
+$
+784,439
+$
+845,998
+The accompanying notes are an integral part of these statements.
+6
+J & J SNACK FOODS CORP. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited) (in thousands)
+Three months ended
+December 24,
+December 25,
+2022
+2021
+Operating activities:
+Net earnings
+$
+6,633
+$
+11,091
+Adjustments to reconcile net earnings to net cash provided by operating activities
+Depreciation of fixed assets
+13,476
+11,923
+Amortization of intangibles and deferred costs
+1,705
+588
+Gains from disposals of property & equipment
+( 711
+)
+( 27
+)
+Share-based compensation
+1,239
+1,083
+Deferred income taxes
+( 526
+)
+( 529
+)
+Loss on marketable securities
+37
+44
+Other
+( 18
+)
+( 4
+)
+Changes in assets and liabilities, net of effects from purchase of companies
+Decrease in accounts receivable
+21,171
+231
+(Increase) in inventories
+( 2,284
+)
+( 9,958
+)
+Decrease in prepaid expenses
+2,343
+719
+(Decrease) in accounts payable and accrued liabilities
+( 21,655
+)
+( 9,707
+)
+Net cash provided by operating activities
+21,410
+5,454
+Investing activities:
+Purchases of property, plant and equipment
+( 30,910
+)
+( 16,100
+)
+Proceeds from redemption and sales of marketable securities
+3,300
+7,200
+Proceeds from disposal of property and equipment
+729
+231
+Net cash used in investing activities
+( 26,881
+)
+( 8,669
+)
+Financing activities:
+Proceeds from issuance of stock
+1,285
+706
+Borrowings under credit facility
+72,000
+-
+Repayment of borrowings under credit facility
+( 35,000
+)
+-
+Payments on finance lease obligations
+( 39
+)
+( 74
+)
+Payment of cash dividends
+( 13,453
+)
+( 12,080
+)
+Net cash provided by (used in) financing activities
+24,793
+( 11,448
+)
+Effect of exchange rates on cash and cash equivalents
+363
+( 69
+)
+Net increase (decrease) in cash and cash equivalents
+19,685
+( 14,732
+)
+Cash and cash equivalents at beginning of period
+35,181
+283,192
+Cash and cash equivalents at end of period
+$
+54,866
+$
+268,460
+The accompanying notes are an integral part of these statements.
+7
+J & J SNACK FOODS CORP. AND SUBSIDIARIES
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)
+Note 1
+Basis of Presentation
+The accompanying unaudited Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States for interim financial information and with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X. They do not include all information and notes required by generally accepted accounting principles for complete financial statements. However, except as disclosed herein, there has been no material change in the information disclosed in the Notes to Consolidated Financial Statements included in the Company’s Annual Report on Form 10-K for the year ended September 24, 2022.
+In the opinion of management, the accompanying unaudited consolidated financial statements contain all adjustments (consisting of only normal recurring adjustments) necessary to present fairly the Company’s financial position and the results of operations and cash flows.
+The results of operations for the three months ended December 24, 2022 and December 25, 2021 are not necessarily indicative of results for the full year. Sales of our frozen beverages and frozen novelties are generally higher in the fiscal third and fourth quarters due to warmer weather.
+While we believe that the disclosures presented are adequate to make the information not misleading, it is suggested that these consolidated financial statements be read in conjunction with the audited consolidated financial statements and the notes included in the Company’s Annual Report on Form 10-K for the fiscal year ended September 24, 2022.
+Note 2
+Business Combinations
+On June 21, 2022, J & J Snack Foods Corp. and its wholly-owned subsidiary, DD Acquisition Holdings, LLC, completed the acquisition of one hundred percent ( 100 %) of the equity interests of Dippin’ Dots Holding, L.L.C. (“Dippin’ Dots”) which, through its wholly-owned subsidiaries, owns and operates the Dippin’ Dots and Doc Popcorn businesses. The purchase price was approximately $ 223.6
+million, consisting entirely of cash, and may be modified for certain customary post-closing purchase price adjustments.
+Dippin’ Dots is a leading producer of flash-frozen beaded ice cream treats, and the acquisition will leverage synergies in entertainment and amusement locations, theaters, and convenience to continue to expand our business. The acquisition also includes the Doc Popcorn business operated by Dippin’ Dots.
+The financial results of Dippin’ Dots have been included in our consolidated financial statements since the date of the acquisition. Sales and net earnings (loss) of Dippin’ Dots were $ 13.4
+million and ($ 0.7 ) million for the three months ended December 24, 2022. Dippin’ Dots is reported as part of our Food Service segment.
+8
+Upon acquisition, the assets and liabilities of Dippin’ Dots were adjusted to their respective fair values as of the closing date of the transaction, including the identifiable intangible assets acquired. In addition, the excess of the purchase price over the fair value of the net assets acquired has been recorded as goodwill. The fair value estimates used in valuing certain acquired assets and liabilities are based, in part, on inputs that are unobservable. For intangible assets, these include, but are not limited to, forecasted future cash flows, revenue growth rates, attrition rates and discount rates.
+The purchase price allocation as of the date of acquisition was based on a preliminary valuation and is subject to revision as more detailed analyses are completed and additional information about the fair value of assets acquired and liabilities assumed becomes available.
+In fiscal year 2022, we recorded measurement period adjustments to the estimated fair values initially recorded on June 21, 2022, which resulted in an increase to Property, plant, and equipment, net of $ 6.5
+million, and reductions in Goodwill, Identifiable intangible assets, and Inventories of $ 4.0
+million, $ 2.2
+million, and $ 0.3
+million, respectively. The measurement period adjustments were recorded to better reflect market participant assumptions about facts and circumstances existing as of the acquisition date and did not have a material impact on our consolidated statement of income for the year ended September 24, 2022. No measurement period adjustments were recorded in fiscal year 2023.
+9
+The major classes of assets and liabilities to which we have preliminarily allocated the purchase price were as follows:
+Preliminary Dippin' Dots Purchase Price Allocation (1)
+Preliminary Value
+as of acquisition
+date (as previously
+Measurement
+reported as of
+Period
+June 25,2022)
+Adjustment
+As Adjusted
+(in thousands)
+Cash and cash equivalents
+$
+2,259
+$
+2,259
+Accounts receivable, net
+12,257
+12,257
+Inventories
+8,812
+( 301
+)
+8,511
+Prepaid expenses and other
+1,215
+1,215
+Property, plant and equipment, net
+24,622
+6,548
+31,170
+Intangible assets
+120,400
+( 2,200
+)
+118,200
+Goodwill (2)
+66,634
+( 4,047
+)
+62,587
+Operating lease right-of-use assets
+3,514
+3,514
+Other noncurrent assets
+243
+243
+Total assets acquired
+239,956
+-
+239,956
+Liabilities assumed:
+Current lease liabilities
+619
+619
+Accounts payable
+6,005
+6,005
+Other current liabilities
+3,532
+3,532
+Noncurrent lease liabilities
+2,954
+2,954
+Other noncurrent liabilities
+3,285
+3,285
+Total liabilities acquired
+16,395
+-
+16,395
+Purchase price
+$
+223,561
+$
+-
+$
+223,561
+(1) Due to the limited time since the date of the acquisition, the purchase price allocation remains preliminary.
+(2) Goodwill was assigned to our Food Services segment and was primarily attributed to the assembled workforce of the acquired business and to our expectations of favorable growth opportunities in entertainment and amusement locations, theaters, and convenience based on increased synergies that are expected to be achieved from the integration of Dippin’ Dots.
+Acquired Intangible Assets
+(in thousands)
+Weighted average
+June 21,
+life (years)
+2022
+Amortizable
+Trade name
+indefinite
+$
+76,900
+Developed technology
+10
+22,900
+Customer relationships
+10
+9,900
+Franchise agreements
+10
+8,500
+Total acquired intangible assets
+$
+118,200
+Dippin' Dots Results Included in the Company's Consolidated Results
+Three months ended
+December 24,
+2022
+(in thousands)
+Net sales
+$
+13,378
+Net earnings (loss)
+$
+( 667
+)
+10
+Note 3
+Revenue Recognition
+We recognize revenue in accordance with ASC 606, “Revenue from Contracts with Customers.”
+When Performance Obligations Are Satisfied
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account for revenue recognition. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.
+The singular performance obligation of our customer contracts for product and machine sales is determined by each individual purchase order and the respective products ordered, with revenue being recognized at a point-in-time when the obligation under the terms of the agreement is satisfied and product control is transferred to our customer. Specifically, control transfers to our customers when the product is delivered to, installed or picked up by our customers based upon applicable shipping terms, as our customers can direct the use and obtain substantially all of the remaining benefits from the product at this point in time. The performance obligations in our customer contracts for product are generally satisfied within 30 days.
+The singular performance obligation of our customer contracts for time and material repair and maintenance equipment service is the performance of the repair and maintenance with revenue being recognized at a point-in-time when the repair and maintenance is completed.
+The singular performance obligation of our customer repair and maintenance equipment service contracts is the performance of the repair and maintenance with revenue being recognized over the time the service is expected to be performed. Our customers are billed for service contracts in advance of performance and therefore we have contract liability on our balance sheet.
+Significant Payment Terms
+In general, within our customer contracts, the purchase order identifies the product, quantity, price, pick-up allowances, payment terms and final delivery terms. Although some payment terms may be more extended, presently the majority of our payment terms are 30 days. As a result, we have used the available practical expedient and, consequently, do not adjust our revenues for the effects of a significant financing component.
+Shipping
+All amounts billed to customers related to shipping and handling are classified as revenues; therefore, we recognize revenue for shipping and handling fees at the time the products are shipped or when services are performed. The cost of shipping products to the customer is recognized at the time the products are shipped to the customer and our policy is to classify them as Distribution expenses.
+11
+Variable Consideration
+In addition to fixed contract consideration, our contracts include some form of variable consideration, including sales discounts, trade promotions and certain other sales and consumer incentives, including rebates and coupon redemptions. In general, variable consideration is treated as a reduction in revenue when the related revenue is recognized. Depending on the specific type of variable consideration, we use the most likely amount method to determine the variable consideration. We believe there will be no significant changes to our estimates of variable consideration when any related uncertainties are resolved with our customers. We review and update our estimates and related accruals of variable consideration each period based on historical experience. Our recorded liability for allowances, end-user pricing adjustments and trade spending was approximately $ 12.1
+million at December 24, 2022 and $ 14.7
+million at September 24, 2022.
+Warranties & Returns
+We provide all customers with a standard or assurance type warranty. Either stated or implied, we provide assurance the related products will comply with all agreed-upon specifications and other warranties provided under the law. No services beyond an assurance warranty are provided to our customers.
+We do not grant a general right of return. However, customers may return defective or non-conforming products. Customer remedies may include either a cash refund or an exchange of the product. We do not estimate a right of return and related refund liability as returns of our products are rare.
+Contract Balances
+Our customers are billed for service contracts in advance of performance and therefore we have contract liability on our balance sheet as follows:
+Three months ended
+December 24,
+December 25,
+2022
+2021
+(in thousands)
+Beginning Balance
+$
+4,926
+$
+1,097
+Additions to contract liability
+1,390
+1,199
+Amounts recognized as revenue
+( 1,549
+)
+( 1,266
+)
+Ending Balance
+$
+4,767
+$
+1,030
+12
+Disaggregation of Revenue
+See Note 11 for disaggregation of our net sales by class of similar product and type of customer.
+Allowance for Doubtful Receivables
+The Company continuously monitors collections and payments from its customers and maintains a provision for estimated credit losses. The allowance for doubtful accounts considers a number of factors including the age of receivable balances, the history of losses, expectations of future credit losses, and the customers’ ability to pay off obligations. The allowance for doubtful receivables was $ 2.2
+million on December 24, 2022 and September 24, 2022, respectively.
+Note 4
+Depreciation and Amortization Expense
+Depreciation of equipment and buildings is provided for by the straight-line method over the assets’ estimated useful lives. Amortization of improvements is provided for by the straight-line method over the term of the lease or the assets’ estimated useful lives, whichever is shorter. Licenses and rights, customer relationships, franchise agreements, technology and non-compete agreements arising from acquisitions are amortized by the straight-line method over periods ranging from
+2
+to
+20
+years. Depreciation expense was $ 13.5
+million and $ 11.9
+million for the three months ended December 24, 2022 and December 25, 2021, respectively.
+13
+Note 5
+Earnings per Share
+Basic earnings per common share (EPS) excludes dilution and is computed by dividing income available to common shareholders by the weighted average common shares outstanding during the period. Diluted EPS takes into consideration the potential dilution that could occur if securities (stock options and restricted stock units (“RSU”)’s) or other contracts to issue common stock were exercised and converted into common stock. Our calculation of EPS is as follows:
+Three months ended December 24, 2022
+Income
+Shares
+Per Share
+(Numerator)
+(Denominator)
+Amount
+(in thousands, except per share amounts)
+Basic EPS
+Net Earnings available to common stockholders
+$
+6,633
+19,222
+$
+0.35
+Effect of Dilutive Securities
+RSU’s and Options
+-
+52
+( 0.01
+)
+Diluted EPS
+Net Earnings available to common stockholders plus assumed conversions
+$
+6,633
+19,274
+$
+0.34
+394,077  anti-dilutive shares have been excluded in the computation of EPS for the three months ended December 24, 2022.
+Three months ended December 25, 2021
+Income
+Shares
+Per Share
+(Numerator)
+(Denominator)
+Amount
+(in thousands, except per share amounts)
+Basic EPS
+Net Earnings available to common stockholders
+$
+11,091
+19,085
+$
+0.58
+Effect of Dilutive Securities
+RSU’s and Options
+-
+68
+-
+Diluted EPS
+Net Earnings available to common stockholders plus assumed conversions
+$
+11,091
+19,153
+$
+0.58
+318,172
+anti-dilutive shares have been excluded in the computation of EPS for the three months ended December 25, 2021.
+Note 6
+Share-Based Compensation and Post-Retirement Benefits
+At December 24, 2022, the Company has three stock-based employee compensation plans. Share-based compensation expense was recognized as follows:
+Three months ended
+December 24,
+December 25,
+2022
+2021
+(in thousands)
+Stock options
+$
+620
+$
+814
+Stock purchase plan
+227
+60
+Stock issued to an outside director
+-
+11
+Service share units issued to employees
+181
+72
+Performance share units issued to employees
+72
+39
+Total share-based compensation
+$
+1,100
+$
+996
+The above compensation is net of tax benefits
+$
+139
+$
+87
+14
+The fair value of each option grant is estimated on the date of grant using the Black-Scholes options-pricing model.
+Expected volatility is based on the historical volatility of the price of our common shares over the past
+51
+months for 5-year options and
+10
+years for 10-year options. We use historical information to estimate expected life and forfeitures within the valuation model. The expected term of awards represents the period of time that options granted are expected to be outstanding. The risk-free rate for periods within the expected life of the option is based on the U.S. Treasury yield curve in effect at the time of grant. Compensation cost is recognized using a straight-line method over the vesting or service period and is net of estimated forfeitures.
+The Company did
+not
+grant any stock options during the three months ended December 24, 2022 or during the three months ended December 25, 2021.
+During the three months ended December 24, 2022, the Company issued
+9,900
+service share units (“RSU”)’s. Each RSU entitles the awardee to one share of common stock upon vesting. During the three months ended December 25, 2021, the Company issued
+8,873
+service share units (“RSU”)’s. The fair value of the RSU’s was determined based upon the closing price of the Company’s common stock on the date of grant.
+During the three months ended December 24, 2022, the Company also issued
+18,641
+performance share units (“PSU”)’s. Each PSU may result in the issuance of up to two shares of common stock upon vesting, dependent upon the level of achievement of the applicable Performance Goal. The fair value of the PSU’s was determined based upon the closing price of the Company’s common stock on the date of grant. Additionally, the Company applies a quarterly probability assessment in computing this non-cash compensation expense, and any change in estimate is reflected as a cumulative adjustment to expense in the quarter of the change. During the three months ended December 25, 2021, the Company issued
+8,868
+performance share units (“PSU”)’s.
+Note 7
+Income Taxes
+We account for our income taxes under the liability method. Under the liability method, deferred tax assets and liabilities are determined based on the difference between the financial statement and tax bases of assets and liabilities as measured by the enacted tax rates that will be in effect when these differences reverse. Deferred tax expense is the result of changes in deferred tax assets and liabilities.
+Additionally, we recognize a liability for income taxes and associated penalties and interest for tax positions taken or expected to be taken in a tax return which are more likely than not to be overturned by taxing authorities (“uncertain tax positions”). We have not recognized a tax benefit in our financial statements for these uncertain tax positions.
+15
+The total amount of gross unrecognized tax benefits is $ 0.3
+million on both December 24, 2022 and September 24, 2022, all of which would impact our effective tax rate over time, if recognized. We recognize interest and penalties related to uncertain tax positions as a part of the provision for income taxes. As of December 24, 2022 and September 24, 2022, the Company has $ 0.3
+million of accrued interest and penalties, respectively.
+In addition to our federal tax return and tax returns for Mexico and Canada, we file tax returns in all states that have a corporate income tax with virtually all open for examination for three to four years.
+Our effective tax rate for the three months ended December 24, 2022 was
+26 %. Our effective tax rate was
+27 % in last fiscal year’s quarter.
+Note 8
+New Accounting Pronouncements and Policies
+In June 2016, the FASB issued ASU 2016-13, Measurement of Credit Losses on Financial Instruments, which changes the impairment model used to measure credit losses for most financial assets. We are required to recognize an allowance that reflects the Company’s current estimate of credit losses expected to be incurred over the life of the financial asset, including trade receivables and held-to-maturity debt securities.
+The Company adopted this guidance in the first quarter of Fiscal 2021 using the modified retrospective transition method. The adoption of ASU 2016-13 did not have a material impact on the Company’s Consolidated Financial Statements.
+Note 9
+Long-Term Debt
+In December 2021, the Company entered into an amended and restated loan agreement (the “Credit Agreement”) with our existing banks which provided for up to a $ 50
+million revolving credit facility repayable in December 2026.
+Interest accrues, at the Company’s election, at (i) the BSBY Rate (as defined in the Credit Agreement) plus an applicable margin, based upon the Consolidated Net Leverage Ratio, as defined in the Credit Agreement, or (ii) the Alternate Base Rate (a rate based on the higher of (a) the prime rate announced from time-to-time by the Administrative Agent, (b) the Federal Reserve System’s federal funds rate, plus
+0.50 % or (c) the Daily BSBY Rate, plus an applicable margin. The Alternate Base Rate is defined in the Credit Agreement.
+The Credit Agreement requires the Company to comply with various affirmative and negative covenants, including without limitation (i) covenants to maintain a minimum specified interest coverage ratio and maximum specified net leverage ratio, and (ii) subject to certain exceptions, covenants that prevent or restrict the Company’s ability to pay dividends, engage in certain mergers or acquisitions, make certain investments or loans, incur future indebtedness, alter its capital structure or line of business, prepay subordinated indebtedness, engage in certain transactions with affiliates, or amend its organizational documents. As of December 24, 2022, the Company is in compliance with all financial covenants terms of the Credit Agreement.
+16
+On June 21, 2022, the Company entered into an amendment to the Credit Agreement, the “Amended Credit Agreement” which provided for an incremental increase of $ 175
+million in available borrowings. The Amended Credit Agreement also includes an option to increase the size of the revolving credit facility by up to an amount not to exceed in the aggregate the greater of $ 225
+million or, $ 50
+million plus the Consolidated EBITDA of the Borrowers, subject to the satisfaction of certain terms and conditions.
+As of December 24, 2022, $ 92.0
+million was outstanding under the Amended Credit Agreement with a weighted average interest rate of
+4.84 %. These borrowings have been classified as Long-Term Debt on the Company’s Balance Sheet. As of December 24, 2022, the amount available under the Amended Credit Agreement was $ 123.2
+million, after giving effect to the outstanding letters of credit. As of September 24, 2022, $ 55.0
+million was outstanding under the Amended Credit Agreement. As of September 24, 2022, the amount available under the Amended Agreement was $ 160.2
+million, after giving effect to the outstanding letters of credit.
+Note 10
+Inventory
+Inventories consist of the following:
+December 24,
+September 24
+2022
+2022
+(unaudited)
+(in thousands)
+Finished goods
+$
+86,459
+$
+86,464
+Raw materials
+43,883
+41,505
+Packaging materials
+17,033
+16,637
+Equipment parts and other
+35,267
+35,867
+Total Inventories
+$
+182,642
+$
+180,473
+Note 11
+Segment Information
+We principally sell our products to the food service and retail supermarket industries. Sales and results of our frozen beverages business are monitored separately from the balance of our food service business because of different distribution and capital requirements. We maintain separate and discrete financial information for the three operating segments mentioned below which is available to our Chief Operating Decision Maker.
+Our reportable segments are Food Service, Retail Supermarkets and Frozen Beverages. All inter-segment net sales and expenses have been eliminated in computing net sales and operating income. These segments are described below.
+17
+Food Service
+The primary products sold by the food service segment are soft pretzels, frozen novelties, churros, handheld products and baked goods. Our customers in the food service segment include snack bars and food stands in chain, department and discount stores; malls and shopping centers; casual dining restaurants, fast food outlets; stadiums and sports arenas; leisure and theme parks; convenience stores; movie theatres; warehouse club stores; schools, colleges and other institutions. Within the food service industry, our products are purchased by the consumer primarily for consumption at the point-of-sale or for take-away.
+Retail Supermarkets
+The primary products sold to the retail supermarket channel are soft pretzel products – including SUPERPRETZEL, frozen novelties including LUIGI’S Real Italian Ice, MINUTE MAID Juice Bars and Soft Frozen Lemonade, WHOLE FRUIT frozen fruit bars and sorbet, DOGSTERS, PHILLY SWIRL cups and sticks, ICEE Squeeze-Up Tubes and handheld products. Within the retail supermarket channel, our frozen and prepackaged products are purchased by the consumer for consumption at home.
+Frozen Beverages
+The Company markets frozen beverages primarily under the names ICEE, SLUSH PUPPIE and PARROT ICE which are sold primarily in the United States, Mexico and Canada. We also provide repair and maintenance service to customers for customers’ owned equipment.
+The Chief Operating Decision Maker for Food Service, Retail Supermarkets and Frozen Beverages reviews monthly detailed operating income statements and sales reports in order to assess performance and allocate resources to each individual segment. Sales and operating income are key variables monitored by the Chief Operating Decision Maker and management when determining each segment’s, and the Company’s, financial condition and operating performance. In addition, the Chief Operating Decision Maker reviews and evaluates depreciation, capital spending and assets of each segment on a quarterly basis to monitor cash flow and asset needs of each segment. Information regarding the operations in these three reportable segments is as follows:
+18
+Three months ended
+December 24,
+December 25,
+2022
+2021
+(unaudited)
+(in thousands)
+Sales to External Customers:
+Food Service
+Soft pretzels
+$
+52,223
+$
+50,421
+Frozen novelties
+21,765
+8,457
+Churros
+25,757
+19,489
+Handhelds
+23,572
+18,495
+Bakery
+108,948
+107,831
+Other
+6,032
+7,039
+Total Food Service
+$
+238,297
+$
+211,732
+Retail Supermarket
+Soft pretzels
+$
+14,485
+$
+16,194
+Frozen novelties
+17,969
+17,802
+Biscuits
+7,913
+8,271
+Handhelds
+2,892
+1,276
+Coupon redemption
+( 176
+)
+( 896
+)
+Other
+( 10
+)
+48
+Total Retail Supermarket
+$
+43,073
+$
+42,695
+Frozen Beverages
+Beverages
+$
+38,659
+$
+33,763
+Repair and maintenance service
+23,827
+22,011
+Machines revenue
+7,011
+7,847
+Other
+476
+442
+Total Frozen Beverages
+$
+69,973
+$
+64,063
+Consolidated Sales
+$
+351,343
+$
+318,490
+Depreciation and Amortization:
+Food Service
+$
+9,458
+$
+6,669
+Retail Supermarket
+391
+366
+Frozen Beverages
+5,332
+5,476
+Total Depreciation and Amortization
+$
+15,181
+$
+12,511
+Operating Income :
+Food Service
+$
+6,387
+$
+9,001
+Retail Supermarket
+1,111
+4,984
+Frozen Beverages
+1,830
+860
+Total Operating Income
+$
+9,328
+$
+14,845
+Capital Expenditures:
+Food Service
+$
+24,862
+$
+10,233
+Retail Supermarket
+1,374
+2,529
+Frozen Beverages
+4,674
+3,338
+Total Capital Expenditures
+$
+30,910
+$
+16,100
+Assets:
+Food Service
+$
+907,736
+$
+794,819
+Retail Supermarket
+16,941
+29,802
+Frozen Beverages
+302,871
+287,285
+Total Assets
+$
+1,227,548
+$
+1,111,906
+19
+Note 12
+Goodwill and Intangible Assets
+Our reportable segments are Food Service, Retail Supermarkets and Frozen Beverages.
+The carrying amounts of acquired intangible assets for the Food Service, Retail Supermarkets and Frozen Beverages segments as of December 24, 2022 and September 24, 2022 are as follows:
+December 24, 2022
+September 24, 2022
+Gross
+Gross
+Carrying
+Accumulated
+Carrying
+Accumulated
+Amount
+Amortization
+Amount
+Amortization
+(in thousands)
+FOOD SERVICE
+Indefinite lived intangible assets
+Trade names
+$
+85,872
+$
+-
+$
+85,872
+$
+-
+Amortized intangible assets
+Non-compete agreements
+-
+-
+670
+670
+Franchise agreements
+8,500
+425
+8,500
+212
+Customer relationships
+22,900
+8,418
+22,900
+7,790
+Technology
+23,110
+1,162
+23,110
+576
+License and rights
+1,690
+1,502
+1,690
+1,481
+TOTAL FOOD SERVICE
+$
+142,072
+$
+11,507
+$
+142,742
+$
+10,729
+RETAIL SUPERMARKETS
+Indefinite lived intangible assets
+Trade names
+$
+11,938
+$
+-
+$
+11,938
+$
+-
+Amortized Intangible Assets
+Trade names
+-
+-
+649
+649
+Customer relationships
+7,688
+6,678
+7,907
+6,693
+TOTAL RETAIL SUPERMARKETS
+$
+19,626
+$
+6,678
+$
+20,494
+$
+7,342
+FROZEN BEVERAGES
+Indefinite lived intangible assets
+Trade names
+$
+9,315
+$
+-
+$
+9,315
+$
+-
+Distribution rights
+36,100
+-
+36,100
+-
+Amortized intangible assets
+Customer relationships
+1,439
+581
+1,439
+545
+Licenses and rights
+1,400
+1,159
+1,400
+1,142
+TOTAL FROZEN BEVERAGES
+$
+48,254
+$
+1,740
+$
+48,254
+$
+1,687
+CONSOLIDATED
+$
+209,952
+$
+19,925
+$
+211,490
+$
+19,758
+Amortizing intangible assets are being amortized by the straight-line method over periods ranging from
+2
+to
+20
+years and amortization expense is reflected throughout operating expenses. Aggregate amortization expense of intangible assets for the three months ended December 24, 2022 and December 25, 2021 was $ 1.7
+million and $ 0.6
+million, respectively.
+20
+Estimated amortization expense for the next five fiscal years is approximately $ 4.9  million in 2023 (excluding the three months ended December 24, 2022), $ 6.2  million in 2024, $ 5.6  million in 2025 and 2026, and $ 4.6  million in 2027.
+The weighted amortization period of the intangible assets, in total, is
+10.4
+years. The weighted amortization period by intangible asset class is 10 years for Technology,
+10
+years for Customer relationships,
+20
+years for Licenses & rights, and 10 years for Franchise agreements.
+Goodwill
+The carrying amounts of goodwill for the Food Service, Retail Supermarket and Frozen Beverages segments are as follows:
+Food
+Retail
+Frozen
+Service
+Supermarket
+Beverages
+Total
+(in thousands)
+December 24, 2022
+$
+123,776
+$
+4,146
+$
+56,498
+$
+184,420
+September 24, 2022
+$
+123,776
+$
+4,146
+$
+56,498
+$
+184,420
+Note 13
+Investments
+We have classified our investment securities as marketable securities held to maturity and available for sale. The FASB defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or liability. As a basis for considering such assumptions, the FASB has established three levels of inputs that may be used to measure fair value:
+Level 1         Observable input such as quoted prices in active markets for identical assets or liabilities;
+Level 2         Observable inputs, other than Level 1 inputs in active markets, that are observable either directly or indirectly; and
+Level 3         Unobservable inputs for which there is little or no market data, which require the reporting entity to develop its own assumptions.
+Marketable securities held to maturity and available for sale consist primarily of investments in mutual funds, preferred stock and corporate bonds.  The fair values of mutual funds are based on quoted market prices in active markets and are classified within Level 1 of the fair value hierarchy.  The fair values of preferred stock, corporate bonds and certificates of deposit are based on quoted prices for identical or similar instruments in markets that are not active.  As a result, preferred stock, corporate bonds and certificates of deposit are classified within Level 2 of the fair value hierarchy.
+21
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities held to maturity at December 24, 2022 are summarized as follows:
+Gross
+Gross
+Fair
+Amortized
+Unrealized
+Unrealized
+Market
+Cost
+Gains
+Losses
+Value
+(in thousands)
+Corporate Bonds
+2,008
+-
+10
+1,998
+Total marketable securities held to maturity
+$
+2,008
+$
+-
+$
+10
+$
+1,998
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities available for sale at December 24, 2022 are summarized as follows:
+Gross
+Gross
+Fair
+Amortized
+Unrealized
+Unrealized
+Market
+Cost
+Gains
+Losses
+Value
+(in thousands)
+Mutual Funds
+$
+3,588
+$
+-
+$
+774
+$
+2,814
+Preferred Stock
+1,519
+38
+-
+1,557
+Total marketable securities available for sale
+$
+5,107
+$
+38
+$
+774
+$
+4,371
+The mutual funds seek current income with an emphasis on maintaining low volatility and overall moderate duration. The Fixed-to-Floating Perpetual Preferred Stock generate fixed income to call dates in 2025 and then income is based on a spread above LIBOR if the securities are not called. The mutual funds and Fixed-to-Floating Perpetual Preferred Stock do not have contractual maturities; however, we classify them as long-term assets as it is our intent to hold them for a period of over one year, although we may sell some or all of them depending on presently unanticipated needs for liquidity or market conditions. The corporate bonds generate fixed income with all remaining $ 2
+million maturing within our fiscal year 2023. Our expectation is that we will hold the corporate bonds to their maturity dates and redeem them at our amortized cost.
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities held to maturity at September 24, 2022 are summarized as follows:
+Gross
+Gross
+Fair
+Amortized
+Unrealized
+Unrealized
+Market
+Cost
+Gains
+Losses
+Value
+(in thousands)
+Corporate Bonds
+4,011
+-
+21
+3,990
+Total marketable securities held to maturity
+$
+4,011
+$
+-
+$
+21
+$
+3,990
+22
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities available for sale at September 24, 2022 are summarized as follows:
+Gross
+Gross
+Fair
+Amortized
+Unrealized
+Unrealized
+Market
+Cost
+Gains
+Losses
+Value
+(in thousands)
+Mutual Funds
+$
+3,588
+$
+-
+$
+742
+$
+2,846
+Preferred Stock
+2,816
+46
+-
+2,862
+Total marketable securities available for sale
+$
+6,404
+$
+46
+$
+742
+$
+5,708
+The amortized cost and fair value of the Company’s held to maturity securities by contractual maturity at December 24, 2022 and September 24, 2022 are summarized as follows:
+December 24, 2022
+September 24, 2022
+Fair
+Fair
+Amortized
+Market
+Amortized
+Market
+Cost
+Value
+Cost
+Value
+(in thousands)
+Due in one year or less
+$
+2,008
+$
+1,998
+$
+4,011
+$
+3,990
+Due after one year through five years
+-
+-
+-
+-
+Due after five years through ten years
+-
+-
+-
+-
+Total held to maturity securities
+$
+2,008
+$
+1,998
+$
+4,011
+$
+3,990
+Less current portion
+2,008
+1,998
+4,011
+3,990
+Long term held to maturity securities
+$
+-
+$
+-
+$
+-
+$
+-
+Proceeds from the redemption and sale of marketable securities were $ 3.3
+million in the three months ended December 24, 2022, and $ 7.2
+million in the three months ended December 25, 2021, respectively. Losses of $ 37,000
+and $ 44,000
+were recorded in the three months ended December 24, 2022 and December 25, 2021, respectively, which included unrealized losses on marketable securities of $ 39,000
+and $ 5,000
+in the three months ended December 24, 2022 and December 25, 2021, respectively. We use the specific identification method to determine the cost of securities sold.
+Total marketable securities held to maturity as of December 24, 2022 with credit ratings of BBB/BB/B had an amortized cost basis totaling $ 2.0
+million. This rating information was obtained on December 31, 2022.
+23
+Note 14
+Accumulated Other Comprehensive Income (Loss)
+Changes to the components of accumulated other comprehensive loss are as follows:
+Three months ended
+December 24, 2022
+Foreign Currency
+Translation Adjustments
+(unaudited)
+(in thousands)
+Beginning Balance
+$
+( 13,713
+)
+Other comprehensive income (loss)
+871
+Ending Balance
+$
+( 12,842
+)
+Three months ended
+December 25, 2021
+Foreign Currency
+Translation Adjustments
+(unaudited)
+(in thousands)
+Beginning Balance
+$
+( 13,383
+)
+Other comprehensive income (loss)
+( 444
+)
+Ending Balance
+$
+( 13,827
+)
+Note 15
+Leases
+General Lease Description
+We have operating leases with initial noncancelable lease terms in excess of one year covering the rental of various facilities and equipment. Certain of these leases contain renewal options and some provide options to purchase during the lease term. Our operating leases include leases for real estate for some of our office and manufacturing facilities as well as manufacturing and non-manufacturing equipment used in our business. The remaining lease terms for these operating leases range from
+1
+month to
+12
+years.
+We have finance leases with initial noncancelable lease terms in excess of one year covering the rental of various equipment. These leases are generally for manufacturing and non-manufacturing equipment used in our business. The remaining lease terms for these finance leases range from
+1
+year to
+5
+years.
+Significant Assumptions and Judgments
+Contract Contains a Lease
+In evaluating our contracts to determine whether a contract is or contains a lease, we considered the following:
+•
+Whether explicitly or implicitly identified assets have been deployed in the contract; and
+•
+Whether we obtain substantially all of the economic benefits from the use of that underlying asset, and we can direct how and for what purpose the asset is used during the term of the contract.
+24
+Allocation of Consideration
+In determining how to allocate consideration between lease and non-lease components in a contract that was deemed to contain a lease, we used judgment and consistent application of assumptions to reasonably allocate the consideration.
+Options to Extend or Terminate Leases
+We have leases which contain options to extend or terminate the leases. On a lease-by-lease basis, we have determined if the extension should be considered reasonably certain to be exercised and thus a right-of-use asset and a lease liability should be recorded.
+Discount Rate
+The discount rate for leases, if not explicitly stated in the lease, is the incremental borrowing rate, which is the rate of interest that we would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment.
+We used the discount rate to calculate the present value of the lease liability at the date of adoption. In the development of the discount rate, we considered our incremental borrowing rate as provided by our lender which was based on cash collateral and credit risk specific to us, and our lease portfolio characteristics.
+As of December 24, 2022, the weighted-average discount rate of our operating and finance leases was
+3.4 % and
+3.2 %, respectively. As of September 24, 2022, the weighted-average discount rate of our operating and finance leases was
+3.3 % and
+3.2 %, respectively.
+Practical Expedients and Accounting Policy Elections
+We elected the package of practical expedients that permits us not to reassess our prior conclusions about lease identification, lease classification and initial direct costs and made an accounting policy election to exclude short-term leases with an initial term of 12 months or less from our Consolidated Balance Sheets.
+25
+Amounts Recognized in the Financial Statements
+The components of lease expense were as follows:
+Three months Ended
+Three months Ended
+December 24, 2022
+December 25, 2021
+Operating lease cost in Cost of goods sold and Operating Expenses
+$
+3,972
+$
+1,458
+Finance lease cost:
+Amortization of assets in Cost of goods sold and Operating Expenses
+$
+34
+$
+72
+Interest on lease liabilities in Interest expense & other
+2
+5
+Total finance lease cost
+$
+36
+$
+77
+Short-term lease cost in Cost of goods sold and Operating Expenses
+-
+-
+Total net lease cost
+$
+4,008
+$
+1,535
+Supplemental balance sheet information related to leases is as follows:
+December 24, 2022
+September 24, 2022
+Operating Leases
+Operating lease right-of-use assets
+$
+50,063
+$
+51,137
+Current operating lease liabilities
+$
+13,219
+$
+13,524
+Noncurrent operating lease liabilities
+41,883
+42,660
+Total operating lease liabilities
+$
+55,102
+$
+56,184
+Finance Leases
+Finance lease right-of-use assets in Property, plant and equipment, net
+$
+395
+$
+328
+Current finance lease liabilities
+$
+128
+$
+124
+Noncurrent finance lease liabilities
+303
+254
+Total finance lease liabilities
+$
+431
+$
+378
+Supplemental cash flow information related to leases is as follows:
+Three months Ended
+Three months Ended
+December 24, 2022
+December 25, 2021
+Cash paid for amounts included in the measurement of lease liabilities:
+Operating cash flows from operating leases
+$
+3,918
+$
+1,534
+Operating cash flows from finance leases
+$
+2
+$
+5
+Financing cash flows from finance leases
+$
+39
+$
+74
+Supplemental noncash information on lease liabilities arising from obtaining right-of-use assets
+$
+2,676
+$
+1,143
+Supplemental noncash information on lease liabilities removed due to purchase of leased asset
+$
+-
+$
+-
+As of December 24, 2022, the maturities of lease liabilities were as follows:
+Operating Leases
+Finance Leases
+Nine months ending September 30, 2023
+$
+13,095
+$
+142
+2024
+12,964
+133
+2025
+9,488
+73
+2026
+6,238
+59
+2027
+5,256
+52
+Thereafter
+15,546
+-
+Total minimum payments
+62,587
+397
+Less amount representing interest
+( 7,485
+)
+( 28
+)
+Present value of lease obligations
+$
+55,102
+$
+431
+As of December 24, 2022 the weighted-average remaining term of our operating and finance leases was
+5.8
+years and
+3.3
+years, respectively. As of September 24, 2022, the weighted average remaining term of our operating and finance leases was
+5.8
+years and
+3.3
+years, respectively.
+Note 16
+Related Parties
+We have related party expenses for distribution and shipping related costs with NFI Industries, Inc. Our director, Sidney R. Brown, is CEO and an owner of NFI Industries, Inc. In the three months ended December 24, 2022 and December 25, 2021, the Company paid NFI $ 14.3
+million and $ 1.3
+million, respectively. Of the amounts paid to NFI, the amount related to management services performed by NFI was $ 0.1
+million in the three months ended December 24, 2022 and $ 0.1
+million in the three months ended December 25, 2021. The remainder of the costs related to amounts that were passed through to the third-party distribution and shipping vendors that are being managed on the Company’s behalf by NFI. The agreements with NFI include terms that are consistent with those that we believe would have been negotiated at an arm’s length with an independent party. As of December 24, 2022 and September 24, 2022, our consolidated balance sheet included related party trade payables of approximately $ 4.0
+million and $ 2.9
+million, respectively.
+26
+Item 2. Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+Statements made in this Form 10-Q that are not historical or current facts are “forward-looking statements” made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933 (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934 (the “Exchange Act”, that involve substantial risks or uncertainties. These statements often can be identified by the use of terms such as “may,” “will,” “expect,” “believe,” “anticipate,” “estimate,” “projects,” “seek,” “intend,” “predict,” “approximate,” or “continue,” or other similar references to future periods or the negative thereof. Statements addressing our future operating performance and statements addressing events and developments that we expect or anticipate will occur are also considered as forward-looking statements. We intend that such forward-looking statements be subject to the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking statements, which speak only as of the date made. Any forward-looking statements represent management’s best judgment as to what may occur in the future. However, forward-looking statements are subject to risks, uncertainties, assumptions, and important factors beyond our control that could cause actual results and events to differ materially from historical results of operations and events and those presently anticipated or projected. We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after the date of such statement or to reflect the occurrence of anticipated or unanticipated events.
+RESULTS OF OPERATIONS
+–
+Three months ended December 24, 2022
+The following discussion provides a review of results for the three months ended December 24, 2022 as compared with the three months ended December 25, 2021.
+27
+Summary of Results
+Three months ended
+December 24,
+December 25,
+2022
+2021
+% Change
+(Unaudited) (in thousands)
+Net Sales
+$
+351,343
+$
+318,490
+10.3
+%
+Cost of goods sold
+260,488
+239,115
+8.9
+%
+Gross Profit
+90,855
+79,375
+14.5
+%
+Operating expenses
+Marketing
+23,699
+20,907
+13.4
+%
+Distribution
+42,049
+33,315
+26.2
+%
+Administrative
+16,391
+10,369
+58.1
+%
+Other general expense (income)
+(612
+)
+(61
+)
+903.3
+%
+Total Operating Expenses
+81,527
+64,530
+26.3
+%
+Operating Income
+9,328
+14,845
+(37.2
+)%
+Other income (expense)
+Investment income
+685
+271
+152.8
+%
+Interest (expense)
+(1,049
+)
+(18
+)
+n.m.
+Earnings before income taxes
+8,964
+15,098
+(40.6
+)%
+Income tax expense
+2,331
+4,007
+(41.8
+)%
+NET EARNINGS
+$
+6,633
+$
+11,091
+(40.2
+)%
+Comparisons as a Percentage of Net Sales
+Three months ended
+December 24,
+December 25,
+2022
+2021
+Basis Pt Chg
+Gross profit
+25.9
+%
+24.9
+%
+100
+Marketing
+6.7
+%
+6.6
+%
+10
+Distribution
+12.0
+%
+10.5
+%
+150
+Administrative
+4.7
+%
+3.3
+%
+140
+Operating income
+2.7
+%
+4.7
+%
+(200
+)
+Earnings before income taxes
+2.6
+%
+4.7
+%
+(210
+)
+Net earnings
+1.9
+%
+3.5
+%
+(160
+)
+Net Sales
+Net sales increased $32.9 million or 10.3% to $351.3 million for the three months ended December 24, 2022. Net sales in the period included $13.4 million of net sales from Dippin’ Dots. Organic sales growth was driven by growth across all three of the Company’s business segments, led by our core products including pretzels, churros, frozen novelties and frozen beverages.
+Gross Profit
+Gross Profit increased by $11.5 million, or 14.5%, to $90.9 million for the three months ended December 24, 2022. As a percentage of sales, gross profit increased from 24.9% to 25.9%. Key ingredients including flour, oils, eggs, meats, sugar and dairy continued to experience inflationary pressures compared with the same quarter last year, with average raw material costs up approximately 20%. Three pricing actions implemented in fiscal 2022, along with an improved mix, helped to offset the impact of the inflationary pressures noted above.
+28
+Operating Expenses
+Operating Expenses increased $17.0 million, or 26.3%, to $81.5 million for the three months ended December 24, 2022. As a percentage of sales, operating expenses increased from 20.3% to 23.2%, primarily reflecting the ongoing inflationary pressures across distribution and administrative costs. As a percentage of sales, distribution expenses increased from 10.5% to 12.0%, reflecting inflationary pressures noted in fuel and outbound freight. As a percentage of sales, marketing expenses remained relatively flat, increasing slightly from 6.6% to 6.7%. As a percentage of sales, general and administrative expenses increased from 3.3% to 4.7% largely driven by the general and administrative expenses incurred by Dippin’ Dots in the three months ended December 24, 2022.
+Other Income and Expense
+Investment income increased $0.4 million to $0.7 million for the three months ended December 24, 2022. The increase was primary due to the improving interest rate environment. Interest expense increased by $1.0 million for the three months ended December 24, 2022 due to the Company’s outstanding borrowings on the Amended Credit Agreement.
+Income Tax Expense
+Income tax expense decreased by $1.7 million, or 41.8%, to $2.3 million for the three months ended December 24, 2022. This decrease was materially consistent with the overall 40.6% decrease in earnings before income taxes. The effective tax rate was 26.0% for the three months ended December 24, 2022 as compared with 26.5% in the prior year period.
+Net Earnings
+Net earnings decreased by $4.5 million, or 40.2%, to $6.6 million for the three months ended December 24, 2022, due to the aforementioned items.
+There are many factors which can impact our net earnings from year to year and in the long run, among which are the supply and cost of raw materials and labor, insurance costs, factors impacting sales as noted above, the continuing consolidation of our customers, our ability to manage our manufacturing, marketing and distribution activities, our ability to make and integrate acquisitions and changes in tax laws and interest rates.
+Business Segment Discussion
+We operate in three segments: Food Service, Retail Supermarket, and Frozen Beverages. The following table is a summary of sales and operating income (loss), which is how we measure segment profit.
+29
+Three months ended
+December 24,
+December 25,
+2022
+2021
+% Change
+(in thousands)
+Net Sales
+Food Service
+$
+238,297
+$
+211,732
+12.5
+%
+Retail Supermarket
+43,073
+42,695
+0.9
+%
+Frozen Beverages
+69,973
+64,063
+9.2
+%
+Total Sales
+$
+351,343
+$
+318,490
+10.3
+%
+Three months ended
+December 24,
+December 25,
+2022
+2021
+% Change
+(in thousands)
+Operating Income
+Food Service
+$
+6,387
+$
+9,001
+(29.0
+)%
+Retail Supermarket
+1,111
+4,984
+(77.7
+)%
+Frozen Beverages
+1,830
+860
+112.8
+%
+Total Operating Income
+$
+9,328
+$
+14,845
+(37.2
+)%
+Food Service Segment Results
+Three months ended
+December 24,
+December 25,
+2022
+2021
+% Change
+(in thousands)
+Food Service Sales
+Soft pretzels
+$
+52,223
+$
+50,421
+3.6
+%
+Frozen novelties
+21,765
+8,457
+157.4
+%
+Churros
+25,757
+19,489
+32.2
+%
+Handhelds
+23,572
+18,495
+27.5
+%
+Bakery
+108,948
+107,831
+1.0
+%
+Other
+6,032
+7,039
+(14.3
+)%
+Total Food Service Sales
+$
+238,297
+$
+211,732
+12.5
+%
+Food Service Operating Income
+$
+6,387
+$
+9,001
+(29.0
+)%
+Sales to food service customers increased $26.6 million, or 12.5%, to $238.3 million for the three months ended December 24, 2022, which included approximately $13.4 million in sales from Dippin’ Dots. Soft pretzels sales to food service increased 4% to $52.2 million. Frozen novelties sales increased 157% to $21.8 million, largely driven by Dippin’ Dots sales. Churro sales increased 32% to $25.8 million led by customer expansion and growing menu penetration, highlighted by the introduction of our Hola! Churros brand, as we achieved some of our slotting objectives with major distributors and gains at large regional quick service and fast casual restaurants. Sales of bakery products increase by 1% to $108.9 million. Sales of handhelds increased 28% to $23.6 million led by the continued success of a product developed for one of our larger wholesale club customers.
+Sales of new products in the first twelve months since their introduction were minimal in the quarter. Price increases benefited revenues in the quarter, and more than offset some volume declines seen in certain product categories.
+30
+Operating income in our Food Service segment decreased $2.6 million in the quarter to $6.4 million, which reflected the significant increase in input, production and distribution costs.
+Retail Supermarket Segment Results
+Three months ended
+December 24,
+December 25,
+2022
+2021
+% Change
+(in thousands)
+Retail Supermarket Sales
+Soft pretzels
+$
+14,485
+$
+16,194
+(10.6
+)%
+Frozen novelties
+17,969
+17,802
+0.9
+%
+Biscuits
+7,913
+8,271
+(4.3
+)%
+Handhelds
+2,892
+1,276
+126.6
+%
+Coupon redemption
+(176
+)
+(896
+)
+(80.4
+)%
+Other
+(10
+)
+48
+(120.8
+)%
+Total Retail Supermarket Sales
+$
+43,073
+$
+42,695
+0.9
+%
+Retail Supermarket Operating Income
+$
+1,111
+$
+4,984
+(77.7
+)%
+Sales of products to retail customers increased $0.4 million, or 1%, to $43.1 million for the three months ended December 24, 2022. Soft pretzel sales declined 11% to $14.5 million, frozen novelties sales increase 1% to $18.0 million, biscuit sales declined 4% to $7.9 million, and handheld sales increased 127% to $2.9 million. Sales of new products in retail supermarkets were minimal in the quarter. Price increases benefited revenues in the quarter and helped to offset volume declines seen in certain product categories.
+Operating income in our Retail Supermarkets segment decreased $3.9 million in the quarter to $1.1 million driven by higher cost of goods sold and distribution related expenses.
+Frozen Beverages Segment Results
+Three months ended
+December 24,
+December 25,
+2022
+2021
+% Change
+(in thousands)
+Frozen Beverages Sales
+Beverages
+$
+38,659
+$
+33,763
+14.5
+%
+Repair and maintenance service
+23,827
+22,011
+8.3
+%
+Machines revenue
+7,011
+7,847
+(10.7
+)%
+Other
+476
+442
+7.7
+%
+Total Frozen Beverages Sales
+$
+69,973
+$
+64,063
+9.2
+%
+Frozen Beverages Operating Income
+$
+1,830
+$
+860
+112.8
+%
+Frozen beverage and related product sales increased $5.9 million, or 9%, in the three months ended December 24, 2022. Beverage related sales increased 15% to $38.7 million. Gallon sales were up 2% for the three months led by continued improving trends in travel, sporting events, concerts and amusement parks. Sales remained strong even as volume at theaters declined in the quarter due to lower performing releases and weather-related impacts during the holiday season. Service revenue increased 8% to $23.8 million reflecting healthy maintenance call volumes. Machine revenue (primarily sales of frozen beverage machines) decreased 11% to $7.0 million due to the timing of customer installations between years.
+Operating income in our Frozen Beverage segment increased $1.0 million in the quarter to $1.8 million as strong sales drove leverage across the business.
+31
+Liquidity and Capital Resources
+Although there are many factors that could impact our operating cash flow, most notably net earnings, we believe that our future operating cash flow, along with our borrowing capacity, our current cash and cash equivalent balances and our investment securities is sufficient to satisfy our cash requirements over the next twelve months and beyond, as well as to fund future growth and expansion.
+Three months ended
+December 24,
+December 25,
+2022
+2021
+(in thousands)
+Cash flows from operating activities
+Net earnings
+$
+6,633
+$
+11,091
+Non-cash items in net income:
+Depreciation of fixed assets
+13,476
+11,923
+Amortization of intangibles and deferred costs
+1,705
+588
+Gains from disposals of property & equipment
+(711
+)
+(27
+)
+Share-based compensation
+1,239
+1,083
+Deferred income taxes
+(526
+)
+(529
+)
+Loss on marketable securities
+37
+44
+Other
+(18
+)
+(4
+)
+Changes in assets and liabilities, net of effects from purchase of companies
+(425
+)
+(18,715
+)
+Net cash provided by operating activities
+$
+21,410
+$
+5,454
+●
+The increase in depreciation of fixed assets over prior year period was largely due to prior year purchases of property plant and equipment, as well as depreciation expense related to assets acquired in the fiscal 2022 Dippin’ Dots acquisition.
+●
+The increase in amortization of intangibles and deferred costs over prior year period was related to intangible assets acquired in the fiscal 2022 Dippin’ Dots acquisition.
+●
+The $0.7 million gain from disposals of property & equipment in the three months ended December 24, 2022 primarily related to the sale of a building.
+●
+Cash flows associated with changes in assets and liabilities, net of effects from purchase of companies were a net slight outflow in the three months ended December 24, 2022, with a decrease in accounts receivable largely offset by a decrease in accounts payable and accrued liabilities. In the prior year period, the net $18.7 million cash outflow was largely attributable to increases in inventory and decreases in accounts payable and accrued liabilities.
+32
+Three months ended
+December 24,
+December 25,
+2022
+2021
+(in thousands)
+Cash flows from investing activities
+Purchases of property, plant and equipment
+(30,910
+)
+(16,100
+)
+Proceeds from redemption and sales of marketable securities
+3,300
+7,200
+Proceeds from disposal of property and equipment
+729
+231
+Net cash used in investing activities
+$
+(26,881
+)
+$
+(8,669
+)
+●
+Purchases of property, plant and equipment include spending for production growth, in addition to acquiring new equipment, infrastructure replacements, and upgrades to maintain competitive standing and position us for future opportunities. The increase over prior year period was primarily due to increased spend for new lines at various plants aimed at increasing capacity.
+●
+The decrease in proceeds from redemption and sales of marketable securities from prior year period was due to a strategic decision in prior years to no longer re-invest redeemed proceeds into marketable securities given the low interest rate environment that existed in those years.
+Three months ended
+December 24,
+December 25,
+2022
+2021
+(in thousands)
+Cash flows from financing activities
+Proceeds from issuance of stock
+1,285
+706
+Borrowings under credit facility
+72,000
+-
+Repayment of borrowings under credit facility
+(35,000
+)
+-
+Payments on finance lease obligations
+(39
+)
+(74
+)
+Payment of cash dividends
+(13,453
+)
+(12,080
+)
+Net cash provided by (used in) financing activities
+$
+24,793
+$
+(11,448
+)
+●
+Borrowings under credit facility and repayment of borrowings under credit facility relate to the Company’s cash draws and repayments made in the three months ended December 24, 2022 to primarily fund working capital needs and investments in additional production capacity in our plants.
+●
+The increase in payment of cash dividends from prior year period was due to the raising of our quarterly dividend during fiscal 2022.
+Liquidity
+As of December 24, 2022, we had $54.9 million of Cash and Cash Equivalents, and $6.4 million of Marketable Securities.
+In December 2021, the Company entered into an amended and restated loan agreement (the “Credit Agreement”) with our existing banks which provided for up to a $50 million revolving credit facility repayable in December 2026.
+Interest accrues, at the Company’s election, at (i) the BSBY Rate (as defined in the Credit Agreement) plus an applicable margin, based upon the Consolidated Net Leverage Ratio, as defined in the Credit Agreement, or (ii) the Alternate Base Rate (a rate based on the higher of (a) the prime rate announced from time-to-time by the Administrative Agent, (b) the Federal Reserve System’s federal funds rate, plus 0.50% or (c) the Daily BSBY Rate, plus an applicable margin. The Alternate Base Rate is defined in the Credit Agreement.
+33
+The Credit Agreement requires the Company to comply with various affirmative and negative covenants, including without limitation (i) covenants to maintain a minimum specified interest coverage ratio and maximum specified net leverage ratio, and (ii) subject to certain exceptions, covenants that prevent or restrict the Company’s ability to pay dividends, engage in certain mergers or acquisitions, make certain investments or loans, incur future indebtedness, alter its capital structure or line of business, prepay subordinated indebtedness, engage in certain transactions with affiliates, or amend its organizational documents. As of December 24, 2022, the Company is in compliance with all financial covenants of the Credit Agreement.
+On June 21, 2022, the Company entered into an amendment to the Credit Agreement, the “Amended Credit Agreement” which provided for an incremental increase of $175 million in available borrowings. The Amended Credit Agreement also includes an option to increase the size of the revolving credit facility by up to an amount not to exceed in the aggregate the greater of $225 million or, $50 million plus the Consolidated EBITDA of the Borrowers, subject to the satisfaction of certain terms and conditions.
+As of December 24, 2022, we had $92.0 million of outstanding borrowings drawn on the Amended Credit Agreement. As of September 24, 2022, we had $123.2 million of additional borrowing capacity, after giving effect to the $9.8 million of letters of credit outstanding.
+Critical Accounting Estimates
+We consider revenue recognition, allowance for doubtful receivables, valuation of goodwill, valuation of long-lived assets and other intangible assets, insurance reserves, income taxes, and business combinations to be critical accounting estimates. These policies are summarized in Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended September 24, 2022. These critical accounting policies require us to make estimates and assumptions that affect the amounts reported in the consolidated condensed financial statements and accompanying notes.
+Item 3.           Quantitative and Qualitative Disclosures About Market Risk
+There has been no material change in the Company’s assessment of its sensitivity to market risk since its presentation set forth, in item 7a. “Quantitative and Qualitative Disclosures About Market Risk,” in our Annual Report on Form 10-K for the fiscal year ended September 24, 2022.
+34
+Item 4.           Controls and Procedures
+The Chief Executive Officer and the Chief Financial Officer of the Company (its principal executive officer and principal financial officer, respectively) have concluded, based on their evaluation as of December 24, 2022, that the Company’s disclosure controls and procedures are effective to ensure that information required to be disclosed by the Company in the reports filed or submitted by it under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and include controls and procedures designed to ensure that information required to be disclosed by the Company in such reports is accumulated and communicated to the Company’s management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+There has been no change in the Company’s internal control over financial reporting during the quarter ended December 24, 2022, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. During the fiscal third quarter of 2022, the Company completed the acquisition of Dippin’ Dots. As permitted by SEC staff interpretive guidance that an assessment of a recently acquired business may be omitted from the scope of evaluation for a period of up to one year following the acquisition, management excluded Dippin’ Dots from its interim evaluation of internal controls over financial reporting.
+PART II. OTHER INFORMATION
+Item 1.
+Legal Proceedings
+The Company is subject, from time to time, to certain legal proceedings and claims that arise from our business. As of the date of this Quarterly Report on Form 10-Q, the Company does not expect that any such proceedings will have a material adverse effect on the Company’s financial position or results of operations.
+Item 1A.
+Risk Factors
+For information on risk factors, please refer to “Risk Factors” in Part I, Item 1A of the Company’s Form 10-K for the fiscal year ended
+September 24, 2022. The risks identified in that report have not changed in any material respect.
+Item 2.         Unregistered Sales of Equity Securities and the Use of Proceeds
+In October 2022, we withheld 129 shares to cover taxes associated with the vesting of certain restricted stock units held by officers and employees. In November 2022, we withheld 760 shares to cover taxes associated with the vesting of certain restricted stock units held by officers and employees.
+Item 6.         Exhibits
+Exhibit No.
+10.1
+Form of Performance Share Unit
+10.2
+Form of Service Share Unit
+31.1 &
+Certification Pursuant to Section 302 of
+31.2
+the Sarbanes-Oxley Act of 2002
+32.1 &
+Certification Pursuant to the 18 U.S.C.
+32.2
+Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.1
+The following financial information from J&J Snack Foods Corp.'s Quarterly Report on Form 10-Q for the quarter ended December 24, 2022, formatted in iXBRL (Inline extensible Business Reporting Language):
+(i)
+Consolidated Balance Sheets,
+(ii)
+Consolidated Statements of Earnings,
+(iii)
+Consolidated Statements of Comprehensive Income,
+(iv)
+Consolidated Statements of Cash Flows and
+(v)
+the Notes to the Consolidated Financial Statements
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and containing in Exhibit 101)
+35
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+J & J SNACK FOODS CORP.
+Dated: February 2, 2023
+/s/  Dan Fachner
+Dan Fachner
+President and Chief Executive Officer
+(Principal Executive Officer)
+/s/ Ken A. Plunk
+Dated: February 2, 2023
+Ken A. Plunk, Senior Vice
+President and Chief Financial Officer
+(Principal Financial Officer)
+(Principal Accounting Officer)
+36

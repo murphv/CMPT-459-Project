@@ -1,0 +1,1208 @@
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0001000230 2022-11-01 2023-01-31
+iso4217:USD
+0001000230 2021-11-01 2022-10-31
+0001000230 us-gaap:NonUsMember 2021-11-01 2022-10-31
+0001000230 us-gaap:NonUsMember 2022-11-01 2023-01-31
+0001000230 country:US 2021-11-01 2022-10-31
+0001000230 country:US 2022-11-01 2023-01-31
+0001000230 2022-10-31
+0001000230 2023-01-31
+xbrli:pure
+0001000230 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-11-01 2023-01-31
+0001000230 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-11-01 2022-01-31
+0001000230 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember occ:CustomerOneMember 2021-11-01 2022-01-31
+0001000230 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember occ:CustomerOneMember 2022-11-01 2023-01-31
+xbrli:shares
+0001000230 2021-11-01 2022-01-31
+iso4217:USD xbrli:shares
+utr:M
+0001000230 us-gaap:OtherNoncurrentLiabilitiesMember 2022-10-31
+0001000230 occ:AccountsPayableAndAccruedLiabilitiesCurrentMember 2022-10-31
+0001000230 us-gaap:OtherNoncurrentLiabilitiesMember 2023-01-31
+0001000230 occ:AccountsPayableAndAccruedLiabilitiesCurrentMember 2023-01-31
+0001000230 us-gaap:OtherAssetsMember 2022-10-31
+0001000230 us-gaap:OtherAssetsMember 2023-01-31
+0001000230 us-gaap:AccountsPayableAndAccruedLiabilitiesMember 2022-10-31
+0001000230 us-gaap:AccountsPayableAndAccruedLiabilitiesMember 2023-01-31
+0001000230 occ:OperatingLeaseForOfficeEquipmentMember 2023-01-31
+utr:sqft
+0001000230 occ:OperatingLeaseForWarehouseSpaceInRoanokeVirginiaMember 2023-01-31
+0001000230 occ:OperatingLeaseForOfficeManufacturingAndWarehouseSpaceInPlanoTexasMember 2023-01-31
+0001000230 us-gaap:RevolvingCreditFacilityMember occ:PinnacleFinancialPartnersMember 2022-10-31
+0001000230 us-gaap:RevolvingCreditFacilityMember occ:PinnacleFinancialPartnersMember 2023-01-31
+utr:Y
+0001000230 us-gaap:RevolvingCreditFacilityMember occ:NorthMillCapitalLlcMember 2020-07-24 2020-07-24
+0001000230 us-gaap:RevolvingCreditFacilityMember occ:NorthMillCapitalLlcMember 2023-01-31
+0001000230 us-gaap:RevolvingCreditFacilityMember occ:NorthMillCapitalLlcMember us-gaap:PrimeRateMember 2022-11-01 2023-01-31
+0001000230 us-gaap:RevolvingCreditFacilityMember occ:NorthMillCapitalLlcMember srt:MaximumMember 2023-01-31
+0001000230 us-gaap:RevolvingCreditFacilityMember occ:NorthMillCapitalLlcMember 2020-07-24
+0001000230 occ:NorthCarolinaRealEstateLoanMember 2022-10-31
+0001000230 occ:NorthCarolinaRealEstateLoanMember 2023-01-31
+thunderdome:item
+0001000230 occ:NorthCarolinaRealEstateLoanMember 2021-11-01 2022-10-31
+0001000230 occ:NorthCarolinaRealEstateLoanMember 2022-11-01 2023-01-31
+0001000230 occ:VirginiaRealEstateLoanMember 2022-10-31
+0001000230 occ:VirginiaRealEstateLoanMember 2023-01-31
+0001000230 occ:VirginiaRealEstateLoanMember 2021-11-01 2022-10-31
+0001000230 occ:VirginiaRealEstateLoanMember 2022-11-01 2023-01-31
+0001000230 occ:PinnacleFinancialPartnersMember occ:VirginiaRealEstateLoanAndNorthCarolinaRealEstateLoanMember 2023-01-31
+0001000230 2022-01-31
+0001000230 2021-10-31
+0001000230 us-gaap:RestrictedStockMember 2023-01-31
+0001000230 us-gaap:RestrictedStockMember 2022-11-01 2023-01-31
+0001000230 occ:Plan2017Member occ:EmployeesConsultantAndNonemployeeDirectorsMember 2021-11-01 2022-01-31
+0001000230 occ:Plan2017Member occ:EmployeesConsultantAndNonemployeeDirectorsMember 2022-11-01 2023-01-31
+0001000230 occ:Plan2017Member 2023-01-31
+0001000230 occ:PinnacleFinancialPartnersMember occ:VirginiaRealEstateLoanAndNorthCarolinaRealEstateLoanMember 2021-11-01 2022-01-31
+0001000230 occ:PinnacleFinancialPartnersMember occ:VirginiaRealEstateLoanAndNorthCarolinaRealEstateLoanMember 2022-11-01 2023-01-31
+0001000230 us-gaap:RetainedEarningsMember 2022-01-31
+0001000230 us-gaap:CommonStockMember 2022-01-31
+0001000230 us-gaap:RetainedEarningsMember 2021-11-01 2022-01-31
+0001000230 us-gaap:CommonStockMember 2021-11-01 2022-01-31
+0001000230 us-gaap:RetainedEarningsMember 2021-10-31
+0001000230 us-gaap:CommonStockMember 2021-10-31
+0001000230 us-gaap:RetainedEarningsMember 2023-01-31
+0001000230 us-gaap:CommonStockMember 2023-01-31
+0001000230 us-gaap:RetainedEarningsMember 2022-11-01 2023-01-31
+0001000230 us-gaap:CommonStockMember 2022-11-01 2023-01-31
+0001000230 us-gaap:RetainedEarningsMember 2022-10-31
+0001000230 us-gaap:CommonStockMember 2022-10-31
+0001000230 2023-03-08
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒           QUARTERLY REPORT PURSUANT TO SECTION   13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+January 31, 2023
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _____________ to ______________
+Commission file number
+0-27022
+OPTICAL CABLE CORPORATION
+(Exact name of registrant as specified in its charter)
+Virginia
+54-1237042
+(State or other jurisdiction of incorporation
+(I.R.S. Employer
+or organization)
+Identification No.)
+5290 Concourse Drive
+Roanoke ,
+Virginia
+24019
+(Address of principal executive offices, including zip code)
+( 540 )
+265‑0690
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of exchange on which registered
+Common Stock, no par value
+OCC
+Nasdaq
+Global Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. (1)
+Yes
+☒   No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒   No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. (See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act). (Check one):
+Large Accelerated Filer ☐
+Accelerated Filer ☐
+Non-accelerated Filer
+☐
+Smaller Reporting Company
+☒
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐     No ☒
+As of March 8, 2023,
+7,868,568
+shares of the registrant’s Common Stock, no par value, were outstanding.
+Table of Contents
+OPTICAL CABLE CORPORATION
+Form 10-Q Index
+Three Months Ended January 31, 2023
+Page
+PART I.
+FINANCIAL INFORMATION
+Item   1.
+Financial Statements (unaudited)
+Condensed Consolidated Balance Sheets – January 31, 2023 and October 31, 2022
+2
+Condensed Consolidated Statements of Operations – Three Months Ended January 31, 2023 and 2022
+3
+Condensed Consolidated Statements of Shareholders’ Equity – Three Months Ended January 31, 2023 and 2022
+4
+Condensed Consolidated Statements of Cash Flows – Three Months Ended January 31, 2023 and 2022
+5
+Condensed Notes to Condensed Consolidated Financial Statements
+6
+Item   2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+14
+Item   4.
+Controls and Procedures
+25
+PART II.
+OTHER INFORMATION
+Item 5.
+Other Information
+26
+Item   6.
+Exhibits
+27
+SIGNATURES
+32
+1
+Table of Contents
+PART I.    FINANCIAL INFORMATION
+Item 1.  Financial Statements
+OPTICAL CABLE CORPORATION
+Condensed Consolidated Balance Sheets
+(Unaudited)
+January 31,
+October 31,
+2023
+2022
+Assets
+Current assets:
+Cash
+$
+186,081
+$
+215,936
+Trade accounts receivable, net of allowance for doubtful accounts of $ 59,856
+at January 31, 2023 and $ 69,643
+at October 31, 2022
+9,910,936
+10,963,753
+Other receivables
+140,945
+37,442
+Inventories
+22,261,385
+19,438,766
+Prepaid expenses and other assets
+609,848
+540,225
+Total current assets
+33,109,195
+31,196,122
+Property and equipment, net
+7,302,218
+7,390,285
+Intangible assets, net
+606,716
+618,142
+Other assets, net
+1,483,221
+1,353,257
+Total assets
+$
+42,501,350
+$
+40,557,806
+Liabilities
+and
+Shareholders ’
+Equity
+Current liabilities:
+Current installments of long-term debt
+$
+341,522
+$
+338,094
+Accounts payable and accrued expenses
+5,558,085
+5,354,150
+Accrued compensation and payroll taxes
+1,763,863
+1,772,551
+Income taxes payable
+50,379
+18,098
+Total current liabilities
+7,713,849
+7,482,893
+Note payable, revolver - noncurrent
+6,823,065
+5,999,663
+Long-term debt, excluding current installments
+4,104,190
+4,190,508
+Other noncurrent liabilities
+856,222
+725,024
+Total liabilities
+19,497,326
+18,398,088
+Shareholders’ equity:
+Preferred stock,
+no
+par value, authorized
+1,000,000
+shares;
+none
+issued and outstanding
+—
+—
+Common stock,
+no
+par value, authorized
+50,000,000
+shares; issued and outstanding
+7,868,568
+shares at January 31, 2023 and
+7,893,194
+shares at October 31, 2022
+14,672,827
+14,638,505
+Retained earnings
+8,331,197
+7,521,213
+Total shareholders’ equity
+23,004,024
+22,159,718
+Commitments and contingencies
+Total liabilities and shareholders’ equity
+$
+42,501,350
+$
+40,557,806
+See accompanying condensed notes to condensed consolidated financial statements.
+2
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended
+January 31,
+2023
+2022
+Net sales
+$
+18,283,675
+$
+14,440,295
+Cost of goods sold
+11,762,466
+10,394,443
+Gross profit
+6,521,209
+4,045,852
+Selling, general and administrative expenses
+5,455,466
+4,780,199
+Royalty expense, net
+6,586
+6,958
+Amortization of intangible assets
+13,221
+12,095
+Income (loss) from operations
+1,045,936
+( 753,400
+)
+Other income (expense), net:
+Interest expense, net
+( 270,623
+)
+( 158,260
+)
+Other, net
+67,135
+( 11,385
+)
+Other expense, net
+( 203,488
+)
+( 169,645
+)
+Income (loss) before income taxes
+842,448
+( 923,045
+)
+Income tax expense
+32,464
+12,748
+Net income (loss)
+$
+809,984
+$
+( 935,793
+)
+Net income (loss) per share: Basic and diluted
+$
+0.10
+$
+( 0.12
+)
+See accompanying condensed notes to condensed consolidated financial statements.
+3
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Consolidated Statements of Shareholders’ Equity
+(Unaudited)
+Three Months Ended January 31, 2023
+Total
+Common Stock
+Retained
+Shareholders’
+Shares
+Amount
+Earnings
+Equity
+Balances at October 31, 2022
+7,893,194
+$
+14,638,505
+$
+7,521,213
+$
+22,159,718
+Share-based compensation, net
+( 24,626
+)
+34,322
+—
+34,322
+Net income
+—
+—
+809,984
+809,984
+Balances at January 31, 2023
+7,868,568
+$
+14,672,827
+$
+8,331,197
+$
+23,004,024
+Three Months Ended January 31, 2022
+Total
+Common Stock
+Retained
+Shareholders ’
+Shares
+Amount
+Earnings
+Equity
+Balances at October 31, 2021
+7,897,477
+$
+14,337,649
+$
+7,868,304
+$
+22,205,953
+Share-based compensation, net
+( 47,479
+)
+19,803
+—
+19,803
+Net loss
+—
+—
+( 935,793
+)
+( 935,793
+)
+Balances at January 31, 2022
+7,849,998
+$
+14,357,452
+$
+6,932,511
+$
+21,289,963
+See accompanying condensed notes to condensed consolidated financial statements.
+4
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Three Months Ended
+January 31,
+2023
+2022
+Cash flows from operating activities:
+Net income (loss)
+$
+809,984
+$
+( 935,793
+)
+Adjustments to reconcile net income (loss) to net cash used in operating activities:
+Depreciation and amortization
+248,196
+285,954
+Bad debt recovery
+( 9,787
+)
+( 4,328
+)
+Share-based compensation expense
+135,041
+124,439
+Loss on sale of property and equipment
+10,065
+12,008
+(Increase) decrease in:
+Trade accounts receivable
+1,062,604
+( 11,897
+)
+Other receivables
+( 103,503
+)
+20,708
+Inventories
+( 2,822,619
+)
+( 1,603,095
+)
+Prepaid expenses and other assets
+( 69,623
+)
+77,448
+Other assets
+( 199,075
+)
+96,340
+Increase (decrease) in:
+Accounts payable and accrued expenses
+119,602
+457,661
+Accrued compensation and payroll taxes
+( 8,688
+)
+114,430
+Income taxes payable
+32,281
+12,151
+Other noncurrent liabilities
+165,398
+( 510,513
+)
+Net cash used in operating activities
+( 630,124
+)
+( 1,864,487
+)
+Cash flows from investing activities:
+Purchase of and deposits for the purchase of property and equipment
+( 104,675
+)
+( 73,286
+)
+Investment in intangible assets
+( 1,795
+)
+( 8,006
+)
+Net cash used in investing activities
+( 106,470
+)
+( 81,292
+)
+Cash flows from financing activities:
+Proceeds from note payable, revolver
+20,010,064
+16,492,804
+Payments on note payable, revolver
+( 19,186,661
+)
+( 14,428,307
+)
+Principal payments on long-term debt
+( 82,891
+)
+( 79,597
+)
+Payments for financing costs
+( 25,000
+)
+( 25,000
+)
+Principal payments on financing lease
+( 8,773
+)
+( 8,366
+)
+Net cash provided by financing activities
+706,739
+1,951,534
+Net increase (decrease) in cash
+( 29,855
+)
+5,755
+Cash at beginning of period
+215,936
+132,249
+Cash at end of period
+$
+186,081
+$
+138,004
+See accompanying condensed notes to condensed consolidated financial statements.
+5
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+(1)
+General
+The accompanying unaudited condensed consolidated financial statements of Optical Cable Corporation and its subsidiaries (collectively, the “Company” or “OCC®”) have been prepared in accordance with U.S. generally accepted accounting principles for interim financial information and the instructions to Form 10‑Q and Regulation S‑X. Accordingly, they do not include all of the information and notes required by U.S. generally accepted accounting principles for complete financial statements. In the opinion of management, all material adjustments considered necessary for a fair presentation have been included. Operating results for the three months ended January 31, 2023 are not necessarily indicative of the results for the fiscal year ending October 31, 2023 because the following items, among other things, may impact those results: changing macroeconomic conditions in various markets, direct and indirect impacts of the COVID-19 pandemic including (but not limited to) supply chain and labor constraints impacting production volumes, increased costs and COVID-19 related government and private industry mandates in the areas of the world in which we operate, changes in market conditions, seasonality, inflation and interest rates, changes in technology, competitive conditions, timing of certain projects and purchases by key customers, significant variations in sales resulting from high volatility and timing of large sales orders among a limited number of customers in certain markets, ability of management to execute its business plans, continued ability to maintain and/or secure future debt and/or equity financing to adequately finance ongoing operations; as well as other variables, uncertainties, contingencies and risks set forth as risks in the Company’s Annual Report on Form 10‑K for the fiscal year ended October 31, 2022 (including those set forth in the “Forward-Looking Information” section), or as otherwise set forth in other filings by the Company as variables, contingencies and/or risks possibly affecting future results. The unaudited condensed consolidated financial statements and condensed notes are presented as permitted by Form 10‑Q and do not contain certain information included in the Company’s annual consolidated financial statements and notes. For further information, refer to the consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10‑K for the fiscal year ended October 31, 2022.
+(2)
+Stock Incentive Plans and Other Share ‑ Based Compensation
+As of January 31, 2023, there were approximately
+381,000
+remaining shares available for grant under the Optical Cable Corporation Stock Incentive Plan (“2017 Plan”).
+Share-based compensation expense for employees, a consultant and non-employee Directors recognized in the condensed consolidated statements of operations for the three months ended January 31, 2023 and 2022 was $ 135,041
+and $ 124,439 , respectively. Share-based compensation expense is entirely related to expense recognized in connection with the vesting of restricted stock awards or other stock awards.
+Stock Compensation
+The Company has granted, and anticipates granting from time to time, restricted stock awards subject to approval by the Compensation Committee of the Board of Directors. Since fiscal year 2004, the Company has exclusively used restricted stock awards for all share-based compensation of employees and consultants, and restricted stock awards or stock awards to non-employee members of the Board of Directors.
+6
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+Restricted stock award activity during the three months ended January 31, 2023 consisted of restricted shares withheld for taxes in connection with the vesting of restricted shares totaling
+24,646
+shares. OCC restricted stock grants provide the participant with the option to surrender shares to pay for withholding tax obligations resulting from any vesting restricted shares, or to pay cash to the Company or taxing authorities in the amount of the withholding taxes owed on the value of any vesting restricted shares in order to avoid surrendering shares. The Company accrued $ 100,719
+as of January 31, 2023 related to the surrender of shares by participants to pay for withholding taxes on shares that vested on January 31, 2023.
+As of January 31, 2023, the estimated amount of compensation cost related to unvested equity-based compensation awards in the form of service-based and operational performance-based shares that the Company will recognize over a
+2.5
+year weighted-average period is approximately $ 885,000 .
+(3)
+Allowance for Doubtful Accounts for Trade Accounts Receivable
+A summary of changes in the allowance for doubtful accounts for trade accounts receivable for the three months ended January 31, 2023 and 2022 follows:
+Three Months Ended
+January 31,
+2023
+2022
+Balance at beginning of period
+$
+69,643
+$
+61,527
+Bad debt expense
+( 9,787
+)
+( 4,328
+)
+Balance at end of period
+$
+59,856
+$
+57,199
+(4)
+Inventories
+Inventories as of January 31, 2023 and October 31, 2022 consist of the following:
+January 31,
+October 31,
+2023
+2022
+Finished goods
+$
+4,614,820
+$
+3,894,102
+Work in process
+5,119,033
+4,054,789
+Raw materials
+12,157,110
+11,093,140
+Production supplies
+370,422
+396,735
+Total
+$
+22,261,385
+$
+19,438,766
+(5)
+Product Warranties
+As of January 31, 2023 and October 31, 2022, the Company’s accrual for estimated product warranty claims totaled $ 65,000
+and $ 75,000 , respectively, and is included in accounts payable and accrued expenses. Warranty claims expense for the three months ended January 31, 2023 and 2022 totaled $ 16,574
+and $ 7,894 , respectively.
+7
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+The following table summarizes the changes in the Company’s accrual for product warranties during the three months ended January 31, 2023 and 2022:
+Three Months Ended
+January 31,
+2023
+2022
+Balance at beginning of period
+$
+75,000
+$
+75,000
+Liabilities accrued for warranties issued during the period
+55,430
+55,243
+Warranty claims and costs paid during the period
+( 26,574
+)
+( 7,894
+)
+Changes in liability for pre-existing warranties during the period
+( 38,856
+)
+( 47,349
+)
+Balance at end of period
+$
+65,000
+$
+75,000
+(6)
+Long-term Debt and Notes Payable
+The Company has credit facilities consisting of a real estate term loan, as amended and restated (the “Virginia Real Estate Loan”), a supplemental real estate term loan, as amended and restated (the “North Carolina Real Estate Loan”) and a Revolving Credit Master Promissory Note and related agreements (collectively, the “Revolver”).
+Both the Virginia Real Estate Loan and the North Carolina Real Estate Loan are with Northeast Bank, have a fixed interest rate of
+3.95 % and are secured by a first lien deed of trust on the Company’s real property.
+Long-term debt as of January 31, 2023 and October 31, 2022 consists of the following:
+January 31,
+October 31,
+2023
+2022
+Virginia Real Estate Loan ($ 6.5
+million original principal) payable in monthly installments of $ 31,812 , including interest (at
+3.95 %), with final payment of $ 3,318,029
+due
+May 1, 2024
+$
+3,610,701
+$
+3,669,294
+North Carolina Real Estate Loan ($ 2.24
+million original principal) payable in monthly installments of $ 10,963 , including interest (at
+3.95 %), with final payment of $ 711,773
+due
+May 1, 2024
+835,011
+859,308
+Total long-term debt
+4,445,712
+4,528,602
+Less current installments
+341,522
+338,094
+Long-term debt, excluding current installments
+$
+4,104,190
+$
+4,190,508
+The Revolver with North Mill Capital LLC (now doing business as SLR Business Credit, “SLR”) provides the Company with one or more advances in an amount up to: (a)
+85 % of the aggregate outstanding amount of eligible accounts (the “eligible accounts loan value”); plus (b) the lowest of (i) an amount up to
+35 % of the aggregate value of eligible inventory, (ii) $ 5,000,000 , and (iii) an amount not to exceed 100% of the then outstanding eligible accounts loan value; minus (c) $ 1,150,000 .
+The maximum aggregate principal amount subject to the Revolver is $ 18,000,000 . Interest accrues on the daily balance at the per annum rate of
+1.5 % above the Prime Rate in effect from time to time, but not less than
+4.75 % (the “Applicable Rate”). In the event of a default, interest may become
+6.0 % above the Applicable Rate. As of January 31, 2023, the Revolver accrued interest at the prime lending rate plus
+1.5 % (resulting in a
+9.0 % rate at January 31, 2023). The termination date of the Revolver is July 24, 2025 and the loan may be extended in
+one
+year periods subject to the agreement of SLR.
+8
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+The Revolver is secured by all of the following assets: properties, rights and interests in property of the Company whether now owned or existing, or hereafter acquired or arising, and wherever located; all accounts, equipment, commercial tort claims, general intangibles, chattel paper, inventory, negotiable collateral, investment property, financial assets, letter-of-credit rights, supporting obligations, deposit accounts, money or assets of the Company, which hereafter come into the possession, custody, or control of SLR; all proceeds and products, whether tangible or intangible, of any of the foregoing, including proceeds of insurance covering any or all of the foregoing; any and all tangible or intangible property resulting from the sale, lease, license or other disposition of any of the foregoing, or any portion thereof or interest therein, and all proceeds thereof; and any other assets of the Company which may be subject to a lien in favor of SLR as security for the obligations under the Loan Agreement.
+As of January 31, 2023, the Company had $ 6.8
+million of outstanding borrowings on its Revolver and $ 4.8
+million in available credit. As of October 31, 2022, the Company had $ 6.0
+million of outstanding borrowings on its Revolver and $ 5.9
+million in available credit.
+(7)
+Leases
+The Company has an operating lease agreement for approximately
+34,000
+square feet of office, manufacturing and warehouse space in Plano, Texas (near Dallas). The lease term expires on November 30, 2024.
+The Company has an operating lease agreement for approximately
+36,000
+square feet of warehouse space in Roanoke, Virginia. During the first quarter of fiscal year 2023, the lease term was extended for an additional three years. The new expiration date is April 30, 2026.
+The Company also leases certain office equipment under operating leases with initial
+60
+month terms. The lease terms expire in February and April of 2025.
+OCC leases printers that are used in the Roanoke, Virginia manufacturing facility. The lease term expires on August 22, 2026. The right-of-use asset is being amortized on a straight line basis over seven years. When the lease term ends, the remaining net book value of the right-of-use asset will be classified as property and equipment.
+The Company’s lease contracts may include options to extend or terminate the leases. The Company exercises judgment to determine the term of those leases when such options are present and include such options in the calculation of the lease term when it is reasonably certain that it will exercise those options.
+The Company includes contract lease components in its determination of lease payments, while non-lease components of the contracts, such as taxes, insurance, and common area maintenance, are expensed as incurred. At commencement, right-of-use assets and lease liabilities are measured at the present value of future lease payments over the lease term. The Company uses its incremental borrowing rate based on information available at the time of lease commencement to measure the present value of future payments.
+9
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+Operating lease expense is recognized on a straight-line basis over the lease term. Short term leases with an initial term of 12 months or less are expensed as incurred. The Company’s short term leases have month-to-month terms.
+Operating lease right-of-use assets of $ 867,974
+and $ 662,328
+were included in other assets at January 31, 2023 and October 31, 2022, respectively. Operating lease liabilities of $ 387,013
+and $ 541,904
+were included in accounts payable and accrued expenses, and other noncurrent liabilities, respectively, at January 31, 2023. Operating lease liabilities of $ 355,183
+and $ 374,570
+were included in accounts payable and accrued expenses, and other noncurrent liabilities, respectively, at October 31, 2022. Operating lease expense recognized during the three months ended January 31, 2023 and 2022 totaled $ 103,333 .
+The weighted average remaining lease term was
+29
+months and the weighted average discount rate was
+7.0 % as of January 31, 2023.
+For the three months ended January 31, 2023 and 2022, cash paid for operating lease liabilities totaled $ 109,815
+and $ 107,284 , respectively. For the three months ended January 31, 2023, right-of-use assets obtained in exchange for new operating lease liabilities totaled $ 316,028
+and there was a reduction in right-of-use assets for modified operating lease liabilities totaling $ 15,719 . For the three months ended January 31, 2022, there were
+no
+right-of-use assets obtained in exchange for new operating lease liabilities.
+Financing lease right-of-use assets of $ 163,465
+and $ 170,839
+were included in other assets at January 31, 2023 and October 31, 2022, respectively. Financing lease liabilities of $ 36,150
+and $ 121,711
+were included in accounts payable and accrued expenses, and other noncurrent liabilities, respectively, at January 31, 2023. Financing lease liabilities of $ 35,724
+and $ 130,911
+were included in accounts payable and accrued expenses, and other noncurrent liabilities, respectively, at October 31, 2022. Interest expense related to the financing lease totaled $ 1,944
+and $ 2,350
+for the three month periods ended January 31, 2023 and January 31, 2022, respectively. Amortization expense related to the financing lease totaled $ 7,374
+for the three month periods ended January 31, 2023 and January 31, 2022.
+The remaining lease term for the financing lease is
+43
+months and the discount rate is
+4.75 % as of January 31, 2023.
+For the three months ended January 31, 2023, cash paid for the financing lease liability totaled $ 1,944
+for interest and $ 8,773
+for principal. For the three months ended January 31, 2022, cash paid for the financing lease liability totaled $ 2,350
+for interest and $ 8,366
+for principal.
+10
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+The Company’s future payments due under leases reconciled to the lease liabilities are as follows:
+Fiscal Year
+Operating
+leases
+Finance
+lease
+2023  (1)
+$
+329,201
+$
+32,151
+2024
+448,298
+42,868
+2025
+177,997
+42,868
+2026
+63,644
+55,715
+Total undiscounted lease payments
+1,019,140
+173,602
+Present value discount
+( 90,223
+)
+( 15,740
+)
+Total lease liability
+$
+928,917
+$
+157,862
+(1)
+Remaining nine months of fiscal year 2023.
+(8)
+Fair Value Measurements
+The carrying amounts reported in the condensed consolidated balance sheets as of January 31, 2023 and October 31, 2022 for cash, trade accounts receivable, other receivables, current installments of long-term debt, accounts payable and accrued expenses, and accrued compensation and payroll taxes approximate fair value because of the short maturity of these instruments. The carrying values of the Company’s note payable, revolver – noncurrent, and long-term debt, excluding current installments, approximate fair value based on long-term debt issues available to the Company as of January 31, 2023 and October 31, 2022. Fair value is defined as the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+(9)
+Net Income (Loss) Per Share
+Basic net income (loss) per share excludes dilution and is computed by dividing net income (loss) available to common shareholders by the weighted-average number of common shares outstanding for the period. Diluted net income (loss) per share reflects the potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted into common stock or resulted in the issuance of common stock that then shared in the net income (loss) of the Company.
+The following is a reconciliation of the numerators and denominators of the net income (loss) per share computations for the periods presented:
+Three months ended
+January 31,
+2023
+2022
+Net income (loss) (numerator)
+$
+809,984
+$
+( 935,793
+)
+Shares (denominator)
+7,893,194
+7,511,190
+Basic and diluted net income (loss) per share
+$
+0.10
+$
+( 0.12
+)
+Weighted average unvested shares for the three months ended January 31, 2022 totaling
+363,450 , while issued and outstanding, were not included in the computation of basic and diluted net loss per share for the three months ended January 31, 2022 (because to include such shares would have been antidilutive, or in other words, to do so would have reduced the net loss per share for that period).
+11
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+(10)
+Segment Information and Business and Credit Concentrations
+The Company provides credit, in the normal course of business, to various commercial enterprises, governmental entities and not‑for‑profit organizations. Concentration of credit risk with respect to trade receivables is normally limited due to the Company’s large number of customers. The Company also manages exposure to credit risk through credit approvals, credit limits and monitoring procedures. Management believes that credit risks as of January 31, 2023 have been adequately provided for in the condensed consolidated financial statements. The Company includes all entities under common ownership for the purpose of calculating business concentrations.
+For the three months ended January 31, 2023 and 2022,
+14.8 % and
+17.2 %, respectively, of consolidated net sales were attributable to
+one
+national distributor customer.
+The Company has a single reportable segment for purposes of segment reporting.
+(11)
+Revenue Recognition
+Revenues consist of product sales that are recognized at a specific point in time under the core principle of recognizing revenue when control transfers to the customer.  The Company considers customer purchase orders, governed by master sales agreements or the Company’s standard terms and conditions, to be the contract with the customer.  For each contract, the promise to transfer the control of the products, each of which is individually distinct, is considered to be the identified performance obligation. The Company evaluates each customer’s credit risk when determining whether to accept a contract.
+In determining transaction prices, the Company evaluates whether fixed order prices are subject to adjustment to determine the net consideration to which the Company expects to be entitled. Contracts do not include financing components, as payment terms are generally due 30 to 90 days after shipment. Taxes assessed by governmental authorities and collected from the customer including, but not limited to, sales and use taxes and value-added taxes, are not included in the transaction price and are not included in net sales.
+The Company recognizes revenue at the point in time when products are shipped or delivered from its manufacturing facility to its customer, in accordance with the agreed upon shipping terms.  Since the Company typically invoices the customer at the same time that performance obligations are satisfied, no contract assets are recognized. The Company’s contract liability represents advance consideration received from customers prior to transfer of the product.  This liability was $ 59,313
+as of January 31, 2023 and $ 317,310
+as of October 31, 2022.
+Sales to certain customers are made pursuant to agreements that provide price adjustments and limited return rights with respect to the Company’s products.  The Company maintains a reserve for estimated future price adjustment claims, rebates and returns as a refund liability. The Company’s refund liability was $ 257,749
+as of January 31, 2023 and $ 233,494
+as of October 31, 2022.
+The Company offers standard product warranty coverage which provides assurance that its products will conform to contractually agreed-upon specifications for a limited period from the date of shipment. Separately-priced warranty coverage is not offered. The warranty claim is generally limited to a credit equal to the purchase price or a promise to repair or replace the product for a specified period of time at no additional charge.
+12
+Table of Contents
+OPTICAL CABLE CORPORATION
+Condensed Notes to Condensed Consolidated Financial Statements
+Three Months Ended January 31, 2023
+(Unaudited)
+The Company accounts for shipping and handling activities related to contracts with customers as a cost to fulfill its promise to transfer control of the related product.  Shipping and handling costs are included in selling, general and administrative expenses in the accompanying Condensed Consolidated Statements of Operations.
+The Company incurs sales commissions to acquire customer contracts that are directly attributable to the contracts.  The commissions are expensed as selling expenses during the period that the related products are transferred to customers.
+Disaggregation of Revenue
+The following table presents net sales attributable to the United States and all other countries in total for the three months ended January 31, 2023 and 2022:
+Three months ended
+January 31,
+2023
+2022
+United States
+$
+14,578,085
+$
+12,144,379
+Outside the United States
+3,705,590
+2,295,916
+Total net sales
+$
+18,283,675
+$
+14,440,295
+(12)
+Contingencies
+From time to time, the Company is involved in various claims, legal actions and regulatory reviews arising in the ordinary course of business. In the opinion of management, the ultimate disposition of these matters will not have a material adverse effect on the Company’s financial position, results of operations or liquidity.
+The Company believes continuing and lingering direct and indirect impacts of the COVID-19 pandemic and certain macroeconomic trends as the COVID-19 pandemic has become more endemic-like in the U.S. have created challenges that have affected production volumes and sales. While improving, the Company has continued to experience certain challenges recruiting additional personnel (particularly, production personnel), as well as certain raw material supply chain challenges, which can impact sales, shipped product volumes, pricing and lead times for certain products. The Company believes it has taken steps to successfully mitigate (to a certain extent) the impacts of these challenges; however, at this time the Company believes these challenges may continue.
+The extent to which any direct and indirect impacts of the COVID-19 pandemic and certain related macroeconomic trends may continue to affect the Company in the future will depend on ongoing developments, which are highly uncertain and cannot be reasonably predicted, including, but not limited to, the duration and severity of any future outbreaks; the timing and extent of any imposition or easing of restrictions on businesses and individuals in various markets; any impact on product demand in certain of the Company’s markets; the potential for any resurgence of the virus (including its variant strains); any supply chain and labor constraints impacting production volumes and costs directly or indirectly resulting from the pandemic and after effects of the pandemic; as well as a variety of other unknowable factors.
+(13)
+New Accounting Standards Not Yet Adopted
+There are no new accounting standards issued, but not yet adopted by the Company, which are expected to materially impact the Company’s financial position, operating results or financial statement disclosures.
+13
+Table of Contents
+Item 2. Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+Forward-Looking Information
+This Form 10-Q may contain certain forward-looking information within the meaning of the federal securities laws. The forward-looking information may include, among other information, (i) statements concerning our outlook for the future, (ii) statements of belief, anticipation or expectation, (iii) future plans, strategies or anticipated events, and (iv) similar information and statements concerning matters that are not historical facts. Such forward-looking information is subject to known and unknown variables, uncertainties, contingencies and risks that may cause actual events or results to differ materially from our expectations. Such known and unknown variables, uncertainties, contingencies and risks (collectively, “factors”) may also adversely affect Optical Cable Corporation and its subsidiaries (collectively, the “Company” or “OCC®”), the Company’s future results of operations and future financial condition, and/or the future equity value of the Company. Factors that could cause or contribute to such differences from our expectations or that could adversely affect the Company include, but are not limited to: the level of sales to key customers, including distributors; timing of certain projects and purchases by key customers; the economic conditions affecting network service providers; corporate and/or government spending on information technology; actions by competitors; fluctuations in the price of raw materials (including optical fiber, copper, gold and other precious metals, plastics and other materials); fluctuations in transportation costs; our dependence on customized equipment for the manufacture of certain of our products in certain production facilities; our ability to protect our proprietary manufacturing technology; market conditions influencing prices or pricing in one or more of the markets in which we participate, including the impact of increased competition; our dependence on a limited number of suppliers for certain product components; the loss of or conflict with one or more key suppliers or customers; an adverse outcome in any litigation, claims and other actions, and potential litigation, claims and other actions against us; an adverse outcome in any regulatory reviews and audits and potential regulatory reviews and audits; adverse changes in state tax laws and/or positions taken by state taxing authorities affecting us; technological changes and introductions of new competing products; changes in end-user preferences for competing technologies relative to our product offering; economic conditions that affect the telecommunications sector, the data communications sector, certain technology sectors and/or certain industry market sectors (for example, mining, oil & gas, military, and wireless carrier industry market sectors); economic conditions that affect U.S.-based manufacturers; economic conditions or changes in relative currency strengths (for example, the strengthening of the U.S. dollar relative to certain foreign currencies) and import and/or export tariffs imposed by the U.S. and other countries that affect certain geographic markets, industry market sector, and/or the economy as a whole; changes in demand for our products from certain competitors for which we provide private label connectivity products; changes in the mix of products sold during any given period (due to, among other things, seasonality or varying strength or weaknesses in particular markets in which we participate) which may impact gross profits and gross profit margins or net sales; variations in orders and production volumes of hybrid cables (fiber and copper) with high copper content, which tend to have lower gross profit margins; significant variations in sales resulting from: (i) high volatility within various geographic markets, within targeted markets and industries, for certain types of products, and/or with certain customers (whether related to the market generally or to specific customers’ business in particular), (ii) timing of large sales orders, and (iii) high sales concentration among a limited number of customers in certain markets, particularly the wireless carrier market; terrorist attacks or acts of war, any current or potential future military conflicts, and acts of civil unrest; cold wars and economic sanctions as a result of these activities; changes in the level of spending by the United States government, including, but not limited to military spending; ability to recruit and retain key personnel (including production personnel); poor labor relations; increasing labor costs; delays, extended lead times and/or changes in availability of needed raw materials, equipment and/or supplies; shipping and other logistics challenges; impact of inflation or hyperinflation on costs, including raw materials and labor, and ability to pass along any increased costs to customers; impact of rising interest rates increasing the cost of capital; impact of cybersecurity risks and incidents and the related actual or potential costs and consequences of such risks and incidents, including costs and regulations to limit such risks; the impact of data privacy laws and the General Data Protection Regulation and the related actual or potential costs and consequences; the impact of changes in accounting policies and related costs of compliance, including changes by the Securities and Exchange Commission (“SEC”), the Public Company Accounting Oversight Board (“PCAOB”), the Financial Accounting Standards Board (“FASB”), and/or the International Accounting Standards Board (“IASB”); our ability to continue to successfully comply with, and the cost of compliance with, the provisions of Section 404 of the Sarbanes-Oxley Act of 2002 or any revisions to that act which apply to us; the impact of changes and potential changes in federal laws and regulations adversely affecting our business and/or which result in increases in our direct and indirect costs, including our direct and indirect costs of compliance with such laws and regulations; rising healthcare costs; impact of new or changed government laws and regulations on healthcare costs; the impact of changes in state or federal tax laws and regulations increasing our costs and/or impacting the net return to investors owning our shares; any changes in the status of our compliance with covenants with our lenders; our continued ability to maintain and/or secure future debt financing and/or equity financing to adequately finance our ongoing operations; the impact of future consolidation among competitors and/or among customers adversely affecting our position with our customers and/or our market position; actions by customers adversely affecting us in reaction to the expansion of our product offering in any manner, including, but not limited to, by offering products that compete with our customers, and/or by entering into alliances with, making investments in or with, and/or acquiring parties that compete with and/or have conflicts with our customers; voluntary or involuntary delisting of the Company’s common stock from any exchange on which it is traded; the deregistration by the Company from SEC reporting requirements as a result of the small number of holders of the Company’s common stock; adverse reactions by customers, vendors or other service providers to unsolicited proposals regarding the ownership or management of the Company; the additional costs of considering, responding to and possibly defending our position on unsolicited proposals regarding the ownership or management of the Company; direct and indirect impacts of weather, natural disasters and/or epidemic, pandemic or endemic diseases (such as COVID-19) in the areas of the world in which we operate, market our products and/or acquire raw materials including impacts on supply chains, labor constraints impacting our production volumes and costs; any present or future government mandates, travel restrictions, shutdowns or other regulations regarding any epidemic, pandemic or endemic diseases; an increase in the number of shares of the Company’s common stock issued and outstanding; economic downturns generally and/or in one or more of the markets in which we operate; changes in market demand, exchange rates, productivity, market dynamics, market confidence, macroeconomic and/or other economic conditions in the areas of the world in which we operate and market our products; and our success in managing the risks involved in the foregoing.
+14
+Table of Contents
+We caution readers that the foregoing list of important factors is not exclusive. Furthermore, we incorporate by reference those factors included in current reports on Form 8‑K, and/or in our other filings.
+Dollar amounts presented in the following discussion have been rounded to the nearest hundred thousand, except in the case of amounts less than one million and except in the case of the table set forth in the “Results of Operations” section, the amounts in which both cases have been rounded to the nearest thousand.
+Overview of COVID-19 Effects
+As the COVID-19 pandemic has become more endemic-like in the U.S., we believe continuing and lingering direct and indirect impacts of the COVID-19 pandemic and certain macroeconomic trends have created certain challenges that have affected production volumes and sales. While improving, we have continued to experience certain challenges recruiting additional personnel (particularly, production personnel), as well as certain raw material supply chain challenges, which can impact sales, shipped product volumes, pricing and lead times for certain products. The Company has taken steps to successfully mitigate (to a certain extent) the impacts of these challenges; however, at this time the Company believes these challenges may continue.
+15
+Table of Contents
+The extent to which any continuing and lingering direct and indirect impacts of the COVID-19 pandemic and certain related macroeconomic trends may continue to affect OCC will depend on ongoing developments, which are subject to uncertainty, including, but not limited to: any supply chain and labor constraints impacting our production volumes and costs; any impact on certain of OCC’s markets; any resurgence of the virus (including its variant strains); the degree of immunity provided by any current or future vaccines and boosters; any government mandates, travel restrictions, shutdowns or other regulations related to COVID-19 impacting the markets in which we operate, market our products and/or acquire materials; as well as a variety of other unknowable factors. We cannot fully anticipate or reasonably estimate all the ways in which the current global health crisis and its direct and indirect effects could adversely impact our business in the future.
+Overview of Optical Cable Corporation
+Optical Cable Corporation (or OCC®) is a leading manufacturer of a broad range of fiber optic and copper data communication cabling and connectivity solutions primarily for the enterprise market and various harsh environment and specialty markets (collectively, the non-carrier markets), and also the wireless carrier market, offering integrated suites of high quality products which operate as a system solution or seamlessly integrate with other components. Our product offerings include designs for uses ranging from enterprise network, data center, residential, campus and Passive Optical LAN (“POL”) installations to customized products for specialty applications and harsh environments, including military, industrial, mining, petrochemical, renewable energy and broadcast applications, as well as the wireless carrier market. Our products include fiber optic and copper cabling, hybrid cabling (which includes fiber optic and copper elements in a single cable), fiber optic and copper connectors, specialty fiber optic, copper and hybrid connectors, fiber optic and copper patch cords, pre-terminated fiber optic and copper cable assemblies, racks, cabinets, datacom enclosures, patch panels, face plates, multimedia boxes, fiber optic reels and accessories and other cable and connectivity management accessories, and are designed to meet the most demanding needs of end-users, delivering a high degree of reliability and outstanding performance characteristics.
+OCC® is internationally recognized for pioneering the design and production of fiber optic cables for the most demanding military field applications, as well as of fiber optic cables suitable for both indoor and outdoor use, and creating a broad product offering built on the evolution of these fundamental technologies. OCC is also internationally recognized for pioneering the development of innovative copper connectivity technology and designs used to meet industry copper connectivity data communications standards.
+Founded in 1983, Optical Cable Corporation is headquartered in Roanoke, Virginia with offices, manufacturing and warehouse facilities located in Roanoke, Virginia, near Asheville, North Carolina, and near Dallas, Texas. We primarily manufacture our fiber optic cables at our Roanoke facility which is ISO 9001:2015 registered and MIL-STD-790G certified, primarily manufacture our enterprise connectivity products at our Asheville facility which is ISO 9001:2015 registered, and primarily manufacture our harsh environment and specialty connectivity products at our Dallas facility which is ISO 9001:2015 registered and MIL-STD-790G certified.
+OCC designs, develops and manufactures fiber optic and hybrid cables for a broad range of enterprise, harsh environment, wireless carrier and other specialty markets and applications. We refer to these products as our fiber optic cable offering. OCC designs, develops and manufactures fiber and copper connectivity products for the enterprise market, including a broad range of enterprise and residential applications. We refer to these products as our enterprise connectivity product offering. OCC designs, develops and manufactures a broad range of specialty fiber optic connectors and connectivity solutions principally for use in military, harsh environment and other specialty applications. We refer to these products as our harsh environment and specialty connectivity product offering.
+16
+Table of Contents
+We market and sell the products manufactured at our Dallas facility through our wholly owned subsidiary Applied Optical Systems, Inc. (“AOS”) under the names Optical Cable Corporation and OCC® by the efforts of our integrated OCC sales team.
+The OCC team seeks to provide top-tier communication solutions by bundling all of our fiber optic and copper data communication product offerings into systems that are best suited for individual data communication needs and application requirements of our customers and the end-users of our systems.
+OCC’s wholly owned subsidiary Centric Solutions LLC (“Centric Solutions”) provides cabling and connectivity solutions for the data center market. Centric Solutions’ business is located at OCC’s facility near Dallas, Texas.
+Optical Cable Corporation™, OCC®, Procyon®, Superior Modular Products™, SMP Data Communications™, Applied Optical Systems™, Centric Solutions™ and associated logos are trademarks of Optical Cable Corporation.
+Summary of Company Performance for First Quarter of Fiscal Year 2023
+●
+Consolidated net sales for the first quarter of fiscal year 2023 increased 26.6% to $18.3 million, compared to $14.4 million for the same period last year.
+●
+Gross profit increased 61.2% to $6.5 million in the first quarter of fiscal year 2023, compared to $4.0 million for the first quarter of fiscal year 2022.
+●
+Gross profit margin (gross profit as a percentage of net sales) increased to 35.7% during the first quarter of fiscal year 2023, compared to 28.0% for the first quarter of fiscal year 2022.
+●
+SG&A expenses increased to $5.5 million during the first quarter of fiscal year 2023 compared to $4.8 million during the first quarter of fiscal year 2022. SG&A expenses as a percentage of net sales were 29.8% during the first quarter of fiscal year 2023, compared to 33.1% during the same period in fiscal year 2022.
+●
+Net income was $810,000, or $0.10 per share, during the first quarter of fiscal year 2023, compared to a net loss of $936,000, or $0.12 per share, for the comparable period last year.
+Results of Operations
+We sell our products internationally and domestically to our customers which include major distributors, various regional and smaller distributors, original equipment manufacturers and value-added resellers. All of our sales to customers outside of the United States are denominated in U.S. dollars. We can experience fluctuations in the percentage of net sales to customers outside of the United States and in the United States from period to period based on the timing of large orders, coupled with the impact of increases and decreases in sales to customers in various regions of the world. Sales outside of the U.S. can also be impacted by fluctuations in the exchange rate of the U.S. dollar compared to other currencies.
+Net sales
+consist of gross sales of products by the Company and its subsidiaries on a consolidated basis less discounts, refunds and returns. Revenue is recognized at the time product is transferred to the customer (including distributors) at an amount that reflects the consideration expected to be received in exchange for the product. Our customers generally do not have the right of return unless a product is defective or damaged and is within the parameters of the product warranty in effect for the sale.
+17
+Table of Contents
+Cost of goods sold
+consists of the cost of materials, product warranty costs and compensation costs, and overhead and other costs related to our manufacturing operations. The largest percentage of costs included in cost of goods sold is attributable to costs of materials.
+Our gross profit margin percentages are heavily dependent upon product mix on a quarterly basis and may vary based on changes in product mix. To the extent not impacted by product mix, gross profit margins tend to be higher when we achieve higher net sales levels, as certain fixed manufacturing costs are spread over higher sales. Hybrid cables (containing fiber and copper) with higher copper content tend to have lower gross profit margins.
+Selling, general and administrative expenses
+(“SG&A expenses”) consist of the compensation costs for sales and marketing personnel, shipping costs, trade show expenses, customer support expenses, travel expenses, advertising, bad debt expense, the compensation costs for administration and management personnel, legal, accounting, advisory and professional fees, costs incurred to settle litigation or claims and other actions against us, and other costs associated with our operations.
+Royalty income (expense), net
+consists of royalty income earned on licenses associated with our patented products, net of royalty and related expenses.
+Amortization of intangible assets
+consists of the amortization of the costs, including legal fees, associated with internally developed patents that have been granted. Amortization of intangible assets is calculated using the straight-line method over the estimated useful lives of the intangible assets.
+Other income (expense), net
+consists of interest expense and other miscellaneous income and expense items not directly attributable to our operations.
+The following table sets forth and highlights fluctuations in selected line items from our condensed consolidated statements of operations for the periods indicated:
+Three Months Ended
+January 31,
+Percent
+2023
+2022
+Change
+Net sales
+$
+18,284,000
+$
+14,440,000
+26.6
+%
+Gross profit
+6,521,000
+4,046,000
+61.2
+SG&A expenses
+5,455,000
+4,780,000
+14.1
+Net income (loss)
+810,000
+(936,000
+)
+186.6
+Three Months Ended January 31, 2023 and 2022
+Net Sales
+Consolidated net sales for the first quarter of fiscal year 2023 increased 26.6% to $18.3 million, compared to net sales of $14.4 million for the same period last year. We experienced an increase in net sales in both our enterprise and specialty markets, including the wireless carrier market, in the first quarter of fiscal year 2023, compared to the same period last year.
+Net sales to customers in the United States increased 20.0% and net sales to customers outside of the United States increased 61.4% in the first quarter of fiscal year 2023, compared to the same period last year. We can experience fluctuations in sales from quarter to quarter in the various markets (both industries and geographies) in which we operate for various reasons.
+18
+Table of Contents
+We believe the increase in net sales was positively impacted by increased product demand and increased production throughput during the first quarter of fiscal year 2023, compared to the same period last year, as well as improved product pricing which began to take effect for new orders received during the latter half of fiscal year 2022. Our sales order backlog/forward load exceeded $11.0 million at the end of the first quarter of fiscal year 2023—continuing to be higher than typical levels while down from more than $12.0 million at the end of the fourth quarter of fiscal year 2022. We continued to see some positive indicators in our markets during the first quarter of fiscal year 2023, and at this time we believe we will benefit from this trend during fiscal year 2023; however, such expectations could be negatively impacted by macroeconomic and geopolitical risks, and any further direct and indirect impacts of the COVID-19 pandemic.
+Gross Profit
+Our gross profit was $6.5 million in the first quarter of fiscal year 2023, an increase of 61.2% compared to gross profit of $4.0 million in the first quarter of fiscal year 2022. Gross profit margin, or gross profit as a percentage of net sales, increased to 35.7% in the first quarter of fiscal year 2023 compared to 28.0% in the first quarter of fiscal year 2022.
+Our gross profit margins tend to be higher when we achieve higher net sales levels due to our operating leverage as certain fixed manufacturing costs are spread over higher sales. This operating leverage, which is beneficial at higher sales levels, positively impacted our gross profit margin during the first quarter of fiscal year 2023 when compared to the same period last year. Our gross profit margin percentages are also heavily dependent upon product mix on a quarterly basis and may vary based on changes in product mix.
+Selling, General, and Administrative Expenses
+SG&A expenses increased to $5.5 million during the first quarter of fiscal year 2023, compared to $4.8 million for the same period last year. SG&A expenses as a percentage of net sales were 29.8% in the first quarter of fiscal year 2023, compared to 33.1% in the first quarter of fiscal year 2022.
+The increase in SG&A expenses during the first quarter of fiscal year 2023 compared to the same period last year was primarily the result of increases in employee and contracted sales personnel related costs totaling $461,000. Included in employee and contracted sales personnel related costs are employee incentives and commissions which increased due to increased net sales and the improved financial results during the first quarter of fiscal year 2023.
+Also contributing to the increase in SG&A expenses during the first quarter of fiscal year 2023 were increases in shipping costs totaling $96,000 due to the increase in net sales and the increase in the costs charged by shippers, when compared to the same period last year.
+Royalty Income (Expense), Net
+We recognized royalty expense, net of royalty income, totaling $7,000 during the first quarter of fiscal years 2023 and 2022. Royalty expense and/or income may fluctuate based on sales of related licensed products and estimates of amounts for non-licensed product sales, if any.
+Amortization of Intangible Assets
+We recognized $13,000 of amortization expense, associated with intangible assets, during the first quarter of fiscal year 2023, compared to $12,000 during the first quarter of fiscal year 2022.
+19
+Table of Contents
+Other Income (Expense), Net
+We recognized other expense, net in the first quarter of fiscal year 2023 of $203,000, compared to $170,000 in the first quarter of fiscal year 2022. Other expense, net is comprised primarily of interest expense together with other miscellaneous items.
+Income (Loss) Before Income Taxes
+We reported income before income taxes of $842,000 for the first quarter of fiscal year 2023, compared to a loss before income taxes of $923,000 for the first quarter of fiscal year 2022. The improvement was primarily due to the increase in gross profit of $2.5 million, partially offset by the increase in SG&A expenses of $675,000.
+Income Tax Expense (Benefit)
+Income tax expense totaled $32,000 in the first quarter of fiscal year 2023, compared to $13,000 in the first quarter of fiscal year 2022. Our effective tax rate was 3.9% for the first quarter of fiscal year 2023 and negative 1.4% for the first quarter of fiscal year 2022.
+Fluctuations in our effective tax rates are primarily due to permanent differences in U.S. GAAP and tax accounting for various tax deductions and benefits, but can also be significantly different from the statutory tax rate when income or loss before taxes is at a level such that permanent differences in U.S. GAAP and tax accounting treatment have a disproportional impact on the projected effective tax rate.
+We previously established a valuation allowance against all of our net deferred tax assets. As a result of establishing a full valuation allowance against our net deferred tax assets, if we generate sufficient taxable income in subsequent periods to realize a portion or all of our net deferred tax assets, our effective income tax rate could be unusually low due to the tax benefit attributable to the necessary decrease in our valuation allowance. Further, if we generate losses before taxes in subsequent periods, our effective income tax rate could also be unusually low as any increase in our net deferred tax asset from such a net operating loss for tax purposes would be offset by a corresponding increase to our valuation allowance against our net deferred tax assets.
+If we generate sufficient income before taxes in subsequent periods such that U.S. GAAP would permit us to conclude that the removal of any valuation allowance against our net deferred tax asset is appropriate, then during the period in which such determination is made, we will recognize the non-cash benefit of such removal of the valuation allowance in income tax expense on our consolidated statement of operations, which will increase net income and will also increase the net deferred tax asset on our consolidated balance sheet. If we do not generate sufficient income before taxes in subsequent periods such that U.S. GAAP would permit us to conclude that the reduction or removal of any valuation allowance against our net deferred tax asset is appropriate, then no such non-cash benefit would be realized. There can be no assurance regarding any future realization of the benefit by us of all or part of our net deferred tax assets. As of October 31, 2022, the valuation allowance against our total gross deferred tax assets totaled $4.4 million.
+Net Income (Loss)
+Net income for the first quarter of fiscal year 2023 was $810,000 compared to a net loss of $936,000 for the first quarter of fiscal year 2022. This improvement was primarily due to the increase in income before income taxes of $1.8 million.
+20
+Table of Contents
+Financial Condition
+Total assets increased $1.9 million, or 4.8%, to $42.5 million at January 31, 2023, from $40.6 million at October 31, 2022. This increase was primarily due to a $2.8 million increase in inventories, partially offset by a $1.1 million decrease in trade accounts receivable, net. Inventories increased largely as the result of the timing of certain raw material purchases, increases in work in process levels related to pending shipments, and the increase in finished goods inventory resulting from higher replenishment rates of stock inventory. Trade accounts receivable, net decreased due primarily to the decrease in net sales in the first quarter of fiscal year 2023 when compared to the fourth quarter of fiscal year 2022.
+Total liabilities increased $1.1 million, or 6.0%, to $19.5 million at January 31, 2023, from $18.4 million at October 31, 2022. The increase in total liabilities was primarily due to net borrowings on our Revolver totaling $823,000 and an increase in accounts payable and accrued expenses totaling $204,000 primarily resulting from the timing of raw material purchases and certain vendor payments.
+Total shareholders’ equity at January 31, 2023 increased $844,000 in the first quarter of fiscal year 2023. The increase resulted from net income of $810,000 and share-based compensation, net of $34,000.
+Liquidity and Capital Resources
+Our primary capital needs have been to fund working capital requirements through payments on our Revolver. Our primary source of capital for these purposes has been existing cash, cash provided by operations and borrowings under our Revolver (see “Credit Facilities” below).
+Our cash totaled $186,000 as of January 31, 2023, a decrease of $30,000 compared to $216,000 as of October 31, 2022. The decrease in cash for the three months ended January 31, 2023 primarily resulted from net cash used in operating activities of $630,000 and capital expenditures totaling $105,000, partially offset by net cash provided by financing activities of $707,000.
+On January 31, 2023, we had working capital of $25.4 million compared to $23.7 million on October 31, 2022. The ratio of current assets to current liabilities as of January 31, 2023 was 4.3 to 1.0 compared to 4.2 to 1.0 as of October 31, 2022. The increase in working capital and in the current ratio was primarily due to the increase in inventories of $2.8 million, partially offset by the $1.1 million decrease in trade accounts receivable, net.
+As of January 31, 2023 and October 31, 2022, we had outstanding loan balances under our Revolver totaling $6.8 million and $6.0 million, respectively. As of January 31, 2023 and October 31, 2022, we had other outstanding bank loan balances, excluding our Revolver, totaling $4.4 million and $4.5 million, respectively.
+Net Cash
+Net cash used in operating activities was $630,000 in the first quarter of fiscal year 2023, compared to $1.9 million for the first quarter of fiscal year 2022. Net cash used in operating activities during the first quarter of fiscal year 2023 primarily resulted from an increase in inventories totaling $2.8 million, partially offset by certain adjustments to reconcile net income of $810,000 to net cash used in operating activities including depreciation and amortization of $248,000 and share-based compensation expense of $135,000. Additionally, the cash flow impact of decreases in trade accounts receivable, net of $1.1 million and increases in accounts payable and accrued expenses of $120,000 further contributed to offset net cash used in operating activities.
+Net cash used in operating activities during the first quarter of fiscal year 2022 primarily resulted from an increase in inventories totaling $1.6 million, partially offset by certain adjustments to reconcile a net loss of $936,000 to net cash used in operating activities including depreciation and amortization of $286,000 and share-based compensation expense of $124,000. Additionally, the cash flow impact of increases in accounts payable and accrued expenses, including accrued compensation and payroll taxes, of $572,000 further contributed to offset net cash used in operating activities.
+21
+Table of Contents
+Net cash used in investing activities totaled $106,000 in the first quarter of fiscal year 2023, compared to $81,000 in the first quarter of fiscal year 2022. Net cash used in investing activities during the first quarter of fiscal years 2023 and 2022 resulted primarily from purchases of property and equipment and deposits for the purchase of property and equipment.
+Net cash provided by financing activities totaled $707,000 for the first quarter of fiscal year 2023, compared to $2.0 million in the first quarter of fiscal year 2022. Net cash provided by financing activities in the first quarter of fiscal year 2023 resulted primarily from net proceeds on our revolving line of credit totaling $823,000, partially offset by principal payments on long-term debt totaling $83,000. Net cash provided by financing activities in the first quarter of fiscal year 2022 resulted primarily from net proceeds on our revolving line of credit totaling $2.1 million, partially offset by principal payments on long-term debt totaling $80,000.
+Credit Facilities
+We have credit facilities consisting of a real estate term loan, as amended and restated (the “Virginia Real Estate Loan”), a supplemental real estate term loan, as amended and restated (the “North Carolina Real Estate Loan”) and a Revolving Credit Master Promissory Note and related agreements (collectively, the “Revolver”).
+Both the Virginia Real Estate Loan and the North Carolina Real Estate Loan are with Northeast Bank, have a fixed interest rate of 3.95% and are secured by a first lien deed of trust on the Company’s real property.
+The Revolver with North Mill Capital LLC (doing business as SLR Business Credit, “SLR”) provides us with one or more advances in an amount up to: (a) 85% of the aggregate outstanding amount of eligible accounts (the “eligible accounts loan value”); plus (b) the lowest of (i) an amount up to 35% of the aggregate value of eligible inventory, (ii) $5.0 million, and (iii) an amount not to exceed 100% of the then outstanding eligible accounts loan value; minus (c) $1.15 million.
+The maximum aggregate principal amount subject to the Revolver is $18.0 million. Interest accrues on the daily balance at the per annum rate of 1.5% above the Prime Rate in effect from time to time, but not less than 4.75% (the “Applicable Rate”). In the event of a default, interest may become 6.0% above the Applicable Rate. As of January 31, 2023, the Revolver accrued interest at the prime lending rate plus 1.5% (resulting in a 9.0% rate at January 31, 2023). The termination date of the Revolver is July 24, 2025 and the loan may be extended in one year periods subject to the agreement of SLR.
+The Revolver is secured by all of the following assets: properties, rights and interests in property of the Company whether now owned or existing, or hereafter acquired or arising, and wherever located; all accounts, equipment, commercial tort claims, general intangibles, chattel paper, inventory, negotiable collateral, investment property, financial assets, letter-of-credit rights, supporting obligations, deposit accounts, money or assets of the Company, which hereafter come into the possession, custody, or control of SLR; all proceeds and products, whether tangible or intangible, of any of the foregoing, including proceeds of insurance covering any or all of the foregoing; any and all tangible or intangible property resulting from the sale, lease, license or other disposition of any of the foregoing, or any portion thereof or interest therein, and all proceeds thereof; and any other assets of the Company which may be subject to a lien in favor of SLR as security for the obligations under the Loan Agreement.
+As of January 31, 2023, we had $6.8 million of outstanding borrowings on our Revolver and $4.8 million in available credit.
+22
+Table of Contents
+Capital Expenditures
+We did not have any material commitments for capital expenditures as of January 31, 2023. During our 2023 fiscal year budgeting process, we included an estimate for capital expenditures of $1.0 million for the fiscal year. We anticipate these expenditures, to the extent made, will be funded out of our working capital, cash provided by operations or borrowings under our Revolver, as appropriate. Capital expenditures are reviewed and approved based on a variety of factors including, but not limited to, current cash flow considerations, the expected return on investment, project priorities, impact on current or future product offerings, availability of personnel necessary to implement and begin using acquired equipment, and economic conditions in general. Additionally, total capital expenditures exceeding $1.0 million per fiscal year would require approval from our lender.
+Corporate acquisitions and other strategic investments, if any, are considered outside of our annual capital expenditure budgeting process.
+Future Cash Flow Considerations
+We believe that our future cash flow from operations, our cash on hand and our existing credit facilities will be adequate to fund our operations for at least the next twelve months.
+From time to time, we are involved in various claims, legal actions and regulatory reviews arising in the ordinary course of business. In the opinion of management, the ultimate disposition of these matters will not have a material adverse effect on our financial position, results of operations or liquidity.
+Seasonality
+We typically expect net sales to be relatively lower in the first half of each fiscal year and relatively higher in the second half of each fiscal year, and excluding other volatility, we would normally expect 48% of total net sales to occur during the first half of a fiscal year and 52% of total net sales to occur during the second half of a fiscal year. We believe this historical seasonality pattern is generally indicative of an overall trend and reflective of the buying patterns and budgetary cycles of our customers. However, this pattern may be altered during any quarter or year by the quarterly and annual volatility of orders received for the wireless carrier market, the timing of larger projects, timing of orders from larger customers, other economic factors impacting our industry or impacting the industries of our customers and end-users, and macroeconomic conditions. While we believe seasonality may be a factor that impacts our quarterly net sales results, particularly when excluding the volatility of sales in the wireless carrier market, we are not able to reliably predict net sales based on seasonality because these other factors can also, and often do, substantially impact our net sales patterns during the year.
+Critical Accounting Policies and Estimates
+Our discussion and analysis of financial condition and results of operations is based on the condensed consolidated financial statements and accompanying condensed notes that have been prepared in accordance with U.S. generally accepted accounting principles (“U.S. GAAP”) for interim financial information and the instructions to Form 10‑Q and Regulation S‑X. The preparation of these condensed consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Note 1 to the consolidated financial statements filed with our Annual Report on Form 10-K for fiscal year 2022 provides a summary of our significant accounting policies. Those significant accounting policies detailed in our fiscal year 2022 Form 10-K did not change during the period from November 1, 2022 through January 31, 2023.
+23
+Table of Contents
+New Accounting Standards
+There are no new accounting standards issued, but not yet adopted by us, which are expected to be applicable to our financial position, operating results or financial statement disclosures.
+24
+Table of Contents
+Item 4. Controls and Procedures
+The Company maintains disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) that are designed to be effective in providing reasonable assurance that information required to be disclosed in reports under the Exchange Act are recorded, processed and summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission (the “SEC”), and that such information is accumulated and communicated to management to allow for timely decisions regarding required disclosure.
+Our management evaluated, with the participation of our Chief Executive Officer (principal executive officer) and Chief Financial Officer (principal financial officer), the effectiveness of the Company’s disclosure controls and procedures as of January 31, 2023. Based on this evaluation process, the Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures were effective as of January 31, 2023, and that there were no changes in the Company’s internal control over financial reporting that occurred during the last fiscal quarter ended January 31, 2023 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+25
+Table of Contents
+PART II. OTHER INFORMATION
+Item 5. Other Information
+At the end of December 2022, an office building and its contents at the Company’s Asheville facilities sustained water damage resulting from a burst pipe in the sprinkler system, likely due to extreme low temperatures in the area during the days leading up to the event. This office building is separate from the Company’s manufacturing building which houses its manufacturing operations and certain offices located at the same location. The Company has insurance coverage for the office building, its contents and certain business expenses to cover the losses incurred. There was no significant impact to the Company’s operations, and the overall impact on the Company’s financial position, results of operations and cash flows is not expected to be material since the proceeds of the insurance are expected to approximate the expenses incurred to repair or replace the assets damaged or destroyed. During the first quarter of fiscal year 2023, the Company recorded a loss on property and equipment totaling $8,000 and incurred expenses for building stabilization and cleaning, removal of damaged items, and other miscellaneous and related activities totaling $81,000. An offsetting amount of insurance proceeds receivable totaling $76,000, net of applicable deductibles, was recorded as of January 31, 2023.
+26
+Table of Contents
+PART II. OTHER INFORMATION
+Item 6. Exhibits
+Exhibit Index
+Exhibit No.
+Description
+3.1
+Articles of Amendment filed November 5, 2001 to the Amended and Restated Articles of Incorporation, as amended through November 5, 2001 (incorporated herein by reference to Exhibit 1 to the Company’s Form 8-A12G filed with the Commission on November 5, 2001).
+3.2
+Articles of Amendment filed July 5, 2002 to the Amended and Restated Articles of Incorporation, as amended through July 5, 2002 (incorporated herein by reference to Appendix A to the Company’s definitive proxy statement on Form 14A filed July 5, 2002).
+3.3
+Amended and Restated Bylaws of Optical Cable Corporation effective October 15, 2010 (incorporated herein by reference to Exhibit 3.2 to the Company’s Quarterly Report on Form 10-Q for the third quarter ended July 31, 2011).
+3.4
+Amended and Restated Bylaws of Optical Cable Corporation effective March 9, 2023. FILED HEREWITH.
+4.1
+Form of certificate representing Common Stock (incorporated herein by reference to Exhibit 4.1 to the Company’s Quarterly Report on Form 10-Q for the third quarter ended July 31, 2004 (file number 0-27022)).
+4.2
+Form of certificate representing Common Stock (incorporated herein by reference to Exhibit 4.2 to the Company’s Quarterly Report on Form 10-Q for the third quarter ended July 31, 2012).
+4.3
+Corrected Credit Line Deed of Trust dated June 4, 2008 between Optical Cable Corporation as Grantor, LeClairRyan as Trustee and Northeast Bank, successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina, successor by merger with Valley Bank) as Beneficiary (incorporated herein by reference to Exhibit 4.17 of the Company’s Annual Report on Form 10-K for the period ended October 31, 2008 filed January 29, 2009).
+4.4
+Corrected Deed of Trust, Security Agreement and Fixtures Filing dated May 30, 2008 by and between Superior Modular Products Incorporated as Grantor, LeClairRyan as Trustee and Northeast Bank, successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina, successor by merger with Valley Bank) as Beneficiary (incorporated herein by reference to Exhibit 4.18 of the Company’s Annual Report on Form 10-K for the period ended October 31, 2008 filed January 29, 2009).
+4.5
+Term Loan A Note in the amount of $1,816,609 by Optical Cable Corporation dated April 26, 2016, for the benefit of Northeast Bank as of July 15, 2021, as successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina) (incorporated herein by reference to Exhibit 4.3 to the Company’s Current Report on Form 8-K/A filed May 3, 2016).
+27
+Table of Contents
+PART II. OTHER INFORMATION
+4.6
+Term Loan B Note in the amount of $5,271,411 by Optical Cable Corporation dated April 26, 2016, for the benefit of Northeast Bank as of July 15, 2021, as successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina) (incorporated herein by reference to Exhibit 4.4 to the Company’s Current Report on Form 8-K/A filed May 3, 2016).
+4.7
+Modification of Credit Line Deed of Trust dated April 26, 2016 by and between Optical Cable Corporation (successor by merger to Superior Modular Products Incorporated) as Grantor, Andrew B. Agee (in substitution of LeClairRyan) as Trustee and Northeast Bank, successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina) as Beneficiary, modifying that certain Corrected Credit Line Deed of Trust dated June 4, 2008 (incorporated herein by reference to Exhibit 4.5 to the Company’s Current Report on Form 8-K/A filed May 3, 2016).
+4.8
+Modification of Deed of Trust, Security Agreement, and Assignment of Leases and Rents dated April 26, 2016 by and between Optical Cable Corporation (successor by merger to Superior Modular Products Incorporated) as Grantor, Andrew B. Agee (in substitution of LeClairRyan) as Trustee and Northeast Bank, successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina) as Beneficiary, modifying that certain Corrected Deed of Trust, Security Agreement and Assignment of Leases and Rents dated May 30, 2008 (incorporated herein by reference to Exhibit 4.6 to the Company’s Current Report on Form 8-K/A filed May 3, 2016).
+4.9
+Second Modification of Credit Line Deed of Trust dated May 2, 2018 by and between Optical Cable Corporation (successor by merger to Superior Modular Products Incorporated) as Grantor, W. Todd Ross (in substitution of LeClairRyan) as Trustee and Northeast Bank, successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina) as Beneficiary, modifying that certain Modification of Credit Line Deed of Trust dated April 26, 2016, which previously modified that certain Corrected Credit Line Deed of Trust dated June 4, 2008 (incorporated herein by reference to Exhibit 4.20 to the Company’s Quarterly Report on Form 10-Q for the second quarter ended April 30, 2018).
+4.10
+Second Modification of Deed of Trust, Security Agreement, and Assignment of Leases and Rents dated May 2, 2018 by and between Optical Cable Corporation (successor by merger to Superior Modular Products Incorporated) as Grantor, W. Todd Ross (in substitution of LeClairRyan) as Trustee and Northeast Bank, successor in interest to Pinnacle Bank (successor by merger with Bank of North Carolina) as Beneficiary, modifying that certain Modification of Deed of Trust, Security Agreement, and Assignment of Leases and Rents dated April 26, 2016, which previously modified that certain Corrected Deed of Trust, Security Agreement and Assignment of Leases and Rents dated May 30, 2008 (incorporated herein by reference to Exhibit 4.21 to the Company’s Quarterly Report on Form 10-Q for the second quarter ended April 30, 2018).
+4.11
+Loan and Security Agreement dated July 24, 2020 by and among Optical Cable Corporation along with its subsidiaries Applied Optical Systems, Inc., and Centric Solutions LLC, and North Mill Capital LLC (now doing business as SLR Business Credit) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K dated July 30, 2020).
+28
+Table of Contents
+PART II. OTHER INFORMATION
+4.12
+Revolving Credit Master Promissory Note dated July 24, 2020 by Optical Cable Corporation along with its subsidiaries Applied Optical Systems, Inc., and Centric Solutions LLC in favor of North Mill Capital LLC (now doing business as SLR Business Credit) (incorporated by reference to Exhibit 4.2 to the Company’s Current Report on Form 8-K dated July 30, 2020).
+4.13
+Payoff Letter from Pinnacle Bank to North Mill Capital LLC (now doing business as SLR Business Credit) and Optical Cable Corporation (incorporated by reference to Exhibit 4.3 to the Company’s Current Report on Form 8-K dated July 30, 2020).
+4.14
+Amended and Restated Stockholder Protection Rights Agreement, dated as of November 2, 2021, between Optical Cable Corporation and American Stock Transfer & Trust Company, LLC, as rights agent (incorporated herein by reference to Exhibit 4.1 to the Company’s Form 8-A12G filed with the Commission on November 5, 2021).
+4.15
+Modification Agreement dated as of July 5, 2022, by and between North Mill Capital LLC (now doing business as SLR Business Credit) and Optical Cable Corporation along with its subsidiaries Applied Optical Systems, Inc., and Centric Solutions LLC (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K dated July 7, 2022).
+10.1*
+Optical Cable Corporation 2017 Stock Incentive Plan (incorporated by reference to Appendix A to the Company’s definitive proxy statement on Form 14A filed March 13, 2017).
+10.2*
+Amended and Restated Employment Agreement by and between Optical Cable Corporation and Neil D. Wilkin, Jr. effective April 11, 2011 (incorporated herein by reference to Exhibit 10.2 of the Company’s Current Report on Form 8-K filed April 15, 2011).
+10.3*
+Amendment, effective December 18, 2012, to Amended and Restated Employment Agreement by and between Optical Cable Corporation and Neil D. Wilkin, Jr. effective April 11, 2011 (incorporated herein by reference to Exhibit 10.16 of the Company’s Quarterly Report on Form 10-Q for the period ended January 31, 2013 filed March 15, 2013).
+10.4*
+Second Amendment, effective March 14, 2014, to Amended and Restated Employment Agreement by and between Optical Cable Corporation and Neil D. Wilkin, Jr. effective April 11, 2011, as amended December 18, 2012 (incorporated herein by reference to Exhibit 10.19 of the Company’s Quarterly Report on Form 10-Q for the period ended January 31, 2014 filed March 17, 2014).
+10.5*
+Amended and Restated Employment Agreement by and between Optical Cable Corporation and Tracy G. Smith effective April 11, 2011 (incorporated herein by reference to Exhibit 10.1 of the Company’s Current Report on Form 8-K filed April 15, 2011).
+29
+Table of Contents
+PART II. OTHER INFORMATION
+10.6*
+Amendment, effective December 18, 2012, to Amended and Restated Employment Agreement by and between Optical Cable Corporation and Tracy G. Smith effective April 11, 2011 (incorporated herein by reference to Exhibit 10.18 of the Company’s Quarterly Report on Form 10-Q for the period ended January 31, 2013 filed March 15, 2013).
+10.7*
+Second Amendment, effective March 14, 2014, to Amended and Restated Employment Agreement by and between Optical Cable Corporation and Tracy G. Smith effective April 11, 2011, as amended December 18, 2012 (incorporated herein by reference to Exhibit 10.22 of the Company’s Quarterly Report on Form 10-Q for the period ended January 31, 2014 filed March 17, 2014).
+10.8*
+Form of vesting award agreement for non-employee Board members under the Optical Cable Corporation 2017 Stock Incentive Plan (incorporated herein by reference to Exhibit 10.21 of the Company’s Quarterly Report on Form 10-Q for the period ended April 30, 2017 filed June 13, 2017).
+10.9*
+Form of operational performance (Company financial performance measure) vesting award agreement under the Optical Cable Corporation 2017 Stock Incentive Plan (incorporated herein by reference to Exhibit 10.15 of the Company’s Annual Report on Form 10-K for the period ended October 31, 2021 filed December 20, 2021).
+10.10*
+First Amendment to the Optical Cable Corporation 2017 Stock Incentive Plan effective March 29, 2022 (incorporated herein by reference to Exhibit 10.16 of the Company’s Quarterly Report on Form 10-Q for the period ended July 31, 2022 filed September 12, 2022).
+11.1
+Statement regarding computation of per share earnings (incorporated by reference to note 9 of the Condensed Notes to Condensed Consolidated Financial Statements contained herein).
+31.1
+Certification of the Company’s Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. FILED HEREWITH.
+31.2
+Certification of the Company’s Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. FILED HEREWITH.
+32.1
+Certification of the Company’s Chief Executive Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. FURNISHED HEREWITH.
+32.2
+Certification of the Company’s Chief Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. FURNISHED HEREWITH.
+101
+The following materials from the Company’s Quarterly Report on Form 10-Q for the quarter ended January 31, 2023, formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated Balance Sheets at January 31, 2023 and October 31, 2022, (ii) Condensed Consolidated Statements of Operations for the three months ended January 31, 2023 and 2022, (iii) Condensed Consolidated Statements of Shareholders’ Equity for the three months ended January 31, 2023 and 2022, (iv) Condensed Consolidated Statements of Cash Flows for the three months ended January 31, 2023 and 2022, and (v) Condensed Notes to Condensed Consolidated Financial Statements. FILED HEREWITH.
+30
+Table of Contents
+PART II. OTHER INFORMATION
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+*
+Management contract or compensatory plan or agreement.
+31
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+OPTICAL CABLE CORPORATION
+(Registrant)
+Date: March 14, 2023
+/s/ Neil D. Wilkin, Jr.
+Neil D. Wilkin, Jr.
+Chairman of the Board of Directors,
+President and Chief Executive Officer
+Date: March 14, 2023
+/s/ Tracy G. Smith
+Tracy G. Smith
+Senior Vice President and Chief Financial
+Officer
+32

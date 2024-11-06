@@ -1,0 +1,1498 @@
+R F INDUSTRIES LTD
+0
+0
+0
+2
+2
+2
+0
+16,594,000
+5
+3
+1
+2
+2
+25
+4
+10
+25
+4
+1
+1
+1
+0000740664 2022-11-01 2023-01-31
+thunderdome:item
+iso4217:USD
+0000740664 2021-11-01 2022-01-31
+0000740664 us-gaap:RevolvingCreditFacilityMember 2023-01-31
+0000740664 rfil:TermLoanMember 2023-01-31
+0000740664 rfil:BankOfAmericaNaMember 2023-01-31
+xbrli:pure
+0000740664 rfil:BankOfAmericaNaMember 2022-11-01 2023-01-31
+0000740664 rfil:TermLoanMember 2022-02-28
+0000740664 us-gaap:RevolvingCreditFacilityMember 2022-02-01 2022-02-28
+0000740664 rfil:BankOfAmericaNaMember 2022-02-28
+0000740664 rfil:SchrofftechFacilitiesMember 2023-01-31
+utr:Y
+utr:sqft
+0000740664 2023-01-31
+0000740664 us-gaap:OtherCurrentLiabilitiesMember 2023-01-31
+0000740664 2022-10-31
+utr:M
+0000740664 2021-11-01 2022-10-31
+0000740664 rfil:KAndKUnlimitedMember 2023-01-31
+0000740664 srt:MaximumMember 2023-01-31
+0000740664 srt:MinimumMember 2023-01-31
+0000740664 us-gaap:TrademarksMember 2022-10-31
+0000740664 us-gaap:TrademarksMember 2023-01-31
+0000740664 us-gaap:TechnologyBasedIntangibleAssetsMember 2022-10-31
+0000740664 us-gaap:TechnologyBasedIntangibleAssetsMember 2023-01-31
+0000740664 us-gaap:TechnologyBasedIntangibleAssetsMember 2020-11-01 2021-10-31
+0000740664 us-gaap:TechnologyBasedIntangibleAssetsMember 2021-11-01 2022-07-31
+0000740664 us-gaap:TradeNamesMember 2022-10-31
+0000740664 us-gaap:TradeNamesMember 2023-01-31
+0000740664 us-gaap:TradeNamesMember 2020-11-01 2021-10-31
+0000740664 us-gaap:TradeNamesMember 2021-11-01 2022-07-31
+0000740664 us-gaap:PatentsMember 2022-10-31
+0000740664 us-gaap:PatentsMember 2023-01-31
+0000740664 us-gaap:PatentsMember srt:MaximumMember 2020-11-01 2021-10-31
+0000740664 us-gaap:PatentsMember srt:MaximumMember 2021-11-01 2022-07-31
+0000740664 us-gaap:PatentsMember srt:MinimumMember 2020-11-01 2021-10-31
+0000740664 us-gaap:PatentsMember srt:MinimumMember 2021-11-01 2022-07-31
+0000740664 us-gaap:OrderOrProductionBacklogMember 2022-10-31
+0000740664 us-gaap:OrderOrProductionBacklogMember 2023-01-31
+0000740664 us-gaap:OrderOrProductionBacklogMember srt:MaximumMember 2020-11-01 2021-10-31
+0000740664 us-gaap:OrderOrProductionBacklogMember srt:MaximumMember 2021-11-01 2022-07-31
+0000740664 us-gaap:OrderOrProductionBacklogMember srt:MinimumMember 2020-11-01 2021-10-31
+0000740664 us-gaap:OrderOrProductionBacklogMember srt:MinimumMember 2021-11-01 2022-07-31
+0000740664 us-gaap:CustomerRelationshipsMember 2022-10-31
+0000740664 us-gaap:CustomerRelationshipsMember 2023-01-31
+0000740664 us-gaap:CustomerRelationshipsMember srt:MaximumMember 2020-11-01 2021-10-31
+0000740664 us-gaap:CustomerRelationshipsMember srt:MaximumMember 2021-11-01 2022-07-31
+0000740664 us-gaap:CustomerRelationshipsMember srt:MinimumMember 2020-11-01 2021-10-31
+0000740664 us-gaap:CustomerRelationshipsMember srt:MinimumMember 2021-11-01 2022-07-31
+0000740664 us-gaap:NoncompeteAgreementsMember 2022-10-31
+0000740664 us-gaap:NoncompeteAgreementsMember 2023-01-31
+0000740664 us-gaap:NoncompeteAgreementsMember 2020-11-01 2021-10-31
+0000740664 us-gaap:NoncompeteAgreementsMember 2021-11-01 2022-07-31
+0000740664 2022-01-31
+0000740664 us-gaap:CorporateNonSegmentMember 2022-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:CustomCablingManufacturingAndAssemblyMember 2022-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:RfConnectorAndCableAssemblyMember 2022-01-31
+0000740664 us-gaap:CorporateNonSegmentMember 2021-11-01 2022-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:CustomCablingManufacturingAndAssemblyMember 2021-11-01 2022-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:RfConnectorAndCableAssemblyMember 2021-11-01 2022-01-31
+0000740664 us-gaap:CorporateNonSegmentMember 2023-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:CustomCablingManufacturingAndAssemblyMember 2023-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:RfConnectorAndCableAssemblyMember 2023-01-31
+0000740664 us-gaap:CorporateNonSegmentMember 2022-11-01 2023-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:CustomCablingManufacturingAndAssemblyMember 2022-11-01 2023-01-31
+0000740664 us-gaap:OperatingSegmentsMember rfil:RfConnectorAndCableAssemblyMember 2022-11-01 2023-01-31
+0000740664 us-gaap:NonUsMember 2021-11-01 2022-01-31
+0000740664 us-gaap:NonUsMember 2022-11-01 2023-01-31
+0000740664 rfil:AllOtherForeignCountriesMember 2021-11-01 2022-01-31
+0000740664 rfil:AllOtherForeignCountriesMember 2022-11-01 2023-01-31
+0000740664 country:MX 2021-11-01 2022-01-31
+0000740664 country:MX 2022-11-01 2023-01-31
+0000740664 country:IT 2021-11-01 2022-01-31
+0000740664 country:IT 2022-11-01 2023-01-31
+0000740664 country:CA 2021-11-01 2022-01-31
+0000740664 country:CA 2022-11-01 2023-01-31
+0000740664 country:US 2021-11-01 2022-01-31
+0000740664 country:US 2022-11-01 2023-01-31
+0000740664 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-11-01 2022-01-31
+0000740664 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-11-01 2023-01-31
+0000740664 us-gaap:RestrictedStockMember 2022-11-01 2023-01-31
+0000740664 rfil:IncentiveStockOptionsMember 2022-11-01 2023-01-31
+0000740664 us-gaap:RestrictedStockMember 2023-01-31
+0000740664 rfil:IncentiveStockOptionsMember 2023-01-31
+iso4217:USD xbrli:shares
+xbrli:shares
+0000740664 rfil:IncentiveStockOptionsMember 2021-11-01 2022-01-31
+0000740664 rfil:IncentiveStockOptionsMember 2022-05-02 2022-05-02
+0000740664 rfil:RestrictedStockAndIncentiveStockOptionsMember rfil:AnotherManagerMember 2021-01-12 2021-01-12
+0000740664 rfil:IncentiveStockOptionsMember rfil:AnotherManagerMember 2023-01-10 2023-01-10
+0000740664 rfil:RestrictedStockAndIncentiveStockOptionsMember rfil:OneManagerAndThreeOfficersMember rfil:VestingOnJanuary102024Member 2023-01-10 2023-01-10
+0000740664 rfil:RestrictedStockAndIncentiveStockOptionsMember rfil:OneManagerAndThreeOfficersMember 2023-01-10 2023-01-10
+0000740664 rfil:IncentiveStockOptionsMember rfil:OneManagerAndThreeOfficersMember 2023-01-10 2023-01-10
+0000740664 us-gaap:RestrictedStockMember rfil:OneManagerAndThreeOfficersMember 2023-01-10 2023-01-10
+0000740664 rfil:IncentiveStockOptionsMember rfil:OneManagerAndThreeOfficersMember 2022-01-10 2022-01-10
+0000740664 rfil:RestrictedStockAndIncentiveStockOptionsMember rfil:OneManagerAndThreeOfficersMember rfil:VestingOnJanuary102023Member 2022-01-10 2022-01-10
+0000740664 rfil:RestrictedStockAndIncentiveStockOptionsMember rfil:OneManagerAndThreeOfficersMember 2022-01-10 2022-01-10
+0000740664 rfil:OneManagerAndThreeOfficersMember rfil:IncentiveStockOptionsMember 2022-01-10 2022-01-10
+0000740664 us-gaap:RestrictedStockMember rfil:OneManagerAndThreeOfficersMember 2022-01-10 2022-01-10
+0000740664 rfil:InventoryPurchasesMember us-gaap:SupplierConcentrationRiskMember rfil:VendorsTwoMember 2021-11-01 2022-01-31
+0000740664 rfil:InventoryPurchasesMember us-gaap:SupplierConcentrationRiskMember rfil:OneVendorMember 2021-11-01 2022-01-31
+0000740664 rfil:InventoryPurchasesMember us-gaap:SupplierConcentrationRiskMember 2021-11-01 2022-01-31
+0000740664 rfil:InventoryPurchasesMember us-gaap:SupplierConcentrationRiskMember rfil:VendorsTwoMember 2022-11-01 2023-01-31
+0000740664 rfil:InventoryPurchasesMember us-gaap:SupplierConcentrationRiskMember rfil:OneVendorMember 2022-11-01 2023-01-31
+0000740664 rfil:InventoryPurchasesMember us-gaap:SupplierConcentrationRiskMember 2022-11-01 2023-01-31
+0000740664 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember rfil:DistributorOneMember 2021-11-01 2022-01-31
+0000740664 us-gaap:RevenueFromContractWithCustomerMember us-gaap:CustomerConcentrationRiskMember rfil:OneDistributorMember 2021-11-01 2022-01-31
+0000740664 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember rfil:WirelessCarrierMember 2022-11-01 2023-01-31
+0000740664 us-gaap:RevenueFromContractWithCustomerMember us-gaap:CustomerConcentrationRiskMember rfil:WirelessCarrierMember 2022-11-01 2023-01-31
+0000740664 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember rfil:WirelessProviderMember 2021-11-01 2022-01-31
+0000740664 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember rfil:WirelessProviderMember 2022-11-01 2023-01-31
+0000740664 rfil:MicrolabFXRLLCMember 2021-11-01 2022-01-31
+0000740664 rfil:MicrolabFXRLLCMember 2022-11-01 2023-01-31
+0000740664 rfil:SchrofftechMember 2022-03-01
+0000740664 rfil:SchrofftechMember 2022-03-01 2022-03-01
+0000740664 rfil:MicrolabFXRLLCMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-03-02 2023-01-31
+0000740664 rfil:MicrolabFXRLLCMember srt:MaximumMember 2022-03-02 2023-01-31
+0000740664 rfil:MicrolabFXRLLCMember srt:MinimumMember 2022-03-02 2023-01-31
+0000740664 rfil:MicrolabFXRLLCMember 2022-05-01 2022-07-31
+0000740664 rfil:MicrolabFXRLLCMember 2022-03-01 2022-03-01
+0000740664 rfil:MicrolabFXRLLCMember 2022-03-01
+0000740664 2021-10-31
+0000740664 us-gaap:RetainedEarningsMember 2022-01-31
+0000740664 us-gaap:AdditionalPaidInCapitalMember 2022-01-31
+0000740664 us-gaap:CommonStockMember 2022-01-31
+0000740664 us-gaap:RetainedEarningsMember 2021-11-01 2022-01-31
+0000740664 us-gaap:AdditionalPaidInCapitalMember 2021-11-01 2022-01-31
+0000740664 us-gaap:CommonStockMember 2021-11-01 2022-01-31
+0000740664 us-gaap:RetainedEarningsMember 2021-10-31
+0000740664 us-gaap:AdditionalPaidInCapitalMember 2021-10-31
+0000740664 us-gaap:CommonStockMember 2021-10-31
+0000740664 us-gaap:RetainedEarningsMember 2023-01-31
+0000740664 us-gaap:AdditionalPaidInCapitalMember 2023-01-31
+0000740664 us-gaap:CommonStockMember 2023-01-31
+0000740664 us-gaap:RetainedEarningsMember 2022-11-01 2023-01-31
+0000740664 us-gaap:AdditionalPaidInCapitalMember 2022-11-01 2023-01-31
+0000740664 us-gaap:CommonStockMember 2022-11-01 2023-01-31
+0000740664 us-gaap:RetainedEarningsMember 2022-10-31
+0000740664 us-gaap:AdditionalPaidInCapitalMember 2022-10-31
+0000740664 us-gaap:CommonStockMember 2022-10-31
+0000740664 2023-03-10
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+January 31, 2023
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission file number:
+000-13301
+RF INDUSTRIES, LTD.
+(Exact name of registrant as specified in its charter)
+Nevada
+88-0168936
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+16868 Via Del Campo Court, Suite 200
+San Diego ,
+California
+92127
+(Address of principal executive offices)
+(Zip Code)
+( 858 )   549-6340
+(Registrant’s telephone number, including area code)
+7610 Miramar Road, Bldg. 6000, San Diego, CA 92126-4202
+(Former address)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+RFIL
+NASDAQ
+Global Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files.)
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes
+☐
+No ☒
+The number of shares of the issuer’s Common Stock, par value $0.01 per share, outstanding as of March 10, 2023 was
+10,291,067 .
+1
+Part I. FINANCIAL INFORMATION
+Item 1: Financial Statements
+RF INDUSTRIES, LTD. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands, except share and per share amounts)
+January 31,
+October 31,
+2023
+2022
+(Unaudited)
+(Note 1)
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents
+$
+3,770
+$
+4,532
+Trade accounts receivable, net of allowance for doubtful accounts of $ 271  and $ 126 , respectively
+13,905
+14,812
+Inventories
+20,937
+21,054
+Other current assets
+3,184
+5,849
+TOTAL CURRENT ASSETS
+41,796
+46,247
+Property and equipment:
+Equipment and tooling
+4,622
+4,497
+Furniture and office equipment
+4,452
+3,447
+9,074
+7,944
+Less accumulated depreciation
+4,881
+4,771
+Total property and equipment, net
+4,193
+3,173
+Operating lease right of use assets, net
+12,708
+13,480
+Goodwill
+8,085
+8,085
+Amortizable intangible assets, net
+14,865
+15,296
+Non-amortizable intangible assets
+1,174
+1,174
+Deferred tax assets
+1,952
+1,816
+Other assets
+295
+295
+TOTAL ASSETS
+$
+85,140
+$
+89,566
+2
+Item 1: Financial Statements
+(continued)
+RF INDUSTRIES, LTD. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands, except share and per share amounts)
+January 31,
+October 31,
+2023
+2022
+(Unaudited)
+(Note 1)
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES
+Accounts payable
+$
+4,849
+$
+5,652
+Accrued expenses
+5,568
+8,814
+Deferred revenue
+1,133
+-
+Current portion of Term Loan
+2,424
+2,424
+Current portion of operating lease liabilities
+1,728
+1,887
+Income taxes payable
+1,042
+759
+TOTAL CURRENT LIABILITIES
+16,744
+19,536
+Operating lease liabilities
+14,866
+15,025
+Term Loan, net of debt issuance cost
+12,532
+13,136
+TOTAL LIABILITIES
+44,142
+47,697
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS ’
+EQUITY
+Common stock - authorized
+20,000,000
+shares of $ 0.01
+par value;
+10,291,067
+and
+10,193,287
+shares issued and outstanding at January 31, 2023 and October 31, 2022, respectively
+103
+102
+Additional paid-in capital
+25,408
+25,118
+Retained earnings
+15,487
+16,649
+TOTAL STOCKHOLDERS' EQUITY
+40,998
+41,869
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY
+$
+85,140
+$
+89,566
+See Notes to Unaudited Condensed Consolidated Financial Statements.
+3
+Item 1: Financial Statements
+(continued)
+RF INDUSTRIES, LTD. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(UNAUDITED)
+(In thousands, except share and per share amounts)
+Three Months Ended January 31,
+2023
+2022
+Net sales
+$
+18,343
+$
+16,918
+Cost of sales
+13,257
+12,834
+Gross profit
+5,086
+4,084
+Operating expenses:
+Engineering
+961
+454
+Selling and general
+5,294
+3,992
+Total operating expenses
+6,255
+4,446
+Operating loss
+( 1,169
+)
+( 362
+)
+Other (expense) income
+( 153
+)
+5
+Loss before provision for income taxes
+( 1,322
+)
+( 357
+)
+Benefit from income taxes
+( 160
+)
+( 80
+)
+Consolidated net loss
+$
+( 1,162
+)
+$
+( 277
+)
+Loss per share:
+Basic
+$
+( 0.11
+)
+$
+( 0.03
+)
+Diluted
+$
+( 0.11
+)
+$
+( 0.03
+)
+Weighted average shares outstanding:
+Basic
+10,222,540
+10,067,186
+Diluted
+10,222,540
+10,067,186
+See Notes to Unaudited Condensed Consolidated Financial Statements.
+4
+Item 1: Financial Statements
+(continued)
+RF INDUSTRIES, LTD. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS ’
+EQUITY
+(UNAUDITED)
+(In thousands, except share amounts)
+For the Three Months Ended January 31, 2023
+Additional
+Common Stock
+Paid-in
+Retained
+Shares
+Amount
+Capital
+Earnings
+Total
+Balance, November 1, 2022
+10,193,287
+$
+102
+$
+25,118
+$
+16,649
+$
+41,869
+Exercise of stock options
+45,000
+-
+85
+-
+85
+Stock-based compensation expense
+-
+-
+212
+-
+212
+Issuance of restricted stock
+54,092
+1
+-
+-
+1
+Tax withholding related to vesting of restricted stock
+( 1,312
+)
+-
+( 7
+)
+-
+( 7
+)
+Consolidated net loss
+-
+-
+-
+( 1,162
+)
+( 1,162
+)
+Balance, January 31, 2023
+10,291,067
+$
+103
+$
+25,408
+$
+15,487
+$
+40,998
+For the Three Months ended January 31, 2022
+Additional
+Common Stock
+Paid-In
+Retained
+Shares
+Amount
+Capital
+Earnings
+Total
+Balance, November 1, 2021
+10,058,571
+$
+101
+$
+24,301
+$
+15,201
+$
+39,603
+Stock-based compensation expense
+-
+-
+139
+-
+139
+Issuance of restricted stock
+39,666
+-
+-
+-
+-
+Tax withholding related to vesting of restricted stock
+( 2,062
+)
+-
+( 13
+)
+-
+( 13
+)
+Consolidated net loss
+-
+-
+-
+( 277
+)
+( 277
+)
+Balance, January 31, 2022
+10,096,175
+$
+101
+$
+24,427
+$
+14,924
+$
+39,452
+See Notes to Unaudited Condensed Consolidated Financial Statements.
+5
+Item 1: Financial Statements
+(continued)
+RF INDUSTRIES, LTD. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(UNAUDITED)
+(In thousands)
+Three Months Ended January 31,
+2023
+2022
+OPERATING ACTIVITIES:
+Consolidated net loss
+$
+( 1,162
+)
+$
+( 277
+)
+Adjustments to reconcile consolidated net income to net cash provided by (used in) operating activities:
+Bad debt expense
+64
+( 4
+)
+Depreciation and amortization
+541
+180
+Stock-based compensation expense
+212
+139
+Amortization of debt issuance cost
+2
+-
+Tax payments related to shares cancelled for vested restricted stock awards
+( 7
+)
+( 13
+)
+Deferred income taxes
+( 136
+)
+23
+Changes in operating assets and liabilities:
+Trade accounts receivable
+843
+3,013
+Inventories
+117
+( 2,299
+)
+Other current assets
+2,665
+( 693
+)
+Right of use assets
+383
+( 15
+)
+Accounts payable
+( 803
+)
+( 122
+)
+Accrued expenses
+( 3,246
+)
+625
+Deferred revenue
+1,133
+-
+Income taxes payable
+283
+-
+Net cash provided by operating activities
+889
+557
+INVESTING ACTIVITIES:
+Capital expenditures
+( 1,130
+)
+( 103
+)
+Net cash used in investing activities
+( 1,130
+)
+( 103
+)
+FINANCING ACTIVITIES:
+Proceeds from exercise of stock options
+85
+-
+Term Loan payments
+( 606
+)
+-
+Net cash used in financing activities
+( 521
+)
+-
+Net (decrease) increase in cash and cash equivalents
+( 762
+)
+454
+Cash and cash equivalents, beginning of period
+4,532
+13,053
+Cash and cash equivalents, end of period
+$
+3,770
+$
+13,507
+Supplemental cash flow information – income taxes paid
+$
+-
+$
+156
+See Notes to Unaudited Condensed Consolidated Financial Statements.
+6
+RF INDUSTRIES, LTD. AND SUBSIDIARIES
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+Note 1
+–
+Unaudited interim condensed consolidated financial statements
+Our accompanying unaudited condensed consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial information and with the instructions to Form 10-Q. Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements. In the opinion of management, all adjustments, which are normal and recurring, have been included in order to make the information not misleading. Information included in the consolidated balance sheet as of October 31, 2022 has been derived from, and certain terms used herein are defined in, the audited consolidated financial statements of RF Industries, Ltd. as of October 31, 2022 included in our Annual Report on Form 10-K (“Form 10-K”) for the year ended October 31, 2022 that was previously filed with the Securities and Exchange Commission (“SEC”). Operating results for the three months ended January 31, 2023 are not necessarily indicative of the results that may be expected for the year ending October 31, 2023. The unaudited condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and footnotes thereto included in our Form 10-K.
+Principles of consolidation
+The accompanying unaudited condensed consolidated financial statements for the periods ended on or before January 31, 2022 include the accounts of RF Industries, Ltd. and our four wholly-owned subsidiaries: Cables Unlimited, Inc. (“Cables Unlimited”), Rel-Tech Electronics, Inc. (“Rel-Tech”), C Enterprises, Inc. (“C Enterprises”), and Schroff Technologies International, Inc. (“Schrofftech”). The unaudited condensed consolidated financial statements for the three months ended January 31, 2023 include the accounts of RF Industries, Ltd. and our five wholly-owned subsidiaries: Cables Unlimited, Inc. (“Cables Unlimited”), Rel-Tech Electronics, Inc. (“Rel-Tech”), C Enterprises, Inc. (“C Enterprises”), Schroff Technologies International, Inc. (“Schrofftech”), and Microlab/FXR LLC (“Microlab”). Microlab is a wholly-owned subsidiary that RF Industries, Ltd. acquired on March 1, 2022. For periods on or before January 31, 2022, references herein to the “Company”, “we”, “ us”, or “ our”  shall refer to RF Industries, Ltd., Cables Unlimited, Rel-Tech, C Enterprises, and Schrofftech and for all periods after January 31, 2022, reference to the “Company”, “ we”, “ us”, or “our” shall refer to RF Industries, Ltd., Cables Unlimited, Rel-Tech, C Enterprises, Schrofftech and Microlab. All intercompany balances and transactions have been eliminated in consolidation.
+Fair value measurement
+We measure at fair value certain financial assets and liabilities. Fair value is defined as the price that would be received to sell an asset or transfer a liability in an orderly transaction between market participants at the measurement date. GAAP specifies a hierarchy of valuation techniques based on whether the inputs to those valuation techniques are observable or unobservable. Observable inputs reflect market data obtained from independent sources, while unobservable inputs reflect our market assumptions. These two types of inputs have created the following fair-value hierarchy:
+Level 1— Quoted prices for identical instruments in active markets;
+Level 2— Quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-derived valuations in which all significant inputs and significant value drivers are observable in active markets; and
+Level 3— Valuations derived from valuation techniques in which one or more significant inputs or significant value drivers are unobservable.
+As of January 31, 2023 and October 31, 2022, the carrying amounts reflected in the accompanying consolidated balance sheets for cash and cash equivalents, accounts receivable, and accounts payable approximated their carrying value due to their short-term nature.
+Recent accounting standards
+Recently issued accounting pronouncements not yet adopted:
+In June 2016, the Financial Accounting Standards Board (“FASB”) issued ASU 2016-13,
+Financial Instruments — Credit Losses , which requires a financial asset (or a group of financial assets) measured at amortized cost basis to be presented at the net amount expected to be collected. The allowance for credit losses is a valuation account that is deducted from the amortized cost basis of the financial asset(s) to present the net carrying value at the amount expected to be collected on the financial asset. The guidance is effective for fiscal years beginning after December 15, 2019. In November 2019, the FASB issued ASU 2019-10,  Financial Instruments — Credit Losses (Topic   326),
+which pushes back the effective date for public business entities that are smaller reporting companies, as defined by the SEC, to fiscal years beginning after December 15, 2022. Early adoption is permitted. We are currently evaluating the impact the adoption of this new standard will have on our unaudited condensed consolidated financial statements.
+7
+Note 2
+–
+Business acquisition
+On March 1, 2022, the Company completed its purchase (the “Purchase Transaction”) of
+100 % of the issued and outstanding membership interests of Microlab, a New Jersey limited liability company, from Wireless Telecom Group, Inc, a New Jersey corporation (the “Seller”) pursuant to the Membership Interest Purchase Agreement (the “Purchase Agreement”) dated December 16, 2021, with the Seller. The consideration for the Purchase Transaction was $ 24,250,000 , subject to certain post-closing adjustments as set forth in the Purchase Agreement. The purchase price was paid in cash at the closing. The Company funded $ 17
+million of the cash purchase price from the funds obtained under the Term Loan (as defined in Note 11) and paid the remaining amount of the cash purchase price with cash on hand. During the three months ended July 31, 2022, we paid an additional $ 225,000
+in purchase consideration as a result of certain post-closing adjustments relating to net working capital.
+The acquisition was accounted for with the acquisition method of accounting. The acquired assets and assumed liabilities have been recorded at their estimated fair values. We determined the estimated fair values with the assistance of appraisals or valuations performed by an independent third-party specialist. Microlab designs and manufactures high-performance radio frequency and microwave products enabling signal distribution and deployment of in-building DAS (distributed antenna systems), wireless base stations and small cell networks. The Microlab acquisition further diversifies and strengthens the portfolio of products that we offer to the market and allows us to provide a more complete solution to our customers in key market segments. All manufacturing operations are performed at Microlab’s facilities in New Jersey.
+The acquisition closed on March 1, 2022, accordingly, subsequent to March 1, 2022, Microlab’s financial results have been included in the results of the RF Connector and Cable Assembly (“RF Connector”) segment as well as in the consolidated statements of operations. The Company expects the goodwill recorded to be deductible for income tax purposes. Acquired amortizable intangible assets are being amortized on a straight-line basis over their estimated useful lives ranging from
+one
+to
+15
+years. Total costs, as of October 31, 2022, related to the acquisition of Microlab were approximately $ 1.3
+million and have been expensed as incurred and categorized in selling and general expenses.
+The following table summarizes the components of the purchase price at fair values at March 1, 2022:
+Cash consideration paid at closing
+$
+24,250,000
+Post-closing adjustment
+225,000
+Total consideration transferred
+$
+24,475,000
+The following table summarizes the allocation of the preliminary purchase price at fair value at March 1, 2022:
+Current assets
+$
+6,620,000
+Property and equipment
+198,000
+Intangible assets
+13,840,000
+Goodwill
+5,617,000
+Non-interest bearing liabilities
+( 1,800,000
+)
+Net assets acquired at fair value
+$
+24,475,000
+The following unaudited pro forma financial information presents the combined operating results of the Company and Microlab as if both acquisitions had occurred as of the beginning of the earliest period presented. Pro forma data is subject to various assumptions and estimates and is presented for informational purposes only. This pro forma data does not purport to represent or be indicative of the consolidated operating results that would have been reported had the transaction been completed as described herein, and the data should not be taken as indicative of future consolidated operating results.
+8
+Unaudited pro forma financial information assuming the acquisition of Microlab as of November 1, 2021 is presented in the following table:
+Three Months Ended January 31,
+2023
+2022
+Revenue
+$
+18,343
+$
+21,969
+Net (loss) income
+( 1,162
+)
+839
+Earnings per share
+Basic
+$
+( 0.11
+)
+$
+0.08
+Diluted
+$
+( 0.11
+)
+$
+0.08
+Basic
+10,222,540
+10,067,186
+Diluted
+10,222,540
+10,215,815
+Note 3
+–
+Concentrations of credit risk
+Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash and cash equivalents and accounts receivable. We maintain our cash and cash equivalents with high-credit quality financial institutions. At January 31, 2023, we had cash and cash equivalent balances in excess of federally insured limits in the amount of approximately $ 2.6
+million.
+Sales from each customer that were 10% or greater of net sales were as follows:
+Three Months Ended January 31,
+2023
+2022
+Wireless provider
+15
+%
+32
+%
+For the three months ended January 31, 2023, one wireless carrier customer accounted for
+15 % of net sales and
+16 % of total net accounts receivable balance. For the three months ended January 31, 2022, one wireless carrier customer accounted for
+32 % of net sales and
+37 % of total net accounts receivable balance. Although this customer has been a significant customer of the Company, the written agreements with this customer do not have any minimum purchase obligations and this customer could stop buying our products at any time and for any reason. A reduction, delay or cancellation of orders from this customer or the loss of this customer could significantly reduce our future revenues and profits.
+Note 4
+–
+Inventories and major vendors
+Inventories, consisting of materials, labor and manufacturing overhead, are stated at the lower of cost or net realizable value. Cost has been determined using the weighted average cost method. Inventories consist of the following (in thousands):
+January 31, 2023
+October 31, 2022
+Raw materials and supplies
+$
+14,823
+$
+15,238
+Work in process
+615
+439
+Finished goods
+5,499
+5,377
+Totals
+$
+20,937
+$
+21,054
+For the three months ended January 31, 2023,
+two
+vendors accounted for
+12 % and
+10 % of inventory purchases. For the three months ended January 31, 2022,
+two
+vendors accounted for
+30 % and
+10 % of inventory purchases. We have arrangements with these vendors to purchase products based on purchase orders that we periodically issue.
+9
+Note 5
+–
+Other current assets
+Other current assets consist of the following (in thousands):
+January 31, 2023
+October 31, 2022
+Employee retention credit ("ERC")
+$
+396
+$
+1,636
+Prepaid expense
+1,188
+972
+Reimbursement for tenant improvements
+1,321
+2,810
+Other
+279
+431
+Totals
+$
+3,184
+$
+5,849
+Pursuant to the Coronavirus Aid, Relief, and Economic Security Act (“CARES” Act), eligible employers are able to claim an ERC, which is a refundable tax credit against certain employment taxes. If the employer’s employment tax deposits are not sufficient to cover the credit, the employer may get an advance payment from the IRS. The period assessed for eligibility of the ERC is on a calendar year basis. As of January 31, 2023, the remaining portion of the ERC that we have not yet received is included as other receivables in other current assets.
+Note 6
+–
+Accrued expenses and other current liabilities
+Accrued expenses consist of the following (in thousands):
+January 31, 2023
+October 31, 2022
+Wages payable
+$
+2,400
+$
+3,634
+Accrued receipts
+998
+2,136
+Other accrued expenses
+1,712
+1,847
+Tenant improvements payable
+458
+1,197
+Totals
+$
+5,568
+$
+8,814
+Accrued receipts represent purchased inventory for which invoices have not been received.
+Note 7
+–
+Loss per share
+Basic loss per share is computed by dividing net loss by the weighted average number of common shares outstanding during the period. Diluted earnings per share is computed by dividing net income by the weighted average number of common shares outstanding increased by the effects of assuming that other potentially dilutive securities (such as stock options) outstanding during the period had been exercised and the treasury stock method had been applied. During the three months ended January 31, 2023 and 2022, we reported a net loss, and in periods with a net loss, the basic loss per share equals the diluted loss per share as all common stock equivalents are excluded from the per share calculation due to their anti-dilutive effect. Potentially issuable securities that are out-of-the-money totaled
+749,488
+and
+459,889
+shares for the three months ended January 31, 2023 and 2022, respectively, and were excluded from the calculation of diluted per share amounts because of their anti-dilutive effect.
+The following table summarizes the computation of basic and diluted weighted average shares outstanding:
+Three Months Ended January 31,
+2023
+2022
+Weighted average shares outstanding for basic earnings per share
+10,222,540
+10,067,186
+Add effects of potentially dilutive securities-assumed exercise of stock options
+-
+-
+Weighted average shares outstanding for diluted earnings per share
+10,222,540
+10,067,186
+10
+Note 8
+–
+Stock-based compensation and equity transactions
+On January 10, 2022, we granted a total of
+39,666
+shares of restricted stock and
+106,001
+incentive stock options to one manager and three officers. The shares of restricted stock and incentive stock options vest over
+four
+years as follows: (i)
+one -quarter of the restricted shares and options shall vest on January 10, 2023; and (ii) the remaining restricted shares and options shall vest in 12 equal quarterly installments over the next three years. All incentive stock options expire
+10  years from the date of grant.
+On January 10, 2023, we granted a total of
+54,092
+shares of restricted stock and
+108,181
+incentive stock options to one manager and three officers. The shares of restricted stock and incentive stock options vest over
+four
+years as follows: (i)
+one -quarter of the restricted shares and options shall vest on January 10, 2024; and (ii) the remaining restricted shares and options shall vest in 12 equal quarterly installments over the next three years. Also on January 10, 2023, we granted another manager
+50,000
+incentive stock options. These options vested in five equal installments on the anniversaries of January 10, 2023. All incentive stock options expire
+10  years from the date of grant.
+No
+other shares or options were granted to company employees during the three months ended January 31, 2023 and 2022.
+The weighted average fair value of employee stock options that were granted during the three months ended January 31, 2023 and 2022 was estimated to be $ 3.21
+and $ 3.84 , respectively, per share, using the Black-Scholes option pricing model with the following assumptions:
+Three Months Ended January 31,
+2023
+2022
+Risk-free interest rate
+3.76
+%
+1.23
+%
+Dividend yield
+0.00
+%
+0.00
+%
+Expected life of the option (years)
+7.00
+7.00
+Volatility factor
+54.30
+%
+53.35
+%
+Expected volatilities are based on historical volatility of our stock price and other factors. We used the historical method to calculate the expected life of the 2023 and 2022 option grants. The expected life represents the period of time that options granted are expected to be outstanding. The risk-free rate is based on the U.S. Treasury rate with a maturity date corresponding to the options’ expected life. The dividend yield is based upon the historical dividend yield.
+Company stock option plans
+Descriptions of our stock option plans are included in Note 9 of our Annual Report on Form 10-K for the year ended October 31, 2022. A summary of the status of the options granted under our stock option plans as of January 31, 2023 and the changes in options outstanding during the three months then ended is presented in the table that follows:
+Weighted
+Average
+Shares
+Exercise Price
+Outstanding at November 1, 2022
+691,005
+$
+5.87
+Options granted
+158,181
+$
+5.46
+Options exercised
+( 45,000
+)
+$
+1.90
+Options cancelled
+-
+$
+-
+Options outstanding at January 31, 2023
+804,186
+$
+6.01
+Options exercisable at January 31, 2023
+385,216
+$
+6.69
+Options vested and expected to vest at January 31, 2023
+798,697
+$
+6.02
+Weighted average remaining contractual life of options outstanding as of January 31, 2023:
+7.18
+years
+Weighted average remaining contractual life of options exercisable as of January 31, 2023:
+6.09
+years
+Weighted average remaining contractual life of options vested and expected to vest as of January 31, 2023:
+7.18
+years
+Aggregate intrinsic value of options outstanding at January 31, 2023: $ 341,674
+Aggregate intrinsic value of options exercisable at January 31, 2023: $ 124,696
+Aggregate intrinsic value of options vested and expected to vest at January 31, 2023: $ 337,451
+As of January 31, 2023, $ 1,096,683
+and $ 777,069
+of expenses with respect to nonvested stock options and restricted shares, respectively, has yet to be recognized but is expected to be recognized over a weighted average period of
+2.83
+and
+1.32
+years, respectively.
+11
+Stock option expense
+During the three months ended January 31, 2023 and 2022, stock-based compensation expense totaled $ 212,000
+and $ 139,000 , respectively, and was classified in selling and general expense.
+Note 9
+–
+Segment information
+We aggregate operating divisions into
+two
+reporting segments that have similar economic characteristics primarily in the following areas: (1) the nature of the product and services; (2) the nature of the production process; (3) the type or class of customer for their products and services; (4) the methods used to distribute their products or services; and (5) if applicable, the nature of the regulatory environment. Based upon this evaluation, as of January 31, 2023, we had
+two
+reportable segments – RF Connector and Cable Assembly (“RF Connector”) segment and Custom Cabling Manufacturing and Assembly (“Custom Cabling”) segment.
+The RF Connector segment consists of two divisions and the Custom Cabling segment consists of four divisions. The six divisions that met the quantitative thresholds for segment reporting are the RF Connector and Cable Assembly division (“RF Connector division”), Cables Unlimited, Rel-Tech, C Enterprises, Schrofftech, and Microlab. While each segment has similar products and services, there was little overlapping of these services to their customer base. The biggest difference in segments is in the channels of sales: sales or product and services for the RF Connector segment were primarily through the distribution channel, while the Custom Cabling segment sales were through a combination of distribution and direct to the end user.
+Management identifies segments based on strategic business units that are, in turn, based along market lines. These strategic business units offer products and services to different markets in accordance with their customer base and product usage. For segment reporting purposes, the RF Connector and Microlab divisions constitutes the RF Connector segment, and the Cables Unlimited, Rel-Tech, C Enterprises, and Schrofftech divisions constitute the Custom Cabling segment.
+We evaluate the performance of each segment based on income or loss before income taxes. We charge depreciation and amortization directly to each division within the segment. Accounts receivable, inventory, property and equipment, right of use assets, goodwill and intangible assets are the only assets identified by segment. Except as discussed above, the accounting policies for segment reporting are the same for the Company as a whole.
+All of our operations are conducted in the United States; however, we derive a portion of our revenue from export sales. We attribute sales to geographic areas based on the location of the customers. The following table presents the sales by geographic area for the years ended January 31, 2023 and 2022 (in thousands):
+Three Months Ended January 31,
+2023
+2022
+United States
+$
+16,104
+$
+16,418
+Foreign Countries:
+Canada
+584
+297
+Italy
+1,098
+-
+Mexico
+1
+25
+All Other
+556
+178
+2,239
+500
+Totals
+$
+18,343
+$
+16,918
+12
+Net sales, income (loss) before benefit for income taxes and other related segment information for the three months ended January 31, 2023 and 2022 are as follows (in thousands):
+RF Connector
+Custom Cabling
+and
+Manufacturing and
+2023
+Cable Assembly
+Assembly
+Corporate
+Total
+Net sales
+$
+9,057
+$
+9,286
+$
+-
+$
+18,343
+Income (loss) before benefit for income taxes
+246
+( 921
+)
+( 647
+)
+( 1,322
+)
+Depreciation and amortization
+394
+147
+-
+541
+Total assets
+50,973
+24,966
+9,201
+85,140
+2022
+Net sales
+$
+3,923
+$
+12,995
+$
+-
+$
+16,918
+Income (loss) before provision for income taxes
+56
+314
+( 727
+)
+( 357
+)
+Depreciation and amortization
+37
+143
+-
+180
+Total assets
+7,572
+24,635
+17,529
+49,736
+Note 10
+–
+Income taxes
+We use an estimated annual effective tax rate, which is based on expected annual income, statutory tax rates and tax planning opportunities available in the various jurisdictions in which we operate, to determine the quarterly provision (benefit) for income taxes. Certain significant or unusual items are separately recognized in the quarter in which they occur and can be a source of variability in the effective tax rates from quarter to quarter.
+We recorded income tax benefits of $ 160,000  and $ 80,000  for the three months ended January 31, 2023 and 2022, respectively. The effective tax rate was
+12.3 % for the three months ended January 31, 2023, compared to
+22.3 % for the three months ended January 31, 2022 was primarily driven by the increased benefit from research and development tax credits.
+We had $ 199,000
+and $ 121,000
+of unrecognized tax benefits, inclusive of interest and penalties, as of January 31, 2023 and October 31, 2022, respectively. The unrecognized tax benefits, if recognized, would result in a net tax benefit of $ 195,000
+as of January 31, 2023.
+13
+Note 11
+–
+Intangible assets
+Intangible assets consist of the following (in thousands):
+January 31, 2023
+October 31, 2022
+Amortizable intangible assets:
+Non-compete agreement (estimated life
+5
+years)
+$
+423
+$
+423
+Accumulated amortization
+( 345
+)
+( 334
+)
+78
+89
+Customer relationships (estimated lives
+7
+-
+15
+years)
+6,058
+6,058
+Accumulated amortization
+( 3,170
+)
+( 3,074
+)
+2,888
+2,984
+Backlog (estimated life
+1
+-
+2
+years)
+327
+327
+Accumulated amortization
+( 323
+)
+( 313
+)
+4
+14
+Patents (estimated life
+10
+-
+14
+years)
+368
+368
+Accumulated amortization
+( 151
+)
+( 143
+)
+217
+225
+Tradename (estimated life
+15
+years)
+1,700
+1,700
+Accumulated amortization
+( 104
+)
+( 76
+)
+1,596
+1,624
+Proprietary Technology (estimated life
+10
+years)
+11,100
+11,100
+Accumulated amortization
+( 1,018
+)
+( 740
+)
+10,082
+10,360
+Totals
+$
+14,865
+$
+15,296
+Non-amortizable intangible assets:
+Trademarks
+$
+1,174
+$
+1,174
+Amortization expense for the three months ended January 31, 2023 and the year ended October 31, 2022 was $ 431,000
+and $ 1,282,000 , respectively. As of January 31, 2023, the weighted-average amortization period for the amortizable intangible assets is
+9.25
+years.
+Note 12
+–
+Commitments
+We have operating leases for corporate offices, manufacturing facilities, and certain storage units. Our leases have remaining lease terms of
+one
+year to
+three
+years, some of which include options to extend the leases for up to
+five
+years. A portion of our operating leases are leased from K&K Unlimited, a company controlled by Darren Clark, the former owner and current President of Cables Unlimited, to whom we make rent payments totaling $ 16,000
+per month.
+We also have other operating leases for certain equipment. The components of our facilities and equipment operating lease expenses for the period ending January 31, 2023 were as follows (in thousands):
+Three Months Ended
+January 31, 2023
+Operating lease cost
+$
+762
+14
+Other information related to leases was as follows (in thousands):
+January 31, 2023
+October 31, 2022
+Supplemental Cash Flows Information
+ROU assets obtained in exchange for lease obligations:
+Operating leases
+$
+-
+$
+13,352
+Weighted Average Remaining Lease Term
+Operating leases (in months)
+113.94
+113.72
+Weighted Average Discount Rate
+Operating leases
+3.75
+%
+3.75
+%
+Future minimum lease payments under non-cancellable leases as of January 31, 2023 were as follows:
+Year ending October 31,
+Operating Leases
+2023 (excluding three months ended January 31, 2023)
+$
+1,810
+2024
+1,991
+2025
+1,796
+2026
+1,835
+2027
+1,874
+Thereafter
+10,618
+Total future minimum lease payments
+19,924
+Less imputed interest
+( 3,330
+)
+Total
+$
+16,594
+Reported as of January 31, 2023
+Operating Leases
+Other current liabilities
+$
+1,728
+Operating lease liabilities
+14,866
+Total
+$
+16,594
+As of January 31, 2023, operating lease ROU asset was $ 12.7
+million and operating lease liability totaled $ 16.5
+million, of which $ 1.7
+million is classified as current. There were
+no
+finance leases as of January 31, 2023.
+The Schrofftech facilities, consisting of
+two
+buildings for a total of
+10,700
+square feet, are leased by RF Industries, Ltd. under
+two
+leases that were renewed effective February 1, 2022 for
+two
+years expiring January 31, 2024. The aggregate monthly rental payment under the new leases currently is $ 6,720
+per month.
+Note 13
+–
+Term Loan and Line of credit
+In February 2022, we entered into an agreement for a revolving line of credit (the “Revolving Credit Facility”) in the amount of $ 3.0
+million and a $ 17.0
+million term loan (the “Term Loan”, and together with the Revolving Credit Facility, the “Credit Facility”). Amounts outstanding under the Revolving Credit Facility shall bear interest at a rate of
+2.0 % plus the Bloomberg Short-Term Bank Yield Index Rate (“base interest rate”). The maturity date of the Revolving Credit Facility is March 1, 2024. The Company drew down the entire amount of the Term Loan on March 1, 2022. The primary interest rate for Term Loan is
+3.76 % per annum. The maturity date of the Term Loan is March 1, 2027.
+Borrowings under the Credit Facility are secured by a security interest in certain assets of the Company and contains certain loan covenants. The Credit Facility requires the maintenance of certain financial covenants, including: (i) consolidated debt to EBITDA ratio not to exceed
+3.00
+to 1.00; (ii) consolidated fixed charge coverage ratio of at least
+1.25
+to 1.00; and (iii) consolidated minimum EBITDA of at least $ 600,000
+for the discrete quarter ending January 31, 2022. In addition, the Credit Facility contains customary affirmative and negative covenants.
+As of January 31, 2023, we have borrowed $ 14,980,000
+under the Term Loan while we have
+not
+borrowed any amounts under the Revolving Credit Facility.
+15
+Note 14
+–
+Cash dividend and declared dividends
+We did
+not
+pay any dividends during the three months ended January 31, 2023,
+nor
+did we pay any dividends during the three months ended January 31, 2022.
+Item 2:
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+This report contains forward-looking statements. These statements relate to future events or our future financial performance. In some cases, you can identify forward-looking statements by terminology such as “may,” “will,” “should,” “except,” “plan,” “anticipate,” “believe,” “estimate,” “predict,” “potential” or “continue,” the negative of such terms or other comparable terminology. These statements are only predictions. Actual events or results may differ materially.
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Moreover, neither the Company, nor any other person, assumes responsibility for the accuracy and completeness of the forward-looking statements. We are under no obligation to update any of the forward-looking statements after the filing of this Quarterly Report on Form 10-Q to conform such statements to actual results or to changes in its expectations.
+The following discussion should be read in conjunction with our unaudited condensed consolidated financial statements and the related notes and other financial information appearing elsewhere in this Form 10-Q. Readers are also urged to carefully review and consider the various disclosures made by the Company which attempt to advise interested parties of the factors which affect our business, including without limitation the disclosures made under the caption  “ Management ’ s Discussion and Analysis of Financial Condition and Results of Operations, ”  under the caption  “ Risk Factors, ”  and the audited consolidated financial statements and related notes included in our Annual Report filed on Form 10-K for the year ended October 31, 2022 and other reports and filings made with the Securities and Exchange Commission.
+Critical Accounting Policies
+Our unaudited condensed consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”). The preparation of these consolidated financial statements requires us to make significant estimates and judgments that affect the reported amounts of assets, liabilities, revenues, expenses and related disclosure of contingent assets and liabilities. We evaluate our estimates, including those related to bad debts, inventory reserves, earn-out liabilities, and contingencies on an ongoing basis. We base our estimates on historical experience and on various other assumptions that are believed to be appropriate under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+Inventories
+Inventories are stated at the lower of cost or net realizable value, with cost determined using the weighted average cost method of accounting. Certain items in inventory may be considered obsolete or excess and, as such, we periodically review our inventories for excess and slow moving items and make provisions as necessary to properly reflect inventory value. Because inventories have, during the past few years, represented up to one-fourth of our total assets, any reduction in the value of our inventories would require us to take write-offs that would affect our net worth and future earnings.
+Allowance for Doubtful Accounts
+We record an allowance for doubtful accounts based upon our assessment of various factors. We consider historical experience, the age of the accounts receivable balance, credit quality of our customers, current economic conditions and other factors that may affect a customer’s ability to pay.
+Long-Lived Assets Including Goodwill
+We assess property, plant and equipment and intangible assets, which are considered definite-lived assets, for impairment. Definite-lived assets are reviewed when there is evidence that events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. We measure recoverability of these assets by comparing the carrying amounts to the future undiscounted cash flows the assets are expected to generate. If property and equipment and intangible assets are considered to be impaired, the impairment to be recognized equals the amount by which the carrying value of the asset exceeds its fair market value.
+We amortize our intangible assets with definite useful lives over their estimated useful lives and review these assets for impairment.
+We test our goodwill and trademarks and indefinite-lived assets for impairment at least annually or more frequently if events or changes in circumstances indicate these assets may be impaired. These events or circumstances require significant judgment and could include a significant change in the business climate, legal factors, operating performance indicators, competition and sale or disposition of all or a portion of a division. This analysis requires significant judgments, including estimation of future cash flows, which is dependent on internal forecasts, estimation of the long-term rate of growth for our business, estimation of the useful life over which cash flows will occur, and determination of our weighted average cost of capital.
+16
+Income Taxes
+We record a tax provision for the anticipated tax consequences of the reported results of operations. Income taxes are accounted for under the asset and liability method, under which deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating losses and tax credit carryforwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates as of the date of the financial statements that apply to taxable income in effect for the years in which those tax assets are expected to be realized or settled. We record a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized.
+The calculation of the tax provision involves significant judgment in estimating the impact of uncertainties in the application of GAAP and complex tax laws. Resolution of these uncertainties in a manner inconsistent with management’s expectations could have a material impact on our financial condition and operating results.
+Stock-based Compensation
+We use the Black-Scholes model to value the stock option grants. This valuation is affected by our stock price as well as assumptions regarding a number of inputs which involve significant judgments and estimates. These inputs include the expected term of employee stock options, the expected volatility of the stock price, the risk-free interest rate and expected dividends.
+Overview
+RF Industries, Ltd. (together with subsidiaries, the “Company”, “we”, “us”, or “our”) is a national manufacturer and marketer of interconnect products and systems, including high-performance components such as RF connectors and adapters, dividers, directional couplers and filters, coaxial cables, data cables, wire harnesses, fiber optic cables, custom cabling, energy-efficient cooling systems and integrated small cell enclosures. Through our manufacturing and production facilities, we provide a wide selection of interconnect products and solutions primarily to telecommunications carriers and equipment manufacturers, wireless and network infrastructure carriers and manufacturers and to various original equipment manufacturers (“OEMs”) in several market segments. We also design, engineer, manufacture and sell energy-efficient cooling systems and integrated small cell solutions and related components.
+We operate through two reporting segments: (i) the RF Connector and Cable Assembly (“RF Connector”) segment, and (ii) the Custom Cabling Manufacturing and Assembly (“Custom Cabling”) segment. The RF Connector segment primarily designs, manufactures, markets and distributes a broad range of RF connector, adapter, coupler, divider, and cable products, including coaxial passives and cable assemblies that are used in telecommunications and information technology, OEM markets and other end markets. The Custom Cabling segment designs, manufactures, markets and distributes custom copper and fiber cable assemblies, complex hybrid fiber optic and power solution cables, electromechanical wiring harnesses, wiring harnesses for a broad range of applications in a diverse set of end markets, energy-efficient cooling systems for wireless base stations and remote equipment shelters and custom designed, pole-ready 4G and 5G small cell integrated enclosures.
+For the three months ended January 31, 2023, approximately half of our revenues were generated from the Custom Cabling segment from the sale of fiber optics cable, copper cabling, custom patch cord assemblies, and wiring harnesses, which collectively accounted for 51% of the Company’s total sales. Revenues from the RF Connector segment were generated from the sales of RF connector products and cable assemblies and accounted for 49% of total sales for the three months ended January 31, 2023. The RF Connector segment mostly sells standardized products regularly used by customers and, therefore, has a more stable revenue stream. On the other hand, the Custom Cabling segment mostly designs, manufactures, and sells customized cabling and wireless-related equipment under larger purchase orders. Accordingly, the Custom Cabling segment is more dependent upon larger orders, and its revenues are therefore, more volatile than the revenues of the RF Connector segment.
+We recently moved into new corporate headquarters located at 16868 Via Del Campo Court, Suite 200, San Diego, CA 92127. Our phone number remains (858) 549-6340.
+Liquidity and Capital Resources
+Historically, we have been able to fund our liquidity and other capital requirements from funds we generated from operations. On March 1, 2022, we acquired Microlab. In connection with the purchase of Microlab, we entered into the Credit Facility and borrowed the full $17 million amount available under the Term Loan. As of the date of this report, we have not borrowed any amounts under the Revolving Credit Facility. We believe that our existing assets and the cash we expect to generate from operations (including those of Microlab) and from our current backlog of unfulfilled orders, will be sufficient to fund our liquidity needs during the next 12 months from the date of this filing based on the following:
+As of January 31, 2023, we had a total of $3.8 million of cash and cash equivalents compared to a total of $4.5 million of cash and cash equivalents as of October 31, 2022. As of January 31, 2023, we had working capital of $25.1 million and a current ratio of approximately 2.5:1 with current assets of $41.8 million and current liabilities of $16.7 million. On March 1, 2022, we used $7.3 million of our cash to fund a portion of the purchase price paid to acquire Microlab. Nevertheless, we believe that the amount of cash remaining, plus the amount available to us under the Revolving Credit Facility, will be sufficient to fund our anticipated liquidity needs.
+17
+As of January 31, 2023, we had $24.5 million of backlog, compared to $27.8 million as of October 31, 2022. The decrease in backlog relates primarily to shipments made against orders for our hybrid fiber cables. Since purchase orders are submitted from customers based on the timing of their requirements, our ability to predict orders in future periods or trends in future periods is limited. Furthermore, purchase orders may be subject to cancellation from customers, although we have not historically experienced material cancellations of purchase orders.
+In the three months ended January 31, 2023, we generated $0.9 million of cash in our operating activities. This net inflow of cash is primarily related to an increase in other current assets of $2.7 million, the increase in deferred revenue of $1.1 million, the collections of accounts receivable of $0.8 million, $0.5 million from depreciation and amortization, and $0.2 million from stock-based compensation expense. The cash usage was primarily due to accrued expenses of $3.2 million, payments made to our accounts payable $0.8 million and our net loss of $1.2 million. The cash generated by other current assets represents $2.7 million which primarily consists of $1.5 million of reimbursement for tenant improvements and $1.2 million received from ERC.
+During the three months ended January 31, 2023, we also spent $1.1 million on capital expenditures, and $0.6 million in Term Loan payments. The cash used in operating activities and the amounts spent on capital expenditures were partially offset by $0.1 million of proceeds that we received from the exercise of stock options.
+Our goal to expand and grow our business both organically and through acquisitions may require material additional capital equipment. In the past, we have purchased all additional equipment, or financed some of our equipment and furnishings requirements through capital leases. At this time, we have not identified any additional capital equipment purchases that would require significant additional leasing or capital expenditures during the next 12 months. We also believe that based on our current financial condition, our current backlog of unfulfilled orders and our anticipated future operations, we would be able to finance our expansion, if necessary.
+From time to time, we may undertake acquisitions of other companies or product lines in order to diversify our product and solutions offerings and customer base. Conversely, we may undertake the disposition of a division or product line due to changes in our business strategy or market conditions. Acquisitions may require the outlay of cash, which may reduce our liquidity and capital resources while dispositions may increase our cash position, liquidity and capital resources. Since our goal is to continue to expand our operations and accelerate our growth through future acquisitions, we may use some of our current capital resources to fund any acquisitions we may undertake in the future.
+Results of Operations
+Three Months Ended January 31, 2023 vs. Three Months Ended January 31, 2022
+Net sales for the three months ended January 31, 2023 (the “fiscal 2023 quarter”) increased by 8.4%, or $1.4 million, to $18.3 million as compared to the three months ended January 31, 2022 (the “fiscal 2022 quarter”). Net sales for the fiscal 2023 quarter at the Custom Cabling segment decreased by $3.7 million, or 28.5%, to $9.3 million, compared to $13.0 million in the fiscal 2022 quarter. The decrease was primarily the result of decreases in sales to customers in the Tier-1 wireless carrier ecosystem related to our small cell products and systems and our hybrid fiber cables compared to the prior year first quarter. Net sales for the fiscal 2023 quarter at the RF Connector segment increased by $5.2 million, or 130.9%, to $9.1 million as compared to $3.9 million in the fiscal 2022 quarter, primarily due to the addition of Microlab which accounted for $5.1 million in sales.
+Gross profit for the fiscal 2023 quarter increased by $1.0 million to $5.1 million due to the increase in net sales, and gross margins increased to 27.7% of sales compared to 24.1% of sales in the fiscal 2022 quarter. This is primarily driven by the addition of Microlab.
+Engineering expenses increased by $0.5 million to $1.0 million in the fiscal 2023 quarter compared to $0.5 million in the fiscal 2022 quarter primarily due to the addition of Microlab which accounted for $0.3 million of the increase. We also incurred additional engineering expenses during the quarter related to the engineering efforts associated with our integrated systems products. Engineering expenses represent costs incurred relating to the ongoing research and development of current and new products.
+Selling and general expenses increased by $1.3 million to $5.3 million (28.9% of sales) compared to $4.0 million (23.6% of sales) in the first quarter last year primarily due to Microlab expenses of $1.3 million. We also incurred a one-time expense related to severance of $50,000 and additional rent expense of $444,000 (of which $387,000 was non-cash) related to lease accounting in the fiscal 2023 quarter.
+For the fiscal 2023 quarter, the Custom Cabling segment had a pretax loss of $921,000 while the RF Connector segment had pretax income of $246,000, as compared to $314,000 income and $56,000 of income, respectively, for the comparable first quarter last year. The increase in the pretax net income at the RF Connector segment was primarily due to the acquisition of Microlab. The decrease in pretax income at the Custom Cabling segment was due primarily to the decrease in sales of hybrid fiber cables to a tier-1 wireless customer and a decrease in sales of small cell products and systems to customers in the Tier-1 wireless ecosystem.
+18
+The benefit for income taxes was 12% and 22% of loss before income taxes for the fiscal 2023 quarter and the fiscal 2022 quarter, respectively. The change in the effective tax rate from the fiscal 2022 quarter to fiscal 2023 quarter was primarily driven by the disproportionate impact of various permanent book-tax differences with respect to our forecasted book income or loss in each period.
+For the fiscal 2023 quarter, net loss was $1.2 million and fully diluted loss per share was $0.11 per share, compared to a net loss of $277,000 and fully diluted loss per share of $0.03 per share for the fiscal 2022 quarter. For the fiscal 2023 quarter, the diluted weighted average shares outstanding was 10,222,540 as compared to 10,067,186 for the fiscal 2022 quarter.
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+Not applicable.
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+We maintain disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e)) that are designed to assure that information required to be disclosed in our Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms, and that such information is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures.
+In designing and evaluating the disclosure controls and procedures, we recognize that any controls and procedures, no matter how well designed and operated, can provide reasonable assurance only of achieving the desired control objectives, and we necessarily are required to apply our judgment in weighing the costs and benefits of possible new or different controls and procedures. Limitations are inherent in all control systems, so no evaluation of controls can provide absolute assurance that all control issues and any fraud have been detected. Because of the inherent limitations, we regularly review our system of internal control over financial reporting and make changes to our processes and systems to improve controls and increase efficiency, and to maintain an effective internal control environment. Changes may include such activities as implementing new, more efficient systems, consolidating activities, and migrating processes.
+As described throughout our quarterly report, during the quarter ended April 30, 2022, we acquired Microlab, which is now a wholly owned subsidiary of RF Industries. We are currently integrating policies, processes, technology, and operations for the consolidated company and will continue to evaluate our internal control over financial reporting as we develop and execute our integration plans. Until we are fully integrated, we will maintain the operational integrity of each division’s internal control over financial reporting.
+As required by Exchange Act Rule 13a-15(b), as of the end of the period covered by this report, we, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures. Based on this evaluation, we concluded that our disclosure controls and procedures were effective as of that date.
+Changes in Internal Control Over Financial Reporting
+During the first quarter of fiscal 2023, there were no changes in the internal control over financial reporting as such term is defined in Rule 13a-15(f) of the exchange Act, that materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Part II. OTHER INFORMATION
+Item 1. Legal Proceedings
+From time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business. Litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business. As of the date of this report, we are not subject to any proceeding that is not in the ordinary course of business or that is material to the financial condition of our business.
+Item 1A. Risk Factors
+Our business, financial condition, and operating results are affected by a number of factors, whether currently known or unknown, including risks specific to us or the interconnect industry, as well as risks that affect businesses in general. In addition to the information and risk factors set forth in this Quarterly Report on Form 10-Q, you should carefully consider the factors discussed in Part I, Item 1A, “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended October 31, 2022, filed with the SEC on January 24, 2023. The risks disclosed in such Annual Report and in this Quarterly Report could materially adversely affect our business, financial condition, cash flows, or results of operations and thus our stock price. We believe there have been no material changes in our risk factors from those disclosed in the Annual Report. However, additional risks and uncertainties not currently known or which we currently deem to be immaterial may also materially adversely affect our business, financial condition, or results of operations.
+These risk factors may be important to understanding other statements in this Quarterly Report and should be read in conjunction with the consolidated financial statements and related notes in Part I, Item 1, “Financial Statements” and Part I, Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Quarterly Report on Form 10-Q. Because of such risk factors, as well as other factors affecting the Company’s financial condition and operating results, past financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical trends to anticipate results or trends in future periods.
+19
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+The following table sets forth information regarding the shares of common stock cancelled, and deemed to have been repurchased, during the three months ended January 31, 2023 in connection with employee tax withholding for shares of restricted stock that vested under our 2020 Equity Incentive Plan.
+Period
+Total
+number of
+shares
+purchased
+Average
+price paid
+per share
+Total number of shares purchased as part of publicly announced plans or programs
+Approximate dollar value of shares that may yet be purchased under the plans or programs
+November 2022
+-
+$
+-
+-
+$
+-
+December 2022
+-
+$
+-
+-
+$
+-
+January 2023
+1,312
+$
+5.46
+-
+$
+-
+Item 3. Defaults upon Senior Securities
+Nothing to report.
+Item 4. Mine Safety Disclosures
+Nothing to report.
+Item 5. Other Information
+Nothing to report.
+Item 6. Exhibits
+Exhibit
+Number
+31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+Inline XBRL Instance Document.
+101.SCH
+Inline XBRL Taxonomy Schema.
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase.
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase.
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase.
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+20
+SIGNATURES
+In accordance with the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+RF INDUSTRIES, LTD.
+Date: March 13, 2023
+By:
+/s/ Robert Dawson
+Robert Dawson
+President and Chief Executive Officer
+(Principal Executive Officer)
+Date: March 13, 2023
+By:
+/s/ Peter Yin
+Peter Yin
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+21

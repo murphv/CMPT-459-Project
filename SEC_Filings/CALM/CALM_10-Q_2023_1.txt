@@ -1,0 +1,2749 @@
+120000
+70261
+0.01
+0.01
+4800
+4800
+4800
+--06-03
+—
+—
+0.3333
+☑
+P91D
+P91D
+P273D
+P273D
+0000016160
+2022-05-29
+2023-02-25
+0000016160
+2023-02-25
+0000016160
+2022-05-28
+0000016160
+calm:NonSpecialtyShellEggSalesMember
+2022-11-27
+2023-02-25
+0000016160
+calm:SpecialtyShellEggSalesMember
+2022-11-27
+2023-02-25
+0000016160
+calm:EggProductsMember
+2022-11-27
+2023-02-25
+0000016160
+calm:OtherMember
+2022-11-27
+2023-02-25
+0000016160
+calm:NonSpecialtyShellEggSalesMember
+2021-11-28
+2022-02-26
+0000016160
+calm:SpecialtyShellEggSalesMember
+2021-11-28
+2022-02-26
+0000016160
+calm:EggProductsMember
+2021-11-28
+2022-02-26
+0000016160
+calm:OtherMember
+2021-11-28
+2022-02-26
+0000016160
+2021-05-30
+2022-02-26
+0000016160
+2022-11-27
+2023-02-25
+0000016160
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:CommonStockMember
+2023-02-25
+0000016160
+us-gaap:CommonStockMember
+2022-05-28
+0000016160
+us-gaap:CommonClassAMember
+2023-02-25
+0000016160
+us-gaap:CommonClassAMember
+2022-05-28
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2022-11-26
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2023-02-25
+0000016160
+us-gaap:TreasuryStockMember
+2022-11-26
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2022-11-26
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-11-26
+0000016160
+us-gaap:RetainedEarningsMember
+2022-11-26
+0000016160
+us-gaap:NoncontrollingInterestMember
+2022-11-26
+0000016160
+us-gaap:TreasuryStockMember
+2023-02-25
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2023-02-25
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-02-25
+0000016160
+us-gaap:RetainedEarningsMember
+2023-02-25
+0000016160
+us-gaap:NoncontrollingInterestMember
+2023-02-25
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:RetainedEarningsMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:NoncontrollingInterestMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2022-02-26
+0000016160
+us-gaap:TreasuryStockMember
+2022-02-26
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2022-02-26
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-02-26
+0000016160
+us-gaap:RetainedEarningsMember
+2022-02-26
+0000016160
+2022-02-26
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:RetainedEarningsMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:TreasuryStockMember
+2021-11-27
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2021-11-27
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-11-27
+0000016160
+us-gaap:RetainedEarningsMember
+2021-11-27
+0000016160
+2021-11-27
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2021-11-27
+0000016160
+calm:CreditAgreementMember
+us-gaap:StandbyLettersOfCreditMember
+2023-02-25
+0000016160
+2021-05-29
+0000016160
+us-gaap:MunicipalBondsMember
+2023-02-25
+0000016160
+us-gaap:CommercialPaperMember
+2023-02-25
+0000016160
+us-gaap:CorporateDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:AssetBackedSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:MutualFundMember
+2023-02-25
+0000016160
+us-gaap:MutualFundMember
+2022-05-28
+0000016160
+us-gaap:MunicipalBondsMember
+2022-05-28
+0000016160
+us-gaap:CommercialPaperMember
+2022-05-28
+0000016160
+us-gaap:CorporateDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:CertificatesOfDepositMember
+2022-05-28
+0000016160
+us-gaap:AssetBackedSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:MunicipalBondsMember
+2022-05-28
+0000016160
+us-gaap:MunicipalBondsMember
+us-gaap:FairValueInputsLevel2Member
+2022-05-28
+0000016160
+us-gaap:MunicipalBondsMember
+us-gaap:FairValueInputsLevel3Member
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommercialPaperMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommercialPaperMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommercialPaperMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CorporateDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CorporateDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CorporateDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CertificatesOfDepositMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CertificatesOfDepositMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CertificatesOfDepositMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:MutualFundMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:MutualFundMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MutualFundMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel2Member
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel3Member
+2022-05-28
+0000016160
+us-gaap:MunicipalBondsMember
+2022-05-28
+0000016160
+us-gaap:CommercialPaperMember
+2022-05-28
+0000016160
+us-gaap:CorporateDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:CertificatesOfDepositMember
+2022-05-28
+0000016160
+us-gaap:AssetBackedSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:MutualFundMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:MunicipalBondsMember
+2023-02-25
+0000016160
+us-gaap:MunicipalBondsMember
+us-gaap:FairValueInputsLevel2Member
+2023-02-25
+0000016160
+us-gaap:MunicipalBondsMember
+us-gaap:FairValueInputsLevel3Member
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CommercialPaperMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CommercialPaperMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CommercialPaperMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CorporateDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CorporateDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CorporateDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:AssetBackedSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:AssetBackedSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:AssetBackedSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:MutualFundMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:MutualFundMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MutualFundMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel1Member
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel2Member
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel3Member
+2023-02-25
+0000016160
+us-gaap:MunicipalBondsMember
+2023-02-25
+0000016160
+us-gaap:CommercialPaperMember
+2023-02-25
+0000016160
+us-gaap:CorporateDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:AssetBackedSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:MutualFundMember
+2023-02-25
+0000016160
+us-gaap:CommonStockMember
+2021-11-27
+0000016160
+us-gaap:CommonStockMember
+2022-02-26
+0000016160
+us-gaap:TreasuryStockMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:TreasuryStockMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:USTreasuryBillSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:PendingLitigationMember
+calm:StateOfTexasVCalMaineFoodsIncDbaWhartonAndWhartonCountyFoodsLLCMember
+2020-04-23
+2020-04-23
+0000016160
+calm:BentonCountyFoodsMember
+2022-02-26
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2022-05-28
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:USGovernmentAgenciesShorttermDebtSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel1Member
+us-gaap:USTreasuryBillSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel2Member
+us-gaap:USTreasuryBillSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:FairValueInputsLevel3Member
+us-gaap:USTreasuryBillSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:USTreasuryBillSecuritiesMember
+2023-02-25
+0000016160
+us-gaap:CommonStockMember
+2023-03-28
+0000016160
+us-gaap:CommonClassAMember
+2023-03-28
+0000016160
+us-gaap:PendingLitigationMember
+srt:MinimumMember
+calm:BellEtAlVCalMaineFoodsEtAlMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:PendingLitigationMember
+calm:BellEtAlVCalMaineFoodsEtAlMember
+srt:MaximumMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:RetainedEarningsMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:CommonClassAMember
+2022-11-27
+2023-02-25
+0000016160
+2022-11-26
+0000016160
+us-gaap:CommonStockMember
+2022-11-26
+0000016160
+us-gaap:CommonStockMember
+2023-02-25
+0000016160
+us-gaap:CommonStockMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:RetainedEarningsMember
+us-gaap:CommonStockMember
+2022-11-27
+2023-02-25
+0000016160
+us-gaap:CommonStockMember
+2022-05-28
+0000016160
+us-gaap:TreasuryStockMember
+2022-05-28
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:TreasuryStockMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:RetainedEarningsMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:NoncontrollingInterestMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2022-05-28
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-05-28
+0000016160
+us-gaap:RetainedEarningsMember
+2022-05-28
+0000016160
+us-gaap:NoncontrollingInterestMember
+2022-05-28
+0000016160
+us-gaap:RetainedEarningsMember
+us-gaap:CommonStockMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:CommonStockMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:RetainedEarningsMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:CommonClassAMember
+2022-05-29
+2023-02-25
+0000016160
+us-gaap:NoncontrollingInterestMember
+2021-11-27
+0000016160
+us-gaap:NoncontrollingInterestMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:NoncontrollingInterestMember
+2022-02-26
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2022-05-28
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2021-05-29
+0000016160
+us-gaap:CommonStockMember
+2021-05-29
+0000016160
+us-gaap:TreasuryStockMember
+2021-05-29
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2021-05-29
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-05-29
+0000016160
+us-gaap:RetainedEarningsMember
+2021-05-29
+0000016160
+us-gaap:NoncontrollingInterestMember
+2021-05-29
+0000016160
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:TreasuryStockMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:AdditionalPaidInCapitalMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:NoncontrollingInterestMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:RetainedEarningsMember
+2021-05-30
+2022-02-26
+0000016160
+calm:NonSpecialtyShellEggSalesMember
+2022-05-29
+2023-02-25
+0000016160
+calm:NonSpecialtyShellEggSalesMember
+2021-05-30
+2022-02-26
+0000016160
+calm:SpecialtyShellEggSalesMember
+2022-05-29
+2023-02-25
+0000016160
+calm:SpecialtyShellEggSalesMember
+2021-05-30
+2022-02-26
+0000016160
+calm:EggProductsMember
+2022-05-29
+2023-02-25
+0000016160
+calm:EggProductsMember
+2021-05-30
+2022-02-26
+0000016160
+calm:OtherMember
+2022-05-29
+2023-02-25
+0000016160
+calm:OtherMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:CommonStockMember
+us-gaap:RetainedEarningsMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:CommonStockMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:RetainedEarningsMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:CommonClassAMember
+2021-11-28
+2022-02-26
+0000016160
+us-gaap:CommonStockMember
+us-gaap:RetainedEarningsMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:CommonStockMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:CommonClassAMember
+us-gaap:RetainedEarningsMember
+2021-05-30
+2022-02-26
+0000016160
+us-gaap:CommonClassAMember
+2021-05-30
+2022-02-26
+iso4217:USD
+xbrli:pure
+xbrli:shares
+iso4217:USD
+xbrli:shares
+dummy:Layers
+dummy:pullet_and_breeder
+iso4217:USD
+dummy:Claim
+Index 1
+UNITED STATES   SECURITIES AND EXCHANGE COMMISSION
+Washington,   DC   20549
+FORM
+10-Q   ☑   Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange   Act of 1934
+For the quarterly period ended
+February 25, 2023   or
+☐   Transition report pursuant to Section 13 or 15(d)   of the Securities Exchange Act of 1934
+For the transition period from ____________ to ____________
+Commission File Number:   001-38695   CAL-MAINE FOODS, INC. (Exact name of registrant as specified in its charter)
+Delaware   64-0500378 (State or other jurisdiction of incorporation or organization)
+(I.R.S Employer Identification No.)
+1052 Highland Colony Pkwy ,
+Suite 200 ,
+Ridgeland ,
+Mississippi   39157   (Address of principal executive offices)   (Zip Code)
+( 601 )
+948-6813   (Registrant’s telephone number,   including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share CALM The
+NASDAQ   Global Select Market
+Indicate   by   check   mark   whether   the   registrant:   (1)   has   filed   all   reports   required   to   be   filed   by   Section   13   or   15(d)   of   the
+Securities Exchange   Act of 1934   during the preceding   12 months (or   for such   shorter period that   the registrant was   required to
+file such reports), and (2) has been subject to such filing requirements for the past   90 days.
+Yes ☑   No
+☐ Indicate by check   mark whether the   registrant has submitted   electronically every   Interactive Data File   required to be   submitted
+pursuant to   Rule 405   of Regulation   S-T (§232.405   of this   chapter) during   the preceding   12 months   (or for   such shorter   period
+that the registrant was required to submit such files).
+Yes ☑   No
+☐ Indicate by   check mark   whether the registrant   is a large   accelerated filer,   an accelerated   filer, a   non-accelerated filer,   a smaller
+reporting   company,   or   an   emerging   growth   company.   See   the   definitions   of   “large   accelerated   filer,”   “accelerated   filer”,
+“smaller reporting company”, and “emerging growth   company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated filer ☑ Accelerated filer   ☐ Non – Accelerated filer   ☐ Smaller reporting company   ☐ Emerging growth company   ☐ If   an   emerging   growth   company,   indicate   by   check   mark   if   the   registrant   has   elected   not   to   use   the   extended
+transition   period   for   complying   with   any   new   or   revised   financial   accounting   standards   provided   pursuant   to
+Section 13(a) of the Exchange Act
+☐ Indicate by check mark whether the registrant is a shell company (as defined   in Rule 12b-2 of the Exchange Act).
+Yes
+☐   No
+☑ There were
+44,185,774   shares of   Common Stock,   $0.01 par value,   and
+4,800,000   shares of Class   A Common   Stock, $0.01   par
+value, outstanding as of March 28, 2023.
+Index 2
+INDEX
+Page
+Number Part I.     Financial Information
+Item 1.
+Financial Statements                   Condensed Consolidated Balance Sheets -   February 25, 2023 and May 28, 2022   3             Condensed Consolidated Statements of Income - Thirteen and Thirty-nine Weeks   Ended February 25, 2023 and February 26, 2022   4             Condensed Consolidated Statements of Comprehensive Income - Thirteen and Thirty-nine Weeks   Ended February 25, 2023 and February 26, 2022   5             Condensed Consolidated Statements of Cash Flows -   Thirty-nine Weeks   Ended February 25, 2023 and February 26, 2022   6             Notes to Condensed Consolidated Financial Statements   7         Item 2.
+Management’s Discussion and Analysis   of   Financial Condition and Results of Operations   17         Item 3.
+Quantitative and Qualitative Disclosures About Market Risk 28 Item 4.
+Controls and Procedures   28         Part
+II.     Other Information
+Item 1.
+Legal Proceedings   29         Item 1A.
+Risk Factors   29         Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds   29         Item 6.
+Exhibits   29         Signatures       30
+Index 3
+PART   I.   FINANCIAL INFORMATION
+ITEM 1.   FINANCIAL STATEMENTS
+Cal-Maine Foods, Inc. and Subsidiaries
+Condensed Consolidated Balance Sheets
+(In thousands, except for par value amounts)   (Unaudited)   February 25, 2023
+May 28, 2022
+Assets
+Current assets:
+Cash and cash equivalents
+$
+221,614 $
+59,084 Investment securities available-for-sale
+423,418 115,429 Trade and other receivables, net
+206,920 177,257 Income tax receivable
+42,947 42,147 Inventories
+290,869 263,316 Prepaid expenses and other current assets
+7,599 4,286 Total current   assets
+1,193,367 661,519 Property, plant &   equipment, net
+712,512 677,796 Investments in unconsolidated entities
+16,146 15,530 Goodwill
+44,006 44,006 Intangible assets, net
+16,484 18,131 Other long-term assets
+9,968 10,507 Total Assets
+$
+1,992,483 $
+1,427,489 Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable and accrued expenses
+$
+138,617 $
+122,331 Accrued income taxes payable
+66,723 25,687 Dividends payable
+107,720 36,656 Total current   liabilities
+313,060 184,674 Other noncurrent liabilities
+9,715 10,274 Deferred income taxes, net
+134,820 128,196 Total liabilities
+457,595 323,144 Commitments and contingencies - see Note 9
+— — Stockholders’ equity:
+Common stock ($ 0.01   par value):
+Common stock - authorized
+120,000   shares, issued
+70,261   shares
+703 703 Class A convertible common stock - authorized and issued
+4,800   shares
+48 48 Paid-in capital
+70,977 67,989 Retained earnings
+1,497,325 1,065,854 Accumulated other comprehensive loss, net of tax
+( 3,067 ) ( 1,596 ) Common stock in treasury at cost –
+26,075   shares at February 25, 2023 and
+26,121 shares at May 28, 2022
+( 29,996 ) ( 28,447 ) Total Cal-Maine Foods,   Inc. stockholders’ equity
+1,535,990 1,104,551 Noncontrolling interest in consolidated entity
+( 1,102 ) ( 206 ) Total stockholders’   equity
+1,534,888 1,104,345 Total Liabilities and Stockholders’   Equity
+$
+1,992,483 $
+1,427,489 See Notes to Condensed Consolidated Financial Statements.
+Index 4
+Cal-Maine Foods, Inc. and Subsidiaries
+Condensed Consolidated Statements of Income
+(In thousands, except per share amounts)
+(Unaudited)   Thirteen Weeks   Ended
+Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+February 25, 2023
+February 26, 2022
+Net sales
+$
+997,493 $
+477,485 $
+2,457,537 $
+1,184,195 Cost of sales
+534,467 385,903 1,459,172 1,042,221 Gross profit
+463,026 91,582 998,365 141,974 Selling, general and administrative
+58,489 52,686 170,048 146,991 Gain on insurance recoveries
+( 3,220 ) ( 1,095 ) ( 3,220 ) ( 3,225 ) (Gain) loss on disposal of fixed assets
+( 26 ) 421 36 370 Operating income (loss)
+407,783 39,570 831,501 ( 2,162 ) Other income (expense):
+Interest income, net
+6,126 79 8,959 440 Royalty income
+426 326 1,198 877 Patronage dividends
+10,239 10,120 10,239 10,120 Equity income of unconsolidated
+entities
+1,786 1,809 943 2,208 Other, net
+( 1,473 ) 1,144 ( 205 ) 8,169 Total other income, net
+17,104 13,478 21,134 21,814 Income before income taxes
+424,887 53,048 852,635 19,652 Income tax expense (benefit)
+102,118 13,594 206,438 ( 2,921 ) Net income
+322,769 39,454 646,197 22,573 Less: Loss attributable to noncontrolling
+interest
+( 450 ) ( 63 ) ( 896 ) ( 91 ) Net income attributable to Cal-Maine
+Foods, Inc.
+$
+323,219 $
+39,517 $
+647,093 $
+22,664 Net income per common share:
+Basic
+$
+6.64 $
+0.81 $
+13.31 $
+0.46 Diluted
+$
+6.62 $
+0.81 $
+13.25 $
+0.46 Weighted average   shares outstanding:
+Basic
+48,653 48,886 48,634 48,888 Diluted
+48,842 49,036 48,832 49,035 See Notes to Condensed Consolidated Financial Statements.
+Index 5
+Cal-Maine Foods, Inc. and Subsidiaries
+Condensed Consolidated Statements of Comprehensive Income
+(In thousands)
+(Unaudited)
+Thirteen Weeks   Ended
+Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+February 25, 2023
+February 26, 2022
+Net income
+$
+322,769   $   39,454   $   646,197   $   22,573 Other comprehensive income (loss), before
+tax:
+Unrealized holding gain (loss) on available- for-sale securities, net of reclassification
+adjustments
+26 ( 551 ) ( 1,945 ) ( 1,130 ) Income tax benefit (expense) related to
+items of other comprehensive income
+( 6 ) 134 474 275 Other comprehensive income (loss), net of tax
+20 ( 417 ) ( 1,471 ) ( 855 ) Comprehensive income
+322,789 39,037 644,726 21,718 Less: Comprehensive loss attributable to the
+noncontrolling interest
+( 450 ) ( 63 ) ( 896 ) ( 91 ) Comprehensive income attributable to Cal- Maine Foods, Inc.
+$
+323,239 $
+39,100 $
+645,622 $
+21,809 See Notes to Condensed Consolidated Financial Statements.
+Index 6
+Cal-Maine Foods, Inc. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows
+(In thousands)
+(Unaudited)   Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+Cash flows from operating activities:
+Net income
+$
+646,197 $
+22,573 Depreciation and amortization
+53,198 50,996 Deferred income taxes
+7,098 ( 3,861 ) Gain on insurance recoveries
+( 3,220 ) ( 3,225 ) Net proceeds from insurance settlement - business interruption
+3,220 — Other adjustments, net
+16 ( 45,659 ) Net cash provided by operations
+706,509 20,824 Cash flows from investing activities:
+Purchases of investment securities
+( 442,583 ) ( 47,135 ) Sales and maturities of investment securities
+132,686 76,377 Investment in unconsolidated entities
+( 1,673 ) ( 3,000 ) Distributions from unconsolidated entities
+— 400 Acquisition of business, net of cash acquired
+— ( 44,823 ) Purchases of property,   plant and equipment
+( 86,168 ) ( 49,170 ) Net proceeds from insurance settlement - property,   plant and equipment
+— 5,380 Net proceeds from disposal of property,   plant and equipment
+118 661 Net cash used in investing activities
+( 397,620 ) ( 61,310 ) Cash flows from financing activities:
+Payments of dividends
+( 144,559 ) — Purchase of common stock by treasury
+( 1,633 ) ( 1,120 ) Principal payments on finance lease
+( 167 ) ( 160 ) Contributions
+— 3 Net cash used in financing activities
+( 146,359 ) ( 1,277 ) Net change in cash and cash equivalents
+162,530 ( 41,763 ) Cash and cash equivalents at beginning of period
+59,084 57,352 Cash and cash equivalents at end of period
+$
+221,614 $
+15,589 See Notes to Condensed Consolidated Financial Statements.
+Index 7
+Cal-Maine Foods, Inc. and Subsidiaries
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 1 - Summary of Significant Accounting Policies
+Basis of Presentation
+The   unaudited   condensed   consolidated   financial   statements   of   Cal-Maine   Foods,   Inc.   and   its   subsidiaries   (the   “Company,”
+“we,” “us,” “our”)   have been prepared   in accordance with   the instructions to   Form 10-Q and   Article 10 of   Regulation S-X and
+in   accordance   with generally   accepted   accounting   principles in   the   United   States of   America   (“GAAP”)   for   interim   financial
+reporting and should   be read in conjunction   with our Annual Report   on Form 10-K   for the fiscal year   ended May 28,   2022 (the
+“2022   Annual   Report”).   These   statements   reflect   all   adjustments   that   are,   in   the   opinion   of   management,   necessary   to   a   fair
+statement of the results for   the interim periods presented   and, in the opinion of   management, consist of adjustments   of a normal
+recurring nature.   Operating results for   the interim periods   are not necessarily   indicative of operating   results for the   entire fiscal
+year. Fiscal Year
+The Company’s   fiscal year   ends on   the Saturday   closest to   May 31.   Each of   the three-month   periods and   year-to-date periods
+ended on February 25, 2023 and February 26, 2022 included
+13 weeks   and
+39 weeks , respectively.
+Use of Estimates
+The preparation of the   consolidated financial statements in   conformity with GAAP requires management   to make estimates and
+assumptions   that affect   the amounts   reported in   the consolidated   financial statements   and accompanying   notes. Actual   results
+could differ from those estimates. Investment Securities
+Our investment   securities are   accounted   for in   accordance with   ASC 320,   “Investments -   Debt and   Equity Securities”   (“ASC
+320”).   The   Company   considers   all   its   debt   securities   for   which   there   is   a   determinable   fair   market   value,   and   there   are   no
+restrictions   on   the   Company’s   ability   to   sell   within   the   next   12   months,   as   available-for-sale.   We   classify   these   securities   as
+current, because the   amounts invested are available   for current operations.   Available-for-sale   securities are carried at   fair value,
+with   unrealized   gains   and   losses   reported   in   other   comprehensive   income   until   realized.   The   total   of   other   comprehensive
+income   for   the   period   is   presented   as   a   component   of   stockholders’   equity   separately   from   retained   earnings   and   additional
+paid-in   capital. The   Company regularly   evaluates changes   to the   rating of   its debt   securities by   credit agencies   and economic
+conditions to assess and record any expected credit losses through   the allowance for credit losses, limited to the amount that fair
+value   was   less   than   the   amortized   cost   basis.   The   cost   basis   for   realized   gains   and   losses   on   available-for-sale   securities   is
+determined by   the specific   identification method.   Gains and   losses are   recognized in   other income   (expenses) as   Other,   net in
+the Company’s   Condensed Consolidated Statements   of Income.   Investments in mutual   funds are classified   as “Other long-term
+assets” in the Company’s Condensed   Consolidated Balance Sheets. Trade Receivables   Trade receivables are stated at their carrying   values, which include a reserve for credit losses. As of February   25, 2023 and May
+28,   2022,   reserves   for   credit   losses   were   $ 709   thousand   and   $ 775   thousand,   respectively.   The   Company   extends   credit   to
+customers based on   an evaluation of   each customer's financial   condition and credit   history.   Collateral is generally   not required.
+The   Company   minimizes   exposure   to   counter   party   credit   risk   through   credit   analysis   and   approvals,   credit   limits,   and
+monitoring   procedures.   In   determining   our   reserve   for   credit   losses,   receivables   are   assigned   an   expected   loss   based   on
+historical loss information adjusted as needed for economic and   other forward-looking factors. Dividends Payable   We   accrue dividends at   the end of   each quarter according   to the Company’s   dividend policy adopted   by its Board   of Directors.
+The Company   pays a dividend   to shareholders   of its Common   Stock and   Class A Common   Stock on   a quarterly basis   for each
+quarter for   which the   Company reports   net income   attributable to   Cal-Maine Foods,   Inc. computed   in accordance   with GAAP
+in an amount   equal to one-third   ( 1/3 ) of such   quarterly income. Dividends   are paid to   shareholders of record   as of the 60th   day
+following the   last day   of such quarter,   except for   the fourth fiscal   quarter.   For the   fourth quarter,   the Company   pays dividends
+Index 8
+to shareholders of record on the 65th day after the   quarter end. Dividends are payable on the 15th day following   the record date.
+Following a quarter for which the Company does not report net income   attributable to Cal-Maine Foods, Inc., the Company will
+not pay a dividend   for a subsequent profitable   quarter until the Company   is profitable on a cumulative   basis computed from the
+date of the most recent quarter for which a dividend was paid. New Accounting Pronouncements and Policies
+No new accounting pronouncement issued or effective   during the fiscal year had or is expected to have a material impact on   our
+Consolidated Financial Statements. Reclassification Certain   reclassifications   were   made   to   the   fiscal   2022   financial   statements   to   conform   to   the   fiscal   2023   financial   statement
+presentation. These reclassifications had no effect on   income. Note 2 - Investment Securities
+The following represents the Company’s   investment securities as of February 25, 2023 and May 28, 2022 (in   thousands): February 25, 2023
+Amortized
+Cost
+Unrealized   Gains
+Unrealized
+Losses
+Estimated   Fair Value
+Municipal bonds
+$
+21,158 $
+— $
+275 $
+20,883 Commercial paper
+95,612 — 122 95,490 Corporate bonds
+138,004 — 1,664 136,340 US government and agency obligations
+94,941 — 299 94,642 Asset backed securities
+15,132 — 227 14,905 Treasury bills
+61,215 — 57 61,158 Total current   investment securities
+$
+426,062 $
+— $
+2,644 $
+423,418 Mutual funds
+$
+2,162 $
+— $
+136 $
+2,026 Total noncurrent   investment securities
+$
+2,162 $
+— $
+136 $
+2,026 May 28, 2022
+Amortized   Cost
+Unrealized   Gains
+Unrealized
+Losses
+Estimated   Fair Value
+Municipal bonds
+$
+10,136 $
+— $
+32 $
+10,104 Commercial paper
+14,940 — 72 14,868 Corporate bonds
+74,167 — 483 73,684 Certificates of deposits
+1,263 — 18 1,245 US government and agency obligations
+2,205 4 — 2,209 Asset backed securities
+13,456 — 137 13,319 Total current   investment securities
+$
+116,167 $
+4 $
+742 $
+115,429 Mutual funds
+$
+3,826 $
+— $
+74 $
+3,752 Total noncurrent   investment securities
+$
+3,826 $
+— $
+74 $
+3,752 Available-for-sale
+Proceeds from sales   and maturities of investment   securities available-for-sale   were $ 132.7   million and $ 76.4   million during the
+thirty-nine weeks   ended February 25,   2023 and   February 26,   2022, respectively.   Gross realized   gains for   the thirty-nine   weeks
+ended February   25, 2023   and February   26, 2022   were $ 38   thousand and   $ 181   thousand, respectively.   Gross realized   losses for
+the thirty-nine weeks ended February 25, 2023 and   February 26, 2022 were $ 64   thousand and $ 67   thousand, respectively.   There
+were
+no   allowances for credit losses at February 25, 2023 and May 28, 2022.
+Index 9
+Actual maturities   may differ   from contractual   maturities as some   borrowers have   the right to   call or prepay   obligations with   or
+without penalties. Contractual maturities of current investments at February   25, 2023 are as follows (in thousands): Estimated Fair Value
+Within one year
+$
+345,765 1-5 years
+77,653 Total
+$
+423,418 Noncurrent   Proceeds from sales and maturities of noncurrent investment securities   were $ 1.8   million and $ 4.9   million during the thirty-nine
+weeks   ended   February   25,   2023   and   February   26,   2022,   respectively.   Gross   realized   gains   for   the   thirty-nine   weeks
+ended February 25,   2023 and February   26, 2022   were $ 6   thousand and   $ 2.2   million, respectively.   Gross realized   losses for   the
+thirty-nine   weeks   ended February   25,   2023   were   $ 66   thousand.   There   were
+no   realized   losses   for   the   thirty-nine   weeks
+ended February 26, 2022. Note 3 - Fair Value   Measurements The Company   is required   to categorize   both financial   and nonfinancial   assets and   liabilities based   on the   following fair   value
+hierarchy. The   fair value   of an   asset is   the price   at which   the asset   could be   sold in   an orderly   transaction between   unrelated,
+knowledgeable, and willing   parties able to engage in   the transaction. A liability’s   fair value is defined   as the amount that would
+be   paid   to   transfer   the   liability   to   a   new   obligor   in   a   transaction   between   such   parties,   not   the   amount   that   would   be paid   to
+settle the liability with the creditor.
+• Level 1   - Quoted prices in active markets for identical assets or liabilities
+• Level 2   - Inputs   other than   quoted   prices included   in Level   1 that   are observable   for the   asset or   liability,   either
+directly or indirectly,   including:
+◦ Quoted prices for similar assets or liabilities in active markets
+◦ Quoted prices for identical or similar assets in non-active markets
+◦ Inputs other than quoted prices that are observable for the asset or liability
+◦ Inputs derived principally from or corroborated by other observable market   data
+• Level 3   - Unobservable inputs for the asset or liability that are   supported by little or no market activity and that   are
+significant to the fair value of the assets or liabilities
+The disclosures of fair value of certain financial assets and liabilities that are recorded   at cost are as follows:
+Cash and cash equivalents, accounts receivable,   and accounts payable:   The carrying amount approximates fair value due to the
+short maturity of these instruments. Lease obligations:   The carrying value of the Company’s lease obligations   is at its present value which approximates fair value.
+Index 10
+Assets and Liabilities Measured at Fair   Value   on a Recurring Basis
+In   accordance   with   the   fair   value   hierarchy   described   above,   the   following   table   shows   the   fair   value   of   financial   assets and
+liabilities measured at fair value on a recurring basis as of February 25, 2023 and May 28,   2022 (in thousands): February 25, 2023
+Level 1
+Level 2
+Level 3
+Balance
+Assets
+Municipal bonds
+$
+— $
+20,883 $
+— $
+20,883 Commercial paper
+— 95,490 — 95,490 Corporate bonds
+— 136,340 — 136,340 US government and agency obligations
+— 94,642 — 94,642 Asset backed securities
+— 14,905 — 14,905 Treasury bills
+— 61,158 — 61,158 Mutual funds
+2,026 — — 2,026 Total assets measured at fair   value
+$
+2,026 $
+423,418 $
+— $
+425,444 May 28, 2022
+Level 1
+Level 2
+Level 3
+Balance
+Assets
+Municipal bonds
+$
+— $
+10,104 $
+— $
+10,104 Commercial paper
+— 14,868 — 14,868 Corporate bonds
+— 73,684 — 73,684 Certificates of deposits
+— 1,245 — 1,245 US government and agency obligations
+— 2,209 — 2,209 Asset backed securities
+— 13,319 — 13,319 Mutual funds
+3,752 — — 3,752 Total assets measured at fair   value
+$
+3,752 $
+115,429 $
+— $
+119,181 Investment   securities   –   available-for-sale   classified   as Level   2   consist   of   securities   with maturities   of   three   months   or longer
+when purchased. We   classified these securities as   current because amounts   invested are readily available   for current operations.
+Observable inputs for these securities are yields, credit risks, default rates, and volatility. Note 4 - Inventories
+Inventories consisted of the following as of February 25, 2023 and   May 28, 2022 (in thousands):   February 25, 2023
+May 28, 2022
+Flocks, net of amortization
+$
+158,209 $
+144,051 Eggs and egg products
+27,925 26,936 Feed and supplies
+104,735 92,329 $
+290,869 $
+263,316 We   grow   and   maintain   flocks   of   layers   (mature   female   chickens),   pullets   (female   chickens,   under   18   weeks   of   age),   and
+breeders (male and female   chickens used to produce   fertile eggs to hatch for   egg production flocks). Our   total flock at February
+25, 2023   and May   28, 2022   consisted of   approximately
+9.9   million and
+11.5   million pullets   and breeders   and
+43.3   million and
+42.2   million layers, respectively.
+Index 11
+Note 5 - Equity
+The following reflects   equity activity for the   thirteen and thirty-nine   weeks ended February 25,   2023 and February 26,   2022 (in
+thousands): Thirteen Weeks   Ended February 25, 2023
+Cal-Maine Foods, Inc. Stockholders
+Common Stock
+Class A
+Treasury
+Paid In
+Accum. Other
+Retained
+Noncontrolling
+Amount
+Amount
+Amount
+Capital
+Comp. Loss
+Earnings
+Interest
+Total
+Balance at November
+26, 2022
+$
+703 $
+48 $
+( 28,496 ) $
+70,005 $
+( 3,087 ) $
+1,281,784 $
+( 652 ) $
+1,320,305 Other comprehensive
+income, net of tax
+—
+—
+—
+—
+20 —
+—
+20 Stock compensation
+plan transactions
+—
+—
+( 1,500 ) 972 —
+—
+—
+( 528 ) Dividends ($ 2.199 per share)
+Common
+—
+—
+—
+—
+—
+( 97,123 ) —
+( 97,123 ) Class A common
+—
+—
+—
+—
+—
+( 10,555 ) —
+( 10,555 ) Net income (loss)
+—
+—
+—
+—
+—
+323,219 ( 450 ) 322,769 Balance at February
+25, 2023
+$
+703 $
+48 $
+( 29,996 ) $
+70,977 $
+( 3,067 ) $
+1,497,325 $
+( 1,102 ) $
+1,534,888 Thirteen Weeks   Ended February 26, 2022
+Cal-Maine Foods, Inc. Stockholders
+Common Stock
+Class A
+Treasury
+Paid In
+Accum. Other
+Retained
+Noncontrolling
+Amount
+Amount
+Amount
+Capital
+Comp. Loss
+Earnings
+Interest
+Total
+Balance at November
+27, 2021
+$
+703 $
+48 $
+( 27,450 ) $
+66,019 $
+( 996 ) $
+959,124 $
+( 25 ) $
+997,423 Other comprehensive
+loss, net of tax
+—
+—
+—
+—
+( 417 ) —
+—
+( 417 ) Stock compensation
+plan transactions
+—
+—
+( 989 ) 890 —
+—
+—
+( 99 ) Dividends ($ 0.125 per share)
+Common
+—
+—
+—
+—
+—
+( 5,518 ) —
+( 5,518 ) Class A common
+—
+—
+—
+—
+—
+( 600 ) —
+( 600 ) Net income (loss)
+—
+—
+—
+—
+—
+39,517 ( 63 ) 39,454 Balance at February
+26, 2022
+$
+703 $
+48 $
+( 28,439 ) $
+66,909 $
+( 1,413 ) $
+992,523 $
+( 88 ) $
+1,030,243
+Index 12
+Thirty-nine Weeks Ended   February 25, 2023
+Cal-Maine Foods, Inc. Stockholders
+Common Stock
+Class A
+Treasury
+Paid In
+Accum. Other
+Retained
+Noncontrolling
+Amount
+Amount
+Amount
+Capital
+Comp. Loss
+Earnings
+Interest
+Total
+Balance at May 28,
+2022
+$
+703 $
+48 $
+( 28,447 ) $
+67,989 $
+( 1,596 ) $
+1,065,854 $
+( 206 ) $
+1,104,345 Other comprehensive
+loss, net of tax
+—
+—
+—
+—
+( 1,471 ) —
+—
+( 1,471 ) Stock compensation
+plan transactions
+—
+—
+( 1,549 ) 2,988 —
+—
+—
+1,439 Dividends ($ 5.756 per share)
+Common
+—
+—
+—
+—
+—
+( 194,478 ) —
+( 194,478 ) Class A common
+—
+—
+—
+—
+—
+( 21,144 ) —
+( 21,144 ) Net income (loss)
+—
+—
+—
+—
+—
+647,093 ( 896 ) 646,197 Balance at February
+25, 2023
+$
+703 $
+48 $
+( 29,996 ) $
+70,977 $
+( 3,067 ) $
+1,497,325 $
+( 1,102 ) $
+1,534,888 Thirty-nine Weeks Ended   February 26, 2022
+Cal-Maine Foods, Inc. Stockholders
+Common Stock
+Class A
+Treasury
+Paid In
+Accum. Other
+Retained
+Noncontrollin g
+Amount
+Amount
+Amount
+Capital
+Comp. Loss
+Earnings
+Interest
+Total
+Balance at May 29,
+2021
+$   703 $   48 $   ( 27,433 ) $   64,044 $   ( 558 ) $   975,977 $   — $   1,012,781 Other comprehensive
+loss, net of tax
+—
+—
+—
+—
+( 855 ) —
+—
+( 855 ) Stock compensation
+plan transactions
+—
+—
+( 1,006 ) 2,865 —
+—
+—
+1,859 Contributions
+—
+—
+—
+—
+—
+—
+3 3 Dividends ($ 0.125 per share)
+Common
+—
+—
+—
+—
+—
+( 5,518 ) —
+( 5,518 ) Class A common
+—
+—
+—
+—
+—
+( 600 ) —
+( 600 ) Net income (loss)
+—
+—
+—
+—
+—
+22,664 ( 91 ) 22,573 Balance at February
+26, 2022
+$
+703 $
+48 $
+( 28,439 ) $
+66,909 $
+( 1,413 ) $
+992,523 ( 88 ) $
+1,030,243 Note 6 - Net Income per Common Share   Basic net income   per share is   based on the   weighted average Common   Stock and Class   A Common Stock   outstanding. Diluted
+net   income   per   share   is   based   on   weighted-average   common   shares   outstanding   during   the   relevant   period   adjusted   for   the
+dilutive effect of share-based awards.
+Index 13
+The   following   table   provides   a   reconciliation   of   the   numerators   and   denominators   used   to   determine   basic   and   diluted   net
+income per common share (amounts in thousands, except per share data): Thirteen Weeks   Ended
+Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+February 25, 2023
+February 26, 2022
+Numerator
+Net income
+$
+322,769 $
+39,454 $
+646,197 $
+22,573 Less: Loss attributable to noncontrolling
+interest
+( 450 ) ( 63 ) ( 896 ) ( 91 ) Net income attributable to Cal-Maine
+Foods, Inc.
+$
+323,219 $
+39,517 $
+647,093 $
+22,664 Denominator
+Weighted-average   common shares
+outstanding, basic
+48,653 48,886 48,634 48,888 Effect of dilutive restricted shares
+189 150 198 147 Weighted-average   common shares
+outstanding, diluted
+48,842 49,036 48,832 49,035 Net income per common share attributable to
+Cal-Maine Foods, Inc.
+Basic
+$
+6.64 $
+0.81 $
+13.31 $
+0.46 Diluted
+$
+6.62 $
+0.81 $
+13.25 $
+0.46 Note 7 – Revenue from Contracts with Customers
+Satisfaction of Performance Obligation
+The vast majority of the Company’s   revenue is derived from agreements with customers based on the customer   placing an order
+for products. Pricing   for the most part   is determined when   the Company and   the customer agree   upon the specific   order, which
+establishes the contract for that order.
+Revenues are   recognized in   an amount   that reflects   the net   consideration we   expect to   receive in   exchange for   the goods.   Our
+shell eggs   are primarily   sold at prices   related to   independently quoted   wholesale market   prices or   formulas related   to our costs
+of   production.   The   Company’s   sales   predominantly   contain   a   single   performance   obligation.   We   recognize   revenue   upon
+satisfaction   of   the   performance   obligation   with   the   customer   which   typically   occurs   within   days   of   the   Company   and   the
+customer agreeing upon the order.
+Returns and Refunds
+Some of our contracts   include a guaranteed sale   clause, pursuant to which   we credit the customer’s   account for product   that the
+customer   is   unable   to   sell   before   expiration.   The   Company   records   an   allowance   for   returns   and   refunds   by   using   historical
+return   data   and   comparing   to current   period   sales and   accounts receivable.   The allowance   is recorded   as a   reduction   in sales
+with a corresponding reduction in trade accounts receivable.
+Sales Incentives Provided to Customers
+The   Company   periodically   provides   incentive   offers   to   its   customers   to   encourage   purchases.   Such   offers   include   current
+discount offers   (e.g., percentage   discounts off   current purchases), inducement   offers (e.g.,   offers for   future discounts subject   to
+a minimum   current purchase),   and other   similar offers.   Current discount   offers,   when accepted   by customers,   are treated   as a
+reduction   to   the sales   price   of the   related   transaction,   while inducement   offers,   when   accepted   by customers,   are   treated   as a
+reduction   to the   sales price   based on   estimated future   redemption rates.   Redemption   rates are   estimated using   the Company’s
+historical   experience   for   similar   inducement   offers.   Current discount   and   inducement   offers   are   presented   as a   net amount   in
+‘‘Net sales.’’
+Index 14
+Disaggregation of Revenue
+The following table provides revenue disaggregated by product category   (in thousands): Thirteen Weeks   Ended
+Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+February 25, 2023
+February 26, 2022
+Conventional shell egg sales
+$
+689,022 $
+280,633 $
+1,656,528 $
+683,805 Specialty shell egg sales
+272,205 182,945 700,803 462,320 Egg products
+32,582 12,749 88,274 33,516 Other
+3,684 1,158 11,932 4,554 $
+997,493 $
+477,485 $
+2,457,537 $
+1,184,195 Contract Costs
+The Company can incur costs to   obtain or fulfill a contract with a   customer. If the   amortization period of these costs is less   than
+one year,   they are   expensed as   incurred. When   the amortization   period is   greater than   one year,   a contract   asset is   recognized
+and is   amortized over   the contract   life as   a reduction   in net   sales. As   of February   25, 2023   and May   28, 2022,   the balance   for
+contract assets was immaterial.
+Contract Balances
+The Company receives payment from customers based on specified terms that   are generally less than 30 days from delivery.
+There are rarely contract assets or liabilities related to performance under the   contract. Note 8 - Stock Based Compensation
+Total   stock-based   compensation   expense   was   $ 3.1   and   $ 3.0   million   for   the   thirty-nine   weeks   ended   February   25,   2023   and
+February 26, 2022, respectively.
+Unrecognized   compensation   expense   as a   result   of non   -vested   shares   of   restricted   stock outstanding   under   the   Amended   and
+Restated   2012   Omnibus   Long-Term   Incentive   Plan   at   February   25,   2023   of   $ 8.4   million   will   be   recorded   over   a   weighted
+average period of
+2.3   years. Refer to Part   II Item 8,   Notes to Consolidated   Financial Statements and   Supplementary Data, Note
+16: Stock Compensation Plans in our 2022 Annual Report for further informat   ion on our stock compensation plans.
+The Company’s restricted share activity   for the thirty-nine weeks ended February 25, 2023 follows: Number of
+Shares
+Weighted
+Average Grant
+Date Fair Value
+Outstanding, May 28, 2022
+317,844 $
+39.12 Granted
+84,969 54.10 Vested
+( 97,954 ) 38.25 Forfeited
+( 8,480 ) 39.22 Outstanding, February 25, 2023
+296,379 $
+43.70 Note 9 - Commitments and Contingencies
+Financial Instruments
+The   Company   maintained   standby   letters   of   credit   (“LOCs”)   totaling   $ 4.1   million   at   February   25,   2023,   which   were   issued
+under   the   Company's   senior   secured   revolving   credit   facility.   The   outstanding   LOCs   are   for   the   benefit   of   certain   insurance
+companies and are not recorded as a liability on the consolidated balance   sheets.
+Index 15
+LEGAL PROCEEDINGS State of Texas   v. Cal-Maine Foods, Inc. d/b/a Wharton;   and Wharton County Foods, LLC   On April   23, 2020,   the Company   and its subsidiary   Wharton County   Foods, LLC (“WCF”)   were named   as defendants in   State
+of   Texas   v.   Cal-Maine   Foods,   Inc.   d/b/a   Wharton;   and   Wharton   County   Foods,   LLC,   Cause   No.   2020-25427,   in   the   District
+Court of   Harris County,   Texas.   The State   of Texas   (the “State”)   asserted claims   based on   the Company’s   and WCF’s   alleged
+violation   of   the   Texas   Deceptive   Trade   Practices—Consumer   Protection   Act,   Tex.   Bus.   &   Com.   Code   §§   17.41-17.63
+(“DTPA”).   The   State   claimed   that   the   Company   and   WCF   offered   shell   eggs   at   excessive   or   exorbitant   prices   during   the
+COVID-19   state   of   emergency   and   made   misleading   statements   about   shell   egg   prices.   The   State   sought   temporary   and
+permanent   injunctions   against   the   Company   and   WCF   to   prevent   further   alleged   violations   of   the   DTPA,   along   with   over
+$ 100,000   in damages. On August 13, 2020, the court granted the defendants’ motion to dismiss the   State’s original petition with
+prejudice. On September   11, 2020,   the State filed a   notice of appeal,   which was assigned to   the Texas   Court of Appeals   for the
+First   District.   On   August   16,   2022,   the   appeals   court   reversed   and   remanded   the   case   back   to   the   trial   court   for   further
+proceedings. On October   31, 2022, the Company   and WCF filed a   petition for review to   the Supreme Court of   Texas   appealing
+the   First   District   court’s   decision.   On   February   6,   2023,   the   State   of   Texas   filed   their   response   to   defendant’s   petition   for
+review.   On   February   21,   2023,   the   Company   and   WCF   filed   their   reply   brief   in   support   of   defendant’s   petition   for   review.
+Appellate briefs are not yet due. Management believes the risk of material loss related   to this matter to be remote.
+Bell et al. v. Cal-Maine Foods et al.   On   April   30, 2020,   the Company   was named   as one   of several   defendants   in   Bell et   al. v.   Cal-Maine   Foods et   al.,   Case No.
+1:20-cv-461,   in   the   Western   District   of   Texas,   Austin   Division.   The   defendants   include   numerous   grocery   stores,   retailers,
+producers, and farms. Plaintiffs assert that defendants   violated the DTPA   by allegedly demanding exorbitant or   excessive prices
+for   eggs during   the   COVID-19   state of   emergency.   Plaintiffs   request   certification   of a   class of   all consumers   who purchased
+eggs   in   Texas   sold,   distributed,   produced,   or   handled   by   any   of   the   defendants   during   the   COVID-19   state   of   emergency.
+Plaintiffs seek to enjoin   the Company and other   defendants from selling eggs   at a price more than   10% greater than the   price of
+eggs prior   to the   declaration   of the   state of   emergency   and damages   in the   amount   of $ 10,000   per violation,   or $ 250,000   for
+each violation   impacting anyone   over 65   years old.   On December   1, 2020,   the Company   and   certain other   defendants   filed a
+motion to   dismiss the   plaintiffs’   amended   class action   complaint. The   plaintiffs   subsequently filed   a motion   to strike,   and the
+motion to   dismiss and   related proceedings   were referred   to a   United States   magistrate judge.   On July   14, 2021,   the magistrate
+judge   issued   a   report   and   recommendation   to   the   court   that   the   defendants’   motion   to   dismiss   be   granted   and   the   case   be
+dismissed without prejudice for lack of subject matter jurisdiction. On   September 20, 2021, the court dismissed the case without
+prejudice.   On   July   13,   2022,   the   court   denied   the   plaintiffs’   motion   to   set   aside   or   amend   the   judgment   to   amend   their
+complaint.
+On March 15, 2022,   plaintiffs filed a   second suit against the   Company and several   defendants in Bell et   al. v.   Cal-Maine Foods
+et al.,   Case No.   1:22-cv-246, in   the Western   District of   Texas,   Austin Division   alleging the   same assertions   as laid   out in   the
+first   complaint.   On   August   12,   2022,   the   Company   and   other   defendants   in   the   case   filed   a   motion   to   dismiss   the   plaintiffs’
+class action   complaint. On   January 9,   2023, the   court entered   an order   and final   judgement granting   the Company’s   motion to
+dismiss.   On February   8, 2023,   the plaintiffs   appealed   the lower   court’s   judgement   to the   United States   Court of   Appeals for   the Fifth
+Circuit,   Case   No.   23-50112.   The   parties   are   to   file   their   respective   appellate   briefs,   but   they   are   not   yet   due.   Management
+believes the risk of material loss related to both matters to be remote.
+Kraft Foods Global, Inc. et al. v.   United Egg Producers, Inc. et al.   As previously   reported, on   September 25,   2008, the   Company   was named   as one   of several   defendants   in numerous   antitrust
+cases involving   the United   States shell   egg   industry.   The Company   settled all   of these   cases, except   for   the claims   of certain
+plaintiffs who sought substantial   damages allegedly arising from   the purchase of egg products (as   opposed to shell eggs). These
+remaining plaintiffs   are Kraft   Food Global,   Inc., General   Mills, Inc.,   and Nestle   USA, Inc.   (the “Egg   Products Plaintiffs”)   and
+The Kellogg Company.
+On September   13, 2019,   the case   with the   Egg Products   Plaintiffs was   remanded from   a multi-district   litigation proceeding   in
+the   United   States   District   Court   for   the   Eastern   District   of   Pennsylvania,   In   re   Processed   Egg   Products   Antitrust   Litigation,
+MDL No. 2002, to   the United States District Court   for the Northern District   of Illinois, Kraft Foods Global,   Inc. et al. v.   United
+Egg   Producers,   Inc.   et   al.,   Case   No.   1:11-cv-8808,   for   trial.   The   Egg   Products   Plaintiffs   allege   that   the   Company   and   other
+defendants   violated   Section   1   of   the   Sherman   Act,   15.   U.S.C.   §   1,   by   agreeing   to   limit   the   production   of   eggs   and   thereby
+illegally to raise the prices that plaintiffs   paid for processed egg products. In particular,   the Egg Products Plaintiffs are   attacking
+certain features of   the United Egg   Producers animal-welfare guidelines   and program used by   the Company and   many other egg
+Index 16
+producers. The   Egg Products   Plaintiffs seek   to enjoin   the Company   and other   defendants from   engaging in   antitrust violations
+and seek treble money damages.   On May 2, 2022,   the court set trial for October   24, 2022, but on September   20, 2022, the court
+cancelled the   trial date   due to   COVID-19 protocols   and converted   the trial   date to   a status   hearing to   reschedule the   jury trial.
+On   December   8,   2022,   the   court   held   a   status   hearing.   The   parties   subsequently   submitted   an   updated   proposed   pre-trial
+schedule and the Court has set the trial for October 16, 2023.
+In addition,   on October   24, 2019,   the Company   entered into   a confidential   settlement agreement   with The   Kellogg Company
+dismissing   all   claims   against   the   Company   for   an   amount   that   did   not   have   a   material   impact   on   the   Company’s   financial
+condition or results of operations. On November 11,   2019, a stipulation for dismissal was filed with the court,   and on March 28,
+2022, the court dismissed the Company with prejudice.
+The Company intends to   continue to defend the remaining   case with the Egg Products   Plaintiffs as vigorously as   possible based
+on   defenses   which   the   Company   believes   are   meritorious   and   provable.   Adjustments,   if   any,   which   might   result   from   the
+resolution of   this remaining   matter with   the Egg   Products Plaintiffs   have not   been reflected   in the   financial statements.   While
+management   believes   that   there   is   still   a   reasonable   possibility   of   a   material   adverse   outcome   from   the   case   with   the   Egg
+Products Plaintiffs,   at the   present time,   it is not   possible to   estimate the   amount of   monetary exposure,   if any,   to the   Company
+due   to   a   range   of   factors,   including   the   following,   among   others:   two   earlier   trials   based   on   substantially   the   same   facts   and
+legal arguments   resulted   in findings   of no   conspiracy   and/or damages;   this trial   will be   before   a different   judge and   jury in   a
+different   court   than   prior related   cases; there   are significant   factual   issues to   be   resolved; and   there   are requests   for damages
+other than compensatory damages (i.e., injunction and treble money damages).
+State of Oklahoma Watershed Pollution   Litigation
+On June 18,   2005, the   State of   Oklahoma filed   suit, in   the United   States District   Court for   the Northern   District of   Oklahoma,
+against Cal-Maine   Foods,   Inc. and   Tyson   Foods,   Inc., Cobb-Vantress,   Inc., Cargill,   Inc., George’s,   Inc., Peterson   Farms, Inc.
+and   Simmons   Foods,   Inc.,   and   certain   of   their   affiliates.   The   State   of   Oklahoma   claims   that   through   the   disposal   of   chicken
+litter the   defendants polluted   the Illinois   River Watershed.   This watershed   provides water   to eastern   Oklahoma. The   complaint
+sought   injunctive   relief   and   monetary   damages,   but   the   claim   for   monetary   damages   was dismissed   by   the   court.   Cal-Maine
+Foods,   Inc.   discontinued   operations   in   the   watershed   in   or   around   2005.   Since   the   litigation   began,   Cal-Maine   Foods,   Inc.
+purchased
+100 %   of   the   membership   interests   of   Benton   County   Foods,   LLC,   which   is   an   ongoing   commercial   shell   egg
+operation within   the Illinois   River Watershed.   Benton County   Foods, LLC   is not   a defendant   in the   litigation. We   also have   a
+number of small contract producers that operate in the area.
+The non-jury trial in the case began in September 2009   and concluded in February 2010. On January 18, 2023, the court entered
+findings of   fact and   conclusions of   law in favor   of the   State of   Oklahoma, but   no penalties   were assessed.   The court   found the
+defendants   liable   for   state   law   nuisance,   federal   common   law   nuisance,   and   state   law   trespass.   The   court   also   found   the
+producers   vicariously   liable   for   the   actions   of   their   contract   producers.   The   court   directed   the   parties   to   confer   in   attempt   to
+reach   agreement   on   appropriate   remedies   by   March   17,   2023.   On   March   17,   2023,   a   status   hearing   was   held,   and   the   court
+extended the   time period by   which the parties   must reach an   agreement to June   16, 2023. The   defendants have been   conferring
+with the   State regarding   appropriate remedies.   While management   believes there   is a   reasonable   possibility of   a material   loss
+from the case, at the   present time, it is not possible   to estimate the amount of   monetary exposure, if any,   to the Company due to
+a range of   factors, including the   following, among others:   uncertainties inherent in   any assessment of   potential costs associated
+with injunctive relief or   other penalties based on a   decision in a case tried   over 13 years ago   based on environmental conditions
+that existed at the time, the lack of guidance from   the court as to what might be considered appropriate remedies,   the early stage
+of negotiations   with the   State on   appropriate remedies,   and uncertainty   regarding what   our proportionate   share of   any remedy
+would be, although we believe that our share compared to the other defendants is small.
+Other Matters
+In addition to   the above, the Company   is involved in   various other claims   and litigation incidental   to its business. Although   the
+outcome of   these matters   cannot be   determined with   certainty,   management, upon   the advice   of counsel,   is of   the opinion   that
+the final outcome should not have a material effect on the Company’s   consolidated results of operations or financial position.
+Index 17
+ITEM   2.   MANAGEMENT’S DISCUSSION AND   ANALYSIS   OF   FINANCIAL   CONDITION   AND   RESULTS   OF
+OPERATIONS
+The following   should be   read in   conjunction   with Management’s   Discussion and   Analysis of   Financial Condition   and Results
+of Operations included   in Part II Item   7 of the Company’s   Annual Report on   Form 10-K for its   fiscal year ended May   28, 2022
+(the “2022 Annual Report”), and the accompanying financial statements and   notes included in Part II Item 8 of the 2022 Annual
+Report and in
+Part I Item 1   of this Quarterly Report on Form 10-Q (“Quarterly Report”).
+This   report   contains   numerous   forward-looking   statements   within   the   meaning   of   Section   27A   of   the   Securities   Act   of   1933
+(the “Securities   Act”) and   Section 21E   of the   Securities Exchange   Act of   1934 (the   “Exchange Act”)   relating to   our shell   egg
+business,   including   estimated   future   production   data,   expected   construction   schedules,   projected   construction   costs,   potential
+future   supply   of and   demand   for   our   products,   potential   future   corn   and   soybean price   trends,   potential   future   impact   on   our
+business   of   inflation   and   rising   interest   rates,   potential   future   impact   on   our   business   of   new   legislation,   rules   or   policies,
+potential   outcomes   of   legal   proceedings,   and   other   projected   operating   data,   including   anticipated   results   of   operations   and
+financial   condition.   Such   forward-looking   statements   are   identified   by   the   use   of   words   such   as   “believes,”   “intends,”
+“expects,” “hopes,” “may,”   “should,” “plans,” “projected,” “contemplates,”   “anticipates,” or similar words.   Actual outcomes or
+results   could   differ   materially   from   those   projected   in   the   forward-looking   statements. The   forward-looking   statements   are
+based   on   management’s   current   intent,   belief,   expectations,   estimates,   and   projections   regarding   the   Company   and   its
+industry. These   statements   are   not   guarantees   of   future   performance   and   involve   risks,   uncertainties,   assumptions,   and   other
+factors that are difficult to predict and may   be beyond our control. The factors that could cause actual results   to differ materially
+from those   projected in the   forward-looking statements   include, among   others, (i)   the risk factors   set forth in   Part I Item   1A of
+the   2022   Annual   Report   (ii)   the   risks   and   hazards   inherent   in   the   shell   egg   business   (including   disease,   pests,   weather
+conditions,   and   potential   for   product   recall),   including   but   not   limited   to   the   current   outbreak   of   highly   pathogenic   avian
+influenza   (“HPAI”)   affecting   poultry   in   the   United   States   (“U.S.”),   Canada   and   other   countries   that   was   first   detected   in
+commercial flocks in   the U.S. in February   2022, (iii) changes   in the demand   for and market prices   of shell eggs   and feed costs,
+(iv) our   ability to   predict and   meet demand   for cage-free   and other   specialty eggs,   (v) risks,   changes, or   obligations that   could
+result from   our future   acquisition of   new flocks   or businesses   and risks   or changes   that may   cause conditions   to completing   a
+pending acquisition not   to be met, (vi) risks   relating to increased costs,   rising inflation and rising   interest rates, which generally
+have   been   exacerbated   by   Russia’s   invasion   of   Ukraine   starting   February   2022,   (vii)   our   ability   to   retain   existing   customers,
+acquire new   customers and   grow our   product mix,   (viii) adverse   results in   pending litigation   matters and   (ix) risks   relating to
+the evolving   COVID-19 pandemic. Readers   are cautioned   not to   place undue   reliance on   forward-looking statements   because,
+while we believe   the assumptions on   which the forward-looking   statements are based   are reasonable, there   can be no assurance
+that   these   forward-looking   statements will   prove   to be   accurate. Further,   forward-looking statements   included   herein   are only
+made as   of the   respective dates   thereof,   or if   no date   is stated,   as of   the date hereof.   Except as   otherwise required   by law,   we
+disclaim   any   intent   or   obligation   to   update   publicly   these   forward-looking   statements,   whether   because   of   new   information,
+future events, or otherwise.
+GENERAL
+Cal-Maine   Foods,   Inc.   (the   “Company,”   “we,”   “us,”   “our”)   is   primarily   engaged   in   the   production,   grading,   packaging,
+marketing   and   distribution   of fresh   shell   eggs.   Our   operations   are   fully   integrated   under   one   reportable   segment.   We   are   the
+largest   producer   and   distributor   of   fresh   shell   eggs   in   the   U.S.   Our   total   flock   of   approximately   43.3   million   layers   and   9.9
+million pullets   and breeders   is the largest   in the U.S.   We   sell most of   our shell eggs   to a diverse   group of   customers, including
+national and regional   grocery store chains,   club stores, companies   servicing independent supermarkets   in the U.S., food   service
+distributors,   and egg   product customers   in states   across the   southwestern,   southeastern, mid-western   and mid-Atlantic   regions
+of the U.S.
+Our   operating   results   are   materially   impacted   by   market   prices for   eggs   and   feed   grains   (corn   and   soybean   meal),   which   are
+highly   volatile,   independent   of   each   other,   and   out   of   our   control.   Generally,   higher   market   prices   for   eggs   have   a   positive
+impact   on   our   financial   results   while   higher   market   prices   for   feed   grains   have   a   negative   impact   on   our   financial   results.
+Although we   use a   variety of   pricing mechanisms   in pricing   agreements with   our customers,   we sell   most of   our conventional
+shell eggs   based on   formulas that   consider,   in varying   ways, independently   quoted regional   wholesale   market prices   for shell
+eggs   or   formulas   related   to   our   costs   of   production   which   include   the   cost   of   corn   and   soybean   meal.   We   do   not   sell   eggs
+directly to consumers or set the prices at which eggs are sold to consumers.
+Retail   sales   of   shell   eggs   historically   have   been   highest   during   the   fall   and   winter   months   and   lowest   during   the   summer
+months. Prices   for shell   eggs fluctuate   in response   to seasonal   demand factors   and a   natural increase   in egg   production during
+the   spring   and   early   summer.   Historically,   shell   egg   prices   tend   to   increase   with   the   start   of   the   school   year   and   tend   to   be
+highest   prior   to   holiday   periods,   particularly   Thanksgiving,   Christmas   and   Easter.   Consequently,   and   all   other   things   being
+Index 18
+equal, we would   expect to experience   lower selling prices, sales   volumes and net   income (and may   incur net losses) in   our first
+and   fourth   fiscal   quarters   ending   in   August/September   and   May/June,   respectively.   Because   of   the   seasonal   and   quarterly
+fluctuations,   comparisons   of   our   sales   and   operating   results   between   different   quarters   within   a   single   fiscal   year   are   not
+necessarily meaningful comparisons.
+We   routinely   fill   our   storage   bins   during   harvest   season   when   prices   for   feed   ingredients   are   generally   lower.   To   ensure
+continued   availability of   feed ingredients,   we may   enter into   contracts for   future purchases   of corn   and soybean   meal, and   as
+part   of   these   contracts,   we   may   lock-in   the   basis   portion   of   our   grain   purchases   several   months   in   advance.   Basis   is   the
+difference   between the   local cash   price for   grain and   the applicable   futures price.   A basis   contract is   a common   transaction in
+the grain   market that   allows us   to lock-in   a basis   level for   a specific   delivery period   and wait   to set   the futures   price at   a later
+date. Furthermore,   due to   the more   limited supply   for organic   ingredients, we   may commit   to purchase   organic   ingredients in
+advance to help ensure supply.   Ordinarily, we do   not enter into long-term contracts beyond a year to purchase   corn and soybean
+meal   or   hedge   against   increases   in   the   prices   of   corn   and   soybean   meal.   Corn   and   soybean   meal   are   commodities   and   are
+subject   to   volatile   price   changes   due   to   weather,   various   supply   and   demand   factors,   transportation   and   storage   costs,
+speculators,   agricultural, energy and trade policies in the U.S. and internationally   and most recently the Russia-Ukraine war.
+An important competitive advantage   for Cal-Maine Foods is   our ability to meet   our customers’ evolving needs   with a favorable
+product   mix   of   conventional   and   specialty   eggs,   including   cage-free,   organic   and   other   specialty   offerings,   as   well   as   egg
+products.   We   have   also   enhanced   our   efforts   to   provide   free-range   and   pasture-raised   eggs   that   meet   consumers’   evolving
+choice   preferences.   While   a   small   part   of   our   current   business,   the   free-range   and   pasture-raised   eggs   we   produce   and   sell
+represent attractive offerings   to a subset of   consumers,   and therefore our customers,   and help us continue   to serve as the trusted
+provider of quality food choices.
+We   are   also   focused   on   additional   ways   to   enhance   our   product   mix   and   support   new   opportunities   in   the   restaurant,
+institutional   and   industrial   food   products   arena.   On   October   4,   2021,   Cal-Maine   Foods   announced   a   strategic   investment   of
+$18.5   million   in   debt   and   equity   in   Meadow   Creek   Foods,   LLC   (“MeadowCreek”),   an   egg   products   operation   located   in
+Neosho,   Missouri,   focused   on offering   hard-cooked   eggs.   Cal-Maine   Foods   serves   as   the   preferred   provider   of   specialty and
+conventional   eggs   used   by   MeadowCreek   to   manufacture   egg   products.   On   December   13,   2022,   our   Board   of   Directors
+approved   an additional   $13.8 million   investment to   expand the   Company’s   controlling interest   and fund   additional equipment
+and   working   capital   needs   to support   growth   opportunities   for   MeadowCreek.   As demand   for   hard-cooked   eggs   continues to
+grow,   the   funds   will   be   used   for   additional   refrigerated   storage   space   and   expanded   capacity   for   cooking   and   packaging   to
+better serve MeadowCreek’s   customers. MeadowCreek began operations during the third quarter of fiscal 2023.
+The   Company   has   joined   in   the   formation   of   a   new   egg   farmer   cooperative   in   the   western   United   States.   ProEgg,   Inc.
+(“ProEgg”)   is   comprised   of   leading   egg   production   companies,   including   Cal-Maine   Foods,   servicing   retail   and   foodservice
+shell egg customers in 13 western states. ProEgg is a producer-owned   cooperative organized under the Capper-Volstead   Act.
+Our   membership   in   ProEgg   is   expected   to   provide   benefits   for   its   customers,   including   supply   chain   stability   and   enhanced
+reliability.   Initially,   Cal-Maine Foods’   customer relationships   and customer   support are   expected to   remain the   same. At some
+point in the future, it is anticipated   that each producer member will sell   through ProEgg the shell eggs   it produces for sale in the
+western   states   covered   by   the   cooperative.   Customers   would   have   a   single   point   of   contact   for   their   shell   egg   purchases,   as
+ProEgg would have a dedicated team to market and sell the members’ combined   egg production in the region.
+The Company’s   top priority in joining   as a member of   ProEgg is serving   our valued customers in   this important market   region.
+During   this   initial   phase,   we   will   continue   our   work   to   confirm   that   our   participation   in   this   new   cooperative   is   in   the   best
+interest of   our customers   and aligns   with our   long-term interests.   This consideration   will take   place before   moving to   the next
+phase of membership, and we expect this process to be completed on   or before the end of calendar year 2023.
+HPAI
+We   are closely   monitoring   the current   outbreak of   HPAI   that was   first detected   in commercial   flocks in   the U.S.   in February
+2022.   Outbreaks in   commercial flocks   in the   U.S. have   most recently   occurred   during   each month   from September   to March
+2023.   The   current   HPAI   epidemic   has   surpassed   the   prior   2014-2015   outbreak   in   terms   of   its   duration   and   the   number   of
+affected   hens   in   the   U.S.,   and   HPAI   continues   to   circulate   throughout   the   wild   bird   population   in   the   U.S.   and   abroad.
+According to   the U.S.   Centers for   Disease Control   and Prevention,   these detections   do not   present an   immediate public   health
+concern.   There   have   been   no positive   tests for   HPAI   at   any   Cal-Maine   Foods’   owned   or contracted   production   facility as   of
+March 28,   2023. The   USDA division   of Animal   and Plant   Health Inspection   Service (“APHIS”)   reported   on March   27, 2023
+that   approximately   43.3   million   commercial   layer   hens   and   1.0   million   pullets   have   been   depopulated   due   to   HPAI   since
+February 2022. We   believe the HPAI   outbreak will continue   to exert downward   pressure on the   overall supply of   eggs, and the
+Index 19
+duration of those   effects will depend   in part on the   timing of replenishment   of the U.S.   layer hen flock.   Prior to the outbreak   of
+HPAI   in February   2022,   the layer   hen flock   five-year   average from   2017 through   2021 was   comprised   of approximately   328
+million hens.   According to   a LEAP Market   Analytics report   dated March   21, 2023,   the layer   hen inventory   is not   projected to
+exceed this 328   million mark again until   January of 2024.   Layer hen numbers reported   by the USDA as   of March 1, 2023   were
+312.9   million,   which   represents   a   decrease   of   3.8%   compared   with   the   layer   hen   inventory   a   year   ago.   However,   the   USDA
+reported   that   the   hatch   from   October   2022   through   February   2023   increased   4.5%   as   compared   with   the   prior-year   period,
+indicating that layer flocks may increase in the future.
+While no   farm is   immune from   HPAI,   we believe   we have implemented   and continue   to maintain   robust biosecurity   programs
+across our locations. We   are also working closely with federal, state and local government   officials and focused industry groups
+to mitigate the risk of this and future outbreaks and effectively manage   our response, if needed.
+CAGE-FREE EGGS
+Ten   states   have   passed   legislation   or   regulations   mandating   minimum   space   or   cage-free   requirements   for   egg   production   or
+mandated   the   sale   of   only   cage-free   eggs   and   egg   products   in   their   states,   with   implementation   of   these   laws   ranging   from
+January   2022   to   January   2026.   These   states   represent   approximately   27%   of   the   U.S.   total   population   according   to   the 2020
+U.S. Census.   In California   and Massachusetts,   which   collectively represent   14% of   the total   U.S. population   according to   the
+2020 U.S. Census,   cage-free legislation went   into effect January   1, 2022. However,   these laws are subject   to judicial challenge,
+and in October   2022 the U.S.   Supreme Court   heard oral arguments   in a case   challenging California’s   law that requires   the sale
+of only cage-free eggs in   that state. A decision in that case   is expected in the summer of 2023.   These laws have already affected
+and,   if   upheld,   will   continue   to   affect   sourcing,   production   and   pricing   of   eggs   (conventional   as   well   as   specialty)   as   the
+national demand for cage-free production   could be greater than the   current supply,   which would increase the prices   of cage-free
+eggs,   unless   more   cage-free   production   capacity   is   constructed.   Likewise,   the   national   supply   for   eggs   from   conventional
+production could exceed consumer demand, which would decrease the   prices   of conventional eggs.
+A significant number   of our customers   have previously announced   goals to offer   cage-free eggs exclusively   on or before   2026,
+subject in   most cases   to availability   of supply,   affordability and   customer demand,   among other   contingencies. Some   of these
+customers have   recently changed   those goals   to offer   70% cage-free   eggs by   the end   of 2030.   Our customers   typically do   not
+commit to long-term   purchases of specific quantities   or types of eggs   with us, and as   a result, it is difficult   to accurately predict
+customer   requirements   for   cage-free   eggs.   We   are,   however,   engaging   with   our   customers   in   an   effort   to   achieve   a   smooth
+transition   in   meeting   their   announced   goals   and   needs.   We   have   invested   significant   capital   in   recent   years   to   acquire   and
+construct cage-free   facilities, and   we expect   our focus   for future   expansion will   continue to   include cage-free   facilities. At   the
+same   time,   we   understand   the   importance   of   our   continued   ability   to   provide   conventional   eggs   in   order   to   provide   our
+customers with a variety of egg choices and to address hunger in our communities.   For   additional   information,   see   the   2022   Annual   Report,   Part   I   Item   1,   “Business   –   Specialty   Eggs,”   “Business   –   Growth
+Strategy” and   “Business –   Government   Regulation,” and   the first   risk factor   in Part   I Item   1A, “Risk   Factors” under   the sub- heading “Legal and Regulatory Risk Factors.”
+EXECUTIVE OVERVIEW
+For the third quarter   of fiscal 2023,   we recorded a gross   profit of $463.0 million   compared to $91.6 million   for the same period
+of   fiscal   2022,   with   the   increase   due   primarily   to   higher   shell   egg   prices,   partially   offset   by   the   increased   cost   of   feed
+ingredients and other farm production costs as well as increased processing   ,   packaging and warehouse costs.   Our   net   average selling   price per   dozen for   the   third quarter   of fiscal   2023   was $3.298   compared   to $1.   612   in   the prior-year
+period. Conventional   egg prices   per dozen   were $3.678   compared to   $1.458 for   the prior-year   period, and   specialty egg   prices
+per dozen   were $2.616   compared to   $1.923 for   the prior-year   period. Conventional   egg prices   increased in   the third   quarter of
+fiscal 2023 primarily due to decreased supply caused by the HPAI   outbreak combined with robust customer demand,   which was
+bolstered by   the peak   winter holiday   season. See   the discussion   under the   heading “HPAI”   above. The   daily average   price for
+the Urner   Barry southeast   large index   for the   third quarter   of fiscal   2023 increased   129.8% from   the comparable   period in   the
+prior   year.   Conventional   egg   prices   exceeding   specialty   egg   prices   has   occurred   for   the   past   four   quarters   but   is   atypical
+historically.   Conventional egg   prices generally   respond more   quickly to   market conditions   because we   sell the   majority of   our
+conventional shell eggs based on   formulas that adjust periodically and take into   account, in varying ways, independently quoted
+regional   wholesale   market   prices for   shell   eggs   or   formulas   related   to   our   costs of   production.   The   majority   of our   specialty
+eggs   are   typically   sold   at   prices   and   terms   negotiated   directly   with   customers   and   therefore   do   not   fluctuate   as   much   as
+conventional pricing. For information about historical shell egg prices,   see Part I Item I of our 2022 Annual Report.
+Index 20
+Our total   dozens sold   increased 1.3%   to 291.4   million dozen   shell eggs   for the   third quarter   of fiscal   2023 compared   to 287.7
+million dozen for   the same period   of fiscal 2022.   For the third quarter   of fiscal 2023,   conventional dozens sold   decreased 2.7%
+and specialty   dozens sold increased   9.4% as compared   to the same   quarter in fiscal   2022. Demand   for specialty eggs   increased
+in the   third quarter   of fiscal   2023 compared   to the   same prior   year period   due primarily   to the   higher prices   for conventional
+eggs. Further, demand for specialty eggs continued   to increase as retailers continued to shift to selling cage-free products.
+Our farm production   costs per dozen   produced for the   third quarter of   fiscal 2023 increased   18.2%, or $0.166,   compared to the
+third quarter of fiscal 2022.   This increase was primarily due   to increased feed ingredient   costs as well as increased facility   costs
+and higher amortization   of our flocks.   For the third quarter of   fiscal 2023, the average   Chicago Board of Trade   (“CBOT”) daily
+market   price   was   $6.67   per   bushel   for   corn   and   $473   per   ton   for   soybean   meal,   representing   increases   of   8.8%   and   14.8%,
+respectively,   compared   to   the average   daily   CBOT prices   for   the   comparable   period   in   the prior   year.   For   information   about
+historical corn and soybean meal prices, see Part I Item I of our 2022 Annual   Report.
+RESULTS OF   OPERATIONS
+The following   table sets forth,   for the periods   indicated, certain   items from   our Condensed Consolidated   Statements of Income
+expressed as a percentage of net sales.
+Thirteen Weeks   Ended
+Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+February 25, 2023
+February 26, 2022
+Net sales
+100.0
+%
+100.0
+%
+100.0
+%
+100.0
+%
+Cost of sales
+53.6
+%
+80.8
+%
+59.4
+%
+88.0
+%
+Gross profit
+46.4
+%
+19.2
+%
+40.6
+%
+12.0
+%
+Selling, general and administrative
+5.9
+%
+11.0
+%
+6.9
+%
+12.4
+%
+Gain on insurance recoveries
+(0.3)
+%
+(0.2)
+%
+(0.1)
+%
+(0.3)
+%
+(Gain) loss on disposal of fixed assets
+—
+%
+0.1
+%
+—
+%
+—
+%
+Operating income (loss)
+40.8
+%
+8.3
+%
+33.8
+%
+(0.1)
+%
+Total other income, net
+1.7
+%
+2.8
+%
+0.9
+%
+1.8
+%
+Income before income taxes
+42.5
+%
+11.1
+%
+34.7
+%
+1.7
+%
+Income tax expense (benefit)
+10.2
+%
+2.8
+%
+8.4
+%
+(0.2)
+%
+Net income
+32.3
+%
+8.3
+%
+26.3
+%
+1.9
+%
+NET SALES
+Total   net sales for the   third quarter of fiscal   2023 were $997.5 million   compared to $477.5 million   for the same period   of fiscal
+2022.
+Net shell   egg sales   represented 96.   7% and   97.3% of   total net   sales for   the third   quarters   of fiscal   2023 and   2022, respectively.
+Shell   egg   sales classified   as “Other”   represent   sales   of   miscellaneous   byproducts   and   resale products   included   with our   shell
+egg operations.   Total   net   sales   for   the   thirty-nine   weeks   ended   February   25,   2023   were   $2.46   billion,   compared   to   $1.18   billion   for   the
+comparable period of fiscal 2022.
+Net   shell   egg   sales   represented   96.4%   and   97.2%   of   total   net   sales   for   the   thirty-nine   weeks   ended   February   25,   2023   and
+February 26, 2022, respectively.
+Index 21
+The table below presents an analysis of our conventional and specialty shell egg   sales (in thousands, except percentage data):
+Thirteen Weeks   Ended
+Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+February 25, 2023
+February 26, 2022
+Total net sales
+$
+997,493
+$
+477,485
+$
+2,457,537
+$
+1,184,195
+Conventional
+$
+689,022
+71.4
+%
+$
+280,633
+60.4
+%
+$
+1,656,528
+69.9
+%
+$
+683,805
+59.4
+%
+Specialty
+272,205
+28.2
+%
+182,945
+39.4
+%
+700,803
+29.6
+%
+462,320
+40.2
+%
+Egg sales, net
+961,227
+99.6
+%
+463,578
+99.8
+%
+2,357,331
+99.5
+%
+1,146,125
+99.6
+%
+Other
+3,684
+0.4
+%
+1,158
+0.2
+%
+11,932
+0.5
+%
+4,554
+0.4
+%
+Net shell egg sales
+$
+964,911
+100.0
+%
+$
+464,736
+100.0
+%
+$
+2,369,263
+100.0
+%
+$
+1,150,679
+100.0
+%
+Net shell egg sales as a
+percent of total net sales
+96.7
+%
+97.3
+%
+96.4
+%
+97.2
+%
+Dozens sold:
+Conventional
+187,357
+64.3
+%
+192,511
+66.9
+%
+555,045
+65.2
+%
+568,511
+70.0
+%
+Specialty
+104,059
+35.7
+%
+95,140
+33.1
+%
+295,774
+34.8
+%
+243,310
+30.0
+%
+Total dozens sold
+291,416
+100.0
+%
+287,651
+100.0
+%
+850,819
+100.0
+%
+811,821
+100.0
+%
+Net average selling price
+per dozen:
+Conventional
+$
+3.678
+$
+1.458
+$
+2.984
+$
+1.203
+Specialty
+$
+2.616
+$
+1.923
+$
+2.369
+$
+1.900
+All shell eggs
+$
+3.298
+$
+1.612
+$
+2.771
+$
+1.412
+Egg products sales:   Egg products net sales
+32,582
+12,749
+88,274
+33,516
+Pounds sold
+16,796
+15,947
+49,000
+47,225
+Net average selling price
+per pound
+1.940
+0.799
+1.802
+0.710
+Shell egg net sales
+Third Quarter – Fiscal 2023   vs. Fiscal 2022
+- In the   third quarter   of fiscal   2023,   conventional egg   sales increased   $408.4 million,   or 145.5%,   compared to   the third
+quarter   of   fiscal   2022,   primarily   due   to   the   increase   in   the   prices   for   conventional   shell   eggs,   slightly   offset   by   a
+decrease   in   volume   of   conventional   shell   eggs   sold.   Changes   in   prices   resulted   in   a   $415.9   million   increase   and   the
+change in volume resulted in a $7.5 million decrease in net sales, respectively.
+- Conventional egg   prices increased   in the   third quarter   of fiscal   2023   primarily due   to decreased   supply caused   by the
+HPAI   outbreak,   discussed   above,   while   customer   demand,   bolstered   by   the   peak   winter   holiday   season,   remained
+robust.
+- Specialty egg   sales increased $89.3   million, or 48.8%,   in the third   quarter of fiscal   2023 compared to   the third quarter
+of   fiscal   2022,   primarily   due   to   a   36.0%   increase   in   the   prices   for   specialty   eggs,   which   resulted   in   a   $72.1   million
+increase   in   net   sales,   and   a   9.4%   increase   in   the   volume   of   specialty   eggs   sold,   which   resulted   in   a   $17.2   million
+increase in net sales.   - Net average selling prices   of specialty eggs increased   in response to rising feed   and other input costs as well   as current
+market conditions due to HPAI.
+- Demand   for   specialty   eggs   increased   as   conventional   egg   prices   rose.   Our   sales   volume   benefited   as   we   sold   9.4%
+more   specialty   eggs   by   volume   in   the   third   quarter   of   fiscal   2023   versus   the   prior-year   period,   through   use   of   our
+higher cage-free production capacity.
+- Cage-free egg sales   for the third quarter   of fiscal 2023 represented   17.8%   of our total net   shell egg sales versus   24.0%
+for the   same prior year   period due   to the higher   conventional egg   prices causing   conventional egg   sales to represent   a
+Index 22
+higher   proportion   of   our   total   sales.   Cage-free   dozens   sold   increased   14.9%   in   the   third   quarter   of   fiscal   2023   as
+compared to the third quarter   of fiscal 2022 as the   higher conventional egg prices drove   demand for specialty eggs   and
+we utilized our expanded cage-free production capacity.
+Thirty-nine weeks – Fiscal 2023 vs. Fiscal 2022
+- For   the   thirty-nine   weeks   ended   February   25,   2023,   conventional   egg   sales   increased   $972.7   million,   or   142.3%,
+compared   to   the   same   period   of   fiscal   2022,   primarily   due   to   the   increase   in   the   prices   for   conventional   shell   eggs,
+slightly offset   by the decrease   in the volume   of conventional eggs   sold. Changes in   prices   resulted in a   $988.5 million
+increase and the change in volume resulted in a $16.2 million decrease in net   sales, respectively.
+- Specialty egg   sales increased   $238.5 million,   or 51.6%,   for the   thirty-nine weeks   ended February   25, 2023   compared
+to the   same period of   fiscal 2022,   primarily due   to a 24.7%   increase in   the prices   for specialty   eggs.   Additionally,   the
+volume   of specialty   dozens   sold   increased   21.6%   compared   to   the   same   prior   year   period,   mainly   due   to   the higher
+conventional egg prices.   Changes in specialty   egg prices resulted   in a $138.7 million   increase in net sales   and changes
+in volume resulted in a $99.7 million increase,   respectively.   Egg products net sales
+Third Quarter – Fiscal 2023   vs. Fiscal 2022
+- Egg products   net sales   increased $19.8   million, or   155.6%, for   the third   quarter of   fiscal 2023   compared to   the same
+period of   fiscal 2022,   primarily due   to a   142.8% selling   price increase,   which had   a $19.2   million positive   impact on
+net sales.
+- Our egg products net average selling price increased in the third quarter   of fiscal 2023, compared to the third quarter of
+fiscal 2022 as the supply of shell eggs   used to produce egg products decreased   due to the HPAI   outbreak that started in
+February 2022.   Thirty-nine weeks – Fiscal 2023 vs. Fiscal 2022
+- Egg products   net sales   increased $54.8   million or   163.4%, primarily   due to   a 153.8%   selling price   increase compared
+to the first thirty-nine weeks of fiscal 2022, which had a $53.5 million   positive impact on net sales.
+- Our egg products net average selling price increased   in the thirty-nine weeks ended February 25, 2023   compared to the
+same   period   in   fiscal   2022   as   the   supply   of   shell   eggs   used   to   produce   egg   products   decreased   due   to   the   HPAI
+outbreak that started in February 2022. COST OF SALES
+Costs of sales   for the   third quarter of   fiscal 2023   were $534.5 million   compared to $385.9   million for the   same period of   fiscal
+2022. Cost of   sales for the   thirty-nine weeks   ended February 25,   2023 were $1,459.2   million compared   to $1,042.2 million   for
+the same period of fiscal 2022.
+Cost of   sales consists   of   costs directly   related   to producing,   processing   and   packing   shell eggs,   purchases   of   shell   eggs from
+outside producers, processing and packing   of liquid and frozen egg products and other non-egg   costs. Farm production costs are
+those costs   incurred at   the egg   production facility,   including feed,   facility,   hen amortization   and other   related farm   production
+costs.
+Index 23
+The following table presents the   key variables affecting our cost of sales (in thousands, except cost per   dozen data):
+Thirteen Weeks   Ended
+Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+%
+Change
+February 25, 2023
+February 26, 2022
+%
+Change
+Cost of Sales:
+Farm production
+$
+280,384
+$
+239,389
+17.1
+%
+$
+823,043
+$
+668,855
+23.1
+%
+Processing, packaging,
+and warehouse
+87,037
+77,116
+12.9
+252,093
+211,649
+19.1
+Egg purchases and other
+(including change in
+inventory)
+135,003
+59,135
+128.3
+301,274
+133,968
+124.9
+Total shell eggs
+502,424
+375,640
+33.8
+1,376,410
+1,014,472
+35.7
+Egg products
+32,043
+10,263
+212.2
+82,762
+27,749
+198.3
+Total
+$
+534,467
+$
+385,903
+38.5
+%
+$
+1,459,172
+$
+1,042,221
+40.0
+%
+Farm production costs
+(per dozen produced)
+Feed
+$
+0.679
+$
+0.562
+20.8
+%
+$
+0.677
+$
+0.546
+24.0
+%
+Other
+$
+0.399
+$
+0.350
+14.0
+%
+$
+0.388
+$
+0.350
+10.9
+%
+Total
+$
+1.078
+$
+0.912
+18.2
+%
+$
+1.065
+$
+0.896
+18.9
+%
+Outside egg purchases
+(average cost per dozen)
+$
+3.72
+$
+1.75
+112.6
+%
+$
+3.20
+$
+1.57
+103.8
+%
+Dozens produced
+263,174
+264,433
+(0.5)
+%
+782,186
+757,677
+3.2
+%
+Percent produced to sold
+90.3%
+91.9%
+(1.7)
+%
+91.9%
+93.3%
+(1.5)
+%
+Farm Production
+Third Quarter – Fiscal 2023   vs. Fiscal 2022
+- Feed   costs   per   dozen   produced   increased   20.8%   in   the   third   quarter   of   fiscal   2023   compared   to   the   third   quarter   of
+fiscal 2022.   This increase was   primarily due   to increased   prices for corn,   our primary feed   ingredient.   Basis levels for
+corn and soybean meal ran significantly higher in our area of operations   compared to our prior year third fiscal quarter,
+adding to our expense.
+- For the third   quarter of fiscal   2023, the average   daily CBOT   market price was   $6.67 per bushel   for corn and   $473 per
+ton of soybean   meal, representing increases   of 8.8% and   14.8%, respectively,   as compared to the   average daily CBOT
+prices for the third quarter of fiscal 2022.   - Other   farm   production   costs   increased   due   to   higher   facility   and   flock   amortization.   Facility   costs   increased   due
+primarily   to   increased   labor   costs.   Labor   costs   increased   36%   due   to   increased   use   of   contract   labor   and   increased
+wages raised in response to labor shortages.
+- Flock amortization   increased primarily   from higher   feed costs,   which began   to rise   in our   third quarter   of fiscal   2021
+due to   increased feed   ingredient prices   discussed above,   and which   remained high   in the   third quarter   of fiscal   2023.
+Feed   costs   are   capitalized   in   our   flocks   during   pullet   production   and   increased   our   amortization   expense.   We   also
+experienced higher amortization costs from an increase in our cage-free   production, which has higher capitalized costs.
+Thirty-nine weeks – Fiscal 2023 vs. Fiscal 2022
+- Feed   costs   per   dozen   produced   increased   24.0%   in   the   thirty-nine   weeks   ended   February   25,   2023   compared   to   the
+same period   of fiscal   2022, primarily   due to higher   feed ingredient prices   .   Basis levels for   corn and soybean   meal ran
+significantly higher in our area of operations compared to our prior year third   fiscal quarter, adding to our expense. - Other   farm   production   costs   increased   due   to   higher   facility   and   flock   amortization.   Facility   costs   increased   due
+primarily   to   increased   labor   costs.   Labor   costs   increased   28%   due   to   increased   use   of   contract   labor   and   increased
+wages raised in response to labor shortages.
+Index 24
+- Flock amortization increa   sed primarily from   higher capitalized feed   costs as well as   higher amortization   costs from an
+increase in our cage-free production.
+Supplies of corn and   soybean remained tight relative to   demand in the third quarter   of fiscal 2023,   as evidenced by a low stock- to-use ratio for corn,   as a result of   weather-related shortfalls in   production and yields, ongoing   supply chain disruptions and   the
+Russia-Ukraine   war   and   its   impact   on   the   export   markets.   For   fiscal   2023,   we   expect   continued   corn   and   soybean   upward
+pricing pressures and further market volatility to affect   feed costs.   Processing, packaging, and warehouse
+Third Quarter – Fiscal 2023   vs. Fiscal 2022
+- Cost of   packaging materials   increased 10.9%   compared to   the third   quarter of   fiscal 2022   due to   rising inflation   and
+labor costs.
+- Labor costs increased 14.2%   due to wage increases and increased use of contract labor in response to labor shortages   .
+Thirty-nine weeks – Fiscal 2023 vs. Fiscal 2022
+- Cost of packaging materials   increased 15.5%   compared to the thirty-nine   weeks ended February 26, 2022   due to rising
+inflation and labor costs.
+- Labor costs   increased 13.7%   due to   wage increases   in response   to labor   shortages, primarily   due to   the pandemic   and
+its effects.
+- Dozens   processed   increased   3.2%   compared   to   the   thirty-nine   weeks   ended   February   26,   2022,   which   resulted   in   a
+$7.3 million increase in costs.
+Egg purchases and other (including change in inventory)
+Third Quarter – Fiscal 2023   vs. Fiscal 2022
+- Costs in this   category increased   primarily due to   higher egg prices   as well as   an increase in   the volume of   outside egg
+purchases, causing the percentage of produced to sold to decrease to 90.3%   from 91.9%.
+Thirty-nine weeks – Fiscal 2023 vs. Fiscal 2022
+- Costs in this   category increased   primarily due to   higher egg prices   as well as   an increase in   the volume of   outside egg
+purchases, as our percentage of produced to sold decreased to 91.9% from 93.3%.
+GROSS PROFIT   Gross   profit   for   the   third   quarter   of   fiscal   2023   was   $463.0   million   compared   to   $91.6   million   for   the   same   period   of   fiscal
+2022.   The increase   of $371.4   million was   primarily due   to higher   egg prices   as well   as the   increased volume   of specialty   eggs
+sold, partially offset   by the increased cost of   feed ingredients and processing,   packaging and warehouse costs   and the decreased
+volume of conventional egg sales.
+Gross profit   for   the thirty-nine   weeks ended   February   25, 2023   was $998.4   million   compared   to $142.0   million   for the   same
+period of fiscal   2022. The increase   of $856.4 million   was primarily due   to higher egg   prices as well as   the increased volume   of
+specialty eggs sold, partially offset by the increased   cost of feed ingredients and processing, packaging and warehouse costs and
+the decreased volume of conventional egg sales.
+Index 25
+SELLING, GENERAL, AND ADMINISTRATIVE   EXPENSES
+Selling,   general,   and   administrative   ("SGA")   expenses   include   costs   of   marketing,   distribution,   accounting   and   corporate
+overhead. The following table presents an analysis of our SGA expenses (in thousands):
+Thirteen Weeks   Ended
+February 25, 2023
+February 26, 2022
+$ Change
+% Change
+Specialty egg expense
+$
+15,689
+$
+17,318
+$
+(1,629)
+(9.4)
+%
+Delivery expense
+19,453
+16,440
+3,013
+18.3
+%
+Payroll, taxes and benefits
+14,325
+11,398
+2,927
+25.7
+%
+Stock compensation expense
+1,059
+1,007
+52
+5.2
+%
+Other expenses
+7,963
+6,523
+1,440
+22.1
+%
+Total
+$
+58,489
+$
+52,686
+$
+5,803
+11.0
+%
+Third Quarter – Fiscal 2023   vs. Fiscal 2022
+Specialty egg expense
+- Specialty   egg   expense   decreased   primarily   due   to   a   significant   reduction   in   advertising   costs.   The   higher   prices   for
+conventional eggs and the comparatively lower prices for specialty   eggs diminished the need to promote specialty eggs
+in the third quarter of fiscal 2023.
+Delivery expense
+- The   increased   delivery   expense   is   primarily   due   to   an   increase   in   contract   trucking   expenses   of   approximately   $2.0
+million in the third quarter of fiscal 2023 compared to the third quarter of fiscal 2022. Payroll, taxes and benefits expense
+- The   increase   in payroll,   taxes and   benefits   expense   is due   to   an   increase   in   the accrual   for   anticipated   performance- based bonuses. Other expense
+- The increase in other expense is primarily due to inflationary pressure increasing   costs. Thirty-nine Weeks Ended
+February 25, 2023
+February 26, 2022
+$ Change
+% Change
+Specialty egg expense
+$
+43,429
+$
+45,295
+$
+(1,866)
+(4.1)
+%
+Delivery expense
+57,544
+44,771
+12,773
+28.5
+%
+Payroll, taxes and benefits
+39,139
+32,640
+6,499
+19.9
+%
+Stock compensation expense
+3,071
+2,983
+88
+3.0
+%
+Other expenses
+26,865
+21,302
+5,563
+26.1
+%
+Total
+$
+170,048
+$
+146,991
+$
+23,057
+15.7
+%
+Thirty-nine weeks – Fiscal 2023 vs. Fiscal 2022
+Specialty egg expense
+- Specialty egg   expense, which includes   franchise fees, advertising   and promotion   costs, generally   aligns with specialty
+egg   volumes,   which   were   up   21.6%   for   fiscal   2023   compared   to   fiscal   2022.   However,   our   specialty   egg   expense
+decreased by   4.1%, primarily   due to   a significant   reduction in   advertising expense   as well   as increased   sales to   other
+Eggland’s   Best,   Inc.   (“EB”)   franchisees,   including   unconsolidated   affiliates,   Specialty   Eggs,   LLC   and   Southwest
+Specialty   Eggs,   LLC.   Additionally,   the   higher   prices   for   conventional   eggs   and   the   comparatively   lower   prices   for
+specialty eggs diminished the   need to promote specialty   eggs; as a result, EB temporarily   reduced the related franchise
+fees for certain specialty egg products to encourage continued production of   these products.
+Index 26
+Delivery expense
+- The increased   delivery expense   is primarily   due to   an increase   in fuel   and labor   costs for   both our   fleet and   contract
+trucking.   Compared   to   fiscal   2022,   contract   trucking   and   labor   expenses   increased   approximately   $9.2   million   for
+fiscal 2023. Payroll, taxes and benefits expense
+- The   increase   in   payroll,   taxes   and   benefits   expense   is   primarily   due   to   an   increase   in   the   accrual   for   anticipated
+performance-based bonuses and increased wages for all employees   due to the inflationary market. Other expenses
+- The increase in other expense is primarily due to increased   legal expenses of approximately $3.6 million. OPERATING   INCOME (LOSS)
+For the   third quarter   of fiscal   2023, we   recorded operating   income of   $407.8 million   compared to   $39.6 million   for the   same
+period of fiscal 2022.
+For the thirty-nine   weeks ended February   25, 2023, we   recorded operating   income of $831.5   million compared   to an operating
+loss of $2.2 million for the same period of fiscal 2022.
+OTHER INCOME (EXPENSE)   Total   other   income   (expense)   consists   of   items   not   directly   charged   or   related   to   operations,   such   as   interest   income   and
+expense, royalty income, equity income or loss of unconsolidated   entities, and patronage income, among other items.
+For the   third quarter   of fiscal   2023,   we earned   $6.3 million   of interest   income compared   to $205   thousand for   the same   period
+of   fiscal   2022.   The   increase   resulted   from   significantly   higher   investment   balances   and   higher   interest   rates.   The   Company
+recorded interest expense of   $143 thousand and   $126 thousand for the   third quarters ended February   25, 2023 and February   26,
+2022,   respectively.
+For the   thirty-nine weeks   ended February   25, 2023,   we earned   $9.4 million   of interest   income compared   to $702   thousand for
+the   same   period of   fiscal   2022.   The   increase   resulted   from significantly   higher   investment   balances   and higher   interest rates.
+The   Company   recorded   interest   expense   of   $433   thousand   and   $262   thousand   for   the   thirty-nine   weeks   ended   February   25,
+2023 and February 26, 2022, respectively.
+Other, net for the   third quarter ended February 25, 2023   was an expense of $1.5 million   compared to income of $1.1 million   for
+the   same   period   of   fiscal   2022.   The   majority   of   the   decrease   is   due   to   a   $2   million   impairment   of   an   investment   in   an
+unconsolidated entity in the third quarter of fiscal 2023.
+Other,   net for   the thirty-nine   weeks ended   February   25, 2023   was an   expense   of $205   thousand   compared   to income   of $8.2
+million for the same   period of fiscal 2022. The majority   of the decrease is due   to our acquisition in fiscal 2022   of the remaining
+50% membership   interest in   Red River   Valley   Egg Farm,   LLC (“Red   River”) as   we recognized   a $4.5   million gain   due to   the
+remeasurement   of   our   equity   investment,   along   with   the   $1.4   million   payment   received   in   fiscal   2022   related   to   review   and
+adjustment   of   our   various   marketing   agreements.   Additionally,   the   Company   recorded   a   $2   million   impairment   of   an
+investment in an unconsolidated entity in the third quarter of fiscal 2023.
+INCOME TAXES
+For the third   quarter of fiscal   2023, pre-tax income   was $424.9 million   compared to $53.0   million for the   same period of   fiscal
+2022. We   recorded income tax expense of $102.1   million for the third quarter of fiscal   2023, which reflects an effective   tax rate
+of 24.0%.   Income tax   expense was $13.6   million for   the comparable   period of fiscal   2022, which   reflects an effective   tax rate
+of 25.6%.   For the thirty-nine   weeks ended February   25, 2023, pre-tax income   was $852.6 million   compared to $19.7 million   for the same
+period of   fiscal 2022.   We   recorded income   tax expense   of $206.4   million, which   reflects an   effective   tax rate   of 24.2%.   We
+recorded an income tax benefit of $2.9 million   in the prior year period, which includes the discrete   tax benefit of $8.3 million in
+connection with the Red River   acquisition.   Excluding the discrete tax benefit, income   tax expense for the comparable period   of
+fiscal 2022 was $5.3 million with an adjusted effective tax   rate of 27.3%.
+Index 27
+Our effective tax   rate differs from   the federal statutory income   tax rate due to   state income taxes, certain   federal tax credits and
+certain   items   included   in   income   for   financial   reporting   purposes   that   are   not   included   in   taxable   income   for   income   tax
+purposes,   including   tax   exempt   interest   income,   certain   nondeductible   expenses   and   net   income   or   loss   attributable   to   our
+noncontrolling interest.
+NET INCOME ATTRIBUTABLE   TO CAL-MAINE FOODS, INC.
+Net income   attributable to   Cal-Maine Foods,   Inc. for   the third   quarter ended   February 25,   2023,   was $323.2   million, or   $6.64
+per basic   and $6.62   per diluted   common share,   compared to   net income   attributable to   Cal-Maine Foods,   Inc. of   $39.5 million
+or $0.81 per basic and diluted common share for the same period of fiscal   2022.
+Net   income   attributable   to   Cal-Maine   Foods,   Inc.   for   the thirty-nine   weeks   ended February   25,   2023,   was $647.1   million,   or
+$13.31 per basic and $13.25 per diluted share, compared   to net income attributable to Cal-Maine Foods, Inc.   of $22.6 million or
+$0.46 per basic and diluted share for the same period of fiscal 2022.
+LIQUIDITY AND CAPITAL   RESOURCES   Working   Capital and Current Ratio
+Our working capital   at February 25,   2023 was $880.3 million,   compared to $476.8   million at May 28,   2022. The calculation   of
+working   capital   is defined   as current   assets less   current   liabilities. Our   current   ratio   was 3.8   at February   25, 2023,   compared
+with 3.6 at May 28, 2022. The current ratio is calculated by dividing   current assets by current liabilities.
+Cash Flows from Operating Activities
+For the   thirty-nine weeks   ended February   25, 2023,   $706.5 million   in net   cash was   provided by   operating activities,   compared
+to   $20.8   million   provided   by   operating   activities   for   the   comparable   period   in   fiscal   2022.   The   increase   in   cash   flow   from
+operating   activities   resulted   primarily   from   higher   selling   prices   for   conventional   and   specialty   eggs   as   well   as   increased
+volume of   specialty egg   sales, partially   offset by   increased costs of   feed ingredients   and processing,   packaging and   warehouse
+costs compared to the prior-year period.
+Cash Flows from Investing Activities
+We   continue   to invest   in our   facilities,   with   $86.2   million used   to purchase   property,   plant and   equipment   for   the   thirty-nine
+weeks   ended   February   25,   2023,   compared   to   $49.2   million   in   the   same   period   of   fiscal   2022.   Purchases   of   investment
+securities   were   $442.6   million   in   the   third   quarter   of   fiscal   2023,   compared   to   $47.1   million   in   fiscal   2022.   The   increase   in
+purchases of   investment securities   is primarily   due to   the utilization   of increased   liquidity resulting   from increased   cash flows
+provided by operating activities noted above.   During the thirty-nine weeks ended February 26,   2022, we acquired the remaining
+50% membership interest in Red River for $48.5 million.
+Cash Flows from Financing Activities
+We paid dividends   of $144.6 million for the thirty-nine weeks ended February 25, 2023.
+As of February 25, 2023, cash increased $162.5 million since May 28,   2022, compared to a decrease of $41.8 million during the
+same period of fiscal 2022.
+Credit Facility
+We   had no long-term   debt outstanding at   February 25, 2023   or May 28,   2022. On November   15, 2021, we   entered into a credit
+agreement   that   provides   for   a   senior   secured   revolving   credit facility   (the   “Credit   Facility”),   in   an   initial   aggregate   principal
+amount   of   up   to   $250   million   with   a   five-year   term.   As   of   February   25,   2023,   no   amounts   were   borrowed   under   the   Credit
+Facility. We   have $4.1 million   in outstanding standby   letters of credit issued   under our Credit   Facility for the   benefit of certain
+insurance companies. Refer   to Part II Item   8, Notes to   the Financial Statements,   Note 10 –   Credit Facility included   in our 2022
+Annual Report for further information regarding our long-term debt.
+Index 28
+Material Cash Requirements
+We   continue   to   monitor   the   increasing   demand   for   cage-free   eggs   and   to   engage   with   our   customers   in   efforts   to   achieve   a
+smooth transition   toward their   announced timelines   for cage-free   egg sales.   The following   table presents   material construction
+projects approved as of February 25, 2023 (in thousands):
+Project(s) Type
+Projected   Completion
+Projected Cost
+Spent as of February
+25, 2023
+Remaining
+Projected Cost
+Cage-Free Layer & Pullet Houses
+Fiscal 2024
+42,591
+4,830
+37,761
+Cage-Free Layer & Pullet Houses
+Fiscal 2025
+40,099
+26,350
+13,749
+Cage-Free Layer & Pullet Houses
+Fiscal 2026
+38,883
+15,894
+22,989
+Cage-Free Layer & Pullet Houses
+Fiscal 2027
+56,923
+13,617
+43,306
+$
+178,496
+$
+60,691
+$
+117,805
+We believe our   current cash balances, investments, cash flows from operations, and Credit Facility will be sufficient   to fund our
+current cash needs for at least the next 12 months.   IMPACT OF   RECENTLY   ISSUED/ADOPTED ACCOUNTING STANDARDS
+For   information   on   changes   in   accounting   principles   and   new   accounting   policies,   see
+Note   1   -   Summary   of   Significant
+Accounting Policies   of the Notes to Condensed Consolidated Financial Statements included in this Quarterly   Report.
+CRITICAL ACCOUNTING ESTIMATES   Critical accounting   estimates   are those   estimates   made   in accordance   with U.S.   generally   accepted   accounting   principles that
+involve   a   significant   level   of   estimation   uncertainty   and   have   had   or   are   reasonably   likely   to   have   a   material   impact   on   our
+financial   condition   or results   of operations.   There   have been   no changes   to our   critical accounting   estimates identified   in our
+2022 Annual Report.
+ITEM 3. QUANTITATIVE   AND QUALITATIVE   DISCLOSURES ABOUT MARKET RISK
+There have been no material changes in our exposure to market risk during the   thirty-nine weeks ended February 25, 2023 from
+the information provided in Part II Item 7A Quantitative and Qualitative Disclosures About   Market Risk in our 2022 Annual
+Report.
+ITEM 4.   CONTROLS AND PROCEDURES
+Disclosure Controls and Procedures
+Our disclosure   controls and   procedures are   designed to   provide reasonable   assurance that   information required   to be   disclosed
+by us in the reports   we file or submit   under the Exchange Act   is recorded, processed, summarized   and reported, within the   time
+periods   specified   in   the   Securities and   Exchange   Commission’s   rules   and   forms. Disclosure   controls   and   procedures   include,
+without limitation, controls and   procedures designed to ensure that   information required to be disclosed   by us in the reports that
+we file or   submit under the   Exchange Act is accumulated   and communicated to   management, including our   principal executive
+and   principal   financial   officers,   or   persons   performing   similar   functions,   as   appropriate   to   allow   timely   decisions   regarding
+required disclosure. Based on an evaluation of our disclosure   controls and procedures conducted by our Chief Executive Officer
+and   Chief   Financial   Officer,   together   with   other   financial   officers,   such   officers   concluded   that   our   disclosure   controls   and
+procedures were effective as of February 25, 2023 at the reasonable   assurance level.
+Changes in Internal Control Over Financial Reporting
+There was   no change   in our   internal control   over financial   reporting that   occurred during   the quarter   ended February   25, 2023
+that has materially affected, or is reasonably likely to materially affect,   our internal control over financial reporting.
+Index 29
+PART   II. OTHER INFORMATION
+ITEM 1.   LEGAL PROCEEDINGS
+Refer   to   the   discussion   of   certain   legal   proceedings   involving   the   Company   and/or   its   subsidiaries   in   (i)   our   2022   Annual
+Report,   Part   I   Item   3   Legal   Proceedings,   and   Part   II   Item 8,   Notes   to   Consolidated   Financial   Statements   and   Supplementary
+Data, Note   18: Commitments   and Contingencies,   and (ii)   in this Quarterly   Report in
+Note 9 : Commitments   and Contingencies of the Notes to Condensed Consolidated Financial Statements, which discussions are   incorporated herein by reference. ITEM 1A.   RISK FACTORS
+There have been no material changes in the risk factors previously disclosed in the   Company’s 2022 Annual   Report.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF   PROCEEDS
+The following table is a summary of our third quarter 2023 share repurchases:
+Issuer Purchases of Equity Securities
+Total   Number of
+Maximum Number
+Shares Purchased
+of Shares that
+Total   Number
+Average
+as Part of Publicly
+May Yet   Be
+of Shares
+Price Paid
+Announced Plans
+Purchased Under the
+Period
+Purchased (1)
+per Share
+Or Programs
+Plans or Programs
+11/27/22 to 12/24/22
+—
+$
+—
+—
+—
+12/25/22 to 01/21/23
+(29,344)
+54.10
+—
+—
+01/22/23 to 02/25/23
+—
+—
+—
+—
+(29,344)
+$
+54.10
+—
+—
+(1)   As permitted under our Amended and Restated 2012   Omnibus Long-Term Incentive Plan, these shares were withheld by us to satisfy   tax withholding     obligations for employees in connection with the vesting of restricted   common stock.
+ITEM 6. EXHIBITS
+Exhibits
+No.
+Description
+3.1
+Second Amended and Restated Certificate of Incorporation of the Registrant   (incorporated by reference to
+Exhibit 3.1 in the Registrant’s Form   8-K, filed July 20, 2018) 3.2
+Composite Bylaws of the Company (incorporated by reference to Exhibit   3.2 in the Registrant’s Form 10-Q
+for the quarter ended March 2, 2013, filed April 5, 2013) 31.1*
+Rule 13a-14(a) Certification of the Chief Executive Officer 31.2*
+Rule 13a-14(a) Certification of the Chief Financial Officer 32**
+Section 1350 Certification of the Chief Executive Officer   and the Chief Financial Officer 101.SCH*+
+Inline XBRL Taxonomy   Extension Schema Document
+101.CAL*+
+Inline XBRL Taxonomy   Extension Calculation Linkbase Document
+101.DEF*+
+Inline XBRL Taxonomy   Extension Definition Linkbase Document
+101.LAB*+
+Inline XBRL Taxonomy   Extension Label Linkbase Document
+101.PRE*+
+Inline XBRL Taxonomy   Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained   in Exhibit 101)
+*
+Filed herewith as an Exhibit.   **
+Furnished herewith as an Exhibit.
++
+Submitted electronically with this Quarterly Report.
+Index 30
+SIGNATURES
+Pursuant to   the requirements   of the Securities   Exchange Act   of 1934,   the registrant has   duly caused   this report   to be signed   on
+its behalf by the undersigned, thereunto duly authorized.
+CAL-MAINE FOODS, INC.
+(Registrant)
+Date:   March 28, 2023
+/s/ Max P.   Bowman
+Max P.   Bowman
+Vice President, Chief Financial   Officer
+(Principal Financial Officer)
+໿
+Date:   March 28, 2023
+/s/ Matthew S. Glover
+Matthew S. Glover
+Vice President – Accounting
+(Principal Accounting Officer)
+໿

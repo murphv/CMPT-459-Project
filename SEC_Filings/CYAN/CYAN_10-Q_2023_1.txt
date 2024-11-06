@@ -1,0 +1,2473 @@
+2023
+35
+67
+0.01
+0.01
+10,000,000
+10,000,000
+0
+0
+0
+0
+0.02
+0.02
+50,000,000
+50,000,000
+6,271,971
+6,271,971
+6,202,223
+6,202,223
+1,000,000
+2
+2
+19
+1,000,000
+2
+2
+10
+158,000
+21
+0
+500,000
+3
+1,000,000
+1,000,000
+0000768408 2022-04-01 2022-12-31
+xbrli:shares
+0000768408 2023-02-03
+thunderdome:item
+iso4217:USD
+0000768408 2022-12-31
+0000768408 2022-03-31
+iso4217:USD xbrli:shares
+0000768408 2022-10-01 2022-12-31
+0000768408 2021-10-01 2021-12-31
+0000768408 2021-04-01 2021-12-31
+0000768408 us-gaap:CommonStockMember 2022-09-30
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000768408 us-gaap:RetainedEarningsMember 2022-09-30
+0000768408 2022-09-30
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0000768408 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000768408 us-gaap:CommonStockMember 2022-12-31
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000768408 us-gaap:RetainedEarningsMember 2022-12-31
+0000768408 us-gaap:CommonStockMember 2021-09-30
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000768408 us-gaap:RetainedEarningsMember 2021-09-30
+0000768408 2021-09-30
+0000768408 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000768408 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000768408 us-gaap:CommonStockMember 2021-12-31
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000768408 us-gaap:RetainedEarningsMember 2021-12-31
+0000768408 2021-12-31
+0000768408 us-gaap:CommonStockMember 2022-03-31
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2022-03-31
+0000768408 us-gaap:RetainedEarningsMember 2022-03-31
+0000768408 us-gaap:CommonStockMember 2022-04-01 2022-12-31
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2022-04-01 2022-12-31
+0000768408 us-gaap:RetainedEarningsMember 2022-04-01 2022-12-31
+0000768408 us-gaap:CommonStockMember 2021-03-31
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2021-03-31
+0000768408 us-gaap:RetainedEarningsMember 2021-03-31
+0000768408 2021-03-31
+0000768408 us-gaap:CommonStockMember 2021-04-01 2021-12-31
+0000768408 us-gaap:AdditionalPaidInCapitalMember 2021-04-01 2021-12-31
+0000768408 us-gaap:RetainedEarningsMember 2021-04-01 2021-12-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:FirstFoundationBankMember 2022-03-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:FirstFoundationBankMember 2022-12-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:RelatedPartyMember 2022-12-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:RelatedPartyMember 2022-03-31
+0000768408 cyan:UnsecuredSubordinatedLoanFromSkywordsMember 2019-04-30
+0000768408 cyan:UnsecuredSubordinatedLoanFromSkywordsMember 2022-03-31
+0000768408 cyan:UnsecuredSubordinatedLoanFromSkywordsMember 2022-12-31
+0000768408 cyan:FirstFoundationBankMember 2022-04-01 2022-12-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:RelatedPartyMember 2022-04-01 2022-12-31
+xbrli:pure
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-10-01 2022-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember cyan:CustomerNumber1Member 2022-10-01 2022-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-10-01 2021-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember cyan:CustomerNumber1Member 2021-10-01 2021-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember cyan:CustomerNumber2Member 2021-10-01 2021-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-04-01 2022-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember cyan:CustomerNumber1Member 2022-04-01 2022-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember cyan:CustomerNumber2Member 2022-04-01 2022-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-04-01 2021-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember cyan:CustomerNumber1Member 2021-04-01 2021-12-31
+0000768408 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember cyan:CustomerNumber2Member 2021-04-01 2021-12-31
+0000768408 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2022-04-01 2022-12-31
+0000768408 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2021-04-01 2022-03-31
+0000768408 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember cyan:TwoCustomersMember 2022-04-01 2022-12-31
+0000768408 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember cyan:TwoCustomersMember 2021-04-01 2022-03-31
+0000768408 cyan:PackagedAstaxanthinMember 2022-10-01 2022-12-31
+0000768408 cyan:PackagedAstaxanthinMember 2021-10-01 2021-12-31
+0000768408 cyan:PackagedSpirulinaMember 2022-10-01 2022-12-31
+0000768408 cyan:PackagedSpirulinaMember 2021-10-01 2021-12-31
+0000768408 cyan:PackagedProductsMember 2022-10-01 2022-12-31
+0000768408 cyan:PackagedProductsMember 2021-10-01 2021-12-31
+0000768408 cyan:BulkAstaxanthinMember 2022-10-01 2022-12-31
+0000768408 cyan:BulkAstaxanthinMember 2021-10-01 2021-12-31
+0000768408 cyan:BulkSpirulinaMember 2022-10-01 2022-12-31
+0000768408 cyan:BulkSpirulinaMember 2021-10-01 2021-12-31
+0000768408 cyan:BulkProductsMember 2022-10-01 2022-12-31
+0000768408 cyan:BulkProductsMember 2021-10-01 2021-12-31
+0000768408 cyan:ContractExtractionMember 2022-10-01 2022-12-31
+0000768408 cyan:ContractExtractionMember 2021-10-01 2021-12-31
+0000768408 cyan:PackagedAstaxanthinMember 2022-04-01 2022-12-31
+0000768408 cyan:PackagedAstaxanthinMember 2021-04-01 2021-12-31
+0000768408 cyan:PackagedSpirulinaMember 2022-04-01 2022-12-31
+0000768408 cyan:PackagedSpirulinaMember 2021-04-01 2021-12-31
+0000768408 cyan:PackagedProductsMember 2022-04-01 2022-12-31
+0000768408 cyan:PackagedProductsMember 2021-04-01 2021-12-31
+0000768408 cyan:BulkAstaxanthinMember 2022-04-01 2022-12-31
+0000768408 cyan:BulkAstaxanthinMember 2021-04-01 2021-12-31
+0000768408 cyan:BulkSpirulinaMember 2022-04-01 2022-12-31
+0000768408 cyan:BulkSpirulinaMember 2021-04-01 2021-12-31
+0000768408 cyan:BulkProductsMember 2022-04-01 2022-12-31
+0000768408 cyan:BulkProductsMember 2021-04-01 2021-12-31
+0000768408 cyan:ContractExtractionMember 2022-04-01 2022-12-31
+0000768408 cyan:ContractExtractionMember 2021-04-01 2021-12-31
+0000768408 us-gaap:EquipmentMember 2022-12-31
+0000768408 us-gaap:EquipmentMember 2022-03-31
+0000768408 us-gaap:LeaseholdImprovementsMember 2022-12-31
+0000768408 us-gaap:LeaseholdImprovementsMember 2022-03-31
+0000768408 us-gaap:FurnitureAndFixturesMember 2022-12-31
+0000768408 us-gaap:FurnitureAndFixturesMember 2022-03-31
+0000768408 cyan:LineOfCreditExcludingRelatedPartyMember 2022-12-31
+0000768408 cyan:LineOfCreditExcludingRelatedPartyMember 2022-03-31
+0000768408 cyan:LineOfCreditRelatedPartyMember 2022-12-31
+0000768408 cyan:LineOfCreditRelatedPartyMember 2022-03-31
+0000768408 cyan:LongtermDebtExcludingRelatedPartyDebtMember 2022-12-31
+0000768408 cyan:LongtermDebtExcludingRelatedPartyDebtMember 2022-03-31
+0000768408 cyan:UnsecuredSubordinatedLoanMember 2022-12-31
+0000768408 cyan:UnsecuredSubordinatedLoanMember 2022-03-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:FirstFoundationBankMember 2016-08-30
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:FirstFoundationBankMember us-gaap:PrimeRateMember 2022-12-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:FirstFoundationBankMember us-gaap:PrimeRateMember 2022-03-31
+0000768408 us-gaap:RevolvingCreditFacilityMember cyan:FirstFoundationBankMember us-gaap:PrimeRateMember 2021-04-01 2022-03-31
+0000768408 cyan:FirstFoundationBankMember srt:MinimumMember 2022-03-31
+0000768408 cyan:The2015LoanAgreementMember 2015-07-30 2015-07-30
+0000768408 cyan:The2015LoanAgreementMember 2022-03-31
+0000768408 cyan:The2015LoanAgreementMember us-gaap:PrimeRateMember 2015-07-30 2015-07-30
+0000768408 cyan:The2015LoanAgreementMember srt:MinimumMember 2015-07-30
+0000768408 cyan:TermLoanAgreementMaturingOnAugust142032Member 2012-08-13 2012-08-14
+0000768408 cyan:TermLoanAgreementPromissoryNoteOneMember 2012-08-13 2012-08-14
+0000768408 cyan:TermLoanAgreementPromissoryNoteTwoMember 2012-08-13 2012-08-14
+utr:M
+utr:Y
+0000768408 cyan:TermLoanAgreementMaturingOnAugust142032Member 2022-12-31
+0000768408 cyan:TermLoanAgreementMaturingOnAugust142032Member 2022-03-31
+0000768408 cyan:TermLoanAgreementMaturingOnAugust142032Member 2021-07-01 2021-12-31
+0000768408 cyan:TermLoanAgreementMaturingOnAugust142032Member srt:MinimumMember 2021-07-01 2021-12-31
+0000768408 cyan:The2015LoanAgreementMember 2021-07-01 2021-12-31
+0000768408 cyan:The2015LoanAgreementMember 2021-12-31
+0000768408 cyan:TermLoanAgreementMaturingOnAugust142032Member 2021-12-31
+0000768408 cyan:SkywordsNoteMember cyan:UnsecuredSubordinatedLoanMember 2019-04-30
+0000768408 cyan:SkywordsNoteMember cyan:UnsecuredSubordinatedLoanMember 2021-04-30
+0000768408 cyan:SkywordsAmendedNoteMember 2021-04-30
+0000768408 cyan:SkywordsNoteMember 2021-04-01 2021-04-30
+0000768408 cyan:SkywordsNoteMember cyan:UnsecuredSubordinatedLoanMember 2022-12-31
+0000768408 cyan:SkywordsNoteMember cyan:UnsecuredSubordinatedLoanMember 2022-03-31
+0000768408 cyan:SkywordsNoteMember 2022-12-31
+0000768408 cyan:SkywordsNoteMember 2022-03-31
+0000768408 cyan:SkywordsNoteMember us-gaap:PrimeRateMember 2021-04-01 2021-04-30
+0000768408 cyan:SkywordsNoteMember srt:MinimumMember us-gaap:PrimeRateMember 2021-04-01 2021-04-30
+0000768408 cyan:SolarLeaseForBuildingsMember 2022-09-30
+0000768408 cyan:The2004DirectorsPlanMember 2022-12-31
+0000768408 cyan:The2016PlanMember 2022-12-31
+0000768408 cyan:The2014DirectorsPlanMember 2022-12-31
+0000768408 us-gaap:EmployeeStockOptionMember srt:MaximumMember 2019-04-01 2020-03-31
+0000768408 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0000768408 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0000768408 us-gaap:EmployeeStockOptionMember 2022-04-01 2022-12-31
+0000768408 us-gaap:EmployeeStockOptionMember 2021-04-01 2021-12-31
+0000768408 2021-04-01 2022-03-31
+0000768408 us-gaap:EmployeeStockOptionMember 2022-12-31
+0000768408 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2022-04-01 2022-12-31
+0000768408 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2021-04-01 2021-12-31
+0000768408 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2022-10-01 2022-12-31
+0000768408 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2021-10-01 2021-12-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember cyan:EmployeesMember 2022-10-01 2022-12-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember cyan:EmployeesMember 2021-10-01 2021-12-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember cyan:EmployeesMember 2022-04-01 2022-12-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember cyan:EmployeesMember 2021-04-01 2021-12-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember 2022-03-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember 2022-04-01 2022-12-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember 2022-12-31
+0000768408 us-gaap:RestrictedStockUnitsRSUMember cyan:EmployeesMember 2022-12-31
+0000768408 cyan:CommonStockOptionsAndRestrictedStockUnitsMember 2022-10-01 2022-12-31
+0000768408 cyan:CommonStockOptionsAndRestrictedStockUnitsMember 2022-04-01 2022-12-31
+0000768408 cyan:SkywordsNoteMember cyan:UnsecuredSubordinatedLoanMember 2020-03-31
+0000768408 cyan:SkywordsNoteMember cyan:UnsecuredSubordinatedLoanMember us-gaap:PrimeRateMember 2019-04-01 2020-03-31
+0000768408 cyan:ConversionOfSkywordsNoteIntoRevolvingLoansMember 2021-04-12 2021-04-12
+0000768408 cyan:SkywordsAmendedNoteMember 2021-04-12
+0000768408 cyan:SkywordsAmendedNoteMember 2021-04-12 2021-04-12
+0000768408 cyan:SkywordsNoteMember 2021-04-12 2021-04-12
+0000768408 cyan:SkywordsAmendedNoteMember us-gaap:PrimeRateMember 2021-04-12 2021-04-12
+0000768408 cyan:SkywordsAmendedNoteMember 2022-12-14
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.
+20549
+FORM   10-Q
+☒
+Quarterly Report Pursuant to Section   13 or 15(d)   of the Securities Exchange Act of 1934
+For Quarterly Period   Ended
+December 31, 2022
+Or
+☐
+Transition Report Pursuant to Section   13 or 15(d)   of the Securities Exchange Act of 1934
+For the Transition Period From
+to
+Commission File Number   0-14602
+CYANOTECH CORPORATION
+(Exact name of registrant as specified in its charter)
+Nevada
+91-1206026
+(State or other jurisdiction of incorporation or organization)
+(IRS Employer Identification Number)
+73-4460 Queen Kaahumanu Hwy. #102 ,
+Kailua-Kona ,
+HI
+96740
+(Address of principal executive offices)
+( 808 )
+326-1353
+(Registrant’s telephone number)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.02 par value per share
+CYAN
+NASDAQ
+Indicate by check mark whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act of 1934 during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes  ☒  No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   Yes  ☒  No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer  ☐
+Smaller reporting company  ☒
+Emerging growth company  ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes  ☐   No ☒
+As of February 3, 2023, the number of shares outstanding of the registrant’s common stock was
+6,271,971 .
+1
+Table of Contents
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Report and other presentations made by Cyanotech Corporation (“CYAN”) and its subsidiary contain “forward-looking statements,” which include statements that are predictive in nature, depend upon or refer to future events or conditions, and usually include words such as “expects,” “anticipates,” “intends,” “plan,” “believes,” “predicts”, “estimates” or similar expressions. In addition, any statement concerning future financial performance, ongoing business strategies or prospects and possible future actions are also forward-looking statements. Forward-looking statements are based upon current expectations and projections about future events and are subject to risks, uncertainties and the accuracy of assumptions concerning CYAN and its subsidiary (collectively, the “Company”), the performance of the industry in which CYAN does business, and economic and market factors, among other things.
+These forward-looking statements are not guarantees of future performance. You should not place undue reliance on forward-looking statements.
+Forward-looking statements speak only as of the date of the Report, presentation or filing in which they are made. Except to the extent required by the Federal Securities Laws, we undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. Our forward-looking statements in this Report include, but are not limited to:
+●
+Statements relating to our business strategy;
+●
+Statements relating to our business objectives; and
+●
+Expectations concerning future operations, profitability, liquidity and financial resources.
+These forward-looking statements are subject to risk, uncertainties and assumptions about us and our operations that are subject to change based on various important factors, some of which are beyond our control, including those factors described in Item 2 of Part I of this quarterly report and in Item 1A of Part I of the Company’s Annual Report on Form 10-K filed on June 22, 2022. Additionally, the following factors, among others, could cause our financial performance to differ significantly from the goals, plans, objectives, intentions and expectations expressed in our forward-looking statements:
+●
+The added risks associated with or attributed to the current local, national and world economic conditions, including but not limited to, the volatility of crude oil prices, inflation and currency fluctuations;
+●
+Access to available and reasonable financing on a timely basis;
+●
+The Company’s inability to generate enough revenues to meet its obligations or repay maturing indebtedness; and
+●
+Failure of capital projects to operate as expected or meet expected results.
+It is not possible to predict or identify all potential risks and uncertainties and the above referenced factors and list do not comprise a complete list of all potential risks and uncertainties. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in any forward-looking statement contained in this report. All forward-looking statements speak only as of the date of this report and are expressly qualified in their entirety by the cautionary statements included in or incorporated by reference into this report. Except as is required by law, the Company expressly disclaims any obligation to publicly release any revisions to forward-looking statements to reflect events after the date of this report. Throughout this report, Cyanotech Corporation, together with its subsidiary, are referred to as “the Company.”
+2
+Table of Contents
+CYANOTECH CORPORATION
+FORM 10-Q
+INDEX
+PART   I.     FINANCIAL   INFORMATION
+Item 1.
+Financial Statements
+Condensed Consolidated Balance Sheets as of December 31, 2022 and March 31, 2022 (unaudited)
+4
+Condensed Consolidated Statements of Operations for the three and nine months ended December 31, 2022 and   2021 (unaudited)
+5
+Condensed Consolidated Statements of Stockholders ’   Equity for the three and nine months ended December 31, 2022 and 2021 (unaudited)
+6
+Condensed Consolidated Statements of Cash Flows for the nine months ended December 31, 2022 and   2021 (unaudited)
+7
+Notes to Condensed Consolidated Financial Statements (unaudited)
+8
+Item 2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+19
+Item 4.
+Controls and Procedures
+24
+PART   II.     OTHER INFORMATION
+Item 1.
+Legal Proceedings
+25
+Item 1A
+Risk Factors
+25
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 3.
+Defaults upon Senior Securities
+25
+Item 5.
+Other Information
+25
+Item 6.
+Exhibits
+26
+SIGNATURES
+27
+3
+Table of Contents
+PART   I.
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+CYANOTECH CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands, except per share amounts)
+(Unaudited)
+December 31,
+2022
+March 31,
+2022
+ASSETS
+Current assets:
+Cash
+$ 513     $ 2,589
+Accounts receivable, net of allowance for doubtful accounts of $ 35
+as of December 31, 2022 and $ 67
+as of March 31, 2022
+2,156       3,664
+Inventories
+11,574       9,466
+Prepaid expenses and other current assets
+284       545
+Total current assets
+14,527       16,264
+Equipment and leasehold improvements, net
+11,693       11,885
+Operating lease right-of-use assets, net
+3,463       3,787
+Other assets
+89       109
+Total assets
+$ 29,772     $ 32,045
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable
+$ 1,031     $ 2,362
+Accrued expenses
+988       1,412
+Customer deposits
+97       164
+Operating lease obligations, current portion
+243       393
+Line of credit
+1,550       —
+Line of credit – related party
+500       —
+Current maturities of long-term debt
+261       490
+Total current liabilities
+4,670       4,821
+Long-term debt, less current maturities
+4,166       4,336
+Long-term operating lease obligations
+3,203       3,386
+Other long-term liabilities
+—       15
+Total liabilities
+12,039       12,558
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock of $ 0.01
+par value, authorized
+10,000,000
+shares;
+no
+shares issued and outstanding
+—       —
+Common stock of $ 0.02
+par value, authorized
+50,000,000
+shares; issued and outstanding
+6,271,971
+shares at December 31, 2022 and
+6,202,223
+shares at March 31, 2022
+125       124
+Additional paid-in capital
+33,812       33,557
+Accumulated deficit
+( 16,204
+)
+( 14,194
+)
+Total stockholders’ equity
+17,733       19,487
+Total liabilities and stockholders’ equity
+$ 29,772     $ 32,045
+See accompanying notes to condensed consolidated financial statements
+4
+Table of Contents
+CYANOTECH CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts)
+(Unaudited)
+Three Months Ended
+December 31,
+Nine Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Net sales
+$ 5,891     $ 9,459     $ 17,786     $ 27,842
+Cost of sales
+4,127       6,221       11,914       17,170
+Gross profit
+1,764       3,238       5,872       10,672
+Operating expenses:
+General and administrative
+1,021       1,403       3,631       4,171
+Sales and marketing
+1,041       1,127       3,351       3,808
+Research and development
+106       200       556       483
+Total operating expenses
+2,168       2,730       7,538       8,462
+(Loss) income from operations
+( 404
+)
+508       ( 1,666
+)
+2,210
+Interest expense, net
+( 186
+)
+( 116
+)
+( 333
+)
+( 312
+)
+(Loss) income before income taxes
+( 590
+)
+392       ( 1,999
+)
+1,898
+Income tax expense
+8       6       11       21
+Net (loss) income
+$ ( 598
+)
+$ 386     $ ( 2,010
+)
+$ 1,877
+Net (loss) income per share:
+Basic
+$ ( 0.10
+)
+$ 0.06     $ ( 0.32
+)
+$ 0.31
+Diluted
+$ ( 0.10
+)
+$ 0.06     $ ( 0.32
+)
+$ 0.30
+Shares used in calculation of net (loss) income per share:
+Basic
+6,272       6,183       6,235       6,144
+Diluted
+6,272       6,195       6,235       6,165
+See accompanying notes to condensed consolidated financial statements
+5
+Table of Contents
+CYANOTECH CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Unaudited)
+Three months ended December 31, 2022 and 2021
+Common
+Stock
+Shares
+Common
+Stock
+Amount
+Additional
+Paid-in
+Capital
+Accumulated
+Deficit
+Total
+Stockholders ’
+Equity
+(in thousands, except per share data)
+Balances at September 30, 2022
+6,271,971     $ 125     $ 33,767     $ ( 15,606
+)
+$ 18,286
+Share-based compensation expense
+—       —       45       —       45
+Net loss
+—       —       —       ( 598
+)
+( 598
+)
+Balances at December 31, 2022
+6,271,971     $ 125     $ 33,812     $ ( 16,204
+)
+$ 17,733
+Balances at September 30, 2021
+6,138,728     $ 123     $ 33,347     $ ( 14,857
+)
+$ 18,613
+Issuances of common stock for Director Stock Grant
+55,438       1       157       —       158
+Share-based compensation expense
+—       —       40       —       40
+Net income
+—       —       —       386       386
+Balances at December 31, 2021
+6,194,166     $ 124     $ 33,544     $ ( 14,471
+)
+$ 19,197
+Nine months ended December 31, 2022 and 2021
+Common
+Stock
+Shares
+Common
+Stock
+Amount
+Additional
+Paid-in
+Capital
+Accumulated
+Deficit
+Total
+Stockholders ’
+Equity
+(in thousands, except per share data)
+Balances at March 31, 2022
+6,202,223
+$
+124
+$
+33,557
+$
+( 14,194
+)
+$
+19,487
+Issuance of common stock for Director Stock Grants
+64,489
+1
+157
+—
+158
+Issuance of vested shares of restricted stock
+8,312
+—
+( 10
+)
+—
+( 10
+)
+Shares withheld for tax payments
+( 3,053
+)
+—
+—
+—
+—
+Share-based compensation expense
+—
+—
+108
+—
+108
+Net loss
+—
+—
+—
+( 2,010
+)
+( 2,010
+)
+Balances at December 31, 2022
+6,271,971
+$
+125
+$
+33,812
+$
+( 16,204
+)
+$
+17,733
+Balances at March 31, 2021
+6,116,073
+$
+122
+$
+33,267
+$
+( 16,348
+)
+$
+17,041
+Issuance of common stock for Director Stock Grants
+55,438
+1
+157
+—
+158
+Issuance of vested shares of restricted stock
+34,751
+1
+( 40
+)
+—
+( 39
+)
+Shares withheld for tax payments
+( 12,096
+)
+—
+—
+—
+—
+Share-based compensation expense
+—
+—
+160
+—
+160
+Net income
+—
+—
+—
+1,877
+1,877
+Balances at December 31, 2021
+6,194,166
+$
+124
+$
+33,544
+$
+( 14,471
+)
+$
+19,197
+See accompanying notes to condensed consolidated financial statements
+6
+Table of Contents
+CYANOTECH CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Dollars in thousands)
+(Unaudited)
+Nine Months Ended
+December 31,
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net (loss) income
+$ ( 2,010
+)
+$ 1,877
+Adjustments to reconcile net (loss) income to net cash (used in) provided by operating activities:
+Depreciation and amortization
+1,243       1,202
+Amortization of debt issue costs and other assets
+33       45
+Amortization of operating leases right-of-use assets
+324       232
+Share-based compensation expense
+266       318
+Provision for doubtful accounts
+35       124
+Net (increase) decrease in assets:
+Accounts receivable
+1,473       ( 2,214
+)
+Inventories
+( 2,108
+)
+( 309
+)
+Prepaid expenses and other assets
+267       180
+Net increase (decrease) in liabilities:
+Accounts payable
+( 1,368
+)
+( 269
+)
+Accrued expenses
+( 424
+)
+447
+Customer deposits
+( 67
+)
+( 41
+)
+Operating lease obligations
+( 333
+)
+( 236
+)
+Deferred rent and other liabilities
+( 14
+)
+( 12
+)
+Net cash (used in) provided by operating activities
+( 2,683
+)
+1,344
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Investment in equipment and leasehold improvements
+( 1,018
+)
+( 745
+)
+Net cash used in investing activities
+( 1,018
+)
+( 745
+)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Net draws (payments) on line of credit
+1,550       ( 1,000
+)
+Net draws on line of credit – related party
+500       —
+Net payments on debt – related party
+—       ( 500
+)
+Principal payments on long-term debt
+( 415
+)
+( 529
+)
+Taxes paid related to net share settlement of restricted stock units
+( 10
+)
+( 39
+)
+Net cash provided by (used in) financing activities
+1,625       ( 2,068
+)
+Net decrease in cash
+( 2,076
+)
+( 1,469
+)
+Cash at beginning of period
+2,589       3,767
+Cash at end of period
+$ 513     $ 2,298
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid during the period for:
+Interest
+$ 242     $ 268
+Income taxes
+$ 27     $ 2
+See accompanying notes to condensed consolidated financial statements
+7
+Table of Contents
+CYANOTECH CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December  31,
+2022
+(Unaudited)
+1.
+ORGANIZATION AND BASIS OF PRESENTATION
+Cyanotech Corporation (the “Company”), located in Kailua-Kona, Hawaii, was incorporated in the state of Nevada on
+March 3, 1983
+and is listed on the NASDAQ Capital Market under the symbol “CYAN”. The Company is engaged in the production of natural products derived from microalgae for the nutritional supplements market.
+The Company is an agricultural company that produces high value natural products derived from microalgae grown in complex and intricate open-pond agricultural systems on the Kona coast of Hawaii.  The Company's products include
+Hawaiian Spirulina Pacifica ®, a superfood with numerous benefits, including boosting the immune system and overall cellular health; and
+BioAstin ®
+Hawaiian Astaxanthin ®, a powerful antioxidant shown to support and maintain the body's natural inflammatory response.
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial information pursuant to the instructions to Form  10 -Q and Regulation S- X
+of the Securities and Exchange Commission (“SEC”). These interim condensed consolidated financial statements are unaudited and, in the opinion of management, include all adjustments (consisting of normal recurring adjustments and accruals) necessary to present fairly the Condensed Consolidated Balance Sheets, Condensed Consolidated Statements of Operations, Condensed Consolidated Statements of Stockholders’ Equity and Condensed Consolidated Statements of Cash Flows for the periods presented in accordance with GAAP.
+Accordingly, they do
+not
+include all of the information and notes required by GAAP for complete financial statements. The results of operations for the interim periods are
+not
+necessarily indicative of the results to be expected for the full fiscal year. The Condensed Consolidated Balance Sheet as of
+March  31,
+2022
+was derived from the audited consolidated financial statements. These condensed consolidated financial statements and notes should be read in conjunction with the Company’s audited consolidated financial statements for the year ended
+March  31,
+2022,
+contained in the Company’s annual report on Form  10 -K as filed with the SEC on
+June 22, 2022.
+Liquidity and Capital Resources
+As of
+December 31, 2022,
+the Company had cash of $ 513,000
+and working capital of $ 9,857,000
+compared to $ 2,589,000
+and $ 11,443,000 , respectively, as of
+March 31, 2022.
+The Company has a Revolving Credit Agreement (“Credit Agreement”) with First Foundation Bank (“Bank”) that allows the Company to borrow up to $ 2,000,000
+on a revolving basis. At
+December 31, 2022
+and
+March 31, 2022,
+the Company had $ 1,550,000
+and $ 0 , respectively, outstanding borrowings on the line of credit.  The line of credit is subject to renewal on
+August 30, 2023
+and the Company intends to renew or replace it with another line of credit on or before the expiration date.
+The Company also has a loan facility with a related party that allows the Company to borrow up to $ 1,000,000
+on a revolving basis (the “Revolver”). At
+December 31, 2022
+and
+March 31, 2022,
+the Company had $ 500,000
+and $ 0 , respectively, outstanding borrowings on the Revolver, which were included in line of credit – related party on the Condensed Consolidated Balance Sheets. The Revolver expires on
+April 12, 2025 ( see Notes
+5
+and
+12 ).
+As of
+December 31, 2022,
+the Company had $ 3,523,000
+in long-term debt (“Term Loans”) payable to the Bank that require the payment of principal and interest monthly through
+August 2032.
+Pursuant to the Term Loans and the Credit Agreement, the Company is subject to annual financial covenants, customary affirmative and negative covenants and certain subjective acceleration clauses. As of
+March 31, 2022,
+the Company was in compliance with all required annual financial covenants under the Term Loans and the Credit Agreement.
+In
+April 2019,
+the Company obtained a loan in the amount of $ 1,500,000
+from a related party. The proceeds were used to pay down accounts payable and for general operating capital purposes. On
+April 12, 2021
+and
+December 14, 2022,
+the Company amended this loan (see Notes
+5
+and
+12 ). As of both
+December 31, 2022
+and
+March 31, 2022,
+the Company had $ 1,000,000
+outstanding on the related party note. The loan expires on
+April 12, 2025.
+In fiscal year
+2023,
+the impacts from the macroeconomic environment have led to lower sales across all of the Company's portfolio and cash flows from operating activities.  During this period, the Company drew $ 1,550,000
+on its line of credit and $ 500,000
+on the Revolver.  To address the resulting cash flow challenges beginning in the
+third
+quarter of fiscal year
+2023,
+the Company implemented some cost savings initiatives, including stopping or slowing production of inventory in alignment with current customer demand, reducing headcount and compensation, primarily through attrition and furloughs, respectively, and eliminating certain discretionary selling, general and administrative expenses.
+8
+Table of Contents
+Funds generated by operating activities and available cash are expected to continue to be the Company’s most significant sources of liquidity for working capital requirements, debt service and funding of maintenance levels of capital expenditures.  The Company has developed its operating plan to produce the cash flows necessary to meet all financing requirements.  Although the Company has a history of either being in compliance with debt covenants or obtaining the necessary waivers, execution of its operating plan is dependent on many factors, some of which are
+not
+within the control of the Company.  Taking into account the Company's financial results for the
+first
+three
+quarters of the
+2023
+fiscal year, it is possible that the Company will
+not
+be in compliance with its debt covenants as of
+March 31, 2023
+measurement date.  If the Company is
+not
+in compliance, the Company would intend to seek a waiver from the Bank.  The Bank has provided such a waiver in the past when the Company has been in default, but there is
+no
+assurance that the Bank would do so again.  A failure to maintain compliance along with the Bank
+not
+agreeing to a waiver for the non-compliance would cause the outstanding borrowings to be in default and payable on demand, which would have a material adverse effect on the Company.
+2.
+SIGNIFICANT ACCOUNTING POLICIES
+Consolidation
+The accompanying condensed consolidated financial statements include the accounts of Cyanotech Corporation and its wholly owned subsidiary, Nutrex Hawaii, Inc. (“Nutrex Hawaii” or “Nutrex”, collectively the “Company”). All intercompany balances and transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosures of any contingent assets and liabilities as of the date of the financial statements and the reported amounts of revenues and expenses during the periods reported.  Management reviews these estimates and assumptions periodically and reflects the effect of revisions in the period that they are determined to be necessary.  Actual results could differ from those estimates and assumptions.
+Cash
+Cash consists of cash on hand and cash in bank deposits.
+Concentration Risk
+A significant portion of revenue and accounts receivable are derived from a few major customers. For the
+three
+months ended
+December 31, 2022,
+one
+customer individually accounted for
+36 % of the Company’s total net sales, and for the
+three
+months ended
+December 31, 2021,
+two
+customers individually accounted for
+22 % and
+21 % of the Company’s total net sales. For the
+nine
+months ended
+December 31, 2022,
+two
+customers individually accounted for
+35 % and
+8 % of the Company’s total net sales, and for the
+nine
+months ended
+December 31, 2021,
+two
+customers individually accounted for
+21 % and
+18 % of the Company’s total net sales.
+Two
+customers accounted for
+97 % and
+63 % of the Company’s accounts receivable balance as of
+December 31, 2022
+and
+March 31, 2022,
+respectively.
+Revenue Recognition
+The Company records revenue based on the
+five -step model which includes: ( 1 ) identifying the contract with the customer; ( 2 ) identifying the performance obligations in the contract; ( 3 ) determining the transaction price; ( 4 ) allocating the transaction price to the performance obligations; and ( 5 ) recognizing revenue when the performance obligations are satisfied. Substantially all of the Company’s revenue is generated by fulfilling orders for the purchase of our microalgal dietary supplements to retailers, wholesalers, or direct to consumers via online channels, with each order considered to be a distinct performance obligation. These orders
+may
+be formal purchase orders, verbal phone orders, e-mail orders or orders received online. Shipping and handling activities for which the Company is responsible under the terms and conditions of the order are
+not
+accounted for as performance obligations but as fulfillment costs. These activities are required to fulfill the Company’s promise to transfer the goods and are expensed when revenue is recognized.
+Revenue is measured as the net amount of consideration expected to be received in exchange for fulfilling a performance obligation. The Company has elected to exclude sales, use and similar taxes from the measurement of the transaction price.  The amount of consideration expected to be received and revenue recognized includes estimates of variable consideration, which includes costs for trade promotion programs, coupons, returns and early payment discounts.  Such estimates are calculated using historical averages adjusted for any expected changes due to current business conditions and experience. The Company reviews and updates these estimates at the end of each reporting period and the impact of any adjustments are recognized in the period the adjustments are identified. In assessing whether collection of consideration from a customer is probable, the Company considers the customer's ability and intent to pay that amount of consideration when it is due. Payment of invoices is due as specified in the underlying customer agreement, typically
+30  days from the invoice date, which occurs on the date of transfer of control of the products to the customer. Revenue is recognized at the point in time that control of the ordered products is transferred to the customer. Generally, this occurs when the product is delivered, or in some cases, picked up from
+one
+of the Company’s distribution centers by the customer. Revenue from extraction services is recognized when control is transferred upon completion of the extraction process.
+9
+Table of Contents
+Customer contract liabilities consist of customer deposits received in advance of fulfilling an order and are shown separately on the consolidated balance sheets. During the
+three
+months ended
+December 31, 2022  and
+2021,
+the Company recognize $ 2,000
+and $ 6,000 , respectively, of revenue from deposits that were included in contract liabilities as of
+March 31, 2022
+and
+2021,
+respectively. During the
+nine
+months ended
+December 31, 2022
+and
+2021,
+the Company recognized $ 94,000
+and $ 55,000 , respectively, of revenue from deposits that were included in contract liabilities as of
+March 31, 2022
+and
+2021,
+respectively. The Company’s contracts have a duration of
+one
+year or less and therefore, the Company has elected the practical expedient of
+not
+disclosing revenues allocated to partially unsatisfied performance obligations.
+Disaggregation of Revenue
+The following table represents revenue disaggregated by major product line and extraction services for the:
+($ in thousands)
+Three Months
+Ended
+December 31,
+2022
+Three Months
+Ended
+December 31,
+2021
+Packaged sales
+Astaxanthin packaged
+$ 3,113     $ 3,563
+Spirulina packaged
+1,147       1,612
+Total packaged sales
+4,260       5,175
+Bulk sales
+Astaxanthin bulk
+378       1,128
+Spirulina bulk
+967       2,990
+Total bulk sales
+1,345       4,118
+Contract extraction revenue
+286       166
+Total net sales
+$ 5,891     $ 9,459
+($ in thousands)
+Nine Months
+Ended
+December 31,
+2022
+Nine Months
+Ended
+December 31,
+2021
+Packaged sales
+Astaxanthin packaged
+$ 9,492     $ 11,618
+Spirulina packaged
+3,719       6,150
+Total packaged sales
+13,211       17,768
+Bulk sales
+Astaxanthin bulk
+1,204       2,041
+Spirulina bulk
+2,844       7,558
+Total bulk sales
+4,048       9,599
+Contract extraction revenue
+527       475
+Total net sales
+$ 17,786     $ 27,842
+Recently Adopted Accounting Pronouncements
+In
+December 2019,
+the FASB issued ASU
+2019 - 12,
+“ Simplifying the Accounting for Income Taxes ”
+(“ASU
+2019 - 12” ), which as part of its Simplification Initiative to reduce the cost and complexity in accounting for income taxes, removes certain exceptions related to the approach for intra-period tax allocation, the methodology for calculating income taxes in an interim period and the recognition of deferred tax liabilities for outside basis differences. ASU
+2019 - 12
+also amends other aspects of the guidance to help simplify and promote consistent application of GAAP. The guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after
+December 15, 2020,
+with early adoption permitted. The Company adopted ASU
+2019 - 12
+as of
+April 1, 2021
+with
+no
+impact on its consolidated financial statements and related disclosures.
+10
+Table of Contents
+3.
+INVENTORIES
+Inventories are stated at the lower of cost or net realizable value. Cost is determined by the
+first -in,
+first -out method. Inventories consist of the following as of:
+December 31,
+2022
+March 31,
+2022
+(in thousands)
+Raw materials
+$ 1,947     $ 1,490
+Work in process
+2,793       2,868
+Finished goods
+6,448       4,595
+Supplies
+386       513
+Inventories
+$ 11,574     $ 9,466
+The Company recognizes abnormal production costs, including fixed cost variances from normal production capacity, fixed production overhead costs, idle facilities, freight handling costs and spoilage, as an expense in the period incurred, without adjusting overhead absorption rates. Normal production capacity is defined as the production expected to be achieved over a number of periods or seasons under normal circumstances, taking into account the loss of capacity resulting from planned maintenance. For the
+three
+months ended
+December 31, 2022
+and
+2021,
+the Company had $ 64,000
+and $ 0 , respectively, of abnormal productions costs. For the
+nine
+months ended
+December 31, 2022
+and
+2021,
+the Company had $ 90,000
+and $ 0 , respectively, of abnormal productions costs.
+Beginning in fiscal
+2021,
+cultivation of astaxanthin was completed in the
+first
+six
+months of the fiscal year during the most productive months of the year due to the best growing conditions, compared to year-round production in the prior fiscal years. A similar approach is being followed in fiscal year
+2023.
+The Company calculates total production costs for the year based on normal capacity of production expected to be achieved in a year under normal circumstances. These costs are then allocated into inventory based on the period of production,
+not
+including abnormal production costs. Allocating fixed and overhead costs requires management’s judgement to determine when production is outside of the normal range of expected variation in production.
+Other non-inventoriable fixed costs of $ 72,000
+and $ 76,000
+were expensed to cost of sales for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively. Other non-inventoriable fixed costs of $ 115,000
+and $ 113,000
+were expensed to cost of sales for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively.
+4.
+EQUIPMENT AND LEASEHOLD IMPROVEMENTS
+Equipment and leasehold improvements consist of the following as of:
+December 31,
+2022
+March 31,
+2022
+(in thousands)
+Equipment
+$ 21,568     $ 20,231
+Leasehold improvements
+15,021       14,751
+Furniture and fixtures
+408       394
+36,997       35,376
+Less accumulated depreciation and amortization
+( 25,537
+)
+( 24,339
+)
+Construction-in-progress
+233       848
+Equipment and leasehold improvements, net
+$ 11,693     $ 11,885
+Management has determined that
+no
+asset impairment existed as of
+December 31, 2022.
+Depreciation and amortization expense were approximately $ 409,000
+and $ 404,000
+for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively. Depreciation and amortization expense were approximately $ 1,243,000
+and $ 1,202,000
+for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively.
+11
+Table of Contents
+5.
+LINE OF CREDIT AND LONG-TERM DEBT
+Total debt consists of the following as of:
+December 31,
+2022
+March 31,
+2022
+(in thousands)
+Line of credit
+$ 1,550     $ —
+Line of credit – related party
+500       —
+Long-term debt
+3,523       3,938
+Debt - related party
+1,000       1,000
+Less current maturities
+( 2,311
+)
+( 490
+)
+Long-term debt, excluding current maturities
+4,262       4,448
+Less unamortized debt issuance costs
+( 96
+)
+( 112
+)
+Total long-term debt, net of current maturities and unamortized debt issuance costs
+$ 4,166     $ 4,336
+Line of Credit and Term Loans
+On
+August 30, 2016,
+the Credit Agreement, which the Company entered into with the Bank on
+June 3, 2016,
+became effective after the Company and the Bank received the necessary approvals from the State of Hawaii to secure the lien on the Company’s leasehold property in Kona, Hawaii. The Credit Agreement allows the Company to borrow up to $ 2,000,000
+on a revolving basis. Borrowings under the Credit Agreement bear interest at the Wall Street Journal prime rate ( 6.25 % at
+December 31, 2022
+and
+3.25 % at
+March 31, 2022)
+plus
+2 %, floating, provided that at
+no
+time shall the annual interest rate be less than
+5.25 %.
+At
+December 31, 2022
+and
+March 31, 2022,
+the outstanding balance under the Credit Agreement was $ 1,550,000
+and $ 0 , respectively, and at
+December 31, 2022
+was included in current liabilities on the Condensed Consolidated Balance Sheets. The line of credit, which is subject to annual renewal, was renewed on
+August 30, 2022
+and will be subject to renewal upon expiration on
+August 30, 2023.
+The Credit Agreement grants the Bank the following security interests in the Company’s property: (a) a lien on the Company’s leasehold interest in its Kona facility; (b) an assignment of the Company’s interest in leases and rents on its Kona facility; and (c) a security interest in all fixtures, furnishings and equipment related to or used by the Company at the Kona facility. Each security interest is further subject to the terms of the Credit Agreement.
+In
+2015,
+the Company executed a loan agreement with a lender providing for $ 2,500,000
+in aggregate credit facilities (the
+“2015
+Loan”) secured by substantially all the Company’s assets, pursuant to a Term Loan Agreement dated
+July 30, 2015 ( the
+“2015
+Loan Agreement”). The
+2015
+Loan was evidenced by a promissory note in the amount of
+$2,500,000,
+the repayment of which was partially guaranteed under the provisions of the United States Department of Agriculture (“USDA”) Rural Development Guarantee program.
+The provisions of the
+2015
+Loan require the payment of principal and interest until its maturity on
+September 1, 2022.
+Interest on the
+2015
+Loan accrued on the outstanding principal balance at an annual variable rate equal to the published Wall Street Journal prime rate ( 3.25 % at
+March  31,
+2022 ) plus
+2.0 % and was adjustable on the
+first
+day of each calendar quarter and fixed for that quarter, provided that at
+no
+time shall the annual interest rate be less than
+6.0 %. The
+2015
+Loan was paid off in
+September 2022
+and the balance under the
+2015
+Loan was $ 218,000
+at
+March  31,
+2022,
+and was included in long-term debt in the debt table above.
+In
+2012,
+the Company executed a loan agreement with a lender providing for $ 5,500,000
+in aggregate credit facilities (the
+“2012
+Loan”) secured by substantially all the Company’s assets, including a mortgage on the Company's interest in its lease at the National Energy Laboratory of Hawaii Authority, pursuant to a Term Loan Agreement dated
+August  14,
+2012
+(the
+“2012
+Loan Agreement”). The
+2012
+Loan is evidenced by promissory notes in the amounts of $ 2,250,000
+and $ 3,250,000 , the repayment of which is partially guaranteed under the provisions of a USDA Rural Development Guarantee. The proceeds of the
+2012
+Loan were used to acquire processing equipment and leasehold improvements at its Kona, Hawaii facility.
+The provisions of the
+2012
+Loan required the payment of interest only for the
+first
+12
+months of the term; thereafter, and until its maturity on
+August  14,
+2032,
+the obligation fully amortizes over
+nineteen
+( 19 ) years. Interest on the
+2012
+Loan accrues on the outstanding principal balance at an annual variable rate equal to the published Wall Street Journal prime rate ( 6.25 % and
+3.25 % at
+December 31, 2022
+and
+March  31,
+2022,
+respectively) plus
+1.0 % and is adjustable on the
+first
+day of each calendar quarter and fixed for that quarter, provided that at
+no
+time shall the annual interest rate be less than
+5.5 %. The balance under the
+2012
+Loan was $ 3,523,000
+and $ 3,720,000
+at
+December 31, 2022
+and
+March  31,
+2022,
+respectively, and was included in long-term debt in the debt table above.
+12
+Table of Contents
+The
+2015
+Loan includes a
+one -time origination and guaranty fee totaling $ 113,900
+and an annual renewal fee payable in the amount of
+0.5 % of the USDA guaranteed portion of the outstanding principal balance as of
+December  31
+of each year, beginning
+December  31,
+2015.
+The USDA had guaranteed
+80 % of all amounts owing under the
+2015
+Loan until
+September 2022,
+when the loan was paid off. The
+2012
+Loan included a
+one -time origination and guaranty fees totaling $ 214,500
+and an annual renewal fee payable in the amount of
+0.25 % of the USDA guaranteed portion of the outstanding principal balance as of
+December  31
+of each year, beginning
+December  31,
+2012.
+The USDA has guaranteed
+80 % of all amounts owing under the
+2012
+Loan. The balance in unamortized debt issuance costs was $ 96,000
+and $ 112,000
+at
+December 31, 2022
+and
+March 31, 2022,
+respectively.
+Loan Covenants
+The Company’s Credit Agreement and the
+2012
+Loan are subject to annual debt service and other financial covenants, including covenants which require the Company to meet key financial ratios and customary affirmative and negative covenants.  As of
+March 31, 2022,
+the Company was in compliance with all required annual financial covenants. The next remeasurement date will be
+March 31, 2023.
+Line of Credit and Debt
+–
+Related Party
+In
+April 2019,
+the Company obtained a loan in the amount of $ 1,500,000
+and the interest was payable quarterly.  The loan was originally due in
+April 2021.
+In
+April 2021,
+the Company amended the loan, which extended the expiration to
+April 2024,
+converted $ 500,000
+into the Revolver, adjusted the interest rate to reflect a floor of
+5 %, and granted a security interest in substantially all of the Company’s personal property assets, subject to limited exceptions. Concurrently, with the amendment and conversion of the original loan, the Company repaid in cash the principal amount of $ 500,000
+plus accrued interest to date of $ 1,900
+(see Note
+12 ).  In
+December 2022,
+the Company amended the loan to extend the expiration to
+April 2025
+and increase the Revolver to $ 1,000,000 . At
+December 31, 2022
+and
+March 31, 2022,
+the balance under this loan was $ 1,000,000 , which was included in long-term debt in the debt table above. At
+December 31, 2022
+and
+March 31, 2022,
+the balance under the Revolver was $ 500,000
+and $ 0 , respectively, which was included in line of credit – related party in the debt table above. Interest accrues on the outstanding principal balance and the Revolver at an annual variable rate equal to the published Wall Street Journal prime rate ( 6.25 % and
+3.25 % at
+December 31, 2022
+and
+March  31,
+2022,
+respectively) plus
+1.0 % and is adjustable on the
+first
+day of each calendar quarter and fixed for that quarter, provided that at
+no
+time shall the annual interest rate be less than
+5.0 %.
+Future principal payments under the loans at
+December  31,
+2022
+are as follows:
+Fiscal year payments due
+(in thousands)
+Remainder of 2023
+$ 65
+2024
+267
+2025
+288
+2026
+1,309
+2027
+332
+Thereafter
+2,262
+Total principal payments
+$ 4,523
+6.
+OPERATING LEASES
+The Company leases facilities, equipment and land under non-cancelable operating leases expiring through
+2037.
+One of its facility leases contains price escalations and a renewal option for
+five
+years, which was renewed effective
+January 1, 2023.
+Right-of-use assets represent the right to use an underlying asset for the lease term and lease liabilities represent the obligation to make lease payments arising from the lease. Right-of-use assets and liabilities were recognized at
+April 1, 2019
+based on the present value of lease payments over the lease term, using the Bank’s incremental borrowing rate based on the information available at recognition, and the Company has elected to exclude non-lease components. The Company also leases
+two
+84 -month solar leases, which are included in the right-of-use assets and liabilities. At
+December 31, 2022,
+the weighted average remaining lease terms was
+12.0
+years, the weighted average discount rate was
+7.3 %, and for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+the operating lease costs were $ 517,000
+and $ 445,000 , respectively.
+13
+Table of Contents
+Supplemental balance sheet information related to leases consist of the following as of:
+Operating leases
+Balance Sheet Classification
+December 31,
+2022
+March 31,
+2022
+(in thousands)
+Right-of-use assets
+Operating lease right-of-use assets
+$ 4,720     $ 4,720
+Accumulated lease amortization
+Operating lease right-of-use assets
+( 1,257
+)
+( 933
+)
+Total right-of-use assets
+$ 3,463     $ 3,787
+Current lease liabilities
+Operating lease obligations
+$ 243     $ 393
+Non-current lease liabilities
+Long-term operating lease obligations
+3,203       3,386
+Total lease liabilities
+$ 3,446     $ 3,779
+Maturities of lease liabilities at
+December 31, 2022
+are as follows:
+Payments
+(in thousands)
+Remainder of 2023
+$ 120
+2024
+480
+2025
+457
+2026
+437
+2027
+437
+Thereafter
+3,228
+Total undiscounted lease payments
+5,159
+Less: present value discount
+( 1,713
+)
+Total lease liability balance
+$ 3,446
+7.
+ACCRUED EXPENSES
+Accrued expenses consist of the following as of:
+December 31,
+2022
+March 31,
+2022
+(in thousands)
+Bonus and profit sharing
+$ 218     $ 488
+Wages
+111       211
+Vacation
+403       392
+Rent, interest and legal
+31       108
+Other accrued expenses
+225       213
+Total accrued expenses
+$ 988     $ 1,412
+8.
+COMMITMENTS AND CONTINGENCIES
+From time to time, the Company
+may
+be involved in litigation and investigations relating to claims and matters arising out of its operations in the normal course of business. There were
+no
+significant legal matters outstanding at
+December 31, 2022.
+9.
+SHARE-BASED COMPENSATION
+The Company has share-based compensation plans, which are more fully described in Note
+10,
+Share-Based Compensation, to the Consolidated Financial Statements included in the Company’s annual report on Form
+10 -K for the fiscal year ended
+March 31, 2022
+as filed with the SEC on
+June 22, 2022.
+As of
+December 31, 2022,
+the Company had
+two
+equity-based compensation plans: the
+2016
+Equity Incentive Plan (the
+“2016
+Plan”) and the
+2014
+Independent Director Stock Option and Restricted Stock Grant Plan (the
+“2014
+Directors Plan”). The Company has also issued stock options, which remain outstanding as of
+December 31, 2022,
+under an equity-based compensation plan which has expired according to its terms: the
+2004
+Independent Director Stock Option and Stock Grant Plan (the
+“2004
+Directors Plan”). The plan allowed the Company to award stock options and shares of restricted common stock to eligible employees, certain outside consultants and independent directors.
+No
+additional awards will be issued under the
+2004
+Directors Plan.
+14
+Table of Contents
+The following table presents shares authorized, available for future grant and outstanding under each of the Company’s plans:
+As of December 31, 2022
+Authorized
+Available
+Outstanding
+2016 Plan
+1,300,000       880,011       306,760
+2014 Directors Plan
+650,000       223,206       12,000
+2004 Directors Plan
+—       —       6,000
+Total
+1,950,000       1,103,217       324,760
+Stock Options
+All stock option grants made under the equity-based compensation plans were issued at exercise prices
+no
+less than the Company’s closing stock price on the date of grant. Options under the
+2016
+Plan and
+2014
+Directors Plan were determined by the Board of Directors or the Compensation Committee of the Board of Directors in accordance with the provisions of the respective plans.  The terms of each option grant include vesting, exercise, and other conditions set forth in a Stock Option Agreement evidencing each grant.
+No
+option can have a life in excess of
+ten
+( 10 ) years. The Company records compensation expense for employee stock options based on the estimated fair value of the options on the date of grant using the Black-Scholes option-pricing model. The model requires various assumptions, including a risk-free interest rate, the expected term of the options, the expected stock price volatility over the expected term of the options, and the expected dividend yield. Compensation expense for employee stock options is recognized ratably over the vesting term. Compensation expense recognized for options issued under all Plans was $ 25,000
+and $ 17,000
+for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively. Compensation expense recognized for options issued under all Plans was $ 66,000
+and $ 47,000
+for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively.
+A summary of option activity under the Company’s stock plans for the
+nine
+months ended
+December 31, 2022
+is presented below:
+Option Activity
+Shares
+Weighted
+Average
+Exercise
+Price
+Weighted
+Average
+Remaining
+Contractual
+Term (in
+years)
+Aggregate
+Intrinsic
+Value
+Outstanding at March 31, 2022
+252,500     $ 3.34       6.5     $ 159,650
+Granted
+50,000     $ 3.43
+Expired
+( 49,500
+)
+$ 5.80
+Outstanding at December 31, 2022
+253,000     $ 2.88       7.7     $ —
+Exercisable at December 31, 2022
+111,333     $ 2.90       6.8     $ —
+The aggregate intrinsic value in the table above is before applicable income taxes and represents the excess amount over the exercise price optionees would have received if all options had been exercised on the last business day of the period indicated, based on the Company’s closing stock price of $ 1.10
+and $ 3.37
+at
+December 31, 2022
+and
+March 31, 2022,
+respectively.
+A summary of the Company’s non-vested options for the
+nine
+months ended
+December 31, 2022
+is presented below:
+Nonvested Options
+Shares
+Weighted
+Average
+Grant-Date
+Fair Value
+Nonvested at March 31, 2022
+141,667     $ 1.33
+Granted
+50,000       1.94
+Vested
+( 50,000
+)
+1.33
+Nonvested at December 31, 2022
+141,667     $ 1.55
+15
+Table of Contents
+The weighted average grant-date fair value of stock options granted during the
+nine
+months ended
+December 31, 2022
+was $ 97,000 . As of
+December 31, 2022,
+total unrecognized stock-based compensation expense related to all unvested stock options was $ 146,000 , which is expected to be expensed over a weighted average period of
+1.8
+years.
+Restricted Stock
+Grants of fully vested restricted stock issued to Non-Employee Directors during the
+nine
+months ended
+December 31, 2022
+and
+2021
+were
+64,489
+and
+55,438 , respectively. Compensation expense recognized for fully vested restricted stock grants under the
+2014
+Directors Plan was $ 0
+and $ 158,000
+for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively, and $ 158,000
+for both
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively.
+Restricted Stock Units ( “ RSUs ” )
+RSUs are service-based awards granted to eligible employees under the
+2016
+Plan. Compensation expense recognized for RSUs issued under the
+2016
+Plan was $ 20,000
+and $ 23,000
+for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively. Compensation expense recognized for RSUs issued under the
+2016
+Plan was $ 42,000
+and $ 113,000
+for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively.
+The following table summarizes information related to awarded RSUs for the
+nine
+months ended
+December 31, 2022:
+Nonvested Restricted Stock Units
+Shares
+Weighted
+Average
+Grant Price
+Nonvested restricted stock units at March 31, 2022
+14,465     $ 2.22
+Granted
+66,423       3.13
+Vested
+( 8,312
+)
+2.35
+Forfeited
+( 816
+)
+2.78
+Nonvested restricted stock units at December 31, 2022
+71,760     $ 3.04
+As of
+December 31, 2022,
+total unrecognized stock-based compensation expense related to unvested restricted stock units was $ 139,000 , which is expected to be expensed over a weighted average period of
+2.5
+years.
+10.
+INCOME TAXES
+The Company utilizes its estimated annual effective tax rate to determine its provision or benefit for income taxes for interim periods. The income tax provision or benefit is computed by multiplying the estimated annual effective tax rate by the year-to-date pre-tax book income (loss). The Company recorded an income tax expense of $ 8,000
+and $ 6,000
+for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively. The Company’s effective tax rate was ( 1.4 %) and
+1.5 % for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively. The Company recorded an income tax expense of $ 11,000
+and $ 21,000
+for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively. The Company’s effective tax rate was ( 0.6 %) and
+1.1 % for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively. The effective tax rates for all periods differ from the statutory rate of
+21 % as a result of state taxes (net of federal benefit) and the net change in valuation allowance against the net deferred tax asset the Company believes is
+not
+more likely than
+not
+to be realized.  The Company continues to carry a full valuation allowance on its net deferred tax assets.
+The Company is subject to taxation in the United States and
+eight
+state jurisdictions. The preparation of tax returns requires management to interpret the applicable tax laws and regulations in effect in such jurisdictions, which could affect the amount of tax paid by the Company. Management, in consultation with its tax advisors, files its tax returns based on interpretations that are believed to be reasonable under the circumstances. The income tax returns, however, are subject to routine reviews by the various taxing authorities.  As part of these reviews, a taxing authority
+may
+disagree with respect to the tax positions taken by management (“uncertain tax positions”) and therefore
+may
+require the Company to pay additional taxes. Management evaluates the requirement for additional tax accruals, including interest and penalties, which the Company could incur as a result of the ultimate resolution of its uncertain tax positions. Management reviews and updates the accrual for uncertain tax positions as more definitive information becomes available from taxing authorities, completion of tax audits, expiration of statute of limitations, or upon occurrence of other events.
+As of
+December 31, 2022
+and
+2021,
+there was
+no
+liability for income tax associated with unrecognized tax benefits. The Company recognizes accrued interest related to unrecognized tax benefits as well as any related penalties in interest income or expense in its Consolidated Condensed Statements of Operations, which is consistent with the recognition of these items in prior reporting periods.
+With few exceptions, the Company is
+no
+longer subject to U.S. federal, state, local, and non-U.S. income tax examination by tax authorities for tax years before
+2018.
+16
+Table of Contents
+11.
+EARNINGS PER SHARE
+Basic earnings (loss) per share is computed on the basis of the weighted average number of common shares outstanding. Diluted earnings (loss) per share is computed on the basis of the weighted average number of common shares outstanding plus the potentially dilutive effect of outstanding stock options using the treasury stock method.
+Reconciliations between the numerator and the denominator of the basic and diluted (loss) income per share computations for the
+three
+and
+nine
+months ended
+December 31, 2022
+and
+2021
+are as follows:
+Three Months Ended December 31, 2022
+Net Loss
+Shares
+Per Share
+(Numerator)
+(Denominator)
+Amount
+(in thousands)
+Basic and diluted loss per share
+$ ( 598
+)
+6,272     $ ( 0.10
+)
+Three Months Ended December 31, 2021
+Net Income
+Shares
+Per Share
+(Numerator)
+(Denominator)
+Amount
+(in thousands)
+Basic income per share
+$ 386       6,183     $ 0.06
+Effective dilutive securities – common stock options and restricted stock units
+—       12       —
+Diluted income per share
+$ 386       6,195     $ 0.06
+Nine Months Ended December 31, 2022
+Net Loss
+Shares
+Per Share
+(Numerator)
+(Denominator)
+Amount
+(in thousands)
+Basic and diluted loss per share
+$ ( 2,010
+)
+6,235     $ ( 0.32
+)
+Nine Months Ended December 31, 2021
+Net Income
+Shares
+Per Share
+(Numerator)
+(Denominator)
+Amount
+(in thousands)
+Basic income per share
+$ 1,877       6,144     $ 0.31
+Effective dilutive securities – common stock options and restricted stock units
+—       21       —
+Diluted income per share
+$ 1,877       6,165     $ 0.30
+Basic and diluted per share amounts are the same in periods of a net loss because common share equivalents are anti-dilutive when a net loss is recorded. Diluted earnings per share does
+not
+include the impact of common stock options and restricted stock units totaling
+1,000
+for the
+three
+months ended
+December 31, 2022
+and
+4,000
+for the
+nine
+months ended
+December 31, 2022,
+as the effect of their inclusion would be anti-dilutive. Restricted stock units become dilutive within the period granted and remain dilutive until the units vest and are then included in the calculation of basic earnings per share. The denominator for effective dilutive shares for the prior year have been restated to conform to current year presentation, to included unvested restricted stock units that have a dilutive effect.
+12.
+RELATED PARTY TRANSACTIONS
+In
+April 2019,
+the Company obtained an unsecured subordinated loan from Skywords Family Foundation, Inc. (“Skywords”) in the principal amount of $ 1,500,000
+pursuant to a Promissory Note (the "Skywords Note”) executed by the Company in favor of Skywords. Skywords is controlled by the Company’s Chairman of the Board of Directors and largest stockholder. The Skywords Note bore interest at a rate of
+1 % plus the prime rate (as published by the Wall Street Journal), which was recalculated and payable on a quarterly basis. The principal amount and any accrued and unpaid interest were due and payable on
+April 12, 2021.
+The proceeds of the Skywords Note were used to pay down accounts payable and for general operating capital purposes.
+17
+Table of Contents
+On
+April 12, 2021,
+the Company entered into an Amended and Restated Promissory Note (the “Skywords Amended Note”) with Skywords. The Company and Skywords agreed to amend, restate, replace and otherwise modify without novation, the Skywords Note in order to convert $ 500,000
+of the outstanding principal amount into revolving loans that
+may
+be prepaid and reborrowed from time to time in principal amounts
+not
+to exceed
+$500,000,
+extend the maturity date by
+three
+years, adjust the interest rate to reflect a floor of
+5 % and secure Skywords’ interest by granting a security interest in substantially all of the Company’s personal property assets, subject to limited exceptions (the “Collateral”). On
+April 12, 2021,
+concurrently with the conversion, the Company repaid in cash to Skywords, the principal amount of $ 500,000
+plus accrued interest to date of $ 1,900 . The Skywords Amended Note bears interest at a rate of
+1 % plus the prime rate (as published by the Wall Street Journal), which will be recalculated and payable on a quarterly basis, provided that at
+no
+time shall the annual interest rate be less than
+5 %. The Company
+may
+prepay the Skywords Amended Note at any time without penalty.
+On
+April 12, 2021,
+in connection with the grant of a security interest in the Collateral, the Company also entered into an Intercreditor and Subordination Agreement with the Bank and Skywords. The Company is indebted to the Bank pursuant to
+two
+Term Loans and a Credit Agreement, each of which granted the Bank a security interest in substantially all of the Company’s personal property assets. The Bank’s security interest in the Company’s personal property assets ranks senior to Skywords’ security interest in the Collateral, and the Intercreditor and Subordination Agreement generally governs the relationship between the Bank and Skywords as secured lenders to the Company and includes customary terms.
+On
+December 14, 2022,
+the Company entered into a First Amendment (the “Amendment”) to the Skywords Amended Note. The Amendment extends the maturity date to
+April 12, 2025
+and increases the revolving amount that the Company
+may
+borrow from time to time under the Skywords Note from $ 500,000
+to $ 1,000,000 . All other terms of the Note remain the same.
+At both
+December 31, 2022
+and
+March 31, 2022,
+the Skywords Note principal balance was
+$1,000,000 ,
+and was included in long-term debt on the Condensed Consolidated Balance Sheets. At
+December 31, 2022
+and
+March 31, 2022,
+the balance on the Revolver was $ 500,000
+and $ 0 , respectively, and was included in line of credit – Revolver on the Condensed Consolidated Balance Sheets. At
+December 31, 2022
+and
+March 31, 2022,
+the interest rates were
+7.25 % and
+5.0 %, respectively.
+18
+Table of Contents
+Item 2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+Overview:
+We are a world leader in the production of high value natural products derived from microalgae. Incorporated in 1983, we are guided by the principle of providing beneficial, quality microalgal products for health and human nutrition in a sustainable, reliable and environmentally sensitive operation. We are Good Manufacturing Practices (“GMP”) certified by the Merieux NutriSciences, reinforcing our commitment to quality in our products, quality in our relationships (with our customers, suppliers, employees and the communities we live in), and quality of the environment in which we work. Our products include:
+●
+BioAstin ®  Hawaiian Astaxanthin ® - a powerful dietary antioxidant shown to support and maintain the body’s natural inflammatory response, to enhance skin, and to support eye, joint and immune health*. It has expanding applications as a human dietary supplement and dietary ingredient; and
+●
+Hawaiian Spirulina Pacifica ® - a nutrient-rich dietary supplement used for extra energy, a strengthened immune system, cardiovascular benefits and as a source of antioxidant carotenoids*
+*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.
+Microalgae are a diverse group of microscopic plants that have a wide range of physiological and biochemical characteristics and contain, among other things, high levels of natural protein, amino acids, vitamins, pigments and enzymes. Microalgae have the following properties that make commercial production attractive: (1) microalgae grow much faster than land grown plants, often up to 100 times faster; (2) microalgae have uniform cell structures with no bark, stems, branches or leaves, permitting easier extraction of products and higher utilization of the microalgae cells; and (3) the cellular uniformity of microalgae makes it practical to control the growing environment in order to optimize a particular cell characteristic. Efficient and effective cultivation of microalgae requires consistent light, warm temperatures, low rainfall and proper chemical balance in a very nutrient-rich environment, free of environmental contaminants and unwanted organisms. This is a challenge that has motivated us to design, develop and implement proprietary production and harvesting technologies, systems and processes in order to commercially produce human dietary supplement products derived from microalgae.
+Our production of these products at the 96-acre facility on the Kona Coast of the island of Hawaii provides several benefits. We selected the Keahole Point location in order to take advantage of relatively consistent warm temperatures, sunshine and low levels of rainfall needed for optimal cultivation of microalgae. This location also offers us access to cold deep ocean water, drawn from an offshore depth of 2,000 feet, which we use in our
+Ocean-Chill Drying
+system to eliminate the oxidative damage caused by standard drying techniques and as a source of trace nutrients for microalgal cultures. The area is also designated a Biosecure Zone, with tight control of organisms allowed into the area and free of genetically modified organisms (“GMO”). We believe that our technology, systems, processes and favorable growing location generally permit year-round harvest of our microalgal products in a cost-effective manner.
+Results of Operations
+The following tables present selected consolidated financial data for each of the periods indicated ($ in thousands):
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Net sales
+$
+5,891
+$
+9,459
+$
+17,786
+$
+27,842
+Net sales (decrease) increase
+(37.7
+)%
+(36.1
+)%
+Gross profit
+$
+1,764
+$
+3,238
+$
+5,872
+$
+10,672
+Gross profit as % of net sales
+29.9
+%
+34.2
+%
+33.0
+%
+38.3
+%
+Operating expenses
+$
+2,168
+$
+2,730
+$
+7,538
+$
+8,462
+Operating expenses as % of net sales
+36.8
+%
+28.9
+%
+42.4
+%
+30.4
+%
+Operating(loss) income
+$
+(404
+)
+$
+508
+$
+(1,666
+)
+$
+2,210
+Operating (loss) income as % of net sales
+(6.8
+)%
+5.4
+%
+(9.4
+)%
+7.9
+%
+Income tax expense
+$
+8
+$
+6
+$
+11
+$
+21
+Net (loss) income
+$
+(598
+)
+$
+386
+$
+(2,010
+)
+$
+1,877
+19
+Table of Contents
+Comparison of the Three Months Ended December 31, 2022 and 2021
+Net Sales
+(in thousands)
+Three Months Ended
+December 31,
+$
+%
+2022
+2021
+Change
+Change
+Packaged sales
+Astaxanthin
+$
+3,113
+$
+3,563
+$
+(450
+)
+(12.6
+)%
+Spirulina
+1,147
+1,612
+(465
+)
+(28.8
+)%
+Total Packaged sales
+$
+4,260
+$
+5,175
+$
+(915
+)
+(17.7
+)%
+Bulk sales
+Astaxanthin
+$
+378
+$
+1,128
+$
+(750
+)
+(66.5
+)%
+Spirulina
+967
+2,990
+(2,023
+)
+(67.7
+)%
+Total Bulk sales
+$
+1,345
+$
+4,118
+$
+(2,773
+)
+(67.3
+)%
+Contract extraction revenue
+$
+286
+$
+166
+$
+120
+72.3
+%
+Total sales
+Astaxanthin
+$
+3,491
+$
+4,691
+$
+(1,200
+)
+(25.6
+)%
+Spirulina
+2,114
+4,602
+(2,488
+)
+(54.1
+)%
+Contract extraction revenue
+286
+166
+120
+72.3
+%
+Total sales
+$
+5,891
+$
+9,459
+$
+(3,568
+)
+(37.7
+)%
+Net Sales
+The net sales decrease of 37.7% for the current quarter compared to the same period last year was driven by a decrease in both packaged and bulk sales, offset by higher contract extraction services due to timing of orders. During the period, we continued to experience overall lower demand resulting from higher inflation and consumers reducing spend in non-discretionary areas. Given the lower demand combined with global supply chain constraints, our bulk customers continue to have higher than normal inventory levels. For our packaged sales, in addition to the macroeconomic impacts noted above, there was a decrease in sales due to the timing of shipments to a significant customer in the prior year. As a result, in the current period, consumer movement was not fully reflected in the packaged sales.
+Gross Profit
+Gross profit as a percent of net sales for the third quarter of fiscal 2023 decreased by 4.3 percentage points compared to the same period last year, which was the result of higher costs per kilogram of astaxanthin and spirulina due to the impact of inflation on our underlying costs and lower production volumes.
+Operating Expenses
+Operating expenses decreased by $0.6 million, or 20.6%, for the current year third quarter compared to the prior year same quarter, primarily due to lower advertising costs and lower incentive compensation expense resulting from net operating loss in the current quarter versus operating income in the prior year.
+Income Taxes
+We recorded a state income tax expense of $8,000 for the third quarter of this fiscal year compared to an income tax expense of $6,000 for the same period last year. We continue to carry a full valuation allowance on our net deferred tax assets.
+20
+Table of Contents
+Comparison of the Nine Months Ended December 31, 2022 and 2021
+Net Sales
+(in thousands)
+Nine Months Ended
+December 31,
+$
+%
+2022
+2021
+Change
+Change
+Packaged sales
+Astaxanthin
+$
+9,492
+$
+11,618
+$
+(2,126
+)
+(18.3
+)%
+Spirulina
+3,719
+6,150
+(2,431
+)
+(39.5
+)%
+Total Packaged sales
+$
+13,211
+$
+17,768
+$
+(4,557
+)
+(25.6
+)%
+Bulk sales
+Astaxanthin
+$
+1,204
+$
+2,041
+$
+(837
+)
+(41.0
+)%
+Spirulina
+2,844
+7,558
+(4,714
+)
+(62.4
+)%
+Total Bulk sales
+$
+4,048
+$
+9,599
+$
+(5,551
+)
+(57.8
+)%
+Contract extraction revenue
+$
+527
+$
+475
+$
+52
+10.9
+%
+Total sales
+Astaxanthin
+$
+10,696
+$
+13,659
+$
+(2,963
+)
+(21.7
+)%
+Spirulina
+6,563
+13,708
+(7,145
+)
+(52.1
+)%
+Contract extraction revenue
+527
+475
+52
+10.9
+%
+Total sales
+$
+17,786
+$
+27,842
+$
+(10,056
+)
+(36.1
+)%
+Net Sales
+The net sales decrease of 36.1% for the first nine months of fiscal 2023 compared to the same period last year was primarily driven by a decrease in spirulina and astaxanthin packaged and bulk sales, with an increase in contract extraction services. During the current fiscal year, we continue to experience overall lower demand resulting from higher inflation and consumers reducing spend in non-discretionary areas. Earlier in the fiscal year, our international customers have delayed, or reduced orders based on the appreciation of the U.S. dollar impacting exchange rates. Given the lower demand combined with global supply chain constraints, our bulk customers continue to have higher than normal inventory levels. For our packaged sales, in addition to the macroeconomic impacts noted above, there was a decrease in sales due to the timing of shipments to a significant customer in the prior year same period.  As a result, in the current fiscal year, consumer movement was not fully reflected in the packaged sales.
+Gross Profit
+Gross profit as a percent of net sales decreased by 5.3 percentage points compared to the same period last year, which was the result of higher costs per kilogram of astaxanthin and spirulina due to the impact of inflation on our underlying costs, lower production volumes and customer mix.
+Operating Expenses
+Operating expenses decreased by $0.9 million, or 10.9%, for the first nine months of fiscal 2023 compared to the prior year same period, primarily due to lower advertising costs and lower incentive compensation expense resulting from net operating losses in the current year versus operating income in the prior year.
+Income Taxes
+We recorded a state income tax expense of $11,000 for the first nine months of fiscal 2023 compared to an income tax expense of $21,000 for the same period last year. We continue to carry a full valuation allowance on our net deferred tax assets.
+Liquidity and Capital Resources
+As of December 31, 2022, we had cash of $0.5 million and working capital of $9.9 million compared to $2.6 million and $11.4 million, respectively, at March 31, 2022. We have a Credit Agreement with the Bank that allows us to borrow up to $2.0 million on a revolving basis. At December 31, 2022 and March 31, 2022, we had $1.6 million and $0, respectively, outstanding borrowings on the line of credit. The line of credit is subject to renewal on August 30, 2023, and we intend to renew or replace it with another line of credit on or before the expiration date. We also have a loan facility with a related party that allows us to borrow up to $1.0 million on the Revolver. At December 31, 2022 and March 31, 2022, we had $0.5 million and $0, respectively, outstanding borrowings on the Revolver and was included in line of credit – related party on the Condensed Consolidated Balance Sheets. The Revolver expires on April 12, 2025.
+As of December 31, 2022, we had $3.5 million in Term Loans payable to the Bank that require the payment of principal and interest monthly through August 2032. Pursuant to the Term Loans and the Credit Agreement, we are subject to annual financial covenants, customary affirmative and negative covenants and certain subjective acceleration clauses. As of March 31, 2022, we were in compliance with all required annual financial covenants under the Term Loans and the Credit Agreement.
+21
+Table of Contents
+In April 2019, we obtained a loan in the amount of $1.5 million from a related party. The proceeds were used to pay down accounts payable and for general operating capital purposes. On April 12, 2021 and December 14, 2022, we amended this loan (see Notes 5 and 12 in the Notes to Condensed Consolidated Financial Statements). As of both December 31, 2022 and March 31, 2022, we had $1.0 million outstanding on the related party note. The loan expires on April 12, 2025.
+In fiscal year 2023, the impacts from the macroeconomic environment have led to lower sales across all of our portfolio and cash flows from operating activities.  During this period, we drew $1.6 million on our line of credit and $0.5 million on the Revolver.  To address the resulting cash flow challenges beginning in the third quarter of fiscal year 2023, we have implemented some cost savings initiatives, including stopping or slowing production of inventory in alignment with current customer demand, reducing headcount and compensation, primarily through attrition and furloughs, respectively, and eliminating certain discretionary selling, general and administrative expenses.
+Funds generated by operating activities and available cash are expected to continue to be our most significant sources of liquidity for working capital requirements, debt service and funding of maintenance levels of capital expenditures. We have developed our operating plan to produce the cash flows necessary to meet all financing requirements.  Although we have a history of either being in compliance with debt covenants or obtaining the necessary waivers, execution of our operating plan is dependent on many factors, some of which are not within the control of the Company.  Taking into account our financial results for the first three quarters of the 2023 fiscal year, it is possible that we will no be in compliance with our debt covenants as of March 31, 2023 measurement date.  If we are not in compliance, we would intend to seek a waiver from the Bank.  The Bank has provided such a waiver in the past when we have been in default, but there is no assurance that the Bank would do so again.  A failure to maintain compliance along with the Bank not agreeing to a waiver for the non-compliance would cause the outstanding borrowings to be in default and payable on demand, which would have a material adverse affect on us.
+Cash Flows
+The following table summarizes our cash flows for the periods indicated ($ in thousands):
+Nine Months Ended
+December 31,
+2022
+2021
+Total cash provided by (used in):
+Operating activities
+$
+(2,683
+)
+$
+1,344
+Investing activities
+(1,018
+)
+(745
+)
+Financing activities
+1,625
+(2,068
+)
+Decrease in cash
+$
+(2,076
+)
+$
+(1,469
+)
+Cash used in operating activities for the nine months ended December 31, 2022 was the result of a net loss of $2.0 million, an increase of $2.1 million in inventories, offset by non-cash charges of $1.9 million.
+Cash used in investing activities for the nine months ended December 31, 2022 primarily includes costs for acquiring equipment at our Kona facility.
+Cash provided by financing activities for the nine months ended December 31, 2022 consists primarily of draws on the line of credit of $1.6 million and on the related party line of credit of $0.5 million offset by debt service payments of $0.4 million.
+Sources and Uses of Capital
+As of December 31, 2022, our working capital was $9.9 million, a decrease of $1.6 million compared to March 31, 2022. There was an increase in inventories in the fiscal 2023, due to lower bulk sales and completing the cultivation of astaxanthin in the first part of the fiscal year. Cultivation improvements that we have made allow us to produce all of the required demand for astaxanthin during the most favorable growing season.
+Our results of operations and financial condition can be affected by numerous factors, many of which are beyond our control and could cause future results of operations to fluctuate materially as it has in the past. Future operating results may fluctuate as a result of changes in sales volumes to our largest customers, weather patterns, increased competition, increased materials, nutrient and energy costs, government regulations and other factors beyond our control.
+A significant portion of our expense levels are relatively fixed, so the timing of increases in expenses is based in large part on forecasts of future sales. If net sales are below expectations in any given period, the adverse impact on results of operations may be magnified by our inability to adjust spending quickly enough to compensate for the sales shortfall. We may also choose to reduce prices or increase spending in response to market conditions, which may have a material adverse effect on financial condition and results of operations.
+Based upon our current operating plan, analysis of our consolidated financial position and projected future results of operations, we believe that our operating cash flows, cash balances and working capital will be sufficient to finance current operating requirements, debt service requirements, and routine planned capital expenditures, for the next twelve (12) months.
+22
+Table of Contents
+Outlook
+This outlook section   contains a number of forward-looking statements, all of which are based on current expectations. Actual results may differ materially.
+Our strategic direction has been to position as a world leader in the production and marketing of high-value natural products from microalgae. We are vertically aligned, producing raw materials in the form of microalgae processed at our 96-acre facility in Hawaii, and integrating those raw materials into finished products. Our primary focus is stabilizing our production volume, rationalizing market channel participation, and leveraging our centers of core competence. We will continue to place emphasis on our Nutrex Hawaiian consumer products while exploring further opportunities for bulk sales orders for Spirulina and Astaxanthin, both domestically and internationally. Extraction services to third party customers utilizing our 1,000 bar super critical CO2 extractor process are expected to generate additional income throughout the year. We will leverage our experience and reputation for quality, nutritional products which promote health and well-being. The foundation of our nutritional products is naturally cultivated
+Hawaiian Spirulina Pacifica ® in powder and tablet form; and
+BioAstin ®
+Hawaiian Astaxanthin ® antioxidant in extract and softgel form. Information about our Company and our products can be viewed at www.cyanotech.com and www.nutrex-hawaii.com. Consumer products can also be purchased online at www.nutrex-hawaii.com.
+Gross profit margin percentages going forward can be impacted by lower production volumes along with pressure on input costs as well as greater competition in the market place. This could cause margins to decline in future periods. We will continue to focus on higher margin consumer products that promote health and well-being and strive for continuous improvements in processes and production methods to stabilize costs and production levels for the future. However, significant sales variability between periods may occur based on historical results.
+Producing the highest quality microalgae is a complex biological process which requires balancing numerous factors including microalgal strain variation, temperature, acidity, nutrient and other environmental considerations, some of which are not within our control. An imbalance or unexpected event can occur resulting in production levels below normal capacity. The allocation of fixed production overheads (such as depreciation, rent and general insurance) to inventories is determined based on normal production capacity. When our production volumes are below normal capacity limits, certain fixed production overhead costs cannot be inventoried and are recorded immediately in cost of sales. In addition, when production costs exceed historical averages, we evaluate whether such costs are one-time-period charges or an ongoing component of inventory cost.
+To manage our cash resources effectively, we will balance production with sales demand, minimizing the cost associated with inventory levels when appropriate and manage our expenses judiciously. We could experience unplanned cash outflows and may need to utilize other cash resources to meet working capital needs. A prolonged downturn in sales could impair our ability to generate sufficient cash for operations and hamper our ability to attract additional capital investment which could become necessary to maintain optimal production levels and efficiencies.
+Our future results of operations and the other forward-looking statements contained in this Outlook, in particular the statements regarding revenues, gross margin and capital spending, involve a number of risks and uncertainties. In addition to the factors discussed above, any of the following could cause actual results to differ materially: business conditions and growth in the natural products industry and in the general economy; changes in customer order patterns; changes in demand for natural products in general; changes in weather conditions; changes in health and growing conditions of our astaxanthin and spirulina products; competitive factors, such as increased production capacity from competing spirulina and astaxanthin producers and the resulting impact, if any, on world market prices for these products; government actions and increased regulations both domestic and foreign; shortage of manufacturing capacity; and other factors beyond our control. Risk factors are discussed in detail in Part II, Item 1A of this quarterly report and in Part I, Item 1A of our Form 10-K report for the year ended March 31, 2022.
+We believe that our technology, systems, processes and favorable growing location generally permit year-round harvest of our microalgal products in a cost-effective manner. However, previously experienced imbalances in the highly complex biological production systems, together with volatile energy costs and rapidly changing world markets, suggest a need for continuing caution with respect to variables beyond our reasonable control. Therefore, we cannot, and do not attempt to, provide any definitive assurance with regard to our technology, systems, processes, location, or cost-effectiveness.
+Off-Balance Sheet Arrangements
+As of December 31, 2022, we had no off-balance sheet arrangements or obligations.
+23
+Table of Contents
+Impact of Inflation
+Inflationary factors such as increases in the costs of materials, utilities and labor are affecting our operations. We are also experiencing overall lower demand as consumers are feeling the impacts of higher inflation and reducing spend in non-discretionary areas. Our international customers have delayed, or reduced orders based on the appreciation of the US dollar impacting exchange rates. Given the lower demand, our bulk customers have higher than normal inventory levels. The exact impact on our results is difficult to isolate and quantify given the macroeconomic environment. Most of our leases provide for cost-of-living adjustments and require us to pay for insurance and maintenance expenses, all of which are subject to inflation. Additionally, our future lease cost for new facilities may include potentially escalating costs of real estate and construction. There is no assurance that we will be able to pass on increased costs to our customers.
+Depreciation expense is based on the historical cost of fixed assets and is therefore potentially less than it would be if it were based on current replacement cost. While property and equipment acquired in prior years will ultimately have to be replaced at higher prices, it is expected that replacement will be a gradual process over many years.
+Critical Accounting Policies and Estimates
+Our critical accounting policies and estimates are disclosed in the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section of our Annual Report on Form 10-K for the fiscal year ended March 31, 2022 filed with the SEC on June 22, 2022. In the nine months ended December 31, 2022, there were no changes to the application of critical accounting policies previously disclosed in our most recent Annual Report on Form 10-K.
+Item 4.
+Controls and Procedures
+Disclosure Controls and Procedures
+Under the supervision and with the participation of our management, including our chief executive officer (“CEO”) and chief financial officer (“CFO”), we have evaluated the effectiveness of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15(d)-15(e) of the Exchange Act as of the end of the period covered by this Report. Based on that evaluation, our CEO and CFO have concluded that our disclosure controls and procedures are effective to provide reasonable assurance that information we are required to disclose in reports we file or submit under the Exchange Act is (1) recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and (2) accumulated and communicated to our management, including our CEO and CFO, as appropriate to allow timely decisions regarding required disclosures.
+Management ’ s Report on Internal Control over Financial Reporting
+The Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act). The Company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Our management evaluated the effectiveness of our internal control over financial reporting as of December 31, 2022. In making this assessment, our management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in “Internal Control - Integrated Framework” (2013 Framework). Based on our assessment, using those criteria, management concluded that our internal control over financial reporting was effective as of December 31, 2022.
+Changes to Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the nine months ended December 31, 2022 that has materially affected, or was reasonably likely to materially affect, our internal control over financial reporting.
+Limitations on the Effectiveness of Controls
+Our management, including our CEO and CFO, do not expect that our disclosure controls and procedures or our internal controls over financial reporting will prevent all errors and all fraud. A control system no matter how well designed and implemented, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs.
+The inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple errors or mistakes. Controls can also be circumvented by the individual acts of some persons, or by collusion of two or more people. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+This Form 10-Q should be read in conjunction with Item 9A “Controls and Procedures” of the Company’s Form 10-K for the fiscal year ended March 31, 2022, filed June 22, 2022.
+24
+Table of Contents
+PART   II.
+OTHER INFORMATION
+Item 1.
+Legal Proceedings
+From time to time, the Company may be involved in litigation and investigations relating to claims and matters arising out of its operations in the normal course of business. There were no significant legal matters outstanding at December 31, 2022.
+Item 1A.
+Risk Factors
+For a discussion of the risk factors relating to our business, please refer to Part I, Item 1A of our Form 10-K for the year ended March 31, 2022, which is incorporated by reference herein.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+Item 3.
+Defaults upon Senior Securities
+None.
+Item 5.
+Other Information
+None.
+25
+Table of Contents
+Item 6.
+Exhibits
+10.1
+First Amendment to Amended and Restated Promissory Note, dated December 14, 2022, by and between Skywords Family Foundation, Inc. and Cyanotech Corporation (Incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed December 19, 2022)
+31.1*
+Certifications of Chief Executive Officer Pursuant to Section   302 of the Sarbanes-Oxley Act of 2002 signed as of February 9, 2023
+31.2*
+Certifications of Chief Financial Officer Pursuant to Section   302 of the Sarbanes-Oxley Act of 2002 signed as of February 9, 2023
+32*
+Certifications of Chief Executive Officer and Chief Financial Officer Pursuant to Section   906 of the Sarbanes-Oxley Act of 2002 signed as of February 9, 2023
+99.1*
+Press Release dated February 9, 2023
+101
+The following financial statements from Cyanotech Corporation’s Quarterly Report on Form 10-Q for the quarter ended December 31, 2022, formatted in Inline XBRL (eXtensible Business Reporting Language): (i) the Condensed Consolidated Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Condensed Consolidated Statements of Cash Flows, and (iv) Notes to Condensed Consolidated Financial Statements.
+104
+Cover Page Interactive Data File (Formatted as Inline XBRL and contained in Exhibit 101)
+*Included herewith. Other exhibits were filed as shown above.
+26
+Table of Contents
+SIGNATURES
+In accordance with the requirements of the Securities Exchange Act of 1934, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+CYANOTECH CORPORATION
+(Registrant)
+February 9, 2023
+By:
+/s/ Matthew K. Custer
+(Date)
+Matthew K. Custer
+President and Chief Executive Officer
+February 9, 2023
+By:
+/s/ Felicia Ladin
+(Date)
+Felicia Ladin
+Chief Financial Officer, Vice President
+—  Finance   &
+Administration, and Treasurer
+(Principal Financial Officer)
+27
+Table of Contents
+EXHIBIT INDEX
+Exhibit   Number
+Description
+10.1
+First Amendment to Amended and Restated Promissory Note, dated December 14, 2022, by and between Skywords Family Foundation, Inc. and Cyanotech Corporation (Incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed December 19, 2022)
+31.1*
+Certifications of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 signed as of February 9, 2023
+31.2*
+Certifications of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 signed as of February 9, 2023
+32*
+Certifications of Chief Executive Officer and Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 signed as of February 9, 2023
+99.1*
+Press Release dated February 9, 2023
+101
+The following financial statements from Cyanotech Corporation’s Quarterly Report on Form 10-Q for the quarter ended December 31, 2022, formatted in Inline XBRL (eXtensible Business Reporting Language): (i) the Condensed Consolidated Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Condensed Consolidated Statements of Stockholders’ Equity, (iv) the Condensed Consolidated Statements of Cash Flows, and (v) Notes to Condensed Consolidated Financial Statements
+104
+Cover Page Interactive Data File (Formatted as Inline XBRL and contained in Exhibit 101)
+*Included herewith.  Other exhibits were filed as shown above.
+28

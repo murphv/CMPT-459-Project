@@ -1,0 +1,2728 @@
+2023
+200,000
+200,000
+0
+0
+0
+0
+30,000,000
+30,000,000
+14,632,802
+14,632,802
+0
+0
+819,398
+960,459
+1
+115
+3
+2
+0
+63
+0
+0
+2
+3
+3
+3
+2014 2015 2016 2017 2018 2019 2020 2021
+2019
+2017 2018 2019 2020 2021 2022
+5
+0
+0
+1
+6,500
+These accumulated other comprehensive income components are included in the computation of net periodic pension cost (see Note G, "Pension and Other Postretirement Benefit Plans" for further details).
+0000100378 2022-07-01 2022-12-30
+xbrli:shares
+0000100378 2023-02-03
+thunderdome:item
+iso4217:USD
+0000100378 2022-12-30
+0000100378 2022-06-30
+iso4217:USD xbrli:shares
+0000100378 2022-10-01 2022-12-30
+0000100378 2021-09-25 2021-12-31
+0000100378 2021-07-01 2021-12-31
+0000100378 2021-06-30
+0000100378 2021-12-31
+0000100378 2022-09-30
+0000100378 2021-09-24
+xbrli:pure
+0000100378 us-gaap:OperatingSegmentsMember twin:ManufacturingSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:ManufacturingSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:ManufacturingSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:ManufacturingSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:DistributionSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:DistributionSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:DistributionSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:DistributionSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:ManufacturingSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:ManufacturingSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:ManufacturingSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:ManufacturingSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:DistributionSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:DistributionSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:DistributionSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:DistributionSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:CorporateNonSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:CorporateNonSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:CorporateNonSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:CorporateNonSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:ManufacturingSegmentMember 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:ManufacturingSegmentMember 2022-06-30
+0000100378 us-gaap:OperatingSegmentsMember twin:DistributionSegmentMember 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:DistributionSegmentMember 2022-06-30
+0000100378 us-gaap:CorporateNonSegmentMember 2022-12-30
+0000100378 us-gaap:CorporateNonSegmentMember 2022-06-30
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:ManufacturingSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:DistributionSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:IndustrialMember 2022-10-01 2022-12-30
+0000100378 twin:IndustrialMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:ManufacturingSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:DistributionSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:LandBasedTransmissionsMember 2022-10-01 2022-12-30
+0000100378 twin:LandBasedTransmissionsMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:ManufacturingSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:DistributionSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:MarineAndPropulsionSystemsMember 2022-10-01 2022-12-30
+0000100378 twin:MarineAndPropulsionSystemsMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:ManufacturingSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:DistributionSegmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:OtherMember 2022-10-01 2022-12-30
+0000100378 twin:OtherMember 2022-10-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:ManufacturingSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:DistributionSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:IndustrialMember 2021-09-25 2021-12-31
+0000100378 twin:IndustrialMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:ManufacturingSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:DistributionSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:LandBasedTransmissionsMember 2021-09-25 2021-12-31
+0000100378 twin:LandBasedTransmissionsMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:ManufacturingSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:DistributionSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:MarineAndPropulsionSystemsMember 2021-09-25 2021-12-31
+0000100378 twin:MarineAndPropulsionSystemsMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:ManufacturingSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:DistributionSegmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:OtherMember 2021-09-25 2021-12-31
+0000100378 twin:OtherMember 2021-09-25 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:ManufacturingSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:DistributionSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:IndustrialMember 2022-07-01 2022-12-30
+0000100378 twin:IndustrialMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:ManufacturingSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:DistributionSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:LandBasedTransmissionsMember 2022-07-01 2022-12-30
+0000100378 twin:LandBasedTransmissionsMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:ManufacturingSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:DistributionSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:MarineAndPropulsionSystemsMember 2022-07-01 2022-12-30
+0000100378 twin:MarineAndPropulsionSystemsMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:ManufacturingSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:DistributionSegmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember twin:OtherMember 2022-07-01 2022-12-30
+0000100378 twin:OtherMember 2022-07-01 2022-12-30
+0000100378 us-gaap:IntersegmentEliminationMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:ManufacturingSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:IndustrialMember twin:DistributionSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:IndustrialMember 2021-07-01 2021-12-31
+0000100378 twin:IndustrialMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:ManufacturingSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:LandBasedTransmissionsMember twin:DistributionSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:LandBasedTransmissionsMember 2021-07-01 2021-12-31
+0000100378 twin:LandBasedTransmissionsMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:ManufacturingSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:MarineAndPropulsionSystemsMember twin:DistributionSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:MarineAndPropulsionSystemsMember 2021-07-01 2021-12-31
+0000100378 twin:MarineAndPropulsionSystemsMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:ManufacturingSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OperatingSegmentsMember twin:OtherMember twin:DistributionSegmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember twin:OtherMember 2021-07-01 2021-12-31
+0000100378 twin:OtherMember 2021-07-01 2021-12-31
+0000100378 us-gaap:IntersegmentEliminationMember 2021-07-01 2021-12-31
+0000100378 twin:PerformanceStockAwardsMember 2022-07-01 2022-12-30
+0000100378 twin:PerformanceStockAwardsMember 2021-07-01 2021-12-31
+utr:Y
+0000100378 twin:PerformanceStockAwardsMember 2022-12-30
+0000100378 twin:PerformanceStockAwardsMember 2022-06-30
+0000100378 twin:PerformanceStockAwardsMember 2021-12-31
+0000100378 twin:PerformanceStockAwardsMember 2022-10-01 2022-12-30
+0000100378 twin:PerformanceStockAwardsMember 2021-09-25 2021-12-31
+0000100378 us-gaap:RestrictedStockMember srt:MinimumMember 2022-07-01 2022-12-30
+0000100378 us-gaap:RestrictedStockMember srt:MaximumMember 2022-07-01 2022-12-30
+0000100378 us-gaap:RestrictedStockMember 2022-07-01 2022-12-30
+0000100378 us-gaap:RestrictedStockMember 2021-07-01 2021-12-31
+0000100378 us-gaap:RestrictedStockMember 2022-12-30
+0000100378 us-gaap:RestrictedStockMember 2021-12-31
+0000100378 us-gaap:RestrictedStockMember 2022-10-01 2022-12-30
+0000100378 us-gaap:RestrictedStockMember 2021-09-25 2021-12-31
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2022-07-01 2022-12-30
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2021-07-01 2021-12-31
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2022-12-30
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2021-12-31
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2022-10-01 2022-12-31
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2021-09-25 2021-12-30
+0000100378 us-gaap:PensionPlansDefinedBenefitMember 2022-10-01 2022-12-30
+0000100378 us-gaap:PensionPlansDefinedBenefitMember 2021-09-25 2021-12-31
+0000100378 us-gaap:PensionPlansDefinedBenefitMember 2022-07-01 2022-12-30
+0000100378 us-gaap:PensionPlansDefinedBenefitMember 2021-07-01 2021-12-31
+0000100378 us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember 2022-10-01 2022-12-30
+0000100378 us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember 2021-09-25 2021-12-31
+0000100378 us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember 2021-07-01 2021-12-31
+0000100378 us-gaap:PensionPlansDefinedBenefitMember 2022-09-30
+0000100378 us-gaap:ForeignCountryMember 2022-07-01 2022-12-30
+0000100378 us-gaap:ForeignCountryMember us-gaap:TaxAndCustomsAdministrationNetherlandsMember 2022-07-01 2022-12-30
+0000100378 us-gaap:DomesticCountryMember 2022-07-01 2022-12-30
+0000100378 us-gaap:CustomerRelationshipsMember 2022-06-30
+0000100378 us-gaap:TechnologyBasedIntangibleAssetsMember 2022-06-30
+0000100378 us-gaap:TradeNamesMember 2022-06-30
+0000100378 us-gaap:OtherIntangibleAssetsMember 2022-06-30
+0000100378 us-gaap:CustomerRelationshipsMember 2022-07-01 2022-12-30
+0000100378 us-gaap:TechnologyBasedIntangibleAssetsMember 2022-07-01 2022-12-30
+0000100378 us-gaap:TradeNamesMember 2022-07-01 2022-12-30
+0000100378 us-gaap:OtherIntangibleAssetsMember 2022-07-01 2022-12-30
+0000100378 us-gaap:CustomerRelationshipsMember 2022-12-30
+0000100378 us-gaap:TechnologyBasedIntangibleAssetsMember 2022-12-30
+0000100378 us-gaap:TradeNamesMember 2022-12-30
+0000100378 us-gaap:OtherIntangibleAssetsMember 2022-12-30
+0000100378 2022-07-01 2022-09-30
+0000100378 twin:RevolvingLoanMember 2022-12-30
+0000100378 twin:RevolvingLoanMember 2022-06-30
+0000100378 twin:TermLoanMember 2022-12-30
+0000100378 twin:TermLoanMember 2022-06-30
+0000100378 twin:OtherLongtermDebtMember 2022-12-30
+0000100378 twin:OtherLongtermDebtMember 2022-06-30
+0000100378 twin:TheNinthAmendmentMember twin:TermLoanMember 2022-06-30
+0000100378 us-gaap:RevolvingCreditFacilityMember twin:TheNinthAmendmentMember twin:BMOMember 2022-06-30
+0000100378 twin:ForbearanceAgreementMember twin:BMOMember srt:MinimumMember 2020-04-01 2020-12-25
+0000100378 us-gaap:RevolvingCreditFacilityMember twin:ForbearanceAgreementMember twin:BMOMember srt:MaximumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-01-27 2021-01-27
+0000100378 twin:TheNinthAmendmentMember twin:BMOMember twin:TermLoanMember srt:MaximumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-01-27 2021-01-27
+0000100378 twin:ForbearanceAgreementMember twin:BMOMember twin:UnusedRevolvingCreditCommitmentMember srt:MaximumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-01-27 2021-01-27
+0000100378 us-gaap:RevolvingCreditFacilityMember twin:TheNinthAmendmentMember twin:BMOMember srt:MinimumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-30 2022-06-30
+0000100378 us-gaap:RevolvingCreditFacilityMember twin:TheNinthAmendmentMember twin:BMOMember srt:MaximumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-30 2022-06-30
+0000100378 twin:TheNinthAmendmentMember twin:BMOMember twin:TermLoanMember srt:MinimumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-30 2022-06-30
+0000100378 twin:TheNinthAmendmentMember twin:BMOMember twin:TermLoanMember srt:MaximumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-30 2022-06-30
+0000100378 twin:TheNinthAmendmentMember twin:BMOMember twin:UnusedRevolvingCreditCommitmentMember srt:MinimumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-30 2022-06-30
+0000100378 twin:TheNinthAmendmentMember twin:BMOMember twin:UnusedRevolvingCreditCommitmentMember srt:MaximumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-30 2022-06-30
+0000100378 us-gaap:RevolvingCreditFacilityMember twin:TheNinthAmendmentMember twin:BMOMember srt:MaximumMember 2022-12-30
+0000100378 twin:TheNinthAmendmentMember twin:BMOMember twin:TermLoanMember 2022-12-30
+0000100378 twin:The2018CreditAgreementMember twin:BMOMember 2022-12-30
+0000100378 srt:MaximumMember 2018-07-01 2019-06-30
+0000100378 srt:MinimumMember 2019-06-30
+0000100378 srt:MaximumMember 2019-06-30
+0000100378 twin:The2018CreditAgreementMember twin:BMOMember twin:TermLoanMember 2022-10-01 2022-12-30
+0000100378 us-gaap:RevolvingCreditFacilityMember twin:The2018CreditAgreementMember twin:BMOMember 2022-10-01 2022-12-30
+0000100378 us-gaap:RevolvingCreditFacilityMember twin:The2018CreditAgreementMember twin:BMOMember 2022-12-30
+0000100378 twin:BankOfMontrealMember us-gaap:InterestRateSwapMember us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember 2018-06-29
+0000100378 twin:BankOfMontrealMember us-gaap:InterestRateSwapMember us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-12-30
+0000100378 us-gaap:CommonStockMember 2022-06-30
+0000100378 us-gaap:RetainedEarningsMember 2022-06-30
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-30
+0000100378 us-gaap:TreasuryStockMember 2022-06-30
+0000100378 us-gaap:NoncontrollingInterestMember 2022-06-30
+0000100378 us-gaap:RetainedEarningsMember 2022-07-01 2022-09-30
+0000100378 us-gaap:NoncontrollingInterestMember 2022-07-01 2022-09-30
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-01 2022-09-30
+0000100378 us-gaap:CommonStockMember 2022-07-01 2022-09-30
+0000100378 us-gaap:TreasuryStockMember 2022-07-01 2022-09-30
+0000100378 us-gaap:CommonStockMember 2022-09-30
+0000100378 us-gaap:RetainedEarningsMember 2022-09-30
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0000100378 us-gaap:TreasuryStockMember 2022-09-30
+0000100378 us-gaap:NoncontrollingInterestMember 2022-09-30
+0000100378 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-30
+0000100378 us-gaap:NoncontrollingInterestMember 2022-10-01 2022-12-30
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-30
+0000100378 us-gaap:CommonStockMember 2022-10-01 2022-12-30
+0000100378 us-gaap:TreasuryStockMember 2022-10-01 2022-12-30
+0000100378 us-gaap:CommonStockMember 2022-12-30
+0000100378 us-gaap:RetainedEarningsMember 2022-12-30
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-30
+0000100378 us-gaap:TreasuryStockMember 2022-12-30
+0000100378 us-gaap:NoncontrollingInterestMember 2022-12-30
+0000100378 us-gaap:CommonStockMember 2021-06-30
+0000100378 us-gaap:RetainedEarningsMember 2021-06-30
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-30
+0000100378 us-gaap:TreasuryStockMember 2021-06-30
+0000100378 us-gaap:NoncontrollingInterestMember 2021-06-30
+0000100378 us-gaap:RetainedEarningsMember 2021-07-01 2021-09-24
+0000100378 us-gaap:NoncontrollingInterestMember 2021-07-01 2021-09-24
+0000100378 2021-07-01 2021-09-24
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-07-01 2021-09-24
+0000100378 us-gaap:CommonStockMember 2021-07-01 2021-09-24
+0000100378 us-gaap:TreasuryStockMember 2021-07-01 2021-09-24
+0000100378 us-gaap:CommonStockMember 2021-09-24
+0000100378 us-gaap:RetainedEarningsMember 2021-09-24
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-24
+0000100378 us-gaap:TreasuryStockMember 2021-09-24
+0000100378 us-gaap:NoncontrollingInterestMember 2021-09-24
+0000100378 us-gaap:CommonStockMember 2021-09-25 2021-12-31
+0000100378 us-gaap:RetainedEarningsMember 2021-09-25 2021-12-31
+0000100378 us-gaap:NoncontrollingInterestMember 2021-09-25 2021-12-31
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-25 2021-12-31
+0000100378 us-gaap:TreasuryStockMember 2021-09-25 2021-12-31
+0000100378 us-gaap:CommonStockMember 2021-12-31
+0000100378 us-gaap:RetainedEarningsMember 2021-12-31
+0000100378 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0000100378 us-gaap:TreasuryStockMember 2021-12-31
+0000100378 us-gaap:NoncontrollingInterestMember 2021-12-31
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2022-06-30
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2022-06-30
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-06-30
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2022-06-30
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2022-07-01 2022-09-30
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2022-07-01 2022-09-30
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-07-01 2022-09-30
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2022-07-01 2022-09-30
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2022-09-30
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2022-09-30
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-09-30
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2022-09-30
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2022-10-01 2022-12-30
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-10-01 2022-12-30
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2022-10-01 2022-12-30
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2022-12-30
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2022-12-30
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-12-30
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2022-12-30
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2021-06-30
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2021-06-30
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-06-30
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2021-06-30
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2021-07-01 2021-09-24
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2021-07-01 2021-09-24
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-07-01 2021-09-24
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2021-07-01 2021-09-24
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2021-09-24
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2021-09-24
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-09-24
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2021-09-24
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2021-09-25 2021-12-31
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2021-09-25 2021-12-31
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-09-25 2021-12-31
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2021-09-25 2021-12-31
+0000100378 us-gaap:AccumulatedTranslationAdjustmentMember 2021-12-31
+0000100378 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember 2021-12-31
+0000100378 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-12-31
+0000100378 twin:AccumulatedGainLossNetNetInvestmentHedgeMember 2021-12-31
+0000100378 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-10-01 2022-12-30
+0000100378 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-07-01 2022-12-30
+0000100378 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2021-10-01 2021-12-31
+0000100378 us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2021-07-01 2021-12-31
+0000100378 us-gaap:EmployeeSeveranceMember 2021-06-30
+0000100378 us-gaap:EmployeeSeveranceMember 2022-10-01 2022-12-30
+0000100378 us-gaap:EmployeeSeveranceMember 2022-12-30
+0000100378 us-gaap:EmployeeSeveranceMember 2021-09-25 2021-12-31
+0000100378 us-gaap:EmployeeSeveranceMember 2022-07-01 2022-12-30
+0000100378 us-gaap:EmployeeSeveranceMember 2021-07-01 2021-12-31
+0000100378 us-gaap:EmployeeSeveranceMember 2015-06-01 2022-12-30
+0000100378 us-gaap:EmployeeSeveranceMember 2022-01-01 2022-03-25
+0000100378 twin:PropellerMachiningPlantAndOfficeInSwitzerlandMember 2021-09-25 2021-12-31
+0000100378 twin:PropellerMachiningPlantAndOfficeInSwitzerlandMember us-gaap:OtherOperatingIncomeExpenseMember 2021-09-25 2021-12-31
+0000100378 twin:PropellerMachiningPlantAndOfficeInSwitzerlandMember 2022-03-26 2022-06-30
+0000100378 twin:PropertyPlantAndEquipmentReclassifiedToAssetsHeldForSaleMember 2022-07-01 2022-09-30
+0000100378 twin:PropellerMachiningPlantAndOfficeInSwitzerlandMember 2022-10-01 2022-12-30
+0000100378 twin:PropertyPlantAndEquipmentReclassifiedToAssetsHeldForSaleMember 2022-10-01 2022-12-30
+0000100378 us-gaap:PerformanceSharesMember 2022-07-01 2022-12-30
+0000100378 us-gaap:RestrictedStockMember 2022-07-01 2022-12-30
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2022-07-01 2022-12-30
+0000100378 us-gaap:PerformanceSharesMember 2021-07-01 2021-12-31
+0000100378 us-gaap:RestrictedStockMember 2021-07-01 2021-12-31
+0000100378 us-gaap:RestrictedStockUnitsRSUMember 2021-07-01 2021-12-31
+0000100378 twin:PropertyPlantAndEquipmentNetMember 2022-12-30
+0000100378 twin:PropertyPlantAndEquipmentNetMember 2022-06-30
+0000100378 us-gaap:AccruedLiabilitiesMember 2022-12-30
+0000100378 us-gaap:AccruedLiabilitiesMember 2022-06-30
+0000100378 twin:LeaseObligationMember 2022-12-30
+0000100378 twin:LeaseObligationMember 2022-06-30
+0000100378 us-gaap:OtherNoncurrentLiabilitiesMember 2022-12-30
+0000100378 us-gaap:OtherNoncurrentLiabilitiesMember 2022-06-30
+0000100378 us-gaap:InterestRateSwapMember 2022-12-30
+0000100378 us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-12-30
+0000100378 us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-06-30
+iso4217:EUR
+0000100378 twin:EuroDenominatedRevolvingLoanMember us-gaap:NetInvestmentHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember 2021-06-30
+0000100378 twin:EuroDenominatedRevolvingLoanMember us-gaap:NetInvestmentHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-07-01 2022-12-30
+0000100378 twin:EuroDenominatedRevolvingLoanMember us-gaap:NetInvestmentHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember 2021-07-01 2022-06-30
+0000100378 us-gaap:AccountsPayableAndAccruedLiabilitiesMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-12-30
+0000100378 us-gaap:AccountsPayableAndAccruedLiabilitiesMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-06-30
+0000100378 us-gaap:OtherNoncurrentLiabilitiesMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-12-30
+0000100378 us-gaap:OtherNoncurrentLiabilitiesMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-06-30
+0000100378 us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:InterestExpenseMember 2022-10-01 2022-12-30
+0000100378 us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:InterestExpenseMember 2021-09-25 2021-12-31
+0000100378 us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:InterestExpenseMember 2022-07-01 2022-12-30
+0000100378 us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:InterestExpenseMember 2021-07-01 2021-12-31
+0000100378 us-gaap:InterestRateSwapMember us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2022-10-01 2022-12-30
+0000100378 us-gaap:InterestRateSwapMember us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2021-09-25 2021-12-31
+0000100378 us-gaap:InterestRateSwapMember us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2022-07-01 2022-12-30
+0000100378 us-gaap:InterestRateSwapMember us-gaap:CashFlowHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2021-07-01 2021-12-31
+0000100378 twin:EuroDenominatedRevolvingLoanMember us-gaap:NetInvestmentHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2022-10-01 2022-12-30
+0000100378 twin:EuroDenominatedRevolvingLoanMember us-gaap:NetInvestmentHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2021-09-25 2021-12-31
+0000100378 twin:EuroDenominatedRevolvingLoanMember us-gaap:NetInvestmentHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2022-07-01 2022-12-30
+0000100378 twin:EuroDenominatedRevolvingLoanMember us-gaap:NetInvestmentHedgingMember us-gaap:DesignatedAsHedgingInstrumentMember twin:UnrealizedGainLossOnHedgesMember 2021-07-01 2021-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+Form
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarter ended
+December 30, 2022
+☐   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number
+1-7635
+TWIN DISC, INCORPORATED
+(Exact name of registrant as specified in its charter)
+Wisconsin
+39-0667110
+(State or other jurisdiction of
+(I.R.S. Employer
+Incorporation or organization)
+Identification No.)
+1328 Racine Street ,
+Racine ,
+Wisconsin
+53403
+(Address of principal executive offices)
+( 262 )
+638-4000
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock (No Par Value)
+TWIN
+The
+NASDAQ
+Stock Market LLC
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒                  No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).            Yes   ☒                  No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer  ☐ Accelerated Filer   ☒
+Non-accelerated filer  ☐ Smaller reporting company   ☒
+Emerging growth company   ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes   ☐                   No  ☒
+At February 3, 2023, the registrant had
+13,815,707  shares of its common stock outstanding.
+1
+Part I.
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+TWIN DISC, INCORPORATED
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(IN THOUSANDS, EXCEPT SHARE AMOUNTS)
+(UNAUDITED)
+December 30, 2022
+June 30, 2022
+ASSETS
+Current assets:
+Cash
+$ 13,528     $ 12,521
+Trade accounts receivable, net
+39,392       45,452
+Inventories
+136,810       127,109
+Assets held for sale
+2,968       2,968
+Prepaid expenses
+10,871       7,756
+Other
+7,228       8,646
+Total current assets
+210,797       204,452
+Property, plant and equipment, net
+39,683       41,615
+Right-of-use assets operating leases
+12,807       12,685
+Intangible assets, net
+11,798       13,010
+Deferred income taxes
+2,403       2,178
+Other assets
+2,766       2,583
+Total assets
+$ 280,254     $ 276,523
+LIABILITIES AND EQUITY
+Current liabilities:
+Current maturities of long-term debt
+$ 2,000     $ 2,000
+Accounts payable
+28,906       28,536
+Accrued liabilities
+55,939       50,542
+Total current liabilities
+86,845       81,078
+Long-term debt, less current maturities
+29,927       34,543
+Lease obligations
+10,278       10,575
+Accrued retirement benefits
+10,587       9,974
+Deferred income taxes
+3,506       3,802
+Other long-term liabilities
+5,346       5,363
+Total liabilities
+146,489       145,335
+Commitments and contingencies (Note D)
+Equity:
+Twin Disc shareholders' equity:
+Preferred shares authorized:
+200,000 ; issued: none;
+no
+par value
+-       -
+Common shares authorized:
+30,000,000 ; issued:
+14,632,802 ;
+no
+par value
+41,444       42,551
+Retained earnings
+134,141       135,031
+Accumulated other comprehensive loss
+( 29,880 )     ( 32,086 )
+145,705       145,496
+Less treasury stock, at cost ( 819,398
+and
+960,459
+shares, respectively)
+12,562       14,720
+Total Twin Disc shareholders' equity
+133,143       130,776
+Noncontrolling interest
+622       412
+Total equity
+133,765       131,188
+Total liabilities and equity
+$ 280,254     $ 276,523
+The notes to condensed consolidated financial statements are an integral part of these statements.
+2
+TWIN DISC, INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE (LOSS)
+INCOME
+(IN THOUSANDS, EXCEPT PER SHARE DATA)
+(UNAUDITED)
+For the Quarter Ended
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Net sales
+$ 63,351     $ 59,889     $ 119,264     $ 107,650
+Cost of goods sold
+46,328       46,407       88,944       80,721
+Gross profit
+17,023       13,482       30,320       26,929
+Marketing, engineering and administrative expenses
+15,983       15,267       31,063       28,357
+Restructuring expenses
+164       1,190       174       1,238
+Other operating (income) expense
+( 4,150 )     45       ( 4,150 )     ( 2,894 )
+Income (loss) from operations
+5,026       ( 3,020 )     3,233       228
+Interest expense
+594       574       1,160       1,104
+Other expense (income), net
+789       ( 466 )     1,049       ( 110 )
+1,383       108       2,209       994
+Income (loss) before income taxes and noncontrolling interest
+3,643       ( 3,128 )     1,024       ( 766 )
+Income tax expense
+2,489       622       1,801       1,004
+Net income (loss)
+1,154       ( 3,750 )     ( 777 )     ( 1,770 )
+Less:
+Net earnings attributable to noncontrolling interest, net of tax
+( 15 )     ( 86 )     ( 112 )     ( 144 )
+Net income (loss) attributable to Twin Disc
+$ 1,139     $ ( 3,836 )   $ ( 889 )   $ ( 1,914 )
+Income (loss) per share data:
+Basic income (loss) per share attributable to Twin Disc common shareholders
+$ 0.08     $ ( 0.29 )   $ ( 0.07 )   $ ( 0.14 )
+Diluted income (loss) per share attributable to Twin Disc common shareholders
+$ 0.08     $ ( 0.29 )   $ ( 0.07 )   $ ( 0.14 )
+Weighted average shares outstanding data:
+Basic shares outstanding
+13,460       13,296       13,434       13,288
+Diluted shares outstanding
+13,699       13,296       13,434       13,288
+Comprehensive income (loss)
+Net income (loss)
+$ 1,154     $ ( 3,750 )   $ ( 777 )   $ ( 1,770 )
+Benefit plan adjustments, net of income taxes of $ 1 , $( 115 ),  $ 3
+and $ 2 , respectively
+( 515 )     623       3       1,007
+Foreign currency translation adjustment
+8,392       ( 1,701 )     2,064       ( 3,639 )
+Unrealized gain on cash flow hedge, net of income taxes of $ 0 , $( 63 ), $ 0
+and $ 0 , respectively
+( 595 )     735       197       939
+Comprehensive income (loss)
+8,436       ( 4,093 )     1,487       ( 3,463 )
+Less:
+Comprehensive income (loss) attributable to noncontrolling interest
+74       ( 61 )     210       ( 197 )
+Comprehensive income (loss) attributable to Twin Disc
+$ 8,510     $ ( 4,154 )   $ 1,697     $ ( 3,660 )
+The notes to condensed consolidated financial statements are an integral part of these statements.
+3
+TWIN DISC, INCORPORATED
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(IN THOUSANDS)
+(UNAUDITED)
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+Cash flows from operating activities:
+Net loss
+$
+( 777
+)
+$
+( 1,770
+)
+Adjustments to reconcile net (loss) income to net cash provided (used) by operating activities:
+Depreciation and amortization
+4,266
+5,011
+Gain on sale of assets
+( 4,203
+)
+( 2,939
+)
+Restructuring expenses
+( 1
+)
+( 111
+)
+Provision for deferred income taxes
+( 1,105
+)
+( 1,156
+)
+Stock compensation expense and other non-cash changes, net
+1,564
+1,848
+Net change in operating assets and liabilities
+288
+( 1,932
+)
+Net cash provided (used) by operating activities
+32
+( 1,049
+)
+Cash flows from investing activities:
+Acquisitions of property, plant and equipment
+( 4,734
+)
+( 1,750
+)
+Proceeds from sale of fixed assets
+7,152
+9,152
+Proceeds on note receivable
+-
+500
+Other, net
+385
+140
+Net cash provided by investing activities
+2,803
+8,042
+Cash flows from financing activities:
+Borrowings under revolving loan arrangements
+42,898
+51,410
+Repayments of revolving loan arrangements
+( 46,628
+)
+( 55,552
+)
+Repayments of other long term debt
+( 839
+)
+( 2,541
+)
+Payments of withholding taxes on stock compensation
+( 463
+)
+( 487
+)
+Net cash used by financing activities
+( 5,032
+)
+( 7,170
+)
+Effect of exchange rate changes on cash
+3,204
+( 1,040
+)
+Net change in cash
+1,007
+( 1,217
+)
+Cash:
+Beginning of period
+12,521
+12,340
+End of period
+$
+13,528
+$
+11,123
+The notes to condensed consolidated financial statements are an integral part of these statements.
+4
+TWIN DISC, INCORPORATED
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(AMOUNTS IN THOUSANDS, EXCEPT PER SHARE DATA)
+(UNAUDITED)
+A.
+Basis of Presentation
+The unaudited condensed consolidated financial statements have been prepared by Twin Disc, Incorporated (the “Company”) pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) and, in the opinion of the Company, include adjustments, consisting primarily of normal recurring items, necessary for a fair statement of results for each period. Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted pursuant to such SEC rules and regulations. The Company believes that the disclosures made are adequate to make the information presented  not  misleading. These financial statements should be read in conjunction with the consolidated financial statements and the notes thereto included in the Company’s Annual Report filed on Form  10 - K for
+June 30, 2022.  The year-end condensed consolidated balance sheet data was derived from audited financial statements, but does  not  include all disclosures required by accounting principles generally accepted in the United States.
+The Company's reporting period ends on the last Friday of the quarterly calendar period.  The Company's fiscal year ends on
+June 30 ,  regardless of the day of the week on which
+June 30  falls.
+New Accounting Releases
+In
+June 2016,
+the FASB issued updated guidance (ASU
+2016 - 13 ) and also issued subsequent amendments to the initial guidance under ASU
+2018 - 19,
+ASU
+2019 - 04,
+ASU
+2019 - 05
+and ASU
+2019 - 10
+(collectively ASC
+326 ). ASC
+326
+requires the measurement and recognition of expected credit losses for financial assets held at amortized cost. This replaces the existing incurred loss model with an expected loss model and requires the use of forward-looking information to calculate credit loss estimates. The amendments in this guidance are effective for filers, excluding smaller reporting companies, for fiscal years beginning after
+December 15, 2019,
+and for smaller reporting companies for fiscal years beginning after
+December 15, 2022 ( the Company’s fiscal
+2024 ), with early adoption permitted for certain amendments. ASC
+326
+must be adopted by applying a cumulative effect adjustment to retained earnings. The Company is currently evaluating the potential impact of this guidance on the Company’s disclosures.
+In
+March 2020
+and
+January 2021,
+the FASB issued guidance (ASU
+2020 - 04
+and ASU
+2021 - 01,
+respectively), intended to provide optional expedients and exceptions for applying generally accepted accounting principles to contracts, hedging relationships, and other transactions affected by the discontinuation of the London Interbank Offered Rate (“LIBOR”) or by another reference rate expected to be discontinued. The amendments in this guidance are effective beginning on
+March 12, 2020,
+and the Company
+may
+elect to apply the amendments prospectively through
+December 31, 2022.
+The adoption of this guidance did
+not
+have a material impact on the Company’s financial statements.
+Special Note Regarding Smaller Reporting Company Status
+Under SEC Release
+33 - 10513;
+34 - 83550,
+Amendments to Smaller Reporting Company Definition, the Company qualifies as a smaller reporting company and accordingly, it has scaled some of its disclosures of financial and non-financial information in this quarterly report. The Company will continue to determine whether to provide additional scaled disclosures of financial or non-financial information in future quarterly reports, annual reports and/or proxy statements if it remains a smaller reporting company under SEC rules.
+5
+B.
+Inventories
+The major classes of inventories were as follows:
+December 30, 2022
+June 30, 2022
+Inventories:
+Finished parts
+$
+70,515
+$
+65,789
+Work in process
+25,674
+19,801
+Raw materials
+40,621
+41,519
+$
+136,810
+$
+127,109
+C.
+Warranty
+The Company engages in extensive product quality programs and processes, including actively monitoring and evaluating the quality of its suppliers. However, its warranty obligation is affected by product failure rates, the number of units affected by the failure and the expense involved in satisfactorily addressing the situation. The warranty reserve is established based on our best estimate of the amounts necessary to settle future and existing claims on products sold as of the balance sheet date. When evaluating the adequacy of the reserve for warranty costs, management takes into consideration the term of the warranty coverage, historical claim rates and costs of repair, knowledge of the type and volume of new products and economic trends. While we believe the warranty reserve is adequate and that the judgment applied is appropriate, such amounts estimated to be due and payable in the future could differ materially from what actually transpires. The following is a listing of the activity in the warranty reserve for the quarters ended
+December 30, 2022
+and
+December 31, 2021:
+For the Quarter Ended
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Reserve balance, beginning of period
+$
+3,804
+$
+3,560
+$
+3,329
+$
+4,369
+Current period expense and adjustments
+770
+585
+1,678
+319
+Payments or credits to customers
+( 503
+)
+( 638
+)
+( 869
+)
+( 1,169
+)
+Translation
+74
+( 24
+)
+7
+( 36
+)
+Reserve balance, end of period
+$
+4,145
+$
+3,483
+$
+4,145
+$
+3,483
+Included in expense in the
+two
+quarters ended
+December 30, 2022
+and
+December 31, 2021
+is a non-recurring warranty charge in the amount of $ 0
+and $ 0 , respectively, to accrue for estimated costs to resolve a unique product performance issue at certain installations.
+The current portion of the warranty accrual ($ 3,552
+and $ 2,930
+as of
+December 30, 2022
+and
+December 31, 2021,
+respectively) is reflected in accrued liabilities, while the long-term portion ($ 594
+and $ 553
+as of
+December 30, 2022
+and
+December 31, 2021,
+respectively) is included in other long-term liabilities on the consolidated balance sheets.
+D.
+Contingencies
+The Company is involved in litigation of which the ultimate outcome and liability to the Company, if any, is
+not
+presently determinable. Management believes that final disposition of such litigation will
+not
+have a material impact on the Company’s results of operations, financial position or cash flows.
+E.
+Business Segments
+The Company and its subsidiaries are engaged in the manufacture and sale of marine and heavy-duty off-highway power transmission equipment. Principal products include marine transmissions, azimuth drives, surface drives, propellers and boat management systems, as well as power-shift transmissions, hydraulic torque converters, power take-offs, industrial clutches and controls systems. The Company sells to both domestic and foreign customers in a variety of market areas, principally pleasure craft, commercial and military marine markets, as well as in the energy and natural resources, government and industrial markets. The Company's worldwide sales to both domestic and foreign customers are transacted through a direct sales force and a distributor network.
+The Company has
+two
+reportable segments: manufacturing and distribution.  These segment structures reflect the way management makes operating decisions and manages the growth and profitability of the business It also corresponds with management’s approach of allocating resources and assessing the performance of its segments. The accounting practices of the segments are the same as those described in the summary of significant accounting policies. Transfers between segments are at established inter-company selling prices.  Management evaluates the performance of its segments based on their net income.
+6
+Information about the Company’s segments is summarized as follows:
+For the Quarter Ended
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Net sales
+Manufacturing segment sales
+$
+56,678
+$
+49,298
+$
+105,675
+$
+90,893
+Distribution segment sales
+25,584
+28,291
+49,892
+48,825
+Inter/Intra segment elimination – manufacturing
+( 14,198
+)
+( 13,200
+)
+( 27,842
+)
+( 24,143
+)
+Inter/Intra segment elimination – distribution
+( 4,713
+)
+( 4,500
+)
+( 8,461
+)
+( 7,925
+)
+$
+63,351
+$
+59,889
+$
+119,264
+$
+107,650
+Net income (loss) attributable to Twin Disc
+Manufacturing segment net income (loss)
+$
+3,832
+$
+( 1,601
+)
+$
+5,627
+$
+3,231
+Distribution segment net income
+1,403
+1,496
+2,359
+1,979
+Corporate and eliminations
+( 4,096
+)
+( 3,731
+)
+( 8,875
+)
+( 7,124
+)
+$
+1,139
+$
+( 3,836
+)
+$
+( 889
+)
+$
+( 1,914
+)
+December 30, 2022
+June 30, 2022
+Assets
+Manufacturing segment assets
+$
+371,442
+$
+364,174
+Distribution segment assets
+56,834
+50,958
+Corporate assets and elimination of intercompany assets
+( 148,022
+)
+( 138,609
+)
+$
+280,254
+$
+276,523
+Disaggregated revenue:
+The following table presents details deemed most relevant to the users of the financial statements for the quarters and
+two
+quarters ended
+December 30, 2022
+and
+December 31, 2021.
+Net sales by product group for the quarter ended
+December 30, 2022
+is summarized as follows:
+Elimination of
+Manufacturing
+Distribution
+Intercompany Sales
+Total
+Industrial
+$
+6,963
+$
+1,726
+$
+( 1,177
+)
+$
+7,512
+Land-based transmissions
+15,256
+3,445
+( 4,030
+)
+14,671
+Marine and propulsion systems
+34,262
+15,427
+( 13,223
+)
+36,466
+Other
+197
+4,986
+( 481
+)
+4,702
+Total
+$
+56,678
+$
+25,584
+$
+( 18,911
+)
+$
+63,351
+Net sales by product group for the quarter ended
+December 31, 2021
+is summarized as follows:
+Elimination of
+Manufacturing
+Distribution
+Intercompany Sales
+Total
+Industrial
+$
+7,085
+$
+1,809
+$
+( 1,188
+)
+$
+7,706
+Land-based transmissions
+12,326
+6,497
+( 5,505
+)
+13,318
+Marine and propulsion systems
+29,861
+16,659
+( 11,000
+)
+35,520
+Other
+26
+3,326
+( 7
+)
+3,345
+Total
+$
+49,298
+$
+28,291
+$
+( 17,700
+)
+$
+59,889
+7
+Net sales by product group for the
+two
+quarters ended
+December 30, 2022
+is summarized as follows:
+Elimination of
+Manufacturing
+Distribution
+Intercompany Sales
+Total
+Industrial
+$
+13,656
+$
+2,774
+$
+( 1,886
+)
+$
+14,544
+Land-based transmissions
+31,543
+8,051
+( 8,985
+)
+30,609
+Marine and propulsion systems
+60,077
+29,971
+( 24,246
+)
+65,802
+Other
+399
+9,096
+( 1,186
+)
+8,309
+Total
+$
+105,675
+$
+49,892
+$
+( 36,303
+)
+$
+119,264
+Net sales by product group for the
+two
+quarters ended
+December 31, 2021
+is summarized as follows:
+Elimination of
+Manufacturing
+Distribution
+Intercompany Sales
+Total
+Industrial
+$
+12,992
+$
+2,927
+$
+( 2,081
+)
+$
+13,838
+Land-based transmissions
+23,710
+11,602
+( 9,752
+)
+25,560
+Marine and propulsion systems
+54,148
+28,222
+( 20,216
+)
+62,154
+Other
+43
+6,074
+( 19
+)
+6,098
+Total
+$
+90,893
+$
+48,825
+$
+( 32,068
+)
+$
+107,650
+F.
+Stock-Based Compensation
+Performance Stock Awards ( “ PSA ” )
+During the
+first
+two
+quarters of fiscal
+2023
+and
+2022,
+the Company granted a target number of
+118.1
+and
+103.6
+PSAs, respectively, to various employees of the Company, including executive officers. The fiscal
+2023
+PSAs will vest if the Company achieves performance-based target objectives relating to average return on invested capital and cumulative EBITDA (as defined in the PSA Grant Agreement), in the cumulative
+three
+fiscal year period ending
+June 30, 2025.
+These PSAs are subject to adjustment if the Company’s return on invested capital and cumulative EBITDA falls below or exceeds the specified target objective, and the maximum number of performance shares that can be awarded if the target objective is exceeded is
+236.3 . Based upon actual results to date, the Company is currently accruing compensation expense for these PSAs.
+The PSAs granted in fiscal
+2022
+will vest if the Company achieves performance-based target objectives relating to average return on invested capital, average annual sales and average annual earnings per share (“EPS”) or average free cashflow (as defined in the PSA Grant Agreement), in the cumulative
+three
+fiscal year period ending
+June 30, 2024.
+These PSAs are subject to adjustment if the Company’s return on invested capital, net sales, and EPS or average free cashflow for the period falls below or exceeds the specified target objective, and the maximum number of performance shares that can be awarded if the target objective is exceeded is
+146.6 . Based upon actual results to date, the Company is currently accruing compensation expense for these PSAs.
+There were
+438.9
+and
+440.9
+unvested PSAs outstanding at
+December 30, 2022
+and
+December 31, 2021,
+respectively. The fair value of the PSAs (on the date of grant) is expensed over the performance period for the shares that are expected to ultimately vest. Compensation expense of $ 366
+and $ 219
+was recognized for the quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively, related to PSAs. Compensation expense of $ 596
+and $ 435
+was recognized for the
+two
+quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively, related to PSAs. The weighted average grant date fair value of the unvested awards at
+December 30, 2022
+was $ 8.38 . At
+December 30, 2022,
+the Company had $ 1,718
+of unrecognized compensation expense related to the unvested shares that would vest if the specified target objective was achieved for the fiscal
+2023,
+2022
+and
+2021
+awards. The total fair value of PSAs vested as of
+December 30, 2022
+and
+December 31, 2021
+was $ 0 .
+Restricted Stock Awards ( “ RS ” )
+The Company has unvested RS awards outstanding that will vest if certain service conditions are fulfilled. The fair value of the RS grants is recorded as compensation expense over the vesting period, which is generally
+1
+to
+3
+years. During the
+first
+two
+quarters of fiscal
+2023
+and
+2022,
+the Company granted
+177.7
+and
+44.1
+service based restricted shares, respectively, to employees and non-employee directors. There were
+309.2
+and
+262.7
+unvested shares outstanding at
+December 30, 2022
+and
+December 31, 2021,
+respectively. A total of
+0
+and
+29.8
+shares of restricted stock were forfeited during the
+two
+quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively. Compensation expense of $ 334
+and $ 285
+was recognized for the quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively. Compensation expense of $ 694
+and $ 619
+was recognized for the
+two
+quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively. The total fair value of restricted stock grants vested as of
+December 30, 2022
+and
+December 31, 2021
+was $ 1,669
+and $ 1,679 , respectively. As of
+December 30, 2022,
+the Company had $ 1,648
+of unrecognized compensation expense related to restricted stock which will be recognized over the next
+three
+years.
+8
+Restricted Stock Unit Awards ( “ RSU ” )
+Under the
+2021
+Long Term Incentive Plan, the Company has been authorized to issue RSUs. The RSUs entitle the employee to shares of common stock of the Company if the employee remains employed by the Company through a specified date, generally
+three
+years from the date of grant. The fair value of the RSUs (on the date of grant) is recorded as compensation expense over the vesting period. During the
+first
+two
+quarters of fiscal
+2023
+and
+2022,
+the Company granted
+72.4
+and
+67.4
+of employment based RSUs, respectively. There were
+130.9
+and
+67.4
+unvested RSUs outstanding at
+December 30, 2022
+and
+December 31, 2021,
+respectively. Compensation expense of $ 132
+and $ 92
+was recognized for the quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively. Compensation expense of $ 224
+and $ 92
+was recognized for the
+two
+quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively. The total fair value of restricted stock units vested as of
+December 30, 2022
+and
+December 31, 2021
+was $ 40
+and $ 475 , respectively. The weighted average grant date fair value of the unvested awards at
+December 30, 2022
+was $ 10.94 . As of
+December 30, 2022,
+the Company had $ 951
+of unrecognized compensation expense related to restricted stock which will be recognized over the next
+two
+years.
+G.
+Pension and Other Postretirement Benefit Plans
+The Company has non-contributory, qualified defined benefit plans covering substantially all domestic employees hired prior to
+October 1, 2003
+and certain foreign employees. Additionally, the Company provides healthcare and life insurance benefits for certain domestic retirees. The components of the net periodic benefit cost for the defined benefit pension plans and the other postretirement benefit plan are as follows:
+For the Quarter Ended
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Pension Benefits:
+Service cost
+$ 102     $ 130     $ 203     $ 269
+Prior service cost
+8       10       17       20
+Interest cost
+868       681       1,736       1,347
+Expected return on plan assets
+( 1,060 )     ( 1,255 )     ( 2,120 )     ( 2,514 )
+Amortization of transition obligation
+9       9       18       18
+Amortization of prior service cost
+9       ( 4 )     18       ( 8 )
+Amortization of actuarial net loss
+617       562       1,235       1,124
+Net periodic benefit cost
+$ 553     $ 133     $ 1,107     $ 256
+Postretirement Benefits:
+Service cost
+$ 2     $ 4     $ 5     $ 8
+Interest cost
+53       35       106       70
+Amortization of prior service cost
+( 69 )     ( 69 )     ( 137 )     ( 138 )
+Amortization of actuarial net loss
+( 10 )     -       ( 19 )     -
+Net periodic benefit gain
+$ ( 24 )   $ ( 30 )   $ ( 45 )   $ ( 60 )
+The service cost component is included in cost of goods sold and marketing, engineering and administrative expenses. All other components of net periodic benefit cost are included in other expense (income), net.
+The Company expects to contribute approximately $ 576
+to its pension plans in fiscal
+2023.
+For the
+two
+quarters ended
+December 30, 2022,
+the amount of $ 387
+in contributions to the pension plans were made.
+The Company had changes in benefit plan adjustments totaling ($ 515 ) (net of $ 1
+in taxes) from accumulated other comprehensive loss during the quarter ended
+December 30, 2022,
+and $ 623
+(net of ($ 115 ) in taxes) during the quarter ended
+December 31, 2021.
+These changes are included in the computation of net periodic benefit cost. The Company had changes in benefit plan adjustments totaling $ 3  (net of $ 3
+in taxes) from accumulated other comprehensive loss during the
+two
+quarters ended
+December 30, 2022,
+and $ 1,007
+(net of $ 2
+in taxes) during the
+two
+quarters ended
+December 31, 2021.
+These changes are included in the computation of net periodic benefit cost. Included in changes in benefit plan adjustments, the Company had a plan merger remeasurement adjustment of ($ 1,115 ) during the quarter ended
+December 30, 2022.
+9
+H.
+Income Taxes
+Accounting policies for interim reporting require the Company to adjust its effective tax rate each quarter to be consistent with the estimated Annual Effective Tax Rate (AETR). Under this effective tax rate methodology, the Company applies an estimated annual income tax rate to its year-to-date ordinary earnings to derive its income tax provision each quarter. To calculate its AETR, an entity must estimate its ordinary income or loss and the related tax expense or benefit for its full fiscal year. In situations in which an entity is in a loss position and recognizes a full valuation allowance, the guidance in ASC
+740 - 270 - 25 - 9
+applies. Due to historical losses and uncertain future domestic earnings, the Company recognizes a full US valuation allowance. Permanent differences continue to fluctuate and are significant compared to projected ordinary income. Therefore per ASC guidance, the fully valued domestic entity was removed from the annualized effective rate calculation. Because of the full US valuation allowance, the US entity
+may
+only recognize tax expense / benefit recorded for ASC- 740 - 10
+adjustments.
+For the
+six
+months ended
+December 30, 2022
+and
+December 31, 2021
+the Company’s effective income tax rate was
+175.9 % and - 131.1 % respectively. In the prior year, foreign income and expense were recognized. However, there was a significant domestic loss, resulting in a net global loss, creating a negative effective tax rate. Current year overall financial improvement resulted in positive net global earnings, yielding a positive effective tax rate. Foreign income and expense was recognized, although there continues to be negative domestic earnings. In addition, an amended foreign return anticipated to be filed further increased tax expense recognized in this quarter.
+In the post pandemic era, the Company continues to monitor for any revisions enacted under the Tax Cuts and Job Act (TCJA), Coronavirus Aid, Relief and Economic Security (CARES) Act and the American Rescue Plan (ARPA). On
+August 16, 2022,
+President Biden signed the Inflation Reduction Act (IRA). This landmark United States law aims to reduce inflation by reducing the deficit, lowering prescription drug prices and investing into domestic energy production while promoting clean energy. At this time it is
+not
+certain what, if any, impact this will have on the Company.
+The Company maintains valuation allowances when it is more likely than
+not
+that all or a portion of a deferred tax asset will
+not
+be realized. Changes in valuation allowances from period to period are included in the tax provision in the period of change. In determining whether a valuation allowance is required, the Company takes into account such factors as prior earnings history, expected future earnings, carry-back and carry-forward periods, and tax strategies that could potentially enhance the likelihood of realization of a deferred tax asset. In addition, all other available positive and negative evidence is taken into consideration, including all new impacts of tax reform. The Company has evaluated the realizability of the net deferred tax assets related to its foreign operations and based on this evaluation management has concluded that
+no
+valuation allowances are required. However, due to historical domestic losses and uncertain future domestic earnings, the Company continues to recognize a full domestic valuation allowance.
+The Company has approximately $ 783
+of unrecognized tax benefits, which include $ 53
+of related interest and penalties, as of
+December 30, 2022,
+which, if recognized, would favorably impact the effective tax rate. There were
+no
+significant changes in the total unrecognized tax benefits due to the settlement of audits, the expiration of statutes of limitations or for other items during the quarter ended
+December 30, 2022.
+It appears possible that the amount of unrecognized tax benefits could change in the next
+twelve
+months due to on-going activity.
+Annually, the Company files income tax returns in various taxing jurisdictions inside and outside the United States. In general, the tax years that remain subject to examination in foreign jurisdictions are
+2014
+through
+2021.
+The tax year open to exam in the Netherlands is
+2019.
+The tax years open to examination in the U.S. are for years subsequent to fiscal
+2017.
+It is reasonably possible that other audit cycles will be completed during fiscal
+2023.
+10
+I.
+Intangible Assets
+As of
+December 30, 2022,
+the following acquired intangible assets have definite useful lives and are subject to amortization:
+Net Book Value Rollforward
+Net Book Value By Asset Type
+Gross Carrying Amount
+Accumulated Amortization / Impairment
+Net Book
+Value
+Customer Relationships
+Technology Know-how
+Trade Name
+Other
+Balance at June 30, 2022
+$
+39,845
+$
+( 26,835
+)
+$
+13,010
+$
+7,636
+$
+3,238
+$
+972
+$
+1,164
+Addition
+9
+-
+9
+-
+-
+-
+9
+Reduction
+( 10,506
+)
+10,506
+-
+-
+-
+-
+-
+Amortization
+-
+( 1,402
+)
+( 1,402
+)
+( 650
+)
+( 562
+)
+( 39
+)
+( 151
+)
+Translation adjustment
+181
+-
+181
+125
+320
+( 265
+)
+1
+Balance at December 30, 2022
+$
+29,529
+$
+( 17,731
+)
+$
+11,798
+$
+7,111
+$
+2,996
+$
+668
+$
+1,023
+Other intangibles consist mainly of computer software. Amortization is recorded on the basis of straight-line or accelerated, as appropriate, over the estimated useful lives of the assets.
+The weighted average remaining useful life of the intangible assets included in the table above is approximately
+7
+years.
+Intangible amortization expense was $ 704
+and $ 804
+for the quarters ended
+December 30, 2022,
+and
+December 31, 2021,
+respectively. Intangible amortization expense was $ 1,402
+and $ 1,630
+for the
+two
+quarters ended
+December 30, 2022,
+and
+December 31, 2021,
+respectively. Estimated intangible amortization expense for the remainder of fiscal
+2023
+and each of the next
+five
+fiscal years and thereafter is as follows:
+Fiscal Year
+2023
+$
+1,448
+2024
+2,796
+2025
+2,641
+2026
+1,738
+2027
+1,073
+2028
+1,046
+Thereafter
+1,056
+J.
+Long-term Debt
+Long-term debt at
+December 30, 2022
+and
+June 30, 2022
+consisted of the following:
+December 30, 2022
+June 30, 2022
+Credit Agreement Debt
+Revolving loans (expire June 2025)
+$
+19,381
+$
+22,968
+Term loan (due March 2026)
+12,500
+13,500
+Other
+46
+75
+Subtotal
+31,927
+36,543
+Less: current maturities
+( 2,000
+)
+( 2,000
+)
+Total long-term debt
+$
+29,927
+$
+34,543
+Credit Agreement Debt:
+The Company’s credit agreement debt represents borrowings made under the credit agreement, as amended, which it entered into with BMO Harris Bank N.A, (“BMO”) on
+June 29, 2018 ( “Credit Agreement”). Under the agreement, the Company, among other obligations, is subject to a minimum EBITDA financial covenant.
+On
+June 30, 2022,
+the Company entered into Amendment
+No.
+9
+to Credit Agreement (the “Ninth Amendment”) that amends and extends the Credit Agreement dated as of
+June 29, 2018,
+as amended (the “Credit Agreement”) between the Company and BMO.
+11
+Pursuant to the Credit Agreement, as in effect prior to the Ninth Amendment, the Bank made a Term Loan to the Company in the principal amount of $ 20
+million, and the Company
+may,
+from time to time prior to the maturity date, enter into Revolving Loans in amounts
+not
+to exceed, in the aggregate and subject to a Borrowing Base, $ 40
+million (the “Revolving Credit Commitment”). The Credit Agreement also allows the Company to obtain Letters of Credit from the Bank, which if drawn upon by the beneficiary thereof and paid by the Bank, would become Revolving Loans.
+The Ninth Amendment extended the Credit Agreement through
+June 30, 2025.
+Prior to the Ninth Amendment, the Credit Agreement was scheduled to terminate as of
+June 30, 2023.
+The Ninth Amendment also formally terminated the
+January 27, 2021
+Forbearance Agreement, which had been entered into because the Company had
+not
+been in compliance with a requirement to maintain a minimum EBITDA of $ 2.5
+million for the
+three
+fiscal quarters ended as of
+December 25, 2020.
+The Bank also waived the Company’s compliance with the minimum EBITDA requirements under the Credit Agreement and any Event of Default associated with the Company’s noncompliance with the minimum EBITDA requirements.
+The Ninth Amendment also replaced LIBOR-based interest rates with different benchmark rates based on the secured overnight financing rate (“SOFR”) or the euro interbank offered rate (the “EURIBO Rate”). Loans under the Credit Agreement are designated either as “SOFR Loans,” which accrue interest at an Adjusted Term SOFR plus an Applicable Margin, or “Eurodollar Loans,” which accrue interest at the EURIBO Rate plus an Applicable Margin. Amounts drawn on a Letter of Credit that are
+not
+timely reimbursed to the Bank bear interest at a Base Rate plus an Applicable Margin. The Company also pays a commitment fee on the average daily Unused Revolving Credit Commitment equal to an Applicable Margin.
+The Ninth Amendment also reduced the Applicable Margins from the rates that had been in effect during the period of the Forbearance Agreement. During the period covered by the Forbearance Agreement, the Applicable Margins for Revolving Loans, Term Loans, and the Unused Revolving Credit Commitment were
+3.25 %,
+3.875 %, and . 20 %, respectively. Under the Ninth Amendment, the Applicable Margins are between
+1.25 % and
+2.75 % for Revolving Loans and Letters of Credit;
+1.375 % and
+2.875 % for Term Loans; and . 10 % and . 15 % for the Unused Revolving Credit Commitment (each depending on the Company’s Total Funded Debt to EBITDA ratio).
+The Ninth Amendment also revised the Company’s financial covenants under the Credit Agreement. The Company’s Total Funded Debt to EBITDA ratio (for which the Bank provided relief during period covered by the Forbearance Agreement)
+may
+not
+exceed
+3.50
+to
+1.00,
+and the Company’s Fixed Charge Coverage Ratio
+may
+not
+be less than
+1.10
+to
+1.00.
+The Company’s Tangible Net Worth
+may
+not
+be less than $ 100
+million plus
+50%
+of positive Net Income for each fiscal year ending on or after
+June 30, 2023.
+The Company remains in compliance with its liquidity and other covenants.
+The Credit Agreement, including its amendments, is more fully described in the Company’s Annual Report filed on Form
+10 -K for
+June 30, 2022,
+as well as in Item
+2
+of this quarterly report.
+As of
+December 30, 2022,
+current maturities include $ 2,000
+of term loan payments due within the coming year.
+Other:
+Other long-term debt pertains mainly to a financing arrangement in Europe. These liabilities carry terms of
+three
+to
+five
+years and implied interest rates ranging from
+7 % to
+25 %. A total amount of $ 28
+in principal was paid on these liabilities during the current fiscal year.
+During the quarter ended
+December 30, 2022,
+the average interest rate was
+5.68 % on the Term Loan, and
+4.73 % on the Revolving Loans.
+As of
+December 30, 2022,
+the Company’s borrowing capacity on the Revolving Loans under the terms of the Credit Agreement was $ 39,477 , and the Company had approximately $ 20,096
+of available borrowings. In addition to the Credit Agreement, the Company has established unsecured lines of credit that are used from time to time to secure certain performance obligations by the Company.
+The Company’s borrowings described above approximate fair value at
+December 30, 2022
+and
+June 30, 2022.
+If measured at fair value in the financial statements, long-term debt (including the current portion) would be classified as Level
+2
+in the fair value hierarchy.
+12
+The Company is party to an interest rate swap arrangement with Bank of Montreal, with an initial notional amount of $ 20,000
+and a maturity date of
+March 4, 2026
+to hedge the Term Loan. As of
+December 30, 2022,
+the notional amount was $ 12,500 . This swap has been designated as a cash flow hedge under ASC
+815,
+Derivatives and Hedging. This swap is included in the disclosures in Note O, Derivative Financial Instruments.
+During the
+fourth
+quarter of fiscal
+2021,
+the Company designated its euro denominated Revolving Loan as a net investment hedge to mitigate the risk of variability in its euro denominated net investments in wholly-owned foreign companies. Effective upon the designation, all changes in the fair value of the euro revolver are reported in accumulated other comprehensive loss along with the foreign currency translation adjustments on those foreign investments. This net investment hedge is included in the disclosures in Note O, Derivative Financial Instruments.
+K.
+Shareholders ’  Equity
+The Company, from time to time, makes open market purchases of its common stock under authorizations given to it by the Board of Directors, of which
+315.0
+shares as of
+December 30, 2022
+remain authorized for purchase.  The Company did
+not
+make any open market purchases of its shares during the quarters ended
+December 30, 2022
+and
+December 31, 2021.
+The following is a reconciliation of the Company’s equity balances for the
+first
+two
+fiscal quarters of
+2023
+and
+2022:
+Twin Disc, Inc. Shareholders’ Equity
+Accumulated
+Other
+Non-
+Common
+Retained
+Comprehensive
+Treasury
+Controlling
+Total
+Stock
+Earnings
+Income
+Stock
+Interest
+Equity
+Balance, June 30, 2022
+$ 42,551     $ 135,031     $ ( 32,086 )   $ ( 14,720 )   $ 412     $ 131,188
+Net (loss) income
+( 2,029 )                     98     $ ( 1,931 )
+Translation adjustments
+( 6,328 )             38     $ ( 6,290 )
+Benefit plan adjustments, net of tax
+518                     $ 518
+Unrealized gain on cash flow hedge, net of tax
+793                     $ 793
+Compensation expense
+658                                     $ 658
+Shares (acquired) issued, net
+( 1,924 )                     1,756             $ ( 168 )
+Balance, September 30, 2022
+41,285       133,002       ( 37,103 )     ( 12,964 )     548       124,768
+Net (loss) income
+1,139                       15       1,154
+Translation adjustments
+8,333               59       8,392
+Benefit plan adjustments, net of tax
+( 515 )                     ( 515 )
+Unrealized gain on cash flow hedge, net of tax
+( 595 )                     ( 595 )
+Compensation expense
+856                                       856
+Shares (acquired) issued, net
+( 697 )                     402               ( 295 )
+Balance, December 30, 2022
+$ 41,444     $ 134,141     $ ( 29,880 )   $ ( 12,562 )   $ 622     $ 133,765
+13
+Twin Disc, Inc. Shareholders’ Equity
+Accumulated
+Other
+Non-
+Common
+Retained
+Comprehensive
+Treasury
+Controlling
+Total
+Stock
+Earnings
+Income (Loss)
+Stock
+Interest
+Equity
+Balance, June 30, 2021
+$ 40,972     $ 126,936     $ ( 22,615 )   $ ( 15,083 )   $ 450     $ 130,660
+Net income
+1,920                       60       1,980
+Translation adjustments
+( 2,014 )             76       ( 1,938 )
+Benefit plan adjustments, net of tax
+384                       384
+Unrealized gain on cash flow hedge, net of tax
+204                       204
+Compensation expense
+625                                       625
+Shares (acquired) issued, net
+( 432 )                     141               ( 291 )
+Balance, September 24, 2021
+41,165       128,856       ( 24,041 )     ( 14,942 )     586       131,624
+Net (loss) income
+( 3,836 )                     86       ( 3,750 )
+Translation adjustments
+( 1,676 )             ( 25 )     ( 1,701 )
+Benefit plan adjustments, net of tax
+623                       623
+Unrealized gain on cash flow hedge, net of tax
+735                       735
+Compensation expense
+595                                       595
+Shares (acquired) issued, net
+( 169 )                     ( 26 )             ( 195 )
+Balance, December 31, 2021
+$ 41,591     $ 125,020     $ ( 24,359 )   $ ( 14,968 )   $ 647     $ 127,931
+Reconciliations for the changes in accumulated other comprehensive income (loss), net of tax, by component for the quarters ended
+December 30, 2022
+and
+December 31, 2021
+are as follows:
+Translation
+Benefit Plan
+Cash Flow
+Net Investment
+Adjustment
+Adjustment
+Hedges
+Hedges
+Balance at June 30, 2022
+$ ( 2,266 )   $ ( 31,726 )   $ 355     $ 1,551
+Translation adjustment during the quarter
+( 6,328 )     -       -       -
+Amounts reclassified from accumulated other comprehensive income (loss)
+-       518       349       444
+Net current period other comprehensive (loss) income
+( 6,328 )     518       349       444
+Balance at September 30, 2022
+$ ( 8,594 )   $ ( 31,208 )   $ 704     $ 1,995
+Translation adjustment during the quarter
+8,333       -       -       -
+Amounts reclassified from accumulated other comprehensive income
+-       600       ( 10 )     ( 585 )
+Plan merger remeasurement adjustment     -       ( 1,115 )     -       -
+Net current period other comprehensive (loss) income
+8,333       ( 515 )     ( 10 )     ( 585 )
+Balance at December 30, 2022
+( 261 )     ( 31,723 )     694       1,410
+Translation
+Benefit Plan
+Cash Flow
+Net Investment
+Adjustment
+Adjustment
+Hedges
+Hedges
+Balance at June 30, 2021
+$ 9,192     $ ( 31,463 )   $ ( 678 )   $ 334
+Translation adjustment during the quarter
+( 2,014 )     -       -       -
+Amounts reclassified from accumulated other comprehensive income
+-       384       68       136
+Net current period other comprehensive (loss) income
+( 2,014 )     384       68       136
+Balance at September 24, 2021
+$ 7,178     $ ( 31,079 )   $ ( 610 )   $ 470
+Translation adjustment during the quarter
+( 1,676 )     -       -       -
+Amounts reclassified from accumulated other comprehensive income
+-       623       232       503
+Net current period other comprehensive (loss) income
+( 1,676 )     623       232       503
+Balance at December 31, 2021
+5,502       ( 30,456 )     ( 378 )     973
+Reconciliation for the changes in benefit plan adjustments, net of tax for the quarter ended
+December 30, 2022
+are as follows:
+Quarter Ended
+Two Quarters Ended
+December 30, 2022
+December 30, 2022
+Changes in benefit plan items
+Actuarial losses
+$ 608
+(a)
+$ 1,215
+(a)
+Transition asset and prior service benefit
+( 51 )
+(a)
+( 102 )
+(a)
+Translation     42         2
+Total amortization
+599         1,115
+Plan merger remeasurement adjustment     ( 1,115 )       ( 1,115 )
+Income tax expense
+1         3
+Total changes, net of tax
+$ ( 515 )     $ 3
+14
+Reconciliation for the changes in benefit plan adjustments, net of tax for the quarter ended
+December 31, 2021
+is as follows:
+Quarter Ended
+Two Quarters Ended
+December 31, 2021
+December 31, 2021
+Changes in benefit plan items
+Actuarial losses
+$ 562
+(a)
+$ 1,124
+(a)
+Transition asset and prior service benefit
+( 64 )
+(a)
+( 128 )
+(a)
+Translation     10         13
+Total amortization
+508         1,009
+Income tax expense
+( 115 )       2
+Total changes, net of tax
+$ 623       $ 1,007
+(a)
+These accumulated other comprehensive income components are included in the computation of net periodic pension cost (see Note G, "Pension and Other Postretirement Benefit Plans" for further details).
+L.
+Restructuring of Operations
+Restructuring expenses
+The Company has implemented various restructuring programs in response to unfavorable macroeconomic trends in certain of the Company’s markets since the
+fourth
+quarter of fiscal
+2015.
+These programs primarily involved the reduction of workforce in several of the Company’s manufacturing locations, under a combination of voluntary and involuntary programs. During the
+fourth
+quarter of fiscal
+2021,
+the Company undertook a series of steps to accelerate its focus on its core competencies, improve its fixed cost structure, and monetize some of its under-utilized assets.
+With regard to its Belgian operations, on
+June 30, 2021,
+the Company announced a new phase in its restructuring plans. Under this plan, the Belgian operation’s workforce was reduced by
+18
+employees. This reduction in workforce resulted in an accrual of $ 2,200 , pertaining to the Company’s estimate for the payment of severance benefits, which is expected to be completed by
+June 2023.
+The action was taken to allow the Belgian operation to focus resources on core manufacturing processes, while allowing for savings on the outsourcing of non-core processes.
+In the
+second
+quarter of fiscal
+2022,
+the Company and the union representing certain of the employees affected by the restructuring of the Belgian operation came to an agreement on a final settlement amount of $ 3,200 . The Company recorded the additional $ 1,000
+in restructuring charges during the
+second
+quarter of fiscal
+2022.
+Total restructuring charges relating to streamlining operations totaled $ 164
+and $ 1,190
+in the quarters ending
+December 30, 2022
+and
+December 31, 2021,
+respectively. Total restructuring charges relating to streamlining operations totaled to $ 174
+and $ 1,238
+in the
+two
+quarters ending
+December 30, 2022
+and
+December 31, 2021,
+respectively. Restructuring activities since
+June 2015
+have resulted in the elimination of
+254
+full-time employees in the manufacturing segment. Accumulated costs to date under these programs within the manufacturing segment through
+December 30, 2022
+were $ 16,383 .
+The following is a roll-forward of restructuring activity:
+Accrued restructuring liability, June 30, 2022
+$ 1,024
+Additions
+174
+Payments, adjustments and write-offs during the year
+( 175 )
+Accrued restructuring liability, December 30, 2022
+$ 1,023
+15
+Assets held for sale
+To improve its fixed cost structure and monetize some of its under-utilized assets, the Company commenced the active marketing of several of its real estate properties, namely, its corporate headquarters in Racine, its propeller machining plant and office in Switzerland, and a spare warehouse in Italy during the  fourth  quarter of fiscal  2021 .  Such actions required the Company to reclassify these assets from Property, Plant and Equipment to Assets Held for Sale, at fair value less costs to sell, or net book value, whichever is lower. Fair value was determined using real estate broker estimates and would be classified as Level  3  in the fair value hierarchy. This assessment of fair value resulted in the Company recognizing a write-down of the carrying value of its corporate headquarters by $ 4,267  in the  fourth  quarter of fiscal  2021.
+In the  first  quarter of fiscal  2022,  the Company completed the sale of its propeller machining plant and office in Switzerland and received $ 9,138  in proceeds, net of fees and local taxes and recorded a gain of $ 2,939  in other operating income. In the  fourth  quarter of fiscal  2022 ,  the Company completed the sale of its spare warehouse in Italy and received net proceeds of approximately $ 305 .
+In the  first
+quarter of fiscal  2023,  the Company commenced the active marketing of an additional real estate property located in Nivelles, Belgium.  This action required the Company to reclassify these assets from Property, Plant, and Equipment to Assets Held for Sale, at fair value less costs to sell or net book value, whichever is lower.  Fair value was determined using real estate broker estimates and would be classified as Level  3  in the fair value hierarchy.  The real estate property's fair value less costs to sell exceeded its net book value.  The Company reclassified the property's net book value of $ 2,801  from Property, Plant, and Equipment to Assets Held for Sale.
+In the  second  quarter of fiscal  2023,  the Company completed the sale of the real estate property located in Belgium and received $ 7,150  in proceeds, net of fees and recorded a gain of $ 4,161  in other operating income.  The Company entered into a lease agreement to leaseback the property for a
+two -year term.
+M.
+Earnings Per Share
+The Company calculates basic earnings per share based upon the weighted average number of common shares outstanding during the period, while the calculation of diluted earnings per share includes the dilutive effect of potential common shares outstanding during the period. The calculation of diluted earnings per share excludes all potential common shares if their inclusion would have an anti-dilutive effect.  Certain restricted stock award recipients have a non-forfeitable right to receive dividends declared by the Company and are therefore included in computing earnings per share pursuant to the
+two -class method.
+16
+The components of basic and diluted earnings per share were as follows:
+For the Quarter Ended
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Basic:
+Net income (loss)
+$
+1,154
+$
+( 3,750
+)
+$
+( 777
+)
+$
+( 1,770
+)
+Less: Net earnings attributable to noncontrolling interest
+( 15
+)
+( 86
+)
+( 112
+)
+( 144
+)
+Less: Undistributed earnings attributable to unvested shares
+-
+-
+-
+-
+Net income (loss) attributable to Twin Disc
+1,139
+( 3,836
+)
+( 889
+)
+( 1,914
+)
+Weighted average shares outstanding - basic
+13,460
+13,296
+13,434
+13,288
+Basic Loss Per Share:
+Net earnings (loss) per share - basic
+$
+0.08
+$
+( 0.29
+)
+$
+( 0.07
+)
+$
+( 0.14
+)
+Diluted:
+Net income (loss)
+$
+1,154
+$
+( 3,750
+)
+$
+( 777
+)
+$
+( 1,770
+)
+Less: Net earnings attributable to noncontrolling interest
+( 15
+)
+( 86
+)
+( 112
+)
+( 144
+)
+Less: Undistributed earnings attributable to unvested shares
+-
+-
+-
+-
+Net income (loss) attributable to Twin Disc
+1,139
+( 3,836
+)
+( 889
+)
+( 1,914
+)
+Weighted average shares outstanding - basic
+13,460
+13,296
+13,434
+13,288
+Effect of dilutive stock awards
+239
+-
+-
+-
+Weighted average shares outstanding - diluted
+13,699
+13,296
+13,434
+13,288
+Diluted Income (Loss) Per Share:
+Net earnings (loss) per share - diluted
+$
+0.08
+$
+( 0.29
+)
+$
+( 0.07
+)
+$
+( 0.14
+)
+The following potential common shares were excluded from diluted EPS for the
+two
+quarters ended
+December 31, 2022
+as the Company reported a net loss:
+438.9
+related to the Company’s unvested PSAs,
+309.2
+related to the Company’s unvested RS awards, and
+130.9
+related to the Company’s unvested RSUs.
+The following potential common shares were excluded from diluted EPS for the quarter and
+two
+quarters ended
+December 31, 2021
+as the Company reported a net loss:
+440.9
+related to the Company’s unvested PSAs,
+262.7
+related to the Company’s unvested RS awards, and
+67.4
+related to the Company’s unvested RSUs.
+N.
+Lease Liabilities
+The Company leases certain office and warehouse space, as well as production and office equipment.
+The Company determines if an arrangement is a lease at contract inception. The lease term begins upon lease commencement, which is when the Company takes possession of the asset and
+may
+include options to extend or terminate the lease when it is reasonably certain that such options will be exercised. As its lease agreements typically do
+not
+provide an implicit rate, the Company primarily uses an incremental borrowing rate based upon the information available at lease commencement. In determining the incremental borrowing rate, the Company considers its current borrowing rate, the term of the lease, and the economic environments where the lease activity is concentrated.
+17
+The components of lease expense were as follows:
+For the Quarter Ended
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Finance lease cost:
+Amortization of right-of-use assets
+$
+156
+$
+168
+$
+311
+$
+331
+Interest on lease liabilities
+67
+71
+132
+142
+Operating lease cost
+686
+698
+1,397
+1,391
+Short-term lease cost
+( 10
+)
+37
+3
+40
+Variable lease cost
+67
+42
+108
+81
+Total lease cost
+966
+1,016
+1,952
+1,985
+Less: Sublease income
+( 18
+)
+( 19
+)
+( 35
+)
+( 39
+)
+Net lease cost
+$
+948
+$
+997
+$
+1,917
+$
+1,946
+Other information related to leases was as follows:
+For the Quarter Ended
+For the Two Quarters Ended
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Cash paid for amounts included in the measurement of lease liabilities:
+Operating cash flows from operating leases
+$
+777
+$
+737
+$
+1,473
+$
+1,479
+Operating cash flows from finance leases
+215
+211
+420
+416
+Financing cash flows from finance leases
+67
+71
+132
+142
+Right-of-use-assets obtained in exchange for lease obligations:
+Operating leases
+990
+232
+1,518
+396
+Finance leases
+269
+133
+320
+307
+Weighted average remaining lease term (years):
+Operating leases
+8.3
+9.3
+Finance lease
+10.8
+11.5
+Weighted average discount rate:
+Operating leases
+7.2
+%
+7.2
+%
+Finance leases
+5.2
+%
+5.2
+%
+18
+Approximate future minimum rental commitments under non-cancellable leases as of
+December 30, 2022
+were as follows:
+Operating Leases
+Finance Leases
+2023
+$
+1,507
+$
+877
+2024
+2,517
+875
+2025
+1,619
+644
+2026
+1,434
+578
+2027
+1,428
+519
+Thereafter
+7,636
+4,448
+Total future lease payments
+16,142
+7,940
+Less: Amount representing interest
+( 3,321
+)
+( 2,899
+)
+Present value of future payments
+$
+12,821
+$
+5,041
+The following table provides a summary of leases recorded on the condensed consolidated balance sheet.
+Balance Sheet Location
+December 30, 2022
+June 30, 2022
+Lease Assets
+Operating lease right-of-use assets
+Right-of-use assets operating leases
+$
+12,807
+$
+12,685
+Finance lease right-of-use assets
+Property, plant and equipment, net
+4,563
+4,805
+Lease Liabilities
+Operating lease liabilities
+Accrued liabilities
+$
+2,543
+$
+2,127
+Operating lease liabilities
+Lease obligations
+10,278
+10,575
+Finance lease liabilities
+Accrued liabilities
+615
+576
+Finance lease liabilities
+Other long-term liabilities
+4,426
+4,440
+O.
+Derivative Financial Instruments
+From time to time, the Company enters into derivative instruments to manage risks relating to interest rate and foreign exchange rate volatility. The Company does
+not
+purchase, hold or sell derivative financial instruments for trading purposes. The Company’s practice is to terminate derivative transactions if the underlying asset or liability matures or is sold or terminated, or if it determines the underlying forecasted transaction is
+no
+longer probable of occurring.
+The Company reports all derivative instruments on its consolidated balance sheets at fair value and establishes criteria for designation and effectiveness of transactions entered into for hedging purposes.
+Interest Rate Swap Contracts
+The Company has
+one
+outstanding interest rate swap contract as of
+December 30, 2022,
+with a notional amount of $ 12,500 . It has been designated as a cash flow hedge in accordance with ASC
+815,
+Derivatives and Hedging.
+The primary purpose of the Company’s cash flow hedging activities is to manage the potential changes in value associated with interest payments on the Company’s SOFR-based indebtedness. The Company records gains and losses on interest rate swap contracts qualifying as cash flow hedges in accumulated other comprehensive loss to the extent that these hedges are effective and until the Company recognizes the underlying transactions in net earnings, at which time these gains and losses are recognized in interest expense on its consolidated statements of operations and comprehensive income (loss). Cash flows from derivative financial instruments are classified as cash flows from financing activities on the consolidated statements of cash flows. These contracts generally have original maturities of greater than
+twelve
+months.
+Net unrealized after-tax losses related to cash flow hedging activities that were included in accumulated other comprehensive loss were ($ 694 ) and ($ 355 ) as of
+December 30, 2022,
+and
+June 30, 2022,
+respectively. The unrealized amounts in accumulated other comprehensive income (loss) will fluctuate based on changes in the fair value of open contracts during each reporting period.
+The Company estimates that $ 273
+of net unrealized losses related to cash flow hedging activities included in accumulated other comprehensive income (loss) will be reclassified into earnings within the next
+twelve
+months.
+19
+Derivatives Designated as Net Investment Hedges
+The Company is exposed to foreign currency exchange risk related to its investment in net assets in foreign countries. As discussed in Note J, Long-term Debt, during the
+fourth
+quarter of fiscal
+2021,
+the Company designated its euro denominated Revolving Loan, with a notional amount of
+€6,500,
+as a net investment hedge to mitigate the risk of variability in its euro denominated net investments in wholly-owned foreign subsidiaries. All changes in the fair value of the euro revolver were then recorded in Accumulated Other Comprehensive Loss along with the foreign currency translation adjustments on those foreign investments. Net unrealized after-tax income related to net investment hedging activities that were included in Accumulated Other Comprehensive Loss were ($ 1,410 ) and ($ 1,551 ) as of
+December 30, 2022
+and
+June 30, 2022,
+respectively.
+Fair Value of Derivative Instruments
+The fair value of derivative instruments included in the condensed consolidated balance sheets were as follows:
+Balance Sheet Location
+December 30, 2022
+June 30, 2022
+Derivative designated as hedge:
+Interest rate swap
+Other current assets
+$
+273
+$
+68
+Interest rate swap
+Other noncurrent assets
+211
+77
+The impact of the Company’s derivative instruments on the condensed consolidated statements of operations and comprehensive (loss) income for the quarters and
+two
+quarters ended
+December 30, 2022
+and
+December 31, 2021,
+respectively, was as follows:
+Statement of Comprehensive
+For the Quarter Ended
+For the Two Quarters Ended
+(Loss) Income Location
+December 30, 2022
+December 31, 2021
+December 30, 2022
+December 31, 2021
+Derivative designated as hedge:
+Interest rate swap
+Interest expense
+$
+79
+$
+98
+$
+162
+$
+187
+Interest rate swap
+Unrealized (loss) gain on cash flow hedge
+( 338
+)
+232
+( 1
+)
+300
+Net investment hedge
+Unrealized (loss) gain on hedges
+( 585
+)
+503
+( 141
+)
+639
+Item 2.
+Management Discussion and Analysis
+In the financial review that follows, we discuss our results of operations, financial condition and certain other information. This discussion should be read in conjunction with our condensed consolidated financial statements as of December 30, 2022, and related notes, as reported in Item 1 of this Quarterly Report.
+Some of the statements in this Quarterly Report on Form 10-Q are “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements include the Company’s description of plans and objectives for future operations and assumptions behind those plans. The words “anticipates,” “believes,” “intends,” “estimates,” and “expects,” or similar anticipatory expressions, usually identify forward-looking statements. In addition, goals established by the Company should not be viewed as guarantees or promises of future performance. There can be no assurance the Company will be successful in achieving its goals.
+In addition to the assumptions and information referred to specifically in the forward-looking statements, other factors, including but not limited to those factors discussed under Item 1A, Risk Factors, of the Company’s Annual Report filed on Form 10-K for June 30, 2022, as supplemented in this Quarterly Report, could cause actual results to be materially different from what is expressed or implied in any forward-looking statement.
+20
+Results of Operations
+Quarter Ended
+Two Quarters Ended
+December 30, 2022
+% of Net Sales
+December 31, 2021
+% of Net Sales
+December 30, 2022
+% of Net Sales
+December 31, 2021
+% of Net Sales
+(In thousands)
+Net sales
+$
+63,351
+$
+59,889
+$
+119,264
+$
+107,650
+Cost of goods sold
+46,328
+46,407
+88,944
+80,721
+Gross profit
+17,023
+26.9
+%
+13,482
+22.5
+%
+30,320
+25.4
+%
+26,929
+25.0
+%
+Marketing, engineering and administrative expenses
+15,983
+25.2
+%
+15,267
+25.5
+%
+31,063
+26.0
+%
+28,357
+26.3
+%
+Restructuring of operations
+164
+0.3
+%
+1,190
+2.0
+%
+174
+0.1
+%
+1,238
+1.2
+%
+Other operating income
+(4,150
+)
+-6.6
+%
+45
+0.1
+%
+(4,150
+)
+-3.5
+%
+(2,894
+)
+-2.7
+%
+Income (loss) from operations
+$
+5,026
+7.9
+%
+$
+(3,020
+)
+-5.0
+%
+$
+3,233
+2.7
+%
+$
+228
+0.2
+%
+Comparison of the Second Quarter of Fiscal 2023 with the Second Quarter of Fiscal 2022
+Net sales for the second quarter increased 5.8%, or $3.5 million, to $63.4 million from $59.9 million in the same quarter a year ago. The Company continues to experience strong demand across most of its markets following the severe impact of the COVID-19 pandemic in fiscal 2021, including demand for new transmissions in the North American oil and gas market, along with the ongoing demand for aftermarket support. The Company’s ability to ship product continues to be hampered by a variety of supply chain challenges. These include supplier capacity constraints, extended supplier lead times and a global shortage of electronic components. Global sales of industrial products declined slightly (2.5%), primarily due to an unfavorable currency impact, while shipments of marine and propulsion products improved by 2.7% and off-highway transmission shipments grew by 10.2% compared with the prior year second quarter. The North American region enjoyed the most significant sales improvement ($6.2 million or 32.0%) due to generally improving market conditions and increased new unit and aftermarket demand in the North American energy market. The European region saw a more modest increase ($0.7 million or 3.7%), with a more challenging economy and the negative impact of currency exchange. Sales into the Asia Pacific region decreased 8.3%, or $1.1 million, primarily due to a temporary pause in shipments of certain oil and gas related products into China. Currency translation had an unfavorable impact on second quarter fiscal 2023 sales compared to the second quarter of the prior year totaling $5.0 million primarily due to the weakening of the euro against the U.S. dollar.
+Sales at our manufacturing segment increased 15.0%, or $7.4 million, versus the same quarter last year. The U.S. manufacturing operations experienced a 17.5%, or $5.2 million, increase in sales versus the second fiscal quarter of 2022, with recovering markets and growing North American demand in the energy market, partially offset by the continued supply chain challenges noted above. The Company’s operation in the Netherlands was up $1.6 million (13.3%) compared to the second fiscal quarter of 2022, primarily due to improving market demand and strong operational execution, partially offset by an unfavorable currency impact and supply chain limitations. Similarly, the Company’s Belgian operation saw an increase compared to the prior year second quarter (6.7% or $0.3 million), with improving demand partially offset by an unfavorable translation effect. The Company’s Italian manufacturing operations were up $0.3 million (4.4%) compared to the second quarter of fiscal 2022, with improving execution and easing supply chain interruptions. The Company’s Swiss manufacturing operation, which supplies customized propellers for the global mega yacht and patrol boat markets, was up $0.1 million (10.5%) compared to the prior year second quarter.
+Our distribution segment experienced a decrease in sales of $2.7 million (9.6%) in the second quarter of fiscal 2023 compared to the second quarter of fiscal 2022. The Company’s Asian distribution operations in Singapore, China and Japan were down 30.8%, or $3.2 million, from the prior year primarily due to a temporary delay in shipments of certain oil and gas related products into China. The Company’s North America distribution operation saw a slight increase ($0.2 million or 2.5%) on stronger supply of product from the manufacturing operations, as all markets have seen improving demand. The Company’s European distribution operation saw a decrease ($0.7 million or 12.0%) resulting from lower factory shipments and the unfavorable impact of currency translation. The Company’s distribution operation in Australia, which provides boat accessories, propulsion and marine transmission systems for the pleasure craft market, saw continued growth (14.0% increase, or $0.9 million, from the prior year second fiscal quarter), on the continued strengthening of pleasure craft marine market demand in the region.
+Gross profit as a percentage of sales for the second quarter of fiscal 2023 improved to 26.9%, compared to 22.5% for the same period last year. The improvement over the prior year is primarily the result of additional volume ($0.8 million), a more favorable mix of product shipments ($0.7 million) and progress on margin improvement actions related to pricing and cost efficiencies ($2.0 million).
+21
+For the fiscal 2023 second quarter, marketing, engineering and administrative (“ME&A”) expenses, as a percentage of sales, were 25.2%, compared to 25.5% for the fiscal 2022 second quarter. ME&A expenses increased $0.7 million (4.7%) versus the same period last fiscal year. The increase in ME&A spending for the quarter was comprised of the incremental impact of prior year COVID subsidies ($0.8 million), increased professional fees ($0.5 million) and other inflationary impacts ($0.2 million). These increases were partially offset by a foreign currency translation impact of $0.8 million.
+The Company incurred restructuring charges during the second quarter of fiscal 2023 and fiscal 2022, primarily associated with ongoing cost reduction actions at its European operations and actions to adjust the cost structure at the Company’s domestic operation. The Company continues to focus on actively managing its cost structure and reducing fixed costs.
+The Company recorded other operating income of $4.2 million in the second quarter of fiscal 2023 associated with the gain on the sale of the Company’s facility in Belgium. The building was sold for approximately $7.2 million.  The Company entered into a lease agreement to leaseback the property for a two-year term.
+Interest expense was relatively flat at $0.6 million in the second quarter of fiscal 2023, with a slightly higher rate partially offset by a lower average outstanding revolver balance.
+Other expense of $0.8 million for the second fiscal quarter was primarily attributable to translation losses related to the Company’s euro denominated liabilities.
+The fiscal 2023 second quarter effective tax rate was 68.3% compared to -19.9% in the prior fiscal year second quarter. The full domestic valuation allowance, along with the mix of foreign earnings by jurisdiction, resulted in the increase to the effective tax rate.
+Comparison of the First Half of Fiscal 2023 with the First Half of Fiscal 2022
+Net sales for the first half increased 10.8%, or $11.6 million, to $119.3 million from $107.7 million in the same period a year ago. The Company experienced strong and improving demand through the first half as all markets have demonstrated recovery following the severe impact of the COVID-19 pandemic in fiscal 2021, including demand for new transmissions in the North American oil and gas market demand, along with the ongoing demand for aftermarket support. The Company’s ability to ship product continues to be hampered by a variety of supply chain challenges. These include supplier capacity constraints, extended supplier lead times and a global shortage of electronic components. Global sales of industrial products improved (5.1%) primarily due to a strong first quarter in North America, while shipments of marine and propulsion products improved by 5.9% and off-highway transmission shipments grew by 19.8% compared with the prior year first half. The North American region enjoyed the most significant sales improvement ($11.9 million or 32.5%) due to generally improving market conditions and increased new unit and aftermarket demand in the North American energy market. The European region saw a more modest increase ($0.9 million or 2.7%), with a more challenging economy and the negative impact of currency exchange. Sales into the Asia Pacific region decreased 0.8%, or $0.2 million, primarily due to a temporary pause in shipments of certain oil and gas related products into China offset by continued strong demand in Australia. Currency translation had an unfavorable impact on first half fiscal 2023 sales compared to the first half of the prior year totaling $9.9 million primarily due to the weakening of the euro against the U.S. dollar.
+Sales at our manufacturing segment increased 16.3%, or $14.8 million, versus the same period last year. The U.S. manufacturing operations experienced a 28.0%, or $13.1 million, increase in sales versus the first half of fiscal 2022, with recovering markets and growing North American demand in the energy market, partially offset by the continued supply chain challenges noted above. The Company’s operation in the Netherlands was up $0.8 million (3.9%) compared to the first half of fiscal 2022, primarily due to improving market demand and strong operational execution, partially offset by an unfavorable currency impact and supply chain limitations. The Company’s Belgian operation saw a slight decrease compared to the prior year first half (3.6% or $0.4 million), with improving demand offset by an unfavorable currency translation effect. The Company’s Italian manufacturing operations were up $1.1 million (9.2%) compared to the first half of fiscal 2022, with improving execution and easing supply chain interruptions. The Company’s Swiss manufacturing operation, which supplies customized propellers for the global mega yacht and patrol boat markets, was up $0.2 million (7.3%) compared to the prior year first half.
+22
+Our distribution segment experienced an increase in sales of $1.1 million (2.2%) in the first half of fiscal 2023 compared to the first half of fiscal 2022. The Company’s Asian distribution operations in Singapore, China and Japan were down 14.8% from the prior year primarily due to a temporary delay in shipments of certain oil and gas related products into China during the second fiscal quarter. The Company’s North America distribution operation saw a strong increase ($2.3 million or 24.7%) on stronger supply of product from the manufacturing operations, as all markets have seen improving demand. The Company’s European distribution operation saw a decrease (4.9%) resulting from lower factory shipments and the unfavorable impact of currency translation. The Company’s distribution operation in Australia, which provides boat accessories, propulsion and marine transmission systems for the pleasure craft market, saw continued growth (15.7% increase from the prior year first half), on the continued strengthening of pleasure craft marine market demand in the region.
+The gross profit percentage for the first half of fiscal 2023 improved to 25.4%, compared to 25.0% for the same period last year. The prior year first half result reflects the benefit of an Employee Retention Credit (“ERC”, part of various COVID-19 relief programs provided by the U.S. government) of $1.3 million recorded at the Company’s domestic operation, along with the benefit of a NOW subsidy (COVID-19 relief program in the Netherlands) of $0.7 million and the favorable impact of a correction to the Company’s warranty reserve ($0.5 million). Adjusting for these non-recurring items, the gross profit percent for the first half would have been 22.7%. The improvement over the prior year after adjusting for these items is primarily the result of additional volume ($2.9 million), a more favorable mix of product shipments ($2.0 million) and progress on margin improvement actions related to pricing and cost efficiencies ($1.0 million).
+For the fiscal 2023 first half, marketing, engineering and administrative (“ME&A”) expenses, as a percentage of sales, were 26.0%, compared to 26.3% for the fiscal 2022 first half. ME&A expenses increased $2.7 million (9.5%) versus the same period last fiscal year. The increase in ME&A spending for the period was comprised of the incremental impact of prior year COVID subsidies ($1.5 million), increased professional fees ($0.8 million), salaries and benefits ($0.9 million) marketing activities ($0.3 million), spending on travel and entertainment ($0.4 million) and other inflationary impacts ($0.5 million). These increases were partially offset by a foreign currency translation impact of $1.7 million.
+The Company incurred restructuring charges during the first half of fiscal 2023 and fiscal 2022, primarily associated with ongoing cost reduction actions at its European operations and actions to adjust the cost structure at the Company’s domestic operation. The Company continues to focus on actively managing its cost structure and reducing fixed costs.
+The Company recorded other operating income of $4.2 million in fiscal 2023 associated with the gain on the sale of the Company’s facility in Belgium. The building was sold for approximately $7.2 million.
+Interest expense was relatively flat at $1.2 million in the first half of fiscal 2023, with a slightly higher rate partially offset by a lower average outstanding revolver balance.
+Other expense of $1.0 million for the first half of fiscal 2023 was primarily attributable to translation losses related to the Company’s euro denominated liabilities.
+The fiscal 2023 first half effective tax rate was 175.9% compared to -131.1% in the prior fiscal year first half. The full domestic valuation allowance, along with the mix of foreign earnings by jurisdiction, resulted in the increase to the effective tax rate.
+Financial Condition, Liquidity and Capital Resources
+Comparison between December 30, 2022 and June 30, 2022
+As of December 30, 2022, the Company had net working capital of $124.0 million, which represents an increase of $0.6 million, or 0.5%, from the net working capital of $123.4 million as of June 30, 2022.
+Cash increased by $1.0 million to $13.5 million as of December 30, 2022, versus $12.5 million as of June 30, 2022. As of December 30, 2022, the majority of the cash is at the Company’s overseas operations in Europe ($4.2 million) and Asia-Pacific ($8.2 million).
+Trade receivables of $39.4 million were down $6.0 million, or approximately 13.3%, when compared to last fiscal year-end. The impact of foreign currency translation was to increase accounts receivable by $0.5 million versus June 30, 2022. As a percent of sales, trade receivables finished at 62.2% in the second quarter of fiscal 2023 compared to 55.1% for the comparable period in fiscal 2022 and 59.8% for the fourth quarter of fiscal 2022.
+23
+Inventories increased by $9.1 million, or 7.6%, versus June 30, 2022 to $136.8 million. The impact of foreign currency translation was to increase inventories by $1.5 million versus June 30, 2022. The remaining increase was seen primarily at the Company’s operations in the Netherlands ($4.4 million) and Singapore ($5.6 million). The Singapore increase was the result of a temporary delay in the shipment of certain oil and gas transmission products into China. The Netherlands increase was primarily driven by an imbalance in the supply chain, resulting in excess inventory waiting for missing components to finish assembly, or waiting for customers to accept shipment. There was an offsetting decrease at the North American operations ($3.0 million) resulting from increased focus on purchase quantities and timing of deliveries. On a consolidated basis, as of December 30, 2022, the Company’s backlog of orders to be shipped over the next six months approximates $124.0 million, compared to $101.2 million at June 30, 2022 and $98.9 million at December 31, 2021. As a percentage of six-month backlog, inventory has decreased from 126% at June 30, 2022 to 110% at December 30, 2022.
+Net property, plant and equipment decreased $1.9 million (4.6%) to $39.7 million versus $41.6 million at June 30, 2022. In the first fiscal quarter of 2023, the Company reclassified approximately $2.8 million of assets to Assets Held for Sale related to a building in Belgium that was then sold during the second fiscal quarter of 2023. The Company had capital spending of $4.7 million in the first half, as well as a favorable exchange impact ($0.2 million). These increases were partially offset by depreciation of $2.9 million. Capital spending occurring in the first half was primarily related to replacement capital. In total, the Company expects to invest between $9 and $11 million in capital assets in fiscal 2023. The Company continues to review its capital plans based on overall market conditions and availability of capital, and may make changes to its capital plans accordingly. The Company’s capital program is focused on modernizing key core manufacturing, assembly and testing processes and improving efficiencies at its facilities around the world.
+Accounts payable as of December 30, 2022 of $28.9 million was up $0.4 million, or 1.3%, from June 30, 2022. The impact of foreign currency translation was to increase accounts payable by $0.5 million versus June 30, 2022. The remaining decrease is primarily related to the timing of purchasing activities.
+Total borrowings and long-term debt as of December 30, 2022 decreased $4.6 million to $31.9 million versus $36.5 million at June 30, 2022. During the first half, the Company reported negative free cash flow of $4.7 million (defined as operating cash flow less acquisitions of fixed assets), driven by the payment of a bonus accrual and the first half increase to inventory. However, the Company generated $7.2 million in cash through the sale of the Belgian facility. The Company ended the second quarter with total debt, net of cash, of $18.4 million, compared to $24.0 million at June 30, 2022, for a net improvement of $5.6 million.
+Total equity increased $2.6 million, or 2.0%, to $133.8 million as of December 30, 2022. The net loss during the first half decreased equity by $0.9 million, while a favorable foreign currency translation increased equity by $2.1 million. The net change in common stock and treasury stock resulting from the accounting for stock-based compensation increased equity by $1.1 million. The net remaining increase in equity of $0.3 million primarily represents the amortization of net actuarial loss and prior service cost on the Company’s defined benefit pension plans, along with the unrealized gain on cash flow hedges.
+The Company's June 29, 2018 credit agreement (the "Credit Agreement") with BMO Harris Bank, N.A. ("BMO"), as amended through the Ninth Amendment dated June 30, 2022, remains in effect, and there have been no material changes in the terms of the Credit Agreement since the end of the Company's most recent fiscal year.  As of December 30, 2022, the Company's borrowing capacity on the Revolving Loans under the Credit agreement was $39,476,000 and the Company had approximately $20,096,000 of available borrowings.  In addition to the Credit Agreement, the Company has established unsecured lines of credit that used from time to time to secure certain performance obligations by the Company.  As of December 30, 2022, the Company also had cash of $13.5 million, primarily at its overseas operations.  These funds, with some restrictions and tax implications, are available for repatriation as deemed necessary by the Company.
+The Company expects capital expenditures to be approximately $9 - $11 million in fiscal 2023.  These anticipated expenditures reflect the Company's plans to invest in modern equipment to drive efficiencies, quality improvements, and cost reductions.
+The Company's significant contractual obligations as of December 30, 2022 are disclosed in Note N "Lease Liabilities" in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q.  There are no material undisclosed guarantees.  As of December 30, 2022, the Company had no additional material purchase obligations other than those created in the ordinary course of business related to inventory and property, plant and equipment, which generally have terms of less than 90 days.  The Company also has long-term obligations related to its postretirement plans which are discussed in detail in Note G "Pension and Other Postretirement Benefit Plans in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1of this Quarterly Report on Form 10-Q.  Postretirement medical claims are paid by the Company as they are submitted.  In fiscal 2023, the Company expects to contribute $0.8 million to postretirement benefits based on actuarial estimates; however, these amounts can vary significantly from year to year because the Company is self-insured.  In fiscal 2023, the Company expects to contribute $0.6 million to its defined benefit pension plans, the minimum contribution required.  the Company does not have any material off-balance sheet arrangements.
+24
+Management believes that available cash, the Credit Agreement, the unsecured lines of credit, cash generated from future operations, and potential access to debt markets will be adequate to fund the Company's cash and capital requirements for the foreseeable future.
+New Accounting Releases
+See Note A, Basis of Presentation, to the condensed consolidated financial statements for a discussion of recently issued accounting standards.
+Critical Accounting Policies
+The preparation of this Quarterly Report requires management’s judgment to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the dates of the financial statements, and the reported amounts of revenues and expenses during the reporting period. There can be no assurance that actual results will not differ from those estimates.
+The Company’s critical accounting policies are described in Item 7 of the Company’s Annual Report filed on Form 10-K for June 30, 2022. There have been no significant changes to those accounting policies subsequent to June 30, 2022.
+Item 3.
+Quantitative and Qualitative Disclosure About Market Risk
+The Company is electing not to provide this disclosure due to its status as a Smaller Reporting Company.
+Item 4.
+Controls and Procedures
+(a)
+Evaluation of Disclosure Controls and Procedures
+The Company’s management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, have evaluated the effectiveness of the Company’s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (“the Exchange Act”) as of the end of the period covered by this report.  Based on such evaluation,  the Company’s Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of such period, the Company’s disclosure controls and procedures are effective in recording, processing, summarizing, and reporting, on a timely basis, information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act, and that such information is accumulated and communicated to the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely discussions regarding required disclosure.
+(b)
+Changes in Internal Control Over Financial Reporting
+Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f). During the most recent fiscal quarter, no changes were made which have materially affected, or which are reasonably likely to materially affect, our internal control over financial reporting.
+Part II.
+OTHER INFORMATION
+Item 1.
+Legal Proceedings
+The Company is a defendant in several product liability or related claims which are considered either adequately covered by appropriate liability insurance or involving amounts not deemed material to the business or financial condition of the Company.
+25
+Item 1A.
+Risk Factors
+There have been no material changes to the risk factors previously disclosed in response to Item 1A to Part I of our 2022 Annual Report on Form 10-K.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+(a)
+Unregistered Sales of Equity Securities
+There were no securities of the Company sold by the Company during the quarter ended December 30, 2022, which were not registered under the Securities Act of 1933, in reliance upon an exemption from registration provided by Section 4 (2) of the Act.
+(b)
+Use of Proceeds
+Not applicable.
+(c)
+Issuer Purchases of Equity Securities
+Issuer Purchases of Equity Securities
+Period
+(a) Total
+Number of
+Shares
+Purchased
+(b)
+Average
+Price Paid
+per Share
+(c) Total Number of
+Shares Purchased as
+Part of Publicly
+Announced Plans or
+Programs
+(d) Maximum Number of
+Shares that May Yet Be
+Purchased Under the Plans
+or Programs
+October 1 –  October 28, 2022
+0
+NA
+0
+315,000
+October 29 – November 25, 2022
+22,024
+NA
+0
+315,000
+November 26 – December 30, 2022
+0
+NA
+0
+315,000
+Total
+22,024
+NA
+0
+315,000
+The amounts shown in Column (a) above represent shares of common stock delivered to the Company as payment of withholding taxes due on the vesting of restricted stock and restricted stock units issued under the Twin Disc, Incorporated 2018 Long-Term Incentive Compensation Plan.
+Under authorizations granted by the Board of Directors on February 1, 2008 and July 27, 2012, the Company was authorized to purchase 500,000 shares of its common stock. This authorization has no expiration, and as of December 30, 2022, 315,000 may yet be purchased under these authorizations. The Company did not purchase any shares of its common stock pursuant to these authorizations during the quarter ended December 30, 2022.
+Under its Credit Agreement with BMO Harris Bank, N.A., the Company may not pay cash dividends on its common stock in excess of $3 million in any fiscal year.
+Item 3.
+Defaults Upon Senior Securities
+None.
+Item 5.
+Other Information
+None.
+26
+Item 6.
+Exhibits
+31a
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31b
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32a
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32b
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+Inline XBRL Instance Document
+101.SCH
+Inline XBRL Schema
+101.CAL
+Inline XBRL Calculation Linkbase
+101.DEF
+Inline XBRL Definition Linkbase
+101.LAB
+Inline XBRL Label Linkbase
+101.PRE
+Inline XBRL Presentation Linkbase
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+27
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+TWIN DISC, INCORPORATED
+(Registrant)
+Date: February 8, 2023
+/s/ JEFFREY S. KNUTSON
+Jeffrey S. Knutson
+Vice President – Finance, Chief Financial Officer,
+Treasurer and Secretary
+Chief Accounting Officer
+28

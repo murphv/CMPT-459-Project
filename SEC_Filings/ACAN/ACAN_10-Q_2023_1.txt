@@ -1,0 +1,1130 @@
+0
+0
+5
+10
+4
+50
+47,941
+20
+3
+0
+0
+0
+0
+0001508348 2022-10-01 2022-12-31
+thunderdome:item
+iso4217:USD
+0001508348 2021-10-01 2021-12-31
+utr:Y
+iso4217:USD xbrli:shares
+0001508348 2022-12-31
+xbrli:shares
+0001508348 2021-10-01 2022-09-30
+0001508348 2022-09-30
+0001508348 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0001508348 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0001508348 2021-10-01 2022-03-31
+0001508348 2022-03-31
+0001508348 2020-10-01 2021-09-30
+0001508348 2021-09-30
+0001508348 us-gaap:EmployeeStockOptionMember 2021-12-01 2021-12-31
+0001508348 acan:OfficeSpaceInDenverCOMember 2021-10-01 2021-12-31
+0001508348 acan:OfficeSpaceInDenverCOMember 2022-10-01 2022-12-31
+xbrli:pure
+0001508348 acan:BASKMember 2019-09-01
+0001508348 acan:BASKMember 2021-09-01 2021-09-01
+0001508348 acan:BASKMember 2019-09-01 2019-09-01
+0001508348 us-gaap:AccountingStandardsUpdate201602Member acan:SaleLeasebackToMMPMember 2019-10-01
+0001508348 2019-10-01
+0001508348 acan:SaleLeasebackToMMPMember 2016-10-17 2016-10-17
+0001508348 acan:SaleLeasebackToMMPMember 2016-10-17
+utr:acre
+0001508348 acan:MassachusettsLandPurchaseMember 2016-10-17
+0001508348 us-gaap:ConvertibleDebtSecuritiesMember 2021-10-01 2021-12-31
+0001508348 us-gaap:WarrantMember 2021-10-01 2021-12-31
+0001508348 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0001508348 us-gaap:ConvertibleDebtSecuritiesMember 2022-10-01 2022-12-31
+0001508348 us-gaap:WarrantMember 2022-10-01 2022-12-31
+0001508348 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0001508348 acan:LeaseAgreementMember acan:BASKMember 2022-09-30
+0001508348 acan:LeaseAgreementMember acan:BASKMember 2022-12-31
+0001508348 acan:LeaseAgreementMember acan:BASKMember 2019-07-26 2019-07-26
+0001508348 acan:LeaseAgreementMember acan:BASKMember 2019-07-26
+0001508348 acan:BASKMember 2022-09-30
+0001508348 acan:BASKMember 2022-12-31
+0001508348 acan:BASKMember 2018-08-15
+0001508348 acan:BASKMember 2018-08-15 2018-08-15
+0001508348 acan:ConsultingServicesMember acan:StrategicCapitalPartnersMember 2022-12-31
+0001508348 acan:ConsultingServicesMember acan:StrategicCapitalPartnersMember 2022-10-01 2022-12-31
+0001508348 acan:ConsultingServicesMember acan:StrategicCapitalPartnersMember 2022-09-30
+0001508348 acan:ConsultingServicesMember acan:StrategicCapitalPartnersMember 2021-10-01 2022-09-30
+0001508348 acan:PromissoryNotesMember acan:StrategicCapitalPartnersMember 2022-09-30
+0001508348 acan:PromissoryNotesMember acan:StrategicCapitalPartnersMember 2022-12-31
+0001508348 acan:PromissoryNoteTwoMember acan:StrategicCapitalPartnersMember 2019-09-30
+0001508348 acan:StrategicCapitalPartnersMember 2019-09-30
+0001508348 acan:February2018ConvertibleNotesMember acan:AccreditedInvestorsMember us-gaap:ConvertibleDebtMember 2022-12-31
+0001508348 acan:February2018ConvertibleNotesMember acan:AccreditedInvestorsMember us-gaap:ConvertibleDebtMember 2018-02-12
+0001508348 acan:PromissoryNotesMember acan:UnrelatedPartyMember 2021-10-01 2021-12-31
+0001508348 acan:PromissoryNotesMember acan:UnrelatedPartyMember 2022-10-01 2022-12-31
+0001508348 acan:PromissoryNotesMember acan:UnrelatedPartyMember 2022-12-31
+0001508348 acan:BrokerMember acan:PromissoryNotesMember acan:UnrelatedPartyMember 2020-12-04
+0001508348 acan:PromissoryNotesMember acan:UnrelatedPartyMember 2020-12-04 2020-12-04
+0001508348 acan:WarrantsIssuedToUnrelatedPartiesLendersMember acan:PromissoryNotesMember 2019-08-02
+0001508348 acan:PromissoryNotesMember acan:UnrelatedPartyMember 2019-08-02
+0001508348 acan:WarrantsIssuedToPlacementAgentMember acan:PromissoryNotesMember 2019-08-02
+0001508348 acan:PromissoryNotesMember acan:UnrelatedPartyMember 2019-08-02 2019-08-02
+0001508348 acan:PromissoryNotesMember acan:UnrelatedPartyMember 2019-08-02
+0001508348 acan:WarrantsToPurchaseAdditionalSharesMember 2019-08-02
+0001508348 acan:WarrantsIssuedToUnrelatedPartiesLendersMember 2019-08-02
+0001508348 acan:UnrelatedPartyMember 2019-08-02
+0001508348 acan:UnrelatedPartyMember 2019-08-02 2019-08-02
+0001508348 acan:UnrelatedPartyMember 2021-10-01 2022-03-31
+0001508348 acan:UnrelatedPartyMember 2020-08-25 2020-08-25
+0001508348 acan:UnrelatedPartyMember 2021-02-01 2021-02-28
+0001508348 acan:UnrelatedPartyMember 2020-08-25
+0001508348 acan:UnrelatedPartyMember 2021-02-25
+0001508348 acan:UnrelatedPartyMember 2021-02-25 2021-02-25
+0001508348 acan:PropertyPlantAndEquipmentExcludingConstructionInProgressMember 2022-09-30
+0001508348 acan:PropertyPlantAndEquipmentExcludingConstructionInProgressMember 2022-12-31
+0001508348 acan:FurnitureAndEquipment1Member 2022-09-30
+0001508348 acan:FurnitureAndEquipment1Member 2022-12-31
+0001508348 us-gaap:ComputerEquipmentMember 2022-09-30
+0001508348 us-gaap:ComputerEquipmentMember 2022-12-31
+0001508348 us-gaap:BuildingAndBuildingImprovementsMember 2022-09-30
+0001508348 us-gaap:BuildingAndBuildingImprovementsMember 2022-12-31
+0001508348 srt:MaximumMember 2022-10-01 2022-12-31
+0001508348 srt:MinimumMember 2022-10-01 2022-12-31
+0001508348 2021-12-31
+0001508348 us-gaap:RetainedEarningsMember 2022-12-31
+0001508348 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001508348 us-gaap:CommonStockMember 2022-12-31
+0001508348 us-gaap:PreferredStockMember 2022-12-31
+0001508348 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001508348 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001508348 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001508348 us-gaap:PreferredStockMember 2022-10-01 2022-12-31
+0001508348 us-gaap:RetainedEarningsMember 2022-09-30
+0001508348 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001508348 us-gaap:CommonStockMember 2022-09-30
+0001508348 us-gaap:PreferredStockMember 2022-09-30
+0001508348 us-gaap:RetainedEarningsMember 2021-12-31
+0001508348 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001508348 us-gaap:CommonStockMember 2021-12-31
+0001508348 us-gaap:PreferredStockMember 2021-12-31
+0001508348 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001508348 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001508348 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001508348 us-gaap:PreferredStockMember 2021-10-01 2021-12-31
+0001508348 us-gaap:RetainedEarningsMember 2021-09-30
+0001508348 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001508348 us-gaap:CommonStockMember 2021-09-30
+0001508348 acan:February2018ConvertibleNotesMember 2022-09-30
+0001508348 acan:February2018ConvertibleNotesMember 2022-12-31
+0001508348 us-gaap:ConstructionInProgressMember 2022-09-30
+0001508348 us-gaap:ConstructionInProgressMember 2022-12-31
+0001508348 2023-01-26
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                                     to
+Commission file number:
+000-54231
+AMERICANN, INC
+(Exact name of registrant as specified in its charter)
+Colorado
+27-4336843
+(State or other jurisdiction of incorporation or
+organization)
+(IRS Employer Identification No.)
+1555 Blake Street, Unit 502
+Denver ,
+CO
+80202
+(Address of principal executive offices)
+(Zip Code)
+( 303 )
+862-9000
+(Registrant’s telephone number, including area code)
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which
+registered
+None
+N/A
+N/A
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes ☑ No ☐
+Indicate by a checkmark whether the registrant has submitted electronically every Interactive Date File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes ☑ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☑
+Smaller reporting company
+☑
+Emerging growth company
+☐
+If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No ☑
+As of January 26, 2023, the registrant had
+24,391,961
+shares of common stock outstanding.
+AMERICANN, INC.
+FORM 10-Q
+TABLE OF CONTENTS
+PAGE
+NO.
+PART I   FINANCIAL INFORMATION
+Item 1.
+Unaudited Financial Statements:
+Consolidated Balance Sheets as of December 31, 2022 and September 30, 2022
+3
+Consolidated Statements of Operations for the Three Months Ended December 31, 2022 and 2021
+4
+Consolidated Statements of Changes in Stockholders' Equity for the Three Months Ended December 31, 2022 and 2021
+5
+Consolidated Statements of Cash Flows for the Three Months Ended December 31, 2022 and 2021
+6
+Notes to Consolidated Financial Statements
+7
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+14
+Item 4.
+Controls and Procedures
+18
+PART II  OTHER INFORMATION
+Item 6.
+Exhibits
+19
+SIGNATURES
+20
+2
+PART I:
+FINANCIAL INFORMATION
+ITEM 1.
+UNAUDITED
+FINANCIAL STATEMENTS
+AMERICANN, INC.
+CONSOLIDATED BALANCE SHEETS
+(UNAUDITED)
+December 31, 2022
+September 30, 2022
+Assets
+Current Assets:
+Cash and cash equivalents
+$
+1,273,317
+$
+1,341,127
+Restricted cash
+9,967
+9,967
+Tenant receivable
+242,550
+251,462
+Prepaid expenses and other current assets
+3,333
+62,766
+Note receivable
+31,581
+43,185
+Total current assets
+1,560,748
+1,708,507
+Construction in progress
+379,661
+338,977
+Property and Equipment, net
+6,499,480
+6,611,961
+Operating lease - right-of-use asset
+6,760,857
+6,778,085
+Total assets
+$
+15,200,746
+$
+15,437,530
+Liabilities and Stockholders' Equity
+Current Liabilities:
+Accounts payable and accrued expenses
+$
+129,842
+$
+193,170
+Accounts payable - related party
+-
+82,500
+Interest payable (including $ 4,446
+and $ 4,303
+to related parties)
+46,488
+53,964
+Other payables
+6,420
+8,612
+Operating lease liability, short term
+11,507
+11,283
+Notes payable (net of unamortized discounts of $ 113,647
+and $ 162,353 )
+4,386,353
+4,337,647
+Notes payable
+-
+150,000
+Total current liabilities
+4,580,610
+4,837,176
+Notes payable - related party
+581,646
+581,646
+Operating lease liability, long term
+4,213,633
+4,216,596
+Total liabilities
+9,375,889
+9,635,418
+Commitments and contingencies - see Note 7
+Stockholders' Equity:
+Preferred stock, $ 0.0001
+par value;
+20,000,000
+shares authorized;  no
+shares issued and outstanding
+-
+-
+Common stock, $ 0.0001
+par value;
+100,000,000
+shares authorized;  24,391,961  shares issued and outstanding as of December 31, 2022 and September 30, 2022
+2,439
+2,439
+Additional paid in capital
+25,558,362
+25,558,362
+Accumulated deficit
+( 19,735,944
+)
+( 19,758,689
+)
+Total stockholders' equity
+5,824,857
+5,802,112
+Total liabilities and stockholders' equity
+$
+15,200,746
+$
+15,437,530
+See accompanying notes to unaudited consolidated financial statements.
+3
+AMERICANN, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(unaudited)
+Three months Ended December 31,
+2022
+2021
+Rental income
+$
+734,766
+$
+243,681
+Rental income - related party
+-
+407,264
+Cost of revenues
+13,615
+11,450
+Gross profit
+721,151
+639,495
+Operating expenses:
+Advertising and marketing
+1,418
+12,967
+Professional fees
+120,513
+125,059
+General and administrative expenses
+391,306
+870,088
+Total operating expenses
+513,237
+1,008,114
+Income (loss) from operations
+207,914
+( 368,619
+)
+Other income (expense):
+Interest income
+1,663
+3,561
+Interest expense
+( 186,832
+)
+( 154,775
+)
+Interest expense - related party
+-
+( 13,195
+)
+Total other income (expense)
+( 185,169
+)
+$
+( 164,409
+)
+Net income (loss)
+$
+22,745
+$
+( 533,028
+)
+Basic and diluted income (loss) per common share
+$
+0.00
+$
+( 0.02
+)
+Weighted average common shares outstanding
+24,391,961
+24,219,703
+See accompanying notes to unaudited consolidated financial statements.
+4
+AMERICANN, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS ’
+EQUITY
+(unaudited)
+Preferred Stock
+Common Stock
+Paid In
+Accumulated
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Total
+Balances, September 30, 2021
+-
+$
+-
+23,696,310
+$
+2,420
+$
+25,093,435
+$
+( 19,585,445
+)
+$
+5,510,410
+Net loss
+-
+-
+-
+-
+-
+( 533,028
+)
+( 533,028
+)
+Stock issued for services
+-
+-
+195,651
+19
+89,981
+-
+90,000
+Extension of warrants
+-
+-
+-
+-
+374,946
+-
+374,946
+Balances, December 31, 2021
+-
+$
+-
+23,891,961
+$
+2,439
+$
+25,558,362
+$
+( 20,118,473
+)
+$
+5,442,328
+Balances, September 30, 2022
+-
+$
+-
+24,391,961
+$
+2,439
+$
+25,558,362
+$
+( 19,758,689
+)
+$
+5,802,112
+Net income
+-
+-
+-
+-
+-
+22,745
+22,745
+Balances, December 31, 2022
+-
+$
+-
+24,391,961
+$
+2,439
+$
+25,558,362
+$
+( 19,735,944
+)
+$
+5,824,857
+See accompanying notes to unaudited consolidated financial statements.
+5
+AMERICANN, INC.
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS
+(unaudited)
+Three Months Ended December
+2022
+2021
+Cash flows from operating activities:
+Net income (loss)
+$
+22,745
+$
+( 533,028
+)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depreciation and amortization
+112,481
+112,481
+Amortization of right of use assets
+17,228
+17,021
+Stock based compensation and warrants revaluation expense
+-
+374,946
+Stock issued for services
+-
+90,000
+Amortization of debt discount
+48,706
+25,976
+Changes in operating assets and liabilities:
+Tenant receivable
+8,912
+-
+Tenant receivable - related party
+-
+22,985
+Prepaid expenses
+59,433
+12,735
+Accounts payable and accrued expenses
+( 63,328
+)
+25,433
+Operating lease liability
+( 2,739
+)
+( 2,531
+)
+Accounts payable - related party
+( 82,500
+)
+( 30,000
+)
+Interest payable
+( 7,476
+)
+4,414
+Interest payable - related party
+-
+13,194
+Other payables
+( 2,192
+)
+( 8,297
+)
+Net cash flows provided by operations
+111,270
+125,329
+Cash flows from investing activities:
+Additions to construction in progress
+( 40,684
+)
+( 90,492
+)
+Payments received on notes receivable
+11,604
+9,706
+Net cash flows (used in) investing activities
+( 29,080
+)
+( 80,786
+)
+Cash flows from financing activities:
+Principal payments on notes payable
+( 150,000
+)
+-
+Net cash flows (used in) financing activities
+( 150,000
+)
+-
+Net change in cash, cash equivalents, and restricted cash
+( 67,810
+)
+44,543
+Cash, cash equivalents, and restricted cash at beginning of period
+1,351,094
+706,369
+Cash, cash equivalents, and restricted cash at end of period
+$
+1,283,284
+$
+750,912
+Supplementary Disclosure of Cash Flow Information:
+Cash paid for interest
+$
+145,602
+$
+124,386
+See accompanying notes to unaudited consolidated financial statements.
+6
+AMERICANN, INC.
+NOTES TO UNAUDITED   CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1. NATURE OF BUSINESS AND BASIS OF PRESENTATION
+AmeriCann, Inc. ("the Company", “we”, “our” or "the Issuer") was organized under the laws of the State of Delaware on June 25, 2010. The Company changed its corporate domicile to Colorado in 2022.
+The Company designs, develops, leases and plans to operate state-of-the-art cannabis cultivation, processing and manufacturing facilities.
+The Company's activities are subject to significant risks and uncertainties including the potential failure to secure funding to continue its operations.
+Basis of Presentation
+The (a) consolidated balance sheet as of September 30, 2022, which has been derived from audited financial statements, and (b) the unaudited financial statements as of and for the three months ended December 31, 2022 and 2021, have been prepared in accordance with accounting principles generally accepted in the United States of America and the rules of the Securities and Exchange Commission ("SEC"), and should be read in conjunction with the audited financial statements and notes thereto contained in the Company's Form 10-K filed with the SEC on December 29, 2022. In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation of financial position and the results of operations for the interim periods presented have been reflected herein. The results of operations for interim periods are not necessarily indicative of the results to be expected for future quarters or for the full year. Notes to the financial statements which substantially duplicate the disclosure contained in the audited financial statements for fiscal 2022 as reported in the Form 10-K have been omitted.
+Certain prior period amounts have been reclassified to conform with current period presentation. These reclassifications have no impact on net income or loss.
+Significant Accounting Policies
+Restricted Cash
+The following table provides a reconciliation of cash, cash equivalents and restricted cash reported within the consolidated balance sheets that sum to the total of the same such amounts in the consolidated statements of cash flows:
+December 31,
+2022
+September 30,
+2022
+Cash and cash equivalents
+$
+1,273,317
+$
+1,341,127
+Restricted cash
+9,967
+9,967
+Total cash, cash equivalents, and restricted cash shown in the cash flow statement
+$
+1,283,284
+$
+1,351,094
+Amounts included in restricted cash represent those required to be set aside by the Cannabis Control Commission in Massachusetts.
+7
+Property and Equipment, net
+Property and equipment are stated at cost. Depreciation of property and equipment begins in the month following the month when the asset is placed into service and is provided using the straight-line method for financial reporting purposes at rates based on the estimated useful lives of the assets. Estimated useful lives range from
+three
+to
+twenty
+years. Property and equipment consist of:
+December 31,
+2022
+September 30,
+2022
+Buildings and improvements
+$
+7,608,087
+$
+7,608,087
+Computer equipment
+349,576
+349,576
+Furniture and equipment
+2,764
+2,764
+Total
+7,960,427
+7,960,427
+Accumulated depreciation
+( 1,460,947
+)
+( 1,348,466
+)
+Property and equipment, net
+$
+6,499,480
+$
+6,611,961
+Depreciation expense for the three months ended December 31, 2022 and December 31, 2021 amounted to $ 112,481 .
+Leases
+Effective October 1, 2019, we adopted Topic 842, Lease Accounting using the effective date method. Under this method, periods prior to adoption remain unchanged. We determine if an arrangement is a lease at inception.
+Right-of-Use (ROU) assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. Variable lease payments are not included in the calculation of the right-of-use asset and lease liability due to uncertainty of the payment amount and are recorded as lease expense in the period incurred. As most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments. We use the implicit rate when readily determinable. Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term.
+Under the available practical expedient, we account for the lease and non-lease components as a single lease component for all classes of underlying assets as both a lessee and lessor. Further, we elected a short-term lease exception policy on all classes of underlying assets, permitting us to not apply the recognition requirements of this standard to short-term leases (i.e. leases with terms of 12 months or less).
+NOTE 2. GOING CONCERN
+The accompanying unaudited consolidated financial statements have been prepared assuming the Company will continue as a going concern, which contemplates, among other things, the realization of assets and satisfaction of liabilities in the normal course of business. The Company had an accumulated deficit of $ 19,735,944
+and $ 19,758,689
+at December 31, 2022 and September 30, 2022, respectively. These matters, among others, raise substantial doubt about the Company's ability to continue as a going concern. While the Company is attempting to increase operations and generate additional revenues, the Company's cash position may not be significant enough to support the Company's daily operations. Management may raise additional funds through the sale of its securities or borrowings from third parties.
+8
+Management believes that the actions presently being taken to further implement its business plan and generate additional revenues provide the opportunity for the Company to continue as a going concern. While the Company believes in the viability of its strategy to generate additional revenues and in its ability to raise additional funds, there can be no assurances to that effect. The ability of the Company to continue as a going concern is dependent upon the Company's ability to further implement its business plan and generate additional revenues. The consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+NOTE 3. NOTE RECEIVABLE
+Notes and other receivables as of December 31, 2022 and September 30, 2022, consisted of the following:
+December 31,
+2022
+September 30,
+2022
+Note receivable from BASK, interest rate of
+18.0 %; monthly principal and interest payments of $ 4,422 , maturing in 2023.
+31,581
+43,185
+Total
+31,581
+43,185
+NOTE 4.
+NOTES PAYABLE
+Unrelated
+On February 25, 2021, the Company borrowed $ 300,000
+from an unrelated party. The loan was unsecured, had an interest at a rate of
+11 % and was due and payable on August 2, 2021. This loan was fully paid in July 2021.
+On August 25, 2020, the Company borrowed $ 153,000
+from an unrelated party. The loan was unsecured, had an interest rate of
+10 % per year and was due and payable on August 25, 2021.  In February 2021, the Company paid off the loan principal balance of $ 153,000
+and paid a prepayment fee of $ 47,941 . The Company incurred debt issuance costs of $ 3,000
+which was recorded as a debt discount. Amortization expense related to the debt discount was $ 0  during the three months ended December 31, 2022 and December 31, 2021.
+On August 2, 2019 the Company secured a $ 4,000,000
+investment from an unrelated third party in the form of a loan. The loan was evidenced by a note which bore interest at the rate of
+11 % per year, was due and payable on August 2, 2022 and was secured by a first lien on Building 1 at the Company’s Massachusetts Cannabis Center (“MCC”).
+The note holder also received a warrant which allows the holder to purchase
+600,000
+shares of the Company’s common stock at a price of $ 1.50
+per share. The warrant will expire on the earlier of (i) August 2, 2024 or (ii) twenty days after written notice to the holder that the daily Volume Weighted Average Price of the Company’s common stock was at least $ 4.00
+for twenty consecutive trading days and the average daily trading volume of the Company’s common stock during the twenty trading days was at least
+150,000
+shares.
+The broker for the loan received a cash commission of $ 320,000
+plus warrants to purchase
+48,000
+shares of the Company's common stock. The warrants are exercisable at a price of $ 1.50
+per share and expire on August 2, 2024. The cash commission and the fair value of the warrants amounting to $ 52,392
+were recognized as a discount to the note.
+The Company allocated the proceeds between the note and the warrants based on their relative fair values. The relative fair value of the
+600,000
+warrants was $ 562,762
+which was recognized as additional paid in capital and a corresponding debt discount.
+9
+On December 4, 2020, the loan was modified and increased by $ 500,000 . The maturity date of the loan was extended to August 1, 2023. All other provisions of the original loan remain the same. The debt modification was deemed not substantial and was accounted for as a debt modification. The broker for the loan received a cash commission of $ 40,000
+which was expensed when incurred.
+At December 31, 2022, the outstanding principal on this note was $ 4,500,000
+and the unamortized debt discount was $ 113,647 . All debt discounts are being amortized on a straight-line basis over the term of the modified note. Amortization expense related to the debt discounts was $ 48,706
+and $ 25,976
+for the three months ended December 31, 2022 and 2021, respectively.
+The modified note is secured by a first lien on Building 1 at the Company’s Massachusetts Cannabis Center (“MCC”).
+February
+2018
+Convertible Note Offering
+On February 12, 2018, the Company sold convertible notes in the principal amount of $ 810,000
+to a group of accredited investors.  The notes were unsecured and bore interest at
+8 % per year.  On October 12, 2020, this remaining note was extended to mature on December 31, 2021. On December 15, 2021, the remaining note of $ 150,000
+was extended to mature on December 31, 2022. On October 5, 2022, the Company paid $159,140 to fully repay the $150,000 note including $9,140 of interest. At December 31, 2022 and September 30, 2022, the outstanding principal on this note was $0 and $150,000, respectively.
+Related Party
+SCP.
+On September 30, 2019, we entered into an amended note with Strategic Capital Partners, LLC (“SCP”), in the principal amount of $ 1,756,646 , bearing interest of
+9 % per year and maturing on December 31, 2022. During the year ended September 30, 2022, the maturity of the note was extended to December 31, 2023.
+Accrued interest on the note was $ 4,446
+and $ 4,303
+at December 31, 2022 and September 31, 2022, respectively.
+At December 31, 2022 and September 30, 2022, the outstanding principal on this note was $ 581,646 .
+During the year ended September 30, 2022, the Company also incurred $ 180,000
+of consulting expenses with SCP and paid $ 195,000 . As of September 30, 2022, $ 82,500
+remained unpaid. During the three months ended December 31, 2022, the Company incurred $ 45,000
+of consulting expenses with SCP and paid $ 127,500 . As of December 31, 2022, $ 0
+remains outstanding.
+NOTE 5. TENANT RECEIVABLE
+BASK (formerly Coastal Compassion, Inc).  On April 7, 2016, we signed agreements with BASK. BASK is one of a limited number of organizations that has received a provisional or final registration to cultivate, process and sell medical and adult use cannabis by the Massachusetts Cannabis Control Commission.
+Pursuant to the agreements, we agreed to provide BASK with financing for construction and working capital required for BASK’s approved dispensary and cultivation center in Fairhaven, MA.
+On August 15, 2018, the Company combined the construction and working capital advances of $ 129,634
+and accrued interest of $ 44,517
+into a new loan with payments over
+5
+years with
+18 % interest. At December 31, 2022 and September 30, 2022, the outstanding balance on the note receivable was $ 31,581
+and $ 43,185 , respectively.
+On July 26, 2019, the Company entered into a
+15 -Year Triple Net lease of Building 1 of the MCC with BASK. The lease commenced on September 1, 2019 and includes an annual base rent of $ 135,000
+and a revenue participation fee equivalent to
+15 % of BASK's gross revenues. The BASK tenant receivable balance was $ 242,550
+and $ 251,462
+as of December 31, 2022 and September 30, 2022, respectively.
+Tim Keogh, our Chief Executive Officer, was a Board Member of BASK between August 2013 and November 2021.
+10
+NOTE 6. INCOME/LOSS PER SHARE
+The following table sets forth the computation of basic and diluted net income (loss) per share:
+Three months ended
+December 31,
+2022
+2021
+Net income (loss) attributable to common stockholders
+$
+22,745
+$
+( 533,028
+)
+Basic weighted average outstanding shares of common stock
+24,391,961
+24,219,703
+Dilutive effects of common share equivalents
+-
+-
+Dilutive weighted average outstanding shares of common stock
+24,391,961
+24,219,703
+Basic and diluted net income (loss) per share of common stock
+$
+0.00
+$
+( 0.02
+)
+As of December 31, 2022 we excluded
+1,700,000
+of stock options,
+2,211,650
+of warrants and
+100,000
+shares that would be issued from conversion of outstanding convertible notes from the computation of diluted net income (loss) per share since the intrinsic value of these instruments was zero with the effect being anti-dilutive.
+As of December 31, 2021 we excluded
+1,700,000
+of stock options,
+7,666,650
+of warrants and
+100,000
+shares that would be issued from conversion of outstanding convertible notes from the computation of diluted net income (loss) per share since the intrinsic value of these instruments was zero with the effect being anti-dilutive.
+NOTE 7.
+COMMITMENTS AND CONTINGENCIES
+Operating Leases
+Land
+On October 17, 2016, the Company closed the acquisition of the
+52.6 -acre parcel of undeveloped land in Freetown, Massachusetts. The property is located approximately 47 miles southeast of Boston. The Company is developing the property as the Massachusetts Medical Center (“MCC”). Plans for the property may include the construction of sustainable greenhouse cultivation and processing facilities that will be leased or sold to Registered Marijuana Dispensaries under the Massachusetts Medical Marijuana Program.
+As part of a simultaneous transaction, the Company assigned the property rights to Massachusetts Medical Properties (“MMP”) for a nominal fee and entered a lease agreement pursuant to which MMP agreed to lease the property to the Company for an initial term of fifty ( 50 ) years. The Company has the option to extend the term of the lease for four ( 4 ) additional ten ( 10 ) year periods. The lease is a triple net lease, with the Company paying all real estate taxes, repairs, maintenance and insurance.
+The lease payments will be the greater of (a) $ 30,000
+per month; (b) $ 0.38
+per square foot per month of any structure built on the property; or (c)
+1.5 % of all gross monthly sales of products sold by the Company, any assignee of the Company, or any subtenant of the Company. The lease payments will be adjusted up (but not down) every five ( 5 ) years by any increase in the Consumer Price Index.
+Effective October 1, 2019, the Company adopted Topic 842 and recorded ROU assets and lease liabilities of $ 6,980,957
+and $ 4,256,869 , respectively. As part of the adoption, the prepaid land lease balance of $ 2,724,088
+was classified as a component of the Company’s ROU assets.
+The Company completed the construction of Building I on the leased land and on September 1, 2019, BASK, commenced its
+15 -year sublease of Building I which includes an annual base rent of $ 138,762
+plus
+15 % of BASK’s gross revenues from products produced at the MCC. This sublease income is recorded as Rental income on the Company’s consolidated statements of operations.
+As of December 31, 2022, the Company’s right-of-use assets were $ 6,760,857 , the Company’s current maturities of operating lease liabilities were $ 11,507
+and the Company’s noncurrent lease liabilities were $ 4,213,633 . During the three months ended December 31, 2022, the Company had operating cash flows from operating leases of $ 98,354 .
+11
+The table below presents lease related terms and discount rates as of December 31, 2022.
+As of December
+31, 2022
+Weighted average remaining lease term
+Operating leases
+43.75
+Weighted average discount rate
+Operating leases
+7.9
+%
+The reconciliation of the maturities of the operating leases to the lease liabilities recorded in the Consolidated Balance Sheet as of December 31, 2022 are as follows:
+2023
+256,123
+2024
+341,500
+2025
+341,500
+2026
+341,500
+2027
+341,500
+Thereafter
+13,318,505
+Total lease payments
+14,940,628
+Less: Interest
+( 10,715,488
+)
+$
+4,225,140
+Less: operating lease liability, current portion
+( 11,507
+)
+Operating lease liability, long term
+$
+4,213,633
+Office space
+The Company leases its office space located at 1555 Blake St., Unit 502, Denver, CO 80202 for $ 2,500
+per month with a lease term of less than 12 months.
+Lease expense for office space was $ 7,500
+for the three months ended December 31, 2022 and 2021.
+Aggregate rental expense under all leases totaled $ 120,344
+and $ 114,218
+for the three months ended December 31, 2022 and 2021, respectively.
+12
+NOTE 8.
+STOCKHOLDERS ’
+EQUITY
+Common Stock.
+There was no common stock activity during the three months ended December 31, 2022. During the three months ended December 31, 2021, the Company issued
+195,651
+shares of stock for services valued $ 90,000 .
+Stock Options .
+There was no stock option activity during the three months ended December 31, 2022. In December 2021, the Company extended the expiration date of some stock options and recorded an additional stock option-based compensation expense of $ 119,346
+based on the fair value established using the Black Scholes option pricing model.
+Stock option details are as follows:
+Weighted
+Weighted
+Average
+Average
+Contractual
+Aggregate
+Number of
+Exercise
+Term
+Intrinsic
+Shares
+Price
+(Years)
+Value
+Exercisable at September 30, 2022
+1,700,000
+$
+1.94
+3.5
+$
+-
+Outstanding as of December 31, 2022
+1,700,000
+$
+1.94
+4.2
+$
+-
+Vested and expected to vest at December 31, 2022
+1,700,000
+$
+1.94
+4.2
+$
+-
+Exercisable at December 31, 2022
+1,700,000
+$
+1.94
+4.2
+$
+-
+Stock option-based compensation expense associated with stock options was $ 0
+and $ 119,346
+for the three months ended December 31, 2022 and 2021, respectively.
+Warrants.  Warrant activity as of and for the three months ended December 31, 2022 is as follows:
+Weighted
+Weighted
+Average
+Average
+Contractual
+Aggregate
+Number of
+Exercise
+Term
+Intrinsic
+Shares
+Price
+(Years)
+Value
+Outstanding as of September 30, 2022
+4,026,650
+1.21
+0.80
+$
+-
+Expired
+( 1,815,000
+)
+1.50
+Outstanding as of December 31, 2022
+2,211,650
+1.32
+2.10
+$
+-
+Exercisable at December 31, 2022
+2,211,650
+1.32
+2.10
+$
+-
+NOTE 9. INCOME TAXES
+We did
+not
+record any income tax expense or benefit for the three months ended December 31, 2022 or 2021. We increased our valuation allowance and reduced our net deferred tax assets to zero. Our assessment of the realization of our deferred tax assets has not changed, and as a result we continue to maintain a full valuation allowance for our net deferred assets as of December 31, 2022 and September 30, 2022.
+As of December 31, 2022, we did not have any unrecognized tax benefits. There were no significant changes to the calculation since September 30, 2022.
+13
+ITEM 2. MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited financial statements and related notes included in this Quarterly Report on Form 10-Q and the audited financial statements and notes thereto as of and for the year ended September 30, 2022 and the related Management ’ s Discussion and Analysis of Financial Condition and Results of Operations, both of which are contained in our Annual Report on Form 10-K
+Forward-Looking Statements
+The information in this discussion contains forward-looking statements and information within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, ( “ the Exchange Act ” ), which are subject to the
+“ safe harbor ”
+created by those sections. The words
+“ anticipates, ”
+“ believes, ”
+“ estimates, ”
+“ expects, ”
+“ intends, ”
+“ may, ”
+“ plans, ”
+“ projects, ”
+“ will, ”
+“ should, ”
+“ could, ”
+“ predicts, ”
+“ potential, ”
+“ continue, ”
+“ would ”
+and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements that we make. The forward-looking statements are applicable only as of the date on which they are made, and we do not assume any obligation to update any forward-looking statements. All forward-looking statements in this Form 10-Q are made based on our current expectations, forecasts, estimates and assumptions, and involve risks, uncertainties and other factors that could cause results or events to differ materially from those expressed in the forward-looking statements. In evaluating these statements, you should specifically consider various factors, uncertainties and risks that could affect our future results or operations. These factors, uncertainties and risks may cause our actual results to differ materially from any forward-looking statement set forth in this Form 10-Q. You should carefully consider these risk and uncertainties described and other information contained in the reports we file with or furnish to the SEC before making any investment decision with respect to our securities. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by this cautionary statement.
+OVERVIEW
+AmeriCann designs, develops, leases and plans to operate state-of-the-art cannabis cultivation, processing and manufacturing facilities. AmeriCann’s team includes board members, consultants, engineers and architects who specialize in real estate development, traditional horticulture, lean manufacturing, medical research, facility construction, regulatory compliance, security, marijuana cultivation and genetics, extraction processes, and infused product development.
+AmeriCann’s flagship project is the Massachusetts Cannabis Center. The Massachusetts Cannabis Center (“MCC”) is being developed on a 52-acre parcel located in Southeastern Massachusetts. AmeriCann’s MCC project is permitted for 987,000 sq. ft. of cannabis cultivation and processing infrastructure which is being developed in phases to support both the existing medical cannabis and the newly emerging adult-use cannabis marketplace.
+The first phase of the million square foot project, Building 1, a 30,000 square foot cultivation and processing facility, is fully-operational and is currently 100% leased by a vertically-integrated Massachusetts cannabis company. AmeriCann generates revenue through lease arrangements with the operators that includes base rent and royalty payments of 15% of gross revenue generated from products produced at the MCC.
+The increase in Operating Revenue for the quarter ending December 31, 2022 is the result of increased cultivation yields and increases in the production and sale of manufactured goods from the Massachusetts Cannabis Center.
+A summary of operational highlights included the following:
+●
+AmeriCann’s operating revenue for the quarter ended December 31, 2022, increased approximately 13% from the quarter ended December 31, 2021.
+●
+In addition to increased cultivation productivity in the state-of-the-art greenhouse, the manufacturing of cannabis-infused products has increased dramatically in Building 1.
+●
+Manufactured infused products produced at Building 1 have achieved success as some of the bestselling cannabis brands in Massachusetts in their respective categories.
+●
+For the first 10 months of 2022, the revenue from the Massachusetts cannabis market was $1.46 billion, which was 9.7% greater than the first 10 months of 2021. The annualized revenue estimate based on the first 10 months of 2022 is approximately $1.75 billion. Experts believe the market will exceed $1.8 billion annually.
+●
+The Massachusetts cannabis market has exceeded $4 billion in sales since the inception of the Commonwealth’s regulated cannabis program.
+14
+AmeriCann, through a 100% owned subsidiary, AmeriCann Brands, Inc., has received two licenses from the Massachusetts Cannabis Control Commission to cultivate cannabis and provide extraction and product manufacturing support to the entire MCC project, as well as to other licensed cannabis farmers throughout regulated markets. AmeriCann Brands plans to operate in Building 2 at the MCC which is in the final design process. In addition to large-scale extraction of cannabis plant material, AmeriCann Brands plans to produce branded consumer packaged goods including cannabis beverages, vaporizer products, edible products, non-edible products and concentrates at the state-of-the-art facility.
+AmeriCann plans to replicate the brands, technology and innovations developed at its MCC project to additional markets.
+COVID-19 Pandemic
+The Company believes that the COVID- 19 pandemic has had certain impacts on its business, but management does not believe there has been a material long-term impact from the effects of the pandemic on the Company’s business and operations, results of operations, financial condition, cash flows, liquidity or capital and financial resources.
+The Company has established policies to monitor the pandemic and has taken a number of actions to protect its employees, including restricting travel, encouraging quarantine and isolation when warranted, and directing most of its employees to work from home.
+SIGNIFICANT ACCOUNTING POLICIES
+Leases
+Effective October 1, 2019, we adopted ASC 842, Lease Accounting using the effective date method. We determine if an arrangement is a lease at inception.
+15
+Right-of-Use (ROU) assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. Variable lease payments are not included in the calculation of the right-of-use asset and lease liability due to uncertainty of the payment amount and are recorded as lease expense in the period incurred. As most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments. We use the implicit rate when readily determinable. Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term.
+Under the available practical expedient, we account for the lease and non-lease components as a single lease component for all classes of underlying assets as both a lessee and lessor. Further, we elected a short-term lease exception policy on all classes of underlying assets, permitting us to not apply the recognition requirements of this standard to short-term leases (i.e. leases with terms of 12 months or less).
+RESULTS OF OPERATIONS
+Total Revenues
+During the three months ended December 31, 2022 and 2021, we generated $734,766 and $650,945 in revenue, respectively. The increase in revenues is due to higher rental revenue and participation fee revenues as a result of increased cultivation yields and increases in the production and sale of manufactured goods from the Massachusetts Cannabis Center.
+Advertising and Marketing Expenses
+Advertising and marketing expenses were $1,418 and $12,967 for the three months ended December 31, 2022 and 2021, respectively. The decrease is due to lower social media and marketing expenses in 2022.
+Professional Fees
+Professional fees were $120,513 and $125,059 for the three months ended December 31, 2022 and 2021, respectively. The decrease is primarily due to a decrease in legal fees.
+General and Administrative Expenses
+General and administrative expenses were $391,306 and $870,088 for the three months ended December 31, 2022 and 2021, respectively. The decrease is primarily due to stock option compensation expense in 2021 resulting from an extension of stock options and a warrants revaluation expense.
+Interest Income
+Interest income was $1,663 and $3,561 for the three months ended December 31, 2022 and 2021, respectively.  The decrease is a result of a decline in the principal balance of the BASK note receivable.
+Interest Expense
+Interest expense was $186,832 and $167,970 for the three months ended December 31, 2022 and 2021, respectively. The increase is primarily attributable to amortization of debt discounts.
+Net Operating Income/Loss
+We had a net income of $22,745 and a net loss of $(533,028) for the three months ended December 31, 2022 and 2021, respectively. The increase in net income is primarily due to higher revenues and lower general and administrative expense.
+16
+LIQUIDITY AND CAPITAL RESOURCES
+The accompanying unaudited consolidated financial statements have been prepared assuming the Company will continue as a going concern, which contemplates, among other things, the realization of assets and satisfaction of liabilities in the normal course of business. The Company had an accumulated deficit of $19,735,944 and $19,758,689 at December 31, 2022 and September 30, 2022, respectively.
+The Company is continuing to support the optimization of operations and generate additional revenues from its Massachusetts Cannabis Center (MCC).  The Company's cash position and quarterly revenue is currently significant enough to support the Company's daily operations. The Company is not obligated to raise additional funds for the expansion of the MCC.  When Management determines expansion opportunities exist the Company may finance construction with cash from operations, a sale-lease-back, refinancing and expand existing debt, issuance of new debt, or sales of equity.
+Management believes that the actions presently being taken to further implement its business plan and generate additional revenues provide the opportunity for the Company to continue as a going concern. While the Company believes in the viability of its strategy to generate additional revenues and in its ability to raise additional funds, there can be no assurances to that effect. The ability of the Company to continue as a going concern is dependent upon the Company's ability to further implement its business plan and generate additional revenues. The consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+Notes Payable
+See Notes 4 of the unaudited consolidated financial statements filed with this report for information concerning our notes payable.
+Analysis of Cash Flows
+During the three months ended December 31, 2022, our net cash flows provided by operations were $111,270 as compared to net cash flows used in operations of $125,329 for the three months ended December 31, 2021. The decrease is primarily due to an increase in our net income during the three months ended December 31, 2022 offset by timing of working capital payments, and stock -based compensation expense during the three months ended December 31, 2021.
+Cash flows (used by) investing activities were $(29,080) and $(80,786) for the three months ended December 31, 2022 and 2021, respectively, consisting of payments received on notes receivable offset by additions to construction in progress.
+Cash flows (used by) financing activities were $(150,000) and $0 for the three months ended December 31, 2022 and 2021, respectively, consisting of payments on a note payable in 2022.
+17
+We do not have any firm commitments from any person to provide us with any additional capital.
+OFF-BALANCE SHEET ARRANGEMENTS
+As of December 31, 2022, we did not have any off-balance sheet arrangements.
+ITEM 4. CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our President and Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934), as of the end of the period covered by this Quarterly Report on Form 10-Q.  Based on such evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were not effective for the same reasons that our internal control over financial reporting was not effective.
+Internal Control over Financial Reporting
+As indicated in our Form 10-K filed on December 29, 2022, our Principal Executive Officer and Principal Financial Officer concluded that our internal control over financial reporting was not effective as of September 30, 2022 at the reasonable assurance level, as a result of a material weaknesses primarily related to a lack of a sufficient number of personnel with appropriate training and experience in accounting principles generally accepted in the United States of America, or GAAP, limited or no segregation of duties, and lack of independent directors.
+We are currently in the process of evaluating the steps necessary to remediate these material weaknesses.
+Change in Internal Control over Financial Reporting
+There was no change in our internal control over financial reporting that occurred during the quarterly period ended December 31, 2022 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+We believe that a control system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the control system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within any company have been detected.
+18
+PART II OTHER INFORMATION
+ITEM 6. EXHIBITS
+Exhibit
+Number
+Description of Document
+31.1
+Certification of Principal Executive Officer pursuant to Rule   13a-14(a)   or Rule   15d-14(a)   of the Securities Exchange Act of 1934, (filed herewith)
+31.2
+Certification of Principal Financial Officer pursuant to Rule   13a-14(a)   or Rule   15d-14(a)   of the Securities Exchange Act of 1934, (filed herewith)
+32
+Certifications of Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section   1350, as adopted pursuant to Section   906 of the Sarbanes-Oxley Act of 2002 (furnished herewith)
+101.INS
+Inline XBRL Instance Document.
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+19
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+AMERICANN, INC.
+Dated: February 14, 2023
+By:
+/s/ Timothy Keogh
+Timothy Keogh
+Principal Executive Officer
+By:
+/s/ Benjamin Barton
+Benjamin Barton
+Principal Financial and Accounting Officer
+20

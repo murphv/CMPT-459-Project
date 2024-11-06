@@ -1,0 +1,1774 @@
+FORM 10-Q
+[X]
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended December 31, 2022
+OR
+[ ]
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number: 000-56006
+GALAXY NEXT GENERATION, INC.
+(Exact Name of Registrant as Specified in Its Charter)
+Nevada
+61-1363026
+(State of Incorporation)
+(IRS Employer Identification No.)
+285 N Big A Road Toccoa, Georgia
+30577
+(Address of Principal Executive Offices)
+(Zip Code)
+(706) 391-5030
+(Registrant's telephone number, including area code)
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: (None)
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which
+registered
+N/A
+N/A
+N/A
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [ ]
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes[X] No[ ]
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer [ ]
+Non-accelerated filer   [X ]
+Accelerated filer   [  ]
+Smaller reporting company [X]
+Emerging growth company [  ]
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+Indicate by check mark whether the registrant is a shell Company (as defined in Rule 12b-2 of the Act). Yes [ ] No [X]
+The number of shares outstanding of the issuer's Common Stock, as of February 13, 2023 was 69,872,693.
+-i-
+FORM 10-Q
+Table of Contents
+Page
+PART I. Financial Information
+Item 1.
+Unaudited Condensed Consolidated Financial Statements and Footnotes
+2
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+25
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+30
+Item 4.
+Controls and Procedures
+30
+PART II. Other Information
+Item 1.
+Legal Proceedings
+31
+Item 1A.
+Risk Factors
+31
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+33
+Item 3.
+Defaults Upon Senior Securities
+34
+Item 4.
+Mine Safety Disclosures
+34
+Item 5.
+Other Information
+34
+Item 6.
+Exhibits
+35
+Signatures
+35
+The accompanying unaudited interim condensed consolidated financial statements included herein, have been prepared by Galaxy Next Generation, Inc. (the "Company") pursuant to the rules and regulations of the Securities and Exchange Commission ("SEC"). Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted pursuant to such rules and regulations. These condensed consolidated statements have been prepared in accordance with the Company's accounting policies described in the Company's Annual Report on Form 10-K for the year ended June 30, 2022 and should be read in conjunction with the audited consolidated financial statements and the notes thereto included in that report. Unless the context indicates otherwise, references to the "Company," "we, " "us," "our" or "Galaxy" means Galaxy Next Generation, Inc. and its subsidiaries.
+-1-
+PART I – FINANCIAL INFORMATION
+ITEM 1. UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS AND FOOTNOTES
+The following unaudited condensed consolidated financial statements are included herein:
+Condensed Consolidated Balance Sheets as of December 31, 2022 (unaudited) and June 30, 2022 (audited)
+3
+Condensed Consolidated Statements of Operations for the Three and Six Months Ended December 31, 2022 and 2021 (unaudited)
+4
+Condensed Consolidated Statement of Changes in Stockholders' Deficit for the Six Months Ended December 31, 2022 and 2021(unaudited)
+5-6
+Condensed Consolidated Statements of Cash Flows for the Six Months Ended December 31, 2022 and 2021 (unaudited)
+7-8
+Notes to the Condensed Consolidated Financial Statements (unaudited)
+9-24
+-2-
+GALAXY NEXT GENERATION, INC.
+Condensed Consolidated Balance Sheets
+December 31, 2022
+June 30, 2022
+Assets
+(Unaudited)
+(Audited)
+Current Assets
+Cash
+$                   21,360
+$              300,899
+Accounts receivable, net
+891,543
+452,643
+Inventories, net
+1,218,926
+1,002,108
+Other current assets
+3,950
+3,950
+Total Current Assets
+2,135,779
+1,759,600
+Property and Equipment, net  (Note 2)
+328,685
+348,869
+Intangibles, net  (Note 1)
+1,311,037
+1,443,191
+Goodwill
+(Note 1)
+834,220
+834,220
+Operating right of use asset  (Note 7)
+149,891
+179,512
+Total Assets
+$         4,759,612
+$           4,565,392
+Liabilities and Stockholders' Deficit
+Current Liabilities
+Line of credit (Note 3)
+$           352,285
+$                         -
+Derivative liability, convertible debt features (Note 5)
+73,742
+-
+Current portion long term notes payable (Note 4)
+3,567,891
+2,815,231
+Accounts payable
+985,773
+737,948
+Accrued expenses
+1,515,841
+993,371
+Deferred revenue
+627,560
+175,436
+Short term portion of related party notes and payables (Note 6)
+1,434,655
+1,238,755
+Total Current Liabilities
+8,557,747
+5,960,741
+Noncurrent Liabilities
+Related party notes payable, less current portion (Note 6)
+1,171,990
+586,862
+Notes payable, less current portion (Note 4)
+-
+248,978
+Total Liabilities
+9,729,737
+6,796,581
+Stockholders' Deficit
+Common stock
+324,939
+321,134
+Preferred stock – Series G, non-redeemable
+-
+-
+Preferred stock - Series F, subject to redemption
+10
+11
+Additional paid-in-capital
+53,367,077
+51,629,750
+Accumulated deficit
+(58,662,151)
+(54,182,084)
+Total Stockholders' Deficit
+(4,970,125)
+(2,231,189)
+Total Liabilities and Stockholders' Deficit
+$           4,759,612
+$           4,565,392
+See accompanying notes to the condensed consolidated financial statements (unaudited).
+-3-
+GALAXY NEXT GENERATION, INC.
+Condensed Consolidated Statements of Operations (Unaudited)
+For the Three Months
+For the Six Months
+Ended December 31,
+Ended December 31,
+2022
+2021
+2022
+2021
+Revenues
+$   429,031
+$    904,055
+$  1,048,084
+$2,588,826
+Cost of Sales
+330,016
+848,099
+601,501
+1,866,862
+Gross Profit
+99,015
+55,956
+446,583
+721,964
+General and Administrative Expenses
+Stock compensation and stock issued for services
+50,000
+-
+238,128
+32,750
+Impairment expense
+-
+46,869
+-
+46,869
+General and administrative
+1,511,292
+1,049,993
+2,943,271
+2,548,117
+Total General and Administrative Expenses
+1,561,292
+1,096,862
+3,181,399
+2,627,736
+Loss from Operations
+(1,462,277)
+(1,040,906)
+(2,734,816)
+(1,905,722)
+Other Income (Expense)
+Other income
+257
+5,878
+2,800
+5,878
+Expenses related to convertible notes payable:
+Change in fair value of derivative liability
+(73,742)
+834,000
+(73,742)
+1,842,000
+Interest accretion
+(114,843)
+(15,540)
+(236,113)
+(24,290)
+Interest expense related to Equity Purchase Agreement (Note 11)
+-
+(1,890,600)
+-
+(2,143,500)
+Interest expense
+(1,275,819)
+(354,852)
+(1,438,196)
+(622,363)
+Total Other Income (Expense)
+(1,464,147)
+(1,421,114)
+(1,745,251)
+(942,275)
+Net Loss before Income Taxes
+(2,926,424)
+(2,462,020)
+(4,480,067)
+(2,848,047)
+Income taxes (Note 9)
+-
+-
+-
+-
+Net Loss
+$ (2,926,424)
+$  (2,462,020)
+$(4,480,067)
+$(2,848,047)
+Net Basic and Fully Diluted Loss Per Share
+$      (0.1280)
+$       (0.2128)
+$     (0.1931)
+$     (0.1741)
+Weighted average common shares outstanding
+Basic
+22,862,319
+11,570,425
+23,196,125
+16,354,781
+Fully diluted
+25,592,753
+13,884,510
+25,862,429
+16,354,783
+See accompanying notes to the condensed consolidated financial statements (unaudited).
+-4-
+GALAXY NEXT GENERATION, INC.
+Consolidated Statement of Changes in Stockholders' Deficit
+Six Months Ended December 31, 2022
+(Unaudited)
+Total
+Common Stock
+Preferred Stock Series G
+Preferred Stock Series F
+Additional
+Accumulated
+Stockholders'
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Paid-in Capital
+Deficit
+Deficit
+Balance, July 1, 2022
+19,169,128
+$  321,134
+51
+$             -
+11,414
+$         11
+$51,629,750
+$(54,182,084)
+$  (2,231,189)
+Common stock issued for services
+3,070,922
+307
+-
+-
+-
+-
+237,821
+-
+238,128
+Commitment shares issued
+1,800,000
+180
+-
+-
+-
+-
+187,570
+-
+187,750
+Common stock issued for charitable donation
+350,000
+35
+-
+-
+-
+-
+52,465
+-
+52,500
+Common stock issued for debt reduction
+4,863,038
+486
+-
+-
+-
+-
+209,921
+-
+210,407
+Common stock issued to convert Preferred Stock Series F
+23,540,539
+2,354
+-
+-
+(8,710)
+(1)
+449,624
+-
+451,977
+Fair value of warrants issued
+-
+-
+-
+-
+-
+-
+492,434
+-
+492,434
+Return of common stock
+(36,500)
+-
+-
+-
+-
+-
+-
+-
+-
+Common stock issued under Equity Purchase Agreement
+4,429,130
+443
+-
+- -
+-    107,492
+-
+107,935
+Consolidated net loss
+-
+-
+-
+-
+-
+-
+-
+(4,480,067)
+(4,480,067)
+Balance, December 31, 2022
+57,186,257
+$   324,939
+51
+$           - 2,704
+$        10
+$53,367,077
+$58,662,151)
+$ (4,970,125)
+See accompanying notes to the condensed consolidated financial statements (unaudited).
+-5-
+GALAXY NEXT GENERATION, INC.
+Consolidated Statement of Changes in Stockholders' Deficit
+Six Months Ended December 31, 2021
+(Unaudited)
+Common Stock (1)
+Preferred Stock
+Class E
+Preferred Stock
+Class F   Additional
+Total
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Paid-in
+Capital   Accumulated
+Deficit   Stockholders'
+Deficit
+Balance, July 1, 2021
+15,699,414
+$280,744
+500,000
+$        50
+-
+$           -
+$ 46,215,049
+$ (47,931,128)
+$ (1,435,285)
+Common stock issued for services
+12,500
+250
+-
+-
+-
+- 32,500
+-
+32,750
+Common stock issued under Equity Purchase Agreement
+1,125,000
+22,500
+-
+-
+-
+- 2,121,000
+-
+2,143,500
+Preferred Series F issued in exchange for debt
+-
+-
+-
+-
+11,414
+11
+1,824,989
+- 1,825,000
+Retirement of Preferred Series E
+-
+-
+(500,000)
+(50)
+-
+-
+-
+-
+(50)
+Common stock cancelled
+(250,000)
+-
+-
+-
+-
+-
+-
+-
+-
+Commitment shares issued
+312,500
+6,250
+-
+-
+-
+-
+350,000
+-
+356,250
+Consolidated net loss
+-
+-
+-
+-
+-
+(2,848,047)
+(2,848,047)
+Balance, December 31, 2021
+16,899,414
+$309,744
+-
+$        -
+11,414
+$        11
+$ 50,543,538
+$ (50,779,175)
+$  74,118
+(1)    All share amounts, including those in the accompanying notes, have been adjusted to reflect a 1:200 reverse split effective March 7, 2022.
+See accompanying notes to the condensed consolidated financial statements (unaudited).
+-6-
+GALAXY NEXT GENERATION, INC.
+Consolidated Statements of Cash Flows
+(Unaudited)
+Six Months Ended December 31,
+2022
+2021
+Cash Flows from Operating Activities
+Net loss
+$       (4,480,067)
+$        (2,848,047)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization
+360,583
+241,785
+Amortization of debt discounts
+236,112
+24,290
+Impairment expense
+-
+46,869
+Change in fair value of derivative liability
+73,742
+(3,273,253)
+Fair value of warrants
+492,434
+-
+Stock issued under Equity Purchase Agreement
+107,935
+2,166,000
+Stock issued for services and donated
+478,378
+32,961
+Preferred Series F stock exchanged for common stock
+(1)
+-
+Stock issued to reduce debt and interest
+143,664
+-
+Changes in assets and liabilities:
+Accounts receivable
+(438,900)
+560,281
+Inventories
+(216,818)
+1,887,814
+Right of use assets
+29,621
+(14,285)
+Accounts payable
+247,825
+(196,376)
+Accrued expenses
+522,470
+376,126
+Deferred revenue
+452,124
+(316,511)
+Net cash used in operating activities
+(1,990,898)
+(1,312,346)
+Cash Flows from Investing Activities
+Purchases of capitalized development costs
+(208,245)
+(221,430)
+Purchases of property and equipment
+-
+(194,326)
+Net cash used in investing activities
+(208,245)
+(415,756)
+Cash Flows from Financing Activities
+Proceeds from notes payable
+804,180
+1,075,000
+Principal payments on notes payable
+(268,226)
+(157,364)
+Proceeds (payments) on notes and advances from stockholders, net
+781,028
+(18,500)
+Proceeds (payments) on lines of credit, net
+352,622
+(991,598)
+Proceeds from sale of common stock under Equity Purchase Agreement
+250,000
+1,633,700
+Net cash provided by financing activities
+1,919,604
+1,541,238
+Net Decrease in Cash
+(279,539)
+(186,864)
+Cash, Beginning of Period
+300,899
+541,591
+Cash, End of Period
+$             21,360
+$             354,727
+-7-
+Supplemental and Non Cash Disclosures
+Legal fees netted from loan proceeds
+$             56,233
+$               25,000
+Cash paid for interest
+$           110,578
+$               51,401
+Stock issued to reduce notes payable
+$           210,407
+$                         -
+Interest on shares issued under Equity Purchase Agreement
+$                       -
+$          2,143,500
+Stock issued for services
+$           238,128
+$                         -
+Stock issued for commitment fees
+$           187,750
+$                32,750
+Property leased with financing lease
+$                      -
+$                97,253
+Change in fair value of derivatives
+$            73,742
+$           1,842,000
+Preferred stock issued in exchange for debt
+$                      -
+$           1,825,000
+Stock issued to convert Preferred Series F
+$          451,977
+$                          -
+See accompanying notes to the condensed consolidated financial statements (unaudited).
+-8-
+Note 1 – Summary of Significant Accounting Policies
+Corporate History, Nature of Business, Mergers and Acquisitions
+Galaxy Next Generation LTD CO. ("Galaxy CO") was organized in the state of Georgia in February 2017 while R&G Sales, Inc. ("R&G") was organized in the state of Georgia in August 2004. Galaxy CO merged with R&G ("common controlled merger") on March 16, 2018, with R&G becoming the surviving company. R&G subsequently changed its name to Galaxy Next Generation, Inc. ("Private Galaxy").
+FullCircle Registry, Inc., ("FLCR") is a holding company created for the purpose of acquiring small profitable businesses to provide exit plans for those company's owners. FLCR's subsidiary, FullCircle Entertainment, Inc. ("Entertainment" or "FLCE"), owned and operated Georgetown 14 Cinemas, a fourteen-theater movie complex located in Indianapolis, Indiana.
+On June 22, 2018, Private Galaxy consummated a reverse triangular merger whereby Private Galaxy merged with and into FLCR by the stockholders of Private Galaxy transferring all of the shares of stock of Private Galaxy into a newly formed subsidiary which was formed specifically for the transaction ("Private Galaxy MS") and the stockholders receiving shares of stock of FLCR. The merger resulted in Private Galaxy MS becoming a wholly-owned subsidiary of FLCR. For accounting purposes, the acquisition of Private Galaxy by FLCR is considered a reverse acquisition, an acquisition transaction where the acquired company, Private Galaxy, is considered the acquirer for accounting purposes, notwithstanding the form of the transaction. The primary reason the transaction is being treated as a purchase by Private Galaxy rather than a purchase by FLCR is that FLCR is a public reporting company, and Private Galaxy's stockholders gained majority control of the outstanding voting power of FLCR's equity securities. Consequently, the assets and liabilities and the operations that are reflected in the historical financial statements of the Company prior to the merger are those of Private Galaxy. The financial statements after the completion of the merger included the combined assets and liabilities of the combined company (collectively Private Galaxy, FLCR and FLCE).
+In recognition of Private Galaxy's merger with FLCR, several things occurred: (1) FLCR amended its articles of incorporation to change its name from FullCircle Registry, Inc. to Galaxy Next Generation, Inc.; (2) the Companychanged its fiscal year end to June 30, effective June 2018; (3) the Company's authorized shares of preferred stock were increased to 200,000,000 and authorized shares of common stock were increased to 4,000,000,000, (prior to the Reverse Stock Split) both with a par value of $0.0001; and (4) the Board of Directors and Executive Officers appointed Gary LeCroy, President and Director; Magen McGahee, Secretary and Director; and Carl Austin, Director; and (5) the primary business operated by the combined company became the business that was operated by Private Galaxy.
+On September 3, 2019, Galaxy acquired 100% of the stock of Interlock Concepts, Inc. ("Concepts") and Ehlert Solutions Group, Inc. ("Solutions"). The purchase price for the acquisition was 1,350,000 (6,750 post March 7, 2022 reverse stock split) shares of common stock and a two year note payable to the seller for $3,000,000. The note payable to the seller is subject to adjustment based on the achievement of certain future gross revenues and successful completion of certain pre-acquisition withholding tax issues of Concepts and Solutions.
+Solutions and Concepts are Utah-based audio design and manufacturing companies creating innovative products that provide fundamental tools for building notification systems primarily to K-12 education market customers located primarily in the north and northwest United States. Solutions and Concepts' products and services allow institutions access to intercom, scheduling, and notification systems with improved ease of use. The products provide an open architecture solution to customers which allows the products to be used in both existing and new environments. Intercom, public announcement (PA), bell and control solutions are easily added and integrated within the open architecture design and software model. These products combine elements over a common internet protocol (IP) network, which minimizes infrastructure requirements and reduces costs by combining systems.
+On October 15, 2020, Galaxy acquired the assets of Classroom Technologies Solutions, Inc. ("Classroom Tech") for consideration of (a) paying off a secured Classroom Tech loan, not to exceed the greater of 50% of the value of the Classroom Tech assets acquired or $120,000; (b) the issuance of a promissory note in the amount of $44,526 to a Classroom Tech designee; and (c) the issuance of 10 million (50,000 post March 7, 2022 reverse stock split) shares of common stock to the seller of Classroom Tech. Classroom Tech provides cutting-edge presentation products to schools, training facilities, churches, corporations and retail establishments. Their high-quality solutions are customized to meet a variety of needs and budgets in order to provide the best in education and presentation technology. Classroom Tech direct-sources and imports many devices and components which allows the Company to be innovative, nimble, and capable of delivering a broad range of cost-effective solutions. Classroom Tech also offers in-house service and repair facilities and carries many top brands.
+Galaxy is a manufacturer and U.S. distributor of interactive learning technologies and enhanced audio solutions. Galaxy is engaged in a full range of activities: marketing and sales, engineering and product design and development, manufacturing, and distributing. Galaxy develops both hardware and software that allows the presenter and participant to engage in a fully collaborative instructional environment. Galaxy also develops award winning classroom audio solutions, school public address (“PA”) and intercom products, and emergency communication applications creating a full line card offering for classrooms to its channel partners. Its product offerings include its own private-label interactive touch screen panel, its own intercom, bell, and paging solution, as well as an audio amplification line of products that is currently supported by both direct sales and through original equipment manufacturer (“OEM”) relationships. Its distribution channel consists of a direct sales model, as well as in excess of 40 resellers across the U.S. that primarily sell the products offered by us within the commercial and educational market. Galaxy does not control where the resellers focus their reselling efforts; however, the K-12 education market is the largest customer base for its products comprising nearly 90% of our sales. In addition, its OEM division manufactures products for other vendors in our industry and white labels the products under other brands.
+-9-
+The Entertainment segment was sold on February 6, 2019 in exchange for 193 (post March 7, 2022 reverse stock split) Galaxy common shares.
+Impact COVID-19 Aid, Relief and Economic Security Act
+The Cares Act allowed employers to defer the deposit and payment of the employer’s share of Social Security taxes from March 27, 2020 through December 31, 2021. The deferred deposits of the employer’s share of Social Security tax must be deposited 50% by December 31, 2021, and 50% by December 31, 2022. The Company’s remaining deferred deposits and current payments due amounted to approximately $868,482 and $490,790 at December 31, 2022 and June 30, 2022, respectively.
+During the three and six months ended December 31, 2022 and 2021, the Company applied for Employee Retention Credits and has recognized approximately $0 and $40,000 as a reduction to operating expenses in the consolidated statements of operations.
+The Covid-19 pandemic that began in early 2020 caused shelter-in-place policies, unexpected factory closures, supply chain disruptions, and market volatilities across the globe. As a result of the economic disruptions and unprecedented market volatilities and uncertainties driven by the Covid-19 outbreak, the Company experienced some supply chain disruptions. The Company continues to experience supply chain disruption resulting in a decrease in revenue and increases in deferred revenue.
+The full impact of the Covid-19 outbreak continues to evolve as of the date of this report. The depth and duration of the pandemic remains unknown. Despite the availability of vaccines, recent surges in the infection rate and the detection of new variants of the virus have reinforced the general consensus that the containment of Covid-19 remains a challenge. Management is actively monitoring the global situation and its effect on its financial condition, liquidity, operations, suppliers, industry, and workforce.
+Basis of Presentation and Principles of Consolidation
+The accompanying consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America. Any reference in these footnotes to applicable guidance is meant to refer to the authoritative U.S. generally accepted accounting principles ("GAAP") as found in the Accounting Standards Codification ("ASC") and Accounting Standards Update ("ASU") of the Financial Accounting Standards Board ("FASB").
+The financial statements include the consolidated assets and liabilities of the combined company (collectively
+Galaxy Next Generation, Inc., Interlock Concepts, Inc. ("Interlock")., Ehlert Solutions Group, Inc. ("Solutions"), and Classroom Technologies Solutions,Inc., referred to collectively as the "Company").
+All intercompany transactions and accounts have been eliminated in the consolidation.
+The Company is an over-the-counter public company traded under the stock symbol listing GAXY (formerly FLCR).
+Use of Estimates
+The preparation of consolidated financial statements in accordance with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Significant estimates used in preparing the consolidated financial statements include those assumed in computing valuation of goodwill and intangible assets, valuation of convertible notes payable and warrants, and the valuation of deferred tax assets. It is reasonably possible that the significant estimates used will change within the next year.
+Reverse Stock Split
+Unless otherwise noted, all share and per share data referenced in the consolidated financial statements and the notes thereto have been retroactively adjusted to reflect the one-for-two hundred reverse stock split effective March 7, 2022 of our authorized and outstanding shares of common stock. As a result of the reverse stock split, certain amounts in the consolidated financial statements and the notes thereto may be slightly different than previously reported due to rounding of fractional shares, and adjustment for the reverse split.
+-10-
+Capital Structure
+The Company's capital structure is as follows:
+December 31, 2022
+Authorized
+Issued
+Outstanding
+Common stock
+200,000,000
+57,186,257
+57,186,064
+$.0001 par value, one vote per share
+Preferred stock-All Series
+200,000,000
+-
+-
+$.0001 par value
+Preferred stock - Series A
+750,000
+-
+-
+$.0001 par value; no voting rights
+Preferred stock - Series B
+1,000,000
+-
+-
+$.0001 par value, voting rights of 10 votes for 1 Series B share; 2% preferred dividend payable annually
+Preferred stock - Series C
+9,000,000
+-
+-
+$.0001 par value; 500 votes per share, convertible to common stock
+Preferred stock - Series F
+15,000
+2,704
+2,704
+$.0001 par value; no voting right, convertible to common at a fixed price of $0.37 per share, stated value is $1,000 per share
+Preferred stock - Series G
+51
+51
+51
+$.0001 par value; no dividend rights, voting rights with common stock as a single series, one share equals 1% of the total voting rights, not subject to splits
+-11-
+June 30, 2022
+Authorized
+Issued
+Outstanding
+Common stock
+20,000,000
+19,169,128
+19,168,935
+$.0001 par value, one vote per share
+Preferred stock - All Series
+200,000,000
+-
+-
+$.0001 par value
+Preferred stock - Series A
+750,000
+-
+-
+$.0001 par value; no voting rights
+Preferred stock - Series B
+1,000,000
+-
+-
+$.0001 par value, voting rights of 10 votes for 1 Series B share; 2% preferred dividend payable annually
+Preferred stock - Series C
+9,000,000
+-
+-
+$.0001 par value; 500 votes per share, convertible to common stock
+Preferred stock - Series F
+15,000
+11,414
+11,414
+$.0001 par value; no voting right, convertible to common at a fixed price of $0.37 per share, stated value is $1,000 per share
+Preferred stock - Series G
+51
+51
+51
+$.0001 par value; no dividend rights, voting rights with common stock as a single series, one share equals 1% of the total voting rights, not subject to splits
+Authorized common stock increased from 20,000,000 to 200,000,000 on August 31, 2022. There was a 1:200 reverse split of the authorized and outstanding shares of common stock that was effective on March 7, 2022.
+There is no publicly traded market for the preferred shares. The Preferred Series D and E were retired in December 2021. Preferred Series G were issued in June 2022, pursuant to Employment Agreements (Note 11).
+There are 139,786,708 common shares reserved at December 31, 2022 under terms of notes payable agreements, and the Stock Plan (see Notes 4, 6 and 12).
+There are 28,804,235 issued common shares that are restricted as of December 31, 2022. The shares will become free-trading upon satisfaction of certain terms within the debt agreements or within free trading rules related to SEC Rule 144 six month hold.
+Authorized common stock increased from 200,000,000 to 3,000,000,000 on January 31, 2023 following approval of the holders of a majority of the Company’s voting power.
+Supplier Agreement
+Contract assets and contract liabilities are as follows:
+December 31, 2022
+June 30, 2022
+Contract assets
+$           55,125
+$          55,125
+Contract liabilities
+-
+-
+For the three months ended December 31, 2022 and 2021, the Company recognized $0 and $219,309 of revenues related to supplier agreements. For the six months ended December 31, 2022 and 2021 the Company recognized $0 and $637,746 of revenues related to supplier agreements.
+-12-
+Accounts Receivable
+Management deemed no allowance for doubtful accounts was necessary at December 31, 2022 and June 30, 2022. At December 31, 2022 and June 30, 2022, $627,560 and $175,436 of total accounts receivable were considered unbilled and recorded as deferred revenue.
+Inventories
+Management estimates $116,362 and $116,362 of inventory reserves at December 31, 2022 and June 30, 2022, respectively.
+Goodwill, Intangible Assets and Product Development Costs
+Goodwill, intangible assets, and product development costs are comprised of the following at December 31, 2022:
+Cost
+Accumulated Amortization
+Net Book
+Value
+Total
+Goodwill
+$   834,220
+-
+$834,220
+$   834,220
+Finite-lived assets:
+Customer list
+$    888,869
+$  (560,420)
+$   328,499
+$   328,449
+Vendor relationships
+480,115
+(321,465)
+167,650
+167,650
+Capitalized product development cost
+1,487,931
+(672,993)
+814,938
+814,938
+$ 2,856,915
+$(1,545,878)
+$ 1,311,037
+$1,311,037
+Goodwill, intangible assets, and product development costs are comprised of the following at June 30, 2022:
+Cost
+Accumulated Amortization
+Net Book Value
+Impairment
+Total
+Goodwill
+$     834,220
+$                 -
+$     834,220
+$              -
+$       834,220
+Finite-lived assets:
+Customer list
+$     922,053
+$   (472,320)
+$     449,733
+$  (33,184)
+$       416,549
+Vendor relationships
+484,816
+(264,565)
+220,251
+(4,701)
+215,550
+Product development costs
+1,279,686
+(468,594)
+811,092
+-
+811,092
+$  2,686,555
+$ (1,205,479)
+$  1,481,076
+$  (37,885)
+$    1,443,191
+Intangible assets such as customer lists and vendor relationships are stated at the lower of cost or fair value. They are amortized on a straight-line basis over periods ranging from three to six years, representing the period over which the Company expects to receive future economic benefits from these assets. The Company acquired certain intangible assets. During the year ended June 30, 2022, the Company impaired $37,885 of the intangible assets related to the acquisition of Classroom Tech. Amortization of these intangible assets amounted to $68,000 and $44,700 for the three months ended December 31, 2022 and 2021. Amortization of these intangible assets amounted to $136,000 and $118,243 for the six months ended December 31, 2022 and 2021.
+Costs incurred in designing and developing classroom technology products are expensed as research and development until technological feasibility has been established. Technological feasibility is established upon completion of a detail product design, or in its absence, completion of a working model. Upon the achievement of technological feasibility, development costs are capitalized and subsequently reported at the lower of unamortized cost or net realizable value. Management's judgment is required in determining whether a product provides new or additional functionality, the point at which various products enter the stages at which costs may be capitalized, assessing the ongoing value and impairment of the capitalized costs and determining the estimated useful lives over which the costs are amortized.
+Annual amortization expense is calculated based on the straight-line method over the product's estimated economic lives, which are typically three to six years. Amortization of product development costs incurred begins when the related products are available for general release to customers. Amortization of product development costs of $105,216 and $44,761 for the three months ended December 31, 2022 and 2021. Amortization of product development cost of $204,399 and $115,134 for the six months ended December 31, 2022 and 2021, is included in cost of revenues in the Company's unaudited condensed consolidated statements of operations.
+Estimated amortization expense related to finite-lived intangible assets for the next five years is: $607,641 for fiscal year 2023, $411,454 for fiscal year 2024, $140,115 for fiscal year 2025, $100,158 for fiscal year 2026, and $39,045 for fiscal year 2027 and $12,624 thereafter.
+-13-
+Recent Accounting Pronouncements
+The Company has implemented all new applicable accounting pronouncements that are in effect and applicable. These pronouncements did not have any material impact on the consolidated financial statements unless otherwise disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations.
+In December 2019, the FASB issued ASU No. 2019-12 Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes ("ASU 2019-12") by removing certain exceptions to the general principles. The amendments will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2021. Early adoption of the amendments is permitted. Depending on the amendment, adoption may be applied on a retrospective, modified retrospective or prospective basis. The Company adopted the new guidance on July 1, 2022 in its consolidated financial statements.
+Note 2 - Property and Equipment
+Property and equipment are comprised of the following at:
+December 31, 2022
+June 30, 2022
+Vehicles
+$     212,658
+$      212,658
+Building
+201,823
+201,823
+Equipment
+16,192
+16,192
+Leasehold improvements
+31,000
+31,000
+Furniture and fixtures
+28,321
+28,321
+489,994
+489,994
+Accumulated depreciation
+(161,309)
+(141,125)
+Property and equipment, net
+$     328,685
+$          348,869
+Note 3 - Lines of Credit
+The Company had up to $1,000,000 available credit line under an accounts receivable factoring agreement through July 30, 2022. This agreement automatically renews for a two year period unless notice is given. Total available credit under the factoring agreement was $775,593 and $989,680 as of December 31, 2022 and June 30, 2022, respectively. See Note 11.
+On August 31, 2022, the Company received proceeds of $155,837 under an equity line of credit with a bank. The $160,000 line of credit bears interest at prime plus 1% and matures August 25, 2027. Collateral on the line of credit includes certain fixed asset of the Company. The outstanding balance was $155,500 and $0 at December 31, 2022 and June 30, 2022, respectively.
+On November 1, 2022, the Company entered into financing and security agreement with a financial technology company. Collateral on the line includes inventory and certain fixed assests of the Company. Each draw on the line of credit bears interest at a variable rate based on the date of draw, plus a fee and matures in six months. The outstanding balance was $196,785 at December 31, 2022.
+-14-
+Note 4 - Notes Payable
+Long Term Notes Payable
+December 31, 2022
+June 30, 2022
+Note payable with a bank bearing interest at 4% and maturing on June 26, 2020. The note was renewed by the lender with a revised maturity of June 26, 2021 and an interest rate to 3%. In July 2021, the note was renewed by the lender with a revised maturity date of July 7, 2026. The renewal provides for $4,405 monthly payments of principal and interest through maturity. The note is collateralized by a certificate of deposit owned by a related party.
+$              179,305
+$              207,058
+Note payable to an investor of $360,000 bearing interest at 12% and maturing February 28, 2023. Monthly installments of $30,000 beginning May 2022. The loan was issued at a discount of $60,000 and has a convertible default provision in the event the Company does not make the monthly payments. In July 2022, payments for June, July, and August 2022 were deferred to September 30, 2022 by the lender in exchange for $30,000 increase in the principal and a change in terms of certain default provisions. On November 7, 2022, the
+note was amended whereby deferred and future payments on the note will be paid from future equity purchase agreement proceeds, and lowered the conversion price in the event of a default to $0.03 per share, subject to adjustment. The Company issued 883,333 shares of common stock to the investor as additional commitment fees.  The note is convertible as of December 31, 2022.
+320,000
+269,432
+Note payable to an investor bearing interest at 12% and maturing March 18, 2023. Monthly installments of $22,558 begin on May 2022. The loan was issued at a discount of $24,450 and has a convertible default provision in the event the Company does not make the monthly payments. The note was repaid in full by conversion to stock.
+-
+158,745
+Note payable to an investor in the principal amount of 1,350,000, bearing interest at 12% and maturing on May 26, 2023 with monthly installments of principal and interest of $120,185 beginning in May 2022. On May 25, 2022, the June, July, and August 2022 payments were deferred in exchange for 750,000 shares of common stock and a $146,667 increase to the principal balance. The October and November 2022 payments were deferred by the lender. On November 15, 2022, the Company issued a $150,000 forebearance note to the investor and extending the maturity date to June 30, 2023. The note is convertible as of December 31, 2022.
+1,188,271
+1,294,198
+Note payable to an investor in the principal amount of $600,000 due December 21, 2022, issued at a discount of $60,000, bearing 12% annual interest. A warrant for the purchase of 600,000 common shares at an exercise price of $0.50 per share was issued as a commitment fee. Principal and interest on the note are due at maturity. An additional warrant for the purchase of 400,000 shares and a amended exercise price of $0.01 for all warrants was issued effective June 21, 2022.
+200,000
+540,000
+Note payable to an investor in the principal amount of $450,000 with payments of $62,438 due each month starting on September 22, 2022. The loan was issued at a discount of $49,500, bears 11% interest and has a convertible default provision in the event the Company does not make the monthly payments. The note is convertible as of December 31, 2022.
+450,000
+400,500
+Note payable to an investor in the principal amount of $144,200 with equal installment payments of $16,150 due each month starting September 17, 2022. The loan was issued at a discount of $15,450, bears interest at 12% and has a convertible default provision. This note is convertible as of December 31, 2022.
+74,406
+-
+-15-
+Note payable to an investor of $88,760 with ten installment payments of $9,941 due each month starting in January 15, 2023. The loan was issued at a discount of $9,510, bears 12% interest and has a convertible default provision in the event the company does not make the scheduled monthly payments.  Interest for twelve months of 10,651 is immediately due on the issue date and payable at maturity.
+80,835
+-
+Note payable to an investor in the principal amount of $810,000 bearing interest at 12%, due August 31, 2023. A warrant for the purchase of 1,000,000 common shares at an exercise price of $.01 per share was issued as a commitment fee to the investor.  The note has a convertible default provision.
+810,000
+-
+Note payable to an investor in the principal amount of $310,000 issued at a discount of $31,000, due November 8, 2023, bearing 12% interest.  Principal and interest is payable on 4 dates over the term of the note.  A payment of $46,500 plus accrued interest is due on February 3, 2023 and May 4, 2023. A payment of $93,000 plus accrued interest is due on August 4, 2023, with the remaining principal and interest due on November 4, 2023.  The note is convertible to stock if there is a default on the note, including payments and reserving shares in accordance with the note payable. The Company received a waiver for reserving shares from the investor. The note is convertible due to an uncured violation of debt covenants to reserve shares in an amount equal to five times what is necessary to convert the loan and interest.
+284,167
+-
+Investor advance on Equity Purchase Agreement.
+142,066
+-
+Long term loan under Section 7(b) of the Economic Injury Disaster Loan program bearing interest at 3.75% and maturing in May 2050. Monthly installments of principal and interest of $731 begin November 21, 2022.
+150,000
+150,000
+Financing lease liabilities for offices and warehouses with monthly installments of $22,810 (ranging from $245 to $9,664) over terms expiring through December 2024.
+149,891
+179,512
+Note payable with a finance company for delivery vehicle with monthly installments totaling $679 including interest at 8.99% over a 6 year term expiring in December 2025.
+20,849
+25,771
+Note payable with a finance company for delivery vehicle with monthly installments totaling $948 including interest at 5.9% over a 6 year term expiring in January 2027.
+46,225
+51,826
+Note payable with a bank for delivery vehicle with monthly installments totaling $844 including interest at 6% over a 4 year term expiring in August 2025.
+24,486
+29,696
+Total Notes Payable
+4,120,501
+3,306,738
+Less: Unamortized original issue discount
+187,519
+242,529
+Less: Fair value of warrants
+365,091
+-
+Current Portion of Notes Payable
+3,567,891
+2,815,231
+Long-term Portion of Notes Payable
+$                    -
+$               248,978
+-16-
+Future minimum principal payments on the long-term notes payable to unrelated parties are as follows:
+Period ending December 31,
+2023
+$ 3,567,891
+2024
+278,885
+2025
+81,646
+2026
+46,295
+2027
+10,224
+Thereafter
+135,560
+$ 4,120,501
+Note 5 – Fair Value Measurements
+The following table presents information about the assets and liabilities that are measured at fair value on a recurring basis at December 31, 2022 and June 30, 2022 and indicates the fair value hierarchy of the valuation techniques the Company utilized to determine such fair value.
+At December 31, 2022:
+Total
+Level 1
+Level 2
+Level 3
+Convertible debt features
+$   73,742
+$            -
+$             -
+$      73,742
+At June 30, 2022:
+Total
+Level 1
+Level 2
+Level 3
+Convertible debt features
+$           -
+$        -
+$       -
+$           -
+The Company measures the fair market value of the Level 3 liability components using the Monte Carlo
+model and projected discounted cash flows, as appropriate. These models were prepared by an independent third party and consider management's best estimate of the conversion price of the stock, an estimate of the expected time to conversion, an estimate of the stock's volatility, and the risk-free rate of return expected for an instrument with a term equal to the duration of the convertible note.
+The derivative liability was valued using the Monte Carlo
+pricing model with the following inputs:
+At December 31, 2022
+Risk-free interest rate:
+3.26% to 4.77%
+Expected dividend yield:
+0.00%
+Expected stock price volatility:
+175.00%
+Expected option life in years:
+1 year
+At June 30, 2022
+Risk-free interest rate:
+0.00%
+Expected dividend yield:
+0.00%
+Expected stock price volatility:
+0.00%
+Expected option life in years:
+0 years
+The following table sets forth a reconciliation of changes in the fair value of the Company's convertible debt components classified as Level 3 in the fair value hierarchy at December 31, 2022 and June 30, 2022:
+Balance at June 30, 2021
+$
+-
+Realized
+-
+Unrealized
+73,342
+Balance at December 31, 2022
+$
+73,342
+Balance at July 1, 2021
+$
+1,842,000
+Realized
+(1,842,000)
+Unrealized
+-
+Balance at June 30, 2022
+$
+-
+As of December 31, 2022 and June 30, 2022, the only asset required to be measured on a nonrecurring basis was goodwill and the fair value of the asset amounted to $834,220 using level 3 valuation techniques.
+-17-
+Note 6 - Related Party Transactions
+Notes Payable
+December 31, 2022
+June 30, 2022
+Fair value of unsecured notes payable to seller of Concepts and Solutions, a related party, bearing interest at 3% per year, payable in annual installments through November 30, 2021. Payment is subject to adjustment based on the achievement of minimum gross revenues and successful completion of certain pre-acquisition
+withholding tax issues of Concepts and Solutions.
+$              1,030,079
+$              1,030,079
+Note payable to a stockholder in which the note principal plus interest at 15% is payable the earlier of 60 days after invoicing a certain customer, or April, 2022 due to an extension granted by the lender. On December 23, 2021, an amendment extended the maturity to March 30, 2025, changed the interest rate to 10% with monthly payments of principal and interest of $8,823 beginning in June 2022. The note is collateralized by a security interest in a certain customer purchase order. Monthly payments were deferred by the lender.
+385,000
+385,000
+Note payable related to acquisition of Classroom Tech in which the note principal is payable in 2021 with no interest obligations, upon the shareholder's resolution of a pre-acquisition liability with a bank.
+-
+55,000
+Notes payable to two stockholders, bearing interest at 12% and payable from future equity advances where 20% of each advance will be used to pay the notes down until paid in full and to pay back within six month of an active equity purchase agreement.
+225,000
+-
+Long term note bearing interest at 6% and maturing December 31, 2024 and other short-term payables due to stockholders and related parties
+966,566
+355,538
+Total Related Party Notes Payable
+2,606,645
+1,825,617
+Current Portion of Related Party Notes Payable
+1,434,655
+1,238,755
+Long-term Portion of Related Party Notes Payable
+$             1,171,990
+$                 586,862
+As of December 31, 2022, related party notes payable maturities are as follows:
+Period ending December 31,
+2023
+$1,434,655
+2024
+998,742
+2025
+173,248
+$2,606,645
+Related Party Leases
+The Company leases property used in operations from a related party under terms of a financing lease. The term of the lease expired on December 31, 2021 and is continuing on a month to month basis. The monthly lease payment is $9,664 plus maintenance and property taxes, as defined in the amended lease agreement. Rent expense for this lease was $28,992 and $28,992 for the three months ended December 31, 2022 and 2021, respectively. Rent expense for this lease was $57,984 and $57,984 for the six months ended December 31, 2022 and 2021, respectively
+-18-
+Other Related Party Agreements
+A related party collateralizes the Company's short-term note with a certificate of deposit in the amount of $274,900, held at the same bank. The related party will receive a $7,500 collateral fee for this service (see Note 4).
+Note 7 - Lease Agreements
+Financing Lease Agreements
+The Company leases offices, warehouses and equipment under financing lease agreements with monthly installments of $22,723 (ranging from $245 to $9,664), expiring through December 2024.
+December 31, 2022
+June 30, 2022
+Right-of-use assets:
+Operating right-of-use assets
+$149,891
+$179,512
+Operating lease liabilities:
+Current portion of long term payable
+81,605
+80,096
+Financing leases payable, less current portion
+68,286
+99,416
+Total operating lease liabilities
+$149,891
+$179,512
+As of December 31, 2022, financing lease maturities are as follows:
+Period ending December 31,
+2023
+$ 81,605
+2024
+62,366
+2025
+5,920
+$149,891
+As of December 31, 2022, the weighted average remaining lease term was 1.38 years.
+Note 8 – Equity
+All share amounts have been adjusted to reflect a 1:200 reverse stock split of the authorized and outstanding shares of common stock that was effective March 7, 2022.
+For the six months ended December 31, 2022:
+During the six months ended December 31, 2022, the Company issued 4,863,038 shares of common stock in exchange for debt reduction.
+During the six months ended December 31, 2022, the Company issued 4,429,130 shares of common stock in exchange for proceeds under the Equity Purchase Agreement. These shares were valued at $107,935 upon issuance.
+During the six months ended December 31, 2022, the Company issued 1,800,000 shares of common stock for commitment fees under notes payable.
+During the six months ended December 31, 2022, the Company issued 3,070,922 shares of common stock for professional consulting services. The shares were valued at $238,128 upon issuance.
+During the six months ended December 31, 2022, the Company issued 23,540,539 shares of common stock in exchange for Preferred Series F stock.
+During the six months ended December 31, 2022, the Company issued warrants to investors to purchase common stock. The warrants were valued at $492,434 upon issuance.
+During the six months ended December 31, 2022, the Company issued 350,000 shares of common stock as a charitable donation. The shares were valued at $52,500 upon issuance.
+During the six months ended December 31, 2022, the Company received 36,500 shares of common stock from a former investor. The shares can be re-issued.
+-19-
+For the six months ended December 31, 2021:
+During the six months ended December 31, 2021, the Company issued 12,500 shares of common stock for services.
+During the six months ended December 31, 2021, the Company issued 1,125,000 shares of common stock in exchange for proceeds under the Equity Purchase Agreement. These shares were valued at $2,143,500 upon issuance.
+During the six months ended December 31, 2021, the Company issued 312,500 shares of common stock as commitment shares in a structured loan agreement. These shares were valued at $356,250 upon issuance.
+During the six months ended December 31, 2021, the Company cancelled 250,000 shares of common stock which were previously held as collateral for a line of credit.
+During the six months ended December 31, 2021, the Company entered into exchange agreements to issue 11,414 shares of Preferred Series F stock.
+During the six months ended December 31, 2021, the Company cancelled 500,000 shares of Preferred Series E stock.
+Warrants
+Warrants are granted with an exercise price no less than the fair market value of the warrant on the date of the grant and generally vest immediately. A June 2022 warrant, as amended on November 8, 2022, is entitled to convert into one common share at an exercise price of $0.01. The November 8, 2022 amendment increased the June 2022 warrants by 400,000 and changed the exercise price from $0.50 to $0.01. An August 2022 warrant is entitled to convert into one common share at an exercise price of $0.01. A November 1, 2022 warrant is entitled to convert into one common share at an exercise price of $0.10. All warrant exercise prices are subject to adjustment. The Company granted investors 600,000 warrants on June 21, 2022; 1,000,000 warrants on August 31, 2022; increased the June 21, 2022 warrants by 400,000 on November 1, 2022; and issued 2,100,000 warrants on November 8, 2022, pursuant to three notes payable (Note 4). The fair value of the warrants was $365,091 and $0 at December 31, 2022 and June 30, 2022, respectively. There are 2,100,000 unvested warrants issued on November 1, 2022 to an investor that will go into effect in the event of a default on the related note.
+The fair value of each equity-based award is estimated on the date of grant using the Black-Scholes option pricing model that uses the assumptions noted in the following table at December 31, 2022:
+Stock price volatility
+175%
+Expected term
+5 years
+Discount rate
+3.38%
+Expected dividends
+0%
+The fair value of each equity-based award is estimated on the date of grant using the Black-Scholes option pricing model that uses the assumptions noted in the following table at June 30, 2022:
+Stock price volatility
+190%
+Expected term
+1 year
+Risk-free interest rate
+3.21%
+Expected dividends
+0%
+A summary of the warrant status at December 31,2022 and June 30, 2022 and changes during the six months ended is presented below. There were no warrants outstanding during the six months ended December 31, 2021.
+Warrants
+Weighted Average Exercise Price
+Outstanding, June 30, 2022
+600,000
+$0.01
+Granted
+1,400,000
+0.01
+Granted
+2,100,00
+0.10
+Forfeited
+-
+-
+Outstanding, December 31, 2022
+4,100,000
+$0.09
+Exercisable, end of period
+$3,100,000
+-
+-20-
+A further summary of warrants outstanding at December 31, 2022 is as follows:
+Exercise
+Number
+Number
+Weighted Average
+Intrinsic
+Warrants
+Price
+Exercisable
+Outstanding
+Remaining Life
+Value
+600,000
+$ 0.01
+600,000
+600,000
+4.5 years
+$             -
+1,000,000
+$ 0.01
+-
+1,000,000
+4.7 years
+$ 150,000
+400,000
+$ 0.01
+400,000
+400,000
+4.5 years
+$ 243,250
+2,100,000
+$ 0.10
+2,100,000
+2,100,000
+4.9 years
+$   99,184
+2,100,000
+$ 0.10
+-
+-
+5 years
+$             -
+Note 9 - Income Taxes
+The Company's effective tax rate differed from the federal statutory income tax rate for the three and six months ended December 31, 2022 as follows:
+Federal statutory rate
+21%
+State tax, net of federal tax effect
+5.04%
+Valuation allowance
+-26%
+Effective tax rate
+0%
+The Company had no federal or state income tax (benefit) for the three and six months ended December 31, 2022 or 2021.
+The Company's deferred tax assets and liabilities as of December 31, 2022 and June 30, 2022, are summarized as follows:
+December 31, 2022
+June 30, 2022
+Federal
+Deferred tax assets
+$8,538,100
+$   7,781,500
+Less valuation allowance
+(8,538,100)
+(7,781,500)
+Deferred tax liabilities
+-
+-
+-
+-
+State
+Deferred tax assets
+$ 1,539,900
+$  1,966,600
+Less valuation allowance
+(1,539,900)
+(1,966,600)
+Deferred tax liabilities
+-
+-
+-
+-
+Net Deferred Tax Assets
+$               -
+$                 -
+The Company's policy is to provide for deferred income taxes based on the difference between the financial statement and tax basis of assets and liabilities using enacted tax rates that will be in effect when the differences are expected to reverse. The Company has not generated taxable income and has not recorded any current income tax expense at December 31, 2022 and 2021, respectively.
+In assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred taxes is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers projected future taxable income and tax planning strategies in making this assessment.
+The Company's deferred tax assets are primarily comprised of net operating losses ("NOL") that give rise to deferred tax assets. The NOL carryforwards expire over a range from 2023 to 2037, with certain NOL carryforwards that have no expiration. There is no tax benefit for goodwill impairment, which is permanently non-deductible for tax purposes. Additionally, due to the uncertainty of the utilization of NOL carry forwards, a valuation allowance equal to the net deferred tax assets has been recorded.
+-21-
+The significant components of deferred tax assets as of December 31, 2022 and June 30, 2022 are as follows:
+December 31, 2022
+June 30, 2022
+Net operating loss carryforwards
+$              $9,836,100
+$             9,539,900
+Valuation allowance
+(10,078,000)
+(9,748,100)
+Goodwill
+600
+11,000
+Property and equipment
+(28,600)
+(32,000)
+Development costs
+148,200
+124,600
+Intangible assets
+63,200
+46,100
+Inventory allowance
+30,300
+30,300
+Warranty accrual and other
+28,200
+28,200
+Net Deferred Tax Assets
+$                             -
+$                             -
+As of December 31, 2022, the Company does not believe that it has taken any tax positions that would require the recording of any additional tax liability nor does it believe that there are any unrealized tax benefits that would either increase or decrease within the next twelve months. As of December 31, 2022, the Company's income tax returns generally remain open for examination for three years from the date filed with each taxing jurisdiction.
+Note 10 - Commitments, Contingencies, and Concentrations
+Contingencies
+Certain conditions may exist as of the date the unaudited condensed consolidated financial statements are issued, which may result in a loss to the Company, but which will only be resolved when one or more future events occur or fail to occur. The Company’s management and its legal counsel assess such contingent liabilities, and such assessment inherently involves an exercise of judgment. In assessing loss contingencies related to legal proceedings that are pending against the Company or unasserted claims that may result in such proceedings, the Company’s legal counsel evaluates the perceived merits of any legal proceedings or unasserted claims as well as the perceived merits of the amount of relief sought or expected to be sought therein. If the assessment of a contingency indicates that it is probable that a material loss has been incurred and the amount of the liability can be estimated, then the estimated liability would be accrued in the Company’s consolidated financial statements. If the assessment indicates that a potentially material loss contingency is not probable, but is reasonably possible, or is probable but cannot be estimated, then the nature of the contingent liability, together with an estimate of the range of possible loss if determinable and material, would be disclosed.
+On September 4, 2019, the Company recorded a pre-acquisition liability for approximately $591,000 relative to unpaid payroll tax liabilities and associated penalties and fees of Concepts and Solutions. The liability is included in the note payable to seller of $1,030,079 at December 31, 2022 and June 30, 2022 (Note 6).
+Concentrations
+Galaxy contracts the manufacture of its products with domestic and overseas suppliers. The Company's sales could be adversely impacted by a supplier's inability to provide Galaxy with an adequate supply of inventory. Galaxy has two vendor that accounted for approximately 91% of purchases for the three months ended December 31, 2022. Galaxy had one vendors that accounted for approximately 36% of purchases for the three months ended December 31, 2021.
+Galaxy has two customers that accounted for approximately 79% of accounts receivable at December 31, 2022 and two customers that accounted for approximately 77% of accounts receivable at June 30, 2022. Galaxy has two customers that accounted for 54% for the three months ended December 31, 2022.  Galaxy has three customers that accounted for approximately 69% and  two customers that accounted for approximately 55% of total revenue for the six months ended December 31, 2022 and 2021, respectively.
+Note 11 - Material Agreements
+Manufacturer and Distributorship Agreement
+On September 15, 2018, the Company signed an agreement with a company in China for the manufacture of Galaxy’s SLIM series of interactive panels. The manufacturer agreed to manufacture, and the Company agreed to be the sole distributor of the interactive panels in the United States for a term of two years. The agreement includes a commitment by Galaxy to purchase $2 million of product during the first year beginning September 2018. If the minimum purchase is not met, the manufacturer can require the Company to establish a performance improvement plan, and the manufacturer has the right to terminate the agreement. The payment terms are 20% in advance, 30% after the product is ready to ship, and the remaining 50% 45 days after receipt. The manufacturer provides Galaxy with the product, including a three-year manufacturer’s warranty from the date of shipment. The agreement renews automatically in two year increments unless three months’ notice is given by either party. The Company has met the requirements of the agreement.
+-22-
+Equity Purchase Agreements
+On May 31, 2020, the Company entered into a two year purchase agreement (the "Equity Purchase Agreement") with an investor, which was amended and restated on July 9, 2020 and then again on December 29, 2020. Pursuant to the terms of the Equity Purchase Agreement, the investor agreed to purchase up to $10 million of the Company's common stock (subject to certain limitations) from time to time during the term of the Equity Purchase Agreement. During the three months ended December 31, 2022 and 2021, the Company issued 0 and 450,000 shares of common stock to the investor in exchange for proceeds for working capital. During the six months ended December 31, 2022 and 2021, the Company issued 0 and 450,000 shares of common stock to the investor in exchange for proceeds for working capital.
+On November 7, 2022, the Company signed a two year purchase agreement (“Equity Purchase Agreement”) with an investor. Pursuant to the terms of the Equity Purchase Agreement, the investor agreed to purchase up to $5 million of the Company’s common stock (subject to certain limitations) from time to time during the term of the Equity Purchase Agreement. The common stock transactions will be “put” to the investor, at the option of the Company, at a discount equal to 80% of the average of the two lowest daily stock prices during a ten day period, in exchange for working capital proceeds. The Company will register the shares before puts are allowed. There is a commitment fee of 500,000 shares that will be issued to the investor. During the three months ended December 31, 2022 and 2021, the Company issued 4,429,130 and 0 shares of common stock to the investor in exchange for proceeds for working capital. During the six months ended December 31, 2022 and 2021, the Company issued 4,429,130 and 0 shares of common stock to the investor in exchange for proceeds for working capital.
+Accounts Receivable Factoring Agreement
+On July 30, 2020, the Company entered into a two-year accounts receivable factoring agreement with a financial services company to provide working capital. Pursuant the agreement, the financial services company will pay the Company an amount up to eighty percent (80%) of the purchase price for the purchased accounts. Factoring fees are 2.5% of the face value of the account receivable sold to the factoring agent per month until collected. For collections over 90 days from the invoice date, the fee increases to 3.5%. The agreement contains a credit line of $1,000,000 and requires a minimum of $300,000 of factored receivables per calendar quarter. The agreement includes early termination fees and is guaranteed by the Company and by two of the stockholders individually. The Company paid collection fees of $69,616 and $13,243 during the three months ended December 31, 2022 and 2021, respectively. The Company paid collection fees of $119,219 and $36,244 during the six months ended December 31, 2022 and 2021, respectively.
+Employment Agreements
+On January 1, 2020, the Company entered into an employment agreement with the Chief Executive Officer (CEO) of the Company for a two-year term which was amended on September 1, 2020, and further amended in 2022 to extend the term for an additional three-years. Under the amended employment agreement, the CEO will receive annual compensation of $500,000, and an annual discretionary bonus based on profitability and revenue growth and preferred stock to maintain, together with the CFO, a minimum 26% of the total voting rights. The agreement includes a non-compete agreement and severance benefits of $90,000. In June 2022, 26 shares of Preferred Series G stock were issued to the CEO under terms of this agreement, which represents 26% of the voting power.
+On January 1, 2020, the Company entered into an employment agreement with the Chief Finance Officer/Chief Operations Officer (CFO/COO) of the Company for a two-year term, which was amended on September 1, 2020, and further amended in 2022 to extend the term for an additional three-years. Under the amended employment agreement, the CFO/COO will receive annual compensation of $250,000, and an annual discretionary bonus based on profitability and revenue growth and preferred stock to maintain, together with the CEO, a minimum 25% of the total voting rights. The agreement includes a non-compete agreement and severance benefits of $72,000. In June 2022, 25 shares of Preferred Series G stock were issued to the CFO under terms of this agreement, which represents 25% of the voting power.
+Investor Relations Agreement
+The Company signed an agreement with an investment relations firm, commencing on May 1, 2022, requiring $10,000 per month and $20,000 worth of restricted stock issued 4 times in 2022, beginning May 1, 2022, June 1, September 1, and December 1, 2022. The agreement will automatically renew annually unless 60 days’ notice is given by either party. The Company paid $20,000 and issued 70,922 shares for investment relations services during the three months ended December 31, 2022. The Company paid $20,000 and issued 70,922 shares for investment relations services during the six months ended December 31, 2022.  No fees or shares were issued during the three and six months ended December 31, 2021.
+Capital Markets Advisory Agreement
+The Company signed an eight month Strategic Services agreement with an investor, commencing on May 1, 2022, requiring fees of 1,000,000 shares of common stock. The Company issued 1,000,000 shares for strategic services on August 1, 2022.
+-23-
+Advisory Services
+In May 2020, a advisor agreed to be a non-exclusive advisor with respect to the identification and evaluation of potential business acquisition opportunities. In consideration for its services, the advisor may receive a cash fee equal to 3.5% of the purchase price if we close on a transaction with a target during the term of the agreement or within 12 months thereafter. In addition, (i) we will pay the advisor a cash fee payable at the closing equal to 1.5% of the gross proceeds we receive at each closing; (ii)
+for an issuance of debt securities, a cash fee payable at the closing equal to 2.5% of the gross proceeds we receive at each closing; (iii) for an issuance of equity securities, a cash fee payable at the closing equal to 7.0% of the gross proceeds we receive at each closing. We will also reimburse the advisor for certain out of pocket expenses.
+Note 12 - Stock Plan
+The Company established a 2022 Equity Stock Purchase Plan to encourage the purchase of shares of common stock by eligible employees and participating companies. No shares have been purchased under the Plan to date.
+The Company established a 2022 Equity Incentive Plan to enable the Company to award long term performance-based equity incentives to employees and others. No equity awards have been issued under the Plan to date.
+Note 13 - Going Concern
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As reflected in the accompanying consolidated financial statements, the Company had negative working capital of approximately $6,400,000, and cash used in operations of approximately $2,000,000 at December 31, 2022. Accumulated deficit increased from June 30, 2022 to December 31, 2022 by approximately $4,500,000 to a deficit of approximately $58,700,000 at December 31, 2022.
+The Company's operational activities have primarily been funded through issuance of common stock for services, related party advances, equity purchase agreement transactions for proceeds, accounts receivable factoring, debt financing and through the deferral of accounts payable and other expenses. The Company intends to raise additional capital through the sale of equity securities or borrowings from financial institutions and investors and possibly from related and nonrelated parties who may in fact lend to the Company on reasonable terms. Management believes that its actions to secure additional funding will allow the Company to continue as a going concern. There is no guarantee the Company will be successful in achieving any of these objectives. These sources of working capital are not assured, and consequently do not sufficiently mitigate the risks and uncertainties disclosed above. The ability of the Company to continue as a going concern is dependent upon management's ability to raise capital from the sale of its equity and, ultimately, the achievement of operating revenues. The consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+Note 14 - Subsequent Events
+Authorized common stock increased from 200,000,000 to 3,000,000,000 shares of common stock on January 31, 2023.
+On January 11, 2023, the Company issued 5,000,000 shares to an investor under the Equity Purchase Agreement in exchange for working capital.
+On January 27, 2023, the Company issued 763,359 shares to reduce a note payable.
+On February 1, 2023, the Company issued 1,000,000 shares as additional commitment shares for the extension of a maturity date on a note payable.
+On February 1, 2023, the Company issued 4,000,000 shares to reduce a note payable.
+On February 8, 2023, the Company issued 1,923,077 shares to reduce a note payable.
+-24-
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+Cautionary Note on Forward Looking Statements
+This Quarterly Report on Form 10-Q (this "Report") contains forward-looking within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). In particular statements regarding future events and the future results of Galaxy Next Generation, Inc., which we refer to as "we," "us," "our", "Galaxy," or the "Company," including but not limited to, statements regarding the sufficiency of our cash, our ability to finance our operations and business initiatives and obtain funding for such activities and the timing of any such financing, our future results of operations and financial position, business strategy and plan prospects are forward-looking statements. These forward-looking statements are based on our current expectations, estimates, forecasts, and projections about our business, economic and market outlook, our results of operations, the industry in which we operate and the beliefs and assumptions of our management. Words such as "expects," "anticipates," "targets," "goals," "projects," "would," "will," "could," "may," "intends," "plans," "believes," "seeks," "estimates," variations of such words, and similar expressions are intended to identify such forward-looking statements. Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that are difficult to predict. Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in this Report under the section entitled "Risk Factors" in Item 1A of Part II, Part I Item 1A of our Annual Report on Form 10-K for the year ended June 30, 2022 (the "Annual Report"), and in other reports we file with the U.S. Securities and Exchange Commission (the "SEC"). In addition, many of the foregoing risks and uncertainties are, and could be, exacerbated by the COVID-19 pandemic and any worsening of the global business and economic conditions, including inflation. While forward-looking statements are based on reasonable expectations of our management at the time that they are made, you should not rely on them. We undertake no obligation to revise or update publicly any forward-looking statements for any reason, except as required by applicable law. We cannot at this time predict the extent of the impact of the COVID-19 pandemic and any business or economic conditions which could have a material adverse effect on our business, financial condition, results of operations and cash flows.
+The following discussion is based upon our unaudited condensed consolidated financial statements included in Part 1, Item I, of this Report, which were prepared in accordance with U.S. generally accepted accounting principles (U.S. GAAP). In the course of operating our business, we routinely make decisions as to the timing of the payment of invoices, the collection of receivables, the manufacturing and shipment of products, the fulfillment of orders, the purchase of supplies, and the building of inventory, among other matters. In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives. Each of these decisions has some impact on the financial results for any given period. To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview. These sections should be read in conjunction with the more detailed discussion and analysis of our condensed consolidated financial condition and results of operations in this Item 2, our "Risk Factors" section included in Item 1A of Part II of this Report, our "Risk Factors" section included in Item 1A of Part I of our Annual Report, our unaudited condensed consolidated financial statements and notes thereto included in Item 1 of Part I of this Report, as well as our audited consolidated financial statements and notes included in Item 8 of Part II of our Annual Report.
+The following discussion and analysis should be read in conjunction with our consolidated financial statements and notes thereto and the other financial data appearing elsewhere in this Quarterly Report.
+Business Overview
+We are a manufacturer and U.S. distributor of interactive learning technologies and enhanced audio solutions. We are engaged in a full range of activities: marketing and sales, engineering and product design and development, manufacturing, and distributing. We develop both hardware and software that allows the presenter and participant to engage in a fully collaborative instructional environment. We also develop award winning classroom audio solutions, school public address (“PA”) and intercom products, and emergency communication applications creating a full line card offering for classrooms to our channel partners. Our product offerings include our own private-label interactive touch screen panel, our own intercom, bell, and paging solution, as well as an audio amplification line of products that is currently supported by both direct sales and through original equipment manufacturer (“OEM”) relationships. Our distribution channel consists of a direct sales model, as well as in excess of 40 resellers across the U.S. that primarily sell the products offered by us within the commercial and educational market. We do not control where the resellers focus their reselling efforts; however, the K-12 education market is the largest customer base for our products comprising nearly 90% of our sales. In addition, our OEM division manufactures products for other vendors in our industry and white labels the products under other brands.
+We believe the market space for interactive technology in the classroom is a perpetual highway of business opportunity, especially in light of the effects of the ongoing global COVID-19 pandemic as school systems have sought to expand their ability to operate remotely. Public and private school systems are in a continuous race to modernize their learning environments. Our goal is to be an early provider of the best and most modern technology available.
+-25-
+We are striving to become the leader in the market for interactive flat panel technology, associated software, and peripheral devices for classrooms. Our goal is to provide an intuitive system to enhance the learning environment and create easy to use technology for the teacher, increasing student engagement and achievement. Our products are developed and backed by a management team with more than 30 combined years in the classroom technology space.
+We were originally organized as a corporation in 2001. Our principal executive offices are located at 285 Big A Road Toccoa, Georgia 30577, and our telephone number is (706) 391-5030. Our website address is
+www.galaxynext.us . Information contained in our website does not form part of this Quarterly Report and is intended for informational purposes only.
+On June 22, 2018, we consummated a reverse triangular merger whereby Galaxy Next Generation, Inc., a private company (co-founded by our now executives, Gary LeCroy (CEO) and Magen McGahee (CFO)), merged with and into our newly formed subsidiary, Galaxy MS, Inc. ("Galaxy MS"), which was formed specifically for the transaction. Under the terms of the merger, the private company shareholders transferred all their outstanding shares of common stock to Galaxy MS, in return for shares of our Series C Preferred Stock. Prior to the merger, we operated under the name Full Circle Registry, Inc.’s (FLCR) and our operations were based upon our ownership of Georgetown 14 Cinemas, a fourteen-theater movie complex located on approximately seven acres in Indianapolis, Indiana. Prior to the merger, our sole business and source of revenue was from the operation of the theater, and as part of the merger agreement, we had the right to spinout the theater to the prior shareholders of FLCR. Effective February 6, 2019, we sold our interest in the theater to focus our resources on our technology operations.
+On September 3, 2019, we acquired 100% of the outstanding capital stock of both Interlock Concepts, Inc. (Concepts) and Ehlert Solutions Group, Inc. (Solutions) pursuant to the terms of a stock purchase agreement that we entered into with Concepts and Solutions. The purchase price for the acquisition was 1,350,000 (6,750 post March 7, 2022 reverse stock split) shares of common stock and a two year note payable to the seller in the principal amount of $3,000,000. The note payable to the seller is subject to adjustment based on the achievement of certain future earnings goals and successful completion of certain pre-acquisition withholding tax issues of Concepts and Solutions. The note has been adjusted and is reflecting under related party notes payable in the consolidated financial statements.
+Solutions and Concepts are Utah-based audio design and manufacturing companies creating innovative products that provide fundamental tools for building notification systems primarily to K-12 education market customers located primarily in the north and northwest United States. These products and services allow institutions access to intercom, scheduling, and notification systems with improved ease of use. The products provide an open architecture solution to customers which allows the products to be used in both existing and new environments. Intercom, public announcement (PA), bell and control solutions are easily added and integrated within the open architecture design and software model. These products combine elements over a common internet protocol (IP) network, which minimizes infrastructure requirements and reduces costs by combining systems.
+On October 15, 2020, we acquired the assets of Classroom Technologies Solutions, Inc. ("Classroom Tech") for consideration of (a) paying off a secured Classroom Tech loan, not to exceed the greater of 50% of the value of the Classroom Tech assets acquired or $120,000; (b) the issuance of a promissory note in the amount of $44,526 to a Classroom Tech designee; and (c) the issuance of 10 million shares (50,000 post March 7, 2022 reverse stock split)  of common stock to the seller of Classroom Tech. Classroom Tech provides cutting-edge presentation products to schools, training facilities, churches, corporations and retail establishments. Their high-quality solutions are customized to meet a variety of needs and budgets in order to provide the best in education and presentation technology. Classroom Tech direct-sources and imports many devices and components which allows us to be innovative, nimble, and capable of delivering a broad range of cost-effective solutions. Classroom Tech also offers in-house service and repair facilities and carries many top brands.
+This Report contains references to our trademarks and to trademarks belonging to other entities. Solely for convenience, trademarks and trade names referred to in this Report, including logos, artwork and other visual displays, may appear without the ® or TM symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. We do not intend our use or display of other companies' trade names or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies.
+The financial statements include the consolidated assets and liabilities of the combined company (collectively Galaxy Next Generation, Inc., Interlock Concepts, Inc., Ehlert Solutions Group, Inc. and Classroom Technologies Solutions, Inc. referred to collectively as the “Company”).
+All intercompany transactions and accounts have been eliminated in the consolidation.
+Galaxy’s common stock is traded on over-the-counter markets under the stock symbol GAXY.
+Reverse Stock Split
+Effective March 7, 2022, we effected a one-for-two hundred reverse stock split of our authorized and outstanding shares of common stock. All per share numbers reflect the one-for-two hundred reverse stock split.
+-26-
+Critical Accounting Estimates
+Management's Discussion and Analysis discusses our consolidated financial statements which have been prepared in accordance with United States Generally Accepted Accounting Principles (U.S. GAAP). The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the balance sheet date and reported amounts of revenue and expenses during the reporting period. On an ongoing basis, we evaluate our estimates and judgments. We base our estimates and judgments on historical experience and on various other factors that are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+The critical accounting policies and estimates that affect the condensed consolidated financial statements and the judgments and assumptions used are consistent with those described in Note 1 to our audited consolidated financial statements contained in our Annual Report.
+Results of Operations
+The tables below present an analysis of selected line items period-over-period in our interim Condensed Consolidated Statements of Operations for the periods indicated.
+Revenue
+Total revenues recognized were $429,031 and $904,055 for the three months ended December 31, 2022 and 2021, respectively, a decrease of approximately 53%. Total revenues recognized were $1,048,084 and $2,588,826 for the six months ended December 31, 2022 and 2021, respectively, a decrease of approximately 60%. Additionally, deferred revenue amounted to $627,560 and $175,436 as of December 31, 2022 and June 30, 2022, respectively. Revenues decreased during the three and six months ended December 31, 2022 due to delays in supply chain which resulted in a large increase in deferred revenue at quarter end.
+Cost of Sales and Gross Margin
+Our cost of sales was $330,016 and $848,099 for the three months ended December 31, 2022 and 2021, respectively, a decrease of approximately 61%. Our cost of sales was $601,501 and $1,866,862 for the six months ended December 31, 2022 and 2021, respectively, a decrease of approximately 68%. Cost of sales consists primarily of manufacturing, freight, delivery, amortization of product development costs, and installation costs. There are no significant overhead costs which impact cost of sales. Cost of sales decreased during the three and six months ended December 31, 2022 due to the decrease in revenue as well as our shift to selling products that are lower cost with higher profit margins.
+General and Administrative
+Three months ended
+December 31, 2022
+December 31, 2021
+Stock compensation and stock issued for services
+$      50,000
+$               -
+Impairment
+-
+46,869
+General and administrative
+1,511,292
+1,049,993
+Total General and Administrative Expenses
+$ 1,561,292
+$ 1,096,862
+Six months ended
+December 31, 2022
+December 31, 2021
+Stock compensation and stock issued for services
+$    238,128
+$      32,750
+-
+46,869
+General and administrative
+2,943,271
+2,548,117
+Total General and Administrative Expenses
+$ 3,181,399
+$ 2,627,736
+Total general and administrative expenses (including stock issued for services expenses) were $1,561,292 and $1,096,862 for the three months ended December 31, 2022 and 2021, respectively. Total general and administrative expenses (including stock issued for services expenses) were $3,181,399 and $2,627,736 for the six months ended December 31, 2022 and 2021, respectively
+-27-
+Other Income (Expense)
+Three months ended
+December 31, 2022
+December 31, 2021
+Other Income
+$             257
+$             5,878
+Expenses related to notes payable:
+Change in fair value of derivative liability
+(73,472)
+834,000
+Interest accretion
+(114,843)
+(15,540)
+Interest related to equity purchase agreement
+-
+(1,890,600)
+Interest expense
+(1,275,819)
+(354,852)
+Total Other Income (Expense)
+$ (1,464,147)
+$  (1,421,114)
+Six months ended
+December 31, 2022
+December 31, 2021
+Other Income
+$             2,800
+$             5,878
+Expenses related to notes payable:
+Change in fair value of derivative liability
+(73,472)
+1,842,000
+Interest accretion
+(236,113)
+(24,290)
+Interest related to equity purchase agreement
+-
+(2,143,500)
+Interest expense
+(1,438,196)
+(622,363)
+Total Other Income (Expense)
+$   (1,745,251)
+$      (942,275)
+Interest expense amounted to $1,275,819 and $354,852 for the three months ended December 31, 2022 and 2021, respectively, an increase of 260%. Interest expense of $1,438,196 and $622,363 during the six months ended December 31, 2022 and 2021, was primarily due to common stock issued as commitment fees and to convert preferred stock, warrants issued, and interest paid on notes payable, an increase of 131%. The change in the fair value of the derivative liability was due to convertible features of certain notes payable under recent conditions and the elimination of the derivative in December 2021, when convertible notes were exchanged for Series F stock.
+Net Loss for the Period
+Net loss incurred for the three months ended December 31, 2022 and 2021 was $2,926,424 and $2,462,020 respectively, an increase of approximately 19%. Net loss incurred for the six months ended December 31, 2022 and 2021 was $4,480,067 and $2,848,047 respectively, an increase of approximately 57%. Noncash contributing factors for the net loss incurred for the six months ended December 31, 2022 and 2021 are as follows:
+a) $238,128 and $32,750 represent noncash consulting fees paid through the issuance of stock for the six months ended December 31, 2022 and 2021, respectively;
+b) Noncash interest expenses of $0 and $2,143,500 related to the Equity Purchase Agreement for the six months ended December 31, 2022 and 2021, respectively; and
+c) Depreciation and amortization expenses related to intangibles and capitalized development costs of $360,583 and $241,785 for the six months ended December 31, 2022 and 2021, respectively.
+-28-
+Liquidity and Capital Resources
+To date our revenues generated from operations have been insufficient to support our operational activities and have been supplemented by the proceeds from the issuance of securities, including equity and debt issuances.
+In order to support our operational activities our revenues still need to be supplemented by the proceeds from the issuance of securities, including equity and debt issuances. At December 31, 2022, we had a working capital deficit of approximately $6,500,000 and an accumulated deficit of approximately $58,700,000. As stated in Note 13 to the notes to the unaudited condensed consolidated financial statements included in this Report, our ability to continue as a going concern is dependent upon management's ability to raise capital from the sale of its equity and, ultimately, the achievement of sufficient operating revenues.
+If our revenues continue to be insufficient to support our operational activities, we intend to raise additional capital through the sale of equity securities or borrowings from financial institutions and possibly from related and nonrelated parties who may in fact lend to us on reasonable terms and ultimately generating sufficient revenue from operations. Our operating loss continues to shrink, and investments should allow us to continue for several months until sufficient revenue is met. Management believes that its actions to secure additional funding will allow us to continue as a going concern. We currently do not have any committed sources of financing other than our accounts receivable factoring agreement and small lines of credit, which requires us to meet certain requirements to utilize. There can be no assurance that we will meet all or any of the requirements pursuant to our line of credit, or accounts receivable factoring agreement, and therefore those financing options may be unavailable to us. The Equity Purchase Agreement that we entered into November 2022 also has several conditions that we must meet before ClearThink Capital Partners, LLC is required to purchase shares of our common stock and there can be no assurance that we will meet those conditions. There is no guarantee we will be successful in raising capital outside of our current sources, and if so, that we will be able to do so on favorable terms.
+Our cash totaled $21,360 at December 31, 2022, as compared with $300,899 at June 30, 2022, a decrease of $279,539. Net cash of $1,990,898 and $208,245 was used in operations and investing activities, respectively, for the six months ended December 31, 2022. Net cash of $1,312,346 and $415,756 was used in operations and investing activities, respectively, for the six months ended December 31, 2021.
+Net cash of $1,919,604 was provided from financing activities for the six months ended December 31, 2022, primarily due to proceeds from notes payable agreements. Net cash of $1,541,238 was provided from financing activities for the six months ended December 31, 2021, primarily due to proceeds from an equity purchase agreement.
+To implement our business plan, we may require additional financing. Further, current or future adverse capital and credit market conditions could limit our access to capital. We may be unable to raise capital or bear an unattractive cost of capital that could reduce our financial flexibility.
+Our long-term liquidity requirements will depend on many factors, including the rate at which we grow our business and footprint in the industries. To the extent that the funds generated from operations are insufficient to fund our activities in the long term, we may be required to raise additional funds through public or private financing. No assurance can be given that additional financing will be available or that, if it is available, it will be on terms acceptable to us.
+Off-Balance Sheet Arrangements
+The Company did not have off-balance sheet arrangements or transactions as of and for the six months ended December 31, 2022 and 2021.
+Non-GAAP Disclosure
+To provide investors with additional insight and allow for a more comprehensive understanding of the information used by management in its financial and decision-making surrounding pro forma operations, Galaxy supplements its consolidated financial statements presented on a basis consistent with U.S. generally accepted accounting principles, or GAAP Adjusted EBITDA as a non-GAAP financial measures of earnings. The tables below provide a reconciliation of the non-GAAP financial measures, presented herein, to the most directly comparable financial measures calculated and presented in accordance with GAAP. We calculate EBITDA as net loss before income taxes, depreciation and amortization and we calculate Adjusted EBITDA as EBITDA adjusted to exclude stock compensation. Galaxy management uses Adjusted EBITDA as financial measures to evaluate the profitability and efficiency of the business model. The Company uses these non-GAAP financial measures to assess the strength of the underlying operations of the business. These adjustments, and the non-GAAP financial measures that are derived from them, provide supplemental information to analyze our operations between periods and over time. Galaxy finds this especially useful when reviewing pro forma results of operations, which include large non-cash expenses including interest on the Equity Purchase Agreement, amortization of intangible assets and capitalized development costs and stock-based compensation. Investors should consider its non-GAAP financial measures in addition to, and not as a substitute for, financial measures prepared in accordance with GAAP. The non-GAAP financial measures should not be considered superior to, as a substitute for, or as an alternative to, and should be considered in conjunction with, the GAAP financial measures presented.
+-29-
+Non-GAAP Adjusted EBITDA financial results for the three and six months ended December 31, 2022 and 2021:
+Three months ended
+December 31, 2022
+December 31, 2021
+Revenue
+$      429,031
+$      904,055
+Gross Profit
+99,015
+55,956
+General and Administrative Expenses
+1,561,292
+1,096,862
+Loss from Operations
+(1,462,277)
+(1,040,906)
+Other Income (Expense)
+(1,464,147)
+(1,421,114)
+Net Loss
+(2,926,424)
+(2,462,020)
+Interest, taxes, depreciation and amortization
+1,573,869
+2,372,631
+EBITDA
+(1,352,555)
+(89,389)
+Stock Compensation
+50,000
+-
+Non-GAAP Adjusted EBITDA
+$ (1,302,555)
+$  (89,389)
+Six months ended
+December 31, 2022
+December 31, 2021
+Revenue
+$   1,048,084
+$  2,588,826
+Gross Profit
+446,583
+721,964
+General and Administrative Expenses
+3,181,399
+2,627,736
+Loss from Operations
+(2,734,816)
+(1,905,722)
+Other Income (Expense)
+(1,745,251)
+(942,275)
+Net Loss
+(4,480,067)
+(2,848,047)
+Interest, taxes, depreciation and amortization
+2,034,892
+3,031,938
+EBITDA
+(2,445,175)
+183,891
+Stock Compensation
+238,128
+32,750
+Non-GAAP Adjusted EBITDA
+$ (2,207,047)
+$  216,641
+Non-GAAP Adjusted EBITDA was net loss of $1,302,555 and $89,389 for the three months ended December 31, 2022 and 2021, respectively. Non-GAAP Adjusted EBITDA was net loss of $2,207,047 and net gain of $216,641 for the six months ended December 31, 2022 and 2021, respectively.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The information under this Item is not required to be provided by smaller reporting companies.
+ITEM 4. CONTROLS AND PROCEDURES
+Disclosure Controls and Procedures
+Under the supervision and with the participation of our management, including the Chief Executive Officer (our principal executive officer) and Chief Financial Officer (our principal financial and accounting officer), we have evaluated the effectiveness of the design and operation of our disclosure controls and procedures, as such term is defined in Exchange Act Rules 13a-15(e) and 15d-15(e), as of the end of the period covered by this Report.
+Evaluation of Disclosure Controls and Procedures
+We conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures ("Disclosure Controls") as of the end of the period covered by this Report. The Disclosure Controls evaluation was conducted under the supervision and with the participation of management, including our Chief Executive Officer (our principal executive officer) and our Chief Financial Officer (our principal financial and accounting officer). Disclosure Controls are controls and procedures designed to reasonably assure that information required to be disclosed in our reports filed under the Exchange Act, such as this Report, is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms. Disclosure Controls are also designed to provide reasonable assurance that such information is accumulated and communicated to our management, including our Chief Executive Officer and our Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Based on this evaluation our Chief Executive Officer and Chief Financial Officer have concluded that, because of a material weakness in our internal control over financial reporting that existed at June 30, 2022 and had not been remediated by the end of the period covered by this Report, our disclosure controls and procedures were not effective as of the end of the period covered by this Report. This material weakness in the Company's internal control over financial reporting and the Company's remediation efforts are described below.
+-30-
+The material weakness relates to the fact that our management is relying on external consultants for purposes of preparing its financial reporting package; however, the officers may not be able to identify errors and irregularities in the financial reporting package before its release as a continuous disclosure document. As a result of the deficiencies, we have discovered it is reasonably possible that internal controls over financial reporting may not have prevented or detected errors from occurring that could have been material, either individually or in the aggregate.
+Remediation Measures
+Management decreased outsourcing its bookkeeping beginning July 1, 2021.  We continue to outsource the preparation of the Company's tax returns and tax provisions.
+Changes in Internal Control over Financial Reporting
+There have been no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the period covered by this Report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II - OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+From time to time, we may be subject to various legal proceedings and claims that arise in the ordinary course of business litigation, regardless of the outcome could have a material adverse impact on us because of the defense and settlement costs, diversion of management resources and other factors. We are not currently subject to any legal proceedings that we believe will have a material impact on our business at this time.
+ITEM 1A. RISK FACTORS
+Investing in our common stock involves a high degree of risk. You should consider carefully the following risks, together with the risks specified in Item 1A of Part I of our Annual Report for the year ended June 30, 2022 and all the other information in this Report, including our condensed consolidated financial statements and notes thereto. If any of the following risks materializes, our operating results, financial condition and liquidity could be materially adversely affected. As a result, the trading price of our common stock could decline, and you could lose part or all of your investment. The following information updates should be read in conjunction with the information disclosed in Part 1, Item 1A, "Risk Factors," contained in our Annual Report for the year ended June 30, 2022. Except as disclosed below, there have been no material changes from the risk factors and uncertainties disclosed in our Annual Report for the year ended June 30, 2022.
+We have a history of net losses, and have incurred losses for the six months ended December 31, 2022 and 2021 and there can be no assurance that we will generate net income
+For the six months ended December 31, 2022 and 2021 we had a net loss of $2,926,424 and $2,462,020, respectively. For the year ended June 30, 2022, we had a net loss of $6,250,956. For the year ended June 30, 2021, we had a net loss of $24,424,336. There can be no assurance that our losses will not continue in the future, even if our revenues and expenditures for the products and solutions we sell and distribute increase. In addition, as of December 31, 2022, we had stockholders' deficit of approximately $5,000,000 and cash used in operations of approximately $2,000,000. As of June 30, 2022, we had stockholders' deficit of approximately $2,200,000 and cash used in operations of approximately $1,200,000. These factors raise substantial doubt regarding our ability to continue as a going concern.
+Our historical operating results indicate substantial doubt exists related to our ability to operate as a going concern.
+We have incurred net losses and used significant cash in operating activities since inception, and we expect to continue to generate operating losses for the foreseeable future. As of December 31, 2022, we have an accumulated deficit of approximately $59 million and our total cash at December 31, 2022 was $21,360. These factors raise substantial doubt about our ability to continue as a going concern and to satisfy our estimated liquidity needs for twelve months following the date on which we issued our consolidated audited financial statements for the fiscal year ended June 30, 2022. Our consolidated audited financial statements as of and for the year ended June 30, 2022 have been prepared under the assumption that we will continue as a going concern for the next twelve months. Our management concluded that our recurring losses from operations and the fact that we have not generated significant revenue or positive cash flows from operations raise substantial doubt about our ability to continue as a going concern for the twelve months following the date on which we issued of our audited financial statements. Our auditors also included an explanatory paragraph in its report on our audited financial statements as of and for the year ended June 30, 2022 with respect to this uncertainty.  If we continue to experience operating losses, and we are not able to generate additional liquidity through a capital raise or other cash infusion, we might need to secure additional sources of funds, which may or may not be available to us. If we are unable to raise additional capital in sufficient amounts or on terms acceptable to us, we may have to further scale back or discontinue the development of our product candidates or other research and development initiatives or initiate steps to cease operations.
+-31-
+We require funds to operate and expand our business.
+During the six months ended December 31, 2022, our operating activities used net cash of $1,990,898 and our total cash at December 31, 2022 was $21,360. During the year ended June 30, 2022, our operating activities used net cash of approximately $1.2 million and our total cash was $300,899. During the year ended June 30, 2021, our operating activities used net cash of approximately $6,300,000 and our cash was $541,591.  As of December 31, 2022, our accumulated deficit totaled approximately $59 million. As of June 30, 2022, our accumulated deficit totaled approximately $54,000,000. Although we have been able to mitigate our losses in the past, we expect to incur additional operating losses in the future and therefore expect our cumulative losses to increase. We will require funds to purchase additional inventories, pay our vendors, and build our marketing and sales staff. If we do not succeed in raising additional funds on acceptable terms, we may be unable to expand our business and could default on our obligations. There can be no assurance that such financing will be available and that the equity interests of all of our stockholders would not be substantially diluted. Any additional sources of financing will likely involve the issuance of our equity or debt securities, which will have a dilutive effect on our stockholders. To the extent that we raise additional funds by issuing equity securities, our stockholders may experience significant dilution. Any debt financing, if available, may involve restrictive covenants that may impact our ability to conduct our business. Our ability to raise capital through the sale of securities may be limited by the rules of the SEC and the terms of the agreements that we enter into. We currently do not have any committed sources of financing other than our accounts receivable factoring agreement, which requires us to meet certain conditions to utilize and there can be no assurance that we will meet those conditions.
+Our failure to comply with the terms of our outstanding notes could result in a default under the terms of the notes and, if uncured, it could potentially result in action against our pledged assets.
+We currently have outstanding $200,000 in principal amount related to the balance of the note we issued in June 2022; $900,000 in principal amount related to the balance of the note we issued in August 2022 and $310,000 in principal amount related to the balance of the note we issued in November 2022. The notes have negative and affirmative covenants that restrict our ability to declare dividends, repurchase stock, issue new debt without consent, sell assets and are secured by warrants and convertible default provisions in the event the Company does not make the scheduled payments. If we fail to comply with the terms of the notes, the note holders could declare a default under the notes and if the default were to remain uncured the amounts owed under the notes can be accelerated, as they would have the right to proceed against the collateral secured by the loans. Certain of the notes also have prohibitions which prohibit us from taking certain actions. Any failure to comply with the terms of the notes would likely have a serious disruptive effect on our business.
+We have not been able to access the operating capital available under the Equity   Purchase Agreement dated November 7, 2022, which could prevent us from accessing the capital we need to continue our operations, which could have an adverse effect on our business
+We have generated significant losses to date and expect to continue to incur significant operating losses. To date, our revenue from operations have been insufficient to support our operational activities and has been supplemented by the proceeds from the issuance of securities. There is no guarantee that additional equity, debt or other funding will be available to us on acceptable terms, or at all.
+Our ability to direct ClearThink Capital Partners, LLC, to purchase up to $5 million of shares of our common stock over a 24-month period is not available until we register for resale to be issued to ClearThink Capital Partners, LLC. We may need additional capital to fully implement our business, operating and development plans. Should the financing we require to sustain our working capital needs be unavailable or prohibitively expensive when we require it, the consequences could have a material adverse effect on our business, operating results, financial condition and prospects.
+Our inability to access any other financing sources, could have a material adverse effect on our business.
+Risks Relating to the COVID-19 Pandemic
+Pandemics, including the COVID-19 pandemic, could have a material adverse effect on our operations, liquidity, financial condition, and financial results.
+A serious global pandemic, including the current COVID-19 pandemic and variants of COVID-19, can adversely impact, shock and weaken the global economy. These impacts can amplify other risk factors and could have a material impact on our operations, liquidity, financial conditions, and financial results.
+COVID-19 pandemic-related risks may impact our exposure to global regulatory, geopolitical, and societal changes; rapid degradation of global economic conditions, creating an increase in the volatility and the timing and level of orders; supply chain disruptions, material shortages, and increases in the costs of components; changes in labor force availability, which could reduce our ability to operate across our business in development, sales and marketing, production, installation, and ongoing service and support; an increased risk being subjected to contract performance claims if we are unable to deliver according to the terms of our contract or commitments and cannot claim force majeure to mitigate or eliminate our exposure to such claims; increased geographic work restrictions that could impact our ability to market, sell, manufacture and/or install our products; an increase in our exposure to claims or litigation related to the pandemic; reduced access to and an increase in the cost of capital; reduced access to surety bonds or bank guarantees to secure customer orders; volatility and changes in foreign currency rates; delayed timing of collections and/or decreased collectability of receivables and contract assets; and a material reduction to the values of our assets including, but not limited to, inventory, deferred tax assets, goodwill, intangibles, and property and equipment.
+-32-
+Changes in general economic conditions, geopolitical conditions, domestic and foreign trade policies, monetary policies and other factors beyond our control may adversely impact our business and operating results.
+Our operations and performance depend on global, regional and U.S. economic and geopolitical conditions. A severe or prolonged economic downturn could result in a variety of risks to our business, including weakened demand for our products and our ability to raise capital when needed on favorable terms, if at all. Recently the rate of inflation has increased throughout the U.S. economy. Inflation may adversely affect us by increasing the costs of labor, consumables and other costs of doing business. In an inflationary environment, such cost increases may outpace our expectations, causing us to use cash faster than forecasted. We have experienced supply chain disruption and a weak or declining economy may further strain our vendors and suppliers possibly resulting in additional supply chain disruptions or cause delays in payments from customers. Russia’s invasion and military attacks on Ukraine have triggered significant sanctions from U.S. and European leaders. These events are currently escalating and creating increasingly volatile global economic conditions. Resulting changes in U.S. trade policy could trigger retaliatory actions by Russia, its allies and other affected countries, including China, resulting in a “trade war.” Any of the foregoing could cause us to face significant adverse effects to our business and financial condition
+The above factors, including a number of other economic and geopolitical factors both in the U.S. and abroad, could ultimately have material adverse effects on our business, financial condition, results of operations or cash flows, including the following:
+●
+effects of significant changes in economic, monetary and fiscal policies in the U.S. and abroad including currency fluctuations, inflationary pressures and significant income tax changes;
+●
+supply chain disruptions;
+●
+a global or regional economic slowdown in any of our market segments;
+●
+changes in government policies and regulations affecting the Company or its significant customers;
+●
+industrial policies in various countries that favor domestic industries over multinationals or that restrict foreign companies altogether;
+●
+new or stricter trade policies and tariffs enacted by countries, such as China, in response to changes in U.S. trade policies and tariffs;
+●
+postponement of spending, in response to tighter credit, financial market volatility and other factors;
+●
+rapid material escalation of the cost of regulatory compliance and litigation;
+●
+difficulties protecting intellectual property;
+●
+longer payment cycles;
+●
+credit risks and other challenges in collecting accounts receivable; and
+●
+the impact of each of the foregoing on outsourcing and procurement arrangements.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+For the six months ended December 31, 2022:
+Except as previously reported in prior filings with the Securities and Exchange Commission and as reported below, there were no sales of unregistered securities for the six months ended December 31, 2022.
+During the six months ended December 31, 2022, the Company issued 3,070,922 shares of common stock for professional consulting services.
+During the six months ended December 31, 2022, the Company issued 1,800,000 shares of common stock for commitment fees under a note payable.
+During the six months ended December 31, 2022, the Company issued 350,000 shares of common stock as a charitable donation.
+-33-
+During the six months ended December 31, 2022, the Company issued 4,863,038 shares of common stock to reduce notes payable.
+During the six months ended December 31, 2022, the Company issued 23,540,539 shares of common stock to convert Preferred Series F stock.
+During the six months ended December 31, 2022, the Company received 36,500 shares of common stock from a former investor.
+During the six months ended December 31, 2022, the Company issued 4,429,130 shares of common stock under the Equity Purchase Agreement in exchange for working capital.
+All sales in each of the transactions set forth above were issued relying on the exemption provided by Section 4(a)(2) of the Securities Act and Regulation D promulgated thereunder for the offer and sale of securities not involving a public offering except for debt conversions, the exercise of warrants, and Series F Preferred Stock exchanges, which were effected relying on Section 3(a)(9) of the Securities Act as the common stock was exchanged by us with our existing security holders exclusively and no commission or other remuneration was paid or given directly or indirectly for soliciting such exchange. The recipients of securities in each of these transactions relying on Section 4(a)(2) of the Securities Act and/or Rule 506 promulgated thereunder acquired the securities for investment only and not with a view to or for sale in connection with any distribution thereof, and appropriate legends were affixed to the securities issued in these transactions. Each of the recipients of securities in these transactions was an accredited investor within the meaning of Rule 501 of Regulation D under the Securities Act and had adequate access, through employment, business or other relationships, to information about us.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+Not applicable.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5. OTHER INFORMATION.
+On January 11, 2023, we issued 5,000,000 shares to an investor under the Equity Purchase Agreement in exchange for working capital.
+On January 27, 2023, we issued 763,359 shares to reduce a note payable.
+On February 1, 2023, we issued 1,000,000 shares additional commitment shares for the extension of a maturity date on a note payable.
+On February 1, 2023, we issued 4,000,000 shares to reduce a note payable.
+On February 8, 2023, we issued 1,923,077 shares to reduce a note payable.
+All sales in each of the transactions set forth above were issued relying on the exemption provided by Section 4(a)(2) of the Securities Act and Regulation D promulgated thereunder for the offer and sale of securities not involving a public offering except for debt conversions (issuance of common stock to reduce debt) , which were effected relying on Section 3(a)(9) of the Securities Act as the common stock was exchanged by us with our existing security holders exclusively and no commission or other remuneration was paid or given directly or indirectly for soliciting such exchange. The recipients of securities in each of these transactions relying on Section 4(a)(2) of the Securities Act and/or Rule 506 promulgated thereunder acquired the securities for investment only and not with a view to or for sale in connection with any distribution thereof, and appropriate legends were affixed to the securities issued in these transactions. Each of the recipients of securities in these transactions was an accredited investor within the meaning of Rule 501 of Regulation D under the Securities Act and had adequate access, through employment, business or other relationships, to information about us.
+-34-
+ITEM 6. EXHIBITS
+Exhibit No.
+Description
+3.1
+Amended and Restated Articles of Incorporation (incorporated herein by reference to Exhibit 3.1 to Amendment No. 1 to the Annual Report on Form 10-K/A, File No. 000-56006, filed with the Securities and Exchange Commission on October 16, 2020 )
+3.2
+Bylaws (incorporated herein by reference to Exhibit 3.2 to the Registrant's Form 8A-12G, File No. 000-56006, filed with the Securities and Exchange Commission on December 3, 2018)
+3.3
+Certificate of Designation for Series D Preferred Stock (incorporated herein by reference to Exhibit 3.3 to the Annual Report on Form 10-K, File No. 000-56006, filed with the Securities and Exchange Commission on filed on September 28, 2020)
+3.4
+Certificate of Designation for Series E Preferred Stock (incorporated herein by reference to Exhibit 3.4 to the Annual Report on Form 10-K, File No. 000-56006, filed with the Securities and Exchange Commission on filed on September 28, 2020)
+3.5
+Certificate of Designation of Series F Convertible Preferred Stock (incorporated herein by reference to Exhibit 3.1 to the Current Report on Form 8-K, File No. 000-56006, filed with the Securities and Exchange Commission filed February 14, 2022).
+3.6
+Certificate of Change (incorporated herein by reference to Exhibit 3.1 to the Current Report on Form 8-K, File No. 000-56006, filed with the Securities and Exchange Commission filed March 8,  2022).
+3.7
+Certificate of Designation of Series G Convertible Preferred Stock (incorporated herein by reference to Exhibit 3.1 to the Current Report on Form 8-K, File No. 000-56006, filed with the Securities and Exchange Commission filed June 29, 2022).
+3.8
+Certificate of Change (incorporated herein by reference to Exhibit 3.1 to the Current Report on Form 8-K, File No. 000-56006, filed with the Securities and Exchange Commission filed September 2, 2022).
+3.9
+Certificate of Change ((incorporated herein by reference to Exhibit 3.1 to the Current Report on Form 8-K, File No. 000-56006, filed with the Securities and Exchange Commission filed February 2, 2023).
+10.1 Purchase Agreement dated November 7, 2022 by and between Galaxy Next Generation, Inc. and ClerThink Capital Partners, LLC (incorporated herein by reference to Exhibit 10.1 to the Current Report on Form 8-K, File No. 000-56006, filed with the Securities and Exchange Commission filed November 8, 2022).
+31.1*
+Certification of CEO pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification of CFO pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1*
+Certification of CEO Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2*
+Certification of CFO Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the arbanes-Oxley Act of 2002
+101.INS+
+XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH+
+Inline XBRL Taxonomy Extension Schema
+101.CAL+
+Inline XBRL Taxonomy Extension Calculation Linkbase
+101.DEF+
+Inline XBRL Taxonomy Extension Definition Linkbase
+101.LAB+
+Inline XBRL Taxonomy Extension Label Linkbase
+101.PRE+
+Inline XBRL Taxonomy Extension Presentation Linkbase
+104 +
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*Filed herewith.
++To be filed in Amended filing.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+GALAXY NEXT GENERATION, INC.
+Date: February 14, 2023
+/s/ Gary LeCroy
+Gary LeCroy
+Chief Executive Officer (Principal Executive Officer)
+Date: February 14, 2023
+/s/Magen McGahee
+Magen McGahee
+Chief Financial Officer
+(Principal Financial Officer and Principal Accounting Officer)
+-35-
+Exhibit 31.1
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+I, Gary LeCroy, certify that:
+1. I have reviewed this Quarterly Report on Form 10-Q (this "report") of Galaxy Next Generation, Inc. (the "registrant");
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+4.The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have:
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+(c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+(d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonable likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+(b) Any fraud, whether or not material, that involved management or other employees who have a significant role in the registrant's internal control over financial reporting.
+Dated: February 14, 2023
+Galaxy Next Generation, Inc.
+By: /s/ Gary LeCroy
+Gary LeCroy
+Chief Executive Officer
+(Principal Executive Officer)
+-36-
+Exhibit 31.2
+CERTIFICATION OF CHIEF FINANCIAL OFFICER
+I, Magen McGahee, certify that:
+1. I have reviewed this Quarterly Report on Form 10-Q (this "report") of Galaxy Next Generation, Inc. (the "registrant");
+2.Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have:
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+(c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+(d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonable likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+(b) Any fraud, whether or not material, that involved management or other employees who have a significant role in the registrant's internal control over financial reporting.
+Dated: February 14, 2023
+Galaxy Next Generation, Inc.
+By:
+/s/ Magen McGahee
+Magen McGahee
+Chief Financial Officer
+(Principal Financial Officer and Principal Accounting Officer)
+-37-
+Exhibit 32.1
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350
+In connection with the accompanying Quarterly Report on Form 10-Q of Galaxy Next Generation, Inc. (the "Company") for the quarter ending December 31, 2022, I, Gary LeCroy, Chief Executive Officer of the Company hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge and belief, that:
+1.Such Quarterly Report on Form 10-Q for the fiscal quarter ending December 31, 2022, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+2. The information contained in such Quarterly Report on Form 10-Q for the quarter ending December 31, 2022, fairly presents, in all material respects, the financial condition and results of operations of the Company.
+Dated: February 14, 2023
+Galaxy Next Generation, Inc.
+By: /s/ Gary LeCroy
+Gary LeCroy
+Chief Executive Officer
+(Principal Executive Officer)
+-38-
+Exhibit 32.2
+CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350
+In connection with the accompanying Quarterly Report on Form 10-Q of Galaxy Next Generation, Inc. (the "Company") for the quarter ending December 31, 2022, I, Magen McGahee, Chief Financial Officer of the Company hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge and belief, that:
+1.Such Quarterly Report on Form 10-Q for the fiscal quarter ending December 31, 2022, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+2. The information contained in such Quarterly Report on Form 10-Q for the quarter ending December 31, 2022, fairly presents, in all material respects, the financial condition and results of operations of the Company.
+Dated: February 14, 2023
+Galaxy Next Generation, Inc.
+By:
+/s/ Magen McGahee
+Magen McGahee
+Chief Financial Officer
+(Principal Financial Officer and Principal Accounting Officer.)
+-39-

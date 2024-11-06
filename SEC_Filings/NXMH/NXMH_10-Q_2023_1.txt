@@ -1,0 +1,1878 @@
+false
+false
+0001811530
+2022-05-01
+2022-10-31
+0001811530
+2023-01-20
+0001811530
+2022-10-31
+0001811530
+2022-04-30
+0001811530
+2022-08-01
+2022-10-31
+0001811530
+2021-08-01
+2021-10-31
+0001811530
+2021-05-01
+2021-10-31
+0001811530
+us-gaap:CommonStockMember
+2022-04-30
+0001811530
+us-gaap:AdditionalPaidInCapital
+2022-04-30
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2022-04-30
+0001811530
+us-gaap:RetainedEarningsMember
+2022-04-30
+0001811530
+us-gaap:CommonStockMember
+2022-07-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2022-07-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2022-07-31
+0001811530
+us-gaap:RetainedEarningsMember
+2022-07-31
+0001811530
+2022-07-31
+0001811530
+us-gaap:CommonStockMember
+2022-05-01
+2022-07-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2022-05-01
+2022-07-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2022-05-01
+2022-07-31
+0001811530
+us-gaap:RetainedEarningsMember
+2022-05-01
+2022-07-31
+0001811530
+2022-05-01
+2022-07-31
+0001811530
+us-gaap:CommonStockMember
+2022-08-01
+2022-10-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2022-08-01
+2022-10-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2022-08-01
+2022-10-31
+0001811530
+us-gaap:RetainedEarningsMember
+2022-08-01
+2022-10-31
+0001811530
+us-gaap:CommonStockMember
+2022-10-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2022-10-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2022-10-31
+0001811530
+us-gaap:RetainedEarningsMember
+2022-10-31
+0001811530
+us-gaap:CommonStockMember
+2021-04-30
+0001811530
+us-gaap:NoncontrollingInterestMember
+2021-04-30
+0001811530
+us-gaap:AdditionalPaidInCapital
+2021-04-30
+0001811530
+us-gaap:SubscriptionAndCirculationMember
+2021-04-30
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2021-04-30
+0001811530
+us-gaap:RetainedEarningsMember
+2021-04-30
+0001811530
+2021-04-30
+0001811530
+us-gaap:CommonStockMember
+2021-07-31
+0001811530
+us-gaap:NoncontrollingInterestMember
+2021-07-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2021-07-31
+0001811530
+us-gaap:SubscriptionAndCirculationMember
+2021-07-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2021-07-31
+0001811530
+us-gaap:RetainedEarningsMember
+2021-07-31
+0001811530
+2021-07-31
+0001811530
+us-gaap:CommonStockMember
+2021-05-01
+2021-07-31
+0001811530
+us-gaap:NoncontrollingInterestMember
+2021-05-01
+2021-07-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2021-05-01
+2021-07-31
+0001811530
+us-gaap:SubscriptionAndCirculationMember
+2021-05-01
+2021-07-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2021-05-01
+2021-07-31
+0001811530
+us-gaap:RetainedEarningsMember
+2021-05-01
+2021-07-31
+0001811530
+2021-05-01
+2021-07-31
+0001811530
+us-gaap:CommonStockMember
+2021-08-01
+2021-10-31
+0001811530
+us-gaap:NoncontrollingInterestMember
+2021-08-01
+2021-10-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2021-08-01
+2021-10-31
+0001811530
+us-gaap:SubscriptionAndCirculationMember
+2021-08-01
+2021-10-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2021-08-01
+2021-10-31
+0001811530
+us-gaap:RetainedEarningsMember
+2021-08-01
+2021-10-31
+0001811530
+us-gaap:CommonStockMember
+2021-10-31
+0001811530
+us-gaap:NoncontrollingInterestMember
+2021-10-31
+0001811530
+us-gaap:AdditionalPaidInCapital
+2021-10-31
+0001811530
+us-gaap:SubscriptionAndCirculationMember
+2021-10-31
+0001811530
+us-gaap:OtherComprehensiveIncomeMember
+2021-10-31
+0001811530
+us-gaap:RetainedEarningsMember
+2021-10-31
+0001811530
+2021-10-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR
+THE QUARTERLY PERIOD ENDED
+October 31, 2022
+OR
+[   ]  TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+COMMISSION FILE NUMBER:
+000-56167
+Next Meats Holdings, Inc.
+(Exact name of registrant as specified in
+its charter)
+Nevada
+85-4008709
+(State or other jurisdiction
+of incorporation or organization)
+(I.R.S.
+Employer Identification No.)
+3F
+1-16-13 Ebisu Minami Shibuya-ku,
+Tokyo
+Japan
+(Address
+of Principal Executive Offices)
+Indicate by check mark whether the registrant
+(1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the preceding 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. [X] Yes [ ] No
+Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such
+shorter period that the registrant was required to submit and post such files). [X]
+Yes
+[ ] No
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, or a non-accelerated filer or a small reporting company. See definition of
+large accelerated filer, accelerated filer and small reporting company in Rule 12b-2 of the Securities Exchange Act of 1934.
+Large accelerated filer   ☐
+Accelerated filer   ☐
+Non-accelerated filer    ☒
+Smaller reporting company   ☒
+Emerging growth company   ☒
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. [  ]
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+[   ] Yes
+[X]
+No
+Indicate the number of shares outstanding of each of the issuer’s
+classes of common stock, as of the latest practicable date.
+As
+of January 20, 2023, there were
+502,562,280
+shares of the Registrant’s common stock, par value $0.001 per share,
+issued and outstanding. As of January 20, 2023, there were no shares of preferred stock issued and outstanding.
+-1-
+Table of Contents
+INDEX
+Page
+PART I - FINANCIAL INFORMATION
+ITEM 1
+FINANCIAL STATEMENTS
+F1
+CONDENSED
+CONSOLIDATED BALANCE SHEETS as of October 31, 2022 (unaudited) and aPRIL 30, 2022
+F1
+CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME FOR THE THREE AND SIX MONTHS ENDED October 31, 2022 AND October 31,
+2021 (UnAUDITED)
+F2
+CONDENSED
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (DEFICIT) FOR THE PERIOD APRIL 30, 2022 TO OCTOBER 31, 2022 AND FOR
+THE PERIOD APRIL 30, 2021 TO OCTOBER 31, 2021 (UNAUDITED)
+F3
+CONDENSED
+CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE SIX MONTHS ENDED October 31, 2022 and October 31, 2021 (uNAUDITED)
+F4
+NOTES
+TO THE UNAUDITED FINANCIAL STATEMENTS
+F5-F6
+ITEM 2
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND RESULTS OF OPERATIONS
+3
+ITEM 3
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+4
+ITEM
+4
+CONTROLS
+AND PROCEDURES
+5
+PART II-OTHER INFORMATION
+ITEM 1
+LEGAL PROCEEDINGS
+6
+ITEM 1A
+RISK FACTORS
+ITEM 2
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+6
+ITEM 3
+DEFAULTS UPON SENIOR SECURITIES
+6
+ITEM 4
+MINE SAFETY DISCLOSURES
+6
+ITEM 5
+OTHER INFORMATION
+6
+ITEM 6
+EXHIBITS
+6
+SIGNATURES
+7
+-2-
+Table of Contents
+PART I - FINANCIAL INFORMATION
+ITEM 1
+FINANCIAL STATEMENTS
+NEXT
+MEATS HOLDINGS, INC.
+CONDENSED
+CONS OLIDATED
+BALANCE
+SHEETS
+October 31, 2022
+(Unaudited)
+April 30, 2022
+ASSETS
+Current Assets
+Cash and cash equivalents
+$
+58,140
+$
+620,297
+Accounts receivable
+1,103,584
+1,288,591
+Short
+term loans receivable
+145,991
+-
+Advance payments and prepaid expenses
+136,395
+1,335,832
+Inventories
+502,378
+598,044
+TOTAL CURRENT ASSETS
+1,946,486
+3,842,764
+Non-current assets
+Equipment, net depreciation
+$
+127,142
+$
+168,241
+Construction in progress
+127,999
+282,230
+Land and improvements
+970,239
+1,093,028
+Long term prepaid expenses
+-
+2,695
+Deferred
+assets
+-
+739
+Security deposits
+128,241
+151,403
+Stock
+-
+187,500
+TOTAL NON-CURRENT ASSETS
+1,353,621
+1,885,836
+TOTAL ASSETS
+$
+3,300,107
+$
+5,728,600
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities
+Accrued expenses and other payables
+$
+340,212
+$
+558,360
+Short
+term loans
+28,915
+-
+Short
+term loans, related party
+21,584
+-
+Income tax payable
+2,812
+23,841
+TOTAL CURRENT LIABILITIES
+393,523
+582,201
+Noncurrent Liabilities
+Loans
+226,217
+271,613
+TOTAL LIABILITIES
+$
+619,740
+$
+853,814
+Shareholders' Equity
+Preferred stock ($ 0.001
+par value,
+20,000,000
+shares authorized,
+0
+issued and outstanding as of October 31, 2022 and April 30, 2022)
+-
+-
+Common
+stock ($ 0.001
+par
+value,
+1,000,000,000
+shares
+authorized,
+502,255,600
+shares
+issued and outstanding as of October 31, 2022 and April 30, 2022, respectively)
+502,256
+502,256
+Additional paid-in capital
+5,893,119,099
+5,893,031,815
+Accumulated deficit
+( 5,889,189,496 )
+( 5,887,460,258 )
+Accumulated
+other comprehensive income (loss)
+( 1,751,492 )
+( 1,199,027 )
+TOTAL SHAREHOLDERS' EQUITY
+$
+2,680,367
+$
+4,874,786
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY
+$
+3,300,107
+$
+5,728,600
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+-F1-
+Table of Contents
+NEXT
+MEATS HOLDINGS, INC.
+CONDENSED
+CONSOLIDATED
+STATEMENTS
+OF OPERATIONS AND COMPREHENSIVE INCOME
+(UNAUDITED)
+Three Months Ended
+October 31, 2022
+Three Months Ended
+October 31, 2021
+Six Months Ended
+October 31, 2022
+Six Months Ended
+October 31, 2021
+REVENUES
+Revenues
+$
+465,868
+$
+3,815,510
+$
+871,315
+$
+5,184,080
+Cost of revenues
+422,604
+3,805,247
+767,460
+5,075,142
+GROSS
+PROFIT (LOSS)
+43,264
+10,263
+103,855
+108,938
+OPERATING EXPENSE
+Depreciation
+7,913
+13,119
+17,982
+24,750
+General and administrative expenses
+781,463
+1,161,532
+1,732,864
+2,371,247
+Total operating expenses
+789,375
+1,174,651
+1,750,845
+2,395,997
+Income (loss) from operations
+( 746,111 )
+( 1,164,388 )
+( 1,646,990 )
+( 2,287,059 )
+Other income (expense)
+Interest expense
+( 2,515 )
+( 966 )
+( 3,694 )
+( 1,484 )
+Other expense
+( 81,292 )
+( 1,015 )
+( 123,071 )
+( 2,049 )
+Other income
+43,519
+1,099
+44,858
+6,407
+Total other income (expenses)
+( 40,287 )
+( 883 )
+( 81,906 )
+2,873
+Net income (loss) before tax
+( 786,398 )
+( 1,165,271 )
+( 1,728,896 )
+( 2,284,186 )
+Income tax expense
+341
+( 237 )
+341
+45,171
+NET INCOME (LOSS)
+$
+( 786,740 )
+$
+( 1,165,034 )
+$
+( 1,729,238 )
+$
+( 2,329,357 )
+OTHER
+COMPREHENSIVE INCOME (LOSS)
+Foreign currency translation adjustment
+$
+( 370,014 )
+$
+( 216,884 )
+$
+( 552,465 )
+$
+( 262,190 )
+TOTAL
+COMPREHENSIVE INCOME (LOSS)
+$
+( 1,156,753 )
+$
+( 1,381,918 )
+$
+( 2,281,702 )
+$
+( 2,591,548 )
+Income
+per common share
+Basic
+$
+( 0.00 )
+$
+( 0.00 )
+$
+( 0.00 )
+$
+( 0.00 )
+Diluted
+$
+-
+$
+-
+$
+-
+$
+-
+Weighted
+average common shares outstanding
+Basic
+502,255,600
+500,000,000
+502,255,600
+500,000,000
+Diluted
+-
+-
+-
+-
+The accompanying notes are an integral part of
+these unaudited condensed consolidated financial statements.
+-F2-
+Table of Contents
+NEXT
+MEATS HOLDINGS, INC.
+Condensed
+Consolidated Statement of Changes in Stockholders’ Equity (Deficit)
+For the
+Period April 30, 2022 to October 31, 2022
+(UNAUDITED)
+Common Shares
+Par Value Common Shares
+Additional Paid-in Capital
+Accumulated Other Comprehensive Income (Loss)
+Accumulated Deficit
+Total
+Balances, April 30, 2022
+502,255,600
+$
+502,256
+$
+5,893,031,815
+$
+( 1,199,027 )
+$
+( 5,887,460,258 )
+$
+4,874,786
+Contributed capital
+-
+-
+4,613
+-
+-
+4,613
+Net loss
+-
+-
+-
+-
+( 942,498 )
+( 942,498 )
+Foreign currency translation
+-
+-
+-
+( 182,451 )
+-
+( 182,451 )
+Balances, July 31, 2022
+502,255,600
+$
+502,256
+$
+5,893,036,428
+$
+( 1,381,478 )
+$
+( 5,888,402,756 )
+$
+3,754,449
+Contributed capital
+-
+-
+82,671
+-
+-
+82,671
+Net loss
+-
+-
+-
+-
+( 786,740 )
+( 786,740 )
+Foreign currency translation
+-
+-
+-
+( 370,014 )
+-
+( 370,014 )
+Balances, October 31, 2022
+502,255,600
+$
+502,256
+5,893,119,099
+$
+( 1,751,492 )
+$
+( 5,889,189,496 )
+$
+2,680,367
+Next
+Meats Holdings, Inc.
+Condensed
+Consolidated Statement of Changes in Stockholders’ Equity (Deficit)
+For
+the Period April 30, 2021 to October 31, 2021
+(UNAUDITED)
+Common Shares
+Par Value Common Shares
+Non-Controlling
+Interest
+Additional Paid-in Capital
+Subscription
+Payable
+Accumulated Other Comprehensive Income (Loss)
+Accumulated Deficit
+Total
+Balances, April 30, 2021
+500,000,000
+$
+500,000
+$
+52,374
+$
+5,889,168,832
+$
+-
+$
+( 70,061 )
+$
+( 5,881,664,278 )
+$
+7,986,866
+Expenses paid on behalf of the company and contributed to capital
+-
+-
+-
+203,685
+-
+-
+-
+203,685
+Net loss
+-
+-
+-
+-
+-
+-
+( 1,164,323 )
+( 1,164,323 )
+Foreign currency translation
+-
+-
+-
+-
+-
+( 45,306 )
+-
+( 45,306 )
+Balances, July 31, 2021
+500,000,000
+$
+500,000
+$
+52,374
+$
+5,889,372,517
+-
+$
+( 115,367 )
+$
+( 5,882,828,601 )
+$
+6,980,922
+Noncontrolling interest
+-
+-
+70,422
+-
+-
+-
+-
+70,422
+Expenses paid on behalf
+of the company and contributed to capital
+-
+-
+-
+15,700
+-
+-
+-
+15,700
+Deposit for shares subscription
+-
+-
+-
+-
+1,747,188
+-
+-
+1,747,188
+Net loss
+-
+-
+-
+-
+-
+-
+( 1,165,034 )
+( 1,165,034 )
+Foreign currency translation
+-
+-
+-
+-
+-
+( 216,884 )
+-
+( 216,884 )
+Balances, October 31,
+2021
+500,000,000
+$
+500,000
+$
+52,374
+5,889,388,217
+$
+1,747,188
+$
+( 332,251 )
+$
+( 5,883,993,636 )
+$
+7,361,892
+The accompanying notes
+are an integral part of these unaudited condensed consolidated financial statements.
+-F3-
+Table of Contents
+NEXT
+MEATS HOLDINGS, INC.
+CONDENSED
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(UNAUDITED)
+Six Months Ended
+October 31, 2022
+Six Months Ended
+October 31, 2021
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss
+$
+( 1,729,238 )
+$
+( 2,329,357 )
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities:
+Depreciation and amortization
+17,982
+24,750
+Loss on the sale of fixed assets
+371
+-
+Loss on the sale of stock
+39,876
+-
+Changes in operating assets and liabilities:
+Accounts receivable
+185,007
+( 901,899 )
+Short term loan receivable
+( 145,991 )
+( 87,107 )
+Accrued expenses and other payables
+( 218,148 )
+474,883
+Advance payments and prepaid expenses
+1,202,132
+( 1,281,574 )
+Accounts payable - related party
+-
+2,078
+Security deposits
+23,162
+( 4,580 )
+Deferred assets
+739
+-
+Income tax payable
+( 21,029 )
+( 153 )
+Inventories
+95,666
+( 751,171 )
+Net cash used in operating activities
+( 549,469 )
+( 4,838,288 )
+CASH FLOWS FROM INVESTING ACTIVITIES
+Cash paid for equipment
+22,746
+( 23,184 )
+Construction in progress
+154,231
+( 149,477 )
+Land and improvements
+122,789
+( 1,246,488 )
+Cash paid for stock
+-
+( 357,051 )
+Cash received for the sale of  stock
+147,624
+-
+Net
+cash provided by (used in) investing activities
+447,390
+( 1,776,200 )
+CASH FLOWS FROM FINANCING ACTIVITIES
+Expenses contributed to capital
+87,284
+219,385
+Deposits received for share subscriptions
+-
+1,747,188
+Loans
+5,103
+307,909
+Net
+cash provided by (used in) financing activities
+92,386
+2,274,482
+Net effect of exchange rate changes on cash
+$
+( 552,465 )
+$
+( 262,190 )
+Net Change in Cash and Cash Equivalents
+( 562,157 )
+( 4,602,196 )
+Cash and cash equivalents - beginning of period
+620,297
+7,210,200
+Cash and cash equivalents - end of period
+$
+58,140
+$
+2,608,004
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Interest paid
+$
+2,515
+$
+1,484
+Income taxes paid
+$
+21,029
+$
+41,646
+NON-CASH INVESTING AND FINANCING TRANSACTIONS
+$
+-
+$
+-
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial
+statements.
+-F4-
+Table
+of Contents
+NEXT
+MEATS HOLDINGS, INC.
+NOTES
+TO THE UNAUDITED FINANCIAL STATEMENTS
+Note
+1 - Organization and Description of Business
+Next Meats
+Holdings, Inc. (we, us, our, or the "Company"), formerly known as Turnkey Solutions, Inc., was incorporated on April 15, 2020
+in the State of Nevada.
+On April
+15, 2020, Paul Moody was appointed Chief Executive Officer, Chief Financial Officer, and Director of the Company, at the time known as
+“Turnkey Solutions, Inc.”
+On October
+1, 2020, the Company, at the time known as “Turnkey Solutions, Inc.” (the “Company” or “Successor”)
+announced on Form 8-K plans to participate in a holding company reorganization (“the Reorganization” or “Merger”)
+with Intermedia Marketing Solutions, Inc. (“IMMM” or “Predecessor”) and Intermedia Marketing Solutions Merger
+Sub, Inc. (“Merger Sub”) collectively (the “Constituent Corporations”) pursuant to NRS 92A.180, NRS A.200, NRS
+92A.230 and NRS 92A.250. Immediately prior to the Reorganization, the Company was a direct and wholly owned subsidiary of Intermedia Marketing
+Solutions, Inc. and Intermedia Marketing Solutions Merger Sub, Inc. was a direct and wholly owned subsidiary of the Company.
+The effective
+date and time of the Reorganization was October 28, 2020 at 4PM PST (the “Effective Time”). The entire plan of Merger is on
+file with Nevada Secretary of State (“NSOS”) and included in the Articles of Merger pursuant to NRS 92A.200 Nevada Secretary
+of State (“NSOS”) and attached to and made a part thereof to the Articles of Merger pursuant to NRS 92A.200 filed with NSOS
+on October 16, 2020. At the Effective Time, Predecessor merged with and into its indirect and wholly owned subsidiary, Merger Sub with
+Predecessor as the surviving corporation resulting in Predecessor as a wholly owned subsidiary of the Company.
+Concurrently
+and after the Effective Time, the Company cancelled all of its stock held in Predecessor resulting in the Company as a stand-alone and
+separate entity with no subsidiaries, no assets and negligible liabilities. The assets and liabilities of Predecessor, if any, remain
+with Predecessor. The Company has abandoned the business plan of its Predecessor and resumed its former business plan of a blank check
+company after completion of the Merger.
+Full
+details pertaining to the Reorganization can be viewed in the Company’s Form 8-K filed with the Securities and Exchange
+Commission on October 29, 2020.
+On
+November 18, 2020 our former controlling shareholder, Flint Consulting Services, LLC sold 35,000,000 shares of common stock to Next Meats
+Co., Ltd a Japan Company. Collectively, the majority shareholders of Next Meats Co., Ltd are comprised of Ryo Shirai, Hideyuki Sasaki,
+and Koichi Ishizuka. The Purchase Price was paid with personal funds of the majority shareholders of NMC.
+On
+the same day, November 18, 2020, Paul Moody resigned from his position of Chief Executive Officer, Chief Financial Officer, President,
+Secretary, Treasurer and Director.
+Simultaneous
+to Paul Moody’s resignations Ryo Shirai was appointed as our Chief Executive Officer and Director, Hideyuki Sasaki as our Chief
+Operating Officer and Director, and Koichi Ishizuka as our Chief Financial Officer.
+On
+January 8, 2021 our majority shareholder, Next Meats Co., Ltd., a Japan Company, along with our Board of Directors, comprised of Mr.
+Koichi Ishizuka, Mr. Ryo Shirai, and Mr. Hideyuki Sasaki, took action to ratify, affirm, and approve a name change of the Company
+from Turnkey Solutions, Inc., to Next Meats Holdings, Inc. The Company filed a Certificate of Amendment with the Nevada Secretary of
+State (“NVSOS”) to enact the name change with an effective date of January 19, 2021. This was previously disclosed in
+the Form 8-K we filed with the Securities and Exchange Commission on January 25, 2021.
+Also on
+January 8, 2021, our majority shareholder Next Meats Co., Ltd., along with our Board of Directors took action to ratify, affirm, and approve
+a change of the Company’s ticker symbol from TKSI to NXMH.
+Pursuant
+to the above, the Company carried out a FINRA corporate action. As a result of the aforementioned actions the Company’s CUSIP number
+was changed from 90043H102 to 65345L 100. The change in CUSIP, name change, and symbol change were posted on the FINRA daily list on January
+25, 2021 with a market effective date of January 26, 2021.
+On January 28, 2021, our majority
+shareholder, Next Meats Co., Ltd., along with our Board of Directors took action to ratify, affirm, and approve the issuance of 452,352,298
+shares of restricted common stock to Next Meats Co., Ltd. The shares were issued for services rendered to the Company. Following this
+issuance we had 500,000,000 shares of common stock issued and outstanding. On June 9, 2021 the Company entered into a “Share Cancellation
+and Exchange Agreement” (referred to herein as “the Agreement”) with Next Meats Co., Ltd.
+Next Meats Co., Ltd. is a Japanese
+Company that operates in the “alternative meat” industry. It currently offers, and plans to continue to offer, amongst other
+things,
+plant based food products. The product offerings from Next Meats Co., Ltd. are currently
+sold to various food distributors, supermarkets, and restaurant groups.
+Next Meats Co., Ltd. is referred
+to herein as “NMCO”, and Next Meats Holdings, Inc., is referred to herein as “the Company”, and or “NXMH.”
+The current shareholders of Next Meats Co., Ltd. are referred to herein as “NMCO shareholders”.
+Pursuant to the agreement, at the
+effective time of the agreement, NXMH acquired NMCO as a wholly owned subsidiary and commensurate with this action, there was a conversion of
+the NXMH Percentile Share Interest in exchange for the Company’s 100% percentile share interest in NMCO. Immediately prior to the
+Effective Time, (defined below) each NMCO shareholder canceled and exchanged their percentile share interest in NMCO for an equivalent
+percentile share interest in NXMH pursuant to each NMCO shareholder’s pro rata percentage.
+On or
+about September 17, 2021, we incorporated NextMeats France, a French entity, which we intended to act as a wholly owned subsidiary
+of the Company. We intended to utilize NextMeats France to, amongst other things, operate as a reseller and distributor, in France and
+throughout Europe, of food products currently offered by Next Meats Co., Ltd. There are currently no agreements in place between
+Next Meats Co., Ltd. and NextMeats France. In December of 2022 we dissolved NextMeats France, a French Entity.
+In January of
+2022, we engaged counsel to incorporate Next Meats USA, Inc. on our behalf. Next Meats USA, Inc. (“NXMH USA”) was incorporated
+on January 18, 2022 and is a California Corporation.
+On
+February 7, 2022, the incorporator of Next Meats USA, Inc. was discharged of any further duties. Simultaneously, Koichi Ishizuka and
+Koki Terui were appointed as Directors and Koki Terui was appointed President, Chief Executive Officer,
+Secretary, Treasurer and Chief Financial Officer of Next Meats USA, Inc.
+On February
+7, 2022, NXMH USA issued 100 shares of its common stock to Next Meats Holdings, Inc., a Nevada Corporation, in exchange for $10,000. As
+a result of this action, Next Meats Holdings, Inc. became the sole shareholder of NXMH USA. NXMH USA is now a wholly owned subsidiary
+of Next Meats Holdings, Inc.
+Next Meats
+Holdings, Inc., intends to utilize NXMH USA as a means to expand its business operations into the United States. Currently, the Company
+offers a wide variety of alternative meat products and it is the Company’s plan to make these products more readily available to
+those in the United States via NXMH USA.
+On or about February 8, 2022, we incorporated Next
+Meats HK Co. Limited (“Next Meats HK”), a Hong Kong Company. Next Meats HK is now a wholly owned subsidiary of the Company.
+The Registry Number associated with this entity in Hong Kong is 3126390.
+On or about March 2, 2022, we incorporated Next Meats
+(S) Pte. Ltd. (“Next Meats Singapore”), a Singapore Company. Next Meats Singapore. is now a wholly owned subsidiary of the
+Company. The Company Registration Number in Singapore is 202207295H.
+These
+financial statements included herein consolidate those of NXMH, NMCO, NextMeats France, NXMH USA, Next Meats HK, and Next Meats
+Singapore.
+On December 28, 2021 we filed an
+amendment to our Articles of Incorporation with the Nevada Secretary of State, resulting in an increase to our authorized shares of Common
+Stock from 500,000,000 to 1,000,000,000.
+On December
+28, 2021, Ryo Shirai resigned as our Chief Executive Officer and was appointed Chairman of the Board of Directors.
+The resignation
+of Mr. Ryo Shirai, as Chief Executive Officer, was not the result of any disagreement with the Company on any matter relating to
+its operations, policies, or practices.
+On December
+28, 2021, Mr. Koichi Ishizuka was appointed Chief Executive Officer of the Company.
+There is no
+arrangement or understanding among the newly appointed officer, Koichi Ishizuka, or any other person, pursuant to which they were appointed
+as an officer of the Company.
+On July
+12, 2022, Mr. Ryo Shirai resigned as the Company’s Chairman of the Board of Directors and as a Director. Mr. Shirai's
+resignations are a result of personal health issues. The resignations of Mr. Ryo Shirai were not the result of any disagreement with
+the Company on any matter relating to its operations, policies, or practices. The Company’s Board of Directors is now only
+comprised of two members.
+The Company
+has elected April 30th as its year end.
+Note
+2 -
+Summary of Significant Accounting Policies
+Basis
+of Presentation
+This summary
+of significant accounting policies is presented to assist in understanding the Company's financial statements. These accounting policies
+conform to accounting principles, generally accepted in the United States of America, and have been consistently applied in the preparation
+of the financial statements.
+The
+accompanying unaudited interim financial statements of the Company have been prepared in accordance with accounting principles generally
+accepted in the United States of America (“GAAP”) and the rules of the Securities and Exchange Commission (“SEC”)
+and should be read in conjunction with the unaudited financial statements and notes thereto contained in the Company’s most recent
+Annual Financial Statements In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for
+a fair presentation of financial position and the results of operations for the interim period presented have been reflected herein.
+The results of operations for the interim period are not necessarily indicative of the results to be expected for the full year. Notes
+to the financial statements, which would substantially duplicate the disclosures contained in the unaudited financial statements for
+the most recent fiscal period, as reported in the 2021 Annual Report, have been omitted.
+Use of
+Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and expenses during the reporting period. In the opinion of management,
+all adjustments necessary in order to make the financial statements not misleading have been included. Actual results could differ from
+those estimates.
+Cash
+and Cash Equivalents
+The Company considers all highly liquid investments with an original maturity of three months or less when purchased to be cash equivalents.
+Cash and cash equivalents at October 31, 2022 and April 30, 2022 were $ 58,140
+and $ 620,297 , respectively.
+Income
+Taxes
+The Company accounts for income taxes under ASC 740, “Income Taxes.” Under the asset and liability method of ASC 740, deferred
+tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statements
+carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using
+enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or
+settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period the enactment
+occurs. A valuation allowance is provided for certain deferred tax assets if it is more likely than not that the Company will not realize
+tax assets through future operations. No deferred tax assets or liabilities were recognized at October 31, 2022 and April 30, 2022.
+Basic
+Earnings (Loss) Per Share
+The Company
+computes basic and diluted earnings (loss) per share in accordance with ASC Topic 260, Earnings per Share. Basic earnings (loss) per share
+is computed by dividing net income (loss) by the weighted average number of common shares outstanding during the reporting period. Diluted
+earnings (loss) per share reflects the potential dilution that could occur if stock options and other commitments to issue common stock
+were exercised or equity awards vest resulting in the issuance of common stock that could share in the earnings of the Company.
+The Company
+does not have any potentially dilutive instruments as of October 31, 2022 and, thus, anti-dilution issues are not applicable.
+Fair
+Value of Financial Instruments
+The Company’s
+balance sheet includes certain financial instruments. The carrying amounts of current assets and current liabilities approximate their
+fair value because of the relatively short period of time between the origination of these instruments and their expected realization.
+ASC 820,  Fair
+Value Measurements and Disclosures , defines fair value as the exchange price that would be received for an asset or paid to transfer
+a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between
+market participants on the measurement date. ASC 820 also establishes a fair value hierarchy that distinguishes between (1) market
+participant assumptions developed based on market data obtained from independent sources (observable inputs) and (2) an entity’s
+own assumptions about market participant assumptions developed based on the best information available in the circumstances (unobservable
+inputs). The fair value hierarchy consists of three broad levels, which gives the highest priority to unadjusted quoted prices in active
+markets for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3). The three levels of the
+fair value hierarchy are described below:
+- Level
+1 - Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities.
+- Level
+2 - Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly,
+including quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities
+in markets that are not active; inputs other than quoted prices that are observable for the asset or liability (e.g., interest rates);
+and inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+- Level
+3 - Inputs that are both significant to the fair value measurement and unobservable.
+Fair value
+estimates discussed herein are based upon certain market assumptions and pertinent information available to management as of October
+31, 2022. The respective carrying value of certain on-balance-sheet financial instruments approximated their fair values due to the short-term
+nature of these instruments. These financial instruments include accrued expenses.
+Related
+Parties
+The Company follows ASC 850, Related Party Disclosures, for the identification of related parties and disclosure of related party transactions.
+Share-Based
+Compensation
+ASC 718,
+“ Compensation – Stock Compensation ”, prescribes accounting and reporting standards for all share-based payment
+transactions in which employee services are acquired. Transactions include incurring liabilities, or issuing or offering to issue shares,
+options, and other equity instruments such as employee stock ownership plans and stock appreciation rights. Share-based payments to employees,
+including grants of employee stock options, are recognized as compensation expense in the financial statements based on their fair values.
+That expense is recognized over the period during which an employee is required to provide services in exchange for the award, known as
+the requisite service period (usually the vesting period).
+The Company
+accounts for stock-based compensation issued to non-employees and consultants in accordance with the provisions of ASC 505-50, “ Equity
+– Based Payments to Non-Employees.”   Measurement of share-based payment transactions with non-employees is based
+on the fair value of whichever is more reliably measurable:  (a) the goods or services received; or (b) the equity instruments issued.
+The fair value of the share-based payment transaction is determined at the earlier of performance commitment date or performance
+completion date.
+The
+Company had no stock-based compensation plans as of October 31, 2022.
+The Company’s
+stock-based compensation for the periods ended October 31, 2022 and October 31, 2021 was $0 for both periods.
+Recently
+Issued Accounting Pronouncements
+In
+February 2016, the FASB issued ASU 2016-02,  Leases (Topic 842). ASU 2016-02  is amended by ASU 2018-01, ASU2018-10, ASU
+2018-11, ASU 2018-20 and ASU 2019-01, which FASB issued in January 2018, July 2018, July 2018, December 2018 and March 2019, respectively
+(collectively, the amended ASU 2016-02). The amended ASU 2016-02 requires lessees to recognize on the balance sheet a right-of-use asset,
+representing its right to use the underlying asset for the lease term, and a lease liability for all leases with terms greater than 12
+months. The recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee have not significantly
+changed from current GAAP. The amended ASU 2016-02 retains a distinction between finance leases (i.e. capital leases under current GAAP)
+and operating leases. The classification criteria for distinguishing between finance leases and operating leases will be substantially
+similar to the classification criteria for distinguishing between capital leases and operating leases under current GAAP. The amended
+ASU 2016-02 also requires qualitative and quantitative disclosures designed to assess the amount, timing, and uncertainty of cash flows
+arising from leases. A modified retrospective transition approach is permitted to be used when an entity adopts the amended ASU 2016-02,
+which includes a number of optional practical expedients that entities may elect to apply.
+We
+have no assets and or leases that we believe will be impacted in the foreseeable future by the newly adopted accounting standard(s)
+mentioned above.
+The Company
+has implemented all new accounting pronouncements that are in effect and that may impact its financial statements and does not believe
+that there are any other new pronouncements that have been issued that might have a material impact on its financial position or results
+of operations.
+-F5-
+Table
+of Contents
+Note
+3 - Going Concern
+The Company’s
+financial statements are prepared in accordance with generally accepted accounting principles applicable to a going concern that contemplates
+the realization of assets and liquidation of liabilities in the normal course of business.
+The Company
+demonstrates adverse conditions that raise substantial doubt about the Company's ability to continue as a going concern for one year following
+the issuance of these financial statements. These adverse conditions are negative financial trends, specifically operating loss, working
+capital deficiency, and other adverse key financial ratios.
+The Company has not recorded enough revenue to cover its operating costs. Currently, management plans to fund some operating expenses
+with related party contributions to capital, or through the sale of equity, until there is sufficient revenue to cover all operating expenses.
+There is no assurance that management's plans will be successful. The financial statements do not include any adjustments relating to
+the recoverability and classification of recorded assets, or the amounts and classification of liabilities that might be necessary in
+the event that the Company cannot continue as a going concern.
+Note
+4 - Income Taxes
+The Company has not recognized an
+income tax benefit for its operating losses generated based on uncertainties concerning its ability to generate taxable income in future
+periods. The tax benefit for the period presented is offset by a valuation allowance established against deferred tax assets arising
+from the net operating losses, the realization of which could not be considered more likely than not. In future periods, tax benefits
+and related deferred tax assets will be recognized when management considers realization of such amounts to be more likely than not.
+As of October 31, 2022, the Company has incurred a net loss of approximately $ 8,609,622
+which resulted in a net operating loss for income tax purposes.  The loss results in a deferred tax asset of approximately
+$ 1,808,021
+at the effective statutory
+rate of 21%. The deferred tax asset has been offset by an equal valuation allowance. Given our inception on April 15, 2020, and our fiscal
+year end of April 30, 2022, we have completed three taxable fiscal years.
+Note
+5 - Commitments and Contingencies
+The Company follows ASC 450-20, Loss Contingencies, to report accounting for contingencies. Liabilities for loss contingencies arising
+from claims, assessments, litigation, fines and penalties and other sources are recorded when it is probable that a liability has been
+incurred and the amount of the assessment can be reasonably estimated. There were no commitments or contingencies as of October 31, 2022.
+Note
+6 - Stock
+On
+July 20, 2021, Catapult Solutions, Inc., a Nevada Corporation (“Catapult”), entered into a Share Purchase Agreement (the “Agreement”)
+by and among CRS Consulting, LLC, a Wyoming Limited Liability Company (“CRS”), related party White Knight Co., Ltd., (“WKC”),
+and the Company, pursuant to which, on July 23, 2021, (“Closing Date”), for the purchase price of $375,000, CRS sold 10,000
+shares of Catapult’s Series Z Preferred Stock, representing approximately 81.20% voting control of the Company; 5,000 shares of
+Series Z Preferred Stock were transferred to WKC and 5,000 shares of Series Z Preferred Stock were transferred to the Company. WKC paid
+consideration of $187,500 and related party, Next Meats Co., Ltd, paid the remaining $187,500 on behalf of the Company. The consummation
+of the transactions contemplated by the Agreement resulted in a change in control of Catapult, with WKC and the Company becoming Catapult’s
+largest controlling stockholders, having approximately (at the time) 80.20% combined voting control over Catapult.
+Pursuant
+to the Agreement, on July 23, 2021, the former Directors of Catapult resigned from their positions and, on that same date, our CEO,
+CFO and Director, Mr. Koichi Ishizuka, was appointed as Catapult’s Chief Executive Officer, Chief Financial Officer,
+President, Secretary, Treasurer, and Director.
+On or about July 1, 2022, the Company sold 5,000 shares of Series Z Preferred
+Stock of Dr. Foods, Inc. FKA Catapult Solutions, Inc., a Nevada Company (“DRFS”), to WKC at a price of approximately $147,624
+USD (20,000,000 Japanese Yen) (“The Share Purchase Agreement”). The purchase of shares was made for investment purposes. The
+consummation of the transaction contemplated by the Share Purchase Agreement resulted in the Company no longer having an equity position
+in DRFS and with WKC becoming the largest controlling shareholder of DRFS. Following the aforementioned transaction, WKC owned approximately
+79.22% voting control of DRFS as of July 1, 2022.
+NXMH intends to use the proceeds from the aforementioned sale for working
+capital.
+The Board of Directors of NXMH, WKC, and DRFS unanimously approved the
+above transaction.
+Note
+7 - Accrued Expenses
+Accrued expenses and other payables
+totaled
+$ 340,212
+and
+$ 558,360
+as of October 31, 2022 and April 30, 2022, respectively, and consisted primarily of accrued professional fees, non-trade accounts payable to NMCO and consumption
+tax receipts held by NMCO.
+Note
+8 - Shareholders’ Equity
+Preferred
+Stock
+The authorized preferred stock of the
+Company consists of 20,000,000 shares with a par value of $0.001. There were no shares of preferred stock issued and outstanding as
+of October 31, 2022 and April 30, 2022.
+Common
+Stock
+The authorized
+common stock of the Company consists of 1,000,000,000 shares with a par value of $0.001. There were 502,255,600 shares of common stock
+issued and outstanding as of October 31, 2022 and April 30, 2022.
+On or about December 29, 2021, we
+sold 270,929 shares of restricted Common Stock to Demic Co., Ltd.., a Japanese Company, at a price of $2.00 per share of Common Stock.
+The total subscription amount paid by Demic Co., Ltd. was approximately $541,858. Demic Co., Ltd is not considered a related party to
+the Company.
+On or about December 29, 2021, we
+sold 882,257 shares of restricted Common Stock to Kiyoshi Kobayashi, a Japanese Citizen, at a price of $2.00 per share of Common Stock.
+The total subscription amount paid by Kiyoshi Kobayashi was approximately $1,764,513. Kiyoshi Kobayashi is not considered a related party
+to the Company.
+On or about February 4, 2022, we
+sold 208,855 shares of restricted Common Stock to Daisuke Kuroika, a Japanese Citizen, at a price of $2.10 per share of Common Stock.
+The total subscription amount paid by Daisuke Kuroika was approximately $438,596. Daisuke Kuroika is not considered a related party to
+the Company.
+On or about March 7, 2022, we sold
+668,780 shares of restricted Common Stock to Yakuodo Co., Ltd., a Japanese Company, at a price of $1.30 per share of Common Stock. The
+total subscription amount paid by Yakuodo Co., Ltd. was approximately $869,414. Yakuodo Co., Ltd. is a Japan-based holding company mainly
+engaged in the retail of pharmaceuticals, cosmetics, food products, miscellaneous goods and other life related products. The Company operates
+through the healthcare business, beauty care business, home care business and convenience care business.
+On or about March 29, 2022, we sold 133,779 shares of restricted Common
+Stock to Hidemi Arasaki, a Japanese Citizen, at a price of $1.30 per share of Common Stock. The total subscription amount paid by Hidemi
+Arasaki was approximately $173,913. Hidemi Arasaki is not a related party to the Company.
+On or about April 5, 2022, we sold 91,000 shares of restricted Common Stock
+to Interwoos Co., Ltd., a Japanese Company, at a price of $0.90 per share of Common Stock. The purchase of Common Stock by Interwoos Co.,
+Ltd. was authorized by its Chief Executive Officer Mr. Nobutaka Yoshii. The total subscription amount paid by Interwoos Co., Ltd. was
+approximately $81,900. Interwoos Co., Ltd. is not a related party to the Company.
+The proceeds from the above sales
+of shares are to be used by the Company for working capital.
+Note
+9 -
+Related-Party Transactions
+Short
+term loans
+During the
+period ended October 31, 2022, our subsidiary, Next Meats Japan Co., Ltd., was loaned approximately $ 21,584
+from officers of the company.
+These loans are unsecured, noninterest-bearing, and payable upon demand.
+Office
+Space
+From
+time to time, we utilize the office space and equipment of our management at no cost.
+Note
+10 - Subsequent Events
+On or about November 28, 2022, we sold 306,680 shares of restricted Common Stock to Motohiro Tomiyama, a Japanese Citizen, at a price
+of $0.67 per share of Common Stock. The total subscription amount paid by Motohiro Tomiyama was approximately $205,470. Motohiro Tomiyama
+is not a related party to the Company. The proceeds from this sale are to be used by the Company for working capital. Following the sale
+of restricted common shares to Motohiro Tomiyama, we now have 502,562,280 shares of Common Stock issued and outstanding.
+On
+November 22, 2022, Ryo Shirai sold 8,229,451 shares of restricted Common Stock of the Issuer to White Knight Co., Ltd., a Japanese Company
+owned and controlled by Koichi Ishizuka, the Chief Executive Officer, Chief Financial Officer, and Chairman of the Board of Directors
+of the Company, at a price of $0.001 per share of Common Stock. The total subscription amount paid by White Knight Co., Ltd. was approximately
+$8,229. Ryo Shirai was formerly the Company’s Chief Executive Officer and Chairman of the Board of Directors, until his resignations
+on December 28, 2021.
+On
+November 22, 2022, Ryo Shirai sold 79,521,051 shares of restricted Common Stock of the Issuer to Koichi Ishizuka, a Japanese Citizen,
+at a price of $0.001 per share of Common Stock. The total subscription amount paid by Koichi Ishizuka was approximately $79,521.
+On
+November 22, 2022, Ryo Shirai sold 25,112,780 shares of restricted Common Stock of the Issuer to Hiroki Tajiri, a Japanese Citizen, at
+a price of $0.001 per share of Common Stock. The total subscription amount paid by White Knight Co., Ltd. was approximately $25,113. Hiroki
+Tajiri is a board member of Next Meats Co., Ltd., a subsidiary of Next Meats Holdings, Inc.
+On
+November 22, 2022, Hideyuki Sasaki sold 112,863,282 shares of restricted Common Stock of the Issuer to White Knight Co., Ltd., a Japanese
+Company owned and controlled by Koichi Ishizuka, at a price of $0.001 per share of Common Stock. The total subscription amount paid by
+White Knight Co., Ltd. was approximately $112,863. Hideyuki Sasaki is currently the Chief Operating Officer, and a Director, of the Company.
+As
+a result of the sales of Common Stock conducted by Ryo Shirai and Hideyuki Sasaki, the controlling shareholder of the Company is now Koichi
+Ishizuka, directly and through his control of White Knight Co., Ltd.
+Following
+the above transactions, Ryo Shirai retains 50,225,560 shares of restricted common stock of the Company while Hideyuki Sasaki also retains
+50,225,560 shares of restricted common stock of the Company.
+In December of 2022, we dissolved NextMeats France, a French Entity. We do not believe there to be a great enough demand for our products
+in France and surrounding areas, although we do still intend to offer our products in areas of Europe in the future.
+-F6-
+Table
+of Contents
+ITEM
+2
+MANAGEMENT’S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Forward-Looking
+Statements
+Certain statements, other than purely
+historical information, including estimates, projections, statements relating to our business plans, objectives, and expected
+operating results, and the assumptions upon which those statements are based, are “forward-looking statements” within
+the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E
+of the Securities Exchange Act of 1934. These forward-looking statements generally are identified by the words “believes,”
+“project,” “expects,” “anticipates,” “estimates,” “intends,” “strategy,”
+“plan,” “may,” “will,” “would,” “will be,” “will continue,”
+“will likely result,” and similar expressions. We intend such forward-looking statements to be covered by the safe-harbor
+provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and are including
+this statement for purposes of complying with those safe-harbor provisions. Forward-looking statements are based on current expectations
+and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking
+statements. Our ability to predict results or the actual effect of future plans or strategies is inherently uncertain. Factors
+which could have a material adverse effect on our operations and future prospects include, but are not limited to: changes in
+economic conditions, legislative/regulatory changes, availability of capital, interest rates, competition, and generally accepted
+accounting principles. These risks and uncertainties should also be considered in evaluating forward-looking statements and undue
+reliance should not be placed on such statements.
+Company Overview
+Corporate History
+Next Meats Holdings, Inc. (we, us, our, or the
+"Company"), formerly known as Turnkey Solutions, Inc., was incorporated on April 15, 2020 in the State of Nevada.
+On
+April 15, 2020, Paul Moody was appointed Chief Executive Officer, Chief Financial Officer, and Director of the Company, at the time known
+as “Turnkey Solutions, Inc.”
+On
+October 1, 2020, the Company, at the time known as “Turnkey Solutions, Inc.” (the “Company” or “Successor”)
+announced on Form 8-K plans to participate in a holding company reorganization (“the Reorganization” or “Merger”)
+with Intermedia Marketing Solutions, Inc. (“IMMM” or “Predecessor”) and Intermedia Marketing Solutions Merger
+Sub, Inc. (“Merger Sub”) collectively (the “Constituent Corporations”) pursuant to NRS 92A.180, NRS A.200, NRS
+92A.230 and NRS 92A.250. Immediately prior to the Reorganization, the Company was a direct and wholly owned subsidiary of Intermedia Marketing
+Solutions, Inc. and Intermedia Marketing Solutions Merger Sub, Inc. was a direct and wholly owned subsidiary of the Company.
+The
+effective date and time of the Reorganization was October 28, 2020 at 4PM PST (the “Effective Time”). The entire plan of Merger
+is on file with Nevada Secretary of State (“NSOS”) and included in the Articles of Merger pursuant to NRS 92A.200 Nevada Secretary
+of State (“NSOS”) and attached to and made a part thereof to the Articles of Merger pursuant to NRS 92A.200 filed with NSOS
+on October 16, 2020. At the Effective Time, Predecessor merged with and into its indirect and wholly owned subsidiary, Merger Sub with
+Predecessor as the surviving corporation resulting in Predecessor as a wholly owned subsidiary of the Company.
+Concurrently
+and after the Effective Time, the Company cancelled all of its stock held in Predecessor resulting in the Company as a stand-alone and
+separate entity with no subsidiaries, no assets and negligible liabilities. The assets and liabilities of Predecessor, if any, remained
+with Predecessor. The Company abandoned the business plan of its Predecessor and resumed its former business plan of a blank check company
+after completion of the Merger.
+Full
+details pertaining to the Reorganization can be viewed in the Company’s Form 8-K filed with the Securities and Exchange
+Commission on October 29, 2020.
+On
+November 18, 2020 our now former controlling shareholder, Flint Consulting Services, LLC sold 35,000,000 shares of common stock to
+Next Meats Co., Ltd., a Japan Company. Next Meats Co., Ltd. is a Japanese Company that operates in the “alternative
+meat” industry. It currently offers, and plans to continue to offer, amongst other things, plant based food products. As will
+be described later on, Next Meats Co., Ltd. is now a wholly owned subsidiary of the Company.
+On
+November 18, 2020, Paul Moody resigned from his position of Chief Executive Officer, Chief Financial Officer, President, Secretary, Treasurer
+and Director.
+Simultaneous
+to Paul Moody’s resignations, Ryo Shirai was appointed as our Chief Executive Officer and Director, Hideyuki Sasaki as our Chief
+Operating Officer and Director, and Koichi Ishizuka as our Chief Financial Officer.
+On
+January 8, 2021 our now former majority shareholder, Next Meats Co., Ltd., a Japan Company, along with our Board of Directors, took
+action to ratify, affirm, and approve a name change of the Company from Turnkey Solutions, Inc., to Next Meats Holdings, Inc. The
+Company filed a Certificate of Amendment with the Nevada Secretary of State (“NVSOS”) to enact the name change with an
+effective date of January 19, 2021. This was previously disclosed in the Form 8-K we filed with the Securities and Exchange
+Commission on January 25, 2021.
+Also
+on January 8, 2021, our now former majority shareholder Next Meats Co., Ltd., along with our Board of Directors took action to ratify,
+affirm, and approve a change of the Company’s ticker symbol from TKSI to NXMH.
+Pursuant
+to the above, the Company carried out a FINRA corporate action. As a result of the aforementioned actions the Company’s CUSIP number
+was changed from  90043H102 to 65345L 100. The change in
+CUSIP, name change, and symbol change were posted on the FINRA daily list on January 25, 2021 with a market effective date of January
+26, 2021.
+On
+January 28, 2021, Next Meats Co., Ltd., along with our Board of Directors, took action to ratify, affirm, and approve the issuance of
+452,352,298 shares of restricted common stock to Next Meats Co., Ltd. The shares were issued for services rendered to the Company.
+On
+June 9, 2021 the Company entered into a “Share Cancellation and Exchange Agreement” (referred to herein as “the Agreement”)
+with Next Meats Co., Ltd., a Japan Company. Pursuant to the Share Cancellation and Exchange Agreement, effective on December 16,
+2021, Next Meats Holdings, Inc. acquired Next Meats Co., Ltd. as a wholly owned subsidiary. Commensurate with this action, there was
+a conversion of the Next Meats Holdings, Inc. percentile share interest in exchange for the Company’s 100% share interest in Next
+Meats Co., Ltd. Immediately prior to the effective time, each (now former) shareholder of Next Meats Co., Ltd. cancelled and exchanged
+their percentile share interest in Next Meats Co., Ltd. for an equivalent percentile share interest in Next Meats Holdings, Inc. at a
+pro rata percentage. As a result of the Share Cancellation and Exchange Agreement, we now own 100% of the issued and outstanding shares
+of Next Meats Co., Ltd., which constitutes 1,000 shares of common stock.
+We
+believe that the aforementioned transaction(s) relating to the Share Cancellation and Exchange Agreement described above constituted a
+tax-free organization pursuant to Section 368(a)(1) of the Internal Revenue Code. Full details of the Share Cancellation and Exchange
+Agreement are contained within our Form 8-K filed with the Securities and Exchange Commission on December 16, 2021.
+Following
+the acquisition of Next Meats Co., Ltd. on December 16, 2021, we ceased to be a shell company. Currently, and going forward, we
+intend to act as a holding company for our subsidiaries which develop and sell plant based food products.
+On
+or about July 20, 2021 we had acquired 5,000 shares of Series Z Preferred Stock of Dr. Foods, Inc., formerly known as
+“Catapult Solutions, Inc.,” a Nevada Company, from CRS Consulting, LLC, a Wyoming Limited Liability Company
+(“CRS”).
+On
+December 28, 2021, Ryo Shirai resigned as our Chief Executive Officer and was appointed Chairman of the Board of Directors.
+The
+resignation of Mr. Ryo Shirai, as Chief Executive Officer, was not the result of any disagreement with the Company on any matter
+relating to its operations, policies, or practices.
+On
+December 28, 2021, Mr. Koichi Ishizuka was appointed Chief Executive Officer of the Company.
+On
+December 28, 2021 we filed an amendment to our Articles of Incorporation with the Nevada Secretary of State, resulting in an increase
+to our authorized shares of Common Stock from 500,000,000 to 1,000,000,000.
+On
+or about December 29, 2021, we sold 270,929 shares of restricted Common Stock to Demic Co., Ltd.., a Japanese Company, at a price of $2.00
+per share of Common Stock. The total subscription amount paid by Demic Co., Ltd. was approximately $541,858. Demic Co., Ltd. is not considered
+a related party to the Company.
+The
+proceeds from the sale of shares went to the Company to be used as working capital.
+On
+or about December 29, 2021, we sold 882,257 shares of restricted Common Stock to Kiyoshi Kobayashi, a Japanese Citizen, at a price of
+$2.00 per share of Common Stock. The total subscription amount paid by Kiyoshi Kobayashi was approximately $1,764,513. Kiyoshi Kobayashi
+is not considered a related party to the Company.
+The
+proceeds from the sale of shares went to the Company to be used as working capital.
+On
+or about February 4, 2022, we sold 208,855 shares of restricted Common Stock to Daisuke Kuroika, a Japanese Citizen, at a price of $2.10
+per share of Common Stock. The total subscription amount paid by Daisuke Kuroika was approximately $438,596. Daisuke Kuroika is not considered
+a related party to the Company.
+The
+proceeds from the sale of shares went to the Company to be used as working capital.
+On
+or about March 7, 2022, we sold 668,780 shares of restricted Common Stock to Yakuodo Co., Ltd., a Japanese Company, at a price of $1.30
+per share of Common Stock. The total subscription amount paid by Yakuodo Co., Ltd. was approximately $869,414. Yakuodo Co., Ltd. is not
+considered a related party to the Company.
+The
+proceeds from the sale of shares went to the Company to be used as working capital.
+On
+or about March 29, 2022, we sold 133,779 shares of restricted Common Stock to Hidemi Arasaki, a Japanese Citizen, at a price of $1.30
+per share of Common Stock. The total subscription amount paid by Hidemi Arasaki was approximately $173,913. Hidemi Arasaki is not a related
+party to the Company.
+The
+proceeds from the sale of shares went to the Company to be used as working capital.
+On
+or about April 5, 2022, we sold 91,000 shares of restricted Common Stock to Interwoos Co., Ltd., a Japanese Company, at a price of $0.90
+per share of Common Stock. The total subscription amount paid by Interwoos Co., Ltd. was approximately $81,900. Interwoos Co., Ltd. is
+not a related party to the Company.
+The
+proceeds from the sale of shares went to the Company to be used as working capital.
+The
+aforementioned sales of shares detailed above were conducted pursuant to Regulation S of the Securities Act of 1933, as amended ("Regulation
+S"). The sales of shares were made only to non-U.S. persons/entities (as defined under Rule 902 section (k)(2)(i) of Regulation S), pursuant
+to offshore transactions, and no directed selling efforts were made in the United States by the issuer, a distributor, any of their respective
+affiliates, or any person acting on behalf of any of the foregoing.
+On
+or about July 1, 2022, we sold the 5,000 shares of Series Z Preferred Stock of Dr. Foods, Inc., a Nevada Company (“DRFS”),
+to White Knight Co., Ltd., a Japan Company (“WK”), at a price of approximately $147,624 USD (20,000,000 Japanese Yen) (“The
+Share Purchase Agreement”). White Knight Co., Ltd. is owned and controlled by our Chief Executive Officer, Koichi Ishizuka. White
+Knight Co., Ltd. is deemed to be an accredited investor. The purchase of shares was made for investment purposes. The consummation of
+the transaction contemplated by the Share Purchase Agreement resulted in us no longer having an equity position in DRFS and with WK becoming
+the largest controlling shareholder of DRFS.
+We
+intend to use the proceeds from the aforementioned sale for working capital.
+The
+Board of Directors of NXMH, WK, and DRFS unanimously approved the above transaction.
+The
+aforementioned sale of shares was conducted pursuant to Regulation S of the Securities Act of 1933, as amended ("Regulation S"). The sale
+of shares was made only to non-U.S. persons/entities (as defined under Rule 902 section (k)(2)(i) of Regulation S), pursuant to offshore
+transactions, and no directed selling efforts were made in the United States by the issuer, a distributor, any of their respective affiliates,
+or any person acting on behalf of any of the foregoing.
+On
+July 12, 2022, Mr. Ryo Shirai resigned as the Company’s Chairman of the Board of Directors and as a Director. Mr. Shirai's resignations
+are a result of personal health issues. The resignations of Mr. Ryo Shirai were not the result of any disagreement with the Company on
+any matter relating to its operations, policies, or practices.
+The
+Company’s Board of Directors is now only comprised of two members.
+On or about November 28, 2022, we sold 306,680 shares of restricted Common Stock to Motohiro Tomiyama, a Japanese Citizen, at a price
+of $0.67 per share of Common Stock. The total subscription amount paid by Motohiro Tomiyama was approximately $205,470. Motohiro Tomiyama
+is not a related party to the Company. The proceeds from this sale are to be used by the Company for working capital. Following the sale
+of restricted common shares to Motohiro Tomiyama, we now have 502,562,280 shares of Common Stock issued and outstanding.
+On
+November 22, 2022, Ryo Shirai sold 8,229,451 shares of restricted Common Stock of the Issuer to White Knight Co., Ltd., a Japanese Company
+owned and controlled by Koichi Ishizuka, the Chief Executive Officer, Chief Financial Officer, and Chairman of the Board of Directors
+of the Company, at a price of $0.001 per share of Common Stock. The total subscription amount paid by White Knight Co., Ltd. was approximately
+$8,229. Ryo Shirai was formerly the Company’s Chief Executive Officer and Chairman of the Board of Directors, until his resignations
+on December 28, 2021.
+On
+November 22, 2022, Ryo Shirai sold 79,521,051 shares of restricted Common Stock of the Issuer to Koichi Ishizuka, a Japanese Citizen,
+at a price of $0.001 per share of Common Stock. The total subscription amount paid by Koichi Ishizuka was approximately $79,521.
+On
+November 22, 2022, Ryo Shirai sold 25,112,780 shares of restricted Common Stock of the Issuer to Hiroki Tajiri, a Japanese Citizen, at
+a price of $0.001 per share of Common Stock. The total subscription amount paid by White Knight Co., Ltd. was approximately $25,113. Hiroki
+Tajiri is a board member of Next Meats Co., Ltd., a subsidiary of Next Meats Holdings, Inc.
+On
+November 22, 2022, Hideyuki Sasaki sold 112,863,282 shares of restricted Common Stock of the Issuer to White Knight Co., Ltd., a Japanese
+Company owned and controlled by Koichi Ishizuka, at a price of $0.001 per share of Common Stock. The total subscription amount paid by
+White Knight Co., Ltd. was approximately $112,863. Hideyuki Sasaki is currently the Chief Operating Officer, and a Director, of the Company.
+As
+a result of the sales of Common Stock conducted by Ryo Shirai and Hideyuki Sasaki, the controlling shareholder of the Company is now Koichi
+Ishizuka, directly and through his control of White Knight Co., Ltd.
+Following
+the above transactions, Ryo Shirai retains 50,225,560 shares of restricted common stock of the Company while Hideyuki Sasaki also retains
+50,225,560 shares of restricted common stock of the Company.
+The
+aforementioned sale of shares was conducted pursuant to Regulation S of the Securities Act of 1933, as amended ("Regulation S"). The sale
+of shares was made only to non-U.S. persons/entities (as defined under Rule 902 section (k)(2)(i) of Regulation S), pursuant to offshore
+transactions, and no directed selling efforts were made in the United States by the issuer, a distributor, any of their respective affiliates,
+or any person acting on behalf of any of the foregoing.
+In December of 2022, we dissolved NextMeats France, a French Entity. We do not believe there to be a great enough demand for our products
+in France and surrounding areas, although we do still intend to offer our products in areas of Europe in the future.
+-3-
+Table of Contents
+Assets
+As of October 31, 2022, we had cash and cash equivalents of $58,140. As
+of April 30, 2022, we had cash and cash equivalents of $620,297. We believe that we had our cash and cash equivalents decreased as of
+October 31, 2022, when compared to April 30, 2022, because our revenues have continued to decrease over the past twelve months, resulting
+in less available cash on hand. Information regarding our revenue is detailed below in the section titled, “Revenue”.
+Our total current assets were $1,946,486 as of October 31, 2022, and $3,842,764
+as of April 30, 2022. As of October 31, 2022 we had $145,991 in short terms loans receivable, compared to none as of April 30, 2022. As
+of October 31, 2022, we had $136,395 in advance payments and prepaid expenses, compared to $1,335,832 as of April 30, 2022. In addition
+to a decrease in available cash and cash equivalents, a decrease in advance payments was a primary contributor to our lesser current assets
+as of October 31, 2022 when compared to April 30, 2022.
+Our non-current assets were $1,353,621 as of October 31, 2022 and $1,885,836
+as of April 30, 2022. As of October 31, 2022, we had fewer non-current assets, when compared to April 30, 2022, which we attribute to
+various factors which include, but are not limited to, lesser net depreciation, construction in progress, land and improvements, no deferred
+assets, lesser security deposits, and no stock (invested securities) held.
+Our cash balance is not sufficient to fund our limited levels of operations
+for any period of time. In order to implement our plan of operations for the next twelve-month period, we require further funding. After
+a twelve-month period we may need additional financing but currently do not have any arrangements for such financing.
+Revenue
+For the three-month period ended October 31, 2022 we realized revenues
+of $465,868, cost of revenues of $422,604 and gross profits of $43,264. For the three-month period ended October 31, 2021 we realized
+revenues of $3,815,510, cost of revenues of $3,805,247 and gross profits of $10,263. While our gross profit increased for the three-month
+period ended October 31, 2022, when compared to the three-month period ended October 31, 2021, we realized significantly less revenue
+over the same period.
+For the six-month period ended October 31, 2022 we also realized a dramatic
+decrease in revenue over the same period for the year prior. For the six-month period ended October 31, 2022 we realized revenues of $871,315,
+cost of revenues of $767,460 and a gross profit of $103,855. For the six-month period ended October 31, 2021 we realized revenues of $5,184,080,
+cost of revenues of $5,075,142 and a gross profit of $108,938.
+Globally speaking, many markets, industries, and nations have been affected
+by rising costs, inflation, and a decreased demand for products. We believe the products we offer, and continue to offer, to be a ‘premium’
+alternative to traditional food options, which typically coincides with increased costs. Given the condition of the global economy, we
+believe there is likely less demand for premium alternatives to traditional food products, such as those we currently offer. Over the
+course of the last year, we believe we have been affected by decreased demand for our products, resulting in less revenue for the three
+and six months ended October 31, 2022.
+Previously, we also had a wider selection of food options and other facets
+of our business which we believe drove revenues. Specifically, from time to time we would engage in the wholesale sale of rice, however
+we no longer engage in the wholesale sale of rice because our previous sole supplier is no longer in business. We believe that due to
+the current downtrend in the global economy, that such efforts should not recommence, if at all, until the global economy recovers to
+pre-pandemic levels.
+At this time, we also no longer offer “Next Milk” which we
+believed would gain popularity in the near term. Various components of the products we offered, or seek to continue to offer, are either
+not available, or available at price points that are as attractive. As a result, at this time, it is difficult for us to produce cost
+effective products that we believe would rival the cost of generic food products, and thus bolster our revenues. We believe many consumers
+are purchasing more cost-effective options. Because of this, we are exploring means to lessen the cost of our product lineup while maintaining
+what we believe to be the same quality products, but we cannot forecast with any level of certainty if such efforts will be successful.
+Much of these endeavors rely on our ability to source ingredients at a lesser cost, which, at this time, is a challenge.
+If we need additional cash and cannot raise it, we will either have to
+suspend operations until we do raise the cash we need, or cease operations entirely. Given our revenue is not sufficient to cover our
+operating expenses we have and expect to continue to rely on related party contributions by our officers and directors, as well as proceeds
+from the sale of shares of our common stock that we may sell from time to time.
+Expenses
+For the three-month period ended October 31, 2022 we incurred total operating
+expenses of $789,375, which was comprised of $7,913 in depreciation and $781,375 in general and administrative expenses. For the three-month
+period ended October 31, 2021 we incurred total operating expenses of $1,174,651, which was comprised of $13,119 in depreciation and $1,161,532
+in general and administrative expenses. As a result of, primarily, a significant decrease in general and administrative expenses, our
+total operating expenses for the three months ended October 31, 2022 have decreased compared to our total operating expenses for the three
+months ended October 31, 2021.
+For the six-month period ended October 31, 2022 we incurred total operating
+expenses of $1,750,845, which was comprised of $17,982 in depreciation and $1,732,864 in general and administrative expenses. For the
+six-month period ended October 31, 2021 we incurred total operating expenses of $2,395,997, which was comprised of $24,750 in depreciation
+and $2,371,247 in general and administrative expenses. For this period of time, we also believe that as a result of, primarily, a significant
+decrease in general and administrative expenses, our total operating expenses for the six months October 31, 2022 have decreased compared
+to our total operating expenses for the six months ended October 31, 2021.
+Net Loss
+For the three months ended October 31, 2022, we incurred a net loss of
+$786,740, whereas for the three-month period ended October 31, 2021 we incurred a net loss of $1,165,033. For the six months ended October
+31, 2022 we incurred a net loss of $1,729,238, whereas for the six months ended October 31, 2021 we incurred a net loss of $2,329,537.
+For both of the aforementioned periods, the variance in net loss is a result of our decreased business activity.
+Corporate Plans
+To remediate some of the above issues, notably those regarding decreased
+revenue, we intend to continue to roll out new products which we believe may have a broader appeal and more attractive price points. We
+are currently exploring a few new products based upon “Oats”. We believe such products might appeal to a wider audience and
+result in an ability to offer such products at a lower price point.
+It should be emphasized that we currently offer, and intend to offer, products
+that are plant based. Not all products we offer, or intend to continue to offer, are strictly replacements or substitutes to traditional
+meat products.
+Additional information regarding the Company, its products, and its mission
+can be found on its website: www.nextmeats.co.jp
+Other Corporate Updates
+In December of 2022 we dissolved NextMeats France, a French Entity. We
+do not believe there to be a great enough demand for our products in France and surrounding areas, although we do still intend to offer
+our products in areas of Europe in the future.
+We have also paused efforts to pursue selling products in Hong
+Kong under our wholly owned subsidiary, Next Meats HK Co. Limited (“Next Meats HK”), a Hong Kong Company. We do not believe
+the current market would be conducive to our business objectives in this area at this point in time. However, we will reassess this decision
+in the future, although we cannot specifically identity when that may be. Next Meats HK Co. Limited remains a wholly owned subsidiary
+of the Company.
+Going
+Concern
+The
+Company demonstrates adverse conditions that raise substantial doubt about the Company's ability to continue as a going concern for
+one year following the issuance of these financial statements for the period ending October 31, 2022. These adverse conditions are
+negative financial trends, specifically operating loss, working capital deficiency, and other adverse key financial
+ratios.
+The
+Company has not recorded enough revenue to cover its operating costs. Currently, management plans to fund some operating expenses
+with related party contributions to capital, or through the sale of equity, until there is sufficient revenue to cover all operating
+expenses. There is no assurance that management's plans will be successful. The financial statements do not include any adjustments
+relating to the recoverability and classification of recorded assets, or the amounts and classification of liabilities that might be
+necessary in the event that the Company cannot continue as a going concern.
+ITEM
+3
+QUANTITATIVE
+AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+As a “smaller reporting company”
+as defined by Item 10 of Regulation S-K, the Company is not required to provide the information required by this Item.
+-4-
+Table
+of Contents
+ITEM
+4
+CONTROLS
+AND PROCEDURES
+Management’s
+Report on Disclosure Controls and Procedures
+We maintain disclosure controls and
+procedures that are designed to ensure that information required to be disclosed in our reports filed under the Securities Exchange
+Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and
+Exchange Commission's rules and forms, and that such information is accumulated and communicated to our management, including our
+chief executive officer, who is also our chief financial officer (who is acting as our principal executive officer, principal
+financial officer and principle accounting officer) to allow for timely decisions regarding required disclosure.
+As of October 31, 2022, the end of the
+fiscal period covered by this report, we carried out an evaluation, under the supervision of Koichi Ishizuka, our chief executive
+officer and chief financial officer, of the effectiveness of the design and the operation of our disclosure controls
+and procedures. The officers concluded that the disclosure controls and procedures were not effective as of the end of the period
+covered by this report due to material weaknesses identified below.
+The matters involving internal controls
+and procedures that our management considered to be material weaknesses under the standards of the Public Company Accounting
+Oversight Board were: domination of management by a limited individuals without adequate compensating controls, lack of a majority
+of outside directors on board of directors, resulting in ineffective oversight in the establishment and monitoring of required
+internal controls and procedures, inadequate segregation of duties consistent with control objectives and lack of well-established
+procedures to identify, approve and report related party transactions. These material weaknesses were identified by Koichi Ishizuka
+in connection with the above annual evaluation.
+Inherent
+limitations on effectiveness of controls
+Internal control over financial reporting
+has inherent limitations which include but is not limited to the use of independent professionals for advice and guidance, interpretation
+of existing and/or changing rules and principles, segregation of management duties, scale of organization, and personnel factors.
+Internal control over financial reporting is a process which involves human diligence and compliance and is subject to lapses
+in judgment and breakdowns resulting from human failures. Internal control over financial reporting also can be circumvented by
+collusion or improper management override. Because of its inherent limitations, internal control over financial reporting may
+not prevent or detect misstatements on a timely basis, however these inherent limitations are known features of the financial
+reporting process and it is possible to design into the process safeguards to reduce, though not eliminate, this risk. Therefore,
+even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation
+and presentation. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Changes in Internal Control
+over Financial Reporting
+There have been no changes in our
+internal controls over financial reporting that have occurred for the most recent fiscal quarter ending October 31, 2022, that have
+materially or are reasonably likely to materially affect, our internal controls over financial reporting.
+-5-
+Table
+of Contents
+PART II-OTHER
+INFORMATION
+ITEM
+1
+LEGAL
+PROCEEDINGS
+There are no
+legal proceedings against the Company and the Company is unaware of such proceedings contemplated against it.
+ITEM
+1A
+RISK
+FACTORS
+As a “smaller
+reporting company” as defined by Item 10 of Regulation S-K, the Company is not required to provide the information required by
+this Item.
+ITEM
+2
+UNREGISTERED
+SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+On or about December 29, 2021, we sold 270,929 shares of restricted Common
+Stock to Demic Co., Ltd.., a Japanese Company, at a price of $2.00 per share of Common Stock. The total subscription amount paid by Demic
+Co., Ltd. was approximately $541,858.
+The
+above transaction was approved by the Chief Executive Officer of Demic Co., Ltd., Tadayoshi Masutomi. Demic Co., Ltd. is not considered
+a related party to the Company.
+On
+or about December 29, 2021, we sold 882,257 shares of restricted Common Stock to Kiyoshi Kobayashi, a Japanese Citizen, at a price of
+$2.00 per share of Common Stock. The total subscription amount paid by Kiyoshi Kobayashi was approximately $1,764,513.
+On or about February 4, 2022, we sold 208,855 shares of restricted Common Stock to Daisuke Kuroika, a Japanese Citizen, at a price of
+$2.10 per share of Common Stock. The total subscription amount paid by Daisuke Kuroika was approximately $438,596.
+On or about March 7, 2022, we sold 668,780 shares of restricted Common Stock to Yakuodo Co., Ltd., a Japanese Company, at a price of $1.30
+per share of Common Stock. The total subscription amount paid by Yakuodo Co., Ltd. was approximately $869,414.
+On
+or about March 29, 2022, we sold 133,779 shares of restricted Common Stock to Hidemi Arasaki, a Japanese Citizen, at a price of $1.30
+per share of Common Stock. The total subscription amount paid by Hidemi Arasaki was approximately $173,913. Hidemi Arasaki is not a related
+party to the Company.
+On
+or about April 5, 2022, we sold 91,000 shares of restricted Common Stock to Interwoos Co., Ltd., a Japanese Company, at a price of $0.90
+per share of Common Stock. The total subscription amount paid by Interwoos Co., Ltd. was approximately $81,900. Interwoos Co., Ltd. is
+not a related party to the Company.
+The
+proceeds from the sales of shares went to the Company to be used as working capital.
+The
+aforementioned sales of shares were conducted pursuant to Regulation S of the Securities Act of 1933, as amended ("Regulation S"). The
+sales of shares were made only to non-U.S. persons/entities (as defined under Rule 902 section (k)(2)(i) of Regulation S), pursuant to
+offshore transactions, and no directed selling efforts were made in the United States by the issuer, a distributor, any of their respective
+affiliates, or any person acting on behalf of any of the foregoing.
+ITEM
+3
+DEFAULTS
+UPON SENIOR SECURITIES
+None
+ITEM
+4
+MINE
+SAFETY DISCLOSURES
+Not applicable.
+ITEM
+5
+OTHER
+INFORMATION
+None
+ITEM
+6
+EXHIBITS
+(a)
+Exhibits required by Item 601 of Regulation S-K.
+Exhibit No.
+Description
+3.1 (i)
+Certificate of Incorporation
+(1)
+3.1 (ii)
+Certificate of Amendment
+(2)
+3.1 (iii)
+Certificate of Amendment
+(3)
+3.1 (iv)
+Certificate of Amendment
+(4)
+3.2 (i)
+By-laws
+(1)
+3.2 (ii)
+Amended By-laws
+(5)
+31
+Certification of the Company’s Principal Executive and Prinipal Financial Officer pursuant to the Securities Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+(6)
+32
+Certification of the Company’s Principal Executive and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+(6)
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibits 101)
+____________________
+(1)
+Filed as an exhibit to the Company's Registration Statement on Form 10-12G as filed with the SEC on May 8, 2020, and incorporated herein by this reference.
+(2)
+Filed as an exhibit to the Company's Form 8-K as filed with the SEC on September 21, 2020, and incorporated herein by this reference.
+(3)
+Filed as an exhibit to the Company's Form 8-K as filed with the SEC on January 25, 2021, and incorporated herein by this
+reference.
+(4)
+Filed as an exhibit to the Company's Form 8-K as filed with the SEC on December 29, 2021, and incorporated herein by this reference.
+(5)
+Filed as an exhibit to the Company's Form 8-K as filed with the SEC on January 29, 2021, and incorporated herein by this reference.
+(6)
+Filed herewith.
+-6-
+Table
+of Contents
+SIGNATURES
+In accordance with the requirements
+of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, there unto duly authorized.
+Next Meats Holdings , Inc.
+(Registrant)
+By:  /s/ Koichi Ishizuka
+Name: Koichi Ishizuka
+Chief Executive Officer
+Dated: January 20, 2023
+By:  /s/ Koichi Ishizuka
+Name: Koichi Ishizuka
+Chief Financial Officer
+Dated: January 20, 2023
+-7-

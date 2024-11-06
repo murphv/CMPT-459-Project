@@ -1,0 +1,1911 @@
+3
+0
+2
+0
+0
+1
+8
+3
+10
+1
+0000076267 2022-02-28 2022-11-27
+0000076267 2023-01-02
+xbrli:shares
+xbrli:pure
+0000076267 2022-02-28 2022-05-29
+iso4217:USD
+0000076267 2022-05-29
+0000076267 2021-03-01 2021-11-28
+0000076267 2021-08-30 2021-11-28
+0000076267 2022-08-29 2022-11-27
+0000076267 srt:EuropeMember 2021-03-01 2021-11-28
+0000076267 srt:EuropeMember 2022-02-28 2022-11-27
+0000076267 srt:EuropeMember 2021-08-30 2021-11-28
+0000076267 srt:EuropeMember 2022-08-29 2022-11-27
+0000076267 srt:AsiaMember 2021-03-01 2021-11-28
+0000076267 srt:AsiaMember 2022-02-28 2022-11-27
+0000076267 srt:AsiaMember 2021-08-30 2021-11-28
+0000076267 srt:AsiaMember 2022-08-29 2022-11-27
+0000076267 srt:NorthAmericaMember 2021-03-01 2021-11-28
+0000076267 srt:NorthAmericaMember 2022-02-28 2022-11-27
+0000076267 srt:NorthAmericaMember 2021-08-30 2021-11-28
+0000076267 srt:NorthAmericaMember 2022-08-29 2022-11-27
+0000076267 us-gaap:FacilityClosingMember 2021-03-01 2021-11-28
+0000076267 us-gaap:FacilityClosingMember 2021-08-30 2021-11-28
+0000076267 us-gaap:FacilityClosingMember 2022-02-28 2022-11-27
+0000076267 us-gaap:FacilityClosingMember 2022-08-29 2022-11-27
+0000076267 us-gaap:SubsequentEventMember 2023-01-02
+0000076267 2022-05-23 2022-05-23
+0000076267 us-gaap:EmployeeStockOptionMember 2021-03-01 2021-11-28
+0000076267 us-gaap:EmployeeStockOptionMember 2022-02-28 2022-11-27
+0000076267 us-gaap:EmployeeStockOptionMember 2021-08-30 2021-11-28
+0000076267 us-gaap:EmployeeStockOptionMember 2022-08-29 2022-11-27
+iso4217:USD xbrli:shares
+0000076267 2022-11-27
+utr:Y
+0000076267 2022-02-27
+0000076267 pke:The2018StockOptionPlanMember srt:MaximumMember pke:DirectorsAndCertainOfEmployeesMember 2022-02-28 2022-11-27
+0000076267 pke:The2018StockOptionPlanMember srt:MinimumMember pke:DirectorsAndCertainOfEmployeesMember 2022-02-28 2022-11-27
+0000076267 pke:The2018StockOptionPlanMember pke:DirectorsAndCertainOfEmployeesMember 2022-02-28 2022-11-27
+0000076267 us-gaap:EmployeeStockOptionMember pke:The2018StockOptionPlanMember pke:DirectorsAndCertainOfEmployeesMember 2022-11-27
+0000076267 pke:The2018StockOptionPlanMember 2018-07-24 2018-07-24
+0000076267 pke:The2018StockOptionPlanMember 2018-07-24
+0000076267 2022-06-07
+0000076267 pke:AdditionalManufacturingFacilityMember 2022-11-27
+0000076267 pke:AdditionalManufacturingFacilityMember 2018-01-01 2018-12-31
+utr:acre
+0000076267 pke:LeaseAgreementWithCityAndCountyForLandAtNewtonKansasAirportMember 2018-12-31
+0000076267 pke:AdditionalLeaseAgreementWithCityAndCountyForLandAtNewtonKansasAirportMember 2018-12-31
+utr:sqft
+0000076267 pke:AdditionalManufacturingFacilityMember 2018-12-31
+0000076267 pke:LeasesWithRenewalOptionsMember 2022-11-27
+0000076267 srt:MaximumMember 2022-11-27
+0000076267 srt:MinimumMember 2022-11-27
+0000076267 us-gaap:DomesticCorporateDebtSecuritiesMember 2022-02-27
+0000076267 us-gaap:USTreasuryAndGovernmentMember 2022-02-27
+0000076267 us-gaap:DomesticCorporateDebtSecuritiesMember 2022-11-27
+0000076267 us-gaap:USTreasuryAndGovernmentMember 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel3Member 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel2Member 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel1Member 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel3Member us-gaap:DomesticCorporateDebtSecuritiesMember 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel2Member us-gaap:DomesticCorporateDebtSecuritiesMember 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel1Member us-gaap:DomesticCorporateDebtSecuritiesMember 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel3Member us-gaap:USTreasuryAndGovernmentMember 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel2Member us-gaap:USTreasuryAndGovernmentMember 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel1Member us-gaap:USTreasuryAndGovernmentMember 2022-02-27
+0000076267 us-gaap:FairValueInputsLevel3Member 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel2Member 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel1Member 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel3Member us-gaap:DomesticCorporateDebtSecuritiesMember 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel2Member us-gaap:DomesticCorporateDebtSecuritiesMember 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel1Member us-gaap:DomesticCorporateDebtSecuritiesMember 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel3Member us-gaap:USTreasuryAndGovernmentMember 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel2Member us-gaap:USTreasuryAndGovernmentMember 2022-11-27
+0000076267 us-gaap:FairValueInputsLevel1Member us-gaap:USTreasuryAndGovernmentMember 2022-11-27
+0000076267 2021-11-28
+0000076267 2021-02-28
+0000076267 us-gaap:TreasuryStockMember 2021-11-28
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-11-28
+0000076267 us-gaap:RetainedEarningsMember 2021-11-28
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2021-11-28
+0000076267 us-gaap:CommonStockMember 2021-11-28
+0000076267 us-gaap:RetainedEarningsMember 2021-08-30 2021-11-28
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2021-08-30 2021-11-28
+0000076267 us-gaap:TreasuryStockMember 2021-08-30 2021-11-28
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-08-30 2021-11-28
+0000076267 us-gaap:TreasuryStockMember 2021-08-29
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-08-29
+0000076267 us-gaap:RetainedEarningsMember 2021-08-29
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2021-08-29
+0000076267 us-gaap:CommonStockMember 2021-08-29
+0000076267 us-gaap:RetainedEarningsMember 2021-05-31 2021-08-29
+0000076267 2021-05-31 2021-08-29
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2021-05-31 2021-08-29
+0000076267 us-gaap:TreasuryStockMember 2021-05-31 2021-08-29
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-05-31 2021-08-29
+0000076267 us-gaap:TreasuryStockMember 2021-05-30
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-05-30
+0000076267 us-gaap:RetainedEarningsMember 2021-05-30
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2021-05-30
+0000076267 us-gaap:CommonStockMember 2021-05-30
+0000076267 2021-03-01 2021-05-30
+0000076267 us-gaap:RetainedEarningsMember 2021-03-01 2021-05-30
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2021-03-01 2021-05-30
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-03-01 2021-05-30
+0000076267 us-gaap:TreasuryStockMember 2021-02-28
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-02-28
+0000076267 us-gaap:RetainedEarningsMember 2021-02-28
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2021-02-28
+0000076267 us-gaap:CommonStockMember 2021-02-28
+0000076267 us-gaap:TreasuryStockMember 2022-11-27
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-11-27
+0000076267 us-gaap:RetainedEarningsMember 2022-11-27
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2022-11-27
+0000076267 us-gaap:CommonStockMember 2022-11-27
+0000076267 us-gaap:RetainedEarningsMember 2022-08-29 2022-11-27
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2022-08-29 2022-11-27
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-08-29 2022-11-27
+0000076267 us-gaap:TreasuryStockMember 2022-08-28
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-08-28
+0000076267 us-gaap:RetainedEarningsMember 2022-08-28
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2022-08-28
+0000076267 us-gaap:CommonStockMember 2022-08-28
+0000076267 us-gaap:RetainedEarningsMember 2022-05-30 2022-08-28
+0000076267 2022-05-30 2022-08-28
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2022-05-30 2022-08-28
+0000076267 us-gaap:TreasuryStockMember 2022-05-30 2022-08-28
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-05-30 2022-08-28
+0000076267 us-gaap:TreasuryStockMember 2022-05-29
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-05-29
+0000076267 us-gaap:RetainedEarningsMember 2022-05-29
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2022-05-29
+0000076267 us-gaap:CommonStockMember 2022-05-29
+0000076267 us-gaap:RetainedEarningsMember 2022-02-28 2022-05-29
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2022-02-28 2022-05-29
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-02-28 2022-05-29
+0000076267 us-gaap:TreasuryStockMember 2022-02-27
+0000076267 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-02-27
+0000076267 us-gaap:RetainedEarningsMember 2022-02-27
+0000076267 us-gaap:AdditionalPaidInCapitalMember 2022-02-27
+0000076267 us-gaap:CommonStockMember 2022-02-27
+0000076267 pke:LossesOnMarketableSecuritiesMember 2021-03-01 2021-11-28
+0000076267 pke:LossesOnMarketableSecuritiesMember 2022-02-28 2022-11-27
+0000076267 pke:LossesOnMarketableSecuritiesMember 2021-08-30 2021-11-28
+0000076267 pke:LossesOnMarketableSecuritiesMember 2022-08-29 2022-11-27
+0000076267 pke:GainsOnMarketableSecuritiesMember 2021-03-01 2021-11-28
+0000076267 pke:GainsOnMarketableSecuritiesMember 2022-02-28 2022-11-27
+0000076267 pke:GainsOnMarketableSecuritiesMember 2021-08-30 2021-11-28
+0000076267 pke:GainsOnMarketableSecuritiesMember 2022-08-29 2022-11-27
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+November 27, 2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ________ to__________
+Commission file number
+1-4415
+PARK AEROSPACE CORP .
+(Exact Name of Registrant as Specified in Its Charter)
+New York
+11-1734643
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(I.R.S. Employer
+Identification No.)
+1400 Old Country Road ,
+Westbury ,
+NY
+11590
+(Address of Principal Executive Offices)
+(Zip Code)
+( 631 )
+465-3600
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name, Former Address and Former Fiscal Year,
+if Changed Since Last Report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which
+Registered
+Common Stock, par value $0.10 per share
+PKE
+New York Stock Exchange
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒           No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒           No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+☐
+Accelerated Filer
+☐
+Non-Accelerated Filer
+☒
+Smaller Reporting Company
+☒
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐    No ☒
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date:
+20,471,210
+as of January 2, 2023.
+PARK AEROSPACE CORP. AND SUBSIDIARIES
+TABLE OF CONTENTS
+PART I.
+FINANCIAL INFORMATION:
+Page
+Number
+Item 1.
+Financial Statements
+Condensed Consolidated Balance Sheets November 27, 2022 (Unaudited) and February 27, 2022
+3
+Consolidated Statements of Operations 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021 (Unaudited)
+4
+Consolidated Statements of Comprehensive Earnings 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021 (Unaudited)
+5
+Consolidated Statements of Shareholders’ Equity November 27, 2022 and November 28, 2021 (Unaudited)
+6
+Condensed Consolidated Statements of Cash Flows 39 weeks ended November 27, 2022 and November 28, 2021 (Unaudited)
+7
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+8
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+17
+Factors That May Affect Future Results
+24
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+24
+Item 4.
+Controls and Procedures
+24
+PART II.
+OTHER INFORMATION:
+Item 1.
+Legal Proceedings
+25
+Item 1A.
+Risk Factors
+25
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 3.
+Defaults Upon Senior Securities
+25
+Item 4.
+Mine Safety Disclosures
+25
+Item 5.
+Other Information
+26
+Item 6.
+Exhibits
+26
+EXHIBIT INDEX
+27
+SIGNATURES
+28
+2
+PART I. FINANCIAL INFORMATION
+Item 1.
+Financial Statements.
+PARK AEROSPACE CORP. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Amounts in thousands)
+November 27,
+2022
+(unaudited)
+February 27,
+2022*
+ASSETS
+Current assets
+Cash and cash equivalents
+$
+4,610
+$
+12,811
+Marketable securities (Note 3)
+98,693
+97,550
+Accounts receivable, less allowance for doubtful accounts of $ 116
+and $ 104 , respectively
+8,923
+8,339
+Inventories (Note 4)
+6,816
+4,657
+Prepaid expenses and other current assets
+4,264
+3,082
+Total current assets
+123,306
+126,439
+Property, plant and equipment, net
+24,256
+24,333
+Operating right-of-use assets (Note 5)
+163
+203
+Goodwill and other intangible assets
+9,790
+9,790
+Other assets
+112
+122
+Total assets
+$
+157,627
+$
+160,887
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities
+Accounts payable
+$
+2,365
+$
+2,534
+Operating lease liability (Note 5)
+53
+53
+Accrued liabilities
+1,270
+1,494
+Income taxes payable
+2,660
+2,211
+Total current liabilities
+6,348
+6,292
+Long-term operating lease liability (Note 5)
+141
+174
+Non-current income taxes payable (Note 10)
+10,938
+12,621
+Deferred income taxes (Note 10)
+1,937
+1,671
+Other liabilities
+4,650
+4,497
+Total liabilities
+24,014
+25,255
+Commitments and contingencies (Note 12)
+Shareholders' equity (Note 8)
+Common stock
+2,096
+2,096
+Additional paid-in capital
+169,837
+169,665
+Accumulated deficit
+( 24,881
+)
+( 24,767
+)
+Accumulated other comprehensive loss
+( 4,283
+)
+( 1,965
+)
+142,769
+145,029
+Less treasury stock, at cost
+( 9,156
+)
+( 9,397
+)
+Total shareholders' equity
+133,613
+135,632
+Total liabilities and shareholders' equity
+$
+157,627
+$
+160,887
+*
+The balance sheet at February 27, 2022 has been derived from the audited consolidated financial statements at that date.
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+3
+PARK AEROSPACE CORP. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in thousands, except per share amounts)
+13 Weeks Ended (Unaudited)
+39 Weeks Ended (Unaudited)
+November 27,
+November 28,
+November 27,
+November 28,
+2022
+2021
+2022
+2021
+Net sales
+$
+13,867
+$
+13,864
+$
+40,525
+$
+41,076
+Cost of sales
+9,423
+10,028
+27,903
+27,357
+Gross profit
+4,444
+3,836
+12,622
+13,719
+Selling, general and administrative expenses
+1,523
+1,593
+4,888
+4,729
+Restructuring charges (Note 9)
+-
+13
+-
+197
+Earnings from operations
+2,921
+2,230
+7,734
+8,793
+Interest and other income
+299
+80
+653
+286
+Earnings from operations before income taxes
+3,220
+2,310
+8,387
+9,079
+Income tax provision (Note 10)
+990
+569
+2,362
+2,571
+Net earnings
+$
+2,230
+$
+1,741
+$
+6,025
+$
+6,508
+Earnings per share (Note 7)
+Basic:
+Basic earnings per share
+$
+0.11
+$
+0.09
+$
+0.29
+$
+0.32
+Basic weighted average shares
+20,471
+20,450
+20,463
+20,410
+Diluted:
+Diluted earnings per share
+$
+0.11
+$
+0.08
+$
+0.29
+$
+0.32
+Diluted weighted average shares
+20,510
+20,503
+20,506
+20,566
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+4
+PARK AEROSPACE CORP. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE EARNINGS
+(Amounts in thousands)
+13 Weeks Ended (Unaudited)
+39 Weeks Ended (Unaudited)
+November 27,
+November 28,
+November 27,
+November 28,
+2022
+2021
+2022
+2021
+Net earnings
+$
+2,230
+$
+1,741
+$
+6,025
+$
+6,508
+Other comprehensive earnings (loss), net of tax:
+Unrealized gains on marketable securities:
+Unrealized holding gains arising during the period
+30
+3
+63
+107
+Less: reclassification adjustment for gains included in net earnings
+-
+( 27
+)
+( 7
+)
+( 36
+)
+Unrealized losses on marketable securities:
+Unrealized holding losses arising during the period
+( 773
+)
+( 472
+)
+( 2,407
+)
+( 576
+)
+Less: reclassification adjustment for losses included in net earnings
+25
+11
+33
+11
+Other comprehensive loss
+( 718
+)
+( 485
+)
+( 2,318
+)
+( 494
+)
+Total comprehensive earnings
+$
+1,512
+$
+1,256
+$
+3,707
+$
+6,014
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+5
+PARK AEROSPACE CORP. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS ’
+EQUITY
+(Amounts in thousands, except share and per share amounts)
+Accumulated
+Additional
+Other
+Common Stock
+Paid-in
+Accumulated
+Comprehensive
+Treasury Stock
+Shares
+Amount
+Capital
+Deficit
+Loss
+Shares
+Amount
+Balance, February 27, 2022
+20,965,144
+$
+2,096
+$
+169,665
+$
+( 24,767
+)
+$
+( 1,965
+)
+506,934
+$
+( 9,397
+)
+Net earnings
+-
+-
+-
+1,910
+-
+-
+-
+Unrealized loss on marketable securities, net of tax
+-
+-
+-
+-
+( 933
+)
+-
+-
+Stock-based compensation
+-
+-
+85
+-
+-
+-
+-
+Cash dividends ($ 0.10
+per share)
+-
+-
+-
+( 2,046
+)
+-
+-
+-
+Balance, May 29, 2022
+20,965,144
+2,096
+169,750
+( 24,903
+)
+( 2,898
+)
+506,934
+( 9,397
+)
+Net earnings
+-
+-
+-
+1,885
+-
+-
+-
+Unrealized loss on marketable securities, net of tax
+-
+-
+-
+-
+( 667
+)
+-
+-
+Stock options exercised
+-
+-
+( 102
+)
+-
+-
+( 13,000
+)
+241
+Stock-based compensation
+-
+-
+94
+-
+-
+-
+-
+Cash dividends ($ 0.10
+per share)
+-
+-
+-
+( 2,046
+)
+-
+-
+-
+Balance, August 28, 2022
+20,965,144
+2,096
+169,742
+( 25,064
+)
+( 3,565
+)
+493,934
+( 9,156
+)
+Net earnings
+-
+-
+-
+2,230
+-
+-
+-
+Unrealized loss on marketable securities, net of tax
+-
+-
+-
+-
+( 718
+)
+-
+-
+Stock-based compensation
+-
+-
+95
+-
+-
+-
+-
+Cash dividends ($ 0.10
+per share)
+-
+-
+-
+( 2,047
+)
+-
+-
+-
+Balance, November 27, 2022
+20,965,144
+$
+2,096
+$
+169,837
+$
+( 24,881
+)
+$
+( 4,283
+)
+493,934
+$
+( 9,156
+)
+Accumulated
+Additional
+Other
+Common Stock
+Paid-in
+Accumulated
+Comprehensive
+Treasury Stock
+Shares
+Amount
+Capital
+Deficit
+Earnings
+Shares
+Amount
+Balance, February 28, 2021
+20,965,144
+$
+2,096
+$
+170,038
+$
+( 25,063
+)
+$
+( 336
+)
+582,268
+$
+( 10,794
+)
+Net earnings
+-
+-
+-
+2,745
+-
+-
+-
+Unrealized gain on marketable securities, net of tax
+-
+-
+-
+-
+52
+-
+-
+Stock-based compensation
+-
+-
+64
+-
+-
+-
+-
+Cash dividends ($ 0.10
+per share)
+-
+-
+-
+( 2,038
+)
+-
+-
+-
+Balance, May 30, 2021
+20,965,144
+2,096
+170,102
+( 24,356
+)
+( 284
+)
+582,268
+( 10,794
+)
+Net earnings
+-
+-
+-
+2,022
+-
+-
+-
+Unrealized loss on marketable securities, net of tax
+-
+-
+-
+-
+( 61
+)
+-
+-
+Stock options exercised
+-
+-
+( 397
+)
+-
+-
+( 46,134
+)
+855
+Stock-based compensation
+-
+-
+74
+-
+-
+-
+-
+Cash dividends ($ 0.10
+per share)
+-
+-
+-
+( 2,039
+)
+-
+-
+-
+Balance, August 29, 2021
+20,965,144
+2,096
+169,779
+( 24,373
+)
+( 345
+)
+536,134
+( 9,939
+)
+Net earnings
+-
+-
+-
+1,741
+-
+-
+-
+Unrealized loss on marketable securities, net of tax
+-
+-
+-
+-
+( 485
+)
+-
+-
+Stock options exercised
+-
+-
+( 261
+)
+-
+-
+( 29,200
+)
+542
+Stock-based compensation
+-
+-
+73
+-
+-
+-
+-
+Cash dividends ($ 0.10
+per share)
+-
+-
+-
+( 2,048
+)
+-
+-
+-
+Balance, November 28, 2021
+20,965,144
+$
+2,096
+$
+169,591
+$
+( 24,680
+)
+$
+( 830
+)
+506,934
+$
+( 9,397
+)
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+6
+PARK AEROSPACE CORP. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in thousands)
+39 Weeks Ended (Unaudited)
+November 27,
+November 28,
+2022
+2021
+Cash flows from operating activities:
+Net earnings
+$
+6,025
+$
+6,508
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization
+826
+805
+Stock-based compensation
+274
+211
+Deferred income taxes
+265
+405
+Amortization of bond premium
+125
+718
+Loss on sale of fixed assets
+-
+27
+Changes in operating assets and liabilities
+( 5,381
+)
+( 5,418
+)
+Net cash provided by operating activities
+2,134
+3,256
+Cash flows from investing activities:
+Purchase of property, plant and equipment
+( 749
+)
+( 3,586
+)
+Proceeds from sales of property, plant and equipment
+-
+14
+Purchases of marketable securities
+( 39,785
+)
+( 41,471
+)
+Proceeds from sales and maturities of marketable securities
+36,199
+19,538
+Net cash used in investing activities
+( 4,335
+)
+( 25,505
+)
+Cash flows from financing activities:
+Dividends paid
+( 6,139
+)
+( 6,125
+)
+Proceeds from exercise of stock options
+139
+739
+Net cash used in financing activities
+( 6,000
+)
+( 5,386
+)
+Decrease in cash and cash equivalents:
+( 8,201
+)
+( 27,635
+)
+Cash and cash equivalents, beginning of period
+12,811
+41,595
+Cash and cash equivalents, end of period
+$
+4,610
+$
+13,960
+Supplemental cash flow information:
+Cash paid during the period for income taxes, net of refunds
+$
+3,178
+$
+3,733
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+7
+PARK AEROSPACE CORP. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+(Amounts in thousands, except share (unless otherwise stated), per share and option amounts)
+1. CONSOLIDATED FINANCIAL STATEMENTS
+The Condensed Consolidated Balance Sheet and the Consolidated Statements of Shareholders’ Equity as of November 27, 2022, the Consolidated Statements of Operations and the Consolidated Statements of Comprehensive Earnings for the 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021, and the Condensed Consolidated Statements of Cash Flows for the 39 weeks then ended have been prepared by Park Aerospace Corp. (the “Company”), without audit. In the opinion of management, these unaudited condensed consolidated financial statements contain all adjustments (which include only normal recurring adjustments) necessary to present fairly the financial position at November 27, 2022 and the results of operations and cash flows for all periods presented. The Consolidated Statements of Operations are not necessarily indicative of the results to be expected for the full fiscal year or any subsequent interim period.
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“US GAAP”) have been condensed or omitted. It is suggested that these condensed consolidated financial statements be read in conjunction with the consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the fiscal year ended February 27, 2022. There have been no significant changes to such accounting policies during the 39 weeks ended November 27, 2022.
+2. FAIR VALUE MEASUREMENTS
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability ( i.e ., the “exit price”) in an orderly transaction between market participants at the measurement date.
+Fair value measurements are broken down into three levels based on the reliability of inputs as follows:
+Level 1 inputs are quoted prices in active markets for identical assets or liabilities that the Company has the ability to access at the measurement date. An active market for the asset or liability is a market in which transactions for the asset or liability occur with sufficient frequency and volume to provide pricing information on an ongoing basis.
+Level 2 inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly. Level 2 inputs include quoted prices for similar assets or liabilities in active markets, inputs other than quoted prices that are observable for the asset or liability ( e.g. , interest rates and yield curves observable at commonly quoted intervals or current market) and contractual prices for the underlying financial instrument, as well as other relevant economic measures.
+Level 3 inputs are unobservable inputs for the asset or liability. Unobservable inputs are used to measure fair value to the extent that observable inputs are not available, thereby allowing for situations in which there is little, if any, market activity for the asset or liability at the measurement date.
+8
+The fair value of the Company’s cash and cash equivalents, accounts receivable, accounts payable and accrued liabilities approximate their carrying value due to their short-term nature. Certain assets and liabilities of the Company are required to be recorded at fair value on either a recurring or non-recurring basis. On a recurring basis, the Company records its marketable securities at fair value using Level 1 or Level 2 inputs. (See Note 3).
+The Company’s non-financial assets measured at fair value on a non-recurring basis include goodwill and any long-lived assets written down to fair value. To measure fair value of such assets, the Company uses Level 3 inputs consisting of techniques including an income approach and a market approach. The income approach is based on a discounted cash flow analysis and calculates the fair value by estimating the after-tax cash flows attributable to a reporting unit and then discounting the after-tax cash flows to a present value using a risk-adjusted discount rate. Assumptions used in the discounted cash flow analysis require the exercise of significant judgment, including judgment about appropriate discount rates, terminal values, growth rates and the amount and timing of expected future cash flows. With respect to goodwill, the Company first assesses qualitative factors to determine whether it is more likely than not that fair value is less than carrying value. If, based on that assessment, the Company believes it is more likely than not that fair value is less than carrying value, a goodwill impairment test is performed. There have been no changes in events or circumstances which required impairment charges to be recorded during the 13 weeks and 39 weeks ended November 27, 2022.
+3. MARKETABLE SECURITIES
+All marketable securities are classified as available-for-sale and are carried at fair value, with the unrealized gains and losses, net of tax, included in comprehensive earnings. Realized gains and losses, amortization of premiums and discounts, and interest and dividend income are included in interest and other income in the Condensed Consolidated Statements of Operations. The costs of securities sold are based on the specific identification method.
+The following is a summary of available-for-sale securities:
+November 27, 2022
+Total
+Level 1
+Level 2
+Level 3
+U.S. Treasury and other government securities
+$
+79,512
+$
+79,512
+$
+-
+$
+-
+U.S. corporate debt securities
+19,181
+19,181
+-
+-
+Total marketable securities
+$
+98,693
+$
+98,693
+$
+-
+$
+-
+February 27, 2022
+Total
+Level 1
+Level 2
+Level 3
+U.S. Treasury and other government securities
+$
+62,612
+$
+62,612
+$
+-
+$
+-
+U.S. corporate debt securities
+34,938
+34,938
+-
+-
+Total marketable securities
+$
+97,550
+$
+97,550
+$
+-
+$
+-
+9
+The following table shows the amortized cost basis of, and gross unrealized gains and losses on, the Company’s available-for-sale securities:
+Amortized Cost
+Basis
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+November 27, 2022:
+U.S. Treasury and other government securities
+$
+85,196
+$
+-
+$
+5,684
+U.S. corporate debt securities
+19,364
+-
+183
+Total marketable securities
+$
+104,560
+$
+-
+$
+5,867
+February 27, 2022:
+U.S. Treasury and other government securities
+$
+65,177
+$
+5
+$
+2,570
+U.S. corporate debt securities
+35,064
+5
+131
+Total marketable securities
+$
+100,241
+$
+10
+$
+2,701
+The estimated fair values of such securities at November 27, 2022 by contractual maturity are shown below:
+Due in one year or less
+$
+30,520
+Due after one year through five years
+68,173
+$
+98,693
+4. INVENTORIES
+Inventories are stated at the lower of cost (first-in, first-out method) or net realizable value. The Company writes down its inventory for estimated obsolescence or unmarketability based upon the age of the inventory and assumptions about future demand for the Company’s products and market conditions. Work-in-process and finished goods inventories cost valuations include direct material costs as well as a portion of the Company’s overhead expenses.  The Company’s overhead expenses that are applied to its finished goods inventories are based on actual expenses related to the procurement, storage, shipment and production of the finished goods. Inventories consisted of the following:
+November 27,
+February 27,
+2022
+2022
+Inventories:
+Raw materials
+$
+5,935
+$
+4,026
+Work-in-process
+504
+253
+Finished goods
+377
+378
+$
+6,816
+$
+4,657
+10
+5. LEASES
+The Company has operating leases related to land, office space, warehouse space and equipment. All of the Company’s leases have been assessed to be operating leases. Renewal options are included in the lease term to the extent the Company is reasonably certain to exercise the option. The exercise of lease renewal options is at the Company’s sole discretion. The incremental borrowing rate represents the Company’s ability to borrow on a collateralized basis over a term similar to the lease term. The leases typically contain renewal options for periods ranging from
+one
+year to
+ten
+years and require the Company to pay real estate taxes and other operating costs. The latest land lease expiration is 2068 assuming exercise of all applicable renewal options by the Company. The Company’s existing leases are not subject to any restrictions or covenants which preclude its ability to pay dividends, obtain financing or exercise its available renewal options.
+Future minimum lease payments under non-cancellable operating leases as of November 27, 2022 are as follows:
+Fiscal Year:
+2022
+$
+13
+2023
+53
+2024
+36
+2025
+-
+2026
+-
+Thereafter
+162
+Total undiscounted operating lease payments
+264
+Less imputed interest
+( 70
+)
+Present value of operating lease payments
+$
+194
+The above payment schedule includes renewal options that the Company is reasonably likely to exercise. Leases with an initial term of 12 months or less are not recorded on the Company’s condensed consolidated balance sheet. The Company recognizes lease expense for these leases on a straight-line basis over the terms of the leases.
+For the 13 weeks and 39 weeks ended November 27, 2022, the Company’s operating lease expenses were $ 15
+and $ 46 , respectively. Cash payments of $ 40 , pertaining to operating leases, are reflected in the cash flow statement under cash flows from operating activities.
+The following table sets forth the right-of-use assets and operating lease liabilities as of November 27, 2022:
+Operating right-of-use assets
+$
+163
+Operating lease liabilities
+$
+53
+Long-term operating lease liabilities
+141
+Total operating lease liabilities
+$
+194
+The Company’s weighted average remaining lease term for its operating leases is
+7.4
+years.
+11
+In December 2018, the Company entered into a Development Agreement with the City of Newton (“City”), Kansas and the Board of County Commissioners of Harvey County, Kansas. Pursuant to this agreement, the Company agreed to construct and operate a redundant manufacturing facility of approximately
+90,000
+square feet for the design, development and manufacture of advanced composite materials and parts, structures and assemblies for aerospace. The Company further agreed to equip the facility through the purchase of machinery, equipment and furnishings and to create additional new full-time employment of specified levels during a five-year period. In exchange for these agreements, the City and the County agreed to lease to the Company
+three
+acres of land at the Newton, Kansas Airport, in addition to the
+eight
+acres previously leased to the Company by the City and County. The City and County further agreed to provide financial and other assistance toward the construction of the additional facility as set forth in the Development Agreement. The Company estimates the total cost of the additional facility to be approximately $ 19,800 . The expansion construction is complete and is undergoing customer qualifications, which are expected to be completed in the first half of the 2023 calendar year. As of November 27, 2022, the Company had $ 225
+in equipment purchase obligations and $ 19,314
+of construction-in-progress related to the additional facility.
+Pursuant to the Development Agreement, the City provided a sales tax exemption for materials the Company purchased for the facility, subject to issuance of Industrial Revenue Bonds (“IRBs”). On June 7, 2022, the City issued IRB Series 2022, in an aggregate principal amount not to exceed $ 18,500,000 , pursuant to a Trust Indenture between the City and Security Bank of Kansas City. The Company simultaneously entered into a Bond Purchase Agreement with the City, whereby the Company agreed to buy the IRBs at a purchase price equal to the par amount of the IRBs issued. The Company redeemed the IRBs in August of 2022. Neither the purchase nor redemption of the IRBs had an impact on the Company’s Consolidated Statements of Operations.
+6. STOCK-BASED COMPENSATION
+As of November 27, 2022, the Company had a 2018 Stock Option Plan (the “2018 Plan”) and no other stock-based compensation plan. The 2018 Plan was adopted by the Board of Directors of the Company on May 8, 2018 and approved by the shareholders of the Company at the Annual Meeting of Shareholders of the Company on July 24, 2018 and provides for the grant of options to purchase up to
+800,000
+shares of common stock of the Company. Prior to the 2018 Plan, the Company had the 2002 Stock Option Plan (the “2002 Plan”) which had been approved by the Company’s shareholders and provided for the grant of stock options to directors and key employees of the Company. All options granted under the 2018 Plan and 2002 Plan have exercise prices equal to the fair market value of the underlying common stock of the Company at the time of grant which, pursuant to the terms of such Plans, is the reported closing price of the common stock on the New York Stock Exchange on the date preceding the date the option is granted. Options granted under the Plans become exercisable
+25 %
+one
+year after the date of grant, with an additional
+25 % exercisable each succeeding anniversary of the date of grant, and expire
+10
+years after the date of grant. Upon termination of employment or service as a director, all options held by the optionee that have not previously become exercisable shall terminate and all other options held by such optionee may be exercised, to the extent exercisable on the date of such termination, for a limited time after such termination. Any shares of common stock subject to an option under the 2018 Plan, which expire or are terminated unexercised as to such shares, shall again become available for issuance under the 2018 Plan.
+During the 39 weeks ended November 27, 2022, the Company granted options under the 2018 Plan to purchase a total of
+131,600
+shares of common stock to its directors and certain of its employees. The future compensation expense to be recognized in earnings before income taxes is $ 338
+and will be recorded on a straight-line basis over the requisite service period. The weighted average fair value of the granted options was $ 2.66
+per share using the Black-Scholes option pricing model with the following assumptions: risk free interest rate of
+2.69 %- 2.70 %; expected volatility factor of
+28.2 %- 28.3 %; expected dividend yield of
+3.32 %; and estimated option term of
+5.4 - 8.1
+years.
+12
+The risk-free interest rates were based on U.S. Treasury rates at the date of grant with maturity dates approximately equal to the estimated terms of the options at the date of the grant. Volatility factors were based on historical volatility of the Company’s common stock. The expected dividend yields were based on the regular quarterly cash dividend per share most recently declared by the Company and on the exercise price of the options granted during the 13 weeks and 39 weeks ended November 27, 2022. The estimated term of the options was based on evaluations of the historical and expected future employee exercise behavior.
+The following is a summary of option activity for the 39 weeks ended November 27, 2022:
+Outstanding
+Options
+Weighted
+Average
+Exercise
+Price
+Weighted Average
+Remaining Contractual
+Term (in years)
+Aggregate
+Intrinsic
+Value
+Balance, February 27, 2022
+648,300
+$
+12.96
+$
+493
+Granted
+131,600
+12.06
+Exercised
+( 13,000
+)
+10.67
+Terminated or expired
+( 74,225
+)
+12.86
+Balance, November 27, 2022
+692,675
+$
+12.84
+6.05
+$
+610
+Vested and exercisable, November 27, 2022
+388,288
+$
+12.74
+4.12
+$
+381
+7. EARNINGS PER SHARE
+Basic earnings per share are computed by dividing net earnings by the weighted average number of shares of common stock outstanding during the period. Diluted earnings per share are computed by dividing net earnings by the sum of (a) the weighted average number of shares of common stock outstanding during the period and (b) the potentially dilutive securities outstanding during the period. Stock options are the only potentially dilutive securities; and the number of dilutive options is computed using the treasury stock method.
+The following table sets forth the calculation of basic and diluted earnings per share:
+13 Weeks Ended
+39 Weeks Ended
+November 27,
+2022
+November 28,
+2021
+November 27,
+2022
+November 28,
+2021
+Net earnings
+$
+2,230
+$
+1,741
+$
+6,025
+$
+6,508
+Weighted average common shares outstanding for basic EPS
+20,471
+20,450
+20,463
+20,410
+Net effect of dilutive options
+39
+53
+43
+156
+Weighted average shares outstanding for diluted EPS
+20,510
+20,503
+20,506
+20,566
+Basic earnings per share
+$
+0.11
+$
+0.09
+$
+0.29
+$
+0.32
+Diluted earnings per share
+$
+0.11
+$
+0.08
+$
+0.29
+$
+0.32
+Potentially dilutive securities, which were not included in the computation of diluted earnings per share, because either the effect would have been anti-dilutive or the options’ exercise prices were greater than the average market price of the common stock, were
+595,000
+and
+322,000
+for the 13 weeks ended November 27, 2022 and November 28, 2021, respectively, and
+498,000
+and
+221,000
+for the 39 weeks ended November 27, 2022 and November 28, 2021, respectively.
+13
+8. SHAREHOLDERS ’
+EQUITY
+On May 23, 2022, the Company announced that its Board of Directors authorized the Company’s purchase, on the open market and in privately negotiated transactions, of up to
+1,500,000
+additional shares of its common stock. This authorization supersedes any unused prior Board of Directors’ authorizations to purchases shares of the Company’s Common Stock. As a result, the Company is authorized to purchase up to a total of
+1,500,000
+shares of its common stock, representing approximately
+7.3 % of the Company’s
+20,471,210
+total outstanding shares as of the close of business on January 2, 2023. There is no assurance the Company will purchase any shares pursuant to this Board of Directors’ authorization. Shares purchased by the Company, if any, will be retained as treasury stock and will be available for use under the Company’s stock option plan and for other corporate purposes.
+The Company did
+not
+purchase any shares of its common stock during the 39 weeks ended November 27, 2022 and November 28, 2021.
+9. RESTRUCTURING CHARGES
+The Company recorded restructuring charges of $ 0
+for both the 13 weeks and 39 weeks ended November 27, 2022 compared to $ 13
+and $ 197 , respectively, for the 13 weeks and 39 weeks ended November 28, 2021, related to the closure of the Company’s Park Aerospace Technologies Asia Pte, Ltd facility located in Singapore.
+10. INCOME TAXES
+For the 13 weeks and 39 weeks ended November 27, 2022, the Company recorded income tax provisions from operations of $ 990
+and $ 2,362 , respectively, which included discrete income tax provisions of $ 58
+and $ 133 , respectively. Additionally, tax expense was negatively impacted by $ 153
+in the 13 weeks and 39 weeks ended November 27, 2022 by tax deductions becoming unavailable due to stock options expiring unexercised. For the 13 weeks and 39 weeks ended November 28, 2021, the Company recorded income tax provisions from operations of $ 569
+and $ 2,571 , respectively, which included discrete income tax provisions of $ 5
+and $ 175 , respectively.
+The Company’s effective tax rates for the 13 weeks and 39 weeks ended November 27, 2022 were income tax provisions of
+30.7 % and
+28.2 %, respectively, compared to income tax provisions of
+24.6 % and
+28.3 % in the comparable prior periods. The effective tax rates for the 13 weeks and 39 weeks ended November 27, 2022 were higher than the U.S. statutory rate of
+21 % primarily due to state and local taxes and a discrete income tax provision for the accrual of interest related to unrecognized tax benefits and tax deductions becoming unavailable. The effective rates for the 13 weeks and 39 weeks ended November 28, 2021 were higher than the U.S. statutory rate of 21% primarily due to state and local taxes and discrete income tax provisions for the write-off of deferred tax assets and liabilities related to its closed Singapore facility and for the accrual of interest related to unrecognized tax benefits.
+Notwithstanding the U.S. taxation of the deemed repatriated earnings as a result of the mandatory one-time transition tax on the accumulated untaxed earnings of foreign subsidiaries of U.S. shareholders included in the 2017 Tax Cuts and Jobs Act, the Company intends to indefinitely invest approximately $ 25
+million of undistributed earnings outside of the U.S. If these future earnings are repatriated to the U.S., or if the Company determines such earnings will be remitted in the foreseeable future, the Company may be required to accrue U.S. deferred taxes on such earnings.
+14
+11. GEOGRAPHIC REGIONS
+The Company’s products are sold to customers in North America, Asia and Europe. The Company’s manufacturing facility is located in Kansas. Sales are attributed to geographic regions based upon the region in which the materials were delivered to the customer. All of the Company’s long-lived assets are located in North America.
+Financial information regarding the Company’s continuing operations by geographic region is as follows:
+13 Weeks Ended
+39 Weeks Ended
+November 27,
+2022
+November 28,
+2021
+November 27,
+2022
+November 28,
+2021
+Sales:
+North America
+$
+12,072
+$
+13,231
+$
+36,960
+$
+39,285
+Asia
+363
+218
+640
+542
+Europe
+1,432
+415
+2,925
+1,249
+Total sales
+$
+13,867
+$
+13,864
+$
+40,525
+$
+41,076
+12. CONTINGENCIES
+Litigation
+The Company is subject to a small number of immaterial proceedings, lawsuits and other claims related to environmental, employment, product and other matters. The Company is required to assess the likelihood of any adverse judgments or outcomes in these matters as well as potential ranges of probable losses. A determination of the amount of reserves required, if any, for these contingencies is made after careful analysis of each individual issue. The required reserves may change in the future due to new developments in each matter or changes in approach, such as a change in settlement strategy in dealing with these matters. The Company believes that the ultimate disposition of such proceedings, lawsuits and claims will not have a material adverse effect on the liquidity, capital resources, business, consolidated results of operations or financial position of the Company.
+Environmental Contingencies
+The Company and certain of its subsidiaries have been named by the Environmental Protection Agency (the “EPA”) or a comparable state agency under the Comprehensive Environmental Response, Compensation and Liability Act (the “Superfund Act”) or similar state law as potentially responsible parties in connection with alleged releases of hazardous substances at three sites.
+Under the Superfund Act and similar state laws, all parties who may have contributed any waste to a hazardous waste disposal site or contaminated area identified by the EPA or comparable state agency may be jointly and severally liable for the cost of cleanup. Generally, these sites are locations at which numerous persons disposed of hazardous waste. In the case of the Company’s subsidiaries, generally the waste was removed from their manufacturing facilities and disposed at waste sites by various companies which contracted with the subsidiaries to provide waste disposal services. Neither the Company nor any of its subsidiaries have been accused of or charged with any wrongdoing or illegal acts in connection with any such sites. The Company believes it maintains an effective and comprehensive environmental compliance program.
+15
+The insurance carriers which provided general liability insurance coverage to the Company and its subsidiaries for the years during which the Company’s subsidiaries’ waste was disposed at these three sites have in the past reimbursed the Company and its subsidiaries for
+100 % of their legal defense and remediation costs associated with
+two
+of these sites.
+The Company does
+not
+record environmental liabilities and related legal expenses for which the Company believes that it and its subsidiaries have general liability insurance coverage for the years during which the Company’s subsidiaries’ waste was disposed at two sites for which certain subsidiaries of the Company have been named as potentially responsible parties. Pursuant to such general liability insurance coverage,
+three
+insurance carriers reimburse the Company and its subsidiaries for 100% of the legal defense and remediation costs associated with the two sites.
+Included in selling, general and administrative expenses are charges for actual expenditures and accruals, based on estimates, for certain environmental matters described above. The Company accrues estimated costs associated with known environmental matters when such costs can be reasonably estimated and when the outcome appears probable. The Company believes that the ultimate disposition of known environmental matters will not have a material adverse effect on the Company’s results of operations, cash flows or financial position.
+16
+Item 2.   Management's Discussion and Analysis of Financial Condition and Results of Operations .
+General:
+Park Aerospace Corp. (“Park” or the “Company”) develops and manufactures solution and hot-melt advanced composite materials used to produce composite structures for the global aerospace markets. Park’s advanced composite materials include film adhesives (undergoing qualification) and lightning strike materials. Park offers an array of composite materials specifically designed for hand lay-up or automated fiber placement (“AFP”) manufacturing applications. Park’s advanced composite materials are used to produce primary and secondary structures for jet engines, large and regional transport aircraft, military aircraft, Unmanned Aerial Vehicles (UAVs commonly referred to as “drones”), business jets, general aviation aircraft and rotary wing aircraft. Park also offers specialty ablative materials for rocket motors and nozzles and specially designed materials for radome applications. As a complement to Park’s advanced composite materials offering, Park designs and fabricates composite parts, structures and assemblies and low volume tooling for the aerospace industry. Target markets for Park’s composite parts and structures (which include Park’s proprietary composite SigmaStrut TM
+and AlphaStrut TM
+product lines) are, among others, prototype and development aircraft, special mission aircraft, spares for legacy military and civilian aircraft and exotic spacecraft.
+Financial Overview
+The Company's total net sales in the 13 weeks and 39 weeks ended November 27, 2022 were $13.9 million and $40.5 million, respectively, compared to $13.9 million and $41.1 million, respectively, in the 13 weeks and 39 weeks ended November 28, 2021.
+The Company’s gross profit margins, measured as percentages of sales, were 32.0% and 31.1%, respectively, in the 13 weeks and 39 weeks ended November 27, 2022 compared to 27.7% and 33.4%, respectively, in the 13 weeks and 39 weeks ended November 28, 2021. The higher gross profit margin for the 13 weeks ended November 27, 2022 compared to last year’s comparable period was primarily due to a favorable sales mix and higher production volumes partially offset by increases in material costs, utility costs, supplier costs, freight costs and other costs due to inflation. The lower gross profit margin for the 39 weeks ended November 27, 2022 compared to last year’s comparable period was primarily due to a favorable sales mix in the prior year’s first quarter and increases in material costs, utility costs, supplier costs, freight costs and other costs due to inflation.
+The Company’s net earnings increased 28% in the 13 weeks ended November 27, 2022 compared to the 13 weeks ended November 28, 2021 primarily as a result of a favorable sales mix, higher production levels, recovery of a bad debt and higher interest income partially offset by increases in material costs, utility costs, supplier costs, freight costs and other costs due to inflation. The Company’s net earnings decreased 7% in the 39 weeks ended November 27, 2022 compared to the 39 weeks ended November 28, 2021 primarily as a result of a less favorable sales mix and increases in material costs, utility costs, supplier costs, freight costs and other costs due to inflation, partially offset by higher interest income compared to last year’s comparable period. Additionally, tax expense was negatively impacted by $153,000 in the 13 weeks and 39 weeks ended November 27, 2022 by tax deductions becoming unavailable due to stock options expiring unexercised.
+The Company is experiencing inflation in raw material and other costs. The impact of inflation on the Company’s profits has been partially mitigated by the Company’s ability to adjust pricing for a portion of its sales to pass the impact of inflation through to its customers.
+17
+With the recovery of the aerospace markets, some companies in the aerospace supply chain may not be fully prepared to ramp up their production as quickly as needed, which may create a risk to the Company of not getting enough raw materials on a timely basis to fully support the Company’s customers’ demands. Delays in raw material shipments continue to represent a risk to the Company.
+Programs that the Company supplies into may also be experiencing supply chain issues from other suppliers to the programs. The Company’s sales could be impacted by delays in its customers’ production schedules caused by other suppliers in the chain.
+The tight labor market has created challenges in hiring personnel. Although the Company feels very positive about its workforce, high wage inflation creates challenges in hiring to add to the Company’s employee base and has made recent progress in recruiting new employees. Additionally, the Company has a “Customer Flexibility Program” whereby employees can cross train on different equipment and processes to earn extra pay for attaining the added skills.
+The war in Ukraine has not had a material impact on the Company’s results of operations, and it is not expected to have a material impact. The Company does not have any significant customers in Russia or Ukraine. The Company continues to evaluate the impact the war in Ukraine may have on the Company’s customers and on the Company’s supply chain.
+The Company has a long-term contract pursuant to which one of its customers, which represents a substantial portion of the Company’s revenue, places orders. The long-term contract with the customer is requirements based and does not guarantee quantities. An order forecast and pricing were agreed upon in the contract. However, this order forecast is updated periodically during the term of the contract. Purchase orders generally are received by the Company in excess of three months in advance of delivery by the Company to the customer.
+In December 2019, a novel strain of coronavirus was reported in Wuhan, China and since spread worldwide, including to the United States, posing public health risks that reached pandemic proportions (the “COVID-19 Pandemic”).
+The COVID-19 Pandemic and resultant global economic crisis had significant impacts on the Company’s results of operations and cash flow for the 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021, respectively. The COVID-19 Pandemic and crisis had significant impacts on the markets the Company sells into, particularly the commercial and business aircraft markets. As a result, the Company experienced significant reductions in sales and backlog during those periods. The Company continues to experience the impacts related to raw material availability and costs.
+Even after the COVID-19 Pandemic subsided, the Company continues to experience adverse impacts to its business as a result of the potential impact of the economic crisis on the markets the Company serves.
+18
+Results of Operations:
+The following table sets forth the components of the consolidated statements of operations:
+13 Weeks Ended
+39 Weeks Ended
+(amounts in thousands, except per share
+November 27,
+November 28,
+%
+November 27,
+November 28,
+%
+amounts)
+2022
+2021
+Change
+2022
+2021
+Change
+Net sales
+$
+13,867
+$
+13,864
+0.0
+%
+$
+40,525
+$
+41,076
+(1.3
+)%
+Cost of sales
+9,423
+10,028
+(6.0
+)%
+27,903
+27,357
+2.0
+%
+Gross profit
+4,444
+3,836
+15.8
+%
+12,622
+13,719
+(8.0
+)%
+Selling, general and administrative expenses
+1,523
+1,593
+(4.4
+)%
+4,888
+4,729
+3.4
+%
+Restructuring charges
+-
+13
+0.0
+%
+-
+197
+0.0
+%
+Earnings from operations
+2,921
+2,230
+31.0
+%
+7,734
+8,793
+(12.0
+)%
+Interest and other income
+299
+80
+273.8
+%
+653
+286
+128.3
+%
+Earnings from operations before income taxes
+3,220
+2,310
+39.4
+%
+8,387
+9,079
+(7.6
+)%
+Income tax provision
+990
+569
+74.0
+%
+2,362
+2,571
+(8.1
+)%
+Net earnings
+$
+2,230
+$
+1,741
+28.1
+%
+$
+6,025
+$
+6,508
+(7.4
+)%
+Earnings per share:
+Basic:
+Basic earnings per share
+$
+0.11
+$
+0.09
+22
+%
+$
+0.29
+$
+0.32
+(9
+)%
+Diluted:
+Diluted earnings per share
+$
+0.11
+$
+0.08
+38
+%
+$
+0.29
+$
+0.32
+(9
+)%
+Net Sales
+The Company’s total net sales worldwide in the 13 weeks and 39 weeks ended November 27, 2022 were $13.9 million and $40.5 million, respectively, compared to $13.9 million and $41.1 million, respectively, in the 13 weeks and 39 weeks ended November 28, 2021.
+Gross Profit
+The Company’s gross profit in the 13 weeks ended November 27, 2022 was higher than its gross profit in the prior year’s comparable period, and the gross profit as a percentage of sales for the Company’s worldwide operations in the 13 weeks ended November 27, 2022 increased to 32.0% from 27.7% in the 13 weeks ended November 28, 2021. The higher gross profit margin for the 13 ended November 27, 2022 compared to last year’s comparable period was primarily due to a favorable sales mix partially offset by increases in material costs, utility costs, supplier costs, freight costs and other costs due to inflation.
+The Company’s gross profit in the 39 weeks ended November 27, 2022 was lower than its gross profit in the prior year’s comparable period, and the gross profit as percentage of sales for the Company’s worldwide operations in the 39 weeks ended November 27, 2022 decreased to 31.1% from 33.4% in the 39 weeks ended November 28, 2021. The lower gross profit margin for the 39 weeks ended November 27, 2022 compared to last year’s comparable period was primarily due to a less favorable sales mix, and increases in material costs, utility costs, supplier costs, freight costs and other costs due to inflation.
+19
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses decreased by $70,000 during the 13 weeks ended November 27, 2022, or by 4.4%, compared to the prior year’s comparable period, and these expenses, measured as percentages of sales, were 11.0% in the 13 weeks ended November 27, 2022 compared to 11.5% in the 13 weeks ended November 28, 2021. The decrease were primarily due to recovery of bad debt expense related to a customer bankruptcy.
+Selling, general and administrative expenses increased by $159,000 during the 39 weeks ended November 27, 2022, or by 3.4%, compared to the prior year’s comparable period, and these expenses, measured as percentages of sales, were 12.1% in the 39 weeks ended November 27, 2022 compared to 11.5% in the 39 weeks ended November 28, 2021. The increases were primarily due to increased salary expense, travel and entertainment expense and freight out.
+Selling, general and administrative expenses included stock option expenses of $95,000 and $274,000, respectively, for the 13 weeks and 39 weeks ended November 27, 2022, compared to stock option expenses of $73,000 and $211,000, respectively, for the 13 weeks and 39 weeks ended November 28, 2021.
+Restructuring Charges
+In the 13 weeks and 39 weeks ended November 28, 2021, the Company recorded no pre-tax restructuring charges in connection with the closure of the Company’s Park Aerospace Technologies Asia Pte. Ltd facility located in Singapore compared to $13,000 and $197,000, respectively, in the prior year’s comparable periods.
+Earnings from operations
+For the reasons set forth above, the Company’s earnings were $2.9 million and $7.7 million, respectively, for the 13 weeks and 39 weeks ended November 27, 2022 compared to $2.2 million and $8.8 million, respectively, for the 13 weeks and 39 weeks ended November 28, 2021.
+Interest and Other Income
+Interest and other income were $299,000 and $653,000, respectively, for the 13 weeks and 39 weeks ended November 27, 2022, compared to $80,000 and $286,000, respectively, for the prior year's comparable periods. Interest income increased 273.8% and 128.3%, respectively, for the 13 weeks and 39 weeks ended November 27, 2022 primarily as a result of weighted average interest rates in the 13 weeks and 39 weeks ended November 27, 2022, compared to the prior year's comparable periods. During the 13 weeks and 39 weeks ended November 27, 2022, the Company earned interest income principally from its investments, which consisted primarily of short-term instruments and money market funds.
+Income Tax Provision
+For the 13 weeks and 39 weeks ended November 27, 2022, the Company recorded income tax provisions of $990,000 and $2.4 million, respectively, which included discrete income tax provisions of $58,000 and $133,000, respectively, for the accrual of interest related to unrecognized tax benefits and tax deductions becoming unavailable related to stock options expiring unexercised. Additionally, tax expense was negatively impacted by $153,000 in the 13 weeks and 39 weeks ended November 27, 2022 by tax deductions becoming unavailable due to stock options expiring unexercised. For the 13 weeks and 39 weeks ended November 28, 2021, the Company recorded income tax provisions of $569,000 and $2.6 million, respectively, which included discrete income tax provisions of $5,000 and $175,000, respectively, for the write-off of deferred tax assets and liabilities related to a change in the tax filing basis of the Company’s Singapore entity and the accrual of interest related to unrecognized tax benefits.
+20
+The Company’s effective tax rates for the 13 weeks and 39 weeks ended November 27, 2022 were 30.7% and 28.2%, respectively, compared to 24.6% and 28.3%, respectively, in the prior year’s comparable periods. The effective tax rates for the 13 weeks and 39 weeks ended November 27, 2022 were higher than the U.S. statutory rate of 21% primarily due to state and local taxes and liabilities, the accrual of interest related to unrecognized tax benefits and the tax deductions becoming unavailable due to stock options expiring unexercised . The effective rates for the 13 weeks and 39 weeks ended November 28, 2021 were higher than the U.S. statutory rate of 21% primarily due to state and local taxes, the write-off of deferred tax assets and the accrual of interest related to unrecognized tax benefits.
+Net Earnings
+For the reasons set forth above, the Company's net earnings for the 13 weeks and 39 weeks ended November 27, 2022 were $2.2 million and $6.0 million, respectively, compared to net earnings of $1.7 million and $6.5 million, respectively, for the 13 weeks and 39 weeks ended November 28, 2021.
+Basic and Diluted Earnings Per Share
+In the 13 weeks and 39 weeks ended November 27, 2022, basic and diluted earnings per share were $0.11 and $0.29, respectively, compared to basic and diluted earnings per share of $0.08 and $0.09, respectively, in the 13 weeks ended November 28, 2021 and  basic and diluted earnings per share of $0.32 in the 39 weeks ended November 28, 2021.
+Liquidity and Capital Resources - Continuing Operations:
+(amounts in thousands)
+November 27,
+February 27,
+2022
+2022
+Change
+Cash and cash equivalents and marketable securities
+$
+103,303
+$
+110,361
+$
+(7,058
+)
+Working capital
+116,958
+120,147
+(3,189
+)
+39 Weeks Ended
+(amounts in thousands)
+November 27,
+November 28,
+2022
+2021
+Change
+Net cash provided by operating activities
+$
+2,134
+$
+3,256
+$
+(1,122
+)
+Net cash used in investing activities
+(4,335
+)
+(25,505
+)
+21,170
+Net cash used in financing activities
+(6,000
+)
+(5,386
+)
+(614
+)
+21
+Cash and Marketable Securities
+Of the $103.3 million of cash and cash equivalents and marketable securities at November 27, 2022, $28.0 million was owned by one of the Company’s wholly owned foreign subsidiaries.
+The change in cash and cash equivalents and marketable securities at November 27, 2022 compared to February 27, 2022 was the result of capital expenditures, dividends paid to shareholders and cash used in operating activities and a number of additional factors. The significant change in cash used in operating activities were as follows:
+●
+accounts receivable increased by 7% at November 27, 2022 compared to February 27, 2022 primarily due to timing of sales;
+●
+inventories increased by 46% at November 27, 2022 compared to February 27, 2022 primarily due to timing of raw materials purchases;
+●
+prepaid and other current assets increased by 38% at November 27, 2022 compared to February 27, 2022 primarily due to marketable securities and prepaid insurances;
+●
+accounts payable decreased by 7% at November 27, 2022 compared to February 27, 2022 primarily due to timing of vendor payments;
+●
+accrued liabilities decreased by 15% at November 27, 2022 compared to February 27, 2022 primarily due to decreases in bonus and profit sharing accruals; and
+●
+Income taxes payable decreased by 20% at November 27, 2022 compared to February 27, 2022 due to the recorded tax provision.
+In addition, the Company paid $6.1 million in cash dividends in each of the 39-week periods ended November 27, 2022 and November 28, 2021.
+Working Capital
+The decrease in working capital at November 27, 2022 compared to February 27, 2022 was due principally to the decrease in cash and cash equivalents and marketable securities, partially offset by increases in accounts receivable, inventories and prepaid and other current assets, and decreases in accounts payable, accrued liabilities and income taxes payable.
+The Company's current ratio (the ratio of current assets to current liabilities) was 19.4 to 1.0 at November 27, 2022 compared to 20.1 to 1.0 at February 27, 2022.
+Cash Flows
+During the 39 weeks ended November 27, 2022, the Company's net loss, before depreciation and amortization, deferred income taxes, stock-based compensation, amortization of bond premium and changes in operating assets and liabilities, was $2.1 million. During the same 39-week period, the Company expended $749,000 for the purchase of property, plant and equipment, compared with $3.6 million during the 39 weeks ended November 28, 2021. The Company paid $6.1 million in cash dividends in each of the 39-week periods ended November 27, 2022 and November 28, 2021.
+22
+Other Liquidity Factors
+The Company believes its financial resources will be sufficient, through the 12 months following the filing of this Form 10-Q Quarterly Report and for the foreseeable future thereafter, to provide for continued investment in working capital and property, plant and equipment and for general corporate purposes. The Company’s financial resources are also available for purchases of the Company's common stock, cash dividend payments, appropriate acquisitions and other expansions of the Company's business, including the expansion in Kansas.
+The Company is not aware of any circumstances or events that are reasonably likely to occur that could materially affect its liquidity. The Company further believes its balance sheet and financial position to be very strong.
+Contractual Obligations:
+The Company’s contractual obligations and other commercial commitments to make future payments under contracts, such as lease agreements, consist only of (i) operating lease commitments and (ii) commitments to purchase raw materials. The Company has no other long-term debt, capital lease obligations, unconditional purchase obligations or other long-term obligations, standby letters of credit, guarantees, standby repurchase obligations or other commercial commitments or contingent commitments, other than two standby letters of credit in the total amount of $140,000, to secure the Company’s obligations under its workers’ compensation insurance program.
+Off-Balance Sheet Arrangements:
+The Company’s liquidity is not dependent on the use of, and the Company is not engaged in, any off-balance sheet financing arrangements, such as securitization of receivables or obtaining access to assets through special purpose entities.
+Critical Accounting Policies and Estimates:
+The foregoing Discussion and Analysis of Financial Condition and Results of Operations is based upon the Company’s Consolidated Financial Statements, which have been prepared in accordance with US GAAP. The preparation of these Consolidated Financial Statements requires the Company to make estimates, assumptions and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and the related disclosure of contingent liabilities. On an ongoing basis, the Company evaluates its estimates, including those related to sales allowances, allowances for doubtful accounts, inventories, valuation of long-lived assets, income taxes, contingencies and litigation, and employee benefit programs. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+The Company’s critical accounting policies that are important to the Consolidated Financial Statements and that entail, to a significant extent, the use of estimates and assumptions and the application of management’s judgment are described in Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, in the Company’s Annual Report on Form 10-K for the fiscal year ended February 27, 2022. There have been no significant changes to such accounting policies during the 2023 fiscal year third quarter.
+23
+Contingencies:
+The Company is subject to a small number of immaterial proceedings, lawsuits and other claims related to environmental, employment, product and other matters. The Company is required to assess the likelihood of any adverse judgments or outcomes in these matters as well as potential ranges of probable losses. A determination of the amount of reserves required, if any, for these contingencies is made after careful analysis of each individual issue. The required reserves may change in the future due to new developments in each matter or changes in approach, such as a change in settlement strategy in dealing with these matters.
+Factors That May Affect Future Results .
+Certain portions of this Report which do not relate to historical financial information may be deemed to constitute forward-looking statements that are subject to various factors which could cause actual results to differ materially from the Company’s expectations or from results which might be projected, forecasted, estimated or budgeted by the Company in forward-looking statements. Such factors include, but are not limited to, general conditions in the aerospace industry, the Company’s competitive position, the status of the Company’s relationships with its customers, economic conditions in international markets, the cost and availability of raw materials, transportation and utilities, and the various factors set forth under the caption “Factors That May Affect Future Results” in Item 1 and in Item 1A “Risk Factors” of the Company’s Annual Report on Form 10-K for the fiscal year ended February 27, 2022.
+Item 3 .
+Quantitative and Qualitative Disclosures About Market Risk .
+The Company’s market risk exposure at November 27, 2022 is consistent with, and not greater than, the types of market risk and amount of exposures presented in the Annual Report on Form 10-K for the fiscal year ended February 27, 2022.
+Item 4 .
+Controls and Procedures .
+(a)    Disclosure Controls and Procedures.
+The Company’s management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the Company’s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) as of November 27, 2022, the end of the quarterly fiscal period covered by this quarterly report. Based on such evaluation, the Company’s Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of such period, the Company’s disclosure controls and procedures were effective in recording, processing, summarizing and reporting, on a timely basis, information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act and were effective in ensuring that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company’s management, including the Company’s Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+(b)    Changes in Internal Control Over Financial Reporting.
+There has not been any change in the Company’s internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the fiscal quarter to which this report relates that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+24
+PART II. OTHER INFORMATION
+Item 1 .
+Legal Proceedings .
+None.
+Item 1A .
+Risk Factors .
+There have been no material changes in the risk factors as previously disclosed in the Company’s Form 10-K Annual Report for the fiscal year ended February 27, 2022.
+Item 2 .
+Unregistered Sales of Equity Securities and Use of Proceeds .
+The following table provides information with respect to shares of the Company’s common stock acquired by the Company during each month included in the Company’s 2022 fiscal year third quarter ended November 27, 2022:
+Period
+Total
+Number
+of
+Shares (or
+Units)
+Purchased
+Average
+Price
+Paid
+Per
+Share (or
+Unit)
+Total Number of
+Shares (or
+Units)
+Purchased As
+Part of Publicly
+Announced
+Plans or
+Programs
+Maximum
+Number (or
+Approximate
+Dollar Value) of
+Shares (or Units)
+that May Yet Be
+Purchased
+Under the Plans
+or Programs
+August 29 - September 27
+0
+$
+-
+0
+September 28 - October 27
+0
+$
+-
+0
+October 28 - November 27
+0
+$
+-
+0
+Total
+0
+$
+-
+0
+1,500,000 (a)
+(a)
+Aggregate number of shares available to be purchased by the  Company pursuant to share purchase authorization announced on May 23, 2022. Pursuant to such  authorization, the Company is authorized to purchase its shares from time to time on the open market or in  privately negotiated transactions.
+Item 3.
+Defaults Upon Senior Securities .
+None.
+Item 4 .
+Mine Safety Disclosures .
+None.
+25
+Item 5 .
+Other Information .
+None.
+Item 6 .
+Exhibits .
+31.1
+Certification of principal executive officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+31.2
+Certification of principal financial officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+32.1
+Certification of principal executive officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certification of principal financial officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101
+The following materials from the Company’s Quarterly Report on Form 10-Q for the quarter ended November 27, 2022, formatted in XBRL (eXtensible Business Reporting Language): (i) Condensed Consolidated Balance Sheets at November 27, 2022 (unaudited) and February 27, 2022; (ii) Consolidated Statements of Operations for the 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021 (unaudited); (iii) Consolidated Statements of Comprehensive Earnings for the 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021 (unaudited); (iv) Consolidated Statements of Shareholders’ Equity at November 27, 2022 (unaudited) and November 28, 2021; and (v) Condensed Consolidated Statements of Cash Flows for the 39 weeks ended November 27, 2022 and November 28, 2021 (unaudited). * +
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*
+Filed electronically herewith.
++
+Pursuant to Rule 406T of Regulation S-T, the Interactive Data Files on Exhibit 101 hereto are deemed not filed or part of a registration statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the Securities and Exchange Act of 1934, as amended, and otherwise are not subject to liability under those sections.
+26
+EXHIBIT INDEX
+Exhibit No.
+Name
+31.1
+Certification of principal executive officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+31.2
+Certification of principal financial officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+32.1
+Certification of principal executive officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certification of principal financial officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101
+The following materials from the Company’s Quarterly Report on Form 10-Q for the quarter ended November 27, 2022, formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated Balance Sheets at November 27, 2022 (unaudited) and February 27, 2022; (ii) Consolidated Statements of Operations for the 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021 (unaudited); (iii) Consolidated Statements of Comprehensive Earnings for the 13 weeks and 39 weeks ended November 27, 2022 and November 28, 2021 (unaudited); (iv) Consolidated Statements of Shareholders’ Equity at November 27, 2022 (unaudited) and November 28, 2021; and (v) Condensed Consolidated Statements of Cash Flows for the 39 weeks ended November 27, 2022 and November 28, 2021 (unaudited). * +
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*
+Filed electronically herewith.
++
+Pursuant to Rule 406T of Regulation S-T, the Interactive Data Files on Exhibit 101 hereto are deemed not filed or part of a registration statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the Securities and Exchange Act of 1934, as amended, and otherwise are not subject to liability under those sections.
+27
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Park Aerospace Corp.
+(Registrant)
+/s/  Brian E. Shore
+Date: January 6, 2023
+Brian E. Shore
+Chief Executive Officer
+(principal executive officer)
+/s/ P. Matthew Farabaugh
+Date: January 6, 2023
+P. Matthew Farabaugh
+Senior Vice President and Chief Financial Officer
+(principal financial officer)
+(principal accounting officer)
+28

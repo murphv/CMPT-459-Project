@@ -1,0 +1,1707 @@
+0
+12
+12
+3
+2
+2
+2
+2
+2
+0
+0
+7
+5
+0.01
+0.01
+0000849401 2022-04-01 2022-12-31
+thunderdome:item
+iso4217:USD
+0000849401 2022-12-31
+0000849401 srt:RevisionOfPriorPeriodErrorCorrectionAdjustmentMember 2021-04-01 2022-03-31
+0000849401 srt:RevisionOfPriorPeriodErrorCorrectionAdjustmentMember 2022-03-31
+0000849401 admt:ConsultingAgreementMember 2022-03-31
+0000849401 admt:ConsultingAgreementMember 2021-07-31
+utr:M
+0000849401 admt:ConsultingAgreementMember 2022-07-02
+iso4217:USD xbrli:shares
+0000849401 admt:ConsultingAgreementMember 2021-07-02
+xbrli:shares
+0000849401 us-gaap:RevolvingCreditFacilityMember 2022-03-31
+0000849401 us-gaap:RevolvingCreditFacilityMember 2022-12-31
+xbrli:pure
+0000849401 us-gaap:RevolvingCreditFacilityMember 2022-06-30
+0000849401 us-gaap:RevolvingCreditFacilityMember 2022-04-01 2022-12-31
+0000849401 us-gaap:RevolvingCreditFacilityMember 2018-06-15
+0000849401 admt:PPPTermLoanOneMember 2022-12-31
+0000849401 admt:PPPTermLoanOneMember 2021-09-07 2021-09-07
+0000849401 admt:PPPTermLoanOneMember 2021-09-07
+0000849401 admt:PaycheckProtectionProgramCaresActMember us-gaap:LoansPayableMember 2021-12-21 2021-12-21
+0000849401 admt:PaycheckProtectionProgramCaresActMember 2021-09-07 2021-09-07
+0000849401 admt:PaycheckProtectionProgramCaresActMember 2020-05-12 2021-02-28
+0000849401 admt:PaycheckProtectionProgramCaresActMember 2021-02-01 2021-02-28
+0000849401 admt:PaycheckProtectionProgramCaresActMember 2002-05-01 2020-05-30
+0000849401 2021-04-01 2021-12-31
+0000849401 2021-10-01 2021-12-31
+0000849401 2022-10-01 2022-12-31
+utr:Y
+0000849401 admt:QolMember 2022-03-31
+0000849401 admt:QolMember 2022-12-31
+0000849401 admt:EngineeringServicesMember admt:QolMember 2017-04-01 2018-03-31
+0000849401 admt:QolMember 2022-12-31
+0000849401 2022-03-31
+0000849401 admt:EngineeringMember 2022-03-31
+0000849401 admt:ElectronicsMember 2022-03-31
+0000849401 admt:ChemicalMember 2022-03-31
+0000849401 admt:EngineeringMember 2022-12-31
+0000849401 admt:ElectronicsMember 2022-12-31
+0000849401 admt:ChemicalMember 2022-12-31
+0000849401 admt:EngineeringMember 2021-04-01 2021-12-31
+0000849401 admt:ElectronicsMember 2021-04-01 2021-12-31
+0000849401 admt:ChemicalMember 2021-04-01 2021-12-31
+0000849401 admt:EngineeringMember 2021-10-01 2021-12-31
+0000849401 admt:ElectronicsMember 2021-10-01 2021-12-31
+0000849401 admt:ChemicalMember 2021-10-01 2021-12-31
+0000849401 admt:EngineeringMember 2022-04-01 2022-12-31
+0000849401 admt:ElectronicsMember 2022-04-01 2022-12-31
+0000849401 admt:ChemicalMember 2022-04-01 2022-12-31
+0000849401 admt:EngineeringMember 2022-10-01 2022-12-31
+0000849401 admt:ElectronicsMember 2022-10-01 2022-12-31
+0000849401 admt:ChemicalMember 2022-10-01 2022-12-31
+0000849401 us-gaap:NonUsMember 2021-04-01 2021-12-31
+0000849401 us-gaap:NonUsMember 2022-04-01 2022-12-31
+0000849401 admt:EngineeringMember us-gaap:NonUsMember 2021-04-01 2021-12-31
+0000849401 admt:EngineeringMember us-gaap:NonUsMember 2022-04-01 2022-12-31
+0000849401 admt:ElectronicsMember us-gaap:NonUsMember 2021-04-01 2021-12-31
+0000849401 admt:ElectronicsMember us-gaap:NonUsMember 2022-04-01 2022-12-31
+0000849401 admt:ChemicalMember us-gaap:NonUsMember 2021-04-01 2021-12-31
+0000849401 admt:ChemicalMember us-gaap:NonUsMember 2022-04-01 2022-12-31
+0000849401 country:US 2021-04-01 2021-12-31
+0000849401 country:US 2022-04-01 2022-12-31
+0000849401 admt:EngineeringMember country:US 2021-04-01 2021-12-31
+0000849401 admt:EngineeringMember country:US 2022-04-01 2022-12-31
+0000849401 admt:ElectronicsMember country:US 2021-04-01 2021-12-31
+0000849401 admt:ElectronicsMember country:US 2022-04-01 2022-12-31
+0000849401 admt:ChemicalMember country:US 2021-04-01 2021-12-31
+0000849401 admt:ChemicalMember country:US 2022-04-01 2022-12-31
+0000849401 us-gaap:NonUsMember 2021-10-01 2021-12-31
+0000849401 us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000849401 admt:EngineeringMember us-gaap:NonUsMember 2021-10-01 2021-12-31
+0000849401 admt:EngineeringMember us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000849401 admt:ElectronicsMember us-gaap:NonUsMember 2021-10-01 2021-12-31
+0000849401 admt:ElectronicsMember us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000849401 admt:ChemicalMember us-gaap:NonUsMember 2021-10-01 2021-12-31
+0000849401 admt:ChemicalMember us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000849401 country:US 2021-10-01 2021-12-31
+0000849401 country:US 2022-10-01 2022-12-31
+0000849401 admt:EngineeringMember country:US 2021-10-01 2021-12-31
+0000849401 admt:EngineeringMember country:US 2022-10-01 2022-12-31
+0000849401 admt:ElectronicsMember country:US 2021-10-01 2021-12-31
+0000849401 admt:ElectronicsMember country:US 2022-10-01 2022-12-31
+0000849401 admt:ChemicalMember country:US 2021-10-01 2021-12-31
+0000849401 admt:ChemicalMember country:US 2022-10-01 2022-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:ForeignCustomersMember 2021-04-01 2021-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:ForeignCustomersMember 2021-10-01 2021-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:ForeignCustomersMember 2022-04-01 2022-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:ForeignCustomersMember 2022-10-01 2022-12-31
+0000849401 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember admt:ThreeCustomersMember 2021-04-01 2022-03-31
+0000849401 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember admt:TwoCustomersMember 2022-04-01 2022-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:TwoCustomersMember 2021-04-01 2021-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:TwoCustomersMember 2022-04-01 2022-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:TwoCustomersMember 2021-10-01 2021-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:ThreeCustomersMember 2022-10-01 2022-12-31
+0000849401 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember admt:TwoCustomersMember 2022-10-01 2022-12-31
+0000849401 admt:PatentsAndTrademarksMember 2022-03-31
+0000849401 admt:PatentsAndTrademarksMember srt:MaximumMember 2021-04-01 2022-03-31
+0000849401 admt:PatentsAndTrademarksMember srt:MinimumMember 2021-04-01 2022-03-31
+0000849401 admt:PatentsAndTrademarksMember 2022-12-31
+0000849401 admt:PatentsAndTrademarksMember srt:MaximumMember 2022-04-01 2022-12-31
+0000849401 admt:PatentsAndTrademarksMember srt:MinimumMember 2022-04-01 2022-12-31
+0000849401 srt:MaximumMember 2022-04-01 2022-12-31
+0000849401 srt:MinimumMember 2022-04-01 2022-12-31
+0000849401 admt:LongTermMember 2022-03-31
+0000849401 admt:CurrentMember 2022-03-31
+0000849401 admt:LongTermMember 2022-12-31
+0000849401 admt:CurrentMember 2022-12-31
+0000849401 admt:ElectronicProductsMember 2022-04-01 2022-12-31
+0000849401 2021-12-31
+0000849401 2021-03-31
+0000849401 us-gaap:RetainedEarningsMember 2022-12-31
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000849401 us-gaap:CommonStockMember 2022-12-31
+0000849401 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000849401 2022-09-30
+0000849401 us-gaap:RetainedEarningsMember 2022-09-30
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000849401 us-gaap:CommonStockMember 2022-09-30
+0000849401 2022-07-01 2022-09-30
+0000849401 us-gaap:RetainedEarningsMember 2022-07-01 2022-09-30
+0000849401 2022-06-30
+0000849401 us-gaap:RetainedEarningsMember 2022-06-30
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2022-06-30
+0000849401 us-gaap:CommonStockMember 2022-06-30
+0000849401 2022-04-01 2022-06-30
+0000849401 us-gaap:RetainedEarningsMember 2022-04-01 2022-06-30
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2022-04-01 2022-06-30
+0000849401 us-gaap:RetainedEarningsMember 2022-03-31
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2022-03-31
+0000849401 us-gaap:CommonStockMember 2022-03-31
+0000849401 us-gaap:RetainedEarningsMember 2021-12-31
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000849401 us-gaap:CommonStockMember 2021-12-31
+0000849401 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000849401 2021-09-30
+0000849401 us-gaap:RetainedEarningsMember 2021-09-30
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000849401 us-gaap:CommonStockMember 2021-09-30
+0000849401 2021-07-01 2021-09-30
+0000849401 us-gaap:RetainedEarningsMember 2021-07-01 2021-09-30
+0000849401 2021-06-30
+0000849401 us-gaap:RetainedEarningsMember 2021-06-30
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2021-06-30
+0000849401 us-gaap:CommonStockMember 2021-06-30
+0000849401 2021-04-01 2021-06-30
+0000849401 us-gaap:RetainedEarningsMember 2021-04-01 2021-06-30
+0000849401 us-gaap:RetainedEarningsMember 2021-03-31
+0000849401 us-gaap:AdditionalPaidInCapitalMember 2021-03-31
+0000849401 us-gaap:CommonStockMember 2021-03-31
+0000849401 2023-02-14
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM   10-Q
+(Mark One)
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  December 31, 2022
+OR
+☐ TRANSACTION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                     to
+COMMISSION FILE NO.  0-17629
+ADM TRONICS UNLIMITED, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+(State or   Other Jurisdiction
+of Incorporation   or or organization)
+22-1896032
+(I.R.S.   Employer
+Identification Number)
+224-S Pegasus Ave.,   Northvale ,  New Jersey   07647
+(Address of Principal Executive Offices)
+Registrant's Telephone Number, including area code: ( 201 )  767-6040
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which
+registered
+None
+N/A
+N/A
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days:   Yes  ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes  ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer  ☐
+Accelerated filer   ☐
+Non-accelerated filer  ☐
+Smaller reporting company  ☒
+Emerging growth company  ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes  ☐  No ☒
+State the number of shares outstanding of each of the Issuer's classes of common equity, as of the latest practicable date:
+The Company has  67,588,504  shares outstanding as of February 14, 2023.
+A DM TRONICS UNLIMITED, INC. AND SUBSIDIARY
+INDEX
+Page
+Number
+Part I - Financial Information
+Item 1.
+Condensed Consolidated Financial Statements (unaudited):
+Condensed Consolidated Balance Sheets –December 31, 2022 (unaudited) and March 31, 2022
+3
+Condensed Consolidated Statements of Operations for the three and nine months ended December 31, 2022 and 2021 (unaudited)
+4
+Condensed Consolidated Statement of Stockholders’ Equity for the three and nine months ended December 31, 2022 and 2021 (unaudited)
+5
+Condensed Consolidated Statements of Cash Flows for the nine months ended December 31, 2022 and 2021 (unaudited)
+6
+Notes to Condensed Consolidated Financial Statements
+7
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+14
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+18
+Item 4.
+Controls and Procedures
+18
+Part II - Other Information
+Item 1.
+Legal Proceedings
+18
+Item 1A.
+Risk Factors
+19
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+19
+Item 3.
+Defaults Upon Senior Securities
+19
+Item 4.
+Mine Safety Disclosures
+19
+Item 5.
+Other Information
+19
+Item 6.
+Exhibits
+19
+PART I. FINANCIAL INFORMATION
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY
+CONDENSED CONSOLIDATED BALANCE SHEETS
+December 31,
+March 31,
+2022
+Unaudited
+2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+997,685
+$
+1,038,498
+Accounts receivable, net of allowance for doubtful accounts of $ 675,000
+at December 31, 2022 and March 31, 2022, respectively
+558,285
+729,721
+Inventories
+423,355
+288,076
+Prepaid expenses and other current assets
+82,492
+57,741
+Total current assets
+2,061,817
+2,114,036
+Other Assets:
+Operating lease right-of-use asset
+451,561
+513,138
+Loan receivable
+201,203
+128,322
+Due from affiliate
+80,090
+80,090
+Inventories - long-term portion
+183,730
+183,730
+Intangible assets, net of accumulated amortization of $ 21,911
+and $ 19,751
+at December 31, 2022 and March 31, 2022, respectively
+13,883
+16,043
+Other assets
+90,538
+90,538
+Deferred tax asset
+125,000
+125,000
+Total other assets
+1,146,005
+1,136,861
+Total assets
+$
+3,207,822
+$
+3,250,897
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+263,339
+329,554
+Accrued expenses and other current liabilities
+108,718
+133,053
+PPP loan
+13,001
+5,335
+Line of credit
+111,973
+334,760
+Warrant liability
+-
+182,161
+Operating lease liability
+80,649
+75,254
+Customer deposits
+362,184
+263,619
+Due to stockholder
+21,129
+50,233
+Total current liabilities
+960,993
+1,373,969
+Long-term liabilities
+PPP loan less current portion
+-
+11,700
+Operating lease liability less current portion
+429,874
+491,265
+Total long-term liabilities
+429,874
+502,965
+Total liabilities
+1,390,867
+1,876,934
+Stockholders' equity:
+Preferred stock, $ .01
+par value;
+5,000,000
+shares authorized,
+no
+shares issued and outstanding
+-
+-
+Common stock, $ 0.0005
+par value;
+150,000,000
+shares authorized,
+67,588,504
+shares issued and outstanding
+33,794
+33,794
+Additional paid-in capital
+33,599,516
+33,311,672
+Accumulated deficit
+( 31,816,355
+)
+( 31,971,503
+)
+Total stockholders' equity
+1,816,955
+1,373,963
+Total liabilities and stockholders' equity
+$
+3,207,822
+$
+3,250,897
+See accompanying notes to the unaudited condensed consolidated financial statements
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY
+CONDENSED CONSOLIDATED STATEMENTS OF   OPERATIONS (UNAUDITED)
+FOR THE   THREE AND NINE MONTHS ENDED   DECEMBER 31, 2022   AND 2021
+Three months ended
+Nine months ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Net revenues
+$
+983,162
+$
+749,654
+$
+3,044,838
+$
+2,322,871
+Cost of sales
+507,684
+423,541
+1,628,268
+1,332,112
+Gross Profit
+475,478
+326,113
+1,416,570
+990,759
+Operating expenses:
+Research and development
+140,192
+181,224
+399,894
+475,365
+Selling, general and administrative
+242,533
+561,061
+855,656
+1,527,137
+Total operating expenses
+382,725
+742,285
+1,255,550
+2,002,502
+Income (loss) from operations
+92,753
+( 416,172
+)
+161,020
+( 1,011,743
+)
+Other income (expense):
+Forgiveness of Payroll Protection Program
+-
+332,542
+-
+693,817
+Interest income
+3,676
+655
+4,670
+2,474
+Interest and finance expenses
+( 2,658
+)
+( 2,418
+)
+( 10,542
+)
+( 7,587
+)
+Total other income (expense)
+1,018
+330,779
+( 5,872
+)
+688,704
+Income (loss) before provision for income taxes
+93,771
+( 85,393
+)
+155,148
+( 323,039
+)
+Provision for (benefit) income taxes:
+Current
+-
+-
+-
+( 19,818
+)
+Deferred
+-
+( 13,000
+)
+-
+( 163,000
+)
+Total provision (benefit) for income taxes
+-
+( 13,000
+)
+-
+( 182,818
+)
+Net income (loss)
+$
+93,771
+$
+( 72,393
+)
+$
+155,148
+$
+( 140,221
+)
+Basic and diluted per common share:
+$
+0.00
+$
+( 0.00
+)
+$
+0.00
+$
+( 0.00
+)
+Weighted average shares of common stock outstanding - basic and diluted
+67,588,504
+67,588,504
+67,588,504
+67,588,504
+See accompanying notes to the unaudited condensed consolidated financial statements
+ADM   TRONICS UNLIMITED, INC. AND SUBSIDIARY
+CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS ’  EQUITY (UNAUDITED)
+FOR THE   NINE   MONTHS ENDED   December 31, 2022   AND 2021
+Common Stock
+Common Stock
+Additional Paid-in
+Accumulated
+Shares
+Amount
+Capital
+Deficit
+Total
+Balance at April 1, 2021
+67,588,504
+$
+33,794
+$
+33,311,672
+$
+( 30,587,240
+)
+$
+2,758,226
+Net (loss)
+( 30,672
+)
+( 30,672
+)
+Balance at June 30, 2021
+67,588,504
+$
+33,794
+$
+33,311,672
+$
+( 30,617,912
+)
+$
+2,727,554
+Net (loss)
+( 37,156
+)
+( 37,156
+)
+Balance at September 30, 2021
+67,588,504
+$
+33,794
+$
+33,311,672
+$
+( 30,655,068
+)
+$
+2,690,398
+Net (loss)
+( 72,393
+)
+( 72,393
+)
+Balance at December 31, 2021
+67,588,504
+$
+33,794
+$
+33,311,672
+$
+( 30,727,461
+)
+$
+2,618,005
+Balance at April 1, 2022
+67,588,504
+$
+33,794
+$
+33,311,672
+$
+( 31,971,503
+)
+$
+1,373,963
+Stock based compensation
+287,844
+287,844
+Net (loss)
+( 38,666
+)
+( 38,666
+)
+Balance at June 30, 2022
+67,588,504
+$
+33,794
+$
+33,599,516
+$
+( 32,010,169
+)
+$
+1,623,141
+Net income
+100,043
+100,043
+Balance at September 30, 2022
+67,588,504
+$
+33,794
+$
+33,599,516
+$
+( 31,910,126
+)
+$
+1,723,184
+Net income
+93,771
+93,771
+Balance at December 31, 2022
+67,588,504
+$
+33,794
+$
+33,599,516
+$
+( 31,816,355
+)
+$
+1,816,955
+See accompanying notes to the unaudited condensed consolidated financial statements
+ADM   TRONICS UNLIMITED, INC. AND SUBSIDIARY
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE   NINE   MONTHS ENDED   DECEMBER 31, 2022   AND 2021
+2022
+2021
+Cash flows from operating activities:
+Net income (loss)
+$
+155,148
+$
+( 140,221
+)
+Adjustments to reconcile net income (loss) to net cash (used in) operating activities:
+Depreciation and amortization
+2,160
+84,836
+Write-off of inventories
+54,692
+26,726
+Bad debt
+-
+625,000
+Deferred taxes
+-
+( 163,000
+)
+Non-cash interest expense
+20,320
+23,049
+Amortization of right-to-use asset
+61,577
+-
+Stock based compensation
+33,310
+-
+Forgiveness of Paycheck Protection Program loan
+-
+( 693,817
+)
+Warrant liability
+-
+182,161
+Changes in operating assets and liabilities balances:
+Accounts receivable
+171,436
+( 9,681
+)
+Inventories
+( 189,971
+)
+( 153,528
+)
+Prepaid expenses and other current assets
+47,622
+( 44,616
+)
+Loan receivable
+( 72,881
+)
+-
+Accounts payable
+( 66,215
+)
+( 6,845
+)
+Customer deposits
+98,565
+( 10,634
+)
+Accrued expenses and other current liabilities
+( 24,335
+)
+( 17,966
+)
+Payments of operating lease liability
+( 76,406
+)
+( 76,406
+)
+Net cash provided by (used in) operating activities
+215,022
+( 374,942
+)
+Cash flows provided (used) in financing activities:
+Due to shareholder
+( 29,104
+)
+( 24,755
+)
+Proceeds from line of credit
+85,067
+187,000
+Repayments of line of credit
+( 307,764
+)
+( 159,910
+)
+Proceeds (payments) from/to PPP loan
+( 4,034
+)
+( 1,666
+)
+Net cash provided by (used in) financing activities
+( 255,835
+)
+669
+Net increase (decrease) in cash and cash equivalents
+( 40,813
+)
+( 374,273
+)
+Cash and cash equivalents - beginning of period
+1,038,498
+1,546,950
+Cash and cash equivalents - end of period
+$
+997,685
+$
+1,172,677
+Cash paid for:
+Interest
+$
+7,884
+$
+7,583
+Taxes
+$
+-
+$
+-
+Non-cash activities:
+Reclass of Warrant Liability to Additional Paid in Capital
+$
+( 182,161
+)
+$
+-
+Initial recognition of prepaid warrant expense
+$
+( 105,683
+)
+$
+-
+See accompanying notes to the unaudited condensed consolidated financial statements
+ADM TRONICS UNLIMITED, INC. AND SUBSIDIARY
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+FOR THE THREE AND NINE MONTHS ENDED December 31, 2022 AND 2021
+NOTE   1   - NATURE OF BUSINESS
+ADM Tronics Unlimited, Inc. (“we”, “us”, the “Company” or “ADM”), was incorporated under the laws of the state of Delaware on   November 24, 1969.  We are a manufacturing and engineering concern whose principal lines of business are the design, manufacture, and sale of electronics of our own products or on a contract manufacturing basis; the production and sale of chemical and antistatic products; and, research, development and engineering services.
+Electronic equipment is manufactured in accordance with customer specifications on a contract basis. Our electronic device product line consists principally of proprietary devices used in diagnostics and therapeutics of humans and animals and electronic controllers for spas and hot tubs. These products are sold to customers located principally in the United States. We are registered with the FDA as a contract manufacturing facility and we manufacture medical devices for customers in accordance with their designs and specifications. Our chemical product line is principally comprised of water-based chemical products used in the food packaging and converting industries, and anti-static conductive paints, coatings and other products. These products are sold to customers located in the United States, Australia, Asia and Europe. We also provide research, development, regulatory, and engineering services to customers. Our Sonotron Medical Systems, Inc. subsidiary (“Sonotron”) is involved in medical electronic therapeutic technology.
+NOTE   2   - SIGNIFICANT ACCOUNTING POLICIES
+BASIS OF PRESENTATION
+The accompanying unaudited condensed consolidated financial statements have been prepared by ADM pursuant to accounting principles generally accepted in the United States of America (“GAAP”) and the rules and regulations of the Securities and Exchange Commission (“SEC”) including Form  10 -Q and Regulation S- X.  The information furnished herein reflects all adjustments (consisting of normal recurring accruals and adjustments) which are, in the opinion of management, necessary to fairly present the condensed financial position and operating results for the respective periods. Certain information and footnote disclosures normally present in annual financial statements prepared in accordance with GAAP have been omitted pursuant to such rules and regulations. These condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and explanatory notes for the year ended March 31, 2022 as disclosed in our annual report on Form  10 -K for that year. Unaudited interim results are not necessarily indicative of the results for the full fiscal year ending March 31, 2023. The consolidated balance sheet as of March 31, 2022 was derived from the audited consolidated financial statements as of and for the year then ended.
+PRINCIPLES OF CONSOLIDATION
+The condensed consolidated financial statements include the accounts of ADM Tronics Unlimited, Inc. and its wholly owned subsidiary, Sonotron (the “Company”). All significant intercompany balances and transactions have been eliminated in consolidation.
+USE OF ESTIMATES
+These unaudited condensed consolidated financial statements have been prepared in accordance with GAAP and, accordingly, requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. Significant estimates made by management include expected economic life and value of our deferred tax assets and related valuation allowance, write down of inventory, impairment of long-lived assets, allowance for doubtful accounts, and warranty reserves. Actual results could differ from those estimates.
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+For certain of our financial instruments, including accounts receivable, accounts payable, and accrued expenses, the carrying amounts approximate fair value due to their relatively short maturities.
+CASH AND CASH EQUIVALENTS
+Cash equivalents are comprised of highly liquid investments with original maturities of  three  months or less when purchased. We maintain our cash in bank deposit accounts, which at times,  may  exceed federally insured limits. We have  not  experienced any losses to date as a result of this policy. Cash and cash equivalents held in these accounts are currently insured by the Federal Deposit Insurance Corporation (“FDIC”) up to a maximum of $250,000 .  At December 31, 2022 and March 31, 2022, approximately $ 820,000  and $ 887,000 , respectively, exceeded the FDIC limit.
+ACCOUNTS RECEIVABLE AND ALLOWANCE FOR DOUBTFUL ACCOUNTS
+Accounts receivable are stated at the amount management expects to collect from outstanding balances. The carrying amounts of accounts receivable is reduced by a valuation allowance that reflects management's best estimate of the amounts that will  not  be collected. Management individually reviews all accounts receivable balances that exceed the due date and estimates the portion, if any, of the balance that will be collected. Management provides for probable uncollectible amounts through a charge to expenses and a credit to a valuation allowance, based on its assessment of the current status of individual accounts. Balances that are still outstanding after management has used reasonable collection efforts are written off through a charge to the valuation allowance and a credit to accounts receivable.
+REVENUE RECOGNITION
+ELECTRONICS:
+We recognize revenue from the sale of our electronic products when they are shipped to the purchaser. We offer a limited  90 -day warranty on our electronics products and contract manufacturing, and a limited 5-year warranty on our electronic controllers for spas and hot tubs. Historically, the amount of warranty expense included in sales of our electronic products have been de minimis. We have  no  other post shipment obligations. For contract manufacturing, revenues are recognized after shipments of the completed products.
+Amounts received from customers in advance of our satisfaction of applicable performance obligations are recorded as customer deposits. Such amounts are recognized as revenues when the related performance obligations are satisfied. Customer deposits of approximately $ 120,000  and $ 209,000  as of March 31, 2022 were recognized as revenues during the three and nine months ended December 31, 2022, respectively.
+CHEMICAL PRODUCTS:
+Revenues are recognized when products are shipped to end users. Shipments to distributors are recognized as revenue when  no  right of return exists.
+ENGINEERING SERVICES:
+We provide certain engineering services, including research, development, quality control, and quality assurance services along with regulatory compliance services. We recognize revenue from engineering services over time as the applicable performance obligations are satisfied.
+All revenue is recognized net of discounts.
+INVENTORIES
+Inventories are stated at the lower of cost ( first -in,  first -out method) and net realizable value. Inventories that are expected to be sold within  one  operating cycle ( 1  year) are classified as a current asset. Inventories that are  not  expected to be sold within  1  year, based on historical trends, are classified as Inventories - long term portion. Obsolete inventory is written off based on prior and expected future usage.
+Long-Term Inventory: Due to recent shortages of materials relating to supply chain and COVID issues, when an item the Company believes will be used in the future, even beyond the current fiscal year, becomes available, it will purchase as many items as management deems necessary to fulfill future orders.
+PROPERTY AND EQUIPMENT
+We record our property and equipment at historical cost. We expense maintenance and repairs as incurred. Depreciation is provided for by the straight-line method over  five  to  seven  years, the estimated useful lives of the property and equipment.
+ADVERTISING COSTS
+Advertising costs are expensed as incurred and amounted to $ 6,184  and $ 21,216  for the three and nine months ended December 31, 2022 and $ 7,604  and $ 22,392  for the three and nine months ended December 31, 2021, respectively.
+NET EARNINGS PER SHARE
+We compute basic earnings per share by dividing net income/loss by the weighted average number of common shares outstanding. Diluted earnings per share is computed similar to basic earnings per share, except that the denominator is increased to include the number of additional common shares that would have been outstanding if the potential shares had been issued and if the additional shares were dilutive. Common equivalent shares are excluded from the computation of net earnings per share if their effect is anti-dilutive.
+There were  no  anti-dilutive instruments in force during the periods ended December 31, 2022 and 2021, respectively.
+Per share basic and diluted (loss) amounted to $ 0.00  and $( 0.00 ) and $ 0.00  and $( 0.00 ) for the three and nine months ended December 31, 2022 and 2021, respectively.
+LEASES
+In  February 2016,  the Financial Accounting Standards Board (“FASB”) issued authoritative guidance which changed financial reporting as it relates to leasing transactions. Under the new guidance, lessees are required to recognize a lease liability, measured on a discounted basis; and a right-of-use asset, for the lease term. The Company adopted this guidance as of  April 1, 2019,  using the modified retrospective approach which allowed it to initially apply the guidance as of the adoption date. The Company elected the package of practical expedients available under the new standard, which allowed the Company to forgo a reassessment of ( 1 ) whether any expired or existing contracts are or contain leases, ( 2 ) the lease classification for any expired or existing leases, and ( 3 ) the initial direct costs for any existing leases.
+The Company made a policy election to recognize short-term lease payments as an expense on a straight-line basis over the lease term. The Company defines a short-term lease as a lease that, at the commencement date, has a lease term of  twelve  months or less and does  not  contain an option to purchase the underlying asset that the lease is reasonably certain to exercise. Related variable lease payments are recognized in the period in which the obligation is incurred.
+The Company's lease agreement contains related non-lease components (e.g. taxes, etc.). The Company separates lease components and non-lease components for all underlying asset classes.
+RECLASSIFICATION
+Certain amounts in the prior periods presented have been reclassified to conform to the current period financial statement presentation. These reclassifications have  no  effect on previously reported net loss.
+NEW ACCOUNTING STANDARDS
+In June 2016, the FASB issued ASU No. 2016-13,  Financial Instruments  —  ASU  2016-13”). The new standard adjusts the accounting for assets held at amortized cost basis, including marketable securities accounted for as available for sale, and trade receivables. The standard eliminates the probable initial recognition threshold and requires an entity to reflect its current estimate of all expected credit losses. The allowance for credit losses is a valuation account that is deducted from the amortized cost basis of the financial assets to present the net amount expected to be collected. For public entities except smaller reporting companies, the guidance is effective for annual reporting periods beginning after December 15, 2019 and for interim periods within those fiscal years. In November 2019, the FASB issued ASU No. 2019-10, which deferred the effective date for non-public entities and smaller reporting companies to annual reporting periods beginning after December 15, 2022, including interim periods within those fiscal years. Early application is allowed. The Company expects to adopt this guidance effective April 1, 2023, and it is currently evaluating the impact on its condensed consolidated financial statements and related disclosures.
+The Company is assessing this guidance to determine what modifications to existing credit estimation processes may be required. The new guidance is complex and management is evaluating preliminary output from models that have been developed during this evaluative phase. In addition, future levels of allowances will also reflect new requirements to include estimated credit losses on investment securities classified as held-to-maturity, if any. It has been generally assumed that the conversion from the incurred loss model, required under current GAAP, to the current expected credit loss (CECL) methodology (as required upon implementation of this Update) will, more likely than not, result in increases to the allowances for credit losses. However, the amount of any change in the allowance for credit losses resulting from the new guidance will ultimately be impacted by the provisions of this guidance as well as by loan and trade receivable composition and asset quality at the adoption date, and economic conditions and forecasts at the time of adoption. The cumulative impact of the economic effects of the COVID-19 pandemic on the changes to the allowance for loan and trade receivable losses, that will be required upon the implementation of the CECL methodology, cannot be estimated at this time.
+From time to time, new accounting pronouncements are issued by the FASB or other standard setting bodies that the Company adopts as of the specified effective date. The Company does not believe that the impact of recently issued standards that are not yet effective will have a material impact on the Company’s financial position or results of operations upon adoption.
+NOTE   3   - INVENTORIES
+Inventories at December 31, 2022 consisted of the following:
+Current
+Long Term
+Total
+Raw materials
+$
+368,624
+$
+181,416
+$
+550,040
+Finished goods
+54,731
+2,314
+57,045
+Totals
+$
+423,355
+$
+183,730
+$
+607,085
+Inventories at March 31, 2022 consisted of the following:
+Current
+Long Term
+Total
+Raw materials
+$
+240,163
+$
+181,416
+$
+421,579
+Finished goods
+47,913
+2,314
+50,227
+Totals
+$
+288,076
+$
+183,730
+$
+471,806
+NOTE   4   - INTANGIBLE ASSETS
+Intangible assets are being amortized using the straight-line method over periods ranging from  10 - 15  years with a weighted average remaining life of approximately 6 years.
+December 31, 2022
+March 31, 2022
+Cost
+Weighted
+Average
+Amortization
+Period (Years)
+Accumulated Amortization
+Net Carrying Amount
+Cost
+Weighted
+Average
+Amortization
+Period
+(Years)
+Accumulated Amortization
+Net Carrying Amount
+Patents & Trademarks
+$
+35,794
+10
+-
+15
+$
+( 21,911
+)
+$
+13,883
+$
+35,794
+10
+-
+15
+$
+( 19,751
+)
+$
+16,043
+Estimated aggregate future amortization expense related to intangible assets is as follows:
+For the fiscal years ended March 31,
+2023
+721
+2024
+2,883
+2025
+2,466
+2026
+1,980
+2027
+1,725
+Thereafter
+4,108
+$
+13,883
+NOTE   5  –  CONCENTRATIONS
+During the three months ended December 31, 2022,  two  customers accounted for  50 % of our net revenue. During the three months ended December 31, 2021,  two  customers accounted for  66 % of net revenue.
+During the nine months ended December 31, 2022,  two  customers accounted for  45 % of our net revenue. During the nine months ended December 31, 2021,  two  customers accounted for  54 % of net revenue.
+As of December 31, 2022,  two  customers represented  54 % of our gross accounts receivable. As of March 31, 2022,  three  customers accounted for  75 % of our gross accounts receivable.
+The Company’s customer base is comprised of foreign and domestic entities with diverse demographics. Net revenues from foreign customers for the three and nine months ended December 31, 2022 were $ 80,465  or  8 % and $ 292,036  or  10 %, respectively.
+Net revenues from foreign customers for the three and nine months ended December 31, 2021 were $ 80,358  or  11 % and $ 237,852  or  10 %, respectively.
+NOTE   6   - DISAGGREGATED   REVENUES   AND SEGMENT INFORMATION
+The following tables show the Company's revenues disaggregated by reportable segment and by product and service type:
+Three months Ended December 31,
+2022
+2021
+Net Revenue in the US
+Chemical
+$
+245,582
+$
+251,454
+Electronics
+485,454
+347,911
+Engineering
+165,830
+69,931
+896,866
+669,296
+Net Revenue outside the US
+Chemical
+86,296
+80,358
+Electronics
+-
+-
+Engineering
+-
+-
+86,296
+80,358
+Total Revenues
+$
+983,162
+$
+749,654
+Nine Months Ended December 31,
+2022
+2021
+Net Revenue in the US
+Chemical
+$
+811,596
+$
+805,378
+Electronics
+1,584,003
+911,569
+Engineering
+411,387
+393,407
+2,806,986
+2,110,354
+Net Revenue outside the US
+Chemical
+237,852
+212,517
+Electronics
+-
+-
+Engineering
+-
+-
+237,852
+212,517
+Total Revenues
+$
+3,044,838
+$
+2,322,871
+Chemical
+Electronics
+Engineering
+Total
+Three months ended December 31, 2022
+Revenue from external customers
+$
+331,878
+$
+485,454
+$
+165,830
+$
+983,162
+Segment operating income (loss)
+$
+23,137
+$
+18,034
+$
+51,582
+$
+92,753
+Nine months ended December 31, 2022
+Revenue from external customers
+$
+1,049,448
+$
+1,584,003
+$
+411,387
+$
+3,044,838
+Segment operating income
+$
+35,548
+$
+( 5,395
+)
+$
+130,867
+$
+161,020
+Three months ended December 31, 2021
+Revenue from external customers
+$
+331,812
+$
+347,911
+$
+69,931
+$
+749,654
+Segment operating income
+( 183,385
+)
+( 188,273
+)
+( 44,514
+)
+$
+( 416,172
+)
+Nine months ended December 31, 2021
+Revenue from external customers
+$
+1,017,895
+$
+911,569
+$
+393,407
+$
+2,322,871
+Segment operating income
+$
+( 425,348
+)
+$
+( 531,888
+)
+$
+( 54,507
+)
+$
+( 1,011,743
+)
+Total assets at December 31, 2022
+$
+1,090,659
+$
+1,668,068
+$
+449,095
+$
+3,207,822
+Total assets at March 31, 2022
+$
+1,332,867
+$
+1,430,395
+$
+487,635
+$
+3,250,897
+NOTE   7  –  DUE FROM AFFILIATE
+The Company has a $ 75,000  investment for  23.2 % of Qol Devices Inc. (Qol). It was determined that the Company does not hold a significant influence which results in us carrying this asset at cost and reported as a component of other assets in the accompanying consolidated balance sheets.
+The Company provided $ 330,090  in engineering services to Qol during the year  March 31, 2018.  This amount is shown net of a $ 250,000  allowance for doubtful accounts on the consolidated balance sheets as of December 31, 2022 and  March 31, 2022.
+N OTE   8  –  LEASES
+We lease our office and manufacturing facility under a non-cancelable operating lease, which expires on June 30, 2028. The following is a maturity analysis of the annual undiscounted cash flows of the operating lease liabilities as of December 31, 2022:
+For the fiscal year ended:
+Amount
+FY 2023
+March 31, 2023
+$
+25,469
+FY 2024
+March 31, 2024
+105,625
+FY 2025
+March 31, 2025
+106,875
+FY 2026
+March 31, 2026
+106,875
+FY 2027
+March 31, 2027
+106,875
+FY 2028
+March 31, 2028
+106,875
+FY 2029
+March 31, 2029 ends June 30, 2028
+26,719
+585,312
+Less: Amount attributable to imputed interest
+( 74,790
+)
+$
+510,523
+Weighted average remaining lease term (in years)
+3.0
+Weighted average discount rate
+5
+%
+Present Value of future payments
+$
+18,730
+Rent and real estate tax expense for all facilities for the three and nine months ended December 31, 2022 was approximately was approximately $ 34,000  and $ 102,000 , respectively.
+Rent and real estate tax expense for all facilities for the three and nine months ended December 31, 2021 was approximately was approximately $ 34,000  and $ 103,000 , respectively.
+These are reported as a component of cost of sales and selling, general and administrative expenses in the accompanying consolidated statements of operations.
+NOTE   9  –  PAYCHECK PROTECTION PROGRAM (PPP)   LOAN
+In    May 2020,  the Company obtained funding through the Small Business Administration (“SBA”) Paycheck Protection Program (“PPP”) of $ 381,000 .  In    February 2021,  a  second  PPP loan was obtained in the amount of $ 332,542 , for a total of $ 713,542 .  The loans will be fully forgiven if the funds are used for payroll costs, interest on mortgages, rent, and utilities, with at least  60%  being used for payroll.  The Company did use the funds for these expenses during the year ended    March 31, 2021.  The Company applied for loan forgiveness of both PPP loans. On   September 7, 2021,  the Company received approval from the SBA for $ 361,275  of PPP loan forgiveness. On  December 21, 2021,  the Company received approval from the Bank for $ 332,542 . This amount was recorded as Forgiveness of Paycheck Protection loan in the accompanying condensed Consolidated Statements of Operations during the fiscal year ended March 31, 2022.
+The unforgiven portion of the first PPP loan is $ 19,725 , which was converted to a term loan payable in equal installments of principal plus interest at  1 % with a maturity date of   May 15, 2025 .  No collateral or personal guarantees is required for the loan. At December 31, 2022, the outstanding balance is $ 13,001 .
+NOTE   10  –  LINE OF CREDIT
+On June 15, 2018, the Company obtained an unsecured revolving line of credit, with a limit of $ 400,000 . The line expires  May 15, 2023 , renewing automatically every year.  The Company is required to make monthly interest payments, at a rate of  3.87 % as of June 30, 2022. Any unpaid principal will be due upon maturity.  At December 31, 2022 and March 31, 2022, the outstanding balance was $ 111,973  and $ 334,760 , respectively.
+NOTE   11  –  WARRANT LIABILITY
+On July 2, 2021, ADM entered into a consulting agreement. The agreement granted a consultant a warrant to purchase up to  3,500,000  shares of the Company's par value common stock at an exercise price of $ 0.17  per share for the first  twelve  months of the agreement and $ 0.20  per share for the second  twelve  months of the agreement.
+During the preparation of our consolidated financial statements for the three months ended June 30, 2022, we identified an error relating to the accounting treatment of the initial warrant liability in July of 2021 that was originally valued at approximately $ 288,000  and was subsequently revalued at March 31, 2022 for a value of approximately $ 182,000 . The error caused additional paid in capital to be understated by approximately $ 288,000 , warrant liability to be overstated by approximately $ 182,000 , prepaid expenses to be understated by approximately $ 181,000 , and net loss to be overstated by approximately $ 75,000  as of and for the year ended March 31, 2022.
+We concluded the impact on the interim financial statements was immaterial and corrected the balances as of June 30, 2022.
+NOTE   12  –  DUE TO STOCKHOLDER
+The Company’s President and a stockholder, has been deferring his salary and bonuses periodically to assist the Company’s cash flow. There are  no  repayment terms or interest accruing on this liability.
+NOTE   13  –  LEGAL PROCEEDINGS
+We are involved, from time to time, in litigation and proceedings arising out of the ordinary course of business. There are  no  pending material legal proceedings or environmental investigations to which we are a party or to which our property is subject.
+NOTE 14  –  CONTRACTURAL OBLIGATIONS AND OTHER COMMITMENTS
+Legal Contingencies
+We are involved, from time to time, in litigation and proceedings arising out of the ordinary course of business. There are
+no
+pending material legal proceedings or environmental investigations to which we are a party or to which our property is subject.
+Product Liability
+As of December 31, 2022 and March 31, 2022, there were no claims against us for product liability.
+COVID-19 Pandemic
+The Company had reduced revenues in the electronic and chemical segments as a result of the Covid pandemic. In the electronic segment certain orders of medical devices manufactured by the Company were reduced or delayed due to the cessation of elective surgeries during the pandemic and generally reduced activities by customers. In the chemical segment certain of the Company’s water-based industrial coatings and adhesives orders were reduced due to some customers having shutdowns or reduced activities during the pandemic. We intend to continue to evaluate and may, in certain circumstances, take preemptive actions to preserve liquidity during the COVID-19 pandemic. As the circumstances around the COVID-19 pandemic remain uncertain, we continue to actively monitor the pandemic's impact on us, including our financial position, liquidity, results of operations, and cash flows.
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion of our operations and financial condition should be read in conjunction with the condensed consolidated financial statements and notes thereto included elsewhere in this Quarterly Report on Form 10-Q.
+FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the "safe harbor" provisions under section 21E of the Securities and Exchange Act of 1934 and the Private Securities Litigation Act of 1995. We use forward-looking statements in our description of our plans and objectives for future operations and assumptions underlying these plans and objectives. Forward-looking terminology includes the words "may", "expects", "believes", "anticipates", "intends", "forecasts", "projects", or similar terms, variations of such terms or the negative of such terms. These forward-looking statements are based on management's current expectations and are subject to factors and uncertainties which could cause actual results to differ materially from those described in such forward-looking statements. We expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements contained in this Form 10-Q to reflect any change in our expectations or any changes in events, conditions or circumstances on which any forward-looking statement is based. Factors which could cause such results to differ materially from those described in the forward-looking statements include those set forth under "Item. 1 Description of Business – Risk Factors" and elsewhere in or incorporated by reference into our Annual Report on Form 10-K for the year ended March 31, 2022.
+BUSINESS OVERVIEW
+The Company is a technology-based developer and manufacturer of diversified lines of products and derives revenue from the production and sale of electronics for medical devices and other applications; environmentally safe chemical products for industrial, medical and cosmetic uses; and, research, development, regulatory and engineering services. The Company has increased internal research and development by utilizing their engineering resources to advance their own proprietary medical device technologies.
+The Company is a corporation that was organized under the laws of the State of Delaware on November 24, 1969. Our operations are conducted through ADM and its subsidiary Sonotron.
+RESULTS OF OPERATIONS FOR THE   THREE AND NINE MONTHS   ENDED   DECEMBER 31, 2022 AS COMPARED TO   DECEMBER 31, 2021.
+For the three months ended December 31, 2022
+Chemical
+Electronics
+Engineering
+Total
+Revenue
+$
+331,878
+$
+485,454
+$
+165,830
+$
+983,162
+Cost of Sales
+187,341
+277,133
+43,210
+507,684
+Gross Profit
+144,537
+208,321
+122,620
+475,478
+Gross Profit Percentage
+44
+%
+43
+%
+74
+%
+48
+%
+Operating Expenses
+121,400
+190,287
+71,038
+382,725
+Operating Income (Loss)
+23,137
+18,034
+51,582
+92,753
+Other income (expenses)
+415
+598
+5
+1,018
+Income (loss) before benefit from income taxes
+$
+23,552
+$
+18,632
+$
+51,587
+$
+93,771
+For the three months ended December 31, 2021
+Chemical
+Electronics
+Engineering
+Total
+Revenue
+$
+331,812
+$
+347,911
+$
+69,931
+$
+749,654
+Cost of Sales
+183,678
+206,725
+33,138
+423,541
+Gross Profit
+148,134
+141,186
+36,793
+326,113
+Gross Profit Percentage
+45
+%
+41
+%
+53
+%
+44
+%
+Operating Expenses
+331,519
+329,459
+81,307
+742,285
+Operating Income (Loss)
+(183,385
+)
+(188,273
+)
+(44,514
+)
+(416,172
+)
+Other income (expenses)
+149,123
+139,742
+41,914
+330,779
+Income (loss) before benefit from income taxes
+$
+(34,262
+)
+$
+(48,531
+)
+$
+(2,600
+)
+$
+(85,393
+)
+Variance
+Chemical
+Electronics
+Engineering
+Total
+Revenue
+$
+66
+$
+137,543
+$
+95,899
+$
+233,508
+Cost of Sales
+3,663
+70,408
+10,072
+84,143
+Gross Profit
+(3,597
+)
+67,135
+85,827
+149,365
+Gross Profit Percentage
+-1
+%
+2
+%
+21
+%
+5
+%
+Operating Expenses
+(210,119
+)
+(139,172
+)
+(10,269
+)
+(359,560
+)
+Operating Income (Loss)
+206,522
+206,307
+96,096
+508,925
+Other income (expenses)
+(148,708
+)
+(139,144
+)
+(41,909
+)
+(329,761
+)
+Income (loss) before benefit from income taxes
+$
+57,814
+$
+67,163
+$
+54,187
+$
+179,164
+For the nine months ended December 31, 2022
+Chemical
+Electronics
+Engineering
+Total
+Revenue
+$
+1,049,448
+$
+1,584,003
+$
+411,387
+$
+3,044,838
+Cost of Sales
+587,012
+936,513
+104,743
+1,628,268
+Gross Profit
+462,436
+647,490
+306,644
+1,416,570
+Gross Profit Percentage
+44
+%
+41
+%
+75
+%
+47
+%
+Operating Expenses
+426,888
+652,885
+175,777
+1,255,550
+Operating Income (Loss)
+35,548
+(5,395
+)
+130,867
+161,020
+Other income (expenses)
+(1,996
+)
+(3,054
+)
+(822
+)
+(5,872
+)
+Income before provision for income taxes
+$
+33,552
+$
+(8,449
+)
+$
+130,045
+$
+155,148
+For the nine months ended December 31, 2021
+Chemical
+Electronics
+Engineering
+Total
+Revenue
+$
+1,017,895
+$
+911,569
+$
+393,407
+$
+2,322,871
+Cost of Sales
+562,141
+662,483
+107,488
+1,332,112
+Gross Profit
+455,754
+249,086
+285,919
+990,759
+Gross Profit Percentage
+45
+%
+27
+%
+73
+%
+43
+%
+Operating Expenses
+881,102
+780,974
+340,426
+2,002,502
+Operating Income (Loss)
+(425,348
+)
+(531,888
+)
+(54,507
+)
+(1,011,743
+)
+Other income (expenses)
+303,031
+268,595
+117,078
+688,704
+Income before provision for income taxes
+$
+(122,317
+)
+$
+(263,293
+)
+$
+62,571
+$
+(323,039
+)
+Variance
+Chemical
+Electronics
+Engineering
+Total
+Revenue
+$
+31,553
+$
+672,434
+$
+17,980
+$
+721,967
+Cost of Sales
+24,871
+274,030
+(2,745
+)
+296,156
+Gross Profit
+6,682
+398,404
+20,725
+425,811
+Gross Profit Percentage
+-1
+%
+14
+%
+2
+%
+4
+%
+Operating Expenses
+(454,214
+)
+(128,089
+)
+(164,649
+)
+(746,952
+)
+Operating Income (Loss)
+460,896
+526,493
+185,374
+1,172,763
+Other income (expenses)
+(305,027
+)
+(271,649
+)
+(117,900
+)
+(694,576
+)
+Income (loss) before benefit from income taxes
+$
+155,869
+$
+254,844
+$
+67,474
+$
+478,187
+Revenues for the three months ended December 31, 2022 increased by $233,508. The increase is a result of increased sales of $95,899 in the Engineering segment, $137,543 in the Electronics segment and $66 in the Chemical segment.
+Gross profit for the three months ended December 31, 2022 increased by $149,365. The increase in gross profit resulted primarily from increased sales in Electronics and Engineering sales.
+Revenues for the nine months ended December 31, 2022 increased by $721,967. The increase is a result of increased sales of $31,553 in the Chemical segment, $672,434 in the Electronics segment and $17,980 in the Engineering segment.
+Gross profit for the nine months ended December 31, 2022 increased by $425,811. The increase in gross profit resulted primarily from increased sales in Electronics and Chemical sales.
+We are highly dependent upon certain customers. During the three months ended December 31, 2022, two customers accounted for 50% of our net revenue. Net revenues from foreign customers for the three months ended December 31, 2022 was $80,465 or 8%.
+During the three months ended December 31, 2021, two customers accounted for 66% of our net revenue. Net revenues from foreign customers for the three months ended December 31, 2021 was $80,358 or 11%.
+During the nine months ended December 31, 2022, two customers accounted for 45% of our net revenue. Net revenues from foreign customers for the nine months ended December 31, 2022 was $292,036 or 10%.
+The complete loss of or significant reduction in business from, or a material adverse change in the financial condition of any of our customers could cause a material and adverse change in our revenues and operating results.
+Income from operations for the three months ended December 31, 2022 was $92,753 compared to loss from operations for the three months ended December 31, 2021 of ($416,172).
+Other income decreased $329,761 for the three months ended December 31, 2022. The decrease is mainly attributable to the PPP forgiveness of $361,275 in 2021.
+Other income decreased $694,576 for the nine months ended December 31, 2022. The decrease is mainly attributable to the PPP forgiveness of $361,275 in 2021.
+The foregoing resulted in net income before provision for income taxes for the three and nine months ended December 31, 2022 of $93,771 and $155,148 respectively. Earnings per share were $0.00 for the three and nine months ended December 31, 2022.
+LIQUIDITY AND CAPITAL RESOURCES
+At December 31, 2022, we had cash and cash equivalents of $997,685 as compared to $1,038,498 at March 31, 2022. The $40,813 decrease was primarily the result of cash provided in operations during the nine-month period in the amount of $215,022 and cash used in financing activities of $255,835. Our cash will continue to be used for increased marketing costs, and increased production labor costs all in an attempt to increase our revenue, as well as increased expenditures for our internal R&D.  We expect to have enough cash to fund operations for the next twelve months.
+Below is a summary of our cash flow for the nine-month ending periods indicated:
+December 31, 2022
+December 31, 2021
+Net cash provided by (used in) operating activities
+$
+215,022
+$
+(374,942
+)
+Net cash provided by (used in) investing activities
+-
+-
+Cash flows provided (used) in financing activities:
+(255,835
+)
+669
+Net increase (decrease) in cash and cash equivalents
+(40,813
+)
+(374,273
+)
+Cash and cash equivalents - beginning of period
+1,038,498
+1,546,950
+Cash and cash equivalents - end of period
+997,685
+1,172,677
+Future Sources of Liquidity:
+We expect that growth with profitable customers and continued focus on new customers will enable us to generate cash flows from operating activities during fiscal 2023.
+Based on current expectations, we believe that our existing cash and cash equivalents of $997,685 as of December 31, 2022, and other potential sources of cash will be sufficient to meet our cash requirements. Our ability to meet these requirements will depend on our ability to generate cash in the future, which is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control.
+OPERATING ACTIVITIES
+Net cash provided by operating activities was $215,022 for the nine months ended December 31, 2022, as compared to net cash used by operating activities of $374,942 for the nine months ended December 31, 2021. The cash provided during the nine months ended December 31, 2022 was primarily due to a decrease in net operating assets of $43,794, offset by a decrease in net operating liabilities of $68,391, offset by net income of $155,148 write-off of inventories of $54,692, depreciation and amortization of $63,737, and stock based compensation of $33,310 (see Note 12 Warrant Liability), and non-cash interest expense of $20,320.
+INVESTING ACTIVITIES
+No cash was provided for or used in investing activities for the nine months ended December 31, 2022.
+FINANCING ACTIVITIES
+For the nine months ended December 31, 2022, net cash used by financing activities was $255,835 due to a net borrowing and payments in the line of credit of $222,697, a decrease in due to stockholder of $29,104 and repayments on the PPP loan of $4,034.
+OFF BALANCE SHEET ARRANGEMENTS
+We have no off-balance sheet arrangements that have had or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Concentration of Credit Risk
+Financial instruments that potentially subject us to significant concentrations of credit risk consist primarily of cash and cash equivalents and accounts receivable.
+Cash and cash equivalents – For financial statement purposes, the Company considers as cash equivalents all highly liquid investments with an original maturity of three months or less at inception. The Company deposits cash and cash equivalents with high credit quality financial institutions and believes that any amounts in excess of insurance limitations to be at minimal risk. Cash and cash equivalents held at these accounts are currently insured by the Federal Deposit Insurance Corporation (“FDIC”) up to a maximum of $250,000. At December 31, 2022, approximately $748,000 exceeded the FDIC limit.
+Our sales are materially dependent on a small group of customers, as noted in Note 6 of our condensed consolidated financial statements. We monitor our credit risk associated with our receivables on a routine basis. We also maintain credit controls for evaluating and granting customer credit.
+ITEM 4. CONTROLS AND PROCEDURES
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+The Company's management, including the Company's principal executive officer and principal financial officer, have evaluated the effectiveness of the Company's "disclosure controls and procedures," as such term is defined in Ru1e 13a-15(e) promulgated under the Securities Exchange Act of 1934, as amended, (the "Exchange Act"). Based upon their evaluation, the principal executive officer and principal financial officer concluded that, as of the end of the period covered by this report, the Company's disclosure controls and procedures were not effective for the purpose of ensuring that the information required to be disclosed in the reports that the Company files or submits under the Exchange Act with the Securities and Exchange Commission (the "SEC") (1) is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms, and (2) is accumulated and communicated to the Company's management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. During the quarterly and year to date period ended December 31, 2022, there were no changes in the Company's internal control over financial reporting which materially affected, or are reasonably likely to materially affect, the Company's internal controls over financial reporting.
+The determination that our disclosure controls and procedures were not effective as of December 31, 2022, is a result of:
+a. Deficiencies in Internal Control Structure Environment. During the current year, the Company’s focus was on expanding their customer base to initiate revenue production.
+b. Inadequate staffing and supervision within the accounting operations of our company. The relatively small number of employees who are responsible for accounting functions prevents the Company from segregating duties within its internal control system. The inadequate segregation of duties is a weakness because it could lead to the untimely identification and resolution of accounting and disclosure matters or could lead to a failure to perform timely and effective reviews.  The Company’s plan is to expand its accounting operations as the business of the Company expands.
+The Company believes that the financial statements present fairly, in all material respects, the Company’s condensed consolidated balance sheets as of December 31, 2022, and March 31, 2022 and the related condensed consolidated statements of operations, and cash flows for the three and nine months ended December 31, 2022 and 2021, in conformity with generally accepted accounting principles, notwithstanding the material weaknesses we identified.
+CHANGES IN INTERNAL CONTROLS OVER FINANCIAL REPORTING
+There were no changes in our internal control over financial reporting that occurred during our last fiscal quarter to which this report relates that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+None
+ITEM 1A. RISK FACTORS
+There have been no material changes to the risk factors contained in our Annual Report on Form 10-K for the year ended March 31, 2022.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+None
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None
+ITEM 4.   MINE SAFETY DISCLOSURES
+None
+ITEM   5. OTHER INFORMATION
+None
+ITEM   6. EXHIBITS.
+(a) Exhibit No.
+21.1
+Subsidiaries of the Company
+31.1
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS**
+Inline XBRL Instance
+101.SCH**
+Inline XBRL Taxonomy Extension Schema
+101.CAL**
+Inline XBRL Taxonomy Extension Calculation
+101.DEF**
+Inline XBRL Taxonomy Extension Definition
+101.LAB**
+Inline XBRL Taxonomy Extension Labels
+101.PRE**
+Inline XBRL Taxonomy Extension Presentation
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101)
+** XBRL information is furnished and not filed or a part of a registration statement or prospectus for purposes of sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ADM TRONICS UNLIMITED, INC.
+(Registrant)
+By:
+/s/ Andre' DiMino
+Andre' DiMino, Chief Executive
+Officer and Chief Financial
+Officer
+Dated:
+Northvale, New Jersey
+February 14, 2023

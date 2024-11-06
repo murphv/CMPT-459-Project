@@ -1,0 +1,1799 @@
+364366
+63638
+0
+0
+0
+P12M
+0001341726
+2022-10-01
+2022-12-31
+0001341726
+2023-02-10
+0001341726
+2022-12-31
+0001341726
+2022-09-30
+0001341726
+2021-10-01
+2021-12-31
+0001341726
+us-gaap:CommonStockMember
+2022-09-30
+0001341726
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001341726
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001341726
+us-gaap:CommonStockMember
+2021-09-30
+0001341726
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-30
+0001341726
+us-gaap:RetainedEarningsMember
+2021-09-30
+0001341726
+2021-09-30
+0001341726
+us-gaap:CommonStockMember
+2022-10-01
+2022-12-31
+0001341726
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0001341726
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0001341726
+us-gaap:CommonStockMember
+2021-10-01
+2021-12-31
+0001341726
+us-gaap:AdditionalPaidInCapitalMember
+2021-10-01
+2021-12-31
+0001341726
+us-gaap:RetainedEarningsMember
+2021-10-01
+2021-12-31
+0001341726
+us-gaap:CommonStockMember
+2022-12-31
+0001341726
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001341726
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001341726
+us-gaap:CommonStockMember
+2021-12-31
+0001341726
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001341726
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001341726
+2021-12-31
+0001341726
+us-gaap:OilAndGasPropertiesMember
+2022-10-01
+2022-12-31
+0001341726
+us-gaap:OilAndGasPropertiesMember
+2021-10-01
+2021-12-31
+0001341726
+us-gaap:ConvertibleNotesPayableMember
+srt:ChiefExecutiveOfficerMember
+2017-09-30
+0001341726
+us-gaap:ConvertibleNotesPayableMember
+srt:ChiefExecutiveOfficerMember
+2013-04-01
+2017-09-30
+0001341726
+srt:ChiefExecutiveOfficerMember
+us-gaap:ConvertibleNotesPayableMember
+2022-12-31
+0001341726
+us-gaap:ConvertibleNotesPayableMember
+srt:ChiefExecutiveOfficerMember
+2020-12-31
+0001341726
+gspe:PromissoryNoteMember
+gspe:RelatedPartyMember
+2016-11-14
+2016-11-15
+0001341726
+gspe:DomenicaSeitzMember
+2022-09-30
+0001341726
+gspe:DomenicaSeitzMember
+2022-10-01
+2022-12-31
+0001341726
+gspe:DomenicaSeitzMember
+2021-10-01
+2021-12-31
+0001341726
+gspe:BridgeFinancingNotesMember
+2022-09-30
+0001341726
+gspe:BridgeFinancingNotesMember
+2022-12-31
+0001341726
+gspe:ConvertibleDebenture2022Member
+2022-12-31
+0001341726
+gspe:BridgeFinancingNotesMember
+2016-11-30
+0001341726
+gspe:BridgeFinancingNotesMember
+2016-06-01
+2016-11-30
+0001341726
+gspe:BridgeFinancingNotesMember
+gspe:RelatedParty1Member
+2016-06-01
+2016-11-30
+0001341726
+gspe:BridgeFinancingNotesMember
+2022-04-01
+2022-04-30
+0001341726
+gspe:BridgeFinancingNotesMember
+2022-12-31
+0001341726
+gspe:BridgeFinancingNotesMember
+2022-09-30
+0001341726
+gspe:BridgeFinancingNotesMember
+2022-04-30
+0001341726
+gspe:SecuritiesPurchaseAgreementMember
+gspe:ConvertibleDebenturesMember
+srt:MaximumMember
+2022-10-13
+0001341726
+gspe:SecuritiesPurchaseAgreementMember
+gspe:ConvertibleDebenturesMember
+2022-10-12
+2022-10-13
+0001341726
+gspe:SecuritiesPurchaseAgreementMember
+gspe:ConvertibleDebenturesMember
+2022-10-13
+0001341726
+gspe:ConvertibleDebenturesMember
+2022-10-01
+2022-12-31
+0001341726
+us-gaap:MeasurementInputSharePriceMember
+gspe:Tranche1Member
+2022-10-13
+0001341726
+us-gaap:MeasurementInputSharePriceMember
+gspe:Tranche2Member
+2022-12-05
+0001341726
+us-gaap:MeasurementInputSharePriceMember
+gspe:Tranche1Member
+2022-12-31
+0001341726
+us-gaap:MeasurementInputSharePriceMember
+gspe:TrancheOneMember
+2022-12-31
+0001341726
+us-gaap:MeasurementInputPriceVolatilityMember
+gspe:Tranche1Member
+2022-10-13
+0001341726
+us-gaap:MeasurementInputPriceVolatilityMember
+gspe:Tranche2Member
+2022-12-05
+0001341726
+us-gaap:MeasurementInputPriceVolatilityMember
+gspe:Tranche1Member
+2022-12-31
+0001341726
+us-gaap:MeasurementInputPriceVolatilityMember
+gspe:TrancheOneMember
+2022-12-31
+0001341726
+us-gaap:MeasurementInputExpectedTermMember
+gspe:Tranche1Member
+2022-10-13
+0001341726
+us-gaap:MeasurementInputExpectedTermMember
+gspe:Tranche2Member
+2022-12-05
+0001341726
+us-gaap:MeasurementInputExpectedTermMember
+gspe:Tranche1Member
+2022-12-31
+0001341726
+us-gaap:MeasurementInputExpectedTermMember
+gspe:TrancheOneMember
+2022-12-31
+0001341726
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+gspe:Tranche1Member
+2022-10-13
+0001341726
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+gspe:Tranche2Member
+2022-12-05
+0001341726
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+gspe:Tranche1Member
+2022-12-31
+0001341726
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+gspe:TrancheOneMember
+2022-12-31
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2022-09-30
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2022-09-30
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+2022-09-30
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001341726
+us-gaap:FairValueMeasurementsRecurringMember
+2022-10-01
+2022-12-31
+0001341726
+us-gaap:WarrantMember
+2022-09-30
+0001341726
+us-gaap:WarrantMember
+2022-10-01
+2022-12-31
+0001341726
+us-gaap:WarrantMember
+2022-12-31
+0001341726
+2021-10-01
+2022-09-30
+0001341726
+2018-07-31
+0001341726
+2018-07-01
+2018-07-31
+0001341726
+2021-09-01
+2021-09-30
+0001341726
+gspe:VendorMember
+2018-08-31
+0001341726
+gspe:VendorMember
+2018-08-01
+2018-08-31
+0001341726
+gspe:VendorMember
+srt:MinimumMember
+2018-08-01
+2018-08-31
+0001341726
+gspe:RelatedPartyConvertiblePromissoryNoteMember
+srt:MaximumMember
+us-gaap:SubsequentEventMember
+2023-02-14
+0001341726
+gspe:RelatedPartyConvertiblePromissoryNoteMember
+us-gaap:SubsequentEventMember
+2023-01-01
+2023-02-14
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+gspe:Number
+utr:sqft
+utr:acre
+utr:Y
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the quarterly period ended
+December 31, 2022
+or
+☐   TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from _______________ to ________________
+Commission
+File No.
+000-51638
+GULFSLOPE
+ENERGY, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+16-1689008
+(State
+or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer Identification No.)
+1000
+Main St. ,
+Suite 2300 ,
+Houston ,
+Texas
+(Address of principal executive offices)
+77002
+(zip code)
+(281)
+918-4100
+(Registrant’s telephone number, including area code)
+Securities
+registered pursuant to Section 12(b) of the Act: None
+Title
+of each class
+Trading
+Symbol
+Name
+of each
+exchange on
+which registered
+Common
+stock, par value $0.001 per share
+GSPE
+OTCPK
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+company, or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large
+accelerated filer ☐
+Accelerated
+filer ☐
+Non-accelerated
+filer
+☐
+Smaller
+reporting company
+☒
+Emerging
+growth company
+☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐
+No
+☒
+The
+number of outstanding shares of the registrant’s common stock, $0.001 par value, on February 10, 2023, was
+1,268,240,346 .
+FORWARD-LOOKING
+STATEMENTS
+This
+Quarterly Report on Form 10-Q (“Report”) contains forward-looking statements within the meaning of Section 27A of
+the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934. All statements, other than statements
+of historical fact included in this communication, regarding our strategy, future operations, financial position, estimated revenues
+and losses, projected costs, prospects, plans and objectives of management are forward-looking statements. When used in this communication,
+the words “could,” “believe,” “anticipate,” “intend,” “estimate,”
+“expect,” “project,” “forecast, “may,” “objective,” “plan,”
+and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain
+such identifying words. These forward-looking statements are based on our current expectations and assumptions about future events
+and are based on currently available information as to the outcome and timing of future events.
+We
+caution you that these forward-looking statements are subject to numerous risks and uncertainties, most of which are difficult
+to predict and many of which are beyond our control. These risks include, but are not limited to, commodity price volatility,
+inflation, lack of availability of drilling and production equipment and services, environmental risks, drilling and other operating
+risks, regulatory changes, the uncertainty inherent in estimating reserves and in projecting future rates of production, cash
+flow and access to capital, the timing of development expenditures, and other factors that may affect our future results and business,
+generally, including those discussed in the Company’s periodic reports that are filed with the SEC and available on the
+SEC’s website (http://www.sec.gov).
+Should
+one or more of these risks occur, or should underlying assumptions prove incorrect, our actual results and plans could differ
+materially from those expressed in any forward-looking statements. All forward-looking statements, expressed or implied, are expressly
+qualified in their entirety by this cautionary statement. This cautionary statement should also be considered in connection with
+any subsequent written or oral forward-looking statements that we or persons acting on our behalf may issue. Except as otherwise
+required by applicable law, we disclaim any duty to update any forward-looking statements, to reflect events or circumstances
+after the date of this communication.
+2
+PART
+I – FINANCIAL STATEMENTS (Unaudited)
+December
+31, 2022
+CONTENTS
+PART I – FINANCIAL STATEMENTS
+4
+Item 1. Financial Statements
+4
+Condensed Unaudited Balance Sheets
+4
+Condensed Unaudited Statements of Operations
+5
+Condensed Unaudited Statements of Stockholders’ Equity
+6
+Condensed Unaudited Statements of Cash Flows
+7
+Notes to Condensed Unaudited Financial Statements
+8
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+14
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+17
+Item 4. Controls and Procedures
+17
+PART II – OTHER INFORMATION
+19
+3
+PART
+I – FINANCIAL STATEMENTS
+Item
+1. Financial Statements
+GulfSlope
+Energy, Inc.
+Condensed
+Balance Sheets
+(Unaudited)
+December 31,
+2022
+September 30,
+2022
+Assets
+Current Assets
+Cash
+$ 63,638
+$ 135,381
+Accounts Receivable, Net
+—
+12,925
+Prepaid Expenses and Other Current Assets
+31,726
+33,004
+Total Current Assets
+95,364
+181,310
+Property and Equipment, net
+667
+848
+Oil and Natural Gas Properties, Full Cost Method of Accounting, Unproved Properties
+5,306,415
+5,288,915
+Total Non-Current Assets
+5,307,082
+5,289,763
+Total Assets
+$ 5,402,446
+$ 5,471,073
+Liabilities and Stockholders’ Equity
+Current Liabilities
+Accounts Payable
+$ 229,968
+$ 135,391
+Related Party Payable
+404,469
+404,469
+Related Party Accrued Interest Payable
+3,512,343
+3,401,489
+Loans from Related Parties
+8,725,500
+8,725,500
+Accrued Interest Payable
+144,769
+138,020
+Convertible Notes Payable, net of Debt Discount
+251,258
+227,000
+Derivative Financial Instruments
+1,018,523
+959,222
+Total Current Liabilities
+14,286,830
+13,991,091
+Total Liabilities
+14,286,830
+13,991,091
+Commitments and Contingencies (Note 9)
+Stockholders’ (Deficit) Equity
+Preferred Stock; par value ($ 0.001 ); Authorized
+50,000,000
+shares
+none
+issued or outstanding
+—
+—
+Common Stock; par value ($ 0.001 ); Authorized
+1,500,000,000
+shares; issued and outstanding
+1,268,240,346
+and
+1,268,240,346
+as of December 31, 2022 and September 30, 2022, respectively
+1,268,240
+1,268,240
+Additional Paid-in-Capital
+59,116,487
+59,116,487
+Accumulated Deficit
+( 69,269,111 )
+( 68,904,745 )
+Total Stockholders’ (Deficit) Equity
+( 8,884,384 )
+( 8,520,018 )
+Total Liabilities and Stockholders’ (Deficit) Equity
+$ 5,402,446
+$ 5,471,073
+The
+accompanying notes are an integral part to these condensed financial statements.
+4
+GulfSlope
+Energy, Inc.
+Condensed
+Statements of Operations
+(Unaudited)
+For the Three Months Ended
+December 31,
+2022
+2021
+Revenues
+$
+—
+$
+—
+General and Administrative Expenses
+254,705
+446,960
+Net Loss from Operations
+( 254,705 )
+( 446,960 )
+Other Income/(Expenses):
+Interest Expense, net
+( 131,040 )
+( 138,238 )
+Gain on Derivative Financial Instruments
+21,379
+80,314
+Net Loss Before Income Taxes
+( 364,366 )
+( 504,884 )
+Provision for Income Taxes
+—
+—
+Net Loss
+$ ( 364,366 )
+$ ( 504,884 )
+Loss Per Share - Basic and Diluted
+$ ( 0.00 )
+$ ( 0.00 )
+Weighted Average Shares Outstanding – Basic and Diluted
+1,268,240,346
+1,268,240,346
+The
+accompanying notes are an integral part to these condensed financial statements.
+5
+GulfSlope
+Energy, Inc.
+Statements
+of Stockholders’ Equity
+(unaudited)
+For
+the Three Months Ended December 31, 2022
+Additional
+Net
+Common
+Paid-in
+Accumulated
+Stockholders’
+Shares
+Amount
+Capital
+Deficit
+Equity
+Balance at September 30, 2022
+1,268,240,346
+$ 1,268,240
+$ 59,116,487
+$ ( 68,904,745 )
+$ ( 8,520,018 )
+Net Loss
+—
+—
+—
+( 364,366 )
+( 364,366 )
+Balance at December 31, 2022
+1,268,240,346
+$ 1,268,240
+$ 59,116,487
+$ ( 69,269,111 )
+$ ( 8,884,384 )
+For
+the Three Months Ended December 31, 2021
+Additional
+Common
+Paid-in
+Accumulated
+Stockholders’
+Shares
+Amount
+Capital
+Deficit
+Equity
+Balance at September 30, 2021
+1,268,240,346
+$ 1,268,240
+$ 58,999,585
+$ ( 60,207,991 )
+$ 59,834
+Stock based compensation
+—
+—
+31,775
+—
+31,775
+Net Loss
+—
+—
+—
+( 504,884 )
+( 504,884 )
+Balance at December 31, 2021
+1,268,240,346
+$ 1,268,240
+$ 59,031,360
+$ ( 60,712,875 )
+$ ( 413,275 )
+The
+accompanying notes are an integral part to these condensed financial statements.
+6
+GulfSlope
+Energy, Inc.
+Condensed
+Statements of Cash Flows
+(Unaudited)
+For the Three Months Ended
+December 31,
+2022
+2021
+OPERATING ACTIVITIES
+Net Loss
+$ ( 364,366 )
+$ ( 504,884 )
+Adjustments to Reconcile Net Loss to Net Cash Used In Operating Activities:
+Depreciation
+182
+456
+Stock Based Compensation
+—
+31,775
+Gain on Derivative Financial Instruments
+( 21,379 )
+( 80,314 )
+Debt Discount Amortization
+13,437
+21,844
+Changes in Operating Assets and Liabilities:
+Accounts Receivable
+12,925
+—
+Prepaid Expenses and Other Current Assets
+1,278
+( 218,473 )
+Accounts Payable
+94,577
+59,092
+Accrued Interest Payable
+117,603
+116,394
+Net Cash Used In Operating Activities
+( 145,743 )
+( 574,110 )
+INVESTING ACTIVITIES
+Investments in Oil and Gas Properties
+( 17,500 )
+( 19,317 )
+Net Cash Used In Investing Activities
+( 17,500 )
+( 19,317 )
+FINANCING ACTIVITIES
+Proceeds From Convertible Promissory Notes
+91,500
+—
+Net Cash Provided By Financing Activities
+91,500
+—
+Net Decrease in Cash
+( 71,743 )
+( 593,427 )
+Beginning Cash Balance
+135,381
+1,517,522
+Ending Cash Balance
+$ 63,638
+$ 924,095
+Non-Cash Financing and Investing Activities:
+Capital Expenditures in Accounts Payable
+$ —
+26,253
+Debt Discount Related to Issuance of Convertible Promissory Notes
+89,179
+—
+The
+accompanying notes are an integral part to these condensed financial statements.
+7
+GulfSlope
+Energy, Inc.
+Notes
+to Condensed Financial Statements
+December
+31, 2022
+(Unaudited)
+NOTE
+1 –
+ORGANIZATION AND NATURE OF BUSINESS
+GulfSlope
+Energy, Inc. (the “Company” or “GulfSlope”) is an independent oil and natural gas exploration company
+whose interests are concentrated in the United States Gulf of Mexico federal waters offshore Louisiana. The Company currently
+has under lease
+one
+federal Outer Continental Shelf block (referred to as “prospect,” “portfolio” or “leases”)
+and licensed three-dimensional (3-D) seismic data across its area of concentration.
+NOTE
+2 –
+SIGNIFICANT ACCOUNTING POLICIES
+The
+condensed financial statements included herein are unaudited. However, these condensed financial statements include all adjustments
+(consisting of normal recurring adjustments), which, in the opinion of management are necessary for a fair presentation of financial
+position, results of operations and cash flows for the interim periods. The results of operations for interim periods are not
+necessarily indicative of the results to be expected for an entire year. The preparation of financial statements in accordance
+with generally accepted accounting principles (“GAAP”) in the United States of America requires management to make
+estimates and assumptions that affect the amounts reported in the Company’s condensed financial statements and accompanying
+notes. Actual results could differ materially from those estimates.
+Certain
+information, accounting policies, and footnote disclosures normally included in the financial statements prepared in accordance
+with generally accepted accounting principles in the United States of America have been omitted pursuant to certain rules and
+regulations of the Securities and Exchange Commission (“SEC”). The condensed financial statements should be read in
+conjunction with the audited financial statements for the year ended September 30, 2022, which were included in the Company’s
+Annual Report on Form 10-K for the fiscal year ended September 30, 2022 and filed with the Securities and Exchange Commission
+on December 29, 2022.
+Cash
+GulfSlope
+considers highly liquid investments with original maturities to the Company of three months or less to be cash equivalents. There
+were no cash equivalents at December 31, 2022 and September 30, 2022.
+Liquidity
+/ Going Concern
+The
+Company has incurred accumulated losses as of December 31, 2022 of $ 69.3
+million, has negative working capital of $ 14.2
+million
+and for the three months ended December 31, 2022 generated losses of $ 0.4 million . Further losses are anticipated in developing
+our business. As a result, there exists substantial doubt about our ability to continue as a going concern. As of December 31,
+2022, we had $ 0.06 million
+of unrestricted cash on hand. The Company estimates that it will need to raise a minimum of $ 10 .0 million
+to meet its obligations and planned expenditures. The $ 10 .0 million is comprised primarily of capital project expenditures as
+well as general and administrative expenses. It does not include any amounts due under outstanding debt obligations, which amounted
+to $ 12.6
+million
+of current principal and accrued interest as of December 31, 2022. The Company plans to finance operations and
+planned expenditures through the issuance of equity securities, debt financings and farm-out agreements, asset sales or mergers.
+The Company also plans to extend the agreements associated with all loans, the accrued interest payable on these loans, as well
+as the Company’s accrued liabilities. There are no assurances that financing will be available with acceptable terms, if
+at all, or that obligations can be extended. If the Company is not successful in obtaining financing or extending obligations,
+operations would need to be curtailed or ceased, or the Company would need to sell assets or consider alternative plans up to
+and including restructuring. The financial statements do not include any adjustments that might result from the outcome of this
+uncertainty.
+Accounts
+Receivable
+The
+Company records an accounts receivable for operations expense reimbursements due from joint interest partners and also from normal
+operations. The Company estimates allowances for doubtful accounts based on the aged receivable balances and historical losses.
+If the Company determines any account to be uncollectible based on significant delinquency or other factors, the receivable and
+the underlying asset are assessed for recovery. As of December 31, 2022 and September 30, 2022, there was no allowance for doubtful
+accounts receivable. Gross accounts receivable was
+nil
+at December 31, 2022 and approximately $ 13,000
+at September 30, 2022, respectively.
+Full
+Cost Method
+The
+Company uses the full cost method of accounting for its oil and gas exploration and development activities. Under the full cost
+method of accounting, all costs associated with successful and unsuccessful exploration and development activities are capitalized
+on a country-by-country basis into a single cost center (“full cost pool”). Such costs include property acquisition
+costs, geological and geophysical (“G&G”) costs, carrying charges on non-producing properties, costs of drilling
+both productive and non-productive wells. Overhead costs, which includes employee compensation and benefits including stock-based
+compensation, incurred that are directly related to acquisition, exploration and development activities are capitalized. Interest
+expense is capitalized related to unevaluated properties and wells in process during the period in which the Company is incurring
+costs and expending resources to get the properties ready for their intended purpose. For significant investments in unproved
+properties and major development projects that are not being currently depreciated, depleted, or amortized and on which exploration
+or development activities are in progress, interest costs are capitalized. Proceeds from property sales will generally be credited
+to the full cost pool, with no gain or loss recognized, unless such a sale would significantly alter the relationship between
+capitalized costs and the proved reserves attributable to these costs. A significant alteration would typically involve a sale
+of
+25 % or more of the proved reserves related to a single full cost pool.
+8
+Proved
+properties are amortized on a country-by-country basis using the units of production method (“UOP”), whereby capitalized
+costs are amortized over total proved reserves. The amortization base in the UOP calculation includes the sum of proved property,
+net of accumulated depreciation, depletion and amortization (“DD&A”), estimated future development costs (future
+costs to access and develop proved reserves), and asset retirement costs, less related salvage value.
+The
+costs of unproved properties and related capitalized costs (such as G&G costs) are withheld from the amortization calculation
+until such time as they are either developed or abandoned. Unproved properties and properties under development are reviewed for
+impairment at least quarterly and are determined through an evaluation that considers, among other factors, seismic data, requirements
+to relinquish acreage, drilling results, remaining time in the commitment period, remaining capital plan, and political, economic,
+and market conditions. In countries where proved reserves exist, exploratory drilling costs associated with dry holes are transferred
+to proved properties immediately upon determination that a well is dry and amortized accordingly. In countries where a reserve
+base has not yet been established, impairments are charged to earnings.
+Companies
+that use the full cost method of accounting for oil and natural gas exploration and development activities are required to perform
+a ceiling test calculation each quarter. The full cost ceiling test is an impairment test prescribed by SEC Regulation S-X Rule
+4-10. The ceiling test is performed quarterly, on a country-by-country basis, utilizing the average of prices in effect on the
+first day of the month for the preceding twelve-month period. The cost center ceiling is defined as the sum of (a) estimated future
+net revenues, discounted at
+10 % per annum, from proved reserves, (b) the cost of properties not being amortized, if any, and (c)
+the lower of cost or market value of unproved properties included in the cost being amortized. If such capitalized costs exceed
+the ceiling, the Company will record a write-down to the extent of such excess as a non-cash charge to earnings. Any such write-down
+will reduce earnings in the period of occurrence and results in a lower depreciation, depletion and amortization rate in future
+periods. A write-down may not be reversed in future periods even though higher oil and natural gas prices may subsequently increase
+the ceiling.
+The
+Company capitalizes exploratory well costs into oil and gas properties until a determination is made that the well has either
+found proved reserves or is impaired. If proved reserves are found, the capitalized exploratory well costs are reclassified to
+proved properties. The well costs are charged to expense if the exploratory well is determined to be impaired.
+As
+of December 31, 2022, the Company’s oil and gas properties consisted of unproved properties, capitalized costs and no proved
+reserves.
+Asset
+Retirement Obligations
+The
+Company’s asset retirement obligations will represent the present value of the estimated future costs associated with plugging
+and abandoning oil and natural gas wells, removing production equipment and facilities and restoring the seabed in accordance
+with the terms of oil and gas leases and applicable state and federal laws. Determining asset retirement obligations requires
+estimates of the costs of plugging and abandoning oil and natural gas wells, removing production equipment and facilities and
+restoring the sea bed as well as estimates of the economic lives of the oil and gas wells and future inflation rates. The resulting
+estimate of future cash outflows will be discounted using a credit-adjusted risk-free interest rate that corresponds with the
+timing of the cash outflows. Cost estimates will consider historical experience, third party estimates, the requirements of oil
+and natural gas leases and applicable local, state and federal laws, but do not consider estimated salvage values. Asset retirement
+obligations will be recognized when the wells drilled reach total depth or when the production equipment and facilities are installed
+or acquired with an associated increase in proved oil and gas property costs. Asset retirement obligations will be accreted each
+period through depreciation, depletion and amortization to their expected settlement values with any difference between the actual
+cost of settling the asset retirement obligations and recorded amount being recognized as an adjustment to proved oil and gas
+property costs. Cash paid to settle asset retirement obligations will be included in net cash provided by operating activities
+from continuing operations in the statements of cash flows. On a quarterly basis, when indicators suggest there have been material
+changes in the estimates underlying the obligation, the Company reassesses its asset retirement obligations to determine whether
+any revisions to the obligations are necessary. At least annually, the Company will assess all of its asset retirement obligations
+to determine whether any revisions to the obligations are necessary. Future revisions could occur due to changes in estimated
+costs or well economic lives, or if federal or state regulators enact new requirements regarding plugging and abandoning oil and
+natural gas wells.
+Derivative
+Financial Instruments
+The
+accounting treatment of derivative financial instruments requires that
+the Company
+record
+certain embedded conversion options and warrants as liabilities at their fair value as of the inception date of the agreement
+and at fair value as of each subsequent balance sheet date with any change in fair value recorded as income or expense. As a result
+of entering into certain note agreements, for which such instruments contained a variable conversion feature with no floor,
+the
+Company
+has adopted a sequencing policy in accordance with ASC 815-40-35-12 whereby all future instruments issued after
+such variable conversion feature instruments may be classified as a derivative liability with the exception of instruments related
+to share-based compensation issued to employees or directors, as long as the certain variable convertible instruments exist.
+9
+Basic
+and Dilutive Earnings Per Share
+Basic
+income (loss) per share (“EPS”) is computed by dividing net income (loss) (the numerator) by the weighted average
+number of common shares outstanding for the period (denominator). Diluted EPS is computed by dividing net income (loss) by the
+weighted average number of common shares and potential common shares outstanding (if dilutive) during each period. Potential common
+shares include stock options, warrants, and convertible notes payable. The number of potential common shares outstanding relating
+to stock options and warrants, is computed using the treasury stock method. The number of potential common shares related to convertible
+notes payable is determined using the if-converted method.
+As
+the Company has incurred losses for the three months ended December 31, 2022, and 2021, the potentially dilutive shares are anti-dilutive
+and are not added into the loss per share calculations. As of December 31, 2022, and 2021, there were
+353,099,289
+and
+288,396,467
+potentially dilutive shares, respectively.
+Use
+of Estimates
+The
+preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those
+estimates.
+Recent Accounting Pronouncements Not Yet Adopted
+In August 2020, the Financial Accounting Standards Board (“FASB”)
+issued Accounting Standards Update (“ASU”) No. 2020-06, Accounting for Convertible Instruments and Contracts in an Entity’s
+Own Equity, which simplifies the accounting for certain financial instruments with characteristics of liabilities and equity, including
+convertible instruments and contracts in an entity’s own equity. Additionally, ASU 2020-06 requires the application of the if-converted
+method to calculate the impact of convertible instruments on diluted earnings per share (EPS), which is consistent with the Company’s
+accounting treatment under the current standard. This standard is effective for small reporting companies who adopt the private Company
+rules for fiscal years beginning after December 15, 2023. The adoption of ASU 2020-06 is not expected to have a material impact on the
+Company’s financial statements or disclosures.
+The
+Company has evaluated all other recent accounting pronouncements and believes either they are not applicable or that none of them
+will have a significant effect on the Company’s financial statements.
+NOTE
+3 –
+OIL AND NATURAL GAS PROPERTIES
+The
+Company currently has under lease  one  federal Outer Continental Shelf block and has licensed  2.2  million acres
+of three-dimensional (3-D) seismic data in its area of concentration. Our lease expires on October 31, 2025.
+As
+of December 31, 2022, the Company’s oil and natural gas properties consisted of unproved properties, capitalized exploration
+costs and no proved reserves. During the three months ended December 31, 2022, and 2021, the Company capitalized $ 0.018
+and approximately
+$ 0.05  million to oil and gas properties, respectively. During the three months ended December 31, 2022, and 2021, the Company
+capitalized nil of interest expense to oil and natural gas properties, respectively.
+NOTE
+4 –
+RELATED PARTY TRANSACTIONS
+During
+April 2013 through September 2017, the Company entered into convertible promissory notes whereby it borrowed a total of $ 8,675,500
+from John Seitz, the chief executive officer (“CEO”). The notes are due on demand, bear interest at the rate of
+5 %
+per annum, and $ 5,300,000
+of the notes are convertible into shares of common stock at a conversion price equal to $ 0.12
+per share of common
+stock (the then offering price of shares of common stock to unaffiliated investors). As of December 31, 2022, the total amount owed to
+John Seitz is $ 8,675,500 . This amount is included in loans from related parties within the condensed balance sheets. There was approximately
+$ 3.5
+million and $ 3.07
+million of unpaid interest associated with these loans included in accrued interest payable within the balance
+sheet as of December 31, 2022 and 2021, respectively.
+On
+November 15, 2016, a family member of the CEO entered into a $ 50,000
+convertible promissory note with associated warrants (“Bridge
+Financing”) under the same terms received by other investors (see Note 5). This amount is included in loans from related
+parties within the condensed balance sheets.
+Domenica
+Seitz, CPA, related to John Seitz, has provided accounting services to the Company through September 2020 as a consultant and
+beginning October 2020 as an employee. The total amount payable to Domenica Seitz is approximately $ 346,000
+for unpaid past services as of December 31, 2022 and September 30, 2022, respectively. During the three months ended December 31,
+2022 and 2021, salary of approximately $ 8,900
+and
+$ 19,000 ,
+respectively, was paid.
+10
+NOTE
+5 –
+CONVERTIBLE NOTES PAYABLE
+The
+Company’s convertible promissory notes consisted of the following as of September 30, 2022 and December 31, 2022.
+September
+30, 2022
+December
+31, 2022
+Notes
+Discount
+Notes,
+Net
+of Discount
+Notes
+Discount
+Notes,
+Net
+of Discount
+Bridge
+Financing Notes
+$
+227,000
+$
+—
+$
+227,000
+$
+227,000
+$
+—
+$
+227,000
+2022
+Convertible Debenture
+—
+—
+—
+100,000
+( 75,742
+)
+24,258
+Total
+$
+227,000
+$
+—
+$
+227,000
+$
+327,000
+$
+( 75,742
+)
+$
+251,258
+Bridge
+Financing Notes
+Between
+June and November 2016, the Company issued
+eleven
+convertible promissory notes (“Bridge Financing Notes”) with associated
+warrants in a private placement to accredited investors for total gross proceeds of $ 837,000 , including $ 222,000
+from related
+parties. These notes and associated warrants had a maturity of
+one year
+(which has been extended at maturity to
+April 30, 2024 ),
+an annual interest rate of
+8 % and can be converted at the option of the holder at a conversion price of $ 0.025
+per share. In addition,
+the convertible notes will automatically convert if a qualified equity financing of at least $ 3
+million occurs before maturity
+and such mandatory conversion price will equal the effective price per share paid in the qualified equity financing. The note
+balances as of December 31, 2022 and September 30, 2022 were $ 277,000 , with unamortized debt discounts of nil, respectively. As
+noted above, on April 30, 2022, the maturity date related to these notes and associated warrants was extended to
+April 30, 2024 .
+In consideration for the extension of the notes in April 2022, the Company extended the term of the related warrants until
+April
+30, 2024
+and recognized approximately $ 85,000
+of loss on extinguishment of debt when the incremental fair value pre modification
+was compared to post modification and the incremental value of the modified warrants was over
+10 %
+of the old note and as such
+the warrants were expensed immediately.
+2022
+Convertible Debenture
+In
+October 2022, the Company entered into a Securities Purchase Agreement (“SPA ”)
+under the terms of which the Company will issue and sell to Buyers up to an aggregate of $ 650,000
+of convertible debentures (“ Convertible
+Debentures ”).    On October 13,
+2022, approximately $ 50,000
+of Convertible Debentures were purchased upon the signing of the SPA (the “ First Closing ”).
+The
+Convertible Debentures accrue interest at
+eight
+percent per annum, and no earlier than six months after the issue date, are convertible
+at the option of the holder into common stock at a conversion rate of
+65 %
+of the lowest volume weighted adjusted price (as reported
+by
+OTCQB, OTCQX, Pink Sheets electronic quotation
+system or applicable trading market (the “OTC”) as reported by a reliable reporting service (“Reporting Service”)
+designated by the Holder (i.e. Bloomberg, LP)
+for the ten consecutive trading days immediately
+preceding conversion.
+The
+Company evaluated the conversion feature and concluded that it should be bifurcated and accounted for as a derivative liability
+due to the variable conversion feature which does not contain an explicit limit on the number of shares that are required to be
+issued. Accordingly, the embedded conversion feature was recorded at fair value at issuance and will be subsequently remeasured
+to fair value at each reporting period.
+The
+fair value of the embedded conversion feature was determined utilizing a Geometric Brownian Motion Stock Path Based Monte Carlo
+Simulation that utilized the following key assumptions:
+Tranche 1
+October 13, 2022
+Tranche 2
+December 5, 2022
+Tranche 1
+December 31, 2022
+Tranche 1
+December 31, 2022
+Stock
+Price
+$
+0.0052
+$
+0.0041
+$
+0.0045
+$
+0.0045
+Volatility
+158.12
+%
+156.37
+%
+168.03
+%
+159.49
+%
+Remaining
+Term
+0.98
+0.98
+0.77
+0.91
+Risk
+Free Rate
+4.46
+%
+4.77
+%
+4.73
+%
+4.73
+%
+In
+addition to the fixed exercise price noted above, the model incorporates the variable conversion price which is simulated as
+65 %
+of the lowest trading price within the ten consecutive days preceding presumed conversion.
+The
+Company’s convertible promissory notes consisted of the following as of December 31, 2022.
+Debt discount amortization for the quarter ended December 31, 2022 was approximately
+13,000 .
+Notes Payable at December 31, 2022
+Notes
+Discount
+Notes, Net of Discount
+Bridge Financing Notes
+$ 227,000
+$ —
+$ 227,000
+2022 Convertible Debenture
+100,000
+( 75,742 )
+24,258
+Total
+$ 327,000
+$ ( 75,742 )
+$ 251,258
+11
+NOTE
+6 –
+FAIR VALUE MEASUREMENT
+Fair
+value is defined as the price that would be received upon the sale of an asset or paid to transfer a liability in an orderly transaction
+between market participants at the measurement date. Fair value measurements are classified and disclosed in one of the following
+categories:
+Level
+1:
+Unadjusted
+quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities.
+The Company considers active markets as those in which transactions for the assets or liabilities occur in sufficient frequency
+and volume to provide pricing information on an ongoing basis.
+Level
+2:
+Quoted
+prices in markets that are not active, or inputs which are observable, either directly or indirectly, for substantially the
+full term of the asset or liability. This category includes those derivative instruments that the Company values using observable
+market data. Substantially all of these inputs are observable in the marketplace throughout the term of the derivative instrument,
+can be derived from observable data, or are supported by observable levels at which transactions are executed in the marketplace.
+Instruments in this category include non-exchange traded derivative financial instruments as well as warrants to purchase
+common stock and long-term incentive plan liabilities calculated using the Black-Scholes model to estimate the fair value
+as of the measurement date.
+Level
+3:
+Measured
+based on prices or valuation models that require inputs that are both significant to the fair value measurement and less observable
+from objective sources (i.e. supported by little or no market activity).
+As
+required by ASC 820-10, financial assets and liabilities are classified based on the lowest level of input that is significant
+to the fair value measurement. The Company’s assessment of the significance of a particular input to the fair value measurement
+requires judgment and may affect the valuation of the fair value of assets and liabilities and their placement within the fair
+value hierarchy levels.
+Fair
+Value on a Recurring Basis
+The
+following table sets forth by level within the fair value hierarchy the Company’s derivative financial instruments that were
+accounted for at fair value on a recurring basis as of September 30, 2022 and December 31, 2022, respectively:
+Description
+Quoted Prices in
+Active Markets for
+Identical Assets
+(Level 1)
+Significant Other
+Observable Inputs
+(Level 2)
+Significant
+Other
+Unobservable
+Inputs
+(Level 3)
+Total Fair
+Value as of
+Derivative Financial Instrument at September 30, 2022
+$ —
+$ ( 959,222 )
+$ —
+$ ( 959,222 )
+Derivative Financial Instrument at December 31, 2022
+$ —
+$ ( 1,018,523 )
+$ —
+$ ( 1,018,523 )
+The
+change in derivative financial instruments for the three months ended December 31, 2022 is as follows:
+September
+30, 2022 balance
+$
+( 959,222
+)
+New
+derivative instruments issued
+( 80,679
+)
+Derivative
+instruments extinguished
+—
+Change
+in fair value
+21,378
+December
+31, 2022 balance
+$
+( 1,018,523
+)
+Non-recurring
+fair value assessments include impaired oil and natural gas property assessments and stock-based compensation. There was no impairment
+charge recorded for the quarters ended December 31, 2022 and 2021, respectively. The Company recorded stock-based compensation
+of
+nil
+and approximately $ 32,000
+for the three months ended December 31, 2022 and 2021, respectively.
+NOTE
+7 –
+COMMON STOCK/PAID IN CAPITAL
+The
+following table summarizes the Company’s outstanding warrants at September 30, 2022 and December 31, 2022, respectively:
+Warrants
+Number of Options
+Weighted Average
+Exercise Price
+Weighted Average
+Remaining
+Contractual Term
+(In years)
+Outstanding at September 30, 2022
+64,665,000
+$ 0.040
+2.75
+Granted
+—
+—
+—
+Exercised
+—
+—
+—
+Expired
+2,200,000
+$ 0.100
+—
+Outstanding at December 31, 2022
+62,465,000
+$ 0.023
+1.45
+12
+NOTE
+8 –
+STOCK-BASED COMPENSATION
+Stock-based
+compensation cost is measured at the grant date, based on the estimated fair value of the award using the Black Scholes option
+pricing model, and is recognized over the vesting period. The Company recognized stock-based compensation of
+nil
+and approximately
+$ 32,000
+for the three months ended December 31, 2022 and 2021, respectively. Of the $ 32,000
+of stock-based compensation recognized
+for the three months ended December 31, 2021, all was recorded as compensation expense within general and administrative expense.
+The
+following table summarizes the Company’s stock option activity at September 30, 2022 and for the three months ended December
+31, 2022:
+Number of Options
+Weighted Average
+Exercise Price
+Weighted Average
+Remaining
+Contractual Term
+(In years)
+Outstanding at September 30, 2022
+146,000,000
+$ 0.0444
+2.8
+Granted
+—
+—
+—
+Exercised
+—
+—
+—
+Cancelled
+—
+—
+—
+Outstanding at December 31, 2022
+146,000,000
+$ 0.0444
+2.51
+Exercisable at December 31, 2022
+146,000,000
+$ 0.0444
+2.51
+As
+of December 31, 2022, there was no unrecognized stock-based compensation expense.
+NOTE
+9 –
+COMMITMENTS AND CONTINGENCIES
+From
+time to time, the Company may become involved in litigation relating to claims arising out of its operations in the normal course
+of business. No legal proceedings, government actions, administrative actions, investigations, or claims are currently pending
+against us or involve the Company.
+In
+July 2018, the Company entered into a  39
+month lease for approximately  5,000   square feet of office space in
+4 Houston Center in downtown Houston. Annual base rent was approximately $ 94,000  for the first 18 months, increasing to approximately
+$ 97,000  and $ 99,000  respectively during the remaining term of the lease. The lease term ended on
+September 30, 2021 ,
+and the Company entered into a
+twelve-month
+lease that  could be terminated with at least 30 days prior written notice . The
+lease was terminated in
+August 2022
+and the company made alternative arrangements and entered into a new month to month lease.
+The
+Company reached an agreement in August 2018 for the settlement of approximately $ 1  million in debt owed to a third party.
+The vendor was paid $ 150,000  in cash, future cash payments of $ 7,500  and  10  million shares of GulfSlope common
+stock. The agreement contains a provision that upon the sale of the common stock if the original debt is not fully satisfied,
+full payment will be made, under a mutually agreed payment plan. If the stock is sold for a gain any surplus in excess of $ 1.3
+million  shall
+be a credit against future purchases from the vendor. The agreement was determined to meet the definition of a derivative in accordance
+with ASC 815. On December 31, 2022 and September 30, 2022, there is a fair value liability of approximately $ 781,000
+and $ 784,000 ,
+respectively, which is included within Derivative Financial Instruments on the condensed balance sheet.
+NOTE
+10 –
+SUBSEQUENT EVENTS
+A convertible promissory note facility for up to $ 125,000
+was transacted with a related party in February 2023. Through the date of this filing
+$ 65,000
+has been borrowed.
+13
+Item
+2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Forward-looking
+Statements
+The
+following discussion and analysis should be read in conjunction with our accompanying unaudited condensed consolidated financial
+statements and the notes to those financial statements included in Item 1 of this Quarterly Report on Form 10-Q. The following
+discussion contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section
+27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 (the “Exchange Act”). These
+forward-looking statements involve risks, uncertainties and assumptions. If the risks or uncertainties materialize or the assumptions
+prove incorrect, our results may differ materially from those expressed or implied by such forward-looking statements and assumptions.
+All statements other than statements of historical fact are statements that could be deemed forward-looking statements, such as
+those statements that address activities, events or developments that we expect, believe or anticipate will or may occur in the
+future. These statements are based on certain assumptions and analyses made by us in light of our experience and perception of
+historical trends, current conditions, expected future developments and other factors we believe are appropriate in the circumstances.
+Known material risks that may affect our financial condition and results of operations are discussed in Item 1A, Risk Factors
+of our Annual Report on Form 10-K for the year ended September 30, 2022 and this Quarterly Report on Form 10-Q, Part II, Item
+1A, Risk Factors, and may be discussed or updated from time to time in subsequent reports filed with the Securities and Exchange
+Commission. Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date hereof.
+We assume no obligation, nor do we intend to update these forward-looking statements. Unless the context requires otherwise, references
+in this Quarterly Report on Form 10-Q to “GulfSlope” “we,” “us,” “our” and the
+“Company” refer to GulfSlope Energy, Inc.
+Overview
+GulfSlope
+Energy, Inc. is an independent crude oil and natural gas exploration and production company whose interests are concentrated in
+the United States Gulf of Mexico federal waters. We are a technically driven company, and we use our licensed 2.2 million acres
+of advanced three-dimensional (3-D) seismic data to identify, evaluate, and acquire assets with attractive economic profiles.
+GulfSlope Energy commenced commercial operations in March 2013. GulfSlope Energy was originally organized as a Utah corporation
+in 2004 and became a Delaware corporation in 2012.
+We
+have focused our operations in the Gulf of Mexico because we believe this area provides us with favorable geologic and economic
+conditions, including multiple reservoir formations, comprehensive geologic databases, extensive infrastructure, relatively favorable
+royalty regime, and an attractive acquisition market and because our management and technical teams have significant experience
+and technical expertise in this geologic province. Additionally, we licensed 2.2 million acres of advanced 3-D seismic data, a
+significant portion of which has been enhanced by new, state-of-the-art reprocessing and noise attenuation techniques including
+reverse time migration depth imaging. We have used our broad regional seismic database and our reprocessing efforts to generate
+and high-grade oil and natural gas prospects. The use of our extensive seismic database, coupled with our ability, knowledge,
+and expertise to effectively reprocess this seismic data, allows us to further optimize our operations and to effectively evaluate
+acquisition and joint venture opportunities. We consistently assess opportunities for drilling and producing property acquisitions
+in order to deploy capital as efficiently as possible. We have given preference to areas with water depths of 450 feet or less
+where production infrastructure already exists, which will allow for any discoveries to be developed rapidly and cost effectively
+with the goal to reduce economic risk while increasing returns.
+We
+have historically operated our business with working capital deficits and these deficits have been funded by equity and debt investments
+and loans from management. As of December 31, 2022, we had $0.06 million of cash on hand. The Company estimates that it will need
+to raise a minimum of $10.0 million to meet its obligations and planned expenditures through February 2024 assuming execution of our prospect drilling and acquisition strategy. The Company plans
+to finance operations and planned expenditures through equity and/or debt financings, farm-out agreements, and/or other transactions.
+There are no assurances that financing will be available with acceptable terms, if at all.
+Competitive
+Advantages
+Experienced
+management .
+Our management team has a track record of finding, developing and producing oil and natural gas in various
+hydrocarbon producing basins including the US Gulf of Mexico. Our team has significant experience in acquiring and operating oil
+and natural gas producing assets worldwide with particular emphasis on conventional reservoirs. We deployed a technical team with
+over 150 years of combined industry experience finding and developing oil and natural gas in the development and execution of
+our technical strategy. We believe the application of advanced geophysical techniques on a specific geographic area with unique
+geologic features such as conventional reservoirs whose trapping configurations have been obscured by overlying salt layers provides
+us with a competitive advantage.
+Advanced
+seismic image processing .
+Commercial improvements in 3-D seismic data imaging and the development of advanced processing
+algorithms, including pre-stack depth, beam, and reverse time migration have allowed the industry to better distinguish hydrocarbon
+traps and identify previously unknown prospects. Specifically, advanced processing techniques improve the definition of the seismic
+data from a scale of time to a scale of depth, thus locating the images in three dimensions. The Company has invested significant
+technical person hours in the reprocessing and interpretation of seismic data. We believe the proprietary reprocessing and interpretation
+and the contiguous nature of our licensed 3-D seismic data gives us an advantage over other exploration and production companies
+operating in our core area.
+14
+Industry
+leading position in our core area .
+We have licensed 2.2 million acres of 3-D seismic data which covers over 440 Outer
+Continental Shelf (“OCS”) Federal lease blocks on the highly prolific Louisiana outer shelf, offshore US Gulf of Mexico.
+We believe the proprietary and state-of-the-art reprocessing of our licensed 3-D seismic data, along with our proprietary and
+leading-edge geologic depositional and petroleum trapping models, gives us an advantage in identifying and high grading drilling
+and acquisition opportunities in our core area.
+Technical
+Strategy
+We
+believe that a major obstacle to identifying potential hydrocarbon accumulations globally has been the inability of seismic technology
+to accurately image deeper geologic formations because of overlying massive, extensive, and complex salt bodies. Large and thick
+laterally extensive subsurface salt layers highly distort the seismic ray paths traveling through them, which often has led to
+misinterpretation of the underlying geology and the potential major accumulations of oil and gas. We believe the opportunity exists
+for a technology-driven company to extensively apply advanced seismic acquisition and processing technologies, with the goal of
+achieving attractive commercial discovery rates for exploratory wells, and their subsequent appraisal and development, potentially
+having a very positive impact on returns on invested capital. These tools and techniques have been proven to be effective in deep
+water exploration and production worldwide, and we are using them to identify and drill targets below the salt bodies in an area
+of the shallower waters of the Gulf of Mexico where industry activity has largely been absent for over 20 years. GulfSlope management
+led the early industry teams in their successful efforts to discover and develop five new fields below the extensive salt bodies
+in our core area during the 1990’s, which have produced over 125 million barrels of oil equivalent.
+Our
+technical approach to exploration and development is to deploy a team of highly experienced geo-scientists who have current and
+extensive understanding of the geology and geophysics of the petroleum system within our core area, thereby decreasing the traditional
+timing and execution risks of advancing up a learning curve. For data licensing, re-processing and interpretation, our technical
+staff has prioritized specific geographic areas within our 2.2 million acres of seismic coverage, with the goal to optimize capital
+outlays.
+Modern
+3-D seismic datasets with acquisition parameters that are optimal for improved imaging at multiple depths are readily available
+in many of these sub-basins across our core area and can be licensed on commercially reasonable terms. The application of state-of-the-art
+seismic imaging technology is necessary to optimize delineation of prospective structures and to detect the presence of hydrocarbon-charged
+reservoirs below many complex salt bodies. An example of such a seismic technology is reverse time migration, which we believe
+to be the most accurate, fastest, and yet affordable, seismic imaging technology for critical depth imaging available today.
+Lease and Partner Strategy
+Our
+prospect identification and analytical strategy is based on a thorough understanding of the geologic trends within our core area.
+Exploration efforts have been focused in areas where lease acquisition opportunities are readily available. We entered into two
+master 3-D license agreements, together covering approximately 2.2 million acres and we have completed advanced processing on
+select areas within this licensed seismic area exceeding one million acres. We can expand this coverage and perform further advanced
+processing, both with currently licensed seismic data and seismic data to be acquired. We have sought to acquire and reprocess
+the highest resolution data available in the potential prospect’s direct vicinity. This includes advanced imaging information
+to further our understanding of a particular reservoir’s characteristics, including both trapping mechanics and fluid migration
+patterns. Reprocessing is accomplished through a series of model building steps that incorporate the geometry of the geology to
+optimize the final image. Our integration of existing geologic understanding and enhanced seismic processing and interpretation
+provides us with unique insights and perspectives on existing producing areas and especially underexplored formations below and
+adjacent to salt bodies that are highly prospective for hydrocarbon production.
+We
+currently hold one lease, and we are evaluating the acquisition of additional leases in our core area. Our lease has a five-year
+primary term, plus a three year extension and the lease expires on October 31, 2025. The Bureau of Ocean Energy Management’s (“BOEM”)
+regulatory framework provides multiple options for leaseholders to apply to receive extensions of lease terms under specified
+conditions. GulfSlope is exploring all options contained in BOEM’s regulatory framework to extend the terms of the leases.
+Additional prospective acreage can be obtained through lease sales, farm-in, or purchase. As is consistent with a prudent and
+successful exploration approach, we believe that additional seismic licensing, acquisition, processing, and/or interpretation
+may become highly advantageous, to more precisely define the most optimal drillable location(s), particularly for development
+of discoveries.
+Our plan has been to partner with other entities which could include oil and gas companies and/or financial investors. Our goal is to
+diversify risk and minimize capital exposure to drilling costs. We expect a portion of our drilling costs to be paid by our partners through
+these transactions, in return for our previous investment in prospect generation and delivery of an identified prospect on acreage we
+control. Such arrangements are a commonly accepted industry method of proportionately recouping pre-drill cost outlays for seismic, lease
+costs, and associated interpretation expenses. We cannot assure you, however, that we will be able to enter into any such arrangements
+on satisfactory terms.
+Merger and Acquisition Strategy
+We
+believe there is an opportunity to consolidate oil and gas assets located in the offshore Gulf of Mexico. Multiple oil and gas
+companies have explicitly stated their intentions to exit the Gulf of Mexico and we believe that GulfSlope is well positioned
+to take advantage of these opportunities due to our highly specialized subsurface and engineering capabilities, relevant operational
+experience, and regional knowledge and expertise. We have developed a significant pipeline of potential acquisition opportunities
+with the following characteristics: (i) strong cash flow, (ii) inventory of low-risk capital projects, and (iii) manageable plugging
+and abandonment liabilities. In addition to asset acquisitions, we are also evaluating the combination of GulfSlope with other
+GOM oil and gas companies. Any merger or acquisition is likely to be financed through the issuance of debt and equity securities.
+15
+Recent
+Developments
+During
+the past fiscal year, the Company has conducted engineering, geotechnical and economic evaluations on a total of 10 producing
+property acquisitions, all located in the Gulf of Mexico. The Company submitted bids on four of those opportunities, one of which
+was deemed non-competitive by the seller. The Company is currently engaged in seeking debt and equity financing for the remaining
+opportunities.
+Significant
+Accounting Policies
+The
+Company uses the full cost method of accounting for its oil and gas exploration and development activities. Under the full cost
+method of accounting, all costs associated with successful and unsuccessful exploration and development activities are capitalized
+on a country-by-country basis into a single cost center (“full cost pool”). Such costs include property acquisition
+costs, geological and geophysical (“G&G”) costs, carrying charges on non-producing properties, costs of drilling
+both productive and non-productive wells. Overhead costs, which includes employee compensation and benefits including stock-based
+compensation, incurred that are directly related to acquisition, exploration and development activities are capitalized. Interest
+expense is capitalized related to unevaluated properties and wells in process during the period in which the Company is incurring
+costs and expending resources to get the properties ready for their intended purpose. For significant investments in unproved
+properties and major development projects that are not being currently depreciated, depleted, or amortized and on which exploration
+or development activities are in progress, interest costs are capitalized. Proceeds from property sales will generally be credited
+to the full cost pool, with no gain or loss recognized, unless such a sale would significantly alter the relationship between
+capitalized costs and the proved reserves attributable to these costs. A significant alteration would typically involve a sale
+of 25% or more of the proved reserves related to a single full cost pool.
+Proved
+properties are amortized on a country-by-country basis using the units of production method (“UOP”), whereby capitalized
+costs are amortized over total proved reserves. The amortization base in the UOP calculation includes the sum of proved property,
+net of accumulated depreciation, depletion and amortization (“DD&A”), estimated future development costs (future
+costs to access and develop proved reserves), and asset retirement costs, less related salvage value.
+The
+costs of unproved properties and related capitalized costs (such as G&G costs) are withheld from the amortization calculation
+until such time as they are either developed or abandoned. Unproved properties and properties under development are reviewed for
+impairment at least quarterly and are determined through an evaluation by management and third-party consultants considering,
+among other factors, seismic data, requirements to relinquish acreage, drilling results, remaining time in the commitment period,
+remaining capital plan, and political, economic, and market conditions. In countries where proved reserves exist, exploratory
+drilling costs associated with dry holes are transferred to proved properties immediately upon determination that a well is dry
+and amortized accordingly. In countries where a reserve base has not yet been established, impairments are charged to earnings.
+Companies
+that use the full cost method of accounting for oil and natural gas exploration and development activities are required to perform
+a ceiling test calculation each quarter. The full cost ceiling test is an impairment test prescribed by SEC Regulation S-X Rule
+4-10. The ceiling test is performed quarterly, on a country-by-country basis, utilizing the average of prices in effect on the
+first day of the month for the preceding twelve-month period. The cost center ceiling is defined as the sum of (a) estimated future
+net revenues, discounted at 10% per annum, from proved reserves, (b) the cost of properties not being amortized, if any, and (c)
+the lower of cost or market value of unproved properties included in the cost being amortized. If such capitalized costs exceed
+the ceiling, the Company will record a write-down to the extent of such excess as a non-cash charge to earnings. Any such write-down
+will reduce earnings in the period of occurrence and results in a lower depreciation, depletion and amortization rate in future
+periods. A write-down may not be reversed in future periods even though higher oil and natural gas prices may subsequently increase
+the ceiling.
+The
+Company capitalizes exploratory well costs into oil and gas properties until a determination is made that the well has either
+found proved reserves or is impaired. If proved reserves are found, the capitalized exploratory well costs are reclassified to
+proved properties. The well costs are charged to expense if the exploratory well is determined to be impaired.
+As
+of December 31, 2022, the Company’s oil and gas properties consisted of unproved properties, capitalized costs and no proved
+reserves.
+16
+Property
+and equipment are carried at cost. We assess the carrying value of our property and equipment for impairment whenever events or
+changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+There
+has been no change to our critical accounting policies as included in our annual report on Form 10-K as of September 30, 2022,
+which was filed with the Securities and Exchange Commission on December 29, 2022.
+Three
+Months Ended December 31, 2022, Compared to Three Months Ended December 31, 2021
+There
+was no revenue during the three months ended December 31, 2022 and 2021. General and administrative expenses were approximately
+$0.3 million for the three months ended December 31, 2022, compared to approximately $0.4 million for the three months ended December
+31, 2021. Net interest expense was approximately $131,000 for the three months ended December 31, 2022 as compared to approximately
+$138,000 for the three months ended December 31, 2021. Gain on derivative financial instruments was approximately $21,000 and $80,000 for the three
+months ended December 31, 2022 and 2021, respectively, which was caused by the change in fair value of the underlying derivative
+financial instruments.
+Liquidity
+and Capital Resources
+The
+Company has incurred accumulated losses for the period from inception to December 31, 2022, of approximately $69.3 million, and
+has a negative working capital of $14.2 million. For the three months ended December 31, 2022, the Company has generated losses
+of approximately $0.4 million and net cash used in operations of approximately $0.1 million. As of December 31, 2022, there was
+$0.06 million of cash on hand. The Company estimates that it will need to raise a minimum of $10 million to meet its obligations
+and planned expenditures through February 2024. The $10 million is comprised primarily of capital project expenditures as well
+as general and administrative expenses. It does not include any amounts due under outstanding debt obligations and accrued interest,
+which amounted to approximately $12.6 million as of December 31, 2022. The Company plans to finance operations and planned expenditures
+through the issuance of equity securities, debt financings, farm-out agreements, mergers or other transactions. Our policy has
+been to periodically raise funds through the sale of equity on a limited basis, to avoid undue dilution while at the early stages
+of execution of our business plan. Short term needs have been historically funded through loans from executive management. There
+are no assurances that financing will be available with acceptable terms, if at all. If the Company is not successful in obtaining
+financing, operations would need to be curtailed or ceased. The accompanying financial statements do not include any adjustments
+that might result from the outcome of this uncertainty.
+For
+the three months ended December 31, 2022, the Company used approximately $0.1 million of net cash in operating activities, compared
+with approximately $0.6 million of net cash used in operating activities for the three months ended December 31, 2021. For the
+three months ended December 31, 2022 and 2021, approximately $0.02 million of cash was used in investing, respectively. For the
+three months ended December 31, 2022, the Company received approximately $0.09 million of net cash from financing activities compared
+with nil for the three months ended December 31, 2021.
+The
+Company will need to raise additional funds to cover planned expenditures, as well as any additional, unexpected expenditures
+that we may encounter. Future equity financings may be dilutive to our stockholders. Alternative forms of future financings may
+include preferences or rights superior to our common stock. Debt financings may involve a pledge of assets and will rank senior
+to our common stock. We have historically financed our operations through private equity and debt financings. We do not have any
+credit or equity facilities available with financial institutions, stockholders or third-party investors, and will continue to
+rely on best efforts financings. The failure to raise sufficient capital could cause us to cease operations, or the Company would
+need to sell assets or consider alternative plans up to and including restructuring.
+Off-Balance
+Sheet Arrangements
+None.
+Item
+3. Quantitative and Qualitative Disclosures About Market Risk
+Not
+required for smaller reporting companies.
+Item
+4. Controls and Procedures.
+Evaluation
+of Disclosure Controls and Procedures
+Disclosure
+controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) are designed to ensure that information required
+to be disclosed in reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the
+time periods specified in rules and forms adopted by the SEC’s rules and forms, and that such information is accumulated
+and communicated to management, including the principal executive and principal financial officers, to allow timely decisions
+regarding required disclosures.
+17
+Under
+the supervision and with the participation of our principal executive and principal financial officers, our management evaluated
+the effectiveness of the design and operation of our disclosure controls and procedures. Based upon that evaluation, our principal
+executive and principal financial officers concluded that, as of the end of the period covered by this Quarterly Report on Form
+10-Q, our disclosure controls and procedures were effective at a reasonable assurance level to ensure that information required
+to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized
+and reported, within the time periods specified in the SEC’s rules and forms.
+As
+noted in the Company’s Annual Report on Form 10-K for the year ended September 30, 2022, the design and operating effectiveness
+of our controls were adequate to ensure that certain account analysis and accounting judgments related to certain estimates throughout
+the year were properly accounted for and reviewed in a timely manner.
+Limitations
+on the Effectiveness of Controls
+The
+Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting.
+The Company’s internal control over financial reporting is designed to provide reasonable assurance as to the reliability
+of the Company’s financial reporting and the preparation of financial statements in accordance with generally accepted accounting
+principles. All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems
+determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation.
+Changes
+in Internal Control Over Financial Reporting
+During
+the fiscal quarter covered by this Report, there has been no change in our internal control over financial reporting (as defined
+in Rule 13a-15(f) under the Exchange Act) that has materially affected, or is reasonably likely to materially affect, our internal
+control over financial reporting.
+18
+PART
+II – OTHER INFORMATION
+Item
+1. Legal Proceedings
+From
+time to time, the Company may become involved in litigation relating to claims arising out of its operations in the normal course
+of business. No legal proceedings, government actions, administrative actions, investigations or claims are currently pending
+against us or involve the Company.
+Item
+1A. Risk Factors
+In
+addition to the other information set forth in this Quarterly Report, you should carefully consider the risk factors and other
+cautionary statements described under the heading Part I, Item 1A. “Risk Factors” included in our September 30, 2022
+Annual Report, and the risk factors and other cautionary statements contained in our other SEC filings, which could materially
+affect our business, financial condition or future results. Additional risks and uncertainties not currently known to us or that
+we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results. The
+risks and uncertainties described below should be read together with those disclosed in our 2022 Form 10-K, Annual Report filed
+with the SEC on December 29, 2022 and our other SEC filings.
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+Item
+3. Defaults Upon Senior Securities
+None.
+Item
+4. Mine Safety Disclosures
+Not
+applicable.
+Item
+5. Other Information
+None.
+19
+Item
+6. Exhibits
+The
+following exhibits are attached hereto or are incorporated by reference:
+Exhibit
+No.
+Description
+3.1
+Amended and Restated Certificate of Incorporation of GulfSlope Energy, Inc., dated effective September 30, 2022 incorporated by reference to Exhibit 3.1 of the Company’s Form 8-K filed October 4, 2022
+3.2
+Amended and Restated Bylaws of GulfSlope Energy, Inc., incorporated by reference to Exhibit 3.2 of Form 10-Q for the quarter ended June 30, 2014.
+4.1
+Common Stock Specimen, incorporated by reference to Exhibit 4.1 of Form 10-K for the year ended September 30, 2012.
+31.1 (1)
+Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2 (1)
+Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1 (2)
+Certification of Principal Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2 (2)
+Certification of Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS (3)
+XBRL Instance Document.
+101.SCH (3)
+XBRL Schema Document.
+101.CAL (3)
+XBRL Calculation
+Linkbase Document.
+101.DEF (3)
+XBRL Definition
+Linkbase Document.
+101.LAB (3)
+XBRL Label Linkbase
+Document.
+101.PRE (3)
+XBRL Presentation
+Linkbase Document.
+(1)
+Filed
+herewith.
+(2)
+Furnished herewith.
+(3)
+Pursuant
+to Rule 406T of Regulation S-T, the Interactive Data Files on Exhibit 101 hereto are deemed not filed or part of a registration
+statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed
+for purposes of Section 18 of the Securities and Exchange Act of 1934, as amended, and otherwise are not subject to liability
+under those sections.
+20
+SIGNATURES
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Issuer has duly caused this Report to be signed on its behalf
+by the undersigned thereunto duly authorized.
+GULFSLOPE
+ENERGY, INC.
+(Issuer)
+Date:
+February 14
+,2023
+By:
+/s/
+John N. Seitz
+John N. Seitz,
+Chief Executive Officer, and Chairman
+21
+SIGNATURES
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Issuer has duly caused this Report to be signed on its behalf
+by the undersigned thereunto duly authorized.
+GULFSLOPE
+ENERGY, INC.
+(Issuer)
+Date:
+February 14,
+2023
+By:
+/s/
+John H. Malanga
+John H. Malanga,
+Chief Financial Officer,
+and Chief Accounting
+Officer
+22

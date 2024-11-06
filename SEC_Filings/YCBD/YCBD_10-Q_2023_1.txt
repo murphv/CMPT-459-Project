@@ -1,0 +1,2897 @@
+2023
+50,000,000
+50,000,000
+0.001
+0.001
+5,000,000
+5,000,000
+5,000,000
+5,000,000
+150,000,000
+150,000,000
+0.001
+0.001
+60,712,262
+60,712,262
+60,665,595
+60,665,595
+5
+2,187,500
+5
+5
+3
+0
+0
+0
+5
+1
+20,000,000
+0.190625
+20,000,001
+60,000,000
+0.0953125
+60,000,001
+140,000,000
+0.04765625
+140,000,001
+300,000,000
+0.023828125
+5,000,000
+5,000,000
+5,000,000
+60,712,262
+60,665,595
+5
+100.72
+5
+10
+1
+3
+5
+0001644903 2022-10-01 2022-12-31
+0001644903 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2022-10-01 2022-12-31
+xbrli:shares
+0001644903 2023-02-13
+thunderdome:item
+iso4217:USD
+0001644903 2022-12-31
+0001644903 2022-09-30
+iso4217:USD xbrli:shares
+0001644903 2021-10-01 2021-12-31
+0001644903 2021-09-30
+0001644903 2021-12-31
+0001644903 ycbd:CommonStockEarnoutSharesMember 2022-10-01 2022-12-31
+0001644903 ycbd:CommonStockEarnoutSharesMember 2021-10-01 2021-12-31
+0001644903 us-gaap:CommonStockMember 2022-09-30
+0001644903 us-gaap:PreferredStockMember 2022-09-30
+0001644903 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001644903 us-gaap:RetainedEarningsMember 2022-09-30
+0001644903 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001644903 us-gaap:PreferredStockMember 2022-10-01 2022-12-31
+0001644903 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001644903 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:PreferredStockMember 2022-10-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0001644903 us-gaap:CommonStockMember 2022-12-31
+0001644903 us-gaap:PreferredStockMember 2022-12-31
+0001644903 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001644903 us-gaap:RetainedEarningsMember 2022-12-31
+0001644903 us-gaap:CommonStockMember 2021-09-30
+0001644903 us-gaap:PreferredStockMember 2021-09-30
+0001644903 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001644903 us-gaap:RetainedEarningsMember 2021-09-30
+0001644903 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001644903 us-gaap:PreferredStockMember 2021-10-01 2021-12-31
+0001644903 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001644903 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001644903 us-gaap:CommonStockMember 2021-12-31
+0001644903 us-gaap:PreferredStockMember 2021-12-31
+0001644903 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001644903 us-gaap:RetainedEarningsMember 2021-12-31
+0001644903 ycbd:CureBasedDevelopmentLlcMember us-gaap:CommonStockMember 2019-04-01 2019-04-30
+0001644903 ycbd:CureBasedDevelopmentLlcMember ycbd:UnregisteredCommonStockMember 2019-04-01 2019-04-30
+utr:Y
+0001644903 ycbd:CureBasedDevelopmentLlcMember ycbd:UnregisteredCommonStockMember 2019-04-30
+0001644903 ycbd:CureBasedDevelopmentLlcMember ycbd:UnregisteredCommonStockMember 2022-10-01 2022-12-31
+0001644903 ycbd:CureBasedDevelopmentLlcMember us-gaap:CommonStockMember 2019-04-30
+xbrli:pure
+0001644903 srt:MinimumMember 2022-12-31
+0001644903 srt:MaximumMember 2022-12-31
+0001644903 ycbd:ManufacturingEquipmentMember 2022-10-01 2022-12-31
+0001644903 ycbd:SoftwareMember 2022-10-01 2022-12-31
+0001644903 us-gaap:SalesChannelDirectlyToConsumerMember 2022-10-01 2022-12-31
+0001644903 us-gaap:SalesRevenueNetMember ycbd:SalesChannelMember us-gaap:SalesChannelDirectlyToConsumerMember 2022-10-01 2022-12-31
+0001644903 us-gaap:SalesChannelDirectlyToConsumerMember 2021-10-01 2021-12-31
+0001644903 us-gaap:SalesRevenueNetMember ycbd:SalesChannelMember us-gaap:SalesChannelDirectlyToConsumerMember 2021-10-01 2021-12-31
+0001644903 us-gaap:SalesChannelThroughIntermediaryMember 2022-10-01 2022-12-31
+0001644903 us-gaap:SalesRevenueNetMember ycbd:SalesChannelMember us-gaap:SalesChannelThroughIntermediaryMember 2022-10-01 2022-12-31
+0001644903 us-gaap:SalesChannelThroughIntermediaryMember 2021-10-01 2021-12-31
+0001644903 us-gaap:SalesRevenueNetMember ycbd:SalesChannelMember us-gaap:SalesChannelThroughIntermediaryMember 2021-10-01 2021-12-31
+0001644903 us-gaap:SalesRevenueNetMember ycbd:SalesChannelMember 2022-10-01 2022-12-31
+0001644903 us-gaap:SalesRevenueNetMember ycbd:SalesChannelMember 2021-10-01 2021-12-31
+0001644903 2021-10-01 2022-09-30
+0001644903 us-gaap:SalesRevenueSegmentMember us-gaap:CustomerConcentrationRiskMember 2022-10-01 2022-12-31
+0001644903 2022-01-01 2022-03-31
+0001644903 ycbd:AdaraSponserLLCMember 2020-09-01 2020-09-30
+0001644903 ycbd:AdaraSponserLLCMember 2021-01-13
+0001644903 ycbd:AdaraSponserLLCMember 2021-03-24 2021-03-24
+0001644903 us-gaap:CommonStockMember ycbd:AdaraSponserLLCMember 2022-12-31
+0001644903 us-gaap:WarrantMember ycbd:AdaraSponserLLCMember 2022-12-31
+0001644903 ycbd:AdaraSponserLLCMember 2022-12-31
+0001644903 ycbd:SteadyStateLlcMember 2022-04-07 2022-04-07
+0001644903 ycbd:SteadyStateLlcMember 2022-04-07
+0001644903 ycbd:ComputersFurnitureAndEquipmentMember 2022-12-31
+0001644903 ycbd:ComputersFurnitureAndEquipmentMember 2022-09-30
+0001644903 ycbd:ManufacturingEquipmentMember 2022-12-31
+0001644903 ycbd:ManufacturingEquipmentMember 2022-09-30
+0001644903 us-gaap:LeaseholdImprovementsMember 2022-12-31
+0001644903 us-gaap:LeaseholdImprovementsMember 2022-09-30
+0001644903 us-gaap:AutomobilesMember 2022-12-31
+0001644903 us-gaap:AutomobilesMember 2022-09-30
+0001644903 us-gaap:TrademarksMember 2021-07-01 2021-07-31
+0001644903 us-gaap:DevelopedTechnologyRightsMember 2021-07-01 2021-07-31
+0001644903 us-gaap:TrademarksMember 2021-12-31 2021-12-31
+0001644903 ycbd:TrademarkRelatedToCbdmdMember 2021-12-31 2021-12-31
+0001644903 us-gaap:TrademarksMember 2022-01-01 2022-01-31
+0001644903 ycbd:TrademarkRelatedToCbdmdMember 2022-12-31
+0001644903 ycbd:TrademarkRelatedToCbdmdMember 2022-09-30
+0001644903 ycbd:TrademarkRelatedToHempMdMember 2022-12-31
+0001644903 ycbd:TrademarkRelatedToHempMdMember 2022-09-30
+0001644903 ycbd:TechnologyReliefFromRoyaltyRelatedToDirectCBDOnlineComMember 2022-12-31
+0001644903 ycbd:TechnologyReliefFromRoyaltyRelatedToDirectCBDOnlineComMember 2022-09-30
+0001644903 ycbd:TradenameRelatedToDirectCBDOnlineComMember 2022-12-31
+0001644903 ycbd:TradenameRelatedToDirectCBDOnlineComMember 2022-09-30
+0001644903 us-gaap:TrademarksMember 2022-10-01 2022-12-31
+0001644903 us-gaap:TrademarksMember 2021-10-01 2021-12-31
+0001644903 ycbd:CureBasedDevelopmentLlcMember ycbd:RegisteredCommonStockMember 2019-04-01 2019-04-30
+utr:M
+0001644903 ycbd:CureBasedDevelopmentLlcMember us-gaap:CommonStockMember 2018-12-20 2018-12-20
+0001644903 ycbd:EarnoutSharesForRevenueBetween1And20000000Member srt:MinimumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween1And20000000Member srt:MaximumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween1And20000000Member 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween20000001And60000000Member srt:MinimumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween20000001And60000000Member srt:MaximumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween20000001And60000000Member 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween60000001And140000000Member srt:MinimumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween60000001And140000000Member srt:MaximumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween60000001And140000000Member 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween140000001And300000000Member srt:MinimumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween140000001And300000000Member srt:MaximumMember 2022-10-01 2022-12-31
+0001644903 ycbd:EarnoutSharesForRevenueBetween140000001And300000000Member 2022-10-01 2022-12-31
+0001644903 ycbd:CureBasedDevelopmentLlcMember us-gaap:CommonStockMember 2022-12-31
+0001644903 ycbd:CureBasedDevelopmentLlcMember us-gaap:CommonStockMember 2022-09-30
+0001644903 ycbd:CureBasedDevelopmentLlcMember us-gaap:CommonStockMember 2022-07-01 2022-12-31
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2021-07-01 2021-07-31
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2021-07-31
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2021-09-30 2022-09-30
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2022-09-30
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2022-12-31 2022-12-31
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2022-12-31
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2022-01-01 2022-06-30
+0001644903 ycbd:TwentyTwoAcquisitionMember us-gaap:CommonStockMember 2022-06-30
+0001644903 us-gaap:EmployeeStockOptionMember 2022-04-01 2022-04-30
+0001644903 us-gaap:EmployeeStockOptionMember 2022-12-01 2022-12-31
+0001644903 us-gaap:RestrictedStockUnitsRSUMember 2022-12-01 2022-12-31
+0001644903 ycbd:EmployeeStockOptionsAndRestrictedStockUnitsRsusMember 2022-12-01 2022-12-31
+0001644903 ycbd:EmployeeStockOptionsAndRestrictedStockUnitsRsusMember 2022-12-31
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2019-10-31
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2022-12-31
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2022-09-30
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2019-10-01 2019-10-31
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2021-06-30 2021-06-30
+0001644903 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-12-01 2022-12-31
+0001644903 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember ycbd:VestBasedOnCertainPerformanceHurdlesPriorToDecember2024Member 2022-12-01 2022-12-31
+0001644903 2021-12-28 2021-12-28
+0001644903 2021-10-01 2021-10-31
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-12-01 2022-12-31
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember ycbd:VestingAnnuallyOverThreeYearsMember 2022-12-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember ycbd:VestingAnnuallyOverThreeYearsMember 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember ycbd:VestingAnnuallyOverThreeYearsMember 2022-12-01 2022-12-31
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember ycbd:VestUponAchievingCertainRevenuePerformanceMember 2022-12-01 2022-12-31
+0001644903 srt:ChiefExecutiveOfficerMember 2021-10-01 2021-10-30
+0001644903 us-gaap:EmployeeStockOptionMember srt:ChiefExecutiveOfficerMember 2021-10-01 2021-12-31
+0001644903 us-gaap:EmployeeStockOptionMember srt:MinimumMember 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember srt:MaximumMember 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember 2021-12-31
+0001644903 us-gaap:EmployeeStockOptionMember srt:MinimumMember 2022-10-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember srt:MaximumMember 2022-10-01 2022-12-31
+0001644903 srt:MinimumMember 2021-10-01 2021-12-31
+0001644903 srt:MaximumMember 2021-10-01 2021-12-31
+0001644903 ycbd:The2015PlanMember 2015-06-02
+0001644903 ycbd:The2015PlanMember srt:MaximumMember 2015-06-02
+0001644903 ycbd:The2015PlanMember 2019-04-19 2019-04-19
+0001644903 ycbd:The2021PlanMember 2021-01-08
+0001644903 ycbd:The2021PlanMember srt:MaximumMember 2021-01-08
+0001644903 srt:MinimumMember 2022-10-01 2022-12-31
+0001644903 srt:MaximumMember 2022-10-01 2022-12-31
+0001644903 us-gaap:EmployeeStockOptionMember 2022-12-31
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-10-01 2022-12-31
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember 2021-11-01 2021-11-30
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember 2021-10-01 2021-10-31
+0001644903 srt:ExecutiveOfficerMember 2021-10-01 2021-10-31
+0001644903 us-gaap:RestrictedStockUnitsRSUMember 2022-10-01 2022-12-31
+0001644903 us-gaap:RestrictedStockUnitsRSUMember 2021-10-01 2021-12-31
+0001644903 ycbd:WarrantsToPurchaseCommonStockMember 2022-09-30
+0001644903 ycbd:WarrantsToPurchaseCommonStockMember 2022-10-01
+0001644903 ycbd:WarrantsToPurchaseCommonStockMember 2022-12-31
+0001644903 ycbd:WarrantsExpiringSeptember2023Member 2022-12-31
+0001644903 ycbd:WarrantsExpiringMay2024Member 2022-12-31
+0001644903 ycbd:WarrantsExpiringOctober2024Member 2022-12-31
+0001644903 ycbd:WarrantsExpiringJanuary2025Member 2022-12-31
+0001644903 ycbd:WarrantsExpiringDecember2025Member 2022-12-31
+0001644903 ycbd:WarrantsExpiringJune2026Member 2022-12-31
+0001644903 ycbd:ProfessionalAthleteMember 2022-10-01 2022-12-31
+0001644903 ycbd:ProfessionalAthleteEndorsementAgreementMember 2022-04-30
+0001644903 ycbd:LoanArrangementForLineOfEquipmentOneMember 2019-07-31
+0001644903 ycbd:LoanArrangementForLineOfEquipmentOneMember 2022-12-31
+0001644903 ycbd:LoanArrangementForLineOfEquipmentTwoMember 2020-01-31
+0001644903 ycbd:LoanArrangementForLineOfEquipmentTwoMember 2022-12-31
+0001644903 ycbd:LoanArrangementForLineOfEquipmentTwoMember ycbd:NotesPayableMember 2020-01-01 2020-01-31
+0001644903 ycbd:LoanArrangementForLineOfEquipmentTwoMember ycbd:NotesPayableMember 2020-01-31
+0001644903 ycbd:LaboratoryFacilityMember 2022-06-01 2022-06-30
+0001644903 ycbd:OptionsRSUsAndWarrantsMember 2022-10-01 2022-12-31
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2022-10-01 2022-12-31
+0001644903 ycbd:SeriesACumulativeConvertiblePreferredStockMember 2019-10-16 2019-10-16
+0001644903 2018-12-20
+0001644903 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember us-gaap:SubsequentEventMember 2023-01-01 2023-01-31
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember us-gaap:SubsequentEventMember 2023-01-01 2023-01-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember us-gaap:SubsequentEventMember 2023-01-31
+0001644903 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember us-gaap:SubsequentEventMember 2023-01-01 2023-01-31
+0001644903 us-gaap:ShareBasedPaymentArrangementEmployeeMember us-gaap:SubsequentEventMember 2023-01-31
+0001644903 us-gaap:SubsequentEventMember 2023-01-01 2023-01-31
+0001644903 ycbd:A360MediaLlcMember us-gaap:SubsequentEventMember ycbd:AdvertisingPlacementAgreementMember 2023-02-01
+0001644903 ycbd:AdaraSponserLLCMember us-gaap:SubsequentEventMember 2023-02-10 2023-02-10
+0001644903 ycbd:EquityClassifiedWarrantsMember 2022-10-01 2022-12-31
+0001644903 ycbd:CommonStockPurchaseWarrantsMember 2022-10-01 2022-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________________ to _______________
+Commission file number
+001-38299
+cbdMD, INC.
+(Exact Name of Registrant as Specified in its Charter)
+North Carolina
+47-3414576
+State or Other Jurisdiction of Incorporation or Organization
+I.R.S. Employer Identification No.
+8845 Red Oak Blvd ,
+Charlotte ,
+NC
+28217
+Address of Principal Executive Offices
+Zip Code
+704 - 445-3060
+Registrant’s Telephone Number, Including Area Code
+Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+common
+YCBD
+NYSE
+American
+8% Series A Cumulative Convertible Preferred Stock
+YCBDpA
+NYSE
+American
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒     No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated Filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes
+☐
+No ☒
+APPLICABLE ONLY TO CORPORATE ISSUERS
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+65,429,686  shares of common stock are issued and outstanding as of February 13, 2023.
+Table of Contents
+TABLE OF CONTENTS
+Page No
+PART I-FINANCIAL INFORMATION
+ITEM 1.
+Financial Statements.
+5
+ITEM 2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations.
+29
+ITEM 3.
+Quantitative and Qualitative Disclosures About Market Risk.
+36
+ITEM 4.
+Controls and Procedures.
+36
+PART II - OTHER INFORMATION
+ITEM 1.
+Legal Proceedings.
+37
+ITEM 1A.
+Risk Factors.
+37
+ITEM 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+37
+ITEM 3.
+Defaults Upon Senior Securities.
+37
+ITEM 4.
+Mine Safety Disclosures.
+37
+ITEM 5.
+Other Information.
+37
+ITEM 6.
+Exhibits.
+38
+2
+Table of Contents
+OTHER PERTINENT INFORMATION
+Unless the context otherwise indicates, when used in this report, the terms the “Company,” “cbdMD, “we,” “us, “our” and similar terms refer to cbdMD, Inc., a North Carolina corporation formerly known as Level Brands, Inc., and our subsidiaries CBD Industries LLC, a North Carolina limited liability company formerly known as cbdMD LLC, which we refer to as “CBDI”, Paw CBD, Inc., a North Carolina corporation which we refer to as “Paw CBD” and cbdMD Therapeutics LLC, a North Carolina limited liability company which we refer to as “Therapeutics”. In addition, “fiscal 2021” refers to the year ended September 30, 2021", “fiscal 2022” refers to the year ended September 30, 2022, “fiscal 2023” refers to the fiscal year ending September 30, 2023, “first quarter of 2022” refers to the three months ended December 31, 2021, and “first quarter of 2023” refers to the three months ended December 31, 2022.
+We maintain a corporate website at www.cbdmd.com. The information contained on our corporate website and our various social media platforms are not part of this report .
+3
+Table of Contents
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION
+This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These forward-looking statements that relate to future events or our future financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to differ materially from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Words such as, but not limited to, “believe,” “expect,” “anticipate,” “estimate,” “intend,” “plan,” “targets,” “likely,” “aim,” “will,” “would,” “could,” and similar expressions or phrases identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and future events and financial trends that we believe may affect our financial condition, results of operation, business strategy and financial needs. Forward-looking statements include, but are not limited to, statements about:
+●
+material risks associated with our overall business, including:
+●
+our history of losses, potential liquidity concerns, and our ability to continue as a going concern;
+●
+our reliance to market to key digital channels;
+●
+our ability to acquire new customers at a profitable rate;
+●
+our reliance on third party raw material suppliers and manufacturers and compounders;
+●
+our reliance on third party compliance with our supplier verification program and testing protocols; and
+●
+material risks associated with regulatory environment for CBD, including:
+●
+federal laws as well as FDA or DEA interpretation of existing regulation;
+●
+state laws pertaining to industrial hemp and their derivatives;
+●
+costs to us for compliance with laws and the risks of increased litigation; and
+●
+possible changes in the use of CBD.
+●
+material risks associated with the ownership of our securities, including;
+●
+the risks for failing to comply with the continued listing standards of the NYSE American;
+●
+availability of sufficient liquidity;
+●
+dilution to our shareholders upon the issuance of the Earnout Shares;
+●
+the designations, rights and preferences of our 8% Series A Cumulative Convertible Preferred Stock;
+●
+dilution upon the issuance of shares of common stock underlying outstanding warrants, options and the Series A Convertible Preferred Stock; and
+●
+voting control held by our directors and their affiliates.
+Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described in connection with any forward- looking statements that may be made herein. Readers are cautioned not to place undue reliance on these
+forward-looking
+statements and readers should carefully review this report in its entirety, including the risks described in Part II, Item 1A. Risk Factors appearing later in this report, Part I, Item 1A. - Risk Factors appearing in our Annual Report on Form 10-K for the fiscal year ended September 30, 2022 as filed with the Securities and Exchange Commission (the “SEC”) on December 15, 2022 and as amended on December 20, 2022 (the “2022 10-K”), as well as our other filings with the SEC. Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events.
+4
+Table of Contents
+PART 1
+–
+FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS.
+cbdMD, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+December 31, 2022
+AND
+September 30, 2022
+(Unaudited)
+December 31,
+September 30,
+2022
+2022
+Assets
+Current assets:
+Cash and cash equivalents
+$
+3,352,664
+$
+6,720,234
+Accounts receivable
+898,720
+1,447,831
+Accounts receivable – discontinued operations
+-
+1,375
+Investment other securities
+1,000,000
+1,000,000
+Inventory
+4,690,609
+4,255,914
+Inventory prepaid
+170,659
+511,459
+Prepaid sponsorship
+66,784
+1,372,845
+Prepaid expenses and other current assets
+1,349,784
+701,945
+Total current assets
+11,529,220
+16,011,603
+Other assets:
+Property and equipment, net
+900,567
+823,310
+Operating lease assets
+4,201,204
+4,477,841
+Deposits for facilities
+138,708
+244,606
+Intangible assets
+17,557,194
+17,834,549
+Investment in other securities, noncurrent
+1,400,000
+1,400,000
+Total other assets
+24,197,673
+24,780,306
+Total assets
+$
+35,726,893
+$
+40,791,909
+See Notes to Condensed Consolidated Financial Statements
+5
+Table of Contents
+CONDENSED CONSOLIDATED BALANCE SHEETS
+December 31, 2022
+AND
+September 30, 2022
+(continued )
+(Unaudited)
+December 31,
+September 30,
+2022
+2022
+Liabilities and shareholders' equity
+Current liabilities:
+Accounts payable
+$ 1,689,527     $ 2,036,558
+Accrued expenses
+2,650,337       2,060,762
+Operating leases – current portion
+1,202,797       1,178,683
+Note payable
+9,758       9,609
+Total current liabilities
+5,552,419       5,285,612
+Long term liabilities:
+Long term liabilities
+-       125,491
+Operating leases - long term portion
+3,368,713       3,680,375
+Contingent liability
+215,000       276,000
+Total long term liabilities
+3,583,713       4,081,866
+Total liabilities
+9,136,132       9,367,478
+Commitments and Contingencies (Note 11)
+cbdMD, Inc. shareholders' equity:
+Preferred stock, authorized
+50,000,000
+shares, $ 0.001
+par value,
+5,000,000
+and
+5,000,000
+shares issued and outstanding, respectively
+5,000       5,000
+Common stock, authorized
+150,000,000
+shares, $ 0.001
+par value,
+60,712,262
+and
+60,665,595
+shares issued and outstanding, respectively
+60,712       60,666
+Additional paid in capital
+178,905,176       178,782,328
+Accumulated deficit
+( 152,380,127 )     ( 147,423,563 )
+Total cbdMD, Inc. shareholders' equity
+26,590,761       31,424,431
+Total liabilities and shareholders' equity
+$ 35,726,893     $ 40,791,909
+See Notes to Condensed Consolidated Financial Statements
+6
+Table of Contents
+cbdMD, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+FOR THE
+three months ended December 31, 2022 and 2021
+(Unaudited)
+Three months
+Three months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Gross Sales
+$
+6,240,526
+$
+9,856,767
+Allowances
+( 155,308
+)
+( 534,945
+)
+Total Net Sales
+6,085,218
+9,321,822
+Cost of sales
+2,517,452
+4,328,310
+Gross Profit
+3,567,766
+4,993,512
+Operating expenses
+7,613,947
+11,955,284
+Impairment of goodwill and other intangible assets
+-
+18,183,285
+Loss from operations
+( 4,046,181
+)
+( 25,145,057
+)
+Realized and Unrealized loss on marketable and other securities, including impairments
+-
+( 33,351
+)
+Decrease of contingent liability
+61,000
+5,950,000
+Other income (expense)
+-
+70,738
+Interest expense
+29,119
+( 3,234
+)
+Loss before provision for income taxes
+( 3,956,062
+)
+( 19,160,904
+)
+Benefit for income taxes
+-
+-
+Net (Loss) Income
+( 3,956,062
+)
+( 19,160,904
+)
+Preferred dividends
+1,000,502
+1,000,502
+Net Loss attributable to cbdMD, Inc. common shareholders
+$
+( 4,956,564
+)
+$
+( 20,161,406
+)
+Net Loss per share:
+Basic earnings per share
+( 0.08
+)
+( 0.35
+)
+Diluted earnings per share
+( 0.08
+)
+( 0.35
+)
+Weighted average number of shares Basic:
+60,357,449
+57,825,367
+Weighted average number of shares Diluted:
+60,357,449
+57,825,367
+See Notes to Condensed Consolidated Financial Statements
+7
+Table of Contents
+cbdMD, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+FOR THE
+three months ended December 31, 2022 and 2021
+(Unaudited)
+Three months
+Three months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Net (Loss) Income
+$
+( 3,956,062
+)
+$
+( 19,160,904
+)
+Comprehensive (Loss) Income
+( 3,956,062
+)
+( 19,160,904
+)
+Preferred dividends
+( 1,000,502
+)
+( 1,000,502
+)
+Comprehensive (Loss) Income attributable to cbdMD, Inc. common shareholders
+$
+( 4,956,564
+)
+$
+( 20,161,406
+)
+See Notes to Condensed Consolidated Financial Statements
+8
+Table of Contents
+cbdMD, INC.
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE
+three months ended December 31, 2022 and 2021
+(Unaudited)
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Cash flows from operating activities:
+Net Loss
+$
+( 3,956,062
+)
+$
+( 19,160,904
+)
+Adjustments to reconcile net loss to net cash used by operating activities:
+Stock based compensation
+79,446
+505,466
+Restricted stock expense
+43,449
+508,754
+Write off of prepaid assets due to termination of contractual obligation
+884,892
+-
+Marketing stock amortization
+-
+220,000
+Inventory and materials impairment
+-
+878,142
+Intangibles Amortization
+277,354
+-
+Depreciation
+100,112
+340,701
+Impairment of goodwill and other intangible assets
+-
+18,183,285
+Increase/(Decrease) in contingent liability
+( 61,000
+)
+( 5,950,000
+)
+Realized and unrealized loss (gain) on of Marketable and other securities
+-
+33,351
+Amortization of operating lease asset
+276,636
+318,017
+Changes in operating assets and liabilities:
+Accounts receivable
+549,111
+4,554
+Deposits
+105,898
+121,875
+Inventory
+( 434,695
+)
+( 723,483
+)
+Prepaid inventory
+340,799
+( 8,189
+)
+Prepaid expenses and other current assets
+( 226,670
+)
+( 303,391
+)
+Accounts payable and accrued expenses
+39,204
+( 127,254
+)
+Operating lease liability
+( 287,547
+)
+( 321,464
+)
+Deferred revenue / customer deposits
+203,341
+3,723
+Collection on discontinued operations accounts receivable
+1,375
+8,342
+Cash used by operating activities
+( 2,064,357
+)
+( 5,468,475
+)
+Cash flows from investing activities:
+Purchase of property and equipment
+( 177,370
+)
+( 231,030
+)
+Cash flows from investing activities
+( 177,370
+)
+( 231,030
+)
+Cash flows from financing activities:
+Note payable
+( 125,341
+)
+( 14,498
+)
+Preferred dividend distribution
+( 1,000,502
+)
+( 1,000,502
+)
+Cash flows from financing activities
+( 1,125,843
+)
+( 1,015,000
+)
+Net increase (decrease) in cash
+( 3,367,570
+)
+( 6,714,505
+)
+Cash and cash equivalents, beginning of period
+6,720,234
+26,411,424
+Cash and cash equivalents, end of period
+$
+3,352,664
+$
+19,696,919
+Supplemental Disclosures of Cash Flow Information:
+2022
+2021
+Cash Payments for:
+Interest expense
+$
+2,638
+$
+3,234
+Non-cash financial/investing activities:
+Issuance of Contingent earnout shares:
+$
+-
+$
+405,000
+See Notes to Condensed Consolidated Financial Statements
+9
+Table of Contents
+cbdMD, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' (DEFICIT) EQUITY
+FOR THE
+three months ended December 31, 2022
+(Unaudited)
+Additional
+Common Stock
+Preferred Stock
+Paid in
+Accumulated
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Total
+Balance, September 30, 2022
+60,665,595
+$
+60,666
+5,000,000
+5,000
+$
+178,782,328
+$
+( 147,423,563
+)
+$
+31,424,431
+Issuance of Common stock
+46,667
+46
+-
+-
+( 46
+)
+-
+-
+Issuance of options for share based compensation
+-
+-
+-
+-
+79,446
+-
+79,446
+Issuance of restricted stock for share based compensation
+-
+-
+-
+-
+43,449
+-
+43,448
+Preferred dividend
+-
+-
+-
+-
+-
+( 1,000,502
+)
+( 1,000,502
+)
+Net Loss
+-
+-
+-
+-
+-
+( 3,956,062
+)
+( 3,956,062
+)
+Balance, December 31, 2022
+60,712,262
+$
+60,712
+5,000,000
+5,000
+$
+178,905,176
+$
+( 152,380,127
+)
+$
+26,590,761
+See Notes to Condensed Consolidated Financial Statements
+10
+Table of Contents
+cbdMD, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' (DEFICIT) EQUITY
+FOR THE
+three months ended December 31, 2021
+(Unaudited)
+Additional
+Common Stock
+Preferred Stock
+Paid in
+Accumulated
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Total
+Balance, September 30, 2021
+57,783,340
+$
+57,783
+5,000,000
+$
+500
+$
+176,417,269
+$
+( 73,337,865
+)
+$
+103,142,187
+Issuance of Common Stock
+494,630
+495
+-
+-
+404,505
+-
+405,000
+Issuance of options for share based compensation
+-
+-
+-
+-
+505,466
+-
+505,466
+Issuance of restricted stock for share based compensation
+-
+-
+-
+-
+508,754
+-
+508,754
+Preferred dividend
+-
+-
+-
+-
+-
+( 1,000,502
+)
+( 1,000,502
+)
+Net Loss
+-
+-
+-
+-
+-
+( 19,160,904
+)
+( 19,160,904
+)
+Balance, December 31, 2021
+58,277,970
+$
+58,278
+5,000,000
+$
+500
+$
+177,835,994
+$
+( 93,499,271
+)
+$
+84,400,000
+See Notes to Condensed Consolidated Financial Statements
+11
+Table of Contents
+cbdMD, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS FOR THE
+three months ended December 31, 2022 and 2021 (unaudited)
+NOTE
+1
+–
+ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+cbdMD, Inc. (“cbdMD”, “we”, “us”, “our”, or the “Company”) is a North Carolina corporation formed on
+March 17, 2015
+as Level Beauty Group, Inc. In
+November 2016
+we changed the name of the Company to Level Brands, Inc. and on
+May 1, 2019
+we changed the name of our Company to cbdMD, Inc. We operate from our offices located in Charlotte, North Carolina. Our fiscal year end is established as
+September 30.
+On
+December 20, 2018 ( the “Closing Date”), the Company, and its newly organized wholly owned subsidiaries AcqCo, LLC and cbdMD LLC (“CBDI”), completed a
+two -step merger (the “Mergers”) with Cure Based Development, LLC, a Nevada limited liability company (“Cure Based Development”). Upon completion of the Mergers, CBDI survived and operates the prior business of Cure Based Development. As consideration for the Mergers in
+April
+of
+2019,
+the Company issued
+15,250,000
+shares of our common stock to the members of Cure Based Development, of which unrestricted voting rights to
+8,750,000
+of the shares vest over a
+five -year period of which
+2,187,500
+shares remain subject to a voting proxy agreement as of
+December
+31,2022,
+as well as to issue another
+15,250,000
+shares of our common stock (the “Earnout Shares”) in the future upon certain earnout goals (the “Earnout Rights”) being achieved within
+five
+years from the closing of the Mergers.
+The Company owns and operates the nationally recognized CBD (cannabidiol) brands cbdMD, Paw CBD and cbdMD Botanicals. The Company sources cannabinoids, including CBD, which are extracted from non-GMO hemp grown on farms in the United States. CBD is a natural substance produced from the hemp plant. The products manufactured by and for the Company comply with the
+2018
+Farm Bill - our full spectrum products contain trace amounts of THC under the
+0.3%
+by dry weight limit in the
+2018
+Farm Act while our broad spectrum products are non-psychoactive as they do
+not
+contain detectable levels of tetrahydrocannabinol (THC).
+In the
+third
+quarter of fiscal
+2019
+cbdMD launched its new CBD pet brand, Paw CBD. Following the initial positive response to the brand from retailers and consumers, cbdMD, Inc. organized Paw CBD, Inc. (“Paw CBD”) as a separate wholly owned subsidiary on
+October 22, 2019,
+to take advantage of its early mover status in the CBD animal health industry. On
+March 15, 2021
+cbdMD formed a new wholly owned subsidiary, cbdMD Therapeutics, LLC (“Therapeutics”) for the purposes of isolating and quantifying the Company’s ongoing investments in science related to its existing and future products, including research and development activities for therapeutic applications.  In
+July 2021,
+the Company acquired the assets of Twenty Two Capital, LLC (“Twenty Two”) d/b/a directcbdonline.com (“DCO”). This business operates a CBD marketplace through directcbdonline.com.
+The accompanying unaudited interim condensed consolidated financial statements of cbdMD have been prepared in accordance with accounting principles generally accepted in the United States of America (“US GAAP”) and the rules of the Securities and Exchange Commission (“SEC”) and should be read in conjunction with the audited consolidated financial statements and notes thereto contained in the
+2022
+10 -K. In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation of consolidated financial position and the consolidated results of operations for the interim periods presented have been reflected herein. Notes to the financial statements which would substantially duplicate the disclosure contained in the audited consolidated financial statements for fiscal
+2022
+as reported in the
+2022
+10 -K have been omitted.
+Principles of Consolidation
+The condensed consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries CBDI, Paw CBD and Therapeutics. All material intercompany transactions and balances have been eliminated in consolidation.
+The Company’s condensed consolidated financial statements have been prepared in accordance with US GAAP and requires management to make estimates and assumptions that affect the amounts of assets and liabilities and disclosures of contingent assets and liabilities as of the date of the financial statements and reported amounts of revenues and expenses during the periods presented. Estimates and assumptions are reviewed periodically, and the effects of revisions are reflected in the consolidated financial statements in the period they are determined to be necessary. Significant estimates made in the accompanying condensed consolidated financial statements include, but are
+not
+limited to, allowances for doubtful accounts, inventory valuation reserves, expected sales returns and allowances, certain assumptions related to the valuation of investments other securities, acquired intangibles and long-lived assets and the recoverability of intangible and long-lived assets and income taxes, including deferred tax valuation allowances and reserves for estimated tax liabilities, contingent liability and, hence consideration for the Mergers is a material estimate. Actual results could differ from these estimates.
+While the Company has been relatively successful in navigating the impact of COVID- 19,
+it had previously been affected by temporary manufacturing closures, changes in product distribution and employment and compensation adjustments. There are also ongoing related risks to the Company’s business depending on any resurgence of the pandemic. The Company continues to monitor macroeconomic conditions to remain flexible and to optimize and evolve its business as appropriate.
+Cash and Cash Equivalents
+For financial statements purposes, the Company considers all highly liquid investments with a maturity of less than
+three
+months when purchased to be cash equivalents.
+12
+Table of Contents
+Accounts Receivable
+Accounts receivable are stated at cost less an allowance for doubtful accounts, if applicable. Credit is extended to customers after an evaluation of the customer’s financial condition, and generally collateral is
+not
+required as a condition of credit extension. Management’s determination of the allowance for doubtful accounts is based on an evaluation of the receivables, past experience, current economic conditions, and other risks inherent in the receivables portfolio. As of
+December 31, 2022
+and
+September 30, 2022 , we had an allowance for doubtful accounts of $ 2,047
+and $ 36,980 , respectively.
+Merchant Receivable and Reserve
+The Company primarily sells its products through the internet and has an arrangement to process customer payments with
+third -party payment processors and negotiate the fee based on the market. The arrangement with the payment processors requires that the Company pay a fee between
+2.6 % and
+5.0 % of the transaction amounts processed. Pursuant to this agreement, there can be a waiting period between
+2
+to
+5
+days prior to reimbursement to the Company, as well as a calculated reserve which some payment processors hold back. Fees and reserves can change periodically with notice from the processors. At
+December 31, 2022  and
+September 30, 2022,
+the receivable from payment processors included approximately $ 265,477
+and $ 273,451 , respectively, for the waiting period amount and is recorded as accounts receivable in the accompanying condensed consolidated balance sheet.
+Inventory
+Inventory is stated at the lower of cost or net realizable value with cost being determined on a weighted average basis. The cost of inventory includes product cost, freight-in, and production fill and labor (portions of which we outsource to
+third
+party manufacturers). Write-offs of potentially slow moving or damaged inventory are recorded based on management’s analysis of inventory levels, forecasted future sales volume and pricing and through specific identification of obsolete or damaged products. We assess inventory quarterly for slow moving products and potential impairments and at a minimum perform a physical inventory count annually near fiscal year end.
+Property and Equipment
+Property and equipment items are stated at cost less accumulated depreciation. Expenditures for routine maintenance and repairs are charged to operations as incurred. Depreciation is charged to expense over the estimated useful lives of the assets using the straight-line method. Generally, the useful lives are
+five
+years for manufacturing equipment and automobiles and
+three
+years for software, computer, and furniture and equipment. The useful life for leasehold improvements are over the term of the lease, or the remaining economic life of the asset, whichever is shorter. The cost and accumulated depreciation of property are eliminated from the accounts upon disposal, and any resulting gain or loss is included in the consolidated statements of operations for the applicable period. Long-lived assets held and used by the Company are reviewed for impairment whenever changes in circumstance indicate the carrying value of an asset
+may
+not
+be recoverable.
+Fair Value Accounting
+The Company utilizes accounting standards for fair value, which include the definition of fair value, the framework for measuring fair value, and disclosures about fair value measurements. Fair value is a market-based measurement,
+not
+an entity-specific measurement. Therefore, a fair value measurement should be determined based on the assumptions that market participants would use in pricing the asset or liability. As a basis for considering market participant assumptions in fair value measurements, fair value accounting standards establish a fair value hierarchy that distinguishes between market participant assumptions based on market data obtained from sources independent of the reporting entity (observable inputs that are classified within Levels
+1
+and
+2
+of the hierarchy) and the reporting entity’s own assumptions about market participant assumptions (unobservable inputs classified within Level
+3
+of the hierarchy).
+Level
+1
+inputs utilize quoted prices in active markets for identical assets or liabilities that the Company has the ability to access. Level
+2
+inputs are inputs other than quoted prices included in Level
+1
+that are directly or indirectly observable for the asset or liability. Level
+2
+inputs
+may
+include quoted prices for similar assets and liabilities in active markets, as well as inputs that are observable for the asset or liability. Level
+3
+inputs are unobservable inputs for the asset or liability, which are based on an entity’s own assumptions, as there is little, if any, observable market activity. In instances where the fair value measurement is based on inputs from different levels of the fair value hierarchy, the level in the fair value hierarchy within which the entire fair value measurement falls is based on the lowest level input that is significant to the fair value measurement in its entirety. The Company’s assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the asset or liability.
+When the Company records an investment in marketable securities the carrying value is assigned at fair value. Any changes in fair value for marketable securities during a given period will be recorded as an unrealized gain or loss in the consolidated statement of operations. For investment other securities without a readily determinable fair value, the Company
+may
+elect to estimate its fair value at cost less impairment plus or minus changes resulting from observable price changes.
+13
+Table of Contents
+Intangible Assets
+The Company’s intangible assets consist of  definite-lived trademarks and other intellectual property. Prior to
+December 31, 2021,
+the Company employed the non-amortization approach to account for purchased intangible assets having indefinite lives. Under the non-amortization approach, intangible assets having indefinite lives are
+not
+amortized into the results of operations, but instead are reviewed annually or more frequently if events or changes in circumstances indicate that the assets might be impaired, to assess whether their fair value exceeds their carrying value. The Company now accounts for its trademarks in accordance with Accounting Standards Codification (ASC) Topic
+360,
+Property, Plant and Equipment. The Company began amortizing its trademarks over
+20
+years beginning
+January 1, 2022
+and will perform impairment tests as prescribed by ASC
+360,
+which states that impairment testing should be completed whenever events or changes in circumstances indicate that the asset’s carrying value
+may
+not
+be recoverable. If there are indications that the asset’s carrying value
+may
+not
+be recoverable, there are
+two
+further steps involved in long-lived asset impairment testing. Step I of the impairment test, as per ASC
+360,
+involves estimating the Recoverable Amount of the Asset Group and determining the potential for impairment. Step II of the impairment test, as per ASC
+360,
+if necessary, involves quantifying the fair value of the asset group.
+Contingent Liability
+A significant component of the purchase price consideration for the Company’s acquisition of Cure Based Development includes a fixed number of future shares to be issued as well as a variable number of future shares to be issued based upon the post-acquisition entity reaching certain specified future revenue targets, as further described in Note
+6.
+The Company made a determination of the fair value of the contingent liabilities as part of the valuation of the assets acquired and liabilities assumed in the business combination.
+Revenue Recognition
+Under ASC
+606,
+Revenue from Contracts with Customers,
+the Company recognizes revenues when its customer obtains control of promised goods or services, in an amount that reflects the consideration which it expects to receive in exchange for those goods. The Company recognizes revenues following the
+five -step model prescribed under ASC
+606:
+(i) identify contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenues when (or as) we satisfy the performance obligation.
+14
+Table of Contents
+Performance Obligations
+A performance obligation is a promise in a contract to transfer a distinct good or service to a customer. The Company meets that obligation when it has shipped products which have been ordered to the customer. The Company has reviewed its various revenue streams for its other contracts under the
+five -step approach. At
+December 31, 2022 , the Company has
+no
+unfulfilled performance obligations.
+Allocation of Transaction Price
+In the Company’s current business model, it does
+not
+have contracts with customers which have multiple elements as revenue is driven purely by online product sales or purchase order-based product sales.
+Revenue Recognition
+The Company records revenue from the sale of its products when its customer obtains control, which is upon shipping (and is typically FOB shipping) which is when our performance obligation is met. Net sales are comprised of gross revenues less product returns, trade discounts and customer allowances, which include costs associated with off-invoice mark-downs and other price reductions, as well as trade promotions. These incentive costs are recognized at the later of the date on which the Company recognizes the related revenue or the date on which the Company offers the incentive. The Company currently offers a
+60 -day, money back guarantee, a loyalty program as well as a subscription program.
+Disaggregated Revenue
+The Company’s product revenue is generated primarily through
+two
+sales channels, E-commerce sales (formerly referred to as consumer sales) and wholesale sales. The Company believes that these categories appropriately reflect how the nature, amount, timing and uncertainty of revenue and cash flows are impacted by economic factors.
+A description of the Company’s principal revenue generating activities are as follows:
+-
+E-commerce sales - consumer products sold through the Company’s online and telephonic channels. Revenue is recognized when control of the merchandise is transferred to the customer, which generally occurs upon shipment. Payment is typically due prior to the date of shipment; and
+-
+Wholesale sales - products sold to the Company’s wholesale customers for subsequent resale. Revenue is recognized when control of the goods is transferred to the customer, in accordance with the terms of the applicable agreement. Payment terms vary and can typically be
+30
+days from the date control over the product is transferred to the customer.
+Contract liabilities represent unearned revenues and are presented as deferred revenue or customer deposits on the condensed consolidated balance sheets.
+Other than account receivable, Company has
+no
+material contract assets nor contract liabilities at
+December 31, 2022 .
+15
+Table of Contents
+The following tables represent a disaggregation of revenue by sales channel:
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+% of total
+2021
+% of total
+E-commerce sales
+$ 4,906,205       80.6 %   $ 7,116,087       76.3 %
+Wholesale sales
+1,179,013       19.4 %     2,205,735       23.7 %
+Total Net Sales
+$ 6,085,218       100.0 %   $ 9,321,822       100.0 %
+Cost of Sales
+The Company’s cost of sales includes costs associated with distribution, fill and labor expense, components,
+third -party providers, and outbound freight for the Company’s products sales, and includes labor for its service sales. For the Company’s product sales, cost of sales also includes the cost of refurbishing products returned by customers that will be offered for resale, if any, and the cost of inventory write-downs associated with adjustments of held inventories to their net realizable value. These expenses are reflected in the Company’s consolidated statements of operations when the product is sold and net sales revenues are recognized or, in the case of inventory write-downs, when circumstances indicate that the carrying value of inventories is in excess of their net realizable value.
+Income Taxes
+The Company is a North Carolina corporation that is treated as a corporation for federal and state income tax purposes. As of
+October 1, 2019,
+CBDI and Paw CBD were wholly owned subsidiaries and are disregarded entities for tax purposes and their entire share of taxable income or loss is included in the tax return of the Company and as of
+March 15, 2021,
+Therapeutics is also a wholly owned subsidiary and is a disregarded entity for tax purposes and its entire share of taxable income or loss is included in the tax return of the Company.
+The Company accounts for income taxes pursuant to the provisions of the
+Accounting for Income Taxes
+topic of ASC
+740
+which requires, among other things, an asset and liability approach to calculating deferred income taxes. The asset and liability approach requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the carrying amounts and the tax bases of assets and liabilities. The Company uses the inside basis approach to determine deferred tax assets and liabilities associated with its investment in a consolidated pass-through entity. A valuation allowance is provided to offset any net deferred tax assets for which management believes it is more likely than
+not
+that the net deferred asset will
+not
+be realized.
+Concentrations
+Financial instruments that potentially expose the Company to concentrations of credit risk consist primarily of cash and cash equivalents, accounts receivable, and securities.
+The Company places its cash and cash equivalents on deposit with financial institutions in the United States. The Federal Deposit Insurance Corporation (“FDIC”) covers $ 250,000
+for substantially all depository accounts. The Company from time to time
+may
+have amounts on deposit in excess of the insured limits. The Company had a $ 2.7
+million uninsured balance at
+December 31, 2022
+and a $ 5.8
+million uninsured balance at
+September 30, 2022 .
+Concentration of credit risk with respect to receivables is principally limited to trade receivables with corporate customers that meet specific credit policies. Management considers these customer receivables to represent normal business risk. The Company did
+not
+have any customers that represented a significant amount of our sales for the
+three
+months ended
+December 31, 2022 .
+Stock-Based Compensation
+The Company accounts for its stock compensation under the ASC
+718 - 10 - 30,
+Compensation - Stock Compensation
+using the fair value-based method. Under this method, compensation cost is measured at the grant date based on the value of the award and is recognized over the service period, which is usually the vesting period. This guidance establishes standards for the accounting for transactions in which an entity exchanges its equity instruments for goods or services. It also addresses transactions in which an entity incurs liabilities in exchange for goods or services that are based on the fair value of the entity’s equity instruments or that
+may
+be settled by the issuance of those equity instruments.
+The Company uses the Black-Scholes model for measuring the fair value of options and warrants. The stock based fair value compensation is determined as of the date of the grant or the date at which the performance of the services is completed (measurement date) and is recognized over the vesting periods. The Company recognizes forfeitures when they occur.
+16
+Table of Contents
+Earnings (Loss) Per Share
+The Company uses ASC
+260 - 10,
+Earnings Per Share for calculating the basic and diluted income (loss) per share. The Company computes basic income (loss) per share by dividing net income (loss) and net income (loss) attributable to common shareholders, after deducting preferred stock dividends, by the weighted average number of common shares outstanding. Common equivalent shares are excluded from the computation of net loss per share if their effect is anti-dilutive.
+Liquidity and Going Concern Considerations
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. The Company experienced a loss of $ 3,956,062
+for the
+three
+months ended
+December 31, 2022,
+resulting in working capital of $ 5,977,801 .
+While the Company is taking strong action, believes in the viability of its strategy and path to profitability, and in its ability to raise additional funds, there can be
+no
+assurances to that effect.  The Company’s working capital position
+may
+not
+be sufficient to support the Company’s daily operations for the
+twelve
+months subsequent to the issuance of these quarterly financial statements. The Company’s ability to continue as a going concern is dependent upon its ability to improve profitability and the ability to acquire additional funding. These and other factors raise substantial doubt about the Company’s ability to continue as a going concern within
+twelve
+months after the date that the quarterly financial statements are issued. These financial statements do
+not
+include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classification of liabilities that
+may
+result in the Company
+not
+being able to continue as a going concern.
+New Accounting Standards
+None.
+NOTE
+2
+–
+MARKETABLE SECURITIES AND INVESTMENT OTHER SECURITIES
+The Company has, from time to time, entered into contracts where a portion of the consideration provided by the customer in exchange for the Company’s services was common stock, options or warrants (an equity position). In these situations, upon invoicing the customer for the stock or other instruments, the Company recorded the receivable as accounts receivable other, and used the value of the stock or other instrument upon invoicing to determine the value. If there is insufficient data to support the valuation of the security directly, the Company will value it, and the underlying revenue, on the estimated fair value of the services provided. In determining fair value of marketable securities and investment other securities, the Company utilizes valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs to the extent possible and consider counterparty credit risk in our assessment of fair value. The Company determines the fair value of marketable securities and investment other securities based on assumptions that market participants would use in pricing an asset or liability in the principal or most advantageous market. When considering market participant assumptions in fair value measurements, the following fair value hierarchy distinguishes between observable and unobservable inputs, which are categorized in
+one
+of the following levels:
+●
+Level
+1
+Inputs: Unadjusted quoted prices in active markets for identical assets or liabilities accessible to the reporting entity at the measurement date.
+●
+Level
+2
+Inputs: Other than quoted prices included in Level
+1
+inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the asset or liability.
+●
+Level
+3
+Inputs: Unobservable inputs for the asset or liability used to measure fair value to the extent that observable inputs are
+not
+available, thereby allowing for situations in which there is little, if any, market activity for the asset or liability at the measurement date.
+Where an accounts receivable other is settled with the receipt of the common stock or other instrument, the common stock or other instrument was classified as an asset on the consolidated balance sheet as either an investment marketable security (when the customer is a public entity) or as an investment other security (when the customer is a privately held entity).
+For the
+three
+months ended
+December 31, 2022
+and
+2021
+the Company recorded $ 0  and $( 33,350 ) respectively, of realized and unrealized gain (loss) on marketable and other securities, including impairments. The realized loss in the  first
+quarter of fiscal
+2021
+was a result of marking the Company’s holdings of
+1,042,193
+shares of Isodiol International, Inc. (“Isodiol”) down to
+zero
+after Isodiol was delisted from the TSX during
+December 2021.
+In
+September 2020,
+the Company purchased a membership interest in Adara Sponsor LLC for $ 250,000 , which along with proceeds from other investors was utilized as an investment in Adara Acquisition Corporation (“Adara”), a newly organized blank check company formed for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or similar business combination (a “SPAC”). On
+January 13, 2021,
+the Company executed
+second
+tranche subscriptions agreements and funded the remaining $ 750,000
+commitment into Adara Sponsor, LLC. Certain affiliates of the Company have also invested in Adara Sponsor, LLC. On
+February 9, 2021,
+the public shares of Adara began trading on the NYSE. Commencing
+March 24, 2021,
+holders of the
+11,500,000
+units sold in the Adara’s initial public offering could elect to separately trade shares of the Adara Class A common stock and warrants included in the units. The shares of Class A common stock and warrants that were separated now trade on NYSE American LLC under the symbols “ADRA” and “ADRA WS”, respectively. On
+December 31, 2022 , the Company’s implied, indirect ownership in Adara represented
+4.4 % ( 633,988
+shares) and
+10.1 % ( 1
+million) of the warrants. As of
+December 31, 2022 , ADRA stock closed at $ 10.18
+while ADRA WS closed at $ 0.07 .  On
+June 22, 2022,
+the Company executed a transfer agreement with affiliates of Adara Sponsor, LLC whereby the Company's interest would be transferred to the affiliates of Adara Sponsor, LLC upon Adara's acquisition of Allliance Entertainment, Inc. (the "Target") in consideration of the Company's original purchase price. As a result of the SEC litigation against our former CEO, the Target provided a demand to Adara that it required cbdMD and Mr. Sumichrast to dispose of our interests in Adara Sponsor, LLC as a condition of proceeding with any business combination. On
+June 23, 2022,
+Adara announced it had entered into business combination agreements with the Target subject to a number of conditions to closing, including shareholder SEC approval. In
+December 2022,
+Adara filed its definitive proxy to approve the acquisition and query shareholders redemption.  There are
+no
+assurances the business combination will be completed. If the business combination is
+not
+completed, Adara faces a potential redemption from its shareholders during
+February 2023.
+Should this business combination
+not
+be effectuated, the Company risks losing it's $ 1
+million investment in Adara Sponsor LLC.
+Adara’s focus of targets to pursue for the business combination are expected to be in the consumer products industry including business in the health and wellness, e-commerce, discretionary spending, information technology sectors and related channels of distribution.
+On
+April 7, 2022,
+CBD Industries, LLC entered into an asset sale agreement to sell substantially all its manufacturing assets to a subsidiary of Steady State, LLC ("Steady State"). The equipment sale is initially valued at approximately $ 1.8
+million for accounting purposes, the sale price consisting of products to be provided to the Company under the manufacturing and supply agreement and $ 1.4
+million of which the Company invested into Steady State in the form of an equity investment consistent with the terms of Steady State's recently completed series C financing. The Company has classified this investment as Level
+3
+for fair value measurement purposes as there are
+no
+observable inputs and has included in non-current assets on the accompanying condensed consolidated balance sheets as the company intends to hold this investment for longer than a year.
+17
+Table of Contents
+In valuing both investments, the Company used the value paid, which was the price offered to all
+third -party investors.
+NOTE
+3
+- INVENTORY
+Inventory at
+December 31, 2022
+and
+September 30, 2022
+consists of the following:
+December 31,
+September 30,
+2022
+2022
+Finished Goods
+$ 3,374,260     $ 3,198,488
+Inventory Components
+1,373,933       1,213,724
+Inventory Reserve
+( 57,584 )     ( 156,298 )
+Inventory prepaid
+170,659       511,459
+Total Inventory
+$ 4,861,268     $ 4,767,373
+Abnormal amounts of idle facility expense, freight, handling costs, scrap and wasted material (spoilage) are expensed in the period they are in incurred and
+no
+material expenses related to these items occurred in the
+three
+months ended
+December 31, 2022 . At the end of the quarter ended
+December 31, 2021,
+the Company wrote down inventory of $ 878,142 , primarily related to a rationalization of a number of product lines and stock keeping units ("SKUs") at the end of the quarter, as we are working to streamline our offering to higher velocity products and eliminate slow-moving and aging SKUs.
+NOTE
+4
+–
+PROPERTY AND EQUIPMENT
+Major classes of property and equipment at
+December 31, 2022
+and
+September 30, 2022
+consist of the following:
+December 31,
+September 30,
+2022
+2022
+Computers, furniture and equipment
+$ 1,272,596     $ 1,095,228
+Manufacturing equipment
+284,275       284,275
+Leasehold improvements
+487,081       487,081
+Automobiles
+11,087       11,087
+2,055,039       1,877,671
+Less accumulated depreciation
+( 1,154,472 )     ( 1,054,361 )
+Property and equipment, net
+$ 900,567     $ 823,310
+Depreciation expense related to property and equipment was $ 100,112
+and $ 288,384
+for the
+three
+months ended
+December 31, 2022
+and
+2021 , respectively.
+18
+Table of Contents
+NOTE
+5
+–
+GOODWILL AND INTANGIBLE ASSETS
+Goodwill
+The Company had goodwill at
+December 31, 2021
+was $ 42,772,685 . The Company impaired goodwill in subsequent reporting periods of fiscal
+2022  and goodwill was fully impaired by
+September 30, 2022.
+Intangible Assets
+On
+December 20, 2018,
+the Company completed the Mergers with Cure Based Development and acquired certain assets, including the trademark “cbdMD” and its variants and certain other intellectual property. The trademark is the cornerstone of this subsidiary and is key as the Company creates and distributes products and continue to build this brand. The Company believed the trademark did
+not
+have limits on the time it would contribute to the generation of cash flows and therefore identified these as indefinite lived intangible assets.
+In
+July 2021,
+the Company completed the acquisition of DCO and acquired certain assets, including the trade name, domains and certain other intellectual property. The tradename will be used in marketing and branding of the website. The Company believes the trade name has a
+10
+year life. In addition to the trade name, DCO has a technology platform used to market to its customer and the Company believes it has a
+4
+year life.
+As of
+December 31, 2021,
+the Company re-assessed the “cbdMD” and “HempMD” trademarks and determined that the trademarks should be classified as definite lived intangible assets with useful lives of
+20
+years versus indefinite lived intangible assets. The Company used a variety of factors in determining the reclassifications and have made the reclassifications following guidance prescribed by ASC
+350,
+which states that when a reporting entity subsequently determines that in indefinite-lived intangible asset has a finite useful life, the reporting entity should test the asset for impairment as an indefinite lived asset prior to commencing amortization. As of
+December 31, 2021,
+the Company prepared a tradename impairment analysis in accordance with ASC
+350
+and determined that the “cbdMD” trademark was impaired by $ 4,285,000 . The Company has recorded this impairment charge as a reduction in the carrying value of the intangible assets on its condensed consolidated balance sheets with the corresponding impairment expense recorded on its condensed consolidated statements of operations. The Company began amortizing the trademarks over their useful lives of
+20
+years as of
+January 2022.
+Intangible assets as of
+December 31, 2022
+and
+September 30, 2022
+consisted of the following:
+December 31,
+September 30,
+2022
+2022
+Trademark related to cbdMD
+$ 17,300,000     $ 21,585,000
+Trademark for HempMD
+50,000       50,000
+Technology Relief from Royalty related to DirectCBDOnline.com
+667,844       667,844
+Tradename related to DirectCBDOnline.com
+749,567       749,567
+Impairment of definite live intangible assets:
+( 4,285,000 )
+Amortization of definite lived intangible assets:
+( 1,210,217 )     ( 932,862 )
+Total
+$ 17,557,194     $ 17,834,549
+Amortization﻿ expense related to definite lived intangible assets was $ 277,354
+and $ 100,799  for the
+three
+months ended
+December 31, 2022
+and
+2021 , respectively.
+No
+triggering events were identified at
+December 31, 2022
+that suggested a quantitative impairment analysis under ASC
+360
+was necessary.
+19
+Table of Contents
+NOTE
+6
+–
+CONTINGENT CONSIDERATION
+As consideration for the Mergers, described in Note
+1,
+the Company had a contractual obligation to issue
+15,250,000
+shares of its common stock, after approval by its shareholders, to the members of Cure Based Development, issued in
+two
+tranches
+6,500,000
+shares and
+8,750,000
+shares, both of which are subject to leak out provisions, and the unrestricted voting rights to
+8,750,000
+tranche of shares will also vest over a
+five
+year period and are subject to a voting proxy agreement. The Merger Agreement also provides that an additional
+15,250,000
+Earnout Shares can be issued upon the satisfaction of certain aggregate net revenue criteria by cbdMD within
+60
+months following the Closing Date.
+The contractual obligations and earn out provision are accounted for as a contingent liability and fair value is determined using Level
+3
+inputs, as estimating the fair value of these contingent liabilities require the use of significant and subjective inputs that
+may
+and are likely to change over the duration of the liabilities with related changes in internal and external market factors.
+The initial
+two
+tranches totaling
+15,250,000
+shares were valued using a market approach method and included the use of the following inputs: share price upon contractual obligation, discount for lack of marketability to address leak out restrictions, and probability of shareholder disapproval. In addition, the
+8,750,000
+shares in the
+second
+tranche also included an input for a discount for lack of voting rights during the vest periods.
+The Merger Agreement also provides that an additional
+15,250,000
+Earnout Shares would be issued as part of the consideration for the Mergers, upon the satisfaction of certain aggregate net revenue criteria by cbdMD within
+60
+months following the Closing Date as follows, as measured at
+four
+intervals (each a “marking period”): the completion of
+12,
+24,
+42,
+and
+59
+calendar months from the Closing Date, and based upon the ratios set forth below:
+Aggregate Net Revenues
+Shares Issued/ Each $ of Aggregate Net Revenue Ratio
+$ 1
+- $ 20,000,000
+.190625
+$ 20,000,001
+- $ 60,000,000
+.0953125
+$ 60,000,001
+- $ 140,000,000
+.04765625
+$ 140,000,001
+- $ 300,000,000
+.023828125
+For clarification purposes, the Aggregate Net Revenues during a Marking Period shall be multiplied by the applicable Shares Issued/Each $ of Aggregate Net Revenue Ratio, minus, the number of shares issued as a result of Aggregate Net Revenues during the prior marking periods.
+The
+third
+marking period was originally an
+18
+month period commencing on
+January 1, 2021
+and ending on
+June 30, 2022 ( the “Third Marking Period End Date”), after which time the determination of the issuance of any remaining Earnout Shares would be made pursuant to the terms of the Merger Agreement. On
+March 31, 2021
+the Company entered into Addendum
+No.
+1
+to the Merger Agreement (“Addendum
+No.
+1” ) with the holders of the remaining Earnout Rights which amended the measurement periods within the
+third
+marking period to change the determination of the aggregate net revenues within the
+third
+marking period to a quarterly basis for each of the
+six
+fiscal quarters within the
+third
+marking period, beginning with the quarter ended
+March 31, 2021,
+instead of following Third Marking Period End Date. This change in the measurement date, however, has
+no
+effect on the number of remaining Earnout Shares issuable under the Earnout Rights and
+no
+effect on the earnout targets; Addendum
+No.
+1
+simply changes the physical issuance date(s) of the remaining Earnout Shares, if in fact, such shares are earned pursuant to the terms of the Merger Agreement. Addendum
+No.
+1
+did
+not
+change any of the terms of the
+fourth
+marking period (as that term is defined in the Merger Agreement). This change did
+not
+impact the fair value of the contingent liability. The value of the contingent liability was
+$ 215,000  and $ 276,000
+at
+December 31, 2022
+and
+September 30, 2022  respectively.
+The
+fourth
+marketing period began on
+July 1, 2022
+and ends in
+November 2023.
+At
+December 31, 2022,
+up to
+3,928,797
+remaining Earnout Shares are subject to issuance by the Company.  Based on the remaining share ratios, the Company would have to generate over $ 162
+million in revenue during the
+fourth
+marking period to issue the full balance of the shares.
+20
+Table of Contents
+As part of the Twenty Two acquisition in
+July 2021,
+the Company has a contractual obligation to issue up to an additional
+200,000
+shares of its common stock as additional consideration, dependent upon the acquisition entity meeting future revenue targets. Under US GAAP the Company is required to record a non-cash contingent liability associated with the Twenty Two Earnout Shares and at the date of the acquisition, recorded a total contingent liability of $ 488,561 . Under US GAAP the Company is obligated to reassess the obligations associated with the Twenty Two Earnout Shares on a quarterly basis and, in the event its estimate of the fair value of the contingent consideration changes, the Company will record increases or decreases in the fair value as an adjustment to earnings. In particular, changes in the market price of the Company’s common stock, which is
+one
+of the inputs used in determining the amount of the non-cash contingent liability, will result in increases or decreases in this liability and positively or negatively impact the Company’s net loss or profit for the period. At
+September 30, 2022 , the Company recorded a decrease in value of the contingent liability of
+$ 73,561
+rel ated to a decrease in the market price of our common stock, which adjusted the total contingent liability related to the Twenty Two Earnout Shares to $ 416,000 . At
+December 31, 2021,
+the Company recorded a decrease in value of the contingent liability of $ 255,000
+related to a decrease in the market price of our common stock, which adjusted the total contingent liability related to the Twenty Two Earnout Shares to $ 161,000 .  At
+June 30, 2022,
+the Company recorded a decrease in value of the contingent liability of $ 13,000
+related to a decrease in the market price of our common stock, which adjusted the total contingent liability related to the Twenty Two Earnout Shares to $ 0 . As of
+September 2022
+the measurement period ended and there is
+no
+further obligation with respect to this earnout.
+In
+April 2022,
+the Company entered into a contractual obligation to issue up to
+100,000
+options to an employee.  The shares are subject to meeting a minimum direct to consumer revenue of $ 12.0
+million for the
+December 2022
+calendar quarter. This requirement was
+not
+satisfied and
+no
+further obligation exists as of
+December 31, 2022.
+In
+December 2022,
+the Company entered into a contractual obligation to issue up to
+25,000
+options and
+25,000
+RSUs to an employee.  The shares are subject to meeting a minimum direct to consumer revenue of $ 45
+million for any
+four
+consecutive quarters before
+December 31, 2024.
+Based on the present revenue run rate, the Company has valued these obligations at $ 0
+for
+December 31, 2022.
+NOTE
+7
+–
+RELATED PARTY TRANSACTIONS
+As noted in Note
+2,
+the Company, and a number of its affiliates have invested into Adara through Adara Sponsor. As mentioned in Note
+6,
+a counterparty in the earnout arrangement is a related party.
+NOTE
+8
+–
+SHAREHOLDERS ’
+EQUITY
+Preferred Stock – The Company is authorized to issue
+50,000,000
+shares of preferred stock, par value $ 0.001
+per share. In
+October 2019,
+the Company designated
+5,000,000
+of these shares as
+8.0 % Series A Cumulative Convertible Preferred Stock. Our
+8.0%
+Series A Cumulative Convertible Preferred Stock ranks senior to our common stock for liquidation or dividend provisions and holders are entitled to receive cumulative cash dividends at an annual rate of
+8.0%
+payable monthly in arrears for the prior month. The Company reviewed ASC
+480
+–
+Distinguishing Liabilities from Equity
+in order to determine the appropriate accounting treatment for the preferred stock and determined that the preferred stock should be treated as equity. There were
+5,000,000
+shares of
+8.0 % Series A Cumulative Convertible Preferred Stock issued and outstanding at
+December 31, 2022
+and
+September 30, 2022 .
+The total amount of preferred dividends declared and paid were
+$ 1,000,502  and $ 1,000,502 , re spectively, for the
+three
+months ended
+December 31, 2022
+and
+2021 .
+Common Stock – The Company is authorized to issue
+150,000,000
+shares of common stock, par value $ 0.001
+per share. There were
+60,712,262
+and
+60,665,595
+shares of common stock issued and outstanding at
+December 31, 2022
+and
+September 30, 2022 , respectively.
+Preferred stock transactions:
+The Company had
+no
+preferred stock transactions in the
+three
+months ended
+December 31, 2022  and
+2021.
+Common stock transactions:
+In the
+three
+months ended
+December 31, 2022 :
+In
+December 2022,
+the Company issued
+50,000
+shares of restricted common stock to an employee.
+25,000
+shares vested upon issuance and the Company recorded a total expense of $ 6,250 .
+25,000
+shares vest based on meeting certain direct to consumer revenue performance hurdles prior to
+December 2024.
+In the
+three
+months ended
+December 31, 2021:
+On
+December 28, 2021,
+the Company issued
+466,713
+shares of restricted common stock in connection with the Earnout Shares as referenced in Note
+6.
+In
+October 2021,
+the Company issued
+25,000
+shares of restricted common stock to an executive officer of the Company, subject to vesting on
+January 1, 2022.
+21
+Table of Contents
+Stock option transactions:
+In the
+three
+months ended
+December 31, 2022 :
+In
+December 2022,
+the Company issued
+100,000
+options to an employee.
+75,000
+options vest equally at each anniversary for the next
+3
+years, have a strike price of $ 0.25
+and a
+five
+year term.  The total expense of these options is $ 13,150
+and will be amortized over the term of the vesting periods.
+25,000
+options vest based on meeting certain direct to consumer revenue requirements by the end of
+December 2024.
+In the
+three
+months ended
+December 31, 2021:
+In
+October 2021,
+the Company granted an aggregate of
+75,000
+common stock options to an executive officer. These options vest on
+October 1, 2022.
+The Company has recorded an expense for these options of $ 23,025  for the
+three
+months ended
+December 31, 2021.
+These options were fully vested as of
+September
+30,2022.
+The expected volatility rate was estimated based on a weighted average mix of the volatilities of the Company and a peer group of companies in similar industries. The expected term used was the full term of the contract for the issuances. The risk-free interest rate for periods within the contractual life of the option is based on U.S. Treasury securities. Management will continue to assess the assumptions and methodologies used to calculate estimated fair value of share-based compensation. Circumstances
+may
+change and additional data
+may
+become available over time, which could result in changes to these assumptions and methodologies, and thereby materially impact our fair value determination.
+The following table summarizes the inputs used for the Black-Scholes pricing model on the options issued in the
+three
+months ended
+December 31, 2022
+and
+2021 :
+December 31,
+December 31,
+2022
+2021
+Weighted average exercise price
+0.23 3 - 0.25 25
+$ 3.91
+Risk free interest rate
+3.93 % -
+4.71 %       0.16 % -
+0.85 %
+Volatility
+106.51 %
+100.72%
+-
+105.43 %
+Expected term (in years)
+2.5
+-
+4       2.5
+-
+6.2
+Dividend yield
+None
+None
+22
+Table of Contents
+Warrant Transactions:
+The Company has
+no
+warrant transactions during the
+three
+months ended
+December 31, 2022 .
+NOTE
+9
+–
+STOCK BASED COMPENSATION
+Equity Compensation Plan – On
+June 2, 2015,
+the Board of Directors of the Company approved the
+2015
+Equity Compensation Plan ( “2015
+Plan”). The
+2015
+Plan initially made
+1,175,000
+common stock shares, either unissued or reacquired by the Company, available for awards of options, restricted stocks, other stock grants, or any combination thereof. The number of shares of common stock available for issuance under the
+2015
+Plan shall automatically increase on the
+first
+trading day of
+October
+each calendar year during the term of the
+2015
+Plan, beginning with calendar year
+2016,
+by an amount equal to
+one
+percent ( 1 %) of the total number of shares of common stock outstanding on the last trading day in
+September
+of the immediately preceding fiscal year, but in
+no
+event shall any such annual increase exceed
+100,000
+shares of common stock. On
+April 19, 2019,
+shareholders approved an amendment to the
+2015
+Plan and increased the number of shares available for issuance under the
+2015
+Plan to
+2,000,000
+and retained the annual evergreen increase provision of the plan.
+On
+January 8, 2021,
+the Company’s Board of Directors approved the
+2021
+Equity Compensation Plan (the
+“2021
+Plan”) and it was subsequently approved by its shareholders at its annual meeting held on
+March 12, 2021.
+The purpose of the
+2021
+Plan is to advance the interests of the Company by providing an incentive to attract, retain and motivate highly qualified and competent persons who are important to it and upon whose efforts and judgment the success of the Company is largely dependent. The
+2021
+Plan made
+5,000,000
+common shares, either unissued or reacquired by the Company, available for awards of options, restricted stocks, other stock grants, or any combination thereof. The
+2021
+Plan also contains an “evergreen formula” pursuant to which the number of shares of common stock available for issuance under the
+2021
+Plan will automatically increase on
+October 1
+of each calendar year during the term of the
+2021
+Plan, beginning with calendar year
+2022,
+by an amount equal to
+1.0 % of the total number of shares of common stock outstanding on
+September 30
+of such calendar year, up to a maximum of
+250,000
+shares.
+The Company accounts for stock-based compensation using the provisions of ASC
+718.
+ASC
+718
+codification requires companies to recognize the fair value of stock-based compensation expense in the financial statements based on the grant date fair value of the options. All options are approved by the Compensation, Corporate Governance and Nominating Committee of the Board of Directors. Restricted stock awards that vest in accordance with service conditions are amortized over their applicable vesting period using the straight-line method. The fair value of the Company’s stock option awards or modifications is estimated at the date of grant using the Black-Scholes option pricing model.
+Eligible recipients include employees, officers, directors and consultants who are deemed to have rendered or to be able to render significant services to the Company or its subsidiaries and who are deemed to have contributed or to have the potential to contribute to the success of the Company. Options granted generally have a
+five -to- ten -year term and have vesting terms that cover
+one
+to
+three
+years from the date of grant. Certain of the stock options granted under the plan have been granted pursuant to various stock option agreements. Each stock option agreement contains specific terms.
+Stock Options :
+The Company currently has awards outstanding with service conditions and graded-vesting features. We recognize compensation cost on a straight-line basis over the requisite service period.
+23
+Table of Contents
+The fair value of each time-based award is estimated on the date of grant using the Black-Scholes option valuation model. Our weighted-average assumptions used in the Black-Scholes valuation model for equity awards with time-based vesting provisions granted during the year.
+The following table summarizes stock option activity under both plans for the
+three
+months ended
+December 31, 2022 :
+Weighted-average
+remaining
+Aggregate
+Weighted-average
+contractual term
+intrinsic value
+Number of shares
+exercise price
+(in years)
+(in thousands)
+Outstanding at September 30, 2022
+2,502,500     $ 3.36       4.55     $ -
+Granted
+100,000       0.25               -
+Exercised
+-       -
+Forfeited
+( 340,000 )     3.41
+Outstanding at December 31, 2022
+2,262,500       3.43       4.17       -
+Exercisable at December 31, 2022
+1,740,833     $ 4.10       4.25     $ -
+As of
+December 31, 2022 , there was approximately $ 235,361
+of total unrecognized compensation cost related to non-vested stock options which vest over a period of approximately
+3.0
+years.
+Restricted Stock Award transactions:
+In the
+three
+months ended
+December 31, 2022 :
+In
+December 2022,
+the Company issued
+50,000
+shares of restricted common stock to an employee.
+25,000
+shares vested upon issuance and the Company recorded a total expense of $ 6,250 .
+25,000
+shares vest based on meeting certain direct to consumer revenue performance hurdles prior to
+December 2024.
+During the
+three
+months ended
+December 31, 2022,
+340,000
+options expired due to the termination of certain employees.
+In the
+three
+months ended
+December 31, 2021:
+In
+November 2021,
+the Company issued
+120,000
+shares of restricted stock awards to an employee, subject to certain revenue performances metrics through
+December 2022,
+as referenced in Note
+6.
+These shares were forfeited during
+January 2022.
+In
+October 2021
+the Company issued
+5,000
+shares of restricted stock awards to an employee, which vested immediately upon issuance.
+In
+October 2021
+the Company issued
+25,000
+shares of restricted stock awards to an executive officer, subject to a
+four -month vesting schedule.
+The Company recognized $ 43,449
+and $ 508,754
+of restricted stock compensation expense for the
+three
+months ended
+December 31, 2022
+and
+2021 , respectively.
+24
+Table of Contents
+NOTE
+10
+- WARRANTS
+Transactions involving the Company equity-classified warrants for the  three
+months ended
+December 31, 2022
+and
+2021
+are summarized as follows:
+Weighted-average
+remaining
+Aggregate
+Weighted-average
+contractual term
+intrinsic value
+Number of shares
+exercise price
+(in years)
+(in thousands)
+Outstanding at September 30, 2022
+589,917     $ 4.68       2.30     $ -
+Granted
+-       -               -
+Exercised
+-       -
+Forfeited
+( 100,000 )     7.50
+Outstanding at December 31, 2022
+489,917       4.10       2.79       -
+Exercisable at December 31, 2022
+489,917     $ 4.10       -     $ -
+During the
+three
+month period ended
+December 31, 2022,
+100,000
+warrants expired and as a result were forfeited.
+The following table summarizes outstanding common stock purchase warrants as of
+December 31, 2022 :
+Weighted-average
+Number of shares
+exercise price
+Expiration
+Exercisable at $4.375 per share
+51,429       4.375
+September 2023
+Exercisable at $7.50 per share
+60,000       7.50
+May 2024
+Exercisable at $3.9125 per share
+47,822       3.9125
+October 2024
+Exercisable at $1.25 per share
+36,682       1.25
+January 2025
+Exercisable at $3.74 per share
+150,502       3.74
+December 2025
+Exercisable at $3.75 per share
+143,482       3.75
+June 2026
+489,917     $ 4.10
+NOTE
+11
+–
+COMMITMENTS AND CONTINGENCIES
+In
+May 2019,
+the Company entered into an endorsement agreement with a professional athlete. On
+November 4, 2022,
+the Company entered into a separation agreement with the athlete that required a final payment truing up the Company’s cash obligation through
+November 2022.
+No
+further obligations exist between the parties. The Company recorded a
+one -time non-cash expense of approximately $ 885,000
+associated with the outstanding un-expensed portion of stock compensation expense from previously issued stock at higher stock prices.
+In
+April 2022,
+effective
+February 2022,
+the Company entered into an endorsement agreement with a professional athlete. The term of the agreement is through
+February 2025
+and is tied to performance of the athlete in so many professional events annually, and also includes promotion of the Company via social media, wearing of logo during competition, requirement to provide production days for advertising creation and attendance at meet and greets. The potential base payments, if all services are provided is $ 1,500,000
+over the term of the agreement, in addition to some incentives for sales directly influenced by the athlete.
+As previously disclosed, during
+June
+of
+2022,
+the Company's CEO resigned from the board of directors and his role as an executive for the Company in
+June
+of
+2022
+under the terms of a separation agreement with the Company.
+NOTE
+12
+–
+NOTE PAYABLE
+In
+July 2019,
+the Company entered into a loan arrangement in the amount of $ 249,100
+for a line of equipment, as part of the sale of manufacturing equipment during
+April 2022,
+the balance of this loan was paid off resulting in a balance of $ 0
+as of
+December 31, 2022.
+In
+January 2020,
+the Company entered into a loan arrangement for $ 35,660
+for equipment, of which $ 9,758
+is a short term note payable at
+December 31, 2022.
+Payments are for
+48
+months and have a financing rate of
+6.2 %, which requires a monthly payment of $ 841 .
+25
+Table of Contents
+NOTE
+13   –
+LEASES
+The Company has lease agreements for its corporate offices and warehouse with lease periods expiring between
+2024  and
+2026.
+ASC
+842
+requires the recognition of leasing arrangements on the consolidated balance sheet as right-of-use assets and liabilities pertaining to the rights and obligations created by the leased assets. The Company determines whether an arrangement is a lease at inception and classify it as finance or operating. All of the Company’s leases are classified as operating leases. The Company’s leases do
+not
+contain any residual value guarantees. During the
+June 2022
+quarter, the Company exited its laboratory facility as all R&D is conducted in its corporate offices. This lease expired in
+December 2022,
+and as a result we incurred an exit fee of $ 80,000
+tied to the landlord's right to holdover rent which was booked as an offset to gain on the sold assets for the quarter ending
+June 30, 2022.
+Right-of-use lease assets and corresponding lease liabilities are recognized at commencement date based on the present value of lease payments over the expected lease term. Since the interest rate implicit in our lease arrangements is
+not
+readily determinable, the Company determined an incremental borrowing rate for each lease based on the approximate interest rate on a collateralized basis with similar remaining terms and payments as of the lease commencement date to determine the present value of future lease payments. The Company’s lease terms
+may
+include options to extend or terminate the lease.
+In addition to the monthly base amounts in the lease agreements, the Company is required to pay real estate taxes, insurance and common area maintenance expenses during the lease terms.
+Lease costs on operating leases are recognized on a straight-line basis over the lease term and included as a selling, general and administrative expense in the condensed consolidated statements of operations.
+Components of operating lease costs are summarized as follows:
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Total Operating Lease Costs
+$ 332,124     $ 386,783
+Supplemental cash flow information related to operating leases is summarized as follows:
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Cash paid for amounts included in the measurement of operating lease liabilities
+$ 343,035     $ 390,227
+26
+Table of Contents
+As of
+December 31, 2022 , our operating leases had a weighted average remaining lease term of
+4.38
+years and a weighted average discount rate of
+4.66 %.
+Future minimum aggregate lease payments under operating leases as of
+December 31, 2022
+are summarized as follows:
+For the year ended September 30,
+2023
+$ 1,037,169
+2024
+1,421,610
+2025
+1,159,949
+Thereafter
+1,372,862
+Total future lease payments
+4,991,590
+Less interest
+( 420,079 )
+Total lease liabilities
+$ 4,571,511
+NOTE
+14   –
+EARNINGS PER SHARE
+The following table sets forth the computation of basic and diluted earnings per share for the following periods:
+Three Months Ended
+December 31,
+December 31,
+2022
+2021
+Basic and diluted:
+Net loss continuing operations
+$ ( 3,956,062 )   $ ( 19,160,904 )
+Preferred dividends paid
+1,000,502       1,000,502
+Net loss adjusted for preferred dividend
+( 4,956,564 )     ( 20,161,406 )
+Net loss attributable to cbdMD Inc. common shareholders
+( 4,956,564 )     ( 20,161,406 )
+Shares used in computing basic earnings per share
+60,357,449       57,825,367
+Shares used in computing diluted earnings per share
+60,357,449       57,825,367
+Earnings per share Basic:
+Continued operations
+( 0.08 )     ( 0.35 )
+Basic earnings per share
+( 0.08 )     ( 0.35 )
+Earnings per share Diluted:
+-
+Continued operations
+( 0.08 )     ( 0.35 )
+Diluted earnings per share
+( 0.08 )     ( 0.35 )
+At
+December 31, 2022 ,
+2,999,083 potential shares underlying options, unvested RSUs and warrants as well as
+8,335,000
+convertible preferred shares were excluded from the shares used to calculate diluted loss per share as their inclusion would reduce net loss per share.
+27
+Table of Contents
+NOTE
+15   –
+INCOME TAXES
+On
+November 17, 2017,
+the Company completed an IPO of its common stock. The Company conducted a Section
+382
+analysis and determined an ownership change occurred upon the IPO. On
+October 2, 2018,
+the Company completed a follow-on firm commitment underwritten public offering of its common stock. On
+May 16, 2019,
+the Company completed an additional follow-on firm commitment underwritten public offering of its common stock. On
+October 16, 2019,
+the Company completed a follow-on firm commitment underwritten public offering of its
+8.0 % Series A Cumulative Convertible Preferred Stock. On
+January 14, 2020,
+the Company completed a follow-on firm commitment underwritten public offering of its common stock. Management has determined that an ownership change has occurred under Internal Revenue Code (IRC) Section
+382
+resulting in limitations on the utilization of Company’s federal and state NOL carryovers.
+On
+December 20, 2018,
+the Company completed a
+two -step merger with Cure Based Development (see Note
+1 ). As a result of the Mergers the Company established as part of the purchase price allocation a net deferred tax liability related to the book-tax basis of certain assets and liabilities of approximately $ 4.6
+million.
+The Company has a valuation allowance against the net deferred tax assets, with the exception of the deferred tax liabilities that result from indefinite-life intangibles (“naked credits”). The Company has determined that using the general methodology for calculating income taxes during an interim period for the quarters ending
+December 31, 2019,
+March 31, 2020,
+and
+June 30, 2020,
+provided for a wide range of potential annual effective rates. Therefore, the Company had calculated the tax provision on a discrete basis under ASC
+740 - 270 - 30 -
+36 (b) for the quarters ending
+December 31, 2019,
+March 31, 2020,
+and
+June 30, 2020.
+At
+September 30, 2022
+the Company recorded a net deferred tax asset of
+zero
+as the cumulative net deferred tax asset had a full valuation on it and there was
+not
+enough positive evidence that would warrant recognizing the benefit of the net deferred tax asset. In addition, the net indefinite lived deferred tax items were a deferred tax asset so there was
+not
+any recognition of a deferred tax liability related to indefinite lived deferred tax liabilities. At
+December 31, 2022 , the Company determined the same circumstances to be true and therefore recorded a net deferred tax asset of zero.
+NOTE
+16   –
+SUBSEQUENT EVENTS
+In
+January,
+the Company issued
+175,000
+RSUs and
+105,000
+Options to a group of employees.  The RSUs vested upon issuance, having a fair market value upon issuance of $ 40,950 . The stock options awards vested at issuance, had a strike price of $ 0.234 ,
+five -year term and a fair market value upon issuance of $ 15,225 .
+In
+January
+the Company issued
+100,000
+shares of common stock to Twenty Two Capital as the final obligation under the
+2021
+acquisition agreement upon the expiration of the indemnification period.
+On
+February 1, 2023,
+the Company entered into an Agreement for Advertising Placement with
+a360
+Media, LLC ( “a360” ) in which
+a360
+will provide professional media support and advertising placement in exchange for up to
+6,060,606
+shares of the Company’s common stock valued at $ 0.33
+per share.
+A360
+will receive the shares by providing the Company with a credit in the amount of $ 2,000,000
+to be used for media support and advertising placement to the Company. The shares are
+70 % fully vested;
+15 % of the Shares shall vest upon each advertising placement accrue pro-rata as percentage of the total advertising placement; and
+15 % of the shares shall vest provided there are
+no
+restrictions in product categories that the Company is able to market with
+a360
+while the Company utilizes the advertising placement. Any shares which do
+not
+vest within the term of the agreement shall be forfeited. The advertising Placement must be used by the Company prior to
+December 30, 2023,
+unless otherwise agreed in writing by both parties.
+Adara shareholders approved the proxy vote for the proposed business combination and closed on
+February 10, 2023,
+resulting in the Company receiving back it's $ 1
+million investment in Adara Sponsor LLC.
+28
+Table of Contents
+ITEM 2. MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+The following discussion of our financial condition and results of operations for the three months ended December 31, 2022 and the three months ended December 31, 2021 should be read in conjunction with the unaudited condensed consolidated financial statements and the notes to those statements that are included elsewhere in this report. Our discussion includes forward-looking statements based upon current expectations that involve risks and uncertainties such as our plans, objectives, expectations and intentions.
+Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements because of several factors, including those set forth under the Part I, Item 1A, Risk Factors and Business sections in our 2022 10-K, this report, and our other filings with the Securities and Exchange Commission. We use words such as “anticipate,” “estimate,” “plan,” “project,” “continuing,” “ongoing,” “expect,” “believe,” “intend,” “may,” “will,” “should,” “could,” and similar expressions to identify forward-looking statements. In addition, any statements that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, and other characterizations of future events or circumstances are forward-looking statements. Such statements are based on our current expectations and could be affected by the uncertainties and risk factors described throughout this report.
+Our Company
+Genera l
+We own and operate the nationally recognized CBD (cannabidiol) brands cbdMD, Paw CBD and cbdMD Botanicals. We believe that we are an industry leader producing and distributing broad spectrum CBD products and now full spectrum CBD products. Our mission is to enhance our customer’s overall quality of life while bringing CBD education, awareness and accessibility of high quality and effective products to all. We source cannabinoids, including CBD, which are extracted from non-GMO hemp grown on farms in the United States. Our innovative broad spectrum formula utilizes one of the purest hemp extracts, containing CBD, CBG and CBN, while eliminating the presence of tetrahydrocannabinol (THC). Non-THC is defined as below the level of detection using validated scientific analytical methods. Our full spectrum products contain a variety of cannabinoids and terpenes in addition to CBD while maintaining trace amounts of THC that falls within the limits set in the 2018 Farm Bill. In addition to our core brands, we also operate cbdMD Therapeutics, LLC to capture the Company’s ongoing investments in science related to its existing and future products, including research and development activities for therapeutic applications
+Our cbdMD brand of products includes high-grade, premium CBD products, including CBD tinctures, CBD gummies, CBD topicals, CBD capsules, CBD bath bombs, and CBD sleep aids.
+Our Paw CBD brand of products includes veterinarian-formulated products including tinctures, chews, topicals products in varying strengths and formulas. Paw CBD products have undergone the National Animal Safety Council’s rigorous audit and meet their Quality Seal standard.
+29
+Table of Contents
+Our cbdMD Botanicals brand of beauty and skincare products features facial oil and serum, toners, moisturizers, clear skin, facial masks, exfoliants and body care. cbdMD Botanicals is dedicated to creating clean CBD skin care products combining the best of Mother Nature with the precision of scientific innovation. All of our products are 100% cruelty-free and have no parabens, sulfates, or gluten – just pure botanical ingredients carefully crafted into gentle beauty products for all skin types.
+cbdMD, Paw CBD and cbdMD Botanicals products are distributed through our e-commerce websites, third party e-commerce sites, select distributors and marketing partners as well as a variety of brick-and-mortar retailers. In addition, we operate a CBD marketplace through directcbdonline.com, our own e-commerce website.
+Recent Developments
+At the end of September 2022, we shifted our USA product offering to focus on higher CBD concentration levels for better consumer efficacy while eliminating a number of lower strength SKUs. These products are supported by clinical claims from our human clinical studies that we have been working on for the last two years. Prior to making this shift we were focused on selling through our legacy inventory that was at end of life as part of the product shift.  We believe the promotions we ran resulted in pantry loading which impacted revenue during the first quarter of fiscal 2023.
+The Company's management mandate was to achieve profitability and increase revenue by the end of the 2022 calendar year.  Significant headway was made on cost controls over the last two quarter and we believe additional opportunities to improve our cost structure exist: we are working to lower our facility costs, we are taking further opportunities to improve freight rates, and we continue to reassess our marketing costs and make improvements to our product portfolio.  However, declines in revenue and the corresponding loss in contribution dollars offset operational gains.  As a result, we made changes to our marketing department and in late December 2022 hired a new Chief Marketing Officer that reports to our President. During January of 2023 we began working to improve our communication to customers and more effectively allocate marketing spend to stabilize and rebuild revenues.  Profitability remains a paramount focus and we continue to invest in a strong pipeline of accretive revenue opportunities.
+Growth Strategies
+We continued to pursue many strategies to grow our revenues and expand the scope of our business in fiscal 2023 and beyond:
+●
+Product Innovation:
+Our goal is to provide our customers superior functional based products with greater efficacy, absorption and efficacy claims. We regularly assess and evaluate our product portfolio, and devote resources to ongoing research and development processes with the goal of improving our product offerings to meet consumer demands. We have a robust pipeline of products to launch during fiscal 2023, including our new clinically proven product cbdMD Max for Pain that launched during the first quarter.
+●
+Expand our revenue channels:
+We believe it is important to have the right product at the right price for the right channel and worked on a bespoke line of products for the food drug and mass channel (“FDM”) that shipped to Wegmans in late fiscal 2022. In September we adjusted our wholesale offer to align with our strongest CBD, best prices consumer offer. We continue to have discussions with key retailers and have expanded our sales organization to include deep channel-specific experience, focused on developing a pipeline of opportunities we believe are strategic to the category and our brand.
+●
+International Expansion:
+We continue to explore sales into markets outside of the United States. Our products are currently available in 31 countries. We generally partner with local wholesalers and local legal counsel who can help navigate the laws and regulatory requirements within their jurisdiction. We continue to pursue key wholesale accounts in several international markets and are gaining market share in Central America through our sanitary registration approvals. We are also expanding our E-commerce business to consumers in the United Kingdom (U.K.) and in March 2022, we received notice that the products we submitted have been validated in the UK as well as in the EU. We continue to work on strategies to continue to expand in the EU, Israel and other major markets which is primarily driven by the regulatory environment.  In late fiscal year 2022, we registered and began selling products in Japan and we are seeing growth during the early part of fiscal 2023.
+●
+Cultivate our Additional Brands:
+We believe there continues to be significant opportunities to enhance Paw CBD and cbdMD Botanicals and our marketing team has begun implementing strategy to better execute on these product lines during 2023.
+●
+Acquisitions:
+We evaluate acquisitions where we believe (i) there is an accretive customer base that can lower our cost of customer acquisitions through either a complementary direct to consumer base or wholesale channels, or (ii) the target has a profitable business or easily attainable cost synergies that can quickly help contribute and accelerate profitability of our Company.
+30
+Table of Contents
+Results of operations
+The following tables provide certain selected consolidated financial information for the periods presented:
+Three Months Ended December 31,
+2022
+2021
+Change
+Total net sales
+$
+6,085,218
+$
+9,321,822
+$
+(3,236,604
+)
+Cost of sales
+2,517,452
+4,328,310
+(1,810,858
+)
+Gross profit as a percentage of net sales
+58.6
+%
+53.6
+%
+5.1
+%
+Operating expenses
+7,613,947
+11,955,284
+(4,341,337
+)
+Impairment of goodwill and other intangible assets
+-
+18,183,285
+(18,183,285
+)
+Operating income from operations
+(4,046,181
+)
+(25,145,057
+)
+21,098,876
+(Increase) decrease on contingent liability
+61,000
+5,950,000
+(5,889,000
+)
+Net (loss) income before taxes
+(3,956,062
+)
+(19,160,904
+)
+15,204,842
+Net (loss) income attributable to cbdMD Inc. common shareholders
+$
+(4,956,564
+)
+$
+(20,161,406
+)
+$
+15,204,842
+We record product sales primarily through two main delivery channels, direct to consumers via our E-commerce sales and direct to wholesalers utilizing our internal sales team. The following table provides information on the contribution of net sales by type of sale to our total net sales.
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+% of total
+2021
+% of total
+E-commerce sales
+$
+4,906,205
+80.6
+%
+$
+7,116,087
+76.3
+%
+Wholesale sales
+1,179,013
+19.4
+%
+2,205,735
+23.7
+%
+Total Net Sales
+$
+6,085,218
+$
+9,321,822
+Net Sales
+We had total net sales of $6.1 million and $9.3 million for the three months ended December 31, 2022 and 2021, respectively, resulting in a quarter over quarter decrease in net sales of $3,.2 million or 34.7%. This decrease is attributable to a decrease of $2.2 million in e-commerce sales and a decrease of $1.0 million in wholesale sales quarter over quarter.  While management is disappointed with the quarter over quarter net sales decrease, the revenue is generally in line with macro competitive trends in the overall CBD industry.  As compared to the immediately preceding quarter, the Company's revenue declined 22.6%.  Our E-commerce sales were impacted during the fourth quarter by  (i) pantry loading of  end of life lower strength SKUs as we discounted ahead of our high-strength product at the end of September 2022, (ii) marketing execution issues with certain vendors that created challenges on Meta and (iii) pull back in marketing spend.  Our Wholesale declined approximately $1.0 million year over year.  We believe there were two main drivers to the decline in our wholesale business: (i) our new lower sales price to wholesalers  and (ii) wholesale customers focused on selling through existing inventory before bringing in our new SKUs.   Further, we believe the current macro inflationary environment continues to impact discretionary spending with consumers as well as wholesale customers.  We continue to work on a pipeline of opportunities both domestically and internationally and believe we will see revenue growth in the coming quarters.
+31
+Table of Contents
+Cost of sales
+Our cost of sales includes costs associated with distribution, fill and labor expense, components, manufacturing overhead, third party providers, and freight for our product sales. Our cost of sales as a percentage of net sales was 41.8% and 46.4% for three months ended December 31, 2022 and 2021, respectively.
+The changes made during the last quarters have eliminated significant fixed overhead and were aimed at lowering overall costs and making our cost of sale more variable in nature we believe ultimately more predictable.
+Operating expenses
+Our principal operating expenses include staff related expenses, advertising (which includes expenses related to industry distribution and trade shows), sponsorships, affiliate commissions, merchant fees, technology, travel, rent, professional service fees, and business insurance expenses.
+Consolidated Operating Expenses
+The following tables provide information on our operating expenses for the three months ended December 31, 2022 and 2021:
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Change
+Staff related expense
+$
+2,331,030
+$
+3,760,289
+$
+(1,429,259
+)
+Accounting/legal expense
+267,055
+324,176
+(57,121
+)
+Professional outside services
+216,977
+264,711
+(47,734
+)
+Advertising/marketing/social media/events/tradeshows
+1,631,123
+4,187,764
+(2,556,641
+)
+Sponsorships
+18,750
+391,933
+(373,183
+)
+Affiliate commissions
+276,245
+245,346
+30,899
+Merchant fees
+210,265
+253,241
+(42,976
+)
+R&D and regulatory
+76,272
+285,423
+(209,151
+)
+Non-cash stock compensation
+137,144
+1,134,557
+(997,413
+)
+Intangibles Amortization
+277,354
+100,799
+176,555
+Non-cash stock compensation related to terminated contractual obligation
+884,892
+-
+884,892
+Depreciation
+100,112
+340,701
+(240,589
+)
+All other expenses
+1,186,728
+666,345
+520,383
+Totals
+$
+7,613,947
+$
+11,955,285
+$
+(4,341,338
+)
+32
+Table of Contents
+Our overall operating expenses decreased by $4.3 million or 36.3% three months ended December 31, 2022 over the three months ended December 31, 2021 . The quarter over quarter decrease was primarily driven by management's ongoing efforts to reduce our cost structure including decreases in staff related expenses ($1.4 million), advertising, marketing, sponsorships and affiliate commission expenses ($2.9 million), reduction in stock expense ($1 million), and R&D and regulatory spend ($0.2 million), partially offset by an increase in all other expenses ($0.5 million) and an increase of  ($0.9 million) non-cash expense related to accelerated stock compensation amortization tied the termination of a contractual obligation, and an increase in intangible amortization expense.
+Excluding non-cash depreciation, intangible amortization, and non-cash stock expenses, we reduced our cash adjusted operating expenses from $10.4 million to $6.2 million for the three months ended December 31, 2021 and December 31, 2022 respectively.
+While we showed strong year over year improvement in our operating expense, we are very focused on our sequential performance and trends in order to get us to a profitable quarter.  We continued to make headway on our cost structure, however gains in our operating costs were offset by loss in revenue during the quarter.  We have continued to lower our operating costs and at the end of January 2023, staffing is down to 65 full-time team members.   In addition we made changes to our marketing team starting in December 2022 and brought in new leadership as well as partners to allow us to consistently navigate Meta advertising rules, improve our messaging, customer acquisition, and rebuild our revenue.  We continue to pursue all avenues that will help lower our costs while maintaining our quality, efficacy and service for our customers; position us for revenue growth; and promote a culture of performance and success.  In addition we have engaged
+third parties
+to review and assess strategic alternatives for the Company.
+Corporate overhead
+Included in our consolidated operating expenses are expenses associated with our corporate overhead which are not allocated to the operating business unit, including (i) staff related expenses; (ii) accounting and legal expenses; (iii) professional outside services; (iv) travel and entertainment expenses; (v) rent; (vi) business insurance; and (vii) non-cash stock compensation expense.
+33
+Table of Contents
+The following tables provide information on our corporate overhead for the three months ended December 31, 2022 and 2021:
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Change
+Staff related expense
+$
+152,526
+$
+295,885
+$
+(143,359
+)
+Accounting/Legal expense
+197,863
+206,594
+(8,731
+)
+Professional outside services
+58,942
+78,151
+(19,209
+)
+Business insurance
+180,174
+172,772
+7,402
+Non-cash stock compensation
+137,144
+1,134,557
+(997,413
+)
+Totals
+$
+726,649
+$
+1,857,959
+$
+(1,161,310
+)
+Our corporate operating expenses are down quarter over quarter and year over year as a result of our ongoing efforts to reduce our cost structure across the board.
+The corporate operating expenses are primarily related to the ongoing public company related activities.
+Therapeutics Overhead
+Included in our consolidated operating expenses are expenses associated with Therapeutics including staff related expenses and R&D and regulatory expenses. The Therapeutic operating expenses include research and development activities for therapeutic applications.
+The following tables provide information on our approximate corporate overhead for the three months ended December 31, 2022 and 2021:
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Change
+Staff related expense
+$
+87,198
+$
+80,235
+$
+6,963
+R&D and Regulatory
+75,213
+267,529
+(192,316
+)
+Totals
+$
+162,411
+$
+347,764
+$
+(185,353
+)
+The Therapeutic operating expenses include research and development activities for therapeutic applications.  This division was formed during the third quarter of fiscal 2021. Our human and pet clinical studies have concluded. We started receiving initial results during the first quarter of fiscal 2023 and expect final reports during the second quarter of fiscal 2023.
+Goodwill Impairment
+The Company had goodwill at December 31, 2021 of $42,772,685. The Company impaired goodwill in subsequent reporting periods of fiscal 2022 and goodwill was fully impaired by September 30, 2022.
+Other income and other non-operating expenses
+We also record income and expenses associated with non-operating items. The material components of those are set forth below.
+34
+Table of Contents
+Realized and unrealized gain (loss) on marketable and other securities
+We value investments in marketable securities at fair value and record a gain or loss upon sale at each period in realized and unrealized gain (loss) on marketable securities. For the three months ended December 31, 2022 and 2021, we recorded $0 and $(33,350), respectively. The realized loss in 2021 was a result of our shares in Isodiol being de-listed.
+Decrease in contingent liability
+As described in Note 6 to the notes to the consolidated f inancial statements appearing elsewhere in this report, the earn-out provision for the Earnout Shares is accounted for and recorded as a contingent liability with increases in the liability recorded as non-cash other expense and decreases in the liability recorded as non- cash other income. The value of the non-cash contingent liability was $ 215,000  at
+December 31, 2022 , as compared to $276,000 at
+September 30, 2022 , respectively.  We expect to continue to record changes in the non-cash contingent liability through the balance of the earnout period.
+As described in Note 6 to the notes to the consolidated financial statements appearing elsewhere in the report, the requirement for the earn-out provision for the Twenty Two Earnout Shares was never met and at September 30, 2022 the balance of this obligation was zero.
+Liquidity and Capital Resources
+We had cash and cash equivalents on hand of $3.4 million and working capital of $6.0 million at December 31, 2022 as compared to cash and cash equivalents on hand of $6.7 million and working capital of $10.7 million at September 30, 2022. Our current assets decreased approximately 20.0% at December 31, 2022 from September 30, 2022, which is primarily attributable to a decrease in cash used to fund operations as well as a one-time non-cash expenses of approximately $885,000 related to previously un-expensed stock amortization related to an terminated contractual obligation. Our current liabilities increased by 5.0% at December 31, 2022 from September 30, 2022, and is primarily attributable to increases in accrued expenses, partially offset by a decrease in accounts payable.
+During the three months ended December 31, 2022 we used cash primarily to fund our operations.
+We do not have any commitments for capital expenditures. We have a commitment for cumulative cash dividends at an annual rate of 8% payable monthly in arrears for the prior month to our preferred shareholders. We have one endorsement agreement that runs through February 2025 that provides for financial commitments from the Company based on performance/participation (see Note 11 Commitments and Contingencies).
+While the Company is taking strong action and believes that it can execute it's strategy and path to profitability within it's balance sheet and its ability to raise additional funds, there can be no assurances to that effect.  The Company’s working capital position may not be sufficient to support the Company’s daily operations for the twelve months subsequent to the issuance of these quarterly financial statements. The Company’s ability to continue as a going concern is dependent upon its ability to improve profitability and the ability to acquire additional funding. These and other factors raise potential concern about the Company’s ability to continue as a going concern within twelve months after the date that the quarterly financial statements are issued. These financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classification of liabilities that may result in the Company not being able to continue as a going concern.
+Our goal from a liquidity perspective is to use operating cash flows to fund day to day operations and we have not met this goal as cash flow from operations has been a net use of $2.1 million and $5.5 million for the three months ended December 31, 2022 and 2021, respectively. Management believes the quarterly cash consumption will continue to improve in subsequent quarters.
+35
+Table of Contents
+Critical accounting policies
+The preparation of financial statements and related disclosures in conformity with US GAAP and our discussion and analysis of our financial condition and operating results require our management to make judgments, assumptions and estimates that affect the amounts reported in our consolidated financial statements and accompanying notes. Note 1, “Organization and Summary of Significant Accounting Policies,” of the Notes to our consolidated financial statements appearing elsewhere in this report describes the significant accounting policies and methods used in the preparation of our consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates, and such differences may be material.
+Please see Part II, Item 7 – Critical Accounting Policies appearing in our 2022 10-K for the critical accounting policies we believe involve the more significant judgments and estimates used in the preparation of our consolidated financial statements and are the most critical to aid you in fully understanding and evaluating our reported financial results. Management considers these policies critical because they are both important to the portrayal of our financial condition and operating results, and they require management to make judgments and estimates about inherently uncertain matters.
+Recent accounting pronouncements
+Please see Note 1 – Organization and Summary of Significant Accounting Policies appearing in the consolidated financial statements included in this report for information on accounting pronouncements.
+Off balance sheet arrangements
+As of the date of this report, we have no undisclosed off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. The term “off-balance sheet arrangement” generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with us is a party, under which we have any obligation arising under a guarantee contract, derivative instrument or variable interest or a retained or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market risk support for such assets.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+Not applicable for a smaller reporting company.
+ITEM 4. CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures . We maintain “disclosure controls and procedures” as such term is defined in Rule 13a-15(e) under the
+Securities Exchange Act of 1934. In designing and evaluating our disclosure controls and procedures, our management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of disclosure controls and procedures are met. Additionally, in designing disclosure controls and procedures, our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible disclosure controls and procedures. The design of any disclosure controls and procedures also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Based on their evaluation as of the end of the period covered by this report, our interim principal executive officer and Chief Financial Officer has concluded that our disclosure controls and procedures were effective to ensure that the information relating to our company, required to be disclosed in our SEC reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to our management, including our interim principal executive officer and Chief Financial Officer, to allow timely decisions regarding required disclosure.
+Changes in Internal Control Over Financial Reporting . There were no changes in our internal control over financial reporting during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+36
+Table of Contents
+PART II - OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS.
+None.
+ITEM 1A. RISK FACTORS.
+We desire to take advantage of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Accordingly, we incorporate by reference the risk factors disclosed in Part I, Item 1A of our 2022 10-K.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.
+Except for those unregistered securities previously disclosed in reports filed with the SEC during the period covered by this report, we have not sold any securities without registration under the Securities Act during the period covered by this report, except as provided below. The issuances were exempt from registration pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended.
+In December, the Company issued 50,000 RSUs and 100,000 options to an employee. 25,000 RSUs vested upon issuance and the Company recorded a total expense of $6,250. 25,000 RSUs vest based on meeting certain direct to consumer revenue hurdles prior to December 2024. 75,000 options vest equally at each anniversary for the next three years, have a strike price of $.25 and a five year term. The total expense of these options is $13,150 and will be amortized over the term of the vesting periods. 25,000 options vest based on meeting certain direct to consumer revenue requirements by the end of December 2024.
+In January, the Company issued  175,000 RSUs and 105,000 Options to a group of employees.  The RSUs vested upon issuance, having a fair market value of upon issuance of $40,950. The stock options awards vested at issuance, had a strike price of $0.234, five-year term and a fair market value upon issuance of $15,225.
+In January the Company issued 100,000 shares of common stock to Twenty Two Capital as the final obligation under the 2021 acquisition agreement upon the expiration of the indemnification period.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES.
+None.
+ITEM 4. MINE SAFETY DISCLOSURES.
+Not applicable to our Company’s operations.
+ITEM 5. OTHER INFORMATION.
+Effective February 10, 2023, the Company completed the Membership Interest Transfer Agreement with Blystone & Donaldson, LLC, and Mr. Thomas Finke (collectively, the “Transferees”) dated June 22, 2022. Pursuant to the terms of the agreement, the Company sold its entire ownership interest in Adara Sponsor, LLC, to the Transferees for the total purchase price of $1,000,000 which constitutes the Company’s original purchase price of the interest.
+The Auditor Firm ID for our external auditors, Cherry Bekaert LLP, is 677.
+37
+Table of Contents
+ITEM 6. EXHIBITS.
+Incorporated by Reference
+Filed or Furnished
+No.
+Exhibit Description
+Form
+Date Filed
+Number
+Herewith
+2.1
+Merger Agreement dated December 3, 2018 by and among Level Brands, Inc.,   AcqCo, LLC, cbdMD LLC and Cure Based Development, LLC
+8-K
+12/3/18
+2.1
+2.2
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of   Nevada merging AcqCo, LLC with and into Cure Based Development, LLC
+10-Q
+2/14/19
+2.2
+2.3
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of   North Carolina merging AcqCo, LLC with and into Cure Based Development, LLC
+10-Q
+2/14/19
+2.3
+2.4
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of   Nevada merging Cure Based Development, LLC with an into cbdMD LLC
+10-Q
+2/14/19
+2.4
+2.5
+Articles of Merger dated December 20, 2018 as filed with the Secretary of State of   North Carolina merging Cure Based Development, LLC with an into cbdMD LLC
+10-Q
+2/14/19
+2.5
+2.6
+Addendum No. 1 to Agreement and Plan of Merger dated March 31, 2021
+8-K
+4/1/21
+10.1
+3.1
+Articles of Incorporation
+1-A
+9/18/17
+2.1
+3.2
+Articles of Amendment to the Articles of Incorporation –  filed April 22, 2015
+1-A
+9/18/17
+2.2
+3.3
+Articles of Amendment to the Articles of Incorporation –  filed June 22, 2015
+1-A
+9/18/17
+2.3
+3.4
+Articles of Amendment to the Articles of Incorporation –  filed November 17, 2016
+1-A
+9/18/17
+2.4
+3.5
+Articles of Amendment to the Articles of Incorporation –  filed December 5, 2016
+1-A
+9/18/17
+2.5
+3.6
+Articles of Amendment to Articles of Incorporation
+8-K
+4/29/19
+3.7
+3.7
+Articles of Amendment to the Articles of Incorporation including the Certificate of   Designations, Rights and Preferences of the 8.0% Series A Cumulative Convertible   Preferred Stock
+8-A
+10/11/19
+3.1(f)
+3.8
+Bylaws, As amended
+1-A
+9/18/17
+2.6
+10.19
+Agreement for Advertising Placement dated February 1, 2023 +
+Filed
+31.1
+Certification of Principal Executive Officer (Section 302)
+Filed
+31.2
+Certification of Principal Financial Officer (Section 302)
+Filed
+32.1
+Certification of Principal Executive Officer and Principal Financial Officer (Section 906)
+Furnished*
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+Filed
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+Filed
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+Filed
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+Filed
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+Filed
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+Filed
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL Document and include in Exhibit 101)
+Filed
++ Exhibits and/or schedules have been omitted.  The Company hereby agrees to furnish to the staff of the Securities and Exchange Commission upon request any omitted information.
+* This exhibit is being furnished rather than filed and shall not be deemed incorporated by reference into any filing, in accordance with Item 601 of Regulation S-K.
+38
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+cbdMD, INC.
+February 13, 2023
+By:
+/s/ Kevin MacDermott
+Kevin MacDermott, President, principal
+executive officer
+February 13, 2023
+By:
+/s/ T. Ronan Kennedy
+T. Ronan Kennedy, Chief Financial Officer,
+principal financial and accounting officer
+39
