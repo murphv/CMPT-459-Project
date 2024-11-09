@@ -1,0 +1,2635 @@
+2022
+160,006
+155,170
+480,479
+464,767
+837,568
+870,735
+34,704
+47,228
+47,247
+65,059
+0.001
+0.001
+250,000
+250,000
+0
+0
+0
+0
+0.001
+0.001
+46,000,000
+46,000,000
+6,238,776
+6,238,776
+6,186,356
+6,186,356
+0
+0
+0
+0.25
+1
+1
+1
+1
+1
+10
+3
+5
+10
+5
+20
+20
+5
+6
+0
+0
+33.33
+33.33
+12.5
+200
+5
+6
+10
+5
+10
+70,000
+6
+18
+0001616262 2022-03-01 2022-11-30
+xbrli:shares
+0001616262 2023-01-10
+iso4217:USD
+0001616262 us-gaap:ProductMember 2022-09-01 2022-11-30
+0001616262 us-gaap:ProductMember 2021-09-01 2021-11-30
+0001616262 us-gaap:ProductMember 2022-03-01 2022-11-30
+0001616262 us-gaap:ProductMember 2021-03-01 2021-11-30
+0001616262 rmcf:FranchiseAndRoyaltyFeesMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchiseAndRoyaltyFeesMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchiseAndRoyaltyFeesMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchiseAndRoyaltyFeesMember 2021-03-01 2021-11-30
+0001616262 2022-09-01 2022-11-30
+0001616262 2021-09-01 2021-11-30
+0001616262 2021-03-01 2021-11-30
+0001616262 us-gaap:FranchiseMember 2022-09-01 2022-11-30
+0001616262 us-gaap:FranchiseMember 2021-09-01 2021-11-30
+0001616262 us-gaap:FranchiseMember 2022-03-01 2022-11-30
+0001616262 us-gaap:FranchiseMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RetailMember 2022-09-01 2022-11-30
+0001616262 us-gaap:RetailMember 2021-09-01 2021-11-30
+0001616262 us-gaap:RetailMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RetailMember 2021-03-01 2021-11-30
+iso4217:USD xbrli:shares
+0001616262 2022-11-30
+0001616262 2022-02-28
+0001616262 2021-02-28
+0001616262 2021-11-30
+0001616262 us-gaap:CommonStockMember 2021-08-31
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2021-08-31
+0001616262 us-gaap:RetainedEarningsMember 2021-08-31
+0001616262 2021-08-31
+0001616262 us-gaap:RetainedEarningsMember 2021-09-01 2021-11-30
+0001616262 us-gaap:CommonStockMember 2021-09-01 2021-11-30
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2021-09-01 2021-11-30
+0001616262 us-gaap:CommonStockMember 2021-11-30
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2021-11-30
+0001616262 us-gaap:RetainedEarningsMember 2021-11-30
+0001616262 us-gaap:CommonStockMember 2021-02-28
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2021-02-28
+0001616262 us-gaap:RetainedEarningsMember 2021-02-28
+0001616262 us-gaap:RetainedEarningsMember 2021-03-01 2021-11-30
+0001616262 us-gaap:CommonStockMember 2021-03-01 2021-11-30
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2021-03-01 2021-11-30
+0001616262 us-gaap:CommonStockMember 2022-08-31
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2022-08-31
+0001616262 us-gaap:RetainedEarningsMember 2022-08-31
+0001616262 2022-08-31
+0001616262 us-gaap:RetainedEarningsMember 2022-09-01 2022-11-30
+0001616262 us-gaap:CommonStockMember 2022-09-01 2022-11-30
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2022-09-01 2022-11-30
+0001616262 us-gaap:CommonStockMember 2022-11-30
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2022-11-30
+0001616262 us-gaap:RetainedEarningsMember 2022-11-30
+0001616262 us-gaap:CommonStockMember 2022-02-28
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2022-02-28
+0001616262 us-gaap:RetainedEarningsMember 2022-02-28
+0001616262 us-gaap:RetainedEarningsMember 2022-03-01 2022-11-30
+0001616262 us-gaap:CommonStockMember 2022-03-01 2022-11-30
+0001616262 us-gaap:AdditionalPaidInCapitalMember 2022-03-01 2022-11-30
+xbrli:pure
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:CompanyOwnedStoresMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:CompanyOwnedStoresMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:CompanyOwnedStoresMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:FranchiseStoresDomesticStoresAndKiosksMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:FranchiseStoresDomesticStoresAndKiosksMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:FranchiseStoresDomesticStoresAndKiosksMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:InternationalLicenseStoresMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:InternationalLicenseStoresMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:InternationalLicenseStoresMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:ColdStoneCreameryCobrandedMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:ColdStoneCreameryCobrandedMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:RockyMountainChocolateFactoryMember rmcf:ColdStoneCreameryCobrandedMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:CompanyOwnedStoresCoBrandedMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:CompanyOwnedStoresCoBrandedMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:CompanyOwnedStoresCoBrandedMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:FranchiseStoresDomesticStoresMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:FranchiseStoresDomesticStoresMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:FranchiseStoresDomesticStoresMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:FranchiseStoresDomesticStoresCoBrandedMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:FranchiseStoresDomesticStoresCoBrandedMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:FranchiseStoresDomesticStoresCoBrandedMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:InternationalLicenseStoresMember rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:InternationalLicenseStoresMember rmcf:OpenMember 2022-11-30
+0001616262 rmcf:USwirlIncMember rmcf:InternationalLicenseStoresMember 2022-11-30
+0001616262 rmcf:SoldNotYetOpenMember 2022-11-30
+0001616262 rmcf:OpenMember 2022-11-30
+0001616262 rmcf:AbValueMember rmcf:RockyMountainChocolateFactoryMember srt:MaximumMember us-gaap:SubsequentEventMember rmcf:SettlementAgreementMember 2022-12-14
+0001616262 rmcf:RadoffMember rmcf:RockyMountainChocolateFactoryMember srt:MaximumMember us-gaap:SubsequentEventMember rmcf:SettlementAgreementMember 2022-12-14
+0001616262 rmcf:AbvradoffMember us-gaap:SubsequentEventMember rmcf:SettlementAgreementMember 2022-12-14 2022-12-14
+utr:Y
+0001616262 srt:MaximumMember 2022-03-01 2022-11-30
+0001616262 srt:MinimumMember 2022-03-01 2022-11-30
+0001616262 2022-12-01 2022-11-30
+0001616262 2023-04-01 2022-11-30
+0001616262 2024-04-01 2022-11-30
+0001616262 2025-04-01 2022-11-30
+0001616262 2026-04-01 2022-11-30
+0001616262 2027-04-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:FranchisingMember us-gaap:TransferredOverTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:ManufacturingMember us-gaap:TransferredOverTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:RetailSegmentMember us-gaap:TransferredOverTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:USwirlIncMember us-gaap:TransferredOverTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember us-gaap:TransferredOverTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FactorySalesMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 us-gaap:RetailMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 us-gaap:TransferredAtPointInTimeMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:FranchisingMember us-gaap:TransferredOverTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:ManufacturingMember us-gaap:TransferredOverTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:RetailSegmentMember us-gaap:TransferredOverTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:USwirlIncMember us-gaap:TransferredOverTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchiseFeesMember us-gaap:TransferredOverTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FactorySalesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FactorySalesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FactorySalesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FactorySalesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FactorySalesMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 us-gaap:RetailMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 us-gaap:TransferredAtPointInTimeMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:FranchisingMember us-gaap:TransferredOverTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:ManufacturingMember us-gaap:TransferredOverTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:RetailSegmentMember us-gaap:TransferredOverTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:USwirlIncMember us-gaap:TransferredOverTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember us-gaap:TransferredOverTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FactorySalesMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RetailMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RetailMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:TransferredAtPointInTimeMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:FranchisingMember us-gaap:TransferredOverTimeMember 2021-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:ManufacturingMember us-gaap:TransferredOverTimeMember 2021-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:RetailSegmentMember us-gaap:TransferredOverTimeMember 2021-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember rmcf:USwirlIncMember us-gaap:TransferredOverTimeMember 2021-03-01 2022-11-30
+0001616262 rmcf:FranchiseFeesMember us-gaap:TransferredOverTimeMember 2021-03-01 2022-11-30
+0001616262 rmcf:FactorySalesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:FactorySalesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:FactorySalesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:FactorySalesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:FactorySalesMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RetailMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RetailMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:RoyaltyAndMarketingFeesMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:FranchisingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:ManufacturingMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:RetailSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 rmcf:USwirlIncMember us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:TransferredAtPointInTimeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:LandMember 2022-11-30
+0001616262 us-gaap:LandMember 2022-02-28
+0001616262 us-gaap:BuildingMember 2022-11-30
+0001616262 us-gaap:BuildingMember 2022-02-28
+0001616262 us-gaap:MachineryAndEquipmentMember 2022-11-30
+0001616262 us-gaap:MachineryAndEquipmentMember 2022-02-28
+0001616262 us-gaap:FurnitureAndFixturesMember 2022-11-30
+0001616262 us-gaap:FurnitureAndFixturesMember 2022-02-28
+0001616262 us-gaap:LeaseholdImprovementsMember 2022-11-30
+0001616262 us-gaap:LeaseholdImprovementsMember 2022-02-28
+0001616262 us-gaap:TransportationEquipmentMember 2022-11-30
+0001616262 us-gaap:TransportationEquipmentMember 2022-02-28
+0001616262 rmcf:StoreDesignMember 2022-03-01 2022-11-30
+0001616262 rmcf:StoreDesignMember 2022-11-30
+0001616262 rmcf:StoreDesignMember 2022-02-28
+0001616262 rmcf:PackagingLicensesMember srt:MinimumMember 2022-03-01 2022-11-30
+0001616262 rmcf:PackagingLicensesMember srt:MaximumMember 2022-03-01 2022-11-30
+0001616262 rmcf:PackagingLicensesMember 2022-11-30
+0001616262 rmcf:PackagingLicensesMember 2022-02-28
+0001616262 rmcf:PackagingDesignMember 2022-03-01 2022-11-30
+0001616262 rmcf:PackagingDesignMember 2022-11-30
+0001616262 rmcf:PackagingDesignMember 2022-02-28
+0001616262 rmcf:TrademarksAndNonCompetitionAgreementMember srt:MinimumMember 2022-03-01 2022-11-30
+0001616262 rmcf:TrademarksAndNonCompetitionAgreementMember srt:MaximumMember 2022-03-01 2022-11-30
+0001616262 rmcf:TrademarksAndNonCompetitionAgreementMember 2022-11-30
+0001616262 rmcf:TrademarksAndNonCompetitionAgreementMember 2022-02-28
+0001616262 us-gaap:FranchiseRightsMember 2022-03-01 2022-11-30
+0001616262 us-gaap:FranchiseRightsMember 2022-11-30
+0001616262 us-gaap:FranchiseRightsMember 2022-02-28
+0001616262 rmcf:CompanyStoresGoodwillMember 2022-11-30
+0001616262 rmcf:CompanyStoresGoodwillMember 2022-02-28
+0001616262 rmcf:FranchisingGoodwillMember 2022-11-30
+0001616262 rmcf:FranchisingGoodwillMember 2022-02-28
+0001616262 rmcf:ManufacturingSegmentGoodwillMember 2022-11-30
+0001616262 rmcf:ManufacturingSegmentGoodwillMember 2022-02-28
+0001616262 us-gaap:TrademarksMember 2022-11-30
+0001616262 us-gaap:TrademarksMember 2022-02-28
+0001616262 rmcf:WellsFargoBankMember us-gaap:LineOfCreditMember 2022-11-30
+0001616262 rmcf:WellsFargoBankMember us-gaap:LineOfCreditMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-03-01 2022-11-30
+0001616262 rmcf:WellsFargoBankMember us-gaap:LineOfCreditMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-11-30
+0001616262 rmcf:WarrantToPurchaseCommonStockMember srt:MaximumMember 2019-12-20
+0001616262 rmcf:WarrantToPurchaseCommonStockMember 2019-12-20
+0001616262 rmcf:WarrantToPurchaseCommonStockMember 2019-12-20 2019-12-20
+utr:M
+0001616262 us-gaap:RestrictedStockUnitsRSUMember 2022-02-28
+0001616262 us-gaap:RestrictedStockUnitsRSUMember 2021-02-28
+0001616262 us-gaap:RestrictedStockUnitsRSUMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember 2022-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember 2021-11-30
+0001616262 us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2022-09-01 2022-11-30
+0001616262 us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2021-09-01 2021-11-30
+0001616262 us-gaap:ShareBasedPaymentArrangementNonemployeeMember 2021-03-01 2021-11-30
+0001616262 srt:ChiefExecutiveOfficerMember 2022-03-01 2022-11-30
+0001616262 us-gaap:PerformanceSharesMember srt:MaximumMember srt:ChiefExecutiveOfficerMember 2022-03-01 2022-11-30
+0001616262 us-gaap:PerformanceSharesMember srt:ChiefExecutiveOfficerMember 2022-03-01 2022-11-30
+0001616262 us-gaap:PerformanceSharesMember srt:ChiefExecutiveOfficerMember rmcf:VestingOnLastDayOfCurrentFiscalYearEndingMember 2022-03-01 2022-11-30
+0001616262 us-gaap:PerformanceSharesMember srt:ChiefExecutiveOfficerMember rmcf:VestingOnLastDayOfEachQuarterThereafterMember 2022-03-01 2022-11-30
+0001616262 us-gaap:PerformanceSharesMember srt:MinimumMember srt:ChiefExecutiveOfficerMember 2022-03-01 2022-11-30
+0001616262 rmcf:RestrictedStockUnitsAndStockOptionsMember 2022-09-01 2022-11-30
+0001616262 rmcf:RestrictedStockUnitsAndStockOptionsMember 2022-03-01 2022-11-30
+0001616262 rmcf:RestrictedStockUnitsAndStockOptionsMember 2021-09-01 2021-11-30
+0001616262 rmcf:RestrictedStockUnitsAndStockOptionsMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember srt:MinimumMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember srt:MaximumMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-11-30
+0001616262 us-gaap:WarrantMember 2022-03-01 2022-11-30
+0001616262 us-gaap:CommonStockMember 2021-03-01 2021-11-30
+0001616262 us-gaap:WarrantMember 2021-03-01 2021-11-30
+0001616262 srt:MaximumMember 2022-11-30
+0001616262 srt:MinimumMember 2022-11-30
+0001616262 rmcf:LeasesForEquipmentMember 2022-11-30
+0001616262 rmcf:ContestedSolicitationOfProxiesMember 2022-09-01 2022-11-30
+0001616262 rmcf:ContestedSolicitationOfProxiesMember 2022-03-01 2022-11-30
+0001616262 rmcf:ContestedSolicitationOfProxiesMember 2021-09-01 2021-11-30
+0001616262 rmcf:ContestedSolicitationOfProxiesMember 2021-03-01 2021-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember rmcf:FormerSeniorVicePresidentSalesAndMarketingMember 2022-09-30 2022-09-30
+0001616262 rmcf:FormerSeniorVicePresidentSalesAndMarketingMember 2022-09-30 2022-09-30
+0001616262 rmcf:FormerSeniorVicePresidentSalesAndMarketingMember 2022-09-30
+0001616262 rmcf:FormerSeniorVicePresidentSalesAndMarketingMember rmcf:SeparationAgreementMember 2022-03-01 2022-11-30
+0001616262 us-gaap:RestrictedStockUnitsRSUMember rmcf:FormerSeniorVicePresidentSalesAndMarketingMember rmcf:SeparationAgreementMember 2022-03-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:FranchisingMember 2022-09-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:ManufacturingMember 2022-09-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:RetailSegmentMember 2022-09-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:USwirlSegmentMember 2022-09-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember us-gaap:AllOtherSegmentsMember 2022-09-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember 2022-09-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:FranchisingMember 2022-09-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:ManufacturingMember 2022-09-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:RetailSegmentMember 2022-09-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:USwirlSegmentMember 2022-09-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember us-gaap:AllOtherSegmentsMember 2022-09-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchisingMember 2022-09-01 2022-11-30
+0001616262 rmcf:ManufacturingMember 2022-09-01 2022-11-30
+0001616262 rmcf:RetailSegmentMember 2022-09-01 2022-11-30
+0001616262 rmcf:USwirlSegmentMember 2022-09-01 2022-11-30
+0001616262 us-gaap:AllOtherSegmentsMember 2022-09-01 2022-11-30
+0001616262 rmcf:FranchisingMember 2022-11-30
+0001616262 rmcf:ManufacturingMember 2022-11-30
+0001616262 rmcf:RetailSegmentMember 2022-11-30
+0001616262 rmcf:USwirlSegmentMember 2022-11-30
+0001616262 us-gaap:AllOtherSegmentsMember 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:FranchisingMember 2021-09-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:ManufacturingMember 2021-09-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:RetailSegmentMember 2021-09-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:USwirlSegmentMember 2021-09-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember us-gaap:AllOtherSegmentsMember 2021-09-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember 2021-09-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:FranchisingMember 2021-09-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:ManufacturingMember 2021-09-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:RetailSegmentMember 2021-09-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:USwirlSegmentMember 2021-09-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember us-gaap:AllOtherSegmentsMember 2021-09-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchisingMember 2021-09-01 2021-11-30
+0001616262 rmcf:ManufacturingMember 2021-09-01 2021-11-30
+0001616262 rmcf:RetailSegmentMember 2021-09-01 2021-11-30
+0001616262 rmcf:USwirlSegmentMember 2021-09-01 2021-11-30
+0001616262 us-gaap:AllOtherSegmentsMember 2021-09-01 2021-11-30
+0001616262 rmcf:FranchisingMember 2021-11-30
+0001616262 rmcf:ManufacturingMember 2021-11-30
+0001616262 rmcf:RetailSegmentMember 2021-11-30
+0001616262 rmcf:USwirlSegmentMember 2021-11-30
+0001616262 us-gaap:AllOtherSegmentsMember 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:FranchisingMember 2022-03-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:ManufacturingMember 2022-03-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:RetailSegmentMember 2022-03-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:USwirlSegmentMember 2022-03-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember us-gaap:AllOtherSegmentsMember 2022-03-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember 2022-03-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:FranchisingMember 2022-03-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:ManufacturingMember 2022-03-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:RetailSegmentMember 2022-03-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:USwirlSegmentMember 2022-03-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember us-gaap:AllOtherSegmentsMember 2022-03-01 2022-11-30
+0001616262 us-gaap:IntersegmentEliminationMember 2022-03-01 2022-11-30
+0001616262 rmcf:FranchisingMember 2022-03-01 2022-11-30
+0001616262 rmcf:ManufacturingMember 2022-03-01 2022-11-30
+0001616262 rmcf:RetailSegmentMember 2022-03-01 2022-11-30
+0001616262 rmcf:USwirlSegmentMember 2022-03-01 2022-11-30
+0001616262 us-gaap:AllOtherSegmentsMember 2022-03-01 2022-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:FranchisingMember 2021-03-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:ManufacturingMember 2021-03-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:RetailSegmentMember 2021-03-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember rmcf:USwirlSegmentMember 2021-03-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember us-gaap:AllOtherSegmentsMember 2021-03-01 2021-11-30
+0001616262 us-gaap:OperatingSegmentsMember 2021-03-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:FranchisingMember 2021-03-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:ManufacturingMember 2021-03-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:RetailSegmentMember 2021-03-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember rmcf:USwirlSegmentMember 2021-03-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember us-gaap:AllOtherSegmentsMember 2021-03-01 2021-11-30
+0001616262 us-gaap:IntersegmentEliminationMember 2021-03-01 2021-11-30
+0001616262 rmcf:FranchisingMember 2021-03-01 2021-11-30
+0001616262 rmcf:ManufacturingMember 2021-03-01 2021-11-30
+0001616262 rmcf:RetailSegmentMember 2021-03-01 2021-11-30
+0001616262 rmcf:USwirlSegmentMember 2021-03-01 2021-11-30
+0001616262 us-gaap:AllOtherSegmentsMember 2021-03-01 2021-11-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒             QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+November 30, 2022
+☐             TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ________to________
+Commission file number:
+001-36865
+Rocky Mountain Chocolate Factory, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+47-1535633
+(State or other jurisdiction of
+Incorporation or organization)
+(I.R.S. Employer Identification No.)
+265 Turner Drive ,
+Durango ,
+CO
+81303
+(Address of principal executive offices, including zip code)
+( 970 )
+259-0554
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+RMCF
+Nasdaq
+Global Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐ Accelerated filer ☐
+Non-accelerated filer ☒ Smaller reporting company ☒
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No ☒
+As of January 10, 2023,
+6,250,297
+shares of the registrant’s common stock, $0.001 par value per share, were outstanding.
+1
+Table of Contents
+Table of Contents
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+FORM 10-Q
+TABLE OF CONTENTS
+PART I.           FINANCIAL INFORMATION
+4
+Item
+1.           Financial Statements
+4
+CONSOLIDATED STATEMENTS OF OPERATIONS
+4
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+6
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS ’
+EQUITY
+7
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+8
+Item
+2.           Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+20
+Item
+3.           Quantitative and Qualitative Disclosures About Market Risk
+29
+Item
+4.           Controls and Procedures
+29
+PART II.           OTHER INFORMATION
+30
+Item
+1.           Legal Proceedings
+30
+Item
+1A.
+Risk Factors
+30
+Item
+2.           Unregistered Sales of Equity Securities and Use of Proceeds
+30
+Item
+3.           Defaults Upon Senior Securities
+30
+Item
+4.           Mine Safety Disclosures
+30
+Item
+5.           Other Information
+30
+Item
+6.           Exhibits
+31
+SIGNATURES
+32
+2
+Table of Contents
+Table of Contents
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q ( “ Quarterly Report ” ) includes statements of our expectations, intentions, plans and beliefs that constitute
+“ forward-looking statements ”
+within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the
+“ Exchange Act ” ), and are intended to come within the safe harbor protection provided by those sections. These forward-looking statements involve various risks and uncertainties. The statements, other than statements of historical fact, included in this Quarterly Report are forward-looking statements. Many of the forward-looking statements contained in this document may be identified by the use of forward-looking words such as "will," "intend," "believe," "expect," "anticipate," "should," "plan," "estimate," "potential," or similar expressions. However, the absence of these words or similar expressions does not mean that a statement is not forward-looking. All statements that address operating performance, events or developments that we expect or anticipate will occur in the future - including statements expressing general views about future operating results - are forward-looking statements. Management believes that these forward-looking statements are reasonable as and when made. However, caution should be taken not to place undue reliance on any such forward-looking statements because such statements speak only as of the date of this Quarterly Report. Our Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. In addition, forward-looking statements are subject to certain risks and uncertainties that could cause our Company ’ s actual results to differ materially from historical experience and our present expectations or projections. These risks and uncertainties include, but are not limited to: inflationary impacts, the impacts of the COVID-19 pandemic on our business, the outcome of legal proceedings, changes in the confectionery business environment, seasonality, consumer interest in our products, the success of our frozen yogurt business, receptiveness of our products internationally, consumer and retail trends, costs and availability of raw materials, competition, the success of our co-branding strategy, the success of international expansion efforts and the effect of government regulations. For a detailed discussion of the risks and uncertainties that may cause our actual results to differ from the forward-looking statements contained herein, please see Part II,
+“ Item 1A. Risk Factors ”
+and the risks described elsewhere in this report and the section entitled
+“ Risk Factors ”
+contained in Item 1A. of our Annual Report on Form 10-K for the fiscal year ended February 28, 2022 filed on May 27, 2022, as amended on June 28, 2022, as updated by this report.
+Unless otherwise specified, the
+“ Company, ”
+“ we, ”
+“ us ”
+or
+“ our ”
+refers to Rocky Mountain Chocolate Factory, Inc., a Delaware corporation, and its consolidated subsidiaries (including its operating subsidiary with the same name, Rocky Mountain Chocolate Factory, Inc., a Colorado corporation).
+3
+Table of Contents
+PART I.
+FINANCIAL INFORMATION
+Item 1.           Financial Statements
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(unaudited)
+Three Months Ended November 30,
+Nine Months Ended November 30,
+2022
+2021
+2022
+2021
+Revenues
+Sales
+$ 7,963,568     $ 7,012,429     $ 19,518,678     $ 18,786,654
+Franchise and royalty fees
+1,511,813       1,495,205       5,308,960       5,240,768
+Total Revenue
+9,475,381       8,507,634       24,827,638       24,027,422
+Costs and Expenses
+Cost of sales
+5,869,566       5,200,749       14,672,015       13,819,428
+Franchise costs
+551,549       458,518       1,569,777       1,747,348
+Sales and marketing
+607,249       377,231       1,617,135       1,195,823
+General and administrative
+2,111,741       3,865,912       7,810,601       6,575,037
+Retail operating
+422,430       420,320       1,364,661       1,304,560
+Depreciation and amortization, exclusive of depreciation and amortization expense of $ 160,006 , $ 155,170 , $ 480,479
+and $ 464,767 , respectively, included in cost of sales
+127,887       143,612       382,843       440,205
+Total costs and expenses
+9,690,422       10,466,342       27,417,032       25,082,401
+Loss from Operations
+( 215,041 )     ( 1,958,708 )     ( 2,589,394 )     ( 1,054,979 )
+Other Income
+Interest Expense
+( 4,172 )     -       ( 4,172 )     -
+Interest Income
+7,234       2,195       13,732       9,348
+Gain on insurance recovery
+-       -       -       167,123
+Other income, net
+3,062       2,195       9,560       176,471
+Loss Before Income Taxes
+( 211,979 )     ( 1,956,513 )     ( 2,579,834 )     ( 878,508 )
+Income Tax Provision
+-       ( 478,867 )     1,388,272       ( 177,600 )
+Consolidated Net Loss
+$ ( 211,979 )   $ ( 1,477,646 )   $ ( 3,968,106 )   $ ( 700,908 )
+Basic Loss per Common Share
+$ ( 0.03 )   $ ( 0.24 )   $ ( 0.64 )   $ ( 0.11 )
+Diluted Loss per Common Share
+$ ( 0.03 )   $ ( 0.24 )   $ ( 0.64 )   $ ( 0.11 )
+Weighted Average Common Shares
+Outstanding - Basic
+6,227,002       6,141,507       6,219,362       6,127,884
+Dilutive Effect of Employee
+Stock Awards
+-       -       -       -
+Weighted Average Common Shares
+Outstanding - Diluted
+6,227,002       6,141,507       6,219,362       6,127,884
+The accompanying notes are an integral part of these consolidated financial statements.
+4
+Table of Contents
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+November 30,
+February 28,
+2022
+2022
+(unaudited)
+Assets
+Current Assets
+Cash and cash equivalents
+$ 3,216,132     $ 7,587,374
+Accounts receivable, less allowance for doubtful accounts of $ 837,568
+and $ 870,735 , respectively     3,227,617       1,967,914
+Notes receivable, current portion, less current portion of the valuation allowance of $ 34,704
+and $ 47,228 , respectively     21,133       8,680
+Refundable income taxes
+432,749       736,528
+Inventories
+6,195,929       4,354,202
+Other
+451,929       343,268
+Total current assets
+13,545,489       14,997,966
+Property and Equipment, Net
+5,751,858       5,499,890
+Other Assets
+Notes receivable, less current portion and valuation allowance of $ 47,247
+and $ 65,059 , respectively     95,686       -
+Goodwill, net
+729,701       729,701
+Franchise rights, net
+1,800,769       2,078,066
+Intangible assets, net
+323,937       353,685
+Deferred income taxes, net
+-       1,388,271
+Lease right of use asset
+2,547,035       1,771,034
+Other
+48,115       62,148
+Total other assets
+5,545,243       6,382,905
+Total Assets
+$ 24,842,590     $ 26,880,761
+Liabilities and Stockholders' Equity
+Current Liabilities
+Accounts payable
+$ 3,501,983     $ 1,579,917
+Accrued salaries and wages
+777,378       2,125,430
+Gift card liabilities
+546,475       574,883
+Other accrued expenses
+339,877       239,644
+Contract liabilities
+198,357       195,961
+Lease liability
+780,256       595,897
+Total current liabilities
+6,144,326       5,311,732
+Lease Liability, Less Current Portion
+1,801,795       1,218,256
+Contract Liabilities, Less Current Portion
+993,119       950,847
+Commitments and Contingencies
+Stockholders' Equity
+Preferred stock,
+$.001
+par value per share;
+250,000
+authorized; - 0 - shares issued and outstanding     -       -
+Common stock,
+$.001
+par value,
+46,000,000
+shares authorized,
+6,238,776
+shares and
+6,186,356
+shares issued and outstanding, respectively     6,239       6,186
+Additional paid-in capital
+9,278,407       8,806,930
+Retained earnings
+6,618,704       10,586,810
+Total stockholders' equity
+15,903,350       19,399,926
+Total Liabilities and Stockholders' Equity
+$ 24,842,590     $ 26,880,761
+The accompanying notes are an integral part of these consolidated financial statements.
+5
+Table of Contents
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited)
+Nine Months Ended
+November 30,
+2022
+2021
+Cash Flows From Operating Activities
+Net loss
+$ ( 3,968,106 )   $ ( 700,908 )
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+863,322       904,972
+Provision for obsolete inventory
+166,255       103,422
+Provision for loss on accounts and notes receivable
+( 119,000 )     -
+Gain on sale or disposal of property and equipment
+( 14,403 )     ( 153,129 )
+Expense recorded for stock compensation
+471,530       709,210
+Deferred income taxes
+1,388,271       ( 426,041 )
+Changes in operating assets and liabilities:
+Accounts receivable
+( 1,171,146 )     ( 985,887 )
+Refundable income taxes
+303,779       1,168
+Inventories
+( 2,091,099 )     ( 936,483 )
+Contract liabilities
+4,500       23,048
+Other current assets
+( 109,860 )     ( 105,851 )
+Accounts payable
+1,976,869       1,079,671
+Accrued liabilities
+( 1,284,330 )     1,343,856
+Net cash (used in) provided by operating activities
+( 3,583,418 )     857,048
+Cash Flows from Investing Activities
+Addition to notes receivable
+( 58,635 )     -
+Proceeds received on notes receivable
+49,254       98,918
+Proceeds from sale or disposal of assets
+22,289       1,751
+Proceeds from insurance recovery
+-       206,336
+Purchases of property and equipment
+( 810,732 )     ( 704,462 )
+Decrease (Increase) in other assets
+10,000       ( 10,000 )
+Net cash used in investing activities
+( 787,824 )     ( 407,457 )
+Cash Flows from Financing Activities
+Dividends paid and redemption of outstanding preferred stock purchase rights
+-       ( 61,276 )
+Net cash used in financing activities
+-       ( 61,276 )
+Net (Decrease) Increase in Cash and Cash Equivalents
+( 4,371,242 )     388,315
+Cash and Cash Equivalents, Beginning of Period
+7,587,374       5,633,279
+Cash and Cash Equivalents, End of Period
+$ 3,216,132     $ 6,021,594
+The accompanying notes are an integral part of these consolidated financial statements.
+6
+Table of Contents
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS’ EQUITY
+(unaudited)
+Additional
+Common Stock
+Paid-in
+Retained
+Shares
+Amount
+Capital
+Earnings
+Total
+Balance as of August 31, 2021
+6,124,288
+$
+6,124
+$
+8,241,286
+$
+11,766,521
+$
+20,013,931
+Consolidated net (loss) income
+( 1,477,646
+)
+( 1,477,646
+)
+Issuance of common stock, vesting of restricted stock units and other
+52,409
+53
+( 53
+)
+-
+Equity compensation, restricted stock units
+439,586
+439,586
+Redemption of outstanding preferred stock purchase rights
+( 61,276
+)
+( 61,276
+)
+Balance as of November 30, 2021
+6,176,697
+$
+6,177
+$
+8,680,819
+$
+10,227,599
+$
+18,914,595
+Balance as of February 28, 2021
+6,074,293
+6,074
+$
+7,971,712
+$
+10,989,783
+$
+18,967,569
+Consolidated net (loss) income
+( 700,908
+)
+( 700,908
+)
+Issuance of common stock, vesting of restricted stock units and other
+102,404
+103
+( 103
+)
+-
+Equity compensation, restricted stock units
+709,210
+709,210
+Redemption of oustanding preferred stock purchase rights
+( 61,276
+)
+( 61,276
+)
+Balance as of November 30, 2021
+6,176,697
+$
+6,177
+$
+8,680,819
+$
+10,227,599
+$
+18,914,595
+Balance as of August 31, 2022
+6,223,234
+$
+6,223
+$
+9,087,530
+$
+6,830,683
+$
+15,924,436
+Consolidated net (loss) income
+( 211,979
+)
+( 211,979
+)
+Issuance of common stock, vesting of restricted stock units and other
+15,542
+16
+( 16
+)
+-
+Equity compensation, restricted stock units
+190,893
+190,893
+Balance as of November 30, 2022
+6,238,776
+$
+6,239
+$
+9,278,407
+$
+6,618,704
+$
+15,903,350
+Balance as of February 28, 2022
+6,186,356
+6,186
+$
+8,806,930
+$
+10,586,810
+$
+19,399,926
+Consolidated net (loss) income
+( 3,968,106
+)
+( 3,968,106
+)
+Issuance of common stock, vesting of restricted stock units and other
+52,420
+53
+( 53
+)
+-
+Equity compensation, restricted stock units
+471,530
+471,530
+Balance as of November 30, 2022
+6,238,776
+$
+6,239
+$
+9,278,407
+$
+6,618,704
+$
+15,903,350
+The accompanying notes are an integral part of these consolidated financial statements.
+7
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+NOTE
+1
+– NATURE OF OPERATIONS AND BASIS OF PRESENTATION
+Nature of Operations
+The accompanying consolidated financial statements include the accounts of Rocky Mountain Chocolate Factory, Inc., a Delaware corporation, its subsidiaries, Rocky Mountain Chocolate Factory, Inc. (a Colorado corporation), Aspen Leaf Yogurt, LLC (“ALY”), U-Swirl International, Inc. (“U-Swirl”), and U-Swirl, Inc. (“SWRL”) (collectively, the “Company”).
+The Company is an international franchisor, confectionery manufacturer, and retail operator. Founded in
+1981,
+the Company is headquartered in Durango, Colorado, and manufactures an extensive line of premium chocolate candies and other confectionery products. U-Swirl franchises and operates self-serve frozen yogurt cafés. The Company also sells its candy in selected locations outside of its system of retail stores and through ecommerce channels.
+U-Swirl operates self-serve frozen yogurt cafés under the names “U-Swirl,” “Yogurtini,” “CherryBerry,” “Yogli Mogli Frozen Yogurt,” “Fuzzy Peach Frozen Yogurt,” “Let’s Yo!” and “Aspen Leaf Yogurt.”
+The Company’s revenues are currently derived from
+three
+principal sources: (i) sales to franchisees and others of chocolates and other confectionery products manufactured by the Company; (ii) the collection of franchise fees and royalties from franchisees’ sales; and (iii) sales at Company-owned stores of chocolates, frozen yogurt, and other confectionery products.
+The following table summarizes the number of stores operating under the Rocky Mountain Chocolate Factory brand and frozen yogurt cafés as of
+November 30, 2022:
+Sold, Not Yet
+Open
+Open
+Total
+Rocky Mountain Chocolate Factory
+Company-owned stores
+-       1       1
+Franchise stores - Domestic stores and kiosks
+7       158       165
+International license stores
+1       4       5
+Cold Stone Creamery - co-branded
+4       101       105
+U-Swirl (Including all associated brands)
+Company-owned stores - co-branded
+-       3       3
+Franchise stores - Domestic stores
+1       50       51
+Franchise stores - Domestic - co-branded
+-       7       7
+International license stores
+-       1       1
+Total
+13       325       338
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared by the Company, without audit, and reflect all adjustments which are, in the opinion of management, necessary for a fair statement of the results for the interim periods presented. The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial reporting and Securities and Exchange Commission (the “SEC”) regulations. Certain information and footnote disclosures normally included in financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to such rules and regulations. In the opinion of management, the consolidated financial statements reflect all adjustments (of a normal and recurring nature) which are necessary for a fair presentation of the financial position, results of operations, and cash flows for the interim periods presented. The results of operations for the
+nine
+months ended
+November 30, 2022,
+are
+not
+necessarily indicative of the results to be expected for the entire fiscal year.
+These consolidated financial statements should be read in conjunction with the audited financial statements and notes thereto included in the Company's Annual Report on Form
+10 -K for the fiscal year ended
+February 28, 2022,
+as amended by Amendment
+No.
+1
+on Form
+10 -K/A filed on
+June 28, 2022.
+The year-end balance sheet data was derived from audited financial statements but does
+not
+include all disclosures required by accounting principles generally accepted in the United States of America.
+8
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+Subsequent Events
+On
+December 14, 2022 ( the "Effective Date"), the Company entered into a Settlement Agreement and Release (the “Settlement Agreement”), by and among the Company, Bradley L. Radoff, an individual (“Radoff”), Andrew T. Berger, an individual (“Berger”), AB Value Partners, LP (“AB Value Partners”), AB Value Management LLC (“AB Value Management” and, together with AB Value Partners, “AB Value” and, together with Radoff, “ABV-Radoff”), and Mary Bradley, an individual (each, a “Party” and together, the “Parties”), pertaining to, among other things, the dismissal of all pending lawsuits between the Parties and the appointment of
+one
+director to the Company’s Board of Directors (the “Board”).
+Pursuant to the Settlement Agreement, the Company and ABV-Radoff agreed to a “Standstill Period” commencing on the Effective Date and ending on the date that is
+forty-five
+( 45 ) days prior to the beginning of the Company’s advance notice period for the nomination of directors at the Company’s
+2025
+annual meeting of stockholders. During the Standstill Period, ABV-Radoff agreed to comply with certain customary standstill provisions, including an agreement by each member of ABV-Radoff, subject to certain exceptions, to vote their shares of common stock as recommended by the Board on any matter to be voted on at any meetings of stockholders during the Standstill Period, including with respect to the election of directors, and an agreement that at
+no
+time will AB Value beneficially own
+10.0 % or more of the Company’s common stock outstanding at such time and at
+no
+time will Radoff own
+12.5 % or more of the Company’s common stock outstanding at such time.
+The Company also agreed that the Board shall take such action to appoint a female director candidate with at least
+five
+years of fast-moving consumer goods franchise operational experience and
+three
+years of prior public company board experience who qualifies as an independent director under Rule
+5605
+of the Nasdaq Listing Rules (the “Applicable Criteria”) designated by ABV-Radoff and subject to the Board’s reasonable approval (such approval
+not
+to be unreasonably withheld) (the “New Director”), to serve as a member of the Board with a term expiring at the
+2023
+annual meeting of stockholders (the
+“2023
+Annual Meeting”). The Company agreed to nominate such New Director for election to the Board at the
+2023
+Annual Meeting and the Company’s
+2024
+annual meeting of stockholders and to appoint the New Director to the Nominating and Corporate Governance Committee and Audit Committee of the Board, subject to the Board’s reasonable approval (such approval
+not
+to be unreasonably withheld) and the New Director’s qualifications to serve on such committees under the Nasdaq Listing Rules and the applicable U.S. Securities and Exchange Commission rules and regulations. In addition, subject to certain conditions and requirements described in the Agreement, ABV-Radoff will have certain customary replacement rights during the Standstill Period. Any replacement New Director identified by ABV-Radoff must satisfy the Applicable Criteria and be reasonably acceptable to the Nominating and Corporate Governance Committee of the Board and the Board (such acceptance
+not
+to be unreasonably withheld).
+Furthermore, pursuant to the Settlement Agreement, the Parties agreed to mutual releases and discharges of all claims by AB Value, Radoff, Bradley and Berger against the Company and by the Company against AB Value, Radoff, Bradley and Berger, in each case up to the date of the Agreement, except in connection with the claims, counterclaims, causes of action, defenses, or other rights or obligations relating to the demand for books and records pursuant to Section
+220
+of the Delaware General Corporation Law previously delivered by Radoff to the Company dated
+November 9, 2022.
+The Parties agreed to dismiss (i) the lawsuit filed by AB Value on
+September 23, 2021,
+in the Court of Chancery of the State of Delaware, against the Company and certain of its former and current directors captioned AB VALUE PARTNERS, LP, et al. v. Rocky Mountain Chocolate Factory, Inc., et al., C.A.
+No.
+2021 - 0819 -LWW (Del. Ch.), and (ii) the lawsuit filed by the Company on
+September 28, 2022,
+in the Court of Chancery of the State of Delaware against ABV-Radoff, Berger and Mary Bradley captioned Rocky Mountain Chocolate Factory, Inc. v. Radoff, et al. C.A.
+No.
+2021 - 0819 -LWW (Del. Ch.) (collectively, the “Lawsuits”). The Settlement Agreement includes customary mutual non-disparagement provisions during the Standstill Period. The Company agreed to reimburse ABV-Radoff for their fees and expenses in the preparation and execution of the Settlement Agreement and the related matters in the amount of
+one million
+and
+seventy-five thousand
+dollars ($ 1,075,000.00 ).
+On
+December 16, 2022,
+the Parties filed a Stipulation of Dismissal with Prejudice for each of the Lawsuits with the Court of Chancery of the State of Delaware.
+Management evaluated all activity of the Company through the issue date of the financial statements and concluded that
+no
+subsequent events, except for those described above, have occurred that would require recognition or disclosure in the financial statements.
+Recent Accounting Pronouncements
+Except for the recent accounting pronouncements described below, other recent accounting pronouncements are
+not
+expected to have a material impact on our condensed consolidated financial statements.
+In
+June 2016,
+the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”)
+2016 - 13,
+Financial Instruments - Credit Losses (Topic
+326 ): Measurement of Credit Losses on Financial Instruments. ASU
+2016 - 13
+significantly changes the impairment model for most financial assets and certain other instruments. ASU
+2016 - 13
+will require immediate recognition of estimated credit losses expected to occur over the remaining life of many financial assets, which will generally result in earlier recognition of allowances for credit losses on loans and other financial instruments and affect the carrying value of accounts receivable. ASU
+2016 - 13
+is effective for the Company's fiscal year beginning
+March 1, 2023,
+and subsequent interim periods. The Company is currently evaluating the impact the adoption of ASU
+2016 - 13
+will have on the Company's consolidated financial statements.
+9
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+NOTE
+2
+– SUPPLEMENTAL CASH FLOW INFORMATION
+Nine Months Ended
+November 30,
+Cash paid (received) for:
+2022
+2021
+Interest
+$ 25,000     $ 5,202
+Income taxes
+$ ( 303,777 )   $ 247,273
+NOTE
+3
+–REVENUE FROM CONTRACTS WITH CUSTOMERS
+The Company recognizes revenue from contracts with its customers in accordance with Accounting Standards Codification® (“ASC”)
+606,
+which provides that revenues are recognized when control of promised goods or services is transferred to a customer in an amount that reflects the consideration expected to be received for those goods or services. The Company generally receives a fee associated with the Franchise Agreement or License Agreement (collectively “Customer Contracts”) at the time that the Customer Contract is entered. These Customer Contracts have a term of up to
+20
+years, however the majority of Customer Contracts have a term of
+10
+years. During the term of the Customer Contract, the Company is obligated to many performance obligations that the Company has determined are
+not
+distinct. The resulting treatment of revenue from Customer Contracts is that the revenue is recognized proportionately over the life of the Customer Contract.
+Initial Franchise Fees, License Fees, Transfer Fees, and Renewal Fees
+The initial franchise services are
+not
+distinct from the continuing rights or services offered during the term of the franchise agreement and are treated as a single performance obligation. Initial franchise fees are being recognized as the Company satisfies the performance obligation over the term of the franchise agreement, which is generally
+10
+years.
+The following table summarizes contract liabilities as of
+November 30, 2022,
+and
+November 30, 2021:
+Nine Months Ended
+November 30:
+2022
+2021
+Contract liabilities at the beginning of the year:
+$ 1,146,808     $ 1,119,646
+Revenue recognized
+( 180,000 )     ( 164,952 )
+Contract fees received
+184,500       188,000
+Deferred (amortized) gain on the financed sale of equipment
+40,168       ( 21,928 )
+Contract liabilities at the end of the period:
+$ 1,191,476     $ 1,120,766
+At
+November 30, 2022,
+annual revenue expected to be recognized in the future, related to performance obligations that are
+not
+yet fully satisfied, are estimated to be the following:
+FYE 23
+$ 51,242
+FYE 24
+194,622
+FYE 25
+179,637
+FYE 26
+167,515
+FYE 27
+150,824
+Thereafter
+447,636
+Total
+$ 1,191,476
+Gift Cards
+The Company’s franchisees sell gift cards, which do
+not
+have expiration dates or non-usage fees. The proceeds from the sale of gift cards by the franchisees are accumulated by the Company and paid out to the franchisees upon customer redemption. ASC
+606
+requires the use of the “proportionate” method for recognizing breakage. Under the guidance of ASC
+606,
+the Company recognizes breakage from gift cards when the gift card is redeemed by the customer or the Company determines the likelihood of the gift card being redeemed by the customer is remote (“gift card breakage”). The determination of the gift card breakage rate is based on Company-specific historical redemption patterns.
+10
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+Factory Sales of Confectionary Items, Retail Sales, and Royalty and Marketing Fees
+Confectionary items sold to the Company’s franchisees, others, and its Company-owned stores sales are recognized at the time of the underlying sale, based on the terms of the sale and when ownership of the inventory is transferred, and are presented net of sales taxes and discounts. Royalties and marketing fees from franchised or licensed locations, which are based on a percent of sales, are recognized at the time the sales occur.
+NOTE
+4
+– DISAGGREGATION OF REVENUE
+The following table presents disaggregated revenue by the method of recognition and segment:
+Three Months Ended November 30, 2022
+Revenues recognized over time under ASC 606:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Franchise fees
+$ 48,965     $ -     $ -     $ 9,488     $ 58,453
+Revenues recognized at a point in time:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Factory sales
+-       7,284,940       -       -       7,284,940
+Retail sales
+-       -       301,594       377,034       678,628
+Royalty and marketing fees
+1,189,594       -       -       263,766       1,453,360
+Total
+$ 1,238,559     $ 7,284,940     $ 301,594     $ 650,288     $ 9,475,381
+Three Months Ended November 30, 2021
+Revenues recognized over time under ASC 606:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Franchise fees
+$ 53,944     $ -     $ -     $ 7,755     $ 61,699
+Revenues recognized at a point in time:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Factory sales
+-       6,376,367       -       -       6,376,367
+Retail sales
+-       -       275,530       360,532       636,062
+Royalty and marketing fees
+1,196,192       -       -       237,314       1,433,506
+Total
+$ 1,250,136     $ 6,376,367     $ 275,530     $ 605,601     $ 8,507,634
+11
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+Nine Months Ended November 30, 2022
+Revenues recognized over time under ASC 606:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Franchise fees
+$ 147,720     $ -     $ -     $ 32,280     $ 180,000
+Revenues recognized at a point in time:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Factory sales
+-       17,250,750       -       -       17,250,750
+Retail sales
+-       -       815,197       1,452,731       2,267,928
+Royalty and marketing fees
+4,070,980       -       -       1,057,980       5,128,960
+Total
+$ 4,218,700     $ 17,250,750     $ 815,197     $ 2,542,991     $ 24,827,638
+Nine Months Ended November 30, 2021
+Revenues recognized over time under ASC 606:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Franchise fees
+$ 136,907     $ -     $ -     $ 28,045     $ 164,952
+Revenues recognized at a point in time:
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Total
+Factory sales
+-       16,578,535       -       -       16,578,535
+Retail sales
+-       -       829,542       1,378,577       2,208,119
+Royalty and marketing fees
+4,147,951       -       -       927,865       5,075,816
+Total
+$ 4,284,858     $ 16,578,535     $ 829,542     $ 2,334,487     $ 24,027,422
+NOTE
+5
+– INVENTORIES
+Inventories consist of the following:
+November 30, 2022
+February 28, 2022
+Ingredients and supplies
+$ 3,600,464     $ 2,753,068
+Finished candy
+3,302,200       2,168,084
+U-Swirl food and packaging
+44,950       56,319
+Reserve for slow moving inventory
+( 751,685 )     ( 623,269 )
+Total inventories
+$ 6,195,929     $ 4,354,202
+NOTE
+6
+– PROPERTY AND EQUIPMENT, NET
+Property and equipment consist of the following:
+November 30, 2022
+February 28, 2022
+Land
+$ 513,618     $ 513,618
+Building
+5,150,355       5,148,854
+Machinery and equipment
+10,647,391       10,207,182
+Furniture and fixtures
+766,354       787,921
+Leasehold improvements
+950,242       985,914
+Transportation equipment
+445,489       479,701
+18,473,449       18,123,190
+Less accumulated depreciation
+( 12,721,591 )     ( 12,623,300 )
+Property and equipment, net
+$ 5,751,858     $ 5,499,890
+12
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+Depreciation expense related to property and equipment totaled $ 185,545
+and $ 556,277
+during the
+three
+and
+nine
+months ended
+November 30, 2022,
+compared to $ 177,909
+and $ 541,887
+during the
+three
+and
+nine
+months ended
+November 30, 2021,
+respectively.
+NOTE
+7
+– GOODWILL AND INTANGIBLE ASSETS
+Goodwill and intangible assets consist of the following:
+November 30, 2022
+February 28, 2022
+Amortization Period
+(in years)
+Gross Carrying
+Value
+Accumulated
+Amortization
+Gross Carrying
+Value
+Accumulated
+Amortization
+Intangible assets subject to amortization
+Store design
+10       $ 394,826     $ 254,588     $ 394,826     $ 240,409
+Packaging licenses
+3 - 5       120,830       120,830       120,830       120,830
+Packaging design
+10         430,973       430,973       430,973       430,973
+Trademark/Non-competition agreements
+5 - 20       556,339       372,640       556,339       357,071
+Franchise rights
+20         5,979,637       4,178,868       5,979,637       3,901,571
+Total
+7,482,605       5,357,899       7,482,605       5,050,854
+Goodwill and intangible assets not subject to amortization
+Franchising segment-
+Company stores goodwill
+$ 515,065             $ 515,065
+Franchising goodwill
+97,318               97,318
+Manufacturing segment-goodwill
+97,318               97,318
+Trademark
+20,000               20,000
+Total
+729,701               729,701
+Total Goodwill and Intangible Assets
+$ 8,212,306     $ 5,357,899     $ 8,212,306     $ 5,050,854
+Amortization expense related to intangible assets totaled $ 102,348
+and $ 307,045
+during the
+three
+and
+nine
+months ended
+November 30, 2022,
+compared to $ 120,873
+and $ 363,085
+during the
+three
+and
+nine
+months ended
+November 30, 2021,
+respectively.
+At
+November 30, 2022,
+the annual amortization of intangible assets, based upon the Company’s existing intangible assets and current useful lives, is estimated to be the following:
+FYE 23
+$ 102,348
+FYE 24
+346,672
+FYE 25
+294,427
+FYE 26
+251,342
+FYE 27
+215,382
+Thereafter
+914,535
+Total
+$ 2,124,706
+NOTE
+8
+– LINE OF CREDIT
+Revolving Credit Line
+The Company has a $ 5.0
+million credit line (subject to certain borrowing base limitations) for general corporate and working capital purposes, of which $ 5.0
+million was available for borrowing and
+no
+amount was outstanding as of
+November 30, 2022.
+The credit line is secured by substantially all of the Company’s assets, except retail store assets. Interest on borrowings is at the Secured Overnight Financing Rate plus
+2.37 % ( 6.19 % at
+November 30, 2022).
+Additionally, the line of credit is subject to various financial ratios and leverage covenants. At
+November 30, 2022,
+the Company was compliant with all covenants.
+13
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+NOTE
+9
+– STOCKHOLDERS’ EQUITY
+Warrants
+In consideration of an Exclusive Supplier Operating Agreement, dated
+December 20, 2019 ( “Exclusive Supplier Agreement”), by and between the Company and Edible Arrangements, and the performance of specific obligations therein, on
+December 20, 2019,
+the Company issued a Common Stock Purchase Warrant, dated
+December 20, 2019 ( the “Warrant”), to purchase up to
+960,677
+shares of the Company’s common stock (the “Warrant Shares”) at an exercise price of $ 8.76
+per share. The Warrant Shares vest in annual tranches in varying amounts following each contract year under the exclusive supplier agreement, subject to, and only upon, the achievement of certain revenue thresholds on an annual or cumulative
+five -year basis in connection with performance under the exclusive supplier agreement. The Warrant expires
+six
+months after the final and conclusive determination of revenue thresholds for the
+fifth
+contract year and the cumulative revenue determination in accordance with the terms of the Warrant. As of
+November 30, 2022,
+no
+warrants have vested and subsequent to the termination by the Company of the Exclusive Supplier Agreement on
+November 1, 2022,
+the Company has
+no
+remaining material obligations under the Warrant.
+The Company determined that the grant date fair value of the warrants was de minimis and did
+not
+record any amount in consideration of the warrants. The Company utilized a Monte Carlo model to determine the grant date fair value.
+Stock-Based Compensation
+Under the Company’s
+2007
+Equity Incentive Plan (as amended and restated) (the
+“2007
+Plan”), the Company
+may
+authorize and grant stock awards to employees, non-employee directors, and certain other eligible participants, including stock options, restricted stock, and restricted stock units.
+The following table summarizes restricted stock unit activity during the
+nine
+months ended
+November 30, 2022,
+and
+2021:
+Nine Months Ended
+November 30,
+2022
+2021
+Outstanding non-vested restricted stock units as of February 28:
+105,978       209,450
+Granted
+94,892       26,058
+Vested
+( 52,421 )     ( 117,470 )
+Cancelled/forfeited
+( 1,232 )     ( 2,400 )
+Outstanding non-vested restricted stock units as of November 30:
+147,217       115,638
+Weighted average grant date fair value
+$ 5.28     $ 9.23
+Weighted average remaining vesting period (in years)
+2.05       2.40
+The following table summarizes stock option activity during the
+nine
+months ended
+November 30, 2022,
+and
+2021:
+Nine Months Ended
+November 30,
+2022
+2021
+Outstanding stock options as of February 28:
+-       -
+Granted
+36,144       -
+Exercised
+-       -
+Cancelled/forfeited
+-       -
+Outstanding stock options as of November 30:
+36,144       -
+Weighted average exercise price
+6.49       n/a
+Weighted average remaining contractual term (in years)
+9.51       n/a
+The Company did
+not
+issue any unrestricted shares of stock to non-employee directors during the
+three
+and
+nine
+months ended
+November 30, 2022,
+compared to
+26,058
+restricted shares issued during the
+three
+months ended
+November 30, 2021,
+and
+9,000
+unrestricted shares during the
+nine
+months ended
+November 30, 2021.
+In connection with these non-employee director stock issuances, the Company recognized $ 0
+and $ 110,747
+during the
+three
+and
+nine
+months ended
+November 30, 2022,
+respectively, compared to $ 55,373
+of stock-based compensation expense during the
+three
+months ended
+November 30, 2021,
+and $ 101,983
+during the
+nine
+months ended
+November 30, 2021.
+14
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+During the
+nine
+months ended
+November 30, 2022,
+the Company issued
+36,144
+stock options and issued up to
+94,892
+performance-based restricted stock units subject to vesting based on the achievement of performance goals. These issuances were made to the Company’s new Chief Executive Officer and Chief Financial Officer as a part of the incentive compensation structure for Mr. Sarlls and Mr. Arroyo. The stock options were issued with an aggregate grant date fair value of $ 77,267
+or $ 2.14
+per share. The performance-based restricted stock units were issued with an aggregate grant date fair value of $ 298,582
+or $ 6.29
+per share, based upon a target issuance of
+47,446
+shares. The stock options granted vest with respect to
+one - third
+of the shares on the last day of the Company’s current fiscal year ending
+February 28, 2023,
+and vest as to remaining shares in equal quarterly increments on the last day of each quarter until the final vesting on
+February 28, 2025.
+The performance-based restricted stock units will vest following the end of the Company’s fiscal year ending
+February 2025
+with respect to the target number of performance-based restricted stock units if the Company achieves an annualized total shareholder return of
+12.5%
+during the performance period, subject to continued service through the end of the performance period. The Compensation Committee has the discretion to determine the number of performance-based restricted stock units between
+0 - 200%
+of the target number that will vest based on the achievement of performance below or above the target performance goal.
+The Company recognized $ 190,893
+and $ 471,530
+of stock-based compensation expense during the
+three - and
+nine -month periods ended
+November 30, 2022,
+respectively, compared to $ 621,997
+and $ 845,011
+during the
+three
+and
+nine
+month periods ended
+November 30, 2021,
+respectively. Compensation costs related to stock-based compensation are generally amortized over the vesting period of the stock awards.
+Except as noted above, restricted stock units generally vest in equal annual installments over a period of
+five
+to
+six
+years. During the
+nine -month periods ended
+November 30, 2022,
+and
+2021,
+52,421
+and
+117,470
+restricted stock units vested and were issued as common stock, respectively. The total unrecognized compensation expense of non-vested, non-forfeited restricted stock units and stock options granted as of
+November 30, 2022,
+was $ 665,709 , which is expected to be recognized over the weighted-average period of
+2.05
+years.
+NOTE
+10
+– EARNINGS PER SHARE
+Basic earnings per share is calculated using the weighted-average number of common shares outstanding. Diluted earnings per share reflects the potential dilution that could occur from common shares issuable through the settlement of restricted stock units. Restricted stock units become dilutive within the period granted and remain dilutive until the units vest and are issued as common stock.
+The weighted-average number of shares outstanding used in the computation of diluted earnings per share does
+not
+include outstanding common shares issuable if their effect would be anti-dilutive. During the
+nine
+months ended
+November 30, 2022,
+130,367
+shares of issuable common stock were excluded from the computation of diluted earnings per share because their effect would have been anti-dilutive. During the
+nine
+months ended
+November 30, 2021,
+960,677
+shares of common stock warrants and
+160,951
+shares of issuable common stock were excluded from the computation of diluted earnings per share because their effect would have been anti-dilutive.
+NOTE
+11
+– LEASING ARRANGEMENTS
+The Company conducts its retail operations in facilities leased under non-cancelable operating leases of up to
+ten
+years. Certain leases contain renewal options for between
+five
+and
+ten
+additional years at increased monthly rentals. Some of the leases provide for contingent rentals based on sales in excess of predetermined base levels.
+The Company acts as the primary lessee of some franchised store premises, which the Company then subleases to franchisees, but the majority of existing franchised locations are leased by the franchisee directly.
+In some instances, the Company has leased space for its Company-owned locations that are now occupied by franchisees. When the Company-owned location was sold or transferred, the store was subleased to the franchisee who is responsible for the monthly rent and other obligations under the lease.
+The Company also leases trucking equipment and warehouse space in support of its manufacturing operations. The expense associated with trucking and warehouse leases is included in the cost of sales on the consolidated statements of operations.
+The Company accounts for payments related to lease liabilities on a straight-line basis over the lease term. During the
+nine
+months ended
+November 30, 2022,
+and
+2021,
+lease expense recognized in the Consolidated Statements of Income was $ 636,202
+and $ 582,344 , respectively.
+The lease liability reflects the present value of the Company’s estimated future minimum lease payments over the life of its leases. This includes known escalations and renewal option periods reasonably assured of being exercised. Typically, renewal options are considered reasonably assured of being exercised if the sales performance of the location remains strong. Therefore, the Right of Use Asset and Lease Liability include an assumption on renewal options that have
+not
+yet been exercised by the Company and are
+not
+currently a future obligation. The Company has separated non-lease components from lease components in the recognition of the Asset and Liability except in instances where such costs were
+not
+practical to separate. To the extent that occupancy costs, such as site maintenance, are included in the Asset and Liability, the impact is immaterial. For franchised locations, the related occupancy costs including property taxes, insurance, and site maintenance are generally required to be paid by the franchisees as part of the franchise arrangement. In addition, the Company is the lessee under non-store related leases such as storage facilities and trucking equipment. For leases where the implicit rate is
+not
+readily determinable, the Company uses an incremental borrowing rate to calculate the lease liability that represents an estimate of the interest rate the Company would incur to borrow on a collateralized basis over the term of a lease. The weighted average discount rate used for operating leases was
+3.4 % as of
+November 30, 2022.
+15
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+As of
+November 30, 2022,
+the maturities of lease liabilities for the Company’s operating leases were as follows:
+FYE 23
+$ 216,848
+FYE 24
+760,952
+FYE 25
+611,988
+FYE 26
+514,346
+FYE 27
+242,558
+Thereafter
+462,120
+Total
+$ 2,808,812
+Less: imputed interest
+( 226,761 )
+Present value of lease liabilities:
+$ 2,582,051
+Weighted average lease term
+5.6
+During the
+nine
+months ended
+November 30, 2022,
+the Company entered into leases for equipment used in the Company’s trucking operations. These leases resulted in the Company recognizing a total future lease liability of $ 1.4
+million.
+NOTE
+12
+– COMMITMENTS AND CONTINGENCIES
+Contested Solicitation of Proxies
+During the
+three
+and
+nine
+months ended
+November 30, 2022,
+the Company incurred substantial costs associated with a stockholder’s contested solicitation of proxies in connection with our
+2022
+annual meeting of stockholders. During the
+three
+and
+nine
+months ended
+November 30, 2022,
+the Company incurred approximately $ 764,000
+and $ 2.9
+million, respectively, of costs associated with the contested solicitation of proxies, compared with $ 800,000
+and $ 1.7
+million, respectively, of costs associated with a contested solicitation of proxies incurred in the
+three
+and
+nine
+months ended
+November 30, 2021.
+These costs are recognized as a general and administrative expense in the Consolidated Statement of Operations. The Company will realize material increased costs during the
+three
+months ending
+February 28, 2023 ( the Company’s
+fourth
+quarter) associated with final expenses from the
+2022
+contested solicitation of proxies and the
+December 14, 2023
+Settlement Agreement, as described above under “Subsequent Events.”
+Employment Agreement Payments upon a Change in Control
+We have entered into employment agreements with certain of our executives which contain, among other things, "change in control" severance provisions.
+The employment agreement of Mr. Dudley generally provides that, if the Company or the executive terminates the executive's employment under circumstances constituting a "triggering termination," the executive will be entitled to receive, among other benefits,
+2.99
+times the sum of (i) the executive's annual salary using the highest annual base compensation rate in effect at any time during employment and (ii) the greater of (a)
+two
+times the bonus that would be payable to the executive for the bonus period in which the change in control occurred or (b)
+25%
+of the amount described in clause (i). The employment agreement of Mr. Dudley also provided for a payment of $ 18,000 , which represents the estimated cost to the executive of obtaining accident, health, dental, disability, and life insurance coverage for the
+18 -month period following the expiration of COBRA coverage.
+A “change in control,” as used in the agreement for Mr. Dudley, generally means a change in the control of the Company following any number of events, but specifically, a proxy contest in which our Board of Directors prior to the transaction constitutes less than a majority of our Board of Directors after the transaction or the members of our Board of Directors during any consecutive
+two -year period who at the beginning of such period constituted the Board of Directors cease to be the majority of the Board of Directors at the conclusion of that period. We have determined that a change in control has taken place on
+October 6, 2021.
+A “triggering termination” generally occurs when an executive is terminated during a specified period preceding a change in control of us, or if the executive or the Company terminates the executive’s employment under circumstances constituting a triggering termination during a specified period after a change in control. A triggering termination
+may
+also include a voluntary termination under certain scenarios.
+16
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+In connection with Mr. Dudley’s retirement, Mr. Dudley and the Company entered into a Separation Agreement and General Release (the “Separation Agreement”), dated
+September 30, 2022 ( the “Effective Date”). Under the Separation Agreement, Mr. Dudley retired from the Company on the Effective Date and will be entitled, subject to the terms and conditions therein, to the following payments and separation benefits: (i) a cash separation payment amount in accordance with Mr. Dudley’s employment agreement; (ii) acceleration of vesting of Mr. Dudley’s
+12,499
+unvested restricted stock units as of the Effective Date; (iii) an additional cash severance payment of
+$70,000;
+and (iv) Mr. Dudley has agreed to provide consulting services to the Company through
+December 31, 2022,
+to the extent requested by the Company, for which he will receive a cash payment of $ 56,250 . In addition, the Separation Agreement includes covenants related to cooperation, solicitation, and employment, as well as the customary release of claims and non-disparagement provisions in favor of the Company.
+As a result of this Separation Agreement the Company incurred the following costs during the
+nine
+months ended
+November 30, 2022:
+Accrued severance compensation:
+$ 928,938
+Accelerated restricted stock unit compensation expense:
+95,156
+Consulting Services:
+37,500
+Total
+$ 1,061,594
+Mr. Sarlls’ employment agreement provides for the following upon “change in control”: If Mr. Sarlls’ employment is involuntarily terminated without cause or if he resigns for good reason on or within
+2
+years following consummation of a change in control, the cash severance amount ( 15
+months of base salary) which would otherwise be payable on the regular payroll schedule over a
+15 -month period following separation (if severance were due outside the change in control context) will be accelerated and paid in a lump sum promptly following separation. Mr. Sarlls’ agreement incorporates by reference the change in control definition set forth in Treasury Regulation Section
+1.409A - 3 (i)( 5 ).
+Mr. Arroyo’s employment agreement provides for the following upon “change in control”: If Mr. Arroyo’s employment is involuntarily terminated without cause or if he resigns for good reason on or within
+2
+years following consummation of a change in control, the cash severance amount ( 9
+months of base salary) which would otherwise be payable on the regular payroll schedule over a
+9 -month period following separation (if severance were due outside the change in control context) will be accelerated and paid in a lump sum promptly following separation. Mr. Arroyo’s agreement incorporates by reference the change in control definition set forth in Treasury Regulation Section
+1.409A - 3 (i)( 5 ).
+Purchase Contracts
+The Company frequently enters into purchase contracts of between
+six
+to
+eighteen
+months for chocolate and certain nuts. These contracts permit the Company to purchase the specified commodity at a fixed price on an as-needed basis during the term of the contract. Because prices for these products
+may
+fluctuate, the Company
+may
+benefit if prices rise during the terms of these contracts, but it
+may
+be required to pay above-market prices if prices fall and it is unable to renegotiate the terms of the contract. As of
+November 30, 2022,
+the Company was contracted for approximately $ 36,000
+of raw materials under such agreements. The Company has designated these contracts as normal under the normal purchase and sale exception under the accounting standards for derivatives. These contracts are
+not
+entered into for speculative purposes.
+17
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+NOTE
+13
+– OPERATING SEGMENTS
+The Company classifies its business interests into
+five
+reportable segments: Franchising, Manufacturing, Retail Stores, U-Swirl operations, and Other. The accounting policies of the segments are the same as those described in the summary of significant accounting policies in Note
+1
+to these consolidated financial statements and Note
+1
+to the Company’s consolidated financial statements included in the Company’s Annual Report on Form
+10 -K for the fiscal year ended
+February 28, 2022,
+as amended by Amendment
+No.
+1
+on Form
+10 -K/A filed on
+June 28, 2022.
+The Company evaluates performance and allocates resources based on operating contribution, which excludes unallocated
+corporate general and administrative costs and income tax expenses or benefits. The Company’s reportable segments are strategic businesses that utilize common merchandising, distribution, and marketing functions, as well as common information systems and corporate administration. All inter-segment sales prices are market-based. Each segment is managed separately because of the differences in required infrastructure and the difference in products and services:
+Three Months Ended November 30, 2022
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Other
+Total
+Total revenues
+$ 1,239,938     $ 7,629,146     $ 301,594     $ 650,288     $ -     $ 9,820,966
+Intersegment revenues
+( 1,379 )     ( 344,206 )     -       -       -       ( 345,585 )
+Revenue from external customers
+1,238,559       7,284,940       301,594       650,288       -       9,475,381
+Segment profit (loss)
+337,225       1,534,725       45,035       ( 15,822 )     ( 2,113,142 )     ( 211,979 )
+Total assets
+1,010,798       13,639,903       624,705       4,138,398       5,428,786       24,842,590
+Capital expenditures
+15,925       150,735       4,860       -       52,334       223,854
+Total depreciation & amortization
+$ 8,432     $ 161,515     $ 1,407     $ 98,895     $ 17,643     $ 287,892
+Three Months Ended November 30, 2021
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Other
+Total
+Total revenues
+$ 1,251,381     $ 6,685,416     $ 275,530     $ 605,601     $ -     $ 8,817,928
+Intersegment revenues
+( 1,245 )     ( 309,049 )     -       -       -       ( 310,294 )
+Revenue from external customers
+1,250,136       6,376,367       275,530       605,601       -       8,507,634
+Segment profit (loss)
+578,357       1,339,108       16,706       ( 56,790 )     ( 3,833,894 )     ( 1,956,513 )
+Total assets
+1,590,914       10,988,056       651,372       4,824,466       9,243,856       27,298,664
+Capital expenditures
+650       59,095       2,620       12,751       58,485       133,601
+Total depreciation & amortization
+$ 9,060     $ 156,696     $ 1,397     $ 116,648     $ 14,981     $ 298,782
+Nine Months Ended November 30, 2022
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Other
+Total
+Total revenues
+$ 4,222,694     $ 18,143,863     $ 815,197     $ 2,542,991     $ -     $ 25,724,745
+Intersegment revenues
+( 3,994 )     ( 893,113 )     -       -       -       ( 897,107 )
+Revenue from external customers
+4,218,700       17,250,750       815,197       2,542,991       -       24,827,638
+Segment profit (loss)
+1,756,239       3,062,876       27,947       352,922       ( 7,779,818 )     ( 2,579,834 )
+Total assets
+1,010,798       13,639,903       624,705       4,138,398       5,428,786       24,842,590
+Capital expenditures
+17,106       685,420       5,435       32,547       70,224       810,732
+Total depreciation & amortization
+$ 25,871     $ 484,980     $ 4,231     $ 295,908     $ 52,332     $ 863,322
+Nine Months Ended November 30, 2021
+Franchising
+Manufacturing
+Retail
+U-Swirl
+Other
+Total
+Total revenues
+$ 4,289,116     $ 17,434,641     $ 829,542     $ 2,334,487     $ -     $ 24,887,786
+Intersegment revenues
+( 4,258 )     ( 856,106 )     -       -       -       ( 860,364 )
+Revenue from external customers
+4,284,858       16,578,535       829,542       2,334,487       -       24,027,422
+Segment profit (loss)
+1,866,829       3,254,726       61,029       262,202       ( 6,323,294 )     ( 878,508 )
+Total assets
+1,590,914       10,988,056       651,372       4,824,466       9,243,856       27,298,664
+Capital expenditures
+1,832       593,043       3,688       14,150       91,749       704,462
+Total depreciation & amortization
+$ 27,732     $ 469,562     $ 4,194     $ 350,047     $ 53,437     $ 904,972
+NOTE
+14
+– INCOME TAXES
+The Company provides for income taxes pursuant to the liability method. The liability method requires recognition of deferred income taxes based on temporary differences between financial reporting and income tax basis of assets and liabilities, using current enacted income tax rates and regulations. These differences will result in taxable income or deductions in future years when the reported amount of the asset or liability is recovered or settled, respectively. Considerable judgment is required in determining when these events
+may
+occur and whether recovery of an asset, including the utilization of a net operating loss or other carryforward prior to its expiration, is more likely than
+not.
+18
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC. AND SUBSIDIARIES
+NOTES TO INTERIM (UNAUDITED) CONSOLIDATED FINANCIAL STATEMENTS
+Table of Contents
+Realization of the Company's deferred tax assets is dependent upon the Company generating sufficient taxable income, in the appropriate tax jurisdictions, in future years, to obtain benefit from the reversal of net deductible temporary differences. The amount of deferred tax assets considered realizable is subject to adjustment in future periods if estimates of future taxable income are changed. A valuation allowance to reduce the carrying amount of deferred income tax assets is established when it is more likely than
+not
+that we will
+not
+realize some portion or all of the tax benefit of our deferred income tax assets. We evaluate, on a quarterly basis, whether it is more likely than
+not
+that our deferred income tax assets are realizable based upon recent past financial performance, tax reporting positions, and expectations of future taxable income. The determination of deferred tax assets is subject to estimates and assumptions. We periodically evaluate our deferred tax assets to determine if our assumptions and estimates should change .
+During the
+three
+and
+nine
+months ended
+November 30, 2022,
+the Company incurred a significant loss before income taxes, primarily as a result of substantial costs associated with a stockholder’s contested solicitation of proxies in connection with our
+2022
+annual meeting of stockholders. Management evaluated recent losses before income taxes and determined that it is
+no
+longer more likely than
+not
+that our deferred income taxes are fully realized. Because of this determination, the Company reserved for approximately $ 2.0
+million of deferred tax assets. As of
+November 30, 2022,
+the Company has a full valuation allowance against its deferred tax assets.
+19
+Table of Contents
+Table of Contents
+Item 2.           Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of financial condition and results of operations is qualified by reference and should be read in conjunction with the consolidated financial statements and the notes included in Item 1 of Part I of this 10-Q and the audited consolidated financial statements and notes, and Management ’ s Discussion and Analysis of Financial Condition and Results of Operations, contained in the 10-K filed with the SEC on May 27, 2022, for the fiscal year ended February 28, 2022, as amended by Amendment No. 1 on Form 10-K/A filed on June 28, 2022.
+Cautionary Note Regarding Forward-Looking Statements
+In addition to historical information, the following discussion contains certain forward-looking information. See
+“ Forward-Looking Statements ”
+above for certain information concerning forward-looking statements.
+Overview
+We are an international franchisor, confectionery manufacturer, and retail operator. Founded in 1981, we are headquartered in Durango, Colorado, and manufacture an extensive line of premium chocolate candies and other confectionery products. Our subsidiary, U-Swirl International, Inc. (“U-Swirl”), franchises and operates soft-serve frozen yogurt cafés. Our revenues and profitability are derived principally from our franchised/licensed system of retail stores that feature chocolate, frozen yogurt, and other confectionary products. We also sell our candy outside of our system of retail stores and license the use of our brand with certain consumer products. As of November 30, 2022, there was one Company-owned, 101 licensee-owned and 162 franchised Rocky Mountain Chocolate Factory stores operating in 37 states, Panama, and the Philippines. As of November 30, 2022, U-Swirl operated three Company-owned cafés and 58 franchised cafés located in 21 states and Qatar. U-Swirl operates self-serve frozen yogurt cafés under the names “U-Swirl,” “Yogurtini,” “CherryBerry,” “Yogli Mogli Frozen Yogurt,” “Fuzzy Peach Frozen Yogurt,” “Let’s Yo!” and “Aspen Leaf Yogurt”.
+Labor and Supply Chain
+As a result of macroeconomic inflationary trends and disruptions to the global supply chain, we have experienced and expect to continue experiencing higher raw material, labor, and freight costs. We have begun to see labor and logistics challenges, which we believe have contributed to lower factory, retail, and e-commerce sales of our products due to the availability of material, labor, and freight. In addition, we could experience additional lost sale opportunities if our products are not available for purchase as a result of continued disruptions in our supply chain relating to an inability to obtain ingredients or packaging, labor challenges at our logistics providers or our manufacturing facility, or if we or our franchisees experience delays in stocking our products. For additional information, see “ Part I. Item 1A. - Risk Factors - The Availability and Price of Principal Ingredients Used in Our Products Are Subject to Factors Beyond Our Control ” in our Annual Report on Form 10-K for the fiscal year ended February 28, 2022, as amended by Amendment No. 1 on Form 10-K/A filed on June 28, 2022.
+Contested Solicitation of Proxies
+During the three and nine months ended November 30, 2022, the Company incurred substantial costs associated with a stockholder’s contested solicitation of proxies in connection with our 2022 annual meeting of stockholders. During the three and nine months ended November 30, 2022, the Company incurred approximately $764,000 and $2.9 million, respectively, of costs associated with the contested solicitation of proxies, compared with $800,000 and $1.7 million of costs associated with a contested solicitation of proxies incurred in the three and nine months ended November 30, 2021. These costs are recognized as general and administrative expense in the Consolidated Statement of Operations. Future costs associated with the stockholder’s contested solicitation of proxies, the related legal proceedings, and the settlement thereof, as described in Note 1 to the consolidated financial statements appearing in Item 1 of Part I of this quarterly report under the caption “Subsequent Events” in this Form 10-Q may have a material impact on the result of future periods. Additionally, as a result of the contested solicitation of proxies in the prior year and the resulting changes to the composition of the Company’s Board of Directors, the Company incurred $934,000 of severance costs during the nine months ended November 30, 2022, resulting from the retirement of Edward L. Dudley in September 2022.
+Termination of Strategic Partnership with Edible Arrangements
+On November 1, 2022, the Company sent a formal notice to Edible Arrangements, LLC (“Edible Arrangements”), terminating the Exclusive Supplier Operating Agreement, dated December 20, 2019 (“Exclusive Supplier Agreement”), by and between the Company and Edible Arrangements, and the Ecommerce Licensing Agreement, dated March 16, 2020 (“Licensing Agreement”), by and between the Company and Edible Arrangements. Subsequent to the termination of the Supplier Agreement and Licensing Agreement, the Company has no remaining material obligations under the Strategic Alliance Agreement, dated as of December 20, 2019, by and among the Company, Farids & Co. LLC and Edible Arrangements; the Common Stock Purchase Warrant, dated December 20, 2019, issued to Edible Arrangements; and the Indemnification Letter Agreement, dated March 16, 2020, by and between the Company and Edible Arrangements.
+20
+Table of Contents
+Results of Operations
+Three Months Ended November 30, 2022, Compared to the Three Months Ended November 30, 2021
+Results Summary
+Basic loss per share decreased from a loss of $0.24 per share in the three months ended November 30, 2021, to a loss of $0.03 per share in the three months ended November 30, 2022. Revenues increased 11.4% from $8.5 million in the three months ended November 30, 2021, to $9.5 million in the three months ended November 30, 2022. The loss from operations decreased from a loss of $2.0 million in the three months ended November 30, 2021, to a loss from operations of $215,000 in the three months ended November 30, 2022. Net loss decreased from a net loss of $1.5 million in the three months ended November 30, 2021, to a net loss of $212,000 in the three months ended November 30, 2022.
+Revenues
+Three Months Ended
+November 30,
+$
+%
+($'s in thousands)
+2022
+2021
+Change
+Change
+Factory sales
+$
+7,284.9
+$
+6,376.4
+$
+908.5
+14.2
+%
+Retail sales
+678.6
+636.0
+42.6
+6.7
+%
+Franchise fees
+58.5
+61.7
+(3.2
+)
+(5.2
+)%
+Royalty and marketing fees
+1,453.4
+1,433.5
+19.9
+1.4
+%
+Total
+$
+9,475.4
+$
+8,507.6
+$
+967.8
+11.4
+%
+Factory Sales
+The increase in factory sales for the three months ended November 30, 2022, compared to the three months ended November 30, 2021, was primarily due to a 13.0%, $661,000, increase in sales of product to our network of franchised and licensed retail stores and a 19.1%, $248,000, increase in shipments of product to customers outside our network of franchised retail stores. The increase in sales of product to our network of franchised and licensed retail stores was primarily the result of a higher sell price and higher same-store pounds purchased. Same-store pounds purchased by domestic franchise and licensed locations increased 5.7% during the three months ended November 30, 2022, when compared to the three months ended November 30, 2021.
+Retail Sales
+Retail sales at Company-owned stores increased 6.7% during the three months ended November 30, 2022, compared to the three months ended November 30, 2021, as a result of an increase in Company-owned same store sales. Same store sales at all Company-owned locations increased 12.9% during the three months ended November 30, 2022, when compared to the three months ended November 30, 2021. This increase was partially offset by a decrease in the average number of Company-owned stores in operation resulting from the sale of a Company-owned location to a franchisee.
+Royalties, Marketing Fees, and Franchise Fees
+The increase in royalty and marketing fees from the three months ended November 30, 2021, to the three months ended November 30, 2022, was primarily due to an increase in same store sales at domestic Rocky Mountain Chocolate Factory locations and at U-Swirl Frozen Yogurt cafés. Same-store sales at domestic franchise Rocky Mountain Chocolate Factory locations increased by 3.0% and same-store sales at U-Swirl Frozen Yogurt cafés increased by 14.0% during the three months ended November 30, 2022, when compared to the three months ended November 30, 2021.
+Franchise fee revenue for the three months ended November 30, 2022, compared to the three months ended November 30, 2021, was relatively unchanged.
+21
+Table of Contents
+Costs and Expenses
+Cost of Sales
+Three Months Ended
+November 30,
+$
+%
+($'s in thousands)
+2022
+2021
+Change
+Change
+Cost of sales - factory
+$
+5,613.7
+$
+4,960.9
+$
+652.8
+13.2
+%
+Cost of sales - retail
+255.9
+239.8
+16.1
+6.7
+%
+Franchise costs
+551.5
+458.5
+93.0
+20.3
+%
+Sales and marketing
+607.2
+377.2
+230.0
+61.0
+%
+General and administrative
+2,111.7
+3,865.9
+(1,754.2
+)
+(45.4
+)%
+Retail operating
+422.4
+420.3
+2.1
+0.5
+%
+Total
+$
+9,562.4
+$
+10,322.6
+$
+(760.2
+)
+(7.4
+)%
+Gross Margin
+Three Months Ended
+November 30,
+$
+%
+($'s in thousands)
+2022
+2021
+Change
+Change
+Factory gross profit
+$
+1,671.2
+$
+1,415.5
+$
+255.7
+18.1
+%
+Retail gross profit
+422.7
+396.2
+26.5
+6.7
+%
+Total
+$
+2,093.9
+$
+1,811.7
+$
+282.2
+15.6
+%
+Three Months Ended
+November 30,
+%
+%
+2022
+2021
+Change
+Change
+(Percent)
+Factory gross margin
+22.9
+%
+22.2
+%
+0.7
+%
+3.2
+%
+Retail gross margin
+62.3
+%
+62.3
+%
+0.0
+%
+0.0
+%
+Total
+26.3
+%
+25.8
+%
+0.5
+%
+1.9
+%
+Adjusted Gross Margin
+Three Months Ended
+November 30,
+$
+%
+($'s in thousands)
+2022
+2021
+Change
+Change
+Factory gross margin
+$
+1,671.2
+$
+1,415.5
+$
+255.7
+18.1
+%
+Plus: depreciation and amortization
+160.0
+155.2
+4.8
+3.1
+%
+Factory adjusted gross margin
+1,831.2
+1,570.7
+260.5
+16.6
+%
+Retail gross margin
+422.7
+396.2
+26.5
+6.7
+%
+Total Adjusted Gross Margin
+$
+2,253.9
+$
+1,966.9
+$
+287.0
+14.6
+%
+Factory adjusted gross margin
+25.1
+%
+24.6
+%
+0.5
+%
+2.0
+%
+Retail gross margin
+62.3
+%
+62.3
+%
+0.0
+%
+0.0
+%
+Total Adjusted Gross Margin
+28.3
+%
+28.0
+%
+0.3
+%
+1.1
+%
+Adjusted gross margin and factory adjusted gross margin are non-GAAP measures. Adjusted gross margin is equal to the sum of our factory adjusted gross margin plus our retail gross margin calculated in accordance with GAAP. Factory adjusted gross margin is equal to factory gross margin plus depreciation and amortization expense. We believe adjusted gross margin and factory adjusted gross margin are helpful in understanding our past performance as a supplement to gross margin, factory gross margin, and other performance measures calculated in conformity with GAAP. We believe that adjusted gross margin and factory adjusted gross margin are useful to investors because they provide a measure of operating performance and our ability to generate cash that is unaffected by non-cash accounting measures. Additionally, we use adjusted gross margin and factory adjusted gross margin rather than gross margin and factory gross margin to make incremental pricing decisions. Adjusted gross margin and factory adjusted gross margin have limitations as analytical tools because they exclude the impact of depreciation and amortization expense and you should not consider them in isolation or as a substitute for any measure reported under GAAP. Our use of capital assets makes depreciation and amortization expense a necessary element of our costs and our ability to generate income. Due to these limitations, we use adjusted gross margin and factory adjusted gross margin as measures of performance only in conjunction with GAAP measures of performance such as gross margin and factory gross margin.
+22
+Table of Contents
+Cost of Sales and Gross Margin
+Factory gross margins increased to 22.9% in the three months ended November 30, 2022, compared to 22.2% in the three months ended November 30, 2021. This increase was due primarily to an increase in prices partially offset by increased labor and material costs and expense associated with inventory obsolescence.
+Retail gross margins were unchanged at 62.3% during the three months ended November 30, 2022, and 2021.
+Franchise Costs
+The increase in franchise costs in the three months ended November 30, 2022, compared to the three months ended November 30, 2021, was due primarily to an increase in franchise convention and travel expenses in the three months ended November 30, 2022. As a percentage of total royalty and marketing fees, and franchise fee revenue, franchise costs increased to 36.5% in the three months ended November 30, 2022, from 30.7% in the three months ended November 30, 2021. This increase as a percentage of royalty, marketing and franchise fees is primarily the result of higher costs.
+Sales and Marketing
+The increase in sales and marketing costs for the three months ended November 30, 2022, compared to the three months ended November 30, 2021, was primarily due to an increase in equity compensation costs and contract labor associated with the retirement of Edward Dudley, and an increase in advertising costs.
+General and Administrative
+The decrease in general and administrative costs for the three months ended November 30, 2022, compared to the three months ended November 30, 2021, is primarily due to lower costs associated with a stockholder’s contested solicitation of proxies in connection with our 2022 annual meeting of stockholders. During the three months ended November 30, 2022, the Company incurred approximately $764,000 of costs associated with the contested solicitation of proxies, compared with $2.7 million of costs associated with a contested solicitation of proxies and associated severance costs during the three months ended November 30, 2021. This decrease was partially offset by an increase in legal expenses and salaries and wages in the three months ended November 30, 2022, compared with the three months ended November 30, 2021. As a percentage of total revenues, general and administrative expenses decreased to 22.3% in the three months ended November 30, 2022, compared to 45.4% in the three months ended November 30, 2021.
+Retail Operating Expenses
+Retail operating expenses were relatively unchanged during the three months ended November 30, 2022, compared to the three months ended November 30, 2021. Retail operating expenses, as a percentage of retail sales, decreased from 66.1% in the three months ended November 30, 2021, to 62.2% in the three months ended November 30, 2022. This decrease is primarily the result of higher retail sales.
+Depreciation and Amortization
+Depreciation and amortization, exclusive of depreciation and amortization included in cost of sales, was $128,000 in the three months ended November 30, 2022, a decrease of 10.9% from $144,000 in the three months ended November 30, 2021. This decrease was the result of lower amortization of franchise rights, the result of a decrease in frozen yogurt cafés in operation. See Note 7 to the consolidated financial statements for a summary of the annual amortization of intangible assets based upon existing intangible assets and current useful lives. Depreciation and amortization included in cost of sales increased 3.1% to $160,000 in the three months ended November 30, 2022, compared to $155,000 in the three months ended November 30, 2021.
+Other Income
+Net interest income was $3,000 in the three months ended November 30, 2022, compared to net interest income of $2,200 incurred in the three months ended November 30, 2021.
+Income Tax Expense (Benefit)
+During the three months ended November 30, 2022, we did not incur any income tax benefit on a loss before income taxes of $212,000. This was the result of recording a full reserve on our deferred income tax asset. Our effective income tax rate for the three months ended November 30, 2021, was 24.5%. See Note 14 to the financial statements for a description of income taxes, deferred tax assets, and associated reserves.
+23
+Table of Contents
+Nine Months Ended November 30, 2022, Compared to the Nine Months Ended November 30, 2021
+Results Summary
+Basic earnings per share decreased from a net loss of $0.11 per share for the nine months ended November 30, 2021, to a net loss of $0.64 per share for the nine months ended November 30, 2022. Revenues increased 3.3% from $24.0 million for the nine months ended November 30, 2021, to $24.8 million for the nine months ended November 30, 2022. The loss from operations increased from a loss of $1.1 million for the nine months ended November 30, 2021, to a loss from operations of $2.6 million for the nine months ended November 30, 2022. Net loss increased from a net loss of $701,000 for the nine months ended November 30, 2021, to a net loss of $4.0 million for the nine months ended November 30, 2022.
+Revenues
+Nine Months Ended
+November 30,
+$
+%
+($'s in thousands)
+2022
+2021
+Change
+Change
+Factory sales
+$
+17,250.8
+$
+16,578.5
+$
+672.3
+4.1
+%
+Retail sales
+2,267.9
+2,208.1
+59.8
+2.7
+%
+Franchise fees
+180.0
+165.0
+15.0
+9.1
+%
+Royalty and marketing fees
+5,128.9
+5,075.8
+53.1
+1.0
+%
+Total
+$
+24,827.6
+$
+24,027.4
+$
+800.2
+3.3
+%
+Factory Sales
+The increase in factory sales for the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, was primarily due to an 8.0%, $1.1 million, increase in sales of product to our network of franchised and licensed retail stores partially offset by a 15.7%, $429,000, decrease in shipments of product to customers outside our network of franchised retail stores.
+Retail Sales
+Retail sales at Company-owned stores increased 2.7% during the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, primarily as a result of an increase in same-store sales at Company-owned locations. Same-store sales at all Company-owned locations increased 6.1% during the nine months ended November 30, 2022, when compared to the nine months ended November 30, 2021.
+Royalties, Marketing Fees, and Franchise Fees
+The slight increase in royalty and marketing fees for the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, was primarily due to an increase in same-store sales at domestic franchise frozen yogurt cafés. Same-store sales at all domestic franchise locations increased 3.8% during the nine months ended November 30, 2022, when compared to the nine months ended November 30, 2021, with same-store sales at the Company’s domestic franchise frozen yogurt cafés increasing 19.2% during the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021.
+The increase in franchise fee revenue for the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, was the result of store closures and the acceleration of unrecognized franchise fee revenue, and more franchise agreements outstanding and subject to revenue recognition.
+24
+Table of Contents
+Costs and Expenses
+Cost of Sales
+Nine Months Ended
+November 30,
+$
+%
+($'s in thousands)
+2022
+2021
+Change
+Change
+Cost of sales - factory
+$
+13,823.2
+$
+13,065.3
+$
+757.9
+5.8
+%
+Cost of sales - retail
+848.8
+754.1
+94.7
+12.6
+%
+Franchise costs
+1,569.8
+1,747.4
+(177.6
+)
+(10.2
+)%
+Sales and marketing
+1,617.1
+1,195.8
+421.3
+35.2
+%
+General and administrative
+7,810.6
+6,575.0
+1,235.6
+18.8
+%
+Retail operating
+1,364.7
+1,304.6
+60.1
+4.6
+%
+Total
+$
+27,034.2
+$
+24,642.2
+$
+2,392.0
+9.7
+%
+Gross Margin
+Nine Months Ended
+November 30,
+$
+%
+2022
+2021
+Change
+Change
+Factory gross profit
+$
+3,427.6
+$
+3,513.2
+$
+(85.6
+)
+(2.4
+)%
+Retail gross profit
+1,419.1
+1,454.0
+(34.9
+)
+(2.4
+)%
+Total
+$
+4,846.7
+$
+4,967.2
+$
+(120.5
+)
+(2.4
+)%
+Nine Months Ended
+November 30,
+%
+%
+2022
+2021
+Change
+Change
+Factory gross margin
+19.9
+%
+21.2
+%
+(1.3
+)%
+(6.2
+)%
+Retail gross margin
+62.6
+%
+65.8
+%
+(3.3
+)%
+(5.0
+)%
+Total
+24.8
+%
+26.4
+%
+(1.6
+)%
+(6.1
+)%
+Adjusted Gross Margin
+Nine Months Ended
+November 30,
+$
+%
+($'s in thousands)
+2022
+2021
+Change
+Change
+Factory gross margin
+$
+3,427.6
+$
+3,513.2
+$
+(85.6
+)
+(2.4
+)%
+Plus: depreciation and amortization
+480.5
+464.8
+15.7
+3.4
+%
+Factory adjusted gross margin
+3,908.1
+3,978.0
+(69.9
+)
+(1.8
+)%
+Retail gross margin
+1,419.1
+1,454.0
+(34.9
+)
+(2.4
+)%
+Total Adjusted Gross Margin
+$
+5,327.2
+$
+5,432.0
+$
+(104.8
+)
+(1.9
+)%
+Factory adjusted gross margin
+22.7
+%
+24.0
+%
+(1.3
+)%
+(5.6
+)%
+Retail gross margin
+62.6
+%
+65.8
+%
+(3.3
+)%
+(5.0
+)%
+Total Adjusted Gross Margin
+27.3
+%
+28.9
+%
+(1.6
+)%
+(5.6
+)%
+Adjusted gross margin and factory adjusted gross margin are non-GAAP measures. Adjusted gross margin is equal to the sum of our factory adjusted gross margin plus our retail gross margin calculated in accordance with GAAP. Factory adjusted gross margin is equal to factory gross margin plus depreciation and amortization expense. We believe adjusted gross margin, and factory adjusted gross margin are helpful in understanding our past performance as a supplement to gross margin, factory gross margin and other performance measures calculated in conformity with GAAP. We believe that adjusted gross margin and factory adjusted gross margin are useful to investors because they provide a measure of operating performance and our ability to generate cash that is unaffected by non-cash accounting measures. Additionally, we use adjusted gross margin and factory adjusted gross margin rather than gross margin and factory gross margin to make incremental pricing decisions. Adjusted gross margin and factory adjusted gross margin have limitations as analytical tools because they exclude the impact of depreciation and amortization expense and you should not consider them in isolation or as a substitute for any measure reported under GAAP. Our use of capital assets makes depreciation and amortization expense a necessary element of our costs and our ability to generate income. Due to these limitations, we use adjusted gross margin and factory adjusted gross margin as measures of performance only in conjunction with GAAP measures of performance such as gross margin and factory gross margin.
+25
+Table of Contents
+Cost of Sales and Gross Margin
+Factory gross margins decreased to 19.9% in the nine months ended November 30, 2022, compared to a gross margin of 21.2% during the nine months ended November 30, 2021, due primarily to an increase in costs from wage and material inflation and the impacts of Employee Retention Credits recognized in the nine months ended November 30, 2021, with no comparable credits in the nine months ended November 30, 2022. These cost increases were partially offset by an increase in product prices. The Company recognized approximately $155,000 of payroll tax benefit associated with Employee Retention Credits (“ERC”) in the nine months ended November 30, 2021. ERCs were enacted by the CARES Act in March 2020. In December 2020 the Consolidated Appropriations Act extended eligibility for the credits allowing the Company to retroactively benefit from ERCs.
+Retail gross margins decreased from 65.8% during the nine months ended November 30, 2021, to 62.6% during the nine months ended November 30, 2022. The decrease in retail gross margins was primarily the result of an increase in the costs of raw materials.
+Franchise Costs
+The decrease in franchise costs in the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, was due primarily to a decrease in professional fees, the result of litigation with our licensee in Canada incurred during the nine months ended November 30, 2021, with no comparable legal expense in the nine months ended November 30, 2022. As a percentage of total royalty and marketing fees and franchise fee revenue, franchise costs decreased to 29.6% in the nine months ended November 30, 2022, from 33.3% in the nine months ended November 30, 2021. This decrease as a percentage of royalty, marketing, and franchise fees is primarily the result of lower franchise costs.
+Sales and Marketing
+The increase in sales and marketing costs for the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, was due to an increase in equity compensation costs and contract labor associated with the retirement of Edward Dudley, and an increase in advertising costs.
+General and Administrative
+The increase in general and administrative costs for the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, was due primarily to costs associated with a stockholder’s contested solicitation of proxies in connection with our 2022 annual meeting of stockholders. During the nine months ended November 30, 2022, the Company incurred approximately $2.9 million of costs associated with the contested solicitation of proxies, compared with $1.7 million of costs associated with a contested solicitation of proxies during the nine months ended November 30, 2021. The Company also incurred increased professional fees related to legal support for our Board of Directors and legal costs associated with compensation arrangements for our former Chief Executive Officer and Chief Financial Officer and legal and professional costs associated with the search for, and appointment of, a new Chief Executive Officer and a new Chief Financial Officer. Additionally, due to a stockholder’s contested solicitation of proxies in connection with our 2021 annual meeting of stockholders the Company had become contingently liable for certain change in control severance payments to Mr. Dudley if a triggering termination was to occur. As a result of Mr. Dudley’s retirement in September 2022, the Company incurred $934,000 of associated severance costs. As a percentage of total revenues, general and administrative expenses increased to 31.5% in the nine months ended November 30, 2022, compared to 27.4% in the nine months ended November 30, 2021.
+Retail Operating Expenses
+The increase in retail operating expenses for the nine months ended November 30, 2022, compared to the nine months ended November 30, 2021, was due primarily to an increase in salaries and wages, and utilities in our Company-owned stores and cafés. Retail operating expenses, as a percentage of retail sales, increased from 59.1% in the nine months ended November 30, 2021, to 60.2% in the nine months ended November 30, 2022. This increase is primarily the result of higher retail costs.
+Depreciation and Amortization
+Depreciation and amortization, exclusive of depreciation and amortization included in cost of sales, was $383,000 in the nine months ended November 30, 2022, a decrease of 13.0% from $440,000 in the nine months ended November 30, 2021. This decrease was the result of lower amortization of franchise rights, the result of a decrease in frozen yogurt cafés in operation. See Note 7 to the financial statements for a summary of the annual amortization of intangible assets based upon existing intangible assets and current useful lives. Depreciation and amortization included in cost of sales increased 3.4% from $465,000 in the nine months ended November 30, 2021, to $480,000 in the nine months ended November 30, 2022. This increase was the result of investment in equipment.
+Other Income
+Other income was $9,600 in the nine months ended November 30, 2022, compared to other income of $176,500 during the nine months ended November 30, 2021. Net interest income was $9,600 in the nine months ended November 30, 2022, compared to interest income of $9,300 during the nine months ended November 30, 2021.
+26
+Table of Contents
+The Company recognized a gain on insurance recovery of $167,100 during the nine months ended November 30, 2021, compared with no similar amounts recognized during the nine months ended November 30, 2022.
+Income Tax Expense (Benefit)
+During the nine months ended November 30, 2022, we incurred income tax expense of $1.4 million on a loss before income taxes of $2.6 million. This expense was the result of recording a full reserve on our deferred income tax asset. Our effective income tax rate for the nine months ended November 30, 2021, was 20.2%. See Note 14 to the financial statements for a description of income taxes, deferred tax assets, and associated reserves.
+27
+Table of Contents
+Liquidity and Capital Resources
+As of November 30, 2022, working capital was $7.4 million, compared to $9.7 million as of February 28, 2022, a decrease of $2.3 million. The decrease in working capital was primarily due to costs associated with a stockholder’s contested solicitation of proxies in connection with our 2022 annual meeting of stockholders.
+Cash and cash equivalent balances decreased approximately $4.4 million to $3.2 million as of November 30, 2022, compared to $7.6 million as of February 28, 2022. This decrease in cash and cash equivalents was primarily due to funding of a rabbi trust established for severance payments to our former Chief Executive Officer and the resulting $1.3 million decrease in cash balances and an increase in inventory of $2.1 million. Our current ratio was 2.2 to 1 at November 30, 2022, compared to 2.8 to 1 at February 28, 2022. We monitor current and anticipated future levels of cash and cash equivalents in relation to anticipated operating, financing and investing requirements.
+During the nine months ended November 30, 2022, we had a net loss of $4.0 million. Operating activities used cash of $3,583,418, with the principal adjustment to reconcile the net income to net cash used by operating activities being deferred income taxes of $1,388,271, depreciation and amortization of $863,322, an increase in accounts payable of $1,976,869 and expense recorded for stock compensation of $471,530, mostly offset by an increase in inventory of $2,091,099, a decrease in accrued liabilities of $1,284,330 and an increase in accounts receivable of $1,171,146. During the comparable 2021 period, we had a net loss of $700,908, and operating activities provided cash of $857,048. The principal adjustment to reconcile the net income to net cash used by operating activities being an increase in accrued liabilities of $1,343,856, an increase in accounts payable of $1,079,671, depreciation and amortization of $904,972, and expense related to stock-based compensation of $709,210, partially offset by an increase in accounts receivable of $985,887 and an increase in inventory of $936,483.
+During the nine months ended November 30, 2022, investing activities used cash of $787,824, primarily due to the purchases of property and equipment of $810,732. In comparison, investing activities used cash of $407,457 during the nine months ended November 30, 2021, primarily due to the purchases of property and equipment of $704,462 partially offset by proceeds from insurance recovery of $206,336.
+During the nine months ended November 30, 2022, there were no cash flows from financing activities. In comparison, financing activities used cash of $61,276 in the nine months ended November 30, 2021, due to the redemption of the shareholder rights plan.
+The Company believes that cash flow from operations will be sufficient to fund capital expenditures and working capital requirements for FY 2023. If necessary, the Company has an available bank line of credit to help meet these requirements.
+Off-Balance Sheet Arrangements
+As of November 30, 2022, except for the purchase obligations as described below, we had no material off-balance sheet arrangements or obligations.
+As of November 30, 2022, we had purchase obligations of approximately $36,000. These purchase obligations primarily consist of contractual obligations for future purchases of commodities for use in our manufacturing.
+Impact of Inflation
+Inflationary factors such as increases in the costs of ingredients and labor directly affect our operations. Most of our leases provide for cost-of-living adjustments and require us to pay taxes, insurance, and maintenance expenses, all of which are subject to inflation. Additionally, our future lease costs for new facilities may include potentially escalating costs of real estate and construction. There is no assurance that we will be able to pass on increased costs to our customers.
+Depreciation expense is based on the historical cost to us of our fixed assets and is therefore potentially less than it would be if it were based on the current replacement cost. While property and equipment acquired in prior years will ultimately have to be replaced at higher prices, it is expected that replacement will be a gradual process over many years.
+Seasonality
+We are subject to seasonal fluctuations in sales, which cause fluctuations in quarterly results of operations. Historically, the strongest sales of our products have occurred during key holidays and the summer vacation season. In addition, quarterly results have been, and in the future are likely to be, affected by the timing of new store openings and sales of franchises. Because of the seasonality of our business and the impact of new store openings and sales of franchises, results for any quarter are not necessarily indicative of results that may be achieved in other quarters or for a full fiscal year.
+28
+Table of Contents
+Item 3.           Quantitative and Qualitative Disclosures About Market Risk
+As a smaller reporting company, we are not required to provide the information required by this Item.
+Item 4.           Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+We maintain disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed to ensure that material information relating to us is made known to the officers who certify as to our financial reports and to other members of senior management and the Board of Directors. These disclosure controls and procedures are designed to ensure that information required to be disclosed in our reports that are filed or submitted under the Exchange Act, are recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure.
+Management, with the participation of our Chief Executive Officer and Chief Financial Officer, conducted an evaluation of the effectiveness of our disclosure controls and procedures. Based upon this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures are effective as of November 30, 2022.
+Changes in Internal Control over Financial Reporting
+There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that occurred during the quarter ended November 30, 2022, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+29
+Table of Contents
+PART II.       OTHER INFORMATION
+Item 1.           Legal Proceedings
+The information set forth in Note 1 to the consolidated financial statements appearing in Item 1 of Part I of this Quarterly Report on Form 10-Q under the caption “ Subsequent Events ” is incorporated by reference herein.
+Item 1A.        Risk Factors
+In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should carefully consider the factors discussed in Part 1, “Item 1A. Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended February 28, 2022, filed on May 27, 2022, as amended by Amendment No. 1 on Form 10-K/A filed on June 28, 2022, which could materially and adversely affect our business, financial condition and results of operations. There have been no material changes in our risk factors from those disclosed in our Annual Report on Form 10-K for the fiscal year ended February 28, 2022, as amended by Amendment No. 1 on Form 10-K/A.
+Item 2.           Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+None.
+Item 3.           Defaults Upon Senior Securities
+None.
+Item 4.           Mine Safety Disclosures
+Not Applicable.
+Item 5.           Other Information
+On December 14, 2022, the Company filed a Form 8-K, which is incorporated herein by reference, disclosing Gabriel Arreaga’s December 8, 2022, notification to the Board of Directors of the Company (the “Board”) of his decision to resign from the Board effective upon the earlier of (a) the nomination of a new chairperson of the Compensation Committee of the Board, (b) the nomination of  a new member to the Board, or (c) the  conclusion of the Company’s current fiscal year (February 28, 2023).  On January 11, 2023, the Board nominated and elected Jeffrey R. Geygan as the new chairperson of the Compensation Committee of the Board.  Consequently, Mr. Arreaga’s resignation as a member of the Board, as the chairperson of the Compensation Committee of the Board and as a member of the Audit Committee of the Board was effective on January 11, 2023.
+30
+Table of Contents
+Item 6.           Exhibits
+3.1
+Amended and Restated Certificate of Incorporation of Rocky Mountain Chocolate Factory, Inc., a Delaware corporation (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed on March 2, 2015).
+3.2
+Second Amended and Restated Bylaws of Rocky Mountain Chocolate Factory, Inc., a Delaware corporation (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed on December 6, 2019).
+10.1
+Settlement and Release Agreement, dated December 14, 2022, by and among Bradley L. Radoff, Andrew T. Berger, AB Value Partners, LP, AB Value Management LLC, Mary Bradley and Rocky Mountain Chocolate Factory, Inc. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed on December 16, 2022).
+10.2*
+Separation and Release Agreement, by and between Edward L. Dudley and Rocky Mountain Chocolate Factory, Inc., dated September 30, 2022.
+31.1*
+Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2*
+Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1**
+Certification of Principal Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+* Inline XBRL Instance Document (the Instance Document does not appear in the Interactive Data File because it’s XBRL (1))
+101.SCH
+* Inline XBRL Taxonomy Extension Schema Document (1)
+101.CAL
+* Inline XBRL Taxonomy Extension Calculation Linkbase Document (1)
+101.DEF
+* Inline XBRL Taxonomy Extension Definition Linkbase Document (1)
+101.LAB
+* Inline XBRL Taxonomy Extension Label Linkbase Document (1)
+101.PRE
+* Inline XBRL Taxonomy Extension Presentation Linkbase Document (1)
+104
+* Cover page Interactive Data File (formatted as Inline XBRL and combined in Exhibit 101.1)
+(1)
+These interactive data files shall not be deemed filed for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, or Section 18 of the Securities Exchange Act of 1937, as amended, or otherwise subject to liability under those sections.
+*
+Filed herewith.
+**
+Furnished herewith.
++
+Management contract or compensatory plan
+31
+Table of Contents
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ROCKY MOUNTAIN CHOCOLATE FACTORY, INC.
+(Registrant)
+Date: January 13, 2023
+/s/   Allen Arroyo
+Allen Arroyo, Chief Financial Officer
+32

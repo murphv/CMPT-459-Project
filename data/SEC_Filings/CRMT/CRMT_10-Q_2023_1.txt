@@ -1,0 +1,3004 @@
+2023
+0.01
+0.01
+1,000,000
+1,000,000
+0
+0
+0
+0
+0.01
+0.01
+50,000,000
+50,000,000
+13,698,095
+13,642,185
+6,370,031
+6,371,977
+7,328,064
+7,270,208
+57,856
+1
+1
+5
+0
+3
+7
+5
+15
+18
+39
+0
+54
+200,000
+10
+3
+5
+0000799850 2022-05-01 2023-01-31
+xbrli:shares
+0000799850 2023-03-10
+thunderdome:item
+iso4217:USD
+0000799850 2022-12-31
+0000799850 2021-12-31
+0000799850 crmt:PaymentProtectionPlanMember 2022-12-31
+0000799850 crmt:PaymentProtectionPlanMember 2021-12-31
+0000799850 crmt:ServiceContractMember 2022-12-31
+0000799850 crmt:ServiceContractMember 2021-12-31
+iso4217:USD xbrli:shares
+0000799850 2022-11-01 2023-01-31
+0000799850 2021-11-01 2022-01-31
+0000799850 2021-05-01 2022-01-31
+0000799850 crmt:AccidentProtectionPlanMember 2022-05-01 2023-01-31
+0000799850 crmt:AccidentProtectionPlanMember 2021-05-01 2022-01-31
+0000799850 crmt:ServiceContractMember 2022-05-01 2023-01-31
+0000799850 crmt:ServiceContractMember 2021-05-01 2022-01-31
+0000799850 2022-04-30
+0000799850 2021-04-30
+0000799850 2023-01-31
+0000799850 2022-01-31
+0000799850 us-gaap:CommonStockMember 2022-04-30
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2022-04-30
+0000799850 us-gaap:RetainedEarningsMember 2022-04-30
+0000799850 us-gaap:TreasuryStockMember 2022-04-30
+0000799850 us-gaap:NoncontrollingInterestMember 2022-04-30
+0000799850 us-gaap:CommonStockMember 2022-05-01 2022-07-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2022-05-01 2022-07-31
+0000799850 us-gaap:RetainedEarningsMember 2022-05-01 2022-07-31
+0000799850 us-gaap:TreasuryStockMember 2022-05-01 2022-07-31
+0000799850 us-gaap:NoncontrollingInterestMember 2022-05-01 2022-07-31
+0000799850 2022-05-01 2022-07-31
+0000799850 us-gaap:CommonStockMember 2022-07-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2022-07-31
+0000799850 us-gaap:RetainedEarningsMember 2022-07-31
+0000799850 us-gaap:TreasuryStockMember 2022-07-31
+0000799850 us-gaap:NoncontrollingInterestMember 2022-07-31
+0000799850 2022-07-31
+0000799850 us-gaap:CommonStockMember 2022-08-01 2022-10-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2022-08-01 2022-10-31
+0000799850 us-gaap:RetainedEarningsMember 2022-08-01 2022-10-31
+0000799850 us-gaap:TreasuryStockMember 2022-08-01 2022-10-31
+0000799850 us-gaap:NoncontrollingInterestMember 2022-08-01 2022-10-31
+0000799850 2022-08-01 2022-10-31
+0000799850 us-gaap:CommonStockMember 2022-10-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2022-10-31
+0000799850 us-gaap:RetainedEarningsMember 2022-10-31
+0000799850 us-gaap:TreasuryStockMember 2022-10-31
+0000799850 us-gaap:NoncontrollingInterestMember 2022-10-31
+0000799850 2022-10-31
+0000799850 us-gaap:CommonStockMember 2022-11-01 2023-01-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2022-11-01 2023-01-31
+0000799850 us-gaap:RetainedEarningsMember 2022-11-01 2023-01-31
+0000799850 us-gaap:TreasuryStockMember 2022-11-01 2023-01-31
+0000799850 us-gaap:NoncontrollingInterestMember 2022-11-01 2023-01-31
+0000799850 us-gaap:CommonStockMember 2023-01-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2023-01-31
+0000799850 us-gaap:RetainedEarningsMember 2023-01-31
+0000799850 us-gaap:TreasuryStockMember 2023-01-31
+0000799850 us-gaap:NoncontrollingInterestMember 2023-01-31
+0000799850 us-gaap:CommonStockMember 2021-04-30
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2021-04-30
+0000799850 us-gaap:RetainedEarningsMember 2021-04-30
+0000799850 us-gaap:TreasuryStockMember 2021-04-30
+0000799850 us-gaap:NoncontrollingInterestMember 2021-04-30
+0000799850 us-gaap:CommonStockMember 2021-05-01 2021-07-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2021-05-01 2021-07-31
+0000799850 2021-05-01 2021-07-31
+0000799850 us-gaap:TreasuryStockMember 2021-05-01 2021-07-31
+0000799850 us-gaap:RetainedEarningsMember 2021-05-01 2021-07-31
+0000799850 us-gaap:CommonStockMember 2021-07-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2021-07-31
+0000799850 us-gaap:RetainedEarningsMember 2021-07-31
+0000799850 us-gaap:TreasuryStockMember 2021-07-31
+0000799850 us-gaap:NoncontrollingInterestMember 2021-07-31
+0000799850 2021-07-31
+0000799850 us-gaap:CommonStockMember 2021-08-01 2021-10-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2021-08-01 2021-10-31
+0000799850 2021-08-01 2021-10-31
+0000799850 us-gaap:TreasuryStockMember 2021-08-01 2021-10-31
+0000799850 us-gaap:RetainedEarningsMember 2021-08-01 2021-10-31
+0000799850 us-gaap:CommonStockMember 2021-10-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2021-10-31
+0000799850 us-gaap:RetainedEarningsMember 2021-10-31
+0000799850 us-gaap:TreasuryStockMember 2021-10-31
+0000799850 us-gaap:NoncontrollingInterestMember 2021-10-31
+0000799850 2021-10-31
+0000799850 us-gaap:CommonStockMember 2021-11-01 2022-01-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2021-11-01 2022-01-31
+0000799850 us-gaap:RetainedEarningsMember 2021-11-01 2022-01-31
+0000799850 us-gaap:TreasuryStockMember 2021-11-01 2022-01-31
+0000799850 us-gaap:NoncontrollingInterestMember 2021-11-01 2022-01-31
+0000799850 us-gaap:CommonStockMember 2022-01-31
+0000799850 us-gaap:AdditionalPaidInCapitalMember 2022-01-31
+0000799850 us-gaap:RetainedEarningsMember 2022-01-31
+0000799850 us-gaap:TreasuryStockMember 2022-01-31
+0000799850 us-gaap:NoncontrollingInterestMember 2022-01-31
+xbrli:pure
+0000799850 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember crmt:ArkansasUSAMember 2022-05-01 2023-01-31
+0000799850 us-gaap:RevolvingCreditFacilityMember 2022-05-01 2023-01-31
+0000799850 crmt:CollectionsOnAutoFinanceReceivablesMember 2023-01-31
+0000799850 crmt:CollectionsOnAutoFinanceReceivablesMember 2022-04-30
+0000799850 crmt:DepositInReserveAccountsMember 2023-01-31
+0000799850 crmt:DepositInReserveAccountsMember 2022-04-30
+0000799850 2022-12-01 2022-12-31
+0000799850 stpr:AR 2022-12-01 2022-12-31
+0000799850 srt:MinimumMember stpr:IL 2022-12-01 2022-12-31
+0000799850 srt:MaximumMember stpr:IL 2022-12-01 2022-12-31
+utr:M
+0000799850 crmt:AccidentProtectionPlanMember 2023-01-31
+0000799850 crmt:ServiceContractMember 2023-01-31
+utr:Y
+0000799850 srt:MinimumMember 2022-05-01 2023-01-31
+0000799850 srt:MaximumMember 2022-05-01 2023-01-31
+0000799850 crmt:FurnitureFixturesAndEquipmentMember srt:MinimumMember 2022-05-01 2023-01-31
+0000799850 crmt:FurnitureFixturesAndEquipmentMember srt:MaximumMember 2022-05-01 2023-01-31
+0000799850 us-gaap:LeaseholdImprovementsMember srt:MinimumMember 2022-05-01 2023-01-31
+0000799850 us-gaap:LeaseholdImprovementsMember srt:MaximumMember 2022-05-01 2023-01-31
+0000799850 us-gaap:BuildingAndBuildingImprovementsMember srt:MinimumMember 2022-05-01 2023-01-31
+0000799850 us-gaap:BuildingAndBuildingImprovementsMember srt:MaximumMember 2022-05-01 2023-01-31
+0000799850 crmt:SalesUsedAutosMember 2022-11-01 2023-01-31
+0000799850 crmt:SalesUsedAutosMember 2021-11-01 2022-01-31
+0000799850 crmt:SalesUsedAutosMember 2022-05-01 2023-01-31
+0000799850 crmt:SalesUsedAutosMember 2021-05-01 2022-01-31
+0000799850 crmt:WholesalesThirdPartyMember 2022-11-01 2023-01-31
+0000799850 crmt:WholesalesThirdPartyMember 2021-11-01 2022-01-31
+0000799850 crmt:WholesalesThirdPartyMember 2022-05-01 2023-01-31
+0000799850 crmt:WholesalesThirdPartyMember 2021-05-01 2022-01-31
+0000799850 crmt:ServiceContractSalesMember 2022-11-01 2023-01-31
+0000799850 crmt:ServiceContractSalesMember 2021-11-01 2022-01-31
+0000799850 crmt:ServiceContractSalesMember 2022-05-01 2023-01-31
+0000799850 crmt:ServiceContractSalesMember 2021-05-01 2022-01-31
+0000799850 crmt:PaymentProtectionPlanRevenueMember 2022-11-01 2023-01-31
+0000799850 crmt:PaymentProtectionPlanRevenueMember 2021-11-01 2022-01-31
+0000799850 crmt:PaymentProtectionPlanRevenueMember 2022-05-01 2023-01-31
+0000799850 crmt:PaymentProtectionPlanRevenueMember 2021-05-01 2022-01-31
+0000799850 crmt:ACMInsuranceCompanyMember 2022-05-01 2023-01-31
+0000799850 stpr:AR 2022-05-01 2023-01-31
+0000799850 srt:MinimumMember stpr:IL 2022-05-01 2023-01-31
+0000799850 srt:MaximumMember stpr:IL 2022-05-01 2023-01-31
+0000799850 us-gaap:FinancialAssetNotPastDueMember 2023-01-31
+0000799850 us-gaap:FinancialAssetNotPastDueMember 2022-04-30
+0000799850 us-gaap:FinancialAssetNotPastDueMember 2022-01-31
+0000799850 crmt:FinancialAsset3To29DaysPastDueMember 2023-01-31
+0000799850 crmt:FinancialAsset3To29DaysPastDueMember 2022-04-30
+0000799850 crmt:FinancialAsset3To29DaysPastDueMember 2022-01-31
+0000799850 us-gaap:FinancingReceivables30To59DaysPastDueMember 2023-01-31
+0000799850 us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-04-30
+0000799850 us-gaap:FinancingReceivables30To59DaysPastDueMember 2022-01-31
+0000799850 us-gaap:FinancingReceivables60To89DaysPastDueMember 2023-01-31
+0000799850 us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-04-30
+0000799850 us-gaap:FinancingReceivables60To89DaysPastDueMember 2022-01-31
+0000799850 us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2023-01-31
+0000799850 us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-04-30
+0000799850 us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember 2022-01-31
+0000799850 crmt:CustomerScore12Member 2023-01-31
+0000799850 crmt:CustomerScore34Member 2023-01-31
+0000799850 crmt:CustomerScore56Member 2023-01-31
+0000799850 crmt:CustomerScore12Member 2022-01-31
+0000799850 crmt:CustomerScore34Member 2022-01-31
+0000799850 crmt:CustomerScore56Member 2022-01-31
+0000799850 us-gaap:LandMember 2023-01-31
+0000799850 us-gaap:LandMember 2022-04-30
+0000799850 us-gaap:BuildingAndBuildingImprovementsMember 2023-01-31
+0000799850 us-gaap:BuildingAndBuildingImprovementsMember 2022-04-30
+0000799850 crmt:FurnitureFixturesAndEquipmentMember 2023-01-31
+0000799850 crmt:FurnitureFixturesAndEquipmentMember 2022-04-30
+0000799850 us-gaap:LeaseholdImprovementsMember 2023-01-31
+0000799850 us-gaap:LeaseholdImprovementsMember 2022-04-30
+0000799850 us-gaap:ConstructionInProgressMember 2023-01-31
+0000799850 us-gaap:ConstructionInProgressMember 2022-04-30
+0000799850 crmt:NotesPayableMember 2023-01-31
+0000799850 crmt:NotesPayableMember 2022-04-30
+0000799850 us-gaap:LineOfCreditMember 2023-01-31
+0000799850 us-gaap:LineOfCreditMember 2022-04-30
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2019-09-29
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2019-09-30
+0000799850 crmt:ColonialRevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2019-09-29
+0000799850 crmt:ColonialRevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2019-09-30
+0000799850 crmt:ACMTCMRevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2019-09-30
+0000799850 crmt:MediumtermVehicleContractsMember srt:MinimumMember 2020-10-29 2020-10-29
+0000799850 crmt:MediumtermVehicleContractsMember srt:MaximumMember 2020-10-29 2020-10-29
+0000799850 crmt:LongtermVehicleContractsMember srt:MinimumMember 2020-10-29 2020-10-29
+0000799850 crmt:LongtermVehicleContractsMember srt:MaximumMember 2020-10-29 2020-10-29
+0000799850 crmt:MediumtermVehicleContractsMember crmt:BmoHarrisBankMember us-gaap:LineOfCreditMember 2020-10-29 2020-10-29
+0000799850 crmt:LongtermVehicleContractsMember crmt:BmoHarrisBankMember us-gaap:LineOfCreditMember 2020-10-29 2020-10-29
+0000799850 crmt:BmoHarrisBankMember us-gaap:LineOfCreditMember 2020-10-29 2020-10-29
+0000799850 crmt:BmoHarrisBankMember us-gaap:LineOfCreditMember 2020-10-29
+0000799850 crmt:BmoHarrisBankMember us-gaap:LineOfCreditMember 2020-12-31
+0000799850 crmt:BmoHarrisBankMember us-gaap:LineOfCreditMember 2021-02-09
+0000799850 crmt:BmoHarrisBankMember us-gaap:LineOfCreditMember 2021-02-10
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2021-09-29 2021-09-29
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2021-09-28
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2021-09-29
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2022-04-22 2022-04-22
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2022-04-22
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-05-01 2023-01-31
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember srt:MinimumMember 2023-01-31
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2023-01-31
+0000799850 us-gaap:RevolvingCreditFacilityMember crmt:BmoHarrisBankMember 2022-04-30
+0000799850 us-gaap:RevolvingCreditFacilityMember 2023-01-31
+0000799850 us-gaap:RevolvingCreditFacilityMember 2021-05-01 2022-01-31
+0000799850 crmt:NotesPayableMember 2022-04-27
+0000799850 crmt:NotesPayableMember 2022-05-01 2023-01-31
+0000799850 us-gaap:MeasurementInputDiscountRateMember srt:MinimumMember 2019-01-31
+0000799850 us-gaap:MeasurementInputDiscountRateMember srt:MaximumMember 2019-01-31
+0000799850 2019-01-01 2019-01-31
+0000799850 us-gaap:CarryingReportedAmountFairValueDisclosureMember 2023-01-31
+0000799850 us-gaap:EstimateOfFairValueFairValueDisclosureMember 2023-01-31
+0000799850 us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-04-30
+0000799850 us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-04-30
+0000799850 us-gaap:EmployeeStockOptionMember 2022-11-01 2023-01-31
+0000799850 us-gaap:EmployeeStockOptionMember 2021-11-01 2022-01-31
+0000799850 us-gaap:EmployeeStockOptionMember 2022-05-01 2023-01-31
+0000799850 us-gaap:EmployeeStockOptionMember 2021-05-01 2022-01-31
+0000799850 us-gaap:RestrictedStockMember 2022-11-01 2023-01-31
+0000799850 us-gaap:RestrictedStockMember 2021-11-01 2022-01-31
+0000799850 us-gaap:RestrictedStockMember 2022-05-01 2023-01-31
+0000799850 us-gaap:RestrictedStockMember 2021-05-01 2022-01-31
+0000799850 crmt:RestatedOptionPlanMember 2022-05-01 2023-01-31
+0000799850 crmt:RestatedOptionPlanMember 2021-05-01 2022-01-31
+0000799850 crmt:RestatedOptionPlanMember 2015-08-05 2015-08-05
+0000799850 crmt:RestatedOptionPlanMember 2015-08-05
+0000799850 crmt:RestatedOptionPlanMember 2018-08-29 2018-08-29
+0000799850 crmt:RestatedOptionPlanMember 2018-08-29
+0000799850 crmt:RestatedOptionPlanMember 2020-08-26 2020-08-26
+0000799850 crmt:RestatedOptionPlanMember 2020-08-26
+0000799850 crmt:RestatedOptionPlanMember 2022-08-30 2022-08-30
+0000799850 crmt:RestatedOptionPlanMember 2022-08-30
+0000799850 us-gaap:EmployeeStockOptionMember crmt:RestatedOptionPlanMember 2015-08-05 2015-08-05
+0000799850 us-gaap:EmployeeStockOptionMember 2022-05-01 2023-01-31
+0000799850 us-gaap:EmployeeStockOptionMember 2021-05-01 2022-01-31
+0000799850 us-gaap:EmployeeStockOptionMember 2023-01-31
+0000799850 crmt:StockIncentivePlanMember 2018-08-28
+0000799850 crmt:StockIncentivePlanMember 2018-08-29
+0000799850 crmt:SecondIssuanceOfRestrictedStockMember crmt:StockIncentivePlanMember 2022-05-01 2023-01-31
+0000799850 crmt:SecondIssuanceOfRestrictedStockMember crmt:StockIncentivePlanMember 2021-05-01 2022-01-31
+0000799850 crmt:StockIncentivePlanMember 2023-01-31
+0000799850 crmt:StockIncentivePlanMember 2022-05-01 2023-01-31
+0000799850 crmt:StockIncentivePlanMember 2021-05-01 2022-01-31
+0000799850 crmt:DealershipLeasesMember srt:MinimumMember 2023-01-31
+0000799850 crmt:DealershipLeasesMember srt:MaximumMember 2023-01-31
+0000799850 srt:ScenarioPreviouslyReportedMember 2022-04-30
+0000799850 srt:RestatementAdjustmentMember 2022-04-30
+0000799850 srt:ScenarioPreviouslyReportedMember 2021-11-01 2022-01-31
+0000799850 srt:RestatementAdjustmentMember 2021-11-01 2022-01-31
+0000799850 srt:ScenarioPreviouslyReportedMember 2021-05-01 2022-01-31
+0000799850 srt:RestatementAdjustmentMember 2021-05-01 2022-01-31
+0000799850 srt:MinimumMember us-gaap:SubsequentEventMember crmt:ThirdAmendedAndRestatedLoanAndSecurityAgreement 2023-02-22 2023-02-22
+0000799850 srt:MaximumMember us-gaap:SubsequentEventMember crmt:ThirdAmendedAndRestatedLoanAndSecurityAgreement 2023-02-22 2023-02-22
+0000799850 srt:MaximumMember us-gaap:SubsequentEventMember 2023-02-23
+0000799850 srt:MaximumMember 2023-01-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+January 31, 2023
+Or
+☐    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ________ to ________
+Commission file number:
+0-14939
+AMERICA ’ S CAR-MART, INC.
+(Exact name of registrant as specified in its charter)
+Texas   63-0851141
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1805 North 2 nd
+Street, Suite 401 ,
+Rogers ,
+Arkansas
+72756
+(Address of principal executive offices) (zip code)
+( 479 )
+464-9944
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+CRMT
+NASDAQ
+Global Select Market
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒  No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒        Accelerated filer ☐
+Non-accelerated filer ☐      Smaller reporting company
+☐ Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes  ☐  No ☒
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+Title of Each Class   Outstanding at March 10, 2023
+Common stock, par value $.01 per share   6,370,031
+Part I. FINANCIAL INFORMATION
+Item 1. Financial Statements (Unaudited)
+Condensed Consolidated Balance Sheets
+America ’ s Car-Mart, Inc.
+January 31, 2023 and April 30, 2022
+(Dollars in thousands except share and per share amounts)
+January 31, 2023
+April 30, 2022
+Assets:
+(Unaudited)
+Cash and cash equivalents
+$ 4,322     $ 6,916
+Restricted cash
+61,148       35,671
+Accrued interest on finance receivables
+6,249       4,926
+Finance receivables, net
+1,023,181       863,674
+Inventory
+131,616       115,302
+Income tax receivable, net
+6,700       274
+Prepaid expenses and other assets
+11,297       9,044
+Right-of-use asset
+59,389       58,828
+Goodwill
+11,666       8,623
+Property and equipment, net
+69,112       51,438
+Total Assets   $ 1,384,680     $ 1,154,696
+Liabilities, mezzanine equity and equity:
+Liabilities:
+Accounts payable
+$ 27,401     $ 20,055
+Deferred accident protection plan revenue
+49,901       43,936
+Deferred service contract revenue
+60,428       48,555
+Accrued liabilities
+35,527       32,630
+Deferred income tax liabilities, net
+37,333       30,449
+Lease liability
+62,354       61,481
+Non-recourse notes payable
+588,310       395,986
+Revolving line of credit
+27,782       44,670
+Total liabilities     889,036       677,762
+Commitments and contingencies (Note J)
+Mezzanine equity:
+Mandatorily redeemable preferred stock
+400       400
+Equity:
+Preferred stock, par value $ .01
+per share,
+1,000,000
+shares authorized;
+none
+issued or outstanding     -       -
+Common stock, par value $ .01
+per share,
+50,000,000
+shares authorized;
+13,698,095
+and 13,642,185 issued at January 31, 2023 and April 30, 2022, respectively, of which
+6,370,031
+and
+6,371,977
+were outstanding at January 31, 2023 and April 30, 2022, respectively     137       136
+Additional paid-in capital
+108,704       103,113
+Retained earnings
+683,724       665,410
+Less: Treasury stock, at cost,
+7,328,064
+and
+7,270,208
+shares at January 31, 2023 and April 30, 2022, respectively     ( 297,421 )     ( 292,225 )
+Total stockholders' equity     495,144       476,434
+Non-controlling interest
+100       100
+Total equity     495,244       476,534
+Total Liabilities, Mezzanine Equity and Equity   $ 1,384,680     $ 1,154,696
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+2
+Condensed Consolidated Statements of Operations
+America ’ s Car-Mart, Inc.
+Three and Nine Months Ended January 31, 2023 and 2022
+Three Months Ended
+January 31,
+Nine Months Ended
+January 31,
+(Dollars in thousands except share and per share amounts)
+2023
+2022
+2023
+2022
+Revenues:
+(Unaudited)
+(Unaudited)
+Sales
+$
+275,467
+$
+248,312
+$
+873,499
+$
+739,734
+Interest and other income
+51,063
+38,980
+143,690
+109,586
+Total revenues
+326,530
+287,292
+1,017,189
+849,320
+Costs and expenses:
+Cost of sales
+183,014
+157,248
+582,271
+467,179
+Selling, general and administrative
+44,737
+39,179
+130,881
+115,140
+Provision for credit losses
+85,650
+61,646
+250,719
+167,987
+Interest expense
+9,765
+2,944
+25,460
+7,439
+Depreciation and amortization
+1,537
+950
+3,997
+2,823
+Loss on disposal of property and equipment
+68
+42
+320
+88
+Total costs and expenses
+324,771
+262,009
+993,648
+760,656
+Income before taxes
+1,759
+25,283
+23,541
+88,664
+Provision for income taxes
+251
+6,143
+5,197
+20,046
+Net income
+$
+1,508
+$
+19,140
+$
+18,344
+$
+68,618
+Less:  Dividends on mandatorily redeemable preferred stock
+( 10
+)
+( 10
+)
+( 30
+)
+( 30
+)
+Net income attributable to common stockholders
+$
+1,498
+$
+19,130
+$
+18,314
+$
+68,588
+Earnings per share:
+Basic
+$
+0.24
+$
+2.95
+$
+2.87
+$
+10.49
+Diluted
+$
+0.23
+$
+2.82
+$
+2.79
+$
+9.97
+Weighted average number of shares used in calculation:
+Basic
+6,370,031
+6,487,310
+6,370,732
+6,540,450
+Diluted
+6,536,785
+6,779,641
+6,562,214
+6,880,283
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+Condensed Consolidated Statements of Cash Flows
+America ’ s Car-Mart, Inc.
+Nine Months Ended January 31, 2023 and 2022
+Nine Months Ended
+January 31,
+(In thousands)
+2023
+2022
+(Unaudited)
+Operating Activities:
+Net income
+$
+18,344
+$
+68,618
+Adjustments to reconcile net income to net cash used in operating activities:
+Provision for credit losses
+250,719
+167,987
+Losses on claims for accident protection plan
+17,717
+14,748
+Depreciation and amortization
+3,997
+2,823
+Amortization of debt issuance costs
+4,187
+559
+Loss on disposal of property and equipment
+320
+88
+Stock based compensation
+4,154
+4,706
+Deferred income taxes
+6,884
+6,390
+Excess tax benefit from share based compensation
+206
+912
+Change in operating assets and liabilities:
+Finance receivable originations
+( 841,445
+)
+( 718,275
+)
+Finance receivable collections
+308,671
+293,458
+Accrued interest on finance receivables
+( 1,323
+)
+( 853
+)
+Inventory
+74,803
+18,822
+Prepaid expenses and other assets
+( 2,253
+)
+( 3,006
+)
+Accounts payable and accrued liabilities
+6,760
+4,031
+Deferred accident protection plan revenue
+13,987
+14,775
+Deferred service contract revenue
+17,565
+22,034
+Income taxes, net
+( 6,632
+)
+( 488
+)
+Net cash used in operating activities
+( 123,339
+)
+( 102,671
+)
+Investing Activities:
+Purchase of investments
+( 3,043
+)
+( 1,318
+)
+Purchase of property and equipment
+( 22,075
+)
+( 13,881
+)
+Proceeds from sale of property and equipment
+84
+-
+Net cash used in investing activities
+( 25,034
+)
+( 15,199
+)
+Financing Activities:
+Exercise of stock options
+1,216
+( 984
+)
+Issuance of common stock
+222
+225
+Purchase of common stock
+( 5,196
+)
+( 26,503
+)
+Dividend payments
+( 30
+)
+( 30
+)
+Change in cash overdrafts
+3,795
+( 1,801
+)
+Debt issuance costs
+( 2,001
+)
+( 1,787
+)
+Proceeds from non-recourse notes payable
+400,176
+-
+Payments on non-recourse notes payable
+( 209,327
+)
+-
+Proceeds from revolving line of credit
+381,825
+248,817
+Payments on revolving line of credit
+( 399,424
+)
+( 100,357
+)
+Net cash provided by financing activities
+171,256
+117,580
+Increase (Decrease) in cash, cash equivalents, and restricted cash
+22,883
+( 290
+)
+Cash, cash equivalents, and restricted cash beginning of period
+42,587
+2,893
+Cash, cash equivalents, and restricted cash end of period
+$
+65,470
+$
+2,603
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+Condensed Consolidated Statements of Equity
+America ’ s Car-Mart, Inc.
+Three and Nine Months Ended January 31, 2023
+Additional
+Non-
+Common Stock
+Paid-In
+Retained
+Treasury
+Controlling
+Total
+(In thousands, except share data)
+Shares
+Amount
+Capital
+Earnings
+Stock
+Interest
+Equity
+Balance at April 30, 2022
+13,642,185     $ 136     $ 103,113     $ 665,410     $ ( 292,225 )   $ 100     $ 476,534
+Issuance of common stock
+30,484       1       84       -       -       -       85
+Stock options exercised
+23,000       -       1,216       -       -       -       1,216
+Purchase of
+57,856
+treasury shares
+-       -       -       -       ( 5,196 )     -       ( 5,196 )
+Stock based compensation
+-       -       1,978       -       -       -       1,978
+Dividends on subsidiary preferred stock
+-       -       -       ( 10 )     -       -       ( 10 )
+Net income
+-       -       -       13,697       -       -       13,697
+Balance at July 31, 2022 (Unaudited)
+13,695,669     $ 137     $ 106,391     $ 679,097     $ ( 297,421 )   $ 100     $ 488,304
+Issuance of common stock
+1,235       -       64       -       -       -       64
+Stock based compensation
+-       -       820       -       -       -       820
+Dividends on subsidiary preferred stock
+-       -       -       ( 10 )     -       -       ( 10 )
+Net income
+-       -       -       3,139       -       -       3,139
+Balance at October 31, 2022 (Unaudited)
+13,696,904     $ 137     $ 107,275     $ 682,226     $ ( 297,421 )   $ 100     $ 492,317
+Issuance of common stock
+1,191       -       73       -       -       -       73
+Stock based compensation
+-       -       1,356       -       -       -       1,356
+Dividends on subsidiary preferred stock
+-       -       -       ( 10 )     -       -       ( 10 )
+Net income
+-       -       -       1,508       -       -       1,508
+Balance at January 31, 2023 (Unaudited)
+13,698,095     $ 137     $ 108,704     $ 683,724     $ ( 297,421 )   $ 100     $ 495,244
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+Condensed Consolidated Statements of Equity
+America ’ s Car-Mart, Inc.
+Three and Nine Months Ended January 31, 2022
+Additional
+Non-
+Common Stock
+Paid-In
+Retained
+Treasury
+Controlling
+Total
+(In thousands, except share data)
+Shares
+Amount
+Capital
+Earnings
+Stock
+Interest
+Equity
+Balance at April 30, 2021
+13,591,889
+$
+136
+$
+98,812
+$
+570,505
+$
+( 257,527
+)
+$
+100
+$
+412,026
+Issuance of common stock
+673
+-
+81
+-
+-
+-
+81
+Stock options exercised
+15,281
+-
+( 1,007
+)
+-
+-
+-
+( 1,007
+)
+Purchase of 81,742 treasury shares
+-
+-
+-
+-
+( 11,618
+)
+-
+( 11,618
+)
+Stock based compensation
+-
+-
+2,972
+-
+-
+-
+2,972
+Dividends on subsidiary preferred stock
+-
+-
+-
+( 10
+)
+-
+-
+( 10
+)
+Net income
+-
+-
+-
+26,054
+-
+-
+26,054
+Balance at July 31, 2021 (Unaudited)
+13,607,843
+$
+136
+$
+100,858
+$
+596,549
+$
+( 269,145
+)
+$
+100
+$
+428,498
+Issuance of common stock
+7,186
+-
+68
+-
+-
+-
+68
+Stock options exercised
+8,381
+-
+-
+-
+-
+-
+-
+Purchase of 66,701 treasury shares
+-
+-
+-
+-
+( 8,345
+)
+-
+( 8,345
+)
+Stock based compensation
+-
+-
+977
+-
+-
+-
+977
+Dividends on subsidiary preferred stock
+-
+-
+-
+( 10
+)
+-
+-
+( 10
+)
+Net income
+-
+-
+-
+23,425
+-
+-
+23,425
+Balance at October 31, 2021 (Unaudited)
+13,623,410
+$
+136
+$
+101,903
+$
+619,964
+$
+( 277,490
+)
+$
+100
+$
+444,613
+Issuance of common stock
+872
+-
+76
+-
+-
+-
+76
+Stock options exercised
+500
+-
+23
+-
+-
+-
+23
+Purchase of 63,761 treasury shares
+-
+-
+-
+-
+( 6,540
+)
+-
+( 6,540
+)
+Stock based compensation
+-
+-
+757
+-
+-
+-
+757
+Dividends on subsidiary preferred stock
+-
+-
+-
+( 10
+)
+-
+-
+( 10
+)
+Net income
+-
+-
+-
+19,140
+-
+-
+19,140
+Balance at January 31, 2022 (Unaudited)
+13,624,782
+$
+136
+$
+102,759
+$
+639,094
+$
+( 284,030
+)
+$
+100
+$
+458,059
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+Notes to Consolidated Financial Statements (Unaudited)
+America ’ s Car-Mart, Inc .
+A
+–
+Organization and Business
+America’s Car-Mart, Inc., a Texas corporation (the “Company”), is
+one
+of the largest publicly held automotive retailers in the United States focused exclusively on the “Integrated Auto Sales and Finance” segment of the used car market. References to the Company typically include the Company’s consolidated subsidiaries. The Company’s operations are principally conducted through its
+two
+operating subsidiaries, America’s Car Mart, Inc., an Arkansas corporation (“Car-Mart of Arkansas”), and Colonial Auto Finance, Inc., an Arkansas corporation (“Colonial”). The Company primarily sells older model used vehicles and provides financing for substantially all of its customers. Many of the Company’s customers have limited financial resources and would
+not
+qualify for conventional financing as a result of limited credit histories or past credit difficulties. As of
+January 31, 2023,
+the Company operated
+157
+dealerships located primarily in small cities throughout the South-Central United States.
+B
+–
+Summary of Significant Accounting Policies
+General
+The accompanying condensed consolidated balance sheet as of
+April 30, 2022,
+which has been derived from audited financial statements, and the unaudited interim condensed financial statements as of
+January 31, 2023
+and
+2022,
+have been prepared in accordance with generally accepted accounting principles for interim financial information and in accordance with the instructions to Form
+10 -Q and Article
+10
+of Regulation S- X.
+Accordingly, they do
+not
+include all of the information and footnotes required by accounting principles generally accepted in the United States of America for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Operating results for the
+three
+and
+nine
+months ended
+January 31, 2023
+are
+not
+necessarily indicative of the results that
+may
+be expected for the year ending
+April 30, 2023.
+For further information, refer to the consolidated financial statements and footnotes thereto included in the Company’s annual report on Form
+10 -K for the year ended
+April 30, 2022.
+Principles of Consolidation
+The condensed consolidated financial statements include the accounts of America’s Car-Mart, Inc. and its subsidiaries. All intercompany accounts and transactions have been eliminated.
+Segment Information
+Each dealership is an operating segment with its results regularly reviewed by the Company’s chief operating decision maker in an effort to make decisions about resources to be allocated to the segment and to assess its performance. Individual dealerships meet the aggregation criteria for reporting purposes under the current accounting guidance. The Company operates in the Integrated Auto Sales and Finance segment of the used car market, also referred to as the Integrated Auto Sales and Finance industry. In this industry, the nature of the sale and the financing of the transaction, financing processes, the type of customer and the methods used to distribute the Company’s products and services, including the actual servicing of the contracts as well as the regulatory environment in which the Company operates, all have similar characteristics. Each individual dealership is similar in nature and only engages in the selling and financing of used vehicles. All individual dealerships have similar operating characteristics. As such, individual dealerships have been aggregated into
+one
+reportable segment.
+Use of Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the period. Actual results could differ from those estimates. Significant estimates include, but are
+not
+limited to, the Company’s allowance for credit losses.
+Concentration of Risk
+The Company provides financing in connection with the sale of substantially all of its vehicles. These sales are made primarily to customers residing in Alabama, Arkansas, Georgia, Illinois, Kentucky, Mississippi, Missouri, Oklahoma, Tennessee, and Texas, with approximately
+28 % of current period revenues resulting from sales to Arkansas customers.
+As of
+January 31, 2023,
+and periodically throughout the period, the Company maintained cash in financial institutions in excess of the amounts insured by the federal government. The cash is held in several highly rated banking institutions. The Company regularly monitors its counterparty credit risk and mitigates exposure by limiting the amount it invests in
+one
+institution. The Company’s revolving credit facilities mature in
+September 2024.
+7
+Restrictions on Distributions/Dividends
+The Company’s revolving credit facilities generally restrict distributions by the Company to its shareholders. The distribution limitations under the credit facilities allow the Company to repurchase the Company’s stock so long as either: (a) the aggregate amount of such repurchases after
+September 30, 2021
+does
+not
+exceed $ 50
+million, net of proceeds received from the exercise of stock options, and the total availability under the credit facilities is equal to or greater than
+20 % of the sum of the borrowing bases, in each case after giving effect to such repurchases (repurchases under this item are excluded from fixed charges for covenant calculations), or (b) the aggregate amount of such repurchases does
+not
+exceed
+75 % of the consolidated net income of the Company measured on a trailing
+twelve
+month basis; provided that immediately before and after giving effect to the Company’s stock repurchases, at least
+12.5 % of the aggregate funds committed under the credit facilities remain available. Thus, although the Company does routinely repurchase stock, the Company is limited in its ability to pay dividends or make other distributions to its shareholders without the consent of the Company’s lenders.
+Cash Equivalents
+The Company considers all highly liquid debt instruments purchased with original maturities of
+three
+months or less to be cash equivalents.
+Restricted Cash
+Restricted cash is related to the financing and securitization transaction discussed below and is held by the securitization trust.
+Restricted cash from collections on auto finance receivables includes collections of principal, interest, and fee payments on auto finance receivables that are restricted for payment to holders of non-recourse notes payable pursuant to the applicable agreements.
+The restricted cash on deposit in reserve accounts is for the benefit of holders of non-recourse notes payable, and these funds are
+not
+expected to be available to the Company or its creditors. If the cash generated by the related receivables in a given period was insufficient to pay the interest, principal, and other required payments, the balances on deposit in the reserve accounts would be used to pay those amounts.
+Restricted cash consisted of the following at
+January 31, 2023
+and
+April 30, 2022:
+(In thousands)
+January 31, 2023
+April 30, 2022
+Restricted cash from collections on auto finance receivables
+$ 37,559     $ 24,242
+Restricted cash on deposit in reserve accounts
+23,589       11,429
+Restricted Cash
+$ 61,148     $ 35,671
+Financing and Securitization Transactions
+The Company utilizes term securitizations to provide long-term funding for a portion of the auto finance receivables initially funded through the debt facilities. In these transactions, a pool of auto finance receivables is sold to a special purpose entity that, in turn, transfers the receivables to a special purpose securitization trust. The securitization trust issues asset-backed securities, secured or otherwise supported by the transferred receivables, and the proceeds from the sale of the asset-backed securities are used to finance the securitized receivables.
+The Company is required to evaluate term securitization trusts for consolidation. In the Company’s role as servicer for each securitization, it possesses non-substantive voting rights and has the power to direct the activities of the trust that most significantly impact the economic performance of the trust. In addition, the obligation to absorb losses (subject to limitations) and the rights to receive any returns of the trust, remain with the Company. Accordingly, the Company is the primary beneficiary of the trust and is required to consolidate it.
+The Company recognizes transfers of auto finance receivables into the term securitizations as secured borrowings, which result in recording the auto finance receivables and the related non-recourse notes payable on our consolidated balance sheet. These auto finance receivables can only be used as collateral to settle obligations of the related non-recourse notes payable. The term securitization investors have
+no
+recourse to the Company’s assets beyond the related auto finance receivables, the amounts on deposit in the reserve account, and the restricted cash from collections on auto finance receivables. See Notes C and F for additional information on auto finance receivables and non-recourse notes payable.
+8
+Finance Receivables, Repossessions and Charge-offs and Allowance for Credit Losses
+The Company originates installment sale contracts from the sale of used vehicles at its dealerships. These installment sale contracts carry an average interest rate of approximately
+16.5 % using the simple effective interest method including any deferred fees. In
+December 2022,
+the Company changed the interest rate on new originations of installment sale contracts to
+18 % in all states in which it operates, except for Arkansas (remains at
+16.5 %) and Illinois ( 19.5
+–
+21.5 %). Contract origination costs are
+not
+significant. The installment sale contracts are
+not
+pre-computed contracts whereby borrowers are obligated to pay back principal plus the full amount of interest that will accrue over the entire term of the contract. Finance receivables are collateralized by vehicles sold and consist of contractually scheduled payments from installment contracts, net of unearned finance charges and an allowance for credit losses. Unearned finance charges represent the balance of interest receivable to be earned over the entire term of the related installment contract, less the earned amount ($ 6.2
+million at
+January 31, 2023
+and $ 4.9
+million at
+April 30, 2022
+on the Condensed Consolidated Balance Sheets), and as such, have been reflected as a reduction to the gross contract amount in arriving at the principal balance in finance receivables .
+An account is considered delinquent when the customer is
+one
+day or more behind on their contractual payments. While the Company does
+not
+formally place contracts on nonaccrual status, the immaterial amount of interest that
+may
+accrue after an account becomes delinquent up until the point of resolution via repossession or write-off is reserved for against the accrued interest on the Condensed Consolidated Balance Sheets. Delinquent contracts are addressed and either made current by the customer, which is the case in most situations, or the vehicle is repossessed or written off if the collateral cannot be recovered quickly. Customer payments are set to match their payday with approximately
+79 % of payments due on either a weekly or bi-weekly basis. The frequency of the payment due dates combined with the declining value of collateral lead to prompt resolutions on problem accounts. On
+January 31, 2023,
+3.7 % of the Company’s finance receivable balances were
+30
+days or more past due, compared to
+3.0 % at
+April 30, 2022.
+Substantially all of the Company’s automobile contracts involve contracts made to individuals with impaired or limited credit histories, or higher debt-to-income ratios than permitted by traditional lenders. Contracts made with buyers who are restricted in their ability to obtain financing from traditional lenders generally entail a higher risk of delinquency, default and repossession, and higher losses than contracts made with buyers with better credit. At the time of originating a finance agreement, the Company requires customers to meet certain criteria that demonstrate their intent and ability to pay for the financed principal and interest on the vehicle they are purchasing. However, the Company recognizes that their customer base is at a higher risk of default given their impaired or limited credit histories.
+The Company strives to keep its delinquency percentages low, and
+not
+to repossess vehicles. Accounts
+one
+to
+three
+days late are contacted by telephone or text messaging notifications. Notes from each contact are electronically maintained in the Company’s computer system. The Company also utilizes text messaging notifications that allow customers the option to receive due date reminders and late notifications, if applicable. The Company attempts to resolve payment delinquencies amicably prior to repossessing a vehicle. If a customer becomes severely delinquent in his or her payments, and management determines that timely collection of future payments is
+not
+probable, the Company will take steps to repossess the vehicle.
+Periodically, the Company enters into contract modifications with its customers to extend or modify the payment terms. The Company only enters into a contract modification or extension if it believes such action will increase the amount of money the Company will ultimately realize on the customer’s account and will increase the likelihood of the customer being able to pay off the vehicle contract. At the time of modification, the Company expects to collect amounts due including accrued interest at the contractual interest rate for the period of delay.
+No
+other concessions are granted to customers, beyond the extension of additional time, at the time of modifications. Modifications are minor and are made for payday changes, minor vehicle repairs and other reasons. For those vehicles that are repossessed, the majority are returned or surrendered by the customer on a voluntary basis. Other repossessions are performed by Company personnel or
+third -party repossession agents. Depending on the condition of a repossessed vehicle, it is either resold on a retail basis through a Company dealership or sold for cash on a wholesale basis primarily through physical or online auctions.
+The Company takes steps to repossess a vehicle when the customer becomes delinquent in his or her payments and management determines that timely collection of future payments is
+not
+probable. Accounts are charged-off after the expiration of a statutory notice period for repossessed accounts, or when management determines that the timely collection of future payments is
+not
+probable for accounts where the Company has been unable to repossess the vehicle. For accounts with respect to which the vehicle was repossessed, the fair value of the repossessed vehicle is charged as a reduction of the gross finance receivables balance charged-off. On average, accounts are approximately
+71
+days past due at the time of charge-off. For previously charged-off accounts that are subsequently recovered, the amount of such recovery is credited to the allowance for credit losses. The amount of the net repossession and charge-off loss is also reduced by any deferred service contract and accident protection plan revenue at the time of charge-off.
+9
+The Company maintains an allowance for credit losses on an aggregate basis at an amount it considers sufficient to cover net credit losses expected over the remaining life of the contracts in the portfolio at the measurement date. At
+January 31, 2023,
+the weighted average total contract term was
+45.4
+months with
+35.5
+months remaining. The allowance for credit losses at
+January 31, 2023,
+$ 283
+million, was
+23.65 % of the principal balance in finance receivables of $ 1.3
+billion, less deferred accident protection plan revenue of $ 49.9
+million and deferred service contract revenue of $ 60.4
+million. The allowance for credit losses represents management’s best estimate of lifetime expected losses based on reasonable and supportable forecasts, historical credit loss experience and other quantitative considerations, such as changes in contract characteristics (i.e., average amount financed and term), delinquency levels, collateral values, current economic conditions and underwriting and collection practices. The Company believes that it has given appropriate consideration to all relevant factors and has made reasonable assumptions in determining the allowance for credit losses as of
+January 31, 2023.
+The calculation of the allowance for credit losses uses the following primary factors:
+●
+The number of units repossessed or charged-off as a percentage of total units financed over specific historical periods of time from
+one
+year to
+five
+years.
+●
+The average net repossession and charge-off loss per unit during the last
+eighteen
+months, segregated by the number of months since the contract origination date, and adjusted for the expected future average net charge-off loss per unit. Approximately
+50 % of the charge-offs that will ultimately occur in the portfolio are expected to occur within
+10 - 12
+months following the balance sheet date. The average age of an account at charge-off date is
+12.1
+months.
+●
+The timing of repossession and charge-off losses relative to the date of sale (i.e., how long it takes for a repossession or charge-off to occur) for repossessions and charge-offs occurring during the last
+eighteen
+months.
+●
+An adjustment to the previous
+twelve
+months to reflect the significant increase in the average amount financed and the resulting monthly payment and term length.
+●
+An adjustment for current asset-specific characteristics to account for differences between the benign inflation environment that existed for loans within our historical credit loss experience and the significant inflationary environment impacting our current loans portfolio.
+●
+Considerations of current levels of inflation and other macroeconomic factors and the impact that
+may
+have on our expectation of credit losses.
+A historical point loss rate is produced by this analysis, which is then adjusted for reasonable and supportable forecasts of macroeconomic factors. This includes the review of static pools coupled with any positive or negative subjective factors to arrive at an overall reserve amount that management considers to be a reasonable estimate of net credit losses expected over the remaining life of the contracts in the portfolio at the measurement date.
+In most states, the Company offers retail customers who finance their vehicle the option of purchasing an accident protection plan product as an add-on to the installment sale contract. This product contractually obligates the Company to cancel the remaining principal outstanding for any contract where the retail customer has totaled the vehicle, as defined by the product, or the vehicle has been stolen. The Company periodically evaluates anticipated losses to ensure that if anticipated losses exceed deferred accident protection plan revenues, an additional liability is recorded for such difference.
+No
+such liability was required at
+January 31, 2023
+or
+April 30, 2022.
+Inventory
+Inventory consists of used vehicles and is valued at the lower of cost or net realizable value on a specific identification basis. Vehicle reconditioning costs are capitalized as a component of inventory. Repossessed vehicles and trade-in vehicles are recorded at fair value, which approximates wholesale value. The cost of used vehicles sold is determined using the specific identification method.
+Goodwill
+Goodwill reflects the excess of purchase price over the fair value of specifically identified net assets purchased. Goodwill and intangible assets deemed to have indefinite lives are
+not
+amortized but are subject to qualitative annual impairment tests at the Company’s year-end. The impairment tests are based on the comparison of the fair value of the reporting unit to the carrying value of such unit. The implied goodwill is compared to the carrying value of the goodwill to determine the impairment, if any. There was
+no
+impairment of goodwill during the
+nine
+months ended
+January 31, 2023
+or during the
+2022
+fiscal year.
+Goodwill totaled $ 11.7
+million at
+January 31, 2023
+and $ 8.6
+million at
+April 30, 2022.
+10
+Property and Equipment
+Property and equipment are stated at cost, less accumulated depreciation. Expenditures for additions, remodels and improvements are capitalized. Costs of repairs and maintenance are expensed as incurred. Leasehold improvements are amortized over the shorter of the estimated life of the improvement or the lease period. The lease period includes the primary lease term plus any extensions that are reasonably assured. Depreciation is computed principally using the straight-line method generally over the following estimated useful lives:
+Furniture, fixtures and equipment
+3 to 7 years
+Leasehold improvements
+5 to 15 years
+Buildings and improvements
+18 to 39 years
+Property and equipment are reviewed for impairment whenever events or changes in circumstances indicate the carrying amount of an asset
+may
+not
+be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to future undiscounted net cash flows expected to be generated by the asset. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying values of the impaired assets exceed the fair value of such assets. Assets to be disposed of are reported at the lower of the carrying amount or fair value less costs to sell.
+Cash Overdraft
+As checks are presented for payment from the Company’s primary disbursement bank account, monies are automatically drawn against cash collections for the day and, if necessary, are drawn against
+one
+of the revolving credit facilities. Any cash overdraft balance principally represents outstanding checks that as of the balance sheet date had
+not
+yet been presented for payment, net of any deposits in transit. Any cash overdraft balance is reflected in accrued liabilities on the Company’s Condensed Consolidated Balance Sheets.
+Deferred Sales Tax
+Deferred sales tax represents a sales tax liability of the Company for vehicles sold on an installment basis in the states of Alabama and Texas. Under Alabama and Texas law for vehicles sold on an installment basis, the related sales tax is due as the payments are collected from the customer, rather than at the time of sale. Deferred sales tax liabilities are reflected in accrued liabilities on the Company’s Condensed Consolidated Balance Sheets.
+Income Taxes
+Income taxes are accounted for under the liability method. Under this method, deferred income tax assets and liabilities are determined based on differences between financial reporting and tax basis of assets and liabilities and are measured using the enacted tax rates expected to apply in the years in which these differences are expected to be recovered or settled. The quarterly provision for income taxes is determined using an estimated annual effective tax rate, which is based on expected annual taxable income, statutory tax rates and the Company’s best estimate of nontaxable and nondeductible items of income and expense. The effective income tax rates were
+22.1 % and
+22.6 % for the
+nine
+months ended
+January 31, 2023
+and
+January 31, 2022,
+respectively. Total income tax expense for the
+nine
+months ended
+January 31, 2023
+differed from amounts computed by applying the United States federal statutory tax rates to pre-tax income primarily due to state income taxes and the impact of permanent differences between book and taxable income. The Company recorded a discrete income tax benefit of approximately $ 206,000
+and $ 912,000
+for the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively, related to excess tax benefits on share based compensation.
+Occasionally, the Company is audited by taxing authorities. These audits could result in proposed assessments of additional taxes. The Company believes that its tax positions comply in all material respects with applicable tax law. However, tax law is subject to interpretation, and interpretations by taxing authorities could be different from those of the Company, which could result in the imposition of additional taxes.
+The Company recognizes the financial statement benefit of a tax position only after determining that the relevant tax authority would more likely than
+not
+sustain the position following an audit. For tax positions meeting the more-likely-than- not
+threshold, the amount recognized in the financial statements is the largest benefit that has a greater than
+50
+percent likelihood of being realized upon ultimate settlement with the relevant tax authority. The Company applies this methodology to all tax positions for which the statute of limitations remains open.
+The Company is subject to income taxes in the U.S. federal jurisdiction and various state jurisdictions. Tax regulations within each jurisdiction are subject to the interpretation of the related tax laws and regulations and require significant judgment to apply. With few exceptions, the Company is
+no
+longer subject to U.S. federal, state and local income tax examinations by tax authorities for the years before fiscal
+2018.
+The Company’s policy is to recognize accrued interest related to unrecognized tax benefits in interest expense and penalties in operating expenses. The Company had
+no
+accrued penalties or interest as of
+January 31, 2023
+or
+April 30, 2022.
+11
+Revenue Recognition
+Revenues are generated principally from the sale of used vehicles, which in most cases includes a service contract and an accident protection plan product, as well as interest income and late fees earned on finance receivables. Revenues are net of taxes collected from customers and remitted to government agencies. Cost of vehicle sales include costs incurred by the Company to prepare the vehicle for sale including license and title costs, gasoline, transport services, and repairs.
+Revenues from the sale of used vehicles are recognized when the sales contract is signed, the customer has taken possession of the vehicle and, if applicable, financing has been approved. Revenues from the sale of vehicles sold at wholesale are recognized at the time the proceeds are received. Revenues from the sale of service contracts are recognized ratably over the expected duration of the product. Service contract revenues are included in sales and the related expenses are included in cost of sales. Accident protection plan revenues are initially deferred and then recognized to income using the “Rule of
+78’s”
+interest method over the life of the contract so that revenues are recognized in proportion to the amount of cancellation protection provided. Accident protection plan revenues are included in sales and related losses are included in cost of sales as incurred. Any unearned revenue from ancillary products is charged-off at the time of repossession. Interest income is recognized on all active finance receivables accounts using the simple effective interest method. Active accounts include all accounts except those that have been paid-off or charged-off.
+Sales for the
+three
+and
+nine
+months ended
+January 31, 2023
+and
+2022
+consisted of the following:
+Three Months Ended
+January 31,
+Nine Months Ended
+January 31,
+(In thousands)
+2023
+2022
+2023
+2022
+Sales – used autos
+$ 239,079     $ 217,638     $ 761,875     $ 650,972
+Wholesales – third party
+13,007       11,706       44,049       35,442
+Service contract sales
+14,577       11,153       41,765       30,534
+Accident protection plan revenue
+8,804       7,815       25,810       22,786
+Total
+$ 275,467     $ 248,312     $ 873,499     $ 739,734
+At
+January 31, 2023
+and
+2022,
+finance receivables more than
+90
+days past due were approximately $ 4.0
+million and $ 5.2
+million, respectively. Late fee revenues totaled approximately $ 3.1
+million and $ 2.2
+million for the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively. Late fees are recognized when collected and are reflected in interest and other income on the Condensed Consolidated Statements of Operations. The amount of revenue recognized for the
+nine
+months ended
+January 31, 2023
+that was included in the
+April 30, 2022
+deferred service contract revenue was $ 22.8
+million.
+Earnings per Share
+Basic earnings per share are computed by dividing net income attributable to common stockholders by the average number of common shares outstanding during the period. Diluted earnings per share are computed by dividing net income attributable to common stockholders by the average number of common shares outstanding during the period plus dilutive common stock equivalents. The calculation of diluted earnings per share takes into consideration the potentially dilutive effect of common stock equivalents, such as outstanding stock options and non-vested restricted stock, which if exercised or converted into common stock would then share in the earnings of the Company. In computing diluted earnings per share, the Company utilizes the treasury stock method and anti-dilutive securities are excluded.
+Stock-Based Compensation
+The Company recognizes the cost of employee services received in exchange for awards of equity instruments, such as stock options and restricted stock, based on the fair value of those awards at the date of grant over the requisite service period. The Company uses the Black-Scholes option pricing model to determine the fair value of stock option awards. The Company
+may
+issue either new shares or treasury shares upon exercise of these awards. Stock-based compensation plans, related expenses, and assumptions used in the Black-Scholes option pricing model are more fully described in Note I. If an award contains a performance condition, expense is recognized only for those shares for which it is considered reasonably probable as of the current period end that the performance condition will be met. The Company accounts for forfeitures as they occur and records any excess tax benefits or deficiencies from its equity awards in its Consolidated Statements of Operations in the reporting period in which the exercise occurs. The Company recorded a discrete income tax benefit of approximately $ 206,000
+and $ 912,000
+for the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively. As a result, the Company’s income tax expenses and associated effective tax rate will be impacted by fluctuations in stock price between the grant dates and exercise dates of equity awards.
+12
+Treasury Stock
+Treasury stock
+may
+be used for issuances under the Company’s stock-based compensation plans or for other general corporate purposes. The Company has a reserve account of
+10,000
+shares of treasury stock to secure outstanding service contracts issued in Iowa in accordance with the regulatory requirements of that state and another reserve account of
+14,000
+shares of treasury stock for its subsidiary, ACM Insurance Company, in accordance with the requirements of the Arkansas Department of Insurance.
+Recent Accounting Pronouncements
+Occasionally, new accounting pronouncements are issued by the Financial Accounting Standards Board (“FASB”) or other standard setting bodies which the Company will adopt as of the specified effective date. Unless otherwise discussed, the Company believes the implementation of recently issued standards which are
+not
+yet effective will
+not
+have a material impact on its consolidated financial statements upon adoption.
+Recently Issued Accounting Pronouncements
+Not
+Yet Adopted
+Financial Instruments
+–
+Credit Losses.
+In
+March 2022,
+the FASB issued ASU
+2022 - 02,
+Financial Instruments – Credit Losses. The guidance changes the methodology for measuring credit losses on financial instruments and the timing of when such losses are recorded. This guidance will affect the Company’s vintage disclosures related to current-period gross write-offs by year of origination for financing receivables. The amendments in this update are effective for fiscal years beginning after
+December 15, 2022.
+The Company is currently evaluating the impact this guidance
+may
+have on the consolidated financial statements.
+C
+–
+Finance Receivables, Net
+The Company originates installment sale contracts from the sale of used vehicles at its dealerships. These installment sale contracts, which carry a fixed interest rate of
+18 % per annum ( 16.5 % in Arkansas,
+19.5 % to
+21.5 % in Illinois), are collateralized by the vehicle sold and typically provide for payments over periods ranging from
+18
+to
+54
+months. The Company’s finance receivables are defined as
+one
+segment and
+one
+class of loans, which is sub-prime consumer automobile contracts. The level of risks in the Company’s finance receivables is managed as
+one
+homogeneous pool.
+The components of finance receivables are as follows:
+(In thousands)
+January 31, 2023
+April 30, 2022
+Gross contract amount
+$ 1,643,982     $ 1,378,803
+Less unearned finance charges
+( 338,026 )     ( 277,306 )
+Principal balance
+1,305,956       1,101,497
+Less allowance for credit losses
+( 282,775 )     ( 237,823 )
+Finance receivables, net
+$ 1,023,181     $ 863,674
+Changes in the finance receivables, net are as follows:
+Nine Months Ended
+January 31,
+(In thousands)
+2023
+2022
+Balance at beginning of period
+$ 863,674     $ 632,270
+Finance receivable originations
+841,445       718,275
+Finance receivable collections
+( 308,671 )     ( 293,458 )
+Provision for credit losses
+( 250,719 )     ( 167,987 )
+Losses on claims for accident protection plan
+( 17,717 )     ( 14,748 )
+Inventory acquired in repossession and accident protection plan claims
+( 104,831 )     ( 67,363 )
+Balance at end of period
+$ 1,023,181     $ 806,989
+13
+Changes in the finance receivables allowance for credit losses are as follows:
+Nine Months Ended
+January 31,
+(In thousands)
+2023
+2022
+Balance at beginning of period
+$ 237,823     $ 177,267
+Provision for credit losses
+250,719       167,987
+Charge-offs, net of recovered collateral and deferred ancillary product revenue
+( 205,769 )     ( 123,042 )
+Recoveries of amounts previously written off     2       2
+Balance at end of period
+$ 282,775     $ 222,214
+The factors which influenced management’s judgment in determining the amount of the current period provision for credit losses are described below.
+The historical level of actual charge-offs, net of recovered collateral, is the most important factor in determining the provision for credit losses. This is due to the fact that once a contract becomes delinquent the account is either made current by the customer, the vehicle is repossessed, or the account is written off if the collateral cannot be recovered. Net charge-offs as a percentage of average finance receivables increased to
+16.9 % for the
+nine
+months ended
+January 31, 2023,
+compared to
+13.3 % for the prior year period. The primary driver of the increase in net charge-offs compared to the same quarter in the prior year was an increased frequency of losses coupled with a slight increase in the relative severity of losses.
+Collections and delinquency levels can have a significant effect on additions to the allowance and are reviewed frequently. Principle collections as a percentage of average finance receivables were
+25.4 % for the
+nine
+months ended
+January 31, 2023
+compared to
+31.7 % for the same period in the prior year. Principal collections decreased primarily due to the term extensions coupled with the fewer early payoffs. Delinquencies greater than
+30
+days were
+3.7 % and
+4.0 % at
+January 31, 2023
+and
+2022,
+respectively.
+In addition to the objective factors discussed above, the Company also considers macro-economic factors that would affect its customers’ non-discretionary income, such as changes in unemployment levels, gasoline prices, and prices for staple items to develop reasonable and supportable forecasts for the lifetime expected losses. These economic forecasts are utilized alongside historical loss information in order to estimate expected losses in the portfolio over the following
+twelve -month period, at which point the Company will immediately revert to the point estimate produced by the Company’s analysis of historical loss information to estimate expected losses from the portfolio for the remaining contractual lives of its finance receivables. See “Finance Receivables, Repossessions and Charge-offs and Allowance for Credit Losses” in Note B for a description of the historical data included in this analysis.
+Credit quality information for finance receivables is as follows:
+(Dollars in thousands)
+January 31, 2023
+April 30, 2022
+January 31, 2022
+Principal
+Percent of
+Principal
+Percent of
+Principal
+Percent of
+Balance
+Portfolio
+Balance
+Portfolio
+Balance
+Portfolio
+Current
+$ 1,011,877       77.48 %   $ 958,808       87.05 %   $ 841,635       81.78 %
+3 - 29 days past due
+245,939       18.83 %     109,873       9.97 %     146,609       14.24 %
+30 - 60 days past due
+36,447       2.79 %     22,477       2.04 %     29,062       2.81 %
+61 - 90 days past due
+7,700       0.59 %     7,360       0.67 %     6,682       0.65 %
+> 90 days past due
+3,993       0.31 %     2,979       0.27 %     5,215       0.51 %
+Total
+$ 1,305,956       100.00 %   $ 1,101,497       100.00 %   $ 1,029,203       100.00 %
+Accounts
+one
+and
+two
+days past due are considered current for this analysis, due to the varying payment dates and variation in the day of the week at each period end. Delinquencies
+may
+vary from period to period based on the average age of the portfolio, seasonality within the calendar year, the day of the week, and overall economic factors. The current quarter ended on the highest delinquency day on average, Tuesday, compared to the prior year quarter which ended on the lowest delinquency date on average, Saturday. Delinquencies were also impacted by severe weather during
+January 2023,
+which caused multiple locations to close operations for several days.  The above categories are consistent with internal operational measures used by the Company to monitor credit results.
+Substantially all of the Company’s automobile contracts involve contracts made to individuals with impaired or limited credit histories, or higher debt-to-income ratios than permitted by traditional lenders. Contracts made with buyers who are restricted in their ability to obtain financing from traditional lenders generally entail a higher risk of delinquency, default and repossession, and higher losses than contracts made with buyers with better credit. The Company monitors customer scores, contract term length, down payment percentages, and collections for credit quality indicators.
+14
+Nine Months Ended
+January 31,
+2023
+2022
+Average total collected per active customer per month
+$ 516     $ 487
+Principal collected as a percent of average finance receivables
+25.4 %     31.7 %
+Average down-payment percentage
+5.4 %     6.1 %
+Average originating contract term
+(in months )
+42.5       39.6
+January 31, 2023
+January 31, 2022
+Portfolio weighted average contract term, including modifications
+(in months )
+45.4       41.2
+The reduction of principal collected was in line with the expected change due to the average term increases and the absence of stimulus payments in the economy in the current year. The portfolio weighted average contract term increased primarily due to the increased average selling price, up $ 2,114
+or
+13.3 % from the prior year period.
+When customers apply for financing, the Company’s proprietary scoring model relies on the customers’ credit histories and certain application information to evaluate and rank their risk. The Company obtains credit histories and other credit data that includes information such as number of different addresses, age of oldest record, high risk credit activity, job time, time at residence and other factors. The application information that is used includes income, collateral value and down payment. The scoring models yield credit grades that represent the relative likelihood of repayment. Customers with the highest probability of repayment are
+6
+rated customers. Customers assigned a lower grade are determined to have a lower probability of repayment. For loans that are approved, the credit grade influences the terms of the agreement, such as the maximum amount financed, term length and minimum down payment. After origination, credit grades are generally
+not
+updated.
+The Company uses a combination of the initial credit grades and historical performance to monitor the credit quality of the finance receivables on an ongoing basis, and the accuracy of the scoring model is validated periodically. Loan performance is reviewed on a recurring basis to identify whether the assigned grades adequately reflect the customers’ likelihood of repayment.
+The following table presents a summary of finance receivables by credit quality indicator, as of
+January 31, 2023,
+segregated by customer score.
+(Dollars in
+As of January 31, 2023
+thousands)
+Fiscal Year of Origination
+Customer
+Rating
+2023
+2022
+2021
+2020
+2019
+Prior to
+2019
+Total
+%
+1-2     $ 31,580     $ 17,295     $ 4,212     $ 545     $ 35     $ 12     $ 53,679       4.1 %
+3-4     $ 232,273     $ 135,531     $ 36,562     $ 2,974     $ 332     $ 192     $ 407,864       31.2 %
+5-6     $ 437,566     $ 307,513     $ 89,582     $ 8,389     $ 910     $ 453     $ 844,413       64.7 %
+Total
+$ 701,419     $ 460,339     $ 130,356     $ 11,908     $ 1,277     $ 657     $ 1,305,956       100.0 %
+The following table presents a summary of finance receivables by credit quality indicator, as of
+January 31, 2022,
+segregated by customer score.
+(Dollars in
+As of January 31, 2022
+thousands)
+Fiscal Year of Origination
+Customer
+Rating
+2022
+2021
+2020
+2019
+2018
+Prior to
+2018
+Total
+%
+1-2     $ 31,704     $ 16,129     $ 3,921     $ 170     $ 3     $ -     $ 51,927       5.0 %
+3-4     $ 207,084     $ 112,330     $ 23,042     $ 1,205     $ 36     $ 17     $ 343,714       33.4 %
+5-6     $ 372,508     $ 214,120     $ 43,186     $ 3,498     $ 230     $ 20     $ 633,562       61.6 %
+Total
+$ 611,296     $ 342,579     $ 70,149     $ 4,873     $ 269     $ 37     $ 1,029,203       100.0 %
+15
+D
+–
+Property and Equipment
+A summary of property and equipment is as follows:
+(In thousands)
+January 31, 2023
+April 30, 2022
+Land
+$ 12,386     $ 11,749
+Buildings and improvements
+19,314       13,876
+Furniture, fixtures and equipment
+18,695       16,189
+Leasehold improvements
+46,102       36,392
+Construction in progress
+16,320       14,234
+Less accumulated depreciation and amortization
+( 43,705 )     ( 41,002 )
+Total
+$ 69,112     $ 51,438
+E
+–
+Accrued Liabilities
+A summary of accrued liabilities is as follows:
+(In thousands)
+January 31, 2023
+April 30, 2022
+Employee compensation
+$ 9,062     $ 12,865
+Cash overdrafts (see Note B)
+3,795       -
+Deferred sales tax (see Note B)
+8,499       7,388
+Reserve for APP claims
+5,161       4,761
+Fair value of contingent consideration
+5,143       3,544
+Health insurance payable
+918       1,041
+Accrued interest payable
+516       813
+Other
+2,433       2,218
+Total
+$ 35,527     $ 32,630
+F
+–
+Debt Facilities
+A summary of debt facilities is as follows:
+(In thousands)
+January 31, 2023
+April 30, 2022
+Non-recourse notes payable
+$ 590,848     $ 399,994
+Debt issuance costs
+( 2,538 )     ( 4,008 )
+Non-recourse notes payable, net
+$ 588,310     $ 395,986
+Revolving line of credit
+$ 29,061     $ 46,674
+Debt issuance costs
+( 1,279 )     ( 2,004 )
+Revolving line of credit, net
+$ 27,782     $ 44,670
+Total debt
+$ 616,092     $ 440,656
+16
+Revolving Line of Credit
+On
+September 30, 2019,
+the Company and its subsidiaries, Colonial, Car-Mart of Arkansas (“ACM”) and Texas Car-Mart, Inc. (“TCM”) entered into a Third Amended and Restated Loan and Security Agreement (the “Agreement”), which amended and restated the Company’s revolving credit facilities. Under the Agreement, BMO Harris Bank, N.A. replaced Bank of America, N.A. as agent, lead arranger and book manager, and Wells Fargo Bank, N.A. joined the group of lenders. The Agreement also extended the term of the Company’s revolving credit facilities to
+September 30, 2022
+and increased the total permitted borrowings from $ 215
+million to $ 241
+million, including an increase in the Colonial revolving line of credit from $ 205
+million to $ 231
+million. The ACM-TCM revolving line of credit commitment remained the same at $ 10
+million. The Agreement also increased the accordion feature from $ 50
+million to $ 100
+million.
+On
+October 29, 2020,
+the Company and its subsidiaries entered into Amendment
+No.
+1
+to the Agreement to expand the Company’s borrowing base by removing the limitations on the inclusion in the borrowing base of finance receivable balances on medium- and long-term vehicle contracts (those having an original contract term between
+36
+and
+42
+months or between
+42
+and
+60
+months, respectively), which were previously limited to
+15 % and
+5 %, respectively, and an aggregate of
+15 % of the eligible finance receivable balances for purposes of determining the Company’s borrowing base. Under Amendment
+No.
+1,
+finance receivables from vehicle contracts
+not
+exceeding
+60
+months in duration that meet certain other conditions are eligible for inclusion in the borrowing base calculation.
+Amendment
+No.
+1
+also allows the Company to make certain strategic business acquisitions and expanded the Company’s ability to dispose of real estate, equipment, and other property, subject to certain limitations. Amendment
+No.
+1
+permits the Company to acquire strategic targets engaged in the same or a reasonably related business to the Company’s business, provided that, among other requirements, the aggregate consideration paid for all acquired businesses in any
+one
+fiscal year does
+not
+exceed $ 20.0
+million. Amendment
+No.
+1
+also permits the Company to dispose of up to $ 5.0
+million and $ 1.0
+million of real estate and other property, respectively, subject to certain conditions, and also permits the Company to select
+one
+or more additional lenders, subject to the written consent of BMO Harris Bank, N.A., as agent, to participate in any increase of the Colonial revolving line of credit under the Agreement’s accordion feature.
+On
+December 31, 2020,
+the Company through its operating subsidiaries exercised an option under the Agreement to increase its total revolving credit facilities by $ 85
+million from
+$241
+million to $ 326
+million pursuant to the Agreement’s accordion feature. In connection with this increase, MUFG Union Bank, N.A. joined the lending group as a new lender. In addition to the increased permitted borrowings, the Company designated BOKF, NA d/b/a BOK Financial and Wells Fargo Bank, N.A. as co-syndication agents and First Horizon Bank and MUFG Union Bank, N.A. as co-documentation agents under the Agreement.
+On
+February 10, 2021,
+the Company and its subsidiaries entered into Amendment
+No.
+2
+to the Agreement to increase the Company’s permissible capital expenditure amount from $ 10
+million to $ 25
+million in the aggregate during any fiscal year.
+On
+September 29, 2021,
+the Company and its subsidiaries entered into Amendment
+No.
+3
+to the Agreement, which extends the term of the revolving credit facilities to
+September 29, 2024
+and increases the total permitted borrowings by $ 274
+million from $ 326
+million to $ 600
+million. In connection with the increase, CIBC Bank USA and Axos Bank joined the group of lenders. Additionally, Amendment
+No.
+3
+amended the distribution limitation to renew the aggregate limit on the Company’s repurchases of its common stock, increased the Company’s permissible capital expenditure amount from $ 25
+million to $ 35
+million in the aggregate, during any fiscal year, restored the accordion feature back to $ 100
+million, and added certain mechanics for the replacement of LIBOR as the applicable benchmark interest rate under the Agreement, including mechanics to transition upon the cessation of LIBOR to a rate based upon the secured overnight financing rate (“SOFR”) published by the Federal Reserve Bank of New York.
+On
+April 22, 2022,
+the Company and its subsidiaries entered into Amendment
+No.
+4
+to the Agreement, which permits the sale, contribution, or transfer of vehicle contracts to, and certain repurchases of such contracts from, a special purpose subsidiary of the Company in connection with a securitization transaction, in each case subject to specified conditions. Amendment
+No.
+4
+also replaced LIBOR as the applicable benchmark interest rate with SOFR and increased the unused line fee rate from
+0.25 % to
+0.375 % if the average daily amount outstanding during the preceding month is less than
+50%
+of the revolver commitments.
+The revolving credit facilities are collateralized primarily by finance receivables and inventory, are cross collateralized and contain a guarantee by the Company. Interest is payable monthly under the revolving credit facilities. The credit facilities provide for
+four
+pricing tiers for determining the applicable interest rate, based on the Company’s consolidated leverage ratio for the preceding fiscal quarter. The current applicable interest rate under the credit facilities is generally SOFR plus
+2.75 %, with a minimum of
+2.25 %. The interest rate under the credit facilities was
+7.5 % at
+January 31, 2023
+and
+2.85 % at
+April 30, 2022.
+The credit facilities contain various reporting and performance covenants including (i) maintenance of certain financial ratios and tests, (ii) limitations on borrowings from other sources, (iii) restrictions on certain operating activities and (iv) restrictions on the payment of dividends or distributions (see note B).
+The Company was in compliance with the covenants at
+January 31, 2023.
+The amount available to be drawn under the credit facilities is a function of eligible finance receivables and inventory; based upon eligible finance receivables and inventory at
+January 31, 2023,
+the Company had additional availability of approximately $ 148
+million under the revolving credit facilities.
+The Company recognized approximately $ 734,000
+and $ 559,000
+of amortization for the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively, related to debt issuance costs associated with the credit facilities. The amortization is reflected as interest expense in the Company’s Condensed Consolidated Statements of Operations.
+17
+Non-Recourse Notes Payable
+On
+April 27, 2022,
+non-recourse notes payable of $ 400.0
+million were issued in
+four
+classes with a weighted average fixed coupon rate of
+5.14 % per annum and collateralized by auto loans directly originated by the Company. Credit enhancement for the non-recourse notes payable consists of overcollateralization, a reserve account funded with an initial amount of
+not
+less than
+2.0 % of the pool balance, excess interest on the auto finance receivables, and in some cases, the subordination of certain payments to noteholders of less senior classes of notes. The timing of principal payments on the non-recourse notes payable is based on the timing of principal collections and defaults on the related auto finance receivables. Notes payable related to the term securitization transaction accrue interest predominately at fixed rates and have scheduled maturities through
+April 20, 2029,
+but
+may
+mature earlier, depending upon repayment rate of the underlying auto finance receivables. See Note B for additional information.
+On
+January 31, 2023,
+non-recourse notes payable of $ 400.2
+million were issued in
+four
+classes with a weighted average fixed coupon rate of
+8.68 % per annum and collateralized by auto loans directly originated by the Company. Credit enhancement for the non-recourse notes payable consists of overcollateralization, a reserve account funded with an initial amount of
+not
+less than
+2.0 % of the pool balance, excess interest on the auto finance receivables, and in some cases, the subordination of certain payments to noteholders of less senior classes of notes. The timing of principal payments on the non-recourse notes payable is based on the timing of principal collections and defaults on the related auto finance receivables. Notes payable related to the term securitization transaction accrue interest predominately at fixed rates and have scheduled maturities through
+January 22, 2030,
+but
+may
+mature earlier, depending upon repayment rate of the underlying auto finance receivables. See Note B for additional information.
+The Company recognized $ 3.4
+million of amortization for the
+nine
+months ended
+January 31, 2023
+related to debt issuance costs associated with the non-recourse notes payable. The amortization is reflected as interest expense in the Company’s Condensed Consolidated Statements of Operations.
+G
+–
+Fair Value Measurements
+Accounting Standards Codification (“ASC”) Topic
+820,
+Fair Value Measurements defines fair value, establishes a framework for measuring fair value and expands disclosures about fair value measurements.
+ASC Topic
+820
+defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The guidance also establishes a fair value hierarchy that requires the use of observable inputs and minimizes the use of unobservable inputs when measuring fair value. Topic
+820
+describes
+three
+levels of inputs that
+may
+be used to measure fair value:
+●
+Level
+1   Inputs
+– Quoted prices in active markets for identical assets or liabilities.
+●
+Level
+2
+Inputs  – Observable inputs other than Level
+1
+prices, such as quoted prices for similar assets or liabilities in active markets; quoted prices for similar assets or liabilities in markets that are
+not
+active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+●
+Level
+3
+Inputs  – Unobservable inputs that are supported by little or
+no
+market activity and that are significant to the fair value of the assets or liabilities.
+Because
+no
+market exists for certain of the Company’s financial instruments, fair value estimates are based on judgments and estimates regarding yield expectations of investors, credit risk and other risk characteristics, including interest rate and prepayment risk. These estimates are subjective in nature and involve uncertainties and matters of judgment and therefore cannot be determined with precision. Changes in assumptions could significantly affect these estimates.
+18
+The methodology and assumptions utilized to estimate the fair value of the Company’s financial instruments are as follows:
+Financial Instrument
+Valuation Methodology
+Cash, cash equivalents, and restricted cash
+The carrying amount is considered to be a reasonable estimate of fair value due to the short-term nature of the financial instruments (Level
+1 ).
+Finance receivables, net
+The Company estimated the fair value of its receivables at what a
+third -party purchaser might be willing to pay. The Company has had discussions with
+third
+parties, bought and sold portfolios and had a
+third -party appraisal in
+October 2022
+that indicates a range of
+34 % to
+39 % discount to face would be a reasonable fair value in a negotiated
+third -party transaction. The sale of finance receivables from Car-Mart of Arkansas to Colonial is made at a
+38.5 % discount. For financial reporting purposes these sale transactions are eliminated (Level
+2 ).
+Accounts payable
+The carrying amount is considered to be a reasonable estimate of fair value due to the short-term nature of the financial instrument (Level
+2 ).
+Revolving line of credit
+The fair value approximates carrying value due to the variable interest rates charged on the borrowings, which reprice frequently (Level
+2 ).
+Non-recourse notes payable
+The fair value was based upon inputs derived from prices for similar instruments at period end (Level
+2 ).
+The estimated fair values, and related carrying amounts, of the financial instruments included in the Company’s financial statements at
+January 31, 2023
+and
+April 30, 2022
+are as follows:
+January 31, 2023
+April 30, 2022
+(In thousands)
+Carrying
+Value
+Fair
+Value
+Carrying
+Value
+Fair
+Value
+Cash and cash equivalents
+$ 4,322     $ 4,322     $ 6,916     $ 6,916
+Restricted cash
+61,148       61,148       35,671       35,671
+Finance receivables, net
+1,023,181       803,163       854,290       677,421
+Accounts payable
+27,401       27,401       20,055       20,055
+Revolving line of credit
+27,782       27,782       44,670       44,670
+Non-recourse notes payable
+588,310       588,310       395,986       395,986
+H
+–
+Weighted Average Shares Outstanding
+Weighted average shares of common stock outstanding used in the calculation of basic and diluted earnings per share were as follows:
+Three Months Ended
+January 31,
+Nine Months Ended
+January 31,
+2023
+2022
+2023
+2022
+Weighted average shares outstanding-basic
+6,370,031       6,487,310       6,370,732       6,540,450
+Dilutive options and restricted stock
+166,754       292,331       191,482       339,833
+Weighted average shares outstanding-diluted
+6,536,785       6,779,641       6,562,214       6,880,283
+Antidilutive securities not included:
+Options
+357,500       205,000       935,000       86,667
+Restricted stock
+24,565       4,000       60,924       2,667
+19
+I
+–
+Stock-Based Compensation
+The Company has stock-based compensation plans available to grant non-qualified stock options, incentive stock options and restricted stock to employees, directors and certain advisors of the Company. The stock-based compensation plans being utilized at
+January 31, 2023
+are the Amended and Restated Stock Option Plan and the Amended and Restated Stock Incentive Plan. The Company recorded total stock-based compensation expense for all plans of approximately $ 4.2
+million ($ 3.2
+million after tax effects) and $ 4.7
+million ($ 3.6
+million after tax effects) for the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively. Tax benefits were recognized for these costs at the Company’s overall effective tax rate, excluding discrete income tax benefits related to excess benefits on share-based compensation.
+Stock Option Plan
+The Company has options outstanding under a stock option plan approved by the shareholders, the Amended and Restated Stock Option Plan. The shareholders of the Company approved the Amended and Restated Stock Option Plan (the “Restated Option Plan”) on
+August 5, 2015,
+which extended the term of the Stock Option Plan to
+June 10, 2025
+and increased the number of shares of common stock reserved for issuance under the plan by an additional
+300,000
+shares to
+1,800,000
+shares. On
+August 29, 2018,
+the shareholders of the Company approved an amendment to the Restated Option Plan increasing the number of shares of common stock reserved for issuance under the plan by an additional
+200,000
+shares to
+2,000,000
+shares. On
+August 26, 2020,
+the shareholders of the Company approved an amendment to the Restated Option Plan increasing the number of shares of common stock reserved for issuance under the plan by an additional
+200,000
+shares to
+2,200,000
+shares. On
+August 30, 2022,
+the shareholders of the Company approved an amendment to the Restated Option Plan increasing the number of shares of common stock reserved for issuance under the plan by an additional
+185,000
+shares to
+2,385,000
+shares. The Restated Option Plan provides for the grant of options to purchase shares of the Company’s common stock to employees, directors and certain advisors of the Company at a price
+not
+less than the fair market value of the stock on the date of grant and for periods
+not
+to exceed
+ten
+years. Options outstanding under the Company’s stock option plans expire in the calendar years
+2023
+through
+2032.
+Restated Option Plan
+Minimum exercise price as a percentage of fair market value at date of grant
+100 %
+Last expiration date for outstanding options
+May 1, 2032
+Shares available for grant at January 31, 2023
+262,500
+The fair value of options granted is estimated on the date of grant using the Black-Scholes option pricing model based on the assumptions in the table below.
+Nine Months Ended
+January 31,
+2023
+2022
+Expected terms (years)
+5.5       5.5
+Risk-free interest rate
+3.59 %     0.86 %
+Volatility
+55 %     51 %
+Dividend yield
+-       -
+The expected term of the options is based on evaluations of historical and expected future employee exercise behavior. The risk-free interest rate is based on the U.S. Treasury rates at the date of grant with maturity dates approximately equal to the expected life at the grant date. Volatility is based on historical volatility of the Company’s common stock. The Company has
+not
+historically issued any dividends and does
+not
+expect to do so in the foreseeable future.
+There were
+137,500
+and
+30,000
+options granted during the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively. The grant-date fair value of options granted during the
+nine
+months ended
+January 31, 2023
+and
+2022
+was $ 5.0
+million and $ 2.1
+million, respectively. The options were granted at fair market value on the date of grant.
+Stock option compensation expense was $ 3.0
+million ($ 2.3
+million after tax effects) and $ 4.0
+million ($ 3.1
+million after tax effects) for the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively. As of
+January 31, 2023,
+the Company had approximately $ 4.4
+million of total unrecognized compensation cost related to unvested options that are expected to vest. These unvested outstanding options have a weighted-average remaining vesting period of
+1.3
+years.
+20
+The Company had the following options exercised for the periods indicated. The impact of these cash receipts is included in financing activities in the accompanying Condensed Consolidated Statements of Cash Flows.
+Nine Months Ended
+January 31,
+(Dollars in thousands)
+2023
+2022
+Options exercised
+23,000       57,000
+Cash received from option exercises
+$ 1,216     $ 274
+Intrinsic value of options exercised
+$ 1,204     $ 4,924
+There were
+no
+options exercised through net settlements during the
+nine
+months ended
+January 31, 2023.
+The aggregate intrinsic value of outstanding options at
+January 31, 2023
+and
+2022
+was $ 11.5
+million and $ 14.2
+million, respectively. As of
+January 31, 2023,
+there were
+308,400
+vested and exercisable stock options outstanding with an aggregate intrinsic value of $ 5.5
+million, a weighted average remaining contractual life of
+5.7
+years, and a weighted average exercise price of $ 81.50 .
+Stock Incentive Plan
+On
+August 5, 2015,
+the shareholders of the Company approved the Amended and Restated Stock Incentive Plan (the “Restated Incentive Plan”), which extended the term of the Company’s Stock Incentive Plan to
+June 10, 2025.
+On
+August 29, 2018,
+the shareholders of the Company approved an amendment to the Restated Stock Incentive Plan that increased the number of shares of common stock that
+may
+be issued under the Restated Incentive Plan by
+100,000
+shares to
+450,000
+shares. For shares issued under the Stock Incentive Plan, the associated compensation expense is generally recognized equally over the vesting periods established at the award date and is subject to the employee’s continued employment by the Company.
+There were
+40,470
+restricted shares granted during the
+nine
+months ended
+January 31, 2023
+and
+10,250
+restricted shares granted during the
+nine
+months ended
+January 31, 2022.
+A total of
+57,288
+shares remained available for award at
+January 31, 2023.
+There were
+185,739
+unvested restricted shares outstanding as of
+January 31, 2023
+with a weighted average grant date fair value of $ 61.68 .
+As of
+January 31, 2023,
+the Company had approximately $ 6.6
+million of total unrecognized compensation cost related to unvested awards granted under the Restated Incentive Plan, which the Company expects to recognize over a weighted-average remaining period of
+4.1
+years. The Company recorded compensation cost of approximately $ 1.1
+million ($ 862,000
+after tax effects) and $ 656,000
+($ 497,000
+after tax effects) related to the Restated Incentive Plan during the
+nine
+months ended
+January 31, 2023
+and
+2022,
+respectively.
+There were
+no
+modifications to any of the Company’s outstanding share-based payment awards during fiscal
+2022
+or during the
+first
+nine
+months of fiscal
+2023.
+J
+–
+Commitments and Contingencies
+The Company has entered into operating leases for approximately
+79 % of its dealership and office facilities. Generally, these leases are for periods of
+three
+to
+five
+years and usually contain multiple renewal options. The Company uses leasing arrangements to maintain flexibility in its dealership locations and to preserve capital. The Company expects to continue to lease the majority of its dealership and office facilities under arrangements substantially consistent with the past. Rent expense for all operating leases amounted to approximately $ 6.5
+million and $ 5.9
+million for the
+nine -month periods ended
+January 31, 2023
+and
+2022,
+respectively.
+21
+Scheduled amounts and timing of cash flows arising from operating lease payments as of
+January 31, 2023,
+discounted at the weighted average interest rate in effect as of
+January 31, 2023
+of approximately
+4.4 %, are as follows:
+Maturity of lease liabilities
+2023 (remaining)
+$ 1,990
+2024
+7,671
+2025
+7,582
+2026
+7,017
+2027
+6,498
+Thereafter
+51,779
+Total undiscounted operating lease payments
+82,537
+Less: imputed interest
+( 20,183 )
+Present value of operating lease liabilities
+$ 62,354
+The Company has
+two
+standby letters of credit relating to insurance policies totaling $ 2,850,000
+at
+January 31, 2023.
+Car-Mart of Arkansas and Colonial do
+not
+meet the affiliation standard for filing consolidated income tax returns, and as such they file separate federal and state income tax returns. Car-Mart of Arkansas routinely sells its finance receivables to Colonial at what the Company believes to be fair market value and is able to take a tax deduction at the time of sale for the difference between the tax basis of the receivables sold and the sales price. These types of transactions, based upon facts and circumstances, have been permissible under the provisions of the Internal Revenue Code as described in the Treasury Regulations. For financial accounting purposes, these transactions are eliminated in consolidation, and a deferred income tax liability has been recorded for this timing difference. The sale of finance receivables from Car-Mart of Arkansas to Colonial provides certain legal protection for the Company’s finance receivables and, principally because of certain state apportionment characteristics of Colonial, also has the effect of reducing the Company’s overall effective state income tax rate. The actual interpretation of the regulations is in part a facts and circumstances matter. The Company believes it satisfies the material provisions of the regulations. Failure to satisfy those provisions could result in the loss of a tax deduction at the time the receivables are sold and have the effect of increasing the Company’s overall effective income tax rate as well as the timing of required tax payments.
+K - Supplemental Cash Flow Information
+Supplemental cash flow disclosures are as follows:
+Nine Months Ended
+January 31,
+(In thousands)
+2023
+2022
+Supplemental disclosures:
+Interest paid
+$ 25,757     $ 7,278
+Income taxes paid, net
+4,742       13,232
+Non-cash transactions:
+Inventory acquired in repossession and accident protection plan claims
+91,117       56,155
+Reduction in net receivables for deferred ancillary product revenue at time of charge-off
+13,714       11,208
+Net settlement option exercises
+-       4,291
+L
+–
+Correction of an Immaterial Error in Previously Issued Financial Statements
+Subsequent to the issuance of our interim financial statements for the period ended
+July 31, 2022,
+certain immaterial errors were identified and have been corrected in our historical information related to the classification of deferred revenue of ancillary products at the time an account is charged off and the calculation for allowance for credit losses.  The amount of deferred revenue related to ancillary products for a customer account that is charged off has historically been recognized as sales revenue at the time of charge-off because the performance obligations for the deferred revenue are
+no
+longer required to be delivered by the Company at the time of charge-off.  It was determined that this amount should be recorded as a reduction to customer accounts receivable at the time of charge-off, thus reducing the amounts historically reported in sales revenue, net charge-offs, the provision for credit losses and the allowance for credit losses as well as the corresponding deferred tax liability. As a result, certain amounts for sales revenue, provision for credit losses, charge-offs, net of collateral recovered, the allowance for credit losses and other related amounts have been revised from the amounts previously reported to correct these errors. Management has evaluated the materiality of these corrections to its prior period financial statements from a quantitative and qualitative perspective and has concluded that this change was
+not
+material to any prior annual or interim period.
+22
+The effects of the corrections to each of the individual affected line items in our Consolidated Balance Sheets and Consolidated Statements of Operations were as follows (in thousands):
+April 30, 2022
+(In thousands)
+As Previously Reported
+Corrections
+As Corrected
+Finance receivables, net
+$ 854,290     $ 9,384     $ 863,674
+Deferred income tax liabilities, net
+28,233       2,216       30,449
+Retained earnings
+658,242       7,168       665,410
+Three Months Ended January 31, 2022
+(In thousands)
+As Previously Reported
+Corrections
+As Corrected
+Sales
+$ 252,918     $ ( 4,606 )   $ 248,312
+Provision for credit losses
+66,741       ( 5,095 )     61,646
+Provision for income taxes
+6,024       119       6,143
+Net income
+18,770       370       19,140
+Net income attributable to common shareholders
+18,760       370       19,130
+Earnings per share:
+Basic
+2.89       0.06       2.95
+Diluted
+2.77       0.05       2.82
+Nine Months Ended January 31, 2022
+(In thousands)
+As Previously Reported
+Corrections
+As Corrected
+Sales
+$ 750,942     $ ( 11,208 )   $ 739,734
+Provision for credit losses
+181,796       ( 13,809 )     167,987
+Provision for income taxes
+19,433       613       20,046
+Net income
+66,630       1,988       68,618
+Net income attributable to common shareholders
+66,600       1,988       68,588
+Earnings per share:
+Basic
+10.18       0.31       10.49
+Diluted
+9.68       0.29       9.97
+M
+–
+Subsequent Events
+On
+February 22, 2023,
+the Company entered into Amendment
+No.
+5
+(“Amendment”) to the Third Amended and Restated Loan and Security Agreement (“Agreement”). The Amendment expands the Company’s borrowing base by adding vehicle contracts with original terms greater than
+60
+months but less than
+72
+months to the definition of long-term contracts. Under the Amendment, finance receivables from vehicle contracts
+not
+exceeding
+72
+months in duration that meet certain other conditions are eligible for inclusion in the borrowing base calculation. The aggregate of the contracts with original terms greater than
+60
+months but less than
+72
+months shall
+not
+exceed
+15 % of the eligible finance receivable balances for purposes of determining the Company’s borrowing base.
+The Amendment also includes a limited waiver under which the lenders agreed to waive a requirement in the Agreement to apply funds from certain dominion accounts established by the Company’s subsidiaries and controlled by the lenders directly to the Company’s outstanding borrowings for a specified period as a result of the Company’s borrowing availability being less than
+10 % of the lenders’ aggregate revolver commitments from
+November 30, 2022,
+to
+January 31, 2023.
+Notwithstanding this waiver, the triggering of the requirement to apply funds from such accounts to the outstanding borrowings did
+not
+increase or accelerate the Company’s obligations under the Agreement.
+23
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with the Company's Condensed Consolidated Financial Statements and notes thereto appearing elsewhere in this report.
+Forward-Looking Information
+This Quarterly Report on Form 10-Q contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements address the Company’s future objectives, plans and goals, as well as the Company’s intent, beliefs and current expectations regarding future operating performance, and can generally be identified by words such as “may,” “will,” “should,” “could,” “believe,” “expect,” “anticipate,” “intend,” “plan,” “foresee,” and other similar words or phrases. Specific events addressed by these forward-looking statements include, but are not limited to:
+●
+operational infrastructure investments;
+●
+same dealership sales and revenue growth;
+●
+future revenue growth;
+●
+receivables growth as related to revenue growth;
+●
+customer growth;
+●
+gross margin percentages;
+●
+gross profit per retail unit sold;
+●
+the supply and cost of used vehicles that the Company purchases for resale;
+●
+new dealership openings;
+●
+performance of new dealerships;
+●
+interest rates and the impact of inflation on the Company’s business and customers;
+●
+future credit losses;
+●
+the Company’s collection results, including, but not limited to, collections during income tax refund periods;
+●
+seasonality;
+●
+technological investments and initiatives;
+●
+compliance with tax regulations;
+●
+the Company’s business, operating and growth strategies and expectations;
+●
+anticipated sources and uses of financing and cash resources; and
+●
+having adequate liquidity to satisfy the Company’s capital needs.
+24
+These forward-looking statements are based on the Company’s current estimates and assumptions and involve various risks and uncertainties. As a result, you are cautioned that these forward-looking statements are not guarantees of future performance, and that actual results could differ materially from those projected in these forward-looking statements. Factors that may cause actual results to differ materially from the Company’s projections include those risks described elsewhere in this report and in the Company’s Annual Report on Form 10-K for the fiscal year ended April 30, 2022, as well as:
+●
+general economic conditions in the markets in which the Company operates, including but not limited to supply chain disruptions, as well as fluctuations in gas prices, grocery prices and employment levels;
+●
+business and economic disruptions and uncertainty that may result from any future outbreaks or adverse developments with the COVID-19 pandemic or other public health crises and any efforts to mitigate the financial impact and health risks associated with such developments;
+●
+the availability of quality used vehicles at prices that will be affordable to our customers, including the impacts of changes in new vehicle production and sales;
+●
+the availability of credit facilities and access to capital through securitization financings or other sources on terms acceptable to us to support the Company’s business;
+●
+the Company’s ability to underwrite and collect its contracts effectively;
+●
+competition;
+●
+dependence on existing management;
+●
+ability to attract, develop, and retain qualified general managers;
+●
+changes in consumer finance laws or regulations, including but not limited to rules and regulations that have recently been enacted or could be enacted by federal and state governments;
+●
+the ability to keep pace with technological advances and changes in consumer behavior affecting our business;
+●
+security breaches, cyber-attacks, or fraudulent activity;
+●
+the ability to identify and obtain favorable locations for new or relocated dealerships at reasonable cost; and
+●
+the ability to successfully identify, complete and integrate new acquisitions.
+The Company undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the dates on which they are made.
+Overview
+America’s Car-Mart, Inc., a Texas corporation initially formed in 1981 (the “Company”), is one of the largest publicly held automotive retailers in the United States focused exclusively on the “Integrated Auto Sales and Finance” segment of the used car market. The Company’s operations are principally conducted through its two operating subsidiaries, America’s Car Mart, Inc., an Arkansas corporation (“Car-Mart of Arkansas”), and Colonial Auto Finance, Inc., an Arkansas corporation (“Colonial”). References to the Company include the Company’s consolidated subsidiaries. The Company primarily sells older model used vehicles and provides financing for substantially all of its customers. Many of the Company’s customers have limited financial resources and would not qualify for conventional financing as a result of limited credit histories or past credit difficulties. As of January 31, 2023, the Company operated 157 dealerships located primarily in small cities throughout the South-Central United States.
+The Company has grown its revenues between approximately 4% and 32% per year over the last ten fiscal years (average 11%). Growth results from same dealership revenue growth and the addition of new dealerships. Revenue increased 19.8% for the first nine months of fiscal 2023 compared to the same period of fiscal 2022, due to a 31.1% increase in interest income, a 13.3% increase in the average retail sales price and a 4.0% increase in retail units sold.
+The increasing average retail sales price results from the tight supply and high demand for the vehicles the Company sells. The supply of vehicles has continued to be restricted due to lower repossessions and lower levels of new car production. While the long-term impact of COVID-19 and the ongoing microchip supply shortages on new car production and sales and the availability of used vehicles in our market is undetermined at this time, the Company has seen disruptions in the supply of vehicles since the beginning of the pandemic and expects the supply to remain tight in the near-term relative to demand, resulting in the continuation of elevated purchase costs. However, toward the end of the second quarter and throughout the third quarter, the Company did begin to experience slight declines in used vehicle values.
+25
+Over the last five fiscal years, the Company’s provision for credit losses as a percentage of sales has ranged from approximately 20.3% in fiscal 2021 to 28.7% in fiscal 2018 (average of 24.4%). Credit losses began to normalize to pre-pandemic levels in late fiscal year 2022 and have continued to normalize during fiscal year 2023. For the first nine months of fiscal 2023, provision for credit losses as a percentage of sales was 28.7%.
+Historically, credit losses, on a percentage basis, tend to be higher at new and developing dealerships than at mature dealerships. Generally, this is because the management at new and developing dealerships tends to be less experienced in making credit decisions and collecting customer accounts and the customer base is less seasoned. Normally more mature dealerships have more repeat customers and, on average, repeat customers are a better credit risk than non-repeat customers. Credit losses and charge-offs can also be impacted by market and economic factors, including a competitive used vehicle financing environment and macro-economic conditions such as inflation in the price of gasoline, groceries and other staple items and overall unemployment levels, as well as the personal income levels of the Company’s customers. Negative macro-economic issues, however, do not always lead to higher credit loss results for the Company because the Company provides basic affordable transportation which in many cases is not a discretionary expenditure for customers.
+In an effort to offset credit losses and to operate more efficiently, the Company continues to look for improvements to its business practices, including better underwriting and better collection procedures. The Company has a proprietary credit scoring system which enables the Company to monitor the quality of contracts. Corporate office personnel monitor proprietary credit scores and work with dealerships when the distribution of scores falls outside of prescribed thresholds. The Company also uses credit reporting and the use of global positioning system (“GPS”) units on vehicles. Additionally, the Company has placed significant focus on the collection area as the Company’s training department continues to spend significant time and effort on collections improvements. The Company’s vice president of collections oversees the collections department and provides timely oversight and additional accountability on a consistent basis. The Company believes that the proper execution of its business practices is the single most important determinant of its long-term credit loss experience.
+The Company’s gross profit dollars per retail unit sold increased by $170, or 2.8%, during the first nine months of fiscal 2023 compared to the first nine months of fiscal 2022, while gross margin as a percentage of sales for the first nine months of fiscal 2023 decreased to 33.3% of sales from 36.8% in the prior year period. The increase in gross profit dollars per retail unit sold and the corresponding decrease in the gross margin percentage were primarily related to the increase in average retail sales price of the vehicles sold during the respective periods coupled with inflationary pressures and increased cost of sale expenses, as some increased costs were not passed on to consumers in order to keep the retail sales price affordable.  Wholesale losses and inventory procurement challenges also contributed to the decline in the gross margin percentage particularly during the second and third quarters of fiscal 2023.  The Company’s gross margin is based upon the cost of the vehicle purchased, with higher-priced vehicles typically having higher gross margin dollars but lower gross margin percentages. Gross margin is also affected by the percentage of wholesale sales to retail sales, which relates, for the most part, to repossessed vehicles sold at or near cost. The Company expects that increasing vehicle purchase costs and sales prices will continue to put pressure on its gross margin percentage over the near term as the demand for the vehicles the Company purchases remains high. However, the Company plans to continue to focus on managing gross margin dollars in the near term, as demonstrated by the increases during fiscal 2023 and the entire fiscal year 2022 as well as focusing on improving wholesale results, cost controls, and operational improvement around the acquisition and disposal of vehicles.
+The Company consistently focuses on collections. Each dealership is responsible for its own collections with supervisory involvement of the corporate office. Total collections of principal, interest, and late fees for the first nine months of fiscal 2023 increased by $49.3 million, or 12.2%, over the prior year. Principal collections, as a percentage of average finance receivables, were 25.4%, compared to 31.7% for the same period in prior year, reflecting an increase in the weighted average contract term compared to the prior year period and the absence of stimulus money in the current year.
+Hiring, training and retaining qualified associates is critical to the Company’s success. The rate at which the Company adds new dealerships and is able to implement operating initiatives is limited by the number of trained managers and support personnel the Company has at its disposal. Excessive turnover, particularly at the dealership manager level, could impact the Company’s ability to add new dealerships and to meet operational initiatives. The landscape for hiring remains very competitive as the business activity and workforce participation continue to adjust post-pandemic. The Company has continued to add resources to recruit, train, and develop personnel, especially personnel targeted to fill dealership manager positions. The Company expects to continue to invest in the development of its workforce.
+The Company will continue to prioritize its investments in areas that will allow it to improve its product and service, while operating more efficiently to support a larger, more profitable business over time. The Company recently made several additions to its senior management team, including a new President, a Chief Digital Officer, a Senior Vice President of People, a Director of Acquisitions and a Vice President of Business Operations.  The Company’s investments in its people, digital/technology, procurement/inventory management, and customer experience are critical as it moves forward to serve an ever-increasing customer base.
+Immaterial Corrections to Historical Financial Information
+Certain historical financial information presented in this quarterly report has been revised to correct immaterial errors in certain amounts reported in the Company’s prior financial statements related to the classification of deferred revenue of ancillary products at the time an account is charged off and the calculation for allowance for credit losses. Management has concluded that these corrections did not materially impact the Company’s operating results or financial condition in any prior annual or interim period. See Note L to the Condensed Consolidated Financial Statements for additional information.
+26
+Three months ended January 31, 2023 vs. Three months ended January 31, 2022
+Consolidated Operations
+(Operating Statement Dollars in Thousands)
+% Change
+As a % of Sales
+Three Months Ended
+January 31,
+2023
+vs.
+Three Months Ended
+January 31,
+2023
+2022
+2022
+2023
+2022
+Revenues:
+Sales
+$
+275,467
+$
+248,312
+10.9
+%
+100.0
+%
+100.0
+%
+Interest income
+51,063
+38,980
+31.0
+18.5
+15.7
+Total
+326,530
+287,292
+13.7
+Costs and expenses:
+Cost of sales, excluding depreciation shown below
+183,014
+157,248
+16.4
+66.4
+63.3
+Selling, general and administrative
+44,737
+39,179
+14.2
+16.2
+15.8
+Provision for credit losses
+85,650
+61,646
+38.9
+31.1
+24.8
+Interest expense
+9,765
+2,944
+231.7
+3.5
+1.2
+Depreciation and amortization
+1,537
+950
+61.8
+0.6
+0.4
+Loss on disposal of property and equipment
+68
+42
+-
+-
+-
+Total
+324,771
+262,009
+24.0
+%
+Pretax income
+$
+1,759
+$
+25,283
+0.6
+%
+10.2
+%
+Operating Data:
+Retail units sold
+14,508
+14,126
+Average dealerships in operation
+155
+153
+Average units sold per dealership per month
+31.2
+30.8
+Average retail sales price
+$
+18,091
+$
+16,750
+Gross profit per retail unit sold
+$
+6,373
+$
+6,447
+Same store revenue growth
+12.3
+%
+24.8
+%
+Period End Data:
+Dealerships open
+157
+153
+Accounts over 30 days past due
+3.7
+%
+4.0
+%
+27
+Revenues increased by approximately $39.2 million, or 13.7%, for the three months ended January 31, 2023 as compared to the same period in the prior fiscal year. The increase resulted from revenue growth at dealerships that operated a full three months in both current and prior year quarter ($35.1 million) and revenue from dealerships opened after the prior year quarter ($4.1 million). Revenue growth was related to a 31.0% increase in interest income, an 8.0% increase in the average retail sales price and a 2.7% increase in retail units sold. Interest income increased approximately $12.0 million for the three months ended January 31, 2023, as compared to the same period in the prior fiscal year, due to the $287.1 million increase in average finance receivables.
+Cost of sales, as a percentage of sales, increased to 66.4% for the three months ended January 31, 2023 compared to 63.3% for the same period of the prior fiscal year, resulting in a gross margin as a percentage of sales of 33.6% for the current year period compared to 36.7% for the prior year period. The primary drivers of this decrease were related to wholesale losses and inventory procurement challenges, including higher direct and indirect costs related to repair parts, transportation fees, fuel costs and other cost of sale expenses.
+Gross margin as a percentage of sales is significantly impacted by the average retail sales price of the vehicles the Company sells, which is largely a function of the Company’s purchase cost. The average retail sales price for the third quarter of fiscal 2023 was $18,091, a $1,341 increase over the prior year quarter, reflecting the high demand for used cars, especially in the market we serve. As purchase costs increase, the margin between the purchase cost and the sales price of the vehicles we sell generally narrows on a percentage basis because the Company must offer affordable prices to its customers.
+Selling, general and administrative expenses, as a percentage of sales, were 16.2% for the three months ended January 31, 2023, an increase of 0.4% from the same period of the prior fiscal year. Selling, general and administrative expenses are, for the most part, more fixed in nature. However, the Company has recently made increasing investments in several areas including our senior management, inventory procurement and management, customer experience and digital efforts. In dollar terms, overall selling, general and administrative expenses increased approximately $5.6 million in the third quarter of fiscal 2023 compared to the same period of the prior fiscal year. Most of this increase relates to the investments in wages and benefits for Company associates, including costs to fund new key positions and to maintain competitive compensation for existing associates.  Increased collections costs due primarily to the higher frequency of repossessions, the addition of three new dealerships since last year and the continuing impact of general inflation contributed to the remaining increase.
+Provision for credit losses as a percentage of sales was 31.1% for the three months ended January 31, 2023 compared to 24.8% for the prior year period. The provision for credit losses as a percentage of sales was higher during the current year period primarily due to the growth in the principal balance of finance receivables of $204.5 million relative to growth in sales of $27.2 million over the prior year period. An increase in net charge-offs also contributed to the higher provision. Net charge-offs as a percentage of average finance receivables increased to 5.9% for the three months ended January 31, 2023 compared to the prior year period of 5.1%. The Company experienced an increase in both the frequency and severity of losses.  The stimulus payments during fiscal 2021 and fiscal 2022 had positive impacts on collections and net charge-off metrics during the prior year quarter. From a long-term historical perspective, the current quarter net charge-offs were comparable to or below historical third quarter levels, with a five-year average of 5.6% and a ten-year average of 6.0%, despite the increase in the average retail sales price. This is consistent with some expected normalization after the unsustainable historic low resulting from stimulus payments and other factors in the prior year. The Company believes that the proper execution of its business practices is the single most important determinant of credit loss experience and will continue to focus on improvements in oversight and accountability provided by the Company’s investments in its corporate infrastructure within the collections area.
+Interest expense as a percentage of sales increased to 3.5% for the three months ended January 31, 2023, compared to 1.2% for the prior year period. In dollar terms, interest expense increased $6.8 million due to increasing interest rates and an increase in the average borrowings of approximately $237.8 million during the three-month period ended January 31, 2023.
+28
+Nine months ended January 31, 2023 vs. Nine months ended January 31, 2022
+Consolidated Operations
+(Operating Statement Dollars in Thousands)
+% Change
+As a % of Sales
+Nine Months Ended
+January 31,
+2023
+vs.
+Nine Months Ended
+January 31,
+2023
+2022
+2022
+2023
+2022
+Revenues:
+Sales
+$
+873,499
+$
+739,734
+18.1
+%
+100.0
+%
+100.0
+%
+Interest income
+143,690
+109,586
+31.1
+16.4
+14.8
+Total
+1,017,189
+849,320
+19.8
+Costs and expenses:
+Cost of sales, excluding depreciation shown below
+582,271
+467,179
+24.6
+66.7
+63.2
+Selling, general and administrative
+130,881
+115,140
+13.7
+15.0
+15.6
+Provision for credit losses
+250,719
+167,987
+49.2
+28.7
+22.7
+Interest expense
+25,460
+7,439
+242.3
+2.9
+1.0
+Depreciation and amortization
+3,997
+2,823
+41.6
+0.5
+0.4
+Loss (gain) on disposal of property and equipment
+320
+88
+-
+-
+-
+Total
+993,648
+760,656
+30.6
+%
+Pretax income
+$
+23,541
+$
+88,664
+2.7
+%
+12.0
+%
+Operating Data:
+Retail units sold
+45,929
+44,169
+Average stores in operation
+154
+152
+Average units sold per store per month
+33.1
+32.3
+Average retail sales price
+$
+18,059
+$
+15,945
+Gross profit per retail unit
+$
+6,341
+$
+6,171
+Same store revenue change
+18.3
+%
+31.5
+%
+Period End Data:
+Stores open
+157
+153
+Accounts over 30 days past due
+3.7
+%
+4.0
+%
+Revenues increased by approximately $167.9 million, or 19.8%, for the nine months ended January 31, 2023 as compared to the same period in the prior fiscal year. The increase resulted from revenue growth at dealerships that operated a full nine months in both current and prior year period ($155.3 million) and revenue growth from dealerships opened during or after the prior year quarter ($12.6 million). Revenue growth was primarily related to a 13.3% increase in the average retail sales price and a 4.0% increase in retail units sold. Interest income increased approximately $34.1 million for the nine months ended January 31, 2023, as compared to the same period in the prior fiscal year, due to the $292.2 million increase in average finance receivables.
+Cost of sales, as a percentage of sales, increased to 66.7% for the nine months ended January 31, 2023 compared to 63.2% for the same period of the prior fiscal year, resulting in a gross margin as a percentage of sales of 33.3% for the current year period compared to 36.8% for the prior year period. The primary drivers of this decrease were related to wholesale losses, particularly in the third quarter, and inventory procurement challenges, including higher direct and indirect costs related to repair parts, transportation fees, fuel costs and other cost of sale expenses. The increase in purchase costs of the vehicles purchased for resale during the nine months ended January 31, 2023 as compared to the same period in the prior fiscal year also contributed to the gross margin percentage decline. The average retail sales price for the nine months ended January 31, 2023 was $18,059, an increase of $2,114 or 13.3% over the prior year period.
+29
+Selling, general and administrative expenses, as a percentage of sales, were 15.0% for the nine months ended January 31, 2023, a decrease of 0.6% from the same period of the prior fiscal year. In dollar terms, overall selling, general and administrative expenses increased approximately $15.7 million in the nine months ended January 31, 2023, compared to the same period of the prior fiscal year. The increase is primarily the result of investments in Company associate wages and benefits, the Company’s customer experience and collections teams, and inventory procurement processes as part of the Company’s recent initiatives to invest in several areas of the business, including our senior management, recruiting, training and retention, inventory procurement and management, customer experience and digital efforts. The Company continues to focus on controlling costs, while at the same time ensuring a solid infrastructure to support a growing customer base with a high level of support for its customers.
+Provision for credit losses as a percentage of sales was 28.7% for the nine months ended January 31, 2023 compared to 22.7% for the nine months ended January 31, 2022. Net charge-offs as a percentage of average finance receivables were 16.9% for the nine months ended January 31, 2023 and 13.3% for the prior year period. The Company experienced an increase in both the frequency and severity of losses. The stimulus payments during fiscal 2021 and fiscal 2022 had positive impacts on collections and net charge-off metrics during the prior year period. The Company believes the collections results during the first nine months of fiscal 2023 are comparable to long-term historical results and are consistent with some expected normalization after the unsustainable historic low resulting from stimulus payments and other factors in the prior year. The Company believes that the proper execution of its business practices is the single most important determinant of credit loss experience and will continue to focus on improvements in oversight and accountability provided by the Company’s investments in its corporate infrastructure within the collections area.
+Interest expense as a percentage of sales increased to 2.9% for the nine months ended January 31, 2023, compared to 1.0% for the prior year period. In dollar terms, interest expense increased $18.0 million due to increasing interest rates and an increase in the average borrowings of approximately $237.2 million during the nine-month period ended January 31, 2023.
+Financial Condition
+The following table sets forth the major balance sheet accounts of the Company as of the dates specified (in thousands):
+January 31, 2023
+April 30, 2022
+Assets:
+Finance receivables, net
+$
+1,023,181
+$
+863,674
+Inventory
+131,616
+115,302
+Income tax receivable, net
+6,700
+274
+Property and equipment, net
+69,112
+51,438
+Liabilities:
+Accounts payable and accrued liabilities
+62,928
+52,685
+Deferred revenue
+110,329
+92,491
+Deferred tax liabilities, net
+37,333
+30,449
+Non-recourse notes payable
+588,310
+395,986
+Revolving line of credit
+27,782
+44,670
+30
+Finance receivables, net, have increased 18.5% and 26.8% since April 30, 2022 and January 31, 2022, respectively, while revenues have grown 19.8% compared to the prior year period. Historically, the growth in finance receivables has been slightly higher than overall revenue growth on an annual basis due to overall term length increases partially offset by improvements in underwriting and collection procedures in an effort to reduce credit losses. The year-over-year results for the current fiscal year period are consistent with the historical pattern.
+During the first nine months of fiscal 2023, inventory increased by $16.3 million compared to inventory at April 30, 2022. The increase in inventory is due to the Company increasing its investment in inventory quantities to accommodate the higher sales volumes and provide customers a quality mix of vehicles, combined with higher costs in preparing vehicles for resale primarily related to supply chain issues and other shop delays.
+Property and equipment, net, increased by $17.7 million at January 31, 2023 as compared to property and equipment, net, at April 30, 2022. The Company incurred $22.1 million in expenditures during the first nine months of fiscal 2023 primarily related to technology investments, designed to attract additional sales opportunities, and remodeling or relocating existing locations in order to support growth. The net increase to property and equipment, net, was partially offset by $4.0 million in depreciation expense.
+Accounts payable and accrued liabilities increased by $10.2 million during the first nine months of fiscal 2023 as compared to accounts payable and accrued liabilities at April 30, 2022, related primarily to the increased selling, general and administrative expenditures, and the increase in inventory.
+Income taxes receivable, net, was $6.7 million at January 31, 2023 compared to income taxes receivable, net, of $274,000 at April 30, 2022, primarily due to the timing of quarterly tax payments and bonus depreciation taken during the first nine months of 2023.
+Deferred revenue increased $17.8 million at January 31, 2023 as compared to April 30, 2022, primarily resulting from increased sales of the accident protection plan product and service contracts and the longer terms on the new service contracts.
+Deferred income tax liabilities, net, increased approximately $6.9 million at January 31, 2023 as compared to April 30, 2022, due primarily to the increase in finance receivables, net.
+On January 31, 2023, the Company completed an asset-backed securitization offering through which an indirect subsidiary of the Company issued four classes of non-recourse notes payable in an aggregate principal amount of $400.2 million, with a weighted average fixed coupon rate of 8.68% per annum and scheduled maturities through January 22, 2030. The notes are collateralized by auto loans directly originated by the Company’s operating subsidiaries. Net proceeds from the offering (after deducting the underwriting discount payable to the initial purchasers and other expenses) were approximately $398.2 million and were used to pay outstanding debt under the Company’s revolving credit facilities and make the initial deposits into collection and reserve accounts for the benefit of noteholders. See Note F for further details on these non-recourse notes payable.
+Borrowings on the Company’s revolving credit facilities fluctuate primarily based upon a number of factors including (i) net income, (ii) finance receivables changes, (iii) income taxes, (iv) capital expenditures, (v) common stock repurchases, and (vi) available funds from issuances of non-recourse notes. Historically, income from operations, as well as borrowings on the revolving credit facilities, have funded the Company’s finance receivables growth, capital asset purchases and common stock repurchases. The Company also recently accessed the securitization market at the end of fiscal 2022 and in January 2023 to increase its borrowing capacities.  The increased borrowings during the third quarter of fiscal 2023 are primarily due to an increase in finance receivables, with longer terms, and a growing customer base. In the first nine months of fiscal 2023, the Company funded finance receivables growth of $204 million, inventory growth of $16 million, $5.2 million in common stock repurchases, and capital expenditures of $22.1 million with income from operations and a $152.6 million increase in total debt, net of cash. These investments reflect the Company’s commitment to providing the necessary inventory and facilities to support a growing customer base.
+31
+Liquidity and Capital Resources
+The following table sets forth certain summarized historical information with respect to the Company’s Condensed Consolidated Statements of Cash Flows (in thousands):
+Nine Months Ended
+January 31,
+2023
+2022
+Operating activities:
+Net income
+$
+18,344
+$
+68,618
+Provision for credit losses
+250,719
+167,987
+Losses on claims for accident protection plan
+17,717
+14,748
+Depreciation and amortization
+3,997
+2,823
+Stock based compensation
+4,154
+4,706
+Finance receivable originations
+(841,445
+)
+(718,275
+)
+Finance receivable collections
+308,671
+293,458
+Inventory
+74,803
+18,822
+Accounts payable and accrued liabilities
+6,760
+4,031
+Deferred accident protection plan revenue
+13,987
+14,775
+Deferred service contract revenue
+17,565
+22,034
+Income taxes, net
+(6,632
+)
+(488
+)
+Deferred income taxes
+6,884
+6,390
+Accrued interest on finance receivables
+(1,323
+)
+(853
+)
+Other
+2,460
+(1,447
+)
+Total
+(123,339
+)
+(102,671
+)
+Investing activities:
+Purchase of property and equipment
+(22,075
+)
+(13,881
+)
+Other
+(2,959
+)
+(1,318
+)
+Total
+(25,034
+)
+(15,199
+)
+Financing activities:
+Revolving credit facilities, net
+(17,599
+)
+148,460
+Non-recourse notes payable, net
+190,849
+-
+Change in cash overdrafts
+3,795
+(1,801
+)
+Debt issuance costs
+(2,001
+)
+(1,787
+)
+Purchase of common stock
+(5,196
+)
+(26,503
+)
+Dividend payments
+(30
+)
+(30
+)
+Exercise of stock options and issuance of common stock
+1,438
+(759
+)
+Total
+171,256
+117,580
+Increase (Decrease) in cash, cash equivalents, and restricted cash
+$
+22,883
+$
+(290
+)
+32
+The primary drivers of operating profits and cash flows include (i) top line sales (ii) interest income on finance receivables, (iii) gross margin percentages on vehicle sales, and (iv) credit losses, a significant portion of which relates to the collection of principal on finance receivables. Historically, most or all of the cash generated from operations has been used to fund finance receivables growth, capital expenditures, and common stock repurchases. To the extent finance receivables grow, capital expenditures and common stock repurchases exceed income from operations, generally the Company increases its borrowings under its revolving credit facilities or the through the issuance of non-recourse notes in asset-backed securitization transactions. During January 2023, the Company completed its second asset-backed securitization offering. The majority of the Company’s growth, however, has been self-funded.
+Cash flows from operations for the nine months ended January 31, 2023 compared to the same period in the prior fiscal year decreased primarily as a result of larger finance receivable originations and deferred revenue, partially offset by an increase in finance receivable collections. Finance receivables, net, increased by $159.5 million from April 30, 2022 to January 31, 2023.
+The purchase price the Company pays for a vehicle has a significant effect on liquidity and capital resources. Because the Company bases its selling price on the purchase cost for the vehicle, increases in purchase costs result in increased selling prices. As the selling price increases, it generally becomes more difficult to keep the gross margin percentage and contract term in line with historical results because the Company’s customers have limited incomes and their car payments must remain affordable within their individual budgets. Several external factors can negatively affect the purchase cost of vehicles. Decreases in the overall volume of new car sales, particularly domestic brands, lead to decreased supply in the used car market. Also, constrictions in consumer credit, as well as general economic conditions, can increase overall demand for the types of vehicles the Company purchases for resale as used vehicles become more attractive than new vehicles in times of economic instability. A negative shift in used vehicle supply, combined with strong demand, results in increased used vehicle prices and thus higher purchase costs for the Company.
+Sustained macro-economic pressures affecting our customers have helped keep demand high in recent years for the types of vehicles we purchase. This strong demand, coupled with modest levels of new vehicle sales in recent years, have led to a generally ongoing tight supply of used vehicles available to the Company in both quality and quantity. The impacts of the COVID-19 pandemic on the business operations of auctions and wholesalers as well as slowdowns in new car production and sales during  fiscal 2022 and into fiscal 2023 due to the pandemic and other supply chain issues further increased the price and reduced the quantity of used cars available for purchase by the Company. The Company expects these effects on used vehicle supply to continue for the short term.  However, the Company did start to experience a slight decline in used car prices during the second quarter and into the third quarter of fiscal 2023.
+The Company believes that the amount of credit available for the sub-prime auto industry will remain relatively consistent with levels in recent years, which management expects will contribute to continued strong overall demand for most, if not all, of the vehicles the Company purchases for resale. Increased competition resulting from availability of funding to the sub-prime auto industry generally contributes to lower down payments and longer terms, which can have a negative effect on collection percentages, liquidity and credit losses when compared to historical periods.
+The Company’s liquidity is also impacted by our credit losses. Macro-economic factors such as unemployment levels and general inflation can significantly affect our collection results and ultimately credit losses. Currently, as our customers look to cover rising costs of non-discretionary items, such as groceries and gasoline, it may impact their ability to make their car payments. Additionally, the long-term economic impact of the COVID-19 pandemic and the resulting effects on the Company’s collections and credit loss results remains uncertain. The Company continually makes improvements to its business processes to strengthen controls and provide stronger infrastructure to support its collections efforts. The Company continues to strive to reduce credit losses in spite of the current economic challenges and continued competitive pressures by improving deal structures. Management continues to focus on improved execution at the dealership level, specifically as related to working individually with customers concerning collection issues.
+The Company has generally leased the majority of the properties where its dealerships are located. As of January 31, 2023, the Company leased approximately 79% of its dealership properties. The Company expects to continue to lease the majority of the properties where its dealerships are located.
+The Company’s revolving credit facilities generally restrict distributions by the Company to its shareholders. The distribution limitations under the credit facilities allow the Company to repurchase shares of its common stock so long as either: (a) the aggregate amount of repurchases after September 30, 2021 does not exceed $50 million, net of proceeds received from the exercise of stock options and the total availability under the credit facilities is equal to or greater than 20% of the sum of the borrowing bases, in each case after giving effect to such repurchases (repurchases under this item are excluded from fixed charges for covenant calculations), or (b) the aggregate amount of such repurchases does not exceed 75% of the consolidated net income of the Company measured on a trailing twelve month basis; provided that immediately before and after giving effect to the Company’s stock repurchases, at least 12.5% of the aggregate funds committed under the credit facilities remains available. Thus, although the Company does routinely repurchase stock, the Company is limited in its ability to pay dividends or make other distributions to its shareholders without the consent of the Company’s lenders.
+33
+At January 31, 2023, the Company had approximately $4.3 million of cash on hand and approximately an additional $148 million of availability under its revolving credit facilities (see Note F to the Condensed Consolidated Financial Statements). On a short-term basis, the Company’s principal sources of liquidity include income from operations and borrowings under its revolving credit facilities. On a longer-term basis, the Company expects its principal sources of liquidity to consist of income from operations, borrowings under revolving credit facilities or fixed interest term loans and proceeds from the issuance of non-recourse asset-backed notes. The Company’s revolving credit facilities mature in September 2024 and the Company expects that it will be able to renew or refinance its revolving credit facilities on or before the date they mature. The Company has recently accessed the securitization market with issuances of $400.0 million and $400.2 million in aggregate principal amounts of non-recourse asset-backed notes in April 2022 and January 2023, respectively. The Company expects that it will continue to access this market in diversifying and growing the business. Furthermore, while the Company has no other specific plans to issue further debt or equity securities, the Company believes, if necessary, it could raise additional capital through the issuance of such securities.
+The Company expects to use cash from operations and borrowings to (i) grow its finance receivables portfolio, (ii) purchase fixed assets of approximately $20 million in the next 12 months to add technology improvements and to refurbish existing dealerships and adding new dealerships, subject to strong operating results, (iii) repurchase shares of common stock when favorable conditions exist and (iv) reduce debt to the extent excess cash is available.
+The Company believes it will have adequate liquidity to continue to grow its revenues and to satisfy its capital needs for the foreseeable future.
+Off-Balance Sheet Arrangements
+The Company has two standby letters of credit relating to insurance policies totaling $2,850,000 at January 31, 2023.
+Other than its letters of credit, the Company is not a party to any off-balance sheet arrangement that management believes is reasonably likely to have a current or future effect on the Company’s financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.
+Related Finance Company Contingency
+Car-Mart of Arkansas and Colonial do not meet the affiliation standard for filing consolidated income tax returns, and as such they file separate federal and state income tax returns. Car-Mart of Arkansas routinely sells its finance receivables to Colonial at what the Company believes to be fair market value and is able to take a tax deduction at the time of sale for the difference between the tax basis of the receivables sold and the sales price. These types of transactions, based upon facts and circumstances, have been permissible under the provisions of the Internal Revenue Code as described in the Treasury Regulations. For financial accounting purposes, these transactions are eliminated in consolidation and a deferred income tax liability has been recorded for this timing difference. The sale of finance receivables from Car-Mart of Arkansas to Colonial provides certain legal protection for the Company’s finance receivables and, principally because of certain state apportionment characteristics of Colonial, also has the effect of reducing the Company’s overall effective state income tax rate by approximately 250 basis points. The actual interpretation of the Regulations is in part a facts and circumstances matter. The Company believes it satisfies the material provisions of the Regulations. Failure to satisfy those provisions could result in the loss of a tax deduction at the time the receivables are sold and have the effect of increasing the Company’s overall effective income tax rate as well as the timing of required tax payments.
+The Company’s policy is to recognize accrued interest related to unrecognized tax benefits in interest expense and penalties in operating expenses. The Company had no accrued penalties or interest as of January 31, 2023.
+34
+Critical Accounting Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles in the United States of America requires the Company to make estimates and assumptions in determining the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from the Company’s estimates. The Company believes the most significant estimate made in the preparation of the accompanying Condensed Consolidated Financial Statements relates to the determination of its allowance for credit losses, which is discussed below. The Company’s accounting policies are discussed in Note B to the Condensed Consolidated Financial Statements.
+The Company maintains an allowance for credit losses on an aggregate basis at a level it considers sufficient to cover estimated  net credit losses expected over the remaining life of the contracts in the portfolio at the measurement date in the collection of its finance receivables currently outstanding. At January 31, 2023, the weighted average total contract term was 45.4 months with 35.5 months remaining. The reserve amount in the allowance for credit losses at January 31, 2023, $283 million, was 23.65% of the principal balance in finance receivables of $1.3 billion, less unearned accident protection plan revenue of $49.9 million and unearned service contract revenue of $60.4 million.
+The estimated reserve amount is the Company’s anticipated future net charge-offs for net credit losses expected over the remaining life of the contracts in the portfolio at the measurement date. The allowance takes into account historical credit loss experience (both timing and severity of losses), with consideration given to recent credit loss trends and changes in contract characteristics (i.e., average amount financed, months outstanding at loss date, term and age of portfolio), delinquency levels, collateral values, economic conditions and underwriting and collection practices. The allowance for credit losses is reviewed at least quarterly by management with any changes reflected in current operations. The calculation of the allowance for credit losses uses the following primary factors:
+●
+The number of units repossessed or charged-off as a percentage of total units financed over specific historical periods of time from one year to five years.
+●
+The average net repossession and charge-off loss per unit during the last eighteen months, segregated by the number of months since the contract origination date, and adjusted for the expected future average net charge-off loss per unit. Approximately 50% of the charge-offs that will ultimately occur in the portfolio are expected to occur within 10-12 months following the balance sheet date. The average age of an account at charge-off date is 12.1 months.
+●
+The timing of repossession and charge-off losses relative to the date of sale (i.e., how long it takes for a repossession or charge-off to occur) for repossessions and charge-offs occurring during the last eighteen months.
+●
+An adjustment to the previous twelve months to reflect the significant increase in the average amount financed and the resulting monthly payment and term length.
+●
+An adjustment for current asset-specific characteristics to account for differences between the benign inflation environment that existed for loans within our historical credit loss experience and the significant inflationary environment impacting our current loans portfolio.
+●
+Considerations of current levels of inflation and other macroeconomic factors and the impact that may have on our expectation of credit losses.
+A historical point loss rate is produced by this analysis, which is then adjusted for reasonable and supportable forecasts of macroeconomic factors. This includes the review of static pools coupled with any positive or negative subjective factors to arrive at an overall reserve amount that management considers to be a reasonable estimate of net credit losses expected over the remaining life of the contracts in the portfolio at the measurement date.
+Recent Accounting Pronouncements
+Occasionally, new accounting pronouncements are issued by the FASB or other standard setting bodies, which the Company will adopt as of the specified effective date. Unless otherwise discussed, the Company believes the implementation of recently issued standards which are not yet effective will not have a material impact on its consolidated financial statements upon adoption.
+Recently Issued Accounting Pronouncements Not Yet Adopted
+Financial Instruments
+–
+Credit Losses.
+In March 2022, the FASB issued ASU 2022-02, Financial Instruments – Credit Losses. The guidance changes the methodology for measuring credit losses on financial instruments and the timing of when such losses are recorded. This guidance will affect the Company’s vintage disclosures related to current-period gross write-offs by year of origination for financing receivables. The amendments in this update are effective for fiscal years beginning after December 15, 2022. The Company is currently evaluating the impact this guidance may have on the consolidated financial statements.
+35
+Seasonality
+Historically, the Company’s third fiscal quarter (November through January) has been the slowest period for vehicle sales. Conversely, the Company’s first and fourth fiscal quarters (May through July and February through April) have historically been the busiest times for vehicle sales. Therefore, the Company generally realizes a higher proportion of its revenue and operating profit during the first and fourth fiscal quarters. The Company expects this pattern to continue in future years.
+If conditions arise that impair vehicle sales during the first or fourth fiscal quarters, the adverse effect on the Company’s revenues and operating results for the year could be disproportionately large.
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+The Company is exposed to market risk on its financial instruments from changes in interest rates. In particular, the Company has historically had exposure to changes in the federal primary credit rate and has exposure to changes in the prime interest rate of its lender. The Company does not use financial instruments for trading purposes but has in the past entered into an interest rate swap agreement to manage interest rate risk.
+Interest rate risk.
+The Company’s exposure to changes in interest rates relates primarily to its debt obligations. The Company is exposed to changes in interest rates as a result of its revolving credit facilities, and the interest rates charged to the Company under its credit facilities fluctuate based on its primary lender’s base rate of interest. The Company had an outstanding balance on its revolving line of credit of $27.8 million at January 31, 2023. The impact of a 1% increase in interest rates on this amount of debt would result in increased annual interest expense of approximately $280,000 and a corresponding decrease in net income before income tax. The Company’s non-recourse notes payable bear interest at a fixed interest rate; however, if the Company were to access the securitization market again in the near term, the Company expects that the benchmark interest rates and spreads payable under such new non-recourse notes would be higher than the interest rate payable under the Company’s currently outstanding non-recourse notes.
+The Company’s earnings are impacted by its net interest income, which is the difference between the income earned on interest-bearing assets and the interest paid on interest-bearing notes payable. The Company’s finance receivables carry a fixed interest rate of 16.5% to 18% per annum (19.5% to 21.5% in Illinois), while its revolving credit facilities contain variable interest rates that fluctuate with market interest rates and its non-recourse notes payable is at fixed rates as described in Note D.
+Item 4.
+Controls and Procedures
+a)
+Evaluation of Disclosure Controls and Procedures
+Management has evaluated (with the participation of the Company’s Chief Executive Officer and Chief Financial Officer) the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) as of January 31, 2023.
+As disclosed in the Company’s Quarterly Report on Form 10-Q for the quarter ended October 31, 2022, a material weakness was identified in the Company’s internal control over financial reporting related to the lack of precision of management’s review control around the historical inputs and results in the Company’s current expected credit losses (“CECL”) analysis for determining the Company’s allowance for credit losses, including a reduction in technical accounting expertise and lack of segregation of duties among certain processes and control owners due to recent staffing turnover. See Note L to the Condensed Consolidated Financial Statements for information regarding the related immaterial error corrections to the Company’s historical financial information.
+Although the Company is currently in the process of remediating this material weakness in our internal control over financial reporting from the prior quarter as described below, because of this material weakness, the Company’s Chief Executive Officer and Chief Financial Officer have concluded that, as of January 31, 2023, the Company’s disclosure controls and procedures were not effective. However, management, including the Company’s Chief Executive Officer and Chief Financial Officer, has concluded that, notwithstanding the material weakness in the Company’s internal control over financial reporting, the condensed consolidated financial statements in this Quarterly Report on Form 10-Q fairly present, in all material respects, the Company’s financial position, results of operations and cash flows for the periods presented in conformity with U.S. generally accepted accounting principles.
+36
+Management ’ s Remediation Efforts
+The Company is committed to maintaining a strong internal control environment and implementing measures designed to help ensure that control deficiencies contributing to the material weakness are remediated as soon as possible.
+As part of its efforts to remediate this material weakness, management has hired a new Senior Director of Finance and Reporting in January 2023 to fill the vacated position and expanded the technical accounting expertise within the financial reporting group. Management has also engaged a third-party advisory service with expertise in the CECL model and has initiated steps to implement additional third-party software to assist in supporting management’s analysis and processes to further strengthen the precision of management’s review controls on the CECL analysis.
+Management believes the steps outlined above, with improvement to our forecasting methodology, will remediate the material weakness in internal control over financial reporting identified above. However, these actions are subject to ongoing senior management review and testing for additional monthly cycles to conclude that the applicable controls are operating effectively for a sufficient period of time, such that the material weakness will be fully remediated. The Company may take additional steps or modify its remediation efforts to provide reasonable assurance that the Company effectively maintains internal controls over financial reporting.
+b)
+Changes in Internal Control Over Financial Reporting
+Except as described above, there were no changes in the Company’s internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the Company’s last fiscal quarter that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Inherent Limitations on Effectiveness of Controls
+Management recognizes that a control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation.
+37
+PART II
+Item 1. Legal Proceedings
+In the ordinary course of business, the Company has become a defendant in various types of legal proceedings. While the outcome of these proceedings cannot be predicted with certainty, the Company does not expect the final outcome of any of these proceedings, individually or in the aggregate, to have a material adverse effect on the Company’s financial position, results of operations or cash flows.
+Item 1A. Risk Factors
+There have been no material changes to the Company’s risk factors as previously disclosed in Item 1A to Part I of the Company’s Form 10-K for the fiscal year ended April 30, 2022.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+The Company is authorized to repurchase shares of its common stock under its common stock repurchase program. On December 14, 2020, the Board of Directors authorized the repurchase of up to an additional one million shares along with the balance remaining under its previous authorization approved and announced on November 16, 2017. No shares were repurchased under the Company’s stock repurchase program during the third quarter of fiscal 2023.
+The Company has not historically issued any dividends and does not expect to do so in the foreseeable future. Payment of cash dividends in the future will be determined by the Company’s Board of Directors and will depend upon, among other things, the Company’s future earnings, operations, capital requirements and surplus, general financial condition, contractual restrictions that may exist, and such other factors as the Board of Directors may deem relevant. The Company is also limited in its ability to pay dividends or make other distributions to its shareholders without the consent of its lender. Please see “Liquidity and Capital Resources” under Item 2 of Part I for more information regarding this limitation.
+Item 3. Defaults Upon Senior Securities
+Not applicable.
+Item 4. Mine Safety Disclosure
+Not applicable.
+Item 5. Other Information
+Not applicable.
+38
+Item 6. Exhibits
+Exhibit
+Number
+Description of Exhibit
+3.1
+Articles of Incorporation of the Company, as amended. (Incorporated by reference to Exhibits 4.1-4.8 to the Company's Registration Statement on Form S-8 filed with the SEC on November 16, 2005 (File No. 333-129727)).
+3.2
+Amended and Restated Bylaws of the Company dated December 4, 2007.   (Incorporated by reference to Exhibit 3.2 to the Company ’ s Quarterly Report on Form 10-Q for the quarter ended October 31, 2007 filed with the SEC on December 7, 2007).
+3.3
+Amendment No. 1 to the Amended and Restated Bylaws of the Company (Incorporated by reference to Exhibit 3.1 to the Company’ s Current Report on Form 8-K filed with the SEC on February 19, 2014).
+4.1
+Indenture, dated January 31, 2023, by and between ACM Auto Trust 2023-1 and Wilmington Trust, National Association, as Indenture Trustee. (Incorporated by reference to Exhibit 4.1 to the Company’ s Current Report on Form 8-K filed with the SEC on February 6, 2023).
+10.1
+Purchase Agreement, dated January 31, 2023, by and between Colonial Auto Finance, Inc. and ACM Funding, LLC. (Incorporated by reference to Exhibit 10.1 to the Company’ s Current Report on Form 8-K filed with the SEC on February 6, 2023).
+10.2
+Sale and Servicing Agreement, dated January 31, 2023, by and between ACM Auto Trust 2023-1, ACM Funding, LLC, America’ s Car Mart, Inc. and Wilmington Trust, National Association, as Indenture Trustee, Backup Servicer, Calculation Agent, and Paying Agent. (Incorporated by reference to Exhibit 10.2 to the Company ’ s Current Report on Form 8-K filed with the SEC on February 6, 2023).
+10.3
+Amendment No. 5 to Third Amended and Restated Loan and Security Agreement and Limited Waiver dated February 22, 2023, among America’ s Car-Mart, Inc., a Texas corporation, as Parent; Colonial Auto Finance, Inc., an Arkansas corporation, America ’ s Car Mart, Inc., an Arkansas corporation, and Texas Car-Mart, Inc., a Texas corporation, as Borrowers; and certain financial institutions, as Lenders, with BMO Harris Bank, N.A., as Agent, Lead Arranger, and Book Manager. (Incorporated by reference to Exhibit 10.6 to the Company ’ s Current Report on Form 8-K filed with the SEC on March 1, 2023).
+31.1
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+31.2
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a) of the Exchange Act.
+32.1
+Certification of the Chief Executive Officer and Chief Financial Officer pursuant to Rule 13a-14(b) of the Exchange Act and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+Inline XBRL Instance Document
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Labels Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL Document and included in Exhibit 101)
+39
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+America ’ s Car-Mart, Inc.
+By:
+/s/ Jeffrey A. Williams
+Jeffrey A. Williams
+Chief Executive Officer
+(Principal Executive Officer)
+By:
+/s/ Vickie D. Judy
+Vickie D. Judy
+Chief Financial Officer
+(Principal Financial Officer)
+Dated: March 10, 2023
+40

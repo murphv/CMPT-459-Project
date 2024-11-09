@@ -1,0 +1,1987 @@
+2023
+145,111
+102,570
+0
+0
+1,863,916
+1,829,588
+6,123,281
+5,950,639
+15,484,212
+14,804,269
+0.0001
+0.0001
+30,000,000
+30,000,000
+11,863,758
+11,863,758
+0.0001
+0.0001
+20,000,000
+20,000,000
+0
+0
+0.0001
+0.0001
+1,200,000
+1,200,000
+0
+0
+3
+5
+42,864,000
+42,864,000
+4
+4
+166,400
+42,864,000
+876,331
+876,331
+6.56
+6.56
+10,844
+10,844
+5.04
+5.04
+6,775
+6,775
+3.50
+3.50
+6.61
+6.61
+151
+151
+2.54
+2.54
+17,439
+17,439
+3.12
+3.12
+101,186
+482,965
+3,897
+27,275
+338,954
+2,734
+19,304
+205,330
+136,564
+286
+678,214
+38,317
+0
+10
+540
+0
+0
+0
+0
+2
+2
+0001045942 2022-10-01 2022-12-31
+xbrli:shares
+0001045942 2023-02-01
+iso4217:USD
+0001045942 2022-12-31
+0001045942 2022-09-30
+0001045942 trck:PropertyPlantAndEquipmentExcludingMonitoringEquipmentMember 2022-12-31
+0001045942 trck:PropertyPlantAndEquipmentExcludingMonitoringEquipmentMember 2022-09-30
+0001045942 trck:MonitoringEquipmentMember 2022-12-31
+0001045942 trck:MonitoringEquipmentMember 2022-09-30
+iso4217:USD xbrli:shares
+0001045942 trck:SeriesAConvertiblePreferredStockMember 2022-12-31
+0001045942 trck:SeriesAConvertiblePreferredStockMember 2022-09-30
+0001045942 trck:MonitoringAndOtherRelatedServicesMember 2022-10-01 2022-12-31
+0001045942 trck:MonitoringAndOtherRelatedServicesMember 2021-10-01 2021-12-31
+0001045942 trck:ProductSalesAndOtherMember 2022-10-01 2022-12-31
+0001045942 trck:ProductSalesAndOtherMember 2021-10-01 2021-12-31
+0001045942 2021-10-01 2021-12-31
+0001045942 us-gaap:CommonStockMember 2022-09-30
+0001045942 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001045942 us-gaap:RetainedEarningsMember 2022-09-30
+0001045942 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0001045942 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001045942 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001045942 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001045942 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0001045942 us-gaap:CommonStockMember 2022-12-31
+0001045942 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001045942 us-gaap:RetainedEarningsMember 2022-12-31
+0001045942 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0001045942 us-gaap:CommonStockMember 2021-09-30
+0001045942 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001045942 us-gaap:RetainedEarningsMember 2021-09-30
+0001045942 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0001045942 2021-09-30
+0001045942 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001045942 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001045942 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001045942 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0001045942 us-gaap:CommonStockMember 2021-12-31
+0001045942 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001045942 us-gaap:RetainedEarningsMember 2021-12-31
+0001045942 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0001045942 2021-12-31
+0001045942 trck:DebtMaturingInJuly2024Member 2022-12-31
+0001045942 trck:NotesPayableRelatedToConstructionOfMonitoringCentersMember 2022-12-31
+0001045942 2021-10-01 2022-09-30
+0001045942 trck:StockOptionsAndWarrantsMember 2022-12-31
+0001045942 trck:StockOptionsAndWarrantsMember 2021-12-31
+0001045942 country:US 2022-10-01 2022-12-31
+xbrli:pure
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:US 2022-10-01 2022-12-31
+0001045942 country:US 2021-10-01 2021-12-31
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember country:US 2021-10-01 2021-12-31
+0001045942 srt:LatinAmericaMember 2022-10-01 2022-12-31
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember srt:LatinAmericaMember 2022-10-01 2022-12-31
+0001045942 srt:LatinAmericaMember 2021-10-01 2021-12-31
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember srt:LatinAmericaMember 2021-10-01 2021-12-31
+0001045942 trck:OtherThanUnitedStatesAndLatinAmericaMember 2022-10-01 2022-12-31
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember trck:OtherThanUnitedStatesAndLatinAmericaMember 2022-10-01 2022-12-31
+0001045942 trck:OtherThanUnitedStatesAndLatinAmericaMember 2021-10-01 2021-12-31
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember trck:OtherThanUnitedStatesAndLatinAmericaMember 2021-10-01 2021-12-31
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember 2022-10-01 2022-12-31
+0001045942 us-gaap:SalesRevenueNetMember us-gaap:GeographicConcentrationRiskMember 2021-10-01 2021-12-31
+utr:Y
+0001045942 trck:MonitoringEquipmentMember srt:MinimumMember 2022-10-01 2022-12-31
+0001045942 trck:MonitoringEquipmentMember srt:MaximumMember 2022-10-01 2022-12-31
+0001045942 us-gaap:PatentsMember 2022-12-31
+0001045942 us-gaap:PatentsMember 2022-09-30
+0001045942 us-gaap:DevelopedTechnologyRightsMember 2022-12-31
+0001045942 us-gaap:DevelopedTechnologyRightsMember 2022-09-30
+0001045942 us-gaap:TradeNamesMember 2022-12-31
+0001045942 us-gaap:TradeNamesMember 2022-09-30
+0001045942 trck:CapitalizedContractCostSantiagoMonitoringCenterMember 2022-10-01 2022-12-31
+0001045942 us-gaap:OtherAssetsMember 2022-12-31
+0001045942 us-gaap:OtherAssetsMember 2022-09-30
+0001045942 trck:AccruedLiabilitesMember 2022-12-31
+0001045942 trck:AccruedLiabilitesMember 2022-09-30
+0001045942 trck:RightofuseLiabilityMember 2022-12-31
+0001045942 trck:RightofuseLiabilityMember 2022-09-30
+0001045942 2017-09-28 2017-09-28
+0001045942 trck:AgreementWithConrentMember 2022-12-31
+0001045942 trck:AgreementWithConrentMember 2022-09-30
+0001045942 trck:AgreementWithConrentMember us-gaap:SubsequentEventMember 2023-01-10 2023-01-10
+0001045942 trck:NotePayableWithHpFinancialServicesMaturingOnFeb62024Member 2022-12-31
+0001045942 trck:NotePayableWithHpFinancialServicesMaturingOnFeb62024Member 2022-09-30
+0001045942 trck:NotePayableWithBancoSantanderMember 2022-12-31
+0001045942 trck:NotePayableWithBancoSantanderMember 2022-09-30
+0001045942 trck:NotePayableWithBancoEstadoMember 2022-12-31
+0001045942 trck:NotePayableWithBancoEstadoMember 2022-09-30
+0001045942 trck:NotePayableWithHpFinancialServicesMaturingOnMarch42024Member 2022-12-31
+0001045942 trck:NotePayableWithHpFinancialServicesMaturingOnMarch42024Member 2022-09-30
+0001045942 trck:NotePayableWithBancoDeChileMaturingOnMarch42024Member 2022-12-31
+0001045942 trck:NotePayableWithBancoDeChileMaturingOnMarch42024Member 2022-09-30
+0001045942 trck:NotePayableWithBancoDeChileMaturingOnFeb172025Member 2022-12-31
+0001045942 trck:NotePayableWithBancoDeChileMaturingOnFeb172025Member 2022-09-30
+0001045942 2020-10-01 2020-10-21
+0001045942 trck:AgreementWithConrentMember 2020-12-20
+0001045942 trck:AgreementWithConrentMember 2020-12-21
+0001045942 2021-03-01
+0001045942 2021-02-21 2021-03-01
+0001045942 2021-02-04
+0001045942 2020-07-01 2021-07-01
+iso4217:CLP
+0001045942 trck:ChileanPesosMember 2021-01-06 2021-01-06
+0001045942 2021-01-06 2021-01-06
+0001045942 trck:NotePayableWithHpFinancialServicesMaturingOnFeb62024Member 2021-01-06
+0001045942 trck:ChileanPesosMember 2021-01-12 2021-01-12
+0001045942 2021-01-12 2021-01-12
+0001045942 trck:NotePayableWithBancoSantanderMember 2021-01-12
+0001045942 trck:ChileanPesosMember 2021-01-12
+0001045942 2021-01-12
+0001045942 trck:ChileanPesosMember 2021-02-02 2021-02-02
+0001045942 2021-02-02 2021-02-02
+0001045942 trck:NotePayableWithBancoEstadoMember 2021-02-02
+0001045942 trck:ChileanPesosMember 2021-02-02
+0001045942 2021-02-02
+0001045942 trck:ChileanPesosMember 2021-02-04 2021-02-04
+0001045942 2021-02-04 2021-02-04
+0001045942 trck:NotePayableWithHpFinancialServicesMaturingOnMarch42024Member 2021-02-04
+0001045942 trck:ChileanPesosMember 2021-02-05 2021-02-05
+0001045942 2021-02-05 2021-02-05
+0001045942 trck:NotePayableWithBancoDeChileMaturingOnMarch42024Member 2021-02-05
+0001045942 trck:ChileanPesosMember 2021-02-15 2021-02-15
+0001045942 2021-02-15 2021-02-15
+0001045942 trck:NotePayableWithBancoDeChileMaturingOnFeb172025Member 2021-02-15
+0001045942 trck:ChileanPesosMember 2021-02-15
+0001045942 2021-02-15
+0001045942 trck:SeriesAConvertiblePreferredStockMember 2017-10-12
+utr:D
+0001045942 trck:SeriesAConvertiblePreferredStockMember 2022-10-01 2022-12-31
+0001045942 trck:The2022PlanMember 2022-12-31
+0001045942 us-gaap:RestrictedStockMember 2022-04-13 2022-04-13
+0001045942 us-gaap:RestrictedStockMember trck:The2022PlanMember 2022-10-01 2022-12-31
+0001045942 us-gaap:RestrictedStockMember trck:The2022PlanMember 2021-10-01 2021-12-31
+0001045942 trck:StockOptionsAndWarrantsMember 2022-10-01 2022-12-31
+0001045942 trck:StockOptionsAndWarrantsMember 2021-10-01 2021-12-31
+0001045942 trck:The2012PlanMember 2022-10-01 2022-12-31
+0001045942 trck:The2012PlanMember 2021-10-01 2021-12-31
+0001045942 trck:SecureAlertIncVFederalGovernmentOfMexicoMember 2017-03-24 2017-03-24
+0001045942 trck:JesusValleGonzalezEtalVTrackGroupPuertoRicoMember us-gaap:PendingLitigationMember srt:MinimumMember 2022-05-09 2022-05-09
+0001045942 srt:MinimumMember 2021-03-01 2021-03-01
+0001045942 srt:MaximumMember 2021-03-01 2021-03-01
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ___________ to ____________
+Commission file number:
+0-23153
+Track Group, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+87-0543981
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification Number)
+200 E. 5th Avenue Suite 100 ,
+Naperville ,
+IL
+60563
+(Address of principal executive offices) (Zip Code)
+( 877 )
+260-2010
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+None
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒   No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒   No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐    No ☒
+The number of shares outstanding of the registrant’s common stock as of February 1, 2023 was
+11,863,758 .
+TRACK GROUP, INC.
+FORM 10-Q
+For the Quarterly Period Ended December 31, 2022
+INDEX
+Page
+PART I. FINANCIAL INFORMATION
+Item 1
+Financial Statements
+Condensed Consolidated Balance Sheets (Unaudited)
+1
+Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) (Unaudited)
+2
+Condensed Consolidated Statement of Changes in Stockholders’ Equity (Deficit) (Unaudited)
+3
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+4
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+5
+Item 2
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+17
+Item 3
+Quantitative and Qualitative Disclosures About Market Risk
+22
+Item 4
+Controls and Procedures
+23
+PART II. OTHER INFORMATION
+Item 1
+Legal Proceedings
+24
+Item1A
+Risk Factors
+25
+Item 2
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 3
+Defaults Upon Senior Securities
+Item 4
+Mine Safety Disclosures
+25
+Item 5
+Other Information
+25
+Item 6
+Exhibits
+25
+Signatures
+26
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements
+TRACK GROUP, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+December 31,
+September 30,
+Assets
+2022
+2022
+Current assets:
+Cash
+$ 5,543,340     $ 5,311,104
+Accounts receivable, net of allowance for doubtful accounts of $ 145,111
+and $ 102,570 , respectively
+5,782,098       6,236,555
+Prepaid expense and deposits
+736,619       769,006
+Inventory, net of reserves of $ 0
+and $ 0 , respectively
+747,207       1,053,245
+Other current assets
+284,578       284,426
+Total current assets
+13,093,842       13,654,336
+Property and equipment, net of accumulated depreciation of $ 1,863,916
+and $ 1,829,588 , respectively
+155,977       170,329
+Monitoring equipment, net of accumulated depreciation of $ 6,123,281
+and $ 5,950,639 , respectively
+5,304,953       3,624,101
+Intangible assets, net of accumulated amortization of $ 15,484,212
+and $ 14,804,269 , respectively
+15,270,561       15,661,417
+Goodwill
+8,113,308       8,061,002
+Other assets
+3,714,629       3,509,655
+Total assets
+$ 45,653,270     $ 44,680,840
+Liabilities and Stockholders ’
+Equity (Deficit)
+Current liabilities:
+Accounts payable
+$ 3,400,745     $ 2,858,915
+Accrued liabilities
+3,234,973       3,042,443
+Current portion of long-term debt
+518,756       456,681
+Total current liabilities
+7,154,474       6,358,039
+Long-term debt, net of current portion
+42,936,769       42,979,243
+Long-term liabilities
+366,374       398,285
+Total liabilities
+50,457,617       49,735,567
+Commitments and contingencies (Note 23)
+Stockholders ’
+equity (deficit):
+Common stock, $ 0.0001
+par value:
+30,000,000
+shares authorized;
+11,863,758
+and
+11,863,758
+shares outstanding, respectively
+1,186       1,186
+Preferred stock, $ 0.0001
+par value:
+20,000,000
+shares authorized;
+0
+shares outstanding     -       -
+Series A Convertible Preferred stock, $ 0.0001
+par value:
+1,200,000
+shares authorized;
+0
+shares outstanding
+-       -
+Paid in capital
+302,499,343       302,437,593
+Accumulated deficit
+( 306,182,505 )     ( 306,218,889
+)
+Accumulated other comprehensive loss
+( 1,122,371 )     ( 1,274,617
+)
+Total equity (deficit)
+( 4,804,347 )     ( 5,054,727
+)
+Total liabilities and stockholders’ equity (deficit)
+$ 45,653,270     $ 44,680,840
+The accompanying notes are an integral part of these condensed consolidated statements.
+-1-
+TRACK GROUP, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+AND COMPREHENSIVE INCOME (LOSS)
+(Unaudited)
+Three Months Ended
+December 31,
+2022
+2021
+Revenue:
+Monitoring and other related services
+$ 8,289,782     $ 9,469,729
+Product sales and other
+565,909       125,927
+Total revenue
+8,855,691       9,595,656
+Cost of revenue:
+Monitoring, products and other related services
+3,901,994       3,931,578
+Depreciation & amortization included in cost of revenue
+773,019       863,849
+Total cost of revenue
+4,675,013       4,795,427
+Gross profit
+4,180,678       4,800,229
+Operating expense:
+General & administrative
+2,754,521       2,498,359
+Selling & marketing
+729,470       697,872
+Research & development
+589,805       590,852
+Depreciation & amortization
+247,710       416,801
+Total operating expense
+4,321,506       4,203,884
+Operating income (loss)
+( 140,828 )     596,345
+Other income (expense):
+Interest expense, net
+( 419,550 )     ( 481,560
+)
+Currency exchange rate gain (loss)
+483,151       ( 106,278
+)
+Total other income (expense)
+63,601       ( 587,838
+)
+Income (loss) before income taxes
+( 77,227 )     8,507
+Income tax expense (benefit)
+( 113,611 )     313,829
+Net income (loss) attributable to common stockholders
+36,384       ( 305,322
+)
+Foreign currency translation adjustments
+152,246       ( 22,858
+)
+Comprehensive income (loss)
+$ 188,630     $ ( 328,180
+)
+Net income (loss) per share
+–
+basic
+Net income (loss) per common share
+$ 0.00     $ ( 0.03
+)
+Weighted average common shares outstanding
+11,863,758       11,525,315
+Net income (loss) per share
+–
+diluted
+Net income (loss) per common share
+$ 0.00     $ ( 0.03
+)
+Weighted average common shares outstanding
+11,863,758       11,966,723
+The accompanying notes are an integral part of these condensed consolidated statements.
+-2-
+TRACK GROUP, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS ’
+EQUITY (DEFICIT)
+(Unaudited)
+Common Stock
+Paid-in
+Accumulated
+Comprehensive
+Shares
+Amount
+Capital
+Deficit
+Loss
+Total
+Balance September 30, 2022
+11,863,758     $ 1,186     $ 302,437,593     $ ( 306,218,889
+)
+$ ( 1,274,617
+)
+$ ( 5,054,727 )
+Stock-based compensation
+-       -       61,750       -       -       61,750
+Foreign currency translation adjustments
+-       -       -       -       152,246       152,246
+Net income
+-       -       -       36,384       -       36,384
+Balance December 31, 2022
+11,863,758     $ 1,186     $ 302,499,343     $ ( 306,182,505 )   $ ( 1,122,371 )   $ ( 4,804,347
+)
+Common Stock
+Paid-in
+Accumulated
+Comprehensive
+Shares
+Amount
+Capital
+Deficit
+Loss
+Total
+Balance September 30, 2021
+11,524,978
+$
+1,152
+$
+302,250,954
+$
+( 298,828,527
+)
+$
+( 1,054,349
+)
+$
+2,369,230
+Issuance of Common Stock for options/warrants exercised
+16,474
+2
+( 2
+)
+-
+-
+-
+Cash received for options/warrants exercised
+-
+-
+10,570
+-
+-
+10,570
+Tax withheld on issuance of Common Stock
+-
+-
+( 3,076
+)
+-
+-
+( 3,076
+)
+Foreign currency translation adjustments
+-
+-
+-
+-
+( 22,858
+)
+( 22,858
+)
+Net loss
+-
+-
+-
+( 305,322
+)
+-
+( 305,322
+)
+Balance December 31, 2021
+11,541,452
+$
+1,154
+$
+302,258,446
+$
+( 299,133,849
+)
+$
+( 1,077,207
+)
+$
+2,048,544
+The accompanying notes are an integral part of these condensed consolidated statements.
+-3-
+TRACK GROUP, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Three Months Ended
+December 31,
+2022
+2021
+Cash flows from operating activities:
+Net income (loss)
+$ 36,384     $ ( 305,322
+)
+Adjustments to reconcile net income/(loss) to net cash provided by operating activities:
+Depreciation and amortization
+1,020,729       1,280,650
+Bad debt expense (recovery)
+39,041       ( 100,286
+)
+Stock based compensation
+61,750       -
+Loss on monitoring equipment included in cost of revenue
+66,644       99,297
+Amortization of debt issuance costs
+48,762       35,275
+Amortization of monitoring center assets included in cost of revenue
+133,304       75,947
+Foreign currency exchange (gain) loss
+( 483,151 )     106,278
+Change in assets and liabilities:
+Accounts receivable, net
+469,642       688,994
+Inventories
+306,038       -
+Prepaid expense, deposits, deferred tax assets and other assets
+( 192,380 )     ( 82,817
+)
+Accounts payable
+536,982       ( 195,522
+)
+Accrued liabilities
+284,678       ( 320,857
+)
+Net cash provided by operating activities
+2,328,423       1,281,637
+Cash flow from investing activities:
+Purchase of property and equipment
+( 6,120 )     ( 35,903
+)
+Capitalized software
+( 159,089 )     ( 88,607
+)
+Purchase of monitoring equipment and parts
+( 2,023,407 )     ( 751,030
+)
+Net cash used in investing activities
+( 2,188,616 )     ( 875,540
+)
+Cash flow from financing activities:
+Principal payments on long-term debt
+( 126,316 )     ( 125,356
+)
+Employee tax withholdings related to net share settlement of equity-based awards
+-       ( 3,076
+)
+Proceeds from exercise of employee stock options
+-       10,570
+Net cash used in financing activities
+( 126,316 )     ( 117,862
+)
+Effect of exchange rate changes on cash
+218,745       ( 110,101
+)
+Net increase in cash
+232,236       178,134
+Cash, beginning of period
+5,311,104       8,421,162
+Cash, end of period
+$ 5,543,340     $ 8,599,296
+Cash paid for interest
+$ 46,056     $ 62,323
+Cash paid for taxes
+$ 72,213     $ 236,785
+The accompanying notes are an integral part of these condensed consolidated statements.
+-4-
+TRACK GROUP, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+( 1 ) BASIS OF PRESENTATION
+The unaudited interim condensed consolidated financial information of Track Group, Inc. and subsidiaries (collectively, the “ Company ” or “ Track Group ”) has been prepared in accordance with the Instructions to Form
+10 -Q and Article
+8
+of Regulation S- X
+promulgated by the Securities and Exchange Commission (“ SEC ”). Certain information and disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“ GAAP ”) have been condensed or omitted pursuant to such rules and regulations. In the opinion of management, the accompanying interim consolidated financial information contains all adjustments, consisting only of normal recurring adjustments necessary to present fairly the Company’s financial position as of
+December 31, 2022,
+and results of its operations for the
+three
+months ended
+December 31, 2022.
+These financial statements should be read in conjunction with the audited annual consolidated financial statements and notes thereto that are included in the Company’s Annual Report on Form
+10 -K for the year ended
+September 30, 2022,
+filed with the SEC on
+December 16, 2022.
+The results of operations for the
+three
+months ended
+December 31, 2022
+may
+not
+be indicative of the results for the fiscal year ending
+September 30, 2023.
+As of
+December 31, 2022
+and
+September 30, 2022,
+the Company had an accumulated deficit of $ 306,182,505
+and $ 306,218,889 , respectively. The Company had net income of $ 36,384
+and a net loss of $( 305,322 ) for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively. The Company also has $ 42,864,000
+of debt maturing in
+July 2024
+and
+six
+notes payable maturing between
+January 2, 2024
+and
+February 17, 2025
+related to the construction of
+two
+monitoring centers related to a new contract, with outstanding balances due for the
+six
+notes totaling $ 757,925
+at
+December 31, 2022 ( See Note
+19 ). The Company’s ability to return to profitable operations is dependent upon generating a level of revenue adequate to support its cost structure, which it achieved on an operating basis in the fiscal year ended
+September 30, 2021
+and was close to achieving in the fiscal year ended
+September 30, 2022
+excluding the approximate $ 1.7
+million asset impairment. In addition, the Company needs to resolve its largest debt obligation which matures on
+July 1, 2024.
+Management has evaluated the significance of these conditions and has determined that the Company can meet its operating obligations for a reasonable period of time. The Company expects to fund operations using cash on hand and through operational cash flows through the upcoming
+twelve
+months.
+( 2 ) PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements include the accounts of Track Group, Inc. and its active subsidiaries, Track Group Analytics Limited, Track Group Americas, Inc., Track Group International LTD., and Track Group - Chile SpA. All inter-company transactions have been eliminated in consolidation.
+( 3 ) RECENT ACCOUNTING STANDARDS
+From time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board (“ FASB ”) or other standard setting bodies, which are adopted by the Company as of the specified effective date.
+Recently Issued Accounting Standards
+In
+January 2017,
+the FASB issued Accounting Standards Update (“ ASU ”)
+2017 - 04,
+“ Intangibles
+–
+Goodwill and Other: Simplifying the Test for Goodwill Impairment ” (“ ASU
+2017 - 04 ”). ASU
+2017 - 04
+simplifies the subsequent measurement of goodwill by removing the
+second
+step of the
+two -step impairment test. The amendment requires an entity to perform its annual or interim goodwill impairment test by comparing the fair value of a reporting unit with its carrying amount. An entity still has the option to perform the qualitative assessment for a reporting unit to determine if the quantitative impairment test is necessary. ASU
+2017 - 04
+became effective for accelerated filing companies for annual periods or any interim goodwill impairment tests in fiscal years beginning after
+December 15, 2019,
+and all other entities should adopt the amendments in ASU
+2017 - 04
+for its annual or any interim goodwill impairment tests in fiscal years beginning after
+December 15, 2022.
+The amendment should be applied on a prospective basis. Early adoption is permitted for interim or annual goodwill impairment tests performed on testing dates after
+January 1, 2017.
+The Company will adopt ASU
+2017 - 04
+in fiscal year
+2024.
+The Company does
+not
+anticipate that this adoption will have a significant impact on its consolidated financial position, results of operations, or cash flows.
+In
+June 2016,
+the FASB issued ASU
+2016 - 13,
+“ Measurement of Credit Losses on Financial Instruments ” (“ ASU
+2016 - 03 ”). ASU
+2016 - 13
+adds a current expected credit loss (“ CECL ”) impairment model to GAAP that is based on expected losses rather than incurred losses. Modified retrospective adoption is required with any cumulative-effect adjustment recorded to retained earnings as of the beginning of the period of adoption. ASU
+2016 - 13
+became effective for fiscal years beginning after
+December 15, 2019,
+excluding smaller reporting entities, which will be effective for fiscal years beginning after
+December 15, 2022.
+The Company will adopt ASU
+2016 - 13
+in fiscal year
+2024.
+The Company does
+not
+expect the application of the CECL impairment model to have a significant impact on our allowance for uncollectible amounts for accounts receivable.
+-
+5 -
+( 4 ) IMPAIRMENT OF LONG-LIVED ASSETS
+The Company reviews its long-lived assets for impairment when events or changes in circumstances indicate that the book value of an asset
+may
+not
+be recoverable and in the case of goodwill, at least annually. The Company evaluates whether events and circumstances have occurred which indicate possible impairment as of each balance sheet date. If the carrying amount of an asset exceeds its fair value, an impairment charge is recognized for the amount by which the carrying amount exceeds the estimated fair value of the asset. Impairment of long-lived assets is assessed at the lowest levels for which there is an identifiable fair value that is independent of other groups of assets.
+( 5 ) BUSINESS COMBINATIONS
+The Company accounts for its business acquisitions under the acquisition method of accounting as indicated in Accounting Standards Codification (“ ASC ”) Topic
+805,
+“ Business Combinations ” (“ ASC
+805 ”), which requires the acquiring entity in a business combination to recognize the fair value of all assets acquired, liabilities assumed and any non-controlling interest in the acquiree, and establishes the acquisition date as the fair value measurement point. Accordingly, the Company recognizes assets acquired and liabilities assumed in business combinations, including contingent assets and liabilities and non-controlling interest in the acquiree, based on fair value estimates as of the date of acquisition. In accordance with ASC
+805,
+the Company recognizes and measures goodwill as of the acquisition date, as the excess of the fair value of the consideration paid over the fair value of the identified net assets acquired.
+Acquired Assets and Assumed Liabilities
+Pursuant to ASC
+805 - 10 - 25,
+if the initial accounting for a business combination is incomplete by the end of the reporting period in which the combination occurs, but during the allowed measurement period
+not
+to exceed
+one
+year from the acquisition date, the Company retrospectively adjusts the provisional amounts recognized at the acquisition date, by means of adjusting the amount recognized for goodwill.
+Contingent Consideration
+In certain acquisitions, the Company has agreed to pay additional amounts to the seller contingent upon achievement by the acquired businesses of certain future goals, which
+may
+include revenue milestones, new customer accounts and earnings targets. The Company records contingent consideration based on its estimated fair value as of the date of the acquisition. The Company evaluates and adjusts the value of contingent consideration, if necessary, at each reporting period based on the progress toward and likely achievement of certain targets on which issuance of the contingent consideration is based. Any differences between the acquisition-date fair value and the changes in fair value of the contingent consideration subsequent to the acquisition date are recognized in current period earnings until the arrangement is settled. If there is uncertainty surrounding the value of contingent consideration, then the Company’s policy is to wait until the end of the measurement period before making an adjustment.
+( 6 ) ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+Comprehensive income (loss) includes net income (loss) as currently reported under GAAP and other comprehensive income (loss). Other comprehensive income (loss) considers the effects of additional economic events, such as foreign currency translation adjustments, that are
+not
+required to be recorded in determining net income (loss), but rather are reported as a separate component of stockholders’ equity. The Chilean Peso, New Israeli Shekel and the Canadian Dollar are used as functional currencies of the following operating subsidiaries: (i) Track Group Chile SpA; (ii) Track Group International Ltd.; and (iii) Track Group Analytics Limited, respectively. The balance sheets of all subsidiaries have been converted into United States Dollars at the prevailing exchange rate at
+December 31, 2022.
+( 7 ) NET INCOME (LOSS) PER COMMON SHARE
+Basic net income (loss) per common share (“ Basic EPS ”) is computed by dividing net income (loss) available to common stockholders by the weighted average number of common shares outstanding during the period.
+Diluted net income (loss) per common share (“ Diluted EPS ”) is computed by dividing net income (loss) attributable to common stockholders by the sum of the weighted-average number of common shares outstanding and the weighted-average dilutive common share equivalents outstanding. The computation of Diluted EPS does
+not
+assume exercise or conversion of securities that would have an anti-dilutive effect.
+Common share equivalents consist of shares issuable upon the exercise of options to purchase shares of the Company’s common stock, $ 0.0001
+par value per share (“ Common Stock ”) (“ options ”) and warrants to purchase Common Stock (“ warrants ”). As of
+December 31, 2022
+and
+2021,
+there were
+160,881
+and
+15,000
+of outstanding common share equivalents that were
+not
+included in the computation of Diluted EPS for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively, as their effect would be anti-dilutive.
+At
+December 31, 2022
+all stock options and warrants had exercise prices that were above the market price of $ 0.35 , and have been excluded from the diluted earnings per share calculations. At
+December 31, 2021,
+415,511
+stock options and warrants had exercise prices that were below the market price of $ 2.28 , and have been included in the diluted earnings per share calculations.
+-
+6 -
+The common stock equivalents outstanding as of
+December 31, 2022
+and
+2021
+consisted of the following:
+December 31,
+December 31,
+2022
+2021
+Issuable common stock options and warrants
+160,881       430,511
+Total common stock equivalents
+160,881       430,511
+( 8 ) REVENUE RECOGNITION
+Monitoring and Other Related Services.
+Monitoring services include
+two
+components: (i) lease contracts pursuant to which the Company provides monitoring services and lease devices to distributors or end users and the Company retains ownership of the leased device; and (ii) monitoring services purchased by distributors or end users who have previously purchased monitoring devices and opt to use the Company’s monitoring services. Sales of devices and leased GPS devices are required to use the Company’s monitoring service and both the GPS leased devices and monitoring services are accounted for as a single performance obligation. Monitoring revenue is recognized ratably over time, as the customer simultaneously receives and consumes the benefit of these services as they are performed. Payment due or received from the customers prior to rendering the associated services are recorded as deferred revenue.
+The balance of accounts receivables at
+December 31, 2022
+of $ 5,782,098
+includes an unbilled balance of $ 695,346
+and the balance of accounts receivable at
+September 30, 2022
+of $ 6,236,555
+includes an unbilled balance of $ 777,514 . The balance of accounts receivable at
+September 30, 2021
+of $ 7,163,615
+includes an unbilled balance of $ 420,697 . The balances of the deferred revenue at
+December 31, 2022,
+September 30, 2022
+and
+September 30, 2021
+are $ 2,010 , $ 3,299 , and $ 22,500 , respectively and were included in accrued liabilities on the Condensed Consolidated Balance Sheets. The Company recognized $ 3,012
+and $ 7,500
+of deferred revenue in the
+three
+months ended
+December 31, 2022
+and
+December 31, 2021,
+respectively.
+Product Sales and Other.
+The Company sells devices and replacement parts to customers under certain contracts, as well as law enforcement software licenses and maintenance, and analytical software. Revenue from the sale of devices and parts is recognized upon their transfer of control to the customer, which is generally upon delivery. Delivery is considered complete at either the time of shipment or arrival at destination, based on the agreed upon terms within the contract. Payment terms are generally
+30
+days from invoice date.
+Multiple Element Arrangements.
+The majority of our revenue transactions do
+not
+have multiple elements. However, on occasion, the Company
+may
+enter into revenue transactions that have multiple elements. These
+may
+include different combinations of products or services that are included in a single billable rate. These products or services are delivered over time as the customer utilizes our services. In cases where obligations in a contract are distinct and thus require separation into multiple performance obligations, revenue recognition guidance requires that contract consideration be allocated to each distinct performance obligation based on its relative standalone selling price. The value allocated to each performance obligation is then recognized as revenue when the revenue recognition criteria for each distinct promise or bundle of promises has been met.
+The standalone selling price for each performance obligation is an amount that depicts the amount of consideration to which the entity expects to be entitled in exchange for transferring the good or service. When there is only
+one
+performance obligation associated with a contract, the entire sale value is attributed to that obligation. When a contract contains multiple performance obligations the transaction value is
+first
+allocated using the observable price, which is generally a list price net of applicable discount, or the price used to sell in similar circumstances. In circumstances when a selling price is
+not
+directly observable, the Company will estimate the standalone selling price using information available to us.
+The following table presents the Company’s revenue by geography, based on management’s assessment of available data:
+Three Months Ended
+December 31, 2022
+Three Months Ended
+December 31, 2021
+Total
+Revenue
+% of Total
+Revenue
+Total
+Revenue
+% of Total
+Revenue
+United States
+$ 6,102,350       69 %     $ 6,907,260       72 %
+Latin America
+2,282,372       26 %       2,551,722       27 %
+Other
+470,969       5 %       136,674       1 %
+Total
+$ 8,855,691       100 %     $ 9,595,656       100 %
+The above table includes total revenue for the Company, of which monitoring and other related services is the majority (approximately
+94 % and
+99 % for the
+three
+months ended
+December 31, 2022,
+and
+2021,
+respectively) of the Company’s revenue. Latin America includes the Bahamas, Chile, Puerto Rico, Panama and the U.S. Virgin Islands, and other includes Canada and Saudi Arabia.
+-
+7 -
+( 9 ) PREPAID EXPENSE AND DEPOSITS
+As of
+December 31, 2022,
+and
+September 30, 2022,
+the outstanding balance of prepaid expense and deposits was $ 736,619
+and $ 769,006 , respectively. These balances are comprised largely of tax deposits, vendor deposits and other prepaid supplier expense.
+( 10 ) INVENTORY
+Inventory is valued at the lower of the cost or net realizable value. Cost is determined using the
+first -in/first-out method. Net realizable value is determined based on the item selling price. Inventory is periodically reviewed in order to identify obsolete or damaged items or impaired values.
+Inventory primarily consists of completed circuit boards used to manufacture new devices. Completed and shipped ReliAlert™ devices are reflected in Monitoring Equipment.  As of
+December 31, 2022
+and
+September 30, 2022,
+inventory consisted of the following:
+December 31,
+2022
+September 30,
+2022
+Monitoring equipment component boards inventory
+$ 747,207     $ 1,053,245
+Reserve for damaged or obsolete inventory
+-       -
+Total inventory, net of reserves
+$ 747,207     $ 1,053,245
+The Company uses a
+third -party fulfillment service provider. As a result of this service, the Company’s employees do
+not
+actively assemble new products or repair a significant amount of monitoring equipment shipped directly from suppliers. Purchases of monitoring equipment are recognized directly. Management believes this process reduces maintenance and fulfillment costs associated with inventory and monitoring equipment.
+( 11 ) PROPERTY AND EQUIPMENT
+Property and equipment consisted of the following as of
+December 31, 2022
+and
+September 30, 2022:
+December 31,
+2022
+September 30,
+2022
+Equipment, software and tooling
+$ 1,412,675     $ 1,399,288
+Automobiles
+4,706       4,187
+Leasehold improvements
+383,502       380,586
+Furniture and fixtures
+219,010       215,856
+Total property and equipment before accumulated depreciation
+2,019,893       1,999,917
+Accumulated depreciation
+( 1,863,916 )     ( 1,829,588
+)
+Property and equipment, net of accumulated depreciation
+$ 155,977     $ 170,329
+Property and equipment depreciation expense for the
+three
+months ended
+December 31, 2022
+and
+2021
+was $ 23,595
+and $ 38,627 , respectively.
+( 12 ) MONITORING EQUIPMENT
+The Company leases monitoring equipment to agencies for offender tracking under contractual service agreements. The monitoring equipment is amortized using the straight-line method over an estimated useful life of between
+three
+and
+five
+years. Monitoring equipment as of
+December 31, 2022
+and
+September 30, 2022
+was as follows:
+December 31,
+2022
+September 30,
+2022
+Monitoring equipment
+$ 11,428,234     $ 9,574,740
+Less: accumulated depreciation
+( 6,123,281 )     ( 5,950,639
+)
+Monitoring equipment, net of accumulated depreciation
+$ 5,304,953     $ 3,624,101
+Depreciation of monitoring equipment for the
+three
+months ended
+December 31, 2022
+and
+2021
+was $ 342,068
+and $ 393,781 , respectively. Depreciation expense for monitoring devices is recognized in cost of revenue. During the
+three
+months ended
+December 31, 2022
+and
+2021,
+the Company recorded charges of $ 66,644
+and $ 99,297 , respectively, for devices that were lost, stolen or damaged. Lost, stolen and damaged items are included in Monitoring, products & other related service costs in the Condensed Consolidated Statements of Operations.
+-
+8 -
+( 13 ) INTANGIBLE ASSETS
+The following table summarizes intangible assets at
+December 31, 2022
+and
+September 30, 2022,
+respectively:
+December 31,
+2022
+September 30,
+2022
+Patent & royalty agreements
+$ 21,120,565     $ 21,120,565
+Developed technology
+9,494,667       9,206,006
+Trade name
+139,541       139,115
+Total intangible assets
+30,754,773       30,465,686
+Accumulated amortization
+( 15,484,212 )     ( 14,804,269
+)
+Intangible assets, net of accumulated amortization
+$ 15,270,561     $ 15,661,417
+The intangible assets summarized above were purchased or developed on various dates from
+July 2011
+through
+December 31, 2022.
+Amortization expense for the
+three
+months ended
+December 31, 2022
+and
+2021
+was $ 655,066
+and $ 848,242 , respectively and is included in cost of revenue and operating expense on the Condensed Consolidated Statements of Operations.
+( 14 ) GOODWILL
+The following table summarizes the activity of goodwill at
+December 31, 2022
+and
+September 30, 2022,
+respectively:
+December 31,
+2022
+September 30,
+2022
+Balance - beginning of year
+$ 8,061,002     $ 8,519,998
+Effect of foreign currency translation on goodwill
+52,306       ( 458,996 )
+Balance - end of year
+$ 8,113,308     $ 8,061,002
+Goodwill is recognized in connection with acquisition transactions in accordance with ASC
+805.
+The Company performs an impairment test for goodwill annually or more frequently if indicators of potential impairment exist.
+No
+impairment of goodwill was recognized through
+December 31, 2022.
+( 15 ) OTHER ASSETS
+As of
+December 31, 2022
+and
+September 30, 2022 ,
+respectively, the balance of other assets was $ 3,714,629
+and $ 3,509,655 , respectively. Other assets at
+December 31, 2022
+are comprised largely of cash used as collateral for Performance Bonds as well as contractually required monitoring center and other equipment, right of use assets, lease deposits and other long-term assets. The Company anticipates these performance bonds will be reimbursed to the Company upon completion of its contracts with the customer. See Note
+23.
+The Company is contractually obligated to construct and equip
+two
+monitoring centers for an international customer, as well as supply equipment for the customer’s satellite locations, which will be owned by the customer when construction is completed. The Santiago and Puerto Montt monitoring centers cost amortization is recorded in Monitoring, products and other related service costs on the Condensed Consolidated Statements of Operations. Amortization of costs related to the Santiago and Puerto Montt monitoring centers for the
+three
+months ended
+December 31, 2022
+were $ 133,304 . The Company will record revenue from the customer based on a contractually agreed upon unit per day amount during the contract period. See Note
+19
+for details of the borrowings related to the monitoring centers construction and equipment.
+( 16 ) LEASES
+The following table shows right of use assets and lease liabilities and the associated financial statement line items as of
+December 31, 2022
+and
+September 30, 2022.
+December 31, 2022
+September 30, 2022
+Operating lease
+asset
+Operating lease liability
+Operating lease
+asset
+Operating lease liability
+Other assets
+$ 540,979     $ -     $ 575,716     $ -
+Accrued liabilities
+-       174,605       -       177,431
+Long-term liabilities
+-       366,374       -       398,285
+-
+9 -
+The following table summarizes the supplemental cash flow information for the
+three
+months ended
+December 31, 2022
+and
+2021:
+December 31,
+2022
+December 31,
+2021
+Cash paid for noncancelable operating leases included in operating cash flows
+$ 69,992     $ 67,276
+Right of use assets obtained in exchange for operating lease liabilities
+$ 5,459     $ 78,458
+The future minimum lease payments under noncancelable operating leases with terms greater than
+one
+year as of
+December 31, 2022
+are:
+Operating
+Leases
+From January 2023 to December 2023
+$ 193,683
+From January 2024 to December 2024
+139,837
+From January 2025 to December 2025
+93,029
+From January 2026 to December 2026
+94,623
+From January 2027 to December 2027
+63,898
+Thereafter
+483
+Undiscounted cash flow
+585,553
+Less: imputed interest
+( 44,574
+)
+Total
+$ 540,979
+Reconciliation to lease liabilities:
+Lease liabilities - current
+$ 174,605
+Lease liabilities - long-term
+366,374
+Total lease liabilities
+$ 540,979
+The weighted-average remaining lease term and discount rate related to the Company’s lease liabilities as of
+December 31, 2022
+were
+3.8
+years and
+4.0 %, respectively. The Company’s lease discount rates are generally based on the estimates of its incremental borrowing rate as the discount rates implicit in the Company’s leases cannot be readily determined.
+( 17 ) ACCRUED LIABILITES
+Accrued liabilities consisted of the following as of
+December 31, 2022
+and
+September 30, 2022 :
+December 31,
+2022
+September 30,
+2022
+Accrued payroll, taxes and employee benefits
+$ 1,353,387     $ 1,412,055
+Deferred revenue
+2,010       3,299
+Accrued taxes - foreign and domestic
+174,881       371,293
+Accrued other expense
+132,359       123,752
+Accrued legal and other professional costs
+43,831       57,905
+Accrued costs of revenue
+473,018       352,060
+Right of use liability
+174,605       177,431
+Deferred financing fees
+-       88,685
+Accrued interest
+880,882       455,963
+Total accrued liabilities
+$ 3,234,973     $ 3,042,443
+( 18 ) RELATED PARTIES
+ETS Limited is currently the beneficial owner of
+4,871,745
+shares of the Company's Common Stock (the “ Track Group Shares ”) held by ADS Securities LLC (“ ADS ”) under an agreement dated
+September 28, 2017,
+pursuant to which ADS transferred all of the Track Group Shares to ETS Limited in exchange for all of the outstanding shares of ETS Limited. A Director of ETS Limited was elected to the Company's current Board of Directors (the “ Board ”) on
+February 7, 2018
+and is still serving on the Board in his current capacity as a senior executive at ADS.
+-
+10 -
+( 19 ) DEBT OBLIGATIONS
+Debt obligations, net of debt issuance costs, as of
+December 31, 2022
+and
+September 30, 2022,
+consisted of the following:
+December 31,
+2022
+September 30,
+2022
+The unsecured loan (the “Amended Facility Agreement”) from Conrent Invest S.A. (“Conrent”) whereby, as of March 1, 2021, the Company had borrowed $ 42,864,000 , bearing interest at a rate of
+4%
+per annum, payable in arrears annually beginning July 1, 2021, with all principal and accrued and unpaid interest due on July 1, 2024. Interest payments are scheduled to be made on June 30 and December 31 each year. Unamortized issuance costs at December 31, 2022 are $ 166,400 . As of December 31,2022 $ 42,864,000
+of principal and $ 876,331
+of interest was owed to Conrent. The Company paid Conrent the interest of $ 876,331
+on January 10, 2023.
+$ 42,697,600     $ 42,653,649
+The unsecured Note Payable Agreement with HP Financial Services Chile Limitada bearing interest at a rate of
+6.56%
+per annum, with a maturity date of February 6, 2024.
+32,969       35,335
+The unsecured Note Payable Agreement with Banco Santander, net of unamortized issuance costs of $ 10,844 , bearing interest at a rate of
+5.04%
+per annum, with a maturity date of May 11, 2024.
+170,664       177,463
+The unsecured Note Payable Agreement with Banco Estado, net of unamortized issuance costs of $ 6,775 , bearing interest at a rate of
+3.50%
+per annum, with a maturity date of January 2, 2024.
+124,324       135,521
+The unsecured Note Payable Agreement with HP Financial Services Chile Limitada bearing interest at a rate of
+6.61%
+per annum, with a maturity date of March 4, 2024.
+74,947       79,375
+The unsecured Note Payable Agreement with Banco de Chile, net of unamortized issuance costs of $ 151 , bearing interest at a rate of
+2.54%
+per annum, with a maturity date of March 4, 2024.
+48,178       51,278
+The unsecured Note Payable Agreement with Banco de Chile, net of unamortized issuance costs of $ 17,439 , bearing interest at a rate of
+3.12%
+per annum, with a maturity date of February 17, 2025.
+306,843       303,303
+Total debt obligations
+43,455,525       43,435,924
+Less: current portion
+( 518,756
+)
+( 456,681
+)
+Long-term debt, less current portion
+$ 42,936,769     $ 42,979,243
+On
+October 21, 2020,
+the Company requested, in writing, an additional extension to the maturity date of the $ 30.4
+million Amended Facility Agreement. On
+November 25, 2020,
+the noteholders who owned the securities from Conrent used to finance the Amended Facility Agreement (the “ Noteholders ”) held a meeting to address the Company’s request and approved a new maturity date of
+July 1, 2024.
+On
+December 21, 2020,
+Conrent and the Company signed an amendment to the Amended Facility Agreement which extends the maturity date of the Amended Facility Agreement to
+July 1, 2024 (“ Amended Facility ”), capitalizes the accrued and unpaid interest increasing the outstanding principal amount and reduces the interest rate of the Amended Facility from
+8 % to
+4 %. On
+March 1, 2021,
+Conrent completed their documentation and the updated registration process to implement these changes and the Company transferred $ 12,531,556
+of accrued interest to the Amended Facility for total principal of $ 42,931,556 . Conrent forgave $ 67,556
+of the total amount due and the principal and interest due under the Amended Facility became $ 42,864,000 . Interest payments are scheduled to be made on
+June 30
+and
+December 31
+each year, which began
+June 30, 2021.
+We began amortizing deferred financing fees of approximately $ 360,000
+on
+July 1, 2021.
+As of
+December 31, 2022,
+$ 42,864,000
+of principal and $ 876,331
+of interest was owed to Conrent. The Company paid Conrent the interest of $ 876,331
+on
+January 10, 2023.
+On
+January 6, 2021,
+the Company borrowed
+70,443,375
+Chilean Pesos (“ CLP ”) ( $101,186USD ) from HP Financial Services Chile Limitada (the “ HP Note
+1 ”). To facilitate the HP Note
+1,
+the Company entered into a Note Payable Agreement with HP Financial Services Chile Limitada as the lender. The HP Note
+1
+was used to purchase PABX (private automatic branch exchange phone equipment) for the construction of the Gendarmeria de Chile monitoring centers in Santiago and Puerto Montt, Chile (the “ Santiago Monitoring Center ” and “ Puerto Montt Monitoring Center ”, respectively). The HP Note
+1
+bears an interest rate of
+6.56 % per annum, payable monthly with principal beginning
+February 2021,
+and a maturity date of
+February 6, 2024.
+-
+11 -
+On
+January 12, 2021,
+the Company borrowed
+347,198,500 CLP
+( $482,965USD ), net of
+2,801,500 CLP
+fees ( $3,897USD ), from Banco Santander (the “ Banco Santander Note ”). To facilitate the Banco Santander Note, the Company entered into a Note Payable Agreement with Banco Santander as the lender. The Banco Santander Note was used for the construction of the Santiago Monitoring Center and remodeling a temporary monitoring center. The Banco Santander Note bears interest at a rate of
+5.04 % per annum, payable monthly with principal beginning
+February 2021,
+and a maturity of
+May 11, 2024.
+The Company also paid
+19,607,843 CLP
+( $27,275USD ) in broker fees which are amortized over the life of the loan.
+On
+February 2, 2021,
+the Company borrowed
+247,999,300 CLP
+( $338,954USD ), net of
+2,000,700 CLP
+fees ( $2,734USD ), from Banco Estado (the “ Banco Estado Note ”). To facilitate the Banco Estado Note, the Company entered into a Note Payable Agreement with Banco Estado as the lender. The Banco Estado Note was used for the construction of the Santiago Monitoring Center and computer equipment for Gendarmeria branch offices. The Banco Estado Note bears interest at a rate of
+3.50 % per annum, initially having a
+6 -month grace period with the
+first
+payment including the
+6
+months of interest plus
+1
+month of principal on
+August 2, 2021,
+then monthly interest with principal, and a maturity date of
+January 2, 2024.
+The Company also paid
+14,124,294 CLP
+( $19,304USD ) in broker fees which are amortized over the life of the loan.
+On
+February 4, 2021,
+the Company borrowed
+149,794,432 CLP
+( $205,330USD ) from HP Financial Services Chile Limitada (the “ HP Note
+2 ”). To facilitate the HP Note
+2,
+the Company entered into a Note Payable Agreement with HP Financial Services Chile Limitada as the lender. The HP Note
+2
+was used to purchase computer equipment for the Santiago Monitoring Center. The HP Note
+2
+bears interest at a rate of
+6.61 % per annum, payable monthly with principal beginning
+March 2021,
+and a maturity of
+March 4, 2024.
+On
+February 5, 2021,
+the Company borrowed
+99,808,328 CLP
+( $136,564USD ), net of
+210,485 CLP
+fees ( $286USD ), from Banco de Chile (the “ Banco de Chile Note
+1 ”). To facilitate the Banco de Chile Note, the Company entered into a Note Payable Agreement with Banco de Chile as the lender. The Banco de Chile Note was used to purchase HVAC equipment for the Santiago Monitoring Center. The Banco de Chile Note bears interest at a rate of
+2.54 % per annum, payable monthly with principal beginning
+March 2021,
+and a maturity date of
+March 4, 2024.
+On
+February 15, 2021,
+the Company borrowed
+500,000,000 CLP
+( $678,214USD ) from Banco de Chile (the “ Banco de Chile Note
+2 ”). To facilitate the Banco de Chile Note
+2,
+the Company entered into a Note Payable Agreement with Banco de Chile as the lender. The Banco de Chile Note
+2
+was used as working capital and to complete the construction of the Puerto Montt Monitoring Center. The Banco de Chile Note
+2
+bears interest at a rate of
+3.12 % per annum, payable monthly with principal beginning
+March 2021,
+and a maturity of
+February 17, 2025.
+The Company also paid
+28,248,588 CLP
+( $38,317USD ) in broker fees which are amortized over the life of the loan.
+The following table summarizes our future maturities of debt obligations, net of the amortization of debt discounts as of
+December 31, 2022:
+Twelve months ended December 31:
+Total
+2023
+$ 518,756
+2024
+43,112,642
+2025
+25,736
+2026
+-
+Total
+43,657,134
+Issuance costs
+( 201,609 )
+Debt obligations, net of unamortized issuance costs
+$ 43,455,525
+( 20 ) PREFERRED AND COMMON STOCK
+The Company is authorized to issue up to
+30,000,000
+shares of Common Stock and up to
+20,000,000
+shares of preferred stock, $ 0.0001
+par value per share (“ Preferred Stock ”). The Company’s Board has the authority to amend the Company’s Certificate of Incorporation, without further stockholder approval, to designate and determine, in whole or in part, the preferences, limitations and relative rights of the Preferred Stock before any issuance of the Preferred Stock, and to create
+one
+or more series of Preferred Stock. As of
+December 31, 2022,
+there were
+no
+shares of Preferred Stock outstanding.
+No
+dividends were paid during the
+three
+months ended
+December 31, 2022
+or
+2021,
+respectively.
+-
+12 -
+Series A Convertible Preferred Stock
+On
+October 12, 2017,
+the Company filed a Certificate of Designation of the Relative Rights and Preferences (“ Certificate of Designation ”) with the Delaware Division of Corporations, designating
+1,200,000
+shares of the Company’s Preferred Stock as Series A Preferred (“ Series A Preferred ”). Shares of Series A Preferred rank senior to the Company’s Common Stock, and all other classes and series of equity securities of the Company that by their terms do
+not
+rank senior to the Series A Preferred.
+Except with respect to transactions upon which holders of the Series A Preferred are entitled to vote separately as a class under the terms of the Certificate of Designation, the Series A Preferred has
+no
+voting rights. The shares of Common Stock into which the Series A Preferred is convertible shall, upon issuance, have all of the same voting rights as other issued and outstanding shares of our Common Stock.
+The Series A Preferred has
+no
+separate dividend rights; however, whenever the Board declares a dividend on the Company’s Common Stock, if ever, each holder of record of a share of Series A Preferred shall be entitled to receive an amount equal to such dividend declared on
+one
+share of Common Stock multiplied by the number of shares of Common Stock into which such share of Series A Preferred could be converted on the Record Date.
+Each share of Series A Preferred has a liquidation preference of $ 35.00
+per share, and is convertible, at the holder’s option, into
+ten
+shares of the Company’s Common Stock, subject to adjustments as set forth in the Certificate of Designation, at any time beginning
+five hundred
+and
+forty
+days after the date of issuance.
+As of
+December 31, 2022,
+no
+shares of Series A Preferred were issued and outstanding.
+( 21 ) STOCK OPTIONS AND WARRANTS
+Stock Incentive Plan
+At the annual meeting of stockholders on
+April 13, 2022,
+our stockholders approved the
+2022
+Omnibus Equity Incentive Plan (the “ 2022
+Plan ”), previously approved by the Company’s Board. The
+2022
+Plan provides for the grant of incentive options and nonqualified options, restricted stock, stock appreciation rights, performance shares, performance stock units, dividend equivalents, stock payments, deferred stock, restricted stock units, other stock-based awards and performance-based awards to employees and certain non-employees who provide services to the Company in lieu of cash. A total of
+500,000
+shares are authorized for issuance pursuant to awards granted under the
+2022
+Plan.
+The
+2022
+Plan supersedes and replaces the Company’s
+2012
+Equity Compensation Plan (the “ 2012
+Plan ”). As of
+June 30, 2020,
+the Board suspended further awards under the
+2012
+Plan. Any awards outstanding under the
+2012
+Plan will remain subject to the
+2012
+Plan. All shares of Common Stock remaining authorized and available for issuance under the
+2012
+Plan and any shares subject to outstanding awards under the
+2012
+Plan that subsequently expire, terminate, or are surrendered or forfeited for any reason without issuance of shares will automatically become available for issuance under our
+2022
+Plan.
+On
+April 13, 2022,
+the Company issued
+285,000
+restricted shares to members of its executive team from the
+2022
+Plan valued at $ 370,500 . The Company recorded expense of $ 61,750
+and $ 0
+for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively, related to the
+2022
+Plan. There were
+215,000
+shares of Common Stock available under the
+2022
+Plan as of
+December 31, 2022.
+All Options and Warrants
+The fair value of each stock option and warrant grant is estimated on the date of grant using the Black-Scholes option-pricing model. The Company recorded
+no
+expense for the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively, related to the issuance and vesting of outstanding options and warrants. During the
+three
+months ended
+December 31, 2022
+and
+2021,
+the Company granted
+no
+options or warrants under the
+2012
+Plan. All options and warrants outstanding under the
+2012
+Plan have vested and are exercisable as of
+December 31, 2022.
+The expected life of options (warrants) represents the period of time that the options or warrants are expected to be outstanding based on the simplified method allowed under GAAP. The expected volatility is based on the historical price volatility of the Company’s Common Stock. The risk-free interest rate represents the U.S. Treasury bill rate for the expected life of the related options (warrants). The dividend yield represents the Company’s anticipated cash dividends over the expected life of the options (warrants).
+-
+13 -
+A summary of stock option (warrant) activity for the
+three
+months ended
+December 31, 2022
+is presented below:
+Shares Under Option
+Weighted Average Exercise Price
+Weighted Average Remaining Contractual Life (years)
+Aggregate Intrinsic Value
+Outstanding as of September 30, 2022
+160,881     $ 1.24       0.60     $ 225
+Granted
+-       -               -
+Expired/Cancelled
+-       -               -
+Exercised
+-       -               -
+Outstanding as of December 31, 2022
+160,881     $ 1.24       0.35     $ 0
+Exercisable as of December 31, 2022
+160,881     $ 1.24       0.35     $ 0
+The intrinsic value of options and warrants outstanding and exercisable is based on the Company’s share price of $ 0.35
+at
+December 31, 2022.
+( 22 ) INCOME TAXES
+The Company recognizes deferred income tax assets or liabilities for the expected future tax consequences of events that have been recognized in the financial statements or income tax returns. Deferred income tax assets or liabilities are determined based upon the difference between the financial statement and tax bases of assets and liabilities using enacted tax rates expected to apply when the differences are expected to be settled or realized. Deferred income tax assets are reviewed periodically for recoverability and valuation allowances are provided as necessary. Interest and penalties related to income tax liabilities, when incurred, are classified in interest expense and income tax provision, respectively.
+For the
+three
+months ended
+December 31, 2022
+and
+2021,
+the Company incurred net income (loss) for income tax purposes of $ 36,384
+and $( 305,322 ), respectively. The amount and ultimate realization of the benefits from the net operating losses is dependent, in part, upon the tax laws in effect, our future earnings, and other future events, the effects of which cannot be determined. The Company has established a valuation allowance for all deferred income tax assets
+not
+offset by deferred income tax liabilities due to the uncertainty of their realization. Accordingly, there is
+no
+benefit for income taxes in the accompanying statements of operations.
+In computing income tax, we recognize an income tax provision in tax jurisdictions in which we have pre-tax income for the period and are expecting to generate pre-tax book income during the fiscal year.
+( 23 ) COMMITMENTS AND CONTINGENCIES
+The Company is, from time to time, involved in various legal proceedings incidental to the conduct of our business. Historically, the outcome of nearly all such legal proceedings has
+not ,
+in the aggregate, had a material adverse effect on our business, financial condition, results of operations or liquidity. Other than as set forth below, there are
+no
+additional pending or threatened legal proceedings at this time.
+SecureAlert, Inc. v. Federal Government of Mexico (Department of the Interior).
+On
+March 24, 2017,
+SecureAlert Inc. (a predecessor entity to Track Group, Inc. or the Company) filed a complaint before the Federal Administrative Tribunal, asserting the failure by defendants to pay claimant amounts agreed to, and due under, the Pluri Annual Contract for the Rendering of Monitoring Services of Internees, through Electric Bracelets, in the Islas Marias Penitentiary Complex dated
+July 15, 2011,
+entered into by and between the Organo Administrativo Desconcentrado Prevencion y Readaptacion Social (“ OADPRS ”) of the then Public Security Department, and presently, an agency of the National Security Commission of the Department of the Interior, and SecureAlert, Inc., presently Track Group, Inc. The Company’s claim amount is upwards of $ 6.0
+million. Although preliminary rulings have been unfavorable to the Company, the Company’s counsel continues to review its remaining claims and analyzing its options. Based upon the fee arrangement the Company has with its counsel, we anticipate the future liabilities attributable to legal expense will be minimal.
+Commonwealth of Puerto Rico, through its Trustees v. International Surveillance Services Corporation .
+On
+January 23, 2020,
+the Company was served with a summons for an Adversary Action pending against International Surveillance Services Corporation (“ ISS ”), a subsidiary of the Company, now known as Track Group – Puerto Rico Inc., in the United States District Court for the District of Puerto Rico seeking to avoid and recover allegedly constructive fraudulent transfers and to disallow claims pursuant to United States Bankruptcy and Puerto Rican law. The allegations stem from payments made to ISS between
+2014
+and
+2017,
+which the Company believes were properly made in accordance with a contract between ISS and the government of Puerto Rico, through the Oficina de Servicios con Antelacion a Juicio, originally signed in
+2011.
+The Company is confident that all payments it received were earned and due under applicable law and produced documentation supporting its position in an informal document exchange with the Commonwealth on
+July 6, 2020.
+The parties held a mediation on
+November 1, 2022
+but were unable to reach an agreement but left open the possibility of additional discussions. The Company remains confident in its position and
+no
+accrual for a potential loss has been made, after consultation with legal counsel.
+-
+14 -
+Jeffrey Mohamed Abed v. Track Group, Inc., et al.
+On
+June 7, 2021,
+Jeffrey Mohamed Abed filed a complaint seeking unspecified damages in the Superior Court of the State of California in Case
+No.
+21
+STCV
+21345,
+alleging strict products liability, negligence and breach of implied warranty premised upon injuries sustained by Abed who was involved in an automobile accident while wearing a GPS tracking device of the Company. The Company was served on
+October 15, 2021
+and filed its Answer and Affirmative Defenses on
+November 12, 2021.
+On
+January 11, 2022
+the Company issued discovery, and the discovery process remains ongoing. The Company disputes Abed’s claims and will defend the case vigorously. The Company remains confident in its position and
+no
+accrual for a potential loss has been made, after consultation with legal counsel.
+Track Group Chile SpA. v. Republic of Chile.
+On
+January 24, 2022,
+Track Group Chile SpA. initiated a judicial action in the Court of Justice of Chile to settle a contract dispute with the Republic of Chile. The Company asserts that it has complied with its contractual obligations and that any delays in so doing were
+not
+attributable to the Company. The Company remains confident in its position and
+no
+accrual for a potential loss has been made, after consultation with legal counsel. The case remains pending.
+Jesus Valle Gonzalez, et al. v. Track Group-Puerto Rico, et al.
+On
+May 9, 2022
+Plaintiff Jesus Valle Gonzalez filed a complaint in the Court of First Instance, San Juan Superior Court, Commonwealth of Puerto Rico against the Company, and associated parties alleging the death of his mother on
+June 8, 2016
+was a result of the gross negligence of all the defendants. This claim follows a similar claim made against the Company in
+June 2017
+by different relatives of the deceased which was settled on
+September 5, 2018.
+Plaintiff in this matter asserts his claim now having reached the age of majority and is requesting damages of
+no
+less than $ 1.5
+million. On
+October 5, 2022,
+the Plaintiff voluntarily dismissed the case without prejudice, and refiled the case on
+January 10, 2023.
+The Company disputes the Plaintiff’s claims, and is preparing its Answer and Affirmative Defenses to the re-filed complaint.
+No
+accrual for a potential loss has been made, based on the preliminary stage of the proceedings, after consultation with legal counsel.
+Michael Matthews v. Track Group, Inc., et al.
+On
+December 13, 2022,
+Plaintiff Michael Matthews filed a complaint in the Circuit Court of Cook County, Illinois ( 2022
+L
+011050 ) against the Company and other defendants alleging wrongful arrest and incarceration and a deprivation of his rights following his purportedly erroneous violation of home monitoring program requirements. The Company disputes the allegations of the complaint, has retained counsel, and intends to vigorously defend the case.
+No
+accrual for a potential loss has been made, based on the preliminary stage of the proceedings, after consultation with legal counsel.
+Monitoring Equipment and Other Related Services
+The Company leases monitoring equipment and provides monitoring services to its customers with contract terms varying from month-to-month to several years and each daily contract price varies. Devices supplied to customers are
+not
+serial number unique and a single device
+may
+be used by multiple customers over its useful life. If a leased device is returned for repair, it will likely be replaced with a different device from a different customer or possibly a new device.
+The Company’s tracking devices are considered operating leases under ASC
+842
+as transfer of control of the asset does
+not
+occur at the end of the lease, a single device is
+not
+specific to a customer and devices
+may
+be used by multiple customers throughout their life cycle. Due to the movement of devices from customer to customer, relatively few long-term contracts, the measurement of the equipment life and the present value of the equipment’s fair values would
+not
+be a measurement to qualify the devices as sales-type leases.
+Operating lease and monitoring revenue associated with the Company’s monitoring equipment for the
+three
+months ended
+December 31, 2022
+and
+2021
+are shown in the table below:
+Three months ended December 31,
+2022
+2021
+Monitoring equipment and services operating revenue
+$ 6,977,443     $ 7,994,457
+-
+15 -
+Performance Bonds
+As of
+December 31, 2022,
+the Company has
+two
+performance bonds in connection with a foreign customer totaling $ 2,338,299 , (“ Performance Bonds ”) of which $ 1,670,043
+is held in an interest-bearing account on behalf of the customer. The remaining amount of $ 668,256
+is guaranteed by a foreign financial institution on behalf of the Company. The amounts held on the
+two
+Performance Bonds will be released after the expiration of the Performance Bonds and the consent of the customer, as follows: $ 284,578
+in calendar year
+2023,
+recorded in other current assets on the Condensed Consolidated Balance Sheets and $ 1,346,746
+in calendar year
+2024,
+recorded in other assets on the Condensed Consolidated Balance Sheets.
+In
+March 2021,
+the Company placed a $ 653,220
+deposit into an interest-bearing account with a financial institution to replace the performance bond expiring on
+July 2, 2024,
+whereby the portion guaranteed by the financial institution will increase from
+30 % to
+65 % of the total bond. The current bond expiring
+July 2, 2024
+will be released upon acceptance by the foreign customer.
+The Company pays interest on the full amount of the Performance Bonds to the financial institution providing the guarantee at
+3.5 % interest per annum for the Performance Bond which will expire in
+January 2023
+and
+2.8 % interest per annum for the Performance Bond expiring in
+July 2024.
+The Company recorded interest expense for the
+three
+months ended
+December 31, 2022
+and
+December 31, 2021
+of $ 31,525
+and $ 32,145 , respectively.
+( 24 ) SUBSEQUENT EVENTS
+In accordance with the Subsequent Events Topic of the FASB ASC
+855,
+we have evaluated subsequent events through the filing date and noted
+no
+subsequent events that are reasonably likely to impact the financial statements.
+-
+16 -
+Item 2. Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q (this
+“ Quarterly Report ” , or, this
+“ Report ” ) contains information that constitutes
+“ forward-looking statements ”
+within the meaning of the Private Securities Litigation Reform Act of 1995 and Section 21E of the Securities Exchange Act of 1934, as amended (the
+“ Exchange Act ” ). Generally, the statements contained in this Report that are not purely historical can be considered to be
+“ forward-looking statements ” . These statements represent our expectations, hopes, beliefs, anticipations, commitments, intentions, and strategies regarding the future. They may be identified by the use of words or phrases such as
+“ believes ” ,
+“ expects ” ,
+“ intends ” ,
+“ anticipates ” ,
+“ should ” ,
+“ plans ” ,
+“ estimates ” ,
+“ projects ” ,
+“ potential ” , and
+“ will ”
+among others. Forward-looking statements include, but are not limited to, statements contained in Management ’ s Discussion and Analysis of Financial Condition and Results of Operations regarding our financial performance, revenue, and expense levels in the future and the sufficiency of our existing assets to fund future operations and capital spending needs. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. In addition, forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from our historical experience and our present expectations or projections. These risks and uncertainties include, but are not limited to, those described in
+“ Risk Factors ”
+in our most recent Annual Report on Form 10-K, and those described from time to time in our reports filed with the Securities and Exchange Commission ( “ SEC ” ).
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and notes thereto that are contained in this Report, as well as Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended September 30, 2022, and Current Reports on Form 8-K that have been filed with the SEC through the date of this Report. Except as otherwise indicated, as used in this Report, the terms the “ Company ”, “ Track Group ”, “ we ”, “ our ”, and “ us ” refer to Track Group, Inc., a Delaware corporation.
+General
+Our business is based on the leasing of patented tracking and monitoring solutions to federal, state and local law enforcement agencies, both in the U.S. and abroad, for the electronic monitoring of offenders and offering unique data analytics services on a platform-as-a-service (“ PaaS ”) business model. Currently, the Company deploys offender-based management services that combine patented GPS tracking technologies, full-time 24/7/365 global monitoring capabilities, case management, and proprietary data analytics. The Company offers customizable tracking solutions that leverage real-time tracking data, best-practices monitoring, and analytics capabilities to create complete, end-to-end tracking solutions.
+Devices
+- Our devices consist principally of the ReliAlert® product line. These devices are generally leased on a daily rate basis and may be combined with our monitoring center services, proprietary software and data analytics subscription to provide an end-to-end PaaS.
+ReliAlert®XC4 is our flagship GPS device, which is among the safest and most reliable monitoring devices ever made and was certified in 2020 by the Federal Communications Commission and PCS Type Certification Review Board. It is the only one-piece GPS device with patented 3-way voice communication to assist intervention efforts, now on the LTE network with increased battery life. This device includes on-board processing, secondary location technology, a 95db siren, embedded RF technology, anti-tampering capability, increased battery life and sleep mode.
+ReliAlert®-XC 3 is our predecessor device which had advanced features enable agencies to effectively track offender movements and communicate directly with offenders in real-time, through a patented, on-board two/three-way voice communication technology. This device includes an enhanced GPS antenna and GPS module for higher sensitivity GPS, enhanced voice audio quality, increased battery performance of 50+ hours, 3G cellular capabilities, improved tamper sensory, and durability enhancements.
+Monitoring Center Services
+- Our monitoring centers provide live 24/7/365 monitoring of all alarms generated from our devices, as well as customer and technical support. Our monitoring center operators play a vital role, and as such, are staffed with highly trained, bi-lingual individuals. These operators act as an extension of agency resources receiving alarms, communicating and intervening with offenders regarding violations and interacting with supervision staff, all pursuant to agency-established protocols. The facilities have redundant power source, battery backup and triple redundancy in voice, data and IP. We have assisted in the establishment of monitoring centers for customers and local partners in the United States, Chile and other global locations.
+Data Analytics Services
+- Our IntelliTrack, TrackerPAL® software, IntelliTrack Mobile, TrackerPAL® Mobile, combined with our Data Analytic analysis tools, provide an integrated platform allowing case managers and law enforcement officers quick access views of an offender’s travel behavior, mapping, and inference on patterns. Our data analytics services help facilitate the discovery and communication of meaningful patterns in diverse locations and behavioral data that helps agencies reduce risks and improve decision making. Our analytics applications use various combinations of statistical analysis procedures, data and text mining and predictive modeling to proactively analyze information on community-released offenders to discover hidden relationships and patterns in their behaviors and to predict future outcomes.
+Other Services
+- The Company offers smartphone applications specifically designed for the criminal justice market, including a domestic violence app that creates a mobile geo-zone around a survivor and an alcohol monitoring app linked to a police-grade breathalyzer.
+-17-
+Business Strategy
+We are committed to helping our customers improve offender rehabilitation and re-socialization outcomes through our innovative hardware, software and services. We treat our business as a service business. Although we still manufacture patented tracking technology, we see the physical goods as only a small part of the integrated offender monitoring solutions we provide. Accordingly, rather than receiving a payment just for a piece of manufactured equipment, the Company receives a recurring stream of revenue for ongoing device agnostic subscription contracts. As part of our strategy, we continue to expand our device-agnostic platform to not only collect, but also store, analyze, assess and correlate location data for both accountability and auditing reasons, as well as to use for predictive analytics and assessment of effective and emerging techniques in criminal behavior and rehabilitation. We believe a high-quality customer experience along with knowledgeable salespeople who can convey the value of our products and services greatly enhances our ability to attract and retain customers. Therefore, our strategy also includes building and expanding our own direct sales force and our third-party distribution network to effectively reach more customers and provide them with a world-class sales and post-sales support experience. In addition, we are developing related-service offerings to address adjacent market opportunities in both the public and private sectors. We believe continual investment in research and development (“ R&D ”), including smartphone applications and other monitoring services is critical to the development and sale of innovative technologies and integrated solutions today and in the future.
+Critical Accounting Policies
+From time to time, management reviews and evaluates certain accounting policies that are considered to be significant in determining our results of operations and financial position.
+A description of the Company’s critical accounting policies that affect the preparation of the Company’s financial statements is set forth in the Company’s Annual Report on Form 10-K for the year ended September 30, 2022, filed with the SEC on December 16, 2022. During the three months ended December 31, 2022, there have been no material changes to the Company’s critical accounting policies.
+The preparation of financial statements requires management to make significant estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expense. By their nature, these judgments are subject to an inherent degree of uncertainty. We assess the reasonableness of our estimates, including those related to bad debts, inventories, right of use assets, estimated useful lives, intangible assets, warranty obligations, product liability, revenue, legal matters and income taxes. We base our estimates on historical experience as well as available current information on a regular basis. Management uses this information to form the basis for making judgments about the carrying value of assets and liabilities. Actual results may differ from these estimates under different assumptions or conditions.
+Government Regulation
+Our operations are subject to various federal, state, local and international laws and regulations. We are not involved in any pending or, to our knowledge, threatened governmental proceedings, which would require curtailment of our operations because of such laws and regulations.
+The COVID-19 pandemic has adversely impacted both the Company’s revenue and costs in the past by disrupting its operations in Chile, causing shortages within the supply chain and postponing certain sales opportunities as some government agencies delay new RFP (Request for Proposal) processes or decisions. Notwithstanding the challenges, the monitoring being performed by the Company’s significant customers across the globe have remained operational, as have key business partners providing manufacturing and call center services, and at this time the Company has not experienced unusual payment interruptions from any large customers. In addition, both our Chile office and the corporate headquarters in the greater-Chicago area have been open nearly fifteen months. However, the Company is operating in a rapidly changing environment, and the extent to which COVID-19 impacts its business, operations and financial results going forward will depend on numerous evolving factors that the Company cannot accurately predict. Those factors include: the duration and scope of the pandemic; governmental, business and individuals’ actions that have been and continue to be taken in response to the pandemic; the development of widespread testing or a vaccine; the ability of our supply chain to meet the Company’s need for equipment; the ability to sell and provide services and solutions if shelter in place restrictions and people working from home are extended to ensure employee safety; the volatility of foreign currency exchange rates and the subsequent effect on international transactions; and any closures of clients’ offices or the courts on which they rely.
+-18-
+Results of Operations
+Three Months Ended December 31, 2022 Compared to Three Months Ended December 31, 2021
+Revenue
+For the three months ended December 31, 2022, the Company recognized total revenue from operations of $8,855,691 compared to $9,595,656 for the three months ended December 31, 2021, a decrease of $739,965 or approximately 8%. The decrease in monitoring revenues is driven principally by fluctuations in court proceedings where active devices are assigned to customers in Illinois, California, the Bahamas and Canada, partially offset by an increase in monitoring revenues for customers in Nevada and Panama.
+Product sales and other revenue for the three months ended December 31, 2022 increased to $565,909 from $125,927 in the same period in 2021, an increase of $439,982 or approximately 349%, primarily due to a periodic purchase from a partner in Saudi Arabia.
+The industry in which the Company operates, as well as many other industries (automotive, consumer products and medical devices), have been impacted by the global semiconductor shortage. The availability of semiconductor parts has improved significantly in the second half of calendar 2022; however, long lead times remain with certain parts. As a result, until such time as chip manufacturers are able to meet global demand, our future operating results may be negatively impacted.
+Cost of Revenue
+During the three months ended December 31, 2022, cost of revenue totaled $4,675,013 compared to cost of revenue during the three months ended December 31, 2021 of $4,795,427, a decrease of $120,414 or approximately 3%. The decrease in cost of revenue was largely the result of lower depreciation and amortization costs of $90,830, lower monitoring center costs of $90,352, lower outside services costs of $48,876, partially offset by higher server costs of $40,457 and higher device repair costs of $74,797.
+Depreciation and amortization included in cost of revenue for the three months ended December 31, 2022 and 2021 totaled $773,019 and $863,849, respectively, a decrease of $90,830. These costs represent the depreciation of ReliAlert® and other monitoring devices, as well as the amortization of monitoring software and certain royalty agreements. The decrease in depreciation and amortization costs is largely due to a decrease in software amortization of our new software monitoring platform and other new software initiatives of $39,118, as well as a decrease in device depreciation expense of $51,712. Devices are depreciated over either a three- or five-year useful life. Monitoring software is amortized over a seven-year life. Royalty agreements are being amortized over a ten-year useful life. The Company believes these lives are appropriate due to changes in electronic monitoring technology and the corresponding potential for obsolescence. Management periodically assesses the useful life of the devices for appropriateness.
+Gross Profit and Margin
+During the three months ended December 31, 2022, gross profit totaled $4,180,678, resulting in a gross margin of approximately 47%. During the three months ended December 31, 2021, gross profit totaled $4,800,229, resulting in a gross margin of approximately 50%. The decrease in absolute gross profit of $619,551 or approximately 13% is due to lower revenue, partially offset by a decrease in certain costs of revenue.
+General and Administrative Expense
+During the three months ended December 31, 2022, general and administrative expense totaled $2,754,520 compared to $2,498,359 for the three months ended December 31, 2021. The increase of $256,161 or approximately 10% in general and administrative expense resulted largely from higher bad debt costs of $139,434 due to significant credits taken in 2021, higher insurance costs of $89,814, higher stock-based compensation of $61,750, and higher payroll and payroll taxes of $116,973. These costs were offset by lower legal and professional fees of $135,204.
+Selling and Marketing Expense
+During the three months ended December 31, 2022, selling and marketing expense totaled $729,470 compared to $697,872 for the three months ended December 31, 2021. The increase in expense of $31,598 or approximately 5% is principally the result of higher travel and entertainment cots of $28,331 and higher payroll and taxes of $8,372, partially offset by lower trade show costs of $7,650 and lower consulting and outside service expenses of $5,229.
+Research and Development Expense
+During the three months ended December 31, 2022, research and development expense totaled $589,805 compared to $590,852 for the three months ended December 31, 2021. The nominal decrease in expense of $1,047 was primarily due to a decrease in payroll offset by increases in consulting and outside services expenses.
+-19-
+Depreciation and Amortization Expense
+During the three months ended December 31, 2022, depreciation and amortization expense totaled $247,710 compared to $416,801 for the three months ended December 31, 2021, a decrease of $169,091 or approximately 41%, largely due to fully amortized intangible assets.
+Total Operating Expense
+During the three months ended December 31, 2022, total operating expense increased to $4,321,506 compared to $4,203,884 for the three months ended December 31, 2021, an increase of $117,622 or approximately 3%. The increase is principally due to the factors disclosed above.
+Operating (Loss) Income
+During the three months ended December 31, 2022, operating loss was ($140,828) compared to operating income of $596,345 for the three months ended December 31, 2021, a reduction of $737,173 or approximately 124%. This reduction was due to a decrease in gross profit of $619,551, which resulted from lower revenue, partially offset by a decrease in certain costs of revenue.
+Other Income (Expense)
+For the three months ended December 31, 2022, other income (expense) totaled income of $63,601 compared to other expense of ($587,838) for the three months ended December 31, 2021, an increase of $651,439. The increase in other income is largely due to positive currency exchange rate movements of $589,429 between the US Dollar vs. the Chilean Peso, compared to the first fiscal quarter of fiscal period of 2022, and higher interest income, net of $62,011.
+Net Income (Loss) Attributable to Common Stockholders
+The Company had net income attributable to common stockholders of $36,384 for the three months ended December 31, 2022, compared to a net loss attributable to common stockholders of ($305,322) for the three months ended December 31, 2021, an increase of $341,706. This increase is due to positive currency exchange rate movements, higher interest income, partially offset by lower operating income.
+Liquidity and Capital Resources
+The Company is currently self-funded through net cash provided by operating activities.
+On May 19, 2020, the Company received net proceeds of $933,200 from the PPP Loan received pursuant to the PPP enacted by Congress under the CARES Act, administered by the SBA. On December 8, 2020, the Company filed the application for forgiveness with the Lender and on January 8, 2021, the Company received a notification from the Lender that the SBA remitted funds to fully repay the PPP Loan, and that the funds were utilized to pay-off and close the PPP Loan and that the PPP Loan was fully forgiven.
+On October 21, 2020, the Company requested, in writing, an additional extension to the maturity date of the $30.4 million Amended Facility Agreement. On November 25, 2020, the Noteholders held a meeting to address the Company’s request and approved a new maturity date of July 1, 2024. On December 21, 2020, Conrent and the Company signed the Amended Facility, which extended the maturity date of the Amended Facility Agreement to July 1, 2024, capitalized the accrued and unpaid interest which increased the outstanding principal amount and reduced the interest rate of the Amended Facility from 8% to 4%. On March 1, 2021, Conrent completed their documentation and the updated registration process to implement these changes and the Company transferred $12,531,556 of accrued interest to the note payable for total principal of $42,931,556. Conrent forgave $67,556 of the amount due and the new Amended Facility principal and interest became $42,864,000. Interest payments were scheduled to be made on June 30 and December 31 each year, which began on June 30, 2021. We began amortizing deferred financing fees of approximately $360,000 on July 1, 2021. As of September 30, 2022, $42,864,000 of principal and $876,331 of interest was owed to Conrent.
+On January 6, 2021, the Company borrowed 70,443,375 Chilean Pesos (“ CLP ”) ($101,186USD) from HP Financial Services Chile Limitada. To facilitate the Loan, the Company entered into a Note Payable Agreement with HP Financial Services Chile Limitada as lender. The loan was used to purchase PABX (private automatic branch exchange phone equipment) for the construction of the Gendarmeria de Chile monitoring centers in Santiago and Puerto Montt, Chile. The loan bears an interest rate of 6.56% per annum, payable monthly with principal beginning February 2021, and a maturity date of February 6, 2024.
+-20-
+On January 12, 2021, the Company borrowed 347,198,500 CLP
+($482,965USD) ,
+net of 2,801,500 CLP
+fees ($3,897USD), from Banco Santander. To facilitate the Loan, the Company entered into a Note Payable Agreement with Banco Santander as lender. The loan was used to comply with the construction of Gendarmeria de Chile monitoring center in Santiago, Chile and remodeling a temporary monitoring center. The loan bears an interest at a rate of 5.04% per annum, payable monthly with principal beginning February 2021, and a maturity of May 11, 2024. The Company also paid 19,607,843 CLP
+($27,275USD) in broker fees which are amortized over the life of the loan.
+On February 2, 2021, the Company borrowed 247,999,300 CLP
+($338,954USD), net of 2,000,700 CLP
+fees ($2,734USD), from Banco Estado. To facilitate the Loan, the Company entered into a Note Payable Agreement with Banco Estado as lender. The loan provided was used for the construction of the Gendarmeria de Chile monitoring center in Santiago and computer equipment for Gendarmeria branch offices. The loan bears an interest rate of 3.50% per annum, initially having a 6-month grace period with the first payment including the 6 months of interest plus 1 month of principal on August 2, 2021, then monthly interest with principal, and a maturity date of January 2, 2024. The Company also paid 14,124,294 CLP
+($19,304USD) in broker fees which are amortized over the life of the loan.
+On February 4, 2021, the Company borrowed 149,794,432 CLP
+($205,330USD) from HP Financial Services Chile Limitada. To facilitate the Loan, the Company entered into a Note Payable Agreement with HP Financial Services Chile Limitada as lender. The loan was used to purchase computer equipment for the Gendarmeria de Chile monitoring center in Santiago, Chile. The loan bears an interest at a rate of 6.61% per annum, payable monthly with principal beginning March 2021, and a maturity of March 4, 2024.
+On February 5, 2021, the Company borrowed of 99,808,328 CLP
+($136,564USD), net of 210,485 CLP
+fees ($286USD), from Banco de Chile. To facilitate the Loan, the Company entered into a Note Payable Agreement with Banco de Chile as lender. The loan provided was used to purchase HVAC equipment for Gendarmeria de Chile monitoring center in Santiago, Chile. The loan bears an interest rate of 2.54% per annum, payable monthly with principal beginning March 2021, and a maturity date of March 4, 2024.
+On February 15, 2021, the Company borrowed 500,000,000 CLP
+($678,214USD) from Banco de Chile. To facilitate the Loan, the Company entered into a Note Payable Agreement with Banco de Chile as lender. The loan proceeds were used as working capital and to complete with the construction of the Gendarmeria monitoring center in Puerto Montt, Chile. The loan bears an interest at a rate of 3.12% per annum, payable monthly with principal beginning March 2021, and a maturity of February 17, 2025. The Company also paid 28,248,588 CLP
+($38,317USD) in broker fees which are amortized over the life of the loan.
+No borrowings or sales of equity securities occurred during the three months ended December 31, 2022 or during the year ended September 30, 2022.
+Management will continue to seek other sources of capital, refinancing options, prepayment of debt at a discount, extending the maturity date of the debt and potentially other transactions including the exchange of some debt for an equity related security to reduce its total debt and assist in meeting all of its future obligations. While management believes it will be successful in completing one of these alternatives prior to July 2023, no assurances can be given.
+Net Cash Flows Provided by Operating Activities.
+During the three months ended December 31, 2022, we had cash flows from operating activities of $2,328,423, compared to cash flows from operating activities of $1,281,637 for the three months ended December 31, 2021, representing a $1,046,786 increase or approximately 82%. The increase in cash flows from operations was largely the result of decreases in our net operating assets and liabilities, mainly driven by decreases in inventories, and increases in accounts payable and accrued liabilities.
+Net Cash Flows Used in Investing Activities.
+The Company used $2,188,616 of cash from investing activities during the three months ended December 31, 2022, compared to $875,540 of cash used for investing activities during the three months ended December 31, 2021. The increase in cash used for investing activities was primarily related to purchases of monitoring and other equipment to complete the swap of 3G devices and meet customer demand during the three months ended December 31, 2022.
+Net Cash Flows Used in Financing Activities.
+The Company used $126,316 of cash from financing activities during the three months ended December 31, 2021, which was the result of loan principal payments on Chile’s long-term debt.
+-21-
+Liquidity, Working Capital and Management ’ s Plan
+As of December 31, 2022 the Company had unrestricted cash of $5,543,340 compared to unrestricted cash of $5,311,104 as of September 30, 2022. As of December 31, 2022, we had working capital of $5,939,368, compared to working capital of $7,296,297 as of September 30, 2022. This decrease in working capital of $1,356,929 is principally due to the purchase of monitoring equipment and an increase in operating liabilities.
+On October 21, 2020, the Company requested, in writing, an additional extension to the maturity date of the Amended Facility Agreement. On November 25, 2020, the Noteholders held a meeting to address the Company’s request and approved a new maturity date of July 1, 2024. On December 21, 2020, Conrent and the Company signed an Amendment to the Amended Facility Agreement which extended the maturity date of the agreement to July 1, 2024, capitalized the accrued and unpaid interest which increased the outstanding principal amount and reduced the interest rate of the Amended Facility Agreement from 8% to 4%. On June 30, 2021, the Company restarted interest payments to Conrent which have been made semi-annually since that time.
+During the fiscal year ended September 30, 2021, the Company borrowed approximately $1.95 million though six notes payable to fund the construction of monitoring centers in Chile required by our new contract. These six notes mature between January 2024 to February 2025 and the principal repayments on these six notes have all commenced. No additional funds were borrowed in the three months ended December 31, 2022 or borrowed in the fiscal year end September 30, 2022.
+Inflation
+The rise in inflation in 2021 and 2022 has adversely impacted the Company’s cost of labor, materials and other operating expenses as well.
+Off-Balance Sheet Financial Arrangements
+The Company has not entered into any transactions with unconsolidated entities whereby the Company has financial guarantees, derivative instruments, or other contingent arrangements that expose the Company to material continuing risks, contingent liabilities, or any other obligation that provides financing, liquidity, market risk, or credit risk support to the Company.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+The Company footprint extends to a number of countries outside the United States, and we intend to continue to examine international opportunities. As a result, our revenue and results of operations are affected by fluctuations in currency exchange rates, interest rates, transfer pricing changes, taxes and other uncertainties inherent in doing business in more than one currency. In addition, our operations are exposed to risks that are associated with changes in social, political and economic conditions in the foreign countries in which we operate, including changes in the laws and policies that govern foreign investment, as well as, to a lesser extent, changes in United States laws and regulations relating to foreign trade and investment.
+Foreign Currency Risks
+We had $1,525,021 and $1,530,147 in foreign currency revenue from sources outside of the United States for the three months ended December 31, 2022 and 2021, respectively. We made and received payments in a foreign currency during the periods indicated, which resulted in foreign exchange gain (loss) of $483,151 and $(106,278) in the three months ended December 31, 2022 and 2021, respectively. Fluctuations in the exchange loss or gain in any given period are due to the strengthening or weakening of the U.S. dollar against the Chilean Peso and Canadian dollar which have been magnified by global matters, inflation, and the government policies established to address those issues. Changes in currency exchange rates affect the relative prices at which we sell our products and purchase goods and services. Given the uncertainty of exchange rate fluctuations, we cannot estimate the effect of these fluctuations on our future business, product pricing, results of operations, or financial condition. We periodically enter into small, simple forward foreign currency exchange contracts or derivative financial instruments for hedging purposes given our approximate 17% of revenue in one local currency offset by significant expenses in the same local currency. To the extent foreign sales become a more significant part of our business in the future, we may seek to implement additional strategies which make use of these or other instruments in order to minimize the effects of foreign currency exchange on our business and/or require some international customers to receive invoices and make payments in US dollars.
+-22-
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+We have established disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) to ensure that material information relating to the Company is made known to the officers who certify our financial reports and to other members of senior management and the Board of Directors. These disclosure controls and procedures are designed to ensure that information required to be disclosed in the reports that are filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms.
+Under the supervision and with the participation of management, including the principal executive officer and principal financial officer, an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as of December 31, 2022 was completed pursuant to Rules 13a-15(b) and 15d-15(b) under the Exchange Act. Based on this evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective and designed to provide reasonable assurance that the information required to be disclosed is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms as of December 31, 2022.
+Changes in Internal Controls
+We maintain a system of internal control over financial reporting that is designed to provide reasonable assurance that our books and records accurately reflect our transactions and that our established policies and procedures are followed. There was no change in our internal control over financial reporting during our quarter ended December 31, 2022 that materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+-23-
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+The Company is, from time to time, involved in various legal proceedings incidental to the conduct of our business. Historically, the outcome of nearly all such legal proceedings has not ,
+in the aggregate, had a material adverse effect on our business, financial condition, results of operations or liquidity. Other than as set forth below, there are no additional pending or threatened legal proceedings at this time.
+SecureAlert, Inc. v. Federal Government of Mexico (Department of the Interior).
+On March 24, 2017, SecureAlert Inc. (a predecessor entity to Track Group, Inc. or the Company) filed a complaint before the Federal Administrative Tribunal, asserting the failure by defendants to pay claimant amounts agreed to, and due under, the Pluri Annual Contract for the Rendering of Monitoring Services of Internees, through Electric Bracelets, in the Islas Marias Penitentiary Complex dated July 15, 2011, entered into by and between the Organo Administrativo Desconcentrado Prevencion y Readaptacion Social (“ OADPRS ”) of the then Public Security Department, and presently, an agency of the National Security Commission of the Department of the Interior, and SecureAlert, Inc., presently Track Group, Inc. The Company’s claim amount is upwards of $6.0 million. Although preliminary rulings have been unfavorable to the Company, the Company’s counsel continues to review its remaining claims and analyzing its options. Based upon the fee arrangement the Company has with its counsel, we anticipate the future liabilities attributable to legal expense will be minimal.
+Commonwealth of Puerto Rico, through its Trustees v. International Surveillance Services Corporation .
+On January 23, 2020, the Company was served with a summons for an Adversary Action pending against International Surveillance Services Corporation (“ ISS ”), a subsidiary of the Company, now known as Track Group – Puerto Rico Inc., in the United States District Court for the District of Puerto Rico seeking to avoid and recover allegedly constructive fraudulent transfers and to disallow claims pursuant to United States Bankruptcy and Puerto Rican law. The allegations stem from payments made to ISS between 2014 and 2017, which the Company believes were properly made in accordance with a contract between ISS and the government of Puerto Rico, through the Oficina de Servicios con Antelacion a Juicio, originally signed in 2011. The Company is confident that all payments it received were earned and due under applicable law and produced documentation supporting its position in an informal document exchange with the Commonwealth on July 6, 2020. The parties held a mediation on November 1, 2022 but were unable to reach an agreement but left open the possibility of additional discussions. The Company remains confident in its position and no accrual for a potential loss has been made, after consultation with legal counsel.
+Jeffrey Mohamed Abed v. Track Group, Inc., et al.
+On June 7, 2021, Jeffrey Mohamed Abed filed a complaint seeking unspecified damages in the Superior Court of the State of California in Case No. 21 STCV 21345, alleging strict products liability, negligence and breach of implied warranty premised upon injuries sustained by Abed who was involved in an automobile accident while wearing a GPS tracking device of the Company. The Company was served on October 15, 2021 and filed its Answer and Affirmative Defenses on November 12, 2021. On January 11, 2022 the Company issued discovery, and the discovery process remains ongoing. The Company disputes Abed’s claims and will defend the case vigorously. The Company remains confident in its position and no accrual for a potential loss has been made, after consultation with legal counsel.
+Track Group Chile SpA. v. Republic of Chile.
+On January 24, 2022, Track Group Chile SpA. initiated a judicial action in the Court of Justice of Chile to settle a contract dispute with the Republic of Chile. The Company asserts that it has complied with its contractual obligations and that any delays in so doing were not attributable to the Company. The Company remains confident in its position and no accrual for a potential loss has been made, after consultation with legal counsel. The case remains pending.
+Jesus Valle Gonzalez, et al. v. Track Group-Puerto Rico, et al.
+On May 9, 2022 Plaintiff Jesus Valle Gonzalez filed a complaint in the Court of First Instance, San Juan Superior Court, Commonwealth of Puerto Rico against the Company, and associated parties alleging the death of his mother on June 8, 2016 was a result of the gross negligence of all the defendants. This claim follows a similar claim made against the Company in June 2017 by different relatives of the deceased which was settled on September 5, 2018. Plaintiff in this matter asserts his claim now having reached the age of majority and is requesting damages of no less than $1.5 million. On October 5, 2022, the Plaintiff voluntarily dismissed the case without prejudice, and refiled the case on January 10, 2023. The Company disputes the Plaintiff’s claims, and is preparing its Answer and Affirmative Defenses to the re-filed complaint. No accrual for a potential loss has been made, based on the preliminary stage of the proceedings, after consultation with legal counsel.
+Michael Matthews v. Track Group, Inc., et al.
+On December 13, 2022, Plaintiff Michael Matthews filed a complaint in the Circuit Court of Cook County, Illinois (2022 L 011050) against the Company and other defendants alleging wrongful arrest and incarceration and a deprivation of his rights following his purportedly erroneous violation of home monitoring program requirements. The Company disputes the allegations of the complaint, has retained counsel, and intends to vigorously defend the case. No accrual for a potential loss has been made, based on the preliminary stage of the proceedings, after consultation with legal counsel.
+-24-
+Item 1A. Risk Factors
+Our results of operations and financial condition are subject to numerous risks and uncertainties described in our Annual Report on Form 10-K for our fiscal year ended September 30, 2022, filed on December 16, 2022. You should carefully consider these risk factors in conjunction with the other information contained in this Quarterly Report and other reports we file with the SEC. Should any of these risks materialize or deteriorate further, our business, financial condition and future prospects could be negatively impacted.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures
+Not applicable.
+Item 5. Other Information
+None.
+Item 6. Exhibits
+(a)   Exhibits Required by Item 601 of Regulation S-K
+Exhibit
+Number
+Title of Document
+31(i)
+Certification of Chief Executive Officer under Section 302 of Sarbanes-Oxley Act of 2002 (filed herewith).
+31(ii)
+Certification of Chief Financial Officer under Section 302 of Sarbanes-Oxley Act of 2002 (filed herewith).
+32
+Certifications under Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350) (filed herewith).
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH
+Inline XBRL Taxonomy Extension Schema
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL Document and include in Exhibit 101)
+-25-
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Track Group, Inc.
+Date: February 9, 2023
+By:
+/s/ Derek Cassell
+Derek Cassell, Chief Executive Officer
+(Principal Executive Officer)
+Date: February 9, 2023
+By:
+/s/ Peter K. Poli
+Peter K. Poli, Chief Financial Officer
+(Principal Financial and Accounting Officer)
+-26-

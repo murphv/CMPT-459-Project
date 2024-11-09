@@ -1,0 +1,3714 @@
+FORM
+10-Q
+(Mark One)
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31,
+2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission file number
+001-39587
+23ANDME HOLDING CO.
+(Exact name of registrant as specified in its charter)
+Delaware
+87-1240344
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+349 Oyster Point Boulevard South San Francisco,
+California
+94080
+(Address of principal executive offices)
+(Zip Code)
+( 650 )
+938-6300
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A common stock, $0.0001 par value per share
+ME
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☒
+Yes
+☐ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☒
+Yes
+☐ No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐ Yes
+☒
+No
+As of January 31, 2023, there were
+288,746,230
+shares of Class A common stock, $0.0001 par value per share,
+and
+168,502,918
+shares of Class B common stock, $0.0001 par value per share, issued and outstanding.
+Table of Contents
+23ANDME HOLDING CO.
+TABLE OF CONTENTS
+Page
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements
+4
+Condensed Consolidated Balance Sheets
+4
+Condensed Consolidated Statements of Operations and Comprehensive Loss
+5
+Condensed Consolidated Statements of Stockholders’ Equity
+6
+Condensed Consolidated Statements of Cash Flows
+8
+Notes to the Condensed Consolidated Financial Statements
+10
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+29
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+44
+Item 4. Controls and Procedures
+45
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+47
+Item 1A. Risk Factors
+47
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+47
+Item 3. Defaults Upon Senior Securities
+47
+Item 4. Mine Safety Disclosures
+47
+Item 5. Other Information
+47
+Item 6. Exhibits
+48
+Signature
+49
+Table of Contents
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q (this “Form 10-Q”), including, without limitation, statements under the headings “Management's Discussion and Analysis of Financial Condition and Results of Operations,” includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended, (the “Exchange Act”). Generally, statements that are not historical facts, including statements concerning 23andMe Holding Co.’s (the “Company,” “we,” “us,” or “our”) possible or assumed future actions, business strategies, events, or results of operations, are forward-looking statements. In some instances, these forward-looking statements can be identified by the use of forward-looking terminology, including, without limitation, words like “believes,” “estimates,” “anticipates,” “expects,” “intends,” “plans,” “may,” “will,” “potential,” “projects,” “predicts,” “continue,” or “should,” or, in each case, their negative or other variations or comparable terminology. There can be no assurance that actual results will not materially differ from expectations.
+The forward-looking statements contained in this Form 10-Q are based on our current expectations and beliefs, which we believe to be reasonable, concerning future developments and their potential effects on us. Future developments affecting us may not be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control), and other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, without limitation, those factors described in our Annual Report on Form 10-K for the fiscal year ended March 31, 2022 filed with the Securities and Exchange Commission (the “SEC”) on May 27, 2022, as amended by Amendment No. 1 on Form 10-K/A filed with the SEC on August 9, 2022 (the “Fiscal 2022 Form 10-K”) and our subsequent reports filed with the SEC. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required under applicable securities laws.
+By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. We caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition, and liquidity, and developments in the industry in which we operate may differ materially from those made in or suggested by the forward-looking statements contained in this Form 10-Q. In addition, even if our results of operations, financial condition, and liquidity, and developments in the industry in which we operate are consistent with the forward-looking statements contained in this Form 10-Q, those results or developments may not be indicative of results or developments in subsequent periods.
+3
+Table of Contents
+PART I.
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+23ANDME HOLDING CO.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands, except share and per share data)
+December 31,
+March 31,
+2022
+2022
+(Unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+432,801
+$
+553,182
+Restricted cash
+1,399
+1,599
+Accounts receivable, net (includes related party amounts of $ 3,636  and
+zero , respectively)
+26,808
+3,380
+Inventories
+11,960
+10,789
+Deferred cost of revenue
+14,336
+7,700
+Prepaid expenses and other current assets
+21,367
+25,139
+Total current assets
+508,671
+601,789
+Property and equipment, net
+40,791
+49,851
+Operating lease right-of-use assets
+49,987
+55,577
+Restricted cash, noncurrent
+6,974
+6,974
+Internal-use software, net
+13,823
+9,635
+Intangible assets, net
+49,362
+73,905
+Goodwill
+351,744
+351,744
+Other assets
+3,302
+2,593
+Total assets
+$
+1,024,654
+$
+1,152,068
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable (includes related party amounts of
+zero  and $ 12,567 , respectively)
+$
+13,984
+$
+37,930
+Accrued expenses and other current liabilities (includes related party amounts of $ 9,862  and $ 5,772 , respectively)
+69,036
+44,588
+Deferred revenue (includes related party amounts of $ 22,943  and $ 9,181 , respectively)
+108,934
+62,939
+Operating lease liabilities
+8,159
+7,784
+Total current liabilities
+200,113
+153,241
+Operating lease liabilities, noncurrent
+71,441
+78,524
+Other liabilities
+2,108
+4,647
+Total liabilities
+273,662
+236,412
+Commitments and contingencies (Note 9 )
+Stockholders' equity
+Common Stock, par value $ 0.0001  - Class A shares,
+1,140,000,000  shares authorized,
+288,629,645  and
+228,174,718  shares issued and outstanding as of December 31, 2022 and March 31, 2022, respectively; Class B shares,
+350,000,000  shares authorized,
+168,531,838  and
+220,637,603  shares issued and outstanding as of December 31, 2022 and March 31, 2022, respectively
+45
+45
+Additional paid-in capital
+2,193,544
+2,110,160
+Accumulated other comprehensive income
+( 311
+)
+179
+Accumulated deficit
+( 1,442,286
+)
+( 1,194,728
+)
+Total stockholders’ equity
+750,992
+915,656
+Total liabilities and stockholders’ equity
+$
+1,024,654
+$
+1,152,068
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+4
+Table of Contents
+23ANDME HOLDING CO.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND
+COMPREHENSIVE LOSS
+(in thousands, except share and per share data)
+(Unaudited)
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Revenue (includes related party revenue of $ 13,068 , $ 8,069 , $ 36,258  and $ 29,281 , respectively)
+$
+66,940
+$
+56,891
+$
+207,112
+$
+171,334
+Cost of revenue (includes related party costs of $ 231 , $( 54 ), $( 279 ) and $ 209 , respectively)
+36,189
+29,628
+112,598
+85,446
+Gross profit
+30,751
+27,263
+94,514
+85,888
+Operating expenses:
+Research and development (includes related party expenses of $ 3,251 , $ 6,300 , $ 9,517  and $ 18,185 , respectively)
+57,270
+50,298
+161,877
+139,053
+Sales and marketing
+39,879
+41,979
+98,148
+70,987
+General and administrative
+30,702
+31,687
+89,226
+60,547
+Total operating expenses
+127,851
+123,964
+349,251
+270,587
+Loss from operations
+( 97,100
+)
+( 96,701
+)
+( 254,737
+)
+( 184,699
+)
+Other income (expense):
+Interest income, net
+3,671
+76
+5,307
+213
+Change in fair value of warrant liabilities
+—
+3,695
+—
+32,989
+Other income (expense), net
+855
+22
+( 267
+)
+39
+Loss before income taxes
+( 92,574
+)
+( 92,908
+)
+( 249,697
+)
+( 151,458
+)
+Benefit from income taxes
+613
+3,512
+2,139
+3,512
+Net loss
+$
+( 91,961
+)
+$
+( 89,396
+)
+$
+( 247,558
+)
+$
+( 147,946
+)
+Other comprehensive loss, net of tax
+( 1,943
+)
+( 36
+)
+( 490
+)
+( 36
+)
+Total comprehensive loss
+$
+( 93,904
+)
+$
+( 89,432
+)
+$
+( 248,048
+)
+$
+( 147,982
+)
+Net loss per share of Class A and Class B common stock attributable to common stockholders:
+Basic and diluted
+$
+( 0.20
+)
+$
+( 0.21
+)
+$
+( 0.55
+)
+$
+( 0.44
+)
+Weighted-average shares used to compute net loss per share:
+Basic and diluted
+453,407,202
+426,591,111
+449,949,829
+334,491,905
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+5
+Table of Contents
+23ANDME HOLDING CO.
+CONDENSED CONSOLIDATED STATEMENTS OF
+STOCKHOLDERS’ EQUITY (DEFICIT)
+(in thousands, except share and per share data)
+(Unaudited)
+Redeemable Convertible
+Preferred Stock
+Common Stock
+Additional Paid-In
+Accumulated Other Comprehensive
+Accumulated
+Total
+Stockholders’
+Shares
+Amount
+Shares
+Amount
+Capital
+Income (Loss)
+Deficit
+Equity
+Balance as of March 31, 2022
+—
+$
+—
+448,812,321
+$
+45
+$
+2,110,160
+$
+179
+$
+( 1,194,728
+)
+$
+915,656
+Issuance of common stock upon exercise of stock options
+—
+—
+1,065,784
+—
+1,533
+—
+—
+1,533
+Issuance of common stock upon release of RSUs
+—
+—
+1,461,448
+—
+—
+—
+—
+—
+Net share settlements for stock-based minimum tax withholdings
+—
+—
+( 14,036
+)
+—
+—
+—
+—
+—
+Stock-based compensation expense
+—
+—
+—
+—
+25,915
+—
+—
+25,915
+Other comprehensive income
+—
+—
+—
+—
+—
+624
+—
+624
+Net loss
+—
+—
+—
+—
+—
+—
+( 89,532
+)
+( 89,532
+)
+Balance as of June 30, 2022
+—
+$
+—
+451,325,517
+$
+45
+$
+2,137,608
+$
+803
+$
+( 1,284,260
+)
+$
+854,196
+Issuance of common stock upon exercise of stock options
+—
+—
+1,430,629
+—
+2,498
+—
+—
+2,498
+Issuance of common stock upon release of RSUs
+—
+—
+1,580,591
+—
+—
+—
+—
+—
+Net share settlements for stock-based minimum tax withholdings
+—
+—
+( 14,038
+)
+—
+( 86
+)
+—
+—
+( 86
+)
+Issuance of common stock under employee stock purchase plan
+—
+—
+1,130,337
+—
+3,238
+—
+—
+3,238
+Stock-based compensation expense
+—
+—
+—
+—
+24,710
+—
+—
+24,710
+Other comprehensive income
+—
+—
+—
+—
+—
+829
+—
+829
+Net loss
+—
+—
+—
+—
+—
+—
+( 66,065
+)
+( 66,065
+)
+Balance as of September 30, 2022
+—
+$
+—
+455,453,036
+$
+45
+$
+2,167,968
+$
+1,632
+$
+( 1,350,325
+)
+$
+819,320
+Issuance of common stock upon exercise of stock options
+—
+—
+96,443
+—
+49
+—
+—
+49
+Issuance of common stock upon release of RSUs
+—
+—
+1,631,315
+—
+—
+—
+—
+—
+Net share settlements for stock-based minimum tax withholdings
+—
+—
+( 19,311
+)
+—
+( 58
+)
+—
+—
+( 58
+)
+Stock-based compensation expense
+—
+—
+—
+—
+25,585
+—
+—
+25,585
+Other comprehensive loss
+—
+—
+—
+—
+—
+( 1,943
+)
+—
+( 1,943
+)
+Net loss
+—
+—
+—
+—
+—
+—
+( 91,961
+)
+( 91,961
+)
+Balance as of December 31, 2022
+—
+$
+—
+457,161,483
+$
+45
+$
+2,193,544
+$
+( 311
+)
+$
+( 1,442,286
+)
+$
+750,992
+6
+Table of Contents
+Redeemable Convertible
+Preferred Stock
+Common Stock
+Additional Paid-In
+Accumulated Other Comprehensive
+Accumulated
+Total
+Stockholders’ Equity
+Shares
+Amount
+Shares
+Amount
+Capital
+Income Loss
+Deficit
+(Deficit)
+Balance as of March 31, 2021
+209,181,855
+$
+837,351
+124,529,784
+$
+12
+$
+381,607
+$
+—
+$
+( 977,238
+)
+$
+( 595,619
+)
+Preferred stock conversion
+( 209,181,855
+)
+( 837,351
+)
+209,181,855
+21
+837,330
+—
+—
+837,351
+Issuance of common stock upon Merger (net of transaction costs of $ 33,726 )
+—
+—
+46,901,747
+5
+200,574
+—
+—
+200,579
+Issuance of Private Investment in Public Equity (“PIPE”) shares (includes related party amount of $ 25,000 )
+—
+—
+25,000,000
+3
+249,997
+—
+—
+250,000
+Issuance of common stock upon exercise of stock options
+—
+—
+818,479
+—
+2,553
+—
+—
+2,553
+Stock-based compensation expense
+—
+—
+—
+—
+9,704
+—
+—
+9,704
+Net loss
+—
+—
+—
+—
+—
+—
+( 42,026
+)
+( 42,026
+)
+Balance as of June 30, 2021
+—
+$
+—
+406,431,865
+$
+41
+$
+1,681,765
+$
+—
+$
+( 1,019,264
+)
+$
+662,542
+Issuance of common stock upon exercise of stock options
+—
+—
+736,717
+—
+2,905
+—
+—
+2,905
+Stock-based compensation expense
+—
+—
+—
+—
+10,588
+—
+—
+10,588
+Net loss
+—
+—
+—
+—
+—
+—
+( 16,524
+)
+( 16,524
+)
+Balance as of September 30, 2021
+—
+$
+—
+407,168,582
+$
+41
+$
+1,695,258
+$
+—
+$
+( 1,035,788
+)
+$
+659,511
+Issuance of common stock for acquisition of business
+—
+—
+30,572,268
+3
+322,842
+—
+—
+322,845
+Issuance of common stock for Class A common stock warrant exercise
+—
+—
+6,016,327
+—
+42,354
+—
+—
+42,354
+Issuance of common stock upon exercise of stock options
+—
+—
+2,390,004
+—
+8,308
+—
+—
+8,308
+Stock-based compensation expense
+—
+—
+—
+—
+17,588
+—
+—
+17,588
+Other comprehensive loss
+—
+—
+—
+—
+—
+( 36
+)
+—
+( 36
+)
+Net loss
+—
+—
+—
+—
+—
+—
+( 89,396
+)
+( 89,396
+)
+Balance as of December 31, 2021
+—
+$
+—
+446,147,181
+$
+44
+$
+2,086,350
+$
+( 36
+)
+$
+( 1,125,184
+)
+$
+961,174
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+7
+Table of Contents
+23ANDME HOLDING CO.
+CONDENSED CON SOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+(Unaudited)
+Nine Months Ended December 31,
+2022
+2021
+Cash flows from operating activities:
+Net loss
+$
+( 247,558
+)
+$
+( 147,946
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization
+24,918
+15,345
+Amortization and impairment of internal-use software
+3,214
+1,741
+Stock-based compensation expense
+93,768
+37,473
+Changes in fair value of warrant liabilities
+—
+( 32,989
+)
+Impairment of long-lived assets
+10,126
+—
+Other
+( 1
+)
+77
+Changes in operating assets and liabilities:
+Accounts receivable (includes related party amounts of $( 3,636 ) and $( 105 ), respectively)
+( 23,428
+)
+( 21,078
+)
+Inventories
+( 1,172
+)
+( 10,605
+)
+Deferred cost of revenue
+( 6,636
+)
+( 10,630
+)
+Prepaid expenses and other current assets (includes related party amounts of
+zero  and $( 207 ), respectively)
+3,772
+( 7,697
+)
+Operating right-of-use assets
+5,570
+5,265
+Other assets
+( 711
+)
+( 604
+)
+Accounts payable (includes related party amounts of $( 12,567 ) and $( 4,422 ), respectively)
+( 23,305
+)
+( 804
+)
+Accrued and other current liabilities (includes related party amounts of $ 4,090  and $ 5,416 , respectively)
+4,265
+9,878
+Deferred revenue (includes related party amounts of $ 13,762  and $( 3,969 ), respectively)
+45,996
+40,223
+Operating lease liabilities
+( 6,708
+)
+( 5,655
+)
+Other liabilities
+( 2,539
+)
+( 3,617
+)
+Net cash used in operating activities
+( 120,429
+)
+( 131,623
+)
+Cash flows from investing activities:
+Purchases of property and equipment
+( 2,854
+)
+( 2,420
+)
+Prepayment for intangible assets
+—
+( 5,500
+)
+Capitalized internal-use software costs
+( 5,163
+)
+( 2,855
+)
+Cash paid for acquisitions, net of cash acquired
+—
+( 94,165
+)
+Net cash used in investing activities
+( 8,017
+)
+( 104,940
+)
+Cash flows from financing activities:
+Proceeds from exercise of stock options
+3,933
+11,476
+Proceeds from issuance of common stock under employee stock purchase plan
+3,238
+—
+Payments of deferred offering costs
+—
+( 30,642
+)
+Proceeds from issuance of common stock upon merger
+—
+309,720
+Proceeds from PIPE (related party amounts of zero and $ 25,000 , respectively)
+—
+250,000
+Proceeds from exercise of merger warrants
+—
+44
+Payment for warrant redemptions
+—
+( 116
+)
+Net cash provided by financing activities
+7,171
+540,482
+Effect of exchange rates on cash and cash equivalents
+694
+( 4
+)
+Net increase (decrease) in cash, cash equivalents and restricted cash
+( 120,581
+)
+303,915
+Cash, cash equivalents and restricted cash—beginning of period
+561,755
+290,862
+Cash, cash equivalents and restricted cash—end of period
+441,174
+594,777
+Supplemental disclosures of non-cash investing and financing activities:
+Purchases of property and equipment included in accounts payable and accrued expenses
+472
+859
+Stock-based compensation capitalized for internal-use software costs
+2,239
+745
+Reclassification of deferred offering costs
+—
+3,971
+Assumption of merger warrants liability
+—
+75,415
+Conversion of redeemable convertible preferred stock to common stock
+—
+837,351
+Redemption/exercise of Class A common stock warrants
+—
+42,354
+Stock consideration in acquisition of businesses, including fair value of common stock issued and fair value of stock-based awards that were vested
+—
+322,842
+Reconciliation of cash, cash equivalents, and restricted cash within the condensed consolidated balance sheets to the amounts shown in the condensed consolidated statements of cash flows above:
+Cash and cash equivalents
+432,801
+586,204
+Restricted cash, current
+1,399
+1,599
+Restricted cash, noncurrent
+6,974
+6,974
+Total cash, cash equivalents and restricted cash
+$
+441,174
+$
+594,777
+8
+Table of Contents
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+9
+Table of Contents
+23ANDME HOLDING CO.
+Notes to Co ndensed Consolidated Financial Statements
+(Unaudited)
+1.
+Organization and Description of Business 23andMe Holding Co. (the “Company”) is dedicated to helping people access, understand, and benefit from the human genome. The Company pioneered direct-to-consumer genetic testing through its Personal Genome Service® (“PGS”) products and services. Customers receive reports that provide them with information on their genetic health risks, their ancestry, and their traits, based on genetic testing of a saliva sample they send to the Company in an easy-to-use “spit kit” provided by the Company. Customers have the option to participate in the Company’s research programs. The Company analyzes consenting customers’ genotypic and phenotypic data to discover new insights into genetics. The Company uses these insights to generate new PGS reports, and, through its therapeutics business and collaborations with pharmaceutical companies, nonprofit institutions and universities, to discover and advance new therapies for unmet medical needs. The Company acquired Lemonaid Health, Inc. (“Lemonaid” or “Lemonaid Health”) in November 2021 (the “Lemonaid Acquisition”), which offers patients affordable and direct online access to medical care, from consultation through treatment, for a number of common conditions, using evidence-based guidelines and up-to-date clinical protocols to deliver quality patient care. Lemonaid Health’s telehealth platform provides patients with easy access to medical consultation and treatment, which enhances the Company’s ability to bring better healthcare and wellness offerings to patients.
+23andMe, Inc., the Company’s accounting predecessor, was incorporated in Delaware in 2006. The Company is headquartered in South San Francisco, California. The Company’s predecessor, VG Acquisition Corp. (“VGAC”), was a blank check company originally incorporated in 2020 as a Cayman Islands exempted company. On June 16, 2021 (the “Closing Date”), VGAC and Chrome Merger Sub, Inc., a Delaware corporation and wholly owned direct subsidiary of VGAC (“Merger Sub”), consummated a merger with 23andMe, Inc. (the “Merger”), whereby Merger Sub merged with and into 23andMe, Inc., with 23andMe, Inc. being the surviving corporation and a wholly owned subsidiary of the Company. In connection with the Merger, VGAC changed its jurisdiction of incorporation from the Cayman Islands to the State of Delaware and changed its name to 23andMe Holding Co. (the “Domestication” and, together with the Merger, the “Business Combination”). The Company has evaluated how it is organized and managed and has identified two reporting segments: Consumer and Research Services, and Therapeutics.
+2.
+Summary of Significant Accounting Policies Basis of Presentation The Company’s unaudited condensed consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America (“GAAP”) and include the accounts of the Company and its wholly owned subsidiaries, and variable interest entities in which it holds a controlling financial interest. All intercompany accounts and transactions have been eliminated in consolidation. For the nine months ended December 31, 2022 and 2021, the Company had operations primarily in the United States and insignificant operations in the United Kingdom.
+There have been no changes to the Company’s significant accounting policies described in the audited consolidated financial statements for the year ended March 31, 2022
+that have had a material impact on these condensed consolidated financial statements and related notes. Unaudited Interim Condensed Consolidated Financial Information The accompanying interim condensed consolidated financial statements as of December 31, 2022 and for the three and nine months ended December 31, 2022 and 2021 and accompanying notes, are unaudited. These unaudited interim condensed consolidated financial statements (the “condensed consolidated financial statements”) have been prepared in accordance with GAAP applicable to interim financial statements. These financial statements are presented in accordance with the rules and regulations of the U.S. Securities and Exchange Commission (“SEC”) and do not include all disclosures normally required in annual consolidated financial statements prepared in accordance with GAAP. As such, the information included herein should be read in conjunction with the consolidated financial statements and accompanying notes as of and for the year ended March 31, 2022 (the “audited consolidated financial statements”) that were included in the Company’s Annual Report on Form 10-K filed with the SEC on May 27, 2022, as amended by Amendment No. 1 on Form 10-K/A filed with the SEC on August 9, 2022. In management’s opinion, the unaudited interim condensed consolidated financial statements have been prepared on the same basis as the annual financial statements, which include only normal recurring adjustments, necessary for a fair statement of the Company’s financial position as of December 31, 2022 and its condensed
+10
+Table of Contents   consolidated results of operations and cash flows for the three and nine months ended December 31, 2022 and 2021. The results of operations for the three and nine months ended December 31, 2022 are not necessarily indicative of the results expected for the year ending March 31, 2023 or any other future interim or annual periods.
+As a result of the Merger, prior period share and per share amounts presented in the accompanying condensed consolidated financial statements and these related notes have been retroactively converted. Fiscal Year The Company’s fiscal year ends on March 31. References to fiscal year 2023 and 2022 refer to the fiscal years ending and ended March 31, 2023 and 2022, respectively. Use of Estimates The preparation of condensed consolidated financial statements in conformity with GAAP requires management to make estimates, judgments, and assumptions that affect the reported amounts of assets and liabilities and the related disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenue and expenses during the reporting period and the accompanying notes. Significant items subject to such estimates and assumptions include, but are not limited to the determination of standalone selling price for various performance obligations; the estimated expected benefit period for the rate and recognition pattern of breakage revenue for purchases where a saliva collection kit (“Kit”) is never returned for processing; the capitalization and estimated useful life of internal use software; the useful life of long-lived assets; fair value of intangible assets acquired in business combinations; the carrying value of goodwill; the incremental borrowing rate for operating leases; stock-based compensation including the determination of the fair value of stock options, as well as the Company’s common stock prior to the Closing Date of the Merger; and the valuation of deferred tax assets and uncertain tax positions. The Company bases these estimates on historical and anticipated results, trends, and various other assumptions that it believes are reasonable under the circumstances, including assumptions as to future events. Actual results could differ from these estimates, and such differences could be material to the condensed consolidated financial statements. The coronavirus (“COVID-19”) pandemic has created significant global economic uncertainty and resulted in the slowdown of economic activity. COVID-19 has disrupted the Company’s general business operations since March 2020 and the Company expects that such disruption will continue for an unknown period. As the Company continues to closely monitor the COVID-19 pandemic, its top priority remains protecting the health and safety of the Company’s employees. Safety guidelines and procedures, including enhanced sanitization and air filtration, have been developed for on-site employees and these policies are regularly monitored. The Company is not aware of any specific event or circumstance that would require revisions to estimates, updates to judgments, or adjustments to the carrying value of assets or liabilities. These estimates may change, as new events occur and additional information is obtained, and will be recognized in the condensed consolidated financial statements as soon as they become known. Actual results could differ from those estimates and any such differences may be material to the condensed consolidated financial statements. Reclassifications Certain
+prior year amounts have been reclassified to conform to the current year presentation in the condensed consolidated financial statements and accompanying notes to the condensed consolidated financial statements. Concentration of Supplier Risk Certain of the raw materials, components and equipment associated with the deoxyribonucleic acid (“DNA”) microarrays and Kits used by the Company in the delivery of its services are available only from third-party suppliers. The Company also relies on a third-party laboratory service for the processing of its customer samples. Shortages and slowdowns could occur in these essential materials, components, equipment, and laboratory services due to an interruption of supply or increased demand in the industry. If the Company were unable to procure certain materials, components, equipment, or laboratory services at acceptable prices, it would be required to reduce its laboratory operations, which could have a material adverse effect on its results of operations. A single supplier accounted for
+100 % of the Company’s total purchases of microarrays and a separate single supplier accounted for
+100 % of the Company’s total purchases of Kits for the three and nine months ended
+December 31, 2022
+and 2021. One laboratory service provider accounted for
+100 % of the Company’s processing of customer samples for the three and nine months ended
+December 31, 2022
+and 2021. 11
+Table of Contents   Concentration of Credit Risk Financial instruments that potentially subject the Company to a concentration of credit risk include cash, cash equivalents, and accounts receivable. The Company maintains its cash and cash equivalents with high-quality financial institutions in the United States, the composition and maturities of which are regularly monitored by the Company. The Company’s revenue and accounts receivable are derived primarily from the United States. See Revenue Recognition within Note 2, “ Summary of Significant Accounting Policies, ” for additional information regarding geographical disaggregation of revenue. The Company grants credit to its customers in the normal course of business, performs ongoing credit evaluations of its customers, and does not require collateral. The Company regularly monitors the aging of accounts receivable balances. Significant customer information is as follows:
+December 31,
+March 31,
+2022
+2022
+Percentage of accounts receivable:
+Customer B
+14
+%
+0
+%
+Customer C
+70
+%
+25
+%
+Customer F
+12
+%
+19
+%
+Customer G
+0
+%
+44
+%
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Percentage of revenue:
+Customer C
+22
+%
+17
+%
+20
+%
+19
+%
+Customer B
+20
+%
+14
+%
+18
+%
+17
+%
+Intangible Assets Acquired intangible assets consist of identifiable intangible assets resulting from business combinations. Acquired finite-lived intangible assets are initially recorded at fair value and are amortized on a straight-line basis over their estimated useful lives. Amortization expense is recognized within cost of revenue for developed technology, sales and marketing expense for customer relationships, partnerships, and trademark, and general and administrative expense for non-compete agreements, in the consolidated statements of operations and comprehensive loss. Other intangible assets consist of purchased patents. Intangible assets are carried at cost less accumulated amortization and are amortized over the period of estimated benefit using the straight-line method and their estimated useful lives. Amortization for patents is recognized in research and development and general and administrative expenses in the consolidated statements of operations and comprehensive loss. Each period the Company evaluates
+finite-lived intangible assets to determine whether there have been any events or changes in circumstances which indicate that its carrying amount may not be recoverable.
+During the three months ended December 31, 2022, due to decreased revenue associated with a delayed product launch and margin forecasts for the U.K. partnership business, the Company performed an interim quantitative impairment test for the U.K. partnership asset group as of December 31, 2022. The fair value of the asset group was calculated using a discounted cash flow and was determined to be lower than its carrying value. As a result, the Company recorded a $
+10.0
+million impairment charge to write down the value of the partnership intangible asset to its estimated fair value as of December 31, 2022. The charge was recorded within sales and marketing expenses in its Consumer and Research segment in the unaudited condensed consolidated statements of operations and comprehensive loss.
+12
+Table of Contents   Revenue Recognition In accordance with Accounting Standards Codification (“ASC”) Topic 606,
+Revenue from Contracts with Customers
+(“Topic 606”), the Company recognizes revenue when its customer obtains control of promised goods or services in an amount that reflects the consideration, which the Company expects to receive in exchange for transferring the products or services to a customer (“transaction price”). The transaction price includes various forms of variable consideration, as discussed below. In general, the transaction price is paid by customers at contract inception.
+For contracts with multiple performance obligations, the transaction price is allocated to each performance obligation on a relative stand-alone selling price (“SSP”) price basis. The SSP is determined at contract inception and is not updated to reflect changes between contract inception and when the performance obligations are satisfied. Determining the SSP for performance obligations requires significant judgment. The SSP for each performance obligation is based on the prices at which the Company separately sells the products and services. If an observable price from stand-alone sales is not available, the Company uses the adjusted market assessment approach, using reasonably available information and applicable inputs, to estimate the selling price of each performance obligation.
+PGS The Company generates PGS revenue by providing customers with a broad suite of genetic reports, including information on customers’ genetic ancestral origins, personal genetic health risks, and chances of passing on certain rare carrier conditions to their children, as well as reports on how genetics can impact responses to medication. The Company’s contracts with customers for PGS services include multiple performance obligations: (1) initial ancestry reports, (2) ancestry updates, (3) initial health reports, (4) health updates, and (5) subscriptions for extended health insights with access to exclusive reports and features. The transaction price for PGS revenue includes the amount of fixed consideration the Company expects to receive, as well as variable consideration related to refunds. The Company estimates the amount of variable consideration that should be included in the transaction price using the expected value method. The Company bases its estimates of variable consideration related to refunds on historical data and other information. Estimates include: (i) timing of the returns and fees incurred, (ii) pricing adjustments related to returns and fees, and (iii) the quantity of product that will be returned in the future. Significant judgment is used in determining the appropriateness of these assumptions at each reporting period. Provisions for returns are based on service-level return rates and recent unprocessed return claims, as well as relevant market events and other factors. The Company estimates the amount of sales that may be refunded and records the estimate as a reduction of revenue and a refund liability in the period the related PGS revenue is recognized. Based on the distribution model for PGS services and the nature of the services being provided, the Company believes there will be minimal refunds and has not experienced material historical refunds.
+Revenue is recognized at a point in time upon delivery of the initial ancestry reports and initial health reports to the customer, as the customer obtains control when the report is received.
+Revenue is recognized over time for ancestry updates and health updates over the period the customer is estimated to remain active. The Company estimates this period based on the historical average period that the customer continues to engage with the available report updates after the delivery of the initial reports. These updates are provided to the customer, when and if available, throughout the estimated period of activity during which the customer interacts with the PGS service. The Company re-evaluates these estimates at the end of each reporting period and adjusts accordingly. The Company has determined that access to the updates, when and if available, that are provided over the estimated period qualifies as a series of distinct goods or services, for which revenue is recognized ratably over the period estimated by the Company.
+Subscription revenue for extended health insights is recognized ratably over the contractual subscription period as the customer benefits from having access to these insights evenly throughout this period. The
+Company sells through multiple channels, including direct to consumer via the Company’s website and through online retailers. If the customer does not return the Kit for processing, services cannot be completed by the Company, potentially resulting in unexercised rights (“breakage”) revenue. To estimate breakage, the Company applies the practical expedient available under Topic 606 to assess its customer contracts on a portfolio basis as opposed to individual customer contracts, due to the similarity of customer characteristics, at the sales channel level. The Company recognizes the breakage amounts as revenue, proportionate to the pattern of revenue recognition of the returning Kits in these respective sales channel portfolios. The Company estimates breakage for the portion of Kits not expected to be returned using an analysis of historical data and considers other factors that could influence customer Kit return behavior. The Company updates its breakage rate estimate periodically and, if necessary, adjusts the deferred revenue balance
+13
+Table of Contents   accordingly.
+If actual Kit return patterns vary from the estimate, actual breakage revenue may differ from the amounts recorded. The Company recognized breakage revenue from unreturned Kits of $ 6.8
+million and $ 4.1
+million for the three months ended December 31, 2022 and 2021, respectively, and $ 17.8
+million and $ 12.8
+million for the nine months ended December 31, 2022 and 2021, respectively. Fees paid to certain sales channel partners include, in part, compensation for obtaining PGS contracts. Such contracts have an amortization period of one year or less, and the Company has applied the practical expedient to recognize these costs as sales and marketing expenses when incurred. During the three and nine months ended December 31, 2022, the Company did not recognize any PGS revenue for performance obligations satisfied in prior periods. Research Services The Company generates research services revenue by performing research services under agreements with third parties relating to the use of the Company’s genotypic and phenotypic data to perform various research activities, including identifying promising drug targets and further researching specific ailments or patient treatment areas. The Company’s contracts with customers for research services can include multiple performance obligations: (1) genotyping, (2) survey, (3) data analysis, (4) recruitment, (5) web development, (6) project management, and (7) dedicated research time. The transaction price for research services revenue includes the amount of fixed consideration the Company expects to receive, as well as variable consideration including, but not limited to, per participant fees, additional compensation for certain industry approvals, payments for milestones achieved early, and penalties for customer delays. The Company estimates the amount of variable consideration that should be included in the transaction price using the most likely amount method.
+The Company bases its estimates of variable consideration on historical data and other available information. The Company includes an estimated amount of variable consideration in the transaction price only if it is probable that a subsequent change in the estimate would not result in a significant revenue reversal. Based on the historical data available, the Company believes there will be minimal amounts of variable consideration earned and, as such, the transaction price for research services is not materially impacted. Variable consideration estimates are revisited at the end of each reporting period and adjustments are made accordingly.
+To recognize revenue, the Company compares actual hours incurred to date to the overall total expected hours that will be required to satisfy the performance obligation. The use of personnel hours is a reasonable measure of progress as the Company fulfills its contractual obligations through research performed by the Company's personnel. Revenues are recognized over time as the hours are incurred. All estimates are reviewed by the Company at the end of each reporting period and adjustments are made accordingly. During the three and nine months ended December 31, 2022, the Company did not recognize any research services revenue for performance obligations satisfied in prior periods.
+Telehealth The Company generates telehealth revenues from pharmacy fees, patient fees, and membership fees. The transaction price for telehealth services includes the amount of fixed consideration the Company expects to receive, as well as variable consideration related to sales deductions, including (1) product returns, including return estimates and (2) fees for transaction processing and chargebacks. The Company estimates the amount of variable consideration that should be included in the transaction price using the expected value method. The Company estimates the amount of sales that may be refunded and records the estimate as a reduction of revenue and a refund liability in the period the related telehealth revenue is recognized. The Company's customers have limited return rights related to the telehealth services. The Company has not historically experienced material returns and believes there will be minimal returns in the future. As such, the transaction price for telehealth services is not materially impacted.
+Provisions for transaction fees and chargebacks are primarily based on customer-level contractual terms. Accruals and related reserves are adjusted as new information becomes available, which generally consists of actual transaction fees and chargebacks processed relating to sales recognized. Pharmacy fees, net – The Company primarily generates revenue through sale and delivery of prescription medications from the Affiliated Pharmacies (as defined below). A contract is entered into with a patient when the patient accepts the Company’s terms and conditions, requests a prescription, or chooses to refill, and provides access to payment. The Company has determined that these
+14
+Table of Contents   contracts contain one performance obligation. Revenue is recognized at the point in time in which prescription services are rendered for these transactions. Fees are charged as prescription services are rendered. Revenue is recorded net of refunds and transaction fees. Patient fees, net – The Company primarily generates revenue through the PMCs (as defined below) from patient visit fees, which include healthcare professional consultations, lab testing, and ordering prescriptions. A contract is entered into with a patient when the patient accepts the Company’s terms and conditions and provides access to payment. The Company has determined that each service event is a distinct performance obligation. Revenue is recognized at the point in time in which services are rendered for these transactions. Fees are charged upfront prior to services being rendered and are allocated to each obligation to provide services to the patient. Revenue is recorded net of refunds, transaction fees, and pass-through lab and prescription costs. Membership fees, net – The Company generates revenue through membership fees from patients, which includes a membership for unlimited medical visits and unlimited prescriptions during the membership period (generally one, three or twelve months). A contract is entered into with a patient when the patient accepts the Company’s terms and conditions and makes a pre-payment for the membership term. The Company has determined that access to the services over the membership period qualifies as a series of distinct goods or services for which revenue is recognized ratably over the respective membership period. Revenue is recorded net of refunds. Deferred revenue consists of advance payments from members related to membership performance obligations that have not been satisfied for memberships. In providing telehealth services that include professional medical consultations, the Company maintains relationships with various affiliated professional medical corporations (“PMCs”). PMCs are organized under state law as professional entities that are owned by physicians licensed in the applicable state and that engage licensed healthcare professionals (each, a “Provider” and collectively, the “Providers”) to provide consultation services. See Note 4, “ Variable Interest Entities ,” for additional details. The Company accounts for service revenue as a principal in the arrangement with its patients. Additionally, with respect to its telehealth services involving the sale of prescription products, the Company maintains relationships with affiliated pharmacies (collectively, the “Affiliated Pharmacies”) to fill prescriptions that are ordered by the Company’s patients. The Company accounts for prescription product revenue as a principal in the arrangement with its patients. During the three and nine months ended December 31, 2022, the Company did not recognize any telehealth revenue for performance obligations satisfied in prior periods.
+Disaggregation of Revenue The following table presents revenue by category:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Amount
+% of Revenue
+Amount
+% of Revenue
+Amount
+% of Revenue
+Amount
+% of Revenue
+(In thousands, except percentages)
+Point in Time
+PGS
+$
+37,499
+56
+%
+$
+35,090
+62
+%
+$
+117,300
+57
+%
+$
+121,516
+71
+%
+Telehealth
+8,592
+13
+%
+6,146
+11
+%
+27,124
+13
+%
+6,146
+4
+%
+Consumer services
+46,091
+69
+%
+41,236
+72
+%
+144,424
+70
+%
+127,662
+75
+%
+Research services
+—
+0
+%
+—
+0
+%
+—
+0
+%
+—
+0
+%
+Total
+(1)
+46,091
+69
+%
+41,236
+72
+%
+144,424
+70
+%
+127,662
+75
+%
+Over Time
+PGS
+5,100
+7
+%
+3,277
+6
+%
+14,316
+7
+%
+9,189
+5
+%
+Telehealth
+2,451
+4
+%
+1,527
+3
+%
+7,471
+3
+%
+1,527
+1
+%
+Consumer services
+7,551
+11
+%
+4,804
+8
+%
+21,787
+10
+%
+10,716
+6
+%
+Research services
+13,298
+20
+%
+10,851
+19
+%
+40,901
+20
+%
+32,956
+19
+%
+Total
+(1)
+20,849
+31
+%
+15,655
+28
+%
+62,688
+30
+%
+43,672
+25
+%
+Revenue by Category
+PGS
+42,599
+64
+%
+38,367
+67
+%
+131,616
+63
+%
+130,705
+76
+%
+Telehealth
+11,043
+16
+%
+7,673
+14
+%
+34,595
+17
+%
+7,673
+5
+%
+Consumer services
+53,642
+80
+%
+46,040
+81
+%
+166,211
+80
+%
+138,378
+81
+%
+Research services
+13,298
+20
+%
+10,851
+19
+%
+40,901
+20
+%
+32,956
+19
+%
+Total
+(1)
+$
+66,940
+100
+%
+$
+56,891
+100
+%
+$
+207,112
+100
+%
+$
+171,334
+100
+%
+15
+Table of Contents   (1) There was no Therapeutics revenue for the three and nine months ended December 31, 2022 and 2021. The following table summarizes revenue by region based on the shipping address of customers or the location where the services are delivered:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Amount
+% of Revenue
+Amount
+% of Revenue
+Amount
+% of Revenue
+Amount
+% of Revenue
+(In thousands, except percentages)
+United States
+$
+46,770
+70
+%
+$
+41,741
+73
+%
+$
+147,425
+71
+%
+$
+120,706
+70
+%
+United Kingdom
+16,194
+24
+%
+10,779
+19
+%
+47,198
+23
+%
+37,020
+22
+%
+Canada
+2,866
+4
+%
+3,065
+6
+%
+8,744
+4
+%
+9,052
+5
+%
+Other regions
+1,110
+2
+%
+1,306
+2
+%
+3,745
+2
+%
+4,556
+3
+%
+Total
+$
+66,940
+100
+%
+$
+56,891
+100
+%
+$
+207,112
+100
+%
+$
+171,334
+100
+%
+Contract Balances Accounts receivable are recorded when the right to consideration becomes unconditional. Contract assets include amounts associated with contractual rights related to consideration for performance obligations and are included in prepaid expenses and other current assets on the condensed consolidated balance sheets. The amount of contract assets was immaterial as of December 31, 2022 and March 31, 2022. Contract liabilities consist of deferred revenue. Revenue is deferred when the Company invoices in advance of fulfilling performance obligations under a contract. Deferred revenue primarily relates to Kits that have been shipped to consumers and non-consigned retail sites but not yet returned for processing by the consumer, as well as research services billed in advance of performance. Deferred revenue is recognized when the obligation to deliver results to the customer is satisfied and when research services are ultimately performed. Deferred revenue also consists of advance payments from members related to membership performance obligations and from customers related to subscription for extended health insight performance obligations that have not been satisfied as of the balance sheet date. Deferred revenue is recognized when the obligation to deliver membership services or subscription services is satisfied. As of December 31, 2022
+and 2021, deferred revenue for consumer services was $ 83.8
+million and $ 83.4
+million, respectively. Of the $ 51.3
+million and $ 39.3
+million of deferred revenue for consumer services as of
+March 31, 2022
+and 2021, respectively, the Company recognized $ 42.2
+million and $ 36.1
+million as revenue during the nine months ended December 31, 2022 and 2021, respectively. As of December 31, 2022
+and 2021, deferred revenue for research services was $ 25.1
+million and $ 28.6
+million, respectively, which included related party deferred revenue amounts of $ 22.9
+million and $ 26.2
+million, respectively. Of the $ 11.6
+million and $ 31.9
+million of deferred revenue for research services as of
+March 31, 2022
+and 2021, respectively, the Company recognized $ 9.6
+million and $ 30.2
+million as revenue during the nine months ended December 31, 2022 and 2021, respectively, which included related party revenue amounts of $ 9.2
+million and $ 29.0
+million, respectively. Remaining Performance Obligations The transaction price allocated to remaining performance obligations represents contracted revenue that has not yet been recognized, which includes deferred revenue and amounts that are expected to be billed and recognized as revenue in future periods. The Company has utilized the practical expedient available under Topic 606 to not disclose the value of unsatisfied performance obligations for PGS and telehealth as those contracts have an expected length of one year or less. As of December 31, 2022, the aggregate amount of the transaction price allocated to remaining performance obligations for research services was
+$ 31.3
+million.
+The Company expects to recognize revenue on 95% of t his amount over the next 12 months and the remainder thereafter. Comprehensive Loss Comprehensive loss is composed of two components: net loss and other comprehensive income. T he Company’s changes in foreign currency translation represents the components of other comprehensive income that are excluded from the reported net loss. Recently Adopted Accounting Pronouncements In August 2020, the Financial Accounting Standards Board (”FASB”) issued Accounting Standards Update (“ASU”) No. 2020-06,
+Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging—Contracts in Entity’s Own Equity
+16
+Table of Contents   (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity
+(“ASU 2020-06”) , which simplifies the accounting for certain financial instruments with characteristics of liabilities and equity, including convertible instruments and contracts on an entity’s own equity, and clarifies the guidance on the computation of earnings per share for those financial instruments. The guidance was effective for the Company beginning April 1, 2022. The Company adopted ASU 2020-06 as of April 1, 2022, and the adoption did not have a material impact on its consolidated financial statements and related disclosures.
+3.
+Fair Value Measurements Fair value is defined as the exchange price that would be received from the sale of an asset or paid to transfer a liability in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. The Company measures financial assets and liabilities at fair value at each reporting period using a fair value hierarchy, which requires the Company to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. A financial instrument’s classification within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. Three levels of inputs may be used to measure fair value: Level 1 – Quoted prices in active markets for identical assets or liabilities. Level 2 – Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Level 3 – Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities. The following table presents information about the Company’s financial instruments that are measured at fair value on a recurring basis:
+December 31, 2022
+Fair Value
+Level 1
+Level 2
+Level 3
+(In thousands)
+Financial Assets:
+Money market funds
+$
+418,000
+$
+418,000
+$
+—
+$
+—
+Total financial assets
+$
+418,000
+$
+418,000
+$
+—
+$
+—
+As of March 31, 2022, the Company did not have any financial instruments that are measured at fair value on a recurring basis. Cash equivalents consist primarily of money market funds and are classified within Level 1 of the fair value hierarchy because they are valued using quoted market prices in active markets.
+4 .
+Variable Interest Entities
+The Company determined that the PMCs and Affiliated Pharmacies are variable interest entities (“VIEs”) due to the respective equity holders having nominal capital at risk, and the Company has a variable interest in each of the PMCs and Affiliated Pharmacies. The Company consolidated the PMCs and Affiliated Pharmacies under the VIE model since the Company has the power to direct activities that most significantly impact the VIEs’ economic performance and the right to receive benefits or the obligation to absorb losses that could potentially be significant to the VIEs. Under the VIE model, the Company presents the results of operations and the financial position of the VIEs as part of the condensed consolidated financial statements of the Company.
+Furthermore, as a direct result of the financial support the Company provides to the VIEs (e.g., loans), the interests held by holders lack economic substance and do not provide them with the ability to participate in the residual profits or losses generated by the VIEs. Therefore, all income and expenses recognized by the VIEs are allocated to the Company’s stockholders. 17
+Table of Contents   The aggregate carrying value of total assets and total liabilities included on the condensed consolidated balance sheets for the VIEs after elimination of intercompany transactions were not material as of December 31, 2022 and were $ 11.2
+million and $ 13.3
+million, respectively, as of March 31, 2022. Total revenue included on the condensed consolidated statements of operations and comprehensive loss for the VIEs after elimination of intercompany transactions was $ 10.0
+million and $ 31.1
+million for the three and nine months ended December 31, 2022, respectively, and $ 7.6
+million for both the three and nine months ended December 31, 2021. Net income attributable to the VIEs included on the condensed consolidated statements of operations and comprehensive loss was $ 3.8
+million and $ 5.9
+million for the three and nine months ended December 31, 2022, respectively, and was
+no t material for the three and nine months ended December 31, 2021.
+5.
+Segment Information The Company currently operates in two reporting segments: Consumer and Research Services, and Therapeutics. The Consumer and Research Services segment consists of revenue and expenses from PGS and telehealth, as well as research services revenue and expenses from certain collaboration agreements (including the GSK Agreement (as defined below)). The Therapeutics segment consists of revenues from the out-licensing of intellectual property associated with identified drug targets and expenses related to therapeutic product candidates under clinical development. Substantially all of the Company’s revenues are derived from the Consumer and Research Services segment. See Revenue Recognition within Note 2, “ Summary of Significant Accounting Policies, ” for additional information regarding revenue. There are no inter-segment sales. Certain department expenses such as Finance, Legal, Regulatory and Supplier Quality, Corporate Communications and CEO Office are not reported as part of the reporting segments as reviewed by the CODM (as defined below). These amounts are included in Unallocated Corporate in the reconciliations below. The chief operating decision-maker (“CODM”) is the Chief Executive Officer (“CEO”). The CODM evaluates the performance of each segment based on Adjusted EBITDA. Adjusted EBITDA is defined as net income (loss) before net interest income (expense), net other income (expense), income tax expenses (benefit), depreciation and amortization, impairment charges, stock-based compensation expense, acquisition-related costs, and
+other items that are considered unusual or not representative of underlying trends of our business, including but not limited to: changes in fair value of warrant liabilities, litigation settlement, and restructuring and other charges , if applicable for the periods presented.
+Adjusted EBITDA is a key measure used by the Company’s management and Board of Directors to understand and evaluate the Company’s operating performance and trends, to prepare and approve the annual budget, and to develop short-term and long-term operating plans. In particular, the exclusion of the items eliminated in calculating Adjusted EBITDA provides useful measures for period-to-period comparisons of the Company’s business. Accordingly, Adjusted EBITDA provides useful information in understanding and evaluating the Company’s operating results in the same manner as management and the Board of Directors. Adjusted EBITDA should not be considered in isolation of, or as an alternative to, measures prepared in accordance with GAAP. Other companies, including companies in the Company’s industry, may calculate similarly-titled non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of Adjusted EBITDA as a tool for comparison. There are a number of limitations related to the use of these non-GAAP financial measures rather than net loss, which is the most directly comparable financial measure calculated in accordance with GAAP. Some of the limitations of Adjusted EBITDA include (i) Adjusted EBITDA does not properly reflect capital commitments to be paid in the future, and (ii) although depreciation and amortization are non-cash charges, the underlying assets may need to be replaced and Adjusted EBITDA does not reflect these capital expenditures. In evaluating Adjusted EBITDA, the Company will incur expenses similar to the adjustments in this presentation in the future. The presentation of Adjusted EBITDA should not be construed as an inference that the Company’s future results will be unaffected by these expenses or any unusual or non-recurring items. When evaluating the Company’s performance, Adjusted EBITDA should be considered alongside other financial performance measures, including net loss and other GAAP results. 18
+Table of Contents   T he Company’s revenue and Adjusted EBITDA by segment is as follows:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+(In thousands)
+Segment Revenue:
+Consumer and Research Services
+$
+66,940
+$
+56,891
+$
+207,112
+$
+171,334
+Total revenue
+(1)
+$
+66,940
+$
+56,891
+$
+207,112
+$
+171,334
+Segment Adjusted EBITDA:
+Consumer and Research Services Adjusted EBITDA
+$
+( 8,313
+)
+$
+( 31,967
+)
+$
+( 22,986
+)
+$
+( 33,232
+)
+Therapeutics Adjusted EBITDA
+( 21,471
+)
+( 19,916
+)
+( 58,599
+)
+( 57,046
+)
+Unallocated Corporate
+( 13,488
+)
+( 12,129
+)
+( 41,057
+)
+( 30,692
+)
+Total Adjusted EBITDA
+$
+( 43,272
+)
+$
+( 64,012
+)
+$
+( 122,642
+)
+$
+( 120,970
+)
+Reconciliation of net loss to Adjusted EBITDA:
+Net loss
+$
+( 91,961
+)
+$
+( 89,396
+)
+$
+( 247,558
+)
+$
+( 147,946
+)
+Adjustments
+Interest (income) expense, net
+( 3,671
+)
+( 76
+)
+( 5,307
+)
+( 213
+)
+Other (income) expense, net
+( 855
+)
+( 22
+)
+267
+( 39
+)
+Change in fair value of warrant liabilities
+—
+( 3,695
+)
+—
+( 32,989
+)
+Income tax benefit
+( 613
+)
+( 3,512
+)
+( 2,139
+)
+( 3,512
+)
+Depreciation and amortization
+5,257
+4,681
+15,512
+14,188
+Amortization of acquired intangible assets
+4,265
+2,898
+12,847
+2,898
+Impairment of acquired intangible assets
+9,968
+—
+9,968
+—
+Stock-based compensation expense
+34,338
+17,409
+93,768
+37,473
+Acquisition-related costs  (2)
+—
+7,701
+—
+9,170
+Total Adjusted EBITDA
+$
+( 43,272
+)
+$
+( 64,012
+)
+$
+( 122,642
+)
+$
+( 120,970
+)
+(1) There was no Therapeutics revenue for the three and nine months ended December 31, 2022 and 2021.
+(2) For the three and nine months ended December 31, 2021, acquisition-related costs primarily consisted of advisory, legal and consulting fees. Customers accounting for 10% or more of segment revenues were as follows:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+(In thousands, except percentages)
+Consumer and Research Services Segment Revenue:
+Customer C
+(1)
+$
+14,680
+22
+%
+$
+9,676
+17
+%
+$
+41,365
+20
+%
+$
+33,123
+19
+%
+Customer B
+(2)
+$
+13,068
+20
+%
+$
+8,069
+14
+%
+$
+36,258
+18
+%
+$
+29,281
+17
+%
+(1) Customer C revenues are primarily in the United States. (2) Customer B revenues are in the U.K. Revenue by geographical region can be found in the revenue recognition disclosures in Note 2, “ Summary of Significant Accounting Policies. ” Substantially all of the Company’s property and equipment, net of depreciation and amortization, was located in the United States during the periods presented. The reporting segments do not present total assets as they are not reviewed by the CODM when evaluating their performance.
+19
+Table of Contents
+6 .
+Collaborations
+GlaxoSmithKline Agreement In July 2018, the Company and an affiliate of GlaxoSmithKline plc (“GSK”) entered into a four-year exclusive drug discovery and development collaboration agreement (the “GSK Agreement”) for collaboration on identification and development of therapeutic agents with a unilateral option for GSK to extend the term for an additional year. The Company concluded that GSK is considered a customer. Therefore, the Company has applied the guidance in Topic 606 to account for and present consideration received from GSK related to research services provided by the Company. The Company’s activities under the GSK Agreement, which include reporting, drug target discovery, and joint steering committee participation, represent one combined performance obligation to deliver research services. In addition, the GSK Agreement, along with subsequent amendments, provided GSK the right to include certain identified pre-existing Company programs in the collaboration at GSK’s election, each of which is considered distinct from the research services. The exercise price for the pre-existing program options varied to reflect the respective stage of development of each such program, with up to two such programs being offered for no additional charge. The two programs offered for no additional charge were material rights and therefore also identified as performance obligations within the arrangement.
+In addition to cost-sharing during the performance of research services which is recorded within cost of revenue when incurred in the Consumer and Research Services segment, once drug targets have been identified for inclusion in the collaboration, the Company and GSK equally share in the costs of further research, development, and commercialization of identified targets, subject to certain rights of either party to opt-out of funding at certain predetermined development milestones. These cost-sharing charges for costs incurred subsequent to the identification of drug targets have been included in research and development expense on the condensed consolidated statements of operations and comprehensive loss during the period incurred. The Company may also share in the net profits or losses of products that are commercialized pursuant to the collaboration or receive royalties on products which are successfully commercialized. On January 18, 2022, GSK elected to exercise its option to extend the exclusive target discovery period of the ongoing collaboration with the Company for an additional year to July 2023. On October 5, 2022, the Company received a one-time payment of $ 50.0
+million from GSK in consideration of the exercise of the option pursuant to the GSK Agreement. The Company recognizes revenue related to the GSK Agreement as the performance obligation is satisfied using an input method to measure progress. The Company believes that actual hours incurred relative to projected hours is the most accurate measurement of progress for the input method. The Company recognized research services revenue related to the GSK Agreement of $ 13.1
+million and $ 8.1
+million during the three months ended
+December 31, 2022
+and 2021, respectively, and $ 36.3
+million and $ 29.3
+million during the nine months ended
+December 31, 2022 and 2021, respectively. As of December 31, 2022 and March 31, 2022 , the Company had deferred revenue, all of which was current, related to the GSK Agreement of $ 22.9
+million a nd $ 9.2
+million,
+respectively. As of December 31, 2022 and March 31, 2022 , there was $ 3.6
+million and
+zero , respectively, receivable related to the GSK Agreement. Cost-sharing amounts incurred subsequent to the identification of targets, included in research and development expenses, were $ 3.3
+million and $ 6.3
+million during the three months ended
+December 31, 2022
+and 2021, respectively, and $ 9.5
+million and $ 18.2
+million during the nine months ended
+December 31, 2022
+and 2021, respectively. Cost-sharing amounts incurred prior to the identification of targets included in cost of revenue were $ 0.2
+million and $( 0.1 ) million during the three months ended
+December 31, 2022
+and 2021, respectively, and $( 0.3 ) million and $ 0.2
+million during the nine months ended
+December 31, 2022 and 2021, respectively. As of December 31, 2022 and March 31, 2022 , the Company had $ 9.9
+million a nd $ 18.3
+million,
+respectively, related to balances of amounts payable to GSK for reimbursement of shared costs included within accounts payable and accrued expenses and other current liabilities on the condensed consolidated balance sheets. GSK’s affiliate, Glaxo Group Limited, held shares of Class B common stock, representing
+a
+20.1 % and
+20
+Table of Contents   16.3 % combined voting power as of December 31, 2022 and March 31, 2022, respectively; therefore, GSK is considered to be a related party.
+7 .
+Balance Sheet Components
+Property and Equipment, Net Property and equipment, net consisted of the following:
+December 31,
+March 31,
+2022
+2022
+(In thousands)
+Computer and software
+$
+9,992
+$
+10,573
+Laboratory equipment and software
+52,159
+51,557
+Furniture and office equipment
+9,117
+8,926
+Leasehold improvements
+40,852
+40,566
+Capitalized asset retirement obligations
+853
+853
+Property and equipment, gross
+112,973
+112,475
+Less: accumulated depreciation and amortization
+( 72,182
+)
+( 62,624
+)
+Property and equipment, net
+$
+40,791
+$
+49,851
+Depreciation and amortization expense was $ 3.7
+million and $ 3.9
+million for the three months ended
+December 31, 2022
+and 2021, respectively, and $ 11.5
+million and $ 12.3
+million for the nine months ended
+December 31, 2022 and 2021, respectively.
+Internal-Use Software, Net Internal-use software, net consisted of the following:
+December 31,
+March 31,
+2022
+2022
+(In thousands)
+Capitalized internal-use software
+$
+22,128
+$
+14,804
+Less: accumulated amortization
+( 8,305
+)
+( 5,169
+)
+Internal-use software, net
+$
+13,823
+$
+9,635
+The Company capitalize d $ 3.5
+million and $ 1.4
+million in
+internal-use software during the three months ended December 31, 2022 and 2021, respectively, and
+$ 7.8
+million and $ 3.6
+million in
+internal-use software during the nine months ended December 31, 2022 and 2021, respectively. Impairment to internal-use software was
+zero
+and $ 0.5
+million for the three and nine months ended
+December 31, 2022, respectively. There was
+no
+impairment to internal-use software for the three and nine months ended December 31, 2021. For the three months ended December 31, 2022
+and 2021, amortization expense related to internal-use software was $ 1.1
+million and $ 0.8
+million, respectively. For the nine months ended December 31, 2022 and 2021, amortization expense related to internal-use s oftware was $ 3.1
+million and $ 2.1
+million, respectively.
+Intangible Assets, Net Intangible assets, net consisted of the following:
+December 31, 2022
+Weighted Average Remaining Useful Life (Years)
+Gross Carrying Amount
+Accumulated Amortization
+Cumulative Impairment Charge
+Cumulative Currency Translation
+Net Carrying Amount
+(In thousands, except years)
+Customer relationships
+0.8
+$
+14,900
+$
+( 8,692
+)
+$
+—
+$
+—
+$
+6,208
+Partnerships
+8.8
+23,200
+( 4,160
+)
+( 9,968
+)
+( 1,122
+)
+7,950
+Trademark
+3.8
+11,000
+( 2,567
+)
+—
+—
+8,433
+Developed technology
+5.8
+24,100
+( 4,017
+)
+—
+—
+20,083
+Non-compete agreements
+3.8
+2,800
+( 653
+)
+—
+—
+2,147
+Patents
+5.7
+5,500
+( 959
+)
+—
+—
+4,541
+Total intangible assets
+$
+81,500
+$
+( 21,048
+)
+$
+( 9,968
+)
+$
+( 1,122
+)
+$
+49,362
+21
+Table of Contents
+March 31, 2022
+Weighted Average Remaining Useful Life (Years)
+Gross Carrying Amount
+Accumulated Amortization
+Net Carrying Amount
+(In thousands, except years)
+Customer relationships
+1.6
+$
+14,900
+$
+( 3,104
+)
+$
+11,796
+Partnerships
+6.6
+23,200
+( 1,558
+)
+21,642
+Trademark
+4.6
+11,000
+( 917
+)
+10,083
+Developed technology
+6.6
+24,100
+( 1,436
+)
+22,664
+Non-compete agreements
+4.6
+2,800
+( 233
+)
+2,567
+Patents
+6.4
+5,500
+( 347
+)
+5,153
+Total intangible assets
+$
+81,500
+$
+( 7,595
+)
+$
+73,905
+Amortization expense for intangible assets was $ 4.5
+million and $ 3.0
+million for the three months ended December 31, 2022 and 2021, respectively, and $ 13.4
+million and $ 3.0
+million for the nine months ended December 31, 2022 and 2021, respectively.
+During the three months ended December 31, 2022, the Company recorded a $ 10.0
+million impairment charge for the U.K. partnership asset group within sales and marketing expenses in its Consumer and Research segment. Estimated future amortization expense of the identified intangible assets as of December 31, 2022 were as follows:
+Estimated Amortization
+(In thousands)
+Fiscal years ending March 31,
+2023 (Remaining three months)
+$
+3,842
+2024
+12,265
+2025
+7,919
+2026
+7,919
+2027
+6,770
+Thereafter
+10,647
+Total estimated future amortization expense
+$
+49,362
+Accrued Expense and Other Current Liabilities Accrued expense and other current liabilities consisted of the following:
+December 31,
+March 31,
+2022
+2022
+(In thousands)
+Accrued payables
+$
+16,922
+$
+20,937
+Accrued compensation and benefits
+37,859
+14,898
+Accrued clinical expenses
+12,684
+6,717
+Accrued taxes and other
+1,571
+2,036
+Total accrued expenses and other current liabilities
+$
+69,036
+$
+44,588
+8 .
+Leases
+The Company’s lease portfolio includes leased offices, dedicated lab facility and storage space, and dedicated data center facility space, with remaining contractual periods from
+0.2
+years to
+8.6
+years.
+For purposes of calculating lease liabilities, lease terms may include options to extend the lease when it is reasonably certain that the Company will exercise those options.
+The Company incurred total lease costs of $ 3.3
+million and $ 3.4
+million for the three months ended
+December 31, 2022 and 2021, respectively, an d $ 10.1
+m illion and $ 10.2
+million for the nine months ended December 31, 2022 and 2021, respectively.
+22
+Table of Contents   As of
+December 31, 2022, the future minimum lease payments included in the measurement of the Company’s operating lease liabilities were as follows:
+December 31,
+2022
+(In thousands)
+Fiscal years ending March 31,
+2023 (Remaining three months)
+$
+2,551
+2024
+14,934
+2025
+14,464
+2026
+11,105
+2027
+11,348
+Thereafter
+53,095
+Total future operating lease payments
+107,497
+Less: imputed interest
+( 27,897
+)
+Total operating lease liabilities
+$
+79,600
+9 .
+Commitments and Contingencies
+Non-cancelable Purchase Obligations In the normal course of business, the Company enters into non-cancelable purchase commitments for goods or services with various parties. As of December 31, 2022, the Company had a
+total of $ 41.5
+million in
+outstanding non-cancelable purchase obligations with a term of 12 months or longer. Legal Matters On December 10, 2019, Celmatix Inc. (“Celmatix”) filed a lawsuit in the Supreme Court of the State of New York against the Company asserting claims against the Company for breach of contract and the implied covenant of good faith and fair dealing, and tortious interference with contract and prospective economic advantage, alleging damages that, according to the compliant, plaintiff “believed to be in excess of $ 100
+million.” On February 14, 2020, the Company filed its answer, denying all of the material allegations of the complaint and asserting counterclaims against Celmatix for breach of contract. Celmatix amended its complaint on July 13, 2021, asserting an additional claim against the Company for fraudulent inducement of contract. On July 19, 2021, the Company filed its answer to the amended complaint, denying all of the material allegations and asserting a counterclaim and an additional defense of fraudulent inducement of contract. On October 29, 2021, both parties made motions for partial summary judgment in their favor. Briefing of the parties’ respective motions was completed in December 2021.
+On March 30, 2022, the Company and Celmatix agreed to a settlement, pursuant to which the Company made a payment of $ 10.0
+million net of insurance coverage and all claims and counter-claims were released. The parties filed a Stipulation of Dismissal and Discontinuance with Prejudice on April 22, 2022. On April 25, 2022, the presiding judge entered an order noting that the motions for summary judgment are moot, canceling all future appearances and marking the case as disposed. As a result of the settlement, the Company recorded a net loss on litigation settlement of $ 10.0
+million during the fiscal year ended March 31, 2022. Indemnification As of December 31, 2022, the Company did not have any indemnification claims.
+10 .
+Stockholders' Equity
+Common Stock On the Closing Date, in connection with the Merger, the Company amended and restated its certificate of incorporation to authorize
+1,490,000,000
+shares of common stock, of which
+1,140,000,000
+shares are designated Class A common stock and
+350,000,000
+shares are designated Class B common stock, each with a par value of $ 0.0001
+per share. The rights of the holders of Class A common stock and Class B common stock are identical, except with respect to voting and conversion rights. Holders of Class A common stock are entitled to
+one
+vote per share and holders of Class B common stock are entitled to
+ten
+votes per share.
+Each share of Class B common stock is convertible into one share of Class A common stock at any time at the option of the holder and automatically converts into one share of Class A common stock upon transfer
+(except for certain permitted transfers).
+23
+Table of Contents   The Company has the following shares of common stock outstanding:
+December 31,
+March 31,
+2022
+2022
+Class A common stock: (par value $0.0001)
+Authorized
+1,140,000,000
+1,140,000,000
+Issued and outstanding (1)(2)
+288,629,645
+228,174,718
+Class B common stock: (par value $0.0001)
+Authorized
+350,000,000
+350,000,000
+Issued and outstanding
+168,531,838
+220,637,603
+(1) As of March 31, 2022, the Class A common stock included
+12,713,750
+shares held by VGAC founders (“Lock-Up Shares”) that would be released from the lock-up one year after the Closing Date. In August 2022, following the one-year anniversary of the Closing Date, the Lock-Up Shares were released and distributed to certain VGAC founders. (2) As of December 31, 2022 and March 31, 2022, the Class A common stock included
+3,814,125
+shares held by VGAC founders (“Earn-Out Shares”) that are subject to a lock-up of
+seven years
+from the Closing Date. The lock-up has an early release effective (i) with respect to
+50 % of the Earn-Out Shares, upon the closing price of the Company’s Class A common stock equaling or exceeding $ 12.50
+per share for any
+20
+trading days within any
+30 -trading-day period, and (ii) with respect to the other 50% of the Earn-Out Shares, upon the closing price of the Company’s Class A common stock equaling or exceeding $ 15.00
+per share for any 20 trading days within any 30-trading-day period; provided that the transfer restrictions applicable to the Earn-Out Shares will terminate on the date following the closing date on which the Company completes a liquidation, merger, amalgamation, capital stock exchange, reorganization, or other similar transaction that results in all of the Company’s public stockholders having the right to exchange their shares of Class A common stock for cash, securities, or other property (a “Liquidation Event”), if such Liquidation Event occurs prior to the date that the stock price thresholds referenced in (i) and (ii) are met. As of December 31, 2022, the Company did not meet any earn out thresholds. The Earn-Out Shares are issued and outstanding Class A common shares that cannot be forfeited, and as such meet the criteria for equity classification in accordance with ASC 505,
+Equity . Reserve for Issuance The Company has the following shares of Class A common stock reserved for future issuance, on an as-if-converted basis:
+December 31,
+March 31,
+2022
+2022
+Outstanding stock options
+69,089,621
+73,609,565
+Outstanding restricted stock units
+27,745,454
+10,676,378
+Remaining shares available for future issuance under 2021 Incentive Equity Plan
+42,512,084
+48,895,572
+Remaining shares available for future issuance under Employee Stock Purchase Plan
+10,289,663
+11,420,000
+Total shares of common stock reserved
+149,636,822
+144,601,515
+Preferred Stock Pursuant to the Company’s amended and restated certificate of incorporation, the Company is authorized to issue
+10,000,000
+shares of preferred stock, each with a par value of $ 0.0001
+per share. The Company’s Board of Directors has the authority to issue shares of the preferred stock in one or more series and to determine the preferences, privileges, and restrictions, including voting rights, of those shares. As of
+December 31, 2022
+and March 31, 2022, no shares of preferred stock were issued and outstanding.
+11.
+Equity Incentive Plans and Stock-Based Compensation Equity Incentive Plans In 2006, 23andMe, Inc. established its 2006 Equity Incentive Plan, as amended (the “2006 Plan”), which provides for the grant of stock options and restricted stock to its employees, directors, officers, and consultants. The 2006 Plan allows for time-based or performance-based vesting for the awards. The 2006 Plan has been amended and restated at various times since its adoption.
+On June 10, 2021, the shareholders of VGAC approved the 23andMe Holding Co. 2021 Incentive Equity Plan (the “2021 Plan”) and reserved
+136,000,000
+authorized
+shares of the Company’s Class A common stock for issuance thereunder. In addition, all equity awards of 23andMe, Inc. that were issued under the 2006 Plan were converted into comparable equity awards that are settled or
+24
+Table of Contents   exercisable
+for shares of the Company’s Class A common stock. As a result, each 23andMe, Inc. stock option was converted into an option to purchase shares of the Company’s Class A common stock based on an exchange ratio of
+2.293698169 . As of the effective date of the 2021 Plan, no further stock awards have been or will be granted under the 2006 Plan. In November 2021, in connection with the Lemonaid Acquisition, the Company registered an additional
+2,990,386
+shares of Class A common stock issuable under the 2021 Plan, which represent shares of Class A common stock issuable in exchange for outstanding options initially granted under Lemonaid Health’s 2014 Equity Incentive Plan, as amended.
+The number of shares of Class A common stock reserved for issuance under the 2021 Plan will automatically increase on January 1 of each calendar year, starting in 2022, in an amount equal to (i)
+22,839,019
+shares of Class A common stock, (ii)
+3.0 % of the aggregate number of shares of Class A common stock and Class B common stock outstanding, or (iii) a lesser number of shares determined by the Company’s Board of Directors prior to the applicable January 1 (the “Evergreen Provision”).
+On June 15, 2022, in accordance with the Evergreen Provision, the Company registered an additional
+13,384,415
+shares of Class A common stock issuable under the 2021 Plan. Options under the 2021 Plan have a contractual life of up to
+ten years . The exercise price of a stock option shall not be less than
+100 % of the estimated fair value of the shares on the date of grant, as determined by the Board of Directors.
+For Incentive Stock Options (“ISO”) as defined in the Internal Revenue Code of 1986, as amended (the “Code”), the exercise price of an ISO granted to a
+10 % stockholder shall not be less than
+110 % of the estimated fair value of the underlying stock on the date of grant as determined by the Board of Directors. The Company’s options generally vest over four years. Under the 2021 Plan, stock option awards entitle the holder to receive one share of Class A common stock for every option exercised. Restricted stock units (“RSUs”) granted under the 2021 Plan vest ratably over a period ranging from one to four years and are subject to the participant’s continuing service to the Company over that period. Until vested, RSUs do not have the voting and dividend participation rights of Class A common stock and the shares underlying the awards are not considered issued and outstanding. In February 2022, the Compensation Committee of the Company’s Board of Directors adopted a RSU conversion and deferral program for non-employee directors. The purpose of the program is to provide non-employee directors with the option to convert all or a portion of their cash compensation into a RSU award under the 2021 Plan and the opportunity to defer settlement of all or a portion of their RSU awards. As of December 31, 2022, four non-employee directors have elected to convert all of their cash compensation into RSU awards, and two non-employee directors have elected to defer settlement of their RSU awards under the program. On June 9, 2022, the Compensation Committee of the Company’s Board of Directors adopted an annual incentive plan (the “2022 AIP”), pursuant to which, beginning in fiscal year 2023, which began on April 1, 2022, employees and certain service providers of 23andMe, Inc. and its affiliates will be eligible to receive annual incentive bonuses in the form of cash or RSUs issued by the Company under the 2021 Plan, based upon the Company’s achievement of certain pre-established financial, operational, and strategic performance metrics. If the pre-established performance metrics for the one-year performance period ending March 31, 2023 are achieved, the Company anticipates that the 2022 annual incentive bonuses will be paid in the form of RSUs (collectively, the “2022 AIP Awards”). The number of RSUs will be determined by dividing the dollar amount of the 2022 AIP Awards by the trailing average closing price of the Company’s Class A common stock for the 90 days preceding the date of payment. The Company accounts for the 2022 AIP Awards as liability awards and adjusts the liability and corresponding expenses at the end of each quarter until the date of settlement, considering the probability that the performance conditions will be satisfied. The Company recorded stock-based compensation expense related to the 2022 AIP Awards of $ 10.0
+million and $ 19.8
+million for the three and nine months ended December 31, 2022, respectively. As of December 31, 2022, the liability of the 2022 AIP Awards was $ 19.8
+million, which was included in other current liabilities on the condensed consolidated balance sheet. Stock Option Activity Stock option activity and activity regarding shares available for grant under the 2021 Plan are as follows:
+Options Outstanding
+Outstanding Stock Options
+Weighted-Average Exercise Price
+Weighted-Average Remaining Contractual Life (Years)
+Aggregate Intrinsic Value
+(In thousands, except share, years, and per share data)
+Balance as of March 31, 2022
+73,609,565
+$
+4.21
+6.9
+$
+35,979
+Granted
+4,866,230
+$
+3.50
+Exercised
+( 2,592,856
+)
+$
+1.57
+Cancelled/forfeited/expired
+( 6,793,318
+)
+$
+4.73
+Balance as of December 31, 2022
+69,089,621
+$
+4.20
+6.3
+$
+10,109
+Vested and exercisable as of December 31, 2022
+46,306,985
+$
+4.11
+5.2
+$
+7,165
+25
+Table of Contents   The weighted average grant date fair value of options granted for the nine months ended December 31, 2022
+was $ 2.42 . The intrinsic value of vested options exercised for the nine months ended
+December 31, 2022
+was $ 4.4
+million. As of
+December 31, 2022 , unrecognized stock-based compensation cost related to unvested stock options was $ 75.3
+million, which is expected to be recognized over a weighted-average period of
+2.6
+years. Due to a valuation allowance on deferred tax assets, the Company did
+no t recognize any tax benefit from stock option exercises for the three and nine months ended
+December 31, 2022 and 2021. The Company estimated the fair value of options granted using the Black-Scholes option-pricing model. The fair value of stock options is being amortized on a straight-line basis over the requisite service period of the awards. The weighted average Black-Scholes assumptions used to value stock options at the grant dates are as follows:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Expected term (years)
+6.0
+6.0
+3.3
+6.1
+6.0
+6.8
+3.3
+6.1
+Expected volatility
+79
+%
+79
+%
+72
+%
+72
+%
+76
+%
+81
+%
+72
+%
+73
+%
+Risk-free interest rate
+4.2
+%
+4.2
+%
+1.2
+%
+1.4
+%
+2.8
+%
+4.2
+%
+1.0
+%
+1.4
+%
+Expected dividend yield
+—
+—
+—
+—
+—
+—
+—
+—
+Restricted Stock Units The following table summarizes the RSU activity under the equity incentive plans and related information:
+Unvested RSUs
+Weighted-Average Grant Date Fair Value Per Share
+Balance as of March 31, 2022
+10,676,378
+$
+9.70
+Granted
+24,694,698
+$
+3.34
+Vested
+( 4,673,354
+)
+$
+6.75
+Cancelled/forfeited
+( 2,952,268
+)
+$
+5.60
+Balance as of December 31, 2022
+27,745,454
+$
+4.97
+As of December 31, 2022 , unrecognized stock-based compensation expense related to outstanding unvested RSUs was $ 128.4
+million, which is expected to be recognized over a weighted-average period of
+3.1
+years. Stock Subject to Vesting In November 2021, in connection with the Lemonaid Acquisition, the Company granted
+3,747,027
+shares of Class A common stock with an aggregate grant date fair value of $ 43.9
+million to two recipients, each of whom was a former stockholder and officer of Lemonaid and each of whom, following the closing of the Lemonaid Acquisition, joined the Company’s management team. The shares vest over a
+four-year
+period in quarterly installments beginning on February 1, 2022, subject to the respective recipient’s continued employment with the Company. The Company recognized stock-based compensation expense related to these awards of $ 2.8
+million and $ 8.2
+million for the three and nine months ended December 31, 2022, respectively, within general and administrative expenses. Unrecognized stock-based compensation expense of $ 31.1
+million is expected to be recognized over a weighted average period of
+2.8
+years. Employee Stock Purchase Plan On June 10, 2021, the shareholders of VGAC approved the 23andMe Holding Co. Employee Stock Purchase Plan (the “ESPP”). A total of
+11,420,000
+shares of the Company’s Class A common stock were initially reserved for issuance under the ESPP. Pursuant to the terms of the ESPP, the number of shares of the Company’s Class A common stock reserved for issuance will automatically increase on January 1 of each calendar year, beginning on January 1, 2023, by the lesser of (i) an amount equal to one percent ( 1.0 %) of the total number of shares of Class A and Class B common stock outstanding as of the last day of the immediately preceding December 31st, (ii)
+5,000,000
+shares, or (iii) a lesser number of shares as determined by the Board of Directors in its discretion. As of December 31, 2022,
+1,130,337
+shares of the Company’s Class A common stock have been issued and
+10,289,663
+shares remained available for future issuance under the ESPP.
+The ESPP provides for concurrent 12-month offerings with successive six-month purchase intervals commencing on March 1 and September 1 of each year and purchase dates occurring on the last day of each such purchase interval (i.e., August 31 and February 28). The ESPP contains a rollover provision whereby if the price of the Company’s Class A common stock on the first day of a new offering
+26
+Table of Contents   period is less than the price on the first day of any preceding offering period, all participants in a preceding offering period with a higher first day price will be automatically withdrawn from such preceding offering period and re-enrolled in the new offering period. The rollover feature, when triggered, will be accounted for as a modification to the preceding offering period, resulting in incremental expense to be recognized over the new offering period.
+Stock-Based Compensation Total stock-based compensation expense, including stock-based compensation expense related to awards classified as liabilities, is included in costs and expenses as follows:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+(in thousands)
+(in thousands)
+Cost of revenue
+$
+3,200
+$
+1,098
+$
+8,940
+$
+2,841
+Research and development
+15,188
+7,697
+39,267
+18,754
+Sales and marketing
+2,444
+1,178
+7,336
+2,941
+General and administrative
+13,506
+7,436
+38,225
+12,937
+Total stock-based compensation expense
+$
+34,338
+$
+17,409
+$
+93,768
+$
+37,473
+12.
+Income Taxes The Company computes provision for income taxes by applying the estimated annual effective tax rate to year-to-date income from recurring operations and adjust the provision for discrete tax items recorded in the period. The Company’s annual estimated effective tax rate differs from the U.S. federal statutory rate primarily as a result of a valuation allowance against its deferred tax assets. An income tax benefit of $ 0.6
+million and $ 2.1
+million was recognized for the three and nine months ended December 31, 2022, respectively, and $ 3.5
+million for both the three and nine months ended December 31, 2021. This benefit from income taxes is reflected on the condensed consolidated statements of operations and comprehensive loss for the periods presented. The Company continues to maintain a full valuation allowance on the remaining net deferred tax assets of the U.S. entities as it is more likely than not that the Company will not realize the deferred tax assets. Utilization of net operating loss carryforwards may be subject to future annual limitations provided by Section 382 of the Code and similar state provisions. The Company files income tax returns in the U.S. federal jurisdiction, various states, and the United Kingdom. The Company is not currently under examination by income tax authorities in federal, state, or other jurisdictions. All tax returns will remain open for examination by the federal and state authorities for three and four years, respectively, from the date of utilization of any net operating loss or credits.
+13.
+Net Loss Per Share Attributable to Common Stockholders The net loss attributable to common stockholders is allocated on a proportionate basis, and the resulting net loss per share is identical for Class A and Class B common stock under the two-class method.
+No
+di vidends were declared or paid for the three and nine months ended December 31, 2022 and 2021.
+The Company’s stock options, early exercised stock options, RSUs, and restricted stock awards subject to vesting are considered to be potential common stock equivalents but have been excluded from the calculation of diluted net loss per share attributable to common stockholders as their effect is anti-dilutive. Net loss attributable to common stockholders was equivalent to net loss for all periods presented. 27
+Table of Contents   The following table sets forth the computation of basic and diluted net loss per share attributable to common stockholders for the periods presented:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Class A
+Class B
+Class A
+Class B
+Class A
+Class B
+Class A
+Class B
+(In thousands, except share and per share data)
+Numerator:
+Net loss attributable to common stockholders
+$
+( 57,490
+)
+$
+( 34,471
+)
+$
+( 25,829
+)
+$
+( 63,567
+)
+$
+( 144,000
+)
+$
+( 103,558
+)
+$
+( 36,672
+)
+$
+( 111,274
+)
+Denominator:
+Weighted-average shares used in computing net loss per share attributable to common stockholders, basic and diluted
+283,449,950
+169,957,252
+123,255,556
+303,335,555
+261,728,144
+188,221,685
+82,912,004
+251,579,901
+Net loss per share:
+Net loss per share attributable to common stockholders, basic and diluted
+$
+( 0.20
+)
+$
+( 0.20
+)
+$
+( 0.21
+)
+$
+( 0.21
+)
+$
+( 0.55
+)
+$
+( 0.55
+)
+$
+( 0.44
+)
+$
+( 0.44
+)
+The potential shares of Class A common stock that were excluded from the computation of diluted net loss per share attributable to common stockholders for the periods presented because including them would have been anti-dilutive were as follows (there were none for Class B common stock for both periods presented):
+As of December 31,
+2022
+2021
+Outstanding stock options
+69,089,621
+66,252,927
+Restricted stock units
+27,745,454
+9,701,083
+Shares subject to vesting
+2,810,271
+3,747,027
+Liability RSU awards
+724,506
+—
+ESPP
+3,713,166
+—
+Total
+104,083,018
+79,701,037
+14.
+Subsequent Events   On February 6, 2 023, the Company filed a shelf Registration Statement on Form S-3 with the SEC, relating to the sale, from time to time, in one or more transactions, of up to $ 500
+million of common stock, preferred stock, debt securities, warrants, and units (the “Shelf Registration Statement”). Also, on
+February 6, 2 023, the Company entered into a Sales Agreement (the “Sales Agreement”) with Cowen and Company, LLC (the “Agent”), pursuant to which the Company may sell, from time to time, at its option, up to $ 150
+million in aggregate principal amount of an indeterminate amount of shares (the “ATM Shares”) of the Company’s Class A common stock, $ 0.0001
+par value per share, through the Agent, as the Company’s sales agent. Subject to the terms of the Sales Agreement, the Agent will use reasonable efforts to sell the ATM Shares from time to time, based upon the Company’s instructions (including any price, time, or size limits or other customary parameters or conditions the Company may impose), by methods deemed to be an “at the market offering” as defined in Rule 415(a)(4) promulgated under the Securities Act and pursuant to, and only upon the effectiveness of, the Shelf Registration Statement. The Company will pay the Agent a commission of
+3.0 % of the gross proceeds from the sales of the ATM Shares, if any. The Company has also agreed to provide the Agent with customary indemnification and contribution rights. The offering of the ATM Shares will terminate upon the earliest of (a) the sale of the maximum number or amount of the ATM Shares permitted to be sold under the Sales Agreement and (b) the termination of the Sales Agreement by the parties thereto. While the Company cannot provide any assurances that it will sell any ATM Shares pursuant to the Sales Agreement, the Company expects to use the net proceeds from the sale of securities under the Sales Agreement, if any, for general corporate purposes, including working capital requirements and operating expenses; the Company, however, has not allocated the net proceeds for specific purposes. As of the date of this Form 10-Q, the Company has not made any sales under the Sales Agreement.
+28
+Table of Contents
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis provide information that management believes is relevant to an assessment and understanding of our consolidated results of operations and financial condition. You should read the following discussion and analysis of our financial condition and results of operations in conjunction with the Fiscal 2022 Form 10-K, including the audited consolidated financial statements of 23andMe Holding Co. as of March 31, 2022 and 2021 and Management's Discussion and Analysis of Financial Condition and Results of Operations included therein, as well as the accompanying unaudited condensed consolidated financial statements and notes thereto included in this Form 10-Q.
+In addition to historical information, this discussion and analysis contains forward-looking statements. These forward-looking statements are subject to risks and uncertainties, including those discussed in the Fiscal 2022 Form 10-K and our subsequent reports filed with the SEC, that could cause actual results to differ materially from historical results or anticipated results. Unless the context otherwise requires, references in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations” to the “Company,” “we,” “us,” and “our” refer to 23andMe Holding Co., a Delaware corporation formerly known as VG Acquisition Corp. and its consolidated subsidiaries. References to VG Acquisition Corp. or “VGAC” refer to the Company prior to the consummation of the Business Combination.
+Overview
+23andMe Holding Co. is a mission-driven company dedicated to empowering customers to live healthier lives. Our mission is to help people access, understand, and benefit from the human genome.
+We pioneered direct-to-customer genetic testing through our Personal Genome Service® (“PGS”) products and services. Our PGS business provides customers with a full suite of genetic reports, including information on customers’ genetic ancestral origins, personal genetic health risks, and chances of passing on certain rare carrier conditions to their children, as well as reports on how genetics can affect responses to medications. We believe that by providing customers with direct access to their genetic information, we can empower them to make better decisions by arming them with information about their risks of developing certain diseases or conditions and by highlighting opportunities for prevention and mitigation of disease. We provide customers with an engaging experience, including access to frequent updates to their genetic health and ancestry reports and new product features, the ability to connect with genetic relatives, and a subscription option for extended health insights. Customers have the option to participate in our research programs and over 80% of our customers have done so. We analyze consenting customers’ genotypic data together with phenotypic data they provide to us concerning their physical characteristics, family origins, lifestyle, and other habits. We analyze this data using our proprietary machine learning and other analytic techniques in order to discover insights into whether and how particular genetic variants affect the likelihood of individuals developing specific diseases. These insights may highlight opportunities to develop a drug to treat or cure a specific disease.
+We completed our acquisition of Lemonaid Health, Inc. (“Lemonaid” or “Lemonaid Health”) on November 1, 2021 (the “Lemonaid Acquisition”). Lemonaid Health, an on-demand platform for accessing medical care and pharmacy services online, offers telemedicine, lab, and pharmacy services to patients in all 50 states, the District of Columbia, and the U.K. We believe that the addition of Lemonaid Health’s telehealth services to our consumer business will enable us to bring better healthcare to individuals in an affordable and accessible way and offer personalized healthcare, based on a patient’s wellness, choices, and genetics.
+Our Therapeutics business focuses on the use of genetic insights to validate and develop novel therapies to improve patients’ lives. We currently have research programs across several therapeutic areas, including oncology, respiratory, and cardiovascular diseases. In July 2018, we signed an exclusive agreement with an affiliate of GlaxoSmithKline plc (“GSK”) to leverage genetic insights to validate, develop, and commercialize promising drugs (the “GSK Agreement”). This multi-year collaboration is expected to identify and prioritize genetically validated drug targets, enable rapid progression of clinical programs, and bring useful new drugs to market. In addition to our collaboration with GSK, we have several proprietary programs, one of which is being pursued in collaboration with Almirall, S.A.
+Our first joint immuno-oncology antibody collaboration program with GSK targeting CD96 (GSK6097608, a.k.a. GSK’608) entered clinical trials in 2020. We elected to take a royalty option on the program per the terms of the GSK Agreement. GSK will be solely responsible for GSK’608’s subsequent development in later-stage clinical trials, including full development costs moving forward, except as previously agreed with GSK. Our second most advanced program, 23ME-00610, is an antibody that blocks CD200R1 to inhibit the suppression of T-cells by tumors to reactivate their immune response.
+23ME-00610 is wholly owned by us, and this program entered Phase 1 clinical trials in January 2022. For any other wholly owned programs or any programs as to which GSK has exercised its option to opt out and elected to take a royalty option, we have the opportunity to collaborate with, or out-license such programs to, third parties or to develop them independently.
+29
+Table of Contents
+We operate in two reporting segments: Consumer and Research Services, and Therapeutics. The Consumer and Research Services segment consists of our PGS and telehealth business, as well as research services that we perform under agreements with third parties, including the GSK Agreement, relating to the use of our genotypic and phenotypic data to identify promising drug targets. The Therapeutics segment consists of revenues from the out-licensing of intellectual property associated with identified drug targets and expenses related to therapeutic product candidates under clinical development. For the three and nine months ended December 31, 2022 and 2021, all our revenues were derived from our Consumer and Research Services segment. There was no Therapeutics revenue for all periods presented.
+The table below reflects our revenue for the three and nine months ended December 31, 2022 and 2021:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+$ Change
+% Change
+2022
+2021
+$ Change
+% Change
+(dollars in thousands)
+(dollars in thousands)
+Consumer and Research Services Revenue
+$
+66,940
+$
+56,891
+$
+10,049
+18
+%
+$
+207,112
+$
+171,334
+$
+35,778
+21
+%
+Total Revenue
+$
+66,940
+$
+56,891
+$
+10,049
+18
+%
+$
+207,112
+$
+171,334
+$
+35,778
+21
+%
+The table below reflects our two segments’ Adjusted EBITDA (as defined below) for the three and nine months ended December 31, 2022 and 2021:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+$ Change
+% Change
+2022
+2021
+$ Change
+% Change
+(dollars in thousands)
+(dollars in thousands)
+Consumer and Research Services
+Adjusted EBITDA
+(1)
+$
+(8,313
+)
+$
+(31,967
+)
+$
+23,654
+(74
+%)
+$
+(22,986
+)
+$
+(33,232
+)
+$
+10,246
+(31
+%)
+Therapeutics
+Adjusted EBITDA
+(1)
+$
+(21,471
+)
+$
+(19,916
+)
+$
+(1,555
+)
+8
+%
+$
+(58,599
+)
+$
+(57,046
+)
+$
+(1,553
+)
+3
+%
+(1) Adjusted EBITDA is the measure of segment profitability reported to our Chief Executive Officer (“CEO”), who is our chief operating decision-maker (“CODM”). We define Adjusted EBITDA as net income (loss) before net interest income (expense), net other income (expense), changes in fair value of warrant liabilities, income tax benefit, depreciation and amortization of fixed assets, amortization of internal use software, amortization of acquired intangible assets, goodwill and intangible assets impairment, non-cash stock-based compensation expense, acquisition-related costs, and expenses related to restructuring and other charges, if applicable, for the period. See “ —Adjusted EBITDA ” below for a reconciliation of Adjusted EBITDA to net loss.
+Key Factors Affecting Results of Operations
+We believe that our performance and future success depend on several factors that present significant opportunities for us but also pose risks and challenges, including those set forth in Part I, Item 1A., “Risk Factors,” of the Fiscal 2022 Form 10-K.
+New Customer Acquisition
+PGS . Our ability to attract new customers is a key factor for the future growth of our PGS business and our database. Our historical financial performance has largely been driven by the rate of sales of our PGS kits. Revenue from our PGS business, primarily composed of kit sales, represented approximately 64% and 67% of our total revenues for the three months ended December 31, 2022 and 2021, respectively, and approximately 64% and 76% of our total revenues for the nine months ended December 31, 2022 and 2021, respectively. In addition, kit sales are a source of subscribers to our subscription service, which represented approximately 6% and 3% of our total revenue for the three months ended December 31, 2022 and 2021, respectively, and approximately 5% and 3% of our total revenue for the nine months ended December 31, 2022 and 2021, respectively. We expect PGS revenues to grow through a combination of kit sales, our subscription service, and new product offerings that enhance or add new product features. This will be achieved by increasing awareness of our current and new offerings in existing markets and expanding into new markets.
+30
+Table of Contents
+Purchasing patterns of our kits are largely influenced by product innovation, marketing spend, and varying levels of price discounting on our products. These promotional windows have typically aligned with gift-giving portions of the year, with an emphasis on the holiday period, other gift-giving and family-oriented holidays such as Mother’s Day and Father’s Day, and major Amazon sales events such as Prime Day, which may change from year to year. Historically, we have experienced higher revenue in the fourth quarter of the fiscal year compared to other quarters. Over time, we expect the seasonality of our business to continue, with pronounced increases in revenue recognized in the fourth fiscal quarter. We generally incur higher sales and marketing expenses during holiday promotional periods, which have included, among others, Mother’s Day, Father’s Day, the November-December holidays, and major Amazon sales events such as Prime Day, which may change from year to year..
+Telehealth . Our ability to attract new patients and members is a key factor for the future growth of our telehealth business. Revenue from our telehealth business represented approximately 16% and 13% of our total revenue for the three months ended December 31, 2022 and 2021, respectively, and approximately 17% and 4% of our total revenues for the nine months ended December 31, 2022 and 2021, respectively. Telehealth awareness, acceptance, and usage have been positively impacted by the COVID-19 pandemic, leading to increased consumer acceptance of virtual care. While we anticipate continued growth, there are many participants in the telehealth market, including new entrants and traditional health care systems offering virtual care, and competition is intense.
+Engagement of Research Participants
+Our ability to conduct research and grow our database of genotypic and phenotypic information depends on our customers’ willingness to consent to participate in our research. Over 80% of our customers have consented to participate in research. These customers permit us to use their de-identified data in our research and many of them regularly respond to our research surveys, providing us with phenotypic data in addition to the genetic data in their DNA samples. We analyze this genotypic and phenotypic data and conduct genome-wide association studies and phenome-wide association studies, which enable us to determine whether particular genetic variants affect the likelihood of individuals developing certain diseases.
+Our customers can withdraw their consent to participate in research at any time. If a significant number of our customers were to withdraw their consent, or if the percentage of consenting customers were to decline significantly in the future, our ability to conduct research successfully could be diminished, which could adversely affect our business.
+Drug Target Productivity of Our Genetics Database
+Our genetics database underpins our research programs and enables us to identify drug targets with novel genetic evidence. As of March 31, 2022, we had identified over 50 drug targets. We expect the current productivity of our genetics database to continue based on the increasing amounts of data that we expect to result from increased kit sales and customer engagement. Any significant decline in such productivity would have a negative impact on our ability to identify drug targets and ultimately to develop and commercialize new drugs.
+Development of Therapeutic Product Candidates
+Our ability to successfully identify and develop therapeutic product candidates will determine the success of our Therapeutics business over time. Developing therapeutic product candidates with novel genetic evidence requires a significant investment of resources over a prolonged period of time, and a core part of our strategy is to continue making sustained investments in this area. We have over 50 programs in our pipeline in various stages of research and development that have been selected and are being pursued.
+For the therapeutic product candidate GSK6097608, our first joint immuno-oncology antibody program with GSK, we have elected to take a royalty option and GSK is solely responsible for continued clinical development. Our wholly-owned immuno-oncology antibody, 23ME-00610, entered Phase 1 clinical trials in January 2022. Additional programs are in research or preclinical stages of development. We have incurred, and will continue to incur, significant research and development costs for preclinical studies and clinical trials. We expect that our research and development expenses will continue to constitute a significant portion of our expenses in future periods.
+Collaborations
+Substantially all of our research services revenues are generated from the GSK Agreement. In January 2022, GSK elected to exercise its option to extend the exclusive target discovery period of the ongoing collaboration with us for an additional year to July 2023. In October 2022, we received a one-time payment of $50.0 million from GSK in consideration of the exercise of the option pursuant to the GSK Agreement. In addition, we elected to take a royalty option on our joint immuno-oncology antibody collaboration program with GSK targeting CD96 (GSK6097608, a.k.a. GSK’608). GSK will be solely responsible for GSK’608’s subsequent development in later-stage clinical trials, including full development costs moving forward.
+31
+Table of Contents
+Our ability to enter into new collaboration agreements upon the expiration of the GSK Agreement will affect our research services revenues. If we are unable to enter into additional collaboration agreements, our future research services revenue may decline.
+Ability to Commercialize Our Therapeutics Products
+Our ability to generate revenue from our therapeutic product candidates depends on our and our collaborators’ ability to successfully complete clinical trials for our therapeutic product candidates and receive regulatory approval, particularly in the United States, Europe, and other major markets.
+We believe that our broad portfolio of therapeutic product candidates with novel genetic evidence and validated targets enhances the likelihood that our research and development efforts will yield successful therapeutic product candidates. Nonetheless, we cannot be certain if any of our therapeutic product candidates will receive regulatory approvals. Even if such approvals are granted, we will thereafter need to establish manufacturing and supply arrangements and engage in extensive marketing efforts and expenses prior to generating any revenue from such products. The ultimate commercial success of our products will depend on their acceptance by patients, the medical community, and third-party payors, their ability to compete effectively with other therapies in the market, and the appropriate pricing and reimbursement of the products by third-party payors.
+The competitive environment is also an important factor with the commercial success of our therapeutic product candidates, and our ability to successfully commercialize a therapeutic product candidate will depend on whether there are competing therapeutic product candidates in development or already marketed by other companies.
+Expansion into New Categories
+We launched our 23andMe+ subscription service in October 2020, and through the Lemonaid Acquisition, we began providing access to telehealth services in November 2021. We expect to expand into new categories and innovative healthcare models with the goal of driving future growth. Those opportunities include product enhancements, such as our proprietary polygenic risk scores, new product offerings aimed at extending our personalized and customer-centric philosophy to primary healthcare, and potential additional acquisitions of other consumer-oriented healthcare businesses. Such expansion would allow us to increase the number of engaged customers who purchase or subscribe for additional products and services.
+Success of our subscription service will depend upon our ability to acquire and retain subscribing customers over an extended period. Retention of customers will be based on the perceived value of the premium content and features they receive. If we are unable to provide sufficiently compelling new content and features, subscribers may not renew.
+Similarly, the success of our telehealth business is dependent on our ability to attract and retain patients and members. Category expansion allows us to increase the number of patients to whom we can provide products and services. It also allows us to offer access to treatment of additional conditions that may already affect our current patients. Expanding into new categories will require financial investments in additional headcount, marketing and customer acquisition expenses, additional operational capabilities, and may require the purchase of new inventory. If we are unable to generate sufficient demand in new categories, we may not recover the financial investments we make into new categories and revenue may not increase in the future.
+Investments in Growth and Innovation
+Our research platform is based on a continually growing database of genotypic and phenotypic information. Our database allows us to conduct analyses in a multi-directional fashion, by searching for genetic signatures of particular diseases or the likelihood of a particular genetic variant causing disease in a particular individual or group of individuals who share the same trait. Our platform enables us to rapidly and serially conduct studies across an almost unlimited number of conditions at unprecedented statistical power, yielding insights into the causes and potential treatments of a wide variety of diseases.
+We believe that our research platform enables us to rapidly identify genetically validated drug targets with improved odds of clinical success. With our state-of-the-art bioinformatics capabilities, we analyze the trillions of data points in our database, optimizing the use of our resources, to genetically validate drug targets, inform patient selection for clinical trials, and increase the probability of success of our programs. We plan to advance new drugs through the rapid selection of those with compelling clinical promise.
+We expect to continue investing in our business to capitalize on market opportunities and the long-term growth of our company. We intend to make significant investments in therapeutics research and development efforts and in marketing to acquire new customers and drive brand awareness, and also expect to incur software development costs as we work to enhance our existing products, expand the depth of our subscription service, and design new offerings, including additional primary care offerings. In addition, we expect to incur additional expenses as a result of operating as a public company. The expenses we incur may vary significantly by quarter
+32
+Table of Contents
+depending, for example, on when significant hiring takes place, and as we focus on building out different aspects of our business. We regularly evaluate our capital allocation approach to make sure our capital is being used for the highest value-creating activities and in the most efficient manner. This may require changes to investment levels, how we operate, or are structured to ensure alignment to business priorities.
+COVID-19 Impact
+We are continuing to closely monitor the impact of the COVID-19 pandemic in all aspects of our business. We rely entirely on third-party vendors in our PGS and telehealth supply chain, including our PGS kit and array manufacturers, order fulfillment vendor, our DNA-processing lab vendor, and drug suppliers for our pharmacy business. These vendors have independent responses to managing the effect of the COVID-19 pandemic. We have been amplifying monitoring of our inventory levels and supply chain and have not experienced any significant disruptions in our ability to fulfill and process PGS or telehealth orders to date. If we experience delays or other challenges in obtaining supplies necessary for the production, fulfillment, or distribution of the products or services we offer, it could negatively affect our ability to satisfy our obligations to customers and maintain our operations in a cost-efficient manner and have a material adverse effect on our business.
+With respect to our telehealth services, the COVID-19 pandemic has increased awareness, acceptance, and usage of virtual medical care and pharmacy services, resulting in greater consumer trial and use of telehealth. While we believe that these trends present significant opportunities for our telehealth services, it is uncertain whether the increase in demand caused by COVID-19 will continue.
+In our Therapeutics segment, the advancement of our programs requires our scientists to have physical access to our laboratory facilities on a continuing basis, and we have implemented health and safety protocols and procedures to keep our laboratory facilities operating during the COVID-19 pandemic. In an effort to provide a safe work environment for our employees, we have, among other things, increased the cadence of sanitization and
+air filtration
+in our office and lab facilities. We continue to monitor the impact and effects of the COVID-19 pandemic and our response to it, and we expect to continue to take actions as may be required or recommended by government authorities or as we determine are in the best interests of our employees and other business partners in light of the pandemic.
+Despite the introduction and continued administration of COVID-19 vaccines, the pandemic remains highly volatile and continues to evolve. We cannot accurately predict the duration or extent of the impact of the COVID-19 virus, including the Omicron, Delta, and other variants and other areas that may affect our business operations. Despite our mitigation efforts, we may experience delays or an inability to execute on our clinical and preclinical development plans, reduced revenues or other adverse impacts to our business, which are described in more detail in Part I, Item 1A., “Risk Factors,” of the Fiscal 2022 Form 10-K. The duration of the COVID-19 pandemic and the impact of the efforts being made to contain it or to flatten the spread of the disease cannot be predicted with any accuracy, and this uncertainty could have a material impact on our financial results for the foreseeable future.
+Basis of Presentation
+The condensed consolidated financial statements and accompanying notes of the Company included elsewhere in this Form 10-Q include the accounts of 23andMe Holding Co. and its consolidated subsidiaries and variable interest entities and were prepared in accordance with GAAP. As 23andMe, Inc. is considered the Company’s accounting predecessor, certain historical financial information presented in the unaudited condensed consolidated financial statements represents the accounts of 23andMe, Inc. and its wholly owned subsidiary.
+As discussed above, we operate in two reporting segments: Consumer and Research Services, and Therapeutics. The Consumer and Research Services segment consists of our PGS and telehealth business, as well as research services that we perform under agreements with third parties, including the GSK Agreement, relating to the use of our genotypic and phenotypic data to identify promising drug targets. The Therapeutics segment consists of revenues from the out-licensing of intellectual property associated with identified drug targets and expenses related to therapeutic product candidates under clinical development. Substantially all our revenues are derived from our Consumer and Research Services segment.
+Key Business Metrics
+We monitor the following key metrics to help us evaluate our business, identify trends, formulate business plans, and make strategic decisions. We believe the following metrics are useful in evaluating our business:
+33
+Table of Contents
+• PGS Customers.
+When we refer to our “Customers,” this means individuals who have registered a PGS kit and provided their DNA sample. We view Customers as an important metric to assess our financial performance because each Customer has registered a kit and has engaged with us by providing us with their DNA sample. These Customers may be interested in purchasing additional PGS products and services or in becoming subscribers to our new 23andMe+ subscription service, especially if they consent to participate in our research. We had approximately 13.6 million and 12.8 million Customers as of December 31, 2022 and March 31, 2022, respectively.
+• Consenting Customers . “Consenting Customers” are Customers who have affirmatively opted in to participate in our research program. Consenting Customers are critical to our research programs and to the continuing growth of our database, which we use to identify drug targets and to generate new and interesting additional ancestry and health reports. Moreover, Consenting Customers respond to our research surveys, providing useful phenotypic data about their traits, habits, and lifestyles, which we analyze using de-identified data to determine whether a genetic variant makes an individual more or less likely to develop certain diseases. A Consenting Customer is likely to be more engaged with our brand, which may lead to the purchase of our 23andMe+ subscription service and to participation in further research studies, helping us to advance our research. Over 80% of our Customers are Consenting Customers.
+• Subscribers.
+This metric represents the number of subscribers who have signed up for our 23andMe+ subscription service, which was launched in October 2020. We believe that 23andMe+ will position us for future growth, as the annual membership model represents a previously untapped source of recurring revenue. We are continually investing in new reports and features to provide to subscribers as part of the 23andMe+ membership, which we believe will enhance customer lifetime value as customers can make new discoveries about themselves. We believe that this, in turn, will help to scale our customer acquisition costs and create expanding network effects. As of the fiscal years ended March 31, 2022 and 2021, our 23andMe+ membership base had approximately 425,000 and 125,000 subscribers, respectively.
+• Adjusted EBITDA.
+Adjusted EBITDA is the measure of segment profitability reported to our CEO, the CODM. See “— Adjusted EBITDA ” below for a reconciliation of Adjusted EBITDA to net loss.
+Components of Results of Operations
+Revenue
+We recognize revenue in accordance with Topic 606 when we transfer promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
+Our consolidated revenue is composed primarily of sales of PGS kits to customers and telehealth services, which include online medical visits, pharmacy services, and memberships, as well as revenues from target discovery activities as part of our research collaborations through our Consumer and Research Services segment. Additionally, revenue is generated through our collaboration agreements in our Therapeutics segment primarily as a result of the out-licensing of intellectual property to collaboration partners.
+See Note 2, “ Summary of Significant Accounting Policies, ” to our accompanying unaudited condensed consolidated financial statements for a more detailed discussion of our revenue recognition policies.
+Cost of Revenue, Gross Profit, and Gross Margin
+Cost of revenue for PGS primarily consists of cost of raw materials, lab processing fees, personnel-related expenses, including salaries, benefits, and stock-based compensation, shipping and handling, and allocated overhead. Cost of revenue for telehealth primarily consists of personnel-related expenses that we incur for medical services, prescription drug costs, packaging and shipping, and amortization of intangible assets. Cost of revenue for research services primarily consists of personnel-related expenses, including salaries, benefits, and stock-based compensation, and allocated overhead. We expect cost of revenue to fluctuate from period to period in the foreseeable future in absolute dollars but gradually decrease as a percentage of revenue over the long term.
+Our gross profit represents total revenue less our total cost of revenue, and our gross margin is our gross profit expressed as a percentage of our total revenue. Our gross profit and gross margin have been and will continue to be affected by a number of factors, including the volume of PGS kit sales recognized, the prices we charge for our PGS products and research services, the prices we charge for telehealth services (medical visits, pharmacy services, and memberships), the fees we incur for lab processing PGS kits, the costs we incur for medical services and prescription drug costs, the revenues from our collaboration agreements and the personnel costs to fulfill them. We expect our Consumer and Research Services gross margin to increase over the long term as subscription revenues become a higher percentage of revenue mix, although our gross margin may fluctuate from period to period. Substantially all our research
+34
+Table of Contents
+services revenue is currently derived from the GSK Agreement. If we are unable to add new research services agreements, our research services revenue may decline substantially following the expiration of the GSK Agreement in July 2023.
+Operating Expenses
+Our operating expenses primarily consist of research and development, sales and marketing, and general and administrative expenses. Personnel-related expenses, which include salaries, benefits, and stock-based compensation, is the most significant component of research and development and general and administrative expenses. Advertising and brand-related spend and personnel-related expenses represent the primary components of sales and marketing expenses. Operating expenses also include allocated overhead costs. Overhead costs that are not substantially dedicated for use by a specific functional group are allocated based on headcount. Allocated overhead costs include shared costs associated with facilities (including rent and utilities) and related personnel, information technology and related personnel, and depreciation of property and equipment. We regularly evaluate our capital allocation approach to make sure our capital is being used for the highest value-creating activities and in the most efficient manner. This may require changes to investment levels, how we operate, or are structured to ensure alignment to business priorities.
+Research and Development Expenses
+Our research and development expenses support our efforts to add new services and add new features to our existing services, and to ensure the reliability and scalability of our services across our Consumer and Research Services segment. Research and development expenses also include our efforts to discover and genetically validate new therapeutic product candidates and continue to develop our portfolio of existing therapeutic product candidates, either our own proprietary programs or those in collaboration with partners across our Therapeutics segment. Research and development expenses primarily consist of personnel-related expenses, including salaries, benefits, and stock-based compensation associated with our research and development personnel, collaboration expenses, preclinical and clinical trial costs, laboratory services and supplies costs, third-party data services, and allocated overhead.
+We plan to continue to invest in personnel to support our research and development efforts. We intend to make significant investments in therapeutics research and development efforts as we ramp up our clinical trials and continue the GSK collaboration. This multi-year collaboration with GSK is expected to validate drug targets with novel genetic evidence, enable rapid progression of clinical programs, and bring useful new drugs to market. We expect that research and development expenses will increase on an absolute dollar basis in the foreseeable future as we continue to invest in our products, pipeline, and infrastructure for long-term growth. In addition, our research and development expenses may fluctuate as a percentage of revenue from period to period due to the timing and amount of these expenses.
+Sales and Marketing Expenses
+Sales and marketing expenses consist primarily of advertising costs, personnel-related expenses, including salaries, benefits, and stock-based compensation associated with our sales and marketing personnel, amortization and impairment of intangible assets, and outside services.
+Advertising and brand costs consist primarily of direct expenses related to television, online and radio advertising, including production and branding, paid search, online display advertising, direct mail, affiliate programs, marketing collateral, market research and public relations. Advertising production costs are expensed the first time the advertising takes place, and all other advertising costs are expensed as incurred. Deferred advertising costs primarily consist of vendor payments made in advance to secure media spots across varying media channels, as well as production costs incurred before the first time the advertising takes place. Deferred advertising costs are expensed on the first date the advertisements occur. In addition, advertising costs include platform fees due to brokers related to our third-party retailers.
+We expect our sales and marketing expenses to gradually decrease as a percentage of revenue over the long term, although our sales and marketing expenses may fluctuate as a percentage of revenue from period to period due to promotional strategies that drive the timing and amount of these expenses.
+General and Administrative Expenses
+General and administrative expenses primarily consist of personnel-related expenses, including salaries, benefits, and stock-based compensation associated with corporate management, including our CEO office, finance, legal, compliance, regulatory, corporate communications and other administrative personnel. In addition, general and administrative expenses include professional fees for external legal, accounting, and other consulting services, as well as credit card processing fees related to PGS kit sales and telehealth services.
+35
+Table of Contents
+We expect general and administrative expenses to increase in the near term as we increase headcount with the growth of our business. We also expect general and administrative expenses to increase in the near term as a result of operating as a public company, including expenses associated with compliance with SEC rules and regulations, and related increases in legal, audit, insurance, investor relations, professional services, and other administrative expenses. However, we anticipate general and administrative expenses to stabilize over the long term and gradually decrease as a percentage of revenue, although it may fluctuate as a percentage of total revenue from period to period due to the timing and amount of these expenses.
+Other Income (Expense)
+Other income (expense) includes interest income, net, and other income (expense), net. Interest income, net primarily consists of interest income earned on our cash deposits and cash equivalents. Other income (expense), net primarily consists of change in fair value of warrants liabilities for fiscal year 2022, effects of changes in foreign currency exchange rates, and other non-operating income and expenditures.
+Benefit from Income Taxes
+The income tax benefit primarily consists of an adjustment to the Lemonaid Health deferred tax liability recorded in fiscal year 2022. Deferred tax assets are reduced by a valuation allowance to the extent management believes it is not more likely than not to be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income. Management makes estimates and judgments about future taxable income based on assumptions that are consistent with our plans and estimates.
+Results of Operations
+Comparisons for Three and Nine Months ended December 31, 2022 and 2021
+The following table sets forth our unaudited condensed consolidated statements of operations for the three and nine months ended December 31, 2022 and 2021, and the dollar and percentage change between the two periods:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+$ Change
+% Change
+2022
+2021
+$ Change
+% Change
+(dollars in thousands)
+(dollars in thousands)
+Revenue
+$
+66,940
+$
+56,891
+$
+10,049
+18
+%
+$
+207,112
+$
+171,334
+$
+35,778
+21
+%
+Cost of revenue (2)
+36,189
+29,628
+6,561
+22
+%
+112,598
+85,446
+27,152
+32
+%
+Gross profit
+30,751
+27,263
+3,488
+13
+%
+94,514
+85,888
+8,626
+10
+%
+Operating expenses:
+Research and development (2)
+57,270
+50,298
+6,972
+14
+%
+161,877
+139,053
+22,824
+16
+%
+Sales and marketing (2)
+39,879
+41,979
+(2,100
+)
+(5
+%)
+98,148
+70,987
+27,161
+38
+%
+General and administrative (2)
+30,702
+31,687
+(985
+)
+(3
+%)
+89,226
+60,547
+28,679
+47
+%
+Total operating expenses
+127,851
+123,964
+3,887
+3
+%
+349,251
+270,587
+78,664
+29
+%
+Loss from operations
+(97,100
+)
+(96,701
+)
+(399
+)
+0
+%
+(254,737
+)
+(184,699
+)
+(70,038
+)
+38
+%
+Other (expense) income:
+Interest income, net
+3,671
+76
+3,595
+NM  (1)
+5,307
+213
+5,094
+NM  (1)
+Change in fair value of warrant liabilities
+—
+3,695
+(3,695
+)
+(100
+%)
+—
+32,989
+(32,989
+)
+(100
+%)
+Other income (expense), net
+855
+22
+833
+NM  (1)
+(267
+)
+39
+(306
+)
+NM  (1)
+Loss before income taxes
+(92,574
+)
+(92,908
+)
+334
+(0
+%)
+(249,697
+)
+(151,458
+)
+(98,239
+)
+65
+%
+Benefit from income taxes
+613
+3,512
+(2,899
+)
+100
+%
+2,139
+3,512
+(1,373
+)
+100
+%
+Net loss
+$
+(91,961
+)
+$
+(89,396
+)
+$
+(2,565
+)
+3
+%
+$
+(247,558
+)
+$
+(147,946
+)
+$
+(99,612
+)
+67
+%
+(1) Not meaningful
+(2) Includes st ock-based compensation expense as follows:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+(in thousands)
+Cost of revenue
+$
+3,200
+$
+1,098
+$
+8,940
+$
+2,841
+Research and development
+15,188
+7,697
+39,267
+18,754
+Sales and marketing
+2,444
+1,178
+7,336
+2,941
+General and administrative
+13,506
+7,436
+38,225
+12,937
+Total stock-based compensation expense
+$
+34,338
+$
+17,409
+$
+93,768
+$
+37,473
+36
+Table of Contents
+The following table sets forth our condensed consolidated statements of operations data expressed as a percentage of revenue for the periods indicated:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Revenue
+100
+%
+100
+%
+100
+%
+100
+%
+Cost of revenue
+54
+%
+52
+%
+54
+%
+50
+%
+Gross margin
+46
+%
+48
+%
+46
+%
+50
+%
+Operating expenses:
+Research and development
+86
+%
+88
+%
+78
+%
+81
+%
+Sales and marketing
+60
+%
+74
+%
+47
+%
+42
+%
+General and administrative
+46
+%
+56
+%
+43
+%
+35
+%
+Total operating expenses
+191
+%
+218
+%
+169
+%
+158
+%
+Loss from operations
+(145
+%)
+(170
+%)
+(123
+%)
+(108
+%)
+Other (expense) income:
+Interest income, net
+6
+%
+0
+%
+2
+%
+0
+%
+Change in fair value of warrant liabilities
+0
+%
+7
+%
+0
+%
+20
+%
+Other income (expense), net
+1
+%
+0
+%
+(0
+%)
+0
+%
+Loss before income taxes
+(138
+%)
+(163
+%)
+(122
+%)
+(88
+%)
+Benefit from income taxes
+1
+%
+6
+%
+1
+%
+2
+%
+Net loss
+(137
+%)
+(157
+%)
+(121
+%)
+(86
+%)
+Revenue
+Total revenue increased by $10.0 million, or 18%, for the three months ended December 31, 2022 compared to the three months ended December 31, 2021. The increase was due primarily to an increase in consumer services revenue of $3.4 million attributable to three months of telehealth services revenue from the Lemonaid Acquisition, whereas the comparative period ended December 31, 2021 included only two months of telehealth revenue, as the Lemonaid Acquisition closed in November 2021. The increase in consumer services revenue was also due to a $2.0 million increase in subscription services revenue and a $2.2 million increase in PGS kit sale revenue driven mainly by improved selling prices on PGS kit sales from reduced levels of promotional discounting in the period. Research services revenue increased by $2.4 million due primarily to a $5.0 million increase in GSK collaboration revenue related to the GSK Agreement, partially offset by a $2.6 million decrease in revenue under research contracts with third parties.
+Total revenue increased by $35.8 million, or 21%, for the nine months ended December 31, 2022, compared to the nine months ended December 31, 2021. The increase was due primarily to an increase in consumer services revenue of $26.9 million attributable to nine months of telehealth services revenue from the Lemonaid Acquisition, whereas the comparative period ended December 31, 2021 included only two months of telehealth revenue, as the Lemonaid Acquisition closed in November 2021. The increase in consumer services revenue was also due to a $5.6 million increase in subscription services revenue, partially offset by a $4.7 million decrease in PGS revenue driven mainly by lower PGS kit sales volume. Research services revenue increased by $7.9 million due primarily to a $7.0 million increase in GSK collaboration revenue related to the GSK Agreement and a $1.0 million increase in revenue under research contracts with third parties which fluctuated from period to period.
+Cost of Revenue, Gross Profit and Gross Margin
+Total cost of revenue increased by $6.6 million, or 22%, for the three months ended December 31, 2022, as compared to the three months ended December 31, 2021. Cost of revenue for consumer services increased by $7.0 million, driven mainly by a $6.4 million increase in telehealth services cost of revenue, primarily from $2.5 million in personnel-related expenses, $2.9 million in allocated overhead costs, $0.7 million in shipping, supplies and consultant spend, and $0.2 million in amortization expense for developed technology. Cost of revenue for research services decreased by $0.5 million primarily due to lower project hours pursuant to the GSK Agreement.
+Total cost of revenue increased by $27.2 million, or 32%, for the nine months ended December 31, 2022, as compared to the nine months ended December 31, 2021. Cost of revenue for consumer services increased by $31.2 million, driven mainly by a $31.0 million increase in telehealth services cost of revenue, primarily from $14.3 million in personnel-related expenses, $9.1 million in allocated overhead costs, $4.5 million in shipping, supplies and consulting spend, and $2.0 million in amortization expense for developed technology. Cost of revenue for research services decreased by $4.1 million primarily due to lower project hours pursuant to the GSK Agreement.
+37
+Table of Contents
+Our gross profit increased by $3.5 million, or 13%, to $30.8 million for the three months ended December 31, 2022 from $27.3 million for the three months ended December 31, 2021. The increase in gross profit was primarily due to the increases in consumer services revenue and research services revenue as discussed above.
+Our gross profit increased by $8.6 million, or 10%, to $94.5 million for the nine months ended December 31, 2022, from $85.9 million for the nine months ended December 31, 2021. The increase in gross profit was primarily due to the increases in consumer services revenue and research services revenue as discussed above.
+Our gross margin declined year over year, from 48% for the three months ended December 31, 2021, to 46% for the three months ended December 31, 2022. While we experienced increased GSK collaboration revenue, growth in subscription services and increased PGS kit sales revenue, during the three months ended December 31, 2022, these gross margin increases were offset by the integration of the telehealth business and its share of overhead allocations, which generated a lower gross margin than our PGS kit sales, subscription services and research services.
+Our gross margin declined year over year, from 50% for the nine months ended December 31, 2021, to 46% for the nine months ended December 31, 2022, due to the integration of the telehealth business and its share of overhead allocations, which generated a lower gross margin than our PGS kit sales, subscription services and research services.
+Research and Development Expenses
+The following table sets forth our research and development expenses for the three and nine months ended December 31, 2022 and 2021, and the dollar and percentage change between the two periods:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+$ Change
+% Change
+2022
+2021
+$ Change
+% Change
+(dollars in thousands)
+(dollars in thousands)
+Personnel-related expenses
+$
+34,487
+$
+24,721
+$
+9,766
+40
+%
+$
+95,647
+$
+64,724
+$
+30,923
+48
+%
+Lab-related research services
+9,287
+9,914
+(627
+)
+(6
+%)
+24,798
+31,412
+(6,614
+)
+(21
+%)
+Depreciation, equipment and supplies
+1,760
+2,145
+(385
+)
+(18
+%)
+6,348
+6,809
+(461
+)
+(7
+%)
+Facilities, other overhead allocation, and other
+11,736
+13,518
+(1,782
+)
+(13
+%)
+35,084
+36,108
+(1,024
+)
+(3
+%)
+Total research and development expenses
+$
+57,270
+$
+50,298
+$
+6,972
+14
+%
+$
+161,877
+$
+139,053
+$
+22,824
+16
+%
+Research and development expenses for the three months ended December 31, 2022 was $57.3 million, compared to $50.3 million for three months ended December 31, 2021. This increase of $7.0 million, or 14%, was primarily attributable to the increase in personnel-related expenses of $9.8 million, due to increased salaries and related taxes as a result of inflation, growth in headcount, and stock-based compensation in connection with new equity awards granted under the 2021 Plan, as well as accrued compensation under the 2022 AIP adopted on June 9, 2022. This increase was partially offset by a $1.8 million decrease in facilities, other overhead allocation, and other from a decrease in allocated personnel-related expenses for shared-cost departments, and a $0.6 million decrease in lab-related research services primarily due to decreased spending on the GSK6097608 program following our election to adopt the royalty option instead of continuing to share in development costs.
+Research and development expenses for the nine months ended December 31, 2022 was $161.9 million, compared to $139.1 million for the nine months ended December 31, 2021. This increase of $22.8 million, or 16%, was primarily attributable to the increase in personnel-related expenses of $30.9 million, due to increased salaries and related taxes as a result of inflation, growth in headcount, and stock-based compensation in connection with new equity awards granted under the 2021 Plan, as well as accrued compensation under the 2022 AIP. This increase was partially offset by a $6.6 million decrease in lab-related research services primarily due to decreased spending on the GSK6097608 program following our election to adopt the royalty option instead of continuing to share in development costs, and a $1.0 million decrease in facilities, other overhead allocation, and other from a decrease in allocated personnel-related expenses for shared-cost departments.
+For the three months ended December 31, 2022 and 2021, 50% and 54% of total research and development expenses were attributable to the Consumer and Research Services business, respectively, and 50% and 46% were attributable to our Therapeutics business, respectively. For the nine months ended December 31, 2022 and 2021, 53% and 53% of total research and development expenses were attributable to the Consumer and Research Services business, respectively, and 47% and 47% were attributable to our Therapeutics business, respectively.
+38
+Table of Contents
+Sales and Marketing Expenses
+The following table sets forth our sales and marketing expenses for the three and nine months ended December 31, 2022 and 2021, and the dollar and percentage change between the two periods:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+$ Change
+%
+Change
+2022
+2021
+$ Change
+%
+Change
+(dollars in thousands)
+(dollars in thousands)
+Advertising & brand
+$
+17,375
+$
+32,211
+$
+(14,836
+)
+(46
+%)
+$
+50,290
+$
+48,398
+$
+1,892
+4
+%
+Personnel-related expenses
+5,682
+3,982
+1,700
+43
+%
+17,100
+10,296
+6,804
+66
+%
+Outside services, equipment and supplies
+1,590
+1,560
+30
+2
+%
+4,786
+4,333
+453
+10
+%
+Depreciation, amortization and impairment
+13,233
+2,232
+11,001
+100
+%
+19,813
+2,232
+17,581
+100
+%
+Facilities and other overhead allocation
+1,999
+1,994
+5
+0
+%
+6,159
+5,728
+431
+8
+%
+Total sales and marketing expenses
+$
+39,879
+$
+41,979
+$
+(2,100
+)
+(5
+%)
+$
+98,148
+$
+70,987
+$
+27,161
+38
+%
+Sales and marketing expenses for the three months ended December 31, 2022 amounted to $39.9 million, as compared to $42.0 million for the three months ended December 31, 2021, representing a decrease of $2.1 million, or 5%. This decrease was primarily driven by a $14.8 million decrease in advertising and brand-related spend mainly due to the timing
+differences in marketing campaigns and promotional windows between the comparative periods. This decrease was partially offset by $11.0 million increase in depreciation, amortization and impairment expenses, primarily attributable to a $10.0 million impairment charge of intangible assets acquired from the Lemonaid Acquisition. Additionally, personnel-related expenses increased by $1.7 million due to increased salaries and related taxes as a result of inflation, growth in headcount, and stock-based compensation in connection with new equity awards granted under the 2021 Plan, as well as accrued compensation under the 2022 AIP.
+Sales and marketing expenses for the nine months ended December 31, 2022, amounted to $98.1 million, as compared to $71.0 million for the nine months ended December 31, 2021, representing an increase of $27.2 million, or 38%. This increase was primarily driven by a $17.6 million increase in depreciation, amortization and impairment expenses due to amortization of acquired intangible assets, including customer relationships, trademarks, and partnerships from the Lemonaid Acquisition, and a $10.0 million impairment charge of intangible assets acquired from the Lemonaid Acquisition. Personnel-related expenses increased by $6.8 million due to increased salaries and related taxes as a result of inflation, growth in headcount, and stock-based compensation in connection with new equity awards granted under the 2021 Plan, as well as accrued compensation under the 2022 AIP. Additionally, advertising and brand-related expenses increased by $1.9 million driven primarily by marketing programs to grow our consumer business.
+General and Administrative Expenses
+Total general and administrative expenses decreased by $1.0 million, or 3%, from $31.7 million for the three months ended December 31, 2021 to $30.7 million for the three months ended December 31, 2022. The decrease in general and administrative expenses was primarily due to a $7.1 million decrease in outside services, mainly attributable to non-recurring consulting and legal services related to the Lemonaid Acquisition and integration fees in the three months ended December 31, 2021. Other operating expenses decreased by $0.7 million primarily due to a decrease in directors and officers insurance. These decreases were partially offset by an increase in personnel-related expenses of $6.3 million, which was a result of increased salaries and related taxes as a result of inflation, growth in headcount, and stock-based compensation expense in connection with new equity awards granted under the 2021 Plan, as well as accrued compensation under the 2022 AIP. Facilities and overhead allocation increased by $0.5 million, primarily due to increased allocated personnel-related expenses for shared-cost departments during the three months ended December 31, 2022.
+Total general and administrative expenses increased by $28.7 million, or 47%, from $60.5 million for the nine months ended December 31, 2021, to $89.2 million for the nine months ended December 31, 2022. The increase in general and administrative expenses was primarily due to the increase in personnel-related expenses of $29.4 million, which was a result of increased salaries and related taxes as a result of inflation, growth in headcount, and stock-based compensation expense in connection with new equity awards granted under the 2021 Plan, as well as accrued compensation under the 2022 AIP. Other operating expenses increased by $2.3 million, primarily due to an increase in directors and officers insurance as a result of operating as a public company. Facilities and overhead allocation increased by $2.5 million, primarily due to increased allocated personnel-related expenses for shared-cost departments during the nine months ended December 31, 2022. These increases were partially offset by a $5.6 million decrease in outside services, primarily due to non-recurring consulting and legal services related to the Lemonaid Acquisition, and the associated integration fees in the nine months ended December 31, 2021.
+Change in Fair Value of Warrant Liabilities
+39
+Table of Contents
+Benefit from change in fair value of warrant liabilities was $3.7 million and $33.0 million, respectively, for the three and nine months ended December 31, 2021, due to a reduction in the fair value of the warrants that were assumed in connection with the Merger, which was primarily driven by movements in our stock price and volatility measurements.
+As of March 31, 2022, all warrants were exercised or redeemed. Accordingly, there was no associated change in fair value of warrant liabilities in fiscal year 2023.
+Adjusted EBITDA
+We evaluate the performance of each segment based on Adjusted EBITDA, which is a non-GAAP financial measure that we define as Adjusted EBITDA is defined as net income (loss) before net interest income (expense), net other income (expense), income tax expenses (benefit), depreciation and amortization, impairment charges, stock-based compensation expense, acquisition-related costs, and
+other items that are considered unusual or not representative of underlying trends of our business, including but not limited to: changes in fair value of warrant liabilities, litigation settlement, and restructuring and other charges , if applicable for the periods presented. Adjusted EBITDA is a key measure used by our management and our Board of Directors to understand and evaluate our operating performance and trends, to prepare and approve our annual budget, and to develop short- and long-term operating plans. In particular, we believe that the exclusion of the items eliminated in calculating Adjusted EBITDA provides useful measures for period-to-period comparisons of our business. Accordingly, we believe that Adjusted EBITDA provides useful information in understanding and evaluating our operating results in the same manner as our management and our Board of Directors. Adjusted EBITDA should not be considered in isolation of, or as an alternative to, measures prepared in accordance with GAAP. Other companies, including companies in our industry, may calculate similarly-titled non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of Adjusted EBITDA as a tool for comparison. There are a number of limitations related to the use of these non-GAAP financial measures rather than net loss, which is the most directly comparable financial measure calculated in accordance with GAAP.
+Some of the limitations of Adjusted EBITDA include (i) Adjusted EBITDA does not properly reflect capital commitments to be paid in the future, and (ii) although depreciation and amortization are non-cash charges, the underlying assets may need to be replaced and Adjusted EBITDA does not reflect these capital expenditures. In evaluating Adjusted EBITDA, you should be aware that in the future we will incur expenses similar to the adjustments in this presentation. Our presentation of Adjusted EBITDA should not be construed as an inference that our future results will be unaffected by these expenses or any unusual or non-recurring items. When evaluating our performance, you should consider Adjusted EBITDA alongside other financial performance measures, including our net loss and other GAAP results.
+40
+Table of Contents
+The following tables reconcile net loss to Adjusted EBITDA for the three and nine months ended December 31, 2022 and 2021 on a company-wide basis and for each of our segments:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+(In thousands)
+Segment Revenue:
+Consumer and Research Services
+$
+66,940
+$
+56,891
+$
+207,112
+$
+171,334
+Total revenue
+(1)
+$
+66,940
+$
+56,891
+$
+207,112
+$
+171,334
+Segment Adjusted EBITDA:
+Consumer and Research Services Adjusted EBITDA
+$
+(8,313
+)
+$
+(31,967
+)
+$
+(22,986
+)
+$
+(33,232
+)
+Therapeutics Adjusted EBITDA
+(21,471
+)
+(19,916
+)
+(58,599
+)
+(57,046
+)
+Unallocated Corporate  (2)
+(13,488
+)
+(12,129
+)
+(41,057
+)
+(30,692
+)
+Total Adjusted EBITDA
+$
+(43,272
+)
+$
+(64,012
+)
+$
+(122,642
+)
+$
+(120,970
+)
+Reconciliation of net loss to Adjusted EBITDA:
+Net loss
+$
+(91,961
+)
+$
+(89,396
+)
+$
+(247,558
+)
+$
+(147,946
+)
+Adjustments
+Interest (income) expense, net
+(3,671
+)
+(76
+)
+(5,307
+)
+(213
+)
+Other (income) expense, net
+(855
+)
+(22
+)
+267
+(39
+)
+Change in fair value of warrant liabilities
+—
+(3,695
+)
+—
+(32,989
+)
+Income tax benefit
+(613
+)
+(3,512
+)
+(2,139
+)
+(3,512
+)
+Depreciation and amortization
+5,257
+4,681
+15,512
+14,188
+Amortization of acquired intangible assets
+4,265
+2,898
+12,847
+2,898
+Impairment of acquired intangible assets
+9,968
+—
+9,968
+-
+Stock-based compensation expense
+34,338
+17,409
+93,768
+37,473
+Acquisition-related costs  (3)
+—
+7,701
+—
+9,170
+Total Adjusted EBITDA
+$
+(43,272
+)
+$
+(64,012
+)
+$
+(122,642
+)
+$
+(120,970
+)
+(1) There was no Therapeutics revenue for the three and nine months ended December 31, 2022 and 2021.
+(2) Certain department expenses such as Finance, Legal, Regulatory and Supplier Quality, Corporate Communications, and CEO Office are not reported as part of the reporting segments as reviewed by the CODM. These amounts are included in Unallocated Corporate.
+(3) For the three and nine months ended December 31, 2021, acquisition-related costs primarily consisted of advisory, legal and consulting fees related to the Lemonaid Acquisition.
+Consumer and Research Services
+Consumer and Research Services Adjusted EBITDA improved for the three months ended December 31, 2022, as compared to the three months ended December 31, 2021, primarily due to an increase in consumer services revenue of $3.4 million attributable to three months of telehealth services revenue from the Lemonaid Acquisition, whereas the comparative period ended December 31, 2021 included only two months of telehealth revenue, as the Lemonaid Acquisition closed in November 2021. The increase in consumer services revenue was also due to a $2.0 million increase in subscription services revenue and a $2.2 million increase in PGS kit sale revenue driven mainly by improved selling prices on PGS kit sales from reduced levels of promotional discounting in the period. Research services revenue increased by $2.4 million due primarily to a $5.0 million increase in GSK collaboration revenue related to the GSK Agreement, partially offset by a $2.6 million decrease in revenue under research contracts with third parties. Additionally, advertising and brand-related spend decreased by $14.8 million, primarily due to timing differences in marketing campaigns and promotional windows between the comparative periods, as well as a $2.1 million increase in capitalization of internal use software.
+The foregoing improvements to Consumer and Research Services Adjusted EBITDA were partially offset by a $2.4 million increase in personnel-related expenses driven by increased salaries and related taxes as a result of inflation and growth in headcount and a $0.7 million increase in cost of revenue-related shipping, supplies and consultant spend, all of which were primarily attributable to the inclusion of telehealth services.
+Consumer and Research Services Adjusted EBITDA improved for the nine months ended December 31, 2022, as compared to the nine months ended December 31, 2021, primarily due to an increase in consumer services revenue of $26.9 million attributable to nine months of telehealth services revenue from the Lemonaid Acquisition, whereas the comparative period ended December 31, 2021 included only two months of telehealth revenue, as the Lemonaid Acquisition closed in November 2021. The increase in consumer services revenue was also due to a $5.6 million increase in subscription services revenue, partially offset by a $4.7 million decrease in PGS revenue driven mainly by lower PGS kit sales volume. Research services revenue increased by $7.9 million primarily due to a $7.0
+41
+Table of Contents
+million increase in GSK collaboration revenue related to the GSK Agreement and an increase of $1.0 million increase in revenue under research contracts.
+The foregoing improvements to Consumer and Research Services Adjusted EBITDA were partially offset by a $22.3 million increase in personnel-related expenses driven by increased salaries and related taxes as a result of inflation and growth in headcount, a $4.5 million increase in cost of revenue-related shipping, supplies and consultant spend, and a $1.9 million increase in advertising and brand-related spend, all of which were primarily attributable to the inclusion of telehealth services.
+Therapeutics
+Therapeutics' Adjusted EBITDA did not change significantly from the three and nine months ended December 31, 2022, as compared to the three and nine months ended December 31, 2021.
+Liquidity and Capital Resources
+We have financed our operations primarily through sales of equity securities and revenue from sales of PGS, telehealth, and research services. During the fiscal year ended March 31, 2022, we received gross proceeds of $309.7 million from the Merger and $250.0 million from the PIPE investment. Our primary requirements for liquidity and capital are to fund operating needs and finance working capital, capital expenditures, and general corporate purposes.
+As of December 31, 2022, our principal source of liquidity was our cash and cash equivalents balance of $432.8 million, which is held for working capital purposes. We have incurred significant operating losses as reflected in our accumulated deficit and negative cash flows from operations. We had an accumulated deficit of $1,442.3 million as of December 31, 2022. As of the date of this Form 10-Q, we believe our existing cash resources are sufficient to continue operating activities for the next 12 months.
+On February 6, 2023, we filed a shelf Registration Statement on Form S-3 with the SEC, relating to the sale, from time to time, in one or more transactions, of up to $500 million of common stock, preferred stock, debt securities, warrants, and units. Also, on February 6, 2023, we entered into a Sales Agreement with Cowen and Company, LLC, pursuant to which we may sell, from time to time, at our option, up to $150 million in aggregate principal amount of an indeterminate amount of shares of our Class A common stock, $0.0001 par value per share, through the Agent, as the Company’s sales agent. Subject to the terms of the Sales Agreement, the Agent will use reasonable efforts to sell the ATM Shares from time to time, based upon the Company’s instructions (including any price, time, or size limits or other customary parameters or conditions we may impose), by methods deemed to be an “at the market offering” as defined in Rule 415(a)(4) promulgated under the Securities Act and pursuant to, and only upon the effectiveness of, the Shelf Registration Statement. We will pay the Agent a commission of 3.0% of the gross proceeds from the sales of the ATM Shares, if any. We have also agreed to provide the Agent with customary indemnification and contribution rights. The offering of the ATM Shares will terminate upon the earliest of (a) the sale of the maximum number or amount of the ATM Shares permitted to be sold under the Sales Agreement and (b) the termination of the Sales Agreement by the parties thereto. While we cannot provide any assurances that we will sell any ATM Shares pursuant to the Sales Agreement, we expect to use the net proceeds from the sale of securities under the Sales Agreement, if any, for general corporate purposes, including working capital requirements and operating expenses; we, however, have not allocated the net proceeds for specific purposes. As of the date of this Form 10-Q, we have not made any sales under the Sales Agreement.
+We expect to continue to incur operating losses and negative cash flows from operations for the foreseeable future due to the investments we intend to continue to make in research and development, additional general and administrative expenses we expect to incur in connection with operating as a public company, and additional sales and marketing expenses we expect to incur as a result of the Lemonaid Acquisition. Cash from operations could also be affected from our customers and other risks set forth in Part I, Item 1A., “Risk Factors,” of the Fiscal 2022 10-K. We expect to continue to maintain financing flexibility in the current market conditions. As a result, we may require additional capital resources to execute strategic initiatives to grow our business.
+Our future capital requirements will depend on many factors including our revenue growth rate, the timing and extent of spending to support further sales and marketing activities, and research and development efforts. We may continue to enter into arrangements to acquire or invest in complementary businesses, products, and technologies. We may, as a result of those arrangements or the general expansion of our business, be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we raise additional funds by issuing equity or equity-linked securities, our stockholders may experience dilution. Future debt financing, if available, may involve covenants restricting our operations or our ability to incur additional debt. If we are unable to raise additional capital when desired, our business, results of operations, and financial condition would be materially and adversely affected.
+For the nine months ended December 31, 2022, there were no material changes outside of the ordinary course of business in our commitments and contractual obligations disclosed in the Fiscal 2022 Form 10-K. See Note 9, “ Commitments and Contingencies ,” to our condensed consolidated financial statements included elsewhere in this Form 10-Q for additional details.
+42
+Table of Contents
+Cash Flows
+The following table summarizes our cash flows for the periods presented:
+Nine Months Ended December 31,
+2022
+2021
+(in thousands)
+Net cash used in operating activities
+$
+(120,429
+)
+$
+(131,623
+)
+Net cash used in investing activities
+$
+(8,017
+)
+$
+(104,940
+)
+Net cash provided by financing activities
+$
+7,171
+$
+540,482
+Cash Flows from Operating Activities
+Net cash used in operating activities of $120.4 million for the nine months ended December 31, 2022 was primarily related to a net loss of $247.6 million, partially offset by non-cash charges for stock-based compensation of $93.8 million, depreciation and amortization of $24.9 million, impairment of acquired intangible assets of $10.0 million, and amortization and impairment of internal-use software of $3.2 million. The net changes in operating assets and liabilities of $4.9 million were primarily related to an increase in accounts receivable of $23.4 million mainly attributable to seasonal holiday sales through Amazon.com, a decrease in accounts payable of $23.3 million primarily due to timing of vendor payments, a decrease in operating lease liabilities of $6.7 million primarily due to lease payments, an increase in deferred cost of revenue of $6.6 million primarily due to an increase in PGS kit sales for the holiday season, and an increase in inventories of $1.2 million primarily due to increased purchases of arrays for the processing of kits sold during the holiday season. These were partially offset by an increase in deferred revenue of $46.0 million as a result of increased deferred revenue related to GSK collaboration and increases in PGS deferred revenue primarily due to more kit sales from holiday sales than revenue recognized during the period, a decrease in prepaid expenses and other current assets of $3.8 million primarily due to the receipt of insurance claim payments, an increase in accrued and other current liabilities of $4.3 million due to timing of vendor invoice receipts, and a decrease in operating right-of-use assets of $5.6 million primarily due to right-of-use assets amortization.
+Net cash used in operating activities of $131.6 million for the nine months ended December 31, 2021 was primarily related to a net loss of $147.8 million and changes in fair value of warrant liabilities of $33.0 million, partially offset by non-cash charges for stock-based compensation of $37.5 million, depreciation and amortization of $15.3 million and amortization of internal-use software of $1.7 million. The net changes in operating assets and liabilities of $5.3 million were primarily related to an increase in accounts receivable of $21.1 million primarily attributable to seasonal holiday sales through Amazon.com, an increase in inventories of $10.6 million due to increased purchases aligned with higher forecasted sales, an increase in deferred cost of revenue of $10.6 million primarily due to an increase in PGS kit sales for the holiday season, an increase in prepaid expenses and other current assets of $7.7 million primarily due to increase in prepaid insurance, a decrease in operating lease liabilities of $5.7 million primarily due to lease payments, a decrease in other liabilities of $3.6 million mainly related to a deferred income tax benefit recognized for partial release of valuation allowance, which were offset by an increase in deferred revenue of $40.2 million primarily due to more kit sales from holiday sales than revenue recognized during the period, an increase in accrued expenses and other current liabilities of $9.9 million primarily due to timing of vendor invoice receipts, and a decrease in operating lease right-of-use assets of $5.3 million primarily due to right-of-use assets amortization.
+Cash Flows from Investing Activities
+Cash flows from investing activities primarily relate to purchase of property and equipment, prepayments for intangible assets, as well as capitalization of internal-use software costs.
+Net cash used in investing activities was $8.0 million for the nine months ended December 31, 2022, which consisted of capitalization of internal-use software costs of $5.2 million and purchases of property and equipment of $2.9 million.
+Net cash used in investing activities was $104.9 million for the nine months ended December 31, 2021, which consisted of cash paid for acquisitions, net of cash acquired of $94.2 million, purchases of intangible assets of $5.5 million related to a patent rights purchase completed in October 2021, purchases of property and equipment of $2.4 million and capitalization of internal-use software costs of $2.9 million.
+Cash Flows from Financing Activities
+Net cash provided by financing activities was $7.2 million for the nine months ended December 31, 2022, which consisted of $3.9 million in proceeds from the exercise of stock options and $3.2 million in proceeds from the issuance of common stock under the ESPP.
+43
+Table of Contents
+Net cash provided by financing activities was $540.5 million for the nine months ended December 31, 2021, which consisted of $309.7 million in proceeds from the Business Combination, $250.0 million of proceeds from the PIPE Investment, and $11.5 million in proceeds from the exercise of stock options, which were partially offset by $30.6 million in payments of deferred offering costs, and $0.1 million in payments for warrant redemptions.
+Contractual Obligations and Commitments
+Our lease portfolio includes leased offices, dedicated lab facility and storage space, and dedicated data center facility space, with remaining contractual periods from 0.2 years to 8.6 years. Refer to Note 8, “ Leases, ” of our unaudited condensed consolidated financial statements included elsewhere in this Form 10-Q for a summary of our future minimum lease obligations.
+In the normal course of business, we enter into non-cancelable purchase commitments with various parties for purchases. Refer to Note 9, “ Commitments and Contingencies, ” of our unaudited condensed consolidated financial statements included elsewhere in this Form 10-Q for a summary of our commitments as of December 31, 2022.
+Critical Accounting Policies and Estimates
+Our condensed consolidated financial statements and the related notes thereto included elsewhere in this Form 10-Q are prepared in accordance with GAAP. The preparation of condensed consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from the estimates made by management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+Goodwill
+Goodwill represents the excess purchase price of acquired businesses over the fair values attributed to underlying net tangible assets and identifiable intangible assets. We test goodwill each fiscal year on January 1 st
+for impairment at the Consumer and Research Services reporting unit level. Goodwill is also tested for impairment whenever an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying amount. Performance of the qualitative impairment assessment requires judgment in identifying and considering the significance of relevant events and circumstances, including external factors such as macroeconomic and industry conditions and the legal and regulatory environment, as well as entity-specific factors, such as actual and planned financial performance, that could impact the fair value of our Consumer and Research Services reporting unit. If, after assessing the totality of these qualitative factors, we determine that it is not more likely than not that the fair value of the reporting unit is less than its carrying amount, then no additional assessment is deemed necessary. Otherwise, we will proceed to perform the quantitative impairment test in which the fair value of the reporting unit is compared with its carrying amount, and an impairment charge will be recorded for the amount by which the carrying amount exceeds the reporting unit's fair value, if any.
+Our annual assessment for goodwill impairment was performed as of January 1, 2022 for fiscal year 2022. The assessment indicated that it was more likely than not that the fair value of the Consumer and Research Services reporting unit exceeded its carrying amount. We were not experiencing constraints on access to capital, poor financial performance, nor do we intended to scale down our business. We had not experienced any conditions that would require a write-down of our other assets, including long-lived assets. Therefore, no goodwill impairment charges were recorded as a result of our 2022 impairment analysis. The Company has considered recent events and circumstances and will perform our 2023 annual assessment for good will impairment as of January 1, 2023.
+Except as set forth above, there have been no material changes to our critical accounting policies and estimates as compared to those described in the section titled “ Management’s Discussion and Analysis of Financial Condition and Results of Operations ” set forth in the Fiscal 2022 Form 10-K.
+Item 3.	Quantitative and Qualitative Disclosures About Market Risk
+We have operations primarily within the United States and we are exposed to market risk in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates. We do not believe that inflation has had a material effect on our business, results of operations or financial condition. Nonetheless, if our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs. Our inability or failure to do so could harm our business, results of operations or financial conditions.
+Interest Rate Risk
+44
+Table of Contents
+As of December 31, 2022, we had $432.8 million in cash and cash equivalents. Our cash equivalents are comprised primarily of money market accounts held at banks. Due to the short-term nature of these instruments, we believe that we do not have any material exposure to changes in the fair value of our investment portfolio as a result of changes in interest rates. Declines in interest rates, however, would reduce future interest income and cash flows. A hypothetical 10% change in interest rates during the three and nine months ended December 31, 2022 and 2021 would not have had a material impact on our historical condensed consolidated financial statements.
+Foreign Currency Risk
+Our results of operations and cash flows are subject to fluctuations due to changes in foreign currency exchange rates. Currently, substantially all our revenue and expenses are denominated in U.S. dollars. Revenue and expenses are remeasured each day at the exchange rate in effect on the day the transaction occurred. Our results of operations and cash flows in the future may be adversely affected due to an expansion of non-U.S. dollar denominated contracts and changes in foreign exchange rates. The effect of a hypothetical 10% change in foreign currency exchange rates applicable to our business would not have had a material impact on our historical condensed consolidated financial statements for the three and nine months ended December 31, 2022 and 2021. To date, we have not engaged in any hedging strategies. As our international activities grow, we will continue to reassess our approach to manage the risk relating to fluctuations in currency rates.
+Item 4. 	Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in company reports filed or submitted under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure.
+We do not expect that our disclosure controls and procedures will prevent all errors and all instances of fraud. Disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable assurance of achieving the desired control objectives. Further, the design of disclosure controls and procedures must reflect the fact that there are resource constraints, and the benefits must be considered relative to their costs. The design of disclosure controls and procedures also is based partly on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.
+As of December 31, 2022, as required by Rules 13a-15 and 15d-15 under the Exchange Act, our Chief Executive Officer and Chief Financial Officer carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures. Based upon their evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) were not effective at the reasonable assurance level as of such date, due to the material weakness in our internal control over financial reporting described below. Notwithstanding the identified material weakness, management has concluded that the condensed consolidated financial statements included in this Form 10-Q present fairly, in all material respects, the Company’s financial position, results of operations, and cash flows for the periods disclosed in accordance with GAAP.
+45
+Table of Contents
+Remediation Efforts to Address the Previously Disclosed Material Weakness
+A material weakness in our internal control over financial reporting was identified as of March 31, 2021, and remains unremediated at December 31, 2022. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our consolidated financial statements will not be prevented or detected on a timely basis. The material weakness identified was a lack of sufficient resources in our finance function to meet our financial reporting requirements. This material weakness resulted in insufficient management review of journal entries, account reconciliations, and review of financial statements. Management continues to review and make necessary changes to the overall design of our internal control environment, including implementing additional internal controls over journal entries, account reconciliations, and the review of financial statements. We have added additional resources and expertise to our finance function to enhance the effectiveness of internal controls over financial reporting. The material weakness will not be considered remediated until the applicable remedial controls operate for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively. Although we plan to complete this remediation process as quickly as possible, we cannot estimate at this time how long it will take.
+Changes in Internal Control over Financial Reporting
+There was no change in our internal control over financial reporting that occurred during the fiscal quarter ended December 31, 2022 covered by this Form 10-Q that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+46
+Table of Contents
+PART II.
+OTHER INFORMATION
+Item 1.
+Legal Proceedings
+The information set forth in Note 9, “ Commitments and Contingencies ,” of the Condensed Consolidated Financial Statements of this Form 10-Q is incorporated herein by reference.
+Item 1A.
+Risk Factors
+There have been no material changes to the risk factors set forth in Part I, Item 1A., “Risk Factors,” of the Fiscal 2022 Form 10-K.
+Item 2.	Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+Item 3.	Defaults Upon Senior Securities
+None.
+Item 4.	Mine Safety Disclosures
+Not Applicable.
+Item 5.	Other Information
+None.
+47
+Table of Contents
+Item 6.	Exhibits
+The following exhibits are filed as part of, or incorporated by reference into, this Quarterly Report on Form 10-Q.
+Exhibit Index
+3.1
+Second Amended and Restated Bylaws of 23andMe Holding Co. (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K (File No. 001-39587), filed with the SEC on December 9, 2022).
+10.1+
+23andMe Holding Co. Change in Control Separation Plan (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K (File No. 001-39587) filed with the SEC on December 9, 2022).
+31.1*
+Certification of the Chief Executive Officer required by Rule 13a-14(a) or Rule 15d-14(a).
+31.2*
+Certification of the Chief Financial Officer required by Rule 13a-14(a) or Rule 15d-14(a).
+32.1**
+Certification of the Chief Executive Officer required by Rule 13a-14(b) or Rule 15d-14(b) and 18 U.S.C. 1350
+32.2**
+Certification of the Chief Financial Officer required by Rule 13a-14(b) or Rule 15d-14(b) and 18 U.S.C. 1350
+101.INS
+Inline XBRL Instance Document
+101.SCH
+Inline XBRL Taxonomy Extension Schema
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase
+104
+Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit)
+*
+Filed herewith
+**
+Furnished herewith
++
+Indicates management contract or compensatory plan or arrangement.
+48
+Table of Contents
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+23ANDME HOLDING CO.
+Date:
+February 8, 2023
+By:
+/s/ Anne Wojcicki
+Name: Anne Wojcicki
+Chief Executive Officer and President
+(Principal Executive Officer)
+Date:
+February 8, 2023
+By:
+/s/ Joseph Selsavage
+Name: Joseph Selsavage
+Interim Chief Financial and Accounting Officer
+(Principal Financial Officer)
+49

@@ -1,0 +1,1651 @@
+0
+3
+5
+5
+2
+10.17
+0
+1
+0
+12.5
+2
+2
+0
+0
+3
+3
+10
+1
+5
+3
+3
+5
+0
+0.01
+0.01
+0
+0
+0
+0
+0.01
+0.01
+0000796505 2022-10-01 2022-12-31
+thunderdome:item
+iso4217:USD
+0000796505 2021-12-31
+xbrli:pure
+0000796505 us-gaap:SeniorLoansMember 2021-03-01 2021-03-31
+utr:Y
+0000796505 us-gaap:SeniorLoansMember 2021-03-31
+0000796505 us-gaap:RevolvingCreditFacilityMember clfd:LoanAndSecurityAgreementWithBremerBankNationalAssociationMember 2022-12-31
+0000796505 us-gaap:RevolvingCreditFacilityMember clfd:LoanAndSecurityAgreementWithBremerBankNationalAssociationMember 2022-04-27 2022-04-27
+0000796505 us-gaap:RevolvingCreditFacilityMember clfd:LoanAndSecurityAgreementWithBremerBankNationalAssociationMember 2022-10-01 2022-12-31
+0000796505 us-gaap:RevolvingCreditFacilityMember clfd:LoanAndSecurityAgreementWithBremerBankNationalAssociationMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-04-27 2022-04-27
+0000796505 us-gaap:RevolvingCreditFacilityMember clfd:LoanAndSecurityAgreementWithBremerBankNationalAssociationMember 2022-04-27
+0000796505 2021-10-01 2021-12-31
+0000796505 2022-12-31
+0000796505 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-10-01 2021-12-31
+0000796505 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-01 2022-12-31
+0000796505 us-gaap:CostOfSalesMember 2021-10-01 2021-12-31
+0000796505 us-gaap:CostOfSalesMember 2022-10-01 2022-12-31
+0000796505 clfd:OuluFinlandMember 2022-07-01 2022-12-31
+utr:sqft
+0000796505 clfd:OuluFinlandMember 2022-12-31
+0000796505 clfd:BrooklynPartMNMember 2021-11-19
+0000796505 clfd:TijuanaMexico3Member 2021-07-31 2021-07-31
+0000796505 clfd:TijuanaMexico3Member 2021-07-31
+0000796505 clfd:LeaseMandatoryContractualTermMember clfd:TijuanaMexico3Member 2021-07-31
+0000796505 clfd:WinnetkaAvenueNorthBrooklynParkMinnesotaMember 2015-01-01
+0000796505 clfd:WinnetkaAvenueNorthBrooklynParkMinnesotaMember 2022-12-31
+utr:M
+0000796505 srt:MaximumMember 2022-10-01 2022-12-31
+0000796505 srt:MinimumMember 2022-10-01 2022-12-31
+0000796505 srt:MaximumMember clfd:EuriborMember 2022-10-01 2022-12-31
+0000796505 srt:MinimumMember clfd:EuriborMember 2022-10-01 2022-12-31
+iso4217:EUR
+0000796505 us-gaap:IntersegmentEliminationMember 2022-12-31
+0000796505 us-gaap:OperatingSegmentsMember clfd:NestorCablesMember 2022-12-31
+0000796505 us-gaap:OperatingSegmentsMember clfd:ClearfieldMember 2022-12-31
+0000796505 us-gaap:IntersegmentEliminationMember 2022-10-01 2022-12-31
+0000796505 us-gaap:OperatingSegmentsMember clfd:NestorCablesMember 2022-10-01 2022-12-31
+0000796505 us-gaap:OperatingSegmentsMember clfd:ClearfieldMember 2022-10-01 2022-12-31
+0000796505 2021-10-01 2022-09-30
+0000796505 us-gaap:PatentsMember 2022-10-01 2022-12-31
+0000796505 2022-09-30
+0000796505 clfd:LegacyCustomersMember 2021-10-01 2021-12-31
+0000796505 clfd:LegacyCustomersMember 2022-10-01 2022-12-31
+0000796505 clfd:BroadbandServiceProvidersMember 2021-10-01 2021-12-31
+0000796505 clfd:BroadbandServiceProvidersMember 2022-10-01 2022-12-31
+0000796505 us-gaap:NonUsMember 2021-10-01 2021-12-31
+0000796505 us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000796505 country:US 2021-10-01 2021-12-31
+0000796505 country:US 2022-10-01 2022-12-31
+xbrli:shares
+0000796505 clfd:EmployeeStockPurchasePlanMember 2022-12-31
+iso4217:USD xbrli:shares
+0000796505 clfd:EmployeeStockPurchasePlanMember 2021-07-01 2022-12-31
+0000796505 clfd:EmployeeStockPurchasePlanMember 2022-10-01 2022-12-31
+0000796505 clfd:BonusStockAwardMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-10-01 2022-12-31
+0000796505 us-gaap:RestrictedStockMember 2022-12-31
+0000796505 us-gaap:RestrictedStockMember 2022-10-01 2022-12-31
+0000796505 us-gaap:RestrictedStockMember 2022-09-30
+0000796505 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementEmployeeMember clfd:StockCompensationPlan2007Member 2021-10-01 2021-12-31
+0000796505 us-gaap:RestrictedStockMember us-gaap:ShareBasedPaymentArrangementEmployeeMember clfd:StockCompensationPlan2007Member 2022-10-01 2022-12-31
+0000796505 us-gaap:RestrictedStockMember clfd:StockCompensationPlan2007Member srt:MaximumMember 2022-10-01 2022-12-31
+0000796505 us-gaap:RestrictedStockMember clfd:StockCompensationPlan2007Member srt:MinimumMember 2022-10-01 2022-12-31
+0000796505 us-gaap:EmployeeStockOptionMember srt:MaximumMember 2022-10-01 2022-12-31
+0000796505 us-gaap:EmployeeStockOptionMember srt:MinimumMember 2022-10-01 2022-12-31
+0000796505 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0000796505 us-gaap:AccumulatedTranslationAdjustmentMember 2022-12-31
+0000796505 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2022-12-31
+0000796505 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0000796505 us-gaap:AccumulatedTranslationAdjustmentMember 2022-10-01 2022-12-31
+0000796505 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2022-10-01 2022-12-31
+0000796505 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0000796505 us-gaap:AccumulatedTranslationAdjustmentMember 2022-09-30
+0000796505 us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember 2022-09-30
+0000796505 us-gaap:FairValueInputsLevel3Member 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel3Member 2022-09-30
+0000796505 us-gaap:FairValueInputsLevel2Member 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel1Member 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel3Member us-gaap:CertificatesOfDepositMember 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel2Member us-gaap:CertificatesOfDepositMember 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel1Member us-gaap:CertificatesOfDepositMember 2022-12-31
+0000796505 us-gaap:CertificatesOfDepositMember 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel3Member us-gaap:USTreasurySecuritiesMember 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel2Member us-gaap:USTreasurySecuritiesMember 2022-12-31
+0000796505 us-gaap:FairValueInputsLevel1Member us-gaap:USTreasurySecuritiesMember 2022-12-31
+0000796505 us-gaap:USTreasurySecuritiesMember 2022-12-31
+0000796505 clfd:LongtermInvestmentMember 2022-12-31
+0000796505 clfd:LongtermCertificatesOfDepositMember 2022-12-31
+0000796505 clfd:LongtermUSTreasurySecuritiesMember 2022-12-31
+0000796505 clfd:ShorttermInvestmentMember 2022-12-31
+0000796505 clfd:ShorttermCertificatesOfDepositMember 2022-12-31
+0000796505 clfd:ShorttermUSTreasurySecuritiesMember 2022-12-31
+0000796505 2021-09-30
+0000796505 us-gaap:RetainedEarningsMember 2021-12-31
+0000796505 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0000796505 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000796505 us-gaap:CommonStockMember 2021-12-31
+0000796505 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000796505 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0000796505 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000796505 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000796505 clfd:UnrestrictedStockMember 2021-10-01 2021-12-31
+0000796505 clfd:UnrestrictedStockMember us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000796505 clfd:UnrestrictedStockMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0000796505 clfd:UnrestrictedStockMember us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000796505 clfd:UnrestrictedStockMember us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000796505 us-gaap:RetainedEarningsMember 2021-09-30
+0000796505 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0000796505 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000796505 us-gaap:CommonStockMember 2021-09-30
+0000796505 us-gaap:RetainedEarningsMember 2022-12-31
+0000796505 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000796505 us-gaap:CommonStockMember 2022-12-31
+0000796505 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000796505 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0000796505 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0000796505 us-gaap:RetainedEarningsMember 2022-09-30
+0000796505 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000796505 us-gaap:CommonStockMember 2022-09-30
+0000796505 2023-01-23
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+☐  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________________ to ___________________
+Commission File Number
+0-16106
+Clearfield, Inc.
+(Exact name of Registrant as specified in its charter)
+Minnesota
+41-1347235
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+7050 Winnetka Avenue North ,
+Suite 100 ,
+Brooklyn Park ,
+Minnesota
+55428
+(Address of principal executive offices and zip code)
+( 763 )
+476-6866
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, $0.01 par value
+CLFD
+The
+Nasdaq
+Stock Market
+Indicate by check mark whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+☒
+Yes    ☐ No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+☒
+Yes    ☐ No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company in Rule 12b-2 of the Exchange Act.
+Large accelerated filer  ☒  Accelerated filer ☐  Non-accelerated filer ☐
+Smaller reporting company  ☐   Emerging growth company  ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+1
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐
+Yes   ☒ No
+Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date.
+Class:
+Outstanding as of January 23, 2023
+Common stock, par value $.01
+15,219,636
+2
+CLEARFIELD, INC.
+FORM 10-Q
+TABLE OF CONTENTS
+PART I. FINANCIAL INFORMATION
+4
+ITEM 1. FINANCIAL STATEMENTS
+4
+ITEM 2. MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+18
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+24
+ITEM 4. CONTROLS AND PROCEDURES
+24
+PART II. OTHER INFORMATION
+25
+ITEM 1. LEGAL PROCEEDINGS
+25
+ITEM 1A. RISK FACTORS
+25
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+25
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+25
+ITEM 4. MINE SAFETY DISCLOSURES
+25
+ITEM 5. OTHER INFORMATION
+25
+ITEM 6. EXHIBITS
+26
+SIGNATURES
+27
+3
+PART I. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+CLEARFIELD, INC.
+CONSOLIDATED BALANCE SHEETS
+(IN THOUSANDS, EXCEPT SHARE DATA)
+December 31,
+2022 (Unaudited)
+September 30,
+2022
+Assets
+Current Assets
+Cash and cash equivalents
+$
+30,313
+$
+16,650
+Short-term investments
+117,538
+5,802
+Accounts receivables, net
+55,139
+53,704
+Inventories, net
+89,705
+82,208
+Other current assets
+1,450
+1,758
+Total current assets
+294,145
+160,122
+Property, plant and equipment, net
+19,730
+18,229
+Other Assets
+Long-term investments
+10,293
+22,747
+Goodwill
+6,545
+6,402
+Intangible assets, net
+6,488
+6,376
+Right of use lease assets
+12,638
+13,256
+Deferred tax asset
+1,090
+1,414
+Other
+868
+582
+Total other assets
+37,922
+50,777
+Total Assets
+$
+351,797
+$
+229,128
+Liabilities and Shareholders ’
+Equity
+Current Liabilities
+Current portion of lease liability
+$
+3,475
+$
+3,385
+Accounts payable
+18,366
+24,118
+Accrued compensation
+6,867
+13,619
+Accrued expenses
+12,436
+6,181
+Factoring liability
+4,178
+4,391
+Total current liabilities
+45,322
+51,694
+Other Liabilities
+Long-term debt
+2,132
+18,666
+Long-term portion of lease liability
+9,706
+10,412
+Deferred tax liability
+756
+774
+Total liabilities
+57,916
+81,546
+Shareholders’ Equity
+Preferred stock, $ .01
+par value;
+500,000
+shares;
+no
+shares issued or outstanding
+-
+-
+Common stock, authorized
+50,000,000 , $. 01
+par value;  15,218,428
+and
+13,818,452
+shares issued and outstanding as of December 31, 2022 and September 30, 2022
+152
+138
+Additional paid-in capital
+185,404
+54,539
+Accumulated other comprehensive income
+( 733
+)
+( 1,898
+)
+Retained earnings
+109,058
+94,803
+Total shareholders’ equity
+293,881
+147,582
+Total Liabilities and Shareholders ’
+Equity
+$
+351,797
+$
+229,128
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+4
+CLEARFIELD, INC.
+CONSOLIDATED STATEMENTS OF EARNINGS
+UNAUDITED
+(IN THOUSANDS, EXCEPT SHARE DATA)
+Three Months Ended
+Three Months Ended
+December 31,
+December 31,
+2022
+2021
+Net sales
+$
+85,942
+$
+51,109
+Cost of sales
+55,293
+28,137
+Gross profit
+30,649
+22,972
+Operating expenses
+Selling, general and administrative
+12,759
+9,923
+Income from operations
+17,890
+13,049
+Net investment income
+303
+120
+Interest expense
+( 243
+)
+-
+Income before income taxes
+17,950
+13,169
+Income tax expense
+3,695
+2,780
+Net income
+$
+14,255
+$
+10,389
+Net income per share Basic
+$
+1.01
+$
+0.76
+Net income per share Diluted
+$
+1.00
+$
+0.75
+Weighted average shares outstanding:
+Basic
+14,165,550
+13,743,503
+Diluted
+14,284,847
+13,897,787
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+5
+CLEARFIELD, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+UNAUDITED
+(IN THOUSANDS)
+Three months ended
+Three months ended
+December 31,
+December 31,
+2022
+2021
+Net income
+$
+14,255
+$
+10,389
+Other comprehensive income before income taxes:
+Unrealized gain on available-for-sale investments
+184
+-
+Unrealized gain on foreign currency translation
+1,305
+-
+Total other comprehensive income before income taxes
+1,489
+-
+Income tax expense
+( 324
+)
+-
+Total other comprehensive income
+1,165
+-
+Total comprehensive income
+$
+15,420
+$
+10,389
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+6
+CLEARFIELD, INC.
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS ’
+EQUITY
+UNAUDITED
+(IN THOUSANDS)
+For three months ended December 31, 2022
+Accumulated other
+Common Stock
+Additional
+comprehensive
+Retained
+Total share-
+Shares
+Amount
+paid-in capital
+loss
+earnings
+holders’ equity
+Balance as of September 30, 2022
+13,819
+$
+138
+$
+54,539
+$
+( 1,898
+)
+$
+94,803
+$
+147,582
+Stock-based compensation expense
+-
+-
+660
+-
+-
+660
+Issuance of common stock under employee stock purchase plan
+5
+-
+299
+-
+-
+299
+Issuance of common stock under equity compensation plans
+18
+-
+954
+-
+-
+954
+Repurchase of shares for payment of withholding taxes for stock grants
+( 10
+)
+-
+( 954
+)
+-
+-
+( 954
+)
+Exercise of stock options, net of shares exchanged for payment
+6
+-
+( 342
+)
+-
+-
+( 342
+)
+Issuance of common stock, net
+1,380
+14
+130,248
+-
+-
+130,262
+Other comprehensive income
+-
+-
+-
+1,165
+-
+1,165
+Net income
+-
+-
+-
+-
+14,255
+14,255
+Balance at December 31, 2022
+15,218
+$
+152
+$
+185,404
+$
+( 733
+)
+$
+109,058
+$
+293,881
+For three months ended December 31, 2021
+Accumulated other
+Common Stock
+Additional
+comprehensive
+Retained
+Total share-
+Shares
+Amount
+paid-in capital
+loss
+earnings
+holders’ equity
+Balance as of September 30, 2021
+13,732
+$
+137
+$
+58,246
+$
+-
+$
+45,441
+$
+103,824
+Stock-based compensation expense
+-
+-
+440
+-
+-
+440
+Restricted stock issuance, net of forfeitures
+24
+-
+-
+-
+-
+-
+Unrestricted stock issued, net
+-
+-
+-
+-
+-
+-
+Issuance of common stock under employee stock purchase plan
+7
+-
+249
+-
+-
+249
+Exercise of stock options, net of shares exchanged for payment
+3
+-
+( 156
+)
+-
+-
+( 156
+)
+Repurchase of shares for payment of withholding taxes for vested restricted stock grants
+( 4
+)
+-
+( 274
+)
+-
+-
+( 274
+)
+Net income
+-
+-
+-
+-
+10,389
+10,389
+Balance at December 31, 2021
+13,762
+$
+137
+$
+58,505
+$
+-
+$
+55,830
+$
+114,472
+7
+CLEARFIELD, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+UNAUDITED
+(IN THOUSANDS)
+Three Months
+Three Months
+Ended
+Ended
+December 31,
+December 31,
+2022
+2021
+Cash flows from operating activities
+Net income
+$
+14,255
+$
+10,389
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+Depreciation and amortization
+1,353
+639
+Amortization of discount on investments
+( 218
+)
+( 11
+)
+Deferred taxes
+( 80
+)
+-
+Stock-based compensation
+660
+440
+Changes in operating assets and liabilities, net of acquired amounts:
+Accounts receivable
+( 549
+)
+3,108
+Inventories, net
+( 6,505
+)
+( 16,049
+)
+Other assets
+( 176
+)
+( 300
+)
+Accounts payable and accrued expenses
+( 7,637
+)
+1,750
+Net cash provided by (used in) operating activities
+1,103
+( 34
+)
+Cash flows from investing activities
+Purchases of property, plant and equipment and intangible assets
+( 2,213
+)
+( 2,051
+)
+Purchases of investments
+( 98,881
+)
+( 248
+)
+Proceeds from sales and maturities of investments
+-
+1,980
+Net cash used in investing activities
+( 101,094
+)
+( 319
+)
+Cash flows from financing activities
+Repayment of long-term debt
+( 16,700
+)
+-
+Proceeds from issuance of common stock under employee stock purchase plan
+299
+249
+Repurchase of shares for payment of withholding taxes for stock grants
+( 954
+)
+( 274
+)
+Withholding related to exercise of stock options
+( 342
+)
+( 156
+)
+Issuance of stock under equity compensation plans
+954
+-
+Net proceeds from issuance of common stock
+130,262
+-
+Net cash provided by (used in) financing activities
+113,519
+( 181
+)
+Effect of exchange rates on cash
+135
+-
+Increase (decrease) in cash and cash equivalents
+13,663
+( 534
+)
+Cash and cash equivalents, beginning of year
+16,650
+13,216
+Cash and cash equivalents, end of year
+$
+30,313
+$
+12,682
+Supplemental disclosures for cash flow information
+Cash paid during the year for income taxes
+$
+-
+$
+-
+Cash paid for interest
+$
+205
+$
+-
+Non-cash financing activities
+Cashless exercise of stock options
+$
+431
+$
+93
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+8
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1. Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying (a) consolidated balance sheet as of September 30, 2022, which has been derived from audited financial statements, and (b) unaudited interim consolidated financial statements as of and for the three months ended December 31, 2022 have been prepared by Clearfield, Inc. (the “Company”) in accordance with accounting principles generally accepted in the United States of America for interim financial information, pursuant to the rules and regulations of the Securities and Exchange Commission. In the opinion of management, the consolidated financial statements include all adjustments, consisting of normal recurring accruals, necessary for a fair presentation of the financial position, results of operations, and cash flows of the interim periods presented. Operating results for the interim periods presented are not necessarily indicative of results to be expected for the full year or for any other interim period, due to variability in customer purchasing patterns, seasonality and other factors. These consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the year ended September 30, 2022.
+In preparation of the Company’s consolidated financial statements, management is required to make estimates and assumptions that affect reported amounts of assets and liabilities and related revenues and expenses during the reporting periods. As future events and their effects cannot be determined with precision, actual results could differ significantly from these estimates.
+Principles of Consolidation
+The consolidated financial statements include the accounts of Clearfield, Inc. and its wholly-owned subsidiaries. All significant intercompany accounts and transactions have been eliminated in consolidation.
+New Accounting Pronouncements
+In June 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standard Update (“ASU”) 2016-13, Measurement of Credit Losses on Financial Instruments. In November 2018, the FASB issued update ASU 2018-19 that clarifies the scope of the standard in the amendments in ASU 2016-13. This guidance introduces a new model for recognizing credit losses on financial instruments based on an estimate of current expected credit losses. Financial instruments impacted include accounts receivable, trade receivables, other financial assets measured at amortized cost and other off-balance sheet credit exposures. The new guidance is effective for the Company beginning in the first quarter of fiscal 2024, with early adoption permitted. The Company is evaluating the impact of the adoption of ASU 2016-13 on its consolidated financial statements.
+Note 2. Net Income Per Share
+Basic net income per common share (“EPS”) is computed by dividing net income by the weighted average number of common shares outstanding for the reporting period. Diluted EPS equals net income divided by the sum of the weighted average number of shares of common stock outstanding plus all additional common stock equivalents, such as stock options, when dilutive.
+The following is a reconciliation of the numerator and denominator of the net income per common share computations for the three months ended December 31, 2022 and 2021:
+Three Months Ended December 31,
+2022
+2021
+Net income
+$
+14,255,000
+$
+10,389,000
+Weighted average common shares
+14,165,550
+13,743,503
+Dilutive potential common shares
+119,297
+154,284
+Weighted average dilutive common shares outstanding
+14,284,847
+13,897,787
+Net income per common share:
+Basic
+$
+1.01
+$
+0.76
+Diluted
+$
+1.00
+$
+0.75
+9
+Note 3. Investments
+The Company invests in certificates of deposit (“CDs”) that are fully insured by the Federal Deposit Insurance Corporation (“FDIC”) and United States (U.S.) Treasury securities with terms of not more than five years, as well as money market accounts. Historically, the Company’s investment portfolio had been classified as held-to-maturity and recorded at amortized cost. During the second quarter of fiscal 2022, the Company sold investments and reclassified its investment portfolio to available-for-sale, which is reported at fair value. The unrealized gain or loss on investment securities is recorded in other comprehensive income, net of tax. Realized gains and losses on available-for-sale securities are recognized upon sale and are included in net investment income in the consolidated statement of earnings.
+At December 31, 2022, available-for-sale investments consisted of the following:
+December 31, 2022
+(In thousands)
+Cost
+Unrealized Gains
+Unrealized Losses
+Fair Value
+Short-Term
+U.S. Treasury securities
+$
+108,580
+$
+10
+$
+327
+$
+108,263
+Certificates of deposit
+9,513
+-
+238
+9,275
+Investment securities – short-term
+$
+118,093
+$
+10
+$
+565
+$
+117,538
+Long-Term
+U.S Treasury securities
+$
+6,694
+$
+-
+$
+650
+$
+6,044
+Certificates of deposit
+4,449
+-
+200
+4,249
+Investment securities – long-term
+$
+11,143
+$
+-
+$
+850
+$
+10,293
+As of December 31, 2022, investments in debt securities in an unrealized loss position were as follows:
+In Unrealized Loss Position For Less
+Than 12 Months
+In Unrealized Loss Position For Greater
+Than 12 Months
+(In thousands)
+Fair Value
+Gross Unrealized
+Losses
+Fair Value
+Gross Unrealized
+Losses
+U.S Treasury securities
+$
+-
+$
+-
+$
+15,210
+$
+976
+Certificates of deposit
+4,201
+89
+9,323
+350
+Investment securities
+$
+4,201
+$
+89
+$
+24,532
+$
+1,326
+As of December 31, 2022, there were
+62
+securities in an unrealized loss position which is due to the market paying a higher interest rate than the coupon rate on these securities. As of December 31, 2022, there are no securities which are other than temporarily impaired as the Company intends to hold these securities until their value recovers and there is negligible credit risk due to the nature of the securities which are backed by the FDIC and U.S. federal government.
+Note 4. Fair Value Measurements
+The Company determines the fair value of its assets and liabilities based on the market price that would be received for an asset or paid to transfer a liability (exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. The Company determines the fair value of U.S. treasury securities, and certificates of deposit based on valuations provided by an external pricing service, who obtains them from a variety of industry standard data providers.
+The Company’s investments are categorized according to the three-level fair value hierarchy which distinguishes between observable and unobservable inputs, in one of the following levels:
+Level 1- Quoted prices in active markets for identical assets or liabilities.
+10
+Level 2- Observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data.
+Level 3- Unobservable inputs to the valuation methodology that are supported by little or no market activity and that are significant to the measurement of the fair value of the assets or liabilities. Level 3 assets and liabilities include those with fair value measurements that are determined using pricing models, discounted cash flow valuation or similar techniques, as well as significant management judgment or estimation.
+The following provides information regarding fair value measurements for the Company's investment securities as of December 31, 2022, according to the three-level fair value hierarchy:
+Fair Value Measurements at December 31, 2022
+( In thousands )
+Total
+Level 1
+Level 2
+Level 3
+Investment securities:
+U.S Treasury securities
+$
+114,307
+$
+-
+$
+114,307
+$
+-
+Certificates of deposit
+13,524
+-
+13,524
+-
+Total investment securities
+$
+127,831
+$
+-
+$
+127,831
+$
+-
+During the three months ended December 31, 2022 and the year ended September 30, 2022, the Company owned
+no
+Level 3 securities and there were no transfers within the fair value level hierarchy.
+Non-financial assets such as equipment and leasehold improvements, goodwill and intangible assets, and right-of-use assets for operating leases are subject to non-recurring fair value measurements if they are deemed impaired. The Company had no re-measurements of non-financial assets to fair value in the three months ended December 31, 2022 and the year ended September 30, 2022
+Note 5. Other Comprehensive Income (Loss)
+Changes in components of other comprehensive loss and taxes related to items of other comprehensive income are as follows:
+(In thousands)
+Available-for-Sale Securities
+Foreign Currency Translation
+Accumulated Other Comprehensive Loss
+Balances at September 30, 2022
+$
+( 1,224
+)
+$
+( 674
+)
+$
+( 1,898
+)
+Other comprehensive income (loss) for the three months ended December 31, 2022
+141
+1,024
+1,165
+Balances at December 31, 2022
+$
+( 1,083
+)
+$
+350
+$
+( 733
+)
+11
+Note 6. Stock-Based Compensation
+The Company recorded $ 660,000
+of compensation expense related to current and past restricted stock grants, non-qualified stock options, and the Company’s Employee Stock Purchase Plan (“ESPP”) for the three months ended December 31, 2022. For the three months ended December 31, 2022, $ 625,000
+of this expense is included in selling, general and administrative expense, and $ 35,000
+is included in cost of sales. The Company recorded $ 440,000
+of compensation expense related to current and past restricted stock grants, non-qualified stock options and the Company’s ESPP for the three months ended December 31, 2021. For the three months ended December 31, 2021, $ 409,000
+of this expense is included in selling, general and administrative expense, and $ 31,000
+is included in cost of sales. As of December 31, 2022, $ 4,578,000
+of total unrecognized compensation expense related to non-vested restricted stock awards and stock options is expected to be recognized over a period of approximately
+2.9
+years.
+Stock Options
+The Company uses the Black-Scholes option pricing model to determine the fair value of options granted. During the three months ended December 31, 2022, the Company granted employees non-qualified stock options to purchase an aggregate of
+15,020
+shares of common stock with a weighted average contractual term of
+five
+years, a weighted average
+three -year vesting term, and a weighted average exercise price of $ 104.36
+per share. During the three months ending December 31, 2021, the Company granted employees non-qualified stock options to purchase an aggregate of
+62,730
+shares of common stock with a weighted average contractual term of five years, a weighted average three-year vesting term, and a weighted average exercise price of $ 66.48
+per share.
+The fair value of stock option awards during the three months ended December 31, 2022 was estimated as of the respective grant dates using the assumptions listed below:
+Three months ended December 31, 2022
+Dividend yield
+0
+%
+Expected volatility
+61.68
+%
+Risk-free interest rate
+3.87
+%
+Expected life (years)
+3.5
+Vesting period (years)
+3
+The expected stock price volatility is based on the historical volatility of the Company’s stock for a period approximating the expected life. The expected life represents the period of time that options are expected to be outstanding after their grant date. The risk-free interest rate reflects the interest rate as of the grant date on zero-coupon U.S. governmental bonds with a remaining life similar to the expected option term.
+Options are granted with exercise prices at fair market values determined on the date of grant and vesting normally occurs over a
+three
+to
+five -year period. Shares issued upon exercise of a stock option are issued from the Company’s authorized but unissued shares.
+The following is a summary of stock option activity during the three months ended December 31, 2022:
+Number of options
+Weighted average
+exercise price
+Outstanding as of September 30, 2022
+236,509
+$
+31.30
+Granted
+15,020
+104.36
+Exercised
+( 12,409
+)
+34.77
+Forfeited or Expired
+-
+-
+Outstanding as of December 31, 2022
+239,120
+$
+35.72
+The intrinsic value of an option is the amount by which the fair value of the underlying stock exceeds its exercise price. As of December 31, 2022, the weighted average remaining contractual term for all outstanding and exercisable stock options was
+2.90
+years and their aggregate intrinsic value was $ 7,058,000 .
+12
+Restricted Stock
+The Company’s 2007 Stock Compensation Plan permits its Compensation Committee to grant stock-based awards, including stock options and restricted stock, to key employees and non-employee directors. The Company has made restricted stock grants that vest over
+one
+to
+ten
+years.
+During the three months ended December 31, 2022, the Company granted employees restricted stock awards totaling
+8,686
+shares of common stock, with a vesting term of approximately
+three
+years and a fair value of $ 104.36
+per share. During the three months ended December 31, 2021, the Company granted employees restricted stock awards totaling
+23,318
+shares of common stock, with a vesting term of approximately
+three
+years and a fair value of $ 66.48
+per share.
+Restricted stock transactions during the three months ended December 31, 2022 are summarized as follows:
+Number of shares
+Weighted average
+grant date fair value
+Unvested shares as of September 30, 2022
+98,508
+$
+31.51
+Granted
+8,686
+104.36
+Vested
+( 23,001
+)
+44.20
+Forfeited
+-
+-
+Unvested as of December 31, 2022
+84,193
+$
+35.36
+Bonus Stock
+During the three months ended December 31, 2022, the Company granted employees an aggregate of
+9,144
+shares of stock as a discretionary bonus to pay  the incentive compensation earned for fiscal 2022 performance. The bonus stock consisted of common stock with no vesting period or restrictions. The fair value on the date of issuance was $ 104.36
+per share.
+Employee Stock Purchase Plan
+The Company’s ESPP allows participating employees to purchase shares of the Company’s common stock at a discount through payroll deductions. The ESPP is available to all employees subject to certain eligibility requirements. Terms of the ESPP provide those participating employees the ability to purchase the Company’s common stock on a voluntary after-tax basis. Employees may purchase the Company’s common stock at a price that is no less than the lower of
+85 % of the fair market value of one share of common stock at the beginning or end of each stock purchase period or phase. The ESPP is carried out in six-month phases, with phases beginning on January 1 and July 1 of each calendar year. For the phase that ended on December 31, 2022, employees purchased
+5,585
+shares at a price of $ 53.52
+per share. After the employee purchase on December 31, 2022,
+176,005
+shares of common stock were available for future purchase under the ESPP.
+Note 7. Revenue
+Revenue Recognition
+Net sales include products and shipping and handling charges. Revenue is measured as the amount of consideration the Company expects to receive in exchange for transferring products. All revenue is recognized when the Company satisfies its performance obligations under the contract. The Company recognizes revenue by transferring the promised products to the customer, with substantially all revenue recognized at the point in time the customer obtains control of the products. The Company recognizes revenue for shipping and handling charges at the time the products are delivered to or picked up by the customer. The majority of the Company’s contracts have a single performance obligation and are short term in nature. Sales taxes and value added taxes in foreign jurisdictions that are collected from customers and remitted to governmental authorities are accounted for on a net basis and therefore are excluded from net sales.
+13
+Disaggregation of Revenue
+The Company allocates sales from external customers to geographic areas based on the location to which the product is transported. Sales outside the United States are principally to countries in Europe, the Caribbean, Canada, Central and South America.
+Revenues related to the following geographic areas were as follows for the three months ended:
+Three Months Ended December 31,
+(In thousands)
+2022
+2021
+United States
+$
+75,737
+$
+49,118
+All other countries
+10,205
+1,991
+Total Net Sales
+$
+85,942
+$
+51,109
+The Company manufactures and sells proprietary product lines designed for the Broadband Service Provider marketplace. In addition, the Company’s Legacy business provides build-to-print services for original equipment manufacturers requiring copper and fiber cable assemblies built to their specification.
+The percentages of our sales by markets were as follows for the three months ended:
+Three Months Ended December 31,
+2022
+2021
+Broadband service providers
+97
+%
+99
+%
+Other customers
+3
+%
+1
+%
+Total Net Sales
+100
+%
+100
+%
+Broadband Service Providers are made up of Community Broadband, which includes local and regional telecom companies, utilities, municipalities and alternative carriers, multiple system operators (“MSO’s, or Cable TV”), which are also referred to as Tier 2 and Tier 3 customers; National Carriers, which includes large national and global wireline and wireless providers also referred to as Tier 1’s; and International customers. Other customers include sales of copper cable, build-to-print copper assemblies and other contract manufacturing.
+Accounts Receivable
+Credit is extended based on the evaluation of a customer’s financial condition, and collateral is generally not required. Accounts that are outstanding longer than the contractual payment terms are considered past due. The Company writes off accounts receivable when they become uncollectible; payments subsequently received on such receivables are credited to the allowance for doubtful accounts. As of both December 31, 2022 and September 30, 2022, the balance in the allowance for doubtful accounts was $ 79,000 .
+See Note 8 “Major Customer Concentration” for further information regarding accounts receivable and net sales.
+Note 8. Major Customer Concentration
+For the three months ended December 31, 2022, Customer A comprised 15% of the Company’s net sales. Customer A is a distributor. For the three months ended December 31, 2021, Customers B, A, and C comprised 15%, 11% and 10% of the Company’s net sales, respectively. Customer B and C are regional broadband service providers. These major customers, like our other customers, purchase our products from time to time through purchase orders, and the Company does not have any agreements that obligate these major customers to purchase products from us in the future.
+As of December 31, 2022, Customer A comprised 13% of the Company’s accounts receivable. As of September 30, 2021, Customer D was 11% of accounts receivable. Customers D is a distributor.
+14
+Note 9. Inventories
+Inventories consist of the following as of:
+(In thousands)
+December 31,
+2022
+September 30,
+2022
+Raw materials
+$
+72,560
+$
+69,142
+Work-in-process
+5,125
+4,592
+Finished goods
+15,026
+10,803
+Inventories, gross
+92,711
+84,537
+Inventory reserve
+( 3,006
+)
+( 2,329
+)
+Inventories, net
+$
+89,705
+$
+82,208
+Note 10. Goodwill and Intangibles
+The Company analyzes its goodwill for impairment annually or at an interim period when events occur or changes in circumstances indicate potential impairment. The result of the analysis performed as of September 30, 2022 did
+not
+indicate an impairment of goodwill. During the three months ended December 31, 2022, there were no triggering events that indicate potential impairment exists.
+The Company capitalizes legal costs incurred to obtain patents. Once accepted by either the U.S. Patent Office or the equivalent office of a foreign country, these legal costs are amortized using the straight-line method over the remaining estimated lives, not exceeding
+20
+years. As of December 31, 2022, the Company has
+38
+patents granted and multiple pending applications both inside and outside the United States.
+In addition, the Company has various finite lived intangible assets, most of which were acquired as a result of the acquisition of the active cabinet product line from Calix, Inc. during fiscal year 2018 and acquisition of Nestor Cables in fiscal 2022. The Company analyzes its intangible assets for impairment annually or at interim periods when events occur or changes in circumstances indicate potential impairment. The result of the analysis performed as of September 30, 2022 did
+not
+indicate an impairment of our intangible assets. During the three months ended December 31, 2022, there were no triggering events that indicate potential impairment exists.
+Note 11. Segment Reporting
+The Company’s reportable segments are based on the Company’s method of internal reporting. These results are not necessarily indicative of the results of operations that would have occurred had each segment been an independent, stand-alone entity during the periods presented. The internal reporting of these operating segments is defined based, in part, on the reporting and review process used by the Company’s Chief Executive Officer.
+Upon closing of the acquisition of Nestor Cables on July 26, 2022, the Company reassessed its operating segments as defined under Accounting Standards Codification (“ASC”) 280,
+Segment Reporting . Under ASC 280, operating segments are defined as components of an enterprise where discrete financial information is available that is evaluated regularly by the chief operating decision-maker (“CODM”), in deciding how to allocate resources and in assessing performance. Based upon the Company’s assessment, the Company determined that the business of Nestor Cables was considered a second reportable segment as of July 26, 2022.
+For the first quarter of fiscal 2023, the Company has
+two
+reportable segments: (1) Clearfield and (2) Nestor Cables. Clearfield’s Finnish holding company Clearfield Finland Ltd purchased Nestor Cables Ltd, including its Estonian subsidiary Nestor Cables Baltics on July 26, 2022. These entities comprise the Nestor Cables Segment.
+Financial results for the reportable segments are prepared on a basis consistent with the internal disaggregation of financial information to assist the CODM in making internal operating decisions. For consolidated reporting, the Company eliminates transactions between reportable segments.
+15
+The following table summarizes the amounts between the
+two
+reportable segments for the three months ended December 31, 2022:
+Three months ended December 31, 2022
+(In thousands )
+Clearfield
+Nestor Cables
+Eliminations
+Consolidated
+Revenue from external customers
+$
+78,355
+$
+7,587
+$
+-
+$
+85,942
+Revenue from internal customers (Clearfield, Inc.)
+-
+1,186
+( 1,186
+)
+-
+Net investment income
+301
+2
+-
+303
+Interest expense
+170
+73
+-
+243
+Depreciation and amortization
+1,009
+344
+-
+1,353
+Stock based compensation
+660
+-
+-
+660
+Income taxes
+3,773
+( 78
+)
+-
+3,695
+Net income (loss)
+14,718
+( 310
+)
+( 153
+)
+14,255
+Capital expenditures
+1,787
+197
+-
+1,984
+Goodwill
+4,709
+1,836
+-
+6,545
+Total assets
+334,465
+34,692
+( 17,360
+)
+351,797
+Note 12. Financing Receivables
+Nestor Cables factors certain of its accounts receivable, with recourse provisions that are accounted for as a secured borrowing. Nestor Cables has a total factoring liability of $ 4,178,000
+as of December 31, 2022. Nestor receives cash for
+80 % of the receivable balance from the bank initially and the remaining
+20 % when the invoice is paid up to a limit of € 12.5
+million ($ 13.3
+million as of December 31, 2022). Due to the conditions mentioned above, these transactions do not qualify as a sale and are thus accounted for as secured borrowing. The contractual interest rate on Nestor’s factoring arrangements is the 3-month Euribor rate plus a range of
+0.75 % to
+1.3 %. The average interest rate for the three months ended December 31, 2022, was
+2.37 %. These agreements are indefinite with a termination notice period ranging from
+zero
+to
+one
+month.
+Note 13. Income Taxes
+For the three months ended December 31, 2022, the Company recorded income tax expense of $ 3,695,000 , reflecting an effective tax rate of
+20.6 %. The difference between the effective tax rate and the statutory tax rate for the three months ended December 31, 2022 was primarily related to excess tax benefits from non-qualified stock option exercises and vesting of restricted stock, foreign derived intangibles income (FDII) deduction, and research and development credits.
+For the three months ended December 31, 2021, the Company recorded income tax expense of $ 2,780,000 , reflecting an effective tax rate of
+21.1 %. The difference between the effective tax rate and the statutory tax rate for the three months ended December 31, 2021 was primarily related to excess tax benefits from restricted stock vested during the quarter, nondeductible stock option expense, IRS Section 162(m) compensation deduction limitations, research and development credits, and FDII deduction.
+Deferred taxes recognize the impact of temporary differences between the amounts of the assets and liabilities recorded for financial statement purposes and these amounts measured in accordance with tax laws. The Company’s realization of deferred tax temporary differences is contingent upon future taxable earnings. The Company reviewed its deferred tax asset for expected utilization using a “more likely than not” criteria by assessing the available positive and negative factors surrounding its recoverability and determined that as of December 31, 2022 and September 30, 2022 a valuation allowance against the deferred tax assets is not required. The Company will continue to assess the need for a valuation allowance based on changes in assumptions of estimated future income and other factors in future periods.
+As of December 31, 2022, the Company does
+not
+have any unrecognized tax benefits. It is the Company’s practice to recognize interest and penalties accrued on any unrecognized tax benefits as a component of income tax expense. The Company does not expect any material changes in its unrecognized tax positions over the next 12 months.
+16
+Note 14. Leases
+The Company leases an
+85,000
+square foot facility at 7050 Winnetka Avenue North, Brooklyn Park, Minnesota consisting of corporate offices, manufacturing and warehouse space. The lease term is
+ten
+years and two months, ending on February 28, 2025 and is renewable. The renewal options have not been included within the lease term because it is not reasonably certain that the Company will exercise either option.
+In July 2021, the Company entered into an indirect lease arrangement for an approximately
+318,000
+square foot manufacturing facility in Tijuana, Mexico that operates as a Maquiladora. The lease term is for
+7
+years of which
+5
+years are mandatory, commencing March 2022. The lease contains written options to renew for
+two
+additional consecutive periods of
+5
+years each. The lease calls for monthly rental payments of $ 162,000 , increasing
+2 % annually. The renewal options have not been included within the lease term because it is not reasonably certain that the Company will exercise either option.
+On November 19, 2021, the Company signed a lease for a
+105,000
+square foot warehouse in Brooklyn Park, Minnesota. The lease term is
+five
+years commencing March 2022 and ending on February 28, 2027, with rent payments increasing annually. The lease includes an option to extend the lease for an additional
+five
+years. The renewal option has not been included within the lease term because it is not reasonably certain that the Company will exercise the option. The lease commenced in the second quarter of fiscal 2022.
+Nestor leases an approximately
+25,000
+square foot manufacturing facility in Oulu, Finland, which is utilized for the operations of Nestor Cables. The original lease term ended on October 31, 2022, but auto renews indefinitely until terminated with two years written notice. It is not reasonably certain that the Company will not exercise the termination option. The lease calls for monthly rental payments of approximately $ 40,000 . Rent is increased each year on January 1st based upon the cost of living index published by the Finnish government.
+Right-of-use lease assets and lease liabilities are recognized as of the commencement date based on the present value of the remaining lease payments over the lease term which includes renewal periods the Company is reasonably certain to exercise. The Company’s leases do not contain any material residual value guarantees or material restrictive covenants. Operating lease expense included within cost of goods sold and selling, general and administrative expense was as follows for the three months ended:
+Operating lease expense within:
+(in thousands)
+Three Months Ended December 31,
+2022
+2021
+Cost of sales
+$
+1,368
+$
+285
+Selling, general and administrative
+203
+55
+Total lease expense
+$
+1,571
+$
+340
+Future maturities of lease liabilities were as follows as of December 31, 2022 (in thousands):
+FY2023(Remaining)
+$
+2,883
+FY2024
+3,875
+FY2025
+3,061
+FY2026
+2,870
+FY2027
+1,196
+Thereafter
+-
+Total lease payments
+13,885
+Less: Interest
+( 704
+)
+Present value of lease liabilities
+$
+13,181
+The weighted average term and weighted average discount rate for the Company’s leases as of December 31, 2022 were
+3.79
+years and
+3.22 %, respectively, compared to
+2.82
+years and
+3.41 %, respectively, as of December 31, 2021. For the three months ended December 31, 2022, the operating cash outflows from the Company’s leases was $ 946,000 , compared to $ 312,000
+for the three months ended December 31, 2021.
+Note 15. Debt
+On April 27, 2022, the Company entered into a loan agreement and a security agreement with a bank that provides the Company with a $ 40,000,000
+revolving line of credit that is secured by certain of the Company’s U.S. assets. The line of credit matures on April 27, 2025 and borrowed amounts will bear interest at a variable rate of the CME Group one-month term Secured Overnight Financing Rate (“SOFR”) plus
+1.85 %, but not less than
+1.80 % per annum. During the quarter ended December 31, 2022, the Company paid the outstanding balance of the revolving line of credit. As of December 31, 2022, the outstanding balance on the revolving line of credit was zero and the interest rate was
+5.97 %. The loan agreement and the security agreement contains customary affirmative and negative covenants and requirements relating to the Company and its operations, including a requirement that the Company maintain a debt service coverage ratio of not less than
+1.20
+to 1 as of the end of each fiscal year for the fiscal year then ended and maintain a debt to cash flow ratio of not greater than
+2
+to 1 measured as of the end of each of the Company’s fiscal quarters for the trailing twelve (12) month period. Debt service coverage ratio is the ratio of Cash Available for Debt Service to Debt Service, each as defined in the loan agreement. Debt and Cash Flow are also as defined in the loan agreement for the purposes of the debt to cash flow ratio covenant. As of December 31, 2022, the Company was in compliance with all covenants. The line of credit is collateralized by Clearfield, Inc’s assets of $ 334,465,000
+as of December 31, 2022.
+17
+During March 2021, Nestor Cables entered into a loan agreement, providing a $ 2
+million senior loan with a term of
+three
+years. The Finland National Emergency Supply Agency (“NESA”) pays the interest, capped at
+5 % with the interest to be paid by NESA when the loan is used for stockpiling purposes and is repayable with a
+2 % additional interest penalty if there is a violation of the terms. The loan is due on March 31, 2024. The loan is fully secured by a Finnish government guarantee. If used for any purposes other than stockpiling, the lender has the right to terminate the agreement and the entire outstanding balance will become due. As of December 31, 2022, Nestor Cables was in compliance with all covenants. The interest expense associated with this loan has been presented net of government payments on the Company’s consolidated statement of earnings.
+The Company did
+not
+have any debt as of December 31, 2021.
+ITEM 2. MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The statements contained in this Quarterly Report on Form 10-Q that are not purely historical are
+“ forward-looking statements ”
+within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements relate to future events and typically address the Company ’ s expected future business and financial performance. Words such as  “ plan, ”
+“ expect, ”
+“ aim, ”
+“ believe, ”
+“ project, ”
+“ target, ”
+“ anticipate, ”
+“ intend, ”
+“ estimate, ”
+“ will, ”
+“ should, ”
+“ could ”
+and other words and terms of similar meaning, typically identify these forward-looking statements. Forward-looking statements are based on certain assumptions and expectations of future events and trends that are subject to risks and uncertainties. Actual results could differ from those projected in any forward-looking statements because of the factors identified in and incorporated by reference from Part   I, Item 1A,
+“ Risk Factors, ”
+of our Annual Report on Form 10-K for the year ended September 30, 2022 and Part II, Item 1A.
+“ Risk Factors ”
+of this Quarterly Report on Form 10-Q, as well as in other filings we make with the Securities and Exchange Commission, which should be considered an integral part of Part   I, Item 2,
+“ Management ’ s Discussion and Analysis of Financial Condition and Results of Operations. ”
+All forward-looking statements included herein are made as the date of this Quarterly Report on Form 10-Q and we assume no obligation to update the forward-looking statements or to update the reasons why actual results could differ from those projected in the forward-looking statements.
+The following discussion and analysis of the Company’s financial condition and results of operations as of and for the three months ended December 31, 2022 and 2021 should be read in conjunction with the financial statements and related notes in Item 1 of this report and our Annual Report on Form 10-K for the year ended September 30, 2022.
+OVERVIEW
+General
+Clearfield, Inc., together with its subsidiaries, is referred to in this report as “we,” “us,” “our,” and the “Company.” We design, manufacture and distribute fiber protection, fiber management and fiber delivery solutions to enable rapid and cost-effective fiber-fed deployment throughout the broadband service provider space primarily across North America. Our “fiber to the anywhere” platform serves the unique requirements of leading Broadband Service Providers in the United States (“U.S.”), which include Community Broadband, MSO’s, and National Carriers, while also serving the broadband needs of the International markets, primarily countries in the Caribbean, Canada, and Central and South America. These customers are collectively included in Broadband Service Providers. The Company also provides contract manufacturing services for its Legacy customers which include original equipment manufacturers (OEM) requiring copper and fiber cable assemblies built to their specifications.
+18
+We are engaged in global operations. Our operations currently comprise of two reportable segments: the Clearfield Operating Segment (referred to herein as “Clearfield”) and, since July 26, 2022, the Nestor Cables Operating Segment (referred to herein as “Nestor Cables” or “Nestor”). Prior to July 26, 2022, we were considered to be in a single reporting segment and operating unit structure.
+On July 26, 2022, we acquired Nestor Cables Ltd, a leading developer and manufacturer of fiber optic cable solutions located in Finland. The purchase of Nestor Cables is expected to provide Clearfield with the ability to vertically integrate the supply of fiber optic cables and help meet customer demand for its products. Nestor Cables’ technical expertise is expected to extend the supply of FieldShield into the North American market to reduce cost and complexity of transportation.
+Upon closing of the acquisition of Nestor Cables on July 26, 2022, the Company reassessed its operating segments as defined under Accounting Standards Codification (“ASC”) 280,
+Segment Reporting . Under ASC 280, operating segments are defined as components of an enterprise where discrete financial information is available that is evaluated regularly by the chief operating decision-maker (“CODM”), in deciding how to allocate resources and in assessing performance. Based upon the Company’s assessment, the Company determined that the business of Nestor Cables was considered a second reportable segment as of July 26, 2022.
+Nestor Cables Operating Segment
+As of July 26, 2022, Clearfield through its Finnish subsidiary, Clearfield Finland Ltd, acquired Nestor Cables. Nestor Cables is based in Oulu, Finland, with operations in Keila, Estonia through its wholly-owned subsidiary, Nestor Cables Baltics Ltd. Nestor Cables manufactures fiber optic and copper telecommunication cables and equipment which it distributes to telecommunication operators, network owners, electric companies, building contractors, and industrial companies. Prior to our acquisition, Nestor Cables had been a supplier to Clearfield for over a decade and that relationship continued following the closing of the acquisition. Nestor has two types of production processes, the process of making cable in its Finland facility and the finished assembly portion of its business performed in Estonia. Nestor Cables’ customer base includes telecom operators, network owners, contractors, industries and wholesalers. Products are sold via distributors, and directly to end users. Nestor Cables is subject to Finnish government regulation; Nestor Cables Baltics is subject to Estonian government regulation.
+Clearfield Operating Segment
+Clearfield is focused on providing fiber management, fiber protection, and fiber delivery products that accelerate the turn-up of gigabit speed bandwidth to residential homes, businesses, and network infrastructure in the wireline and wireless access network. We offer a broad portfolio of fiber products that allow service providers to build fiber networks faster, meet service delivery demands, and align build costs with take rates.
+Clearfield’s products allow its customers to connect homes in their Fiber to the Home (“FTTH”) builds by using fewer resources in less time. Our products speed up the time to revenue for our service provider customers in Multiple Dwelling Units (“MDUs”) and Multiple Tenant Units (“MTUs”) by reducing the amount of labor and materials needed to provide gigabit service. Our products help make business services more profitable through faster building access, easier reconfiguration and quicker services turn-up. Finally, Clearfield is removing barriers to wireless 4G/5G small cell, Cloud Radio Access Network (“C-RAN”), and distributed antenna system (“DAS”) deployments through better fiber management, test access, and fiber protection. The Company has historically focused on the unserved or underserved rural communities that receive voice, video and data services from independent telephone companies.  By aligning its in-house engineering and technical knowledge alongside its customers, the Company has been able to develop, customize and enhance products from design through production. Final build and assembly of the Company’s products is completed at Clearfield’s manufacturing facilities in Brooklyn Park, Minnesota, and the manufacturing facility in Tijuana, Mexico that operates as Maquiladora, with manufacturing support from a network of domestic and global manufacturing partners. Clearfield specializes in producing these products on both a quick-turn and scheduled delivery basis. The Company deploys a hybrid sales model with some sales made directly to customers, some made through two-tier distribution (channel) partners, sales agents and manufacturing representatives, and sales through original equipment suppliers who private label their products.
+19
+RESULTS OF OPERATIONS
+THREE MONTHS ENDED DECEMBER 31, 2022 VS. THREE MONTHS ENDED DECEMBER 31, 2021
+Net sales for the first quarter of fiscal 2023 ended December 31, 2022 were $85,942,000, an increase of approximately 68% or $34,833,000, from net sales of $51,109,000 for the first quarter of fiscal 2022. Net sales to Broadband Service Providers were $83,626,000 in the first quarter of fiscal 2023 versus $50,406,000 in the same period of fiscal 2022.  In addition, the Company recorded $10,204,000 in international sales for the first quarter of 2023 versus $1,991,000 in the same period of fiscal 2022. Net sales to Legacy customers were $751,000 in the first quarter of 2023 versus $702,000 in the same period of fiscal 2022. The Company allocates sales from external customers to geographic areas based on the location to which the product is transported. The increase in sales to International customers was primarily due to the acquisition of Nestor Cables as its sales are to European and other non-U.S. customers. International sales represented 12% and 4% of total net sales for the first quarter of 2023 and 2022, respectively.
+The increase in net sales for the quarter ended December 31, 2022 of $34,833,000 compared to the quarter ended December 31, 2021 was driven by increased sales to MSO customers of $12,492,000, Community Broadband Service Providers of $11,886,000, and International customers of $8,210,000. The increase in sales to MSO and Community Broadband customers was due to increased demand in December 31, 2022 as compared to December 31, 2021 for fiber connectivity products in response to COVID-19 and the need for high-speed broadband required in the work from anywhere environment.
+In the quarter ended December 31, 2022, customers began ordering according to more normalized, seasonally driven deployment schedules, but at continuing higher volumes as compared to pre-COVID-19 periods. Order backlog for the first quarter of 2023 was $136,000,000, a decrease of 17% compared to $165,000,000 as of September 30, 2022, and an increase of $35,000,000 or 34% over December 31, 2021. The sequential decrease was due to the Company’s ability to fulfill the customers’ orders more quickly and the return of seasonal ordering patterns by our customers.
+Revenue from customers is obtained from purchase orders submitted from time to time, with a limited number of customers recently issuing purchase orders for longer time frames. The Company’s ability to predict orders in future periods or trends affecting orders in future periods is limited. The Company’s ability to predict revenue is further limited by global supply chain issues, customer deployment schedules and customer ordering strategy to ensure supply availability, all of which have been variable particularly since the onset of the COVID-19 pandemic. The Company’s ability to recognize revenue in the future for customer orders will depend on the Company’s ability to manufacture and deliver products to the customers and fulfill its other contractual obligations.
+20
+Cost of sales for the first quarter of 2023 was $55,293,000, an increase of $27,156,000, or 97%, from $28,137,000 in the comparable period of fiscal 2022. Gross profit percent was 35.7% of net sales in the first quarter of 2023, a decrease from 44.9% of net sales for the first quarter of 2022. Gross profit increased $7,677,000 or 33%, to $30,649,000 for the three months ended December 31, 2022, from $22,972,000 in the comparable period in fiscal 2022. Our gross profit was affected by our investments to increase capacity for additional growth in the coming quarters and years. These investments include the increased facility costs associated with the addition of the Company’s new Minnesota and Mexico facilities that came on board late in the second quarter of fiscal 2022, and the continued expansion to outfit these facilities. The Company continues its investment in cable manufacturing at its Mexico facility in conjunction with the Nestor Cables acquisition, which is expected to be operational in our second fiscal quarter. Gross profit was also affected by a full quarter of lower gross profit realized in our Nestor Cables cable manufacturing business. The Company expects to operate at these gross profit percentage levels for several quarters with improving margins as revenue levels increase later this calendar year. Despite the decrease in gross profit margin percentage, gross profit increased due to the increase in net sales.
+Selling, general and administrative expenses increased $2,836,000 or 29%, to $12,759,000 in the first quarter of 2023 from $9,923,000 for the first quarter of 2022. The increase in operating expenses reflects the first full quarter of Nestor Cables operating expenses, as well as higher compensation costs, travel and entertainment, stock compensation and professional fees.
+Income from operations for the quarter ended December 31, 2022 was $17,890,000 compared to $13,049,000 for the comparable quarter of fiscal 2022, an increase of approximately 37%. This increase is attributable to increased net sales, particularly to the Company’s Community Broadband, MSO, and International customers, that was partially offset by proportionately greater increased cost of sales and increased selling, general and administrative expenses for the quarter ended December 31, 2022.
+Net investment income for the quarter ended December 31, 2022 was $303,000 compared to $120,000 for the comparable quarter for fiscal 2022. The increase in interest income is due to higher invested balances as a result of the Company’s secondary offering which resulted in a net increase in cash of approximately $130,262,000 completed in December, 2022. We expect net investment income to increase due to this increase in cash and rising interest rates.
+Interest expense for the quarter ended December 31, 2022 was $243,000. The increase was due to $170,000 in interest on the Company’s line of credit which was drawn on for the acquisition of Nestor Cables and 73,000 in interest on debt held with Nestor Cables.  The Company did not have any interest expense during the first quarter of fiscal 2022.
+We recorded a provision for income taxes of $3,695,000 and $2,780,000 for the three months ended December 31, 2022 and 2021, respectively. We record our quarterly provision for income taxes based on our estimated annual effective tax rate for the year. The increase in tax expense of $915,000 in the first quarter of fiscal 2023 from the first quarter of fiscal 2022 is primarily due to increased income from operations. The income tax expense rate for the first quarter of fiscal 2023 decreased to 20.6% from 21.1% recorded in the first quarter of fiscal 2022, due to increased permanent nondeductible items and discrete events during the quarter including excess tax benefits from non-qualified stock option exercises and vesting of restricted stock, foreign derived intangibles income (FDII) deduction, and research and development credits.
+The Company’s net income for the three months ended December 31, 2022 was $14,255,000, or $1.01 per basic share or $1.00 per diluted share. The Company’s net income for the three months ended December 31, 2021 was $10,389,000, or $0.76 per basic or $0.75 per diluted share. The increase in basic and diluted earnings per share for the three months ended December 31, 2022 as compared to December 31, 2021 was due to higher net income, partially offset by the higher number of diluted shares for the first quarter of fiscal 2023 of 14,284,847 as compared to 13,897,787 for the first quarter of fiscal 2022.
+Reportable Segments
+The Company’s reportable segments are based on the Company’s method of internal reporting. These results are not necessarily indicative of the results of operations that would have occurred had each segment been an independent, stand-alone entity during the periods presented. The internal reporting of these operating segments is defined based, in part, on the reporting and review process used by the Company’s Chief Executive Officer.
+On July 26, 2022, Clearfield through its newly created Finnish subsidiary, Clearfield Finland Ltd, acquired all of the equity of Nestor Cables Ltd, which has a wholly-owned Estonian subsidiary. Nestor Cables Baltics OÜ. Following the closing of the acquisition of Nestor Cables on July 26, 2022, the Company reassessed its operating segments as defined under Accounting Standards Codification (“ASC”) 280,
+Segment Reporting . Under ASC 280, operating segments are defined as components of an enterprise where discrete financial information is available that is evaluated regularly by the chief operating decision -maker (“CODM”), in deciding how to allocate resources and in assessing performance. Prior to July 26, 2022, we were considered to be in a single reporting segment and operating unit structure. Based upon the Company’s assessment following the acquisition of Nestor Cables, the Company determined that the business of Nestor Cables was considered a second reportable segment as of July 26, 2022.
+21
+For the quarter ended December 31, 2022, the Company has two reportable segments: (1) Clearfield and (2) Nestor Cables. The entities that comprise the Nestor Cables segment are Clearfield Finland Ltd, Nestor Cables Ltd and Nestor Cables Baltics Ltd.
+Reportable segments are as follows:
+●
+Clearfield Segment  –   Clearfield designs, manufactures and sells fiber management, protection, and delivery solutions.
+●
+Nestor Cables Segment
+–   Nestor Cables designs, manufactures, and sells fiber optic and copper telecommunication cables and equipment.
+Clearfield Segment
+The following table provides net sales and net income for the Clearfield Segment for the three months ended:
+(In thousands)
+December 31, 2022
+December 31, 2021
+Segment net sales
+$
+78,355
+$
+51,109
+Segment net income
+14,718
+10,389
+Net sales in the Clearfield segment increased 53% or $27,246,000 for the quarter ended December 31, 2022 as compared to the quarter ended December 31, 2021, driven by increased sales to its Community Broadband, MSO/Cable TV, and Tier 1 customers due to continuing demand for fiber connectivity products in response to COVID-19 and accelerated purchasing decisions and deployment schedules of our fiber optic solutions and the demand for high-speed broadband.
+Net income in the Clearfield segment for the quarter ended December 31, 2022 increased 42% or $4,329,000 as compared to the quarter ended December 31, 2021, driven by the changes in sales outlined above.
+Nestor Cables Segment
+The following table provides net sales and net income for the Nestor Cables segment for the three months:
+(In thousands)
+December 31, 2022
+December 31, 2021
+Segment net external sales
+$
+7,587
+$
+-
+Segment net loss
+$
+(310
+)
+$
+-
+Nestor Cables was acquired on July 26, 2022. Prior to the acquisition the Company operated as one reporting segment.
+Net sales in the Nestor Cables segment for the quarter ended December 31, 2022 were $7,587,000, which only includes sales to customers other than Clearfield.
+Net loss in the Nestor Cables segment for the quarter ended December 31, 2022 was $310,000, driven by an increase in operating expenses and cost of goods sold.
+Liquidity and Capital Resources
+As of December 31, 2022, our principal source of liquidity was our cash, cash equivalents, and short-term investments.  Those sources total $147,851,000 as of December 31, 2022 compared to $22,452,000 as of September 30, 2022.  Additionally, we have a line of credit for $40 million that has no outstanding borrowing as of December 31, 2022. Our excess cash is invested mainly in certificates of deposit backed by the FDIC, U.S. Treasury securities and money market accounts. Investments considered long-term were $10,293,000 as of December 31, 2022, compared to $22,747,000 as of September 30, 2022. We believe the combined balances of short-term cash and investments, long-term investments, along with out line of credit provide a more accurate indication of our available liquidity. At the end of the first quarter of fiscal 2023, our cash, cash equivalents, and short-term and long-term investments totaled $158,144,000. We had no long-term debt obligations as of December 31, 2022 or September 30, 2022.
+22
+We believe our existing cash equivalents, short-term investments, and line of credit facility along with cash flow from operations, will be sufficient to meet our working capital and investment requirements for beyond the next 12 months.  The Company intends on utilizing its available cash and assets primarily for its continued organic growth including expanding production capacity and facilities, as well as inventory growth to meet customer demand, potential future strategic transactions, the Company’s share repurchase program, as well as to mitigate the potential impacts on the Company’s business due to supply chain, logistics, and customer fulfillment risks.
+Operating Activities
+Net cash provided by operating activities totaled $1,103,000 for the three months ended December 31, 2022. This was primarily due to net income of $14,255,000, non-cash expenses for depreciation and amortization of $1,353,000, and stock-based compensation of $660,000 in addition to changes in operating assets and liabilities providing and using cash. The primary change in operating assets and liabilities using cash was a decrease in accounts payable and accrued expenses of $7,637,000 and an increase in inventory of $6,505,000. The decrease in accounts payable and accrued expenses is due to the timing of payments to vendors. The Company increased stocking levels of inventory during the quarter ending December 31, 2022 to support the Company’s sales order backlog, as well as provide for safety stock for anticipated demand considering current long lead times for components and transportation within the global supply chain. We expect to maintain higher than historic stocking levels through fiscal year 2023. Days sales outstanding, which measures how quickly receivables are collected, increased 7 days to 59 days as of December 31, 2022, compared to 52 days from September 30, 2022.
+Net cash used in operating activities totaled $34,000 for the three months ended December 31, 2021. This was primarily due to net income of $10,389,000, non-cash expenses for depreciation and amortization of $639,000, and stock-based compensation of $440,000 in addition to changes in operating assets and liabilities providing and using cash. The primary change in operating assets and liabilities using cash was an increase in inventory of $16,049,000, partially offset by decreases in accounts receivable of $3,108,000 and increase in accounts payable and accrued expenses of $1,750,000. The Company increased stocking levels of inventory during the quarter ending December 31, 2021 to support the Company’s increased sales order backlog, as well as provide for safety stock for anticipated demand considering current long lead times for components and transportation within the global supply chain. The decrease in accounts receivable is due to timing of payments from customers. Accounts receivable balances can be influenced by the timing of shipments for customer projects and payment terms. Days sales outstanding, which measures how quickly receivables are collected, decreased 11 days to 29 days from September 30, 2021 to December 31, 2021. The increase in accounts payable and accrued expenses is due to the timing of payments to vendors in the quarter.
+Investing Activities
+We invest our excess cash in money market accounts, U.S. Treasury securities and bank CDs in denominations across numerous banks. We believe we obtain a competitive rate of return given the economic climate along with the security provided by the FDIC on these investments. During the three months ended December 31, 2022, we used cash to purchase $98,881,000 of investment securities. Purchases of property, plant and equipment, mainly related to manufacturing equipment and intangible assets, consumed $2,213,000 of cash during the three months ended December 31, 2022.
+During the three months ended December 31, 2021, we used cash to purchase $248,000 of U.S. Treasury and FDIC-backed securities and received $1,980,000 on CDs that matured. Purchases of property, plant and equipment, mainly related to manufacturing equipment and intangible assets, consumed $2,051,000 of cash during the three months ended December 31, 2021.
+Financing Activities
+For the three months ended December 31, 2022, we received $130,262,000, of net proceeds, through the issuance of common stock. We used $16,700,000 to pay down the principal on our line of credit, which was originally drawn in the fourth quarter of fiscal 2022 to fund the acquisition of Nestor Cables. We received $299,000 from employees’ participation and purchase of stock through our ESPP, we received $954,000 related to issuance of stock as payment for incentive compensation previously earned, we used $342,000 related to share withholding for exercise and taxes associated with the issuance of common stock upon cashless exercise of stock options and used $954,000 for payment of withholding taxes for stock grants. We did not repurchase common stock under our share repurchase program in the three months ended December 31, 2022.
+23
+For the three months ended December 31, 2021, we received $249,000 from employees’ participation and purchase of stock through our ESPP, we used $156,000 related to share withholding for exercise and taxes associated with the issuance of common stock upon cashless exercise of stock options and used $274,000 to pay for taxes as a result of employees’ vesting of restricted shares using share withholding. We did not repurchase common stock under our share repurchase program in the three months ended December 31, 2021.
+CRITICAL ACCOUNTING ESTIMATES
+Management utilizes its technical knowledge, cumulative business experience, judgment and other factors in the selection and application of the Company’s accounting estimates. The accounting estimates considered by management to be the most critical to the presentation of the financial statements because they require the most difficult, subjective and complex judgments include the fair value of investments, stock-based compensation, and valuation of inventory, long-lived assets, finite lived intangible assets and goodwill.
+These accounting estimates are described in Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of the Company’s Annual Report on Form 10-K for the year ended September 30, 2022. Management made no changes to the Company’s critical accounting estimates during the quarter ended December 31, 2022.
+In applying its critical accounting estimates, management reassesses its estimates each reporting period based on available information. Changes in these estimates did not have a significant impact on earnings for the quarter ended December 31, 2022.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The Company currently invests its excess cash in bank certificates of deposit (“CDs”) that are fully insured by the Federal Deposit Insurance Corporation (“FDIC”) and United States Treasury (“Treasuries”) securities with terms of not more than five years, as well as money market accounts. The fair value of these investments fluctuates subject to changes in market interest rates.
+Foreign Exchange Rates:
+The Company uses the U.S. dollar as its reporting currency. The functional currency of Nestor Cables is the Euro. The changing relationships of the U.S. dollar to the Euro could have a material impact on our financial results. Fluctuations in the Euro to U.S. dollar exchange rate impacts our consolidated balance sheets, as well as sales, cost of sales, and net income. If the Euro had appreciated or depreciated by 10%, relative to the U.S. Dollar, our operating expenses for the three months ended December 31, 2022, would have increased or decreased by approximately $130,000 or approximately 1%. We do not hedge against foreign currency fluctuations. As such, fluctuations in foreign currency exchange rates could have a material impact on the Company’s financial statements.
+Inflation:
+Rising costs, including wages, logistics, components, and commodity prices, are negatively impacting our profitability. We are subject to market risk from fluctuating market prices of certain purchased commodities and raw materials such as fiber cable and other components, which has outpaced our ability to reduce the cost structure and manufacturability or increase prices. We do not hedge commodity prices. Accordingly, inflation impacts our profitability, including cost of sales and operating expenses and may have a material impact on the Company’s consolidated financial statements.
+ITEM 4. CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+The Company’s management carried out an evaluation, under the supervision and with the participation of the Company’s Chief Executive Officer and the Company’s Chief Financial Officer of the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as such term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended) as of December 31, 2022. Based upon that evaluation, the Company’s Chief Executive Officer and the Company’s Chief Financial Officer concluded that the Company’s disclosure controls and procedures were effective.
+24
+Changes in Internal Control over Financial Reporting
+There were no changes to the Company’s internal control over financial reporting, as defined in Rule 13a-15(f) of the Securities Exchange Act of 1934, that occurred during the quarter ended December 31, 2022 that materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting except that the Company continues to integrate and improve the internal control over financial reporting environment of the Nestor Cables segment.
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+There are no pending legal proceedings against or involving the Company for which the outcome is likely to have a material adverse effect upon its financial position or results of operations.
+ITEM 1A. RISK FACTORS
+The most significant risk factors applicable to the Company are described in Part II, Item 1A “Risk Factors” of our Annual Report on Form 10-K for the year ended September 30, 2022, There have been no material changes from the risk factors previously disclosed .
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The Company repurchased shares of stock associated with exercise and satisfaction of employee tax withholding requirements on vesting or exercise of equity awards under the Company’s 2007 Stock Compensation Plan for the three months ended December 31, 2022. Accordingly, the Company’s purchases of equity securities for the three months ended December 31, 2022 were as follows:
+ISSUER PURCHASES OF EQUITY SECURITIES
+Period
+Total
+Number
+of Shares
+Purchased
+Average
+Price Paid
+per Share
+Total Number of
+Shares
+Purchased as Part
+of Publicly
+Announced Plans
+or Programs
+Approximate Dollar Value
+of Shares that
+May Yet Be Purchased
+Under the Program
+(1)
+October 1-31, 2022
+-
+-
+-
+$
+14,980,671
+November 1-30, 2022
+5,778
+$
+92.48
+-
+14,980,671
+December 1-31, 2022
+4,025
+$
+104.36
+-
+14,980,671
+Total
+9083
+$
+97.36
+-
+$
+14,980,671
+(1)
+Effective January 27, 2022, the Company reinstated its stock repurchase program that had been suspended due to COVID uncertainty in April 2020 and the Company’s board of directors increased the share repurchase program by an additional $10 million reflected above.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5. OTHER INFORMATION
+Not applicable.
+25
+ITEM 6. EXHIBITS
+Exhibit 31.1 – Certification of Chief Executive Officer pursuant to Rules 13a-14(a) and 15d-14(a) of the Exchange Act
+Exhibit 31.2 – Certification of Chief Financial Officer pursuant to Rules 13a-14(a) and 15d-14(a) of the Exchange Act
+Exhibit 32.1 – Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. §1350
+101–The following materials from Clearfield, Inc.’s Quarterly Report on Form 10-Q for the period ended December 31, 2022 are formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Consolidated Balance Sheets at December 31, 2022 and December 31, 2021;  (ii) Consolidated Statements of Earnings for the three months ended December 31, 2022 and 2021; (iii) Consolidated Statements of Shareholders’ Equity for the three months ended December 31, 2022 and 2021; (iv) Consolidated Statements of Cash Flows for the three months ended December 31, 2022 and 2021; and (v) Notes to the Consolidated Financial Statements.
+104 - Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101).
+26
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CLEARFIELD, INC.
+February 7, 2023
+/s/ Cheryl Beranek
+By: Cheryl Beranek
+Its: President and Chief Executive Officer
+(Principal Executive Officer)
+February 7, 2023
+/s/ Daniel Herzog
+By: Daniel Herzog
+Its: Chief Financial Officer
+(Principal Financial and Accounting Officer)
+27

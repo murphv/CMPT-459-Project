@@ -1,0 +1,1609 @@
+1
+5
+1
+5
+8
+248
+142
+0001537561 2022-10-01 2022-12-31
+thunderdome:item
+iso4217:USD
+0001537561 us-gaap:SubsequentEventMember 2023-01-18 2023-01-18
+xbrli:shares
+0001537561 arch:PlacementAgentWarrantsMember us-gaap:SubsequentEventMember 2023-01-18
+0001537561 us-gaap:SubsequentEventMember arch:SecuritiesPurchaseAgreementMember 2023-01-18 2023-01-18
+0001537561 arch:WarrantSharesMember us-gaap:SubsequentEventMember 2023-01-18
+0001537561 arch:Notes2022Member us-gaap:SubsequentEventMember 2023-01-18
+iso4217:USD xbrli:shares
+0001537561 us-gaap:SubsequentEventMember 2023-01-13
+0001537561 us-gaap:SubsequentEventMember 2023-01-13 2023-01-13
+0001537561 2022-12-31 2022-12-31
+xbrli:pure
+0001537561 arch:ReverseStockSplitMember us-gaap:SubsequentEventMember 2023-01-17 2023-01-17
+0001537561 arch:Series12ConvertibleNotesMember 2020-10-01 2021-09-30
+0001537561 arch:Series12ConvertibleNotesMember 2021-10-01 2022-09-30
+0001537561 arch:Series2NotesConvertedToSeniorSecuredConvertibleNotesMember 2022-07-06 2022-07-06
+0001537561 arch:Series2ConvertibleNotesMember 2022-07-07
+utr:Y
+0001537561 arch:SeriesJWarrantsMember 2022-09-30
+0001537561 arch:SeriesJWarrantsMember 2022-06-22
+0001537561 arch:SeriesJWarrantsMember 2020-06-22
+0001537561 arch:SeriesDWarrantsMember 2020-06-22 2020-06-22
+0001537561 arch:SeriesJWarrantsMember 2020-11-06
+0001537561 arch:SeriesDWarrantsMember 2020-06-03 2020-06-03
+0001537561 arch:SeriesDWarrantMember 2015-06-30
+0001537561 us-gaap:PrivatePlacementMember 2015-06-30
+0001537561 us-gaap:PrivatePlacementMember 2015-06-22 2015-06-30
+0001537561 arch:Series1ConvertibleNotesMember srt:MaximumMember 2020-06-04
+0001537561 arch:Series2ConvertibleNotesMember 2020-11-06
+0001537561 arch:Series1ConvertibleNotesMember 2020-06-04
+0001537561 arch:PlacementAgentWarrantsMember us-gaap:MeasurementInputExpectedTermMember 2022-07-06
+0001537561 arch:InvestorWarrantsMember us-gaap:MeasurementInputExpectedTermMember 2022-07-06
+0001537561 arch:PlacementAgentWarrantsMember us-gaap:MeasurementInputExpectedDividendRateMember 2022-07-06
+0001537561 arch:InvestorWarrantsMember us-gaap:MeasurementInputExpectedDividendRateMember 2022-07-06
+0001537561 arch:PlacementAgentWarrantsMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-07-06
+0001537561 arch:InvestorWarrantsMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-07-06
+0001537561 arch:PlacementAgentWarrantsMember us-gaap:MeasurementInputPriceVolatilityMember 2022-07-06
+0001537561 arch:InvestorWarrantsMember us-gaap:MeasurementInputPriceVolatilityMember 2022-07-06
+0001537561 arch:PlacementAgentWarrantsMember us-gaap:MeasurementInputExercisePriceMember 2022-07-06
+0001537561 arch:InvestorWarrantsMember us-gaap:MeasurementInputExercisePriceMember 2022-07-06
+0001537561 arch:PlacementAgentWarrantsMember 2022-07-06
+0001537561 arch:InvestorWarrantsMember 2022-07-06
+0001537561 arch:Notes2022Member 2022-09-30
+0001537561 arch:Notes2022Member 2022-12-31
+0001537561 arch:PlacementAgentWarrantsMember 2022-09-30
+0001537561 arch:SeniorSecuredConvertiblePromissoryNotesMember 2022-12-31
+0001537561 arch:Warrant2022Member 2021-10-01 2022-09-30
+0001537561 arch:InducementShares2022Member 2021-10-01 2022-09-30
+0001537561 arch:Notes2022Member 2021-10-01 2022-09-30
+0001537561 arch:Notes2022Member 2022-07-07 2022-07-07
+0001537561 arch:Series1ConvertibleNotesMember 2022-07-07
+0001537561 arch:SeniorSecuredConvertibleNotesMember arch:BoardMemberAndExecutiveOfficerMember 2021-10-01 2022-09-30
+0001537561 arch:PrivatePlacementNotesMember 2022-07-07 2022-07-07
+0001537561 arch:PlacementAgent2022Member 2022-09-30
+0001537561 arch:PlacementAgent2022Member 2021-10-01 2022-09-30
+0001537561 arch:CertainInvestorsMember arch:PlacementAgent2022Member 2021-10-01 2022-09-30
+0001537561 arch:PlacementAgent2022Member 2022-09-30
+0001537561 arch:Notes2022Member 2022-07-07 2022-07-07
+0001537561 arch:Warrant2022Member srt:MaximumMember 2022-07-07
+0001537561 arch:Warrant2022Member 2022-07-07
+0001537561 arch:Notes2022Member srt:MaximumMember 2022-07-07
+0001537561 arch:Notes2022Member srt:MinimumMember 2022-07-07
+0001537561 arch:Notes2022Member 2022-07-07
+0001537561 2022-07-07 2022-07-07
+0001537561 arch:PlacementAgentWarrant2022Member 2022-07-07
+0001537561 2022-07-07
+0001537561 arch:SecuritiesPurchaseAgreementMember 2022-07-07 2022-07-07
+0001537561 arch:WarrantSharesMember 2022-07-07
+0001537561 2021-02-17 2021-02-17
+0001537561 arch:PlacementAgent2WarrantsMember 2022-12-31
+0001537561 arch:SeriesKWarrantMember 2022-12-31
+0001537561 arch:PlacementAgent2WarrantsMember 2021-02-11
+0001537561 arch:ClearingExpensesMember arch:The2021RegisteredDirectOfferingMember 2021-02-11
+0001537561 arch:FeesAndExpensesOfLegalCounselAndOtherOutofpocketExpensesMember arch:The2021RegisteredDirectOfferingMember 2021-02-11
+0001537561 arch:NonaccountableExpenseFeeMember arch:The2021RegisteredDirectOfferingMember 2021-02-11
+0001537561 arch:CertainInvestorsWithPreexistingRelationshipsMember arch:The2021RegisteredDirectOfferingMember 2021-02-11
+0001537561 arch:ParticipatingInvestorsMember arch:The2021RegisteredDirectOfferingMember 2021-02-11
+0001537561 arch:The2021RegisteredDirectOfferingMember 2021-02-11 2021-02-11
+0001537561 arch:SeriesKWarrantMember 2021-02-11
+0001537561 arch:The2021RegisteredDirectOfferingMember 2021-02-11
+0001537561 arch:RegisteredDirectOfferingOctober2019Member 2019-10-18 2019-10-18
+0001537561 arch:ClassOfSeriesIWarrantMember 2022-09-30
+0001537561 arch:ClassOfSeriesIWarrantMember 2019-10-10 2019-10-10
+0001537561 arch:ClassOfSeriesIWarrantMember srt:MaximumMember 2019-10-18 2019-10-18
+0001537561 arch:ClassOfSeriesIWarrantMember srt:MinimumMember 2019-10-18 2019-10-18
+0001537561 arch:October2019PlacementAgentWarrantsMember 2019-10-18
+0001537561 arch:SeriesIWarrantMember 2019-10-18
+0001537561 arch:October2019RegisteredDirectOfferingMember 2019-10-18
+0001537561 arch:October2019RegisteredDirectOfferingMember 2019-10-18 2019-10-18
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExpectedTermMember 2022-09-30
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExpectedTermMember 2022-09-30
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExpectedDividendRateMember 2022-09-30
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExpectedDividendRateMember 2022-09-30
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-09-30
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-09-30
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputPriceVolatilityMember 2022-09-30
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputPriceVolatilityMember 2022-09-30
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExercisePriceMember 2022-09-30
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExercisePriceMember 2022-09-30
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExpectedTermMember 2022-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExpectedTermMember 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputInceptionDiscountRateMember 2022-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputInceptionDiscountRateMember 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputPriceVolatilityMember 2022-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputPriceVolatilityMember 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExercisePriceMember 2022-12-31
+0001537561 arch:SeriesGWarrantMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputExercisePriceMember 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputSharePriceMember 2022-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember us-gaap:MeasurementInputSharePriceMember 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-12-31
+0001537561 arch:SeriesFWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-10-01 2021-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-10-01 2021-12-31
+0001537561 arch:SeriesFWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-10-01 2021-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-09-30
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-09-30
+0001537561 arch:SeriesFWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-09-30
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-10-01 2022-12-31
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-10-01 2022-12-31
+0001537561 arch:SeriesHWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-09-30
+0001537561 arch:SeriesGWarrantDerivativeMember us-gaap:FairValueInputsLevel3Member us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-09-30
+0001537561 arch:DerivativeWarrantLiabilityMember 2021-10-01 2021-12-31
+0001537561 arch:DerivativeWarrantLiabilityMember 2022-10-01 2022-12-31
+0001537561 arch:DerivativeWarrantLiabilityMember 2022-12-31
+0001537561 arch:SeriesHWarrantMember 2022-12-31
+0001537561 arch:SeriesGWarrantMember 2022-12-31
+0001537561 arch:SeriesFWarrantMember 2022-12-31
+0001537561 arch:SeriesFWarrantMember 2021-10-01 2022-09-30
+0001537561 arch:ClassOfSeriesGWarrantMember 2022-09-30
+0001537561 arch:ClassOfSeriesFWarrantMember 2022-09-30
+0001537561 arch:ClassOfSeriesHWarrantMember 2019-05-12
+0001537561 arch:The2019SPAMember 2019-05-12
+0001537561 arch:The2019SPAMember 2019-05-12 2019-05-12
+0001537561 arch:ClassOfSeriesGWarrantMember arch:RegisteredDirectOffering2018Member 2018-06-28
+0001537561 arch:ClassOfSeriesGWarrantMember 2018-06-28
+0001537561 arch:The2018SPAMember 2018-06-28
+0001537561 arch:The2018SPAMember 2018-06-28 2018-06-28
+0001537561 arch:SeriesFWarrantMember 2017-02-20
+0001537561 arch:ClassOfSeriesFWarrantMember 2017-02-20
+0001537561 arch:The2017SPAMember 2017-02-20
+0001537561 arch:The2017SPAMember 2017-02-20 2017-02-20
+0001537561 2016-09-30
+0001537561 arch:NonEmployeeRestrictedSharesMember 2020-10-01 2021-09-30
+0001537561 arch:NonEmployeeRestrictedSharesMember 2021-10-01 2022-09-30
+0001537561 2021-12-31
+0001537561 2022-12-31
+0001537561 us-gaap:RestrictedStockMember 2021-10-01 2021-12-31
+0001537561 2021-09-30
+0001537561 2022-09-30
+0001537561 arch:The2013PlanMember 2021-12-31
+0001537561 arch:The2013PlanMember 2022-12-31
+0001537561 arch:The2013PlanMember 2021-10-01 2021-12-31
+0001537561 arch:The2013PlanMember 2022-10-01 2022-12-31
+0001537561 us-gaap:RestrictedStockMember 2021-09-30
+0001537561 arch:The2013PlanMember 2022-09-30
+0001537561 arch:The2013PlanMember 2021-10-01 2022-09-30
+0001537561 us-gaap:GeneralAndAdministrativeExpenseMember 2020-10-01 2021-09-30
+0001537561 us-gaap:GeneralAndAdministrativeExpenseMember 2021-10-01 2022-09-30
+0001537561 us-gaap:ResearchAndDevelopmentExpenseMember 2020-10-01 2021-09-30
+0001537561 us-gaap:ResearchAndDevelopmentExpenseMember 2021-10-01 2022-09-30
+0001537561 arch:EmployeesDirectorsAndConsultantsMember 2020-10-01 2021-09-30
+0001537561 arch:EmployeesDirectorsAndConsultantsMember 2021-10-01 2022-09-30
+0001537561 2021-10-01 2022-09-30
+0001537561 us-gaap:RestrictedStockMember arch:The2013PlanMember arch:ConsultantsMember 2021-10-01 2022-09-30
+0001537561 us-gaap:RestrictedStockMember arch:The2013PlanMember arch:BoardOfDirectorsAndManagementMember 2021-10-01 2022-09-30
+0001537561 arch:The2013PlanMember 2021-10-01
+0001537561 arch:The2013PlanMember 2013-06-18 2013-06-18
+0001537561 arch:The2013PlanMember 2021-09-30
+0001537561 arch:InsurancePremiumFinancingMember 2022-09-30
+0001537561 arch:InsurancePremiumFinancingMember 2022-12-31
+0001537561 arch:InsurancePremiumFinancingMember 2022-07-01 2022-07-31
+0001537561 arch:InsurancePremiumFinancingMember 2022-07-31
+0001537561 2021-10-01 2021-12-31
+0001537561 us-gaap:TechnologyEquipmentMember 2022-09-30
+0001537561 us-gaap:TechnologyEquipmentMember 2022-12-31
+0001537561 us-gaap:TechnologyEquipmentMember 2021-10-01 2022-12-31
+0001537561 us-gaap:ComputerEquipmentMember 2022-09-30
+0001537561 us-gaap:ComputerEquipmentMember 2022-12-31
+0001537561 us-gaap:ComputerEquipmentMember 2021-10-01 2022-12-31
+0001537561 us-gaap:LeaseholdImprovementsMember 2022-09-30
+0001537561 us-gaap:LeaseholdImprovementsMember 2022-12-31
+0001537561 us-gaap:FurnitureAndFixturesMember 2022-09-30
+0001537561 us-gaap:FurnitureAndFixturesMember 2022-12-31
+0001537561 us-gaap:FurnitureAndFixturesMember 2021-10-01 2022-12-31
+0001537561 us-gaap:RetainedEarningsMember 2021-12-31
+0001537561 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001537561 us-gaap:CommonStockMember 2021-12-31
+0001537561 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001537561 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001537561 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001537561 us-gaap:RetainedEarningsMember 2021-09-30
+0001537561 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001537561 us-gaap:CommonStockMember 2021-09-30
+0001537561 us-gaap:RetainedEarningsMember 2022-12-31
+0001537561 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001537561 us-gaap:CommonStockMember 2022-12-31
+0001537561 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001537561 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001537561 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001537561 us-gaap:RetainedEarningsMember 2022-09-30
+0001537561 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001537561 us-gaap:CommonStockMember 2022-09-30
+0001537561 arch:SeniorSecuredConvertibleNotesMember 2022-12-31
+0001537561 arch:ConvertibleNotesPayableSeriesTwoMember 2022-09-30
+0001537561 arch:ConvertibleNotesPayableSeriesTwoMember 2022-12-31
+0001537561 arch:ConvertibleNotesPayableSeriesOneMember 2022-09-30
+0001537561 arch:ConvertibleNotesPayableSeriesOneMember 2022-12-31
+0001537561 2023-02-14
+0001537561 arch:InsurancePremiumFinancingMember 2022-10-01 2022-12-31
+0001537561 arch:The2021RegisteredDirectOfferingMember 2022-10-01 2022-12-31
+0001537561 arch:Notes2022Member 2022-10-01 2022-12-31
+0001537561 arch:Series12ConvertibleNotesMember 2022-10-01 2022-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM   10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT
+For the transition period from N/A to N/A
+Commission File Number:
+000-54986
+ARCH THERAPEUTICS, INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+46-0524102
+(State or other jurisdiction of incorporation or
+organization)
+(I.R.S. Employer Identification No.)
+235 Walnut Street, Suite 6
+Framingham ,
+MA
+01702
+(Address of principal executive offices)
+(Zip Code)
+( 617 )
+431-2313
+Registrant’s telephone number, including area code
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+N|A
+N|A
+N|A
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+⌧ No ◻
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+⌧ No ◻
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ◻
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes  ☐
+No ⌧
+As of February 14, 2023,
+1,262,513
+shares of the registrant’s common stock were outstanding.
+ARCH THERAPEUTICS,   INC.
+Quarterly Report on Form   10-Q
+TABLE OF CONTENTS
+PART I – FINANCIAL INFORMATION
+Item 1. Consolidated Financial Statements
+1
+Consolidated Balance Sheets as of December 31, 2022 (unaudited) and September 30, 2022
+1
+Consolidated Statements of Operations for the Three months ended December 31, 2022 and December 31, 2021 (unaudited)
+2
+Consolidated Statements of Changes in Stockholders’ Deficit for the Three months ended December 31, 2022 and December 31, 2021 (unaudited)
+3
+Consolidated Statements of Cash Flows for the Three months ended December 31, 2022 and December 31, 2021 (unaudited)
+4
+Notes to Consolidated Financial Statements (unaudited)
+5
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+18
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+26
+Item 4. Controls and Procedures
+26
+PART II - OTHER INFORMATION
+27
+Item 1. Legal Proceedings
+27
+Item 1A. Risk Factors
+27
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+27
+Item 6. Exhibits
+27
+Arch Therapeutics, Inc. and Subsidiaries
+Consolidated Balance Sheets
+As of December 31, 2022 (Unaudited) and September 30, 2022
+December 31,
+September 30,
+2022
+2022
+ASSETS
+Current assets:
+Cash
+$
+10,618
+$
+746,940
+Inventory
+1,411,637
+1,414,848
+Prepaid expenses and other current assets
+288,915
+436,407
+Total current assets
+1,711,170
+2,598,195
+Long-term assets:
+Property and equipment, net
+1,381
+2,044
+Other assets
+3,500
+3,500
+Total long-term assets
+4,881
+5,544
+Total assets
+$
+1,716,051
+$
+2,603,739
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+Current liabilities:
+Accounts payable
+$
+1,761,482
+$
+1,328,000
+Accrued expenses and other liabilities
+255,309
+318,505
+Insurance premium financing
+141,676
+247,933
+Current portion of Series 1 convertible notes
+550,000
+550,000
+Current portion of Series 2 convertible notes
+450,000
+—
+Current portion of accrued interest
+238,425
+127,781
+Current portion of derivative liability
+748,275
+748,275
+Total current liabilities
+4,145,167
+3,320,494
+Long-term liabilities:
+Series 2 convertible notes
+—
+450,000
+Senior secured and unsecured convertible notes, net of discount and issuance costs
+2,754,028
+2,362,273
+Accrued interest
+246,489
+204,575
+Derivative liability
+459,200
+459,200
+Total long-term liabilities
+3,459,717
+3,476,048
+Total liabilities
+7,604,884
+6,796,542
+Commitments and contingencies
+Stockholders’ equity (deficit):
+Common stock, $ 0.001
+par value,
+4,000,000
+shares authorized as of December 31, 2022 and September 30, 2022,
+1,249,682
+shares, issued as of December 31, 2022 and September 30, 2022, and
+1,249,432
+outstanding as of December 31, 2022 and September 30, 2022
+1,249
+1,249
+Additional paid-in capital
+50,982,747
+50,878,721
+Accumulated deficit
+( 56,872,829
+)
+( 55,072,773
+)
+Total stockholders’ deficit
+( 5,888,833
+)
+( 4,192,803
+)
+Total liabilities and stockholders’ deficit
+$
+1,716,051
+$
+2,603,739
+The accompanying notes are an integral part of these consolidated financial statements.
+-1-
+Arch Therapeutics, Inc. and Subsidiaries
+Consolidated Statements of Operations (Unaudited)
+For the Three Months Ended December 31, 2022 and 2021
+Three Months Ended December 31, 2022
+Three Months Ended December 31, 2021
+Revenue
+$
+6,261
+$
+4,696
+Operating expenses:
+Cost of revenues
+17,635
+16,792
+Selling, general and administrative expenses
+1,102,916
+1,263,104
+Research and development expenses
+161,453
+234,618
+Total costs and expenses
+1,282,004
+1,514,514
+Loss from operations
+( 1,275,743
+)
+( 1,509,818
+)
+Other expense:
+Interest expense
+( 524,313
+)
+( 40,329
+)
+Total other expense
+( 524,313
+)
+( 40,329
+)
+Net loss
+$
+( 1,800,056
+)
+$
+( 1,550,147
+)
+Loss per share - basic and diluted
+Net loss per common share - basic and diluted
+$
+( 1.44
+)
+$
+( 1.31
+)
+Weighted common shares - basic and diluted
+1,249,432
+1,183,946
+The accompanying notes are an integral part of these consolidated financial statements.
+-2-
+Arch Therapeutics, Inc. and Subsidiaries
+Consolidated Statements of Changes in Stockholders' Deficit (Unaudited)
+For the Three Months Ended December 31, 2022 and 2021
+Common Stock
+Additional Paid-in
+Accumulated
+Total Stockholders'
+Shares
+Amount
+Capital
+Deficit
+Deficit
+Balance at September 30, 2022
+1,249,432
+$
+1,249
+$
+50,878,721
+$
+( 55,072,773
+)
+$
+( 4,192,803
+)
+Net loss
+-
+-
+-
+( 1,800,056
+)
+( 1,800,056
+)
+Stock-based compensation expense
+-
+-
+104,026
+-
+104,026
+Balance at December 31, 2022
+1,249,432
+$
+1,249
+$
+50,982,747
+$
+( 56,872,829
+)
+$
+( 5,888,833
+)
+Common Stock
+Additional Paid-in
+Accumulated
+Total Stockholders'
+Shares
+Amount
+Capital
+Deficit
+Deficit
+Balance at September 30, 2021
+1,183,599
+$
+1,184
+$
+48,770,061
+$
+( 49,796,919
+)
+$
+( 1,025,674
+)
+Net loss
+-
+-
+-
+( 1,550,147
+)
+( 1,550,147
+)
+Vesting of Restricted Stock
+375
+-
+-
+-
+-
+Stock-based compensation expense
+-
+-
+152,143
+-
+152,143
+Balance at December 31, 2021
+1,183,974
+$
+1,184
+$
+48,922,204
+$
+( 51,347,066
+)
+$
+( 2,423,678
+)
+The accompanying notes are an integral part of these consolidated financial statements.
+-3-
+Arch Therapeutics, Inc. and Subsidiaries
+Consolidated Statements of Cash Flows (Unaudited)
+For the Three Months Ended December 31, 2022 and 2021
+Three Months Ended December 31, 2022
+Three Months Ended December 31, 2021
+Cash flows from operating activities:
+Net loss
+$
+( 1,800,056
+)
+$
+( 1,550,147
+)
+Adjustments to reconcile net loss to cash used in operating activities:
+Depreciation
+663
+799
+Stock-based compensation
+104,026
+152,143
+Accretion of discount and debt issuance costs on 2022 Notes
+371,755
+-
+Changes in operating assets and liabilities:
+(Increase) decrease in:
+Inventory
+3,211
+375
+Prepaid expenses and other current assets
+147,492
+( 46,886
+)
+Increase (decrease) in:
+Accounts payable
+433,482
+340,797
+Accrued interest
+152,558
+40,329
+Accrued expenses and other liabilities
+( 63,196
+)
+( 115,935
+)
+Net cash used in operating activities
+( 650,065
+)
+( 1,178,525
+)
+Cash flows from financing activities:
+Repayment of insurance premium financing
+( 106,257
+)
+-
+Proceeds received from second closing of the convertible notes
+20,000
+-
+Net cash used in financing activities
+( 86,257
+)
+-
+Net decrease in cash
+( 736,322
+)
+( 1,178,525
+)
+Cash, beginning of year
+746,940
+2,266,639
+Cash, end of period
+$
+10,618
+$
+1,088,114
+The accompanying notes are an integral part of these consolidated financial statements.
+-4-
+ARCH THERAPEUTICS,   INC.
+NOTES   TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+1. BASIS OF PRESENTATION AND DESCRIPTION OF BUSINESS
+Organization and Description of Business
+Arch Therapeutics, Inc. (together with its subsidiary, the “ Company ” or “ Arch ”) was incorporated under the laws of the State of Nevada on September 16, 2009, under the name “Almah, Inc.”. Effective June 26, 2013, the Company completed a merger (the “ Merger ”) with Arch Biosurgery, Inc. (formerly known as Arch Therapeutics, Inc.), a Massachusetts corporation (“ ABS ”), and Arch Acquisition Corporation (“ Merger Sub ”), the Company’s wholly owned subsidiary formed for the purpose of the transaction, pursuant to which Merger Sub merged with and into ABS and ABS thereby became the wholly owned subsidiary of the Company. As a result of the acquisition of ABS, the Company abandoned its prior business plan and changed its operations to the business of a biotechnology company. The Company’s principal offices are located in Framingham, Massachusetts.
+ABS was incorporated under the laws of the Commonwealth of Massachusetts on March 6, 2006, as Clear Nano Solutions, Inc. On April 7, 2008, ABS changed its name from Clear Nano Solutions, Inc. to Arch Therapeutics, Inc. Effective upon the closing of the Merger, ABS changed its name from Arch Therapeutics, Inc. to Arch Biosurgery, Inc.
+In the first quarter of 2021, the Company commenced commercial sales of our first product, AC5® Advanced Wound System, and has devoted substantially all of the Company’s operational effort to the research, development and regulatory programs necessary to turn the Company’s core technology into commercial products. To date, the Company has principally raised capital through the issuance of convertible debt, and the issuance of units consisting of its common stock, $ 0.001
+par value per share (“ Common Stock ”) and warrants to purchase Common Stock (“ warrants ”).
+The Company expects to incur substantial expenses for the foreseeable future relating to research, development and commercialization of its potential future products. However, there can be no assurance that the Company will be successful in securing additional resources when needed, on terms acceptable to the Company, if at all. Therefore, there exists substantial doubt about the Company’s ability to continue as a going concern. The consolidated financial statements do not include any adjustments related to the recoverability of assets that might be necessary despite this uncertainty.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The accompanying unaudited interim consolidated financial statements of the Company have been prepared in accordance with accounting principles generally accepted in the United States of America (“ US GAAP ”). The interim consolidated financial statements included herein are unaudited; however, they contain all normal recurring accruals and adjustments that, in the opinion of management, are necessary to present fairly the Company’s results of operations and financial position for the interim periods.
+Although the Company believes that the disclosures in these unaudited interim consolidated financial statements are adequate to make the information presented not misleading, certain information normally included in the footnotes prepared in accordance with US GAAP has been omitted as permitted by the rules and regulations of the Securities and Exchange Commission (“ SEC ”). These unaudited interim consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the fiscal year ended September 30, 2022, filed with the SEC on December 28, 2022 (the “ Annual Report ”).
+For a complete summary of the Company’s significant accounting policies, please refer to Note 2 included in Item 8 of the Company’s Annual Report. There have been no material changes to the Company’s significant accounting policies during the three months ended December 31, 2022.
+Basis of Presentation
+The consolidated financial statements include the accounts of Arch Therapeutics, Inc. and its wholly owned subsidiary, Arch Biosurgery, Inc., a biotechnology company. All intercompany accounts and transactions have been eliminated in consolidation.
+On January 6, 2023, the directors of the Company authorized a reverse share split of the issued and outstanding Common Shares in a ratio of
+200 :1, effective January 17, 2023 (the “ Reverse Share Split ”). All information included in these consolidated financial statements has been adjusted, on a retrospective basis, to reflect the Reverse Share Split, unless otherwise stated. All outstanding securities entitling their holders to purchase shares of Common Stock or acquire shares of Common Stock, including stock options, restricted stock units, and warrants, were adjusted as a result of the Reverse Stock Split, as required by the terms of those securities.
+Use of Estimates
+Management is required to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the dates of the financial statements and the reported amounts of revenue and expense during the reporting periods. Actual results could differ from those estimates.
+-5-
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with an original maturity of three months or less to be cash equivalents. The Company had no cash equivalents as of December 31, 2022 and September 30, 2022.
+Inventories
+Inventories are stated at the lower of cost or net realizable value. The cost of inventories comprises expenditures incurred in acquiring the inventories, the cost of conversion and other costs incurred in bringing them to their existing location and condition. The cost of raw materials, goods-in-process and finished goods are determined on a First in First out (FiFo) basis. When determining net realizable value, appropriate consideration is given to obsolescence, excessive levels, deterioration, and other factors.
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to concentration of credit risk consist primarily of cash. The Company maintains its cash in bank deposits accounts, which, at times, may exceed federally insured limits. The Company has not experienced any losses in such accounts. The Company believes it is not exposed to any significant credit risk on cash.
+Property and Equipment
+Property and equipment are recorded at cost and depreciated using the straight-line method over the estimated useful life of the related asset. Upon sale or retirement, the cost and accumulated depreciation are eliminated from their respective accounts, and the resulting gain or loss is included in income or loss for the period. Repair and maintenance expenditures are charged to expense as incurred.
+Impairment of Long-Lived Assets
+Long-lived assets are reviewed for impairment when circumstances indicate the carrying value of an asset may not be recoverable in accordance with the Financial Accounting Standards Board (“ FASB ”) Accounting Standards Codification (“ ASC ”) Topic 360,
+Property, Plant and Equipment . For assets that are to be held and used, impairment is recognized when the estimated undiscounted cash flows associated with the asset or group of assets is less than their carrying value. If impairment exists, an adjustment is made to write the asset down to its fair value, and a loss is recorded as the difference between the carrying value and fair value. Fair values are determined based on quoted market values, discounted cash flows or internal and external appraisals, as applicable. Assets to be disposed of are carried at the lower of carrying value or estimated net realizable value. For the three months ended December 31, 2022 and 2021 there has not been any impairment of long-lived assets.
+Leases
+The Company determines if an arrangement is a lease at its inception. Operating lease right-of-use assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. The Company’s lease does not provide an implicit interest rate, the Company used an incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. Lease expense for lease payments is recognized on a straight-line basis over the lease term.
+Income Taxes
+In accordance with FASB ASC Topic 740,
+Income Taxes , the Company recognizes deferred tax assets and liabilities for the expected future tax consequences or events that have been included in the Company’s consolidated financial statements and/or tax returns. Deferred tax assets and liabilities are based upon the differences between the financial statement carrying amounts and the tax bases of existing assets and liabilities and for loss and credit carryforwards using enacted tax rates expected to be in effect in the years in which the differences are expected to reverse. Deferred tax assets are reduced by a valuation allowance if it is more likely than not that some portion or all of the deferred tax asset will not be realized.
+The Company provides reserves for potential payments of tax to various tax authorities related to uncertain tax positions when management determines that it is more likely than not that a loss will be incurred related to these matters and the amount of the loss is reasonably determinable.
+Revenue
+In accordance with FASB ASC Topic 606,
+Revenue
+Recognition , the Company recognizes revenue through a five-step process: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) a performance obligation is satisfied.
+The Company’s source of revenue is product sales. Contracts with customers contain a single performance obligation and the Company recognizes revenue from product sales when the Company has satisfied our performance obligation by transferring control of the product to the customers. Control of the product transfers to the customer upon shipment from the Company’s third-party warehouse.
+-6-
+Cost of Revenue
+Cost of revenue includes product costs, warehousing, overhead allocation and royalty expense.
+Research and Development
+The Company expenses internal and external research and development costs, including costs of funded research and development arrangements, in the period incurred.
+Accounting for Stock-Based Compensation
+The Company accounts for stock-based compensation in accordance with the guidance of FASB ASC Topic 718,
+Compensation-Stock Compensation
+(“ ASC 718 ”), which requires all share-based payments be recognized in the consolidated financial statements based on their fair values. In accordance with ASC 718, the Company has elected to use the Black-Scholes Option Pricing Model (the “ Black-Scholes Model ”) to determine the fair value of options granted and recognizes the compensation cost of share-based awards on a straight-line basis over the vesting period of the award.
+The determination of the fair value of share-based payment awards utilizing the Black-Scholes model is affected by the fair value of the Common Stock and a number of other assumptions, including expected volatility, expected life, risk-free interest rate and expected dividends. The expected life for awards uses the simplified method for all “plain vanilla” options, as defined in ASC 718-10-S99, and the contractual term for all other employee and non-employee awards. The risk-free interest rate assumption is based on observed interest rates appropriate for the terms of the Company’s awards. The dividend yield assumption is based on history and the expectation of paying no dividends. Stock-based compensation expense, when recognized in the consolidated financial statements, is based on awards that are ultimately expected to vest.
+Fair Value Measurements
+The Company measures both financial and nonfinancial assets and liabilities in accordance with FASB ASC Topic 820,
+Fair Value Measurements and Disclosures , including those that are recognized or disclosed in the consolidated financial statements at fair value on a recurring basis. The standard created a fair value hierarchy which prioritizes the inputs to valuation techniques used to measure fair value into three broad levels as follows: Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities; Level 2 inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly; and Level 3 inputs are unobservable inputs that reflect the Company’s own views about the assumptions market participants would use in pricing the asset or liability.
+At December 31, 2022 and September 30, 2022, the carrying amounts of cash, accounts payables and accrued expense and other liabilities approximate fair value because of their short-term nature. The carrying amounts for the Convertible Notes (See Note 12) approximate fair value because borrowing rates and term are similar to comparable market participants.
+Derivative Liabilities
+The Company accounts for its warrants and other derivative financial instruments as either equity or liabilities based upon the characteristics and provisions of each instrument, in accordance with FASB ASC Topic 815,
+Derivatives and Hedging
+(“ ASC 815 ”). Warrants classified as equity are recorded at fair value as of the date of issuance on the Company’s consolidated balance sheets and no further adjustments to their valuation are made. Warrants classified as derivative liabilities and other derivative financial instruments that require separate accounting as liabilities are recorded on the Company’s consolidated balance sheets at their fair value on the date of issuance and will be revalued on each subsequent balance sheet date until such instruments are exercised or expire, with any changes in the fair value between reporting periods recorded as other income or expense. Management estimates the fair value of these liabilities using option pricing models and assumptions that are based on the individual characteristics of the warrants or instruments on the valuation date, as well as assumptions for future financings, expected volatility, expected life, yield, and risk-free interest rate.
+Complex Financial Instruments
+The Company does not use derivative instruments to hedge exposures to cash flow, market, or foreign currency risks. The Company evaluates its financial instruments, including warrants, to determine if such instruments are derivatives or contain features that qualify as embedded derivatives. The Company values its derivatives using the Black-Scholes option-pricing model or other acceptable valuation models, including Monte-Carlo simulations. Derivative instruments are valued at inception, upon events such as an exercise of the underlying financial instrument, and at subsequent reporting periods. The classification of derivative instruments, including whether such instruments should be recorded as liabilities, is re-assessed at the end of each reporting period.
+-7-
+The Company reviews the terms of debt instruments, equity instruments, and other financing arrangements to determine whether there are embedded derivative features, including embedded conversion options that are required to be bifurcated and accounted for separately as a derivative financial instrument. Additionally, in connection with the issuance of financing instruments, the Company may issue freestanding options and warrants, including options or warrants to non-employees in exchange for consulting or other services performed.
+The Company accounts for its common stock warrants in accordance with Accounting Standards Codification (“ASC”) 815,
+Derivatives and Hedging
+(“ASC 815”). Based upon the provisions of ASC 815, the Company accounts for common stock warrants as liabilities if the warrant requires net cash settlement or gives the holder the option of net cash settlement, or it fails the equity classification criteria. The Company accounts for common stock warrants as equity if the contract requires physical settlement or net physical settlement or if the Company has the option of physical settlement or net physical settlement and the warrants meet the requirements to be classified as equity. Common stock warrants classified as liabilities are initially recorded at fair value on the grant date and remeasured at fair value each balance sheet date with the offset adjustments recorded in change in fair value of warrant liability within the consolidated statements of operations. Common stock warrants classified as equity are initially measured at fair value on the grant date and are not subsequently remeasured.
+Subsequent Events
+The Company evaluated all events or transactions through February 14, 2023, the date which these consolidated financial statements were issued. Please note 14 for matters deemed to be subsequent events.
+Going Concern Basis of Accounting
+As reflected in the consolidated financial statements, the Company has an accumulated deficit as of December 31, 2022, has suffered significant net losses and negative cash flows from operations, only recently commenced generating limited operating revenues, and has limited working capital. The continuation of the Company’s business as a going concern is dependent upon raising additional capital, the ability to successfully market and sell its product and eventually attaining and maintaining profitable operations. In particular, as of December 31, 2022, the Company will be required to raise additional capital, obtain alternative means of financial support, or both, in order to continue to fund operations, and therefore there is substantial doubt about the Company’s ability to continue as a going concern. The Company expects to incur substantial expenses into the foreseeable future for the research, development and commercialization of its current and potential products. In addition, the Company will require additional financing in order to seek to license or acquire new assets, research and develop any potential patents and the related compounds, and obtain any further intellectual property that the Company may seek to acquire. Finally, some of our product candidates or the materials contained therein (such as the Active Pharmaceutical Ingredients for our AC5® product line), are manufactured from facilities in areas impacted by the outbreak of the COVID-19, which could result in shortages due to ongoing efforts to address the outbreak. Historically, the Company has principally funded operations through debt borrowings, the issuance of convertible debt, and the issuance of units consisting of common stock and warrants. Provisions in the Securities Purchase Agreements that the Company entered into on June 28, 2018 (“ 2018 SPA ”), and July 6, 2022 (“ 2022 SPA ”) restrict the Company’s ability to effect or enter into an agreement to effect any issuance by the Company or its subsidiary of Common Stock or securities convertible, exercisable or exchangeable for Common Stock (or a combination of units thereof) involving a Variable Rate Transaction (as defined in the 2018 SPA and 2022 SPA) including, but not limited to, an equity line of credit or “At-the-Market” financing facility until the institutional investors in the 2018 SPA collectively own less than 20% of the Series F Warrants and the Series G Warrants purchased by them pursuant to the and 2018 SPA, respectively and for a period of six months pursuant to the 2022 SPA. In addition, under the 2022 SPA, we are required to complete an uplist to any of the Nasdaq Global Market, Nasdaq Capital Market, New York Stock Exchange or NYSE American by February 15, 2023. On or before February 14, 2023, the Company secured waivers with all of the holders of the 2022 Notes and Second Notes to extend the deadline to complete an uplist to March 15, 2023. See Note 7 for more information on the 2018 Financing, including the terms of the Series F Warrants and Series G Warrants. Note 11 for more information on the 2022 Note Financing, including the terms of the 2022 Warrants and 2022 Placement Agent Warrants, and Note 14 for more information on the amendment No. 1 to the SPA.
+The 2021 SPA contains certain restrictions on our ability to conduct subsequent sales of our equity securities (See Note 10). The continued spread of COVID-19 and uncertain market conditions may also limit the Company’s ability to access capital. If the Company is unable to obtain adequate capital, the Company may be required to reduce the scope, delay, or eliminate some or all of its planned activities. These conditions, in the aggregate, raise substantial doubt as to the Company’s ability to continue as a going concern.
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of business. The consolidated financial statements do not include any adjustments that might result from this uncertainty.
+-8-
+3. PROPERTY AND EQUIPMENT
+At December 31, 2022 and September 30, 2022, property and equipment consisted of:
+Estimated
+Useful Life
+(in years)
+December 31
+2022
+September 30,
+2022
+Furniture and fixtures
+5
+$
+9,357
+$
+9,357
+Leasehold improvements
+Life of Lease
+8,983
+8,983
+Computer equipment
+3
+14,416
+14,416
+Lab equipment
+5
+1,000
+1,000
+33,756
+33,756
+Less – accumulated depreciation
+32,375
+31,712
+Property and equipment, net
+$
+1,381
+$
+2,044
+For the three months ended December 31, 2022 and 2021, depreciation expense recorded was $ 663
+and $ 799 , respectively.
+4 .
+INVENTORIES
+Inventories consist of the following:
+December 31,
+September 30,
+2022
+2022
+Finished Goods
+$
+85,526
+$
+9,063
+Goods-in-process
+1,326,111
+1,405,785
+Total
+$
+1,411,637
+$
+1,414,848
+The Company capitalizes inventory that has been produced for commercial sale and has been determined to have a probable future economic benefit. The determination of whether or not the inventory has a future economic benefit requires estimates by management. To the extent that inventory is expected to expire prior to being sold or used for research and development or used for samples, the Company will write down the value of inventory. In evaluating the net realizable value of the inventory, appropriate consideration is given to obsolescence, excessive levels, deterioration, and other factors.
+5. INSURANCE PREMIUM FINANCING
+In July 2022, the Company entered into a finance agreement with First Insurance Funding in order to fund a portion of its insurance policies. The amount financed is approximately $ 354,000
+and incurs interest at a rate of
+2.99 %. The Company is required to make monthly payments of approximately $ 35,000
+through April 2023. The outstanding balance as of December 31, 2022 and September 30, 2022 was approximately $ 142,000
+and $ 248,000 , respectively.
+6. STOCK-BASED COMPENSATION
+2013 Stock Incentive Plan
+On June 18, 2013, the Company established the 2013 Stock Incentive Plan (the “ 2013 Plan ”). Under the 2013 Plan, during the fiscal year ended September 30, 2022, a maximum number of
+170,571
+shares of the Company’s authorized and available common stock could be issued in the form of options, stock appreciation rights, sales or bonuses of restricted stock, restricted stock units or dividend equivalent rights, and an award may consist of one such security or benefit, or two or more of them in any combination or alternative. The 2013 Plan provides that on the first business day of each fiscal year commencing with fiscal year 2014, the number of shares of our common stock reserved for issuance under the 2013 Plan for all awards except for incentive stock option awards will be subject to increase by an amount equal to the lesser of (A)
+15,000
+Shares, (B) four (4) percent of the number of shares outstanding on the last day of the immediately preceding fiscal year of the Company, or (C) such lesser number of shares as determined by the Company’s Board of Directors (the “ Board ”). The exercise price of each option shall be the fair value as determined in good faith by the Board at the time each option is granted. On October 1, 2022, the aggregate number of authorized shares under the Plan was further increased by
+15,000
+shares to a total of
+185,571
+shares.
+The exercise price of each option is equal to the closing price of a share of the Company’s Common Stock on the date of grant.
+Share-Based Awards
+During the three months ended December 31, 2022, the Company awarded
+20,875
+options to employees and directors and
+3,625
+options to consultants to purchase shares of Common Stock under the 2013 Plan .
+Share-based compensation expense for awards granted during the three months ended December 31, 2022 was based on the grant date fair value estimated using the Black-Scholes Model.
+-9-
+Common Stock Options
+Stock compensation activity under the 2013 Plan for the three months ended December 31, 2022 follows:
+Option
+Shares Outstanding
+Weighted
+Average
+Exercise Price
+Weighted
+Average
+Remaining
+Contractual Term (years)
+Aggregate
+Intrinsic Value
+Outstanding at September 30, 2022
+98,626
+$
+52.00
+1.46
+$
+16,900
+Awarded
+24,500
+$
+6.00
+Forfeited/Cancelled
+( 18,801
+)
+$
+70.00
+Outstanding at December 31, 2022
+104,325
+$
+40.00
+1.26
+3,900
+Vested at December 31, 2022
+68,202
+$
+54.00
+1.50
+975
+Vested and expected to vest at December 31, 2022
+104,325
+$
+40.00
+1.26
+3,900
+As of December 31, 2022,
+50,667
+shares are available for future grants under the 2013 Plan.
+Share-based compensation expense recorded in the Company’s Consolidated Statements of Operations for the three months ended December 31, 2022 and 2021 resulting from options awarded to the Company’s employees, directors and consultants was approximately $ 102,000
+and $ 142,000 , respectively. Of this amount, during the three months ended December 31, 2022 and 2021, $ 14,000
+and $ 53,000 , respectively, were recorded as research and development expense, and $ 88,000
+and $ 89,000 , respectively were recorded as general and administrative expense in the Company’s Consolidated Statements of Operations.
+During the three months ended December 31, 2022 and 2021, no options awarded were exercised.
+As of December 31, 2022, there is approximately $ 295,000
+of unrecognized compensation expense related to unvested stock-based compensation arrangements granted under the 2013 Plan. That cost is expected to be recognized over a weighted average period of
+3.02
+years.
+Restricted Stock
+Restricted stock activity under the 2013 Plan for the three months ended December 31, 2022 and 2021, in shares, follows:
+Three months Ended
+December 31, 2022
+December 31, 2021
+Non Vested at September 30, 2022 and 2021
+250
+2,250
+Vested
+-
+( 375
+)
+Non Vested at December 31, 2022 and 2021
+250
+1,875
+The weighted grant date fair value average of the restricted stock for the three months ended December 31, 2022 and 2021 follows:
+Three months Ended
+December 31, 2022
+December 31, 2021
+Non Vested at September 30, 2022 and 2021
+$
+18.00
+$
+20.00
+Vested
+-
+( 20.00
+)
+Non Vested at December 31, 2022 and 2021
+$
+18.00
+$
+20.00
+For the three months ended December 31, 2022 and 2021, compensation expense recorded for the restricted stock awards was approximately $ 2,000
+and $ 10,000 , respectively.
+-10-
+7. REGISTERED DIRECT OFFERINGS
+On September 30, 2016, the Company filed a registration statement with the SEC utilizing a “shelf” registration process, which was subsequently declared effective by the SEC on October 20, 2016 (such registration statement, the “ Shelf Registration Statement ”). Under the Shelf Registration Statement, the Company may offer and sell any combination of its Common Stock, warrants, debt securities, subscription rights, and/or units comprised of the foregoing to raise up to $ 50,000,000
+in gross proceeds.
+On February 20, 2017, the Company entered into a Securities Purchase Agreement (the “ 2017
+SPA”) with six accredited investors (collectively, the “ 2017
+Investors ”) providing for the issuance and sale by the Company to the 2017 Investors of an aggregate of
+50,833
+units at a purchase price of $ 120.00 per unit in a registered offering (the “ 2017 Financing ”). The securities comprising the units sold in the 2017 Financing were issued under the Shelf Registration Statement, and consisted of a share of Common Stock, a warrant equal to
+55 % of the shares of Common Stock at an exercise price of $ 150.00
+per share (“ Series F Warrant ”) at any time prior to the fifth anniversary of the issuance date of the Series F Warrant subject to certain restrictions on exercise (the “ 2017
+Warrants ”) and the shares issuable upon exercise of the 2017 Warrants (the “ 2017
+Warrant Shares ”).
+On June 28, 2018, the Company entered into a Securities Purchase Agreement (“ 2018
+SPA ”) with
+eight
+accredited investors (collectively, the “ 2018
+Investors ”) providing for the issuance and sale by the Company to the 2018 Investors of an aggregate of
+45,350
+units at a purchase price of $ 100.00
+per unit in a registered offering (“ 2018
+Financing ”). The securities comprising the units sold in the 2018 Financing were issued under the Shelf Registration Statement, and consisted of a share of Common Stock, a warrant to purchase up to a number of shares of the Company’s Common Stock equal to
+75 % of the shares of Common Stock at an exercise price of $ 140.00
+per share (“ Series G Warrant ”) at any time prior to the fifth anniversary of the issuance date of the Series G Warrant subject to certain restrictions on exercise (the “ 2018
+Warrants ”) and the shares issuable upon exercise of the 2018 Warrants (the “ 2018
+Warrant Shares ”).
+On May 12, 2019, the Company entered into a Securities Purchase Agreement (“ 2019
+SPA ”) with
+five
+accredited investors (collectively, the “ 2019
+Investors ”) providing for the issuance and sale by the Company to the 2019 Investors of an aggregate of
+43,077
+units at a purchase price of $ 65.00
+per unit in a registered offering (“ 2019
+Financing "). The securities comprising the units sold in the 2019 Financing were issued under the Shelf Registration Statement, and consisted of a share of Common Stock, a warrant to purchase one share of Common Stock at an exercise price of $ 80.00
+per share (“ Series H Warrant ”) at any time prior to the fifth anniversary of the issuance date of the Series H Warrant subject to certain restrictions on exercise (the “ 2019
+Warrants ”) and the shares issuable upon exercise of the
+2019
+Warrants (the “ 2019 Warrant Shares ”).
+During the three months ended December 31, 2022 and 2021, no Series F, Series G and Series H Warrants had been exercised. As of December 31, 2022, up to
+34,013
+and
+43,077
+shares may be acquired upon the exercise of the Series G and Series H Warrants, respectively. All
+27,958
+remaining Series F Warrants expired during the fiscal year ended September 30, 2022.
+8. Derivative Liabilities
+The Company accounted for the Series F Warrants, Series G Warrants and the Series H Warrants in accordance with ASC 815-10. Since the Company may be required to purchase its Series F Warrants, Series G Warrants and Series H Warrants for an amount of cash equal to $ 36.00 , $ 22.00
+and $ 10.66 , respectively, for each share of Common Stock ("Minimum") they are recorded as liabilities at the greater of the Minimum or fair value. They are marked to market each reporting period through the Consolidated Statement of Operations.
+On the respective closing dated, the derivative liabilities related to the Series G Warrants and Series H Warrants were recorded at an aggregate fair value of $ 1,628,113 . Given that the fair value of the derivative liabilities was less than the net proceeds, the remaining proceeds were allocated to Common Stock and additional paid-in-capital. During the three months ended December 31, 2022 and 2021, $ 0
+was recorded to decrease the fair value of derivative liability. As of December 31, 2022 and 2021, the derivative liabilities are recorded at their minimum value.
+Fair Value Measurements Using Significant Unobservable Inputs
+–
+Three Months Ended December 31, 2022
+(Level 3)
+Series G
+Series H
+Beginning balance at September 30, 2022
+$
+748,275
+$
+459,200
+Adjustments to estimated fair value
+—
+—
+Ending balance at December 31, 2022
+$
+748,275
+$
+459,200
+Fair Value Measurements Using Significant Unobservable Inputs - Three Months Ended December 31, 2021
+(Level 3)
+Series F
+Series G
+Series H
+Beginning balance at September 30, 2021
+$
+1,000,000
+$
+748,275
+$
+459,200
+Issuances
+—
+—
+—
+Adjustments to estimated fair value
+—
+—
+—
+Ending balance at December 31, 2021
+$
+1,000,000
+$
+748,275
+$
+459,200
+-11-
+The derivative liabilities as of December 31, 2022 are valued at the greater of their minimum value or by using the Black Scholes Model with the following assumptions. As of December 31, 2022, the derivative liabilities are recorded at their minimum value.
+Series G
+Series H
+Closing price per share of Common Stock
+$
+5.20
+$
+5.20
+Exercise price per share
+$
+140.00
+$
+80.00
+Expected volatility
+169.62
+%
+138.58
+%
+Risk-free interest rate
+4.76
+%
+4.57
+%
+Dividend yield
+—
+—
+Remaining expected term of underlying securities (years)
+0.43
+1.31
+The derivative liabilities as of September 30, 2022 are valued at the greater of their minimum value or by using the Black Scholes Model with the following assumptions. As of September 30, 2022, the derivative liabilities are recorded at their minimum value.
+Series G
+Series H
+Closing price per share of Common Stock
+$
+3.80
+$
+3.80
+Exercise price per share
+$
+140.00
+$
+80.00
+Expected volatility
+132.97
+%
+122.50
+%
+Risk-free interest rate
+4.05
+%
+4.14
+%
+Dividend yield
+—
+—
+Remaining expected term of underlying securities (years)
+0.69
+1.57
+9. OCTOBER 2019 REGISTERED DIRECT OFFERING
+On October
+16, 2019,
+the Company entered into a Securities Purchase Agreement
+(the “ October
+2019 SPA ”)
+with seven accredited investors (collectively, the “ October
+2019 Investors ”) providing for the issuance and sale by the Company to the 2019 Investors of an aggregate of
+71,429
+units at a purchase price of $ 35.00
+per unit in a registered offering (“ October
+2019
+Financing ”). The securities comprising the units sold in the October 2019 Financing were issued under the Shelf Registration Statement, and consisted of a share of Common Stock, a warrant to purchase
+one
+share of Common Stock at an exercise price of $ 44.00
+per share (“ Series I Warrant ”) at any time prior to the fifth anniversary of the issuance date of the Series I Warrant subject to certain restrictions on exercise and the shares issuable upon exercise of the Series I Warrants (collectively, the “October 2019 Warrant Shares”). As of October 18, 2019, the Company recorded the
+71,429
+shares as Common Stock. Pursuant to the Engagement Agreement (as defined below), the Company also agreed to issue to the Placement Agent, or its designees, warrants to purchase up to
+5,358
+shares (the “Placement Agent Warrants”). The 2019 Placement Agent Warrants have substantially the same terms as the Series I Warrants, except that the exercise price of the Placement Agent Warrants is $ 43.75
+per share and the term of the Placement Agent Warrants is
+five
+years.
+The gross proceeds to the Company from the October 2019 Financing, which were received as of October 18, 2019, were approximately $ 2.5
+million before deducting financing costs of approximately $ 333,000
+which includes approximately $ 158,000
+of placement fees. The number of shares of the Company’s Common Stock into which each of the Series I Warrants is exercisable and the exercise price therefore are subject to adjustment, as set forth in the Series I Warrants, including adjustments for stock subdivisions or combinations (by any stock split, stock dividend, recapitalization, reorganization, scheme, arrangement or otherwise).
+The Company engaged H.C. Wainwright as its exclusive institutional investor placement agent (the “ Placement Agent ”) in connection with the October 2019 SPA pursuant to an engagement agreement dated as of October 10, 2019 (the “ 2019 Engagement Agreement ”). In consideration for the services provided by the Placement Agent, the Placement Agent was entitled to receive cash fees ranging from
+6.0 % to
+8.2 % of the gross proceeds received by the Company, as well as reimbursement for all reasonable expenses incurred by it in connection with its engagement. The Company received gross proceeds of approximately $ 2.5
+million in the aggregate, resulting in a fee of approximately $ 158,000 .
+During the three months ended December 31, 2022 and 2021, no Series I Warrants or Placement Agent Warrants were exercised. As of December 31, 2022, up to
+71,429
+and
+5,358
+shares may be acquired upon the exercise of the Series I Warrants and Placement Agent Warrants, respectively.
+-12-
+Common Stock
+On October 18, 2019, the Closing Date of the October 2019 Financing, the Company issued
+71,429
+shares of Common Stock.
+Equity Value of Warrants
+The Company accounted for the Series I Warrants and the Placement Agent Warrants relating to the aforementioned October 2019 Financing in accordance with ASC 815-40. Because the Series I Warrants and the Placement Agent Warrants are indexed to the Company’s Common Stock, they are classified within stockholders’ deficit in the accompanying consolidated financial statements.
+10. 2021 REGISTERED DIRECT OFFERING
+On February 11, 2021, the Company entered into a Securities Purchase Agreement (the “ 2021 SPA ”) with certain institutional and accredited investors (collectively, “ 2021 Investors ”) providing for the issuance and sale by the Company to the 2021 Investors of an aggregate of
+215,625
+shares (the “Shares”) of the Company’s Common Stock, and warrants (the “ Series K Warrants ”) to purchase an aggregate of
+161,719
+shares (the “ Warrant Shares ”) of Common Stock, at a combined offering price of $ 32.00
+per share (the “ 2021 Financing ”). The Series K Warrants have an exercise price of $ 34.00
+per share and are exercisable for a period of
+5.5
+years. The aggregate gross proceeds for the sale of the Shares and Series K Warrants were approximately $ 6.9
+million, before deducting the Placement Agent’s fees and expenses and other offering expenses payable by the Company, of approximately $ 700,000 . Pursuant to an engagement agreement dated as of February 8, 2021 (the “ 2021 Engagement Agreement ”), by and between the Company and the Placement Agent, the Company agreed to pay the Placement Agent cash fees equal to (i)
+7.5 % of the gross proceeds received by the Company from certain investors in the 2021 Financing, and (ii)
+6.0 % of the gross proceeds received by the Company from certain investors that had pre-existing relationships with the Company. In addition, the Placement Agent received a one-time non-accountable expense fee of $ 10,000 , up to $ 50,000
+for fees and expenses of legal counsel and other out-of-pocket expenses and $ 10,000
+for clearing expenses. Pursuant to the 2021 Engagement Agreement, the Company also agreed to issue to the Placement Agent, or its designees, warrants to purchase up to
+7.5 % of the aggregate number of Shares sold to the 2021 Investors, or warrants to purchase up to
+16,172
+shares (the “2021  Placement Agent Warrants ”) of the Company’s Common Stock. The 2021 Placement Agent 2 Warrants have substantially the same terms as the Series K Warrants, except that the exercise price of the 2021 Placement Agent Warrants is $ 40.00
+per share. The 2021 Engagement Agreement contained indemnity and other customary provisions for transactions of this nature.
+The 2021 SPA contained certain restrictions on the Company’s ability to conduct subsequent sales of the Company’s equity securities. In particular, we were prohibited from entering into or effecting a Variable Rate Transaction (as defined in the 2021 SPA) until February 11, 2022; provided, however, the Company may enter into and effect an at-the-market offering facility with the Placement Agent.
+The number of shares of the Company’s Common Stock into which each of the Series K Warrants is exercisable and the exercise price therefore are subject to adjustment, as set forth in the Series K Warrants, including adjustments for stock subdivisions or combinations (by any stock split, stock dividend, recapitalization, reorganization, scheme, arrangement or otherwise).
+During the three months ended December 31, 2022, no Series K Warrants or Placement Agent 2 Warrants were exercised. As of December 31, 2022, up to
+161,719
+and
+16,172
+shares may be acquired upon the exercise of the Series K Warrants and Placement Agent Warrants, respectively.
+Common Stock
+On February 17, 2021, the Closing Date of the 2021 Financing, the Company issued
+215,625
+shares of Common Stock.
+Equity Value of Warrants
+The Company accounted for the Series K Warrants and the Placement Agent 2 Warrants relating to the aforementioned February 2021 Registered Direct Offering in accordance with ASC 815-40,
+Derivatives and Hedging . Because the Series K Warrants and the Placement Agent 2 Warrants are indexed to the Company’s stock, they are classified within stockholders’ deficit in the accompanying consolidated financial statements.
+-13-
+11.
+2022 CONVERTIBLE NOTE OFFERING
+On July 7, 2022, the Company announced that it had entered into a Securities Purchase Agreement (the “ 2022
+SPA ”) with certain institutional and accredited individual investors (collectively, the “ 2022
+Investors ”) providing for the issuance and sale by the Company to the 2022 Investors of (i) Senior Secured Convertible Promissory Notes (each a “ 2022 Note ” and collectively, the “ 2022 Notes ”) in the aggregate principal amount of $ 4.23
+million, which includes an aggregate $ 0.705
+million original issue discount in respect of the 2022 Notes; (ii) Warrants (the “ 2022 Warrants ”), to purchase an aggregate of
+425,554
+shares (the “ 2022
+Warrant Shares ”) of Common Stock; and (iii)
+63,833
+shares of Common Stock (the “ 2022
+Inducement Shares ”) equal to
+15 % of the principal amount of the 2022 Notes divided by the closing price of the Common Stock immediately prior to the Closing Date (as defined below). The 2022 Notes, 2022 Warrants and 2022 Inducement Shares were issued as part of a convertible note offering authorized by the Company’s board of directors (the “ 2022
+Note Offering ”). The aggregate gross proceeds for the sale of the 2022 Notes, 2022 Warrants and 2022 Inducement Shares was approximately $ 3.5
+million, before deducting debt issuance costs of $ 775,000
+consisting of fair value of the placement agent’s warrants of approximately $ 220,000
+and other estimated fees and offering expenses payable by the Company of approximately $ 555,000 . The closing of the sales of these securities under the 2022 SPA occurred on July 6, 2022 (the “ 2022
+Closing Date ”).
+The 2022 Notes bear interest on the unpaid principal balance at a rate equal to ten percent ( 10 %) (computed on the basis of the actual number of days elapsed in a 360-day year) per annum accruing from the Closing Date until the 2022 Notes become due and payable at maturity or upon their conversion, acceleration or by prepayment, and may become due and payable upon the occurrence of an event of default under the 2022 Notes. Any amount of principal or interest on the 2022 Notes which is not paid when due shall bear interest at the rate of the lesser of (i) eighteen percent ( 18 %) per annum or (ii) the maximum amount allowed by law from the due date thereof until payment in full.
+The 2022 Notes are convertible into shares of Common Stock at the option of each holder of the 2022 Notes from the date of issuance at $ 9.14
+(the “ Conversion Price ”) through the later of (i) January 6, 2024 (the “ Maturity Date ”) and (ii) the date of payment of the Default Amount (as defined in the 2022 Note);
+provided, however , certain 2022 Notes include a provision preventing such conversion if, as a result, the holder, together with its affiliates and any other persons whose beneficial ownership of Common Stock would be aggregated with the holder’s, would be deemed to beneficially own more than
+4.99 % of the Common Stock (as applicable, the “ Ownership Limitation ”) immediately after giving effect to the Conversion; and
+provided further , the holder, upon notice to us, may increase or decrease the Ownership Limitation;
+provided that
+(i) the Ownership Limitation may only be increased to a maximum of
+9.99 % of the Common Stock; and (ii) any increase in the Ownership Limitation will not become effective until the 61st day after delivery of such waiver notice. The Conversion Price is subject to adjustment as set forth in the 2022 Notes.
+The 2022 Notes contain customary events of default, which include, among other things, (i) our failure to pay when due any principal or interest payment under the 2022 Notes; (ii) our insolvency; (iii) delisting of our Common Stock; (iv) our breach of any material covenant or other material term or condition under the 2022 Notes; and (v) our breach of any representations or warranties under the 2022 Notes which cannot be cured within five (5) days. Further, events of default under the 2022 Notes also include (i) the unavailability of Rule 144 on or after January 6, 2023; (ii) our failure to deliver the shares of Common Stock to the 2022 Note holder upon exercise by such holder of its conversion rights under the 2022 Note; (iii) our loss of the “bid” price for its Common Stock and/or a market and such loss is not cured during the specified cure periods; and (iv) our failure to complete an uplisting of our Common Stock to any of the Nasdaq Global Market, Nasdaq Capital Market, New York Stock Exchange or NYSE American by February 15, 2023 (an “ Uplist Transaction ”).
+The 2022 Warrants (i) have an exercise price of $ 9.94
+per share; (ii) have a term of exercise equal to 5 years after their issuance date; (iii) became exercisable immediately after their issuance; and (iv) have a provision preventing the exercisability of such 2022 Warrant if, as a result of the exercise of the 2022 Warrant, the holder, together with its affiliates and any other persons whose beneficial ownership of our Common Stock would be aggregated with the holder’s, would be deemed to beneficially own more than the Ownership Limitation. The holder, upon notice to us, may increase or decrease the Ownership Limitation; provided that (i) the Ownership Limitation may only be increased to a maximum of
+9.99 % of our Common Stock; and (ii) any increase in the Ownership Limitation will not become effective until the 61st day after delivery of such waiver notice. The number of shares of Common Stock into which each of the 2022 Warrants is exercisable and the exercise price therefor are subject to adjustment as set forth in the 2022 Warrants, including standard antidilution provisions, and adjustments for stock subdivisions or combinations (by any stock split, stock dividend, recapitalization, reorganization, scheme, arrangement or otherwise). In the event of a Fundamental Transaction (as defined in the 2022 Warrants) holders of the 2022 Warrants would be entitled to receive alternate consideration in connection with such Fundamental Transaction, but only to the extent that holders of our Common Stock were entitled to receive the same. Moreover, as long as the 2022 Notes and 2022 Warrants remaining outstanding, upon the issuance of any security in connection with any potential future financing activity on terms more favorable than the existing terms, the Company has an obligation to notify the holders of the 2022 Notes and 2022 Warrants of such more favorable terms and to use best efforts to effect such terms in the 2022 Notes and 2022 Warrants. Finally, because of the Company’s net loss position, the shares underlying the 2022 Notes on an as converted basis are excluded from the calculation of basic and fully diluted earnings per share. Similarly, because of the Company’s net loss position, there was no impact on the calculation of basic and fully diluted earnings per share related to the classification of the 2022 Warrants as participating securities.
+-14-
+The Company retained a placement agent in connection with the private placement of $ 2.4
+million of the 2022 Notes to the institutional investors. The Company paid the 2022 Placement Agent
+10 % of the gross proceeds in the 2022 Placement Agent from certain institutional investors, or $ 240,000
+and we also reimbursed the 2022 Placement Agent approximately $ 58,000
+for non-accountable banking fees, legal fees and other expenses. In addition, we issued 2022 Placement Agent Warrants to purchase an aggregate of
+31,510
+shares of Common Stock. An additional $ 1.1
+million was raised in connection with the placement of the private placement notes, which included certain accredited investors some of which were Board members and executive officers of the Company. Board member, Laurence Hicks, and executive officers, Terrence W. Norchi and Michael S. Abrams, invested in the 2022 Senior Secured Convertible Notes. The investment made in the 2022 Senior Secured Convertible Notes made by the Board member and executive officers totaled $ 80,000 .
+In addition, as a part of the 2022 Convertible Notes Offering, certain holders (the “ Series Holders ”) of the Company’s
+10 % Series 2 Convertible Notes (the “ Series Notes ”) agreed to exchange their Series 2 Notes for promissory notes of the Company on substantially similar terms to those of the 2022 Notes (the “ Subordinated Notes ”). The Subordinated Notes are convertible into
+76,563
+shares of Common Stock at a conversion price of $9.14. The holders of the Subordinated Notes did not receive warrants or inducement shares. In connection with the issuance of the Subordinated Notes, the Series Holders entered into a subordination agreement on July 6, 2022 (the “ Closing Date ”) to subordinate their rights in respect of the Subordinated Notes to the rights of the Investors in respect of the 2022 Notes. As of July 7, 2022, approximately $ 600,000
+of the Series 2 Notes and accrued interest of approximately $ 100,000
+were included in the exchange.
+Further, in connection with the 2022 Note Financing, we are required to complete an Uplist Transaction by February 15, 2023 under the terms of the 2022 Notes and Second Notes. If we are unable to complete an Uplist Transaction, then the 2022 Notes and Second Notes will become immediately due and payable and we will be obligated to pay to each holder of the 2022 Notes and Second Notes an amount equal to
+125 %, multiplied by the sum of the outstanding principal amount of the 2022 Notes and Second Notes plus any accrued and unpaid interest on the unpaid principal amount of the 2022 Notes and Second Notes to the date of payment, plus any default interest and any other amounts owed to the holder, payable in cash or shares of Common Stock. On or before February 14, 2023, the Company secured waivers with all of the holders of the 2022 Notes and Second Notes to extend the deadline to complete an uplist to March 15, 2023.
+During the three months ended December 31, 2022, the Company recorded interest expense on the 2022 Notes of approximately $ 499,000
+consisting of accrued interest of approximately $ 127,000
+and accretion of original issue discount debt discount and issuance costs of approximately $ 372,000 . Included in the Senior Secured Convertible Notes as of December 31, 2022 is a prepayment of $ 20,000
+in connection to the second closing of the 2022 Notes. The notes issued in connection with the second closing (the “ Second Notes ”) are unsecured and subordinate to the 2022 Notes (see Note 14).
+Allocation of Proceeds
+The Company accounted for the Senior Secured Convertible Notes, the 2022 Warrants, and the 2022 Inducement Shares relating to the aforementioned July 2022 Senior Secured Convertible Promissory Notes in accordance with ASC 470-20-25-2 “Debt” which states that the allocation of the proceeds from the financing shall be based on the relative fair values of the securities issued at the time of the issuance. The 2022 Inducement Shares and the 2022 Warrants, which are indexed to the Company’s stock, are classified within stockholders’ equity (deficit) in the accompanying consolidated financial statements. The allocated value of the 2022 Inducement Shares and the 2022 Warrants are $ 314,523
+and $ 1,470,133 , respectively. The allocated value of the Senior Secured Convertible Notes of $ 1,740,344
+are allocated as long-term liabilities in the accompanying consolidated financial statements. The fair value of the 2022 Placement Agent Warrants of $ 219,894
+are being accounted for as debt issuance costs and are classified within stockholders’ equity (deficit) in the accompanying consolidated financial statements. As of December 31, 2022 and September 30, 2022, the net carrying amount of the Senior Secured Convertible Notes was $ 2,754,028
+and $ 2,362,273 , respectively, with unamortized debt discount and issuance costs of $ 2,195,752
+and $ 2,567,507 , respectively.
+The 2022 Warrants and the 2022 Placement Agent Warrants were valued as of July 6, 2022
+using the Black Scholes Model with the following assumptions:
+2022 Warrants
+2022 Placement Agent Warrants
+Closing price per share of Common Stock
+$
+9.98
+$
+9.98
+Exercise price per share
+$
+9.94
+$
+10.06
+Expected volatility
+88.44
+%
+88.44
+%
+Risk-free interest rate
+2.96
+%
+2.96
+%
+Dividend yield
+—
+—
+Remaining expected term of underlying securities (years)
+5.0
+5.0
+-15-
+12. SERIES 1 AND SERIES 2 CONVERTIBLE NOTES
+On June 4, 2020 and November 6, 2020, the Company issued unsecured
+10 % Series 1 Convertible Notes (“ Series
+1
+Notes ”) and Series 2 Convertible Notes (“Series 2 Notes”, and collectively with the Series 1 Notes, the “ Convertible Notes ”) in the aggregate principal amount of $ 550,000
+and $ 1,050,000 , respectively. The maturity dates of the Series 1 Notes and Series 2 Notes are June 30, 2023 and November 30, 2023, respectively. The Convertible Notes provide, among other things, for (i) a term of approximately three years; (ii) the Company’s ability to prepay the Convertible Notes, in whole or in part, at any time; (iii) the automatic conversion of the Convertible Notes upon a Change of Control (all capitalized terms not otherwise defined to have the meaning ascribed to such terms of the Convertible Notes) into shares of the Company’s Common Stock, at a per share price of $ 54.00
+and $ 50.00
+(the “ Conversion Price ”) for the Series 1 Notes and Series 2 Notes, respectively; (iv) the ability of the holders of the Convertible Note (a “ Holder ”) to convert the principal of the Convertible Notes, along with accrued interest, in whole or in part, into shares of Common Stock at the respective Conversion Price; (v) the Company’s ability to convert all Note Obligations outstanding upon a Qualified Equity Financing into shares of Common Stock at the respective Conversion Price; (vi) the Company’s ability to convert the principal of the Convertible Notes, along with accrued interest, in whole or in part, into shares of Common Stock at the respective Conversion Price in the event the volume weighted average price (“ VWAP ”) of the Common Stock equals or exceeds $ 64.00
+per share for at least fifteen consecutive Trading Days; (vii) the Company’s ability to convert all outstanding Note Obligations into shares of Common Stock at the respective Conversion Price (an “ In Kind Note Repayment ”) in lieu of repaying the Note Obligations outstanding on the Maturity Date, provided, however, that in the case of an In-Kind Note Repayment, the outstanding Note Obligations will be calculated by increasing by thirty-five percent the aggregate sum of the unpaid Principal Amount held by each Holder and the accrued interest at a rate of ten percent per annum, subject to, with respect to any portion of the Principal Amount that is converted or prepaid before the twelve month anniversary of the Issuance Date, a minimum interest payment equal to ten percent of the amount that is converted or prepaid. As consideration for agreeing to subordinate, the premium applicable in connection with an In-Kind Note Repayment at maturity was increased from thirty-five percent to sixty percent.
+Beginning June 22, 2015 and through June 30, 2015, the Company entered into a series of substantially similar subscription agreements with 20 accredited investors providing for the issuance and sale by the Company to the 2015 Investors, in a private placement, of an aggregate of
+71,954
+Units at a purchase price of $ 44.00
+per Unit. Each Unit consisted of a share of Common Stock and a Series D Warrant to purchase a share of Common Stock at an exercise price of $ 50.00
+per share at any time prior to the fifth anniversary of the issuance date of the Series D Warrant and the shares issuable upon exercise of the Series D Warrants.
+On June 3, 2020, the Company entered into an agreement (the “ Agreement ”) with the holders of a majority (the “ Majority Holders ”) of the outstanding warrants classified as “ Series D Warrants ”, resulting in approximately $ 850,000
+of proceeds as a result of the full exercise of all Series D Warrants. Under the terms of the Agreement, in exchange for fully exercising their remaining Series D Warrants for
+23,636
+shares of Common Stock on June 4, 2020, the Majority Holders were issued warrants to purchase
+17,727
+shares of Common Stock at an exercise price of $ 50.00
+over a 1-year term (“ Series J Warrants ”). On November 6, 2020, as consideration for an investment in the Convertible Notes, the Company entered into an amendment to the Series J Warrants with a holder of a Series J Warrant exercisable for up to
+16,875
+shares of Common Stock, to extend the term of the Series J Warrant from one year to thirty months.
+On June 22, 2020, the Company entered into a Series J Warrant Issuance Agreement (the “ Keyes Sulat Agreement ”) with the Keyes Sulat Revocable Trust (the “ Trust ”), also a holder of outstanding Series D Warrants, resulting in approximately $ 82,000
+of proceeds as a result of the full exercise of the Trust’s Series D Warrants. Under the terms of the Keyes Sulat Agreement, in exchange for fully exercising the Trust’s remaining Series D Warrants for
+2,273
+shares of Common Stock on June 22, 2020, the Trust was issued Series J Warrants to purchase
+1,705
+shares of Common Stock at an exercise price of $ 50.00
+over a
+one-year
+term. James R. Sulat, a former member of the Board, is a co-trustee of the Trust, of which members of Mr. Sulat’s immediate family are beneficiaries. Mr. Sulat disclosed his interest in the Trust to the Board prior to its approval of the transaction and abstained from voting on the transaction.
+As described in Note 11, above, as a part of the 2022 Convertible Notes Offering, certain holders of the Series Notes agreed to exchange Notes with principal amounts of $ 600,000
+and accrued interest of approximately $ 100,000
+for promissory notes of the Company on substantially similar terms to those of the 2022 Notes (the “ Exchanged Notes ”). As of July 6, 2022, $ 699,780
+of principal and accrued interest of the Series 2 notes was exchanged for the Exchanged Notes. In connection with the issuance of the Exchanged Notes, the Series Holders entered into a subordination agreement on the
+Closing Date
+to subordinate their rights to the rights of the Investors in respect of the 2022 Notes.
+During the three months ended December 31, 2022 and 2021, the Company recorded interest expense on the Convertible Notes of approximately $ 25,000
+and $ 40,000 , respectively.
+-16-
+13. RISKS AND UNCERTAINTIES
+–
+COVID-19 AND GEOPOLITICAL CONFLICTS
+The Company sources its materials and services for its products and product candidates from facilities in areas impacted or which may be impacted by the outbreak of the COVID-19 or geopolitical conflicts. The Company’s ability to obtain future inventory may be impacted, therefore potentially affecting the Company’s future revenue stream. In addition, the Company has historically and principally funded its operations through debt borrowings, the issuance of convertible debt, and the issuance of units consisting of Common Stock and warrants which may also be impacted by economic conditions beyond the Company’s control as well as uncertainties resulting from geopolitical conflicts, including the recent war in Ukraine. The extent to which the COVID-19 and recent events in Ukraine will impact the global economy and the Company is uncertain and cannot be reasonably measured.
+14.
+SUBSEQUENT EVENTS
+The Company evaluated all events or transactions through February 14, 2023, the date which these unaudited interim consolidated financial statements were issued. There were no material subsequent events, other than provided below:
+On January 13, 2023, the Company filed a Certificate of Change to the Company’s Articles of Incorporation, as amended, with the Secretary of State of the State of Nevada (the “Certificate of Change”), which effected, at 5:00 p.m. Eastern Time on January 17, 2023, a one-for-two-hundred (1: 200 ) reverse stock split (the “Reverse Stock Split”) of both the Company’s issued and outstanding shares of Common Stock, and authorized shares of Common Stock.
+As a result of the Reverse Stock Split, every two hundred (200) shares of Common Stock issued and outstanding was combined into one (1) share of Common Stock, with a proportionate 1:200 reduction in the Company’s authorized Common Stock. The Reverse Stock Split affected all stockholders uniformly and did not alter any stockholder’s percentage interest in the Company’s equity, except to the extent that the Reverse Stock Split would have resulted in some stockholders owning a fractional share. No fractional shares were issued in connection with the Reverse Stock Split.  Any fractional shares of Common Stock resulting from the Reverse Stock Split were rounded up to the nearest whole post-Reverse Stock Split share and no stockholders received cash in lieu of fractional shares.
+The Reverse Stock Split did not change the par value of the Common Stock. All outstanding securities entitling their holders to purchase shares of Common Stock or acquire shares of Common Stock, including preferred stock, stock options, restricted stock units, and warrants, were adjusted as a result of the Reverse Stock Split, as required by the terms of those securities.
+All information included in these consolidated financial statements has been adjusted, on a retrospective basis, to reflect the Reverse Share Split, unless otherwise stated.
+On January 13, 2023, the Company filed a Certificate of Amendment (the “Certificate of Amendment”) to the Company’s Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Nevada to increase the number of authorized shares of Common stock from
+4,000,000
+shares to
+12,000,000
+shares. The increase in the number of authorized shares was approved by the Company’s stockholders on September 29, 2022.
+As previously disclosed in footnote 11 in this Form 10-Q, the Company entered into a Securities Purchase Agreement, dated July 6, 2022 (“SPA”), with certain institutional and accredited individual investors (collectively, the “Investors”) for the issuance and sale by the Company to the Investors of convertible promissory notes, warrants to purchase shares of common stock, par value $ 0.001
+per share (the “Common Stock”), and shares of Common Stock (the “Convertible Notes Offering”). The first closing of the Convertible Notes Offering occurred on July 6, 2022.
+On January 18, 2023, the Company entered into Amendment No. 1 to the SPA (the “Amendment” and, together with the SPA, the “Amended SPA”), with certain Investors in connection with the second closing of the Convertible Notes Offering for the issuance and sale by the Company to such Investors of an aggregate of (i) Unsecured Convertible Promissory Notes (each a “Second Note” and collectively, the “Second Notes”) in the aggregate principal amount of $ 636,000 , which includes an aggregate $ 106,000
+original issue discount in respect of the Second Notes; (ii) Warrants (the “Second Warrants”) to purchase an aggregate of
+127,968
+shares (the “Warrant Shares”) of Common Stock; (iii)
+9,598
+shares of Common Stock (the “Inducement Shares”) and
+6,565
+Placement Agent Warrants. The aggregate gross proceeds for the sale of the Second Notes, Second Warrants and Inducement Shares was approximately $ 530,000 , before deducting the placement agent’s fees and other estimated fees and offering expenses payable by the Company. The second closing of the sales of these securities under the Amended SPA occurred on January 18, 2023 (the “Second Closing Date”).
+-17-
+Item 2. Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+References in this Quarterly Report on Form   10-Q (this "Quarterly Report", or this "Report") to "Arch Biosurgery, Inc."
+“ Company ” ,
+“ we ” ,
+“ us ” ,
+“ our ” ,
+“ Arch ”
+or similar references mean Arch Therapeutics,   Inc. and its consolidated subsidiary, Arch Biosurgery,   Inc.
+References to the "SEC" refer to the U.S. Securities and Exchange Commission.
+Forward Looking Statements
+You should read the following discussion and analysis of our financial condition and results of operations in conjunction with our consolidated condensed financial statements and the related notes included elsewhere in this Report. Our consolidated condensed financial statements have been prepared in accordance with accounting principles generally accepted in the United States ( “ U.S. GAAP ” ). The following discussion and analysis contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the
+“ Securities Act ” ) and Section 21E of the Securities Exchange Act of 1934, as amended (the
+“ Exchange Act ” ), including, without limitation, statements regarding our expectations, beliefs, intentions or future strategies that are signified by the words
+“ expect, ”
+“ anticipate, ”
+“ intend, ”
+“ believe, ”
+or similar language. All forward-looking statements included in this Report are based on information available to us on the date hereof, and we assume no obligation to update any such forward-looking statements. Our business and financial performance are subject to substantial risks and uncertainties. Actual results could differ materially from those projected in the forward-looking statements. In evaluating our business, you should carefully consider the information set forth under the heading
+“ Risk Factors ”
+included Part I, Item 1A of our Annual Report on Form 10-K for the year ended September 30, 2022 (the "Annual Report ”) , as well as in Item II, Part 1A of this Report. Readers are cautioned not to place undue reliance on these forward-looking statements.
+AC5, AC5-G, AC5-V, AC5-P, Crystal Clear Surgery, NanoDrape and NanoBioBarrier and associated logos are trademarks and/or registered trademarks of Arch Therapeutics, Inc. and its subsidiary. For purposes herein, references to regulatory approval and marketing authorization may be used interchangeably.
+Corporate Overview
+Arch Therapeutics, Inc., (together with its subsidiary, the “ Company ” or “ Arch ”) was incorporated under the laws of the State of Nevada on September 16, 2009, under the name “Almah, Inc.”. Effective June 26, 2013, the Company completed a merger (the “ Merger ”) with Arch Biosurgery, Inc. (formerly known as Arch Therapeutics, Inc.), a Massachusetts corporation (“ ABS ”), and Arch Acquisition Corporation (“ Merger Sub ”), the Company’s wholly owned subsidiary formed for the purpose of the transaction, pursuant to which Merger Sub merged with and into ABS and ABS thereby became the wholly owned subsidiary of the Company. As a result of the acquisition of ABS, the Company abandoned its prior business plan and changed its operations to the business of a biotechnology company. Our principal offices are located in Framingham, Massachusetts.
+ABS was incorporated under the laws of the Commonwealth of Massachusetts on March 6, 2006, as Clear Nano Solutions, Inc. On April 7, 2008, ABS changed its name from Clear Nano Solutions, Inc. to Arch Therapeutics, Inc. Effective upon the closing of the Merger, ABS changed its name from Arch Therapeutics, Inc. to Arch Biosurgery, Inc.
+In the first quarter of 2021, the Company commenced commercial sales of our first product, AC5® Advanced Wound System, and has devoted substantially all of our operational effort to the research, development and regulatory programs necessary to turn our core technology into commercial products. To date, the Company has principally raised capital through debt borrowings, the issuance of convertible debt, and the issuance of units consisting of the Company's common stock, $0.001 par value per share (“ Common Stock ”), and warrants to purchase Common Stock (“ warrants ”).
+The Company expects to incur substantial expenses for the foreseeable future relating to research, development and commercialization of its potential products. However, there can be no assurance that the Company will be successful in securing additional resources when needed, on terms acceptable to the Company, if at all. Therefore, there exists substantial doubt about the Company’s ability to continue as a going concern. The consolidated financial statements do not include any adjustments related to the recoverability of assets that might be necessary despite this uncertainty.
+Business Overview
+We are a biotechnology company marketing and developing a number of products based on our innovative AC5® self-assembling technology platform. We believe these products can be important advances in the field of stasis and barrier applications, which includes stopping bleeding (“ hemostasis ”), controlling leaking (“ sealant ”), and managing wounds created during surgery, trauma or interventional care, or from disease. We have only recently commenced commercial sales of our first product, AC5® Advanced Wound System, and have devoted substantially all of our operational effort to the research, development and regulatory programs necessary to turn our core technology into commercial products. Our goal is to make care faster and safer for patients with products for use on external wounds, which we refer to as Dermal Sciences applications, and products for use inside the body, which we refer to as BioSurgery applications.
+-18-
+Core Technology
+Our flagship products and product candidates are derived from our AC5® self-assembling peptide (“ SAP ”) technology platform and are sometimes referred to as AC5 or the “ AC5 Devices .” These include AC5® Advanced Wound System and AC5® Topical Hemostat, which have received marketing authorization as medical devices in the United States and Europe, respectively, and which are intended for skin applications, such as the management of complicated chronic wounds and acute surgical wounds. Other products are in development for use in minimally invasive or open surgical procedures, and include, for example, AC5-GTM for gastrointestinal endoscopic procedures, and AC5-V® and AC5® Surgical Hemostat for hemostasis inside the body, all of which are currently investigational devices limited by law to investigational use.
+Products based on AC5 platform contain a biocompatible peptide that is synthesized from proteogenic, naturally occurring L-amino acids. Unlike products that contain traditional peptide sequences, when applied to a wound, AC5-based products intercalate into the interstices of the connective tissue and self-assemble into a protective physical-mechanical nanoscale structure that can provide a barrier to leaking substances, such as blood, while also acting as a biodegradable scaffold that enables healing. Self-assembly is a central component of the mechanism of action of our technology. Individual AC5 peptide units readily build themselves, or self-assemble, into an ordered network of nanofibrils when in aqueous solution by the following process:
+●
+Peptide strands line up with neighboring peptide strands, interacting via hydrogen bonds (non-covalent bonds) to form a ribbon-like structure called a beta sheet.
+●
+This process continues such that hundreds of strands organize with charged and polar side chains oriented on one face and non-polar side chains oriented on the opposite face of the beta sheets.
+●
+Interactions of the resulting structure with water molecules and ions results in formation nanofibrils, which extend in length and can join together to form larger nanofibers.
+●
+This network of AC5 peptide nanofibers forms the semi-solid physical-mechanical barrier that interacts with the extracellular matrix, is responsible for sealant, hemostatic and other properties, regardless of the presence of antithrombotic agents, and which subsequently becomes the scaffold that supports the repair and regeneration of damaged tissue.
+Based on the intended application, we believe that the underlying AC5 SAP technology can impart important features and benefits to our products that may include, for instance, stopping bleeding (hemostasis), mitigating contamination, modulating inflammation, donating moisture, and enabling an appropriate wound microenvironment conducive to healing. Furthermore, we believe that AC5® SAP technology permits cell and tissue growth and is self-healing, in that it can dynamically self-repair around migrating cells. For instance, AC5® Advanced Wound System, which is indicated for the management of partial and full-thickness wounds, such as pressure sores, leg ulcers, diabetic ulcers, and surgical wounds, is shipped and stored at room temperature, is applied directly as a liquid, can conform to irregular wound geometry, self-assembles into a wound care matrix that can provide clinicians with multi-modal support, and does not possess sticky or glue-like handling characteristics. We believe these properties enhance its utility in several settings and contribute to its user-friendly profile.
+We believe that our technology lends itself to a range of potential applications in which there is a wound inside or on the body, and in which there is need for a hemostatic agent or sealant. For instance, the results of certain preclinical and clinical investigations that either we have conducted, or others have conducted on our behalf, have shown quick and effective hemostasis with the use of AC5 SAP technology, and that time to hemostasis is comparable among test subjects regardless of whether such test subject had or had not been treated with therapeutic doses of anticoagulant or antiplatelet medications, commonly called “blood thinners.” Furthermore, the transparency and physical properties of certain AC5 Devices may enable a surgeon to operate through it in order to maintain a clearer field of vision and prophylactically stop or lessen bleeding as surgery starts, a concept that we call Crystal Clear Surgery (TM). An example of a product that contains related features and benefits is AC5 Topical Hemostat, which is indicated for use as a dressing and to control mild to moderate bleeding, each during the management of injured skin and the micro-environment of an acute surgical wound.
+Operations
+Much of our operational efforts to date, which we often perform in collaboration with partners, have included selecting compositions and formulations for our initial products; conducting preclinical studies, including safety and other tests; conducting a human trial for safety and performance of AC5; developing and conducting a human safety study to assess for irritation and sensitization potential; securing marketing authorization for our first product in the United States and in Europe; developing, optimizing, and validating manufacturing methods and formulations, which are particularly important components of self-assembling peptide development; developing methods for manufacturing scale-up, reproducibility, and validation; engaging with regulatory authorities to seek early regulatory guidance as well as marketing authorization for our products; sourcing and evaluating commercial partnering opportunities in the United States and abroad; and developing and protecting the intellectual property rights underlying our technology platform.
+-19-
+Our long-term business plan includes the following goals:
+●
+conducting biocompatibility, pre-clinical, and clinical studies on our products and product candidates;
+●
+obtaining additional marketing authorization for products in the United States, Europe, and other jurisdictions as we may determine;
+●
+continuing to develop third party relationships to manufacture, distribute, market and otherwise commercialize our products;
+●
+continuing to develop academic, scientific and institutional relationships to collaborate on product research and development;
+●
+expanding and maintaining protection of our intellectual property portfolio; and
+●
+developing additional product candidates in Dermal Sciences, BioSurgery, and other areas.
+In furtherance of our long-term business goals, we expect to continue to focus on the following activities during the next twelve months:
+●
+seek additional funding as required to support the previously described milestones necessary to support operations;
+●
+work with our manufacturing partners to scale up production of product compliant with current good manufacturing practices (“ cGMP ”), which activities will be ongoing and tied to our development and commercialization needs;
+●
+further clinical development of our product platform;
+●
+assess our technology platform in order to identify and select product candidates for potential advancement into development;
+●
+seek regulatory input to guide activities related to expanded and new product marketing authorizations;
+●
+continue to expand and enhance our financial and operational reporting and controls;
+●
+pursue commercial partnerships; and
+●
+expand and enhance our intellectual property portfolio by filing new patent applications, obtaining allowances on currently filed patent applications, and/or adding to our trade secrets in self-assembly, manufacturing, analytical methods and formulation, which activities will be ongoing as we seek to expand our product candidate portfolio.
+We have no commitments for any future capital. We will require significant additional financing to fund our planned operations, including further research and development relating to AC5®, seeking regulatory approval of any product we may choose to develop, commercializing any product for which we are able to obtain regulatory approval or certification, seeking to license or acquire new assets or business, and maintaining our intellectual property rights, pursuing new technologies and for financing the investor relations and incremental administrative costs associated with being a public corporation.
+The estimated capital requirements potentially could increase significantly if a number of risks relating to conducting these activities were to occur, including without limitation those set forth under the heading “ RISK FACTORS ” in our Annual Report. We anticipate that our operating and other expenses will continue to increase as we continue to implement our business plan and pursue and achieve these goals. We could spend our financial resources much faster than we expect, in which case we would need to raise additional capital as our current funds may not be sufficient to operate our business for the entire duration of that period.
+-20-
+Manufacturing
+We work with contract manufacturing and related organizations, including those operating under cGMP, as is required by applicable regulatory agencies for production of product that can be used for preclinical and human testing as well as for commercial use. We also have engaged and continue to engage other third parties in the United States and abroad to advise on and perform certain manufacturing and related activities, typically with assistance from our team. These third parties include academic institutions, consultants, advisors, scientists, and/or other collaborators. The activities include development of our primary product candidates, as well as generation of appropriate analytical methods, scale-up, and other procedures for use by manufacturers and/or other members of our supply chain to produce or process our products at current and/or larger scale quantities for preclinical and clinical testing and ultimately, as required marketing authorizations are obtained, commercialization.
+Our products are regulated as medical devices, and as such, many of our activities have focused on optimizing traditional parameters to target specifications, biocompatibility, physical appearance, stability, and handling characteristics, among other metrics, to achieve the desired product. We and our partners intend to continue to monitor manufacturing processes and formulation methods closely, as success or failure in establishing and maintaining appropriate specifications may directly impact our ability to conduct additional preclinical and clinical trials and/or deliver commercial product.
+Merger with ABS and Related Activities
+On June 26, 2013, the Company completed the Merger with ABS, pursuant to which ABS became a wholly owned subsidiary of the Company. In contemplation of the Merger, effective May 24, 2013, the Company increased its authorized Common Stock, from 375,000 shares to 1,500,000 shares and effected a forward stock split, by way of a stock dividend, of its issued and outstanding shares of Common Stock at a ratio of 11 shares to each 1 issued and outstanding share. Also, in contemplation of the Merger, effective June 5, 2013, the Company changed its name from Almah, Inc. to Arch Therapeutics, Inc. and changed the ticker symbol under which its Common Stock trades on the OTC Bulletin Board from “AACH” to “ARTH”.
+Recent Developments
+On January 13, 2023, the Company filed a Certificate of Change to the Company’s Articles of Incorporation, as amended, with the Secretary of State of the State of Nevada (the “Certificate of Change”), which effected, at 5:00 p.m. Eastern Time on January 17, 2023, a one-for-two-hundred (1:200) reverse stock split (the “Reverse Stock Split”) of both the Company’s issued and outstanding shares of Common Stock, and authorized shares of Common Stock.
+As a result of the Reverse Stock Split, every two hundred (200) shares of Common Stock issued and outstanding was combined into one (1) share of Common Stock, with a proportionate 1:200 reduction in the Company’s authorized Common Stock. The Reverse Stock Split affected all stockholders uniformly and did not alter any stockholder’s percentage interest in the Company’s equity, except to the extent that the Reverse Stock Split would have resulted in some stockholders owning a fractional share. No fractional shares were issued in connection with the Reverse Stock Split.  Any fractional shares of Common Stock resulting from the Reverse Stock Split were rounded up to the nearest whole post-Reverse Stock Split share and no stockholders received cash in lieu of fractional shares.
+-21-
+The Reverse Stock Split did not change the par value of the Common Stock. All outstanding securities entitling their holders to purchase shares of Common Stock or acquire shares of Common Stock, including stock options, restricted stock units, and warrants, were adjusted as a result of the Reverse Stock Split, as required by the terms of those securities.
+On January 13, 2023, the Company filed a Certificate of Amendment (the “Certificate of Amendment”) to the Company’s Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Nevada to increase the number of authorized shares of Common stock from 4,000,000 shares to 12,000,000 shares. The increase in the number of authorized shares was approved by the Company’s stockholders on September 29, 2022.
+As previously disclosed in footnote 11 in this Form 10-Q, the Company entered into a Securities Purchase Agreement, dated July 6, 2022 (“SPA”), with certain institutional and accredited individual investors (collectively, the “Investors”) for the issuance and sale by the Company to the Investors of convertible promissory notes, warrants to purchase shares of common stock, par value $0.001 per share (the “Common Stock”), and shares of Common Stock (the “Convertible Notes Offering”). The first closing of the Convertible Notes Offering occurred on July 6, 2022.
+On January 18, 2023, the Company entered into Amendment No. 1 to the SPA (the “Amendment” and, together with the SPA, the “Amended SPA”), with certain Investors in connection with the second closing of the Convertible Notes Offering for the issuance and sale by the Company to such Investors of an aggregate of (i) Unsecured Convertible Promissory Notes (each a “Second Note” and collectively, the “Second Notes”) in the aggregate principal amount of $636,000, which includes an aggregate $106,000 original issue discount in respect of the Second Notes; (ii) Warrants (the “Second Warrants”) to purchase an aggregate of 127,968 shares (the “Warrant Shares”) of Common Stock; and (iii) 9,598 shares of Common Stock (the “Inducement Shares”). The aggregate gross proceeds for the sale of the Second Notes, Second Warrants and Inducement Shares was approximately $530,000, before deducting the placement agent’s fees and other estimated fees and offering expenses payable by the Company. The second closing of the sales of these securities under the Amended SPA occurred on January 18, 2023 (the “Second Closing Date”).
+Results of Operations
+The following discussion of our results of operations should be read together with the unaudited interim consolidated financial statements included in this Report. The period-to-period comparisons of our interim results of operations that follow are not necessarily indicative of future results.
+Three Months Ended December 31, 2022 Compared to Three Months Ended December 31, 2021
+December 31,
+December 31,
+Increase
+2022
+2021
+(Decrease)
+($)
+($)
+($)
+Revenue
+6,261
+4,696
+1,565
+Operating Expense:
+Cost of revenues
+17,635
+16,792
+843
+Selling, general and administrative
+1,102,916
+1,263,104
+(160,188
+)
+Research and development
+161,453
+234,618
+(73,165
+)
+Loss from Operations
+(1,275,743
+)
+(1,509,818
+)
+(234,075
+)
+Other Expense
+(524,313
+)
+(40,329
+)
+483,984
+Net loss
+(1,800,056
+)
+(1,550,147
+)
+249,909
+Revenue
+Revenue for the three months ended December 31, 2022 was $6,261, an increase of $1,565 compared to revenue of $4,696 for the three months ended December 31, 2021. Revenue for the three months ended December 31, 2022 and 2021 was the result of transactions into VA Hospitals through our distribution partner, LGS.
+Cost of Revenue
+Cost of revenue during the three months ended December 31, 2022 was $17,635, an increase of $843 compared to cost of revenue of $16,792 for the three months ended December 31, 2021. Cost of revenue includes product costs, third party warehousing, overhead allocation, royalty and shipping costs.
+-22-
+Selling, General and Administrative Expense
+Selling, general and administrative expense during the three months ended December 31, 2022 was $1,102,916, a decrease of $160,188 compared to $1,263,104 for the three months ended December 31, 2021. The decrease in selling, general and administrative expense for the three months ended December 31, 2022 is primarily attributable to a decrease in compensation costs attributed to a reduction in headcount partially offset by an increase in consulting costs.
+Research and Development Expense
+Research and development expense during the three months ended December 31, 2022 was $161,453 a decrease of $73,163 compared to $234,618 for the three months ended December 31, 2021. The decrease in research and development expense is primarily attributable to a decrease in compensation costs attributed to a reduction in headcount.
+Other Expense
+Other expense during the three months ended December 31, 2022 was $524,313, an increase of $483,984 compared to other expense of $40,329 for the three months ended December 31, 2021. The increase in other expense is attributed to an increase in interest expense related to the 2022 Convertible Notes.
+Liquidity and Capital Resources
+In the first quarter of 2021, the Company commenced commercial sales of our first product, AC5® Advanced Wound System. We devote a significant amount of our efforts on fundraising as well as planning and conducting product research and development and activities in connection with obtaining regulatory marketing authorization. We have principally raised capital through borrowings and the issuance of convertible debt and units consisting of Common Stock and warrants to fund our operations.
+Working Capital
+At December 31, 2022, we had total current assets of $1,711,170 (including cash of $10,618) and negative working capital of $2,433,997. Our working capital as of December 31, 2022 and September 30, 2022 are summarized as follows:
+December 31,
+September 30,
+2022
+2022
+Total Current Assets
+$
+1,711,170
+$
+2,598,195
+Total Current Liabilities
+4,145,167
+3,320,494
+Working Capital
+$
+(2,433,997
+)
+$
+(722,299
+)
+Total current assets as of December 31, 2022 were $1,711,170, a decrease of $887,025 compared to $2,598,195 as of September 30, 2022. The decrease in current assets is primarily attributable to selling, general and administrative expense and research and development expense incurred in connection with activities to develop our primary product candidate. Our total current assets as of December 31, 2022 and September 30, 2022 were comprised primarily of cash, inventory and prepaid expenses and other current assets.
+Total current liabilities as of December 31, 2022 were $4,145,167, an increase of $824,673 compared to $3,320,494 as of September 30, 2022. The increase is primarily due to an increase in accounts payable, the current portion of the Series 2 Convertible Notes and the current portion of the Series 1 and Series 2 accrued interest partially offset by a decrease to the amount owed in connection with the financing of certain insurance premiums.
+Cash Flow for the Three months Ended December 31, 2022 Compared to the Three Months Ended December 31, 2021
+December 31,
+December 31,
+2022
+2021
+Cash Used in Operating Activities
+$
+(650,065
+)
+$
+(1,178,525
+)
+Cash Used in Financing Activities
+(86,257
+)
+-
+Net decrease in Cash
+$
+(736,322
+)
+$
+(1,178,525
+)
+Cash Used in Operating Activities
+Cash used in operating activities decreased by $528,460 to $650,065 during the three months ended December 31, 2022, compared to $1,178,525 during the three months ended December 31, 2021. The decrease in cash used in operating activities is primarily attributable to an increase in accounts payable.
+-23-
+Cash Used in Financing Activities
+Cash used in financing activities increased by $86,257 during the three months ended December 31, 2022, compared to no cash used in financing activities during the three months ended December 31, 2021. For the three months ended December 31, 2022, the cash used in financing activities resulted from the payments made in connection with the financing of certain insurance premiums partially offset by a prepayment on the second closing of the Senior Secured Convertible Notes. The Second Notes are unsecured and subordinate to the 2022 Notes.
+Cash Requirements
+We anticipate that our operating expenses, interest expense and other expenses will increase significantly as we continue to implement our business plan and pursue our operational goals. Depending upon additional input from EU and US regulatory authorities, however, we do not expect to generate sufficient revenues from operations before we will need to raise additional capital. Further, our estimates regarding our use of cash could change if we encounter unanticipated difficulties or other issues arise, including without limitation those set forth under the heading “RISK FACTORS” described in our Annual Report, in which case our current funds may not be sufficient to operate our business for the period we expect.
+In the first quarter of 2021, the Company commenced commercial sales of our first product, AC5® Advanced Wound System. That revenue will not be sufficient to fund our business operations and we will need to obtain additional funding from external sources for the foreseeable future. We do not have any commitments for future capital. Significant additional financing will be required to fund our planned operations in the near term and in future periods, including research and development activities relating to our potential new product candidates, seeking regulatory approval of any other product candidates we may choose to develop, commercializing any product candidates for which we are able to obtain regulatory approval or certification, seeking to license or acquire new assets or businesses, and maintaining our intellectual property rights and pursuing rights to new technologies. We may not be able to obtain additional financing on commercially reasonable or acceptable terms when needed, or at all. We are bound by certain contractual terms and obligations that may limit or otherwise impact our ability to raise additional funding in the near-term including, but not limited to, provisions in the 2018 SPA (see Note 7) and the 2022 SPA (see Note 11) restricting our ability to effect or enter into an agreement to effect any issuance by the Company or any of its subsidiaries of Common Stock or securities convertible, exercisable or exchangeable for Common Stock (or a combination of units thereof) involving a Variable Rate Transaction (as defined in the 2018 SPA) including, but not limited to, an equity line of credit or “At-the-Market” financing facility until the three lead investors in the 2018 Financing collectively own less than 20% of the Series G Warrants (see Note 7) purchased by them pursuant to the 2018 SPA. These restrictions and provisions could make it more challenging for us to raise capital through the incurrence of debt or through equity issuances. If we cannot raise the money that we need in order to continue to develop our business, we will be forced to delay, scale back or eliminate some or all of our proposed operations. If any of these were to occur, there is a substantial risk that our business would fail, and our stockholders could lose all of their investments.
+As previously noted, since inception we have funded our operations primarily through equity and debt financings and we expect to continue to seek to do so in the future. If we obtain additional financing by issuing equity securities, our existing stockholders’ ownership will be diluted. Additionally, the terms of securities we may issue in future capital-raising transactions may be more favorable for our new investors, and in particular may include preferences, superior voting rights and the issuance of warrants or other derivative securities, which may have additional dilutive effects. If we obtain additional financing by incurring debt, we may become subject to significant limitations and restrictions on our operations pursuant to the terms of any loan or credit agreement governing the debt. Further, obtaining any loan, assuming a loan would be available when needed on acceptable terms, would increase our liabilities and future cash commitments. We may also seek funding from collaboration or licensing arrangements in the future, which may require that we relinquish potentially valuable rights to our product candidates or proprietary technologies or grant licenses on terms that are not favorable to us. Moreover, regardless of the manner in which we seek to raise capital, we may incur substantial costs in those pursuits, including investment banking fees, legal fees, accounting fees, printing and distribution expenses and other related costs.
+Going Concern
+We have commenced commercial sales of our first product, AC5® Advanced Wound System. From inception, we have had recurring losses from operations. The continuation of our business as a going concern is dependent upon raising additional capital and eventually attaining and maintaining profitable operations. As of December 31, 2022, there is substantial doubt about the Company’s ability to continue as a going concern. The financial statements included in this Annual Report do not include any adjustments that might be necessary should operations discontinue.
+-24-
+Critical Accounting Policies and Significant Judgments and Estimates
+Pursuant to certain disclosure guidance issued by the SEC, the SEC defines “critical accounting policies” as those that require the application of management’s most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and may change in subsequent periods. Our critical accounting policies that we anticipate will require the application of our most difficult, subjective or complex judgments are as follows:
+Derivative Liabilities
+The Company accounts for its warrants and other derivative financial instruments as either equity or liabilities based upon the characteristics and provisions of each instrument, in accordance with the Financial Accounting Standards Board (“ FASB ”) Accounting Standards Codification (“ ASC ”) Topic 815,
+Derivatives and Hedging . Warrants classified as equity are recorded at fair value as of the date of issuance on the Company’s consolidated balance sheets and no further adjustments to their valuation are made. Warrants classified as derivative liabilities and other derivative financial instruments that require separate accounting as liabilities are recorded on the Company’s consolidated balance sheets at their fair value on the date of issuance and will be revalued on each subsequent balance sheet date until such instruments are exercised or expire, with any changes in the fair value between reporting periods recorded as other income or expense. Management estimates the fair value of these liabilities using option pricing models and assumptions that are based on the individual characteristics of the warrants or instruments on the valuation date, as well as assumptions for future financings, expected volatility, expected life, yield, and risk-free interest rate.
+Inventories
+Inventories are stated at the lower of cost or net realizable value. The cost of inventories comprises expenditures incurred in acquiring the inventories, the cost of conversion and other costs incurred in bringing them to their existing location and condition. The cost of raw materials, work-in-progress and finished goods and other products are determined on a First in First out (FiFo) basis. When determining net realizable value, appropriate consideration is given to obsolescence, excessive levels, deterioration, and other factors in evaluating net realizable value.
+Complex Financial Instruments
+The Company does not use derivative instruments to hedge exposures to cash flow, market, or foreign currency risks. The Company evaluates its financial instruments, including warrants, to determine if such instruments are derivatives or contain features that qualify as embedded derivatives. The Company values its derivatives using the Black-Scholes option-pricing model or other acceptable valuation models, including Monte-Carlo simulations. Derivative instruments are valued at inception, upon events such as an exercise of the underlying financial instrument, and at subsequent reporting periods. The classification of derivative instruments, including whether such instruments should be recorded as liabilities, is re-assessed at the end of each reporting period.
+The Company reviews the terms of debt instruments, equity instruments, and other financing arrangements to determine whether there are embedded derivative features, including embedded conversion options that are required to be bifurcated and accounted for separately as a derivative financial instrument. Additionally, in connection with the issuance of financing instruments, the Company may issue freestanding options and warrants, including options or warrants to non-employees in exchange for consulting or other services performed.
+The Company accounts for its common stock warrants in accordance with Accounting Standards Codification (“ASC”) 815,
+Derivatives and Hedgin g (“ASC 815”). Based upon the provisions of ASC 815, the Company accounts for common stock warrants as liabilities if the warrant requires net cash settlement or gives the holder the option of net cash settlement, or it fails the equity classification criteria. The Company accounts for common stock warrants as equity if the contract requires physical settlement or net physical settlement or if the Company has the option of physical settlement or net physical settlement and the warrants meet the requirements to be classified as equity. Common stock warrants classified as liabilities are initially recorded at fair value on the grant date and remeasured at fair value each balance sheet date with the offset adjustments recorded in change in fair value of warrant liability within the consolidated statements of operations. Common stock warrants classified as equity are initially measured at fair value on the grant date and are not subsequently remeasured.
+-25-
+Off-Balance Sheet Arrangements
+We have no significant off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to stockholders.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Not applicable
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Internal control over financial reporting is a process designed by, or under the supervision of, the Principal Executive Officer and Principal Financial Officer and effected by our Board of Directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Under the supervision and with the participation of our Principal Executive Officer and Principal Financial Officer, management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in
+Internal Control  —
+Integrated Framework
+issued in 2013 by the Committee of Sponsoring Organizations (“ COSO ”). We believe, that as of December 31, 2022 there existed a material weakness in our internal control over financial reporting. The deficiencies in the design of internal control over financial reporting related to a lack of sufficient resources with an understanding of the technical guidance under generally accepted accounting principles related to accounting for complex financial instruments within the 2022 Senior Secured Convertible Notes and certain accounting practices relating to the recording of the insurance premium advanced by a third party. Accordingly, the Audit Committee in consultation with management has determined that these matters may be best addressed by: (i) reviewing accounting literature and other technical materials to ensure that the appropriate personnel have a full awareness and understanding of the applicable accounting pronouncements and how they are to be implemented; (ii) additional education on new and existing accounting pronouncements and their application and (iii) requiring senior accounting staff and outside consultants with technical accounting experience to review complex transactions to evaluate and approve the accounting treatment of such transactions. Accordingly, the Board has recommended to management and management has agreed that the Company’s accounting staff, including its Chief Financial Officer, undertake additional training on an accelerated basis and that such training, in view of the complexity of certain generally accepted accounting principles and other matters be ongoing and engage third party specialists on an as-needed basis to help supplement the Company’s internal resources.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risks that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal controls over financial reporting that occurred during the quarter ended December 31, 2022, that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting. From time to time, we make changes to our internal control over financial reporting that are intended to enhance its effectiveness, and which do not have a material effect on our overall internal control over financial reporting.
+-26-
+PART   II
+–
+OTHER INFORMATION
+Item 1. Legal Proceedings
+In the ordinary course of business, we may become a party to legal proceedings involving various matters. We are unaware of any such legal proceedings presently pending to which we or our subsidiary is a party or of which any of our property is the subject that management deems to be, individually or in the aggregate, material to our financial condition or results of operations.
+Item 1A. Risk Factors
+In addition to the other information set forth in this Report, you should carefully consider the factors discussed in Part I, “Item 1A. Risk Factors” of our Annual Report, which could materially affect our business, financial condition or future results. The risks described in our Annual Report may not be the only risks facing the Company. Additional risks and uncertainties not currently known to the Company or that the Company currently deems to be immaterial also may materially adversely affect the Company’s business, financial condition and/or operating results.
+There were no material changes to the risk factors previously disclosed in our Annual Report.
+Item   2. Unregistered Sales of Equity Securities and Use of Proceeds
+Not applicable
+Item 6. Exhibits
+Exhibit
+No.
+Exhibit Title
+31.1
+Certification of Principal Executive Officer pursuant to Rule 13a-14(a) or 15d-14(a) under the Securities and Exchange Act of 1934
+31.2
+Certification of Principal Financial Officer pursuant to Rule 13a-14(a) or 15d-14(a) under the Securities and Exchange Act of 1934
+32.1
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, executed by Terrence W. Norchi, President and Chief Executive Officer, and Michael S. Abrams, Chief Financial Officer and Treasurer
+101.INS
+Inline XBRL Instance Document
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit)
+-27-
+SIGNATURE
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+ARCH THERAPEUTICS, INC.
+Date:  February 14, 2023
+By:
+/s/ TERRENCE W. NORCHI, MD
+Terrence W. Norchi, MD
+President and Chief Executive Officer
+(Principal Executive Officer)
+Date: February 14, 2023
+By:
+/s/ MICHAEL S. ABRAMS
+Michael S. Abrams
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+-28-

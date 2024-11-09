@@ -1,0 +1,2116 @@
+FORM
+10-Q
+______________________________________
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31,
+2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission file number:
+001-35776
+______________________________________
+Acasti Pharma Inc.
+(Exact name of registrant as specified in its charter)
+______________________________________
+Qu é bec,
+Canada
+98-1359336
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification Number)
+3009 boul. de la Concorde East, Suite 102
+Laval ,
+Qu é bec ,
+Canada
+H7E 2B5
+(Address of principal executive offices, including zip code)
+450 - 686-4555
+(Registrant ’ s telephone number, including area code)
+______________________________________
+Securities registered pursuant to Section
+12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Shares, no par value per share
+ACST
+NASDAQ  Stock Market
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Securities Exchange Act of 1934).
+Yes
+☐
+No
+☒
+The number of outstanding common shares of the registrant, no par value per share, as of February 14, 2023, was
+44,612,831 .
+ACASTI PHARMA INC.
+QUARTERLY REPORT ON FORM 10-Q
+For the Quarter Ended December 31, 2022
+Ta ble of Contents
+Page
+PART I. FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+7
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+20
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+41
+Item 4.
+Controls and Procedures
+41
+PART II. OTHER INFORMATION
+Item 1 .
+Legal Proceedings
+41
+Item 1A.
+Risk Factors
+41
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+41
+Item 3.
+Defaults Upon Senior Securities
+41
+Item 4.
+Mine Safety Disclosures
+41
+Item 5.
+Other Information
+41
+Item 6.
+Exhibits
+42
+2
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This quarterly report contains information that may be forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and forward-looking information within the meaning of Canadian securities laws, both of which we refer to in this quarterly report as forward-looking statements. Forward-looking statements can be identified by the use of terms such as “may”, “will”, “should”, “expect”, “plan”, “anticipate”, “believe”, “intend”, “estimate”, “predict”, “potential”, “continue” or other similar expressions concerning matters that are not statements about the present or historical facts. Forward-looking statements in this quarterly report include, among other things, information or statements about:
+• our ability to build a premier, late-stage specialty pharmaceutical company focused on rare and orphan disease and on developing and commercializing products that improve clinical outcomes using our novel drug delivery technologies;
+• our ability to apply new proprietary formulations to existing pharmaceutical compounds to achieve enhanced efficacy, faster onset of action, reduced side effects, and more convenient drug delivery that can result in increased patient compliance;
+• the potential for our drug candidates to receive final orphan drug designation from the U.S. Food and Drug Administration (“FDA”) or regulatory approval under the Section 505(b)(2) regulatory pathway under the Federal Food, Drug and Cosmetic Act;
+• the future prospects of our GTX-104 drug candidate, including but not limited to GTX-104’s potential to be administered to improve the management of hypotension in patients with subarachnoid hemorrhage (“SAH”); GTX-104’s potential to reduce the incidence of hypotension or vasospasm in SAH patients resulting in better outcomes; GTX-104’s potential to provide for reduced use of rescue therapies, such as vasopressors in patients with SAH; the timing of the FDA's clarifying guidance through a written Type C meeting, and whether the FDA will agree with our proposed Phase 3 safety study design and target endpoints for GTX-104; the timing and outcome of the initiation and completion of the Phase 3 safety study for GTX-104; our ability to ultimately file a new drug application (“NDA”) for GTX-104 under Section 505(b)(2) of the Federal Food, Drug and Cosmetic Act; and the timing and ability to receive FDA approval for marketing GTX-104;
+• the future prospects of our GTX-102 drug candidate, including but not limited to GTX-102’s potential to provide clinical benefits to decrease symptoms associated with Ataxia Telangiectasia (“A-T”); GTX-102’s potential ease of drug administration; the timing and outcomes of a PK bridging study and a Phase 3 efficacy and safety study for GTX-102; the timing of an NDA filing under Section 505(b)(2) in connection with GTX-102; and the ability to receive FDA approval for marketing GTX-102;
+• the future prospects of our GTX-101 drug candidate, including but not limited to GTX-101’s potential to be administered to postherpetic neuralgia (“PHN”) patients to treat the severe nerve pain associated with the disease; assumptions about the biphasic delivery mechanism of GTX-101, including its potential for rapid onset and continuous pain relief for up to 24 hours; and the timing and outcomes of a multiple ascending dose PK bridging study, and subsequent Phase 2 and Phase 3 efficacy and safety studies; the timing of an NDA filing under Section 505(b)(2) for GTX-101; and the timing and ability to receive FDA approval for marketing GTX-101;
+• the quality of our clinical data, the cost and size of our development programs, expectations and forecasts related to our target markets and the size of our target markets; the cost and size of our commercial infrastructure and manufacturing needs in the United States, European Union, and the rest of the world; and our expected use of a range of third-party contract research organizations (“CROs”) and contract manufacturing organizations (“CMOs”) at multiple locations;
+• expectations and forecasts related to our intellectual property portfolio, including but not limited to the probability of receiving final orphan drug designation from the FDA for our leading pipeline products; our patent portfolio strategy; and outcomes of our patent protection filings;
+• our strategy, future operations, prospects and the plans of our management with a goal to enhance shareholder value;
+• our intellectual property position and duration of our patent rights;
+• the potential adverse effects that the COVID-19 pandemic may have on our business and operations;
+• our need for additional financing, and our estimates regarding our operating runway and timing for future financing and capital requirements;
+• our expectation regarding our financial performance, including our costs and expenses, liquidity, and capital resources;
+• our projected capital requirements to fund our anticipated expenses; and
+• our ability to establish strategic partnerships or commercial collaborations or obtain non-dilutive funding.
+Although the forward-looking statements in this quarterly report are based upon what we believe are reasonable assumptions, you should not place undue reliance on those forward-looking statements since actual results may vary materially from them. Important assumptions made by us when making forward-looking statements include, among other things, assumptions by us that:
+• we are able to attract and retain key management and skilled personnel;
+• third parties provide their services to us on a timely and effective basis;
+• we are able to take advantage of new business opportunities in the pharmaceutical industry;
+• we are able to secure and defend our intellectual property rights, and to avoid infringing upon the intellectual property rights of third parties;
+• there are no material adverse changes in relevant laws or regulations; and
+• we are able to obtain the additional capital and financing we require when we need it.
+3
+In addition, the forward-looking statements in this quarterly report are subject to a number of known and unknown risks, uncertainties and other factors, many of which are beyond our control, that could cause our actual results and developments to differ materially from those that are disclosed in or implied by the forward-looking statements, including, among others:
+• We may not achieve our publicly announced milestones on time, or at all.
+• We are heavily dependent on the success of our lead drug candidates, GTX-104, GTX-102 and GTX-101.
+• Our future results will suffer if we do not effectively manage our expanded operations.
+• We may not be able to maintain our operations and advance our research and development and commercialization of our lead drug candidates without additional funding.
+• Business disruptions could seriously harm our future revenue and financial condition and increase our costs and expenses.
+• We may be subject to foreign exchange rate fluctuations.
+• If securities or industry analysts do not publish research or publish inaccurate or unfavorable research about our business, our stock price and trading volume could decline.
+• Our future success depends on our ability to retain key executives and to attract, retain and motivate qualified personnel.
+• We will need to expand our organization, and we may experience difficulties in managing this growth, which could disrupt our operations and our ability to compete.
+• We may face future product liability claims, and if claims are brought against us, we may incur substantial liability.
+• We rely significantly on information technology and any failure, inadequacy, interruption or security lapse of that technology, including any cybersecurity incidents, could harm our ability to operate our business effectively.
+• Even if our drug candidates receive regulatory approval in the United States, we may never obtain regulatory approval or successfully commercialize our products outside of the United States.
+• We are subject to uncertainty relating to healthcare reform measures and reimbursement policies which, if not favorable to our drug candidates, could hinder or prevent our drug candidates’ commercial success.
+• Our commercial success depends upon attaining significant market acceptance of our drug products and drug candidates, if approved, among physicians, nurses, pharmacists, patients and the medical community.
+• Guidelines and recommendations published by government agencies can reduce the use of our drug candidates and negatively impact our ability to gain market acceptance and market share.
+• If we are unable to establish sales and marketing capabilities or enter into agreements with third parties to market and sell our drug products, if approved, we may be unable to generate any revenue.
+• If we obtain approval to commercialize any approved drug products outside of the United States, a variety of risks associated with international operations could materially adversely affect our business.
+• If we are unable to differentiate our drug products from branded reference drugs or existing generic therapies for similar treatments, or if the FDA or other applicable regulatory authorities approve products that compete with any of our drug products, our ability to successfully commercialize our drug products would be adversely affected.
+• We face significant competition from other biotechnology and pharmaceutical companies, and our operating results will suffer if we fail to compete effectively.
+• We could incur substantial costs and disruption to our business and delays in the launch of our drug products if our competitors and/or collaborators bring legal actions against us, which could harm our business and operating results.
+• The COVID-19 pandemic, or a similar pandemic, epidemic, or outbreak of an infectious disease, may materially and adversely affect our business and our financial results and could cause a disruption to the development of our drug candidates.
+• We are subject to numerous complex regulatory requirements and failure to comply with these regulations, or the cost of compliance with these regulations, may harm our business.
+• If the FDA does not conclude that our drug candidates satisfy the requirements for the 505(b)(2) regulatory approval pathway, or if the requirements for approval of any of our drug candidates under Section 505(b)(2) are not as we expect, the approval pathway for our drug candidates will likely take longer, cost more and we could encounter significantly greater complications and risks than anticipated, and in any case may not be successful.
+• Clinical development is a lengthy and expensive process with an uncertain outcome, and results of earlier studies and trials may not be predictive of future trial results. Failure can occur at any stage of clinical development.
+• Delays in clinical trials are common and have many causes, and any delay could result in increased costs to us and could jeopardize or delay our ability to obtain regulatory approval and commence product sales. We may also find it difficult to enroll patients in our clinical trials, which could delay or prevent development of our drug candidates.
+• Our drug products or drug candidates may cause adverse effects or have other properties that could delay or prevent their regulatory approval or limit the scope of any approved label or market acceptance, or result in significant negative consequences following marketing approval, if any.
+4
+• The regulatory approval processes of the FDA and comparable foreign authorities are lengthy, time consuming and inherently unpredictable, and if we are ultimately unable to obtain regulatory approval for our drug candidates, our business will be substantially harmed.
+• An NDA submitted under Section 505(b)(2) subjects us to the risk that we may be subject to a patent infringement lawsuit that would delay or prevent the review or approval of our drug candidate. The FDA and other regulatory agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses.
+• Our drug development strategy relies heavily upon the 505(b)(2) regulatory pathway, which requires us to certify that we do not infringe upon third-party patents covering approved drugs. Such certifications often result in third-party claims of intellectual property infringement, the defense of which can be costly and time consuming, and an unfavorable outcome in any such litigation may prevent or delay our development and commercialization efforts, which would harm our business.
+• Our business is subject to extensive regulatory requirements and our drug candidates that obtain regulatory approval will be subject to ongoing and continued regulatory review, which may result in significant expense and limit our ability to commercialize such products.
+• Our employees, independent contractors, principal investigators, consultants, commercial partners and vendors may engage in misconduct or other improper activities, including non-compliance with regulatory standards and requirements.
+• Any relationships with healthcare professionals, principal investigators, consultants, customers (actual and potential) and third-party payers are and will continue to be subject, directly or indirectly, to federal and state healthcare fraud and abuse laws, false claims laws, marketing expenditure tracking and disclosure, or sunshine laws, government price reporting and health information privacy and security laws. If we are unable to comply, or have not fully complied, with such laws, we could face penalties, including, without limitation, civil, criminal, and administrative penalties, damages, monetary fines, disgorgement, possible exclusion from participation in Medicare, Medicaid and other federal healthcare programs, contractual damages, reputational harm, diminished profits and future earnings and curtailment or restructuring of our operations.
+• We are required to obtain regulatory approval for each of our drug candidates in each jurisdiction in which we intend to market such drug products, and the inability to obtain such approvals would limit our ability to realize their full market potential.
+• If we are sued for infringing intellectual property rights of third parties, it will be costly and time consuming, and an unfavorable outcome in that litigation would have a material adverse effect on our business.
+• We may be subject to claims that our employees, consultants, or independent contractors have wrongfully used or disclosed confidential information of third parties.
+• Our success depends in part upon our ability to protect our intellectual property for our drug candidates, such as GTX-104, GTX-102 and GTX-101.
+• If we fail to comply with our obligations in the agreements under which we license rights to technology from third parties, or if the license agreements are terminated for other reasons, we could lose license rights that are important to our business.
+• We may be subject to claims challenging our inventorship or ownership of our patents and other intellectual property.
+• Intellectual property rights do not necessarily address all potential threats to our competitive advantage.
+• Changes in patent law could diminish the value of patents in general, thereby impairing our ability to protect any of our other future drug products and drug candidates.
+• We may not be able to protect our intellectual property rights throughout the world.
+• If our estimates or judgments relating to our critical accounting policies for intangible assets prove to be incorrect, impairment charges could result.
+• We do not have internal manufacturing capabilities, and if we fail to develop and maintain supply relationships with various third-party manufacturers, we may be unable to develop or commercialize our drug candidates.
+• Our contract manufacturers may encounter manufacturing failures that could delay the clinical development or regulatory approval of our drug candidates, or their commercial production, if approved.
+• We rely on third parties to conduct our preclinical studies and clinical trials. If these third parties do not successfully carry out their contractual duties or meet expected deadlines, we may not be able to obtain regulatory approval for or commercialize our drug candidates and our business could be substantially harmed.
+• We rely on third parties to manufacture commercial and clinical supplies of our drug candidates, and we intend to rely on third parties to manufacture commercial supplies of any approved drug products. The commercialization of any of our drug products could be stopped, delayed, or made less profitable if those third parties fail to provide us with sufficient quantities of active pharmaceutical ingredients, excipients, or drug products, or fail to do so at acceptable quality levels or prices or fail to maintain or achieve satisfactory regulatory compliance.
+• The design, development, manufacture, supply, and distribution of our drug candidates are highly regulated and technically complex.
+• We may not be successful in establishing development and commercialization collaborations, which could adversely affect, and potentially prevent, our ability to develop our drug candidates.
+• We may not be successful in maintaining development and commercialization collaborations, and any partner may not devote sufficient resources to the development or commercialization of our drug candidates or may otherwise fail in development or commercialization efforts, which could adversely affect our ability to develop certain of our drug candidates and our financial condition and operating results.
+• There is a significant risk that we may be classified as a PFIC for U.S. federal income tax purposes.
+5
+• We may not be able to use our net operating loss carry forwards to offset future taxable income for Canadian or U.S. federal income tax purposes.
+• The IRS may not agree that we should be treated as a foreign corporation for U.S. federal tax purposes.
+• We do not expect to pay any cash dividends for the foreseeable future.
+• The price of our common shares may be volatile.
+• Raising additional capital in the future may cause dilution to our existing shareholders, restrict our operations or require us to relinquish rights to our technologies or drug candidates.
+• The market price of our common shares could decline if our operating results fall below the expectations of investors or fluctuate.
+• There can be no assurance that an active market for our common shares will be sustained.
+• If we fail to meet applicable listing requirements, the NASDAQ Stock Market or the TSX Venture Exchange may delist our common shares from trading, in which case the liquidity and market price of our common shares could decline.
+• We may pursue opportunities or transactions that adversely affect our business and financial condition.
+• We are a “smaller reporting company” under the U.S. Securities and Exchange Commission’s (“SEC’s”) disclosure rules and have elected to comply with the reduced disclosure requirements applicable to smaller reporting companies.
+• As a non-accelerated filer, we are not required to comply with the auditor attestation requirements of the Sarbanes-Oxley Act.
+• We are a Québec incorporated company headquartered in Canada, and U.S. investors may be unable to enforce certain judgments against us.
+All of the forward-looking statements in this quarterly report are qualified by this cautionary statement. There can be no guarantee that the results or developments that we anticipate will be realized or, even if substantially realized, that they will have the consequences or effects on our business, financial condition, or results of operations that we anticipate. As a result, you should not place undue reliance on the forward-looking statements. Except as required by applicable law, we do not undertake to update or amend any forward-looking statements, whether as a result of new information, future events or otherwise. All forward-looking statements are made as of the date of this quarterly report.
+We express all amounts in this quarterly report in U.S. dollars, except where otherwise indicated. References to “$” and “U.S.$” are to U.S. dollars and references to “C$” or “CAD$” are to Canadian dollars.
+Except as otherwise indicated, references in this quarterly report to “Acasti,” “the Company,” “we,” “us” and “our” refer to Acasti Pharma Inc. and its consolidated subsidiaries, including Acasti Pharma U.S., which is formerly Grace Therapeutics, Inc. ("Grace").
+6
+PART I. FINANCIA L INFORMATION
+Item 1: Financial
+Information
+Unaudited Condensed Consolidated Interim Financial Statements
+Condensed Consolidated Interim Balance Sheets
+9
+Condensed Consolidated Interim Statements of Loss and Comprehensive Loss
+10
+Condensed Consolidated Interim Statements of Changes Shareholders’ Equity
+11
+Condensed Consolidated Interim Statements of Cash Flows
+12
+Notes to the Condensed Consolidated Interim Financial Statements
+13
+7
+Condensed Consolidated Interim Financial Statements of (Unaudited)
+ACASTI PHARMA INC.
+Three and Nine months ended December 31, 2022 and 2021
+8
+ACASTI PHARMA INC.
+Condensed Consolidated Interim Balance Sheet
+(Unaudited)
+December 31, 2022
+March 31, 2022
+(Expressed in thousands of U.S. dollars except share data)
+Notes
+$
+$
+Assets
+Current assets:
+Cash and cash equivalents
+26,241
+30,339
+Short-term investments
+5
+5,015
+13,322
+Receivables
+778
+548
+Assets held for sale
+6
+352
+352
+Prepaid expenses
+1,042
+720
+Total current assets
+33,428
+45,281
+Right of use asset
+487
+315
+Equipment
+112
+250
+Intangible assets
+4
+69,810
+69,810
+Goodwill
+12,964
+12,964
+Total assets
+116,801
+128,620
+Liabilities and shareholders’ equity
+Current liabilities:
+Trade and other payables
+3,360
+3,156
+Lease liability
+73
+104
+Total current liabilities
+3,433
+3,260
+Derivative warrant liabilities
+—
+10
+Lease liability
+430
+191
+Deferred tax liability
+16,218
+16,889
+Total liabilities
+20,081
+20,350
+Shareholders’ equity:
+Common shares
+7(a)
+258,294
+257,990
+Additional paid-in capital
+13,643
+12,154
+Accumulated other comprehensive loss
+( 6,038
+)
+( 6,037
+)
+Accumulated deficit
+( 169,179
+)
+( 155,837
+)
+Total shareholder’s equity
+96,720
+108,270
+Commitments and contingencies
+12
+Total liabilities and shareholders’ equity
+116,801
+128,620
+See accompanying notes to unaudited interim financial statements.
+9
+ACASTI PHARMA INC.
+Condensed Consolidated Interim Statements of Loss and Comprehensive Loss
+(Unaudited)
+Three and Nine months ended December 31, 2022 and 2021
+Three months ended
+Nine months ended
+December 31, 2022
+December 31, 2021
+December 31, 2022
+December 31, 2021
+(Expressed in thousands of U.S dollars, except per share data)
+Notes
+$
+$
+$
+$
+Operating expenses
+Research and development expenses, net of government assistance
+8
+( 2,450
+)
+( 2,179
+)
+( 8,332
+)
+( 3,233
+)
+General and administrative expenses
+( 1,589
+)
+( 1,808
+)
+( 5,187
+)
+( 7,441
+)
+Sales and marketing expenses
+( 206
+)
+( 238
+)
+( 563
+)
+( 263
+)
+Impairment of Other asset and prepaid
+—
+( 249
+)
+—
+( 249
+)
+Loss from operating activities
+( 4,245
+)
+( 4,474
+)
+( 14,082
+)
+( 11,186
+)
+Financial income (expenses)
+9
+82
+696
+69
+5,271
+Loss before income tax recovery
+( 4,163
+)
+( 3,778
+)
+( 14,013
+)
+( 5,915
+)
+Income tax recovery
+274
+—
+671
+—
+Loss and total comprehensive loss)
+( 3,889
+)
+( 3,778
+)
+( 13,342
+)
+( 5,915
+)
+Basic and diluted loss per share
+( 0.09
+)
+( 0.09
+)
+( 0.30
+)
+( 0.23
+)
+Weighted average number of shares outstanding
+44,612,831
+44,288,183
+44,497,907
+25,785,579
+See accompanying notes to unaudited interim financial statements
+10
+ACASTI PARMA INC.
+Condensed Consolidated Interim Statements of Changes in Shareholder’s Equity
+(Unaudited)
+Three and Nine months ended December 31, 2022 and 2021
+Common Shares
+(Expressed in thousands of U.S. dollars except share data)
+Notes
+Number
+Dollar
+Additional paid-in capital
+Accumulated other comprehensive loss
+Accumulated deficit
+Total
+$
+$
+$
+$
+$
+Balance, March 31, 2022
+44,288,183
+257,990
+12,154
+( 6,037
+)
+( 155,837
+)
+108,270
+Net loss and total comprehensive loss for the period
+—
+—
+—
+—
+( 4,524
+)
+( 4,524
+)
+Cumulative translation adjustment
+—
+—
+—
+( 2
+)
+—
+( 2
+)
+Net proceeds from shares issued under the at-the-market (ATM) program
+206,010
+195
+—
+—
+—
+195
+Stock based compensation
+10
+—
+—
+464
+—
+—
+464
+Balance at June 30, 2022
+44,494,193
+258,185
+12,618
+( 6,039
+)
+( 160,361
+)
+104,403
+Net loss and total comprehensive loss for the period
+—
+—
+—
+—
+( 4,929
+)
+( 4,929
+)
+Cumulative translation adjustment
+—
+—
+—
+( 1
+)
+—
+( 1
+)
+Net proceeds from shares issued under the at-the-market (ATM) program
+118,638
+109
+—
+—
+—
+109
+Stock based compensation
+10
+—
+—
+582
+—
+—
+582
+Balance at September 30, 2022
+44,612,831
+258,294
+13,200
+( 6,040
+)
+( 165,290
+)
+100,164
+Net loss and total comprehensive loss for the period
+—
+—
+—
+—
+( 3,889
+)
+( 3,889
+)
+Cumulative translation adjustment
+—
+—
+—
+2
+—
+2
+Stock based compensation
+10
+—
+—
+443
+—
+—
+443
+Balance at December 31, 2022
+44,612,831
+258,294
+13,643
+( 6,038
+)
+( 169,179
+)
+96,720
+Common Shares
+(Expressed in thousands of US dollars except for share data)
+Notes
+Number
+Dollar
+Additional paid-in capital
+Accumulated other comprehensive loss
+Accumulated deficit
+Total
+$
+$
+$
+$
+$
+Balance, March 31, 2021
+26,046,950
+197,194
+10,817
+( 6,333
+)
+( 146,018
+)
+55,660
+Net loss and total comprehensive loss for the period
+—
+—
+—
+—
+( 3,118
+)
+( 3,118
+)
+Cumulative translation adjustment
+—
+—
+—
+762
+—
+762
+Stock based compensation
+10
+—
+—
+153
+—
+—
+153
+Balance at June 30, 2021
+26,046,950
+197,194
+10,970
+( 5,571
+)
+( 149,136
+)
+53,457
+Net loss and total comprehensive loss for the period
+—
+—
+—
+—
+981
+981
+Cumulative translation adjustment
+—
+—
+—
+( 1,149
+)
+—
+( 1,149
+)
+Stock based compensation
+10
+—
+—
+114
+—
+—
+114
+Common shares issued in relation to merger with Grade via share-for-share
+18,241,233
+60,801
+—
+0
+—
+60,801
+Balance at September 30, 2021
+44,288,183
+257,995
+11,084
+( 6,720
+)
+( 148,155
+)
+114,204
+Net loss and total comprehensive loss for the period
+—
+—
+—
+—
+( 3,778
+)
+( 3,778
+)
+Cumulative translation adjustment
+—
+—
+—
+187
+—
+187
+Stock based compensation
+13
+—
+—
+454
+—
+454
+Fees related to share-for-share issuance for merger with Grace
+4
+—
+( 5
+)
+—
+—
+—
+( 5
+)
+Balance at December 31, 2021
+44,288,183
+257,990
+11,538
+( 6,533
+)
+( 151,933
+)
+111,062
+11
+ACASTI PHARMA INC.
+Condensed Consolidated Interim Statements of Cash Flows
+(Unaudited)
+Three and Nine months ended December 31, 2022 and 2021
+Nine months ended
+December 31, 2022
+December 31, 2021
+(thousands of U.S. dollars)
+Notes
+$
+$
+Cash flows used in operating activities:
+Net loss for the period
+( 13,342
+)
+( 5,915
+)
+Adjustments:
+Depreciation of equipment
+116
+—
+Impairment of Other Asset and prepaid
+—
+249
+Stock-based compensation
+10
+1,489
+721
+Change in fair value of warrant liabilities
+( 10
+)
+( 4,908
+)
+Income tax recovery
+( 671
+)
+—
+Unrealized foreign exchange (gain) loss
+( 28
+)
+( 418
+)
+Write off of equipment
+31
+—
+Changes in non-cash working capital items
+11
+( 172
+)
+( 3,818
+)
+Net cash used in operating activities
+( 12,587
+)
+( 14,089
+)
+Cash flows from (used in) investing activities:
+Acquisition of equipment
+( 9
+)
+—
+Acquisition of short-term investments
+( 5,015
+)
+( 34,852
+)
+Maturity of short-term investment
+13,185
+31,319
+Net cash from (used in) investing activities
+8,161
+( 3,533
+)
+Cash flows from (used in) financing activities:
+Net proceeds from issuance of common shares under the at-the-market (ATM)
+(7a)
+304
+—
+Net cash from (used in) financing activities
+304
+—
+Effect of exchange rate fluctuations on cash and cash equivalents
+( 110
+)
+( 176
+)
+Translations effects on cash and cash equivalents related to reporting currency
+134
+( 131
+)
+Net increase (decrease) in cash and cash equivalents
+( 4,098
+)
+( 17,929
+)
+Cash and cash equivalents, beginning of period
+30,339
+50,942
+Cash and cash equivalents, end of period
+26,241
+33,013
+Cash and cash equivalents are comprised of:
+Cash
+26,241
+33,013
+Cash equivalents
+—
+—
+See accompanying notes to unaudited interim financial statements.
+12
+ACASTI PHARMA INC.
+Notes to Condensed Consolidated Interim Financial Statements
+(Unaudited)
+(Expressed in thousands of U.S. dollars except share data)
+Three and Nine months ended December 31, 2022 and 2021
+1. Nature of operation
+Acasti Pharma Inc. (“Acasti” or the “Corporation”) is incorporated under the Business Corporations Act (Québec) (formerly Part 1A of the Companies Act (Québec)). The Corporation is domiciled in Canada and its registered office is located at 3009 boul. de la Concorde East, Suite 102, Laval, Québec, Canada H7E 2B5.
+In August 2021, the Corporation completed the acquisition via a share-for-share merger of Grace Therapeutics, Inc. (“Grace”), a privately held emerging biopharmaceutical company focused on developing innovative drug delivery technologies for the treatment of rare and orphan diseases. The post-merger Corporation is focused on building a late-stage specialty pharmaceutical company specializing in rare and orphan diseases and developing and commercializing products that improve clinical outcomes using our novel drug delivery technologies. The Corporation seeks to apply new proprietary formulations to existing pharmaceutical compounds to achieve enhanced efficacy, faster onset of action, reduced side effects, more convenient delivery and increased patient compliance; all of which could result in improved patient outcomes. The active pharmaceutical ingredients chosen by the Corporation for further development may be already approved in the target indication or could be repurposed for use in new indications.
+The Corporation has incurred operating losses and negative cash flows from operations in each year since its inception. The Corporation expects to incur significant expenses and continued operating losses for the foreseeable future. The Corporation expects its expenses will increase substantially in connection with its ongoing activities, particularly as it advances clinical development for the first three drug candidates in the Corporation’s pipeline; continues to engage contract manufacturing organizations (“CMO's”) to manufacture its clinical study materials and to ultimately develop large-scale manufacturing capabilities in preparation for commercial launch; seeks regulatory approval for its drug candidates; and adds personnel to support its drug product development and future drug product launch and commercialization.
+The Corporation does not expect to generate revenue from product sales unless and until it successfully completes drug development and obtains regulatory approval, which the Corporation expects will take several years and is subject to significant uncertainty. To date, the Corporation has financed its operations primarily through public offerings and private placements of its common shares, warrants and convertible debt and the proceeds from research tax credits. Until such time that the Corporation can generate significant revenue from drug product sales, if ever, it will require additional financing, which is expected to be sourced from a combination of public or private equity or debt financing or other non-dilutive sources, which may include fees, milestone payments and royalties from collaborations with third parties. Arrangements with collaborators or others may require the Corporation to relinquish certain rights related to its technologies or drug product candidates. Adequate additional financing may not be available to the Corporation on acceptable terms, or at all. The Corporation’s inability to raise capital as and when needed could have a negative impact on its financial condition and its ability to pursue its business strategy.   Management expects the Corporation to have sufficient cash resources to satisfy its objectives into the second quarter of calendar 2024, which is 13 to 16 months from the issuance date of these Financial Statements. The Corporation will require additional capital to fund our daily operating needs beyond that time. The Corporation plans to raise additional capital prior to that time in order to maintain adequate liquidity. Negative results from studies, if any, and depressed prices of the Corporation’s stock could impact the Corporation’s ability to raise additional financing. Raising additional equity capital is subject to market conditions not within the Corporation’s control. If the Corporation does not raise additional funds in this time period, the Corporation may not be able to realize our assets and discharge our liabilities in the normal course of business.
+The Corporation remains subject to risks similar to other development stage companies in the biopharmaceutical industry, including compliance with government regulations, protection of proprietary technology, dependence on third party contractors and consultants and potential product liability, among others.
+Reverse stock split
+On August 26, 2021, the shareholders of the Corporation approved a resolution to undertake a reverse split of the common shares within a range of 1-6 to 1-8 with such specific ratio to be approved by the Acasti Board. All references in these financial statements to number of common shares, warrants and options, price per share and weighted average number of shares outstanding prior to the reverse split have been adjusted to reflect the approved reverse split of 1- 8 , which was made effective on August 31, 2021, on a retroactive basis as of the earliest period presented.
+2. Summary of significant accounting policies:
+Basis of presentation
+These unaudited Consolidated Interim Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) and on a basis consistent with those accounting principles followed by the Corporation and disclosed in note 2 of its most recent Annual Consolidated Financial Statements, except as disclosed in note 3 – Recent accounting pronouncements and policies and should be read in conjunction with such statements and notes thereto.   13
+Functional currency   On April 1, 2022, the Corporation’s functional currency was changed from the Canadian dollar to the US dollar. This change is reflected prospectively in the Corporation’s financial statements.
+FASB ASC Topic 830, “Functional Currency Matters,” requires a change in functional currency to be reported as of the date it is determined there has been a change, and it is generally accepted practice that the change is made at the start of the most recent period that approximates the date of the change.
+Management determined it would enact this change effective on April 1, 2022.
+While the change was based on a factual assessment, the determination of the date of the change required management’s judgment given the change in the Corporation's primary economic and business environment, which has evolved over time. As part of management’s functional currency assessment, changes in economic facts and circumstances were considered. This included analysis of changes in: impact of the merger with Grace Therapeutics, management of operations, and in the composition of cash and short term investment balances. Additionally, budgeting is in USD, whereas this was previously performed in CAD. The Corporations cash outflows consist primarily of USD cash balances and less of CAD, as also reflected in the budget.
+Use of estimates
+The preparation of these financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, income, and expenses. Actual results may differ from these estimates.
+Estimates are based on management’s best knowledge of current events and actions that management may undertake in the future. Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimates are revised and in any future periods affected.
+Estimates and assumptions include the measurement of derivative warrant liabilities (note 7), stock-based compensation (note 10), assets held for sale (note 6), supply agreement (note 12), valuation of intangibles (note 4) and goodwill. Estimates and assumptions are also involved in measuring the accrual of services rendered with respect to research and development expenditures at each reporting date, including whether contingencies should be accrued for, as well as in determining which research and development expenses qualify for investment tax credits and in what amounts. The Corporation recognizes the tax credits once it has reasonable assurance that they will be realized. Recorded tax credits are subject to review and approval by tax authorities and, therefore, could be different from the amounts recorded.
+3. Recent accounting pronouncements   The Corporation has considered recent accounting pronouncements and concluded that they are either not applicable to the business or that the effect is not expected to be material to the consolidated financial statements as a result of future adoption.
+4. Intangible assets   On August 27, 2021, the Corporation completed its acquisition of all outstanding equity interests in Grace Therapeutics Inc, via a merger. Grace, based in New Jersey and organized under the laws of Delaware, was a rare and orphan disease specialty pharmaceutical company.
+In connection with the share-for-share non-cash transaction, Grace was merged with a new wholly owned subsidiary of Acasti and became a subsidiary of Acasti. As a result, Acasti acquired Grace’s entire therapeutic pipeline consisting of three unique clinical stage and multiple pre-clinical stage assets supported by an intellectual property portfolio consisting of various granted and pending patents in various jurisdictions worldwide. Under the terms of the acquisition, each issued and outstanding share of Grace common stock was automatically converted into the right to receive Acasti common shares equal to the equity exchange ratio set forth in the merger agreement.
+Intangible assets of $ 69,810
+relate to the value of IPR&D, related to Grace’s therapeutic pipeline, consisting of three unique clinical stage programs/assets supported by intellectual property, the value of which has been attributed as follows:
+$
+Intangible assets – in-process research and development
+GTX-104
+27,595
+GTX-102
+31,908
+GTX-101
+10,307
+Total
+69,810
+In addition, goodwill of $ 12,964
+was recognized. The Corporation performed an impairment test as at August 27, 2022, the anniversary date of the acquisition for each of our IPR&D technologies as well as for goodwill. The Corporation has one reporting unit which we have determined to be the Company. The estimated fair values of identifiable intangible assets and the reporting unit were determined using the multi-period excess earnings method. As a result of this quantitative assessment, we did not identify an impairment loss.
+The projected discounted cash flow models used to estimate the fair value of assets of our IPR&D reflect significant assumptions and are level 3 un-observable data regarding the estimates a market participant would make in order to evaluate a drug development asset, including the following:
+• Probability of clinical success of research and development and obtaining regulatory approval; • Forecasted net sales from up-front and milestone payments, royalties and product sales; and • A discount rate reflecting our weighted average cost of capital and specific risk inherent in the underlying assets. 14
+Our IPR&D projects, consistent with others in our industry, have risks and uncertainties associated with the timely and successful completion of the development and commercialization of product candidates, including our ability to confirm safety and efficacy based on data from clinical trials, our ability to obtain necessary regulatory approvals and our ability to successfully complete these tasks within budgeted costs. It is not permitted to market a human therapeutic without obtaining regulatory approvals, and such approvals require the completion of clinical trials that demonstrate that a product candidate is safe and effective. In addition, the availability and extent of coverage and reimbursement from third-party payers, including government healthcare programs and private insurance plans as well as competitive product launches, affect the revenues a product can generate. Consequently, the eventual realized values, if any, of acquired IPR&D projects may vary from their estimated fair values. The Corporation reviews individual IPR&D projects for impairment at our annual test date in the fourth quarter, or whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable including changes in technological or commercial feasibility or changes in the regulatory approval process.
+5. Short-term investments   The Corporation holds various marketable securities, with maturities greater than 3 months at the time of purchase, as follows:
+December 31, 2022
+March 31, 2022
+$
+$
+Term deposits issued in US currency earning interest at
+0.475 % and maturing on
+March 6, 2023
+5,000
+11,893
+Term deposit issued in CAD currency earning interest at
+0.50 % and maturing on
+March 30, 2023
+15
+1,429
+Total short-term investments
+5,015
+13,322
+6. Assets held for sale   During the period, the Corporation determined to actively market for sale Other assets and Production equipment and has met the criteria for classification of assets held for sale:
+December 31, 2022
+March 31, 2022
+Reclassed as explained below
+$
+$
+Other assets (a)
+195
+195
+Production equipment (b)
+157
+157
+352
+352
+a. Other assets
+Other assets represent krill oil (“RKO”) held by the Corporation that was expected to be used in commercial inventory scale up related to the development and commercialization of the CaPre drug candidate. Given that the development of CaPre will no longer be pursued by Acasti, the Corporation is expected to sell this reserve. The other asset is being recorded at the fair value less cost to sell. Management’s estimate of the fair value of the RKO less cost to sell is based primarily on estimated market prices obtained from an appraiser specializing in the krill oil market. These projections are based on Level 3 inputs of the fair value hierarchy and reflect management’s best estimate of market participants’ pricing of the assets as well as the general condition of the asset.
+b. Production equipment
+December 31, 2022
+Cost, net of impairment
+Accumulated depreciation
+Net book value
+$
+$
+$
+Production equipment
+1,179
+( 1,022
+)
+157
+1,179
+( 1,022
+)
+157
+During the three months ended June 30, 2022, the Corporation reclassed the following assets from assets held for sale as they no longer met the criteria of such classification.
+Cost, net of impairment
+Accumulated depreciation
+Net book value reclassed from held for sale
+$
+$
+$
+Furniture and office equipment
+17
+( 5
+)
+12
+Computer equipment
+94
+( 6
+)
+88
+Laboratory equipment
+585
+( 435
+)
+150
+696
+( 446
+)
+250
+Furthermore, depreciation expense of $ 167
+was recognized related to the period from the date that the assets were classified as held for sale until the quarter ended June 30, 2022. The recla ssification from held for sale to equipment was reflected on the comparative balance sheet.
+15
+7. Capital and other components of equity   (a) “At-the-market ”
+sales agreement   On June 29, 2020, the Corporation entered into an amended and restated sales agreement (the “Sales Agreement”) with B. Riley FBR, Inc. ("B.Riley"), Oppenheimer & Co. Inc. and H.C. Wainwright & Co., LLC (collectively, the “Agents”) to amend the existing ATM program. Under the terms of the Sales Agreement, which has a three-year term, the Corporation may issue and sell from time-to-time common shares having aggregate gross proceeds of up to $ 75,000,000
+through the Agents. Subject to the terms and conditions of the Sales Agreement, the Agents will use their commercially reasonable efforts to sell the common shares from time to time, based upon the Corporation’s instructions. The Corporation has
+no
+obligation to sell any of the common shares and may at any time suspend sales under the Sales Agreement. The Corporation and the Agents may terminate the Sales Agreement in accordance with its terms. Under the terms of the Sales Agreement, the Corporation has provided the Agents with customary indemnification rights and the Agents will be entitled to compensation at a commission rate equal to
+3.0 % of the gross proceeds from each sale of the common shares.
+On November 10, 2021, the Corporation filed a prospectus supplement relating to its at-the-market program with B. Riley, Oppenheimer & Co. Inc. and H.C. Wainwright & Co., LLC acting as agents. Under the terms of the ATM Sales Agreement and the prospectus supplement, the Corporation may issue and sell from time-to-time common shares having aggregate gross proceeds of up to $ 75,000,000
+through the agents. The common shares will be distributed at market prices prevailing at the time of the sale and, as a result, prices may vary between purchasers and during the period of distribution. The volume and timing of sales under the ATM program, if any, will b e determined at the sole discretion of the Corporation’s board of directors and management. Costs incurred relating to prospectus supplement were $ 198
+and are included in General and administrative expenses during the three-and nine-months ending December 31, 2021.
+During the nine months ended December 31, 2022 ,
+324,648
+common shares were sold for total gross proceeds of approximately $ 314
+with commissions, legal expenses and costs related to the share sale amounting to $ 10 . The common shares were sold at the prevailing market prices, which resulted in an average price of approximately $ 0.95
+per share. During the
+three and nine months ended December 31, 2021 ,
+no
+common shares were sold under the ATM program.   (b) Warrants   The outstanding warrants of the Corporation are composed of the following as at
+December 31, 2022, and March 31, 2022:
+December 31, 2022
+March 31, 2022
+Number outstanding
+Amount
+Number outstanding
+Amount
+$
+$
+Liability
+May 2018 Canadian public offering warrants (i)
+824,218
+—
+824,218
+10
+December 2017 U.S. public offering warrants (ii)
+—
+—
+884,120
+—
+824,218
+—
+1,708,338
+10
+Equity
+December 2017 US public offering broker warrants (iii)
+—
+—
+32,390
+161
+—
+—
+32,390
+161
+(i)
+Warrants to acquire
+one
+common share at an exercise price of CAD $ 10.48 , expiring on May 9, 2023.
+(ii)
+Warrants to acquire
+one
+common share at an exercise price of $ 10.08 , expired on December 27, 2022. (iii)
+Warrants to acquire
+one
+common share at an exercise price of $ 10.10 , expired on December 19, 2022.
+16
+8. Government assistance
+Government assistance is comprised of a government grant from the Canadian federal government and research and development investment tax credits receivable from the Québec provincial government, which relate to qualifiable research and development expenditures under the applicable tax laws. The amounts recorded as receivables are subject to a government tax audit and the final amounts received may differ from those recorded. For the nine months ended December 31, 2022 and 2021 , the Corporation recorded $ 196
+and $ 184 , respectivel y, as a reduction of research and development expenses in the Statement of Loss and Comprehensive Loss.
+9. Net financial income
+Three months ended
+Nine months ended
+December 31, 2022
+December 31, 2021
+December 31, 2022
+December 31, 2021
+$
+$
+$
+$
+Foreign exchange gain (loss)
+15
+( 172
+)
+( 75
+)
+172
+Change in fair value of warrant liabilities
+—
+828
+10
+4,908
+Interest income and bank charges
+64
+40
+59
+191
+Other income
+3
+—
+75
+—
+Financial income (expenses)
+82
+696
+69
+5,271
+10. Stock-based compensation:   At December 31, 2022, the Corporation has in place a stock option plan for directors, officers, employees, and consultants of the Corporation (“Stock Option Plan”). An amendment of the Stock Option Plan was approved by shareholders on September 28, 2022. The amendment provides for an increase to the existing limits for common shares reserved for issuance under the Stock Option Plan.
+The Stock Option Plan continues to provide for the granting of options to purchase common shares. The exercise price of the stock options granted under this amended plan is not lower than the closing price of the common shares on the TSXV at the close of markets the day preceding the grant. The maximum number of common shares that may be issued upon exercise of options granted under the amended Stock Option Plan shall not exceed 20% of the aggregate number of issued and outstanding shares of the Corporation as of July 28, 2022. The terms and conditions for acquiring and exercising options are set by the Corporation’s Board of Directors, subject among others, to the following limitations: the term of the options cannot exceed
+ten years
+and (i) all options granted to a director will be vested evenly on a monthly basis over a period of at least twelve (12) months, and (ii) all options granted to an employee will be vested evenly on a quarterly basis over a period of at least thirty-six (36) months.
+The total number of shares issued to any one consultant within any twelve-month period cannot exceed
+2 % of the Corporation’s total issued and outstanding shares (on a non-diluted basis). The Corporation is not authorized to grant within any twelve-month period such number of options under the Stock Option Plan that could result in a number of common shares issuable pursuant to options granted to (a) related persons exceeding
+2 % of the Corporation’s issued and outstanding common shares (on a non-diluted basis) on the date an option is granted, or (b) any one eligible person in a twelve-month period exceeding
+2 % of the Corporation’s issued and outstanding common shares (on a non-diluted basis) on the date an option is granted.
+The following table summarizes information about activities within the Stock Option Plan for the nine month period ended:
+December 31, 2022
+December 31, 2021
+Weighted average exercise price
+Number of options
+Weighted average exercise price
+Number of options
+CAD $
+CAD $
+Outstanding at beginning of period
+3.94
+2,989,381
+8.33
+911,871
+Granted
+1.10
+1,482,500
+2.05
+2,077,900
+Exercised
+—
+—
+—
+—
+Forfeited
+7.66
+( 22,263
+)
+10.39
+( 7,995
+)
+Expired
+37.06
+( 3,774
+)
+—
+—
+Outstanding at end of period
+2.94
+4,445,844
+3.95
+2,981,776
+Exercisable at end of period
+4.65
+1,957,215
+8.84
+761,563
+The fair value of options granted was estimated using the Black-Scholes option pricing model, resulting in the following weighted average assumptions for the options granted:   17
+Nine months ended
+December 31, 2022
+$
+Exercise price
+CAD $
+1.10
+Share price
+CAD $
+1.10
+Weighted average grant-date fair value per award
+CAD $
+0.94
+Volatility
+117.56
+%
+Risk-free interest rate
+3.27
+%
+Expected life
+5.73
+Dividend
+—
+No
+options were granted during the three month period ended December 31, 2022.
+Stock-based compensation payment transactions
+The fair value of stock-based compensation transactions is measured using the Black-Scholes option pricing model. Measurement inputs include share price on measurement date, exercise price of the instrument, expected volatility (based on weighted average historic volatility for a duration equal to the estimated weighted average life of the instruments, life based on the average of the vesting and contractual periods for employee awards as minimal prior exercises of options in which to establish historical exercise experience; and contractual life for broker warrants), and the risk-free interest rate (based on government bonds). Service and performance conditions attached to the transactions, if any, are not taken into account in determining fair value. The expected life of the stock options is not necessarily indicative of exercise patterns that may occur. The expected volatility reflects the assumption that the historical volatility over a period similar to the life of the options is indicative of future trends, which may also not necessarily be the actual outcome.   Compensation expense recognized under the Stock Option Plan for the
+nine months ended December 31, 2022 and 2021 was as follows:
+Three months ended
+Nine months ended
+December 31, 2022
+December 31, 2021
+December 31, 2022
+December 31, 2021
+$
+$
+$
+$
+Research and development expenses
+139
+154
+481
+242
+General and administrative expenses
+280
+281
+930
+460
+Sales and marketing expenses
+24
+19
+78
+19
+443
+454
+1,489
+721
+1 1. Supplemental cash flow disclosure
+(a) Changes in non-cash operating items
+Nine months ended
+December 31, 2022
+December 31, 2021
+$
+$
+Receivables
+( 268
+)
+292
+Prepaid expenses
+( 382
+)
+( 1,507
+)
+Trade and other payables
+478
+( 2,603
+)
+( 172
+)
+( 3,818
+)
+12. Commitments and contingencies
+Research and development contracts and contract research organizations agreements   We utilize contract manufacturing organizations, for the development and production of clinical materials and contract research organizations to perform services related to our clinical trials. Pursuant to the agreements with these contract manufacturing organizations and contract research organizations, we have either the right to terminate the agreements without penalties or under certain penalty conditions.
+18
+Supply contract   On October 25, 2019, the Corporation signed a supply agreement with Aker Biomarine Antarctic. (“Aker”) to purchase raw krill oil product for a committed volume of commercial starting material for CaPre for a total fixed value of $ 3.1
+million. As at
+December 31, 2022 , the remaining balance of the commitment with Aker amounts to $ 2.8
+million. During the second calendar quarter of 2022, Aker informed the Corporation that Aker believed it had satisfied the terms of the supply agreement as to their ability to deliver the remaining balance of krill oil product, and that the Corporation was therefore required to accept the remaining product commitment and to pay Aker the $2.8 million balance. The Corporation disagrees with Aker’s position and believes that Aker is not entitled to further payment under the supply agreement.
+Accordingly, no liability has been recorded. The dispute was unresolved as of
+December 31, 2022, and remains unresolved. There is uncertainty as to whether the Corporation will be required to make further payment to Aker in connection with the dispute. Additionally, in the event the Corporation is required to accept delivery from Aker of the remaining balance of krill oil product under the supply agreement, there is uncertainty as to whether the Corporation can recover value from the product, which may result in the Corporation incurring a loss on the supply agreement in the near term.
+Legal proceedings and disputes   In the ordinary course of business, the Corporation is at times subject to various legal proceedings and disputes. The Corporation assesses its liabilities and contingencies in connection with outstanding legal proceedings utilizing the latest information available. Where it is probable that the Corporation will incur a loss and the amount of the loss can be reasonably estimated, the Corporation records a liability in its consolidated financial statements. These legal contingencies may be adjusted to reflect any relevant developments. Where a loss is not probable or the amount of loss is not estimable, the Corporation does not accrue legal contingencies. While the outcome of legal proceedings is inherently uncertain, based on information currently available, management believes that it has established appropriate legal reserves. Any incremental liabilities arising from pending legal proceedings are not expected to have a material adverse effect on the Corporation’s financial position, results of operations, or cash flows. However, it is possible that the ultimate resolution of these matters, if unfavorable, may be material to the Corporation’s financial position, results of operations, or cash flows. No reserves or liabilities have been accrued as at December 31, 2022.
+19
+Item 2. Management ’ s Discussion and Analysis of Financ ial Condition and Results of Operation
+This management’s discussion and analysis (“MD&A”) is presented in order to provide the reader with an overview of the financial results and changes to our balance sheet as at December 31, 2022, and for the three and nine month period then ended. This MD&A also explains the material variations in our results of operations, balance sheet and cash flows for the three and nine months ended December 31, 2022 and 2021.
+Market data, and certain industry data and forecasts included in this MD&A were obtained from internal corporation surveys and market research and those conducted by third parties hired by us, publicly available information, reports of governmental agencies and industry publications, and independent third-party surveys. We have relied upon industry publications as our primary sources for third-party industry data and forecasts. Industry surveys, publications and forecasts generally state that the information they contain has been obtained from sources believed to be reliable, but that the accuracy and completeness of that information is not guaranteed. We have not independently verified any of the data from third-party sources or the underlying economic assumptions they have made. Similarly, internal surveys, industry forecasts and market research, which we believe to be reliable based upon our management’s or contracted third parties’ knowledge of our industry, have not been independently verified. Our estimates involve risks and uncertainties, including assumptions that may prove not to be accurate, and these estimates and certain industry data are subject to change based on various factors, including those discussed in this quarterly report and in our most recently filed annual report on Form 10-K.
+This MD&A, approved by the Board of Directors on February 14, 2023 should be read in conjunction with our unaudited condensed consolidated interim financial statements for the three and nine months ended December 31, 2022 and 2021 included elsewhere in this quarterly report. Our interim financial statements were prepared in accordance with U.S. GAAP.
+All amounts appearing in this MD&A for the period-by-period discussions are in thousands of U.S. dollars, except share and per share amounts or unless otherwise indicated.
+Business Overview
+On August 27, 2021, we completed our acquisition of Grace via a merger following the approval of Acasti’s shareholders and Grace’s stockholders. Following completion of the merger, Grace became a wholly owned subsidiary of Acasti and was renamed Acasti Pharma U.S. Inc.
+The successful completion of the merger positions Acasti as a premier, late-stage specialty pharmaceutical company with now two Phase 3 ready drug candidates, and additional products in the clinical and preclinical pipeline. We are focused on developing and commercializing products for rare and orphan diseases that have the potential to improve clinical outcomes by using the Company’s novel drug delivery technologies. We seek to apply new proprietary formulations to approved and marketed pharmaceutical compounds to achieve enhanced efficacy, faster onset of action, reduced side effects, and more convenient drug delivery and increased patient compliance; all of which could result in improved patient outcomes. The active pharmaceutical ingredients used in the drug candidates under development by Acasti may be already approved in a target indication or could be repurposed for use in new indications.
+The existing well understood efficacy and safety profiles of these marketed compounds provides the opportunity for us to utilize the Section 505(b)(2) regulatory pathway under the Federal Food, Drug and Cosmetic Act (the “FFDCA”) for the development of our reformulated versions of these drugs, and therefore may provide a potentially shorter path to regulatory approval. Under Section 505(b)(2), if sufficient support of a product’s safety and efficacy either through previous FDA experience or sufficiently within the scientific literature can be established, it may eliminate the need to conduct some of the preclinical and clinical studies that new drug candidates might otherwise require.
+In connection with the merger, we acquired Grace’s entire therapeutic pipeline, which has the potential to address critical unmet medical needs for the treatment of rare and orphan diseases. The pipeline consists of three unique clinical stage and multiple pre-clinical stage assets supported by an intellectual property portfolio of more than 40 granted and pending patents in various jurisdictions worldwide. These drug candidates aim to improve clinical outcomes by applying proprietary formulation and drug delivery technologies to existing pharmaceutical compounds to achieve improvements over the current standard of care, or to provide treatment for diseases with no currently approved therapies.
+Rare disorders represent an attractive area for drug development, and there remains an opportunity for Acasti to utilize already approved drugs that have established safety profiles and clinical experience to potentially address significant unmet medical needs. A key advantage of pursuing therapies for rare disorders is the potential to receive orphan drug designation (“ODD”) from the FDA. Acasti's first three drug candidates currently in clinical development have received ODD status, provided certain conditions are met at NDA approval. ODD provides for seven years of marketing exclusivity in the United States post-launch, provided certain conditions are met, and the potential for faster regulatory review. ODD status can also result in tax credits of up to 50% of clinical development costs conducted in the United States upon market approval and a waiver of the new drug application (NDA) fees, which can translate into savings of $1 - $2 million. Developing drugs for rare diseases can often allow for clinical trials that are more manageably scaled and may require a smaller, more targeted commercial infrastructure.
+The specific diseases targeted for drug development by Acasti are well understood although these patient populations may remain poorly served by available therapies or in some cases approved therapies do not yet exist. We aim to effectively treat debilitating symptoms that result from these underlying diseases.
+20
+Our three most advanced programs are:
+• GTX-104, an IV formulation of nimodipine designed to treat Subarachnoid Hemorrhage (“SAH”), a rare brain disorder for which we have completed multiple pharmacokinetic (“PK”) studies, including a successful PK bridging study recently completed in May 2022. SAH is a central nervous system condition that causes acute bleeding on the surface of the brain as the result of a ruptured aneurysm and requires immediate medical attention to prevent long-term disability or death. GTX-104 could be administered to improve the management of hypotension and reduce the incidence of vasospasm in SAH patients and potentially lead to better patient outcomes.
+• GTX-102, an oral-mucosal betamethasone spray for the treatment of Ataxia Telangiectasia (“A-T”), a complex orphan pediatric genetic neurodegenerative disorder usually diagnosed in young children, for which no FDA approved treatment currently exists.
+• GTX-101, a topical bioadhesive film-forming bupivacaine spray for Postherpetic Neuralgia (“PHN”), which can be persistent and often causes debilitating pain following infection by the shingles virus. We believe that GTX-101 could be administered to patients with PHN to treat pain associated with the disease.
+Our management team possesses significant experience in drug formulation and drug delivery research and development, clinical and pharmaceutical development and manufacturing, regulatory affairs, and business development, as well as being well-versed in late-stage drug development and commercialization. Prior to joining Acasti, the Acasti team has been collectively involved in the development and approval of numerous successfully marketed drugs, including TORADOL™, NAPROSYN™, ANDROGEL™, SUBSYS™, MARINOL™, KEPPRA XR™, CLARITIN®, EUFLEX®, EFFEXOR®, SONATA®, ATIVAN®, RD-HEPARIN®, RAPAMUNE®, ETODOLAC, ARICEPT®, CARDIZEM®, DEFLAZACORT®, AND MACIMORELIN®.
+The table below summarizes planned key fiscal 2023 milestones for our three clinical drug candidates:
+GTX-104 Overview
+Nimodipine was granted FDA approval in 1988, and is the only approved drug that has been clinically shown to improve neurological outcomes in SAH. It is only available in the United States as a generic oral capsule and as a branded oral liquid solution called NYMALIZE™, which is manufactured and sold by Arbor Pharmaceuticals (acquired in September 2021 by Azurity Pharmaceuticals). Nimodipine has poor water solubility and high permeability characteristics as a result of its high lipophilicity. Additionally, orally administered nimodipine has dose-limiting side-effects such as hypotension, poor absorption and low bioavailability resulting from high first-pass metabolism, and a narrow administration window as food effects lower bioavailability significantly. Due to these issues, blood levels of orally administered nimodipine can be highly variable, making it difficult to manage blood pressure in SAH patients. Nimodipine capsules are also difficult to administer, particularly to unconscious patients or those with impaired ability to swallow. Concomitant use with CYP3A inhibitors is contraindicated (NIMODIPINE Capsule PI).
+NIMOTOP™ is an injectable form of nimodipine that is manufactured by Bayer Healthcare. It is approved in Europe and in other regulated markets (but not in the United States). It has limited utility for SAH patients because of its high organic solvent content, namely 23.7% ethanol and 17% polyethylene glycol 400 (NIMOTOP SmPC).
+• GTX-104 is a clinical stage, novel formulation of nimodipine for IV infusion in SAH patients. It uses surfactant micelles as the drug carrier to solubilize nimodipine. This unique nimodipine injectable formulation is composed of a nimodipine base, an effective amount of polysorbate 80, a non-ionic hydrophilic surfactant, and a pharmaceutically acceptable carrier for injection. GTX-104 is supplied as an aqueous concentrate that upon dilution with saline, dextrose or lactated ringer, is a ready-to-use infusion solution, which is stable and clear.
+21
+Key Potential Benefits:
+• Novel nanoparticle technology facilitates aqueous formulation of insoluble nimodipine for a safe, standard peripheral IV infusion:
+• Potential for better control of blood pressure and improved management of hypotension
+• 100% bioavailability
+• Eliminates food effects that impact the absorption of the oral form of nimodipine
+• Lower inter and intra-subject variability as compared to oral nimodipine
+GTX-104 could provide a more convenient mode of administration as compared to generic nimodipine capsules or NYMALIZE™ GTX-104 is administered as an initial bolus followed by a continuous infusion as compared to oral administration via a nasogastric tube in unconscious patients every two to four hours for both nimodipine capsules and NYMALIZE™ solution. Therefore, GTX-104 could be considered as a major contribution to patient care by potentially reducing the dosing frequency, and the associated nursing burden. More convenient continuous, and more consistent dosing can also reduce the risk of medication errors. In addition, two PK studies have shown that GTX-104 has the potential to provide improved bioavailability and lower intra-subject variability compared to oral administration (see charts below). Because of its IV formulation, we also expect GTX-104 to reduce certain drug-drug interactions and food effects.
+Despite the positive impact it has on recovery, physicians often must discontinue their patients on oral nimodipine, primarily as a result of hypotensive episodes that cannot be controlled by titrating the oral form of drug. Such discontinuation could potentially be avoided by administering GTX-104, which because of its IV administration, may obviate the complexity that results from the need for careful attention to the timing of nimodipine administration at least one hour before or two hours after a meal. Administration of GTX-104 via a peripheral vein is often much more comfortable for the patients compared to administration by central venous access (as is the case for NIMOTOP TM ), which can often be a difficult, invasive and more risky procedure. Also, unconscious patients will likely receive more consistent concentrations of nimodipine when delivered via the IV route as compared to oral gavage or a nasogastric tube. More consistent dosing is expected to result in a reduction of vasospasm and a better, more consistent management of hypotension. As summarized in the table below, we also anticipate reduced use of rescue therapies, such as vasopressors, and expensive hospital resources, such as the angiography suite, are possible by more effectively managing blood pressure with GTX-104. Reduced incidences of vasospasm could result in shorter length of stay and better outcomes.
+22
+About Subarachnoid Hemorrhage (SAH)
+SAH is bleeding over the surface of the brain in the subarachnoid space between the brain and the skull, which contains blood vessels that supply the brain. A primary cause of such bleeding is rupture of an aneurysm. The result is a relatively uncommon type of stroke that accounts for about 5% of all strokes and has an incidence of six per 100,000 person years (Becske, 2018).
+In contrast to more common types of stroke in elderly individuals, SAH often occurs at a relatively young age, with approximately half the affected patients younger than 60 years old (Becske, 2018). Approximately 10% to 15% of aneurysmal SAH (“aSAH”) patients die before reaching the hospital (Rinkel, 2016), and those who survive the initial hours post hemorrhage are admitted or transferred to tertiary care centers with high risk of complications, including rebleeding and delayed cerebral ischemia (“DCI”). Systemic manifestations affecting cardiovascular, pulmonary, and renal function are common and often complicate management of DCI. Approximately 70% of aSAH patients experience death or a permanent dependence on family members, and half die within one month after the hemorrhage. Of those who survive the initial month, half remain permanently dependent on a caregiver to maintain daily living (Becske, 2018).
+23
+We estimate that approximately 50,000 individuals experience aSAH each year in the US based on third party market research. The total addressable market for SAH is approximately $300 million in the U.S. There are an estimated 150,000 aSAH patients each year in China and approximately 55,000 patients in the European Union based on annual inpatient admissions and the average length-of-stay.
+GTX-104 Near Term Milestones: Conduct Phase 3 Safety Study
+In September 2021, we initiated our pivotal PK bridging study to evaluate the relative bioavailability of GTX-104 compared to currently marketed oral nimodipine capsules in approximately 50 healthy subjects.
+The PK study was the next required step in our proposed 505(b)(2) regulatory pathway for GTX-104.
+Final results from this pivotal PK study were reported on May 18, 2022, and showed that the bioavailability of GTX-104 compared favorably with the oral formulation of nimodipine in all subjects, and no serious adverse events were observed for GTX-104.
+All three endpoints indicated that statistically there was no difference in exposures between GTX-104 and oral nimodipine over the defined time periods for both maximum exposure and total exposure. Plasma concentrations obtained following IV administration showed significantly less variability between subjects as compared to oral administration of capsules, since IV administration is not as sensitive to some of the physiological processes that affect oral administration, such as taking the drug with and without meals, variable gastrointestinal transit time, variable drug uptake from the gastrointestinal tract into the systemic circulation, and variable hepatic blood flow and hepatic first pass metabolism. Previous studies have shown these processes significantly affect the oral bioavailability of nimodipine, and therefore cause oral administration to be prone to larger inter- and intra-subject variability.
+The bioavailability of oral nimodipine capsules observed was only 8% compared to 100% for GTX-104. Consequently, about one-twelfth the amount of nimodipine is delivered with GTX-104 to achieve the same blood levels as with the oral capsules.
+No serious adverse events and no adverse events leading to withdrawal were reported during the study.
+Next Steps – Initiate Phase 3 Safety Study for GTX-104
+Acasti developed a population PK (popPK) model using the data from our GTX-104-001 and GTX-104-002 studies to derive the final dosing regimen for our Phase 3 safety study. We refined the model using covariates from aSAH patients from data found in the literature, including age, weight, circadian cycle and food effect. Based on this model, we are recommending a dosing regimen for GTX-104 of a 3.6mg initial bolus followed by a continuous infusion at the rate of 1.2mg/hr (see chart below).
+We submitted our dosing recommendations to the FDA along with this popPK data and the final PK bridging study report, and we requested a Type C meeting to get the agency’s guidance on our proposed phase 3 study design. The FDA has now granted us this meeting, and we expect to receive their
+clarifying guidance in the first calendar quarter of 2023. If it is favorable, we anticipate that this FDA feedback should allow us to proceed with the
+initiation of the Phase 3 Safety Study, recruit the clinical sites, and enroll the first patient. The study is expected to take about 18 months to complete from the time the first patient is enrolled, and we expect this safety study to be the final clinical step required to seek approval under the 505(b)(2) regulatory pathway. Before submitting a New Drug Application, Acasti plans to hold a pre-NDA meeting with the FDA to enhance the likelihood of market approval.
+GTX-102 Overview
+GTX-102 is a novel, concentrated oral-mucosal spray of betamethasone intended to improve neurological symptoms of Ataxia Telangiectasia (“A-T”) for which there are currently no FDA-approved therapies. GTX-102 is a stable, concentrated oral spray formulation comprised of the gluco-corticosteroid betamethasone that together with other excipients can be sprayed conveniently over the tongue of the A-T patient and is rapidly absorbed.
+24
+About Ataxia Telangiectasia
+A-T is a rare genetic progressive autosomal recessive neurodegenerative disorder that affects children, with the hallmark symptoms of cerebellar ataxia and other motor dysfunction, and dilated blood vessels (telangiectasia) that occur in the sclera of the eyes. A-T is caused by mutations in the ataxia telangiectasia gene, which is responsible for modulating cellular response to stress, including breaks in the double strands of DNA.
+Children with A-T begin to experience balance and coordination problems when they begin to walk (toddler age), and ultimately become wheelchair-bound in their second decade of life. In pre-adolescence (between ages 5 and 8), patients experience oculomotor apraxia, dysarthria, and dysphagia. They also often develop compromised immune systems and are at increased risk of developing respiratory tract infections and cancer (typically lymphomas and leukemia) (U.S. National Cancer Institute A-T, 2015).
+A-T is diagnosed through a combination of clinical assessment (especially neurologic and oculomotor deficits), laboratory analysis, and genetic testing. There is no known treatment to slow disease progression, and treatments that are used are strictly aimed at controlling the symptoms (e.g., physical, occupational or speech therapy for neurologic issues), or conditions secondary to the disease (e.g., antibiotics for lung infections, chemotherapy for cancer, etc.) (U.S. National Cancer Institute A-T, 2015). There are no FDA-approved therapeutic options currently available. Patients typically die by age 25 from complications of lung disease or cancer. According to a third-party report commissioned by Acasti Pharma US, A-T affects approximately 4,300 patients per year in the United States and has a potential total addressable market of $150 million, based on the number of treatable patients in the United States.
+GTX-102 - R&D and Clinical Studies to Date
+In a multicenter, double-blind, randomized, placebo-controlled crossover trial conducted in Italy, Zannolli et al. studied the effect of an oral liquid solution of betamethasone on the reduction of ataxia symptoms in 13 children (between ages 2 to 8 years) with A-T. The primary outcome measure was the reduction in ataxia symptoms as assessed by the International Cooperative Ataxia Rating Scale (“ICARS”).
+In the trial, oral liquid betamethasone reduced the ICARS total score by a median of 13 points in the intent-to-treat (“ITT”) population and 16 points in the per-protocol (“PP”) population (the median percent decreases of ataxia symptoms of 28% and 31%, respectively). Adverse events in the trial were minimal, with no compulsory withdrawals and only minor side effects that did not require medical intervention. Clinical study results in A-T patients administered oral betamethasone indicated that betamethasone significantly reduced ICARS total score relative to placebo (P = 0.01). The median ICARS change score (change in score with betamethasone minus change in score with placebo) was -13 points (95% confidence interval for the difference in medians was -19 to -5.5 points).
+Based on the Zannolli data, we believe that our GTX-102 concentrated oral spray has the potential to provide clinical benefits in decreasing A-T symptoms, including assessments of posture and gait disturbance and kinetic, speech and oculomotor functions. In addition, GTX-102 may ease drug administration for patients experiencing A-T given its application of 1-3x/day of 140µL of concentrated betamethasone liquid sprayed onto the tongue using a more convenient metered dose delivery system, as these A-T patients typically have difficulty swallowing (lefton-greif 2000).
+25
+GTX-102 PK Data to Date:
+GTX-102 administered as a concentrated oral spray achieves similar blood levels at only 1/70th the volume of an oral solution of betamethasone. This more convenient mode of administration will be important for A-T patients who have difficulties swallowing large volumes of liquids.
+GTX-102 Near-Term Milestones: Conduct PK Bridging and Confirmatory Phase 3 Clinical Trials
+Acasti Pharma US has licensed the data from the multicenter, double-blinded, randomized, placebo-controlled crossover trial from Azienda Ospedaliera Universitaria Senese, Siena, Italy, where Dr. Zannolli et. al. studied the effect of oral liquid solution of betamethasone to reduce ataxia symptoms in patients with A-T. Note that this oral liquid solution is not marketed in the United States, and therefore is not available for clinical use; currently, betamethasone is only available in the United States as an injectable or as a topical cream. This license gives Acasti Pharma US the right to reference the study’s data in its NDA filing. On November 12, 2015, Acasti Pharma US submitted the data from the Zannolli study to the FDA’s Division of Neurology at a pre-Investigational New Drug (“IND”) meeting and received guidance from the agency on the regulatory requirements to seek approval.
+We initiated a PK bridging study of our proprietary concentrated oral spray as compared to the oral liquid solution of betamethasone used in the Zannolli study and against the injectable form of betamethasone that is approved in the U.S. in the third calendar quarter of 2022. The primary objectives of the PK bridging study were to evaluate the bioavailability, pharmacokinetics and safety of GTX-102. On December 28, 2022, we reported that the topline results of this study met all primary outcome measures.
+Results showed that GTX-102 betamethasone blood concentrations were highly predictable and consistent based on AUC (the area under the concentration time curve up to 72 hours post-dose, extrapolated to infinity) and Cmax (the maximum concentration occuring between 0 hour to 72 hours after study drug administration), indicating good linearity and dose-proportionality. GTX-102 betamethasone blood concentrations were within the same range of exposure as IM betamethasone, based on AUC. This IM formulation will serve as a bridge for GTX-102 in the context of the proposed 505(b)(2) regulatory pathway. GTX-102 betamethasone blood concentrations were also within the same range of exposure as Oral Solution (OS), based on AUC. This OS formulation was used by Zannolli and may serve as a clinical comparator for further clinical development. Furthermore, statistically there was no significant difference (p>0.05) between GTX-102 administered at a fast rate (each spray immediately following the preceding one) vs. a slow rate (1 spray/minute), as indicated by Cmax and AUC. We believe this result is important because being able to use the fast or the slow rate of administration may provide greater flexibility for patients and caregivers. The Cmax of GTX-102 was within the same range of exposure as the OS, but the Cmax for the IM formulation was lower than both GTX-102 and the OS, as well as what has been reported previously for the IM in industry publications. It is important to note that achieving bioequivalence with the IM was not an objective of this study, nor was it expected. Finally, of the 48 healthy adult subjects, no serious adverse events (AE) were reported, and the most frequent drug-related AE was mild headache (4 cases).
+26
+Based on this data, Acasti will work with our clinical experts and the FDA to determine the best final dosing regimen for GTX-102 to incorporate into our Phase 3 study design. Based on previous discussions with the FDA, we plan to conduct a confirmatory Phase 3 safety and efficacy trial in A-T patients, and plan to seek guidance from the FDA on the study design at a Type B meeting. The Phase 3 study is expected to be initiated in the second half of 2023. If both studies meet their primary endpoints, a Pre-NDA meeting and an NDA filing under Section 505(b)(2) would follow.
+GTX-101 Overview
+GTX-101 is a non-narcotic, topical bio-adhesive film-forming bupivacaine spray designed to ease the symptoms of patients suffering with postherpetic neuralgia (“PHN”). GTX-101 is administered via a metered-dose of bupivacaine spray and forms a thin bio-adhesive topical film on the surface of the patient’s skin, which enables a touch-free, non-greasy application. It also comes in convenient, portable 30 ml plastic bottles. Unlike oral gabapentin and lidocaine patches, we believe that the biphasic delivery mechanism of GTX-101 has the potential for rapid onset of action and continuous pain relief for up to eight hours. No skin sensitivity was reported in a Phase 1 study.
+27
+About Postherpetic Neuralgia (PHN)
+PHN is neuropathic pain due to damage caused by the varicella zoster virus (“VZV”). Infection with VZV causes two distinct clinical conditions. Primary VZV infection causes varicella (i.e., chickenpox), a contagious rash illness that typically occurs among young children. Secondary VZV can reactivate clinically, decades after initial infection, to cause herpes zoster (“HZ”), otherwise known as shingles. Acute HZ arises when dormant virus particles, persisting within an affected sensory ganglion from the earlier, primary infection with VZV become reactivated when cellular immunity to varicella decreases. Viral particles replicate and may spread to the dorsal root, into the dorsal horn of the spinal cord, and through peripheral sensory nerve fibers down to the level of the skin. Viral particles also may circulate in the blood. This reactivation is accompanied by inflammation of the skin, immune response, hemorrhage, and destruction of peripheral and central neurons and their fibers. Following such neural degeneration, distinct types of pathophysiological mechanisms involving both the central and peripheral nervous systems may give rise to the severe nerve pain associated with PHN.
+While the rash associated with HZ typically heals within two to four weeks, the pain may persist for months or even years, and this PHN manifestation is the most common and debilitating complication of HZ. There is currently no consensus definition for PHN, but it has been suggested by the Centers for Disease Control and Prevention (“CDC”) that PHN is best defined as pain lasting at least three months after resolution of the rash.
+PHN is associated with significant loss of function and reduced quality of life, particularly in the elderly. It has a detrimental effect on all aspects of a patient's quality of life. The nature of PHN pain varies from mild to severe, constant, intermittent, or triggered by trivial stimuli. Approximately half of patients with PHN describe their pain as “horrible” or “excruciating,” ranging in duration from a few minutes to constant on a daily or almost daily basis (Katz, 2004). The pain can disrupt sleep, mood, work, and activities of daily living, adversely impacting the quality of life and leading to social withdrawal and depression. PHN is the number-one cause of intractable, debilitating pain in the elderly, and has been cited as the leading cause of suicide in chronic pain patients over the age of 70 (Hess, 1990).
+Current treatment of PHN most often consists of oral gabapentin (first line) and prescription lidocaine patches or antidepressants (second line), and refractory cases may be prescribed opioids to address persistent pain. Gabapentin and opioid abuse have continued to proliferate, and lidocaine patches are suboptimal for many reasons. An independent third party market research firm commissioned by Acasti interviewed more than 250 physicians who regularly treat PHN patients, and found that approximately 40% of patients using lidocaine patches experience insufficient pain relief. Lidocaine patches are difficult to use, fall off, and look unsightly with possible skin sensitivity and irritation. Additionally, lidocaine patches can only be used for 12 hours on and then need to be removed for 12 hours before being reapplied. Prescription lidocaine patches are only approved for PHN, and the market is currently made up of both branded and generic offerings. It is estimated that PHN affects approximately 120,000 patients per year in the United States. According to a third-party report commissioned by Acasti, the total addressable market for GTX-101 could be as large as $2.5 billion, consisting of approximately $200 million for PHN pain and $2.3 billion for non-PHN pain indications.
+28
+GTX-101 R&D History and Clinical Studies Completed to Date
+To date, Acasti Pharma US has conducted four Phase I studies in healthy volunteers to assess the PK, safety and tolerability of GTX-101 and to determine the plasma levels of bupivacaine HCl administered as a single dose in various concentrations between 30 mg (three sprays) and 2100 mg (twenty sprays).
+These studies confirmed that bupivacaine delivered as a topical spray (GTX-101) is well absorbed through the skin, as demonstrated in the graph below, while very little is absorbed systemically.
+In all three studies, the administration of GTX-101 to healthy volunteers was safe and well tolerated. In addition, no evidence of skin irritation was observed at the application site following the spray administrations. The data below is from two separate studies of GTX-101 and the Lidoderm patch superimposed on each other.
+29
+GTX-101 Near-Term Milestones: Conduct Dose Ranging Phase 1 Clinical Trials of GTX-101
+We believe that the PHN pain market will continue to grow, and non-opioid products like GTX-101 that can relieve PHN pain more quickly and in a sustained manner by means of a more efficient delivery system, will be an attractive therapy option for patients and physicians. GTX-101 is administered by spraying our proprietary bupivacaine formulation over the affected area, which we believe has the potential to provide several advantages over currently marketed products such as the lidocaine patch, including faster onset of action, sustained pain relief, possibly lower dosing requirements and improved dosing convenience, all which could lead to increased patient satisfaction and compliance.
+The data from the single dose Phase 1 clinical trial for GTX-101 was submitted to the FDA’s Division of Anesthesiology and feedback was received at a pre-IND meeting on April 18, 2018, that informed the design of preclinical toxicology studies and a clinical and regulatory pathway to approval under section 505(b)(2). We completed a minipig skin sensitivity study in the second calendar quarter of 2022, and we initiated a single dose PK study in healthy human volunteers in July 2022. Topline results from this single dose PK study were reported on December 23, 2022 and the results met all primary outcome measures.
+The median Tmax (the time of maximum concentration between 0 hour and 240 hours after study drug administration) of bupivacaine in plasma following GTX-101 single-dose topical applications ranged between 18 to 24 hours depending on dose, while the median Tmax following the subcutaneous injection of 10 mg of bupivacaine was only 23 minutes. This result suggests that bupivacaine delivered by GTX-101 remains in the skin for a long period of time, potentially inducing prolonged analgesic effect in the sprayed area. The exposure to bupivacaine based on Cmax (the maximum concentration occuring at Tmax between 0 hour and 240 hours after study drug administration) and AUC (the area under the concentration time curve, extrapolated to infinity) following GTX-101 topical application as a single-dose increased with increasing dose.
+The systemic exposure to bupivacaine following a 200mg dose of GTX-101 was approximately 29-fold less than a single subcutaneous dose of 10mg of bupivacaine based on Cmax and approximately 6-fold less than a single subcutaneous dose of 10mg of bupivacaine based on AUC. We predict these lower blood levels will correspond to an increased safety margin for GTX-101 with regards to toxicity risk. Mean half-life (T half) following GTX-101 single-dose topical applications ranged between 24 to 37 hours depending on dose, suggesting a slow elimination and potentially long duration of effect, while mean Tmax following the subcutaneous injection of 10 mg of bupivacaine was only 8 hours.
+There were only two adverse events judged as related to the study drug by the investigator for each of GTX-101 and the bupivacaine subcutaneous injection. Following GTX-101 topical application: headache (1 event = 3%) and numbness (1 event = 3%) at the sprayed area following bupivacaine subcutaneous injection: dizziness (1 event = 8%) and nausea (1 event = 8%).
+Acasti plans to follow this successful PK study with a multiple ascending dose study in 2023. Results from these non-clinical and clinical studies are required before the initiation of our Phase 2 program in PHN patients.
+30
+Overall Commercialization Strategy
+We plan to retain our worldwide commercialization rights for some of our key drug candidates, while for other drug candidates we may consider collaboration opportunities to maximize market penetration and returns. If we receive regulatory approval, we expect to build a small and focused commercial organization in the United States to market and sell GTX-104 and GTX-102. We believe the patient populations and medical specialists for these indications are sufficiently concentrated to allow us to cost-effectively promote these drug products following approval for commercial sale. Given that GTX-101 will be targeted to a larger primary care and pain specialist market, if GTX-101 receives regulatory approval, we will likely seek commercial partnerships to fully exploit the market potential of this drug product.
+As our product candidates advance through the pipeline, our commercial plans may change. Clinical data, the size of the development programs, the size of the target market, the size of a commercial infrastructure and manufacturing needs may all influence our U.S., European Union, and rest-of-world strategies.
+Recent Developments
+Announcement of Preliminary Topline PK Bridging Study Results, GTX-102
+On December 28, 2022, we announced that preliminary topline results met all outcomes measures in the PK bridging study for GTX-102, our drug candidate for the treatment of A-T. The objectives of the study were to evaluate the bioavailability, pharmacokinetics, and safety of GTX-102, a novel, concentrated oral-mucosal metered spray of betamethasone in healthy volunteers. This PK study was the next step in the proposed 505(b)(2) regulatory pathway for GTX-102.
+Announcement of Preliminary Topline Single Dose PK Results, GTX-101
+On December 22, 2022, we announced that preliminary topline results met all outcomes measures in the single dose PK study for GTX-101, our drug candidate for the treatment of PHN. The PK bridging study to evaluate the relative bioavailability of GTX-101 compared to the reference listed drug in the U.S., bupivacaine subcutaneous injectable, met all primary outcome measures for the study. The final clinical study report is anticipated to be received by the Company in the first half of 2023. This PK study was the next step in our proposed 505(b)(2) regulatory pathway for GTX-101 and provides important information on the dose and dosing frequency in humans for future planned clinical studies.
+Nasdaq letter
+On July 27, 2022, we received written notification from the Nasdaq Listing Qualifications Department (“Nasdaq”) for failing to maintain a minimum bid price of $1.00 per common share for the last 30 consecutive business days, as required by Nasdaq Listing Rule 5550(a)(2) - bid price (the “Minimum Bid Price Rule”). The Nasdaq notification had no immediate effect on the listing of our common shares, and we had 180 calendar days, or until January 23, 2023, to regain compliance.
+On January 24, 2023, we received notification from NASDAQ that we are eligible for an additional 180 calendar days, or until July 24, 2023, to regain compliance with the Minimum Bid Price Rule. We were granted the second extension because we meet the continued listing requirements for the market value of publicly held shares and all other initial listing standards for NASDAQ Capital Market, except for the bid price requirement. If at any time over this additional 180 calendar day period the bid price of our common shares closes at $1.00 per share or more for at least a minimum of ten consecutive business days, Nasdaq will provide written confirmation of compliance and the matter will be closed.
+We intend to monitor the closing bid price of our common shares and, if necessary, evaluate all available options to resolve the deficiency and regain compliance with the Minimum Bid Price Rule.
+COVID-19 Update
+To date, the ongoing COVID-19 pandemic has not caused significant disruptions to our business operations and research and development activities.
+The extent to which the COVID-19 pandemic impacts our business and prospects and the timing and completion of future clinical trials for our new drug candidates will depend on future developments, which remain highly uncertain and cannot be predicted, including new information which may emerge concerning the severity of COVID-19 variants and the actions to contain the COVID-19 pandemic or treat its impact, among others.
+Basis of Presentation of the Financial Statements
+Our condensed consolidated interim financial statements, which include the accounts of our wholly owned subsidiaries, Acasti Pharma U.S., and Acasti Innovations AG, have been prepared in accordance with U.S. GAAP and the rules and regulations of the SEC related to quarterly reports filed on Form 10-Q. All intercompany transactions and balances are eliminated on consolidation.
+Our assets as at December 31, 2022, include cash and cash equivalents and short-term investments totaling $31.3 million and intangible assets and goodwill totaling $82.8 million. Our current liabilities total $3.4 million as at December 31, 2022 and are comprised primarily of amounts due to or accrued for creditors.
+31
+Comparative Financial Information for the Three and Nine months ended December 31, 2022 and 2021
+Three months ended
+Nine months ended
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+$
+$
+$
+$
+$
+$
+Net income (loss)
+(3,889
+)
+(3,778
+)
+111
+(13,342
+)
+(5,915
+)
+7,427
+Basic and diluted gain (loss) per share
+(0.09
+)
+(0.09
+)
+—
+(0.30
+)
+(0.23
+)
+0.07
+Total assets
+116,801
+114,227
+2,574
+116,801
+114,227
+2,574
+Working capital 1
+29,995
+46,100
+(16,105
+)
+29,995
+46,100
+(16,105
+)
+Total non-current financial liabilities
+430
+268
+162
+430
+268
+162
+Total shareholders’ equity
+96,720
+111,062
+(14,342
+)
+96,720
+111,062
+(14,342
+)
+1
+Working capital is calculated by subtracting current liabilities from current assets. Because there is no standard method endorsed by U.S. GAAP requirements, the results may not be comparable to similar measurements presented by other public companies.
+Results of Operations for the Three and Nine months ended December 31, 2022 and 2021
+Three months ended
+Nine months ended
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+$
+$
+$
+$
+$
+$
+Operating expenses
+Research and development expenses, net of government assistance
+2,450
+2,179
+271
+8,332
+3,233
+5,099
+General and administrative expenses
+1,589
+1,808
+(219
+)
+5,187
+7,441
+(2,254
+)
+Sales and marketing expenses
+206
+238
+(32
+)
+563
+263
+300
+Impairment of Other asset and prepaid
+—
+249
+(249
+)
+—
+249
+(249
+)
+Loss from operating activities
+(4,245
+)
+(4,474
+)
+(229
+)
+(14,082
+)
+(11,186
+)
+2,896
+Financial Income (expense)
+82
+696
+(614
+)
+69
+5,271
+(5,202
+)
+Income tax recovery
+274
+—
+274
+671
+—
+671
+Net income (loss)
+(3,889
+)
+(3,778
+)
+111
+(13,342
+)
+(5,915
+)
+7,427
+Net Loss
+The net loss of $3,889 or $0.09 per share for the three months ended December 31, 2022 increased by $111 from the net loss of $3,778 or $0.09 per share for the three months ended December 31, 2021.
+The net loss of $13,342 or $0.30 per share for the nine months ended December 31, 2022, increased by $7,427 from the net loss of $5,915 or $0.23 per share for the nine months ended December 31, 2021.
+Research and development expenses
+Research and development expenses consist primarily of:
+• fees paid to external service providers such as clinical research organizations and contract manufacturing organizations related to clinical trials, including contractual obligations for clinical development, clinical sites, manufacturing and scale-up, and formulation of clinical drug supplies;
+• fees paid to contract service providers related to drug discovery efforts, including chemistry and biology services;
+• patent-related services; and
+• salaries and related expenses for personnel, including expense related to stock options.
+We record research and development expenses as incurred.
+Our research and development during the three and nine months ended December 31, 2022, was focused primarily on our clinical development programs for our GTX-104, GTX-102, and GTX-101 drug candidates. Research and development expenses during the three and nine months ended December 31, 2021 related to the completion of our TRILOGY Phase 3 clinical program for our former drug candidate, CaPre, as well as the initiation and progression of development work related to GTX 104, GTX 102 and GTX 101.
+32
+The following table summarizes our research and development expenses for the periods presented:
+Research and development expenses
+Three months
+Nine months ended
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+$
+$
+$
+$
+$
+$
+Third-party contract research expenses:
+Clinical development programs:
+GTX-104
+136
+780
+(644
+)
+575
+957
+(382
+)
+GTX-102
+696
+—
+696
+1,280
+—
+1,280
+GTX-101
+88
+148
+(60
+)
+2,331
+148
+2,183
+Other third-party contract research expenses
+241
+272
+(31
+)
+851
+458
+393
+Professional fees
+677
+51
+626
+1,210
+94
+1,116
+Other research and development costs
+60
+81
+(21
+)
+224
+144
+80
+Government grants & tax credits
+(115
+)
+(55
+)
+(60
+)
+(196
+)
+(184
+)
+(12
+)
+Total third-party research and development expenses 1
+1,783
+1,277
+506
+6,275
+1,617
+4,658
+Salaries and benefits
+522
+748
+(226
+)
+1,483
+1,374
+109
+Stock-based compensation
+139
+154
+(15
+)
+481
+242
+239
+Depreciation and write off of equipment
+6
+—
+6
+93
+—
+93
+Total
+2,450
+2,179
+271
+8,332
+3,233
+5,099
+1
+Total third-party research and development expenses is calculated before salaries and benefits, depreciation, write-off of equipment and stock-based compensation. Because there is no standard method endorsed by GAAP, the results may not be comparable to similar measurements presented by other public companies.
+Total third-party research and development expenses before salaries and benefits, depreciation, write off of equipment and stock-based compensation expenses for the three and nine months ended December 31, 2022, totaled $1,783 and $6,275, respectively compared to $1,277 and $1,617 for the three and nine months ended December 31, 2021. This increase of $506 and $4,658, respectively related mostly to the initiation of clinical development programs for GTX 104, GTX 102 and GTX 101 following the acquisition of Grace.
+Third-party contract research expenses related to GTX-104 amounted to $136 and $575, for the three and nine months ended December 31, 2022, as our PK bridging study wound down. Third party contract research expenses related to GTX-102 amounted to $696 and $1,280 for the three and nine months ended December 31, 2022, and are mostly related to the initiation of the PK bridging study and for clinical trial materials. Third party contract research expenses related to GTX-101 amounted to $88 and $2,331, for the three and nine months ended December 31, 2022 were mostly related to the planning and initiation of the Phase 1 single dose study. Other third-party contract research expenses of $851 for the nine months ended December 31, 2022 increased by $393, from $851, for the nine months ended December 31, 2021, due to increased IP legal costs to support and maintain our patents that support GTX-104, GTX-102 and GTX-101. Professional fees of $677 and $1,210 for the three and nine months ended December 31, 2022, increased by $626 and $1,116, respectively, from $51 and $94 related to increased specialized clinical and regulatory consultants supporting our clinical programs for GTX-104, GTX-102 and GTX-101.
+For the three and nine months ended December 31, 2022, total third-party research and development expenses were reduced by $115 and $196 respectively, related to government credit eligible research activities related to our clinical programs for GTX-104, GTX-102 and GTX-101.
+Salaries and benefits of $522 for the three months ended December 31, 2022, decreased by $226 compared to $748 for the three months ended December 31, 2021. The decrease relates to a reduced accrual of our employee incentive bonus program. The salaries and benefits of $1,483 for the nine months ended December 31, 2022 increased by $109 from $1,374 for the nine months ended December 31, 2021. The increase for the nine month period related to additional R&D headcount required to support three clinical stage programs.
+33
+General and administrative expenses
+General and administrative expenses consist primarily of salaries and related benefits, including share-based compensation, related to our executive, finance, legal, and support functions include professional fees for auditing, tax, consulting, rent and utilities and insurance.
+General and administrative expenses
+Three months ended
+Nine months ended
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+$
+$
+$
+$
+$
+$
+Salaries and benefits
+490
+612
+(122
+)
+1,494
+1,215
+279
+Professional fees
+406
+512
+(106
+)
+1,443
+4,656
+(3,213
+)
+Other
+393
+403
+(10
+)
+1,266
+1,110
+156
+General and administrative expense before stock-based compensation and depreciation
+1
+1,289
+1,527
+(238
+)
+4,203
+6,981
+(2,778
+)
+Stock-based compensation
+280
+281
+(1
+)
+930
+460
+470
+Depreciation
+20
+—
+20
+54
+—
+54
+Total
+1,589
+1,808
+(219
+)
+5,187
+7,441
+(2,254
+)
+1
+General and administrative sub-total expenses is calculated before stock-based compensation and depreciation. Because there is no standard method endorsed by GAAP, the results may not be comparable to similar measurements presented by other public companies.
+General and administrative expenses totaled $1,289 and $4,203 before stock-based compensation and depreciation expense for the three and nine months ended December 31, 2022, a decrease of $238 and $2,778, respectively, from $1,527 and $6,981 for the three and nine months ended December 31, 2021. The decrease in both the three and nine months periods was primarily a result of decreased legal, tax, accounting and other professional fees related to the Grace merger. The decrease in professional fees was partially offset by an increase in salaries and benefits due to the renewed accrual for our employee incentive bonus program for the nine months ended December 31, 2022.
+Sales and marketing
+Sales and marketing expenses consist primarily of salaries and benefits, including share-based compensation, related to our commercial functions.
+Sales and marketing expenses
+Three months ended
+Nine months ended
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+December 31, 2022
+December 31, 2021
+Increase (Decrease)
+$
+$
+$
+$
+$
+$
+Salaries and benefits
+109
+123
+(14
+)
+390
+148
+242
+Professional fees
+1
+18
+(17
+)
+10
+18
+(8
+)
+Other
+72
+78
+(6
+)
+85
+78
+7
+Sub-total
+182
+219
+(37
+)
+485
+244
+241
+Stock-based compensation
+24
+19
+5
+78
+19
+59
+Total
+206
+238
+(32
+)
+563
+263
+300
+1
+Sales and marketing sub-total expenses is calculated before stock-based compensation. Because there is no standard method endorsed by GAAP, the results may not be comparable to similar measurements presented by other public companies.
+Sales and marketing expenses before stock-based compensation expense totaled $485 for the nine months ended December 31, 2022 compared to $244 for the nine months ended December 31, 2021. The increase of $241, was mostly due to an increase in salaries associated with added personnel.
+Aggregate stock-based compensation expense increased by $769 to $1,489 for the nine months ended December 31, 2022 as compared to $721 for the nine months ended December 31, 2021. This increase was due to the timing of the stock options granted during the year ended March 31, 2022, and year ended March 31, 2021, as well as the new grants in the current fiscal period.
+Aggregate depreciation expense increased by $116 for the nine months ended December 31, 2022, from nil for the nine months ended December 31, 2021. This increase is due to the impact of certain equipment being reclassified from held for sale to held for use during the nine months ended December 31, 2022, resulting in additional depreciation being recognized.
+34
+Liquidity and Capital Resources
+Share capital structure
+Our authorized share capital consists of an unlimited number of Class A, Class B, Class C, Class D and Class E shares, without par value. Issued and outstanding fully paid shares, stock options, and warrants, were as follows for the periods indicated (after giving effect to our 8:1 share consolidation, which became effective on August 31, 2021):
+December 31, 2022
+March 31, 2022
+Number outstanding
+Number outstanding
+Class A shares, voting, participating and without par value
+44,612,831
+44,288,183
+Stock options granted and outstanding
+4,445,844
+2,989,381
+May 2018 Canadian public offering of warrants exercisable at CAD$10.48 until May 9, 2023
+824,218
+824,218
+December 2017 U.S. public offering of warrants exercisable at US$10.08 expired December 19, 2022
+—
+884,120
+December 2017 U.S. public offering broker warrants exercisable at US$10.10 expired December 27, 2022
+—
+32,390
+Total fully diluted shares
+49,882,893
+49,018,292
+Cash flows and financial condition for the nine months ended December 31, 2022 and 2021
+Summary
+As at December 31, 2022, cash and cash equivalents totaled $26,241, a decrease of $4,098 compared to cash and cash equivalents totaling $30,339 at March 31, 2022.
+Net cash used in operation activities
+Net cash used in operating activities for the nine months ended December 31, 2022 was $12,587, compared to $14,089 for the same period in 2021, a decrease of $1,502. Cash used in operating activities during 2022 primarily related to our net loss of $13,342, adjusted for non-cash items such as stock-based compensation of $1,489, income tax recovery of $671 and changes in our operating assets and liabilities of $172.
+Cash used in operating activities during 2021 primarily related to our net loss of $5,915, adjusted for non-cash items such as change in fair value of warrant liabilities of $4,908, unrealized foreign exchange gain of $418 and changes in our operating assets and liabilities of $3,818.
+Net cash used in investing activities
+For the nine months ended December 31, 2022, our investing activities generated cash of $8,161 compared to cash used of $3,533 for the nine months ended December 31, 2021. The increase in cash generated was a function of an increase in proceeds from maturity of short-term investments.
+Net cash used in financing activities
+Net cash provided by financing activities for the nine months ended December 31, 2022, totaled $304 compared to cash generated of nil during the nine months ended December 31, 2021 due to proceeds from the sale of common shares under our ATM program.
+ATM program
+On June 29, 2020, we entered into an amended and restated sales agreement (the “Sales Agreement”) with B. Riley, Oppenheimer & Co. Inc. and H.C. Wainwright & Co., LLC (collectively, the “Agents”). Under the terms of the Sales Agreement, which has a three-year term, we may issue and sell from time-to-time common shares having an aggregate offering price of up to $75,000,000 through the Agents. Subject to the terms and conditions of the Sales Agreement, the Agents will use their commercially reasonable efforts to sell the common shares from time to time, based upon our instructions. We have no obligation to sell any of the common shares and may at any time suspend sales under the Sales Agreement. We and the Agents may terminate the Sales Agreement in accordance with its terms. Under the terms of the Sales Agreement, we have provided the Agents with customary indemnification rights and the Agents will be entitled to compensation at a commission rate equal to 3.0% of the gross proceeds from each sale of the common shares.
+On November 10, 2021, we filed a prospectus supplement relating to our ATM program to restore available capacity to $75,000,000, with B. Riley, Oppenheimer & Co. Inc. and H.C. Wainwright & Co., LLC continuing to act as Agents. Under the terms of the Sales Agreement and the prospectus supplement, we may issue and sell from time-to-time common shares having an aggregate offering price of up to $75,000,000 through the Agents. The common shares will be distributed at market prices prevailing at the time of the sale and, as a result, prices may vary between purchasers and during the period of distribution. The volume and timing of sales under the ATM program, if any, will be determined at the sole discretion of our board of directors and management.
+During the nine months ended December 31, 2022, 324,648 common shares were sold under the ATM Program for total gross proceeds of approximately $314. The common shares were sold at the prevailing market prices, which resulted in an average price of approximately $0.95 per share.
+35
+Financial position
+The following table details the significant changes to the statements of financial position as at December 31, 2022, compared to the prior fiscal year end at March 31, 2022:
+Accounts
+Increase (Decrease) $
+Comments
+Cash and cash equivalents
+(4,098
+)
+See cash flow statement
+Investments
+(8,307
+)
+Maturity of investments
+Receivables
+230
+Timing of reimbursement of sales taxes
+Prepaid expenses
+322
+Renewal of insurance contract and other prepaid expenses (advances to US vendors)
+Right of use asset
+172
+Adjustment to the net present value of lease contract for Sherbrooke
+Equipment
+(138
+)
+Depreciation of equipment put back in use
+Trade and other payables
+204
+Timing of payments net of accruals
+Lease liability
+208
+Future obligations offset by payment of lease liability
+Derivative warrant liabilities
+(10
+)
+Change in fair value of derivative warrants
+Deferred tax liability
+(671
+)
+Related to acquisition of Grace
+See the statement of changes in equity in our financial statements for details of changes to the equity accounts during the three and nine months ended December 31, 2022 and 2021.
+Treasury Operations
+Our treasury policy is to invest cash that is not required immediately into instruments with an investment strategy based on capital preservation. Cash equivalents and marketable securities are primarily made in guaranteed investment certificates, term deposits and high-interest savings accounts, which are issued and held with Canadian chartered banks, highly rated promissory notes issued by government bodies and commercial paper. We hold cash denominated in both U.S. and CAD dollars. Funds received in U.S. dollars from equity financings are invested as per our treasury policy in U.S. dollar investments and converted to CAD dollars as appropriate to fulfill operational requirements and funding.
+Intangible Assets
+On August 27, 2021, we completed the Grace merger.
+In connection with the share-for-share noncash transaction, Grace was merged with a new wholly owned subsidiary of Acasti and became a subsidiary of Acasti. As a result, we acquired Grace’s entire therapeutic pipeline consisting of three unique clinical stage and multiple pre-clinical stage assets supported by an intellectual property portfolio consisting of various granted and pending patents in various jurisdictions worldwide. Under the terms of the acquisition, each issued and outstanding share of Grace common stock was automatically converted into the right to receive Acasti common shares equal to the equity exchange ratio set forth in the merger agreement.
+Intangible assets of $69,810 relate to the value of IPR&D, related to Grace’s therapeutic pipeline, consisting of three unique clinical stage programs/assets supported by intellectual property, the value of which has been attributed as follows:
+$
+Intangible assets – in-process research and development
+GTX-104
+27,595
+GTX-102
+31,908
+GTX-101
+10,307
+Total
+69,810
+Assets Held for Sale
+We determined to actively market for sale Other assets and Production equipment and have met the criteria for classification of assets held for sale:
+December 31, 2022
+March 31, 2022
+Reclassed as explained below
+$
+$
+Other assets (a)
+195
+195
+Production equipment (b)
+157
+157
+352
+352
+Other assets
+Other assets represent krill oil (“RKO”) held by us that was expected to be used in commercial inventory scale up related to the development and commercialization of our CaPre former drug candidate. Given that the development of CaPre will no longer be pursued by us, we expect to sell this reserve. The Other assets is being recorded at the fair value less cost to sell. Management’s estimate of the fair value of the RKO less cost to sell was based primarily on estimated market prices obtained from an appraiser specializing in the krill oil market. These projections are based on Level 3 inputs of the fair value hierarchy and reflect management’s best estimate of market participants’ pricing of the assets as well as the general condition of the asset.
+36
+Production equipment
+December 31, 2022
+Cost, net of impairment
+Accumulated depreciation
+Net book value
+$
+$
+$
+Production equipment
+1,179
+(1,022
+)
+157
+1,179
+(1,022
+)
+157
+The announcement of the discontinuation of the CaPre program resulted in an impairment trigger for the related laboratory and production equipment. The impairment loss is based on management’s estimate of the fair value of the equipment less cost to sell, which is based primarily on estimated market prices obtained from brokers specialized in selling used equipment. These projections are based on Level 3 inputs of the fair value hierarchy and reflect our best estimate of market participants’ pricing of the assets as well as the general condition of the assets.
+During the nine months ended December 31, 2022, we reclassed the following assets from assets held for sale as they no longer met the criteria of such classification.
+Cost, net of impairment
+Accumulated depreciation
+Net book value reclassed from held for sale
+$
+$
+$
+Furniture and office equipment
+17
+(5
+)
+12
+Computer equipment
+94
+(6
+)
+88
+Laboratory equipment
+585
+(435
+)
+150
+696
+(446
+)
+250
+In addition depreciation expense of $116 was recognized related to the period from the date that the assets were classified as held for sale until the end of the current period. The reclassification from held for sale to equipment was reflected on the comparative balance sheet.
+Contractual Obligations and Commitments
+Our contractual obligations and commitments include trade payables, operating lease obligations, CMO and CRO agreements, and the RKO supply agreement.
+Research and development contracts and contract research organizations agreements:
+We utilize contract manufacturing organizations, for the development and production of clinical materials and contract research organizations to perform services related to our clinical trials. Pursuant to the agreements with these contract manufacturing organizations and contract research organizations, we have either the right to terminate the agreements without penalties or under certain penalty conditions.
+RKO supply agreement
+On October 25, 2019, we signed a supply agreement with Aker Biomarine Antarctic. (“Aker”) to purchase raw krill oil product for a committed volume of commercial starting material for CaPre for a total fixed value of $3.1 million. As at December 31, 2022, the remaining balance of the commitment with Aker amounts to $2.8 million. During the second calendar quarter of 2022, Aker informed the Company that Aker believed it had satisfied the terms of the supply agreement as to their ability to deliver the remaining balance of krill oil product, and that the Company was therefore required to accept the remaining product commitment and to pay Aker the $2.8 million balance. We disagree with Aker’s position and believe that Aker is not entitled to further payment under the supply agreement. Accordingly, no liability has been recorded. The dispute was unresolved as of December 31, 2022 and remains unresolved.
+There is uncertainty as to whether the Company will be required to make further payment to Aker in connection with the dispute. Additionally, in the event the Company is required to accept delivery from Aker of the remaining balance of krill oil product under the supply agreement, there is uncertainty as to whether the Company can recover value from the product, which may result in the Company incurring a loss on the supply agreement in the near term.
+Contingencies
+We evaluate contingencies on an ongoing basis and establish loss provisions for matters in which losses are probable and the amount of the loss can be reasonably estimated.
+Use of Estimates and Measurement of Uncertainty
+The preparation of our financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, income, and expenses. Actual results may differ from these estimates.
+Estimates are based on management’s best knowledge of current events and actions that management may undertake in the future. Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimates are revised and in any future periods affected.
+37
+Estimates and assumptions include the measurement of derivative warrant liabilities, stock-based compensation, assets held for sale, valuation of intangibles acquired from Grace, goodwill and RKO supply agreement. Estimates and assumptions are also involved in measuring the accrual of services rendered with respect to research and development expenditures at each reporting date and determining which research and development expenses qualify for research and development tax credits and in what amounts. We recognize the tax credits once we have reasonable assurance that they will be realized. Recorded tax credits are subject to review and approval by tax authorities and, therefore, could be different from the amounts recorded. Estimates and assumptions are also utilized in the assessment of impairment of deferred financing costs, equipment, and intangibles.
+Critical Accounting Policies
+Valuation of Intangible Assets and Goodwill
+In a business combination, the fair value of IPR&D acquired is capitalized and accounted for as indefinite-lived intangible assets, and not amortized until the underlying project receives regulatory approval, at which point the intangible assets will be accounted for as definite-lived intangible assets or discontinued. If discontinued, the intangible assets will be written off. R&D costs incurred after the acquisition are expensed as incurred.
+Our IPR&D and Goodwill was $82.8 million as of December 31, 2022, which represents 71% of total assets. Goodwill and indefinite-lived assets are not amortized but are subject to an impairment review annually and more frequently when indicators of impairment exist. An impairment of goodwill could occur if the carrying amount of a reporting unit exceeds the fair value of that reporting unit. An impairment of indefinite-lived intangible assets would occur if the fair value of the intangible asset is less than the carrying value.
+The nature of the assumptions in the intangible asset's impairment tests are considered critical due to a high level of subjectivity and judgment necessary to account for highly uncertain matters, and the impact of the assumptions on our financial condition and our operating performance could be material.
+We test goodwill for impairment by first assessing qualitative factors to determine whether it is more likely than not that the fair value is less than its carrying amount. If we conclude it is more likely than not that fair value of the reporting unit is less than its carrying amount, a quantitative impairment test is performed. We test indefinite lived intangible assets for impairment by first assessing qualitative factors to determine whether it is more likely than not that the fair value is less than its carrying amount. Events that could result in an impairment, or trigger an interim impairment assessment, include the decision to discontinue the development of a drug, the receipt of additional clinical or nonclinical data regarding our drug candidates or a potentially competitive drug candidates, changes in the clinical development program for a drug candidate, or new information regarding potential sales for the drug candidates and increases in our weighted average cost of capital.
+If we conclude it is more likely than not that the fair value is less than its carrying amount, a quantitative impairment test is performed. We reviewed Goodwill and our IPR&D assets for impairment on the anniversary of acquisition of August 27, 2022. Our annual test date of intangibles and Goodwill is the fourth quarter. We performed a quantitative assessment of our three individual projects. The estimated fair values of identifiable intangible assets were determined using the multi-period excess earnings method, which is a valuation methodology that provides an estimate of the fair value of an asset based on market participant expectations of the cash flows an asset would generate over its remaining useful life. The projected discounted cash flow models used to estimate the fair value of assets of our IPR&D reflect significant assumptions and are Level 3 unobservable data regarding the estimates a market participant would make in order to evaluate a drug development asset, including the following:
+• Probability of clinical success of research and development and obtaining regulatory approval. This estimate was based on various publicly available studies conducted by third parties;
+• Forecasted net sales from up-front and milestone payments, royalties and product sales. Comparable market transactions were used to estimate milestone and royalty revenues. The addressable market and patient acquisition rates were estimated based on studies we commissioned a third party to conduct. The estimated sales prices of our technologies are based on competitors with similar drug products. We have made estimates related to deductions expected to be provided based on conventional commercial models to access the market; and
+• A discount rate reflecting our weighted average cost of capital and specific risk inherent in the underlying assets.
+The projected discounted cash flow model used to estimate the fair value of our reporting unit and intangible assets as of August 27, 2022 includes a significant assumption related to each project's probability of clinical success, which is reflected in the cash flows. Based on our fair value assessment, an impairment loss of the intangibles would result if the probability of success assumptions decreased more than approximately 4.3%, 1.4% and 8.5%, respectively for GTX-101, GTX-102 and GTX-104, for each year, all other assumptions remaining constant.
+The projected discounted cash flow model used to estimate the fair value of our reporting unit and the intangibles as of August 27, 2022 includes a significant assumption related to each project's projected net sales levels, which is reflected in the cash flows. Based on our fair value assessment, an impairment loss would result if the net sales assumptions decreased more than approximately 15%, 2% and 10%, respectively for GTX-101, GTX, 102 and GTX-104 for each year, all other assumptions remaining constant. We believe that the net sales assumptions developed were applied with a conservative framework such as the exclusion of addressable markets outside the United States, which markets we expect to provide revenue upside if and when GTX-101, GTX-102 and GTX-104 are approved by the FDA.
+The following table depicts as at the impairment assessment date of August 27, 2022, the discount rate used in the fair value model and the discount rate in which an impairment loss would occur.
+Discount assumption
+GTX 101
+GTX 104
+GTX 102
+Discount rate used in fair value model
+22.8%
+24.8%
+21.5%
+Discount rate that results in an impairment
+> 24%
+> 26.6%
+> 21.7%
+38
+The valuation of our IPR&D has significant measurement uncertainty given the risks and uncertainties associated with the timely and successful completion of the development and commercialization of drug candidates. We engaged a third party valuation firm to assist us with the valuation of the IPR&D and goodwill. Assumptions are difficult to make accurately and were mainly derived from life science studies, industry data, and peer company information that our management believes represent appropriate comparable data. Estimates of value are required to be discounted to account for risks related to the inherent uncertainties of the overall development and commercialization processes.
+The summation of our Goodwill and IPR&D fair values, as indicated by our discounted cash flow calculations, were compared to our consolidated fair value, as indicated by our market capitalization, to evaluate the reasonableness of our calculations. Our determination of a reasonable control premium
+that an investor would pay, over and above market capitalization for a control position, included a number of factors:
+• Market control premium; The identification of recent public market information of comparable peer acquisition transactions. The selection of comparable peer acquisition transactions is subject to judgment and uncertainty.
+• Impact of low public float and limited trading activity on market capitalization: A significant portion of our common shares are owned by a concentrated number of investors. The public float of our common shares, calculated as the percentage of common shares freely traded by public investors divided by our total shares outstanding, is significantly lower than that of our publicly traded peers. Based on our evaluation of third-party market data, we believe there is an inherent discount impacting our share price due to the low public float and limited trading volume, thus impacting our market capitalization.
+Given the limited amount by which the IPR&D fair value exceeds the carrying value, the impairment assessment is sensitive to changes in forecasted cash flows, our selected discount rates as well as the implied control premiums. Management has identified that a reasonably possible change in these assumptions could cause the carrying value to exceed fair value. Changes to our assumptions, in particular changes in technological feasibility or changes in the regulatory approval process could materially affect the estimation of the fair value and could result in impairment charges in future quarters.
+The result of our quantitative assessment as of August 27, 2022 indicated that there is no impairment. We determined there was no triggering event in the third quarter that would have required us to perform a quantitative impairment test.
+Measurement of Assets Held for Sale and RKO Supply Agreement
+Assets that are classified as held for sale are measured at the lower of their carrying amount or fair value less expected selling costs (“estimated selling price”) with a loss recognized to the extent that the carrying amount exceeds the estimated selling price. The classification is applicable at the date upon which the sale of assets is probable, and the assets are available for immediate sale in their present condition. Assets, once classified as held for sale, are not subject to depreciation or amortization and both the assets and any liabilities directly associated with the assets held for sale are classified as current in our consolidated balance sheets. Subsequent changes to the estimated selling price of assets held for sale are recorded as gains or losses to the consolidated statements of income wherein the recognition of subsequent gains is limited to the cumulative loss previously recognized.
+In addition, there is judgement and potential for loss regarding the recognition and measurement of our RKO supply agreement with Aker to purchase raw krill oil product for a committed volume of commercial starting material for CaPre for a total fixed value of $3.1 million, which is described in more detail in note 12 of our financial statements found elsewhere in this quarterly report.
+Financial Instruments
+Credit risk
+Credit risk is the risk of a loss if a customer or counterparty to a financial asset fails to meet its contractual obligations. We have credit risk relating to cash, cash equivalents and short term investments, which we manage by dealing only with highly rated financial institutions. The carrying amount of financial assets, as disclosed in the statements of financial position, represents our credit exposure at the reporting date.
+Currency risk
+We are exposed to the financial risk related to the fluctuation of foreign exchange rates and the degrees of volatility of those rates. Foreign currency risk is limited to the portion of our business transactions denominated in currencies other than our functional currency. On April 1, 2022, our functional currency was changed from the Canadian dollar to the US dollar. This change is reflected prospectively in our financial statements.
+Fluctuations related to foreign exchange rates could cause unforeseen fluctuations in our operating results.
+Since April 1, 2022, a portion of our expenses, mainly related to research contracts is incurred in Canadian dollars and in Euros, for which no financial hedging is in place.
+There is a financial risk related to the fluctuation in the value of the Canadian dollar and the Euro in relation to the U.S. dollar. In order to minimize the financial risk related to the fluctuation in the value of the Canadian dollar in relation to the U.S. dollar, certain funds continue to be invested as cash and cash equivalents and short-term investments in the Canadian dollar.
+The following table provides an indication of our significant foreign exchange currency exposures from functional currency at the following dates:
+39
+December 31, 2022
+December 31, 2021
+US $
+Euro
+CAD $
+Euro
+Cash and cash equivalents
+1,372
+—
+37,341
+—
+Investments
+15
+—
+15,055
+—
+Trade and other payables
+(679
+)
+(48
+)
+(2,015
+)
+—
+708
+(48
+)
+50,381
+—
+The following exchange rates are those applicable to the following periods and dates:
+December 31, 2022
+December 31, 2021
+Average
+Reporting
+Average
+Reporting
+US$ per CAD (2021 - CAD per US $)
+0.7368
+0.7378
+1.2493
+1.2637
+USD$ per Euro
+1.0310
+1.0705
+Based on our foreign currency exposures noted above, varying the above foreign exchange rates to reflect a 5% strengthening of the Canadian dollar and Euro would have an increase (decrease) in net loss as follows, assuming that all other variables remain constant:
+December 31, 2022
+$
+Increase (decrease) in net loss
+24
+Based on our foreign currency exposures noted above, varying the above foreign exchange rates to reflect a 5% strengthening of the U.S. dollar and Euro would have an increase (decrease) in net loss as follows, assuming that all other variables remain constant:
+December 31, 2021
+$
+Increase (decrease) in net loss
+3,183
+An assumed 5% weakening of the foreign currencies would have an equal but opposite effect on the basis that all other variables remained constant.
+Interest Rate risk
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market rates. Our exposure to interest rate risk as at December 31, 2022 and 2021 was as follows:
+Cash and cash equivalents
+Short-term fixed interest rate
+Investments
+Short-term fixed interest rate
+Our capacity to reinvest the short-term amounts with equivalent return will be impacted by variations in short-term fixed interest rates available on the market. Management believes the risk we will realize a loss as a result of the decline in the fair value of our short-term investments is limited because these investments have short-term maturities and are held to maturity.
+Liquidity risk
+Liquidity risk is the risk that we will not be able to meet our financial obligations as they fall due. We manage liquidity risk through the management of our capital structure and financial leverage. We also manage liquidity risk by continuously monitoring actual and projected cash flows. The Board of Directors reviews and approves our operating budgets and reviews material transactions outside the normal course of business.
+Our contractual obligations related to financial instruments and other obligations and liquidity resources are presented in the liquidity and capital resources of this MD&A and note 1, of our financial statements found elsewhere in this quarterly report.
+We have incurred operating losses and negative cash flows from operations in each year since our inception. We expect to incur significant expenses and continued operating losses for the foreseeable future. We expect our expenses will increase substantially in connection with our ongoing activities, particularly as we advance clinical development for our first three drug candidates in our pipeline; continue to engage contract manufacturing organizations (“CMO's”) to manufacture our clinical study materials and to ultimately develop large-scale manufacturing capabilities in preparation for commercial launch; seek regulatory approval for our drug candidates; and add personnel to support our drug product development and future drug product launch and commercialization.
+We do not expect to generate revenue from product sales unless and until we successfully complete drug development and obtain regulatory approval, which we expect will take several years and is subject to significant uncertainty. To date, we have financed our operations primarily through public offerings and private placements of our common shares, warrants and convertible debt and with the proceeds from research tax credits. Until such time that we can generate significant revenue from drug product sales, if ever, it will require additional financing, which we expect to be sourced from a combination of public or private equity or debt financing's or other non-dilutive sources, which may include fees, milestone payments and royalties from collaborations
+40
+with third parties. Arrangements with collaborators or others may require us to relinquish certain rights related to our technologies or drug product candidates. Adequate additional financing may not be available to us on acceptable terms, or at all. Our inability to raise capital as and when needed could have a negative impact on our financial condition and our ability to pursue our business strategy.
+We expect to have sufficient cash resources to satisfy our objectives into the second quarter of calendar 2024, which is 13 to 16 months from the issuance date of the financial statements included elsewhere in this quarterly report. We require additional capital to fund our daily operating needs beyond that time. We plan to raise additional capital prior to that time in order to maintain adequate liquidity. Negative results from studies, if any, and depressed prices of our stock could impact our ability to raise additional financing. Raising additional equity capital is subject to market conditions not within our control. If we do not raise additional funds in this time period, we may not be able to realize our assets and discharge our liabilities in the normal course of business.
+Future Accounting Changes
+We have considered recent accounting pronouncements and concluded that they are either not applicable to our business or that the effect is not expected to be material to our consolidated financial statements as a result of future adoption.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+A smaller reporting company is not required to provide the information required by this Item.
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures
+As of the end of the period covered by this quarterly report, our management, with the participation of our CEO and CFO, has performed an evaluation of the effectiveness of our disclosure controls and procedures within the meaning of Rules 13a-15(e) and 15d-15(e) of the Exchange Act. Based upon this evaluation, our management has concluded that, as of December 31, 2022, our existing disclosure controls and procedures were effective. It should be noted that while our CEO and CFO believe that our disclosure controls and procedures provide a reasonable level of assurance that they are effective, they do not expect the disclosure controls and procedures to be capable of preventing all errors and fraud. A control system, no matter how well conceived or operated, can provide only reasonable, but not absolute, assurance that the objectives of the control system are met.
+Changes in Internal Control over Financial Reporting
+No changes were made to our internal controls over financial reporting that occurred during the quarter ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting.
+PART II. OTHER IN FORMATION
+Item 1. Legal
+Proceedings
+In the ordinary course of business, we are at times subject to various legal proceedings and disputes. We assess our liabilities and contingencies in connection with outstanding legal proceedings utilizing the latest information available. Where it is probable that we will incur a loss and the amount of the loss can be reasonably estimated, we record a liability in our consolidated financial statements. These legal reserves may be increased or decreased to reflect any relevant developments on a quarterly basis. Where a loss is not probable or the amount of loss is not estimable, we do not accrue legal reserves. While the outcome of legal proceedings is inherently uncertain, based on information currently available and available insurance coverage, our management believes that it has established appropriate legal reserves. Any incremental liabilities arising from pending legal proceedings are not expected to have a material adverse effect on our financial position, results of operations, or cash flows. However, it is possible that the ultimate resolution of these matters, if unfavorable, may be material to our financial position, results of operations, or cash flows. We are not currently a party to any legal proceedings that, in the opinion of management, are likely to have a material adverse effect on our business.
+Item 1A. Risk F actors
+There have been no material changes from the risk factors disclosed in our most recently filed annual report on Form 10-K.
+Item 2. Unregistered Sales of Equ ity Securities and Use of Proceeds
+None.
+Item 3. Defaults up on Senior Securities
+None.
+Item 4. Mine Safe ty Disclosures
+Not applicable.
+Item 5. Other
+Information
+None.
+41
+Item 6.
+Exhibits
+Exhibit No.
+Description
+3.1
+Articles of Incorporation (incorporated by reference to Exhibit 4.1 from Form S-8 (File No. 333-191383) filed with the Commission on September 25, 2013)
+3.2
+Amended and Restated General By-Law (incorporated by reference to Exhibit 99.1 from Form 6-K (File No. 001-35776) filed with the Commission on February 21, 2017)
+3.3
+Advance Notice bylaw No. 2013-1 (incorporated by reference to Exhibit 4.3 from Form S-8 (File No. 333-191383) filed with the Commission on September 25, 2013)
+4.1
+Specimen Certificate for Common Shares of Acasti Pharma Inc. (incorporated by reference to Exhibit 2.1 from Form 20-F (File No. 001-35776) filed with the Commission on June 6, 2014)
+4.5
+Amended and Restated Warrant Indenture dated May 10, 2018, between Acasti Pharma Inc. and Computershare Trust Company of Canada (incorporated by reference to Exhibit 2.5 from Form 20-F (File No. 001-35776) filed with the Commission on June 29, 2018)
+31.1
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934
+31.2
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934
+32.1
+Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2
+Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Dated: February 14, 2023
+ACASTI PHARMA INC.
+By:
+/s/ Janelle D’Alvise
+Name: Janelle D’Alvise
+Title: President and Chief Executive Officer and Director (Principal Executive Officer)
+By:
+/s/ Brian Ford
+Name: Brian Ford
+Title: Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer)
+42

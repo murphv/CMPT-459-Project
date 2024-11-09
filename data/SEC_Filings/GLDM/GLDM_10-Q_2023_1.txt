@@ -1,0 +1,1346 @@
+2
+2
+2
+2
+0.02
+0.02
+Percentages are not annualized.
+Percentages are annualized.
+Authorized share capital is unlimited and the par value of the Shares is $0.00.
+0001618181 2022-10-01 2022-12-31
+0001618181 2023-02-08
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2023-02-08
+thunderdome:item
+iso4217:USD
+0001618181 2022-12-31
+0001618181 2022-09-30
+utr:oz
+0001618181 gldm:InvestmentInGoldMember 2022-12-31
+xbrli:pure
+0001618181 gldm:InvestmentInGoldMember 2022-09-30
+0001618181 2021-10-01 2021-12-31
+0001618181 2021-09-30
+0001618181 2021-12-31
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+xbrli:shares
+iso4217:USD xbrli:shares
+0001618181 gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2022-10-01 2022-12-31
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2021-10-01 2021-12-31
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2021-09-30
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2021-12-31
+0001618181 gldm:SPDRGoldMiniSharesTrustMember gldm:SponsorMember 2022-10-01 2022-12-31
+0001618181 gldm:SponsorMember 2022-10-01 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel1Member gldm:InvestmentInGoldMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel1Member gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel2Member gldm:InvestmentInGoldMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel2Member gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel3Member gldm:InvestmentInGoldMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel3Member gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel1Member 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel1Member gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel2Member 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel2Member gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel3Member 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel3Member gldm:SPDRGoldMiniSharesTrustMember 2022-12-31
+0001618181 us-gaap:FairValueInputsLevel1Member gldm:InvestmentInGoldMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel1Member gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel2Member gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel2Member gldm:InvestmentInGoldMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel3Member gldm:InvestmentInGoldMember gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel3Member gldm:InvestmentInGoldMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel1Member 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel1Member gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel2Member 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel2Member gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel3Member 2022-09-30
+0001618181 us-gaap:FairValueInputsLevel3Member gldm:SPDRGoldMiniSharesTrustMember 2022-09-30
+0001618181 2021-10-01 2022-09-30
+0001618181 gldm:SPDRGoldMiniSharesTrustMember 2021-10-01 2022-09-30
+utr:D
+0001618181 gldm:SPDRGoldMiniSharesTrustMember gldm:SponsorMember 2021-10-01 2022-02-22
+0001618181 gldm:SponsorMember 2021-10-01 2022-02-22
+0001618181 gldm:SPDRGoldMiniSharesTrustMember gldm:SponsorMember 2022-02-23 2022-12-31
+0001618181 gldm:SponsorMember 2022-02-23 2022-12-31
+0001618181 gldm:SPDRGoldMiniSharesTrustMember gldm:ReverseStockSplitMember gldm:SponsorMember 2022-02-23 2022-02-23
+0001618181 gldm:ReverseStockSplitMember gldm:SponsorMember 2022-02-23 2022-02-23
+0001618181 gldm:SPDRGoldMiniSharesTrustMember srt:MaximumMember 2022-10-01 2022-12-31
+0001618181 srt:MaximumMember 2022-10-01 2022-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington,   D.C. 20549
+FORM   10-Q
+☒
+Quarterly report pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934
+for the quarterly period ended  December 31, 2022
+☐
+Transition report pursuant to Section
+13 or 15(d) of the Securities Exchange Act of 1934
+for the transition period from ________ to ________
+Commission file number:
+001-37996
+WORLD GOLD TRUST
+(SPONSORED BY WGC USA ASSET MANAGEMENT COMPANY, LLC)
+(Exact Name of Registrant as Specified in Its Charter)
+Delaware
+36-7650517
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(I.R.S. Employer
+Identification No.)
+c/o   WGC USA Asset Management Company, LLC
+685 Third Avenue, Suite 2702
+New York ,
+New York
+10017
+(Address of Principal Executive Offices)
+( 212 )
+317-3800
+(Registrant ’ s Telephone Number, Including Area Code)
+Securities registered pursuant to Section   12(b) of the Act:
+Title of each class
+Trading
+Symbol(s)
+Name   of   each   exchange
+on   which   registered
+SPDR ®  Gold MiniShares ®  Trust
+GLDM ®
+NYSE
+Arca
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes   ☐     No  ☒
+As of
+February 8, 2023, SPDR
+®  Gold MiniShares
+®
+Trust had
+154,250,000
+shares outstanding.
+Table of Contents
+WORLD GOLD TRUST
+INDEX
+PART I -
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements (Unaudited)
+Combined Statements of Financial Condition of World Gold Trust at December 31, 2022 (unaudited) and September 30, 2022
+1
+Combined Schedules of Investment of World Gold Trust at December 31, 2022 (unaudited) and September 30, 2022
+2
+Unaudited Combined Statements of Operations of World Gold Trust for the three months ended December 31, 2022 and 2021
+3
+Unaudited Combined Statements of Cash Flows of World Gold Trust for the three months ended December 31, 2022 and 2021
+4
+Unaudited Combined Statements of Changes in Net Assets of World Gold Trust for the three months ended December 31, 2022 and 2021
+5
+Statements of Financial Condition of SPDR ®  Gold MiniShares ®  Trust at December 31, 2022 (unaudited) and September 30, 2022
+6
+Schedules of Investment of
+SPDR ®  Gold MiniShares ®  Trust
+at December 31, 2022 (unaudited) and September 30, 2022
+7
+Unaudited Statements of Operations of
+SPDR ®  Gold MiniShares ®  Trust
+for the three months ended December 31, 2022 and 2021
+8
+Unaudited Statements of Cash Flows of
+SPDR ®  Gold MiniShares ®  Trust
+for the three months ended December 31, 2022 and 2021
+9
+Unaudited Statements of Changes in Net Assets of
+SPDR ®  Gold MiniShares ®  Trust
+for the three months ended December 31, 2022 and 2021
+10
+Notes to the Unaudited Financial Statements
+11
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+17
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+21
+Item 4.
+Controls and Procedures
+21
+PART II -
+OTHER INFORMATION
+22
+Item 1.
+Legal Proceedings
+22
+Item 1A.
+Risk Factors
+22
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+23
+Item 3.
+Defaults Upon Senior Securities
+23
+Item 4.
+Mine Safety Disclosures
+23
+Item 5.
+Other Information
+23
+Item 6.
+Exhibits
+23
+SIGNATURES
+25
+Table of Contents
+World Gold Trust
+PART I — FINANCIAL INFORMATION:
+Item   1.
+Financial Statements (Unaudited)
+Combined Statements of Financial Condition
+At December 31, 2022 (unaudited) and September 30, 2022
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Sep-30, 2022
+(unaudited)
+ASSETS
+Investments in Gold, at fair value (cost $ 4,932,172
+and $ 4,864,730
+at December 31, 2022 and September 30, 2022, respectively)
+$ 5,158,100     $ 4,692,387
+Total Assets
+$ 5,158,100     $ 4,692,387
+LIABILITIES
+Accounts payable to Sponsor
+$ 428     $ 397
+Gold payable
+7,196       52,777
+Total Liabilities
+$ 7,624     $ 53,174
+Net Assets
+$ 5,150,476     $ 4,639,213
+See notes to the   unaudited financial statements.
+1
+Table of Contents
+World Gold Trust
+Combined Schedules of Investment
+(Amounts in 000 ’ s except for percentages)
+Ounces of
+% of
+December 31, 2022
+gold
+Cost
+Fair Value
+Net Assets
+(unaudited)
+Investment in Gold
+2,846.1     $ 4,932,172     $ 5,158,100       100.15 %
+Total Investment
+$ 4,932,172     $ 5,158,100       100.15 %
+Liabilities in excess of other assets
+( 7,624 )     ( 0.15 )%
+Net Assets
+$ 5,150,476       100.00 %
+Ounces of
+% of
+September 30, 2022
+gold
+Cost
+Fair Value
+Net Assets
+Investment in Gold
+2,806.9     $ 4,864,730     $ 4,692,387       101.15 %
+Total Investment
+$ 4,864,730     $ 4,692,387       101.15 %
+Liabilities in excess of other assets
+( 53,174 )     ( 1.15 )%
+Net Assets
+$ 4,639,213       100.00 %
+See notes to the   unaudited financial statements.
+2
+Table of Contents
+World Gold Trust
+Unaudited Combined Statements of Operations
+For the Three Months Ended December 31, 2022 and December 31, 2021
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+EXPENSES
+Sponsor fees
+$ 1,232     $ 1,957
+Total expenses
+1,232       1,957
+Net investment loss
+$ ( 1,232 )   $ ( 1,957 )
+Net realized and change in unrealized gain/(loss) on investment in gold
+Net realized gain/(loss) from investment in gold sold to pay Sponsor fees
+$ ( 9 )   $ 106
+Net realized gain/(loss) from gold distributed for the redemption of shares
+3,127       14,355
+Net change in unrealized gain/(loss) on investment in gold
+398,270       173,327
+Net realized and change in unrealized gain/(loss) on investment in gold
+$ 401,388     $ 187,788
+Net income/(loss)
+$ 400,156     $ 185,831
+See notes to the unaudited financial statements.
+3
+Table of Contents
+World Gold Trust
+Unaudited Combined Statements of Cash Flows
+For the Three Months Ended December 31, 2022 and December 31, 2021
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+INCREASE/DECREASE IN CASH FROM OPERATIONS:
+Cash proceeds received from sales of gold
+$ 1,201     $ 1,972
+Cash expenses paid
+( 1,201 )     ( 1,972 )
+Increase/(Decrease) in cash resulting from operations
+-       -
+Cash and cash equivalents at beginning of period
+-       -
+Cash and cash equivalents at end of period
+$ -     $ -
+SUPPLEMENTAL DISCLOSURE OF NON-CASH FINANCING ACTIVITIES:
+Value of gold received for creation of shares-net of change in gold receivable
+$ 488,680     $ 67,836
+Value of gold distributed for redemption of shares-net of change in gold payable
+$ 423,154     $ 285,426
+See notes to the unaudited financial statements.
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+RECONCILIATION OF NET INCOME/(LOSS) TO NET CASH PROVIDED BY OPERATING ACTIVITIES
+Net income/(loss)
+$ 400,156     $ 185,831
+Adjustments to reconcile net income/(loss) to net cash provided by operating activities:
+Proceeds from sales of gold to pay expenses
+1,201       1,972
+Net realized (gain)/loss from investment in gold sold to pay Sponsor fees
+9       ( 106 )
+Net realized (gain)/loss from gold distributed for the redemption of shares
+( 3,127 )     ( 14,355 )
+Net change in unrealized (gain)/loss on investment in gold
+( 398,270 )     ( 173,327 )
+Increase/(Decrease) in accounts payable to Sponsor
+31       ( 15 )
+Net cash provided by operating activities
+$ -     $ -
+4
+Table of Contents
+World Gold Trust
+Unaudited Combined   Statements of Changes in Net Assets
+Three Months Ended December 31, 2022 and December 31, 2021
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+Net Assets - Opening Balance
+$ 4,639,213     $ 4,387,065
+Creations
+488,680       67,836
+Redemptions
+( 377,573 )     ( 285,426 )
+Net investment loss
+( 1,232 )     ( 1,957 )
+Net realized gain/(loss) from investment in gold sold to pay Sponsor fees
+( 9 )     106
+Net realized gain/(loss) from gold distributed for the redemption of shares
+3,127       14,355
+Net change in unrealized gain/(loss) on investment in gold
+398,270       173,327
+Net Assets - Closing Balance
+$ 5,150,476     $ 4,355,306
+See notes to the unaudited financial statements.
+5
+Table of Contents
+SPDR ®
+Gold MiniShares ®
+Trust
+Statements of Financial Condition
+At December 31, 2022 (unaudited) and September 30, 2022
+(Amounts in 000 ’ s of US$ except for share and per share data)
+Dec-31, 2022
+Sep-30, 2022
+(unaudited)
+ASSETS
+Investments in Gold, at fair value (cost $ 4,932,172
+and $ 4,864,730
+at December 31, 2022 and September 30, 2022, respectively)
+$ 5,158,100     $ 4,692,387
+Total Assets
+$ 5,158,100     $ 4,692,387
+LIABILITIES
+Accounts payable to Sponsor
+$ 428     $ 397
+Gold payable
+7,196       52,777
+Total Liabilities
+$ 7,624     $ 53,174
+Net Assets
+5,150,476       4,639,213
+Shares issued and outstanding (1)
+143,150,000       139,750,000
+Net asset value per Share
+$ 35.98     $ 33.20
+(1)
+Authorized share capital is unlimited and the par value of the Shares is $ 0.00 .
+See notes to the unaudited financial statements.
+6
+Table of Contents
+SPDR ®
+Gold MiniShares ®
+Trust
+Schedules of Investment
+(Amounts in
+000 ’ s except for percentages)
+Ounces of
+December 31, 2022
+gold
+Cost
+Fair Value
+% of Net Assets
+(unaudited)
+Investment in Gold
+2,846.1     $ 4,932,172     $ 5,158,100       100.15 %
+Total Investment
+$ 4,932,172     $ 5,158,100       100.15 %
+Liabilities in excess of other assets
+( 7,624 )     ( 0.15 )%
+Net Assets
+$ 5,150,476       100.00 %
+Ounces of
+September 30, 2022
+gold
+Cost
+Fair Value
+% of Net Assets
+Investment in Gold
+2,806.9     $ 4,864,730     $ 4,692,387       101.15 %
+Total Investment
+$ 4,864,730     $ 4,692,387       101.15 %
+Liabilities in excess of other assets
+( 53,174 )     ( 1.15 )%
+Net Assets
+$ 4,639,213       100.00 %
+See notes to the unaudited financial statements.
+7
+Table of Contents
+SPDR ®
+Gold MiniShares ®
+Trust
+Unaudited Statements of Operations
+For the Three Months Ended December 31, 2022 and December 31, 2021
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$, except per share data)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+EXPENSES
+Sponsor fees
+$ 1,232     $ 1,957
+Total expenses
+1,232       1,957
+Net investment loss
+( 1,232 )     ( 1,957 )
+Net realized and change in unrealized gain/(loss) on investment in gold
+Net realized gain/(loss) from investment in gold sold to pay Sponsor fees
+$ ( 9 )   $ 106
+Net realized gain/(loss) from gold distributed for the redemption of shares
+3,127       14,355
+Net change in unrealized gain/(loss) on investment in gold
+398,270       173,327
+Net realized and change in unrealized gain/(loss) on investment in gold
+401,388       187,788
+Net income/(loss)
+$ 400,156     $ 185,831
+Net income/(loss) per share
+$ 2.81     $ 1.54
+Weighted average number of shares (in 000’s)
+142,422       120,793
+See notes to the unaudited financial statements.
+8
+Table of Contents
+SPDR ®
+Gold MiniShares ®
+Trust
+Unaudited Statements of Cash Flows
+For the three months ended December 31, 2022 and 2021
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+INCREASE/DECREASE IN CASH FROM OPERATIONS:
+Cash proceeds received from sales of gold
+$ 1,201     $ 1,972
+Cash expenses paid
+( 1,201 )     ( 1,972 )
+Increase/(Decrease) in cash resulting from operations
+-       -
+Cash and cash equivalents at beginning of period
+-       -
+Cash and cash equivalents at end of period
+$ -     $ -
+SUPPLEMENTAL DISCLOSURE OF NON-CASH FINANCING ACTIVITIES:
+Value of gold received for creation of shares-net of change in gold receivable
+$ 488,680     $ 67,836
+Value of gold distributed for redemption of shares-net of change in gold payable
+$ 423,154     $ 285,426
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+RECONCILIATION OF NET INCOME/(LOSS) TO NET CASH PROVIDED BY OPERATING ACTIVITIES
+Net income/(loss)
+$ 400,156     $ 185,831
+Adjustments to reconcile net income/(loss) to net cash provided by operating activities:
+Proceeds from sales of gold to pay expenses
+1,201       1,972
+Net realized (gain)/loss from investment in gold sold to pay Sponsor fees
+9       ( 106 )
+Net realized (gain)/loss from gold distributed for the redemption of shares
+( 3,127 )     ( 14,355 )
+Net change in unrealized (gain)/loss on investment in gold
+( 398,270 )     ( 173,327 )
+Increase/(Decrease) in accounts payable to Sponsor
+31       ( 15 )
+Net cash provided by operating activities
+$ -     $ -
+See notes to the unaudited financial statements.
+9
+Table of Contents
+SPDR ®
+Gold MiniShares ®
+Trust
+Unaudited Statements of Changes in Net Assets
+For the Three Months Ended December 31, 2022 and December 31, 2021
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+Net Assets - Opening Balance
+$ 4,639,213     $ 4,387,065
+Creations
+488,680       67,836
+Redemptions
+( 377,573 )     ( 285,426 )
+Net investment loss
+( 1,232 )     ( 1,957 )
+Net realized gain/(loss) from investment in gold sold to pay Sponsor fees
+( 9 )     106
+Net realized gain/(loss) from gold distributed for the redemption of shares
+3,127       14,355
+Net change in unrealized gain/(loss) on investment in gold
+398,270       173,327
+Net Assets - Closing Balance
+$ 5,150,476     $ 4,355,306
+See notes to the unaudited   financial statements.
+10
+Table of Contents
+WORLD GOLD TRUST
+Notes to the Unaudited Financial Statements
+1.
+Organization
+The World Gold Trust (the “Trust”) was organized as a Delaware statutory trust on
+August 27, 2014
+and is governed by the Fourth Amended and Restated Agreement and Declaration of Trust (“Declaration of Trust”), dated as of
+April  16,
+2018
+and amended on
+February  6,
+2020,
+between WGC USA Asset Management Company, LLC (the “Sponsor”) and the Delaware Trust Company (the “Trustee”). The Trust is authorized to issue an unlimited number of shares of beneficial interest. The beneficial interest in the Trust
+may
+be divided into
+one
+or more series. The Trust has established
+six
+separate series,
+one
+of which is operational as of
+December 31, 2021 .
+The accompanying financial statements relate to the Trust and its
+one
+operational series SPDR ®
+Gold MiniShares ®
+Trust (“GLDM”). The shares of GLDM (the “Shares”) began publicly trading on
+June  26,
+2018
+on the NYSE Arca, Inc. (the “NYSE Arca”). The Shares are also listed on the Mexican Stock Exchange (Bolsa Mexicana de Valores). The fiscal year-end of GLDM is
+September
+30th.
+The investment objective of GLDM is for its Shares to reflect the performance of the price of gold, less its expenses. GLDM’s only ordinary recurring expense is the Sponsor’s annual fee of
+0.10 % of its net asset value (“NAV”). The Sponsor believes that, for many investors, the Shares represent a cost-effective investment in gold.
+BNY Mellon Asset Servicing, a division of The Bank of New York Mellon, (“BNYM” or the “Administrator”), is the administrator and transfer agent. BNYM also serves as the custodian of GLDM’s cash, if any. ICBC Standard Bank Plc (the “Custodian”) is responsible for custody of GLDM’s gold. State Street Global Advisors Funds Distributors, LLC is the marketing agent (the “Marketing Agent”).
+The Trust had
+no
+operations with respect to GLDM’s Shares prior to
+June  26,
+2018,
+other than matters relating to its organization and the registration of the offer and sale of GLDM’s Shares under the Securities Act of
+1933,
+as amended.
+The Statements of Financial Condition and Schedules of Investment at
+December 31, 2021 , and the Statements of Operations, Changes in Net Assets and Cash Flows for the  three
+months ended
+December 31, 2022
+and
+2021  have been prepared without audit.
+In the opinion of management of the Sponsor, all adjustments (which include normal recurring adjustments) necessary to present fairly the financial position, results of operations and cash flows as of and for the  three
+months ended
+December 31, 2022  and for all periods presented have been made. These financial statements should be read in conjunction with the financial statements and notes thereto included in the Annual Report on Form
+10 -K for the fiscal year ended
+September 30, 2022 . The results of operations for the
+three
+months ended
+December 31, 2022  are
+not
+necessarily indicative of the operating results for the full fiscal year.
+2.
+Significant Accounting Policies
+The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) requires those responsible for preparing financial statements to make estimates and assumptions that affect the reported amounts and disclosures. Actual results could differ from those estimates. The following is a summary of significant accounting policies followed by GLDM and the Trust.
+2.1.
+Basis of Accounting
+For accounting purposes, GLDM is an investment company within the scope of Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic
+946,
+Financial Services—Investment Companies, and therefore applies the specialized accounting and reporting guidance therein. It is
+not
+registered as an investment company under the Investment Company Act of
+1940,
+as amended.
+11
+Table of Contents
+These financial statements present the financial condition, results of operations and cash flows of the Trust combined with its operating series and GLDM separately. For the periods presented, there were
+no
+balances or activity for the Trust and the footnotes accordingly relate to GLDM, unless stated otherwise.
+2.2
+Basis of Presentation
+The financial statements are presented for the Trust, as the SEC registrant, combined with GLDM and for GLDM individually. The debts, liabilities, obligations and expenses incurred, contracted for or otherwise existing with respect to GLDM are enforceable only against the assets of GLDM and
+not
+against the assets of the Trust generally or any other series that the Trust
+may
+establish.
+2.3
+Cash and Cash Equivalents
+Cash and cash equivalents, when outstanding, include highly liquid investments of sufficient credit quality with original maturity of
+three
+months or less.
+2.4.
+Fair Value Measurement
+U.S. GAAP defines fair value as the price a fund would receive to sell an asset or pay to transfer a liability in an orderly transaction between market participants at the measurement date. GLDM’s policy is to value its investments at fair value.
+Various inputs are used in determining the fair value of GLDM’s assets or liabilities. Inputs
+may
+be based on independent market data (“observable inputs”) or they
+may
+be internally developed (“unobservable inputs”). These inputs are categorized into a disclosure hierarchy consisting of
+three
+broad levels for financial reporting purposes. The level of a value determined for an asset or liability within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement in its entirety. The
+three
+levels of the fair value hierarchy are:
+Level  1
+– Unadjusted quoted prices in active markets for identical assets or liabilities;
+Level  2
+– Inputs other than quoted prices included within Level  1
+that are observable for the asset or liability either directly or indirectly, including quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are
+not
+considered to be active, inputs other than quoted prices that are observable for the asset or liability and inputs that are derived principally from or corroborated by observable market data by correlation or other means; and
+Level  3
+– Inputs that are unobservable for the asset and liability, including a fund’s assumptions (if any) used in determining the fair value of investments.
+The following table summarizes GLDM’s investment at fair value:
+(Amounts in 000 ’ s of US$)
+December 31, 2022
+Level 1
+Level 2
+Level 3
+Investment in Gold
+$ 5,158,100     $ -     $ -
+Total
+$ 5,158,100       -       -
+(Amounts in 000 ’ s of US$)
+September 30, 2022
+Level 1
+Level 2
+Level 3
+Investment in Gold
+$ 4,692,387     $ -     $ -
+Total
+$ 4,692,387     $ -     $ -
+12
+Table of Contents
+There were
+no
+transfers between Level  1
+and other Levels for the  three
+months ended
+December 31, 2022  or for the year ended
+September 30, 2022 .
+The Administrator values the gold held by GLDM on the basis of the price of an ounce of gold as determined by ICE Benchmark Administration Limited (the “IBA”), a benchmark administrator, which provides an independently administered auction process, as well as the overall administration and governance for the London Bullion Market Association (the “LBMA”). In determining the NAV of GLDM, the Administrator values the gold held on the basis of the price of an ounce of gold determined by the IBA
+3:00
+PM auction process (the “LBMA Gold Price PM”), which is an electronic auction. The auction runs twice daily at
+10:30
+AM and
+3:00
+PM London time. The Administrator calculates the NAV of GLDM on each day the NYSE Arca is open for regular trading, generally as of
+12:00
+PM New York time. If
+no
+LBMA Gold Price PM is made on a particular evaluation day or if the LBMA Gold Price PM has
+not
+been announced by
+12:00
+PM New York time on a particular evaluation day, the next most recent LBMA Gold Price AM or PM is used in the determination of the NAV of GLDM, unless the Administrator, in consultation with the Sponsor, determines that such price is inappropriate to use as the basis for such determination.
+2.5.
+Custody of Gold
+Gold is held by the Custodian on behalf of GLDM,
+100 % of which is allocated gold in the form of good delivery gold bars. A current list of all gold held by the Custodian, including any held with a subcustodian is available on the sponsor’s website at www.spdrgoldshares.com.
+2.6.
+Gold Receivable
+Gold receivable represents the quantity of gold covered by contractually binding orders for the creation of Shares where the gold has
+not
+yet been transferred to GLDM’s account. Generally, ownership of the gold is transferred within
+two
+business days of the trade date.
+Dec-31,
+Sep-30,
+(Amounts in 000 ’ s of US$)
+2022
+2022
+Gold receivable
+$ -     $ -
+2.7.
+Gold Payable
+Gold payable represents the quantity of gold covered by contractually binding orders for the redemption of Shares where the gold has
+not
+yet been transferred out of GLDM’s account. Generally, ownership of the gold is transferred within
+two
+business days of the trade date.
+Dec-31,
+Sep-30,
+(Amounts in 000 ’ s of US$)
+2022
+2022
+Gold payable
+$ 7,196     $ 52,777
+2.8.
+Creations and Redemptions of Shares
+GLDM creates and redeems Shares from time to time, but only in
+one
+or more Creation Units (a Creation Unit equals a block of
+100,000
+Shares). GLDM issues Shares in Creation Units to certain authorized participants (“Authorized Participants”) on an ongoing basis. The creation and redemption of Creation Units is only made in exchange for the amount of gold and any cash represented by the Creation Units being created or redeemed. This amount will be based on the combined net asset value of the number of Shares included in the Creation Units being created or redeemed determined on the day the order to create or redeem Creation Units is properly received.
+13
+Table of Contents
+As the Shares are redeemable in Creation Units at the option of the Authorized Participants, GLDM has classified the Shares as Net Assets for financial reporting purposes. Changes in the Shares for the
+three
+months ended
+December 31, 2022
+and
+2021  are as follows:
+Three Months
+Three Months
+Ended
+Ended
+(Amounts are in 000’s)
+Dec-31, 2022
+Dec-31, 2021
+Activity in Number of Shares Created and Redeemed:
+Creations
+14,300       3,800
+Redemptions
+( 10,900 )     ( 16,200 )
+Net Change in Number of Shares Created and Redeemed
+3,400       ( 12,400 )
+Three Months
+Three Months
+Ended
+Ended
+(Amounts in 000 ’ s of US$)
+Dec-31, 2022
+Dec-31, 2021
+Activity in Value of Shares Created and Redeemed:
+Creations
+$ 488,680     $ 67,836
+Redemptions
+( 377,573 )     ( 285,426 )
+Net change in Value of Shares Created and Redeemed
+$ 111,107     $ ( 217,590 )
+2.9.
+Income and Expense (Amounts in
+000 ’ s of US$)
+The Administrator will, at the direction of the Sponsor, sell GLDM’s gold as necessary to pay its expenses. When selling gold to pay expenses, the Administrator will endeavor to sell the smallest amount of gold needed to pay expenses in order to minimize GLDM’s holdings of assets other than gold. Unless otherwise directed by the Sponsor, the Administrator will give a sell order and sell gold to the Custodian at the LBMA Gold Price PM following the sell order. A gain or loss is recognized based on the difference between the selling price and the average cost of the gold sold, and such amounts are reported as net realized gain/(loss) from investment in gold sold to pay Sponsor expenses on the Statement of Operations.
+GLDM’s net realized and change in unrealized gain/(loss) on investment in gold for the
+three
+months ended
+December 31, 2022  of $ 401,388
+is made up of a realized loss of $ 9
+from the sale of gold to pay Sponsor fees, a realized gain of $ 3,127
+from gold distributed for the redemption of shares, and a change in unrealized gain of $ 398,270
+on investment in gold.
+GLDM’s net realized and change in unrealized gain/(loss) on investment in gold for the  three
+months ended
+December 31, 2021  of $ 187,788
+is made up of a realized gain of $ 106
+from the sale of gold to pay Sponsor fees, a realized gain of $ 14,355
+from gold distributed for the redemption of shares, and a change in unrealized gain of $ 173,327
+on investment in gold.
+2.10.
+Income Taxes
+GLDM is classified as a “grantor trust” for U.S. federal income tax purposes. As a result, it is
+not
+subject to U.S. federal income tax. Instead, its income and expenses “flow through” to the shareholders, and the Administrator will report GLDM’s proceeds, income, deductions, gains and losses to the Internal Revenue Service on that basis.
+The Sponsor has evaluated whether there are uncertain tax positions that require financial statement recognition and has determined that
+no
+reserves for uncertain tax positions are required as of
+December 31, 2022 . As of
+December 31, 2022 , the
+2021,
+2020
+and  2019
+tax years remain open for examination.
+There were no examinations in progress at period end.
+14
+Table of Contents
+3.
+Related Parties
+–  Sponsor
+Effective
+February  23,
+2022,
+the Sponsor reduced its annual fee of
+0.18 % of the NAV of GLDM to
+0.10 % of the NAV of GLDM and implemented a
+one -for- two
+reverse stock split of the Shares which now represent
+1/50th
+of an ounce of gold. The Sponsor’s annual fee equal to
+0.10 % of the NAV of GLDM is calculated daily. The Sponsor is responsible for the payment of all GLDM’s ordinary fees and expenses, including but
+not
+limited to the following: fees charged by GLDM’s Administrator, Custodian, Marketing Agent and Trustee; exchange listing fees; typical maintenance and transaction fees of The Depository Trust Company; SEC registration fees; printing and mailing costs; audit fees and expenses; and legal fees
+not
+in excess of $ 100,000
+per annum and expenses and applicable license fees. The Sponsor is
+not,
+however, required to pay any extraordinary expenses incurred in the ordinary course of GLDM’s business as outlined in the Sponsor’s agreement with the Trust.
+4.
+GLDM Expenses
+GLDM’s only ordinary recurring operating expense is the Sponsor’s annual fee of
+0.10 % of the NAV of GLDM. The Sponsor’s fee is payable monthly in arrears.
+Expenses payable will reduce the NAV of GLDM.
+5.
+Concentration of Risk
+GLDM’s primary business activities are the investment in gold and the issuance and sale of Shares.
+Various factors could affect the price of gold including: (i) global gold supply and demand, which is influenced by such factors as forward selling by gold producers, purchases made by gold producers to unwind gold hedge positions, central bank purchases and sales, and production and cost levels in major gold-producing countries such as China, Australia, South Africa and the United States; (ii) investors’ expectations with respect to the rate of inflation; (iii) currency exchange rates; (iv) interest rates; (v) investment and trading activities of hedge funds and commodity funds; (vi) other economic variables such as income growth, economic output, and monetary policies; and (vii) global or regional political, economic or financial events and situations. In addition, while gold it used to preserve wealth by investors around the world, there is
+no
+assurance that gold will maintain its long-term value in terms of purchasing power in the future. In the event that the price of gold declines, the Sponsor expects the value of an investment in the Shares to decline proportionately. Each of these events could have a material effect on GLDM’s financial position and results of operations.
+6.
+Indemnification
+The Sponsor and each of its shareholders, members, directors, officers, employees, affiliates and subsidiaries will be indemnified by the Trust and held harmless against any losses, liabilities or expenses incurred in the performance of its duties under the Declaration of Trust without gross negligence, bad faith or willful misconduct. The Sponsor shall in
+no
+event be deemed to have assumed or incurred any liability, duty, or obligation to any shareholder or to the Trustee other than as expressly provided for in the Declaration of Trust. Such indemnity includes payment from the Trust of the costs and expenses incurred in defending against any indemnified claim or liability under the Declaration of Trust.
+15
+Table of Contents
+The Trustee and each of its officers, affiliates, directors, employees, and agents will be indemnified by the Trust from and against any losses, claims, taxes, damages, reasonable expenses, and liabilities incurred with respect to the creation, operation or termination of the Trust, the execution, delivery or performance of the Declaration of Trust or the transactions contemplated thereby; provided that the indemnified party acted without willful misconduct, bad faith or gross negligence. The Sponsor will
+not
+be liable to the Trust, the Trustee or any shareholder for any action taken or for refraining from taking any action in good faith, or for errors in judgment or for depreciation or loss incurred by reason of the sale of any gold or other assets held in trust under Declaration of Trust. However, the preceding liability exclusion will
+not
+protect the Sponsor against any liability resulting from its own gross negligence, bad faith, or willful misconduct.
+7.
+Financial Highlights
+The following presentation includes financial highlights related to investment performance and operations of a Share outstanding for the
+three
+months ended
+December 31, 2022  and
+December 31, 2021 . The total return at net asset value is based on the change in net asset value of a Share during the period and the total return at market value is based on the change in market value of a Share on NYSE Arca during the period. An individual investor’s return and ratios
+may
+vary based on the timing of capital transactions.
+Financial Highlights (Unaudited)
+For the  three
+months ended
+December 31, 2022
+and
+2021
+Three Months
+Three Months
+Ended
+Ended
+Dec-31, 2022
+Dec-31, 2021
+(unaudited)
+(unaudited)
+Net Asset Value
+Net asset value per Share, beginning of period
+$ 33.20     $ 34.65
+Net investment income/(loss)
+( 0.01 )     ( 0.02 )
+Net Realized and Change in Unrealized Gain/(Loss)
+2.79       1.54
+Net Income/(Loss)
+2.78       1.52
+Net asset value per Share, end of period
+$ 35.98     $ 36.17
+Market value per Share, beginning of period
+$ 32.98     $ 34.92
+Market value per Share, end of period
+$ 36.19     $ 36.36
+Ratio to average net assets
+Net investment loss(1)
+( 0.10 )%     ( 0.18 )%
+Gross expenses(1)
+0.10 %     0.18 %
+Net expenses(1)
+0.10 %     0.18 %
+Total Return, at net asset value(2)
+8.37 %     4.39 %
+Total Return, at market value(2)
+9.73 %     4.12 %
+( 1 )
+Percentages are annualized.
+( 2 )
+Percentages are
+not
+annualized.
+16
+Table of Contents
+Item   2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+This information should be read in conjunction with the financial statements and notes included in Item   1 of Part   I of this Quarterly Report. This Quarterly Report, including the exhibits hereto and the information incorporated by reference herein, contains
+“ forward-looking statements ”
+within the meaning of Section   27A of the Securities Act of 1933, as amended, and Section   21E of the Securities Exchange Act of 1934, as amended, and such forward-looking statements involve risks and uncertainties. Except for historical information, statements about future gold prices, gold bullion sales, foreign currencies (including the Reference Currencies), foreign currency exchange rates, costs, plans, or objectives are forward-looking statements based on our estimates, beliefs, assumptions and projections. Words such as
+“ could, ”
+“ would, ”
+“ may, ”
+“ expect, ”
+“ project, ”
+“ intend, ”
+“ plan, ”
+“ believe, ”
+“ seek, ”
+“ estimate, ”
+and
+“ predict, ”
+and variations on such words, and similar expressions that reflect our current views with respect to future events and fund performance, are intended to identify such forward-looking statements. These forward-looking statements are only predictions, subject to risks and uncertainties that are difficult to predict and many of which are outside of our control, and actual results could differ materially from those discussed. Important factors that we believe could affect performance and cause results to differ materially from our expectations are described in the sections entitled
+“ Risk Factors ”
+and
+“ Management ’ s Discussion and Analysis of Financial Condition and Results of Operations ”
+in the Annual Report on Form 10-K for the fiscal year ended September 30, 2022, as updated from time to time in World Gold Trust ’ s Securities and Exchange Commission filings.
+Trust Overview
+The World Gold Trust (the “Trust”) was formed as a Delaware statutory trust on August 27, 2014. The Trust consists of multiple series (each, a “Fund” and collectively, the “Funds”). Each Fund issues common units of beneficial interest that represent units of fractional undivided beneficial interest in and ownership of such Fund. The term of the Trust and each Fund is perpetual (unless terminated earlier in certain circumstances). The Trust was organized in separate series as a Delaware statutory trust rather than as separate statutory trusts to achieve certain administrative and other efficiencies. The Trust is sponsored by WGC USA Asset Management Company, LLC (the “Sponsor”).
+The Trust established six separate series, of which only SPDR ®
+Gold MiniShares ®
+Trust (“GLDM”) is operational as of December 31, 2022. GLDM commenced operations on June 26, 2018. GLDM’s investment objective is for its shares (the “Shares”) to reflect the performance of the price of gold, less its expenses.
+Gold is held by ICBC Standard Bank Plc (the “Custodian”) on behalf of GLDM.
+As of the date of this quarterly report, Goldman, Sachs & Co., J.P. Morgan Securities LLC, Merrill Lynch Professional Clearing Corp., Morgan Stanley & Co. LLC, UBS Securities LLC and Virtu Americas LLC are the only Authorized Participants. An updated list of Authorized Participants can be obtained from the Sponsor.
+17
+Table of Contents
+Investing in the Shares does not insulate the investor from risks, including price volatility. The following chart illustrates the movement in the market price of the Shares and NAV of the Shares against the corresponding gold price (per 1/100 of an oz. of gold) since the day the Shares first began trading on the NYSE Arca:
+Share price   & NAV v. gold price - June 26, 2018 to December 31, 2022
+Critical Accounting Policy
+Valuation of Gold, Definition of NAV
+GLDM values the investment in gold bullion at fair value. BNY Mellon Asset Servicing, a division of The Bank of New York Mellon (the “Administrator”), will value any gold bullion held by GLDM on the basis of the price of an ounce of gold as determined by the ICE Benchmark Administration Limited (the “IBA”). In determining the NAV, the Administrator will value the gold bullion held by GLDM on the basis of the price of an ounce of gold determined by the IBA 3:00 PM auction process (the “LBMA Gold Price PM”). The Administrator will calculate the NAV on each day the NYSE Arca is open for regular trading, at the earlier LBMA Gold Price PM for the day or 12:00 PM New York time. If no LBMA Gold Price (AM or PM) is made on a particular evaluation day or if the LBMA Gold Price PM has not been announced by 12:00 PM New York time on a particular evaluation day, the next most recent LBMA Gold Price AM or PM will be used in the determination of the NAV, unless the Sponsor determines that such price is inappropriate to use as the basis for such determination. Gold held by GLDM is reported at fair value on the Statement of Financial Condition.
+Once the value of the gold has been determined, the Administrator subtracts all estimated accrued fees, expenses and other liabilities of GLDM from the total value of the gold and all other assets of GLDM. The resulting figure is the NAV. The NAV is used to compute the Sponsor’s fee. The Administrator determines the NAV per Share by dividing the NAV of GLDM by the number of Shares outstanding as of the close of trading on NYSE Arca.
+Inspectorate International Limited (“Inspectorate”) conducts two counts each year of the gold bullion held on behalf of the Trust at the vaults of the Custodian. A complete bar count is conducted once per year and coincides with the Trust’s financial year end at September 30th. On October 6, 2022, Inspectorate completed the annual full count of the Trust’s gold bullion held by the Custodian. The second count is a random sample count and is conducted at a date which falls within the same financial year and was conducted most recently on May 4, 2022. The results can be found on  www.spdrgoldshares.com . The Sponsor generally visits the vaults of the Custodian twice a year as part of its due diligence procedures.
+18
+Table of Contents
+Recent Developments
+GLDM as well as the Sponsor and its service providers are vulnerable to the effects of geopolitical events and the continuation of the war in Ukraine or other hostilities. Geopolitical events and the continuation of the hostilities in Ukraine or other hostilities could disrupt and potentially impact the business activities of the Sponsor and its service providers and have an adverse effect on GLDM.
+In late February 2022, Russia launched an invasion of Ukraine, significantly amplifying already existing geopolitical tensions among Russia and other countries in the region and in the west. On March 7, 2022, the LBMA suspended its accreditation of six Russian precious metals refiners. The LBMA stated that existing bars produced by the refiners before their suspension will still be accepted as good delivery. Following an announcement at the G7 Summit to collectively ban the import of Russian gold, the UK passed regulations which prohibit the direct or indirect (i) import of gold that originated in Russia, (ii) acquisition of gold that originated in Russia or is located in Russia and (iii) supply or delivery of gold that originated in Russia, all after July 21, 2022. Similarly, US regulations prohibit the import of gold of Russian origin into the United States on or after June 28, 2022 and EU regulations prohibit the direct or indirect import, purchase or transfer of gold if it originates in Russia and has been exported from Russia after July 22, 2022.
+The responses of countries and political bodies to Russia’s actions, the larger overarching tensions, and Ukraine’s military response and the potential for wider conflict may increase financial market volatility generally, have adverse effects on regional and global economic markets, and cause volatility in the price of gold and the price of the Shares. In addition, the conflict in Ukraine, along with global political fallout and implications including sanctions, shipping disruptions, collateral war damage, and a potential expansion of the conflict beyond Ukraine’s borders, could disturb the gold market.
+War and other geopolitical events in eastern Europe, including but not limited to Russia and Ukraine, may cause volatility in commodity prices including precious metals prices. These events are unpredictable and may lead to extended periods of price volatility. To date, the impact of the conflict in Ukraine, including the regulatory responses to such conflict, have not materially affected the operations of GLDM and have not materially impacted the price of gold or the share price of GLDM.
+Results of Operations
+In the three months ended December 31, 2022, 14,300,000 Shares (143 Creation Units) were created in exchange for 283,925.2 ounces of gold, 10,900,000 Shares (109 Creation Units) were redeemed in exchange for 216,414.0 ounces of gold and 698.6 ounces of gold were sold to pay Sponsor fees. For accounting purposes, GLDM reflects creations and redemptions on the date of receipt of a notification of a creation but does not issue Shares until the requisite amount of gold is received. Upon a redemption, GLDM delivers gold upon receipt of Shares. These creations were completed in the normal course of business.
+At December 31, 2022, the amount of gold owned by GLDM and held by the Custodian in its vault was 2,846,084.1 ounces, 100% of which is allocated gold in the form of London Good Delivery gold bars with a market value of $5,158,100,494 based on the LBMA Gold Price PM on December 31, 2022 (cost —$4,932,172,417).
+At September 30, 2022, the amount of gold owned by GLDM and held by the custodian in its vault was 2,806,871.5 ounces, 100% of which is allocated gold in the form of London Good Delivery gold bars with a market value of $4,692,387,415 based on the LBMA Gold Price PM on September 30, 2022 (cost — $4,864,729,657).
+Cash Resources and Liquidity
+At December 31, 2022, GLDM did not have any cash balances. When selling gold to pay expenses, GLDM endeavors to sell the exact amount of gold needed to pay expenses in order to minimize GLDM’s holdings of assets other than gold or any gold receivable. As a consequence, we expect that GLDM will not record any net cash flow from its operations and that its cash balance will be zero at the end of each reporting period.
+19
+Table of Contents
+Movements in the Price of Gold
+As movements in the price of gold are expected to directly affect the price of the Shares, it is important to understand the recent movements in the price of gold. However, past movements in the price of gold are not indicators of future movements.
+The following chart shows movements in the price of gold based on the LBMA Gold Price PM in U.S. dollars per ounce over the period from June 26, 2018 (the first date the Shares began trading on the NYSE Arca) to December 31, 2022.
+Daily Gold Price - June   26, 2018 to December 31, 2022
+LBMA Gold Price PM USD
+The average, high, low and end-of-period gold prices for the three and twelve-month periods over the prior three years and for the period from June 26, 2018 (the first date the Shares began trading on the NYSE Arca) through December 31, 2022, based on the LBMA Gold Price PM, were:
+Last
+End of
+business
+Period
+Average
+High
+Date
+Low
+Date
+period
+day (1)
+Three months to March 31, 2020
+$
+1,582.80
+$
+1,683.65
+Mar 6, 2020
+$
+1,474.25
+Mar 19, 2020
+$
+1,608.95
+Mar 31, 2020
+Three months to June 30, 2020
+$
+1,711.13
+$
+1,771.60
+Jun 29, 2020
+$
+1,576.55
+Apr 1, 2020
+$
+1,768.10
+Jun 30, 2020
+Three months to September 30, 2020
+$
+1,908.56
+$
+2,067.15
+Aug 6, 2020
+$
+1,771.05
+July 1, 2020
+$
+1,886.90
+Sep 30, 2020
+Three months to December 31, 2020
+$
+1,874.23
+$
+1,940.80
+Nov 6, 2020
+$
+1,762.55
+Nov 30, 2020
+$
+1,891.10
+Dec 31, 2020
+(2)
+Three months to March 31, 2021
+$
+1,794.01
+$
+1,943.20
+Jan 4, 2021
+$
+1,683.95
+Mar 30, 2021
+$
+1,691.05
+Mar 31, 2021
+Three months to June 30, 2021
+$
+1,816.48
+$
+1,902.75
+Jun 2, 2021
+$
+1,726.05
+Apr 1, 2021
+$
+1,763.15
+Jun 30, 2021
+Three months to September 30, 2021
+$
+1,789.52
+$
+1,829.30
+Jul 29, 2021
+$
+1,723.35
+Aug 10, 2021
+$
+1,742.80
+Sept 30, 2021
+Three months to December 31, 2021
+$
+1,795.25
+$
+1,864.90
+Nov 17, 2021
+$
+1,753.20
+Oct 5, 2021
+$
+1,820.10
+Dec 31, 2021
+(2)
+Three months to March 31, 2022
+$
+1,877.16
+$
+2,039.05
+Mar 8, 2022
+$
+1,788.15
+Jan 28, 2022
+$
+1,942.15
+Mar 31, 2022
+Three months to June 30, 2022
+$
+1,870.58
+$
+1,976.75
+Apr 13, 2022
+$
+1,809.50
+May 16, 2022
+$
+1,817.00
+Jun 30, 2022
+Three months to September 30, 2022
+$
+1,728.91
+$
+1,808.40
+Jul 4, 2022
+$
+1,634.30
+Sep 27, 2022
+$
+1,671.75
+Sep 30, 2022
+Three months to December 31, 2022
+$
+1,725.85
+$
+1,823.55
+Dec 13, 2022
+$
+1,628.75
+Nov 3, 2022
+$
+1,812.35
+Dec 30, 2022
+(2)
+Twelve months ended December 31, 2020
+$
+1,769.50
+$
+2,067.15
+Aug 6, 2020
+$
+1,474.25
+Mar 19, 2020
+$
+1,891.10
+Dec 31, 2020
+(2)
+Twelve months ended December 31, 2021
+$
+1,798.61
+$
+1,943.20
+Jan 4, 2021
+$
+1,683.95
+Mar 30, 2021
+$
+1,820.10
+Dec 31, 2021
+(2)
+Twelve months ended December 31, 2022
+$
+1,800.09
+$
+2,039.05
+Mar 8, 2022
+$
+1,628.75
+Nov 3, 2022
+$
+1,812.35
+Dec 30, 2022
+(2)
+June 26, 2018 to December 31, 2022
+$
+1,636.08
+$
+2,067.15
+Aug 6, 2020
+$
+1,178.40
+Aug 17, 2018
+$
+1,812.35
+Dec 30, 2022
+(2)
+(1)
+The end of period gold price is the LBMA Gold Price PM on the last business day of the period.
+(2)
+There was no LBMA Gold Price PM on the last business day of December 2022, 2021 or 2020. The LBMA Gold Price AM on the last business day of December 2022, 2021 and 2020 was $1,812.35, $1,820.10 and $1,891.10, respectively. The Net Asset Value of GLDM on December 31, 2022, 2021 and 2020 was calculated using the LBMA Gold Price AM.
+20
+Table of Contents
+Item   3.
+Quantitative and Qualitative Disclosures About Market Risk
+GLDM is a passive investment vehicle. Fluctuations in the value of gold bullion will affect the value of Shares which are designed to reflect the performance of the price of gold bullion, less GLDM’s expenses.
+Item   4.
+Controls and Procedures
+Disclosure Controls and Procedures
+The duly authorized officers of the Sponsor, performing functions equivalent to those a principal executive officer and principal financial officer of the Trust would perform if the Trust had any officers, have evaluated the effectiveness of the Trust’s disclosure controls and procedures, and have concluded that the disclosure controls and procedures of the Trust were effective as of the end of the period covered by this report. Such disclosure controls and procedures are designed to provide reasonable assurance that information required to be disclosed in the reports that the Trust files or submits under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are recorded, processed, summarized and reported, within the time period specified in the applicable rules and forms, and that such information is accumulated and communicated to the duly authorized officers of the Sponsor performing functions equivalent to those a principal executive officer and principal financial officer of the Trust would perform if the Trust had any officers, and to the Audit Committee of the Sponsor, as appropriate, to allow timely decisions regarding required disclosure.
+The duly authorized officers of the Sponsor, performing functions equivalent to those a principal executive officer and principal financial officer of the Trust would perform if the Trust had any officers, have evaluated the effectiveness of GLDM’s disclosure controls and procedures, and have concluded that the disclosure controls and procedures of GLDM were effective as of the end of the period covered by this report. Such disclosure controls and procedures are designed to provide reasonable assurance that information required to be disclosed in the reports that the Trust files or submits under the Exchange Act on behalf of GLDM are recorded, processed, summarized and reported, within the time period specified in the applicable rules and forms, and that such information is accumulated and communicated to the duly authorized officers of the Sponsor performing functions equivalent to those a principal executive officer and principal financial officer of the Trust would perform if the Trust had any officers, and to the Audit Committee of the Sponsor, as appropriate, to allow timely decisions regarding required disclosure.
+Internal Control Over Financial Reporting
+There has been no change in the internal control over financial reporting of the Trust that occurred during the most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Trust’s internal control over financial reporting.
+There has been no change in the internal control over financial reporting of GLDM that occurred during the most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, GLDM’s internal control over financial reporting.
+21
+Table of Contents
+PART II — OTHER INFORMATION:
+Item   1.
+Legal Proceedings
+None.
+Item   1A.
+Risk Factors
+You should carefully consider the factors discussed in Part I, Item 1A. “Risk Factors” in our Annual Report on Form 10-K for the year ended September 30, 2022, which could materially affect our business, financial condition or future results. There have been no material changes in our risk factors from those disclosed in our 2022 Annual Report on Form 10-K.
+The risks described in our Annual Report on Form 10-K are not the only risks facing the Trust. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results.
+22
+Table of Contents
+Item   2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+a)
+None.
+b)
+Not applicable.
+c)
+Since GLDM commenced operations on June 26, 2018, and in the period from then to December 31, 2022, 360,100,000 Shares (3,601 Creation Units) were created in exchange for 4,188,179.2 ounces of gold and 100,500,000 Shares (1,005 Creation Units) were redeemed in exchange for 1,335,243.7 ounces of gold.
+Total Number of
+Average Ounces of
+Shares
+Gold
+Period
+Redeemed
+Per Share
+10/1/22 to 10/31/22
+2,400,000
+0.01986
+11/1/22 to 11/30/22
+3,600,000
+0.01985
+12/1/22 to 12/31/22
+4,900,000
+0.01985
+Total
+10,900,000
+0.01985
+Item   3.
+Defaults Upon Senior Securities
+None.
+Item   4.
+Mine Safety Disclosures
+Not applicable.
+Item   5.
+Other Information
+None.
+Item   6.
+Exhibits
+The exhibits listed on the accompanying Exhibit Index, and such Exhibit Index, are filed or incorporated by reference as a part of this report.
+23
+Table of Contents
+EXHIBIT   INDEX
+Exhibit
+No.
+Description of Exhibit
+31.1
+Certification of Principal Executive Officer pursuant to Rule 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as amended, with respect to the Trust’s Quarterly Report on Form 10-Q for the quarter ended December 31, 2022.
+31.2
+Certification of Principal Financial Officer pursuant to Rule 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as amended, with respect to the Trust’s Quarterly Report on Form 10-Q for the quarter ended December 31, 2022.
+32.1
+Certification of Principal Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, with respect to the Trust’s Quarterly Report on Form 10-Q for the quarter ended December 31, 2022.
+32.2
+Certification of Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, with respect to the Trust’s Quarterly Report on Form 10-Q for the quarter ended to December 31, 2022.
+101.INS*
+Inline XBRL Instance Document
+101.SCH*
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL*
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.LAB*
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE*
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+101.DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+104.1
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+*
+Pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed not filed or part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for the purposes of Section 18 of the Securities and Exchange Act of 1934, as amended, and otherwise are not subject to liability under those sections.
+24
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned in the capacities* indicated thereunto duly authorized.
+WGC USA Asset Management Company, LLC
+Sponsor of the World Gold Trust
+(Registrant)
+By:
+/s/ Joseph R. Cavatoni
+Joseph R. Cavatoni
+Principal Executive Officer*
+By:
+/s/ Amanda Krichman
+Amanda Krichman
+Principal Financial and Accounting Officer*
+Date: February 9, 2023
+*
+The Registrant is a trust and the persons are signing in their capacities as officers of WGC USA Asset Management Company, LLC, the Sponsor of the Registrant.
+25

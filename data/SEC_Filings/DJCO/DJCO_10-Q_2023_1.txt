@@ -1,0 +1,1492 @@
+2019 2020 2021 2022
+2020 2021 2022
+0
+0.01
+0.01
+0
+0
+0
+0
+0.01
+0.01
+0
+0000783412 2022-10-01 2022-12-31
+xbrli:pure
+0000783412 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000783412 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember djco:JournalTechnologiesMember 2021-10-01 2021-12-31
+0000783412 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember djco:JournalTechnologiesMember 2022-10-01 2022-12-31
+iso4217:USD
+0000783412 djco:JournalTechnologiesMember us-gaap:TransferredOverTimeMember 2021-10-01 2021-12-31
+0000783412 djco:JournalTechnologiesMember us-gaap:TransferredAtPointInTimeMember 2021-10-01 2021-12-31
+0000783412 djco:JournalTechnologiesMember 2021-10-01 2021-12-31
+0000783412 djco:JournalTechnologiesMember us-gaap:TransferredOverTimeMember 2022-10-01 2022-12-31
+0000783412 djco:JournalTechnologiesMember us-gaap:TransferredAtPointInTimeMember 2022-10-01 2022-12-31
+0000783412 djco:JournalTechnologiesMember 2022-10-01 2022-12-31
+0000783412 djco:TraditionalBusinessMember us-gaap:TransferredOverTimeMember 2021-10-01 2021-12-31
+0000783412 djco:TraditionalBusinessMember us-gaap:TransferredAtPointInTimeMember 2021-10-01 2021-12-31
+0000783412 djco:TraditionalBusinessMember 2021-10-01 2021-12-31
+0000783412 djco:TraditionalBusinessMember us-gaap:TransferredOverTimeMember 2022-10-01 2022-12-31
+0000783412 djco:TraditionalBusinessMember us-gaap:TransferredAtPointInTimeMember 2022-10-01 2022-12-31
+0000783412 djco:TraditionalBusinessMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:JournalTechnologiesMember 2022-10-01 2022-12-31
+0000783412 2021-12-31
+0000783412 2022-12-31
+0000783412 us-gaap:CorporateNonSegmentMember 2021-12-31
+0000783412 us-gaap:CorporateNonSegmentMember 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:JournalTechnologiesMember 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:JournalTechnologiesMember 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:TraditionalBusinessMember 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:TraditionalBusinessMember 2022-12-31
+0000783412 2021-10-01 2021-12-31
+0000783412 us-gaap:CorporateNonSegmentMember 2021-10-01 2021-12-31
+0000783412 us-gaap:CorporateNonSegmentMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:JournalTechnologiesMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:TraditionalBusinessMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:TraditionalBusinessMember 2022-10-01 2022-12-31
+0000783412 djco:MarginAccountMember 2021-10-01 2021-12-31
+0000783412 djco:MarginAccountMember 2022-10-01 2022-12-31
+0000783412 us-gaap:CorporateNonSegmentMember djco:MarginAccountMember 2021-10-01 2021-12-31
+0000783412 us-gaap:CorporateNonSegmentMember djco:MarginAccountMember 2022-10-01 2022-12-31
+0000783412 djco:RealEstateBankLoanSecuredByLoganOfficeMember 2021-10-01 2021-12-31
+0000783412 djco:RealEstateBankLoanSecuredByLoganOfficeMember 2022-10-01 2022-12-31
+0000783412 us-gaap:CorporateNonSegmentMember djco:RealEstateBankLoanSecuredByLoganOfficeMember 2021-10-01 2021-12-31
+0000783412 us-gaap:CorporateNonSegmentMember djco:RealEstateBankLoanSecuredByLoganOfficeMember 2022-10-01 2022-12-31
+0000783412 us-gaap:ServiceOtherMember 2021-10-01 2021-12-31
+0000783412 us-gaap:ServiceOtherMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:ServiceOtherMember djco:JournalTechnologiesMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:ServiceOtherMember djco:JournalTechnologiesMember 2022-10-01 2022-12-31
+0000783412 djco:ConsultingFeesMember 2021-10-01 2021-12-31
+0000783412 djco:ConsultingFeesMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:ConsultingFeesMember djco:JournalTechnologiesMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:ConsultingFeesMember djco:JournalTechnologiesMember 2022-10-01 2022-12-31
+0000783412 us-gaap:LicenseAndMaintenanceMember 2021-10-01 2021-12-31
+0000783412 us-gaap:LicenseAndMaintenanceMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:LicenseAndMaintenanceMember djco:JournalTechnologiesMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:LicenseAndMaintenanceMember djco:JournalTechnologiesMember 2022-10-01 2022-12-31
+0000783412 djco:AdvertisingServiceFeesAndOtherMember 2021-10-01 2021-12-31
+0000783412 djco:AdvertisingServiceFeesAndOtherMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:AdvertisingServiceFeesAndOtherMember djco:TraditionalBusinessMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember djco:AdvertisingServiceFeesAndOtherMember djco:TraditionalBusinessMember 2022-10-01 2022-12-31
+0000783412 us-gaap:SubscriptionAndCirculationMember 2021-10-01 2021-12-31
+0000783412 us-gaap:SubscriptionAndCirculationMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:SubscriptionAndCirculationMember djco:TraditionalBusinessMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:SubscriptionAndCirculationMember djco:TraditionalBusinessMember 2022-10-01 2022-12-31
+0000783412 us-gaap:AdvertisingMember 2021-10-01 2021-12-31
+0000783412 us-gaap:AdvertisingMember 2022-10-01 2022-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:AdvertisingMember djco:TraditionalBusinessMember 2021-10-01 2021-12-31
+0000783412 us-gaap:OperatingSegmentsMember us-gaap:AdvertisingMember djco:TraditionalBusinessMember 2022-10-01 2022-12-31
+0000783412 us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember 2022-04-01 2022-04-30
+utr:sqft
+0000783412 us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember 2022-04-30
+0000783412 djco:RealEstateBankLoanSecuredByLoganOfficeMember 2022-12-31
+0000783412 djco:RealEstateBankLoanSecuredByLoganOfficeMember 2015-11-30
+0000783412 us-gaap:LandMember stpr:UT 2015-11-01 2015-11-30
+utr:acre
+0000783412 us-gaap:LandMember stpr:UT 2015-11-30
+0000783412 us-gaap:BuildingMember stpr:UT 2015-11-30
+0000783412 djco:MarginAccountMember 2022-12-31
+0000783412 djco:MarginAccountMember djco:FedFundsRateMember 2022-10-01 2022-12-31
+0000783412 djco:MarginAccountMember 2012-10-01 2013-09-30
+thunderdome:item
+0000783412 us-gaap:StateAndLocalJurisdictionMember 2022-10-01 2022-12-31
+0000783412 us-gaap:DomesticCountryMember 2022-10-01 2022-12-31
+0000783412 us-gaap:CommonStockMember 2022-09-30
+0000783412 us-gaap:CommonStockMember 2022-12-31
+0000783412 2021-12-01 2021-12-31
+0000783412 2022-12-01 2022-12-31
+0000783412 2022-09-30
+xbrli:shares
+0000783412 2022-06-01 2022-06-30
+0000783412 djco:AccruedLiabilitiesCurrentAndNoncurrentMember 2022-12-31
+0000783412 2021-09-30
+0000783412 djco:ProfessionalFeesMember 2021-10-01 2021-12-31
+0000783412 djco:ProfessionalFeesMember 2022-10-01 2022-12-31
+0000783412 us-gaap:RetainedEarningsMember 2022-12-31
+0000783412 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000783412 us-gaap:TreasuryStockMember 2022-12-31
+0000783412 us-gaap:CommonStockMember 2022-12-31
+0000783412 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000783412 us-gaap:RetainedEarningsMember 2022-09-30
+0000783412 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000783412 us-gaap:TreasuryStockMember 2022-09-30
+0000783412 us-gaap:CommonStockMember 2022-09-30
+0000783412 us-gaap:RetainedEarningsMember 2021-12-31
+0000783412 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000783412 us-gaap:TreasuryStockMember 2021-12-31
+0000783412 us-gaap:CommonStockMember 2021-12-31
+0000783412 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000783412 us-gaap:RetainedEarningsMember 2021-09-30
+0000783412 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000783412 us-gaap:TreasuryStockMember 2021-09-30
+0000783412 us-gaap:CommonStockMember 2021-09-30
+iso4217:USD xbrli:shares
+0000783412 us-gaap:LicenseAndMaintenanceMember 2022-09-30
+0000783412 us-gaap:LicenseAndMaintenanceMember 2022-12-31
+0000783412 djco:ProfessionalFeesMember 2022-09-30
+0000783412 djco:ProfessionalFeesMember 2022-12-31
+0000783412 us-gaap:SubscriptionAndCirculationMember 2022-09-30
+0000783412 us-gaap:SubscriptionAndCirculationMember 2022-12-31
+0000783412 2023-01-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☑
+QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _______________ to _____________________
+Commission File Number
+0-14665
+DAILY JOURNAL CORPORATION
+(Exact name of registrant as specified in its charter)
+South Carolina
+95-4133299
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+915 East First Street
+Los Angeles ,
+California
+90012-4050
+(Address of principal executive offices)
+(Zip code)
+( 213 )
+229-5300
+(Registrant's telephone number, including area code)
+None
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act :
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock
+DJCO
+The
+Nasdaq
+Stock Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes : ☒         No:☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes : ☒          No:☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer:
+☐
+Accelerated Filer:
+☐
+Non-accelerated Filer :
+☐
+Smaller Reporting Company:
+☒
+Emerging Growth Company:
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes: ☐
+No: ☒
+Indicate the number of shares outstanding of each of the issuer's classes of common stock as of the latest practicable date:
+1,377,026
+shares outstanding at January 31, 2023
+1
+DAILY JOURNAL CORPORATION
+INDEX
+Page Nos.
+PART I    Financial Information
+Item 1. Financial Statements (Unaudited)
+Consolidated Balance Sheets ‑ December 31, 2022 and September 30, 2022
+3
+Consolidated Statements of Income and Comprehensive Income ‑ Three months ended December 31, 2022 and 2021
+4
+Consolidated Statements of Shareholders’ Equity ‑ Three months ended December 31, 2022 and 2021
+5
+Consolidated Statements of Cash Flows ‑ Three months ended December 31, 2022 and 2021
+6
+Notes to Consolidated Financial Statements
+7
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+13
+Item 4. Controls and Procedures
+20
+Part II Other Information
+Item 6. Exhibits
+21
+2
+PART I
+Item 1. FINANCIAL STATEMENTS
+DAILY JOURNAL CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+December 31
+September 30
+2022
+2022
+ASSETS
+Current assets
+Cash and cash equivalents
+$
+14,593,000
+$
+13,423,000
+Restricted cash
+2,050,000
+2,045,000
+Marketable securities at fair value -- common stocks
+307,151,000
+275,529,000
+Accounts receivable, less allowance for doubtful accounts of $ 250,000
+at December 31, 2022 and September 30, 2022
+11,378,000
+16,931,000
+Inventories
+81,000
+56,000
+Income tax receivable
+1,017,000
+451,000
+Prepaid expenses and other current assets
+410,000
+1,019,000
+Total current assets
+336,680,000
+309,454,000
+Property, plant and equipment, at cost
+Land, buildings and improvements
+16,362,000
+16,330,000
+Furniture, office equipment and computer software
+1,692,000
+1,688,000
+Machinery and equipment
+1,521,000
+1,521,000
+19,575,000
+19,539,000
+Less accumulated depreciation
+( 10,061,000
+)
+( 9,986,000
+)
+9,514,000
+9,553,000
+Operating lease right-of-use assets
+77,000
+104,000
+$
+346,271,000
+$
+319,111,000
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities
+Accounts payable
+$
+5,269,000
+$
+5,062,000
+Accrued liabilities
+4,200,000
+7,066,000
+Note payable collateralized by real estate
+154,000
+146,000
+Deferred subscriptions
+2,536,000
+2,679,000
+Deferred consulting fees
+7,499,000
+6,394,000
+Deferred maintenance agreements and others
+11,642,000
+12,272,000
+Total current liabilities
+31,300,000
+33,619,000
+Long term liabilities
+Investment margin account borrowings
+81,011,000
+75,000,000
+Note payable collateralized by real estate
+1,254,000
+1,285,000
+Deferred maintenance agreements and others
+487,000
+370,000
+Accrued liabilities
+4,005,000
+4,547,000
+Deferred income taxes
+31,370,000
+25,273,000
+Total long-term liabilities
+118,127,000
+106,475,000
+Commitments and contingencies (Notes 10 and 11)
+---
+---
+Shareholders' equity
+Preferred stock, $ .01
+par value,
+5,000,000
+shares authorized and
+no  shares issued
+---
+---
+Common stock, $ .01
+par value,
+5,000,000
+shares authorized;  1,805,053
+shares issued, including
+428,027
+treasury shares at December 31, 2022 and September 30, 2022
+14,000
+14,000
+Additional paid-in capital
+1,755,000
+1,755,000
+Retained earnings
+195,075,000
+177,248,000
+Total shareholders' equity
+196,844,000
+179,017,000
+$
+346,271,000
+$
+319,111,000
+See accompanying Notes to Consolidated Financial Statements
+3
+DAILY JOURNAL CORPORATION
+CONSOLIDATED STATEMENTS OF INCOME AND COMPREHENSIVE INCOME
+(Unaudited)
+Three months
+ended December 31
+2022
+2021
+Revenues
+Advertising
+$
+1,990,000
+$
+2,001,000
+Circulation
+1,098,000
+1,110,000
+Advertising service fees and other
+699,000
+671,000
+Licensing and maintenance fees
+4,395,000
+4,480,000
+Consulting fees
+2,322,000
+1,761,000
+Other public service fees
+1,797,000
+1,713,000
+12,301,000
+11,736,000
+Costs and expenses
+Salaries and employee benefits
+9,631,000
+8,477,000
+Decrease to the long-term supplemental compensation accrual
+( 520,000
+)
+( 130,000
+)
+Agency commissions
+211,000
+208,000
+Outside services
+1,089,000
+924,000
+Postage and delivery expenses
+167,000
+163,000
+Newsprint and printing expenses
+199,000
+159,000
+Depreciation and amortization
+75,000
+104,000
+Equipment maintenance and software
+303,000
+240,000
+Credit card merchant discount fees
+425,000
+411,000
+Rent expenses
+69,000
+65,000
+Accounting and legal fees
+273,000
+320,000
+Other general and administrative expenses
+1,095,000
+739,000
+13,017,000
+11,680,000
+(Loss) income from operations
+( 716,000
+)
+56,000
+Other income (expense)
+Dividends and interest income
+1,069,000
+875,000
+Realized gains on sales of marketable securities
+422,000
+46,694,000
+Net unrealized gains (losses) on marketable securities
+24,025,000
+( 36,088,000
+)
+Interest expense on margin loans and others
+( 861,000
+)
+( 86,000
+)
+Interest expense on note payable collateralized by real estate
+( 12,000
+)
+( 13,000
+)
+Income before income taxes
+23,927,000
+11,438,000
+Income tax provisions
+( 6,100,000
+)
+( 4,560,000
+)
+Net income
+$
+17,827,000
+$
+6,878,000
+Weighted average number of common shares outstanding - basic and diluted
+1,377,026
+1,380,746
+Basic and diluted net income per share
+$
+12.95
+$
+4.98
+Comprehensive income
+$
+17,827,000
+$
+6,878,000
+See accompanying Notes to Consolidated Financial Statements.
+4
+DAILY JOURNAL CORPORATION
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(Unaudited)
+Additional
+Total
+Common Stock
+Treasury Stock
+Paid-in
+Retained
+Shareholders'
+Share
+Amount
+Share
+Amount
+Capital
+Earnings
+Equity
+Balance at September 30, 2021
+1,805,053
+$
+18,000
+( 424,307
+)
+$
+( 4,000
+)
+$
+1,755,000
+$
+252,872,000
+$
+254,641,000
+Net income
+---
+---
+---
+---
+---
+6,878,000
+6,878,000
+Balance at December 31, 2021
+1,805,053
+$
+18,000
+( 424,307
+)
+$
+( 4,000
+)
+$
+1,755,000
+$
+259,750,000
+$
+261,519,000
+Balance at September 30, 2022
+1,805,053
+$
+18,000
+( 428,027
+)
+$
+( 4,000
+)
+$
+1,755,000
+$
+177,248,000
+$
+179,017,000
+Net income
+---
+---
+---
+---
+---
+17,827,000
+17,827,000
+Balance at December 31, 2022
+1,805,053
+$
+18,000
+( 428,027
+)
+$
+( 4,000
+)
+$
+1,755,000
+$
+195,075,000
+$
+196,844,000
+See accompanying Notes to Consolidated Financial Statements
+5
+DAILY JOURNAL CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Three months
+Ended December 31
+2022
+2021
+Cash flows from operating activities
+Net income
+$
+17,827,000
+$
+6,878,000
+Adjustments to reconcile net income to net cash provided from operations
+Depreciation and amortization
+75,000
+104,000
+Net unrealized (gains) losses on marketable securities
+( 24,025,000
+)
+36,088,000
+Realized gains on sales of marketable securities
+( 422,000
+)
+( 46,694,000
+)
+Deferred income taxes
+6,097,000
+( 7,967,000
+)
+Changes in operating assets and liabilities
+(Increase) decrease in current assets
+Accounts receivable, net
+5,553,000
+2,349,000
+Inventories
+( 25,000
+)
+( 12,000
+)
+Prepaid expenses and other assets
+68,000
+3,000
+Income tax receivable
+2,000
+---
+Increase (decrease) in liabilities
+Accounts payable
+207,000
+( 535,000
+)
+Accrued liabilities
+( 3,408,000
+)
+( 2,417,000
+)
+Income tax payable
+---
+12,527,000
+Deferred subscriptions
+( 143,000
+)
+( 89,000
+)
+Deferred consulting fees
+1,105,000
+906,000
+Deferred maintenance agreements and others
+( 513,000
+)
+( 816,000
+)
+Net cash provided from operating activities
+2,398,000
+325,000
+Cash flows from investing activities
+Proceeds from sales of marketable securities
+2,826,000
+50,020,000
+Purchases of marketable securities
+( 10,001,000
+)
+( 87,125,000
+)
+Purchases of property, plant and equipment
+( 36,000
+)
+---
+Net cash used in investing activities
+( 7,211,000
+)
+( 37,105,000
+)
+Cash flows from financing activities
+Borrowing from margin loan account
+6,011,000
+37,014,000
+Payment of real estate loan principal
+( 23,000
+)
+( 36,000
+)
+Net cash provided from financing activities
+5,988,000
+36,978,000
+Increase in cash and restricted cash and cash equivalents
+1,175,000
+198,000
+Cash and restricted cash and cash equivalents
+Beginning of period
+15,468,000
+14,639,000
+End of period
+$
+16,643,000
+$
+14,837,000
+Interest paid during period
+$
+917,000
+$
+92,000
+Net income taxes paid
+$
+---
+$
+---
+See accompanying Notes to Consolidated Financial Statements.
+6
+DAILY JOURNAL CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1 - The Corporation and Operations
+Daily Journal Corporation (“Daily Journal”) publishes newspapers and websites covering California and Arizona and produces several specialized information services. It also serves as a newspaper representative specializing in public notice advertising. This is sometimes referred to as the Company’s “Traditional Business”.
+Journal Technologies, Inc. (“Journal Technologies”), a wholly-owned subsidiary of Daily Journal, supplies case management software systems and related products to courts, prosecutor and public defender offices, probation departments and other justice agencies, including administrative law organizations, city and county governments and bar associations. These organizations use the Journal Technologies family of products to help manage cases and information electronically, to interface with other critical justice partners and to extend electronic services to the public, including efiling and a website to pay traffic citations and fees online. These products are licensed in approximately 30 states and internationally. In August 2022, the Company established a new wholly-owned subsidiary, Journal Technologies (Canada) Inc., in Victoria BC, Canada.
+Essentially all of the Company’s U.S. operations are based in California, Arizona and Utah. The Company also has a presence in Australia where Journal Technologies is working on three software installation projects.
+Note 2 - Basis of Presentation
+In the opinion of the Company, the accompanying interim unaudited consolidated financial statements contain all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation of its financial position as of December 31, 2022, its results of operations for the three-month periods ended December 31, 2022 and 2021, its consolidated statements of shareholders’ equity for the three months ended December 31, 2022 and 2021 and cash flows for the three months ended December 31, 2022 and 2021. The results of operations for the three months ended December 31, 2022 are not necessarily indicative of the results to be expected for the full year.
+The consolidated financial statements included herein have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission. Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted pursuant to such rules and regulations, although the Company believes that the disclosures are adequate to make the information presented not misleading. These financial statements should be read in conjunction with the financial statements and the notes thereto included in the Company's Annual Report on Form 10-K for the fiscal year ended September 30, 2022.
+Certain reclassifications of previously reported amounts have been made to conform to the current year’s presentation.
+Note 3 – New Accounting Pronouncement
+No new accounting pronouncement issued or effective has had, or is expected to have, a material impact on the Company’s consolidated financial statements.
+7
+Note 4 – Right-of-Use (ROU) Asset
+At December 31, 2022, the Company had a ROU asset and lease liability of approximately $ 77,000
+for its operating office and equipment leases, including approximately $ 15,000
+beyond one year.  Operating office and equipment leases are included in operating lease ROU assets, current accrued liabilities and long-term accrued liabilities in the Company’s accompanying Consolidated Balance Sheets.
+Note 5 – Revenue Recognition
+The Company recognizes revenues in accordance with the provisions of ASU No. 2014-09,
+Revenue from Contracts with Customers (ASC Topic 606) .
+For the Traditional Business, proceeds from the sale of subscriptions for newspapers, court rule books and other publications and other services are recorded as deferred revenue and are included in earned revenue only when the services are provided, generally over the subscription term. Advertising revenues are recognized when advertisements are published and are net of agency commissions.
+Journal Technologies contracts may include several products and services, which are generally distinct and include separate transaction pricing and performance obligations. Most are one-transaction contracts. These current subscription-type contract revenues include (i) implementation consulting fees to configure the system to go-live, (ii) subscription software license, maintenance (including updates and upgrades) and support fees, and (iii) third-party hosting fees when used. Revenues for consulting are generally recognized at point of delivery (go-live) upon completion of services. These contracts include assurance warranty provisions for limited periods and do not include financing terms. For some contracts, the Company acts as a principal with respect to certain services, such as data conversion, interfaces and hosting that are provided by third-parties, and recognizes such revenues on a gross basis. For legacy contracts with perpetual license arrangements, licenses and consulting services are recognized at point of delivery (go-live), and maintenance revenues are recognized ratably after the go-live. Other public service fees are earned and recognized as revenues when the Company processes credit card payments on behalf of the courts via its websites through which the public can efile cases and pay traffic citations and other fees.
+ASC 606 also requires the capitalization of certain costs of obtaining contracts, specifically sales commissions which are to be amortized over the expected term of the contracts. For its software contracts, the Company incurs an immaterial amount of sales commission costs which have no significant impact on the Company’s financial condition and results of operations. In addition, the Company’s implementation and fulfillment costs do not meet all criteria required for capitalization.
+Since the Company generally recognizes revenues when it can invoice the customer pursuant to the contract for the value of completed performance, as a practical expedient and because reliable estimates cannot be made, it has elected not to include as revenues the transaction price allocated to unsatisfied performance obligations. Also, as a practical expedient, the Company has elected not to include its evaluation of variable consideration of certain usage-based fees (i.e. public service fees) that are included in some contracts. Furthermore, there are no fulfillment costs to be capitalized for the software contracts because these costs do not generate or enhance resources that will be used in satisfying future performance obligations.
+8
+Note 6 - Treasury stock and net income per common share
+In June 2022, the Company received from Director Charles T. Munger
+3,720
+shares of Daily Journal common stock as his gracious personal gift (worth approximately $ 1
+million on the date of the gift) for the purpose of establishing a new senior management equity incentive plan, which is still in the process of being set up. These donated shares were considered treasury stock, and the Company accounted for them using the par method which resulted in an immaterial effected amount on Treasury Stock and Additional Paid-in Capital. In addition, the number of outstanding shares of the Company was reduced by these
+3,720
+shares to reflect the actual number of outstanding shares of
+1,377,026
+as of December 31, 2022. The net income per common share is based on the weighted average number of shares outstanding during each year. The shares used in the calculation were
+1,377,026
+and
+1,380,746  for the three-month periods ended December 31, 2022 and 2021, respectively. The Company does not have any common stock equivalents, and therefore basic and diluted net income per share is the same.
+Note 7 - Basic and Diluted Net Income Per Share
+The Company does not have any common stock equivalents, and therefore basic and diluted net income per share are the same.
+Note 8 - Investments in Marketable Securities
+All investments are classified as “Current assets” because they are available for sale at any time. These “available-for-sale” marketable securities are stated at fair value. The Company uses quoted prices in active markets for identical assets (consistent with the Level 1 definition in the fair value hierarchy) to measure the fair value of its investments on a recurring basis pursuant to ASC 820,
+Fair Value Measurement . As of December 31, 2022 and September 30, 2022, there were net accumulated pretax unrealized gains of $ 144,717,000
+and $ 120,692,000 , respectively, recorded in the accompanying Consolidated Balance Sheets. Most of the accumulated pretax unrealized gains were in the common stocks of three U.S. financial institutions and one foreign manufacturer.
+In December 2022, the Company recorded and included in its net income the net unrealized gains on marketable securities of $ 24,025,000 , as compared with the net unrealized losses on marketable securities of $ 36,088,000 , in the prior year period.
+In December 2022, the Company sold part of its marketable securities for approximately $ 2,826,000 , realizing net gains of $ 422,000 , and borrowed an additional $ 6,011,000
+from the margin loan account to purchase additional marketable securities with a total cost of approximately $ 10,001,000 .
+In December 2021, the Company sold part of its marketable securities for approximately $ 50,020,000 , realizing gains of $ 46,694,000 , and borrowed an additional $ 37,014,000
+from the margin loan account to purchase additional marketable securities with a total cost of approximately $ 87,125,000 .
+Investments in marketable securities as of December 31, 2022 and September 30, 2022 are summarized below.
+Investment in Financial Instruments
+December 31, 2022
+September 30, 2022
+Aggregate
+fair value
+Amortized/
+Adjusted
+cost basis
+Pretax
+unrealized
+gains
+Aggregate
+fair value
+Amortized/
+Adjusted
+cost basis
+Pretax
+unrealized
+gains
+Marketable securities
+Common stocks
+$
+307,151,000
+$
+162,434,000
+$
+144,717,000
+$
+275,529,000
+$
+154,837,000
+$
+120,692,000
+9
+Note 9 - Income Taxes
+For the three months ended December 31, 2022, the Company recorded an income tax provision of $ 6,100,000
+on the pretax income of $ 23,927,000 . The income tax provision consisted of a tax provision of $ 110,000
+on the realized gains on marketable securities and $ 6,360,000
+on the unrealized gains on marketable securities, partially offset by a tax benefit of $ 140,000
+on loss from operations, $ 80,000
+for the dividends received deduction and other permanent book and tax differences, and $ 150,000
+for the effect of a change in state apportionment on the beginning of the year’s deferred tax liability. Consequently, the overall effective tax rate for the three months ended December 31, 2022 was
+25.49 %, after including the taxes on the realized and unrealized gains on marketable securities.
+For the three months ended December 31, 2021, the Company recorded a provision for income taxes of $ 4,560,000
+on pretax income of $ 11,438,000 .   The income tax provision consisted of a tax provision of $230,000 on income from operations, a tax provision of $ 12,612,000
+on the realized gains on marketable securities and a tax provision of $ 1,556,000
+for the effect of a change in state apportionment on the beginning of the year’s deferred tax liability, partially offset by a tax benefit of $ 9,747,000
+on the unrealized losses on marketable securities, and a tax benefit of $91,000 for the dividends received deduction and other permanent book and tax differences. Consequently, the overall effective tax rate for the three months ended December 31, 2021 was
+39.87 %, after including the taxes on the realized gains and unrealized losses on marketable securities.
+The Company files consolidated federal income tax returns in the United States and with various state jurisdictions and is no longer subject to examinations for fiscal years before fiscal
+2019
+with regard to federal income taxes and fiscal
+2018
+for state income taxes.
+Note 10 - Debt and Commitments
+During fiscal 2013, the Company borrowed from its investment margin account the aggregate purchase price of $ 29.5
+million for two acquisitions, in each case pledging its marketable securities as collateral. There also have been subsequent borrowings of $ 51.5
+million to purchase additional marketable securities bringing the margin loan balance up to $ 81.0
+million as of December 31, 2022. The interest rate for these investment margin account borrowings fluctuates based on the Federal Funds Rate plus
+50
+basis points with interest only payable monthly. The interest rate as of December 31, 2022 was
+5 %. These investment margin account borrowings do not mature.
+In November 2015, the Company purchased a
+30,700
+square foot office building constructed in 1998 on about
+3.6
+acres in Logan, Utah that had been previously leased by Journal Technologies. The Company paid $ 1.24
+million and financed the balance with a real estate bank loan of $ 2.26
+million which has a fixed interest rate of
+3.33 %. This loan is secured by the Logan facility and can be paid off at any time without prepayment penalty. This real estate loan had a balance of approximately $ 1.39
+million as of December 31, 2022. Each monthly installment payment is about $ 16,600 . In October 2022, the Company again amended this real estate loan contract as the bank transferred its index to Secured Overnight Financing Rate from London Interbank Offered Rate which was ceased by the Federal Reserve and the Alternative Reference Rates Committee in the United States. The term of the loan, including the interest rate and the balance, was not affected by the amendment.
+In April 2022, the Company sold approximately
+17,564
+square feet of the land along the front of its Logan building to the City of Logan for approximately $ 381,000
+in connection with the City of Logan’s street widening project.
+10
+The Company also owns its facilities in Los Angeles and leases space for its other offices under operating leases which expire at various dates through January 2024.
+Note 11 - Contingencies
+From time to time, the Company is subject to contingencies, including litigation, arising in the normal course of its business. While it is not possible to predict the results of such contingencies, management does not believe the ultimate outcome of these matters will have a material adverse effect on the Company’s financial position, results of operations or cash flows.
+Note 12 - Operating Segments
+The Company’s Traditional Business is one reportable segment and the other is Journal Technologies which includes Journal Technologies, Inc. and Journal Technologies (Canada) Inc. All inter-segment transactions were eliminated. Additional detail about each of the reportable segments and its income and expenses is set forth below:
+Overall Financial Results (000)
+For the three months ended December 31, 2022 and 2021
+Reportable Segments
+Traditional
+Business
+Journal
+Technologies
+Corporate
+Total
+2022
+2021
+2022
+2021
+2022
+2021
+2022
+2021
+Revenues
+Advertising
+$
+1,990
+$
+2,001
+$
+---
+$
+---
+$
+---
+$
+---
+$
+1,990
+$
+2,001
+Circulation
+1,098
+1,110
+---
+---
+---
+---
+1,098
+1,110
+Advertising service fees and other
+699
+671
+---
+---
+---
+---
+699
+671
+Licensing and maintenance fees
+---
+---
+4,395
+4,480
+---
+---
+4,395
+4,480
+Consulting fees
+---
+---
+2,322
+1,761
+---
+---
+2,322
+1,761
+Other public service fees
+---
+---
+1,797
+1,713
+---
+---
+1,797
+1,713
+Total operating revenues
+3,787
+3,782
+8,514
+7,954
+---
+---
+12,301
+11,736
+Operating expenses
+Salaries and employee benefits
+2,218
+2,315
+7,413
+6,162
+---
+---
+9,631
+8,477
+Decrease to the long-term supplemental compensation accrual
+( 500
+)
+( 90
+)
+( 20
+)
+(40
+)
+---
+---
+( 520
+)
+( 130
+)
+Others
+1,134
+1,051
+2,772
+2,282
+---
+---
+3,906
+3,333
+Total operating expenses
+2,852
+3,276
+10,165
+8,404
+---
+---
+13,017
+11,680
+Income (loss) from operations
+935
+506
+( 1,651
+)
+( 450
+)
+---
+---
+( 716
+)
+56
+Dividends and interest income
+---
+---
+---
+---
+1,069
+875
+1,069
+875
+Interest expense on note payable collateralized by real estate and other
+---
+---
+---
+---
+( 12
+)
+( 13
+)
+( 12
+)
+( 13
+)
+Interest expense on margin loans
+---
+---
+---
+---
+( 861
+)
+( 86
+)
+( 861
+)
+( 86
+)
+Gains on sales of marketable securities, net
+---
+---
+---
+---
+422
+46,694
+422
+46,694
+Net unrealized gains (losses) on marketable securities
+---
+---
+---
+---
+24,025
+( 36,088
+)
+24,025
+( 36,088
+)
+Pretax income (loss)
+935
+506
+( 1,651
+)
+( 450
+)
+24,643
+11,382
+23,927
+11,438
+Income tax (expense) benefit
+( 235
+)
+( 205
+)
+350
+250
+( 6,215
+)
+( 4,605
+)
+( 6,100
+)
+( 4,560
+)
+Net income (loss)
+$
+700
+$
+301
+$
+( 1,301
+)
+$
+( 200
+)
+$
+18,428
+$
+6,777
+$
+17,827
+$
+6,878
+Total assets
+$
+45,288
+$
+69,925
+$
+25,202
+$
+18,925
+$
+275,781
+$
+347,157
+$
+346,271
+$
+436,007
+Capital expenditures
+32
+---
+4
+---
+---
+---
+36
+---
+11
+During the three months ended December 31, 2022, the Traditional Business had total operating revenues of $ 3,787,000
+with $ 2,689,000
+recognized after services were provided and $ 1,098,000
+recognized ratably over the publication subscription terms, as compared with total operating revenues of $ 3,782,000
+with $ 2,672,000
+recognized after services were provided and $ 1,110,000
+recognized ratably over the publication subscription terms in the prior fiscal year period. Total operating revenues for the Company’s software business were $ 8,514,000
+with $ 4,121,000
+recognized upon completion of services and $ 4,393,000
+recognized ratably over the subscription periods, as compared with total operating revenues of $ 7,954,000
+with $ 3,476,000
+recognized upon completion of services and $ 4,478,000
+recognized ratably over the subscription periods in the prior fiscal year period.
+Approximately
+69 % of the Company’s revenues during the three-month period ended December 31, 2022 were derived from Journal Technologies, as compared with
+68 % in the prior year period. In addition, the Company’s revenues have been primarily from the United States with approximately
+7 % from foreign countries during the three-months ended December 31, 2022. Journal Technologies’ revenues are primarily from governmental agencies.
+Note 13 - Subsequent Events
+The Company has completed an evaluation of all subsequent events through the issuance date of these financial statements and concluded that no subsequent events occurred that required recognition to the financial statements or disclosures in the Notes to Consolidated Financial Statements, except for sponsoring a 401(k) retirement plan and a 409A non-qualified deferred compensation plan for its employees effective January 1, 2023.
+12
+Item 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION ANDRESULTS OF OPERATIONS
+Results of Operations
+The Company continues to operate as two different businesses: (1) The Traditional Business, being the business of newspaper publishing and related services that the Company had before 1999 when it purchased a software development company, and (2) Journal Technologies, Inc., which supplies case management software systems and related products to courts, prosecutor and public defender offices, probation departments and other justice agencies, including administrative law organizations, city and county governments and bar associations. These organizations use the Journal Technologies family of products to help manage cases and information electronically, to interface with other critical justice partners and to extend electronic services to the public, including efiling and a website to pay traffic citations and fees online. These products are licensed in 30 states and internationally.
+Impact of the COVID-19 Pandemic
+On March 13, 2020, the United States declared the outbreak of COVID-19 to be a national emergency, and several states and municipalities also declared public health emergencies. Unprecedented actions were taken by public health and other governmental authorities to contain and combat the spread of COVID-19, including “stay-at-home” orders and similar mandates that restricted the daily activities of individuals and limited the operation of businesses that were deemed “non-essential”. In addition, most of Journal Technologies’ customers, which are primarily courts and governmental agencies in the United States, Canada and Australia, were either closed or significantly scaled back their activities. Similarly, many law firms and companies from which the Traditional Business derives advertising and subscription revenues also curtailed their in-person operations and spending.
+Due to the uncertainties associated with the duration and severity of the COVID-19 pandemic, the efforts to contain it, and the related changes in business operations and personal behaviors, management cannot at this point estimate the magnitude of its impact on the Company’s business operations. In recent years, the newspaper industry, including our Traditional Business, has declined, and we expect this general trend to continue due to the impacts of COVID-19 and its aftermath, including fewer lawyers receiving our newspapers at their offices as they continue to work from home.
+For Journal Technologies, there have been several delays or cancellations in government procurement processes. Also, although we have been able to complete some existing projects remotely, we have been delayed in finishing certain implementations and trainings because of our inability to work with clients in-person. Given that we are typically paid for implementation services upon “go-live” of a system, receipt of those revenues has been delayed.
+13
+Reportable Segments
+The Company’s Traditional Business is one reportable segment and the other is Journal Technologies which includes Journal Technologies, Inc. and Journal Technologies (Canada) Inc. All inter-segment transactions were eliminated. Additional detail about each reportable segment and its income and expenses is set forth below:
+Overall Financial Results (000)
+For the three months ended December 31, 2022 and 2021
+Reportable Segments
+Traditional
+Business
+Journal
+Technologies
+Corporate
+Total
+2022
+2021
+2022
+2021
+2022
+2021
+2022
+2021
+Revenues
+Advertising
+$
+1,990
+$
+2,001
+$
+---
+$
+---
+$
+---
+$
+---
+$
+1,990
+$
+2,001
+Circulation
+1,098
+1,110
+---
+---
+---
+---
+1,098
+1,110
+Advertising service fees and other
+699
+671
+---
+---
+---
+---
+699
+671
+Licensing and maintenance fees
+---
+---
+4,395
+4,480
+---
+---
+4,395
+4,480
+Consulting fees
+---
+---
+2,322
+1,761
+---
+---
+2,322
+1,761
+Other public service fees
+---
+---
+1,797
+1,713
+---
+---
+1,797
+1,713
+Total operating revenues
+3,787
+3,782
+8,514
+7,954
+---
+---
+12,301
+11,736
+Operating expenses
+Salaries and employee benefits
+2,218
+2,315
+7,413
+6,162
+---
+---
+9,631
+8,477
+Decrease to the long-term supplemental compensation accrual
+(500
+)
+(90
+)
+(20
+)
+(40
+)
+---
+---
+(520
+)
+(130
+)
+Others
+1,134
+1,051
+2,772
+2,282
+---
+---
+3,906
+3,333
+Total operating expenses
+2,852
+3,276
+10,165
+8,404
+---
+---
+13,017
+11,680
+Income (loss) from operations
+935
+506
+(1,651
+)
+(450
+)
+---
+---
+(716
+)
+56
+Dividends and interest income
+---
+---
+---
+---
+1,069
+875
+1,069
+875
+Interest expense on note payable collateralized by real estate and other
+---
+---
+---
+---
+(12
+)
+(13
+)
+(12
+)
+(13
+)
+Interest expense on margin loans
+---
+---
+---
+---
+(861
+)
+(86
+)
+(861
+)
+(86
+)
+Gains on sales of marketable securities, net
+---
+---
+---
+---
+422
+46,694
+422
+46,694
+Net unrealized gains (losses) on marketable securities
+---
+---
+---
+---
+24,025
+(36,088
+)
+24,025
+(36,088
+)
+Pretax income (loss)
+935
+506
+(1,651
+)
+(450
+)
+24,643
+11,382
+23,927
+11,438
+Income tax (expense) benefit
+(235
+)
+(205
+)
+350
+250
+(6,215
+)
+(4,605
+)
+(6,100
+)
+(4,560
+)
+Net income (loss)
+$
+700
+$
+301
+$
+(1,301
+)
+$
+(200
+)
+$
+18,428
+$
+6,777
+$
+17,827
+$
+6,878
+Total assets
+$
+45,288
+$
+69,925
+$
+25,202
+$
+18,925
+$
+275,781
+$
+347,157
+$
+346,271
+$
+436,007
+Capital expenditures
+32
+---
+4
+---
+---
+---
+36
+---
+During the three months ended December 31, 2022, the Traditional Business had total operating revenues of $3,787,000 with $2,689,000 recognized after services were provided and $1,098,000 recognized ratably over the publication subscription terms, as compared with total operating revenues of $3,782,000 with $2,672,000 recognized after services were provided and $1,110,000 recognized ratably over the publication subscription terms in the prior fiscal year period. Total operating revenues for the Company’s software business were $8,514,000 with $4,121,000 recognized upon completion of services and $4,393,000 recognized ratably over the subscription periods, as compared with total operating revenues of $7,954,000 with $3,476,000 recognized upon completion of services and $4,478,000 recognized ratably over the subscription periods in the prior fiscal year period.
+14
+Approximately 69% of the Company’s revenues during the three-month period ended December 31, 2022 were derived from Journal Technologies, as compared with 68% in the prior year period. In addition, the Company’s revenues have been primarily from the United States with approximately 7% from foreign countries during the three-months ended December 31, 2022. Journal Technologies’ revenues are primarily from governmental agencies.
+Comparable three-month periods ended December 31, 2022 and 2021
+Consolidated Financial Comparison
+Consolidated revenues were $12,301,000 and $11,736,000 for the three months ended December 31, 2022 and 2021, respectively. This increase of $565,000 (5%) was primarily from increases in (i) Journal Technologies’ consulting fees of $561,000 and other public service fees of $84,000 and (ii) the Traditional Business’ advertising service fees and other of $28,000, partially offset by decreases in (i) Journal Technologies’ license and maintenance fees of $85,000 and (ii) the Traditional Business’ advertising revenues of $11,000 and circulation revenues of $12,000.
+Consolidated operating expenses increased by $1,337,000 (11%) to $13,017,000 from $11,680,000. Total salaries and employee benefits increased by $1,154,000 (14%) to $9,631,000 from $8,477,000 primarily because of bigger salary adjustments due to recent inflation in the compensation market for talent. Outside services increased by $165,000 (18%) to $1,089,000 from $924,000 mainly because of increased third-party hosting fees which were billed to clients. Newsprint and printing expenses increased by $40,000 (25%) to $199,000 from $159,000 primarily resulting from newsprint price increases and additional purchases of printing supplies. Equipment maintenance and software increased by $63,000 (26%) to $303,000 from $240,000 mainly resulting from increased maintenance costs. Accounting and legal fees decreased by $47,000 (15%) to $273,000 from 320,000 primarily from decreased legal fees. Other general and administrative expenses increased by $356,000 (48%) to $1,095,000 from $739,000 mainly because there were increased miscellaneous office software purchases and business travel expenses as compared to the prior fiscal year period.
+The Company’s non-operating income, net of expenses, increased by $13,261,000 (117%) to $24,643,000 from $11,382,000 in the prior fiscal year period primarily because of (i) the recording of net unrealized gains on marketable securities of $24,025,000 during the three months ended December 31, 2022 as compared with net unrealized losses of $36,088,000 in the prior fiscal year period, and (ii) increases in dividends and interest income of $194,000 (22%) to $1,069,000 from $875,000. These increases were partially offset by (i) the recording of realized net gains on sales of marketable securities of $422,000 during the three months ended December 31, 2022 as compared with $46,694,000 in the prior fiscal year period and (ii) increases in interest expenses of $774,000 (782%) to $873,000 from $99,000, primarily due to the federal rate increases.
+During the three months ended December 31, 2022, the Company’s consolidated pretax income was $23,927,000, as compared to $11,438,000 in the prior fiscal year period. There was consolidated net income of $17,827,000 ($12.95 per share) for the three months ended December 31, 2022, as compared with $6,878,000 ($4.98 per share) in the prior fiscal year period.
+At December 31, 2022, the aggregate fair market value of the Company’s marketable securities was $307,151,000. These securities had approximately $144,717,000 of net unrealized gains before taxes of $38,290,000. They generated approximately $1,069,000 in dividends income during the three months ended December 31, 2022, as compared with $875,000 in the prior fiscal year period. Most of the unrealized gains were in the common stocks of three U.S. financial institutions and one foreign manufacturer.
+15
+Taxes
+For the three months ended December 31, 2022, the Company recorded an income tax provision of $6,100,000 on the pretax income of $23,927,000. The income tax provision consisted of a tax provision of $110,000 on the realized gains on marketable securities and $6,360,000 on the unrealized gains on marketable securities, partially offset by a tax benefit of $140,000 on loss from operations, $80,000 for the dividends received deduction and other permanent book and tax differences, and $150,000 for the effect of a change in state apportionment on the beginning of the year’s deferred tax liability. Consequently, the overall effective tax rate for the three months ended December 31, 2022 was 25.49%, after including the taxes on the realized and unrealized gains on marketable securities.
+For the three months ended December 31, 2021, the Company recorded a provision for income taxes of $4,560,000 on pretax income of $11,438,000.   The income tax provision consisted of a tax provision of $230,000 on income from operations, a tax provision of $12,612,000 on the realized gains on marketable securities and a tax provision of $1,556,000 for the effect of a change in state apportionment on the beginning of the year’s deferred tax liability, partially offset by a tax benefit of $9,747,000 on the unrealized losses on marketable securities, and a tax benefit of $91,000 for the dividends received deduction and other permanent book and tax differences. Consequently, the overall effective tax rate for the three months ended December 31, 2021 was 39.87%, after including the taxes on the realized gains and unrealized losses on marketable securities.
+The Company files consolidated federal income tax returns in the United States and with various state jurisdictions and is no longer subject to examinations for fiscal years before fiscal 2019 with regard to federal income taxes and fiscal 2018 for state income taxes.
+The Traditional Business
+The Traditional Business’ pretax income increased by $429,000 (85%) to $935,000 from $506,000 in the prior fiscal year period, primarily resulting from a decrease to the long-term supplemental compensation accrual of $410,000 (456%) to $500,000 from $90,000 in the prior fiscal year period.
+During the three months ended December 31, 2022, the Traditional Business had total operating revenues of $3,787,000, as compared with $3,782,000 in the prior fiscal year period. Advertising revenues decreased by $11,000 (1%) to $1,990,000 from $2,001,000, primarily resulting from decreased commercial advertising revenues of $47,000, legal notice advertising revenues of $7,000 and government notice advertising revenues of $12,000, partially offset by increased trustee sale notice advertising revenues of $55,000 mainly because of the lifting of Covid-related foreclosure moratoriums on lenders.
+Trustee sale notices are very much dependent on the number of California and Arizona foreclosures for which public notice advertising is required by law. The number of foreclosure notices published by the Company increased by 44% during the three months ended December 31, 2022 as compared to the prior fiscal year period. The Company’s smaller newspapers, those other than the Los Angeles and San Francisco Daily Journals (“The Daily Journals”), accounted for about 88% of the total public notice advertising revenues during the three months ended December 31, 2022. Public notice advertising revenues and related advertising and other service fees, including trustee sales legal advertising revenues, constituted about 22% of the Company's total operating revenues for the three months ended December 31, 2022 and 23% in the prior fiscal year period.
+The Daily Journals accounted for about 92% of the Traditional Business’ total circulation revenues, which declined by $12,000 (1%) to $1,098,000 from $1,110,000. The court rule and judicial profile services generated about 5% of the total circulation revenues, with the other newspapers and services accounting for the balance. Advertising service fees and other are Traditional Business segment revenues, which include primarily (i) agency commissions received from outside newspapers in which the advertising is placed, and (ii) fees generated when filing notices with government agencies.
+16
+The Traditional Business segment operating expenses, excluding the adjustments to the long-term supplemental compensation accrual, decreased by $14,000 to $3,352,000 from $3,366,000, primarily resulting from reduced legal fees.
+Journal Technologies
+During the three months ended December 31, 2022, Journal Technologies’ business segment pretax loss increased by $1,201,000 (267%) to $1,651,000 from $450,000 in the prior fiscal year period.
+Revenues increased by $560,000 (7%) to $8,514,000 from $7,954,000 in the prior fiscal year period. Licensing and maintenance fees decreased by $85,000 (2%) to $4,395,000 from $4,480,000 primarily resulting from the reduction in legacy software products’ maintenance and support revenues. Consulting fees increased by $561,000 (32%) to $2,322,000 from $1,761,000 mainly resulting from more project go-lives. Other public service fees increased by $84,000 (5%) to $1,797,000 from $1,713,000 primarily because of increased efiling fee revenues.
+Deferred consulting fees primarily represent advances from customers of Journal Technologies for installation services and are recognized upon final project go-lives. Deferred revenues on license and maintenance contracts represent prepayments of annual license and maintenance fees and are recognized ratably over the maintenance period.
+Operating expenses increased by $1,761,000 (21%) to $10,165,000 from $8,404,000 primarily because of (i) increased personnel costs because of bigger salary adjustments due to recent inflation in the compensation market for talent, (ii) increased third-party hosting fees which were billed to clients and (iii) additional miscellaneous office software license purchases and increased business travel expenses.
+Journal Technologies continues to update and upgrade its software products. These costs are expensed as incurred and will impact earnings at least through the foreseeable future.
+Liquidity and Capital Resources
+For the three-months ended December 31, 2022, the Company’s cash and cash equivalents, restricted cash, and marketable security positions increased by $32,797,000, after the sales of marketable securities of approximately $2,826,000 and additional borrowing of $6,011,000 from the margin loan account, partially offset by the recording of net pretax unrealized gains on marketable securities of $24,025,000. Cash, cash equivalents, the proceeds from the sales of marketable securities and additional borrowing were primarily used to purchase additional marketable securities of $10,001,000.
+The investments in marketable securities, which had an adjusted cost basis of approximately $162,434,000 and a market value of about $307,151,000 at December 31, 2022, generated approximately $1,069,000 in dividends income during the three months ended December 31, 2022. These securities had approximately $144,717,000 of net unrealized gains before estimated taxes of $38,290,000 which will become due only when we sell securities in which there is unrealized appreciation.
+17
+Cash flows from operating activities increased by $2,073,000 during the three months ended December 31, 2022, as compared to the prior fiscal year period, primarily due to (i) decreases in the Company’s deferred tax benefit of $14,064,000 and its accounts receivable of $3,204,000 mainly resulting from more collections and (ii) increases in deferred revenues of $448,000. This was partially offset by (i) decreases in net income of $2,892,000, excluding the increases in unrealized gains on marketable securities of $60,113,000 and decreases in realized net gains on sales of marketable securities of $46,272,000 and (ii) decreases in the Company’s income tax payable of $12,527,000 and (iii) decreases in net accounts payable and accrued liabilities of $249,000 (because of the timing difference in remitting efiling fees to the courts)
+As of December 31, 2022, the Company had working capital of $305,380,000, including the liabilities for deferred subscriptions, deferred consulting fees and deferred maintenance agreements and others of $21,677,000.
+The Company believes that it will be able to fund its operations for the foreseeable future through its cash flows from operations and its current working capital. The Company may or may not have the ability to borrow additional amounts against its marketable securities and, among other possibilities, it may be required to consider selling some of those securities to generate cash if needed to fund ongoing operations. The amount available for borrowing is based on the market value of the Company’s investment portfolio and fluctuates depending on the value of the underlying securities. In addition, the Company could be subject to margin calls should the balance of the investment decrease significantly.
+The Company is not a smaller version of Berkshire Hathaway Inc. Instead, it hopes to be a significant software company while it also operates its Traditional Business.
+18
+Critical Accounting Policies and Estimates
+The Company’s financial statements and accompanying notes are prepared in accordance with U.S. generally accepted accounting principles. Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. These estimates and assumptions are affected by management’s application of accounting policies. Management believes that revenue recognition, accounting for software costs, fair value measurement and disclosures (including the long-term Incentive Plan liabilities) and income taxes are critical accounting policies and estimates.
+The Company’s critical accounting policies are detailed in its Annual Report on Form 10-K for the year ended September 30, 2022. The above discussion and analysis should be read in conjunction with the unaudited consolidated financial statements and notes thereto included in this report.
+Disclosure Regarding Forward-Looking Statements
+This Quarterly Report on Form 10-Q includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Certain statements contained in this document, including but not limited to those in “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” are “forward-looking” statements that involve risks and uncertainties that may cause actual future events or results to differ materially from those described in the forward-looking statements. Words such as “expects,” “intends,” “anticipates,” “should,” “believes,” “will,” “plans,” “estimates,” “may,” variations of such words and similar expressions are intended to identify such forward-looking statements. We disclaim any intention or obligation to revise any forward-looking statements whether as a result of new information, future developments, or otherwise. There are many factors that could cause actual results to differ materially from those contained in the forward-looking statements. These factors include, among others: risks associated with software development and implementation efforts; Journal Technologies’ reliance on professional services engagements with justice agencies; material changes in the costs of postage and paper; possible changes in the law, particularly changes limiting or eliminating the requirements for public notice advertising; possible loss of the adjudicated status of the Company’s newspapers and their legal authority to publish public notice advertising; the impacts of COVID-19 and the efforts to contain it on the Company’s customers, advertisers and subscribers, particularly the closure or scaling back of operations of courts, justice agencies and other businesses; a further decline in subscriber revenues; possible security breaches of the Company’s software or websites; changes in accounting guidance; material weaknesses in the Company’s internal control over financial reporting; and declines in the market prices of the securities owned by the Company. In addition, such statements could be affected by general industry and market conditions, general economic conditions (particularly in California) and other factors.  Although the Company believes that the expectations reflected in such forward-looking statements are reasonable, it can give no assurance that such expectations will prove to have been correct. Important factors that could cause actual results to differ materially from those in the forward-looking statements are discussed in this Form 10-Q, including in conjunction with the forward-looking statements themselves. Additional information concerning factors that could cause actual results to differ materially from those in the forward-looking statements is contained from time to time in documents filed by the Company with the Securities and Exchange Commission, including in the Company’s Annual Report on Form 10-K for the fiscal year ended September 30, 2022.
+19
+Item 4. CONTROLS AND PROCEDURES
+In light of the material weaknesses in the Company’s internal control over financial reporting discussed in the Company’s Form 10-K for the fiscal year ended September 30, 2022, management concluded that the Company’s disclosure controls and procedures were not effective as of December 31, 2022.  There were no material changes in the Company’s internal control over financial reporting or in other factors reasonably likely to affect its internal control over financial reporting during the quarter ended December 31, 2022.
+20
+PART II
+Item 6.    Exhibits
+31
+Certifications by Chief Financial Officer and Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32
+Certifications by Chief Financial Officer and Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS
+Inline XBRL Instance
+101.SCH
+Inline XBRL Taxonomy Extension Schema
+101.CAL
+Inline XBRL Taxonomy Extension Calculation
+101.DEF
+Inline XBRL Taxonomy Extension Definition
+101.LAB
+Inline XBRL Taxonomy Extension Labels
+101.PRE
+Inline XBRL Taxonomy Extension Presentation
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+DAILY JOURNAL CORPORATION
+(Registrant)
+/s/ Tu To
+Chief Financial Officer
+(Principal Financial Officer and
+Principal Accounting Officer)
+/s/ Steven Myhill-Jones
+Interim Chief Executive Officer
+Chairman of the Board
+(Principal Executive Officer)
+DATE: February 13, 2023
+21

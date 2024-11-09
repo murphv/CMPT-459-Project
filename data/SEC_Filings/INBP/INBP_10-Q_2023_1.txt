@@ -1,0 +1,2366 @@
+2023
+2,623,104
+-
+2,617,930
+2,435
+1,839
+756
+503
+1,679
+1,338
+0.002
+0.002
+50,000,000
+50,000,000
+29,984,510
+29,949,610
+29,984,510
+29,949,610
+34,900
+34,900
+0
+0
+0
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+5
+3
+5
+10
+1
+3
+2
+0001016504 2022-07-01 2022-12-31
+xbrli:shares
+0001016504 2023-02-10
+thunderdome:item
+iso4217:USD
+0001016504 2022-10-01 2022-12-31
+0001016504 2021-10-01 2021-12-31
+0001016504 2021-07-01 2021-12-31
+iso4217:USD xbrli:shares
+0001016504 2022-12-31
+0001016504 2022-06-30
+0001016504 inbp:VitaminRealtyLLCMember 2022-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2022-06-30
+0001016504 us-gaap:CommonStockMember 2022-06-30
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2022-06-30
+0001016504 us-gaap:RetainedEarningsMember 2022-06-30
+0001016504 us-gaap:TreasuryStockMember 2022-06-30
+0001016504 us-gaap:CommonStockMember 2022-07-01 2022-09-30
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2022-07-01 2022-09-30
+0001016504 us-gaap:RetainedEarningsMember 2022-07-01 2022-09-30
+0001016504 us-gaap:TreasuryStockMember 2022-07-01 2022-09-30
+0001016504 2022-07-01 2022-09-30
+0001016504 us-gaap:CommonStockMember 2022-09-30
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001016504 us-gaap:RetainedEarningsMember 2022-09-30
+0001016504 us-gaap:TreasuryStockMember 2022-09-30
+0001016504 2022-09-30
+0001016504 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001016504 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001016504 us-gaap:TreasuryStockMember 2022-10-01 2022-12-31
+0001016504 us-gaap:CommonStockMember 2022-12-31
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001016504 us-gaap:RetainedEarningsMember 2022-12-31
+0001016504 us-gaap:TreasuryStockMember 2022-12-31
+0001016504 us-gaap:CommonStockMember 2021-06-30
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2021-06-30
+0001016504 us-gaap:RetainedEarningsMember 2021-06-30
+0001016504 us-gaap:TreasuryStockMember 2021-06-30
+0001016504 2021-06-30
+0001016504 us-gaap:CommonStockMember 2021-07-01 2021-09-30
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2021-07-01 2021-09-30
+0001016504 us-gaap:RetainedEarningsMember 2021-07-01 2021-09-30
+0001016504 us-gaap:TreasuryStockMember 2021-07-01 2021-09-30
+0001016504 2021-07-01 2021-09-30
+0001016504 us-gaap:CommonStockMember 2021-09-30
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001016504 us-gaap:RetainedEarningsMember 2021-09-30
+0001016504 us-gaap:TreasuryStockMember 2021-09-30
+0001016504 2021-09-30
+0001016504 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001016504 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001016504 us-gaap:TreasuryStockMember 2021-10-01 2021-12-31
+0001016504 us-gaap:CommonStockMember 2021-12-31
+0001016504 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001016504 us-gaap:RetainedEarningsMember 2021-12-31
+0001016504 us-gaap:TreasuryStockMember 2021-12-31
+0001016504 2021-12-31
+0001016504 inbp:BrandedProductsMember 2022-10-01 2022-12-31
+0001016504 inbp:BrandedProductsMember 2022-07-01 2022-12-31
+0001016504 inbp:BrandedProductsMember 2021-10-01 2021-12-31
+0001016504 inbp:BrandedProductsMember 2021-07-01 2021-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2022-07-01 2022-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2021-07-01 2021-12-31
+0001016504 us-gaap:LandAndBuildingMember 2022-12-31
+0001016504 us-gaap:LandAndBuildingMember 2022-06-30
+0001016504 us-gaap:LeaseholdImprovementsMember 2022-12-31
+0001016504 us-gaap:LeaseholdImprovementsMember 2022-06-30
+0001016504 us-gaap:MachineryAndEquipmentMember 2022-12-31
+0001016504 us-gaap:MachineryAndEquipmentMember 2022-06-30
+0001016504 us-gaap:TransportationEquipmentMember 2022-12-31
+0001016504 us-gaap:TransportationEquipmentMember 2022-06-30
+0001016504 inbp:FullyDepreciatedPropertyMember 2022-07-01 2022-12-31
+0001016504 inbp:FullyDepreciatedPropertyMember 2021-07-01 2021-12-31
+0001016504 us-gaap:EquipmentMember 2021-07-01 2021-12-31
+0001016504 inbp:InstallmentNoteWithPNCBankMember 2022-12-31
+0001016504 inbp:InstallmentNoteWithPNCBankMember 2022-06-30
+xbrli:pure
+0001016504 inbp:CurrentPortionOfLongTermDebtAndLongtermDebtObligationMember 2022-12-31
+0001016504 inbp:CurrentPortionOfLongTermDebtAndLongtermDebtObligationMember 2022-06-30
+0001016504 inbp:CapitalLeaseMember 2022-12-31
+0001016504 inbp:RevolvingAdvancesMember 2022-12-31
+0001016504 inbp:RevolvingAdvancesMember 2022-06-30
+0001016504 us-gaap:ConvertibleDebtMember 2022-12-31
+0001016504 us-gaap:ConvertibleDebtMember 2022-06-30
+0001016504 inbp:AmendedLoanAgreementMember 2019-05-15
+0001016504 us-gaap:RevolvingCreditFacilityMember inbp:AmendedLoanAgreementMember 2019-05-15
+0001016504 inbp:AmendedLoanAgreementMember inbp:TermLoanMember 2019-05-15
+0001016504 us-gaap:RevolvingCreditFacilityMember inbp:AmendedLoanAgreementMember 2022-12-31
+0001016504 us-gaap:RevolvingCreditFacilityMember inbp:AmendedLoanAgreementMember 2022-06-30
+0001016504 us-gaap:RevolvingCreditFacilityMember inbp:AmendedLoanAgreementMember us-gaap:EurodollarMember 2019-05-15 2019-05-15
+0001016504 inbp:AmendedLoanAgreementMember inbp:TermLoanMember 2022-06-30
+0001016504 inbp:AmendedLoanAgreementMember inbp:TermLoanMember us-gaap:EurodollarMember 2019-05-15 2019-05-15
+0001016504 us-gaap:RevolvingCreditFacilityMember inbp:AmendedLoanAgreementMember us-gaap:SubsequentEventMember 2023-02-10
+0001016504 inbp:AmendedLoanAgreementMember 2019-05-15 2019-05-15
+0001016504 inbp:AmendedLoanAgreementMember inbp:TermLoanMember 2019-05-15 2019-05-15
+0001016504 us-gaap:RevolvingCreditFacilityMember inbp:AmendedLoanAgreementMember 2019-05-15 2019-05-15
+0001016504 inbp:AmendedLoanAgreementMember 2021-06-30
+0001016504 inbp:iBioStockMember 2020-07-01 2021-06-30
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:TwoCustomersMember 2021-10-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:TwoCustomersMember 2022-10-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-10-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-10-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-07-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:ContractManufacturingMember 2022-10-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:ContractManufacturingMember 2022-10-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:ContractManufacturingMember 2021-10-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:ContractManufacturingMember 2021-10-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:TwoCustomersMember 2022-07-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:TwoCustomersMember 2021-07-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-07-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:ContractManufacturingMember 2022-07-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:ContractManufacturingMember 2022-07-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:ContractManufacturingMember 2021-07-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:ContractManufacturingMember 2021-07-01 2021-12-31
+0001016504 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember inbp:TwoCustomersMember 2022-07-01 2022-12-31
+0001016504 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember inbp:TwoCustomersMember 2021-07-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:OtherNutraceuticalBusinessMember 2022-10-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:OtherNutraceuticalBusinessMember 2021-10-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:OtherNutraceuticalBusinessMember 2022-07-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:OtherNutraceuticalBusinessMember 2021-07-01 2021-12-31
+0001016504 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember inbp:TwoCustomersMember 2022-01-01 2022-06-30
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:OtherNutraceuticalBusinessMember 2022-10-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:OtherNutraceuticalBusinessMember 2022-10-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:OtherNutraceuticalBusinessMember 2021-10-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:OtherNutraceuticalBusinessMember 2021-10-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:OtherNutraceuticalBusinessMember 2022-07-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:OtherNutraceuticalBusinessMember 2022-07-01 2022-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer1Member inbp:OtherNutraceuticalBusinessMember 2021-07-01 2021-12-31
+0001016504 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember inbp:MajorCustomer2Member inbp:OtherNutraceuticalBusinessMember 2021-07-01 2021-12-31
+0001016504 us-gaap:NumberOfEmployeesGeographicAreaMember us-gaap:UnionizedEmployeesConcentrationRiskMember 2022-07-01 2022-12-31
+utr:Y
+0001016504 srt:MinimumMember 2022-07-01 2022-12-31
+0001016504 srt:MaximumMember 2022-07-01 2022-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2022-10-01 2022-12-31
+0001016504 inbp:UnrelatedPartyMember 2022-10-01 2022-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2021-10-01 2021-12-31
+0001016504 inbp:UnrelatedPartyMember 2021-10-01 2021-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2022-07-01 2022-12-31
+0001016504 inbp:UnrelatedPartyMember 2022-07-01 2022-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2021-07-01 2021-12-31
+0001016504 inbp:UnrelatedPartyMember 2021-07-01 2021-12-31
+0001016504 inbp:ChairmanChiefExecutiveOfficeAndMajorStockholderMember 2022-07-01 2022-12-31
+utr:sqft
+0001016504 inbp:ManhattanDrugCompanyMember 2012-01-04
+0001016504 inbp:ManhattanDrugCompanyMember 2012-01-05
+0001016504 inbp:ManhattanDrugCompanyMember 2012-01-05 2012-01-05
+0001016504 inbp:ManhattanDrugCompanyMember 2022-07-15
+0001016504 inbp:ManhattanDrugCompanyMember 2022-07-01 2022-07-01
+0001016504 inbp:AgrolabsMember 2014-05-19
+0001016504 inbp:AgrolabsMember 2014-05-19 2014-05-19
+0001016504 inbp:VitaminRealtyLLCMember 2022-10-01 2022-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2021-10-01 2021-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2022-07-01 2022-12-31
+0001016504 inbp:VitaminRealtyLLCMember 2021-07-01 2021-12-31
+0001016504 inbp:OperatingLeaseRenewedForOfficeSpaceMember 2022-12-31
+0001016504 inbp:ThirdAmendmentWithVitaminRealtyMember 2022-12-31
+0001016504 inbp:ThirdAmendmentWithVitaminRealtyMember srt:ScenarioForecastMember 2026-12-31
+0001016504 inbp:WarehouseLeaseMember 2022-12-31
+0001016504 inbp:OfficeEquipmentLeasesMember 2022-12-31
+0001016504 inbp:OfficeEquipmentLeasesMember 2022-06-30
+0001016504 inbp:UnrelatedPartyMember 2022-12-31
+0001016504 inbp:UnrelatedPartyMember 2022-06-30
+0001016504 inbp:StockOption2022PlanMember 2022-11-30
+0001016504 inbp:StockOption2022PlanMember 2022-11-01 2022-11-30
+0001016504 inbp:StockOption2022PlanMember srt:MinimumMember 2022-11-01 2022-11-30
+0001016504 inbp:StockOption2022PlanMember srt:MaximumMember 2021-07-01 2022-06-30
+0001016504 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2022-07-01 2022-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2021-07-01 2021-12-31
+0001016504 us-gaap:EmployeeStockOptionMember 2022-12-31
+0001016504 us-gaap:EmployeeStockOptionMember srt:MinimumMember 2020-11-01 2020-11-30
+0001016504 us-gaap:EmployeeStockOptionMember srt:MaximumMember 2020-11-01 2020-11-30
+0001016504 inbp:EuropeAndCanadaMember 2022-10-01 2022-12-31
+0001016504 inbp:EuropeAndCanadaMember 2021-10-01 2021-12-31
+0001016504 inbp:EuropeAndCanadaMember 2022-07-01 2022-12-31
+0001016504 inbp:EuropeAndCanadaMember 2021-07-01 2021-12-31
+0001016504 inbp:ContractManufacturingMember country:US 2022-10-01 2022-12-31
+0001016504 inbp:ContractManufacturingMember us-gaap:NonUsMember 2022-10-01 2022-12-31
+0001016504 inbp:ContractManufacturingMember 2022-10-01 2022-12-31
+0001016504 inbp:ContractManufacturingMember country:US 2021-10-01 2021-12-31
+0001016504 inbp:ContractManufacturingMember us-gaap:NonUsMember 2021-10-01 2021-12-31
+0001016504 inbp:ContractManufacturingMember 2021-10-01 2021-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember country:US 2022-10-01 2022-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember us-gaap:NonUsMember 2022-10-01 2022-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember 2022-10-01 2022-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember country:US 2021-10-01 2021-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember us-gaap:NonUsMember 2021-10-01 2021-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember 2021-10-01 2021-12-31
+0001016504 country:US 2022-10-01 2022-12-31
+0001016504 us-gaap:NonUsMember 2022-10-01 2022-12-31
+0001016504 country:US 2021-10-01 2021-12-31
+0001016504 us-gaap:NonUsMember 2021-10-01 2021-12-31
+0001016504 inbp:ContractManufacturingMember country:US 2022-07-01 2022-12-31
+0001016504 inbp:ContractManufacturingMember us-gaap:NonUsMember 2022-07-01 2022-12-31
+0001016504 inbp:ContractManufacturingMember 2022-07-01 2022-12-31
+0001016504 inbp:ContractManufacturingMember country:US 2021-07-01 2021-12-31
+0001016504 inbp:ContractManufacturingMember us-gaap:NonUsMember 2021-07-01 2021-12-31
+0001016504 inbp:ContractManufacturingMember 2021-07-01 2021-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember country:US 2022-07-01 2022-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember us-gaap:NonUsMember 2022-07-01 2022-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember 2022-07-01 2022-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember country:US 2021-07-01 2021-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember us-gaap:NonUsMember 2021-07-01 2021-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember 2021-07-01 2021-12-31
+0001016504 country:US 2022-07-01 2022-12-31
+0001016504 us-gaap:NonUsMember 2022-07-01 2022-12-31
+0001016504 country:US 2021-07-01 2021-12-31
+0001016504 us-gaap:NonUsMember 2021-07-01 2021-12-31
+0001016504 inbp:ContractManufacturingMember 2022-12-31
+0001016504 inbp:ContractManufacturingMember 2022-06-30
+0001016504 inbp:OtherNutraceuticalBusinessMember 2022-12-31
+0001016504 inbp:OtherNutraceuticalBusinessMember 2022-06-30
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington D.C. 20549
+____________
+FORM
+10-Q
+☑   Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended
+December 31, 2022
+OR
+☐
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from                            to
+Commission File Number
+001-31668
+INTEGRATED BIOPHARMA, INC.
+(Exact name of registrant, as specified in its charter)
+Delaware 22-2407475
+(State or other jurisdiction of (I.R.S. Employer
+incorporation or organization) Identification No.)
+225 Long Ave .,
+Hillside ,
+New Jersey
+07205
+(Address of principal executive offices)                    (Zip Code)
+( 888 )
+319-6962
+(Registrant ’ s telephone number, including Area Code)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+None
+None
+None
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☑ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Smaller reporting company  ☑
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer   ☑
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+Indicate by check whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐
+No ☑
+As of February 10, 2023, there were
+29,949,610
+shares of common stock, $0.002 par value per share, of the registrant outstanding.
+INTEGRATED BIOPHARMA, INC. AND SUBSIDIARIES
+FORM 10-Q QUARTERLY REPORT
+For the Three Months Ended December 31, 2022
+INDEX
+Page
+Part I. Financial Information
+Item 1.
+Condensed Consolidated Statements of Operations for the Three and Six Months Ended December 31, 2022 and 2021 (unaudited)
+2
+Condensed Consolidated Balance Sheets as of December 31, 2022 and June 30, 2022 (unaudited)
+3
+Condensed Consolidated Statement of Stockholders’ Equity for the Three and Six Months Ended December 31, 2022 and 2021 (unaudited)
+4
+Condensed Consolidated Statements of Cash Flows for the Six Months Ended December 31, 2022 and 2021 (unaudited)
+5
+Notes to Condensed Consolidated Financial Statements (unaudited)
+6
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+17
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+24
+Item 4.
+Controls and Procedures
+24
+Part II. Other Information
+Item 1.
+Legal Proceedings
+25
+Item 1A.
+Risk Factors
+25
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 3.
+Defaults Upon Senior Securities
+25
+Item 4.
+Mine Safety Disclosure
+25
+Item 5.
+Other Information
+25
+Item 6.
+Exhibits
+26
+Other
+Signatures
+27
+Cautionary Statement Regarding Forward-Looking Statements
+Certain statements in this Quarterly Report on Form 10-Q may constitute “forward-looking” statements as defined in Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), Section 21E of the Securities Exchange Act of 1934, (the “Exchange Act”), the Private Securities Litigation Reform Act of 1995 (the “PSLRA”) or in releases made by the Securities and Exchange Commission (“SEC”), all as may be amended from time to time. Such forward-looking statements involve known and unknown risks, uncertainties and other important factors that could cause the actual results, performance or achievements of Integrated BioPharma, Inc. and its subsidiaries (collectively, the “Company”) or industry results, to differ materially from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, among others, changes in general economic and business conditions; loss of market share through competition; introduction of competing products by other companies; the timing of regulatory approval and the introduction of new products by the Company; changes in industry capacity; pressure on prices from competition or from purchasers of the Company's products; regulatory changes in the pharmaceutical manufacturing industry and nutraceutical industry; regulatory obstacles to the introduction of new technologies or products that are important to the Company; availability of qualified personnel; the loss of any significant customers or suppliers; the impact of the COVID-19 pandemic; the impact of the war in Ukraine the tightened labor markets and inflation, and other factors both referenced and not referenced in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2022 (“Form 10-K”), as filed with the SEC. Statements that are not historical fact are forward-looking statements. Forward-looking statements can be identified by, among other things, the use of forward-looking language, such as the words, “plan”, “believe”, “expect”, “anticipate”, “intend”, “estimate”, “project”, “may”, “will”, “would”, “could”, “should”, “seeks”, or “scheduled to”, or other similar words, or the negative of these terms or other variations of these terms or comparable language, or by discussion of strategy or intentions. These cautionary statements are being made pursuant to the Securities Act, the Exchange Act and the PSLRA with the intention of obtaining the benefits of the “safe harbor” provisions of such laws. The Company cautions investors that any forward-looking statements made by the Company are not guarantees or indicative of future performance. Important assumptions and other important factors that could cause actual results to differ materially from those forward-looking statements with respect to the Company, include, but are not limited to, the risks and uncertainties affecting their businesses described in Item 1A of the Company’s Form 10-K and in other filings by the Company with the SEC. Although the Company believes that its plans, intentions and expectations reflected in or suggested by such forward-looking statements are reasonable, actual results could differ materially from a projection or assumption in any of its forward-looking statements. The Company’s future financial condition and results of operations, as well as any forward-looking statements, are subject to change and inherent risks and uncertainties. The forward-looking statements contained in this Quarterly Report on Form 10-Q are made only as of the date hereof and the Company does not have or undertake any obligation to update or revise any forward-looking statements whether as a result of new information, subsequent events or otherwise, unless otherwise required by law.
+-1-
+ITEM 1. FINANCIAL STATEMENTS
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except share and per share amounts)
+(Unaudited)
+Three months ended
+Six months ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Sales, net
+$
+12,254
+$
+14,594
+$
+24,580
+$
+27,345
+Cost of sales
+11,184
+12,844
+22,513
+24,171
+Gross profit
+1,070
+1,750
+2,067
+3,174
+Selling and administrative expenses
+1,103
+1,020
+2,070
+1,859
+Operating (loss) income
+( 33
+)
+730
+( 3
+)
+1,315
+Other income (expense), net
+Interest expense
+( 12
+)
+( 42
+)
+( 25
+)
+( 74
+)
+Realized loss on sale of investment in iBio Stock
+( 35
+)
+-
+( 35
+)
+-
+Unrealized gain (loss) on investments
+31
+( 22
+)
+27
+( 42
+)
+Other income, net
+4
+25
+7
+31
+Other income (expense), net
+( 12
+)
+( 39
+)
+( 26
+)
+( 85
+)
+(Loss) income before income taxes
+( 45
+)
+691
+( 29
+)
+1,230
+Income tax (expense) benefit, net
+( 10
+)
+340
+( 61
+)
+317
+Net income
+$
+( 55
+)
+$
+1,031
+$
+( 90
+)
+$
+1,547
+Basic earnings per common share
+$
+( 0.00
+)
+$
+0.04
+$
+( 0.00
+)
+$
+0.05
+Diluted earnings per common share
+$
+0.03
+$
+0.03
+$
+0.05
+$
+0.05
+Weighted average common shares outstanding - basic
+29,949,610
+29,823,919
+29,929,610
+29,823,029
+Add: Equivalent shares outstanding - Stock Options
+-
+2,623,104
+-
+2,617,930
+Weighted average common shares outstanding - diluted
+29,949,610
+32,447,023
+29,929,610
+32,440,959
+See accompanying notes to unaudited condensed consolidated financial statements.
+-2-
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF
+FINANCIAL CONDITION
+(in thousands, except share and per share amounts)
+(Unaudited)
+December 31,
+June 30,
+2022
+2022
+Assets
+Current Assets:
+Cash
+$ 1,085     $ 331
+Accounts receivable, net
+4,509       4,888
+Inventories
+10,264       11,055
+Other current assets
+527       352
+Total current assets
+16,385       16,626
+Property and equipment, net
+1,789       1,910
+Operating lease right-of-use assets (includes $ 2,435
+and $ 1,839
+with a related party)
+3,053       1,867
+Deferred tax assets, net
+4,764       4,798
+Security deposits and other assets
+61       49
+Total Assets
+$ 26,052     $ 25,250
+Liabilities and Stockholders' Equity:
+Current Liabilities:
+Advances under revolving credit facility
+$ -     $ 101
+Accounts payable (includes $99 and $72 due to related party)
+2,955       3,209
+Accrued expenses and other current liabilities
+1,322       1,411
+Current portion of long term debt, net
+42       32
+Current portion of operating lease liabilities (includes $ 756
+and $ 503
+with a related party)
+869       510
+Total current liabilities
+5,188       5,263
+Long term debt     28       53
+Operating lease liabilities (includes $ 1,679
+and $ 1,338
+with a related party)
+2,184       1,359
+Total liabilities
+7,400       6,675
+Commitments and Contingencies (Note 6)
+Stockholders' Equity :
+Common Stock, $ 0.002
+par value;
+50,000,000
+shares authorized;
+29,984,510
+and
+29,949,610  shares issued and outstanding, respectively
+60       60
+Additional paid-in capital
+51,086       50,919
+Accumulated deficit
+( 32,395 )     ( 32,305 )
+Less: Treasury stock, at cost,
+34,900
+shares
+( 99 )     ( 99 )
+Total Stockholders' Equity
+18,652       18,575
+Total Liabilities and Stockholders' Equity
+$ 26,052     $ 25,250
+See accompanying notes to unaudited condensed consolidated financial statements.
+-3-
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS OF STOCKHOLDERS ’
+EQUITY
+FOR THE THREE AND SIX MONTHS ENDED DECEMBER 31, 2021 AND 2020
+(in thousands, except share and per share amounts)
+(Unaudited)
+FOR THE THREE AND SIX MONTHS ENDED DECEMBER 31,  2022:
+Total
+Common Stock
+Additional
+Accumulated
+Treasury Stock
+Stockholders'
+Shares
+Par Value
+Paid-in-Capital
+Deficit
+Shares
+Cost
+Equity
+Balance, July 1, 2022
+29,984,510
+$
+60
+$
+50,919
+$
+( 32,305
+)
+34,900
+$
+( 99
+)
+$
+18,575
+Stock compensation expense for employee stock options
+-
+-
+81
+-
+-
+-
+81
+Net loss
+-
+-
+-
+( 35
+)
+-
+-
+( 35
+)
+Balance, September 30, 2022
+29,984,510
+60
+51,000
+( 32,340
+)
+34,900
+( 99
+)
+18,621
+Stock compensation expense for employee stock options
+-
+-
+86
+-
+-
+-
+86
+Net loss
+-
+-
+-
+( 55
+)
+-
+-
+( 55
+)
+Balance, December 31, 2022
+29,984,510
+$
+60
+$
+51,086
+$
+( 32,295
+)
+34,900
+$
+( 99
+)
+$
+18,652
+FOR THE THREE AND SIX MONTHS ENDED DECEMBER 31,  2021:
+Total
+Common Stock
+Additional
+Accumulated
+Treasury Stock
+Stockholders'
+Shares
+Par Value
+Paid-in-Capital
+Deficit
+Shares
+Cost
+Equity
+Balance, July 1, 2021
+29,838,177
+$
+60
+$
+50,516
+$
+( 36,143
+)
+34,900
+$
+( 99
+)
+$
+14,334
+Stock compensation expense for employee stock options
+-
+-
+37
+-
+-
+-
+37
+Shares issued upon exercise of employee stock options
+17,000
+-
+4
+-
+-
+-
+4
+Net income
+-
+-
+-
+516
+-
+-
+516
+Balance, September 30, 2021
+29,855,177
+60
+50,557
+( 35,627
+)
+34,900
+( 99
+)
+14,891
+Stock compensation expense for employee stock options
+-
+-
+145
+-
+-
+-
+145
+Shares issued upon exercise of employee stock options
+11,667
+-
+3
+-
+-
+-
+3
+Net income
+-
+-
+-
+1,031
+-
+-
+1,031
+Balance, December 31, 2021
+29,866,844
+$
+60
+$
+50,705
+$
+( 34,596
+)
+34,900
+$
+( 99
+)
+$
+16,070
+See accompanying notes to unaudited condensed consolidated financial statements.
+-4-
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands, except share and per share amounts)
+(Unaudited)
+Six months ended
+December 31,
+2022
+2021
+Cash flows provided by operating activities:
+Net (loss) income
+$
+( 90
+)
+$
+1,547
+Adjustments to reconcile net (loss) income to net cash from operating activities:
+Depreciation and amortization
+181
+164
+Amortization of operating lease right-of-use assets
+374
+251
+Stock based compensation
+167
+182
+Change in deferred tax assets
+34
+( 482
+)
+Realized loss on sale of investment in iBio Stock
+35
+-
+Unrealized (gain) loss on investment in iBio Stock
+( 27
+)
+42
+Other, Net
+6
+( 6
+)
+Changes in operating assets and liabilities:
+Decrease (increase) in:
+Accounts receivable, net
+379
+309
+Inventories
+791
+( 1,426
+)
+Other current assets
+( 187
+)
+( 313
+)
+Security deposits and other assets
+( 21
+)
+( 9
+)
+(Decrease) increase in:
+Accounts payable
+( 232
+)
+835
+Accrued expenses and other liabilities
+( 89
+)
+( 129
+)
+Operating lease obligations
+( 373
+)
+( 252
+)
+Net cash provided by operating activities
+948
+713
+Cash flows from investing activities:
+Purchase of property and equipment
+( 82
+)
+( 308
+)
+Proceeds from sale of iBio Stock
+4
+-
+Proceeds from sale of machinery and equipment
+-
+21
+Net cash used in investing activities
+( 78
+)
+( 287
+)
+Cash flows from financing activities:
+Advances (repayments) under revolving credit facility
+( 101
+)
+972
+Proceeds from exercise of employee stock options
+-
+7
+Repayments under term note payables
+-
+( 1,453
+)
+Repayments under finance lease obligations
+( 15
+)
+-
+Net cash used in financing activities
+( 116
+)
+( 474
+)
+Net increase (decrease) in cash
+754
+( 48
+)
+Cash at beginning of period
+331
+210
+Cash at end of period
+$
+1,085
+$
+162
+Supplemental disclosures of cash flow information:
+Interest paid
+$
+21
+$
+59
+Income taxes paid
+$
+-
+$
+371
+Supplemental disclosures of non-cash flow transactions:
+Acquisition of right-of-use assets, net
+1,560
+-
+Amount owed on purchase of property and equipment
+$
+-
+$
+2
+See accompanying notes to unaudited condensed consolidated financial statements.
+-5-
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+Note
+1.
+Nature of Operations, Principles of Consolidation and Basis of Presentation of Interim Financial Statements
+Nature of Operations
+Integrated BioPharma, Inc., a Delaware corporation (together with its subsidiaries, the “Company”), is engaged primarily in manufacturing, distributing, marketing and sales of vitamins, nutritional supplements and herbal products.  The Company’s customers are located primarily in the United States and Luxembourg. The Company was originally incorporated in the state of Delaware on
+August 31, 1995
+under the name Chem International, Inc. On
+December 5, 2000,
+the Company changed its name to Integrated Health Technologies, Inc. and on
+January 29, 2003
+changed its name to Integrated BioPharma, Inc.  The Company restated its certificate of incorporation in Delaware in
+June 2006.
+The Company continues to do business as Chem International, Inc. with certain of its customers and certain vendors.
+The Company’s business segments include: (a) Contract Manufacturing operated by Manhattan Drug Company, Inc. (“MDC”), which manufactures vitamins and nutritional supplements for sale to distributors, multilevel marketers and specialized health-care providers and (b) Other Nutraceutical Businesses which includes the operations of (i) AgroLabs, Inc. (“AgroLabs”), which distributed healthful nutritional products for sale through major mass market, grocery and drug and vitamin retailers under the following brands: Peaceful Sleep, and Wheatgrass and other products introduced into the market using the AgroLabs name (these are referred to as our branded products); (ii) The Vitamin Factory (the “Vitamin Factory”), which sells private label MDC products, as well as our AgroLabs products, through the Internet,  (iii) IHT Health Products, Inc. (“IHT”) a distributor of fine natural botanicals, including multi minerals produced under a license agreement, (iv) MDC Warehousing and Distribution, Inc. (“MDC Warehousing“), a service provider for warehousing and fulfilment services and (v) Chem International, Inc., a distributor of certain raw materials for DSM Nutritional Products LLC.  The Vitamin Factory had
+no
+products available for sale and AgroLabs had
+no
+sales of its branded products in the
+three
+and
+six
+months ended
+December 31, 2022
+and
+2021.
+Principles of Consolidation
+The accompanying condensed consolidated financial statements for the interim periods are unaudited and include the accounts of Company.  Intercompany transactions and accounts have been eliminated in consolidation.
+Basis of Presentation of Interim Financial Statements
+The accompanying condensed consolidated financial statements for the interim periods are unaudited and include the accounts of Integrated BioPharma, Inc., a Delaware corporation (together with its subsidiaries, the “Company”). The interim condensed consolidated financial statements have been prepared in conformity with Rule
+8 - 03
+of Regulation S- X
+of the Securities and Exchange Commission (“SEC”) and therefore do
+not
+include information or footnotes necessary for a complete presentation of financial position, results of operations and cash flows in conformity with accounting principles generally accepted in the United States of America (“GAAP”).  However, all adjustments (consisting only of normal recurring adjustments) which are, in the opinion of management, necessary for a fair presentation of the financial position and operating results for the periods presented have been included. These condensed consolidated financial statements should be read in conjunction with the financial statements and notes thereto, together with Management’s Discussion and Analysis of Financial Condition and Results of Operations, contained in the Company’s Annual Report on Form
+10 -K for the fiscal year ended
+June 30, 2022 ( “Form
+10 -K”), as filed with the SEC. The
+June 30, 2022
+balance sheet was derived from audited financial statements,
+-
+6 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+but does
+not
+include all disclosures required by GAAP. The preparation of the unaudited condensed financial statements in conformity with these accounting principles requires management to make estimates and assumptions that affect the amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of expenses during the period.  Ultimate results could differ from the estimates of management.  The results of operations for the
+three
+and
+six
+months ended
+December 31, 2022
+are
+not
+necessarily indicative of the results for the full fiscal year ending
+June 30, 2023
+or for any other period.
+Significant Accounting Policies
+Revenue Recognition.
+The Company recognizes product sales revenue, the prices of which are fixed and determinable, when title and risk of loss have transferred to the customer, when estimated provisions for product returns, rebates, charge-backs and other sales allowances are reasonably determinable, and when collectability is reasonably assured. Accruals for these items are presented in the consolidated financial statements as reductions to sales. The Company’s net sales represent gross sales invoiced to customers, less certain related charges for discounts, returns, rebates, charge-backs and other allowances. Cost of sales includes the cost of raw materials and all labor and overhead associated with the manufacturing and packaging of the products. Gross margins are affected by, among other things, changes in the relative sales mix among our products and valuation and/or charge off of slow moving, expired or obsolete inventories. To perform revenue recognition for arrangements within the scope of ASC
+606,
+the Company performs the following
+five
+steps:
+●
+identification of the promised goods or services in the contract;
+●
+determination of whether the promised goods or serves are performance obligations including whether they are distinct in the context of the contract;
+●
+measurement of the transaction price, including the constraint on variable consideration;
+●
+allocation of the transaction price to the performance obligations based on estimated selling prices; and
+●
+recognition of revenue when (or as) the Company satisfies each performance obligation. A performance obligation is a promise to transfer a distinct good or service to the customer and is the unit of account in ASC
+606.
+Income Taxes.
+The Company accounts for income taxes using the asset and liability method. Accordingly, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in the tax rate is recognized in income or expense in the period that the change is effective. Tax benefits are recognized when it is probable that the deduction will be sustained. A valuation allowance is established when it is more likely than
+not
+that all or a portion of a deferred tax asset will
+not
+be realized.
+-
+7 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+For the
+three
+months ended
+December 31, 2022
+and
+2021,
+the Company had a federal income tax benefit of $ 4  and $ 444 , respectively and state income tax expense, net of approximately $ 14
+and $ 104 , respectively.  For the
+six
+months ended
+December 31, 2022
+and
+2021,
+the Company had a federal deferred tax expense of $ 21
+and a federal income tax benefit of $ 482 , respectively and state income tax expense, net of approximately $ 44
+and $ 311 , respectively.  The net federal income tax benefit of $ 444
+in the
+three
+months ended
+December 31, 2021,
+includes the release of $ 546
+of the allowance on deferred tax assets, respectively. The net federal income tax benefit of $ 482 , in the
+six
+months ended
+December 31, 2021,
+includes the release of $ 674
+of the allowance on deferred tax assets.
+Leases.
+The Company determines if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use (“ROU”) assets, other current liabilities, and operating lease liabilities on its consolidated balance sheets. Finance leases are included in property and equipment, current portion of long term debt, and long-term debt obligation on our condensed consolidated statement of financial condition.
+Operating lease ROU assets and operating lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at commencement date. As most of our leases do
+not
+provide an implicit rate, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of future payments. The operating lease ROU asset also includes any lease payments made and excludes lease incentives and initial direct costs incurred. Our lease terms
+may
+include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for minimum lease payments is recognized on a straight-line basis over the lease term.
+The Company has lease agreements with lease and non-lease components, which are generally accounted for separately. For certain equipment leases, such as vehicles, the Company accounts for the lease and non-lease components as a single lease component.
+Earnings Per Share.
+Basic earnings per common share amounts are based on weighted average number of common shares outstanding. Diluted earnings per share amounts are based on the weighted average number of common shares outstanding, plus the incremental shares that would have been outstanding upon the assumed exercise of all potentially dilutive stock options, subject to anti-dilution limitations using the treasury stock method.
+The following options and potentially dilutive shares for stock options were
+not
+included in the computation of weighted average diluted common shares outstanding as the effect of doing so would be anti-dilutive for the
+three
+and
+six
+months ended
+December 31, 2022
+and
+2021:
+Three Months Ended
+Six Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Anti-dilutive stock options
+4,597,283       115,000       4,597,283       115,000
+Total anti-dilutive shares
+4,597,283       115,000       4,597,283       115,000
+Note
+2.
+Inventories
+Inventories are stated at the lower of cost or net realizable value using the
+first -in,
+first -out method and consist of the following:
+December 31,
+June 30,
+2022
+2022
+Raw materials
+$ 7,764     $ 7,856
+Work-in-process
+1,460       1,759
+Finished goods
+1,040       1,440
+Total
+$ 10,264     $ 11,055
+-8-
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+Note
+3.
+Property and Equipment, net
+Property and equipment, net consists of the following:
+December 31,
+June 30,
+2022
+2022
+Land and building
+$ 1,250     $ 1,250
+Leasehold improvements
+1,371       1,371
+Machinery and equipment
+6,768       6,727
+Transportation equipment
+6       6
+9,395       9,354
+Less: Accumulated depreciation and amortization
+( 7,606 )     ( 7,444 )
+Total
+$ 1,789     $ 1,910
+Depreciation and amortization expense recorded on property and equipment was $ 93
+and $ 79
+for the
+three
+months and $ 181
+and $ 164
+for
+six
+months ended
+December 31, 2022
+and
+2021,
+respectively.  Additionally, the Company disposed of fully depreciated property of $ 19
+and $ 111
+in the
+six
+months ended
+December 31, 2022
+and
+2021,
+respectively and recognized gain on sale of $ 21
+in the
+six
+months ended
+December 31, 2021.
+Note
+4.
+Senior Credit Facility  and Financed Lease Obligation
+As of
+December 31, 2022
+and
+June 30, 2022,
+the Company had the following debt outstanding:
+Principal Amount
+Interest Rate
+Maturity Date
+As of December 31, 2022
+As of June 30, 2022
+Revolving advances under Senior Credit
+Facility with PNC Bank, National Association
+$ -     $ 101       7.50 %
+5/15/2024
+Financed lease obligation
+70       85       0.0 %
+8/15/2024
+Total outstanding debt
+70       186
+Less:  Revolving Advances
+-       ( 101 )
+Current portion of long term debt, net
+( 42 )     ( 32 )
+Long term debt, net
+$ 28     $ 53
+SENIOR CREDIT FACILITY
+On
+May 15, 2019,
+the Company, MDC, AgroLabs, IHT, IHT Properties Corp. (“IHT Properties”) and Vitamin Factory (collectively, the “Borrowers”) amended the Revolving Credit, Term Loan and Security Agreement (the “Amended Loan Agreement”) with PNC Bank, National Association as agent and lender (“PNC”) and the other lenders party thereto entered into on
+June 27, 2012,
+as amended on
+February 19, 2016.
+The Amended Loan Agreement provides for a total of $ 11,585
+in senior secured financing (the “Senior Credit Facility”) as follows: (i) discretionary advances (“Revolving Advances”) based on eligible accounts receivable and eligible inventory in the maximum amount of $ 8,000
+(the “Revolving Credit Facility”), and (ii) a term loan in the amount of $ 3,585
+(the “Term Loan”). The Senior Credit Facility is secured by all assets of the Borrowers, including, without limitation, machinery and equipment, real estate owned by IHT Properties, and common stock of iBio, Inc. (“iBio Stock”) owned by the Company.  As of
+December 31, 2022,
+the Company has sold all of its investment in iBio Stock, the proceeds of which were paid to PNC, as disclosed below.  Revolving Advances bear interest at PNC’s Base Rate ( 7.5 % and
+4.75 % as of
+December 31
+and
+June 30, 2022,
+respectively) or the Eurodollar Rate, at Borrowers’ option, plus
+2.50 %. The Term Loan bore interest at PNC’s Base Rate ( 5.0 % as of
+June 30, 2022)
+or the Eurodollar Rate at Borrowers’ option, plus
+3.00 %.  As of
+February 10, 2023,  the Revolving Advance interest rate is
+7.75 %.
+-
+9 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+Upon and after the occurrence of any event of default under the Amended Loan Agreement, and during the continuation thereof, interest shall be payable at the interest rate then applicable plus
+2 %. The Senior Credit Facility matures on
+May 15, 2024 ( the “Senior Maturity Date”).
+The principal balance of the Revolving Advances is payable on the Senior Maturity Date, subject to acceleration, based upon a material adverse event clause, as defined, subjective accelerations for borrowing base reserves, as defined or upon the occurrence of any event of default under the Amended Loan Agreement or earlier termination of the Amended Loan Agreement pursuant to the terms thereof. The Term Loan shall be repaid in
+eighty-four
+( 84 ) consecutive monthly installments of principal, the
+first
+eighty-three
+( 83 ) of which shall be in the amount of $ 43 , commencing on the
+first
+business day of
+June, 2019,
+and continuing on the
+first
+business day of each month thereafter, with a final payment of any unpaid balance of principal and interest payable on the Senior Maturity Date. The foregoing is subject to customary mandatory prepayment provisions and acceleration upon the occurrence of any event of default under the Amended Loan Agreement or earlier termination of the Amended Loan Agreement pursuant to the terms thereof.  The Company satisfied all the principal payments under the Term Note on
+January 3, 2022.
+The Revolving Advances are subject to the terms and conditions set forth in the Amended Loan Agreement and are made in aggregate amounts at any time equal to the lesser of ( x ) $ 8,000
+or (y) an amount equal to the sum of: (i) up to
+85 %, subject to the provisions in the Amended Loan Agreement, of eligible accounts receivables (“Receivables Advance Rate”), plus (ii) up to the lesser of (A)
+75 %, subject to the provisions in the Amended Loan Agreement, of the value of the eligible inventory (“Inventory Advance Rate” and together with the Receivables Advance Rate, collectively, the “Advance Rates”), (B)
+85 % of the appraised net orderly liquidation value of eligible inventory (as evidenced by the most recent inventory appraisal reasonably satisfactory to PNC in its sole discretion exercised in good faith) and (C) the inventory sublimit in the aggregate at any
+one
+time (“Inventory Advance Rate” and together with the Receivables Advance Rate, collectively, the “Advance Rates”), minus (iii) the aggregate Maximum Undrawn Amount, as defined in the Amended Loan Agreement, of all outstanding letters of credit, minus (iv) such reserves as PNC
+may
+reasonably deem proper and necessary from time to time.
+The Amended Loan Agreement contains customary mandatory prepayment provisions, including, without limitation the requirement to use any sales proceeds from the sale of iBio Stock to repay the Term Loan and to prepay the outstanding amount of the Term Note in an amount equal to
+twenty-five
+percent ( 25 %) of Excess Cash Flow (as defined in the Amended Loan Agreement) for each fiscal year commencing with the fiscal year ended
+June 30, 2016,
+payable upon delivery of the financial statements to PNC referred to in and required by the Amended Loan Agreement for such fiscal year but in any event
+not
+later than
+one hundred twenty
+( 120 ) days after the end of each such fiscal year, which amount shall be applied ratably to the outstanding principal installments of the Term Loan in the inverse order of the maturities thereof. The Amended Loan Agreement also contains customary representations and warranties, covenants and events of default, including, without limitation, (i) a fixed charge coverage ratio maintenance requirement and (ii) an event of default tied to any change of control as defined in the Amended Loan Agreement. As of
+December 31, 2022,
+the Company was in compliance with the fixed charge coverage ratio maintenance requirement and with the required annual payments of
+25 % of the Excess Cash Flow for each fiscal year commencing with the fiscal year ended
+June 30, 2016
+and used the proceeds of $ 96
+from the sale of iBio Stock in the fiscal year ended
+June 30, 2021,
+to repay the Term Loan. Additionally, with the required annual payment of
+25%
+of Excess Cash Flow for the fiscal year ended
+June 30, 2021,
+together with the required monthly installments of
+$43,
+the Company satisfied all the remaining principal payments required under the Term Note on
+January 3, 2022.
+-
+10 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+In connection with the Senior Credit Facility, the following loan documents were executed: (i) a Stock Pledge Agreement with PNC, pursuant to which the Company pledged to PNC the iBio Stock; (ii) a Mortgage and Security Agreement with PNC with IHT Properties; and (iii) an Environmental Indemnity Agreement with PNC.
+Note
+5.
+Significant Risks and Uncertainties
+(a) Major Customers.
+In the
+three
+months ended
+December 31, 2022
+and
+2021,
+approximately
+91 % and
+90 %, respectively, of consolidated net sales were derived from
+two
+customers. These
+two
+customers are in the Company’s Contract Manufacturing Segment and represented approximately
+70 % and
+25 % and
+73 % and
+21 % in the
+three
+months ended
+December 31, 2022
+and
+2021,
+respectively of the Contract Manufacturing Segment net sales.  In the
+six
+months ended
+December 31, 2022   and
+2021,
+approximately
+88 % and
+90 % of consolidated net sales, respectively, were derived from the same
+two
+customers and net sales to these
+two
+customers represented approximately
+66 % and
+27 % in the
+six
+months ended
+December 31, 2022
+and
+69 % and
+25 % of net sales in the
+six
+months ended
+December 31, 2021,
+respectively of the Contract Manufacturing Segment net sales.  Accounts receivable from these
+two
+major customers represented approximately
+87 % and
+70 % of total net accounts receivable as of
+December 31
+and
+June 30, 2022,
+respectively. Two other customers in the other Nutraceutical Segment, while
+not
+significant customers of the Company’s consolidated net sales, represented approximately
+81 % and
+1 % and
+34 % and
+23 % of net sales of the Other Nutraceutical Segment in the
+three
+months ended
+December 31, 2022
+and
+2021,
+and
+66 % and
+15 % and
+23 % and
+27 %, of net sales of the Other Nutraceutical Segment in the
+six
+months ended
+December 31, 2022
+and
+2021,
+respectively.
+The loss of any of these customers could have an adverse effect on the Company’s operations. Major customers are those customers who account for more than
+10%
+of net sales.
+(b) Other Business Risks.
+Approximately
+75 % of the Company’s employees are covered by a union contract and are employed in its New Jersey facilities. The contract was renewed effective
+September 1, 2022
+and will expire on
+August 31, 2026.
+The Company is still experiencing supply chain disruptions relating to fuel refinery and transportation issues as it pertains to both shipping and production of plastics.  These issues
+first
+arose as result of the COVID- 19
+pandemic and other geo-political events. This continues to impact the supply and demand of bottles and caps, key components in the Company's Contract Manufacturing Segment.   Transportation, in general, continues to be an issue in the delay of receiving other raw materials and the Company's ability to meet promised delivery dates to the Company's customers in the Contract Manufacturing Segment.
+Additionally, the significant outbreak of this contagious disease in the human population has resulted in a widespread health crisis that could adversely affect the economies and financial markets of many countries, resulting in an economic downturn that could affect demand for the Company’s products and impact the Company’s operating results.
+While the Company hasn’t, to date, seen a significant negative impact in its margins resulting from the coronavirus outbreak, it is experiencing a negative impact on its margins due to inflation and tightened labor markets.
+-
+11 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+During the
+first
+quarter of calendar
+2022,
+the war in Ukraine affected the Company’s customer’s business operations in Ukraine and Russia, resulting in the cancelation of some future orders. The war resulted in the imposition of sanctions by the United States, the United Kingdom, and the European Union, that affect the cross-border operations of businesses operating in Russia. In addition, many multinational companies ceased or suspended their operations in Russia. Therefore, the ability to continue operations in Russia by the Company’s customers is uncertain.  Also, there
+may
+be a shortage of Sunflower Oil products in the near future and this
+may
+cause delays in production of certain raw materials and
+may
+require reformulation of products.
+Additionally, unrelated to the war, a recent export ban of palm oil products from Indonesia
+may
+play a role in reformulation of many products.  This
+may
+cause delays in finished products as these items will need to be reformulated and labels updated and printed with the changes, which
+may
+cause further delays.
+Note
+6.
+Leases and other Commitments and Contingencies
+(a) Leases.
+The Company has operating and finance leases for its corporate and sales offices, warehousing and packaging facilities and certain machinery and equipment, including office equipment. The Company’s leases have remaining terms of approximately
+2
+to
+5
+years.
+The components of lease expense for the
+three
+months ended
+December 31, 2022
+and
+2021,
+were as follows:
+Three months ended December 31,
+2022
+2021
+Related Party - Vitamin Realty
+Other Leases
+Totals
+Related Party - Vitamin Realty
+Other Leases
+Totals
+Operating lease costs
+$ 210     $ 29     $ 239     $ 142     $ 21     $ 163
+Finance Lease Costs:
+Amortization of right-of use assets   $ -     $ 3       3     $ -     $ -     $ -
+Total finance lease cost
+$ -     $ 3     $ 3     $ -     $ -     $ -
+The components of lease expense for the
+six
+months ended
+December 31, 2022
+and
+2021,
+were as follows:
+Six months ended December 31,
+2022
+2021
+Related Party - Vitamin Realty
+Other Leases
+Totals
+Related Party - Vitamin Realty
+Other Leases
+Totals
+Operating lease costs
+$ 421     $ 46     $ 467     $ 283     $ 47     $ 330
+Finance Lease Costs:
+Amortization of right-of use assets     -     $ 6     $ 6     $ -     $ -     $ -
+Total finance lease cost
+$ -     $ 6     $ 6     $ -     $ -     $ -
+Rent and lease amortization costs are included in cost of sales and selling and administrative expenses in the accompanying Condensed Consolidated Statements of Operations.
+Operating Lease Liabilities
+Related Party Operating Lease Liabilities.
+Warehouse and office facilities are leased from Vitamin Realty Associates, LLC (“Vitamin Realty”), which is
+100 % owned by the Company’s chairman, and a major stockholder and certain of his family members, who are the Co-Chief Executive Officers and directors of the Company. On
+January 5, 2012,
+MDC entered into a
+second
+amendment of lease (the “Second Lease Amendment”) with Vitamin Realty for its office and warehouse space in New Jersey increasing its rentable square footage from an aggregate of
+74,898
+square feet to
+76,161
+square feet and extending the expiration date to
+January 31, 2026.
+This Second Lease Amendment provided for minimum annual rental payments of $ 533 , plus increases in real estate taxes and building operating expenses.  On
+July 15, 2022,
+MDC entered into a
+third
+amendment of the lease (the “Third Lease Amendment”) with Vitamin Realty, increasing its rentable square footage to
+116,175 .  This Third Lease Amendment provided for minimum annual rental payments of $ 842 , plus increases in real estate taxes and the building operating expenses allocation percentage and is effective as of
+July 1, 2022.
+-
+12 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+On
+May 19, 2014,
+AgroLabs entered into an amendment to the lease agreement entered into on
+January 5, 2012,
+with Vitamin Realty for an additional
+2,700
+square feet of warehouse space in New Jersey, the term of which was to expire on
+January 31, 2020
+to extend the expiration date to
+June 1, 2024.
+This additional lease provided for minimum lease payments of $ 27
+with annual increases plus the proportionate share of operating expenses.  The AgroLabs Lease was mutually terminated on
+July 15, 2022
+with an effective date of
+July 1, 2022.
+Rent expense and lease amortization costs for the
+three
+months ended
+December 31, 2022
+and
+2021
+on these leases were $ 321
+and $ 223
+respectively, and for the
+six
+months ended
+December 31, 2022
+and
+2021
+were $ 637
+and $ 444 , respectively, and are included in cost of sales and selling and administrative expenses in the accompanying Condensed Consolidated Statements of Operations. As of
+December 31, 2022
+and
+June 30, 2022,
+the Company had outstanding current obligations to Vitamin Realty of $ 99
+and $ 72 , respectively, included in accounts payable in the accompanying Condensed Consolidated Balance Sheet.  Additionally, the Company has operating lease obligations of $ 2,435
+and $ 1,841
+with Vitamin Realty as noted in the accompanying Condensed Consolidated Balance Sheet as of
+December 31, 2022
+and
+June 30, 2022,
+respectively.
+Other Operating Lease Liabilities.
+The Company has entered into certain non-cancelable operating lease agreements expiring up through
+May 31, 2023,
+related to machinery and equipment and office equipment.
+In the
+six
+months ended
+December 31, 2022,
+in addition to the Third Amendment with Vitamin Realty,  the Company renewed, for
+one
+year, an operating lease for office space with an annual commitment of $ 10
+and entered into a
+five
+year lease for additional warehouse space of
+12,500
+square feet with an annual commitment of $ 119
+in the
+first
+year increasing to $ 134
+in the
+fifth
+year of the lease (the “Warehouse Lease”).  The Warehouse Lease includes additional rent of
+not
+less than
+$1
+per month for the Company’s pro rata portion of the lessor’s operating expenses and commenced on
+December 1, 2022.
+As of
+December 31, 2022,
+the Company’s right-of-use assets, lease obligations and remaining cash commitment on these leases were as follows:
+Right-of-use Assets
+Current Portion of Operating Lease Obligations
+Operating Lease Obligations
+Remaining Cash Commitment
+Vitamin Realty Leases
+$ 2,435     $ 756     $ 1,679     $ 2,597
+Warehouse Lease
+593       105       488       698
+Office equipment leases
+25       8       17       28
+$ 3,053     $ 869     $ 2,184     $ 3,323
+As of
+June 30, 2022,
+the Company’s ROU assets, lease obligations and remaining cash commitment on these leases were as follows:
+Right-of-use Assets
+Current Portion Operating Lease Obligations
+Operating Lease Obligations
+Remaining Cash Commitment
+Vitamin Realty Leases
+$ 1,839     $ 503     $ 1,338     $ 1,972
+Office equipment leases
+28       7       21       32
+$ 1,867     $ 510     $ 1,359     $ 2,004
+As of
+December 31, 2022
+and
+June 30, 2022,
+the Company’s weighted average discount rate and remaining term on operating lease liabilities were approximately
+4.24 % and
+3.75 % and
+3.4
+years and
+4.4
+years, respectively.  As of each
+December 31, 2022
+and
+June 30, 2022,
+the Company’s weighted average discount rate for the outstanding finance lease obligation is
+0 % and the remaining term on finance lease obligation is approximately
+1.7
+years and
+2.2
+years, respectively.  The ROU asset related to the finance lease obligation and lease obligation are included in Property and Equipment, net and Long Term Debt, respectively in the accompanying Condensed Consolidated Balance Sheet.
+-
+13 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+Supplemental cash flows information related to leases for the
+six
+months ended
+December 31, 2022,
+is as follows:
+Related Party - Vitamin Realty
+Other Leases
+Totals
+Cash paid for amounts included in the measurement of lease liabilities:
+Operating cash flows from operating leases
+$ 421     $ 46     $ 467
+Operating cash flows from finance leases
+-       -       -
+Financing cash flows from finance lease obligations
+-       15       15
+Supplemental cash flows information related to leases for the
+six
+months ended
+December 31, 2021,
+is as follows:
+Related Party - Vitamin Realty
+Other Leases
+Totals
+Cash paid for amounts included in the measurement of lease liabilities:
+Operating cash flows from operating leases
+$ 283     $ 47     $ 330
+Operating cash flows from finance leases
+-       -       -
+Financing cash flows from finance lease obligations
+-       -       -
+Maturities of operating lease liabilities as of
+December 31, 2022
+were as follows:
+Operating
+Related Party
+Finance
+Year ending
+Lease
+Operating Lease
+Lease
+June 30,
+Commitments
+Commitment
+Obligation
+Total
+2023, remaining
+$ 72     $ 421     $ 21     $ 514
+2024
+146       842       42       1,030
+2025
+149       842       7       998
+2026
+149       492       -       641
+2027
+148       -       -       148
+2028
+62       -       -       62
+Total minimum lease payments
+726       2,597       70       3,390
+Imputed interest
+( 104 )     ( 162 )     -       ( 266 )
+Total
+$ 622     $ 2,435     $ 70     $ 3,127
+-
+14 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+(b) Legal Proceedings.
+The Company is subject, from time to time, to claims by
+third
+parties under various legal theories. The defense of such claims, or any adverse outcome relating to any such claims, could have a material adverse effect on the Company’s liquidity, financial condition and cash flows.
+Note
+7.
+Related Party Transactions
+See Note
+6 (a). Leases for related party lease transactions.
+Note
+8.
+Equity Transactions and Stock-Based Compensation
+In
+November, 2022,
+the Board of Directors authorized the issuance of up to
+538,500
+stock options to Company officers and employees. The Company issued
+527,000
+stock options with an exercise price ranging from $ 0.41
+to $ 0.45 , vesting over
+three
+years, with expiration terms of either
+five
+or
+ten
+years from the date of grant.  For the
+three
+and
+six
+months ended
+December 31, 2022
+and
+2021,
+the Company incurred stock-based compensation expense of $ 86  and $ 145 , and $ 167  and $ 182 , respectively.  The Company expects to record additional stock-based compensation of $ 501  over the remaining vesting periods of approximately
+one
+to
+three
+years for all non-vested stock options.
+The Company used the following assumptions to calculate the fair value of the stock option grants using the Black-Scholes option pricing model on the measurement date during the
+six
+months ended
+December 31, 2022:
+Risk Free Interest Rate
+3.85 % to
+4.00 %
+Volatility
+103.3 % to
+116.9 %
+Term
+4 .5 to 7.5 years
+Dividend Rate
+0.00 %
+Closing Price of Common Stock
+$ 0.41
+The Company calculates expected volatility for a stock-based grant based on historic daily stock price observations of its common stock during the period immediately preceding the grant that is equal in length to the expected term of the grant. The expected term of the options is estimated based on the Company’s historical exercise rate and forfeiture rates are estimated based on employment termination experience. The risk free interest rate is based on U.S. Treasury yields for securities in effect at the time of grants with terms approximating the term of the grants. The assumptions used in the Black-Scholes option valuation model are highly subjective, and can materially affect the resulting valuations.
+-
+15 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+A summary of the Company’s stock option activity, and related information for the
+six
+months ended
+December 31, 2022
+follows:
+Weighted
+Average
+Exercise
+Options
+Price
+Outstanding as of June 30, 2022
+4,443,933     $ 0.36
+Granted
+527,000       0.42
+Exercised
+-       -
+Terminated
+( 373,650 )     0.40
+Expired
+-       -
+Outstanding as of December 31, 2022
+4,597,283     $ 0.36
+Exercisable at December 31, 2022
+3,533,717     $ 0.29
+Note
+9.
+Segment Information
+and Disaggregated Revenue
+The basis for presenting segment results generally is consistent with overall Company reporting. The Company reports information about its operating segments in accordance with GAAP which establishes standards for reporting information about a company’s operating segments.
+The Company has divided its operations into
+two
+reportable segments as follows: Contract Manufacturing, and Other Nutraceutical Businesses. International sales, concentrated primarily in Europe, for the
+three
+months ended
+December 31, 2022
+and
+2021
+were $ 1,914
+and $ 2,333 , respectively and for the
+six
+months ended
+December 31, 2022
+and
+2021
+were $ 2,473
+and $ 4,553 , respectively.
+Financial information relating to the
+three
+months ended
+December 31, 2022
+and
+2021  operations by business segment and disaggregated revenues was as follows:
+Sales, Net
+Segment
+U.S.
+International
+Gross
+Capital
+Customers
+Customers
+Total
+Profit
+Depreciation
+Expenditures
+Contract Manufacturing
+2022
+$ 9,768     $ 1,914     $ 11,682     $ 944     $ 92     $ 32
+2021
+11,729       2,333       14,062       1,550       78       177
+Other Nutraceutical Businesses
+2022
+572       -       572       126       1       -
+2021
+532       -       532       200       1       -
+Total Company
+2022
+10,340       1,914       12,254       1,070       93       32
+2021
+12,261       2,333       14,594       1,750       79       177
+-
+16 -
+INTEGRATED BIOPHARMA, INC. AND ITS SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(in thousands, except share and per share amounts)
+(Unaudited)
+Financial information relating to the
+six
+months ended
+December 31, 2022  and
+2021  operations by business segment and disaggregated revenues was as follows:
+Sales, Net
+Segment
+U.S.
+International
+Gross
+Capital
+Customers
+Customers
+Total
+Profit
+Depreciation
+Expenditures
+Contract Manufacturing
+2022
+$ 20,770     $ 2,473     $ 23,243     $ 1,767     $ 179     $ 82
+2021
+21,874       4,523       26,397       2,851       162       308
+Other Nutraceutical Businesses
+2022
+1,337       -       1,337       300       2       -
+2021
+918       30       948       323       2       -
+Total Company
+2022
+22,107       2,473       24,580       2,067       181       82
+2021
+22,792       4,553       27,345       3,174       164       308
+Total Assets as of
+December 31,
+June 30,
+2022
+2022
+Contract Manufacturing
+$ 19,880     $ 19,061
+Other Nutraceutical Businesses     6,172       6,189
+Total Company
+$ 26,052     $ 25,250
+-17-
+Item 2. MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANICAL CONDITION AND RESULTS OF OPERATION (dollars in thousands)
+Certain statements set forth under this caption constitute “forward-looking statements.” See “Disclosure Regarding Forward-Looking Statements” on page 1 of this Quarterly Report on Form 10-Q for additional factors relating to such statements. The following discussion should also be read in conjunction with the condensed consolidated financial statements of the Company and Notes thereto included herein and the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2022.
+The Company is engaged primarily in the manufacturing, distributing, marketing and sales of vitamins, nutritional supplements and herbal products. The Company’s customers are located primarily in the United States and Luxembourg.
+Business Outlook
+Our future results of operations and the other forward-looking statements contained in this Quarterly Report on Form 10-Q, including this “Management’s Discussion and Analysis of Financial Condition and Results of Operation”, involve a number of risks and uncertainties—in particular, the statements regarding our goals and strategies, new product introductions, plans to cultivate new businesses, future economic conditions, revenue, pricing, gross margin and costs, competition, the tax rate, and potential legal proceedings. We are focusing our efforts to improve operational efficiency and reduce spending that may have an impact on expense levels and gross margin. In addition to the various important factors discussed above, a number of other important factors could cause actual results to differ significantly from our expectations. See the risks described in “Risk Factors” in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2022.
+For the six months ended December 31, 2022, our net sales from operations decreased by $2,765 to approximately $24,580 from approximately $27,345 in the six months ended December 31, 2021.    Our net sales in the Contract Manufacturing Segment decreased by $3,154, offset by an increase in our Other Nutraceuticals Segment of $389.  Net sales decreased in our Contract Manufacturing Segment primarily due to decreased sales volumes to Life Extension and Herbalife in the amounts of $2,620 and $504, respectively.  Revenues in the six months ended December 31, 2022 were higher than the six months ended December 31, 2021 in our Other Nutraceuticals Segment by $389, primarily due to MDC Warehousing from increased business from a significant customer in this business segment representing approximately 66% of the revenue in the six months ended December 31, 2022 in our Other Nutraceuticals Segment.  This customer represented 23% of revenues in our Other Nutraceutical Segment in the six months ended December 31, 2021.  The loss of any of these customers could have a significant adverse impact on our financial condition and results of operations.
+For the six months ended December 31, 2022, we had an operating loss of approximately $3, a decrease of approximately $1,318 from operating income of approximately $1,315 for the six months ended December 31, 2021. Our profit margins decreased from approximately 11.6% of net sales in the six months ended December 31, 2021 to approximately 8.4% of net sales in the six months ended December 31, 2022, primarily as a result of the decreased sales in our Contract Manufacturing Segment of approximately $3,154 and increased direct cost of sales for MDC Warehousing of $248.  Our consolidated selling and administrative expenses increased by approximately $211 or approximately 11.4% in the six months ended December 31, 2022 compared to the six months ended December 31, 2021.  Our salaries and employee benefits increased as a result of increased (i) bonuses of $35, (ii) base pay of $32 and (iii) payroll taxes and other employee benefits of $79.  Other expenses increased by $60 primarily as a result of increased professional and consulting fees of $25 and the six month period ended December 31, 2021 had an offset of $23 to general expenses from an insurance claim reimbursement for property losses incurred from Hurricane IDA.
+Our revenue from our two significant customers in our Contract Manufacturing Segment is dependent on their demand within their respective distribution channels for the products we manufacture for them.  As in any competitive market, our ability to match or beat other contract manufacturers pricing for the same items may also alter our outlook and the ability to maintain or increase revenues.  We will continue to focus on our core businesses and push forward in maintaining our cost structure in line with our sales and expanding our customer base.
+-18-
+We are still experiencing supply chain disruptions relating to fuel refinery and transportation issues as it pertains to both shipping and production of plastics.  These issues first arose as result of the COVID-19 pandemic and other geo-political events.  This continues to impact the supply and demand of bottles and caps, key components in our Contract Manufacturing Segment. Transportation, in general, continues to be an issue in the delay of receiving other raw materials and our ability to meet promised delivery dates to our customers in the Contract Manufacturing Segment.
+Additionally, the significant outbreak of this contagious disease in the human population has resulted in a widespread health crisis that could adversely affect the economies and financial markets of many countries, resulting in an economic downturn that could affect demand for the Company’s products and impact our operating results.
+During the first quarter of calendar 2022, the war in Ukraine affected our customer’s business operations in Ukraine and Russia, resulting in the cancelation of some future orders. The war resulted in the imposition of sanctions by the United States, the United Kingdom, and the European Union, that affect the cross-border operations of businesses operating in Russia. In addition, many multinational companies ceased or suspended their operations in Russia. Therefore, the ability to continue operations in Russia by our customers is uncertain.  Also, there may be a shortage of Sunflower Oil products in the near future and this may cause delays in production of certain raw materials and may require reformulation of products.
+Additionally, unrelated to the war, a recent export ban of palm oil products from Indonesia may play a role in reformulation of many products.  This may cause delays in finished products as these items will need to be reformulated and labels updated and printed with the changes, which may cause further delays.
+While we haven’t, to date, seen a significant negative impact to our margins resulting from the coronavirus outbreak, we are experiencing a slight negative impact on our margins due to inflation and tightened labor markets.
+Critical Accounting Policies and Estimates
+There have been no changes to our critical accounting policies in the three months ended December 31, 2022, except as disclosed in Note 1. Principles of Consolidation and Basis of Presentation of the Condensed Financial Statements of the Company contained in this Quarterly Report on Form 10-Q. Critical accounting policies and the significant estimates made in accordance with them are regularly discussed by management with our Audit Committee. Those policies are discussed under “Critical Accounting Policies” in our “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in Item 7 of our Annual Report on Form 10-K for the year ended June 30, 2022 and in Note 1. Principles of Consolidation and Basis of Presentation of the Condensed Financial Statements of the Company contained in this Quarterly Report on Form 10-Q.
+-19-
+Results of Operations
+(in thousands, except share and per share amounts)
+Our results from operations in the following table, sets forth the income statement data of our results as a percentage of net sales for the periods indicated:
+For the three months
+For the six months
+ended December 31,
+ended December 31,
+2022
+2021
+2022
+2021
+Sales, net
+100.0
+%
+100.0
+%
+100.0
+%
+100.0
+%
+Costs and expenses:
+Cost of sales
+91.3
+%
+88.0
+%
+91.6
+%
+88.4
+%
+Selling and administrative
+9.0
+%
+7.0
+%
+8.4
+%
+6.8
+%
+100.3
+%
+95.0
+%
+100.0
+%
+95.2
+%
+(Loss) income from operations
+(0.3%
+)
+5.0
+%
+(0.0%
+)
+4.8
+%
+Other income (expense), net
+Interest expense
+(0.1%
+)
+(0.3%
+)
+(0.1%
+)
+(0.3%
+)
+Realized loss on sale of investment in iBio Stock
+(0.3%
+)
+-
+(0.1%
+)
+-
+Unrealized (gain) loss on investment in iBio Stock
+0.3
+%
+(0.2%
+)
+0.1
+%
+(0.1%
+)
+Other income, net
+0.0
+%
+0.2
+%
+0.0
+%
+0.1
+%
+Other expense, net
+(0.1%
+)
+(0.3%
+)
+(0.1%
+)
+(0.3%
+)
+(Loss) income before income taxes
+(0.4%
+)
+4.7
+%
+(0.1%
+)
+4.5
+%
+Income tax benefit (expense), net
+0.0
+%
+2.4
+%
+(0.3%
+)
+1.2
+%
+Net (loss) income
+(0.4%
+)
+7.1
+%
+(0.4%
+)
+5.7
+%
+For the Six Months Ended December 31, 2022 compared to the Six Months Ended December 31, 2021
+Sales, net.
+Sales, net, for the six months ended December 31, 2022 and 2021 were $24,580 and $27,345, respectively, a decrease of 10.1%, and were comprised of the following:
+Six months ended
+Dollar
+Percentage
+December 31,
+Change
+Change
+2022
+2021
+2022 vs 2021
+2022 vs 2021
+(amounts in thousands)
+Contract Manufacturing:
+US Customers
+$
+20,770
+$
+21,874
+$
+(1,104
+)
+(5.0%
+)
+International Customers
+2,473
+4,523
+(2,050
+)
+45.3
+%
+Net sales, Contract Manufacturing
+23,243
+26,397
+(3,154
+)
+(11.9%
+)
+Other Nutraceuticals:
+US Customers
+1,337
+918
+419
+45.6
+%
+International Customers
+-
+30
+(30
+)
+(100.0%
+)
+Net sales, Other Nutraceuticals
+1,337
+948
+389
+41.0
+%
+Total net sales
+$
+24,580
+$
+27,345
+$
+(2,765
+)
+(10.1%
+)
+In the six months ended December 31, 2022 and 2021, a significant portion of our consolidated net sales, approximately 88% and 90%, were concentrated among two customers in our Contract Manufacturing Segment, Life Extension and Herbalife. Life Extension and Herbalife represented approximately 66% and 27% and 69% and 25%, respectively, of our Contract Manufacturing Segment’s net sales in the six months ended December 31, 2022 and 2021, respectively.
+-20-
+Revenues in the six months ended December 31, 2022 were higher than the six months ended December 31, 2021 in our Other Nutraceuticals Segment by $389, primarily due to MDC Warehousing from increased business from a significant customer in this business segment representing approximately 66% of the revenue in the six months ended December 31, 2022 in our Other Nutraceuticals Segment.  This customer represented 23% of revenues in our Other Nutraceutical Segment in the six months ended December 31, 2021.    A second customer in our Other Nutraceutical Segment represented 15% and 27% of this segment’s net sales in the six months ended December 31, 2022 and 2021, respectively.  The loss of any of these customers could have a significant adverse impact on our financial condition and results of operations.
+The decrease in net sales of approximately $2,765 was primarily the result of decreased net sales in our Contract Manufacturing Segment of $3,154 primarily due to decreased sales volumes to Life Extension and Herbalife in the amounts of $2,620 and $504, respectively.
+Cost of sales.
+Cost of sales decreased by approximately $1,658 to $22,513 for the six months ended December 31, 2022, as compared to $24,171 for the six months ended December 31, 2021 or approximately 7%. Cost of sales increased as a percentage of sales to 91.6% for the six months ended December 31, 2022 as compared to 88.4% for the six months ended December 31, 2021. The decrease of 7% in the cost of goods sold amount is the result in the change of the product mix sold in the Contract Manufacturing Segment and the decrease in net sales.  The increase in the cost of goods sold as a percentage of net sales, was primarily the result of the decreased net sales used to offset the fixed manufacturing overhead.
+Selling and Administrative Expenses.
+There was an increase in selling and administrative expenses of $211 or approximately 11.4% in the six months ended December 31, 2022 as compared to the six months ended December 31, 2021.  As a percentage of sales, net, selling and administrative expenses were approximately 8.4% and 6.8% in the six months ended December 31, 2022 and 2021, respectively. Our salaries and employee benefits increased by $146 and other selling and administrative expenses increased by $65.  Salaries and employee benefits increased as a result of increased (i) bonuses of $35, (ii) base pay of $32 and (iii) payroll taxes and other employee benefits of $79.  Other expenses increased by $60 primarily as a result of increased professional and consulting fees of $25 and the six month period ended December 31, 2021 had an offset of $23 from an insurance claim reimbursement for property losses incurred from Hurricane IDA. No other component of selling and administrative expenses increased or decreased by more than $15 in the six-month period ended December 31, 2022 compared to the same period ended December 31, 2021.
+Other income (expense), net.
+Other income (expense), net was approximately $26 for the six months ended December 31, 2022 compared to $85 for the six months ended December 31, 2021, and was composed of:
+Six months ended
+December 31,
+2022
+2021
+(dollars in thousands)
+Interest expense
+$
+(25
+)
+$
+(74
+)
+Realized loss on sale of investment in iBio Stock
+(35
+)
+-
+Unrealized gain (loss) on investment in iBio Stock
+27
+(42
+)
+Other income
+7
+31
+Other income (expense), net
+$
+(26
+)
+$
+(85
+)
+Our interest expense for the six months ended December 31, 2022 decreased by $49 from the six-month period ended December 31, 2020, primarily resulting from of lower average daily balances outstanding under the Senior Credit Facility with PNC.
+In the six months ended December 31, 2022, we sold our remaining iBio Stock, for a loss of $35 with no such sales in the six months ended December 31, 2021.  Also, in the six months ended December 31, 2022, we had an unrealized gain on the remaining iBio Stock of approximately $27, with an unrealized loss of approximately $42 on the remaining iBio Stock in the six months ended December 31, 2021.  The six months ended December 31, 2021 had net gains on disposal of fixed assets of $21 and income from back office service agreements of $10, with no such income items in the six months ended December 31, 2022.
+-21-
+Income tax benefit (expense), net.
+For the six months ended December 31, 2022 and 2021, we had a state income tax provision of approximately $44 and $165, respectively and federal income tax expense of $21 in the six months ended December 31, 2022 and a federal income tax benefit of $482 in the six months ended December 31, 2021.   The net federal income tax benefit of $482, in the six months ended December 31, 2021, includes the release of $674 of the allowance on deferred tax assets.
+Net (loss) income.
+We had a net loss for the six months ended December 31, 2022 of approximately $90 compared to net income of approximately $1,547 in the six months ended December 31, 2021. The decrease of approximately $1,637 was primarily the result of decreased operating income of $1,318 and the change in the provision for income taxes of $378, offset by the decrease in other expense, net of $59.
+For the Three Months Ended December 31, 2022 compared to the Three Months Ended December 31, 2021
+Sales, net.
+Sales, net, for the three months ended December 31, 2022 and 2021 were $12,254 and $14,594, respectively, a decrease of 16.0%, and are comprised of the following:
+Three months ended
+Dollar
+Percentage
+December 31,
+Change
+Change
+2022
+2021
+2022 vs 2021
+2022 vs 2021
+(amounts in thousands)
+Contract Manufacturing:
+US Customers
+$
+9,738
+$
+11,729
+$
+(1,961
+)
+(16.7%
+)
+International Customers
+1,914
+2,333
+(419
+)
+(18.0%
+)
+Net sales, Contract Manufacturing
+11,682
+14,062
+(2,380
+)
+(16.9%
+)
+Other Nutraceuticals:
+US Customers
+572
+532
+40
+7.5
+%
+International Customers
+-
+-
+-
+-
+Net sales, Other Nutraceuticals
+572
+532
+40
+7.5
+%
+Total net sales
+$
+12,254
+$
+14,594
+$
+(2,340
+)
+(16.0%
+)
+For the three months ended December 31, 2022 and 2021, a significant portion of our consolidated net sales, approximately 91% and 90%, respectively, were concentrated among two customers, Life Extension and Herbalife, in our Contract Manufacturing Segment. Life Extension and Herbalife, represented approximately 70% and 25% and 73% and 21%, respectively, of our Contract Manufacturing Segment’s net sales in the three months ended December 31, 2022 and 2021, respectively.
+Revenues in the three months ended December 31, 2022 were higher than the three months ended December 31, 2021 in our Other Nutraceuticals Segment by $40, primarily due to MDC Warehousing from increased business from a significant customer in this business segment representing approximately 81% of the revenue in the three months ended December 31, 2022 in our Other Nutraceuticals Segment.  This customer represented 34% of revenues in our Other Nutraceutical Segment in the three months ended December 31, 2021. This was offset by another customer in our Other Nutraceuticals Segment customer with decreased sales of $117. This customer represented 34% and 1% of our Other Nutraceuticals Segment net sales in the three months ended December 31, 2022 and 2021, respectively. The loss of any of these customers could have a significant adverse impact on our financial condition and results of operations.
+The decrease in net sales of approximately $2,340 was primarily the result of decreased net sales in our Contract Manufacturing Segment of $2,380 primarily due to decreased sales volumes to Life Extension and Herbalife of $1,724 and $349, respectively.
+-22-
+Cost of sales.
+Cost of sales decreased by approximately $1,660 to $11,184 for the three months ended December 31, 2022, as compared to $12,844 for the three months ended December 31, 2021 or approximately 13%. Cost of sales increased as a percentage of sales to 91.3% for the three months ended December 31, 2022 as compared to 88.0% for the three months ended December 31, 2021. The decrease of 13% in the cost of goods sold amount is the result in the change of the product mix sold in the Contract Manufacturing Segment and the decrease in net sales.  The increase in the cost of goods sold as a percentage of net sales, was primarily the result of the decreased net sales used to offset the fixed manufacturing overhead.
+Selling and Administrative Expenses.   There was an increase in selling and administrative expenses of $83, approximately 8.2% in the three months ended December 31, 2022 as compared to the three months ended December 31, 2021.  As a percentage of sales, net, selling and administrative expenses were approximately 9.0% and 7.0% in the three months ended December 31, 2022 and 2021, respectively. The increase of $83 was primarily from an increase in  salaries and employee benefit costs of $60, the offset of $38 to other expenses for damages recovered that were incurred as the result of Hurricane IDA and an increase in professional and consulting fees of $19, offset by a decrease in employee stock compensation expense of $59. No other component of selling and administrative expenses increased or decreased by more than $8 in the three-month period ended December 31, 2022 compared to the same period ended December 31, 2021.
+Other income (expense), net.
+Other income (expense), net was approximately $12 for the three months ended December 31, 2022 compared to $39 for the three months ended December 31, 2021, and is composed of:
+Three months ended
+December 31,
+2022
+2021
+(dollars in thousands)
+Interest expense
+$
+(12
+)
+$
+(42
+)
+Realized loss on investment in iBio Stock
+(35
+)
+-
+Unrealized gain (loss) on investment in iBio Stock
+31
+(22
+)
+Other income
+4
+25
+Other expense, net
+$
+(12
+)
+$
+(39
+)
+Our interest expense for the three months ended December 31, 2022 decreased by $30 from the three-month period ended December 31, 2021, primarily as the result of lower average daily balances outstanding under the Senior Credit Facility with PNC.
+In the three months ended December 31, 2022, we sold our remaining iBio Stock, for a loss of $35 with no such sales in the three months ended December 31, 2021.  Also, in the three months ended December 31, 2022, we had an unrealized gain on the remaining iBio Stock of approximately $31, with an unrealized loss of approximately $22 on the remaining iBio Stock in the three months ended December 31, 2021.  The three months ended December 31, 2021 had net gains on disposal of fixed assets of $21 and income from back office service agreements of $5, with no such income items in the three months ended December 31, 2022.
+Income tax benefit (expense), net.
+For the three months ended December 31, 2022 we had a federal income tax benefit of $4 and $444 in the three months ended December 31, 2022 and 2021, respectively and state income tax expense, net of approximately $14 and $104, in the three months ended December 31, 2022 and 2021, respectively.
+Net (loss) income.
+We had a net loss of $55 in the three months ended December 31, 2022 compared to net income of $1,031 for the three months ended December 31, 2021.  The decrease of approximately $1,086 was primarily the result of the decrease in operating income of $763 and the change in the provision for income taxes of $350, offset by the decrease in other expense, net of $27.
+Seasonality
+The nutraceutical business can be seasonal. Due to our current customer base in our contract manufacturing segment, our fiscal quarter ending December 31st each year tends to be more than our average quarterly volume for the other three fiscal quarters in the fiscal year. This increase is based on their forecast of their customer base.
+-23-
+The Company believes that there are non-seasonal factors that may influence the variability of quarterly results including, but not limited to, general economic and industry conditions that affect consumer spending, changing consumer demands and current news on nutritional supplements. Accordingly, a comparison of the Company’s results of operations from consecutive periods is not necessarily meaningful, and the Company’s results of operations for any period are not necessarily indicative of future periods.
+Liquidity and Capital Resources
+The following table sets forth, for the periods indicated, the Company’s net cash flows used in operating, investing and financing activities, its period end cash and cash equivalents and other operating measures:
+For the six months ended
+December 31,
+2022
+2021
+(dollars in thousands)
+Net cash provided by operating activities
+$
+948
+$
+713
+Net cash used in investing activities
+$
+(78
+)
+$
+(287
+)
+Net cash used in financing activities
+$
+(116
+)
+$
+(474
+)
+Cash at end of period
+$
+1,085
+$
+162
+At December 31, 2022, our working capital was approximately $11,197, a decrease of $166 from our working capital of $11,363 at June 30, 2022. Our current assets decreased by $241 offset by the decrease in our current liabilities of $75. The increase in the current assets is primarily from decreases in inventories and accounts receivable, net in the amounts of $791 and $379, respectively, offset, by increases in cash $754 and other current assets of $175.
+Operating Activities
+Net cash provided by operating activities of $948 in the six months ended December 31, 2022 includes net loss of approximately $90. After excluding the effects of non-cash expenses, including depreciation and amortization, and changes in deferred tax assets, the adjusted cash provided from operations before the effect of the changes in working capital components was $680. Net cash provided by our operations in the six months ended December 31, 2022 included cash from our working capital assets and liabilities in the amount of approximately $268 and was primarily the result of decreases in our inventory and accounts receivable, net of $791 and $379, respectively, offset by an aggregate decrease in accounts payable, accrued expenses and other liabilities of $321 and operating lease obligations of $373 and an increase in prepaid expenses and other assets of $208.
+Net cash provided by operating activities of $713 in the six months ended December 31, 2021 includes net income of approximately $1,547. After excluding the effects of non-cash expenses, including depreciation and amortization, and changes in deferred tax assets, the adjusted cash provided from operations before the effect of the changes in working capital components was $1,698. Net cash provided by our operations in the six months ended December 31, 2021 was offset by uses in our working capital assets and liabilities in the amount of approximately $985 and was primarily the result of an increase in our inventory of $1,426, offset by an aggregate increase in accounts payable, accrued expenses and other liabilities of $454.
+Investing Activities
+Cash used in investing activities in the six months ended December 31, 2022 of approximately $78 was for the purchase of machinery and equipment of $82 offset by proceeds from the sale of iBio Stock in the amount of $4. Cash used in investing activities of $287 in the six months ended December 31, 2021 was for the purchase of machinery and equipment of $308 offset by proceeds from the sale of fully depreciated machinery and equipment of $21.
+-24-
+Financing Activities
+Cash used in financing activities was approximately $116 for the six months ended December 31, 2022, and was primarily from repayments of net advances under our revolving credit facility of $101 and principal payments under our financed lease obligations of $15.
+Cash used in financing activities was approximately $474 for the six months ended December 31, 2021, and was primarily from repayments of principal payments under our term note in the amount of $1,453, offset by net advances under our revolving credit facility of approximately $972 and proceeds from exercised stock options of $7.
+As of December 31, 2022, we had cash of $1,085, funds available under our revolving credit facility of approximately $6,104 and working capital of approximately $11,197. We had an operating loss of $3, in the six months ended December 31, 2022, which included non-cash expenses of $348 such as amortization, depreciation and employee stock compensation expense.  After taking into consideration our interim results and current projections, management believes that operations, together with the revolving credit facility will support our working capital requirements at least through the period ending February 10, 2023.
+Our total annual commitments at December 31, 2022 for long term non-cancelable leases of approximately $1,030 consists of obligations under operating leases for facilities and operating lease agreements for the rental of warehouse equipment and office equipment.
+Capital Expenditures
+The Company's capital expenditures for the six months ended December 31, 2022 and 2021 were approximately $82 and $308, respectively. The Company has budgeted approximately $500 for capital expenditures for fiscal year 2023. The total amount is expected to be funded from lease financing and cash provided from the Company’s operations.
+Off-Balance Sheet Arrangements
+The Company has no off-balance sheet arrangements.
+Recent Accounting Pronouncements
+None.
+Impact of Inflation
+The Company does not believe that inflation has significantly affected its results of operations.
+Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not applicable.
+Item 4. CONTROLS AND PROCEDURES
+Disclosure Controls and Procedures
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed by the Company in the reports it files or submits under the Securities Exchange Act of 1934, as amended (the “Exchange Act”) is recorded, processed, summarized, and reported within the time periods specified by the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to provide reasonable assurance that information required to be disclosed by the Company in the reports it files or submits under the Exchange Act is accumulated and communicated to management, including the Co-Chief Executive Officers and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+-25-
+Under the supervision and with the participation of management, including the Co-Chief Executive Officers and Chief Financial Officer, the Company has evaluated the effectiveness of its disclosure controls and procedures (as such term is defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) as of December 31, 2022, and, based upon this evaluation, the Co-Chief Executive Officers and Chief Financial Officer have concluded that these controls and procedures are effective in providing reasonable assurance of compliance.
+Changes in Internal Control over Financial Reporting
+No change in our internal control over financial reporting occurred during the three months ended December 31, 2022 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+PART II
+–
+OTHER INFORMATION
+Item 1. LEGAL PROCEEDINGS
+From time to time, we may become involved in various lawsuits and legal proceedings that arise in the ordinary course of business. However, litigation is subject to inherent uncertainties and an adverse result in these or other matters may arise from time to time that may harm our business. We are currently not aware of any such legal proceedings or claims that we believe will have a material adverse effect on our business, financial condition or operating results.
+Item 1A. Risk Factors
+There have been no material changes to the risk factors set forth in our Annual Report on Form 10-K for the fiscal year ended June 30, 2022.
+Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Recent Sales of Unregistered Securities
+None
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+None
+Item 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+Item 4. MINE SAFETY DISCLOSURE
+Not Applicable.
+Item 5. OTHER INFORMATION
+None.
+-26-
+Item 6. EXHIBITS
+(a)           Exhibits
+Exhibit
+Number
+10.1
+Lease Agreement between Elizabeth Industrial Park, LLC c/o Palin Enterprises, and MDC Warehousing and Distribution, Inc. dated November 22, 2022 .
+31.1
+Certification of pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Chief Executive Officer .
+31.2
+Certification of pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Chief Financial Officer.
+32.1
+Certification of periodic financial report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by Chief Executive Officer.
+32.2
+Certification of periodic financial report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by Chief Financial Officer.
+101.INS***
+Inline XBRL Instance
+Furnished herewith
+101.SCH***
+Inline XBRL Taxonomy Extension Schema
+Furnished herewith
+101.CAL***
+Inline XBRL Taxonomy Extension Calculation
+Furnished herewith
+101.DEF***
+Inline XBRL Taxonomy Extension Definition
+Furnished herewith
+101.LAB***
+Inline XBRL Taxonomy Extension Labels
+Furnished herewith
+101.PRE***
+Inline XBRL Taxonomy Extension Presentation
+Furnished herewith
+104
+Cover Page Interactive Date File (formatted as Inline XBRL and contained in Exhibit 101)
+-27-
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+INTEGRATED BIOPHARMA, INC.
+Date:         February 10, 2023
+By:
+/s/
+Christina Kay
+Christina Kay,
+Co-Chief Executive Officer
+Date:         February 10, 2023
+By: /s/
+Riva Sheppard
+Riva Sheppard,
+Co-Chief Executive Officer
+Date:         February 10, 2023
+By:
+/s/
+Dina L. Masi
+Dina L. Masi,
+Chief Financial Officer & Senior Vice President
+-28-
+-29-

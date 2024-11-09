@@ -1,0 +1,2986 @@
+2023
+10,239
+9,336
+12,113
+11,575
+5
+5
+50,000,000
+50,000,000
+200,000
+200,000
+200,000
+200,000
+100
+100
+9.8
+9.8
+100
+100
+100
+100
+0
+0
+0
+0
+1,000
+1,000
+6
+6
+1,000
+1,000
+1,000
+1,000
+0
+0
+0
+0
+0.01
+0.01
+100,000,000
+100,000,000
+79,873,572
+75,896,050
+80,348,572
+76,458,146
+3,977,522
+3,890,426
+5
+5
+1
+1
+3
+15
+5
+0
+5
+46
+50
+100
+1
+0.02
+These shares of common stock were purchased through a private transaction
+0000015847 2022-05-01 2023-01-31
+xbrli:shares
+0000015847 2023-03-16
+iso4217:USD
+0000015847 2023-01-31
+0000015847 2022-04-30
+iso4217:USD xbrli:shares
+0000015847 us-gaap:PreferredClassAMember 2023-01-31
+0000015847 us-gaap:PreferredClassAMember 2022-04-30
+0000015847 us-gaap:PreferredClassBMember 2023-01-31
+0000015847 us-gaap:PreferredClassBMember 2022-04-30
+xbrli:pure
+0000015847 us-gaap:PreferredClassAMember 2022-05-01 2023-01-31
+0000015847 us-gaap:PreferredClassAMember 2021-05-01 2022-04-30
+0000015847 us-gaap:PreferredClassBMember 2022-05-01 2023-01-31
+0000015847 us-gaap:PreferredClassBMember 2021-05-01 2022-04-30
+0000015847 buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 2022-11-01 2023-01-31
+0000015847 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 2021-05-01 2022-01-31
+0000015847 us-gaap:CommonStockMember 2021-04-30
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2021-04-30
+0000015847 us-gaap:TreasuryStockMember 2021-04-30
+0000015847 us-gaap:RetainedEarningsMember 2021-04-30
+0000015847 us-gaap:ParentMember 2021-04-30
+0000015847 us-gaap:NoncontrollingInterestMember 2021-04-30
+0000015847 2021-04-30
+0000015847 us-gaap:CommonStockMember 2021-05-01 2021-07-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2021-05-01 2021-07-31
+0000015847 us-gaap:TreasuryStockMember 2021-05-01 2021-07-31
+0000015847 us-gaap:RetainedEarningsMember 2021-05-01 2021-07-31
+0000015847 us-gaap:ParentMember 2021-05-01 2021-07-31
+0000015847 us-gaap:NoncontrollingInterestMember 2021-05-01 2021-07-31
+0000015847 2021-05-01 2021-07-31
+0000015847 us-gaap:CommonStockMember 2021-07-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2021-07-31
+0000015847 us-gaap:TreasuryStockMember 2021-07-31
+0000015847 us-gaap:RetainedEarningsMember 2021-07-31
+0000015847 us-gaap:ParentMember 2021-07-31
+0000015847 us-gaap:NoncontrollingInterestMember 2021-07-31
+0000015847 2021-07-31
+0000015847 us-gaap:CommonStockMember 2021-08-01 2021-10-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2021-08-01 2021-10-31
+0000015847 us-gaap:TreasuryStockMember 2021-08-01 2021-10-31
+0000015847 us-gaap:RetainedEarningsMember 2021-08-01 2021-10-31
+0000015847 us-gaap:ParentMember 2021-08-01 2021-10-31
+0000015847 us-gaap:NoncontrollingInterestMember 2021-08-01 2021-10-31
+0000015847 2021-08-01 2021-10-31
+0000015847 us-gaap:CommonStockMember 2021-10-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2021-10-31
+0000015847 us-gaap:TreasuryStockMember 2021-10-31
+0000015847 us-gaap:RetainedEarningsMember 2021-10-31
+0000015847 us-gaap:ParentMember 2021-10-31
+0000015847 us-gaap:NoncontrollingInterestMember 2021-10-31
+0000015847 2021-10-31
+0000015847 us-gaap:CommonStockMember 2021-11-01 2022-01-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2021-11-01 2022-01-31
+0000015847 us-gaap:TreasuryStockMember 2021-11-01 2022-01-31
+0000015847 us-gaap:RetainedEarningsMember 2021-11-01 2022-01-31
+0000015847 us-gaap:ParentMember 2021-11-01 2022-01-31
+0000015847 us-gaap:NoncontrollingInterestMember 2021-11-01 2022-01-31
+0000015847 us-gaap:CommonStockMember 2022-01-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2022-01-31
+0000015847 us-gaap:TreasuryStockMember 2022-01-31
+0000015847 us-gaap:RetainedEarningsMember 2022-01-31
+0000015847 us-gaap:ParentMember 2022-01-31
+0000015847 us-gaap:NoncontrollingInterestMember 2022-01-31
+0000015847 2022-01-31
+0000015847 us-gaap:CommonStockMember 2022-04-30
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2022-04-30
+0000015847 us-gaap:TreasuryStockMember 2022-04-30
+0000015847 us-gaap:RetainedEarningsMember 2022-04-30
+0000015847 us-gaap:ParentMember 2022-04-30
+0000015847 us-gaap:NoncontrollingInterestMember 2022-04-30
+0000015847 us-gaap:CommonStockMember 2022-05-01 2022-07-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2022-05-01 2022-07-31
+0000015847 us-gaap:TreasuryStockMember 2022-05-01 2022-07-31
+0000015847 us-gaap:RetainedEarningsMember 2022-05-01 2022-07-31
+0000015847 us-gaap:ParentMember 2022-05-01 2022-07-31
+0000015847 us-gaap:NoncontrollingInterestMember 2022-05-01 2022-07-31
+0000015847 2022-05-01 2022-07-31
+0000015847 us-gaap:CommonStockMember 2022-07-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2022-07-31
+0000015847 us-gaap:TreasuryStockMember 2022-07-31
+0000015847 us-gaap:RetainedEarningsMember 2022-07-31
+0000015847 us-gaap:ParentMember 2022-07-31
+0000015847 us-gaap:NoncontrollingInterestMember 2022-07-31
+0000015847 2022-07-31
+0000015847 us-gaap:CommonStockMember 2022-08-01 2022-10-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2022-08-01 2022-10-31
+0000015847 us-gaap:TreasuryStockMember 2022-08-01 2022-10-31
+0000015847 us-gaap:RetainedEarningsMember 2022-08-01 2022-10-31
+0000015847 us-gaap:ParentMember 2022-08-01 2022-10-31
+0000015847 us-gaap:NoncontrollingInterestMember 2022-08-01 2022-10-31
+0000015847 2022-08-01 2022-10-31
+0000015847 us-gaap:CommonStockMember 2022-10-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2022-10-31
+0000015847 us-gaap:TreasuryStockMember 2022-10-31
+0000015847 us-gaap:RetainedEarningsMember 2022-10-31
+0000015847 us-gaap:ParentMember 2022-10-31
+0000015847 us-gaap:NoncontrollingInterestMember 2022-10-31
+0000015847 2022-10-31
+0000015847 us-gaap:CommonStockMember 2022-11-01 2023-01-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2022-11-01 2023-01-31
+0000015847 us-gaap:TreasuryStockMember 2022-11-01 2023-01-31
+0000015847 us-gaap:RetainedEarningsMember 2022-11-01 2023-01-31
+0000015847 us-gaap:ParentMember 2022-11-01 2023-01-31
+0000015847 us-gaap:NoncontrollingInterestMember 2022-11-01 2023-01-31
+0000015847 us-gaap:CommonStockMember 2023-01-31
+0000015847 us-gaap:AdditionalPaidInCapitalMember 2023-01-31
+0000015847 us-gaap:TreasuryStockMember 2023-01-31
+0000015847 us-gaap:RetainedEarningsMember 2023-01-31
+0000015847 us-gaap:ParentMember 2023-01-31
+0000015847 us-gaap:NoncontrollingInterestMember 2023-01-31
+0000015847 2022-05-01 2023-01-23
+0000015847 2021-05-01 2022-01-23
+0000015847 2023-01-23
+0000015847 2022-01-23
+0000015847 buks:ProfessionalServicesMember srt:NorthAmericaMember 2022-11-01 2023-01-31
+0000015847 buks:AerospaceProductsMember srt:NorthAmericaMember 2022-11-01 2023-01-31
+0000015847 srt:NorthAmericaMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember srt:NorthAmericaMember 2021-11-01 2022-01-31
+0000015847 buks:AerospaceProductsMember srt:NorthAmericaMember 2021-11-01 2022-01-31
+0000015847 srt:NorthAmericaMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember srt:EuropeMember 2022-11-01 2023-01-31
+0000015847 buks:AerospaceProductsMember srt:EuropeMember 2022-11-01 2023-01-31
+0000015847 srt:EuropeMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember srt:EuropeMember 2021-11-01 2022-01-31
+0000015847 buks:AerospaceProductsMember srt:EuropeMember 2021-11-01 2022-01-31
+0000015847 srt:EuropeMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember srt:AsiaMember 2022-11-01 2023-01-31
+0000015847 buks:AerospaceProductsMember srt:AsiaMember 2022-11-01 2023-01-31
+0000015847 srt:AsiaMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember srt:AsiaMember 2021-11-01 2022-01-31
+0000015847 buks:AerospaceProductsMember srt:AsiaMember 2021-11-01 2022-01-31
+0000015847 srt:AsiaMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:AustraliaAndOtherMember 2022-11-01 2023-01-31
+0000015847 buks:AerospaceProductsMember buks:AustraliaAndOtherMember 2022-11-01 2023-01-31
+0000015847 buks:AustraliaAndOtherMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:AustraliaAndOtherMember 2021-11-01 2022-01-31
+0000015847 buks:AerospaceProductsMember buks:AustraliaAndOtherMember 2021-11-01 2022-01-31
+0000015847 buks:AustraliaAndOtherMember 2021-11-01 2022-01-31
+0000015847 us-gaap:CasinoMember buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 us-gaap:CasinoMember buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 us-gaap:CasinoMember 2022-11-01 2023-01-31
+0000015847 us-gaap:CasinoMember buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 us-gaap:CasinoMember buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 us-gaap:CasinoMember 2021-11-01 2022-01-31
+0000015847 buks:SportsbookMember buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:SportsbookMember buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 buks:SportsbookMember 2022-11-01 2023-01-31
+0000015847 buks:SportsbookMember buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:SportsbookMember buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 buks:SportsbookMember 2021-11-01 2022-01-31
+0000015847 buks:CasinoNongamingMember buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:CasinoNongamingMember buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 buks:CasinoNongamingMember 2022-11-01 2023-01-31
+0000015847 buks:CasinoNongamingMember buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:CasinoNongamingMember buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 buks:CasinoNongamingMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:AircraftModificationMember buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:AircraftModificationMember buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 buks:AircraftModificationMember 2022-11-01 2023-01-31
+0000015847 buks:AircraftModificationMember buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:AircraftModificationMember buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 buks:AircraftModificationMember 2021-11-01 2022-01-31
+0000015847 buks:AircraftAvionicsMember buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:AircraftAvionicsMember buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 buks:AircraftAvionicsMember 2022-11-01 2023-01-31
+0000015847 buks:AircraftAvionicsMember buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:AircraftAvionicsMember buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 buks:AircraftAvionicsMember 2021-11-01 2022-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:ProfessionalServicesMember 2022-11-01 2023-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:AerospaceProductsMember 2022-11-01 2023-01-31
+0000015847 buks:SpecialMissionElectronicsMember 2022-11-01 2023-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:ProfessionalServicesMember 2021-11-01 2022-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:AerospaceProductsMember 2021-11-01 2022-01-31
+0000015847 buks:SpecialMissionElectronicsMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:PercentageOfCompletionContractsMember 2022-11-01 2023-01-31
+0000015847 buks:AerospaceProductsMember buks:PercentageOfCompletionContractsMember 2022-11-01 2023-01-31
+0000015847 buks:PercentageOfCompletionContractsMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:PercentageOfCompletionContractsMember 2021-11-01 2022-01-31
+0000015847 buks:AerospaceProductsMember buks:PercentageOfCompletionContractsMember 2021-11-01 2022-01-31
+0000015847 buks:PercentageOfCompletionContractsMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember us-gaap:TransferredAtPointInTimeMember 2022-11-01 2023-01-31
+0000015847 buks:AerospaceProductsMember us-gaap:TransferredAtPointInTimeMember 2022-11-01 2023-01-31
+0000015847 us-gaap:TransferredAtPointInTimeMember 2022-11-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember us-gaap:TransferredAtPointInTimeMember 2021-11-01 2022-01-31
+0000015847 buks:AerospaceProductsMember us-gaap:TransferredAtPointInTimeMember 2021-11-01 2022-01-31
+0000015847 us-gaap:TransferredAtPointInTimeMember 2021-11-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember srt:NorthAmericaMember 2022-05-01 2023-01-31
+0000015847 buks:AerospaceProductsMember srt:NorthAmericaMember 2022-05-01 2023-01-31
+0000015847 srt:NorthAmericaMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember srt:NorthAmericaMember 2021-05-01 2022-01-31
+0000015847 buks:AerospaceProductsMember srt:NorthAmericaMember 2021-05-01 2022-01-31
+0000015847 srt:NorthAmericaMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember srt:EuropeMember 2022-05-01 2023-01-31
+0000015847 buks:AerospaceProductsMember srt:EuropeMember 2022-05-01 2023-01-31
+0000015847 srt:EuropeMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember srt:EuropeMember 2021-05-01 2022-01-31
+0000015847 buks:AerospaceProductsMember srt:EuropeMember 2021-05-01 2022-01-31
+0000015847 srt:EuropeMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember srt:AsiaMember 2022-05-01 2023-01-31
+0000015847 buks:AerospaceProductsMember srt:AsiaMember 2022-05-01 2023-01-31
+0000015847 srt:AsiaMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember srt:AsiaMember 2021-05-01 2022-01-31
+0000015847 buks:AerospaceProductsMember srt:AsiaMember 2021-05-01 2022-01-31
+0000015847 srt:AsiaMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:AustraliaAndOtherMember 2022-05-01 2023-01-31
+0000015847 buks:AerospaceProductsMember buks:AustraliaAndOtherMember 2022-05-01 2023-01-31
+0000015847 buks:AustraliaAndOtherMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:AustraliaAndOtherMember 2021-05-01 2022-01-31
+0000015847 buks:AerospaceProductsMember buks:AustraliaAndOtherMember 2021-05-01 2022-01-31
+0000015847 buks:AustraliaAndOtherMember 2021-05-01 2022-01-31
+0000015847 us-gaap:CasinoMember buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 us-gaap:CasinoMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 us-gaap:CasinoMember 2022-05-01 2023-01-31
+0000015847 us-gaap:CasinoMember buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 us-gaap:CasinoMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 us-gaap:CasinoMember 2021-05-01 2022-01-31
+0000015847 buks:SportsbookMember buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:SportsbookMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 buks:SportsbookMember 2022-05-01 2023-01-31
+0000015847 buks:SportsbookMember buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:SportsbookMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 buks:SportsbookMember 2021-05-01 2022-01-31
+0000015847 buks:CasinoNongamingMember buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:CasinoNongamingMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 buks:CasinoNongamingMember 2022-05-01 2023-01-31
+0000015847 buks:CasinoNongamingMember buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:CasinoNongamingMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 buks:CasinoNongamingMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:AircraftModificationMember buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:AircraftModificationMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 buks:AircraftModificationMember 2022-05-01 2023-01-31
+0000015847 buks:AircraftModificationMember buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:AircraftModificationMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 buks:AircraftModificationMember 2021-05-01 2022-01-31
+0000015847 buks:AircraftAvionicsMember buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:AircraftAvionicsMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 buks:AircraftAvionicsMember 2022-05-01 2023-01-31
+0000015847 buks:AircraftAvionicsMember buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:AircraftAvionicsMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 buks:AircraftAvionicsMember 2021-05-01 2022-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:ProfessionalServicesMember 2022-05-01 2023-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 buks:SpecialMissionElectronicsMember 2022-05-01 2023-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:ProfessionalServicesMember 2021-05-01 2022-01-31
+0000015847 buks:SpecialMissionElectronicsMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 buks:SpecialMissionElectronicsMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember buks:PercentageOfCompletionContractsMember 2022-05-01 2023-01-31
+0000015847 buks:AerospaceProductsMember buks:PercentageOfCompletionContractsMember 2022-05-01 2023-01-31
+0000015847 buks:PercentageOfCompletionContractsMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember buks:PercentageOfCompletionContractsMember 2021-05-01 2022-01-31
+0000015847 buks:AerospaceProductsMember buks:PercentageOfCompletionContractsMember 2021-05-01 2022-01-31
+0000015847 buks:PercentageOfCompletionContractsMember 2021-05-01 2022-01-31
+0000015847 buks:ProfessionalServicesMember us-gaap:TransferredAtPointInTimeMember 2022-05-01 2023-01-31
+0000015847 buks:AerospaceProductsMember us-gaap:TransferredAtPointInTimeMember 2022-05-01 2023-01-31
+0000015847 us-gaap:TransferredAtPointInTimeMember 2022-05-01 2023-01-31
+0000015847 buks:ProfessionalServicesMember us-gaap:TransferredAtPointInTimeMember 2021-05-01 2022-01-31
+0000015847 buks:AerospaceProductsMember us-gaap:TransferredAtPointInTimeMember 2021-05-01 2022-01-31
+0000015847 us-gaap:TransferredAtPointInTimeMember 2021-05-01 2022-01-31
+utr:Y
+0000015847 buks:NotesCollateralizedByBHCMCsAssetsAndCompensationDueUnderStateManagementContractDueDecember2025Member 2023-01-31
+0000015847 buks:NotesCollateralizedByBHCMCsAssetsAndCompensationDueUnderStateManagementContractDueDecember2027Member 2023-01-31
+0000015847 buks:NotesCollateralizedByBHCMCsAssetsAndCompensationDueUnderStateManagementContractDueDecember2027Member 2022-05-01 2023-01-31
+0000015847 buks:NotesCollateralizedByAircraftSecurityAgreementsDueJanuary2023Member 2023-01-31
+0000015847 buks:NoteCollateralizedByRealEstateDueJune2024Member 2023-01-31
+0000015847 buks:NoteOneCollateralizedByRealEstateDueMarch2029Member 2023-01-31
+0000015847 buks:NoteTwoCollateralizedByRealEstateDueMarch2029Member 2023-01-31
+0000015847 buks:PatriotsBankMember buks:NoteCollateralizedByAircraftSecurityAgreementMember 2023-01-31
+0000015847 buks:NoteCollateralizedByEquipmentDueOctober2025Member 2023-01-31
+0000015847 buks:PaycheckProtectionProgramCaresActMember 2020-05-01 2020-05-31
+0000015847 buks:KansasExpandedLotteryActContractPrivilegeMember 2023-01-31
+0000015847 buks:IntangibleGamingSupportItemsMember 2023-01-31
+0000015847 buks:JETAutopilotIntellectualPropertyMember 2023-01-31
+0000015847 buks:IntangibleGamingSupportItemsMember 2022-05-01 2023-01-31
+0000015847 buks:JETAutopilotIntellectualPropertyMember 2022-05-01 2023-01-31
+0000015847 buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2016-11-30
+0000015847 us-gaap:RestrictedStockMember buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2019-04-12 2019-04-12
+0000015847 us-gaap:RestrictedStockMember buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2019-04-12
+0000015847 buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2019-04-12 2019-04-12
+0000015847 us-gaap:RestrictedStockMember buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2020-03-17 2020-03-17
+0000015847 us-gaap:RestrictedStockMember buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2020-03-17
+0000015847 buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2020-03-17 2020-03-17
+0000015847 buks:ButlerNationalCorporation2016EquityIncentivePlanMember srt:DirectorMember 2022-07-01 2022-07-31
+0000015847 buks:ButlerNationalCorporation2016EquityIncentivePlanMember srt:DirectorMember 2022-07-31
+0000015847 buks:ButlerNationalCorporation2016EquityIncentivePlanMember 2022-05-01 2022-07-31
+0000015847 2020-04-30
+0000015847 2020-05-01 2021-04-30
+0000015847 2021-05-01 2022-04-30
+0000015847 2016-05-01 2021-07-31
+0000015847 2022-02-01 2022-04-30
+0000015847 2021-08-01 2023-01-31
+0000015847 buks:CasinoHangarAndOfficeSpaceOneMember 2023-01-31
+0000015847 buks:CasinoHangarAndOfficeSpaceTwoMember 2023-01-31
+0000015847 buks:CasinoHangarAndOfficeSpaceThreeMember 2023-01-31
+0000015847 buks:BHCMCLLCMember buks:BNSCMember 2021-10-18
+0000015847 buks:BHCMCLLCMember buks:BNSCMember 2021-10-18 2021-10-18
+0000015847 buks:BHCMCLLCMember buks:BNSCMember buks:AcademyBankNaMember us-gaap:CommercialLoanMember 2021-10-18 2021-10-18
+0000015847 buks:BHCMCLLCMember buks:ManagerLoanMember buks:BNSCMember buks:AcademyBankNaMember 2021-10-18 2021-10-18
+0000015847 buks:BHCMCLLCMember buks:ManagerLoanMember buks:BNSCMember buks:AcademyBankNaMember 2020-01-01 2020-12-31
+0000015847 buks:ManagerLoanMember buks:BNSCMember buks:AcademyBankNaMember 2023-01-31
+0000015847 buks:ManagerLoanMember buks:BNSCMember buks:AcademyBankNaMember 2021-10-18
+0000015847 buks:BHCMCMember buks:BNSCMember 2021-10-18 2021-10-18
+0000015847 buks:BHCMCMember buks:BNSCMember 2021-10-18
+0000015847 buks:GamingMember 2022-11-01 2023-01-31
+0000015847 us-gaap:ProductAndServiceOtherMember 2022-11-01 2023-01-31
+0000015847 buks:GamingMember 2021-11-01 2022-01-31
+0000015847 us-gaap:ProductAndServiceOtherMember 2021-11-01 2022-01-31
+0000015847 buks:GamingMember 2022-05-01 2023-01-31
+0000015847 us-gaap:ProductAndServiceOtherMember 2022-05-01 2023-01-31
+0000015847 buks:GamingMember 2021-05-01 2022-01-31
+0000015847 us-gaap:ProductAndServiceOtherMember 2021-05-01 2022-01-31
+0000015847 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember buks:AerospaceProductsMember 2022-05-01 2023-01-31
+0000015847 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember buks:AerospaceProductsMember 2021-05-01 2022-01-31
+0000015847 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember buks:TheFiveAerospaceCustomersMember 2022-05-01 2023-01-31
+0000015847 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember buks:TopCustomerMember 2022-05-01 2023-01-31
+0000015847 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember buks:NextTopFourCustomersMember srt:MinimumMember 2022-05-01 2023-01-31
+0000015847 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember buks:NextTopFourCustomersMember srt:MaximumMember 2022-05-01 2023-01-31
+0000015847 2011-08-02 2011-08-02
+0000015847 2011-08-02
+0000015847 us-gaap:SeriesCPreferredStockMember 2011-08-02
+0000015847 us-gaap:EmployeeSeveranceMember 2023-01-20
+0000015847 buks:AircraftMember us-gaap:SubsequentEventMember 2023-02-01 2023-02-28
+Table of Contents
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  January 31, 2023
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____________ to _____________
+Commission File Number
+0-1678
+BUTLER NATIONAL CORPORATION
+(Exact name of registrant as specified in its charter)
+Kansas
+41-0834293
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+19920 West 161st Street ,
+Olathe ,
+Kansas
+66062
+(Address of principal executive offices)(Zip Code)
+Registrant's telephone number, including area code:
+( 913 )
+780-9595
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+None
+None
+None
+Securities registered pursuant to Section 12(g) of the Act:
+Common Stock $.01 Par Value
+(Title of Class)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding twelve months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days:
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files):
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act):
+Yes
+☐
+No ☒
+The number of shares outstanding of the Registrant's Common Stock, $0.01 par value, as of March 16, 2023 was
+75,896,050  shares.
+1
+Table of Contents
+BUTLER NATIONAL CORPORATION AND SUBSIDIARIES
+INDEX
+PART I. FINANCIAL INFORMATION
+PAGE
+NO.
+Item 1
+Financial Statements (Unaudited)
+Condensed Consolidated Balance Sheets – January 31, 2023 (unaudited) and April 30, 2022
+3
+Condensed Consolidated Statements of Operations - Three Months Ended
+January 31, 2023 and 2022
+4
+Condensed Consolidated Statements of Operations - Nine Months Ended January 31, 2023 and 2022
+5
+Condensed Consolidated Statements of Stockholders' Equity - Nine Months Ended January 31, 2023 and 2022
+6
+Condensed Consolidated Statements of Cash Flows - Nine Months Ended January 31, 2023 and 2022
+7
+Notes to Condensed Consolidated Financial Statements
+8
+Item 2
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+16
+Item 3
+Quantitative and Qualitative Disclosures about Market Risk
+25
+Item 4
+Controls and Procedures
+25
+PART II. OTHER INFORMATION
+Item 1
+Legal Proceedings
+26
+Item 1A
+Risk Factors
+26
+Item 2
+Unregistered Sales of Equity Securities and Use of Proceeds
+26
+Item 3
+Defaults Upon Senior Securities
+26
+Item 4
+Mine Safety Disclosures
+26
+Item 5
+Other Information
+26
+Item 6
+Exhibits
+26
+Signatures
+27
+Exhibit Index
+28
+2
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+BUTLER NATIONAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+As of January 31, 2023 and April 30, 2022
+(in thousands except per share data)
+January 31, 2023
+April 30, 2022
+(unaudited)
+ASSETS
+CURRENT ASSETS:
+Cash
+$ 17,196     $ 12,487
+Accounts receivable, net of allowance for doubtful accounts
+4,754       3,636
+Inventories
+Parts and raw materials
+5,331       4,722
+Work in process
+3,994       4,080
+Finished goods
+50       70
+Total inventory, net of allowance
+9,375       8,872
+Contract asset
+2,722       1,470
+Prepaid expenses and other current assets
+3,907       1,361
+Total current assets
+37,954       27,826
+PROPERTY, PLANT AND EQUIPMENT:
+Lease right-to-use assets
+3,781       3,240
+Construction in progress
+-       6,417
+Land
+4,751       4,751
+Building and improvements
+47,813       40,962
+Aircraft
+8,798       8,719
+Machinery and equipment
+5,345       4,917
+Office furniture and fixtures
+13,207       11,826
+Leasehold improvements
+4,032       4,032
+87,727       84,864
+Accumulated depreciation
+( 26,109 )     ( 23,290 )
+Total property, plant and equipment
+61,618       61,574
+SUPPLEMENTAL TYPE CERTIFICATES (net of accumulated amortization of $ 10,239
+at January 31, 2023 and $ 9,336
+at April 30, 2022)
+8,625       8,018
+OTHER ASSETS:
+Other assets (net of accumulated amortization of $ 12,113
+at January 31, 2023 and $ 11,575
+at April 30, 2022)
+1,390       1,621
+Deferred tax asset, net
+1,490       1,770
+Total other assets
+2,880       3,391
+Total assets
+$ 111,077     $ 100,809
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Current maturities of long-term debt
+$ 4,814     $ 5,165
+Current maturities of lease liability
+142       106
+Accounts payable
+6,672       2,773
+Contract liability
+4,863       820
+Gaming facility mandated payment
+1,373       1,630
+Compensation and compensated absences
+3,006       1,911
+Income taxes payable
+116       1,049
+Other current liabilities
+473       211
+Total current liabilities
+21,459       13,665
+LONG-TERM LIABILITIES
+Long-term debt, net of current maturities
+39,821       43,411
+Lease liability, net of current maturities
+3,351       2,899
+Total long-term liabilities
+43,172       46,310
+Total liabilities
+64,631       59,975
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS' EQUITY:
+Butler National Corporation's stockholders' equity
+Preferred stock, par value $ 5 : Authorized
+50,000,000
+shares, all classes; Designated Classes A and B
+200,000
+shares; $ 100
+Class A,
+9.8 %, cumulative if earned liquidation and redemption value; $ 100 ,
+no
+shares issued and outstanding
+-       -
+$ 1,000
+Class B,
+6 %, convertible cumulative, liquidation and redemption value $ 1,000 ,
+no
+shares issued and outstanding
+-       -
+Common stock, par value $ .01 : authorized
+100,000,000
+shares issued
+79,873,572
+shares, and outstanding
+75,896,050
+shares at January 31, 2023 and issued
+80,348,572
+shares, and outstanding
+76,458,146
+shares at April 30, 2022
+799       803
+Capital contributed in excess of par
+12,745       12,160
+Treasury stock at cost,
+3,977,522
+shares at January 31, 2023 and
+3,890,426
+shares at April 30, 2022
+( 2,137 )     ( 2,077 )
+Retained earnings
+35,039       29,948
+Total stockholders' equity
+46,446       40,834
+Total liabilities and stockholders' equity
+$ 111,077     $ 100,809
+See accompanying notes to condensed consolidated financial statements (unaudited)
+3
+Table of Contents
+BUTLER NATIONAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+FOR THE THREE MONTHS ENDED January 31, 2023 AND 2022
+(in thousands, except per share data)
+(unaudited)
+THREE MONTHS ENDED
+January 31,
+2023
+2022
+REVENUE:
+Professional Services
+$
+9,574
+$
+8,902
+Aerospace Products
+10,890
+8,716
+Total revenue
+20,464
+17,618
+COSTS AND EXPENSES:
+Cost of Professional Services
+3,789
+3,298
+Cost of Aerospace Products
+7,189
+5,247
+Marketing and advertising
+1,324
+1,325
+Employee benefits
+642
+565
+Depreciation and amortization
+782
+699
+General, administrative and other
+3,353
+2,082
+Total costs and expenses
+17,079
+13,216
+OPERATING INCOME
+3,385
+4,402
+OTHER EXPENSE:
+Interest expense
+( 677
+)
+( 725
+)
+Total other expense
+( 677
+)
+( 725
+)
+INCOME BEFORE INCOME TAXES
+2,708
+3,677
+PROVISION FOR INCOME TAXES
+Provision for income taxes
+731
+993
+NET INCOME
+$
+1,977
+$
+2,684
+BASIC EARNINGS PER COMMON SHARE
+$
+0.03
+$
+0.04
+WEIGHTED AVERAGE SHARES USED IN PER SHARE CALCULATION
+76,663,867
+75,343,068
+DILUTED EARNINGS PER COMMON SHARE
+$
+0.03
+$
+0.04
+WEIGHTED AVERAGE SHARES USED IN PER SHARE CALCULATION
+76,663,867
+75,343,068
+See accompanying notes to condensed consolidated financial statements (unaudited)
+4
+Table of Contents
+BUTLER NATIONAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+FOR THE nine MONTHS ENDED  January 31, 2023 AND 2022
+(in thousands, except per share data)
+(unaudited)
+NINE MONTHS ENDED
+January 31,
+2023
+2022
+REVENUE:
+Professional Services
+$
+28,280
+$
+27,460
+Aerospace Products
+26,813
+26,552
+Total revenue
+55,093
+54,012
+COSTS AND EXPENSES:
+Cost of Professional Services
+11,164
+10,078
+Cost of Aerospace Products
+18,598
+17,186
+Marketing and advertising
+4,023
+3,751
+Employee benefits
+1,891
+1,686
+Depreciation and amortization
+2,309
+2,106
+General, administrative and other
+8,096
+6,038
+Total costs and expenses
+46,081
+40,845
+OPERATING INCOME
+9,012
+13,167
+OTHER INCOME (EXPENSE):
+Interest expense
+( 2,107
+)
+( 1,979
+)
+Forgiveness of debt
+-
+2,001
+Gain on sale of airplane
+-
+75
+Gain on sale of building
+69
+-
+Total other income (expense)
+( 2,038
+)
+97
+INCOME BEFORE INCOME TAXES
+6,974
+13,264
+PROVISION FOR INCOME TAXES
+Provision for income taxes
+1,603
+2,418
+Deferred income tax
+280
+234
+NET INCOME
+5,091
+10,612
+Net income attributable to noncontrolling interest in BHCMC, LLC
+-
+( 1,872
+)
+NET INCOME ATTRIBUTABLE TO BUTLER NATIONAL CORPORATION
+$
+5,091
+$
+8,740
+BASIC EARNINGS PER COMMON SHARE
+$
+0.07
+$
+0.12
+WEIGHTED AVERAGE SHARES USED IN PER SHARE CALCULATION
+76,633,871
+75,357,966
+DILUTED EARNINGS PER COMMON SHARE
+$
+0.07
+$
+0.12
+WEIGHTED AVERAGE SHARES USED IN PER SHARE CALCULATION
+76,633,871
+75,357,966
+See accompanying notes to condensed consolidated financial statements (unaudited)
+5
+Table of Contents
+BUTLER NATIONAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+FOR THE  nine MONTHS ENDED  January 31, 2023 AND 2022
+(dollars in thousands) (unaudited)
+Shares of Common Stock
+Common Stock
+Capital Contributed in Excess of Par
+Shares of Treasury Stock
+Treasury Stock at Cost
+Retained Earnings
+Total Stock-holders’ Equity BNC
+Non controlling Interest in BHCMC
+Total Stock-holders’ Equity
+Balance, April 30, 2021
+79,070,382
+$
+790
+$
+16,900
+3,703,633
+$
+( 1,909
+)
+$
+19,580
+$
+35,361
+$
+6,018
+$
+41,379
+Deferred compensation, restricted stock
+-
+-
+148
+-
+-
+-
+148
+-
+148
+Net Income
+-
+-
+-
+-
+-
+2,906
+2,906
+1,872
+4,778
+Balance, July 31, 2021
+79,070,382
+$
+790
+$
+17,048
+3,703,633
+$
+( 1,909
+)
+$
+22,486
+$
+38,415
+$
+7,890
+$
+46,305
+Purchase of noncontrolling interest in BHCMC, LLC
+-
+-
+( 6,119
+)
+-
+-
+-
+( 6,119
+)
+( 7,890
+)
+( 14,009
+)
+Deferred compensation, restricted stock
+-
+-
+149
+-
+-
+-
+149
+-
+149
+Stock repurchase
+-
+-
+-
+6,290
+( 4
+)
+-
+( 4
+)
+-
+( 4
+)
+Net Income
+-
+-
+-
+-
+-
+3,150
+3,150
+-
+3,150
+Balance, October 31, 2021
+79,070,382
+$
+790
+$
+11,078
+3,709,923
+$
+( 1,913
+)
+$
+25,636
+$
+35,591
+$
+-
+$
+35,591
+Deferred compensation, restricted stock
+( 50,000
+)
+-
+140
+-
+-
+-
+140
+-
+140
+Net Income
+-
+-
+-
+-
+-
+2,684
+2,684
+-
+2,684
+Balance, January 31, 2022
+79,020,382
+$
+790
+$
+11,218
+3,709,923
+$
+( 1,913
+)
+$
+28,320
+$
+38,415
+$
+-
+$
+38,415
+Shares of Common Stock
+Common Stock
+Capital Contributed in Excess of Par
+Shares of Treasury Stock
+Treasury Stock at Cost
+Retained Earnings
+Total Stock-holders’ Equity BNC
+Non controlling Interest in BHCMC
+Total Stock-holders’ Equity
+Balance, April 30, 2022
+80,348,572
+$
+803
+$
+12,160
+3,890,426
+$
+( 2,077
+)
+$
+29,948
+$
+40,834
+$
+-
+$
+40,834
+Deferred compensation, restricted stock
+( 75,000
+)
+-
+132
+-
+-
+-
+132
+-
+132
+Stock repurchase
+-
+-
+-
+1,639
+( 2
+)
+-
+( 2
+)
+-
+( 2
+)
+Stock awarded to Director
+400,000
+4
+348
+-
+-
+-
+352
+-
+352
+Net Income
+-
+-
+-
+-
+-
+431
+431
+-
+431
+Balance, July 31, 2022
+80,673,572
+$
+807
+$
+12,640
+3,892,065
+$
+( 2,079
+)
+$
+30,379
+$
+41,747
+$
+-
+$
+41,747
+Deferred compensation, restricted stock
+-
+-
+146
+-
+-
+-
+146
+-
+146
+Stock repurchase
+-
+-
+-
+150
+-
+-
+-
+-
+-
+Net Income
+-
+-
+-
+-
+-
+2,683
+2,683
+-
+2,683
+Balance, October 31, 2022
+80,673,572
+$
+807
+$
+12,786
+3,892,215
+$
+( 2,079
+)
+$
+33,062
+$
+44,576
+$
+-
+$
+44,576
+Deferred compensation, restricted stock
+( 800,000
+)
+( 8
+)
+( 41
+)
+-
+-
+-
+( 49
+)
+-
+( 49
+)
+Stock repurchase
+-
+-
+-
+85,307
+( 58
+)
+-
+( 58
+)
+-
+( 58
+)
+Net Income
+-
+-
+-
+-
+-
+1,977
+1,977
+-
+1,977
+Balance, January 31, 2023
+79,873,572
+$
+799
+$
+12,745
+3,977,522
+$
+( 2,137
+)
+$
+35,039
+$
+46,446
+$
+-
+$
+46,446
+See accompanying notes to condensed consolidated financial statements (unaudited)
+6
+Table of Contents
+BUTLER NATIONAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE
+nine MONTHS ENDED  January 31, 2023 AND 2022
+(in thousands)
+(unaudited)
+NINE MONTHS ENDED
+January 31,
+2023
+2022
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income
+$
+5,091
+$
+10,612
+Adjustments to reconcile net income to net cash provided by operating activities
+Depreciation and amortization
+4,323
+3,896
+Gain on sale of airplane
+-
+( 75
+)
+Gain on sale of building
+( 69
+)
+-
+Deferred income tax expense
+280
+234
+Stock awarded to director
+352
+-
+Forgiveness of debt
+-
+( 2,001
+)
+Deferred compensation, restricted stock
+229
+456
+Changes in operating assets and liabilities
+Accounts receivable
+( 1,118
+)
+( 211
+)
+Inventories
+( 503
+)
+( 81
+)
+Contract assets
+( 1,252
+)
+( 1,191
+)
+Prepaid expenses and other current assets
+( 2,545
+)
+208
+Accounts payable
+3,899
+419
+Contract liability
+4,043
+( 4,742
+)
+Lease liability
+141
+112
+Accrued liabilities
+1,095
+( 126
+)
+Gaming facility mandated payment
+( 257
+)
+( 117
+)
+Income tax payable
+( 933
+)
+1,153
+Other current liabilities
+262
+209
+Net cash provided by operating activities
+13,038
+8,755
+CASH FLOWS FROM INVESTING ACTIVITIES
+Capital expenditures
+( 4,298
+)
+( 5,312
+)
+Proceeds from sale of airplane
+-
+75
+Proceeds from sale of building
+164
+-
+Net cash used in investing activities
+( 4,134
+)
+( 5,237
+)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Repayments of long-term debt
+( 3,941
+)
+( 3,127
+)
+Repurchase of common stock
+( 60
+)
+( 4
+)
+Repayments on right-to-use lease liability
+( 194
+)
+( 194
+)
+Purchase of noncontrolling interest in BHCMC, LLC
+-
+( 7,659
+)
+Net cash used in financing activities
+( 4,195
+)
+( 10,984
+)
+NET INCREASE (DECREASE) IN CASH
+4,709
+( 7,466
+)
+CASH, beginning of period
+12,487
+22,022
+CASH, end of period
+$
+17,196
+$
+14,556
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Interest paid
+$
+2,114
+$
+1,980
+Income taxes paid
+$
+2,536
+$
+1,265
+NON CASH INVESTING AND FINANCING ACTIVITY
+Lease right-of-use assets purchased
+$
+541
+$
+-
+Lease liability for purchase of assets under lease
+$
+541
+$
+-
+Secured notes payable for purchase of noncontrolling interest in BHCMC, LLC, net
+$
+-
+$
+7,914
+Notes receivable forgiven as part of purchase of noncontrolling interest in BHCMC, LLC
+$
+-
+$
+780
+Deferred tax asset relating to the purchase of noncontrolling interest in BHCMC, LCC
+$
+-
+$
+2,344
+Purchase of noncontrolling interest - note receivable and other liabilities
+$
+-
+$
+6,350
+See accompanying notes to condensed consolidated financial statements (unaudited)
+7
+Table of Contents
+BUTLER NATIONAL CORPORATION AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(dollars in thousands, except per share data)
+(unaudited)
+1.
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with the instructions to Form
+10 -Q and Article
+8
+of Regulation S- X
+and do
+not
+include all the information and footnotes required by generally accepted accounting principles for complete financial statements. Therefore, these financial statements should be read in conjunction with the annual report on Form
+10 -K for the fiscal year ended
+April 30, 2022 . In our opinion, all adjustments (consisting of normal recurring accruals) necessary for a fair presentation have been included. Operating results for the  three
+and
+nine
+months ended
+January 31, 2023
+are
+not
+indicative of the results of operations that
+may
+be expected for the fiscal year ending
+April 30, 2023 .
+Certain reclassifications within the condensed financial statement captions have been made to maintain consistency in presentation between years. These reclassifications have
+no
+impact on the reported results of operations. Financial amounts are in thousands of dollars except per share amounts.
+2.
+Net Income Per Share: Butler National Corporation (“the Company”) follows ASC
+260
+that requires the reporting of both basic and diluted earnings per share. Basic earnings per share is computed by dividing net income available to common stockholders by the weighted average number of common shares outstanding for the period. Diluted earnings per share reflects the potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted into common stock. In accordance with ASC
+260,
+any anti-dilutive effects on net earnings per share would be excluded.
+3.
+Revenue Recognition: ASC Topic
+606,
+“Revenue from Contracts with Customers”
+Under ASC
+606,
+revenue is recognized when a customer obtains control of promised services in an amount that reflects the consideration we expect to receive in exchange for those services. To achieve this core principal, the Company applies the following
+five
+steps:
+1 )
+Identify the contract, or contracts, with a customer
+A contract with a customer exists when (i) the Company enters into an enforceable contract with a customer that defines each party’s rights regarding the services to be transferred and identifies the payment terms related to these services, (ii) the contract has commercial substance and (iii) the Company determines that collection of substantially all consideration for services that are transferred is probable based on the customer’s intent and ability to pay the promised consideration.
+2 )
+Identification of the performance obligations in the contract
+At contract inception, an entity shall assess the goods or services promised in a contract with a customer and shall identify as a performance obligation each promise to transfer to the customer. Performance obligations promised in a contract are identified based on the services that will be transferred to the customer that are both capable of being distinct, whereby the customer can benefit from the service either on its own or together with other resources that are readily available from
+third
+parties or from the Company, and are distinct in the context of the contract, whereby the transfer of the services is separately identifiable from other promises in the contract. To the extent a contract includes multiple promised services, the Company must apply judgment to determine whether promised services are capable of being distinct and distinct in the context of the contract. If these criteria are
+not
+met the promised services are accounted for as a combined performance obligation.
+3 )
+Determination of the transaction price
+The transaction price is the amount that an entity allocates to the performance obligations identified in the contract and, therefore, represents the amount of revenue recognized as those performance obligations are satisfied. The transaction price is the amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer.
+4 )
+Allocation of the transaction price to the performance obligations in the contract
+Once a contract and associated performance obligations have been identified and the transaction price has been determined, ASC
+606
+requires an entity to allocate the transaction price to each performance obligation identified. This is generally done in proportion to the standalone selling prices of each performance obligation (i.e., on a relative standalone selling price basis). As a result, any discount within the contract generally is allocated proportionally to all of the separate performance obligations in the contract. The Company is applying the right to invoice practical expedient to recognize revenue. As a result, the entity bypasses the steps of determining the transaction price, allocating that transaction price and determining when to recognize revenue as it will recognize revenue as billed by multiplying the price assigned to the good or service, by the units.
+8
+Table of Contents
+5 )
+Recognition of revenue when, or as, we satisfy a performance obligation
+Revenue is recognized when or as performance obligations are satisfied by transferring control of a promised good or service to a customer. Control transfers either over time or at a point in time. Revenue is recognized when control of the promised services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those services.
+Aircraft modifications are performed under fixed-price contracts. Revenue from fixed-priced contracts are recognized on the percentage-of-completion method, measured by the direct labor incurred compared to total estimated direct labor.
+Revenue from Avionics products are recognized when shipped. Payment for these Avionics products is due within
+30
+days of the invoice date after shipment. Revenue from Gaming Management and other Corporate/Professional Services is recognized as the service is rendered.
+Regarding warranties and returns, our products are special order and are
+not
+suitable for return. Our products are unique upon installation and tested prior to their release to the customer and acceptance by the customer. In the rare event of a warranty claim, the claim is processed through the normal course of business and
+may
+include additional charges to the customer. In our opinion, any future warranty work would
+not
+be material to the consolidated financial statements.
+Gaming revenue is the gross gaming win as reported by the Kansas Lottery casino reporting systems, less the mandated payments by and for the State of Kansas. Electronic games-slots and table games revenue is the aggregate of gaming wins and losses. Liabilities are recognized for chips and "ticket-in, ticket-out" coupons in the customers' possession, and for accruals related to anticipated payout of progressive jackpots. Progressive gaming machines, which contain base jackpots that increase at a progressive rate based on the number of coins played, are deducted from revenue as the value of jackpots increase. Effective
+September 1, 2022,
+sports wagering became legal in the State of Kansas. The Company is currently managing sports wagering through DraftKings sports wagering platform. The Company shares a percentage of the gross sports wagering win with its platform partner. Food, beverage, and other revenue is recorded when the service is received and paid.
+9
+Table of Contents
+4.
+Disaggregation of Revenue
+In the following table, revenue is disaggregated by primary geographical market, major product line, and timing of revenue recognition.
+Three Months Ended January 31, 2023
+Three Months Ended January 31, 2022
+Professional Services
+Aerospace Products
+Total
+Professional Services
+Aerospace Products
+Total
+Geographical Markets
+North America
+$ 9,574     $ 8,258     $ 17,832     $ 8,902     $ 7,618     $ 16,520
+Europe
+-       90       90       -       578       578
+Asia
+-       92       92       -       93       93
+Australia and Other
+-       2,450       2,450       -       427       427
+$ 9,574     $ 10,890     $ 20,464     $ 8,902     $ 8,716     $ 17,618
+Major Product Lines
+Casino Gaming Revenue
+$ 7,210     $ -     $ 7,210     $ 7,741     $ -     $ 7,741
+Sportsbook Revenue
+1,160       -       1,160       -       -       -
+Casino Non-Gaming Revenue
+1,102       -       1,102       1,059       -       1,059
+Professional Services
+102       -       102       102       -       102
+Aircraft Modification
+-       7,188       7,188       -       5,394       5,394
+Aircraft Avionics
+-       679       679       -       485       485
+Special Mission Electronics
+-       3,023       3,023       -       2,837       2,837
+$ 9,574     $ 10,890     $ 20,464     $ 8,902     $ 8,716     $ 17,618
+Contract Types / Revenue Recognition Timing
+Percentage of completion contracts
+$ -     $ 6,875     $ 6,875     $ -     $ 4,899     $ 4,899
+Goods or services transferred at a point of sale
+9,574       4,015       13,589       8,902       3,817       12,719
+$ 9,574     $ 10,890     $ 20,464     $ 8,902     $ 8,716     $ 17,618
+Nine Months Ended January 31, 2023
+Nine Months Ended January 31, 2022
+Professional Services
+Aerospace Products
+Total
+Professional Services
+Aerospace Products
+Total
+Geographical Markets
+North America
+$ 28,280     $ 22,553     $ 50,833     $ 27,460     $ 22,582     $ 50,042
+Europe
+-       396       396       -       2,535       2,535
+Asia
+-       503       503       -       856       856
+Australia and Other
+-       3,361       3,361       -       579       579
+$ 28,280     $ 26,813     $ 55,093     $ 27,460     $ 26,552     $ 54,012
+Major Product Lines
+Casino Gaming Revenue
+$ 22,769     $ -     $ 22,769     $ 23,972     $ -     $ 23,972
+Sportsbook Revenue
+1,985       -       1,985       -       -       -
+Casino Non-Gaming Revenue
+3,284       -       3,284       3,222       -       3,222
+Professional Services
+242       -       242       266       -       266
+Aircraft Modification
+-       16,902       16,902       -       17,086       17,086
+Aircraft Avionics
+-       1,917       1,917       -       2,025       2,025
+Special Mission Electronics
+-       7,994       7,994       -       7,441       7,441
+$ 28,280     $ 26,813     $ 55,093     $ 27,460     $ 26,552     $ 54,012
+Contract Types / Revenue Recognition Timing
+Percentage of completion contracts
+$ -     $ 15,750     $ 15,750     $ -     $ 15,877     $ 15,877
+Goods or services transferred at a point of sale
+28,280       11,063       39,343       27,460       10,675       38,135
+$ 28,280     $ 26,813     $ 55,093     $ 27,460     $ 26,552     $ 54,012
+10
+Table of Contents
+5.
+Accounts receivable, net, contract asset and contract liability:
+Accounts Receivables, net, contract asset and contract liability were as follows (in thousands):
+January 31,     April 30,
+2023
+2022
+Accounts Receivable, net
+$ 4,754     $ 3,636
+Contract Asset
+2,722       1,470
+Contract Liability
+4,863       820
+Accounts receivable, net consist of $ 4,754  and $ 3,636  from customers as of
+January 31, 2023  and
+April 30, 2022 , respectively. At
+January 31, 2023
+and
+April 30, 2022 , the allowance for doubtful accounts was $ 205
+and $ 205 , respectively.
+Contract assets are net of progress payments and performance based payments from our customers as well as advance payments from customers totaling $ 2,722  and $ 1,470  as of
+January 31, 2023
+and
+April 30, 2022 . Contract assets increased $ 1,252
+during the  nine  months ended
+January 31, 2023 , primarily due to the recognition of revenue related to the satisfaction or partial satisfaction of performance obligations during the  nine  months ended
+January 31, 2023 . There were
+no
+significant impairment losses related to our contract assets during the  nine  months ended
+January 31, 2023 . We expect to bill our customers for the majority of the
+January 31, 2023
+contract assets during fiscal year end
+2023.
+Contract liabilities increased $ 4,043
+during the  nine  months ended
+January 31, 2023 , primarily due to payments received in excess of the revenue recognized on these performance obligations.
+6.
+Use of Estimates: The preparation of financial statements in conformity with generally accepted accounting principles (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Future events and their effects cannot be determined with certainty. Therefore, the determination of estimates requires the exercise of judgment. Actual results could differ from those estimates, and any such differences
+may
+be material to our consolidated financial statements. Significant estimates include assumptions about percentage-of-completion, collection of accounts receivable, the valuation and recognition of stock-based compensation expense, valuation for deferred tax assets and useful life of fixed assets.
+7.  Inventories: Inventories are determined on a
+first -in,
+first -out basis, valued at lower of cost or net realizable value. Inventories include material, labor and factory overhead required in the production of our products.
+Inventory obsolescence is examined on a regular basis. When determining our estimate of obsolescence, we consider inventory that has been inactive for
+five
+years or longer and the probability of using that inventory in future production. The obsolete inventory generally consists of Falcon and Learjet parts and electrical components.  At
+January 31, 2023
+and
+April 30, 2022 , the estimate of obsolete inventory was $ 240  and $ 240  respectively.
+8.
+Research and Development: We invested in research and development activities. The amount invested in the  nine  months ended
+January 31, 2023  and
+2022  was $ 2.3  million and $ 1.9  million, respectively.
+9.
+Debt: At
+January 31, 2023 , the Company has a line of credit with Kansas State Bank in the form of a promissory note with an interest rate of
+3.65 % totaling $ 2,000 . The unused line at
+January 31, 2023
+was $ 2,000 . There were
+no
+advances made on the line of credit during the
+three
+months ended
+January 31, 2023 . The line of credit is due on demand and is collateralized by the
+first
+and
+second
+positions on all assets of the Company.
+At
+January 31, 2023 , One note with Academy Bank, N.A. for $ 31,125  (net of unamortized deferred finance costs of $ 229 ) collateralized by all of BHCMC's assets and compensation under the State management contract with an interest rate of
+5.32 % payable over
+seven
+years with an initial
+twenty -year amortization and a balloon payment of $ 19,250
+at the end of
+seven
+years. The
+second
+note with Academy Bank, N.A. for $ 10,722  (net of unamortized deferred finance costs of $ 102 ) collateralized by all of BHCMC's assets and compensation under the State management contract with an interest rate of  5.75 % payable in full over
+five
+years. These notes contain a covenant to maintain a debt service coverage ratio of
+1.3
+to
+1.0.
+These notes also contain a liquidity covenant requiring the Company to maintain an aggregate sum of $ 1.5
+million of unrestricted cash. We are in compliance with these covenants at
+January 31, 2023 .
+At
+January 31, 2023 , there was
+one
+note with
+1st
+Source Bank with an interest rate of
+6.25 % collateralized by aircraft security agreements totaling $ 55 . This note was used for the purchase and modifications of collateralized aircraft. This note matures in
+February  2023.
+At
+January 31, 2023 , there is
+one
+note with Fidelity State Bank and Trust Company totaling $ 164  collateralized by real estate in Dodge City, Kansas. The interest rate on this note is
+6.25 %. This note matures in
+June 2024.
+At
+January 31, 2023 , there is a note payable with Bank of America, N.A. collateralized by real estate with a balance of $ 987 . The interest rate on this note is at SOFR plus
+1.75 %. This note matures in
+March 2029.
+At
+January 31, 2023 , there is a note payable with Bank of America, N.A. collateralized by real estate with a balance of $ 452 . The interest rate on this note is at SOFR plus
+1.75 %. This note matures in
+March 2029.
+At
+January 31, 2023 , there is a note payable with Patriots Bank collateralized by aircraft security agreements with a balance of $ 1,084 . The interest rate on this note is
+4.35 %. This note matures in
+March 2029.
+At
+January 31, 2023 , there is a note payable with an interest rate of
+8.13 % collateralized by equipment with a balance of $ 46 . This note matures in
+October 2025.
+11
+Table of Contents
+In
+May 2020,
+the Company received a Paycheck Protection Program (PPP) loan for $ 2,001 . In
+June 2021,
+the Company received notice of forgiveness from the Small Business Administration.
+We are
+not
+in default of any of our notes as of
+January 31, 2023 .
+We believe that our current banks will provide the necessary capital for our business operations. However, we continue to maintain contact with other banks that have an interest in funding our working capital needs to continue our growth in operations in  2023  and beyond.
+10.
+Other Assets: Our other asset account includes assets of $ 5,500
+related to the Kansas Expanded Lottery Act Management Contract privilege fee, $ 6,459  of gaming equipment we were required to pay for ownership by the State of Kansas Lottery, JET autopilot intellectual property of $ 1,417
+and miscellaneous other assets of $ 127 . BHCMC expects the
+$5,500
+privilege fee to have a value over the remaining life of the initial Management Contract with the State of Kansas which will end in
+December 2024.  The State of Kansas approved a renewal management contract and an amendment to the current management contract for our Professional Services company BNSC assigned to BHCMC. The renewal will take effect
+December 15, 2024,
+and continue to
+2039,
+another
+15
+years. The Managers Certificate asset for use of gaming equipment is being amortized over a period of
+three
+years based on the estimated useful life of gaming equipment. The JET intellectual property is being amortized over a period of
+fifteen
+years.
+11.
+Stock Options and Incentive Plans:
+In
+November 2016,
+the shareholders approved and adopted the Butler National Corporation
+2016
+Equity Incentive Plan. The maximum number of shares of common stock that
+may
+be issued under the Plan is
+12.5
+million.
+On
+April 12, 2019,
+the Company granted
+2.5
+million restricted shares to employees. These shares have voting rights at date of grant and become fully vested and nonforfeitable on
+April 11, 2024.
+The restricted shares were valued at $ 0.38
+per share, for a total of $ 950 . On
+March 17, 2020,
+the Company granted
+5.0
+million restricted shares to employees. These shares have voting rights at date of grant and become fully vested and non-forfeitable on
+March 16, 2025.
+The restricted shares were valued at $ 0.41
+per share, for a total of $ 2.0
+million. The deferred compensation related to these grants will be expensed on the financial statements over the
+five
+year vesting period.
+In
+July 2022,
+the Company granted a board member
+400,000
+shares under the plan. These shares were fully vested and nonforfeitable on the date of grant. These shares were valued at $ 0.88
+per share, for a total of $ 352 . The compensation related to this grant was expensed in the current period.  No
+other equity awards have been made under the plan.
+For the  nine
+months ended
+January 31, 2023
+and
+January 31, 2022 , the Company expensed $ 585  and $ 437 , respectively.
+Number of Shares
+Weighted Average Grant Date Fair Value
+Total shares issued
+7,900,000     $ 0.42
+Forfeited, in prior periods
+( 50,000 )   $ 0.40
+Forfeited, during the year ended April 30, 2022
+( 50,000 )   $ 0.40
+Forfeited, during the nine months ended January 31, 2023
+( 875,000 )   $ 0.40
+Total
+6,925,000     $ 0.43
+12.
+Stock Repurchase Program
+The Board of Directors approved a stock purchase program authorizing the repurchase of up to $ 4,000
+of its common stock. The timing and amount of any share repurchases will be determined by Butler National’s management based on market conditions and other factors. The program is currently authorized through
+May 1, 2023.
+The table below provides information with respect to common stock purchases by the Company through
+January 31, 2023 .
+Period
+Total Number of Shares Purchased     Average Price Paid per Share     Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs     Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs
+Shares purchased in prior periods
+3,103,633     $ 0.38       3,103,633     $ 2,823
+Quarter ended October 31, 2021 (a)
+6,290     $ 0.62       6,290     $ 2,819
+Quarter ended January 31, 2022 (a)
+-     $ -       -     $ 2,819
+Quarter ended April 30, 2022 (a)
+180,503     $ 0.91       180,503     $ 2,655
+Quarter ended July 31, 2022 (a)
+1,639     $ 0.84       1,639     $ 2,653
+Quarter ended October 31, 2022 (a)
+150     $ 0.70       150     $ 2,653
+Quarter ended January 31, 2023 (a)
+85,307     $ 0.68       85,307     $ 2,595
+Total
+3,377,522     $ 0.42       3,377,522
+(a)
+These shares of common stock were purchased through a private transaction
+12
+Table of Contents
+13.
+Lease Right-to-Use
+We lease hangars and office space with initial lease terms of
+five ,
+forty -six , and
+fifty
+years.
+January 31, 2023
+Lease right-to-use assets
+$ 3,781
+Less accumulated depreciation
+653
+Total
+$ 3,128
+Future minimum lease payments for assets under finance leases at
+January 31, 2023
+are as follows:
+2024
+$ 262
+2025
+176
+2026
+115
+2027
+118
+2028
+120
+Thereafter
+12,858
+Total minimum lease payments
+13,649
+Less amount representing interest
+10,156
+Present value of net minimum lease payments
+3,493
+Less current maturities of lease liability
+142
+Lease liability, net of current maturities
+$ 3,351
+Finance lease costs at
+January 31, 2023  and
+January 31, 2022  are as follows:
+January 31, 2023
+January 31, 2022
+Finance lease cost:
+Amortization of right-of-use assets
+$ 141     $ 138
+Interest on lease liabilities
+141       112
+Total finance lease cost
+$ 282     $ 250
+January 31, 2023
+January 31, 2022
+Weighted average remaining lease term - Financing leases (in years)
+46       44
+Weighted average discount rate - Financing leases
+5.8 %     5.0 %
+14.
+Purchase of Noncontrolling Interest:
+On
+October 18, 2021,
+Butler National Service Corporation (“BNSC”), a wholly-owned subsidiary of Butler National Corporation (“Company”), acquired the remaining BHCMC equity and the Company now owns
+100%
+of BHCMC. BNSC acquired the remaining BHCMC equity from BHC Investment Company L.C. (“Seller”) for approximately $ 16.4
+million paid at closing (the “Transaction”).
+The closing was effected pursuant to a Sale and Purchase Agreement for Preferred Member Interest Units between Seller and BNSC (“Purchase Agreement”). BNSC and Seller agreed to utilize an effective date for the Transaction of
+August 1, 2021.
+The Transaction purchase price was paid by a combination of available cash and an $ 8.0
+million borrowing on a commercial loan with Academy Bank, N.A. (“Academy Bank”). BHCMC executed a Loan Modification Agreement with Academy, dated
+October 18, 2021 ( “Manager Loan”) and BNSC executed a guaranty of the obligations thereunder. The Manager Loan amended and restated the original $ 7.0
+million loan executed
+December 22, 2020
+with Academy to acquire the casino land and buildings. The other $ 35
+million loan executed in connection with the casino land acquisition in
+2020
+was unchanged by the Transaction. As of
+January 31, 2023 , approximately $ 10.7  million is outstanding under the Manager Loan and it remains collateralized by real estate in Dodge City with an interest rate of
+5.75 % fully amortizing over
+five
+years. The Manager Loan will now mature on
+October 18, 2026.
+The following table summarizes the purchase price and accounting of the transaction:
+Purchase Price Summary:
+Secured notes payable, net of financing costs
+$ 7,914
+Forgiven note receivable from seller
+780
+Cash paid
+7,659
+Total
+$ 16,353
+Accounting Summary:
+Capital contributed in excess of par
+$ 6,119
+Book basis of the noncontrolling interest in BHCMC, LLC
+7,890
+Deferred tax asset related to step up in basis
+2,344
+Total
+$ 16,353
+13
+Table of Contents
+15.
+Segment Reporting and Sales by Major Customer:
+Industry Segmentation
+Current Activities   -  The Company focuses on
+two
+primary activities, Professional Services and Aerospace Products.
+Aerospace Products:
+Aircraft Modifications principally includes the modification of customer and company owned business-size aircraft for specific operations or special missions such as addition of aerial photography capabilities and ISR modifications. We provide these services through our subsidiary, Avcon Industries, Inc. ("Aircraft Modifications" or "Avcon").
+Special mission electronics principally includes the manufacture, sale, and service of electronics upgrades for classic weapon control systems used on civilian and military aircraft and vehicles. We provide the products through our subsidiary, Butler National Corporation - Tempe, Arizona.
+Butler Avionics sells, installs and repairs aircraft avionics equipment (airplane radio equipment and flight control systems). These systems are flight display systems which include intuitive touchscreen controls with large display that enhance pilot situational awareness and give users unprecedented access to high-resolution terrain mapping, graphical flight planning, geo-referenced charting, traffic display, satellite weather and much more. Butler Avionics is also recognized nationwide for its troubleshooting and repair work particularly on autopilot systems.
+Professional Services:
+Butler National Service Corporation ("BNSC") provides management services to the Boot Hill Casino, a "state-owned casino".
+BCS Design, Inc. provides licensed architectural services. These services include commercial and industrial building design.
+Three Months Ended January 31, 2023
+Gaming
+Aircraft Modification
+Aircraft Avionics
+Special Mission Electronics
+Other
+Total
+Revenues from customers
+$ 9,472     $ 7,188     $ 679     $ 3,023     $ 102     $ 20,464
+Interest expense
+590       63       -       14       10       677
+Depreciation and amortization
+632       59       3       36       52       782
+Operating income (loss)
+2,997       1,485       ( 101 )     1,384       ( 2,380 )     3,385
+Three Months Ended January 31, 2022
+Gaming
+Aircraft Modification
+Aircraft Avionics
+Special Mission Electronics
+Other
+Total
+Revenues from customers
+$ 8,800     $ 5,394     $ 485     $ 2,837     $ 102     $ 17,618
+Interest expense
+668       49       -       6       2       725
+Depreciation and amortization
+562       44       3       45       45       699
+Operating income (loss)
+2,867       1,464       ( 132 )     1,380       ( 1,177 )     4,402
+Nine Months Ended January 31, 2023
+Gaming
+Aircraft Modification
+Aircraft Avionics
+Special Mission Electronics
+Other
+Total
+Revenues from customers
+$ 28,038     $ 16,902     $ 1,917     $ 7,994     $ 242     $ 55,093
+Interest expense
+1,854       195       -       32       26       2,107
+Depreciation and amortization
+1,866       170       8       111       154       2,309
+Operating income (loss)
+8,578       2,451       ( 302 )     3,451       ( 5,166 )     9,012
+Nine Months Ended January 31, 2022
+Gaming
+Aircraft Modification
+Aircraft Avionics
+Special Mission Electronics
+Other
+Total
+Revenues from customers
+$ 27,194     $ 17,086     $ 2,025     $ 7,441     $ 266     $ 54,012
+Interest expense
+1,792       157       -       17       13       1,979
+Depreciation and amortization
+1,714       133       6       115       138       2,106
+Operating income (loss)
+9,486       3,852       ( 265 )     3,368       ( 3,274 )     13,167
+Our Chief Operating Decision Maker (CODM) does
+not
+evaluate operating segments using asset or liability information.
+Major Customers:  Revenue from major customers ( 10
+percent or more of consolidated revenue) were as follows:
+Nine Months Ended January 31, 2023
+Nine Months Ended January 31, 2022
+Aerospace Products – two customers in the nine months ended January 31, 2023, two customers in the nine months ended January 31, 2022
+24.8 %     25.2 %
+Professional Services
+-       -
+In the  nine
+months ended
+January 31, 2023  the Company derived
+36.0 % of total revenue from
+five
+Aerospace customers. The top customer provided
+14.5 % of total revenue while the next top
+four
+customers ranged from
+2.4 % to
+10.3 %.
+14
+Table of Contents
+16.
+COVID-
+19
+Overview:
+The pandemic caused by COVID- 19
+has caused volatility in world-wide financial markets since
+2020,
+primarily due to uncertainty with respect to the severity and duration of the pandemic. Although many experts believe the pandemic has ended in
+2022,
+the threat of outbreaks and new variations of the virus continue to affect operations and finances of businesses like ours.
+We have experienced lower customer headcount, which has been off-set by a larger net revenue per customer. We are experiencing, and expect to continue experiencing, lower demand for our professional services and increased costs and other challenges related to COVID- 19
+that adversely affects our business.
+The COVID- 19
+pandemic has impacted our business operations and financial results and continues to impact us in fiscal
+2023.  We face numerous uncertainties in estimating the direct and indirect effects on our present and future business operations, financial condition, results of operations, and liquidity. Due to several rapidly changing variables related to the COVID- 19
+pandemic, we cannot reasonably estimate future economic trends and the timing of when stability will return. Refer to Item
+1A.
+“Risk Factors” in Form
+10 -K for the fiscal year ended
+April
+30,2022
+for a disclosure of risk factors related to COVID- 19.
+As the economy in general slowly recovers, and vaccination rates in our operating territory improve and new infections decline, we have continued to see improvements in customer headcount. However, the unpredictable nature of the pandemic could again lead to closures, decreased traffic and demand, and increased COVID- 19 - related operating expenses, for the foreseeable future. While COVID- 19
+has resulted in, and will continue to bring, significant challenges and uncertainty to our operating environment, we believe that our resilient business model and the strength of our brand and balance sheet position us well to emerge from the pandemic.
+17.  Extension of the Shareholder Rights Plan:
+On
+July 22, 2021,
+the Company extended the shareholder rights plan between the Company and UMB Bank, N.A. as rights agent dated as of
+August 2, 2011 ( the “Rights Plan”). The Rights Plan is intended to protect the interests of the Company’s stockholders and enable them to realize the full potential value of their investment by reducing the likelihood that any person or group gains control of the Company, through open market accumulation or other tactics, without appropriately compensating all stockholders. Pursuant to the Rights Plan, the Company issued, by means of a dividend,
+one
+preferred share purchase right (a "Right") for each outstanding share of our Common Stock to shareholders of record on the close of business on
+August 2, 2011.
+Shares issued after
+August 2, 2011
+also include
+one
+Right. Until a triggering event, these Rights will trade with, and be represented by, the shares of our Common Stock. The Rights will generally become exercisable only if any person (or any persons acting as a group) acquires
+15 % or more of our outstanding Common Stock (the “Acquiring Person”) in a transaction
+not
+approved by the Board, subject to certain exceptions.
+If the Rights become exercisable, all holders of Rights, other than the Acquiring Person, will be entitled to acquire shares of the Company’s common stock at a
+50 % discount. In such situation, Rights held by the Acquiring Person would become void and will
+not
+be exercisable.
+Each Right entitles the registered holder to purchase from the Company
+one two -hundredth of a share of Series C Participating Preferred Stock, par value $ 5.00
+per share (the “Preferred Shares”), of the Company at a price of $ 10
+per
+one two -hundredth of a Participating Preferred Share represented by a Right (the “Purchase Price”), subject to adjustment. Unless a triggering event occurs, the value of the Right is considered de minimis.
+Unless earlier redeemed, terminated or exchanged pursuant to the terms of the Rights Plan, or the Rights Plan is extended, the Rights will expire at the close of business on
+August 2, 2031.
+The Board
+may
+terminate the Rights Plan before that date if the Board determines that there is
+no
+longer a threat to shareholder value.
+18.   Severance Accrual:
+On
+January 20, 2023,
+the board of directors voted to terminate an executive officer.  The Company has estimated the severance accrual and recorded $ 1.3
+million other accrued expense related to the termination.
+19.  Subsequent Events:
+In
+February 2023,
+the Company sold a fully depreciated aircraft for a gain on sale of $ 410 .
+The Company evaluated its
+January 31, 2023
+financial statements for subsequent events through the filing date of this report. The Company is
+not
+aware of any other subsequent events that would require recognition or disclosure in the consolidated financial statements.
+15
+Table of Contents
+ITEM 2.            MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+THROUGHOUT THIS ITEM 2 ALL NON TABULAR FINANCIAL RESULTS ARE PRESENTED IN THOUSANDS OF U.S. DOLLARS EXCEPT WHERE MILLIONS OF DOLLARS IS INDICATED.
+Forward-Looking Statements
+Statements made in this report, other reports and proxy statements filed with the Securities and Exchange Commission, communications to stockholders, press releases, and oral statements made by representatives of the Company that are not historical in nature, or that state the Company or management intentions, hopes, beliefs, expectations or predictions of the future, may constitute "forward-looking statements" within the meaning of Section 21E of the Securities and Exchange Act of 1934, as amended (the "Exchange Act"). Forward-looking statements can often be identified by the use of forward-looking terminology, such as "could," "should," "will," "intended," "continue," "believe," "may," "expect," "hope," "anticipate," "goal," "forecast," "plan," "guidance" or "estimate" or the negative of these words, variations thereof or similar expressions. Forward-looking statements are not guarantees of future performance or results. They involve risks, uncertainties, and assumptions. It is important to note that any such performance and actual results, financial condition or business, could differ materially from those expressed in such forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in Item 1A (Risk Factors) of the Annual Report on Form 10-K for the fiscal year ended April 30, 2022, and elsewhere herein or in other reports filed with the SEC. Other unforeseen factors not identified herein could also have such an effect. We undertake no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events or changes in future operating results, financial condition or business over time.
+The forward-looking statements in this report are only predictions and actual events or results may differ materially. In evaluating such statements, a number of risks, uncertainties and other factors could cause actual results, performance, financial condition, cash flows, prospects and opportunities to differ materially from those expressed in, or implied by, the forward-looking statements. These risks, uncertainties and other factors include those set forth in Item 1A (Risk Factors) of the Annual Report on Form 10-K for the fiscal year ended April 30, 2022, including the following factors:
+●
+the geographic location of our casino;
+●
+customer concentration risk;
+●
+executive officers are family members;
+●
+industrial business cycles;
+●
+fixed-price contracts;
+●
+development, production, testing and marketing of new products;
+●
+loss of key personnel;
+●
+risks associated with international sales;
+●
+future acquisitions and investments;
+●
+change of control restrictions;
+●
+launching new online gaming or sports wagering channels;
+●
+ability to generate returns on sports wagering operations;
+●
+fraud, theft, and cheating;
+●
+cyber-security threats;
+●
+extensive regulation across our industries;
+●
+evolving government regulations and law;
+●
+changes in regulations of financial reporting;
+●
+the stability of economic markets;
+●
+potential impairment losses;
+●
+marketability restrictions of our common stock;
+●
+the possibility of a reverse-stock split;
+●
+stock dilution caused by the annual employer match to our 401(k) plan;
+●
+market competition;
+●
+acts of terrorism and war;
+●
+inclement weather and natural disasters;
+●
+pandemics or other national health crisis (including COVID-19);
+●
+fluctuating fuel and energy costs;
+●
+rising inflation;
+●
+extensive taxation;
+Except as expressly required by the federal securities laws, the Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise after the date of this report. Results of operations in any past period should not be considered indicative of the results to be expected for future periods. Fluctuations in operating results may also result in fluctuations in the price of the Company's common stock.
+Investors should also be aware that while the Company, from time to time, communicates with securities analysts; it is against its policy to disclose any material non-public information or other confidential commercial information. Accordingly, shareholders should not assume that the Company agrees with any statement or report issued by any analyst irrespective of the content of the statement or report. Furthermore, the Company has a policy against issuing or confirming financial forecasts or projections issued by others. Thus, to the extent that reports issued by securities analysts contain any projections, forecasts or opinions, such reports are
+not the responsibility of Butler National Corporation.
+16
+Table of Contents
+Management Overview
+Management is focused on increasing long-term shareholder value from increased cash generation, earnings growth, and prudently managing capital expenditures. We plan to do this by continuing to drive increased revenue from product and service innovations, strategic acquisitions, and targeted marketing programs.
+We have two separate reporting segments: Aerospace Products and Professional Services. Aerospace Products and Professional Services do not share the same customers and suppliers and have substantially distinct businesses. The Aerospace Products operating segment provides products and services in the aerospace industry. Companies in Aerospace Products derive their revenue from system design, engineering, manufacturing, integration, installation, repairing, overhauling, servicing and distribution of aerostructures, avionics, aircraft components, accessories, subassemblies and systems. The Professional Services operating segment provides services in the gaming industry. Professional Services companies manage a gaming and entertainment facility and provide architectural and engineering services. These reporting segments operate through various subsidiaries and affiliates listed in the Company’s fiscal year 2022 Annual Report on Form 10-K.
+Aerospace Products.
+The Aerospace Products segment includes the manufacture, sale and service of electronic equipment and systems and technologies to enhance and support products related to aircraft. Additionally, we also operate several Federal Aviation Administration (the "FAA") Repair Stations. Companies in Aerospace Products concentrate on Learjet, Beechcraft King Air, Cessna turbine engine, Cessna multi-engine piston and Dassault Falcon 20 aircraft. Specifically, the design, distribution and support for products for older aircraft, or “Classic” aircraft are areas of focus for companies in Aerospace Products.
+Products.
+The products that the companies within this group design, engineer, manufacture, integrate, install, repair and service include:
+●
+Aerial surveillance products
+●
+GARMIN GTN Global Position System Navigator with Communication Transceiver
+●
+Aerodynamic enhancement products
+●
+J.E.T autopilot products
+●
+Airspeed and altimeter systems
+●
+Electrical systems and switching equipment
+●
+Avcon Fins
+●
+Noise suppression systems
+●
+ADS-B (transponder) systems
+●
+Rate gyroscopes
+●
+Conversion of passenger configurations to cargo
+●
+Replacement vertical accelerometers
+●
+Cargo/sensor carrying pods and radomes
+●
+Provisions for external stores
+●
+Electronic navigation instruments, radios and transponders
+●
+Attitude heading reference systems
+Modifications.
+The companies in Aerospace Products have authority pursuant to Federal Aviation Administration Supplemental Type Certificates (“STCs”) and Parts Manufacturer Approval (“PMA”), to build required parts and subassemblies and to make applicable installations. Companies in Aerospace Products perform modifications in the aviation industry including:
+●
+Aerial photograph capabilities
+●
+Extended tip fuel tanks
+●
+Aerodynamic improvements
+●
+Radar systems
+●
+Avionics systems
+●
+ISR – Intelligence Surveillance Reconnaissance
+●
+Cargo doors
+●
+Special mission modifications
+●
+Conversion from passenger to freighter configuration
+●
+Stability enhancements
+●
+Extended doors
+●
+Traffic collision avoidance systems
+Special Mission Electronics.
+We supply defense-related, commercial off-the-shelf products to various commercial entities and government agencies and subcontractors in order to update or extend the useful life of aircraft with older components and technology. These products include:
+●
+Cabling
+●
+HangFire Override Modules
+●
+Electronic control systems
+●
+Test equipment
+●
+Gun Control Units for Apache and Blackhawk helicopters
+●
+Gun Control Units for land and sea based military vehicles
+Professional Services.
+The Professional Services segment includes the management of a gaming facility and related dining and entertainment facilities in Dodge City, Kansas. Boot Hill Casino and Resort features approximately 500 slot machines and 16 table games. Companies in Professional Services also provide licensed architectural services, including commercial and industrial building design, and engineering services.
+Boot Hill.  Butler National Service Corporation (“BNSC”) and BHCMC, LLC (“BHCMC”), companies in Professional Services, manage The Boot Hill Casino and Resort in Dodge City, Kansas (“Boot Hill”) pursuant to the Lottery Gaming Facility Management Contract, by and among BNSC, BHCMC and the Kansas Lottery, as subsequently amended and extended (“Boot Hill Agreement”). As required by Kansas law, all games, gaming equipment and gaming operations, including sports wagering, at Boot Hill are owned and operated by the Kansas Lottery. In July 2022, the State of Kansas enacted Senate Bill 84 that allows for the Kansas Lottery through the four state-owned casinos to use digital or in-person avenues to engage in the business of sports wagering. The law allows BHCMC to partner with up to three platforms for sports wagering. The platform partners provide the sports wagering management service through their sites and brands, paying us a percentage of revenue. BHCMC entered into provider contracts for sports wagering platforms with DraftKings, Golden Nugget Online Gaming LLC, and Bally Corporation. Online sports wagering is currently underway through the DraftKings platform.  A permanent onsite DraftKings branded sports book at Boot Hill Casino, opened in February 2023.
+Architectural and Engineering Services.
+Companies in Professional Services provide licensed architectural, including commercial and industrial building design, and engineering services.
+17
+Table of Contents
+COVID-19 Overview
+The pandemic caused by COVID-19 has caused volatility in world-wide financial markets since 2020, primarily due to uncertainty with respect to the severity and duration of the pandemic. Although many experts believe the pandemic has ended in 2022, the threat of outbreaks and new variations of the virus continue to affect operations and finances of businesses like ours.
+We have experienced lower customer headcount, which has been off-set by a larger net revenue per customer. We are experiencing, and expect to continue experiencing, lower demand for our professional services and increased costs and other challenges related to COVID-19 that adversely affects our business.
+The COVID-19 pandemic has impacted our business operations and financial results and continues to impact us in fiscal 2023. We face numerous uncertainties in estimating the direct and indirect effects on our present and future business operations, financial condition, results of operations, and liquidity. Due to several rapidly changing variables related to the COVID-19 pandemic, we cannot reasonably estimate future economic trends and the timing of when stability will return. Refer to Item 1A. “Risk Factors” in Form 10-K for the fiscal year ended April 30, 2022 for a disclosure of risk factors related to COVID-19.
+As the economy in general slowly recovers, and vaccinations rates in our operating territory improve and new infections decline, we have continued to see improvements in customer headcount. However, the unpredictable nature of the pandemic could again lead to closures, decreased traffic and demand, and increased COVID-19- related operating expenses, for the foreseeable future. While COVID-19 has resulted in, and will continue to bring, significant challenges and uncertainty to our operating environment, we believe that our resilient business model and the strength of our brand and balance sheet position us well to emerge from the pandemic.
+Results Overview
+The nine months ended January 31, 2023 revenue increased 2% to $55.1 million compared to $54.0 million in the nine months ended January 31, 2022. In the nine months ended January 31, 2023 the professional services revenue was $28.3 million compared to $27.5 million in the nine months ended January 31, 2022, an increase of 3%. In the nine months ended January 31, 2023 the Aerospace Products revenue was $26.8 million compared to $26.6 million in the nine months ended January 31, 2022, an increase of 1%.
+The nine months ended January 31, 2023 net income decreased to $5.1 million compared to a net income of $8.7 million in the nine months ended January 31, 2022.  The nine months ended January 31, 2023, operating income decreased to $9.0 million from an operating income of $13.2 million in the nine months ended January 31, 2022.
+RESULTS OF OPERATIONS
+nine months ended January 31, 2023 COMPARED TO nine months ended January 31, 2022
+(dollars in thousands)
+Nine Months Ended January 31, 2023
+Percent of Total Revenue
+Nine Months Ended January 31, 2022
+Percent of Total Revenue
+Percent Change 2022-2023
+Revenue:
+Professional Services
+$
+28,280
+51
+%
+$
+27,460
+51
+%
+3
+%
+Aerospace Products
+26,813
+49
+%
+26,552
+49
+%
+1
+%
+Total revenue
+55,093
+100
+%
+54,012
+100
+%
+2
+%
+Costs and expenses:
+Costs of Professional Services
+11,164
+20
+%
+10,078
+19
+%
+11
+%
+Cost of Aerospace Products
+18,598
+34
+%
+17,186
+32
+%
+8
+%
+Marketing and advertising
+4,023
+7
+%
+3,751
+7
+%
+7
+%
+Employee benefits
+1,891
+4
+%
+1,686
+3
+%
+12
+%
+Depreciation and amortization
+2,309
+4
+%
+2,106
+4
+%
+10
+%
+General, administrative and other
+8,096
+15
+%
+6,038
+11
+%
+34
+%
+Total costs and expenses
+46,081
+84
+%
+40,845
+76
+%
+13
+%
+Operating income
+$
+9,012
+16
+%
+$
+13,167
+24
+%
+-32
+%
+Revenue:
+Revenue  increased 2% to $55.1 million in the nine months ended January 31, 2023, compared to $54.0 million in the nine months ended January 31, 2022. See "Operations by Segment" below for a discussion of the primary reasons for the increase in revenue.
+●
+Professional Services derives its revenue from (a) professional management services in the gaming industry through Butler National Service Corporation ("BNSC") and BHCMC, LLC ("BHCMC"), and (b) professional architectural, engineering and management support services. Revenue from Professional Services increased 3% for the nine months to $28.3 million at January 31, 2023 compared to $27.5 million at January 31, 2022.
+●
+Aerospace Products derives its revenue by designing, engineering, manufacturing, installing, servicing and repairing products for classic and current production aircraft. Aerospace Products revenue increased 1% for the nine months to $26.8 million at January 31, 2023 compared to $26.6 million at January 31, 2022.
+18
+Table of Contents
+Costs and expenses:
+Costs and expenses
+related to Professional Services and Aerospace Products include the cost of engineering, labor, materials, equipment utilization, control systems, security and occupancy. Costs and expenses increased  13% to $46.1 million in the nine months ended January 31, 2023 compared to $40.8 million in the nine months ended January 31, 2022. Costs and expenses were 84% of total revenue in the nine months ended January 31, 2023, as compared to 76% of total revenue in the nine months ended January 31, 2022.  The increase is primarily due to an increase in material and labor costs, a stock award of $352 and cash compensation of $140 awarded to a board member, and a $1.3 million severance accrual relating to the termination of an executive officer.
+Costs of Professional Services
+increased 11% in the nine months ended January 31, 2023 to $11.2 million compared to $10.1 million in the nine months ended January 31, 2022. Costs were 20% of total revenue in the nine months ended January 31, 2023, as compared to 19% of total revenue in the nine months ended January 31, 2022.  The increase is directly related to an increase in labor costs.
+Costs of Aerospace Products  increased 8% in the nine months ended January 31, 2023 to $18.6 million compared to $17.2 million for the nine months ended January 31, 2022. Costs were 34% of total revenue in the nine months ended January 31, 2023, as compared to 32% of total revenue in the nine months ended January 31, 2022.  The increase is directly related to an increase in material and labor costs.
+Marketing and advertising expenses
+increased 7% in the nine months ended January 31, 2023, to $4.0 million compared to $3.8 million in the nine months ended January 31, 2022. Expenses were 7% of total revenue in the nine months ended January 31, 2023, as compared to 7% of total revenue in the nine months ended January 31, 2022. Marketing and advertising expenses include advertising, sales and marketing labor, gaming development costs, and casino and product promotions.
+Employee benefits expenses
+as a percent of total revenue was 4% in the nine months ended January 31, 2023, compared to 3% in the nine months ended January 31, 2022. These expenses increased 12% to $1.9 million in the nine months ended January 31, 2023, from $1.7 million in the nine months ended January 31, 2022. These expenses include the employers' share of all federal, state and local taxes, paid time off for vacation, holidays and illness, employee health and life insurance programs and employer matching contributions to retirement plans.
+Depreciation and amortization expenses
+as a percent of total revenue was 4% in the nine months ended January 31, 2023, compared to 4% in the nine months ended January 31, 2022. These expenses increased 10% to $2.3 million in the nine months ended January 31, 2023 from $2.1 million in the nine months ended January 31, 2022. These expenses include depreciation related to owned assets being depreciated over various useful lives and amortization of intangible items including the Kansas privilege fee related to the Boot Hill Casino being expensed over the initial term of the gaming contract with the State of Kansas. BHCMC, LLC depreciation and amortization expense for the nine months ended January 31, 2023 was $1.9 million compared to $1.7 million in the nine months ended January 31, 2022.
+General, administrative and other expenses
+as a percent of total revenue was 15% in the nine months ended January 31, 2023, compared to 11% in the nine months ended January 31, 2022. These expenses increased 34% to $8.1 million in the nine months ended January 31, 2023, from $6.0 million in the nine months ended January 31, 2022. The increase is primarily due to the stock award of $352 and cash compensation of $140 awarded to a board member and a severance accrual related to the termination of an executive officer in the amount of $1.3 million.
+Other expense:
+Interest expense
+was $2.1 million in the nine months ended January 31, 2023, compared with interest expense of $2.0 million in the nine months ended January 31, 2022. Interest related to obligations of BHCMC, LLC was $1.9 million in the nine months ended January 31, 2023 compared to $1.8 million in the nine months ended January 31, 2022.
+Operations by Segment
+We have two operating segments, Professional Services and Aerospace Products. The Professional Services segment includes revenue contributions and expenditures associated with casino management services and professional architectural, engineering and management support services. Aerospace Products derives its revenue by designing, engineering, manufacturing, installing, servicing and repairing products for classic and current production aircraft.
+The following table presents a summary of our operating segment information for the nine months ended January 31, 2023 and January 31, 2022:
+(dollars in thousands)
+Nine Months Ended January 31, 2023
+Percent of Total Revenue
+Nine Months Ended January 31, 2022
+Percent of Total Revenue
+Percent Change 2022-2023
+Professional Services
+Revenue
+Boot Hill Casino
+$
+28,014
+99
+%
+$
+27,194
+99
+%
+3
+%
+Management/Professional Services
+266
+1
+%
+266
+1
+%
+0
+%
+Revenue
+28,280
+100
+%
+27,460
+100
+%
+3
+%
+Costs of Professional Services
+11,164
+40
+%
+10,078
+36
+%
+11
+%
+Expenses
+10,590
+37
+%
+9,794
+36
+%
+8
+%
+Total costs and expenses
+21,754
+77
+%
+19,872
+72
+%
+9
+%
+Professional Services operating income
+$
+6,526
+23
+%
+$
+7,588
+28
+%
+-14
+%
+(dollars in thousands)
+Nine Months Ended January 31, 2023
+Percent of Total Revenue
+Nine Months Ended January 31, 2022
+Percent of Total Revenue
+Percent Change 2022-2023
+Aerospace Products
+Revenue
+$
+26,813
+100
+%
+$
+26,552
+100
+%
+1
+%
+Costs of Aerospace Products
+18,598
+70
+%
+17,186
+65
+%
+8
+%
+Expenses
+5,729
+21
+%
+3,787
+14
+%
+51
+%
+Total costs and expenses
+24,327
+91
+%
+20,973
+79
+%
+16
+%
+Aerospace Products operating income
+$
+2,486
+9
+%
+$
+5,579
+21
+%
+-55
+%
+19
+Table of Contents
+Professional Services
+●
+Revenue from Professional Services increased 3% for the nine months ended January 31, 2023 to $28.3 million compared to $27.5 million for the nine months ended January 31, 2022.
+In the nine months ended January 31, 2023 Boot Hill Casino received gross receipts for the State of Kansas of $37.9 million compared to $37.0 million for the nine months ended January 31, 2022. Mandated fees, taxes and distributions reduced gross receipts by $11.3 million resulting in gaming revenue of $26.6 million for the nine months ended January 31, 2023, compared to a reduction to gross receipts of $11.7 million resulting in gaming revenue of $25.3 million for the nine months ended January 31, 2022. Sportsbook revenue was $2.0  million in the nine months ended January 31, 2023 compared to $0 in the nine months ended January 31, 2022.Non-gaming revenue at Boot Hill Casino remained constant at $3.3 million for the nine months ended January 31, 2023, compared to $3.2 million for the nine months ended January 31, 2022.
+The remaining management and Professional Services revenue includes professional management services in the gaming industry, and licensed architectural services.  Professional Services revenue excluding Boot Hill Casino remained constant  at $266 for the nine months ended January 31, 2023, compared to $266 for the nine months ended January 31, 2022.
+●
+Costs of Professional Services increased 11% in the nine months ended January 31, 2023 to $11.2 million compared to $10.1 million in the nine months ended January 31, 2022. Costs were 40% of segment total revenue in the nine months ended January 31, 2023, as compared to 36% of segment total revenue in the nine months ended January 31, 2022.  The increase is directly related to an increase in labor costs.
+●
+Expenses increased 8% in the nine months ended January 31, 2023 to $10.6 million compared to $9.8 million in the nine months ended January 31, 2022. Expenses were 37% of segment total revenue in the nine months ended January 31, 2023, as compared to 36% of segment total revenue in the nine months ended January 31, 2022.
+Aerospace Products
+●
+Revenue increased 1% to $26.8 million in the nine months ended January 31, 2023, compared to $26.6 million in the nine months ended January 31, 2022.
+●
+Costs of Aerospace Products increased 8% in the nine months ended January 31, 2023 to $18.6 million compared to $17.2 million for the nine months ended January 31, 2022.  Costs were 70% of segment total revenue in the nine months ended January 31, 2023, as compared to 65% of segment total revenue in the nine months ended January 31, 2022. The increase is directly related to the increase in material and labor costs.
+●
+Expenses increased 51% in the nine months ended January 31, 2023 to $5.7 million compared to $3.8 million in the nine months ended January 31, 2022.  Expenses were 21% of segment total revenue in the nine months ended January 31, 2023, as compared to 14% of segment total revenue in the nine months ended January 31, 2022. The increase is primarily due to the stock award of $352 and cash compensation of $140 awarded to a board member, and a severance accrual related to the termination of an executive officer of $1.3 million.
+20
+Table of Contents
+THIRD QUARTER FISCAL 2023 COMPARED TO THIRD QUARTER FISCAL 2022
+(dollars in thousands)
+Three Months Ended January 31, 2023
+Percent of Total Revenue
+Three Months Ended January 31, 2022
+Percent of Total Revenue
+Percent Change 2022-2023
+Revenue:
+Professional Services
+$
+9,574
+47
+%
+$
+8,902
+51
+%
+8
+%
+Aerospace Products
+10,890
+53
+%
+8,716
+49
+%
+25
+%
+Total revenue
+20,464
+100
+%
+17,618
+100
+%
+16
+%
+Costs and expenses:
+Costs of Professional Services
+3,789
+19
+%
+3,298
+19
+%
+15
+%
+Cost of Aerospace Products
+7,189
+35
+%
+5,247
+30
+%
+37
+%
+Marketing and advertising
+1,324
+6
+%
+1,325
+7
+%
+0
+%
+Employee benefits
+642
+3
+%
+565
+3
+%
+14
+%
+Depreciation and amortization
+782
+4
+%
+699
+4
+%
+12
+%
+General, administrative and other
+3,353
+16
+%
+2,082
+12
+%
+61
+%
+Total costs and expenses
+17,079
+83
+%
+13,216
+75
+%
+29
+%
+Operating income
+$
+3,385
+17
+%
+$
+4,402
+25
+%
+-23
+%
+Revenue:
+Revenue  increased 16% to $20.5 million in the three months ended January 31, 2023, compared to $17.6 million in the three months ended January 31, 2022. See "Operations by Segment" below for a discussion of the primary reasons for the decrease in revenue.
+●
+Professional Services derives its revenue from (a) professional management services in the gaming industry through Butler National Service Corporation ("BNSC") and BHCMC, LLC ("BHCMC"), and (b) professional architectural, engineering and management support services. Revenue from Professional Services increased 8% for the three months to $9.6 million at January 31, 2023 compared to $8.9 million at January 31, 2022.  The increase is due to sports book revenue of $1.2 million and a decrease in casino gaming revenue of $0.5 million.
+●
+Aerospace Products derives its revenue by designing, engineering, manufacturing, installing, servicing and repairing products for classic and current production aircraft. Aerospace Products revenue increased 25% for the three months to $10.9 million at January 31, 2023 compared to $8.7 million at January 31, 2022.  The increase in revenue is primarily due to a $1.8 million increase in aircraft modification business and a $200 increase in special mission electronics.
+21
+Table of Contents
+Costs and expenses:
+Costs and expenses
+related to Professional Services and Aerospace Products include the cost of engineering, labor, materials, equipment utilization, control systems, security and occupancy. Costs and expenses increased 29% in the three months ended January 31, 2023 at $17.1 million compared to $13.2 million in the three months ended January 31, 2022. Costs and expenses were 83% of total revenue in the three months ended January 31, 2023, as compared to 75% of total revenue in the three months ended January 31, 2022.  The increase is primarily due to an increase in material and labor costs, and a $1.3 million severance accrual related to the termination of an executive officer.
+Costs of Professional Services
+increased 15% in the three months ended January 31, 2023 to $3.8 million compared to $3.3 million in the three months ended January 31, 2022. Costs were 19% of total revenue in the three months ended January 31, 2023, as compared to 19% of total revenue in the three months ended January 31, 2022.  The increase is directly related to an increase in labor costs.
+Costs of Aerospace Products  increased 37% in the three months ended January 31, 2023 to $7.2 million compared to $5.2 million for the three months ended January 31, 2022. Costs were 35% of total revenue in the three months ended January 31, 2023, as compared to 30% of total revenue in the three months ended January 31, 2022.  The increase is directly related to an increase in material and labor costs.
+Marketing and advertising expenses
+remained constant  in the three months ended January 31, 2023, to $1.3 million compared to $1.3 million in the three months ended January 31, 2022. Expenses were 6% of total revenue in the three months ended January 31, 2023, as compared to 7% of total revenue in the three months ended January 31, 2022. Marketing and advertising expenses include advertising, sales and marketing labor, gaming development costs, and casino and product promotions.
+Employee benefits expenses
+as a percent of total revenue was 3% in the three months ended January 31, 2023, compared to 3% in the three months ended January 31, 2022. These expenses increased 14% to $642 in the three months ended January 31, 2023, from $565 in the three months ended January 31, 2022. These expenses include the employers' share of all federal, state and local taxes, paid time off for vacation, holidays and illness, employee health and life insurance programs and employer matching contributions to retirement plans.
+Depreciation and amortization expenses
+as a percent of total revenue was 4% in the three months ended January 31, 2023, compared to 4% in the three months ended January 31, 2022. These expenses increased 12% to $782 in the three months ended January 31, 2023 from $699 in the three months ended January 31, 2022. These expenses include depreciation related to owned assets being depreciated over various useful lives and amortization of intangible items including the Kansas privilege fee related to the Boot Hill Casino being expensed over the initial term of the gaming contract with the State of Kansas. BHCMC, LLC depreciation and amortization expense for the three months ended January 31, 2023 was $632 compared to $561 in the three months ended January 31, 2022.
+General, administrative and other expenses
+as a percent of total revenue was 16% in the three months ended January 31, 2023, compared to 12% in the three months ended January 31, 2022. These expenses increased 61% to $3.4 million in the three months ended January 31, 2023, from $2.1 million in the three months ended January 31, 2022.  The increase is primarily due to a severance accrual related to the termination of an executive officer of $1.3 million.
+Other expense:
+Interest expense
+was $677 in the three months ended January 31, 2023, compared with interest expense of $725 in the three months ended January 31, 2022. Interest related to obligations of BHCMC, LLC was $590 in the three months ended January 31, 2023 compared to $665 in the three months ended January 31, 2022.
+Operations by Segment
+We have two operating segments, Professional Services and Aerospace Products. The Professional Services segment includes revenue contributions and expenditures associated with casino management services and professional architectural, engineering and management support services. Aerospace Products derives its revenue by designing, engineering, manufacturing, installing, servicing and repairing products for classic and current production aircraft.
+The following table presents a summary of our operating segment information for the three months ended January 31, 2023 and January 31, 2022:
+(dollars in thousands)
+Three Months Ended January 31, 2023
+Percent of Total Revenue
+Three Months Ended January 31, 2022
+Percent of Total Revenue
+Percent Change 2022-2023
+Professional Services
+Revenue
+Boot Hill Casino
+$
+9,472
+99
+%
+$
+8,800
+99
+%
+8
+%
+Management/Professional Services
+102
+1
+%
+102
+1
+%
+0
+%
+Revenue
+9,574
+100
+%
+8,902
+100
+%
+8
+%
+Costs of Professional Services
+3,789
+39
+%
+3,298
+37
+%
+15
+%
+Expenses
+3,523
+37
+%
+3,375
+38
+%
+4
+%
+Total costs and expenses
+7,312
+76
+%
+6,673
+75
+%
+10
+%
+Professional Services operating income
+$
+2,262
+24
+%
+$
+2,229
+25
+%
+1
+%
+(dollars in thousands)
+Three Months Ended January 31, 2023
+Percent of Total Revenue
+Three Months Ended January 31, 2022
+Percent of Total Revenue
+Percent Change 2022-2023
+Aerospace Products
+Revenue
+$
+10,890
+100
+%
+$
+8,716
+100
+%
+25
+%
+Costs of Aerospace Products
+7,189
+66
+%
+5,247
+60
+%
+37
+%
+Expenses
+2,578
+24
+%
+1,296
+15
+%
+99
+%
+Total costs and expenses
+9,767
+90
+%
+6,543
+75
+%
+49
+%
+Aerospace Products operating income (loss)
+$
+1,123
+10
+%
+$
+2,173
+25
+%
+-48
+%
+22
+Table of Contents
+Professional Services
+●
+Revenue from Professional Services increased 8% for the three months ended January 31, 2023 to $9.6 million compared to $8.9 million for the three months ended January 31, 2022. The increase is due to sports book revenue of $1.2 million, and a decrease in casino gaming revenue of $0.5 million.
+In the three months ended January 31, 2023 Boot Hill Casino received gross receipts for the State of Kansas of $12.6 million compared to $12.1 million for the three months ended January 31, 2022. Mandated fees, taxes and distributions reduced gross receipts by $3.6 million resulting in gaming revenue of $9.0 million for the three months ended January 31, 2023, compared to a reduction to gross receipts of $3.8 million resulting in gaming revenue of $8.3 million for the three months ended January 31, 2022. Sportsbook revenue was $1.2 million in the three months ended January 31, 2023 compared to $0 in the three months ended January 31, 2022. Non-gaming revenue at Boot Hill Casino remained constant at $1.1 million for the three months ended January 31, 2023, compared to $1.1 million for the three months ended January 31, 2022.
+The remaining management and Professional Services revenue includes professional management services in the gaming industry, and licensed architectural services.  Professional Services revenue excluding Boot Hill Casino remained constant  at $102 for the three months ended January 31, 2023, compared to $102 for the three months ended January 31, 2022.
+●
+Costs of Professional Services increased 15% in the three months ended January 31, 2023 to $3.8 million compared to $3.3 million in the three months ended January 31, 2022. Costs were 39% of segment total revenue in the three months ended January 31, 2023, as compared to 37% of segment total revenue in the three months ended January 31, 2022.  The increase is directly related to an increase in labor costs.
+●
+Expenses increased 4% in the three months ended January 31, 2023 to $3.5 million compared to $3.4 million in the three months ended January 31, 2022. Expenses were 37% of segment total revenue in the three months ended January 31, 2023, as compared to 38% of segment total revenue in the three months ended January 31, 2022.
+Aerospace Products
+●
+Revenue increased 25% to $10.9 million in the three months ended January 31, 2023, compared to $8.7 million in the three months ended January 31, 2022.  The increase in revenue is primarily due to an increase in the aircraft modification business of $1.8 million and an increase in special mission electronics of $200.
+●
+Costs of Aerospace Products increased 37% in the three months ended January 31, 2023 to $7.2 million compared to $5.2 million for the three months ended January 31, 2022.  Costs were 66% of segment total revenue in the three months ended January 31, 2023, as compared to 60% of segment total revenue in the three months ended January 31, 2022.  The increase is directly related to the increase in material and labor costs.
+●
+Expenses increased 99% in the three months ended January 31, 2023 to $2.6 million compared to $1.3 million in the three months ended January 31, 2022.  Expenses were 24% of segment total revenue in the three months ended January 31, 2023, as compared to 15% of segment total revenue in the three months ended January 31, 2022.  The increase is primarily due to a severance accrual related to the termination of an executive officer of $1.3 million.
+Employees
+Other than persons employed by our gaming subsidiaries there were 109 full time and 3 part time employees on January 31, 2023, compared to 110 full time and 6 part time employees on January 31, 2022. As of March 10, 2023 staffing is 109 full time and 3 part time employees. Our staffing at Boot Hill Casino & Resort on January 31, 2023 was 204 full time and 58 part time employees compared to 165 full time and 54 part time employees on January 31, 2022. At March 10, 2023 there are 207 full time and 62 part time employees. None of the employees are subject to any collective bargaining agreements.
+23
+Table of Contents
+Liquidity and Capital Resources
+We believe that our current banks will provide the necessary capital for our business operations. However, we continue to maintain contact with other banks that have an interest in funding our working capital needs to continue our growth in operations in fiscal 2023 and beyond. Please see footnote 9 to the Company's financial statements regarding "Debt" for additional details concerning our liquidity and capital resources.
+Analysis and Discussion of Cash Flow
+During the nine months ended January 31, 2023 our cash position increased by $4.7 million. Net income was $5.1 million for the nine months ended January 31, 2023. Cash flows provided by operating activities was $13.0 million for the nine months ended January 31, 2023. Non-cash activities consisting of depreciation and amortization provided $4.3 million, while deferred compensation provided $229, gain on the sale of a building used $69, deferred income tax expense provided $280, and stock awarded to director provided $352. Contract assets decreased our cash position by $1.3. Contract liability increased our cash position by $4.0 million. Inventories decreased our cash position by $503. Accounts receivable decreased our cash position by $1,118. Gaming facility mandated payments decreased our cash position by $257. Prepaid expenses and other assets decreased our cash by $2.5 million. An increase in accounts payable, an increase in accrued liabilities and lease liabilities, and an increase in other current liabilities increased our cash by $5.4  million.  Income tax payable decreased our cash position by $933.
+Cash used in investing activities was $4.1 million for the nine months ended January 31, 2023. We invested $1.5 million towards STCs, and $2.0 million on equipment and furnishings, $79 on airplane upgrades, and $534 on the construction of new hangers. We received $164 in proceeds from the sale of a building.
+Cash used by financing activities was $4.2 million for the nine months ended January 31, 2023. We made repayments on our debt of $3.9 million. We made repayments on lease right-to-use of $194. We purchased company stock of $60. The stock acquired was placed in treasury.
+Critical Accounting Policies and Estimates
+We believe that there are several accounting policies that are critical to understanding our historical and future performance, as these policies affect the reported amount of revenue and other significant areas involving management judgments and estimates. These significant accounting policies relate to revenue recognition, the use of estimates, long-lived assets, and Supplemental Type Certificates. These policies and our procedures related to these policies are described in detail below and under specific areas within this "Management's Discussion and Analysis of Financial Condition and Results of Operations."
+Revenue Recognition:
+See footnote 3 to the condensed consolidated financial statements.
+Lease Right-to-Use:  The Company accounts for Lease Right-to-use in accordance with ASU 2016-02 "Leases".  ASU 2016-02 requires that on the balance sheet, a lease should recognize a liability to make lease payments (the lease liability) and a right-of-use asset representing the Company's right to use the underlying asset for the lease term.  Estimates are used to determine the useful life, impairment if any, and the discount rate.  The useful life was determined based on the lease term, there is no impairment at this time and the discount rate used to calculate the lease liability was the Company's incremental borrowing rate.  See footnote 13 to the condensed consolidated financial statements for additional information regarding specific lease calculations.
+Use of Estimates:
+The preparation of financial statements in conformity with generally accepted accounting principles (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Future events and their effects cannot be determined with certainty. Therefore, the determination of estimates requires the exercise of judgment. Actual results could differ from those estimates, and any such differences may be material to our financial statements. Significant estimates include assumptions about percentage-of-completion, collection of accounts receivable, inventory obsolescence, the valuation of long-lived assets, including the STC’s, valuation for deferred tax assets and useful life of fixed and other long-term assets.
+Long-lived Assets:
+The Company accounts for its long-lived assets in accordance with ASC Topic 360-10, "Accounting for the Impairment or Disposal of Long-Lived Assets." ASC Topic 360-10 requires that long-lived assets be reviewed for impairment whenever events or changes in circumstances indicate that the historical cost carrying value of an asset may no longer be appropriate. The Company assesses recoverability of the carrying value of an asset by estimating the future net cash flows expected to result from the asset, including eventual disposition. If the future net cash flows are less than the carrying value of the asset, an impairment loss is recorded equal to the difference between the asset's carrying value and fair value or disposable value.
+Supplemental Type Certificates:
+Supplemental Type Certificates (STCs) are authorizations granted by the Federal Aviation Administration (FAA) for specific modification of a certain aircraft. The STC authorizes us to perform modifications, installations, and assemblies on applicable customer-owned aircraft. Costs incurred to obtain STCs are capitalized and subsequently amortized over a seven year life. The legal life of an STC is indefinite.
+Changing Prices and Inflation
+We have experienced upward pressure from inflation in fiscal year 2023. From fiscal year 2022 to fiscal year 2023 most of the increases we experienced were in material and labor costs. This additional cost may not be transferable to our customers resulting in lower income in the future. We anticipate fuel costs and possibly interest rates to rise in fiscal 2023 and 2024.
+24
+Table of Contents
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements.
+Item 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+We are a smaller reporting company as defined by Rule 12b-2 under the Securities Exchange Act of 1934 and are not required to provide the information required under this item.
+Item 4.  CONTROLS AND PROCEDURES
+We maintain a set of disclosure controls and procedures designed to ensure that information required to be disclosed in our filings under the Securities Exchange Act of 1934 (the "Exchange Act") is recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission rules and forms. Our principal executive and financial officers have evaluated our disclosure controls and procedures as of the end of the period covered by this report on Form 10-Q and have determined that such disclosure controls and procedures are effective, based on criteria in the Internal Control-Integrated Framework, issued by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO").
+Evaluation of disclosure controls and procedures:
+Disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e)) under the Exchange Act are designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms and that such information is accumulated and communicated to management, including the Chief Executive Officer and the Chief Financial Officer, to allow timely decisions regarding required disclosures.
+In connection with the preparation of this Form 10-Q, our Chief Executive Officer and our Chief Financial Officer conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as of January 31, 2023. Based on that evaluation, our Chief Executive Officer and our Chief Financial Officer have concluded that our disclosure controls and procedures were effective as of January 31, 2023.
+Internal Control Over Financial Reporting
+Limitations on Controls
+Our management, including the Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls or our internal control over financial reporting will prevent or detect all error and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system's objectives will be met. The design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Further, because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision making can be faulty and that breakdowns can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls is based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Projections of any evaluation of controls effectiveness to future periods are subject to risks. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures.
+Changes in Internal Control Over Financial Reporting:
+In our opinion there were no changes in the Company's internal control over financial reporting during the nine months ended January 31, 2023 that have materially affected, or are reasonably likely to materially affect, its internal control over financial reporting.
+25
+Table of Contents
+PART II.  OTHER INFORMATION
+Item 1.
+LEGAL PROCEEDINGS.
+As of January 31, 2023, there are no significant known legal proceedings pending against us. We consider all such unknown proceedings, if any, to be ordinary litigation incident to the character of the business. We believe that the resolution of any claims will not, individually or in the aggregate, have a material adverse effect on the financial position, results of operations, or liquidity of the Company.
+Item 1A.
+RISK FACTORS.
+Smaller reporting companies are not required to provide the information required by this item.
+Item 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.
+The table below provides information with respect to common stock purchases by the Company during the third quarter of fiscal 2023.
+Period
+Total Number of Shares Purchased (a)
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs
+November 1, 2022 - November 30, 2022
+-
+$
+-
+-
+$
+2,653,000
+December 1, 2022 - December 31, 2022
+100
+$
+0.66
+100
+$
+2,653,000
+January 1, 2023 - January 31, 2023
+85,207
+$
+0.68
+85,207
+$
+2,595,000
+Total
+85,307
+$
+0.68
+85,307
+(a) Our Board of Directors authorized the repurchase of shares of Butler National common stock in the open market or otherwise, at an aggregate purchase price of $4,000,000 in the second quarter of fiscal 2020. The timing and amount of any share repurchases will be determined by Butler National's management based on market conditions and other factors. The program is currently authorized through May 1, 2023.
+Item 3.
+DEFAULTS UPON SENIOR SECURITIES.
+None.
+Item 4.
+MINE SAFETY DISCLOSURES.
+Not applicable.
+Item 5.
+OTHER INFORMATION.
+None.
+Item 6.
+EXHIBITS.
+3.1
+Articles of Incorporation, as amended and restated are incorporated by reference to Exhibit 3.1 of our Form DEF 14A filed on December 26, 2001.
+3.2
+Bylaws, as amended, are incorporated by reference to Exhibit 3.2 of our Form 10-Q filed on March 14, 2013.
+4.1
+Rights Agreement, dated August 2, 2011, by and between Butler National Corporation and UMB Bank, N.A., as Rights Agent, incorporated by reference to Exhibit 4.1 of our 10-Q filed on December 13, 2016.
+4.2
+Amendment One to Rights Agreement between Butler National Corporation and UMB Bank, N.A. dated July 22, 2021, incorporated by reference to Exhibit 4.2 of our Form 8-K filed on July 26, 2021.
+31.1
+Certificate of Chief Executive Officer pursuant to Exchange Act Rule 13a-14(a).
+31.2
+Certificate of Chief Financial Officer pursuant to Exchange Act Rule 13a-14(a).
+32.1
+Certifications of Chief Executive Officer furnished pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certifications of Chief Financial Officer furnished pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101
+The following financial information from the Company's Quarterly Report on Form 10-Q for the quarter ended January 31, 2023, formatted in Inline XBRL (Extensible Business Reporting Language) includes: (i) Condensed Consolidated Balance Sheets as of January 31, 2023 and April 30, 2022, (ii) Condensed Consolidated Statements of Operations for the three and nine months ended January 31, 2023 and 2022, (iii) Condensed Consolidated Statements of Stockholders’ Equity for the nine months ended January 31, 2023 and 2022, (iv) Condensed Consolidated Statements of Cash Flows for the nine months ended January 31, 2023 and 2022, and (v) the Notes to Consolidated Financial Statements, with detail tagging.
+104
+The cover page from the Company's Quarterly Report on Form 10-Q for the quarterly period ended January 31, 2023, formatted in Inline XBRL (included as Exhibit 101)
+26
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+BUTLER NATIONAL CORPORATION
+(Registrant)
+March 16, 2023
+/s/ Clark D. Stewart
+Date
+Clark D. Stewart
+(President and Chief Executive Officer)
+March 16, 2023
+/s/ Tad M. McMahon
+Date
+Tad M. McMahon
+(Chief Financial Officer)
+27
+Table of Contents
+Exhibit Index
+Exhibit
+Number
+Description of Exhibit
+3.1
+Articles of Incorporation, as amended and restated are incorporated by reference to Exhibit 3.1 of our Form DEF 14A filed on December 26, 2001.
+3.2
+Bylaws, as amended, are incorporated by reference to Exhibit 3.2 of our Form 10-Q filed on March 14, 2013.
+4.1
+Rights Agreement, dated August 2, 2011, by and between Butler National Corporation and UMB Bank, N.A., as Rights Agent, incorporated by reference to Exhibit 4.1 of our 10-Q filed on December 13, 2016.
+4.2
+Amendment One to Rights Agreement between Butler National Corporation and UMB Bank, N.A. dated July 22, 2021, incorporated by reference to Exhibit 4.2 of our Form 8-K filed on July 26, 2021.
+31.1
+Certificate of Chief Executive Officer pursuant to Exchange Act Rule 13a-14(a).
+31.2
+Certificate of Chief Financial Officer pursuant to Exchange Act Rule 13a-14(a).
+32.1
+Certifications of Chief Executive Officer furnished pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certifications of Chief Financial Officer furnished pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101
+The following financial information from the Company's Quarterly Report on Form 10-Q for the quarter ended January 31, 2023, formatted in Inline XBRL (Extensible Business Reporting Language) includes: (i) Condensed Consolidated Balance Sheets as of January 31, 2023 and April 30, 2022, (ii) Condensed Consolidated Statements of Operations for the three and nine months ended January 31, 2023 and 2022, (iii) Condensed Consolidated Statements of Stockholders’ Equity for the nine months ended January 31, 2023 and 2022, (iv) Condensed Consolidated Statements of Cash Flows for the nine months ended January 31, 2023 and 2022, and (v) the Notes to Consolidated Financial Statements, with detail tagging.
+104
+The cover page from the Company's Quarterly Report on Form 10-Q for the quarterly period ended January 31, 2023, formatted in Inline XBRL (included as Exhibit 101)
+28

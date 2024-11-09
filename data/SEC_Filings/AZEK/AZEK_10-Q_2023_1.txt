@@ -1,0 +1,3690 @@
+0001782754
+SOFR + 2.50% + 0.1%
+155000
+100
+4116570
+73088000
+1630378000
+113002000
+1444443000
+25836000
+25836000
+1796000
+3909000
+3909000
+460000
+460000
+352760
+7488000
+7488000
+155000
+100
+4469330
+80576000
+1633827000
+138838000
+1796000
+1412772000
+155000
+100
+1615236000
+188227000
+1427164000
+16707000
+16707000
+3970000
+3970000
+3310000
+3310000
+155000
+100
+1622516000
+171520000
+1451151000
+P10Y
+P5Y
+P12Y
+P9Y
+P3Y
+P15Y
+P20Y
+P19Y
+P10Y
+P15Y
+P10Y
+P5Y
+P12Y
+P9Y
+P3Y
+P15Y
+P20Y
+P19Y
+P10Y
+P15Y
+http://fasb.org/us-gaap/2022#AccruedLiabilitiesAndOtherLiabilities
+http://fasb.org/us-gaap/2022#AccruedLiabilitiesAndOtherLiabilities
+http://fasb.org/us-gaap/2022#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2022#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2022#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2022#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2022#AccruedLiabilitiesAndOtherLiabilities
+http://fasb.org/us-gaap/2022#AccruedLiabilitiesAndOtherLiabilities
+http://fasb.org/us-gaap/2022#AccruedLiabilitiesAndOtherLiabilities
+http://fasb.org/us-gaap/2022#AccruedLiabilitiesAndOtherLiabilities
+http://fasb.org/us-gaap/2022#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2022#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2022#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2022#OtherLiabilitiesNoncurrent
+P6Y9M18D
+P6Y10M24D
+P26Y
+P26Y6M
+http://fasb.org/us-gaap/2022#OtherAssetsCurrent
+http://fasb.org/us-gaap/2022#OtherAssetsCurrent
+http://fasb.org/us-gaap/2022#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2022#OtherLiabilitiesNoncurrent
+P6Y
+P6Y
+P7Y1M6D
+P7Y1M6D
+P7Y8M12D
+P7Y3M18D
+25836000
+16707000
+0001782754
+2022-10-01
+2022-12-31
+xbrli:shares
+0001782754
+us-gaap:CommonClassAMember
+2023-01-31
+0001782754
+us-gaap:CommonClassBMember
+2023-01-31
+iso4217:USD
+0001782754
+2022-12-31
+0001782754
+2022-09-30
+0001782754
+us-gaap:CommonClassAMember
+2022-12-31
+0001782754
+us-gaap:CommonClassAMember
+2022-09-30
+iso4217:USD
+xbrli:shares
+0001782754
+us-gaap:CommonClassBMember
+2022-12-31
+0001782754
+us-gaap:CommonClassBMember
+2022-09-30
+0001782754
+2021-10-01
+2021-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2022-09-30
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2022-09-30
+0001782754
+us-gaap:TreasuryStockMember
+2022-09-30
+0001782754
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001782754
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001782754
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:TreasuryStockMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2022-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2022-12-31
+0001782754
+us-gaap:TreasuryStockMember
+2022-12-31
+0001782754
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001782754
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001782754
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2021-09-30
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2021-09-30
+0001782754
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-30
+0001782754
+us-gaap:RetainedEarningsMember
+2021-09-30
+0001782754
+2021-09-30
+0001782754
+us-gaap:RetainedEarningsMember
+2021-10-01
+2021-12-31
+0001782754
+us-gaap:AdditionalPaidInCapitalMember
+2021-10-01
+2021-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2021-10-01
+2021-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassAMember
+2021-12-31
+0001782754
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2021-12-31
+0001782754
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001782754
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001782754
+2021-12-31
+0001782754
+2021-10-01
+2022-06-30
+0001782754
+us-gaap:PerformanceSharesMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ServiceBasedStockOptionActivityMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ServiceBasedRestrictedStockMember
+2022-10-01
+2022-12-31
+0001782754
+azek:PerformanceBasedRestrictedStockMember
+2022-10-01
+2022-12-31
+0001782754
+srt:ParentCompanyMember
+2022-10-01
+2022-12-31
+0001782754
+azek:INTEXMillworkSolutionsLLCMember
+2022-08-01
+2022-08-01
+0001782754
+azek:INTEXMillworkSolutionsLLCMember
+2022-08-01
+0001782754
+azek:INTEXMillworkSolutionsLLCMember
+2022-12-31
+0001782754
+azek:INTEXMillworkSolutionsLLCMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:CustomerRelationshipsMember
+2022-12-31
+0001782754
+azek:ProprietaryKnowledgeMember
+2022-12-31
+0001782754
+us-gaap:TrademarksMember
+2022-12-31
+0001782754
+us-gaap:CustomerRelationshipsMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ProprietaryKnowledgeMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:TrademarksMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ResidentialMember
+2022-09-30
+0001782754
+azek:CommercialMember
+2022-09-30
+0001782754
+azek:ResidentialMember
+2022-10-01
+2022-12-31
+0001782754
+azek:CommercialMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ResidentialMember
+2022-12-31
+0001782754
+azek:CommercialMember
+2022-12-31
+0001782754
+srt:MinimumMember
+azek:ProprietaryKnowledgeMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MinimumMember
+us-gaap:TrademarksMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MinimumMember
+us-gaap:CustomerRelationshipsMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MinimumMember
+us-gaap:PatentsMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MinimumMember
+us-gaap:OtherIntangibleAssetsMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MaximumMember
+azek:ProprietaryKnowledgeMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MaximumMember
+us-gaap:TrademarksMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MaximumMember
+us-gaap:CustomerRelationshipsMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MaximumMember
+us-gaap:PatentsMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MaximumMember
+us-gaap:OtherIntangibleAssetsMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:PatentsMember
+2022-12-31
+0001782754
+us-gaap:OtherIntangibleAssetsMember
+2022-12-31
+0001782754
+srt:MinimumMember
+azek:ProprietaryKnowledgeMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MinimumMember
+us-gaap:TrademarksMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MinimumMember
+us-gaap:CustomerRelationshipsMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MinimumMember
+us-gaap:PatentsMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MinimumMember
+us-gaap:OtherIntangibleAssetsMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MaximumMember
+azek:ProprietaryKnowledgeMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MaximumMember
+us-gaap:TrademarksMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MaximumMember
+us-gaap:CustomerRelationshipsMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MaximumMember
+us-gaap:PatentsMember
+2021-10-01
+2022-09-30
+0001782754
+srt:MaximumMember
+us-gaap:OtherIntangibleAssetsMember
+2021-10-01
+2022-09-30
+0001782754
+azek:ProprietaryKnowledgeMember
+2022-09-30
+0001782754
+us-gaap:TrademarksMember
+2022-09-30
+0001782754
+us-gaap:CustomerRelationshipsMember
+2022-09-30
+0001782754
+us-gaap:PatentsMember
+2022-09-30
+0001782754
+us-gaap:OtherIntangibleAssetsMember
+2022-09-30
+0001782754
+azek:TwoThousandTwentyTwoTermLoanMember
+2022-12-31
+0001782754
+azek:TwoThousandTwentyTwoTermLoanMember
+2022-09-30
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+2022-10-01
+2022-12-31
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+2021-10-01
+2022-09-30
+xbrli:pure
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+2021-10-01
+2022-09-30
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+2022-04-28
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+2022-04-28
+2022-04-28
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+us-gaap:FederalFundsEffectiveSwapRateMember
+2022-04-28
+2022-04-28
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+2022-04-28
+2022-04-28
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+us-gaap:BaseRateMember
+2022-04-28
+2022-04-28
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+2022-12-31
+0001782754
+azek:TwoThousandTwentyTwoTermLoanAgreementMember
+2022-09-30
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:CpgInternationalLlcMember
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:CpgInternationalLlcMember
+2022-09-30
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+2022-09-30
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:AbrBorrowingsMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:AbrBorrowingsMember
+us-gaap:FederalFundsEffectiveSwapRateMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:AbrBorrowingsMember
+us-gaap:PrimeRateMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:AbrBorrowingsMember
+us-gaap:LondonInterbankOfferedRateLIBORMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:EurocurrencyBorrowingsMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:EurocurrencyBorrowingsMember
+us-gaap:LondonInterbankOfferedRateLIBORMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MaximumMember
+us-gaap:RevolvingCreditFacilityMember
+2022-10-01
+2022-12-31
+0001782754
+srt:MinimumMember
+us-gaap:RevolvingCreditFacilityMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:CpgInternationalLlcMember
+us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember
+us-gaap:SubsequentEventMember
+2023-01-26
+2023-01-26
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+2021-10-01
+2021-12-31
+0001782754
+azek:CpgInternationalLlcMember
+us-gaap:RevolvingCreditFacilityMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:CpgInternationalLlcMember
+srt:MaximumMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RevolvingCreditFacilityMember
+azek:CpgInternationalLlcMember
+srt:MinimumMember
+2022-10-01
+2022-12-31
+0001782754
+azek:TermLoanMember
+2021-10-01
+2021-12-31
+0001782754
+srt:MinimumMember
+2022-12-31
+0001782754
+srt:MaximumMember
+2022-12-31
+azek:Agreement
+0001782754
+us-gaap:DerivativeMember
+2022-11-30
+0001782754
+us-gaap:DerivativeMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:DerivativeMember
+azek:InterestRateSwapTwoMember
+2022-11-30
+0001782754
+us-gaap:DerivativeMember
+us-gaap:InterestRateSwapMember
+2022-11-30
+0001782754
+us-gaap:DerivativeMember
+2022-12-31
+0001782754
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001782754
+us-gaap:FairValueInputsLevel2Member
+2022-09-30
+0001782754
+us-gaap:InterestExpenseMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+azek:TwoThousandTwentyTwoTermLoanDueAprilTwentyEightTwoThousandTwentyNineMember
+2022-12-31
+0001782754
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+azek:TwoThousandTwentyTwoTermLoanDueAprilTwentyEightTwoThousandTwentyNineMember
+2022-12-31
+0001782754
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+azek:TwoThousandTwentyTwoTermLoanDueAprilTwentyEightTwoThousandTwentyNineMember
+2021-12-31
+0001782754
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+azek:TwoThousandTwentyTwoTermLoanDueAprilTwentyEightTwoThousandTwentyNineMember
+2021-12-31
+0001782754
+azek:TwoThousandTwentyTwoTermLoanDueAprilTwentyEightTwoThousandTwentyNineMember
+2022-10-01
+2022-12-31
+0001782754
+azek:StruXureOutdoorLLCMember
+2022-12-31
+0001782754
+azek:StruXureOutdoorLLCMember
+2021-12-29
+0001782754
+azek:StruXureOutdoorLLCMember
+2021-10-01
+2022-09-30
+0001782754
+azek:StruXureOutdoorLLCMember
+2022-10-01
+2022-12-31
+0001782754
+azek:INTEXMillworkSolutionsLLCMember
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2022-10-01
+2022-12-31
+azek:Segment
+0001782754
+azek:ResidentialSegmentMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ResidentialSegmentMember
+2021-10-01
+2021-12-31
+0001782754
+azek:CommercialSegmentMember
+2022-10-01
+2022-12-31
+0001782754
+azek:CommercialSegmentMember
+2021-10-01
+2021-12-31
+0001782754
+us-gaap:IPOMember
+2021-10-01
+2021-12-31
+0001782754
+us-gaap:CommonClassAMember
+srt:MaximumMember
+2022-05-05
+0001782754
+us-gaap:CommonClassAMember
+2021-10-01
+2022-09-30
+0001782754
+us-gaap:CommonClassAMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:CommonClassAMember
+azek:AcceleratedShareRepurchaseAgreementMember
+2021-10-01
+2022-09-30
+0001782754
+azek:TwoThousandAndTwentyOmnibusIncentiveCompensationPlanMember
+2022-12-31
+0001782754
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2021-10-01
+2021-12-31
+0001782754
+azek:TwoThousandAndTwentyOmnibusIncentiveCompensationPlanMember
+2022-10-01
+2022-12-31
+0001782754
+2022-09-13
+2022-12-12
+0001782754
+us-gaap:PerformanceSharesMember
+2022-09-30
+0001782754
+us-gaap:PerformanceSharesMember
+2022-12-31
+0001782754
+azek:ServiceBasedStockOptionActivityMember
+2022-09-30
+0001782754
+azek:ServiceBasedStockOptionActivityMember
+2022-12-31
+0001782754
+azek:ServiceBasedRestrictedStockAwardsMember
+2022-09-30
+0001782754
+azek:ServiceBasedRestrictedStockAwardsMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ServiceBasedRestrictedStockAwardsMember
+2022-12-31
+0001782754
+azek:PerformanceBasedRestrictedStockMember
+2022-09-30
+0001782754
+azek:PerformanceBasedRestrictedStockMember
+2022-12-31
+0001782754
+azek:ServiceBasedRestrictedStockUnitsMember
+2022-09-30
+0001782754
+azek:ServiceBasedRestrictedStockUnitsMember
+2022-10-01
+2022-12-31
+0001782754
+azek:ServiceBasedRestrictedStockUnitsMember
+2022-12-31
+0001782754
+us-gaap:EmployeeStockOptionMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:EmployeeStockOptionMember
+2021-10-01
+2021-12-31
+0001782754
+us-gaap:RestrictedStockUnitsRSUMember
+2022-10-01
+2022-12-31
+0001782754
+us-gaap:RestrictedStockUnitsRSUMember
+2021-10-01
+2021-12-31
+0001782754
+azek:WorkmenCompensationMember
+srt:MinimumMember
+2019-09-30
+0001782754
+azek:WorkmenCompensationMember
+srt:MaximumMember
+2019-09-30
+0001782754
+srt:ParentCompanyMember
+2022-12-31
+0001782754
+srt:ParentCompanyMember
+2022-09-30
+0001782754
+us-gaap:CommonClassAMember
+srt:ParentCompanyMember
+2022-12-31
+0001782754
+us-gaap:CommonClassAMember
+srt:ParentCompanyMember
+2022-09-30
+0001782754
+us-gaap:CommonClassBMember
+srt:ParentCompanyMember
+2022-12-31
+0001782754
+us-gaap:CommonClassBMember
+srt:ParentCompanyMember
+2022-09-30
+0001782754
+srt:ParentCompanyMember
+2021-10-01
+2021-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission File Number:
+001-39322
+The AZEK Company Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+90-1017663
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+1330 W Fulton Street, Suite 350 ,
+Chicago ,
+Illinois
+60607
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: ( 877 )
+275-2935
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading
+Symbol
+Name of each exchange
+on which registered
+Class A Common Stock, par value $0.001 per share
+AZEK
+The New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes    ☒     No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes    ☒     No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes   ☐     No   ☒
+As of January 31, 2023, the registrant had
+150,731,275
+shares of Class A Common Stock, $0.001 par value per share, and
+100
+shares of Class B Common Stock, $0.001 par value per share, outstanding.
+Page
+PART I.
+Financial Information
+3
+Item 1.
+Financial Statements (Unaudited)
+3
+Condensed Consolidated Balance Sheets
+3
+Condensed Consolidated Statements of Comprehensive Income
+4
+Condensed Consolidated Statements of Stockholders’ Equity
+5
+Condensed Consolidated Statements of Cash Flows
+6
+Notes to Unaudited Condensed Consolidated Financial Statements
+7
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+25
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+37
+Item 4.
+Controls and Procedures
+38
+PART II.
+Other Information
+39
+Item 1.
+Legal Proceedings
+39
+Item 1A.
+Risk Factors
+39
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+39
+Item 3.
+Defaults Upon Senior Securities
+39
+Item 4.
+Mine Safety Disclosures
+39
+Item 5.
+Other Information
+39
+Item 6.
+Exhibits
+40
+Signatures
+41
+2
+PART I
+FINANCIAL INFORMATION
+Item 1. Financial Statements (Unaudited)
+The AZEK Company Inc.
+Condensed Consolidated Balance Sheets
+(In thousands of U.S. dollars, except for share and per share amounts)
+(Unaudited)
+in thousands
+December 31,
+2022
+September 30,
+2022
+ASSETS:
+Current assets:
+Cash and cash equivalents
+$
+86,865
+$
+120,817
+Trade receivables, net of allowances
+68,290
+90,159
+Inventories
+320,883
+299,905
+Prepaid expenses
+22,526
+17,212
+Other current assets
+14,946
+2,501
+Total current assets
+513,510
+530,594
+Property, plant and equipment - net
+513,130
+517,913
+Goodwill
+993,995
+993,995
+Intangible assets - net
+233,998
+245,835
+Other assets
+94,068
+94,754
+Total assets
+$
+2,348,701
+$
+2,383,091
+LIABILITIES AND STOCKHOLDERS' EQUITY:
+Current liabilities:
+Accounts payable
+$
+48,563
+$
+48,987
+Accrued rebates
+54,556
+50,479
+Accrued interest
+140
+4,436
+Current portion of long-term debt obligations
+6,000
+6,000
+Accrued expenses and other liabilities
+67,488
+72,589
+Total current liabilities
+176,747
+182,491
+Deferred income taxes
+66,052
+65,195
+Long-term debt—less current portion
+583,726
+584,879
+Other non-current liabilities
+109,404
+106,083
+Total liabilities
+935,929
+938,648
+Commitments and contingencies (See Note 17)
+Stockholders' equity:
+Preferred stock, $ 0.001
+par value;
+1,000,000
+shares authorized and
+no
+shares
+issued or outstanding at December 31, 2022 and September 30, 2022,
+respectively
+—
+—
+Class A common stock, $ 0.001
+par value;
+1,100,000,000
+shares authorized,
+155,196,865
+shares issued at December 31, 2022 and
+155,157,220
+shares
+issued at September 30, 2022
+155
+155
+Class B common stock, $ 0.001
+par value;
+100,000,000
+shares authorized,
+100
+shares issued and outstanding at December 31, 2022 and at September 30,
+2022, respectively
+—
+—
+Additional paid‑in capital
+1,633,827
+1,630,378
+Accumulated deficit
+( 138,838
+)
+( 113,002
+)
+Accumulated other comprehensive income (loss)
+( 1,796
+)
+—
+Treasury stock, at cost,
+4,469,330
+and
+4,116,570
+shares at December 31, 2022
+and September 30, 2022, respectively
+( 80,576
+)
+( 73,088
+)
+Total stockholders' equity
+1,412,772
+1,444,443
+Total liabilities and stockholders' equity
+$
+2,348,701
+$
+2,383,091
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+3
+The AZEK Company Inc.
+Condensed Consolidated Statements of Comprehensive Income
+(In thousands of U.S. dollars, except for share and per share amounts)
+(Unaudited)
+Three Months Ended December 31,
+in thousands
+2022
+2021
+Net sales
+$
+216,259
+$
+259,708
+Cost of sales
+168,680
+171,099
+Gross profit
+47,579
+88,609
+Selling, general and administrative expenses
+73,444
+63,169
+Operating income (loss)
+( 25,865
+)
+25,440
+Other expenses:
+Interest expense
+9,299
+4,148
+Total other expenses
+9,299
+4,148
+Income (loss) before income taxes
+( 35,164
+)
+21,292
+Income tax expense (benefit)
+( 9,328
+)
+4,585
+Net income (loss)
+$
+( 25,836
+)
+$
+16,707
+Other comprehensive income (loss):
+Unrealized gain (loss) due to change in fair value of derivatives, net of tax
+$
+( 1,796
+)
+$
+—
+Total other comprehensive income (loss)
+( 1,796
+)
+—
+Comprehensive income (loss)
+$
+( 27,632
+)
+$
+16,707
+Net income (loss) per common share:
+Basic
+$
+( 0.17
+)
+$
+0.11
+Diluted
+( 0.17
+)
+0.11
+Weighted-average common shares outstanding:
+Basic
+150,877,635
+154,407,244
+Diluted
+150,877,635
+156,854,925
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+4
+The AZEK Company Inc.
+Condensed Consolidated Statements of Stockholders’ Equity
+(In thousands of U.S. dollars, except for share amounts)
+(Unaudited)
+Common Stock
+Treasury Stock
+Additional
+Accumulated Other
+Total
+Class A
+Class B
+Paid-In
+Accumulated
+Comprehensive
+Stockholders'
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Income (Loss)
+Equity
+Balance – September 30, 2022
+155,157,220
+$
+155
+100
+$
+—
+4,116,570
+$
+(73,088
+)
+$
+1,630,378
+$
+(113,002
+)
+$
+—
+$
+1,444,443
+Net income (loss)
+—
+—
+—
+—
+—
+—
+—
+(25,836
+)
+—
+(25,836
+)
+Other comprehensive income (loss)
+—
+—
+—
+—
+—
+—
+—
+—
+( 1,796
+)
+(1,796
+)
+Stock-based compensation
+—
+—
+—
+—
+—
+—
+3,909
+—
+—
+3,909
+Exercise of vested stock options
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Cancellation of restricted stock awards
+( 14,663
+)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Issuance of common stock under employee stock plan, net of shares withheld for taxes
+54,308
+—
+—
+—
+—
+—
+(460
+)
+—
+—
+(460
+)
+Treasury stock purchases
+—
+—
+—
+—
+352,760
+(7,488
+)
+—
+—
+—
+(7,488
+)
+Balance – December 31, 2022
+155,196,865
+$
+155
+100
+$
+—
+4,469,330
+$
+(80,576
+)
+$
+1,633,827
+$
+(138,838
+)
+$
+(1,796
+)
+$
+1,412,772
+Common Stock
+Treasury Stock
+Additional
+Accumulated Other
+Total
+Class A
+Class B
+Paid-In
+Accumulated
+Comprehensive
+Stockholders'
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Income (Loss)
+Equity
+Balance – September 30, 2021
+154,866,313
+$
+155
+100
+$
+—
+—
+$
+—
+$
+1,615,236
+$
+(188,227
+)
+$
+—
+$
+1,427,164
+Net income (loss)
+—
+—
+—
+—
+—
+—
+—
+16,707
+—
+16,707
+Stock-based compensation
+—
+—
+—
+—
+—
+—
+3,970
+—
+—
+3,970
+Exercise of vested stock options
+143,892
+—
+—
+—
+—
+—
+3,310
+—
+—
+3,310
+Cancellation of restricted stock awards
+( 4,399
+)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Issuance of common stock under employee stock plan, net of shares withheld for taxes
+26,571
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Balance – December 31, 2021
+155,032,377
+$
+155
+100
+$
+—
+—
+$
+—
+$
+1,622,516
+$
+(171,520
+)
+$
+—
+$
+1,451,151
+See Notes to Condensed Consolidated Financial Statements (Unaudited) .
+5
+The AZEK Company Inc.
+Condensed Consolidated Statements of Cash Flows
+(In thousands of U.S. dollars)
+(Unaudited)
+Three Months Ended December 31,
+2022
+2021
+Operating activities:
+Net income (loss)
+$
+( 25,836
+)
+$
+16,707
+Adjustments to reconcile net income (loss) to net cash flows provided by (used in)
+operating activities:
+Depreciation
+22,002
+15,202
+Amortization of intangibles
+11,837
+12,880
+Non-cash interest expense
+412
+1,154
+Non-cash lease expense
+( 56
+)
+( 39
+)
+Deferred income tax (benefit) provision
+1,504
+4,381
+Non-cash compensation expense
+5,801
+3,970
+Fair value adjustment for contingent consideration
+400
+—
+Loss (gain) on disposition of property, plant and equipment
+( 66
+)
+18
+Changes in certain assets and liabilities:
+Trade receivables
+21,869
+18,057
+Inventories
+( 20,978
+)
+( 88,515
+)
+Prepaid expenses and other currents assets
+( 16,711
+)
+( 3,330
+)
+Accounts payable
+13,029
+606
+Accrued expenses and interest
+( 7,831
+)
+( 11,626
+)
+Other assets and liabilities
+1,033
+( 85
+)
+Net cash provided by (used in) operating activities
+6,409
+( 30,620
+)
+Investing activities:
+Purchases of property, plant and equipment
+( 30,328
+)
+( 65,333
+)
+Proceeds from disposition of fixed assets
+65
+32
+Acquisitions, net of cash acquired
+—
+( 91,310
+)
+Net cash provided by (used in) investing activities
+( 30,263
+)
+( 156,611
+)
+Financing activities:
+Payments on 2022 Term Loan Agreement
+( 1,500
+)
+—
+Repayments of finance lease obligations
+( 650
+)
+( 559
+)
+Exercise of vested stock options
+—
+3,310
+Cash paid for shares withheld for taxes
+( 460
+)
+—
+Purchases of treasury stock
+( 7,488
+)
+—
+Net cash provided by (used in) financing activities
+( 10,098
+)
+2,751
+Net increase (decrease) in cash and cash equivalents
+( 33,952
+)
+( 184,480
+)
+Cash and cash equivalents – Beginning of period
+120,817
+250,536
+Cash and cash equivalents – End of period
+$
+86,865
+$
+66,056
+Supplemental cash flow disclosure :
+Cash paid for interest, net of amounts capitalized
+$
+13,020
+$
+2,782
+Cash paid for income taxes, net
+112
+( 129
+)
+Supplemental non-cash investing and financing disclosure :
+Capital expenditures in accounts payable at end of period
+$
+16,275
+$
+5,748
+Right-of-use operating and finance lease assets obtained in exchange for lease liabilities
+1,968
+8,915
+See Notes to Condensed Consolidated Financial Statements (Unaudited).
+6
+The AZEK Company Inc.
+Notes to Condensed Consolidated Financial Statements
+(In thousands of U.S. dollars, unless otherwise specified)
+(Unaudited)
+1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+a. Organization
+The AZEK Company Inc. (the “Company”, “we”, “us” or “our”) is a Delaware corporation that holds all of the limited liability company interests in CPG International LLC, the entity which directly and indirectly holds all of the equity interests in the operating subsidiaries. The Company is an industry-leading designer and manufacturer of beautiful, low-maintenance and environmentally sustainable building products for residential, commercial and industrial markets. The Company’s products include decking, railing, trim, porch, moulding, pavers, bathroom and locker systems, as well as extruded plastic sheet products and other non-fabricated products for special applications in industrial markets. The Company operates in various locations throughout the United States. The Company’s residential products are primarily branded under the brand names AZEK, TimberTech, VERSATEX, ULTRALOX and StruXure, while the commercial products are branded under the brand names Celtec, Playboard, Seaboard, Flametec, Designboard, Cortec, Sanatec, Scranton Products, Aria Partitions, Eclipse Partitions, Hiny Hiders, Tufftec Lockers and Duralife Lockers.
+b. Summary of Significant Accounting Policies
+Basis of Presentation
+The Company operates on a fiscal year ending September 30. The accompanying unaudited Condensed Consolidated Financial Statements and notes have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”) for interim financial information, and in management’s opinion, includes all adjustments, consisting of only normal recurring adjustments, necessary for the fair statement of the Company’s financial position, its results of operations and cash flows for the interim periods presented. The results of operations for the three months ended December 31, 2022 and the cash flows for the three months ended December 31, 2022 are not necessarily indicative of the results to be expected for the full fiscal year or any other period.
+The Company’s financial condition and results of operations are being, and are expected to continue to be affected by the current COVID-19 public health pandemic. The economic effects of the COVID-19 pandemic will likely continue to affect demand for the Company’s products in the foreseeable future. Although management has implemented measures to mitigate any impact of the COVID-19 pandemic on the Company’s business, financial condition and results of operations, these measures may not fully mitigate the impact of the COVID-19 pandemic on the Company’s business, financial condition and results of operations. Management cannot predict the degree to, or the period over, which the Company will be affected by the COVID-19 pandemic and resulting governmental and other measures.
+The accompanying unaudited Condensed Consolidated Financial Statements should be read in conjunction with the Consolidated Financial Statements and notes thereto included in the Company’s 2022 Form 10-K. The Condensed Consolidated Balance Sheet as of September 30, 2022 was derived from the audited financial statements at that date. There have been no material changes in the Company’s significant accounting policies from those that were disclosed in the 2022 Form 10-K, except as noted below.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and reported amounts of revenues and expenses during the reporting period. Significant estimates include revenue recognition, reserves for excess inventory, inventory obsolescence, inventory valuation, product warranties, customer rebates, stock-based compensation, litigation, income taxes, contingent consideration, goodwill and intangible asset valuation and accounting for long-lived assets. Management’s estimates and assumptions are evaluated on an ongoing basis and are based on historical experience, current conditions and available information. Actual results may differ from estimated amounts. Estimates are revised as additional information becomes available.
+Accounting Policies
+Refer to the Company’s 2022 Form 10-K for a discussion of the Company’s accounting policies, as updated below and for recently adopted accounting standards.
+7
+Derivatives
+The Company uses interest rate swap agreements to hedge its exposure to interest rate risk on its Senior Secured Credit Facilities. The Company designates derivatives that meet specific accounting criteria as qualifying hedges at inception. These criteria require the Company to have the expectation that the derivative will be highly effective at offsetting changes in the fair value or expected cash flows of the hedged exposure, both at inception of the hedging relationship and on an ongoing basis.
+The Company recognizes all derivative instruments at fair value and classifies them on the balance sheet as either Other current assets, Other assets, Accrued expenses and other liabilities or Other non-current liabilities. The interest rate swap agreements are designated as cash flow hedges. For cash flow hedges, the Company records the effective portion of the change in fair value of the derivative as part of Accumulated other comprehensive income and recognizes those changes in earnings in the period the hedged transaction affects earnings. The Company recognizes any ineffective portion of the change in the fair value of the derivative immediately in earnings.
+Refer to Note 11
+in the Notes to Condensed Consolidated Financial Statements
+for additional information.
+Research and Development Costs
+Research and development costs primarily relate to new product development, product claims support and manufacturing process improvements. Such costs are expensed as incurred and are included in “Selling, general and administrative expenses” within the Condensed Consolidated Statements of Comprehensive Income. Total research and development expenses were $ 2.1
+million and $ 2.0
+million, respectively, for the three months ended December 31, 2022 and 2021.
+Recently Adopted Accounting Pronouncements
+On October 1, 2021, the Company adopted ASU No. 2019-12,
+Income Taxes (Topic 740)—Simplifying the Accounting for Income Taxes . This standard simplifies the accounting for income taxes by removing certain exceptions to general principles in Topic 740 and clarifying and amending existing guidance. The adoption of the standard did not have a material impact on the Company’s Consolidated Financial Statements.
+2. REVENUE
+The Company recognizes revenues when control of the promised goods is transferred to the Company’s customers in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods, at a point in time, when shipping occurs.
+The Company also engages in customer rebates, which are recorded in “Net sales” in the Condensed Consolidated Statements of Comprehensive Income and in “Accrued rebates” and “Trade receivables” in the Condensed Consolidated Balance Sheets. The Company recorded accrued rebates of $ 54.6
+million and $ 49.1
+million as of December 31, 2022 and 2021, respectively, and contra trade receivables of $ 6.5
+million and $ 4.7
+million as of December 31, 2022 and 2021, respectively.
+The rebate activity was as follows (in thousands):
+Three Months Ended December 31,
+2022
+2021
+Beginning balance
+$
+56,542
+$
+47,648
+Rebate expense
+15,716
+16,150
+Rebate payments
+( 11,192
+)
+( 9,957
+)
+Ending balance
+$
+61,066
+$
+53,841
+The Company records deferred revenue when cash payments are received or due in advance of the Company’s performance.
+3. BUSINESS COMBINATIONS
+On
+August 1, 2022 , the Company acquired INTEX Millwork Solutions, LLC, a New Jersey LLC, or INTEX, for a total purchase price of approximately $ 25.7
+million, which consisted of $ 19.9
+million in cash and $ 5.8
+million in contingent consideration, subject to customary post-closing working capital adjustments. INTEX is located in Mays Landing, New Jersey and manufactures high-quality railing solutions, column wraps and pergolas. We financed the acquisition with cash on hand.
+8
+The acquisition was accounted for as a business combination under Accounting Standards Codification (“ASC”) 805
+Business Combinations . Tangible and identifiable intangible assets acquired and liabilities assumed were recorded at their respective fair values. The excess of
+the consideration transferred over the fair value of the net assets received has been recorded for both acquisitions as goodwill in the Residential segment. The factors that
+contributed to the recognition of goodwill primarily relate to future economic benefits arising from expected sales.
+The following table represents the preliminary allocation of assets acquired and liabilities assumed on the acquisition date as of December 31, 2022 (in thousands):
+(US dollars in thousands)
+Total
+Cash and cash equivalents
+$
+4,279
+Trade receivables
+790
+Inventories
+1,902
+Other current assets
+52
+Property and equipment
+3,612
+Intangible assets
+9,300
+ROU assets
+580
+Accounts payable
+( 250
+)
+Accrued expenses
+( 510
+)
+Current lease liabilities
+( 114
+)
+Noncurrent lease liabilities
+( 466
+)
+Total identifiable assets
+19,175
+Goodwill
+6,557
+Net assets acquired/total consideration
+25,732
+Less:  cash acquired
+( 4,279
+)
+Total consideration net of cash acquired
+$
+21,453
+As of the acquisition date, total intangible assets and goodwill amounted to $ 15.9
+million, comprised of $ 7.3
+million related to customer relationships, $ 1.1
+million related to proprietary knowledge and $ 0.9
+million related to trademarks, as well as $ 6.6
+million in goodwill. It is expected that $ 6.6
+million of the goodwill is deductible for tax purposes. The estimated useful life for customer relationships is
+12
+years, and proprietary knowledge and trademarks is
+10
+years . The intangible assets weighted average useful life at the date of acquisition was
+11.6
+years.
+4. INVENTORIES
+Inventories are valued at the lower of cost or net realizable value, and are reduced for slow-moving and obsolete inventory. The inventories cost is recorded at standard cost, which approximates actual cost, on a first-in first-out (“FIFO”) basis.
+Inventories consisted of the following (in thousands):
+in thousands
+December 31,
+2022
+September 30,
+2022
+Raw materials
+$
+66,026
+$
+72,464
+Work in process
+42,190
+39,829
+Finished goods
+212,667
+187,612
+Total inventories
+$
+320,883
+$
+299,905
+9
+5. PROPERTY, PLANT AND EQUIPMENT—NET
+Property, plant and equipment – net consisted of the following (in thousands):
+December 31,
+2022
+September 30,
+2022
+Land and improvements
+$
+4,829
+$
+3,350
+Buildings and improvements
+115,451
+110,300
+Manufacturing equipment
+565,320
+540,536
+Computer equipment
+28,882
+28,198
+Furniture and fixtures
+7,167
+6,867
+Vehicles
+929
+941
+Total property and equipment
+722,578
+690,192
+Construction in progress
+124,282
+140,566
+846,860
+830,758
+Accumulated depreciation
+( 333,730
+)
+( 312,845
+)
+Total property and equipment – net
+$
+513,130
+$
+517,913
+Depreciation expense was approximately $ 22.0
+million and $ 15.2
+million in the three months ended December 31, 2022 and 2021, respectively. During the three months ended December 31, 2022 and 2021, $ 1.3
+million and $ 1.1
+million of interest was capitalized, respectively.
+6. GOODWILL AND INTANGIBLE ASSETS—NET
+Goodwill
+Goodwill consisted of the following (in thousands):
+Residential
+Commercial
+Total
+Goodwill as of September 30, 2022
+$
+953,606
+$
+40,389
+$
+993,995
+Acquisitions
+—
+—
+—
+Goodwill as of December 31, 2022
+$
+953,606
+$
+40,389
+$
+993,995
+Accumulated impairment losses as of September 30, 2022
+—
+32,200
+32,200
+Accumulated impairment losses as of December 31, 2022
+$
+—
+$
+32,200
+$
+32,200
+Intangible assets, net
+The Company did
+no t have any indefinite lived intangible assets other than goodwill as of December 31, 2022 and September 30, 2022.
+Finite-lived intangible assets consisted of the following (in thousands):
+December 31, 2022
+Lives in
+Years
+Gross
+Carrying
+Value
+Accumulated
+Amortization
+Net
+Carrying
+Value
+Proprietary knowledge
+10 — 15
+$
+300,400
+$
+( 240,484
+)
+$
+59,916
+Trademarks
+5 — 20
+230,240
+( 154,692
+)
+75,548
+Customer relationships
+12 — 19
+176,852
+( 81,672
+)
+95,180
+Patents
+9 — 10
+8,500
+( 5,216
+)
+3,284
+Other intangibles
+3 — 15
+4,076
+( 4,006
+)
+70
+Total intangible assets
+$
+720,068
+$
+( 486,070
+)
+$
+233,998
+10
+September 30, 2022
+Lives in
+Years
+Gross
+Carrying
+Value
+Accumulated
+Amortization
+Net
+Carrying
+Value
+Propriety knowledge
+10 — 15
+$
+300,400
+$
+( 236,024
+)
+$
+64,376
+Trademarks
+5 — 20
+230,240
+( 151,259
+)
+78,981
+Customer relationships
+12 — 19
+176,852
+( 78,015
+)
+98,837
+Patents
+9 — 10
+8,500
+( 4,950
+)
+3,550
+Other intangible assets
+3 — 15
+4,076
+( 3,985
+)
+91
+Total intangible assets
+$
+720,068
+$
+( 474,233
+)
+$
+245,835
+Amortization expense was $ 11.8
+million and $ 12.9
+million in the three months ended December 31, 2022 and 2021, respectively. As of December 31, 2022, the remaining weighted-average amortization period for acquired intangible assets was
+11.3
+years.
+7. COMPOSITION OF CERTAIN BALANCE SHEET ACCOUNTS
+Allowance for Doubtful Accounts
+Allowance for doubtful accounts consisted of the following (in thousands):
+Three Months Ended December 31,
+2022
+2021
+Beginning balance
+$
+1,397
+$
+1,109
+Provision
+277
+( 45
+)
+Bad debt write-offs
+—
+10
+Ending balance
+$
+1,674
+$
+1,074
+Accrued Expenses and Other Liabilities
+Accrued expenses consisted of the following (in thousands):
+December 31, 2022
+September 30, 2022
+Employee related liabilities
+$
+31,627
+$
+36,866
+Construction in progress
+9,236
+9,032
+Marketing
+5,379
+4,272
+Lease liability - operating
+5,119
+5,223
+Lease liability - finance
+2,524
+2,366
+Warranty
+2,492
+2,900
+Freight
+2,384
+1,821
+Customer deposits
+1,787
+2,494
+Professional fees
+1,466
+2,089
+Other
+5,474
+5,526
+Total accrued expenses and other current liabilities
+$
+67,488
+$
+72,589
+11
+8. DEBT
+Debt consisted of the following (in thousands):
+December 31, 2022
+September 30, 2022
+2022 Term Loan due
+April 28, 2029
+—
+SOFR +
+2.50 %
++ 0.1%
+( 6.92 % at December 31, 2022 and
+4.09 % at September 30, 2022)
+$
+598,500
+$
+600,000
+Revolving Credit Facility through
+March 31, 2026
+-
+LIBOR +
+1.25 %
+—
+—
+Total
+598,500
+600,000
+Less unamortized deferred financing costs
+( 4,533
+)
+( 4,712
+)
+Less unamortized original issue discount
+( 4,241
+)
+( 4,409
+)
+Less current portion
+( 6,000
+)
+( 6,000
+)
+Long-term debt—less current portion and unamortized
+deferred financing costs
+$
+583,726
+$
+584,879
+Term Loan Agreements
+The term loan agreement, as amended and restated from time to time (the “Term Loan Agreement”), was a first lien term loan originally entered into on September 30, 2013 by the Company’s wholly-owned subsidiary, CPG International LLC (as successor-in-interest to CPG Merger Sub LLC), as the initial borrower with a syndicate of lenders party thereto. On April 28, 2022, the obligations under the Term Loan Agreement were paid off in full and the Term Loan Agreement was terminated.
+On April 28, 2022, CPG International LLC entered into a new $ 600.0
+million first lien term loan credit agreement (the “2022 Term Loan Agreement”), the proceeds of which were applied, among other uses, to prepay the obligations of the Term Loan Agreement in full.  The 2022 Term Loan Agreement is a first lien term loan and will mature on
+April 28, 2029 , subject to acceleration or prepayment. The 2022 Term Loan Agreement will amortize in equal quarterly installments of
+0.25 % of the aggregate principal amount of the loans outstanding, subject to reduction for certain prepayments. The loans thereunder bear an interest rate equal to (i) in the case of ABR borrowings, the highest of (a) the Federal Funds Rate plus
+0.50 %, (b) the Prime Rate as in effect on such day and (c) the one-month Term SOFR rate plus
+1.00 % per annum, provided that in no event will the alternative base rate be less than
+1.50 % per annum, plus an applicable margin of
+1.50 % and (ii) in the case of SOFR borrowings, the Term SOFR rate for the applicable interest period, in each case, plus an applicable margin of
+2.50 %. As of December 31, 2022 and September 30, 2022, CPG International LLC had $ 598.5
+million and $ 600.0
+million outstanding under the 2022 Term Loan Agreement.
+The obligations under the 2022 Term Loan Agreement are secured by a first priority security interest in the membership interests of CPG International LLC owned by the Company, the equity interests of CPG International LLC’s domestic subsidiaries, other than certain immaterial subsidiaries and other excluded subsidiaries, and all remaining assets not constituting Revolver Priority Collateral (as defined below and subject to certain exceptions) of the Company, CPG International LLC and the subsidiaries of CPG International LLC that are guarantors under the 2022 Term Loan Agreement (the “Term Loan Priority Collateral”), and a second priority security interest in the Revolver Priority Collateral. The obligations under the 2022 Term Loan Agreement are guaranteed by the Company and the wholly owned domestic subsidiaries of CPG International LLC other than certain immaterial subsidiaries and other excluded subsidiaries.
+Loans under the 2022 Term Loan Agreement may be voluntarily prepaid in whole, or in part, in each case without premium or penalty
+(other than the Prepayment Premium, as defined in
+the 2022 Term Loan Agreement , if applicable) , subject to certain customary conditions. The 2022 Term Loan Agreement also requires mandatory prepayments of loans under the 2022 Term Loan Agreement from the proceeds of certain debt issuances and certain asset dispositions (subject to certain reinvestment rights) and, commencing with the fiscal year ending September 30, 2023, a percentage of excess cash flow (subject to step-downs upon CPG International LLC achieving certain leverage ratios and other reductions in connection with other debt prepayments).
+The 2022 Term Loan Agreement contains affirmative covenants, negative covenants and events of default, which are broadly consistent with those in the Revolving Credit Facility (with certain differences consistent with the differences between a revolving loan and term loan) and that are customary for facilities of this type. The 2022 Term Loan Agreement does not have any financial maintenance covenants. The 2022 Term Loan Agreement also includes customary events of default, including the occurrence of a change of control.
+As of December 31, 2022, and September 30, 2022, unamortized deferred financing fees related to the 2022 Term Loan Agreement were $ 4.5
+million and $ 4.7
+million, respectively.
+12
+Revolving Credit Facility
+CPG International LLC has also entered into a revolving credit facility, as amended and restated from time to time (the “Revolving Credit Facility”), with certain of our direct and indirect subsidiaries and certain lenders party thereto.
+The Revolving Credit Facility provides for maximum aggregate borrowings of up to $ 150.0
+million, subject to an asset-based borrowing base. The borrowing base is limited to a set percentage of eligible accounts receivable and inventory, less reserves that may be established by the administrative agent and the collateral agent in the exercise of their reasonable credit judgment.
+CPG International LLC had
+no
+outstanding borrowings under the Revolving Credit Facility as of December 31, 2022 and September 30, 2022, respectively. In addition, CPG International LLC had $ 2.8
+million of outstanding letters of credit held against the Revolving Credit Facility as of both December 31, 2022 and September 30, 2022.  CPG International LLC had approximately $ 147.2
+million available under the borrowing base for future borrowings as of December 31, 2022. CPG International LLC also has the option to increase the commitments under the Revolving Credit Facility by up to $ 100.0  million, subject to certain conditions.
+On March 31, 2021, CPG International LLC amended the Revolving Credit Facility, resulting in a repricing and extension thereof. Pursuant to such amendment, the
+interest rate has been reduced by 25 basis points to
+(i) for ABR borrowings, the highest of (a) the
+Federal Funds Rate plus 50 basis points , (b) the
+prime rate
+and (c) the
+LIBOR as of such date for a deposit in U.S. dollars with a maturity of one month plus 100 basis points, plus, in each case, a spread of 25 to 75 basis points , based on average historical availability,
+or (ii)
+for Eurocurrency borrowings, adjusted
+LIBOR plus a spread of 125 to 175 basis points , based on average historical availability .
+The maturity date for the Revolving Credit Facility was extended from
+May 9, 2022
+to the earlier of
+March 31, 2026
+and the date that is 91 days prior to the maturity of the Term Loan Agreement or any permitted refinancing thereof.
+On January 26, 2023, CPG International LLC further amended the Revolving Credit Facility, replacing all LIBOR-based provisions with provisions reflecting the Secured Overnight Financing Rate (“SOFR”), including, without limitation, the use of a new Adjusted Term SOFR benchmark rate equal to Term SOFR (as defined in the Revolving Credit Agreement) plus
+0.10 %.
+Deferred financing costs, net of accumulated amortization, related to the Revolving Credit Facility at December 31, 2022 and September 30, 2022 were $ 0.9  million and $ 0.9  million, respectively.
+A “commitment fee” accrues on any unused portion of the commitments under the Revolving Credit Facility during the preceding three calendar month period.
+If the average daily used percentage is greater than 50%, the commitment fee equals 25 basis points, and if the average daily used percentage is less than or equal to 50%, the commitment fee equals 37.5 basis points.
+The commitment fees were $ 0.1  million and $ 0.1  million for the three months ended December 31, 2022 and 2021, respectively.
+The obligations under the Revolving Credit Facility are guaranteed by the Company and its wholly owned domestic subsidiaries other than certain immaterial subsidiaries and other excluded subsidiaries. The obligations under the Revolving Credit Facility are secured by a first priority security interest in substantially all of the accounts receivable, inventory, deposit accounts, securities accounts and cash assets of the Company, CPG International LLC and the subsidiaries of CPG International LLC that are guarantors under the Revolving Credit Facility, and the proceeds thereof (subject to certain exceptions) (the “Revolver Priority Collateral”), plus a second priority security interest in all of the Term Loan Priority Collateral. The Revolving Credit Facility may be voluntarily prepaid in whole, or in part, in each case without premium or penalty.
+CPG International LLC is also required to make mandatory prepayments (i) when aggregate borrowings exceed commitments or the applicable borrowing base and (ii) during “cash dominion,” which occurs if (a) the availability under the Revolving Credit Facility is less than the greater of (i) $12.5 million and (ii) 10% of the lesser of (x) $150.0 million and (y) the borrowing base, for five consecutive business days or (b) certain events of default have occurred and are continuing.
+The Revolving Credit Facility contains affirmative covenants that are customary for financings of this type, including allowing the Revolver Administrative Agent to perform periodic field exams and appraisals to evaluate the borrowing base. The Revolving Credit Facility contains various negative covenants, including limitations on, subject to certain exceptions, the incurrence of indebtedness, the incurrence of liens, dispositions, investments, acquisitions, restricted payments, transactions with affiliates, as well as other negative covenants customary for financings of this type. The Revolving Credit Facility also includes a financial maintenance covenant, applicable only when the excess availability is less than the greater of
+(i) 10% of the lesser of the aggregate commitments under the Revolving Credit Facility and the borrowing base, and (ii) $12.5 million . In such circumstances, CPG International LLC would be required to maintain a minimum fixed charge coverage ratio (as defined in the Revolving Credit Facility) for the trailing four quarters equal to at least
+1.0
+to
+1.0 ; subject to CPG International LLC’s ability to make an equity cure (no more than twice in any four quarter period and up to five times over the life of the facility). As of December 31, 2022, CPG International LLC was in compliance with the financial and nonfinancial covenants imposed by the Revolving Credit Facility. The Revolving Credit Facility also includes customary events of default, including the occurrence of a change of control.
+13
+Interest expense consisted of the following (in thousands):
+Three Months Ended December 31,
+2022
+2021
+Interest expense
+2022 Term Loan Agreement
+$
+8,916
+$
+—
+Term Loan Agreement
+—
+3,884
+Revolving Credit Facility
+151
+163
+Other
+1,109
+866
+Amortization - Debt issue costs
+2022 Term Loan Agreement
+179
+—
+Term Loan Agreement
+—
+254
+Revolving Credit Facility
+66
+66
+2022 Term Loan OID
+167
+—
+Term Loan OID
+—
+30
+Capitalized interest
+( 1,289
+)
+( 1,115
+)
+Interest expense
+$
+9,299
+$
+4,148
+See Note 11 for the fair value of the Company’s debt as of December 31, 2022 and September 30, 2022.
+9. PRODUCT WARRANTIES
+The Company provides product assurance warranties of various lengths ranging from 5 years to lifetime for limited coverage for a variety of material and workmanship defects based on standard terms and conditions between the Company and its customers.
+Warranty coverage depends on the product involved. The warranty reserve activity consisted of the following (in thousands):
+Three Months Ended December 31,
+2022
+2021
+Beginning balance
+$
+15,023
+$
+12,699
+Adjustments to reserve
+( 172
+)
+467
+Warranty claims payment
+( 313
+)
+( 485
+)
+Accretion - purchase accounting valuation
+—
+—
+Ending balance
+14,538
+12,681
+Current portion of accrued warranty
+( 2,492
+)
+( 2,885
+)
+Accrued warranty – less current portion
+$
+12,046
+$
+9,796
+10. LEASES
+The Company leases vehicles, machinery, manufacturing facilities, office space, land, and equipment under both operating and finance leases. We sublease excess office real estate to a third-party tenant. The Company determines if an arrangement is a lease at inception. A contract is or contains a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. As of December 31, 2022 and September 30, 2022, amounts associated with leases are included in Other assets, Accrued expense and other liabilities and Other non-current liabilities in the Company’s Condensed Consolidated Balance Sheet.
+For leases with initial terms greater than 12 months, the Company considers these right-of-use assets and records the related asset and obligation at the present value of lease payments over the term. For leases with initial terms equal to or less than 12 months, the Company does not consider them as right-of-use assets and instead considers them short-term lease costs that are recognized on a straight-line basis over the lease term.
+The Company’s leases may include escalation clauses, renewal options and/or termination options that are factored into the determination of lease term and lease payments when it is reasonably certain the option will be exercised. Renewal options range from
+1
+year to
+20
+years.
+14
+Lease assets and lease liabilities as of December 31, 2022 and September 30, 2022 were as follows (in thousands):
+Leases
+Classification on Balance Sheet
+December 31, 2022
+September 30, 2022
+Assets
+ROU operating lease assets
+Other assets
+$
+18,670
+$
+19,724
+Finance lease assets
+Other assets
+74,035
+73,541
+Total lease assets
+$
+92,705
+$
+93,265
+Liabilities
+Current
+Operating
+Accrued expenses and other liabilities
+$
+5,119
+$
+5,223
+Finance
+Accrued expenses and other liabilities
+2,524
+2,366
+Non-Current
+Operating
+Other non-current liabilities
+16,255
+17,261
+Finance
+Other non-current liabilities
+76,639
+75,706
+Total lease liabilities
+$
+100,537
+$
+100,556
+The components of lease expense for the three months ended December 31, 2022 and 2021 were as follows:
+Three Months Ended December 31,
+(in thousands)
+2022
+2021
+Operating lease expense
+$
+1,501
+$
+1,170
+Finance lease amortization of assets
+1,248
+717
+Finance lease interest on lease liabilities
+1,092
+804
+Short term
+103
+42
+Sublease income
+( 71
+)
+( 119
+)
+Total lease expense
+$
+3,873
+$
+2,614
+The tables below present supplemental information related to leases as of December 31, 2022 and
+September 30, 2022:
+Weighted-average remaining lease term (years)
+December 31, 2022
+September 30, 2022
+Operating leases
+6.8
+6.9
+Finance leases
+26.0
+26.5
+Weighted-average discount rate
+Operating leases
+4.2
+%
+4.1
+%
+Finance leases
+5.9
+%
+5.9
+%
+15
+The following table summarizes the maturities of lease liabilities at December 31, 2022:
+(in thousands)
+Operating Leases
+Finance Leases
+Total
+2023
+$
+4,555
+$
+5,153
+$
+9,708
+2024
+4,636
+6,741
+11,377
+2025
+3,780
+6,629
+10,409
+2026
+2,497
+6,476
+8,973
+2027
+1,877
+6,070
+7,947
+Thereafter
+7,695
+122,216
+129,911
+Total lease payments
+25,040
+153,285
+178,325
+Less: interest
+( 3,666
+)
+( 74,122
+)
+( 77,788
+)
+Present value of lease liability
+$
+21,374
+$
+79,163
+$
+100,537
+11. FAIR VALUE OF FINANCIAL INSTRUMENTS
+FASB Accounting Standards Codification (“ASC”) requirements for Fair Value Measurements and Disclosures establish a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three levels. Level 1 inputs, the highest priority, are quoted prices in active markets for identical assets or liabilities. Level 2 inputs reflect other than quoted prices included in Level 1 that are either observable directly or through corroboration with observable market data. Level 3 inputs are unobservable inputs, due to little or no market activity for the asset or liability, such as internally-developed valuation models. We do not have any assets or liabilities measured at fair value on a recurring basis that are Level 3.
+Derivative Instruments
+The Company’s objective in using interest rate derivative instruments is to hedge against interest rate volatility associated with its Senior Secured Credit Facilities by converting a portion of its floating rate debt to fixed rate debt. In November 2022, the Company entered into
+two
+interest rate swap agreements with Barclays Bank PLC (“Barclays”) to manage interest rate risk related to 2022 Term Loan.  Each agreement has a notional amount of $ 150
+million and will expire on
+October 31, 2025 . One agreement swaps variable interest at a rate based on SOFR with a fixed rate of
+4.39 % and the second with a fixed rate of
+4.48 %.
+At the inceptions of the swap agreements and as of December 31, 2022, both swaps were designated and qualified as cash flow hedges in accordance with ASC 815.  Their gain (loss) is recorded in Accumulated other comprehensive income (loss) and then reclassified into Interest expense in the same period in which the hedged transaction affects earnings.  As of December 31, 2022, the Company expects to reclass approximately $ 1.0
+million ($ 0.7
+million after-tax) as a reduction to interest expense in the next 12 months.
+The following table provides the fair values of the interest rate derivative instruments as well as their classification on the Balance Sheet as of December 31, 2022 and September 30, 2022 (in thousands):
+Fair Value as of
+Fair Value Hierarchy
+Balance Sheet Location
+December 31, 2022
+September 30, 2022
+Assets
+Interest rate swaps
+Level 2
+Other current assets
+$
+1,048
+$
+—
+Liabilities
+Interest rate swaps
+Level 2
+Other non-current liabilities
+$
+3,491
+$
+—
+The Company estimates the fair value of interest rate swaps using a valuation model based on observable market data, such as yield curves.  Both swaps are classified as Level 2 measurement in the fair value hierarchy.
+16
+The following table provides the effects of the interest rate derivative instruments in Statements of Income and on Accumulated other comprehensive income (loss) as of December 31, 2022 and 2021 (in thousands):
+Cash Flow Hedge - Amount of Gain
+(Loss) Recognized in Other
+Comprehensive Income (Loss)
+Location of Gain (Loss) Reclassified
+from Accumulated Other
+Cash Flow Hedge - Amount of Gain
+(Loss) Reclassified from Accumulated
+Other Comprehensive Income (Loss)
+Three Months Ended December 31,
+Comprehensive Income (Loss)
+Three Months Ended December 31,
+2022
+2021
+into Income
+2022
+2021
+Interest rate swaps
+$
+( 1,796
+)
+$
+—
+Interest expense
+$
+( 74
+)
+$
+—
+Other Financial Instruments
+The carrying values and the estimated fair values of the debt financial instruments (Level 2 measurements) consisted of the following (in thousands):
+December 31, 2022
+September 30, 2022
+Carrying
+Value
+Estimated
+Fair Value
+Carrying
+Value
+Estimated
+Fair Value
+2022 Term Loan due
+April 28, 2029
+$
+598,500
+$
+586,530
+$
+600,000
+$
+586,500
+Financial instruments remeasure at fair value on a recurring basis
+–
+During the year ended September 30, 2022, the Company entered into an arrangement for a contingent payment to the former owner and employee of StruXure. The contingent payment is based on achievement of a minimum EBITDA amount and a multiple of EBITDA, for EBITDA exceeding a higher threshold for calendar year 2022. Based on the formula, the potential contingent payout can range from
+zero
+to $ 13.9
+million. At the date of acquisition, the fair value was estimated to be $ 9.5
+million. As of December 31, 2022, the fair value was increased to $ 11.4
+million based on the actual EBITDA amount for StruXure. Compensation expense of $ 9.5
+million was recognized for the year ended September 30, 2022 and $ 1.9
+million was recognized for the three months ended December 31, 2022.
+In connection with the acquisition of INTEX on
+August 1, 2022 , the Company entered into a contingent consideration arrangement with the former owner of INTEX. The contingent consideration is based on achievement of a minimum gross profit amount for calendar year 2022. Based on the formula, the potential contingent consideration can range from
+zero
+to $ 6.2
+million.  At the date of the acquisition, the fair value was estimated to be $ 5.8
+million. As of December 31, 2022, the fair value was increased to $ 6.2
+million. Contingent payment of $ 5.8
+million was included in the acquisition purchase price at the date of acquisition and the change in fair value of $ 0.4
+million was recognized in selling, general and administrative expense for the three months ended December 31, 2022 .
+12. SEGMENTS
+Operating segments for the Company are determined based on information used by the chief operating decision maker (“CODM”) in deciding how to evaluate performance and allocate resources to each of the segments. The CODM reviews Adjusted EBITDA and Adjusted EBITDA Margin as the key segment measures of performance. Adjusted EBITDA is defined as segment operating income (loss) plus depreciation and amortization, adjusted by adding thereto or subtracting therefrom stock-based compensation costs, business transformation costs, acquisition costs, capital structure transaction costs, and certain other costs. Adjusted EBITDA Margin is defined as Adjusted EBITDA divided by net sales.
+The Company has
+two
+reportable segments, Residential and Commercial. The reportable segments were determined primarily based on products and end markets as follows:
+• Residential—The Residential segment manufactures and distributes decking, rail, trim and accessories through a national network of dealers and distributors and multiple home improvement retailers providing extensive geographic coverage and enabling the Company to effectively serve contractors. The addition of StruXure expands our product offerings in the Residential segment. The addition of regional recyclers provides full-service recycled PVC material processing, sourcing, logistical support, and scrap management programs. This segment is impacted by trends in and the strength of home repair and remodel activity.
+• Commercial—The Commercial segment manufactures, fabricates and distributes resin based extruded sheeting products for a variety of commercial and industrial applications through a widespread distribution network as well as directly to original equipment manufacturers. This segment includes Scranton Products which manufactures lockers and partitions and Vycom which manufactures resin based sheeting products. This segment is impacted by trends in and the strength of the repair and remodel sector.
+17
+The segment data below includes data for Residential and Commercial for the three months ended December 31, 2022 and 2021 (in thousands).
+Three Months Ended
+December 31,
+2022
+2021
+Net sales to customers
+Residential
+$
+179,484
+$
+221,133
+Commercial
+36,775
+38,575
+Total
+$
+216,259
+$
+259,708
+Adjusted EBITDA
+Residential
+$
+26,007
+$
+69,431
+Commercial
+5,154
+4,748
+Total Adjusted EBITDA for reporting segments
+$
+31,161
+$
+74,179
+Unallocated net expenses
+( 16,061
+)
+( 15,659
+)
+Adjustments to Income before income tax provision
+Depreciation and amortization
+( 33,840
+)
+( 28,082
+)
+Stock-based compensation costs
+( 3,957
+)
+( 4,016
+)
+Acquisition costs (1)
+( 2,435
+)
+( 497
+)
+Other costs (2)
+( 733
+)
+( 485
+)
+Interest expense, net
+( 9,299
+)
+( 4,148
+)
+Income (loss) before income tax provision
+$
+( 35,164
+)
+$
+21,292
+(1)
+Acquisition costs reflect costs directly related to completed acquisitions of $ 2.4
+million and $ 0.5
+million in the three months ended December 31, 2022 and 2021, respectively.
+( 2 )
+Other costs include costs for legal expense of $ 0.2  million and $ 0.3
+million in the three months ended December 31, 2022 and 2021, respectively, costs related to an incentive plan and other ancillary expenses associated with the initial public offering of $ 0.1
+million for the three months ended December 31, 2021, and other costs of $ 0.5
+million and $ 0.1
+million for the three months ended December 31, 2022 and 2021, respectively.
+18
+13. CAPITAL STOCK
+Share Repurchase Program
+On May 5, 2022, the Board of Directors authorized the Company to repurchase up to $ 400
+million of the Company’s Class A common stock (the “Share Repurchase Program”). The Share Repurchase Program allows the Company to repurchase its shares opportunistically from time to time. Purchases may be effected through one or more open market transactions, privately negotiated transactions, transactions structured through investment banking institutions, accelerated share repurchases or tender offers, some of which may be effected through Rule 10b5-1 plans, or a combination of the foregoing. The timing of repurchases will depend upon several factors, including market and business conditions, and repurchases may be discontinued at any time.
+In the fiscal year ended September 30, 2022, the Company repurchased
+2,508,906
+shares of its Class A common stock under a $ 50
+million accelerated share repurchase agreement at an average price of $ 19.93
+per share.  During the same period, the Company also repurchased
+1,607,664
+shares of its Class A common stock on the open market at an average price of $ 19.58
+per share, totaling an approximately $ 31.5
+million reacquisition cost. During the three months ended December 31, 2022, the Company repurchased an additional
+352,760
+shares of its Class A common stock on the open market at an average price of $ 21.23
+per share, totaling an approximately $ 7.5
+million reacquisition cost.
+As of December 31, 2022, the Company had approximately $ 311.0
+million available for repurchases under the Share Repurchase Program.
+On August 16, 2022, the U.S. government enacted the Inflation Reduction Act of 2022 (the “Inflation Reduction Act”),
+that includes, among other provisions, a one percent excise tax on net repurchases of stock after December 31, 2022.
+The Company expects the excise tax to apply to its Share Repurchase Program, but does not expect the excise tax to have a material effect on its business.
+14. STOCK-BASED COMPENSATION
+The Company grants stock-based awards to attract, retain and motivate key employees and directors.
+The 2020 Omnibus Incentive Compensation Plan (“2020 Plan”), provides for the grant of stock options, stock appreciation rights, restricted stock, restricted stock units, dividend equivalent rights, and performance-based or other equity-related awards to the Company’s employees and directors. The maximum aggregate number of shares that may be issued under the 2020 Plan is
+15,852,319
+shares with
+2,688,067
+shares remaining in the reserve. The total aggregate number of shares may be adjusted as determined by the Board of Directors.
+Stock-based compensation expense for the three months ended December 31, 2022 and 2021 was $ 4.0  million and $ 4.0  million, respectively, recognized in “Selling, general and administrative expenses” in the Condensed Consolidated Statements of Comprehensive Income. Total income tax benefit for the three months ended December 31, 2022 and 2021 was $ 0.8  million and $ 0.8  million, respectively. As of December 31, 2022, the Company had not yet recognized compensation cost on unvested stock-based awards of $ 39.4  million, with a weighted average remaining recognition period of
+2.2
+years.
+The Company uses the Black Scholes pricing model to estimate the fair value of its service-based awards as of the grant date. Under the terms of the 2020 Plan, all stock options will expire if not exercised within
+ten years
+of the grant date.
+The following table sets forth the significant assumptions used for the calculation of stock-based compensation expense for the three months ended December 31, 2022 and 2021:
+December 12,
+2022
+Grant Date
+November 19,
+2021
+Grant Date
+Risk-free interest rate
+3.77
+%
+1.34
+%
+Expected volatility
+40.00
+%
+40.00
+%
+Expected term (in years)
+6.00
+6.00
+Expected dividend yield
+0.00
+%
+0.00
+%
+19
+Stock Options
+The following table summarizes the performance-based stock option activity for the three months ended December 31, 2022:
+Number
+of Shares
+Weighted
+Average
+Exercise
+Price Per
+Share
+Weighted
+Average
+Remaining
+Contract
+Term
+Aggregate
+Intrinsic
+Value
+(in years)
+(in thousands)
+Outstanding at October 1, 2022
+1,410,653
+$
+23.00
+Granted
+—
+—
+Exercised
+—
+—
+Cancelled/Forfeited
+( 2,174
+)
+23.00
+Outstanding at December 31, 2022
+1,408,479
+23.00
+7.1
+—
+Vested and exercisable at December 31, 2022
+1,408,479
+$
+23.00
+7.1
+—
+The following table summarizes the service-based stock option activity for the three months ended December 31, 2022:
+Number
+of Shares
+Weighted
+Average
+Exercise
+Price Per
+Share
+Weighted
+Average
+Remaining
+Contract
+Term
+Aggregate
+Intrinsic
+Value
+(in years)
+(in thousands)
+Outstanding at October 1, 2022
+3,557,194
+$
+25.57
+Granted
+250,477
+20.18
+Exercised
+—
+—
+Cancelled/Forfeited
+( 31,281
+)
+23.00
+Outstanding at December 31, 2022
+3,776,390
+25.23
+7.7
+42
+Vested and exercisable at December 31, 2022
+2,179,215
+$
+23.88
+7.3
+—
+Restricted Stock Awards
+A summary of the service-based restricted stock awards activity during the three months ended December 31, 2022 was as follows:
+Number
+of Shares
+Weighted
+Average
+Grant Date
+Fair Value
+Outstanding and unvested at October 1, 2022
+275,628
+$
+23.00
+Granted
+—
+—
+Vested
+( 20,483
+)
+23.00
+Forfeited
+( 14,663
+)
+23.00
+Outstanding and unvested at December 31, 2022
+240,482
+$
+23.00
+Performance Restricted Stock Units
+Performance restricted stock units were granted to officers and certain employees of the Company and represent the right to earn shares of Company common stock based on the achievement of company-wide non-GAAP performance conditions, including cumulative net sales, average return on net tangible assets and cumulative EBITDA during the three-year performance period. Compensation cost is amortized into expense over the performance period, which is generally three years, and is based on the probability of meeting performance targets. The fair value of each performance share award is based on the closing stock price on the date of grant.
+20
+A summary of the performance-based restricted stock unit awards activity for the three months ended December 31, 2022 presented at target was as follows:
+Number
+of Shares
+Weighted
+Average
+Grant Date
+Fair Value
+Outstanding and unvested at October 1, 2022
+221,469
+$
+37.51
+Granted
+317,033
+20.18
+Vested
+—
+—
+Forfeited
+( 4,470
+)
+38.04
+Outstanding and unvested at December 31, 2022
+534,032
+$
+27.22
+Restricted Stock Units
+A summary of the service-based restricted stock unit awards activity for the three months ended December 31, 2022 was as follows:
+Number
+of Shares
+Weighted
+Average
+Grant Date
+Fair Value
+Outstanding and unvested at October 1, 2022
+574,499
+$
+31.14
+Granted
+384,712
+20.17
+Vested
+( 78,358
+)
+38.18
+Forfeited
+( 9,601
+)
+34.09
+Outstanding and unvested at December 31, 2022
+871,252
+$
+25.63
+15. EARNINGS PER SHARE
+The Company computes earnings per common share (“EPS”) under the two-class method which requires the allocation of all distributed and undistributed earnings attributable to the Company to common stock and other participating securities based on their respective rights to receive distributions of earnings or losses. The Company’s Class A common stock and Class B common stock equally share in distributed and undistributed earnings, therefore, no allocation to participating securities or dilutive securities is performed.
+21
+Basic EPS attributable to common stockholders is calculated by dividing net income (loss) attributable to common stockholders by the weighted-average number of shares of common stock outstanding. Diluted EPS is calculated by adjusting weighted average shares outstanding for the dilutive effect of potential common shares, determined using the treasury-stock method. For purposes of the diluted EPS calculation, restricted stock awards, restricted stock units and options to purchase shares of common stock
+are considered
+to be
+potential common shares.
+The following table sets forth the computation of the Company’s basic and diluted EPS attributable to common stockholders (in thousands, except share and per share amounts):
+Three Months Ended December 31,
+2022
+2021
+Numerator:
+Net income (loss)
+$
+( 25,836
+)
+$
+16,707
+Net income (loss) attributable to
+common stockholders
+- basic and diluted
+$
+( 25,836
+)
+$
+16,707
+Denominator:
+Weighted-average shares of common stock
+Basic
+150,877,635
+154,407,244
+Diluted
+150,877,635
+156,854,925
+Net income (loss) per share attributable
+to common stockholders:
+Net income (loss) per common share - basic
+$
+( 0.17
+)
+$
+0.11
+Net income (loss) per common share - diluted
+$
+( 0.17
+)
+$
+0.11
+The following table includes the number of shares that may be dilutive common shares in the future, and were not included in the computation of diluted net income per share because the effect was anti-dilutive:
+Three Months Ended December 31,
+2022
+2021
+Stock Options
+5,010,161
+254,208
+Restricted Stock Units
+531,462
+117,835
+16. INCOME TAXES
+The Company calculates the interim tax provision in accordance with the provisions of ASC 740-270,
+Income Taxes; Interim Reporting , specifically ASC-740-270-25-2. For interim periods, the Company estimates the annual effective income tax rate and applies the estimated rate to the year-to-date income or loss before income taxes. The effective income tax rates for the three months ended December 31, 2022 and 2021 were
+26.5 % and
+21.5 %, respectively. The increase in the effective income tax rate for the three months ended December 31, 2022, as compared to the three months ended December 31, 2021, is primarily driven by the impact of updated forecast state tax assumptions and year-to-date disallowed stock-based compensation expense on the Company’s current earnings.
+17. COMMITMENTS AND CONTINGENCIES
+Legal Proceedings
+During the year ended September 30, 2019, the Company was made aware of a worker’s compensation case that became reasonably possible to give rise to a liability. The case is in discovery and the nature and extent of the Company’s exposure is currently being determined.
+The Company expects a range of loss of $ 0.4  million to $ 0.5  million.
+In the normal course of the Company’s business, it is at times subject to various other legal actions, in some cases for which the relief or damages sought may be substantial. Although the Company is not able to predict the outcome of such actions, after reviewing all pending and threatened actions with counsel and based on information currently available, management believes that the outcome of such actions, individually or in the aggregate, will not have a material adverse effect on the Company’s results of operations or financial position. However, it is possible that the ultimate resolution of such matters, if unfavorable, may be material to the Company’s results of operations in a particular future period as the time and amount of any resolution of such actions and its relationship to the future results of operations are not currently known. The Company accrues for losses when they are probable of occurrence and such losses are reasonably estimable. Legal costs expected to be incurred are accounted for as they are incurred.
+22
+18. CONDENSED FINANCIAL INFORMATION OF REGISTRANT (PARENT COMPANY ONLY)
+The AZEK Company Inc. (parent company only)
+Balance Sheets
+(In thousands of U.S. dollars, except for share and per share amounts)
+December 31,
+2022
+September 30,
+2022
+ASSETS:
+Non-current assets:
+Investments in subsidiaries
+$
+1,412,772
+$
+1,444,443
+Total non-current assets
+1,412,772
+1,444,443
+Total assets
+$
+1,412,772
+$
+1,444,443
+LIABILITIES AND STOCKHOLDERS’ EQUITY:
+Total liabilities
+$
+—
+$
+—
+Stockholders’ equity:
+Preferred stock, $ 0.001
+par value;
+1,000,000
+shares authorized and
+no
+shares
+issued or outstanding at December 31, 2022 and September 30, 2022,
+respectively
+—
+—
+Class A common stock, $ 0.001
+par value;
+1,100,000,000
+shares authorized,
+155,196,865
+shares issued at December 31, 2022 and
+155,157,220
+shares
+issued at September 30, 2022
+155
+155
+Class B common stock, $ 0.001
+par value;
+100,000,000
+shares authorized,
+100
+shares issued and outstanding at December 31, 2022 and at September 30,
+2022, respectively
+—
+—
+Additional paid‑in capital
+1,633,827
+1,630,378
+Accumulated deficit
+( 138,838
+)
+( 113,002
+)
+Accumulated other comprehensive income (loss)
+( 1,796
+)
+—
+Treasury stock, at cost,
+4,469,330
+and
+4,116,570
+shares at December 31, 2022
+and September 30, 2022, respectively
+( 80,576
+)
+( 73,088
+)
+Total stockholders’ equity
+1,412,772
+1,444,443
+Total liabilities and stockholders’ equity
+$
+1,412,772
+$
+1,444,443
+Three Months Ended December 31,
+2022
+2021
+Net income (loss) of subsidiaries
+$
+( 25,836
+)
+$
+16,707
+Net income (loss) of subsidiaries
+$
+( 25,836
+)
+$
+16,707
+Comprehensive income (loss)
+$
+( 27,632
+)
+$
+16,707
+The AZEK Company Inc. did not have any cash as of December 31, 2022 or September 30, 2022, accordingly a Condensed Statement of Cash Flows has not been presented.
+Basis of Presentation
+The parent company financial statements should be read in conjunction with the Company’s Consolidated Financial Statements and the accompanying notes thereto. For purposes of this condensed financial information, the Company’s wholly owned and majority owned subsidiaries are recorded based upon its proportionate share of the subsidiaries’ net assets (similar to presenting them on the equity method).
+Since the restricted net assets of The AZEK Company Inc. and its subsidiaries exceed
+25 % of the consolidated net assets of the Company and its subsidiaries, the accompanying condensed parent company financial statements have been prepared in accordance with Rule 12-04, Schedule 1 of Regulation S-X. This information should be read in conjunction with the accompanying Condensed Consolidated Financial Statements.
+23
+Dividends from Subsidiaries
+There were $ 7.5
+million and $ 0.0
+million cash dividends paid to The AZEK Company Inc. from the Company’s consolidated subsidiaries during the three months ended December 31, 2022 and 2021. The $ 7.5
+million cash dividends were used to fund share repurchases on the open market.
+Restricted Payments
+CPG International LLC is party to the Revolving Credit Facility and the 2022 Term Loan Agreement. The obligations under the Revolving Credit Facility and 2022 Term Loan Agreement are secured by substantially all of the present and future assets of the borrowers and guarantors, including equity interests of their domestic subsidiaries, subject to certain exceptions.
+The obligations under the Revolving Credit Facility and 2022 Term Loan Agreement are guaranteed by the Company and its wholly owned domestic subsidiaries other than certain immaterial subsidiaries and other excluded subsidiaries. CPG International LLC is not permitted to make certain payments unless those payments are consistent with exceptions outlined in the agreements. These payments include repurchase of equity interests, fees associated with a public offering, income taxes due in other applicable payments. Further, the payments are only permitted if certain conditions are met related to availability and fixed charge coverage as defined in the Revolving Credit Facility and described in Note 8 “Debt” to these Condensed Consolidated Financial Statements.
+24
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our annual consolidated financial statements and related notes and our discussion and analysis of financial condition and results of operations, which were included in our 2022 Annual Report on Form 10-K filed with the U.S. Securities and Exchange Commission, or the SEC, on November 29, 2022, or our 2022 Form 10-K, as well as Item 1. Financial Statements in this Form 10-Q.
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements. All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q, including statements regarding future operations, cash flows, expansion plans, capital investments, capacity targets and other strategic initiatives, are forward-looking statements. In some cases, forward looking statements may be identified by words such as “believe,” “may,” “will,” “estimate,” “continue,” “anticipate,” “intend,” “could,” “would,” “expect,” “objective,” “plan,” “potential,” “seek,” “grow,” “target,” “if,” or the negative of these terms and similar expressions intended to identify forward-looking statements. In particular, statements about potential new products and product innovation, statements regarding the potential impact of climate change and extreme weather events, the COVID-19 pandemic or geopolitical conflicts, such as the conflict between Russia and Ukraine, statements about the markets in which we operate and the economy more generally, including inflation and interest rates, supply and demand balance, growth of our various markets and growth in the use of engineered products as well as our ability to share in such growth, statements about our ability to source our raw materials in line with our expectations, future pricing for our products or our raw materials and our ability to successfully manage market and interest rate risks and control or reduce costs, statements with respect to our ability to meet future goals and targets, including our environmental, social and governance targets, and our expectations, beliefs, plans, strategies, objectives, prospects, assumptions or future events or performance contained in the Quarterly Report on Form 10-Q are forward-looking statements. We have based these forward-looking statements primarily on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives and financial needs. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in the section titled “Risk Factors” set forth in Part I, Item 1A of our 2022 Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this Quarterly Report on Form 10-Q may not occur and actual results may differ materially and adversely from those anticipated or implied in the forward-looking statements. You should read this Quarterly Report on Form 10-Q with the understanding that our actual future results, levels of activity, performance and events and circumstances may be materially different from what we expect.
+In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based on information available to us as of the date of this Quarterly Report on Form 10-Q. While we believe that such information provides a reasonable basis for these statements, such information may be limited or incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely on these statements.
+Overview
+We are an industry-leading designer and manufacturer of beautiful, low-maintenance and environmentally sustainable outdoor living products, including TimberTech decking, Versatex and AZEK Trim, and StruXure pergolas. Homeowners are investing in their outdoor spaces and are increasingly recognizing the significant advantages of engineered, long-lasting products, which are converting demand away from traditional materials, particularly wood. Our products transform those outdoor spaces by combining highly appealing aesthetics with significantly lower maintenance costs compared to traditional materials. Our innovative portfolio of outdoor living products, including decking, railing, trim, siding, pergolas, cladding and accessories, inspires consumers to design outdoor spaces tailored to their unique lifestyle needs. In addition to our leading suite of outdoor living products, we sell a broad range of highly engineered products that are sold in commercial markets, including partitions, lockers and storage solutions. One of our core values is to “always do the right thing”. We make decisions according to what is right, not what is the cheapest, fastest or easiest, and we strive to always operate with integrity, transparency and with the customer in mind. In furtherance of that value, we are focused on sustainability across our operations and have adopted strategies to enable us to meet the growing demand for environmentally-friendly products.
+We report our results in two segments: Residential and Commercial. We leverage a shared technology and U.S.-based manufacturing platform to create
+an extensive range of long-lasting and low-maintenance products that convert demand away from traditional materials .
+Our Residential segment serves the high-growth outdoor living market by offering products that inspire consumers to design outdoor spaces tailored to their individual lifestyles. Our innovative portfolio of outdoor living products, including decking, railing, exterior trim, pergolas and cabanas and accessories, are sold under our TimberTech, AZEK Exteriors, VERSATEX, ULTRALOX, StruXure and INTEX brands. Our Commercial segment addresses demand for low-maintenance, highly
+25
+engineered products in a variety of commercial and industrial markets, including the outdoor, graphic displays and signage, educational and recreational markets, as well as the
+industrial
+and chemical industries. Products sold by our Commercial segment include highly engineered polymer sheeting as well as partitions,
+lockers
+and storage solutions.
+Over our history we have developed a
+reputation as a leading innovator in our markets by leveraging our differentiated manufacturing capabilities, material science expertise and product management proficiency to consistently introduce new products into the market. This long-standing commitment has been critical to our ability to stay at the forefront of evolving industry trends and consumer demands, which in turn has allowed us to become a market leader across our core product categories.
+Economic Environment; Global Events
+We expect the macroeconomic environment, including increased inflation and rising interest rates, will continue to be a critical factor affecting the overall business climate as well as our business and demand for our products. During the first quarter of fiscal 2023, our channel partners met demand partially through inventory drawdowns causing us to experience a
+recalibration of channel
+inventory and negatively impacting sales for the period. We believe this recalibration in our
+Residential segment
+is complete and will better position us and our channel partners to drive continued expansion of our market position in fiscal year 2023. Looking ahead, we will continue proactively adjusting our operating plans, capital expenditures and expenses as necessary and appropriate and executing on our long-term strategy.
+In addition, the current conflict between Russia and Ukraine and the related sanctions and other penalties imposed by countries around the world against Russia continue to create substantial uncertainty in the global political and economic landscapes. While our operations are primarily within North America and we have no operations in Russia or Ukraine, and we do not have direct exposure to customers and vendors in Russia and Ukraine, we are actively monitoring the broader economic impact of the crisis, especially the potential impact of any further disruptions to global supply chains generally and our supply chain in particular, fluctuating commodity and fuel prices, and, in turn, prices of our raw materials, and the impact of an extended economic downturn on our direct and indirect customers. In addition, the U.S. government has reported that U.S. sanctions against Russia in response to the conflict could lead to an increased threat of cyberattacks against U.S. companies. These increased threats could pose risks to the security of our information technology systems, as well as the confidentiality, availability and integrity of our or our customers’ data.
+Finally, we expect that the direct and indirect economic effects of the COVID-19 pandemic will likely continue to affect demand for our products in ways that may be difficult to predict. The global impact of the COVID-19 pandemic continues to evolve, and we continue to monitor the situation closely.
+We are unable to fully predict the impact that the above events and conditions will have on the global economy, our industry or our
+business, financial condition, results of operations or cash flows . See also Part I, Item 3 “Quantitative and Qualitative Disclosures About Market Risk” of this Quarterly Report on Form 10-Q and Part 1, Item 1A “Risk Factors” of our 2022 Form 10-K.
+Recent Acquisition
+On August 1, 2022, we acquired INTEX Millwork Solutions, LLC, a New Jersey LLC, or INTEX, for a total purchase price of approximately $25.7 million, which consisted of $19.9 million cash and $5.8 million contingent consideration, subject to customary post-closing working capital adjustments. INTEX is located in Mays Landing, New Jersey and manufactures high-quality railing solutions, column wraps, and pergolas. We financed the acquisition with cash on hand.
+26
+Results of Operations
+Three Months Ended December 31, 2022 Compared to Three Months Ended December 31, 2021
+The following table summarizes certain financial information relating to our operating results that have been derived from our unaudited Consolidated Financial Statements for the three months ended December 31, 2022 and 2021.
+Three Months Ended December 31,
+(U.S. dollars in thousands)
+2022
+2021
+$
+Variance
+%
+Variance
+Net sales
+$
+216,259
+$
+259,708
+$
+(43,449
+)
+(16.7
+)%
+Cost of sales
+168,680
+171,099
+(2,419
+)
+(1.4
+)%
+Gross profit
+47,579
+88,609
+(41,030
+)
+(46.3
+)%
+Selling, general and administrative expenses
+73,444
+63,169
+10,275
+16.3
+%
+Operating income (loss)
+(25,865
+)
+25,440
+(51,305
+)
+(201.7
+)%
+Interest expense, net
+9,299
+4,148
+5,151
+124.2
+%
+Income tax expense (benefit)
+(9,328
+)
+4,585
+(13,913
+)
+(303.4
+)%
+Net income (loss)
+$
+(25,836
+)
+$
+16,707
+$
+(42,543
+)
+(254.6
+)%
+Net Sales
+Net sales for the three months ended December 31, 2022 decreased by $43.4 million, or 16.7%, to $216.3 million from $259.7 million for the three months ended December 31, 2021. The decrease was primarily due to an approximately 33% decline in volume, primarily as a result of the channel inventory reductions to better calibrate inventory to historical average levels discussed above, partially offset by positive pricing and a $20.9 million net sales contribution from recent acquisitions. Net sales for the three months ended December 31, 2022 decreased for our Residential segment by 18.8% and our Commercial segment by 4.7%, in each case as compared to the prior year period.
+Cost of Sales
+Cost of sales for the three months ended December 31, 2022 decreased by $2.4 million, or 1.4%, to $168.7 million from $171.1 million for the three months ended December 31, 2021 primarily due to decreased costs on lower sales volumes, partially offset by higher raw material costs.
+Gross Profit
+Gross profit for the three months ended December 31, 2022 decreased by $41.0 million, or 46.3%, to $47.6 million from $88.6 million for the three months ended December 31, 2021. The decrease in gross profit was primarily driven by the lower sales results in the Residential and Commercial segments. Gross profit as a percent of net sales decreased to 22.0% for the three months ended December 31, 2022 compared to 34.1% for the three months ended December 31, 2021.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses increased by $10.3 million, or 16.3%, to $73.4 million, or 34.0% of net sales, for the three months ended December 31, 2022 from $63.2 million, or 24.3% of net sales, for the three months ended December 31, 2021. The increase was primarily due to contribution from acquisitions, higher marketing expenses and acquisition costs.
+Interest Expense, net
+Interest expense, net, increased by $5.2 million, or 124.2%, to $9.3 million for the three months ended December 31, 2022 from $4.1 million for the three months ended December 31, 2021. Interest expense, net increased due to higher interest rate and principal balance outstanding during the three months ended December 31, 2022, when compared to the three months ended December 31, 2021.
+Income Tax Expense (Benefit)
+Income tax expense (benefit) decreased by $13.9 million to $(9.3) million for the three months ended December 31, 2022 compared to $4.6 million for the three months ended December 31, 2021. The decrease in our income tax expense was primarily driven by the pre-tax operating losses.
+27
+Net Income
+(Loss)
+Net income (loss) decreased by $42.5 million to $(25.8) million for the three months ended December 31, 2022 compared to $16.7 million for the three months ended December 31, 2021, due to the factors described above.
+Segment Results of Operations
+We report our results in two segments: Residential and Commercial. The key segment measures used by our chief operating decision maker in deciding how to evaluate performance and allocate resources to each of the segments are Segment Adjusted EBITDA and Segment Adjusted EBITDA Margin. Depending on certain circumstances, Segment Adjusted EBITDA and Segment Adjusted EBITDA Margin may be calculated differently, from time to time, than our Adjusted EBITDA and Adjusted EBITDA Margin, which are further discussed under the heading “Non-GAAP Financial Measures.” Segment Adjusted EBITDA and Segment Adjusted EBITDA Margin represent measures of segment profit reported to our chief operating decision maker for the purpose of making decisions about allocating resources to a segment and assessing its performance and are determined as disclosed in our Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report on Form 10-Q consistent with the requirements of the Financial Accounting Standards Board’s, or FASB, Accounting Standards Codification, or ASC 280,
+Segment Reporting . We define Segment Adjusted EBITDA as a segment’s net income (loss) before income tax (benefit) expense and by adding to or subtracting therefrom interest expense, net, depreciation and amortization, share-based compensation costs, asset impairment and inventory revaluation costs, business transformation costs, capital structure transaction costs, acquisition costs, initial public offering costs and certain other costs. Segment Adjusted EBITDA Margin is equal to a segment’s Segment Adjusted EBITDA divided by such segment’s net sales. Corporate expenses, which include selling, general and administrative costs related to our corporate offices, including payroll and other professional fees, are not included in computing Segment Adjusted EBITDA. Such corporate expenses increased by $0.5 million to $21.2 million for the three months ended December 31, 2022, from $20.7 million for the three months ended December 31, 2021.
+Residential
+The following table summarizes certain financial information relating to the Residential segment results that have been derived from our unaudited Condensed Consolidated Financial Statements for the three months ended December 31, 2022 and 2021.
+Three Months Ended December 31,
+(U.S. dollars in thousands)
+2022
+2021
+$
+Variance
+%
+Variance
+Net sales
+$
+179,484
+$
+221,133
+$
+(41,649
+)
+(18.8
+)%
+Segment Adjusted EBITDA
+26,007
+69,431
+(43,424
+)
+(62.5
+)%
+Segment Adjusted EBITDA Margin
+14.5
+%
+31.4
+%
+N/A
+N/A
+Net Sales
+Net sales for the three months ended December 31, 2022 decreased by $41.6 million, or 18.8%, to $179.5 million from $221.1 million for the three months ended December 31, 2021. The decrease was attributable to lower net sales related to our Deck, Rail & Accessories businesses as a result of channel inventory reductions to better calibrate inventory to historical average levels discussed above, partially offset by positive growth in our Exteriors business and a $20.9 million net sales contribution from recent acquisitions.
+Segment Adjusted EBITDA
+Segment Adjusted EBITDA for the three months ended December 31, 2022 decreased by $43.4 million, or 62.5%, to $26.0 million from $69.4 million for the three months ended December 31, 2021. The decrease was mainly driven by lower sales, higher raw material costs, selling and marketing expenses and manufacturing costs.
+Commercial
+The following table summarizes certain financial information relating to the Commercial segment results that have been derived from our unaudited Condensed Consolidated Financial Statements for the three months ended December 31, 2022 and 2021.
+Three Months Ended December 31,
+(U.S. dollars in thousands)
+2022
+2021
+$
+Variance
+%
+Variance
+Net sales
+$
+36,775
+$
+38,575
+$
+(1,800
+)
+(4.7
+)%
+Segment Adjusted EBITDA
+5,154
+4,748
+406
+8.6
+%
+Segment Adjusted EBITDA Margin
+14.0
+%
+12.3
+%
+N/A
+N/A
+28
+Net Sales
+Net sales for the three months ended December 31, 2022 decreased by $1.8 million, or 4.7%, to $36.8 million from $38.6 million for the three months ended December 31, 2021. The decrease was primarily attributable to lower net sales in our Vycom and Scranton Products businesses.
+Segment Adjusted EBITDA
+Segment Adjusted EBITDA of the Commercial segment was $5.2 million for the three months ended December 31, 2022, compared to $4.7 million for the three months ended December 31, 2021. The increase was primarily driven by
+net manufacturing productivity.
+Non-GAAP Financial Measures
+To supplement our Condensed Consolidated Financial Statements prepared and presented in accordance with generally accepted accounting principles in the United States, or GAAP, we use certain non-GAAP performance financial measures, as described below, to provide investors with additional useful information about our financial performance, to enhance the overall understanding of our past performance and future prospects and to allow for greater transparency with respect to important metrics used by our management for financial and operational decision-making. We are presenting these non-GAAP financial measures to assist investors in seeing our financial performance from management’s view and because we believe they provide an additional tool for investors to use in comparing our core financial performance over multiple periods with other companies in our industry. Our GAAP financial results include significant expenses that may not be indicative of our ongoing operations as detailed in the tables below.
+However, non-GAAP financial measures have limitations in their usefulness to investors because they have no standardized meaning prescribed by GAAP and are not prepared under any comprehensive set of accounting rules or principles. In addition, non-GAAP financial measures may be calculated differently from, and therefore may not be directly comparable to, similarly titled measures used by other companies. As a result, non-GAAP financial measures should be viewed as supplementing, and not as an alternative or substitute for, our Condensed Consolidated Financial Statements prepared and presented in accordance with GAAP.
+Three Months Ended December 31,
+(U.S. dollars in thousands, except per share amounts)
+2022
+2021
+Adjusted Gross Profit
+$
+71,898
+$
+107,090
+Adjusted Gross Profit Margin
+33.2
+%
+41.2
+%
+Adjusted Net Income (Loss)
+$
+(13,852
+)
+$
+28,757
+Adjusted Diluted EPS
+$
+(0.09
+)
+$
+0.18
+Adjusted EBITDA
+$
+15,100
+$
+58,520
+Adjusted EBITDA Margin
+7.0
+%
+22.5
+%
+Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Net Income, Adjusted Diluted EPS, Adjusted EBITDA and Adjusted EBITDA Margin
+We define Adjusted Gross Profit as gross profit before depreciation and amortization, business transformation costs and acquisition costs as described below. Adjusted Gross Profit Margin is equal to Adjusted Gross Profit divided by net sales. We define Adjusted Net Income as net income (loss) before amortization, stock-based compensation costs, business transformation costs, acquisition costs, initial public offering costs, capital structure transaction costs and certain other costs as described below. We define Adjusted Diluted EPS as Adjusted Net Income divided by weighted average common shares outstanding—diluted, to reflect the conversion or exercise, as applicable, of all outstanding shares of restricted stock awards, restricted stock units and options to purchase shares of our common stock. We define Adjusted EBITDA as net income (loss) before interest expense, net, income tax (benefit) expense and depreciation and amortization and by adding to or subtracting therefrom items of expense and income as described below. Adjusted EBITDA Margin is equal to Adjusted EBITDA divided by net sales. We believe Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Net Income, Adjusted Diluted EPS, Adjusted EBITDA and Adjusted EBITDA Margin are useful to investors because they help identify underlying trends in our business that could otherwise be masked by certain expenses that can vary from company to company depending on, among other things, its financing, capital structure and the method by which its assets were acquired, and can also vary significantly from period to period. We also add back depreciation and amortization and stock-based compensation because we do not consider them indicative of our core operating performance. We believe their exclusion facilitates comparisons of our operating performance on a period-to-period basis. Therefore, we believe that showing gross profit and net income, as adjusted to remove the impact of these expenses, is helpful to investors in assessing our gross profit and net income performance in a way that is similar to the way management assesses our performance. Additionally, EBITDA and EBITDA margin are common measures of operating performance in our industry, and we believe they facilitate operating comparisons. Our management also uses Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted EBITDA and Adjusted EBITDA Margin in conjunction with other GAAP financial measures for planning purposes, including as a measure of our core operating results and the
+29
+effectiveness of our business strategy, and in evaluating our financial performance. Management considers Adjusted Gross Profit and Adjusted Net Income and Adjusted Diluted EPS as useful measures because our cost of sales includes the depreciation of property,
+plant and equipment used in the production of products and the amortization of various intangibles related to our manufacturing processes.
+Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Net Income, Adjusted Diluted EPS, Adjusted EBITDA and Adjusted EBITDA Margin have limitations as analytical tools, and you should not consider them in isolation or as a substitute for analysis of our results as reported under GAAP. Some of these limitations are:
+•
+These measures do not reflect our cash expenditures, future requirements for capital expenditures or contractual commitments;
+•
+These measures do not reflect changes in, or cash requirements for, our working capital needs;
+•
+Adjusted EBITDA and Adjusted EBITDA Margin do not reflect the significant interest expense, or the cash requirements necessary to service interest or principal payments, on our debt;
+•
+Adjusted EBITDA and Adjusted EBITDA Margin do not reflect our income tax expense or the cash requirements to pay our taxes;
+•
+Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Net Income, Adjusted Diluted EPS, Adjusted EBITDA and Adjusted EBITDA Margin exclude the expense of amortization of our assets, and Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted EBITDA and Adjusted EBITDA Margin also exclude the expense of depreciation of our assets, and, although these are non-cash expenses, the assets being depreciated or amortized may have to be replaced in the future;
+•
+Adjusted Net Income, Adjusted Diluted EPS and Adjusted EBITDA exclude the expense associated with our equity compensation plan, although equity compensation has been, and will continue to be, an important part of our compensation strategy;
+•
+Adjusted Gross Profit, Adjusted Net Income, Adjusted Diluted EPS and Adjusted EBITDA exclude certain business transformation costs, acquisition costs and other costs, each of which can affect our current and future cash requirements; and
+•
+Other companies in our industry may calculate Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Net Income, Adjusted Diluted EPS, Adjusted EBITDA and Adjusted EBITDA Margin differently than we do, limiting their usefulness as comparative measures.
+Because of these limitations, none of these metrics should be considered indicative of discretionary cash available to us to invest in the growth of our business or as measures of cash that will be available to us to meet our obligations.
+The following table presents reconciliations of the most comparable financial measures calculated in accordance with GAAP to these non-GAAP financial measures for the periods indicated:
+Adjusted Gross Profit and Adjusted Gross Profit Margin Reconciliation
+Three Months Ended December 31,
+(U.S. dollars in thousands)
+2022
+2021
+Gross Profit
+$
+47,579
+$
+88,609
+Depreciation and amortization (1)
+24,319
+18,481
+Adjusted Gross Profit
+$
+71,898
+$
+107,090
+Three Months Ended December 31,
+2022
+2021
+Gross Margin
+22.0
+%
+34.1
+%
+Depreciation and amortization
+11.2
+%
+7.1
+%
+Adjusted Gross Profit Margin
+33.2
+%
+41.2
+%
+(1)
+Depreciation and amortization for the three months ended December 31, 2022 and 2021 consists of $19.7 million and $13.6 million, respectively, of depreciation and $4.6 million and $4.9 million, respectively, of amortization of intangible assets relating to our manufacturing process.
+30
+Adjusted Net Income and Adjusted Diluted EPS Reconciliation
+Three Months Ended December 31,
+(U.S. dollars in thousands, except per share amounts)
+2022
+2021
+Net income (loss)
+$
+(25,836
+)
+$
+16,707
+Amortization
+11,837
+12,880
+Stock-based compensation (1)
+1,259
+1,960
+Acquisition costs (2)
+2,435
+497
+Other costs (3)
+733
+485
+Tax impact of adjustments (4)
+(4,280
+)
+(3,772
+)
+Adjusted Net Income (Loss)
+$
+(13,852
+)
+$
+28,757
+Three Months Ended December 31,
+2022
+2021
+Net income (loss)
+$
+(0.17
+)
+$
+0.11
+Amortization
+0.08
+0.08
+Stock-based compensation
+0.01
+0.01
+Acquisition costs
+0.02
+—
+Other costs
+—
+—
+Tax impact of adjustments
+(0.03
+)
+(0.02
+)
+Adjusted Diluted EPS (5)
+$
+(0.09
+)
+$
+0.18
+( 1 )
+Stock-based compensation costs reflect expenses related to our initial public offering. Expenses related to our recurring awards granted each fiscal year are excluded from the Adjusted Net Income reconciliation.
+( 2 )
+Acquisition costs reflect costs directly related to completed acquisitions of $2.4 million and $0.5 million in the three months ended December 31, 2022 and 2021, respectively.
+( 3 )
+Other costs include costs for legal expense of $0.2 million and $0.3 million in the three months ended December 31, 2022 and 2021, respectively, costs related to an incentive plan and other ancillary expenses associated with the initial public offering of $0.1 million for the three months ended December 31, 2021, and other costs of $0.5 million and $0.1 million for the three months ended December 31, 2022 and 2021, respectively.
+( 4 )
+Tax impact of adjustments are based on applying a combined U.S. federal and state statutory tax rate of 26.5% and 24.5% for the three months ended December 31, 2022 and 2021, respectively.
+( 5 )
+Weighted average common shares outstanding used in computing diluted net income per common share of 150,877,635 and 156,854,925 for the three months ended December 31, 2022 and 2021, respectively.
+31
+Adjusted EBITDA and Adjusted EBITDA Margin Reconciliation
+Three Months Ended December 31,
+(U.S. dollars in thousands)
+2022
+2021
+Net income (loss)
+$
+(25,836
+)
+$
+16,707
+Interest expense
+9,299
+4,148
+Depreciation and amortization
+33,840
+28,082
+Income tax expense (benefit)
+(9,328
+)
+4,585
+Stock-based compensation
+3,957
+4,016
+Acquisition costs (1)
+2,435
+497
+Other costs (2)
+733
+485
+Total adjustments
+40,936
+41,813
+Adjusted EBITDA
+$
+15,100
+$
+58,520
+Three Months Ended December 31,
+2022
+2021
+Net income (loss)
+(11.9
+)%
+6.4
+%
+Interest expense
+4.3
+%
+1.6
+%
+Depreciation and amortization
+15.7
+%
+10.8
+%
+Income tax expense (benefit)
+(4.3
+)%
+1.8
+%
+Stock-based compensation
+1.8
+%
+1.5
+%
+Acquisition costs
+1.1
+%
+0.2
+%
+Other costs
+0.3
+%
+0.2
+%
+Total adjustments
+18.9
+%
+16.1
+%
+Adjusted EBITDA Margin
+7.0
+%
+22.5
+%
+( 1 )
+Acquisition costs reflect costs directly related to completed acquisitions of $2.4 million and $0.5 million in the three months ended December 31, 2022 and 2021, respectively.
+( 2 )
+Other costs include costs for legal expense of $0.2 million and $0.3 million in the three months ended December 31, 2022 and 2021, respectively, costs related to an incentive plan and other ancillary expenses associated with the initial public offering of $0.1 million for the three months ended December 31, 2021, and other costs of $0.5 million and $0.1 million for the three months ended December 31, 2022 and 2021, respectively.
+Liquidity and Capital Resources
+Liquidity Outlook
+Our primary cash needs are to fund operations, working capital, capital expenditures, debt service and any acquisitions we may undertake. As of December 31, 2022, we had cash and cash equivalents of $86.9 million and total indebtedness of $598.5 million. CPG International LLC, our direct, wholly owned subsidiary, had approximately $147.2 million available under the borrowing base for future borrowings as of December 31, 2022. CPG International LLC also has the option to increase the commitments under the Revolving Credit Facility by up to $100.0 million, subject to certain conditions.
+We believe we will have adequate liquidity over the next 12 months to operate our business and to meet our cash requirements as a result of cash flows from operating activities, available cash balances and availability under our Revolving Credit Facility after consideration of our debt service and other cash requirements. In the longer term, our liquidity will depend on many factors, including our results of operations, our future growth, the timing and extent of our expenditures to develop new products and improve our manufacturing capabilities, the expansion of our sales and marketing activities and the extent to which we make acquisitions. Changes in our operating plans, material changes in anticipated sales, increased expenses, acquisitions or other events may cause us to seek additional equity and/or debt financing in future periods.
+Holding Company Status
+We are a holding company and do not conduct any business operations of our own. As a result, we are largely dependent upon cash dividends and distributions and other transfers from our subsidiaries to meet our obligations. The agreements governing the indebtedness of our subsidiaries impose restrictions on our subsidiaries’ ability to pay dividends or make other distributions to us.
+CPG International LLC is party to the Revolving Credit Facility and the 2022 Term Loan Agreement, or, together, the Senior Secured Credit Facilities. The obligations under the Senior Secured Credit Facilities are secured by specified assets. The obligations under the Senior Secured Credit Facilities are guaranteed by us and the wholly owned domestic subsidiaries of CPG International LLC other than certain immaterial subsidiaries and other excluded subsidiaries.
+32
+The Senior Secured Credit Facilities contain covenants restricting payments of dividends by CPG International LLC unless certain conditions, as provided in the Senior Secured Credit Facilities, are met. The covenants under our Senior Secured Credit Facilities provide for certain exceptions for specific types of payments. However, other than restricted payments under the specified
+exceptions, the covenants under our
+2022
+Term Loan Agreement generally prohibit the payment of dividends unless the
+Total Net Leverage Ratio (as defined in the
+2022
+Term Loan Agreement)
+of CPG International LLC, on a pro forma basis,
+is no greater than 4.25:1.00 and no event of default has occurred and is occurring .
+Since our and our subsidiaries’ restricted net assets exceed 25% of our consolidated net assets, in accordance with Rule 12-04, Schedule 1 of Regulation S-X, refer to our Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report on Form 10-Q for condensed parent company financial statements of the Company.
+Cash Sources
+We have historically relied on cash flows from operations generated by CPG International LLC, borrowings under the credit facilities, issuances of notes and other forms of debt financing and capital contributions to fund our cash needs.
+On September 30, 2013, our subsidiary, CPG International LLC (as successor-in-interest to CPG Merger Sub LLC, a limited liability company formed to effect the acquisition of CPG International LLC), and the lenders party thereto entered into the Revolving Credit Facility. On March 9, 2017, the Revolving Credit Facility was amended and restated to provide for maximum aggregate borrowings of up to $150.0 million, subject to an asset-based borrowing base. The borrowing base is limited to a specified percentage of eligible accounts receivable and inventory, less reserves that may be established by the Revolver Administrative Agent in the exercise of its reasonable credit judgment. As of each of December 31, 2022 and September 30, 2022, CPG International LLC had no outstanding borrowings under the Revolving Credit Facility and had $2.8 million of outstanding letters of credit held against the Revolving Credit Facility. As of December 31, 2022 and September 30, 2022, CPG International LLC had approximately $147.2 million and $147.2 million, respectively, available under the borrowing base for future borrowings in addition to cash and cash equivalents on hand of $86.9 million and $120.8 million, respectively. Because our borrowing capacity under the Revolving Credit Facility depends, in part, on inventory, accounts receivable and other assets that fluctuate from time to time, the amount available under the borrowing base may not reflect actual borrowing capacity under the Revolving Credit Facility.
+Cash Uses
+Our principal cash requirements have included working capital, capital expenditures, payments of principal and interest on our debt, share repurchases, and, if market conditions warrant, making selected acquisitions. We may elect to use cash from operations, debt proceeds, equity or a combination thereof to finance future acquisition opportunities.
+The table below details the total operating, investing and financing activity cash flows for the three months ended December 31, 2022 and 2021.
+Cash Flows
+Three Months Ended
+December 31,
+(U.S. dollars in thousands)
+2022
+2021
+$
+Variance
+%
+Variance
+Net cash provided by (used in) operating activities
+$
+6,409
+$
+(30,620
+)
+$
+37,029
+(120.9
+)%
+Net cash provided by (used in) investing activities
+(30,263
+)
+(156,611
+)
+126,348
+(80.7
+)%
+Net cash provided by (used in) financing activities
+(10,098
+)
+2,751
+(12,849
+)
+(467.1
+)%
+Net increase (decrease) in cash
+$
+(33,952
+)
+$
+(184,480
+)
+$
+150,528
+(81.6
+)%
+Operating Activities
+Net cash provided by (used in) operating activities was $6.4 million and $(30.6) million for the three months ended December 31, 2022 and 2021, respectively. The $37.0 million increase in cash provided by operating activities is primarily related to lower production as inventory levels were higher at year end compared to inventory levels at December 31, 2021.
+Investing Activities
+Net cash provided by (used in) investing activities was $(30.3) million and $(156.6) million for the three months ended December 31, 2022 and 2021, respectively. Net cash provided by (used in) investing activities for the three months ended December 31, 2022 primarily consisted of $(30.3) million for purchases of property, plant and equipment in the normal course of business, as compared to the three months ended December 31, 2021, which consisted of $(91.3) million for acquisitions and $(65.3) million for purchases of property, plant and equipment to support our expansion of capacity in our manufacturing facilities.
+33
+Financing Activities
+Net cash provided by (used in) financing activities was $(10.1) million and $2.8 million for the three months ended December 31, 2022 and 2021, respectively. Net cash provided by (used in) financing activities for the three months ended December 31, 2022 primarily consisted of treasury stock repurchases, as compared to the three months ended December 31, 2021, which primarily consisted of cash received from the exercise of stock options.
+Share Repurchase Program
+On May 5, 2022, the Board of Directors authorized us to repurchase up to $400 million of our Class A common stock. The program allows us to repurchase our shares opportunistically from time to time. Purchases may be effected through one or more open market transactions, privately negotiated transactions, transactions structured through investment banking institutions, accelerated share repurchases or tender offers, some of which may be effected through Rule 10b5-1 plans, or a combination of the foregoing. The timing of repurchases will depend upon several factors, including market and business conditions, and repurchases may be discontinued at any time.
+In the fiscal year ended September 30, 2022, we repurchased 2,508,906 shares of our Class A common stock under a $50 million accelerated share repurchase agreement at an average price of $19.93 per share.  During the same period, we also repurchased
+1,607,664
+shares of our Class A common stock on the open market at an average price of $ 19.58
+per share, totaling an approximately $ 31.5
+million reacquisition cost. During the three months ended December 31, 2022, we repurchased an additional 352,760 shares of our Class A common stock on the open market at an average price of $21.23 per share, totaling an approximately $7.5 million reacquisition cost.
+As of December 31, 2022, we had approximately $ 311.0
+million available for repurchases under the Share Repurchase Program.
+On August 16, 2022, the U.S. government enacted the Inflation Reduction Act of 2022,
+that includes, among other provisions, a one percent excise tax on net repurchases of stock after December 31, 2022.
+We expect the excise tax to apply to our Share Repurchase Program, but do not expect the excise tax to have a material effect on our business.
+See Note 13 in the Notes to Condensed Consolidated Financial Statements for additional information.
+Revolving Credit Facility
+The Revolving Credit Facility provides for maximum aggregate borrowings of up to $150.0 million, subject to an asset-based borrowing base. As of December 31, 2022, outstanding revolving loans under the Revolving Credit Facility bore interest at a rate which equaled, at our option, either (i) for alternative base rate, or ABR, borrowings, the highest of (a) the Federal Funds Rate plus 50 basis points, (b) the prime rate and (c) the LIBOR, as of such date for a deposit in U.S. dollars with a maturity of one month plus 100 basis points, plus, in each case, a spread of 25 to 75 basis points based on average historical availability, or (ii) for Eurocurrency borrowings, adjusted LIBOR plus a spread of 125 to 175 basis points, based on average historical availability. The maturity of the Revolving Credit Facility is the earlier of March 31, 2026 and the date that is 91 days prior to the maturity of the Term Loan Agreement or any permitted refinancing thereof.
+On January 26, 2023, CPG International LLC further amended the Revolving Credit Facility, replacing all LIBOR-based provisions with provisions reflecting the Secured Overnight Financing Rate, or SOFR, including, without limitation, the use of a new Adjusted Term SOFR benchmark rate equal to Term SOFR (as defined in the Revolving Credit Agreement) plus 0.10%.
+A “commitment fee” accrues on any unused portion of the revolving commitments under the Revolving Credit Facility during the preceding three calendar month period. If the average daily used percentage is greater than 50%, the commitment fee equals 25 basis points, and if the average daily used percentage is less than or equal to 50%, the commitment fee equals 37.5 basis points.
+The obligations under the Revolving Credit Facility are secured by a first priority security interest in certain assets, including substantially all of the accounts receivable, inventory, deposit accounts, securities accounts and cash assets of the Company, CPG International LLC and the subsidiaries of CPG International LLC that are guarantors under the Revolving Credit Facility, and the proceeds thereof (subject to certain exceptions), or the Revolver Priority Collateral, plus a second priority security interest in all of the Term Loan Priority Collateral (as defined below). The obligations under the Revolving Credit Facility are guaranteed by us and the wholly owned domestic subsidiaries of CPG International LLC other than certain immaterial subsidiaries and other excluded subsidiaries.
+Revolving loans under the Revolving Credit Facility may be voluntarily prepaid in whole, or in part, in each case without premium or penalty. CPG International LLC is also required to make mandatory prepayments (i) when aggregate borrowings exceed commitments or the applicable borrowing base and (ii) during “cash dominion,” which occurs if (a) the availability under the Revolving Credit Facility is less than the greater of (i) $12.5 million and (ii) 10% of the lesser of (x) $150.0 million and (y) the borrowing base, for five consecutive business days or (b) certain events of default have occurred and are continuing.
+34
+The Revolving Credit Facility contains affirmative covenants that are customary for financings of this type, including allowing the Revolver Administrative Agent to perform periodic field exams and appraisals to evaluate the borrowing base. The Revolving Credit Facility contains various negative covenants, including limitations on, subject to certain exceptions, the incurrence of indebtedness, the incurrence of liens, dispositions, investments, acquisitions, restricted payments, transactions with affiliates, as well as other negative covenants customary for financings of this type. The Revolving Credit Facility also includes a financial maintenance
+covenant, applicable only when the excess availability is less than the greater of ( i ) 10% of the lesser of the aggregate commitments under the Revolving Credit Facility and the borrowing base, and (ii) $12.5 million. In such circumstances, we would be required to maintain a minimum fixed charge coverage ratio (as defined in the Revolving Credit Facility) for the trailing four quarters equal to at least 1.0 to 1.0; subject to our ability to make an equity cure (no more than twice in any
+four quarter
+period and up to five times over the life of the facility). As of
+December 31, 2022
+and
+September 30, 2022 , CPG International LLC
+was in compliance with
+the financial and nonfinancial covenants imposed by the Revolving Credit Facility. The Revolving Credit Facility also includes customary events of default, including the occurrence of a change of control.
+We also have the option to increase the commitments under the Revolving Credit Facility by up to $100.0 million, subject to certain conditions.
+2022 Term Loan Agreement
+The 2022 Term Loan Agreement is a first lien term loan and will mature on April 28, 2029, subject to acceleration or prepayment.  The 2022 Term Loan Agreement will amortize in equal quarterly installments of 0.25% of the aggregate principal amount of the loans outstanding, subject to reduction for certain prepayments.
+The obligations under the 2022 Term Loan Agreement are secured by a first priority security interest in the membership interests of CPG International LLC owned by us, the equity interests of CPG International LLC’s domestic subsidiaries, other than certain immaterial subsidiaries and other excluded subsidiaries, and all remaining assets not constituting Revolver Priority Collateral (subject to certain exceptions) of the Company, CPG International LLC and the subsidiaries of CPG International LLC that are guarantors under the 2022 Term Loan Agreement, and a second priority security interest in the Revolver Priority Collateral. The obligations under the 2022 Term Loan Agreement are guaranteed by us and the wholly owned domestic subsidiaries of CPG International LLC other than certain immaterial subsidiaries and other excluded subsidiaries.
+The interest rate applicable to the outstanding principal under the 2022 Term Loan Agreement equals, at our option, (i) in the case of alternative base rate borrowings, the highest of (a) the Federal Funds Rate (as defined in the 2022 Term Loan Agreement) plus 0.50%, (b) the Prime Rate (as defined in the 2022 Term Loan Agreement) as in effect on such day and (c) the one-month Term SOFR (as defined in the 2022 Term Loan Agreement) plus 1.00% per annum,
+provided
+that in no event will the alternative base rate be less than 1.50% per annum, plus an applicable margin of 1.50% and (ii) in the case of SOFR borrowings, Term SOFR for the applicable interest period, plus an applicable margin of 2.50%.
+Loans under the 2022 Term Loan Agreement may be voluntarily prepaid in whole, or in part, in each case without premium or penalty
+(other than the Prepayment Premium, as defined in
+the 2022 Term Loan Agreement , if applicable) , subject to certain customary conditions. The 2022 Term Loan Agreement also requires mandatory prepayments of loans under the 2022 Term Loan Agreement from the proceeds of certain debt issuances and certain asset dispositions (subject to certain reinvestment rights) and, commencing with the fiscal year ending September 30, 2023, a percentage of excess cash flow (subject to step-downs upon CPG International LLC achieving certain leverage ratios and other reductions in connection with other debt prepayments).
+The 2022 Term Loan Agreement contains affirmative covenants, negative covenants and events of default, which are broadly consistent with those in the Revolving Credit Facility (with certain differences consistent with the differences between a revolving loan and term loan) and that are customary for facilities of this type. The 2022 Term Loan Agreement does not have any financial maintenance covenants. The 2022 Term Loan Agreement also includes customary events of default, including the occurrence of a change of control.
+We have the right to arrange for incremental term loans under the Credit Agreement in an amount that shall not exceed the sum of (i) the Fixed Incremental Amount, as defined in the 2022 Term Loan Agreement, and (ii) the Ratio Amount, as defined in the 2022 Term Loan Agreement.
+Restrictions on Dividends
+The Senior Secured Credit Facilities each restrict payments of dividends unless certain conditions, as provided in the Revolving Credit Facility or the 2022 Term Loan Agreement, as applicable, are met.
+Contingent Commitments
+We have contractual commitments for purchases of certain minimum quantities of raw materials at index-based prices, and non-cancelable capital and operating leases, outstanding letters of credit and fixed asset purchase commitments. For a description of our contractual obligations and commitments, see Notes 8 “Debt”, 10 “Leases” and 17 “Commitments and Contingencies” to our Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report on Form 10-Q.
+35
+Critical Accounting Policies and Estimates
+Our unaudited Condensed Consolidated Financial Statements are prepared in accordance with U.S. GAAP. The preparation of these unaudited Condensed Consolidated Financial Statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses and related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ materially from those estimates.
+There have been no material changes to our critical accounting policies as compared to the critical accounting policies and significant judgments and estimates disclosed in our 2022 Form 10-K, except as updated in Note 1 of our Condensed Consolidated Financial Statements in this Quarterly Report on Form 10-Q.
+36
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Interest Rate Risk
+We are subject to interest rate risk in connection with our long-term debt. Our principal interest rate risk relates to the Senior Secured Credit Facilities. To meet our seasonal working capital needs, we borrow periodically on our variable rate revolving line of credit under the Revolving Credit Facility. As of December 31, 2022 and September 30, 2022, we had $598.5 million and $600.0 million outstanding under the 2022 Term Loan Agreement, respectively, and no outstanding amounts under the Revolving Credit Facility. The 2022 Term Loan Agreement and Revolving Credit Facility bear interest at variable rates. An increase or decrease of 100 basis points in the floating rates on the amounts outstanding under the Senior Secured Credit Facilities, and giving effect related to derivatives, as of December 31, 2022 and 2021, would have increased or decreased annual cash interest by approximately $3.0 million and $4.7 million, respectively.
+We have and may continue to enter into agreements such as floating for fixed-rate interest rate swaps and other hedging contracts in order to hedge against interest rate volatility associated with our Senior Secured Credit Facilities. For example, effective November 2022, we entered into interest rate swaps, which swapped interest at a rate based on SOFR on a notional amount of $300 million for a fixed rate. We do not intend or expect to enter into interest rate swaps or other derivative transactions for speculative purposes. In the future, in order to manage our interest rate risk, we may refinance our existing debt.
+Credit Risk
+As of December 31, 2022 and September 30, 2022, our cash and cash equivalents were maintained at major financial institutions in the United States, and our current deposits are likely in excess of insured limits. We believe these institutions have sufficient assets and liquidity to conduct their operations in the ordinary course of business with little or no credit risk to us.
+Our accounts receivable primarily relate to revenue from the sale of products primarily to established distributors inside of the United States. To mitigate credit risk, ongoing credit evaluations of customers’ financial condition are performed. As of December 31, 2022, two customers represented more than 10% of gross trade receivables; Customer A was 12.4% and Customer B was 10.7%. As of September 30, 2022, two customers each represented more than 10% of gross trade receivables; Customer A was 14.8% and Customer C was 10.6%.
+Foreign Currency Risk
+Substantially all of our business is currently conducted in U.S. dollars. We do not believe that an immediate 10% increase or decrease in the relative value of the U.S. dollar as compared to other currencies would have a material effect on our operating results.
+Inflation
+Our cost of sales is subject to inflationary pressures and price fluctuations of the raw materials we use and other costs, including freight and labor costs. Global inflation increased during 2022, and the conflict in Ukraine and other geopolitical tensions and economic uncertainties have exacerbated inflationary pressures, including causing increases in the prices for goods and services and exacerbating global supply chain disruptions, which have resulted in, and may continue to result in, shortages in materials and services and related issues. Historically, we have generally been able over time to offset, in whole or in part, the effects of inflation and price fluctuations through sales price increases and production efficiencies associated with technological enhancements and volume growth; however, we cannot reasonably estimate our ability to offset any increases in raw material prices or freight or labor costs or other inflationary pressures in the future. Such sustained inflationary pressures may have an adverse effect on our business, financial condition and results of operations if the selling prices of our products do not increase with these increased costs, or we cannot identify cost efficiencies.
+Raw Materials
+We rely upon the supply of certain raw materials in our production processes; however, we do not typically enter into fixed price contracts with our suppliers and currently have no fixed price contracts with our major vendors. The primary raw materials we use in the manufacture of our products are various petrochemical resins, including polyethylene, polypropylene and PVC resins, reclaimed polyethylene and PVC material, waste wood fiber and aluminum. In addition, we utilize a variety of other additives including modifiers, TiO2 and pigments. The exposures associated with these costs are primarily managed through terms of the sales and by maintaining relationships with multiple vendors. Prices for spot market purchases are negotiated on a continuous basis in line with the market at the time. We have not entered into hedges with respect to our raw material costs at this time, but we may choose to enter into such hedges in the future. Other than short term supply contracts for resins with indexed based pricing and occasional strategic purchases of larger quantities of certain raw materials, we generally buy materials on an as-needed basis.
+The cost of some of the raw materials we use in the manufacture of our products is subject to significant price volatility. For example, the cost of petrochemical resins used in our manufacturing processes has historically varied significantly and has been affected by changes in supply and demand and in the price of crude oil. Substantially all of our resins are purchased under supply contracts that average approximately one to two years, for which pricing is variable based on an industry benchmark price index. The resin supply contracts are negotiated annually and generally provide that we are obligated to purchase a minimum amount of resins from each supplier. In addition, the price of reclaimed polyethylene material, waste wood fiber, aluminum, other additives (including modifiers, TiO2 and pigments) and other raw materials fluctuates depending on, among other things, overall market supply and demand and general business conditions.
+37
+Item 4. Control s
+and Procedures
+Disclosure Controls and Procedures
+Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)) as of the end of the period covered by this report. Based on such evaluation, our principal executive officer and principal financial officer have concluded that, as of the end of such period, our disclosure controls and procedures are effective to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and to provide reasonable assurance that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Changes in Internal Control Over Financial Reporting
+There have not been any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+38
+PART II
+OTHER INFORMATION
+Item 1. Legal Proceedings
+From time to time, we may be involved in litigation relating to claims arising out of our operations and businesses that cover a wide range of matters, including, among others, contract and employment claims, personal injury claims, product liability claims and warranty claims. Currently, there are no claims or proceedings against us that we believe will have a material adverse effect on our business, financial condition, results of operations or cash flows. However, the results of any current or future litigation cannot be predicted with certainty and, regardless of the outcome, we may incur significant costs and experience a diversion of management resources as a result of litigation .
+Item 1A. Risk Factors.
+Since September 30, 2022, there have been no material changes to the risk factors previously disclosed under the heading “Risk Factors” in our 2022 Form 10-K.
+You should carefully consider the risk factors in our 2022 Form 10-K and our other filings made with the SEC. You should be aware that such risk factors and other information may not describe every risk we face. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results .
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Issuer Purchases of Equity Securities
+The following table provides information with respect to our purchases of our Class A common stock during the three months ended December 31, 2022:
+Period
+Total number of shares purchased
+Average price paid per share
+Total number of shares purchased as part of publicly announced plans or programs (1), (2)
+Maximum approximate dollar value of shares that may yet be purchased under the plans or programs (1), (2)
+October 1, 2022 –
+October 31, 2022
+—
+$
+—
+—
+$
+318,517,083
+November 1, 2022 –
+November 30, 2022
+—
+—
+—
+318,517,083
+December 1, 2022 –
+December 31, 2022
+352,760
+21.23
+352,760
+311,028,793
+Total
+352,760
+$
+21.23
+352,760
+(1)
+On May 5, 2022, the Board of Directors authorized us to repurchase up to $400 million of our Class A common stock.
+(2)
+We repurchased 352,760 shares of our Class A common stock on the open market at an average price of $21.23 per share,
+totaling an approximately $7.5 million reacquisition cost,
+during the three months ended December 31, 2022.
+See Note 13 in the Notes to Condensed Consolidated Financial Statements for additional information on Share Repurchase Program.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+None.
+Item 5. Other Information
+None.
+39
+Item 6. Exhibits
+Incorporated by Reference
+Exhibit
+No.
+Description
+Form
+Exhibit
+Filing Date
+File No.
+3.1
+Restated Certificate of Incorporation of The AZEK Company Inc.
+8-K
+3.2
+03/10/2022
+001-39322
+3.2
+Amended and Restated Bylaws of The AZEK Company Inc.
+8-K
+3.3
+03/10/2022
+001-39322
+4.1
+Stockholders Agreement, by and among The AZEK Company Inc. and the other parties named therein
+10-Q
+4.1
+08/14/2020
+001-39322
+4.2
+Registration Rights Agreement, by and among The AZEK Company Inc. and the other parties named therein
+10-Q
+4.2
+08/14/2020
+001-39322
+10.1* †
+Employment Offer Letter, dated as of September 14, 2021, by and between CPG International LLC and Samara Toole
+10.2* †
+Employment Offer Letter, dated as of December 12, 2020, by and between CPG International LLC and Morgan Walbridge
+10.3*
+Fourth Amendment, dated January 26, 2023, to Amended and Restated Revolving Credit Agreement, dated as of March 9, 2017, among CPG International LLC, The AZEK Company Inc., the Lenders party thereto and Deutsche Bank AG New York Branch, as administrative agent.
+31.1
+Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.*
+31.2
+Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.*
+32.1
+Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*+
+32.2
+Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*+
+101.INS
+Inline XBRL Instance Document*
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document*
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document*
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document*
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document*
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document*
+104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+*
+Filed herewith.
+†
+Management contract or compensatory plan.
++
+This certification is deemed furnished and not filed for purpose of Section 18 of the Exchange Act or otherwise subject to the liability of that Section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act.
+40
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+The AZEK Company Inc.
+Date: February 9, 2023
+By:
+/s/ Peter Clifford
+Peter Clifford
+Senior Vice President and Chief Financial Officer
+(Principal Financial Officer)
+41

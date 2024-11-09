@@ -1,0 +1,1110 @@
+1
+1
+1
+2
+2
+0
+0
+2.5
+10
+5
+0
+10
+5
+0
+0000096699 2022-09-25 2022-12-24
+xbrli:pure
+0000096699 tcco:MideastAndAfricaMember 2021-09-26 2021-12-25
+0000096699 tcco:MideastAndAfricaMember 2022-09-25 2022-12-24
+0000096699 country:SA 2021-09-26 2021-12-25
+0000096699 country:SA 2022-09-27 2022-12-24
+0000096699 2021-09-26 2021-12-25
+0000096699 2022-03-27 2022-06-25
+iso4217:USD
+0000096699 us-gaap:NonUsMember 2021-09-26 2021-12-25
+0000096699 us-gaap:NonUsMember 2022-09-25 2022-12-24
+0000096699 country:US 2021-09-26 2021-12-25
+0000096699 country:US 2022-09-25 2022-12-24
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember tcco:CustomerOneMember 2021-09-26 2021-12-25
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember tcco:OneCustomerMember 2021-09-26 2021-12-25
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember tcco:CustomerTwoMember 2021-09-26 2021-12-25
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember tcco:TwoCustomersMember 2021-09-26 2021-12-25
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-09-26 2021-12-25
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember tcco:CustomerTwoMember 2022-09-25 2022-12-24
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember tcco:CustomerOneMember 2022-09-25 2022-12-24
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember tcco:TwoCustomersMember 2022-09-25 2022-12-24
+0000096699 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-09-25 2022-12-24
+xbrli:shares
+0000096699 us-gaap:EmployeeStockOptionMember 2021-09-26 2021-12-25
+0000096699 us-gaap:EmployeeStockOptionMember 2022-09-25 2022-12-24
+0000096699 tcco:CaresActMember 2022-12-24
+0000096699 tcco:AmendedAndRestatedLocMrCarlHGuildMember 2022-01-01 2022-01-31
+0000096699 tcco:MrCarlHGuildMember 2022-12-24
+0000096699 tcco:PreviouslyLoanedPromissoryNote3Member tcco:MrCarlHGuildMember 2022-12-24
+0000096699 tcco:PreviouslyLoanedPromissoryNote3Member 2022-12-24
+0000096699 tcco:MrCarlHGuildMember tcco:AdvancesBeyondInitialOneMillionMember 2021-11-18
+0000096699 tcco:MrCarlHGuildMember 2021-11-18
+0000096699 tcco:MrCarlHGuildMember 2021-05-06
+0000096699 tcco:MrCarlHGuildMember 2022-04-07
+0000096699 tcco:DemandPromissoryNoteMember tcco:MrCarlHGuildMember 2022-08-04
+0000096699 2022-12-31
+0000096699 tcco:TheSBALoanMember 2020-08-10
+utr:Y
+0000096699 tcco:TheSBALoanMember 2020-08-10 2020-08-10
+0000096699 2022-06-25
+0000096699 2021-03-31 2022-09-24
+0000096699 2021-09-30
+0000096699 2019-03-31 2022-09-24
+0000096699 2022-09-24
+0000096699 2022-12-24
+0000096699 tcco:EquipmentSalesMember 2021-09-26 2021-12-25
+0000096699 tcco:EquipmentSalesMember 2022-09-25 2022-12-24
+0000096699 tcco:EngineeringServicesMember 2021-09-26 2021-12-25
+0000096699 tcco:EngineeringServicesMember 2022-09-25 2022-12-24
+0000096699 2021-12-25
+iso4217:USD xbrli:shares
+0000096699 tcco:Range5Member 2022-12-24
+0000096699 tcco:Range5Member 2022-09-25 2022-12-24
+0000096699 tcco:Range4Member 2022-12-24
+0000096699 tcco:Range4Member 2022-09-25 2022-12-24
+0000096699 tcco:Range3Member 2022-12-24
+0000096699 tcco:Range3Member 2022-09-25 2022-12-24
+0000096699 tcco:Range2Member 2022-12-24
+0000096699 tcco:Range2Member 2022-09-25 2022-12-24
+0000096699 tcco:Range1Member 2022-12-24
+0000096699 tcco:Range1Member 2022-09-25 2022-12-24
+0000096699 2021-09-26 2022-09-24
+0000096699 us-gaap:EmployeeStockOptionMember tcco:The2005NonstatutoryStockOptionPlanAnd2010EquityIncentivePlanMember 2022-09-25 2022-12-24
+0000096699 us-gaap:EmployeeStockOptionMember tcco:The2005NonstatutoryStockOptionPlanAnd2010EquityIncentivePlanMember srt:MaximumMember 2022-09-25 2022-12-24
+0000096699 us-gaap:EmployeeStockOptionMember tcco:The2005NonstatutoryStockOptionPlanAnd2010EquityIncentivePlanMember srt:MinimumMember 2022-09-25 2022-12-24
+0000096699 tcco:The2005NonstatutoryStockOptionPlanAnd2010EquityIncentivePlanMember 2022-12-24
+0000096699 us-gaap:EmployeeStockOptionMember tcco:EquityIncentivePlan2021Member 2022-09-25 2022-12-24
+0000096699 us-gaap:EmployeeStockOptionMember tcco:EquityIncentivePlan2021Member srt:MaximumMember 2022-09-25 2022-12-24
+0000096699 us-gaap:EmployeeStockOptionMember tcco:EquityIncentivePlan2021Member srt:MinimumMember 2022-09-25 2022-12-24
+0000096699 tcco:EquityIncentivePlan2021Member 2022-09-25 2022-12-24
+0000096699 tcco:EquityIncentivePlan2021Member 2021-05-06
+0000096699 us-gaap:EmployeeStockOptionMember 2022-09-25 2022-12-24
+0000096699 tcco:ProductDevelopmentExpensesMember 2021-09-26 2021-12-25
+0000096699 tcco:ProductDevelopmentExpensesMember 2022-09-25 2022-12-24
+0000096699 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-09-26 2021-12-25
+0000096699 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-09-25 2022-12-24
+0000096699 tcco:TheSBALoanMember 2020-09-26
+0000096699 tcco:TheSBALoanMember 2019-09-29 2020-09-26
+0000096699 tcco:MrCarlHGuildMember 2022-01-01 2022-01-31
+0000096699 tcco:PreviouslyLoanedPromissoryNote3Member tcco:MrCarlHGuildMember 2022-08-04
+0000096699 tcco:PreviouslyLoanedPromissoryNote2Member tcco:MrCarlHGuildMember 2022-08-04
+0000096699 tcco:PreviouslyLoanedPromissoryNote1Member tcco:MrCarlHGuildMember 2022-08-04
+0000096699 2018-09-30 2019-09-28
+0000096699 2019-09-29 2020-09-26
+0000096699 2020-09-27 2021-09-25
+0000096699 us-gaap:RetainedEarningsMember 2021-12-25
+0000096699 us-gaap:RetainedEarningsMember 2022-12-24
+0000096699 us-gaap:RetainedEarningsMember 2021-09-26 2021-12-25
+0000096699 us-gaap:RetainedEarningsMember 2022-09-25 2022-12-24
+0000096699 us-gaap:RetainedEarningsMember 2021-09-25
+0000096699 us-gaap:RetainedEarningsMember 2022-09-24
+0000096699 us-gaap:AdditionalPaidInCapitalMember 2021-12-25
+0000096699 us-gaap:AdditionalPaidInCapitalMember 2022-12-24
+0000096699 us-gaap:AdditionalPaidInCapitalMember 2021-09-26 2021-12-25
+0000096699 us-gaap:AdditionalPaidInCapitalMember 2022-09-25 2022-12-24
+0000096699 us-gaap:AdditionalPaidInCapitalMember 2021-09-25
+0000096699 us-gaap:AdditionalPaidInCapitalMember 2022-09-24
+0000096699 us-gaap:CommonStockMember 2021-12-25
+0000096699 us-gaap:CommonStockMember 2022-12-24
+0000096699 us-gaap:CommonStockMember 2021-09-25
+0000096699 us-gaap:CommonStockMember 2022-09-24
+0000096699 2021-09-25
+0000096699 2023-02-03
+thunderdome:item
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM
+10-Q
+(Mark One)
+☒
+Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended
+December 24, 2022
+☐
+Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from ________________ to ________________
+Commission File Number:
+001-34816
+TECHNICAL COMMUNICATIONS CORPORATION
+(Exact name of registrant as specified in its charter)
+Massachusetts
+04-2295040
+(State or other jurisdiction of
+(I.R.S. Employer Identification No.)
+incorporation or organization)
+100 Domino Drive ,
+Concord ,
+MA
+01742-2892
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+( 978 )
+287-5100
+N/A
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒   No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes  ☒   No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Emerging growth company
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes  ☐    No ☒
+Indicate the number of shares outstanding of each of the issuer's classes of common stock as of the latest practicable date.
+1,854,403
+shares of Common Stock, $0.10 par value, outstanding as of February 3, 2023.
+INDEX
+Page
+PART I
+Financial Information
+Item 1.
+Financial Statements:
+Consolidated Balance Sheets as of December 24, 2022 (unaudited) and September 24, 2022
+1
+Consolidated Statements of Operations for the Three Months ended December 24, 2022 and December 25, 2021 (unaudited)
+2
+Consolidated Statements of Cash Flows for the Three Months ended December 24, 2022 and December 25, 2021 (unaudited)
+3
+Consolidated Statements of Changes in Stockholders' Equity for the Three Months ended December 24, 2022 and December 25, 2021 (unaudited)
+4
+Notes to Unaudited Consolidated Financial Statements
+5
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+12
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+17
+Item 4.
+Controls and Procedures
+17
+PART II
+Other Information
+Item 1.
+Legal Proceedings
+19
+Item 1A.
+Risk Factors
+19
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+19
+Item 3.
+Defaults Upon Senior Securities
+19
+Item 4.
+Mine Safety Disclosures
+19
+Item 5.
+Other Information
+19
+Item 6.
+Exhibits
+19
+Signatures
+20
+TECHNICAL COMMUNICATIONS CORPORATION AND SUBSIDIARY
+Consolidated Balance Sheets
+December 24, 2022
+September 24, 2022
+Assets
+(Unaudited)
+Current Assets:
+Cash and cash equivalents
+$
+58,716
+$
+6,727
+Accounts receivable - trade
+-
+15,174
+Government grant receivable – Employee retention credit (Note 8)
+498,143
+515,966
+Inventories, net
+972,083
+966,185
+Other current assets
+166,868
+186,963
+Total current assets
+1,695,810
+1,691,015
+Equipment and leasehold improvements
+4,556,144
+4,556,144
+Less: accumulated depreciation and amortization
+( 4,546,046
+)
+( 4,544,778
+)
+Equipment and leasehold improvements, net
+10,098
+11,366
+Operating lease right-of-use asset
+208,015
+248,462
+Total Assets
+$
+1,913,923
+$
+1,950,843
+Liabilities and Stockholders ’
+Equity
+Current Liabilities:
+Current maturities of notes payable – long-term (Note 7)
+$
+3,023
+$
+1,996
+Notes payable - related party
+3,725,000
+3,000,000
+Current operating lease liabilities
+165,630
+164,086
+Accounts payable
+257,190
+159,388
+Customer deposits
+6,713
+3,933
+Accrued liabilities:
+Accrued compensation and related expenses
+154,050
+204,412
+Accrued interest
+179,233
+118,208
+Other current liabilities
+4,217
+1,419
+Total current liabilities
+4,495,056
+3,653,442
+Long-term operating lease liability
+42,385
+84,376
+Note payable – long-term, net of current maturities (Note 7)
+146,731
+148,004
+Total Liabilities
+4,684,172
+3,885,822
+Commitments and contingencies
+Stockholders’ Equity:
+Common stock, par value $ 0.10
+per share;
+7,000,000
+shares authorized;
+1,854,403
+shares issued and outstanding at December 24, 2022 and September 24, 2022
+185,440
+185,440
+Additional paid-in capital
+4,378,017
+4,364,687
+Accumulated deficit
+( 7,333,706
+)
+( 6,485,106
+)
+Total stockholders’ deficit
+( 2,770,249
+)
+( 1,934,979
+)
+Total Liabilities and Stockholders’ Equity
+$
+1,913,923
+$
+1,950,843
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+TECHNICAL COMMUNICATIONS CORPORATION AND SUBSIDIARY
+Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended
+December 24, 2022
+December 25, 2021
+Net revenue
+$
+121,537
+$
+423,481
+Cost of revenue
+148,118
+356,828
+Gross (loss) profit
+( 26,581
+)
+66,653
+Operating expenses:
+Selling, general and administrative
+483,535
+562,360
+Product development
+277,183
+101,099
+Total operating expenses
+760,718
+663,459
+Operating loss
+( 787,299
+)
+( 596,806
+)
+Other expense:
+Interest expense
+( 61,301
+)
+( 16,555
+)
+Total other expense
+( 61,301
+)
+( 16,555
+)
+Net loss
+$
+( 848,600
+)
+$
+( 613,361
+)
+Net loss per common share:
+Basic
+$
+( 0.46
+)
+$
+( 0.33
+)
+Diluted
+$
+( 0.46
+)
+$
+( 0.33
+)
+Weighted average shares:
+Basic
+1,854,403
+1,850,403
+Diluted
+1,854,403
+1,850,403
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+Page 2
+TECHNICAL COMMUNICATIONS CORPORATION AND SUBSIDIARY
+Consolidated Statements of Cash Flows
+(Unaudited)
+Three Months Ended
+December 24, 2022
+December 25, 2021
+Operating Activities:
+Net loss
+$
+( 848,600
+)
+$
+( 613,361
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization
+1,268
+1,321
+Stock-based compensation
+13,330
+12,623
+Changes in certain operating assets and liabilities:
+Accounts receivable
+15,174
+153,340
+Inventories
+( 5,898
+)
+29,928
+Other current assets
+20,095
+21,546
+Customer deposits
+2,780
+( 41,191
+)
+Government grant receivable - ERC
+17,823
+-
+Accounts payable and other accrued liabilities
+111,263
+45,031
+Net cash used in operating activities
+( 672,765
+)
+( 390,763
+)
+Financing Activities:
+Proceeds from notes payable – related party
+725,000
+150,000
+Repayment of long-term debt
+( 246
+)
+Net cash provided by financing activities
+724,754
+150,000
+Net increase (decrease) in cash and cash equivalents
+51,989
+( 240,763
+)
+Cash and cash equivalents at beginning of the period
+6,727
+298,022
+Cash and cash equivalents at end of the period
+$
+58,716
+$
+57,259
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+Page 3
+TECHNICAL COMMUNICATIONS CORPORATION AND SUBSIDIARY
+Consolidated Statements of Changes in Stockholders' Equity
+(Unaudited)
+Three Months Ended
+December 24, 2022
+December 25, 2021
+Shares of common stock:
+Beginning balance
+1,854,403
+1,854,403
+Ending balance
+1,854,403
+1,854,403
+Common stock at par value:
+Beginning balance
+$
+185,440
+$
+185,440
+Ending balance
+$
+185,440
+$
+185,440
+Additional paid-in capital:
+Beginning balance
+$
+4,364,687
+$
+4,312,969
+Stock-based compensation
+13,330
+12,623
+Ending balance
+$
+4,378,017
+$
+4,325,592
+Accumulated deficit:
+Beginning balance
+$
+( 6,485,106
+)
+$
+( 4,153,967
+)
+Net loss
+( 848,600
+)
+( 613,361
+)
+Ending balance
+( 7,333,706
+)
+( 4,767,328
+)
+Total stockholders ’
+deficit
+$
+( 2,770,249
+)
+$
+( 256,296
+)
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+Page 4
+TECHNICAL COMMUNICATIONS CORPORATION AND SUBSIDIARY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1.
+Description of the Business and Basis of Presentation
+Company Operations
+Technical Communications Corporation (“TCC”) was incorporated in Massachusetts in 1961; its wholly-owned subsidiary, TCC Investment Corp., was organized in that jurisdiction in 1982. Technical Communications Corporation and TCC Investment Corp. are sometimes collectively referred to herein as the “Company”. The Company’s business consists of only one industry segment, which is the design, development, manufacture, distribution, marketing and sale of communications security devices, systems and services. The secure communications solutions provided by TCC protect vital information transmitted over a wide range of data, video, fax and voice networks. TCC’s products have been sold into over 115 countries and are in service with governments, military agencies, telecommunications carriers, financial institutions and multinational corporations.
+Interim Financial Statements
+The accompanying unaudited consolidated financial statements of Technical Communications Corporation and its wholly-owned subsidiary include all adjustments which are, in the opinion of management, necessary for a fair presentation of the financial position and results of operations for the periods presented and in order to make the financial statements not misleading. All such adjustments are of a normal recurring nature. Interim results are not necessarily indicative of the results to be expected for the fiscal year ending September 30, 2023.
+The September 24, 2022 consolidated balance sheet contained herein was derived from the Company’s audited consolidated balance sheet at September 24, 2022 as contained in the Company’s Annual Report on Form 10-K for the fiscal year then ended as filed with the U.S. Securities and Exchange Commission (“SEC”). Certain footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted as allowed by SEC rules and regulations. The accompanying unaudited consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements and the notes thereto for the fiscal year ended September 24, 2022 included in its Annual Report on Form 10-K as filed with the SEC (the “2022 Annual Report”).
+The Company follows accounting standards set by the Financial Accounting Standards Board, commonly referred to as the FASB. The FASB sets generally accepted accounting principles (“GAAP”) that the Company follows to ensure it consistently reports its financial condition, results of operations, and cash flows. References to GAAP issued by the FASB in these footnotes are to the
+FASB Accounting Standards Codification TM
+- sometimes referred to as the Codification or ASC.
+Liquidity and Ability to Continue as a Going Concern
+For the quarter ended December 24, 2022, the Company generated a net loss of $ 848,600
+and for the fiscal years ended September 24, 2022, September 25, 2021 and September 26, 2020, the Company generated net losses of $ 2,331,139 , $ 1,088,386
+and $ 910,650
+and, although the Company generated $ 631,426
+of net income in the fiscal year ended September 28, 2019, the Company suffered recurring losses from operations during the prior seven year period from fiscal 2012 to fiscal 2018. The Company has an accumulated deficit of $ 7,333,706
+at December 24, 2022. These factors continue to raise substantial doubt about the Company's ability to continue as a going concern. Such consolidated financial statements do not include any adjustments to reflect the substantial doubt about the Company’s ability to continue as a going concern.
+On August 4, 2022, the Company issued an amended and restated demand promissory note in the principal amount of up to $ 4,000,000
+in favor of Carl H. Guild, Jr. Mr. Guild, the Company’s Chief Executive Officer, President and Chairman of the Board, loaned the money to the Company to provide working capital. The $ 4,000,000
+consists of $ 1,000,000
+previously loaned to the Company at an interest rate of
+6 % and $ 2,000,000
+previously loaned to the Company at an interest rate of
+7.5 % and an additional $ 1,000,000
+at an interest rate of
+7.5 %. The additional funds will be available to the Company to borrow from Mr. Guild on a revolving basis and the loan has no specified term year and may be prepaid at any time without premium or penalty. The outstanding principal balance at December 24, 2022 was $ 3,725,000 , plus accrued interest of $ 167,000 . An interest payment of $ 30,000
+was made in January of 2022.
+Page 5
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Cont ’ d)
+In December 2022 the Company implemented a partial furlough plan for the majority of salaried employees. The plan reduces the workweek to 24 hours and salaries have been reduced commensurately. In January of 2023 the Company reduced the workweek further to 16 hours. With this furlough plan in place we anticipate that our principal sources of liquidity, including the recent line of credit, will be sufficient to fund our activities through February 2023. In order to have sufficient cash to fund our operations beyond that point, we will need to secure new customer contracts, raise additional equity or debt capital, and reduce expenses, including payroll and payroll-related expenses through another employee furlough and/or separations.
+In order to have sufficient capital resources to fund operations, the Company has been working diligently to secure several large orders with new and existing customers. The receipt of these orders has been significantly delayed and will continue to be difficult to predict due to the impact of the COVID-19 pandemic on our customers as a result of their operations being reduced or shut down. TCC has been able to maintain its operations during this sustained period of disruption, but a continuation of the disruption in either our customers’ operations or those of the Company will continue to have a material adverse impact on sales activity and revenue.
+During fiscal year 2020, the Company was granted a loan from the SBA in the principal amount of $ 150,000
+pursuant to the Economic Injury Disaster Loan program. This loan is payable monthly over
+30
+years at an annual interest rate of
+3.75 % commencing thirty months from the date of issuance.
+The Company is working diligently to secure additional capital through equity or debt arrangements in addition to the recent funding received from the SBA and Mr. Guild. The Company is actively working with equity investors as well as debt investors, such as the SBA and Mr. Guild to secure additional funding, although we cannot provide assurances we will be able to secure such new funding, especially in light of the tightening of the credit markets and continuing volatility of the capital markets as a result of the coronavirus. Moreover, the Company’s common stock was delisted from the Nasdaq Capital Market effective January 25, 2021; while the common stock is quoted on the OTC Bulletin Board, the change in listing may have a negative impact on the liquidity of the stock and the Company’s ability to raise capital through offerings of its equity securities.
+Should the Company be unsuccessful in these efforts, it would be forced to implement headcount reductions, additional employee furloughs and/or reduced hours for certain employees, or cease operations completely.
+Reporting Period
+The Company’s by-laws call for its fiscal year to end on the Saturday closest to the last day of September, unless otherwise decided by its Board of Directors.
+Basis of Presentation
+The accompanying unaudited consolidated financial statements include the accounts of TCC and its wholly-owned subsidiary. All significant intercompany accounts and transactions have been eliminated in consolidation.
+The discussion and analysis of the Company’s financial condition and results of operations are based on the unaudited consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these unaudited consolidated financial statements requires management to make estimates and judgments that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported revenues and expenses during the reporting periods.
+Page 6
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Cont ’ d)
+On an ongoing basis, management evaluates its estimates and judgments, including but not limited to those related to revenue recognition, inventory reserves, receivable reserves, marketable securities, impairment of long-lived
+assets, income taxes, fair value of financial instruments and stock-based compensation. Management bases its estimates on historical experience and on various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent degree of uncertainty. Actual results may differ from these estimates under different assumptions or conditions.
+NOTE 2.
+Summary of Significant Accounting Policies and Significant Judgments and Estimates
+The Company’s significant accounting policies are described in “Note 2. Summary of Significant Accounting Policies” of the Notes to Consolidated Financial Statements in its 2022 Annual Report and are supplemented by the notes included in this Quarterly Report on Form 10-Q. The financial statements and related notes included in this Quarterly Report should be read in conjunction with the Company’s 2022 Annual Report.
+NOTE 3.
+Stock-Based Compensation
+The following table summarizes stock-based compensation costs included in the Company’s consolidated statements of operations for the first quarter of each of fiscal 2023 and 2022:
+2023
+2022
+Selling, general and administrative expenses
+$
+11,772
+$
+10,563
+Product development expenses
+1,558
+2,060
+Total share-based compensation expense before taxes
+$
+13,330
+$
+12,623
+As of December 24, 2022, there was $ 75,759
+of unrecognized compensation expense related to options outstanding. The unrecognized compensation expense will be recognized over the remaining requisite service period. As of December 24, 2022, the weighted average period over which the compensation expense is expected to be recognized is
+2.9
+years.
+On May 6, 2021 the Company adopted the 2021 Equity Incentive Plan (the “Plan”). The Plan authorizes the issuance of up to
+300,000
+shares. The Plan has not been approved by shareholders and allows for non-qualified stock option grants, stock appreciation rights (SARS), restricted stock and stock units and other stock and stock based awards. There were
+28,000
+shares outstanding at December 24, 2022. Vesting periods are at the discretion of the Board of Directors and typically range between
+zero
+and
+five
+years. Options under the Plan are granted with an exercise price equal to fair value at time of grant and have a term of
+ten
+years from the date of grant.
+The Technical Communications Corporation 2005 Non-Statutory Stock Option Plan and 2010 Equity Incentive Plan are expired as of December 24, 2022 and options are no longer available for grant thereunder, although vested, unexercised options under such plans remain outstanding. There were an aggregate of
+600,000
+shares authorized for issuance under these plans, of which options to purchase
+136,900
+shares were outstanding at December 24, 2022. Vesting periods are at the discretion of the Board of Directors and typically range between
+zero
+and
+five
+years. Options under these plans are granted with an exercise price equal to fair value at time of grant and have a term of
+ten
+years from the date of grant.
+Page 7
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Cont ’ d)
+The following table summarizes stock option activity during the first three months of fiscal 2023:
+Options
+Outstanding
+Number of Shares
+Weighted Average
+Weighted Average
+Contractual Life
+Unvested
+Vested
+Total
+Exercise Price
+(in years)
+Outstanding, September 24, 2022
+56,700
+108,200
+164,900
+$
+3.45
+5.98
+Grants
+-
+-
+-
+-
+-
+Vested
+-
+-
+-
+Cancellations/forfeitures
+-
+-
+-
+-
+Outstanding, December 24, 2022
+56,700
+108,200
+164,900
+$
+3.45
+5.73
+Information related to the stock options vested and expected to vest as of December 24, 2022 is as follows:
+Range of
+Exercise Prices
+Number of
+Shares
+Weighted-Average
+Remaining
+Contractual
+Life (years)
+Weighted
+Average
+Exercise Price
+Exercisable
+Number of
+Shares
+Exercisable
+Weighted-
+Average
+Exercise Price
+$ 1.01   -  $ 2.00
+48,000
+8.32
+$
+1.80
+12,000
+$
+1.87
+$ 2.01   -  $ 3.00
+34,300
+5.17
+2.61
+25,900
+2.65
+$ 3.01   -  $ 4.00
+43,500
+6.34
+3.60
+33,300
+3.60
+$ 4.01   -  $ 5.00
+16,600
+1.50
+4.34
+16,600
+4.34
+$ 5.01   -  $ 10.00
+22,500
+3.02
+7.36
+20,400
+7.37
+164,900
+5.73
+$
+3.45
+108,200
+$
+4.00
+The aggregate intrinsic value of the Company’s “in-the-money” outstanding and exercisable options as of December 24, 2022 and December 25, 2021 was $ 0
+and $ 1,040 , respectively. Nonvested stock options are subject to the risk of forfeiture until the fulfillment of specified conditions.
+NOTE 4.
+Revenue
+The following table presents the Company’s revenues disaggregated by revenue type for the first three months of fiscal 2023 and 2022.
+Revenue type:
+2023
+2022
+Engineering services
+$
+-
+$
+343,701
+Equipment sales
+121,537
+79,780
+Total
+$
+121,537
+$
+423,481
+Engineering services revenue consists of funded research and development and technology development for commercial companies and government agencies primarily under fixed-price contracts. The Company also derives revenue from developing and designing custom cryptographic solutions for customers’ unique secure voice, data and video communications requirements and integrating such solutions into existing systems. These contracts can vary but typically call for fixed monthly payments or payments due upon meeting certain milestones. Customers are billed monthly or upon achieving the milestone and payments are due on a net basis after the billing date.
+Page 8
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Cont ’ d)
+Equipment sales revenue consists of sales of communications security equipment for voice, data, facsimile and video networks for military, government and corporate/industrial applications. Equipment sales are billed to the customer upon shipment with typical payment terms requiring a down payment at the time of order with the balance due prior to shipment. For government and certain long term customers, we may grant net payment terms.
+NOTE 5.
+Inventories
+Inventories consisted of the following:
+December 24,
+2022
+September 24,
+2022
+Finished goods
+$
+-
+$
+-
+Work in process
+478,375
+489,854
+Raw materials
+493,708
+476,331
+Total inventory, net
+$
+972,083
+$
+966,185
+NOTE 6.
+Leases
+The Company leases space from a third party for all manufacturing, research and development, and corporate operations. The initial term of the lease was for five years through March 31, 2019 at an annual rate of $ 170,603 . In addition, the lease contains options to extend the lease for two and one-half years through September 30, 2021 and another
+two
+and one-half years through March 31, 2024 at an annual rate of $ 170,603 . In September 2018, the Company exercised its option to extend the term of the lease through September 2021. The Company exercised the option on March 31, 2021, and the new term will run until March 30, 2024. As such, the Company uses the extended lease term in its calculation of the lease liability and right-of-use asset. The Company classifies this lease as an operating lease with the costs recognized as a selling, general and administrative expense in its consolidated statements of operations. The lease expense for each of the three month periods ended December 24, 2022 and December 25, 2021 was $ 42,651 .
+The table below presents the maturity of the Company’s operating lease liability as of December 24, 2022:
+2023
+127,952
+2024
+85,301
+Total lease payments
+213,253
+Less: Imputed interest
+( 5,238
+)
+Total lease liability
+$
+208,015
+NOTE 7.
+Debt
+On August 10, 2020, the Company also was granted a loan (the “SBA Loan”) from the SBA in the principal amount of $ 150,000
+pursuant to the Economic Injury Disaster Loan program. The SBA Loan, which is evidenced by a Promissory Note dated August 10, 2020, is payable in monthly installments of $ 731 , including principal and interest, over
+30
+years at an interest rate of
+3.75 % per year. The SBA Loan may be prepaid by the Company at any time prior to maturity with no prepayment penalties. The proceeds from this loan must be used solely as working capital to alleviate economic injury caused by the Covid-19 pandemic. Although originally repayable commencing one year after grant, on March 15, 2022 the SBA announced that payments on the SBA Loan would be deferred an additional six months. The Company initiated making monthly payments in December 2022.
+Page 9
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Cont ’ d)
+As part of the SBA Loan, the Company granted the SBA a continuing security interest in and to any and all “Collateral” to secure payment and performance of all debts, liabilities and obligations of the Company to the SBA under the SBA Loan. The Collateral includes all tangible and intangible personal property that the Company owns or acquires or creates immediately upon the acquisition or creation thereof, including, but not limited to: (a) inventory, (b) equipment, (c) instruments, including promissory notes, (d) chattel paper, including tangible chattel paper and electronic chattel paper, (e) documents, (f) letter of credit rights, (g) accounts, including health-care insurance receivables and credit card receivables, (h) deposit accounts, (i) commercial tort claims, (j) general intangibles, including payment intangibles and software, and (k) as-extracted collateral, in each case as such terms may from time to time be defined in the Uniform Commercial Code.
+The aggregate amounts of principal maturities of long-term debt for the following fiscal years are:
+2023
+$
+3,023
+2024
+3,138
+2025
+3,257
+2026
+3,382
+2027
+3,511
+Thereafter
+133,443
+$
+149,754
+On August 4, 2022, the Company issued an amended and restated demand promissory note in the principal amount of up to $ 4,000,000
+in favor of Carl H. Guild, Jr. Mr. Guild, the Company’s Chief Executive Officer, President and Chairman of the Board, loaned the money to the Company to provide working capital. The $ 4,000,000
+consists of $ 1,000,000
+previously loaned to the Company at an interest rate of
+6 % and $ 2,000,000
+previously loaned to the Company at an interest rate of
+7.5 % and an additional $ 1,000,000
+at an interest rate of
+7.5 %. The additional funds will be available to the Company to borrow from Mr. Guild on a revolving basis and the loan has no specified term year and may be prepaid at any time without premium or penalty. The outstanding principal balance at December 24, 2022 was $ 3,725,000 , plus accrued interest of $ 167,000 . An interest payment of approximately $ 30,000
+was made in January of 2022.
+NOTE 8.
+Income Taxes
+The Company has
+not
+recorded an income tax benefit on its net loss for the three month periods ended December 24, 2022 and December 25, 2021 due to its uncertain realizability. During previous fiscal years, the Company recorded a valuation allowance for the full amount of its net deferred tax assets since it could not predict the realization of these assets.
+Under the Coronavirus Aid, Relief and Economic Security Act (the “CARES Act”) the Company is entitled to Employee Retention Credits for parts of its fiscal 2020 and 2021 years. The Company has filed amended Employer’s Quarterly Federal Tax returns to apply for these credits. As a result the Company is entitled to $ 515,966
+in credits of which $ 17,823
+was received during Q1 of fiscal 2023. The Company expects to receive the remainder of the refunds from the IRS in fiscal 2023.
+NOTE 9.
+Loss per Share
+Outstanding potentially dilutive stock options, which were not included in the net loss per share amounts as their effect would have been anti-dilutive, were as follows:
+164,900
+shares at December 24, 2022 and
+143,900
+shares at December 25, 2021.
+NOTE 10.
+Major Customers and Export Sales
+During the three months ended December 24, 2022, the Company had
+two
+customers that represented
+94 % ( 73 % and
+21 %, respectively) of net revenue. During the three months ended December 25, 2021, the Company had
+two  customers that represented
+100 % ( 89 % and
+11 %, respectively) of net revenue and at December 25, 2021 had
+one
+customer representing
+100 % of accounts receivable.
+Page 10
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Cont ’ d)
+A breakdown of foreign and domestic net revenue for first three months of fiscal 2023 and 2022 is as follows:
+2023
+2022
+Domestic
+$
+94,617
+$
+343,701
+Foreign
+26,920
+79,780
+Total net revenue
+$
+121,537
+$
+423,481
+The Company sold products into
+one
+country during the three month periods ended December 24, 2022 and December 25, 2021. A sale is attributed to a foreign country based on the location of the contracting party. Domestic revenue may include the sale of products shipped through domestic resellers or manufacturers to international destinations. The table below summarizes foreign revenues by country as a percentage of total foreign revenue for the first quarters of fiscal 2023 and 2022.
+2023
+2022
+Saudi Arabia
+100
+%
+100
+%
+A summary of foreign revenue, as a percentage of total foreign revenue by geographic area, for the first quarter of fiscal 2023 and 2022 is as follows:
+2023
+2022
+Mid-East and Africa
+100
+%
+100
+%
+Page 11
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Forward-Looking Statements
+Certain statements contained herein or as may otherwise be incorporated by reference herein that are not purely historical constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include but are not limited to statements regarding anticipated operating results, future earnings, and the Company’s ability to achieve growth and profitability. Such forward-looking statements involve known and unknown risks, uncertainties and other factors, including but not limited to the impact of the COVID-19 pandemic (including its duration and severity) and governmental actions in response thereto; the effect of foreign political unrest; domestic and foreign government policies and economic conditions; future changes in export laws or regulations; changes in technology; the ability to hire, retain and motivate technical, management and sales personnel; the risks associated with the technical feasibility and market acceptance of new products; changes in telecommunications protocols; the effects of changing costs, exchange rates and interest rates; and the Company's ability to secure adequate capital resources. Such risks, uncertainties and other factors could cause the actual results, performance or achievements of the Company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. For a more detailed discussion of the risks facing the Company, see the Company’s filings with the SEC, including its Annual Report on Form 10-K for the fiscal year ended September 24, 2022.
+Overview
+The Company designs, manufactures, markets and sells communications security equipment that utilizes various methods of encryption to protect the information being transmitted. Encryption is a technique for rendering information unintelligible, which information can then be reconstituted if the recipient possesses the right decryption “key”. The Company manufactures several standard secure communications products and also provides custom-designed, special-purpose secure communications products for both domestic and international customers. The Company’s products consist primarily of voice, data and facsimile encryptors. Revenue is generated principally from the sale of these products, which have traditionally been to foreign governments either through direct sale, pursuant to a U.S. government contract, or made as a sub-contractor to domestic corporations under contract with the U.S. government. We also sell these products to commercial entities and U.S. government agencies. We generate additional revenues from contract engineering services performed for certain government agencies, both domestic and foreign, and commercial entities.
+Critical Accounting Policies and Significant Judgments and Estimates
+There have been no material changes in the Company’s critical accounting policies or critical accounting estimates since September 24, 2022 and we have not adopted any accounting policies that have had or will have a material impact on our consolidated financial statements. For further discussion of our accounting policies see Note 2,
+Summary of Significant Accounting Policies and Significant Judgments and Estimates
+in the Notes to Unaudited Consolidated Financial Statements in this Quarterly Report on Form 10-Q and the Notes to Consolidated Financial Statements in our Annual Report on Form 10-K for the fiscal year ended September 24, 2022 as filed with the SEC.
+Results of Operations
+Three Months ended December 24, 2022 compared to Three Months ended December 25, 2021
+Net Revenue
+Net revenue for the quarters ended December 24, 2022 and December 25, 2021 was $122,000 and $423,000, respectively, a decrease of $301,000 or 71%. Revenue for the first fiscal quarter of 2023 consisted of $95,000, or 78%, from domestic sources and $27,000, or 22%, from international customers as compared to the same period in fiscal 2022, in which revenue consisted of $343,000 or 81%, from domestic sources and $80,000, or 19%, from international customers. International revenues continued to be impacted by the effects of the Covid-19 pandemic.
+Page 12
+Foreign sales consisted of a shipment to one country during the quarters ended December 24, 2022 and December 25, 2021. A sale is attributed to a foreign country based on the location of the contracting party. Domestic revenue may include the sale of products shipped through domestic resellers or manufacturers to international destinations. The table below summarizes our principal foreign sales by country during the first quarters of fiscal 2023 and 2022:
+2023
+2022
+Saudi Arabia
+$
+27,000
+$
+80,000
+For the three months ended December 24, 2022, revenue was derived from sales of our bulk encryptors to a domestic company amounting to $88,000 and training services to an international company amounting to $27,000.
+For the three months ended December 25, 2021, revenue was derived from sales of our engineering services amounting to $343,000 and shipments of our internet protocol data encryptors amounting to $80,000.
+Gross Profit (Loss)
+Gross loss for the first quarter of fiscal 2023 was $(27,000), compared to gross profit of $67,000 for the same period of fiscal 2022, a decrease of 140%. Gross profit expressed as a percentage of total net revenue was (22%) for the first quarter of fiscal 2023 compared to 16% for the same period in fiscal 2022. This decrease in gross profit expressed as a percentage of total net revenue was primarily due to the very low sales volume fiscal 2023.
+Operating Costs and Expenses
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses for the first quarter of fiscal 2023 were $484,000, compared to $562,000 for the same quarter in fiscal 2022. This decrease of $78,000, or 14%, was attributable to decreases in general and administrative expenses of $22,000 and selling and marketing expenses of $56,000 during the three months ended December 24, 2022.
+The decrease in general and administrative expenses for the three months ended December 24, 2022 was primarily attributable to a decreases in payroll and payroll related expenses of $22,000, audit and legal fees of $14,000 and $13,000 respectively. These decreases were partially offset by increases in outside consulting costs of $15,000 and in certification costs of $10,000 during the quarter.
+The decrease in selling and marketing expenses for the three months ended December 24, 2022 was primarily attributable to decreases in bid and proposal efforts of $16,000, product demonstration costs of $22,000, outside commissions of $13,000, outside consulting costs of $9,000 and travel expenses of $5,000. These decreases were partially offset by an increase in payroll and payroll related expenses of $12,000 during the quarter.
+Product Development Costs
+Product development costs for the quarter ended December 24, 2022 were $277,000, compared to $101,000 for the quarter ended December 25, 2021. This increase of $176,000, or 174%, was attributable to a decrease in billable engineering services contracts during the first quarter of fiscal 2023 that resulted in increased product development costs of $219,000. This increase was partially offset by decreases in payroll and payroll-related expenses of $19,000 and outside consulting costs of $13,000 during the period.
+The Company actively sells its engineering services in support of funded research and development. The receipt of these orders is sporadic, although such programs can span over several months. In addition to these programs, the Company also invests in research and development to enhance its existing products or to develop new products, as it deems appropriate. There was no engineering services revenue generated during the first quarter of fiscal 2023 and $343,000 of engineering services revenue generated during the first quarter of fiscal 2022.
+Page 13
+Product development costs are charged to billable engineering services, bid and proposal efforts or business development activities, as appropriate. Product development costs charged to billable projects are recorded as cost of revenue; engineering costs charged to bid and proposal efforts are recorded as selling expenses; and product development costs charged to business development activities are recorded as marketing expenses.
+Net Loss
+The Company generated a net loss of $849,000 for the first quarter of fiscal 2023, compared to a net loss of $613,000 for the same period of fiscal 2022. This increase in net loss is primarily attributable to a 140% decrease in gross profit, a 270% increase in interest expense and a 15% increase in operating expense during the first quarter of fiscal 2023.
+Liquidity and Capital Resources
+Our cash and cash equivalents at December 24, 2022 totaled $59,000.
+Liquidity and Ability to Continue as a Going Concern
+For the quarter ended December 24, 2022, the Company generated a net loss of $848,600 and for the fiscal years ended September 24, 2022, September 25, 2021 and September 26, 2020, the Company generated net losses of $2,331,139, $1,088,386 and $910,650 and, although the Company generated $631,426 of net income in the fiscal year ended September 28, 2019, the Company suffered recurring losses from operations during the prior seven year period from fiscal 2012 to fiscal 2018. The Company has an accumulated deficit of $7,333,706 at December 24, 2022. These factors continue to raise substantial doubt about the Company's ability to continue as a going concern. Such consolidated financial statements do not include any adjustments to reflect the substantial doubt about the Company’s ability to continue as a going concern.
+On August 4, 2022, the Company issued an amended and restated demand promissory note in the principal amount of up to $4,000,000 in favor of Carl H. Guild, Jr. Mr. Guild, the Company’s Chief Executive Officer, President and Chairman of the Board, loaned the money to the Company to provide working capital. The $4,000,000 consists of $1,000,000 previously loaned to the Company at an interest rate of 6% and $2,000,000 previously loaned to the Company at an interest rate of 7.5% and an additional $1,000,000 at an interest rate of 7.5%. The additional funds will be available to the Company to borrow from Mr. Guild on a revolving basis and the loan has no specified term year and may be prepaid at any time without premium or penalty. The outstanding principal balance at December 24, 2022 was $3,725,000, plus accrued interest of $167,000. An interest payment of $30,000 was made in January of 2022.
+In December 2022 the Company implemented a partial furlough plan for the majority of salaried employees. This plan reduces the workweek to 24 hours and salaries have been reduced commensurately. In January of 2023 the Company reduced the workweek further to 16 hours. With this furlough plan in place we anticipate that our principal sources of liquidity will be sufficient to fund our activities to February 2023. In order to have sufficient cash to fund our operations beyond that point, we will need to secure new customer contracts, raise additional equity or debt capital, and reduce expenses, including payroll and payroll-related expenses through another employee furlough and/or separations.
+In order to have sufficient capital resources to fund operations, the Company has been working diligently to secure several large orders with new and existing customers. The receipt of these orders has been significantly delayed and will continue to be difficult to predict due to the impact of the COVID-19 pandemic on our customers as a result of their operations being reduced or shut down. TCC has been able to maintain its operations during this sustained period of disruption, but a continuation of the disruption in either our customers’ operations or those of the Company will continue to have a material adverse impact on sales activity and revenue.
+Since the start of the pandemic, the Company has been able to secure capital in the form of debt financing to assist with funding its operations. On April 17, 2020, the Company was granted a loan from bankHometown under the U.S. Small Business Administration's, or SBA, Paycheck Protection Program, or PPP, in the principal amount of $474,400. The loan, which was evidenced by a note dated April 17, 2020, was payable over 18 months at an annual interest rate of 1% to the extent not forgiven. The Company used the entire original PPP loan amount for qualifying expenses and the SBA forgave the loan in its entirety on January 11, 2021.
+Page 14
+On February 1, 2021, the Company received a second loan from bankHometown under the PPP as authorized under the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, or the Economic Aid Act. The loan, evidenced by a promissory note, was in the principal amount of $474,405. The Company used the entire second PPP loan amount for qualifying expenses and the loan was forgiven on August 10, 2021 under the provisions of the Economic Aid Act.
+During fiscal year 2020, the Company was granted a loan from the SBA in the principal amount of $150,000 pursuant to the Economic Injury Disaster Loan program. This loan is payable monthly over 30 years at an annual interest rate of 3.75%. Although originally repayable commencing one year after grant, on March 15, 2022 the SBA announced that payments on the SBA Loan would be deferred an additional six months. The Company initiated making monthly payments in December 2022.
+The Company is working diligently to secure additional capital through equity or debt arrangements in addition to the recent funding received from the SBA and Mr. Guild. The Company is actively working with equity investors as well as debt investors, such as the SBA and Mr. Guild to secure additional funding, although we cannot provide assurances we will be able to secure such new funding, especially in light of the tightening of the credit markets and continuing volatility of the capital markets as a result of the coronavirus. Moreover, the Company’s common stock was delisted from the Nasdaq Capital Market effective January 25, 2021; while our common stock is quoted on the OTC Bulletin Board, the change in listing may have a negative impact on the liquidity of the stock and the Company’s ability to raise capital through offerings of its equity securities.
+Should the Company be unsuccessful in these efforts, it would be forced to implement headcount reductions, additional employee furloughs and/or reduced hours for certain employees, or cease operations completely.
+Sources and Uses of Cash
+The following table presents our abbreviated cash flows for the three month periods ended (unaudited):
+December 24,
+2022
+December 25,
+2021
+Net loss
+$
+(849,000
+)
+$
+(613,000
+)
+Changes not affecting cash
+15,000
+13,000
+Changes in assets and liabilities
+161,000
+209,000
+Cash used in operating activities
+(673,000
+)
+(391,000
+)
+Cash provided by financing activities
+725,000
+150,000
+Net change in cash and cash equivalents
+52,000
+(241,000
+)
+Cash and cash equivalents - beginning of period
+7,000
+298,000
+Cash and cash equivalents - end of period
+$
+59,000
+$
+57,000
+Company Facilities
+On April 1, 2014, the Company entered into a lease for its current facilities. This lease is for 22,800 square feet located at 100 Domino Drive, Concord, MA. The Company has been a tenant in this space since 1983. This is the Company’s only facility and houses all manufacturing, research and development, and corporate operations. The initial term of the lease was for five years through March 31, 2019 at an annual rate of $171,000. In addition, the lease contains options to extend the lease for two and one-half years through September 30, 2021 and another two and one-half years through March 31, 2024 at an annual rate of $171,000. In September 2018, the Company exercised its option to extend the term of the lease through September 2021. In March 2021, the Company exercised the second option and the new term will run until March 30, 2024. The lease expense for each of the three month periods ended December 24, 2022 and December 25, 2021 was $43,000.
+Page 15
+Debt Instruments
+On August 4, 2022, the Company issued an amended and restated demand promissory note in the principal amount of up to $4,000,000 in favor of Carl H. Guild, Jr. Mr. Guild, the Company’s Chief Executive Officer, President and Chairman of the Board, loaned the money to the Company to provide working capital. The $4,000,000 consists of $1,000,000 previously loaned to the Company at an interest rate of 6% and $2,000,000 previously loaned to the Company at an interest rate of 7.5% and an additional $1,000,000 at an interest rate of 7.5%. The additional funds will be available to the Company to borrow from Mr. Guild on a revolving basis and the loan has no specified term year and may be prepaid at any time without premium or penalty. The outstanding principal balance at December 24, 2022 was $3,725,000, plus accrued interest of $167,000. An interest payment of $30,000 was made in January of 2022.
+On August 10, 2020, the Company also was granted a loan (the “SBA Loan”) from the SBA in the principal amount of $150,000 pursuant to the Economic Injury Disaster Loan program. The SBA Loan, which is evidenced by a Promissory Note dated August 10, 2020, is payable in monthly installments of $731, including principal and interest, over 30 years at an interest rate of 3.75% per year. The SBA Loan may be prepaid by the Company at any time prior to maturity with no prepayment penalties. The proceeds from this loan must be used solely as working capital to alleviate economic injury caused by the Covid-19 pandemic. Although originally repayable commencing one year after grant, on March 15, 2022 the SBA announced that payments on the SBA Loan would be deferred an additional six months. The Company initiated making monthly payments in December 2022.
+Backlog
+Backlog at December 24, 2022 and September 24, 2022 amounted to $32,000 and $80,000, respectively. The orders in backlog at December 24, 2022 are expected to ship and/or services are expected to be performed over the next nine months depending on customer requirements and product availability.
+Performance guaranties
+Certain foreign customers require the Company to guarantee bid bonds and performance of products sold. These guaranties typically take the form of standby letters of credit. Guaranties are generally required in amounts of 5% to 10% of the purchase price and last in duration from three months to one year. At December 24, 2022 and September 25, 2021, the Company had no outstanding letters of credit.
+Research and development
+Research and development efforts are undertaken by the Company primarily on its own initiative. In order to compete successfully, the Company must improve existing products and develop new products, as well as attract and retain qualified personnel. No assurances can be given that the Company will be able to hire and train such technical management and sales personnel or successfully improve and develop its products.
+During the three month periods ended December 24, 2022 and December 25, 2021 the Company spent $277,000 and $101,000, respectively, on internal product development. The Company also spent $219,000 on billable development efforts during the first three months of fiscal 2022. The Company’s total product development costs during the first three months of fiscal 2023 were consistent with the same period in fiscal 2022 and in line with its planned commitment to research and development, and reflected the costs of custom development, product capability enhancements and production readiness. It is expected that total product development expenses will remain lower until we secure a new billable research and development contract.
+Page 16
+It is anticipated that cash from operations will fund our near-term research and development and marketing activities. We also believe that, in the long term, based on current billable activities, cash from operations will be sufficient to meet the development goals of the Company, although we can give no assurances. Any increase in development activities - either billable or new product related - will require additional resources, which we may not be able to fund through cash from operations. In circumstances where resources will be insufficient, the Company will look to other sources of financing, including debt and/or equity investments; however, we can provide no guarantees that we will be successful in securing such additional financing.
+Other than those stated above, there are no plans for significant internal product development or material commitments for capital expenditures during the remainder of fiscal 2023.
+New Accounting Pronouncements
+Recent accounting pronouncements were issued by the FASB (including its Emerging Issues Task Force) and the SEC during the first three months of the Company’s 2023 fiscal year but such pronouncements are not believed by management to have a material impact on the Company’s present or future financial statements.
+Off-Balance Sheet Arrangements
+The Company does not have any off-balance sheet arrangements.
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+Not applicable.
+Item 4.
+Controls and Procedures
+Evaluation of disclosure controls and procedures.
+The Company’s Chief Executive Officer and Chief Financial Officer have reviewed and evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act, as amended (the “Exchange Act”) as of the end of the period covered by this Annual Report on Form 10-K. Based on that review and evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures are not effective as of December 24, 2022 due to the material weaknesses described below.
+Management ’ s annual report on internal control over financial reporting.
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f) promulgated under the Exchange Act. Under the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer, we conducted an assessment of the effectiveness of our internal control over financial reporting as of December 24, 2022. In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in
+Internal Control — Integrated Framework (2013).
+Based on such an assessment, management concluded that the Company’s internal control over financial reporting was not effective as of December 24, 2022.
+Our internal control over financial reporting is a process designed under the supervision of our Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of our financial statements for external reporting purposes in accordance with U.S. GAAP. Internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with U.S. GAAP, and that receipts and expenditures are being made only in accordance with authorizations of our management and directors; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements.
+Page 17
+Because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluations of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with policies or procedures may deteriorate.
+A goal of the assessment was to determine whether any material weaknesses existed with respect to the Company’s internal control over financial reporting. A “material weakness” is defined as a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of the registrant’s annual or interim financial statements will not be prevented or detected on a timely basis by the Company’s internal controls.
+Based upon that assessment management identified a deficiency that rose to the level of a material weakness in our internal control over financial reporting related to generally accepted accounting principles associated with revenue recognition caused by an error in judgement within the accounting department. The Company identified this material weakness at year end, but remediated those material weaknesses it had identified in prior years, as described below.
+As disclosed in the Company’s periodic and annual reports for prior periods through fiscal year end 2019, management had concluded that the Company did not maintain effective internal control over financial reporting due to material weaknesses in such internal control related to the misapplication of generally accepted accounting principles associated with revenue recognition, inventory reserves, accruals and the preparation of the consolidated financial statements, as well as the classification and disclosure of financial information, all caused by a lack of adequate skills and experience within the accounting department. In addition, management also previously identified a material weakness due to a lack of sufficient staff to segregate accounting duties.
+Nonetheless, management believes that our consolidated financial statements included in this Annual Report on Form 10-K have been prepared in accordance with generally accepted accounting principles. Our Chief Executive Officer and Chief Financial Officer have certified that, based on such officer’s knowledge, the financial statements and other financial information included in this Annual Report on Form 10-K fairly present in all material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in this report. In addition, we initiated a remediation plan for the material weaknesses, described above.
+Our management, with oversight from the Audit Committee, actively engaged in remediating the identified material weaknesses. As part of these remediation efforts management undertook education and training for TCC’s accounting staff and management to address certain core competencies that resulted in the lack of operational effectiveness. Management will continue to assess the design of controls to determine if enhancements are needed to increase effectiveness of our internal control over financial reporting. Management has retained a subject matter expert in the area of income tax accounting and is assessing the need to retain additional subject matter experts to ensure compliance with generally accepted accounting principles and SEC rules and regulations. Both management and the Audit Committee have increased their oversight of non-routine transactions. This includes oversight of large revenue contracts as well as judgement areas, including inventory reserves and accruals. This oversight will contribute to the assessment of the need to retain additional subject matter experts.
+The Company has made significant progress in improving its internal control over financial reporting but remediation efforts are ongoing; the Company’s goal is to have all material weaknesses remediated by the end of its 2023 fiscal year.
+Changes in internal control over financial reporting.
+The changes in the aforementioned internal control over financial reporting and the remediation efforts undertaken as of year-end and undertaken in the first quarter of the Company’s fiscal 2023 have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. No other changes in the Company’s internal control over financial reporting occurred during the first quarter of its 2023 fiscal year.
+Page 18
+PART II. Other Information
+Item 1.
+Legal Proceedings
+There were no material pending legal proceedings to which the Company or its subsidiary was a party or which any of their property was subject during the period covered by this quarterly report.
+Item 1A.
+Risk Factors
+Not applicable.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+Not applicable.
+Item 3.
+Defaults Upon Senior Securities
+Not applicable.
+Item 4.
+Mine Safety Disclosures
+Not applicable.
+Item 5.
+Other Information
+Not applicable.
+Item 6.
+Exhibits
+31.1
+Certification of principal executive officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2
+Certification of principal financial officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32
+Certifications of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS
+XBRL Report Instance Document
+101.SCH
+XBRL Taxonomy Extension Schema Document
+101.CAL
+XBRL Taxonomy Calculation Linkbase Document
+101.LAB
+XBRL Taxonomy Label Linkbase Document
+101.PRE
+XBRL Presentation Linkbase Document
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+Page 19
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+TECHNICAL COMMUNICATIONS CORPORATION
+(Registrant)
+February 7, 2023
+By:
+/s/ Carl H. Guild, Jr.
+Date
+Carl H. Guild, Jr., President and Chief
+Executive Officer
+February 7, 2023
+By:
+/s/ Michael P. Malone
+Date
+Michael P. Malone, Chief Financial Officer
+Page 20

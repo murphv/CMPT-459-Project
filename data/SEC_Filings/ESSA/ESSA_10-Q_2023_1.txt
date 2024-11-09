@@ -1,0 +1,5562 @@
+P90D
+http://fasb.org/us-gaap/2022#GainLossOnSalesOfLoansNet
+http://fasb.org/us-gaap/2022#GainLossOnSalesOfLoansNet
+0.206
+0.35
+http://fasb.org/us-gaap/2022#MarketApproachValuationTechniqueMember
+http://fasb.org/us-gaap/2022#MarketApproachValuationTechniqueMember
+http://fasb.org/us-gaap/2022#MeasurementInputAppraisedValueMember
+http://fasb.org/us-gaap/2022#MeasurementInputAppraisedValueMember
+0.00
+0.35
+0.35
+0.00
+0.206
+0.200
+http://fasb.org/us-gaap/2022#MarketApproachValuationTechniqueMember
+http://fasb.org/us-gaap/2022#MarketApproachValuationTechniqueMember
+http://fasb.org/us-gaap/2022#MeasurementInputAppraisedValueMember
+http://fasb.org/us-gaap/2022#MeasurementInputAppraisedValueMember
+0.00
+0.20
+0.35
+0.00
+http://fasb.org/us-gaap/2022#InterestExpense
+http://fasb.org/us-gaap/2022#InterestExpense
+http://fasb.org/us-gaap/2022#OtherAssets
+http://fasb.org/us-gaap/2022#OtherLiabilities
+http://fasb.org/us-gaap/2022#OtherAssets
+http://fasb.org/us-gaap/2022#OtherLiabilities
+0001382230
+2022-10-01
+2022-12-31
+xbrli:shares
+0001382230
+2023-02-08
+iso4217:USD
+0001382230
+2022-12-31
+0001382230
+2022-09-30
+iso4217:USD
+xbrli:shares
+0001382230
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommonStockMember
+2021-09-30
+0001382230
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-30
+0001382230
+essa:UnallocatedCommonStockHeldByEsopMember
+2021-09-30
+0001382230
+us-gaap:RetainedEarningsMember
+2021-09-30
+0001382230
+us-gaap:TreasuryStockMember
+2021-09-30
+0001382230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-09-30
+0001382230
+2021-09-30
+0001382230
+us-gaap:RetainedEarningsMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:AdditionalPaidInCapitalMember
+2021-10-01
+2021-12-31
+0001382230
+essa:UnallocatedCommonStockHeldByEsopMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommonStockMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:TreasuryStockMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommonStockMember
+2021-12-31
+0001382230
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001382230
+essa:UnallocatedCommonStockHeldByEsopMember
+2021-12-31
+0001382230
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001382230
+us-gaap:TreasuryStockMember
+2021-12-31
+0001382230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-12-31
+0001382230
+2021-12-31
+0001382230
+us-gaap:CommonStockMember
+2022-09-30
+0001382230
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001382230
+essa:UnallocatedCommonStockHeldByEsopMember
+2022-09-30
+0001382230
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001382230
+us-gaap:TreasuryStockMember
+2022-09-30
+0001382230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-09-30
+0001382230
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0001382230
+essa:UnallocatedCommonStockHeldByEsopMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommonStockMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:TreasuryStockMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommonStockMember
+2022-12-31
+0001382230
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001382230
+essa:UnallocatedCommonStockHeldByEsopMember
+2022-12-31
+0001382230
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001382230
+us-gaap:TreasuryStockMember
+2022-12-31
+0001382230
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001382230
+us-gaap:EmployeeStockOptionMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:EmployeeStockOptionMember
+2021-10-01
+2021-12-31
+0001382230
+essa:FannieMaeMember
+2022-12-31
+0001382230
+us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember
+2022-12-31
+0001382230
+essa:GovernmentalNationalMortgageAssociationSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:MortgageBackedSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2022-12-31
+0001382230
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:CorporateDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:OtherDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:DebtSecuritiesMember
+2022-12-31
+0001382230
+essa:FannieMaeMember
+2022-09-30
+0001382230
+us-gaap:MortgageBackedSecuritiesIssuedByUSGovernmentSponsoredEnterprisesMember
+2022-09-30
+0001382230
+essa:GovernmentalNationalMortgageAssociationSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:MortgageBackedSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2022-09-30
+0001382230
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:CorporateDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:OtherDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:DebtSecuritiesMember
+2022-09-30
+essa:Security
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-09-30
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-12-31
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-09-30
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+2022-09-30
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+2022-12-31
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+2022-09-30
+0001382230
+essa:HomeEquityLoansAndLinesOfCreditMember
+2022-12-31
+0001382230
+essa:HomeEquityLoansAndLinesOfCreditMember
+2022-09-30
+0001382230
+us-gaap:AutomobileLoanMember
+2022-12-31
+0001382230
+us-gaap:AutomobileLoanMember
+2022-09-30
+0001382230
+essa:OtherFinancingReceivableMember
+2022-12-31
+0001382230
+essa:OtherFinancingReceivableMember
+2022-09-30
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+us-gaap:ResidentialPortfolioSegmentMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:CommercialPortfolioSegmentMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:AutomobileLoanMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+essa:OtherFinancingReceivableMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+us-gaap:ResidentialPortfolioSegmentMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:CommercialPortfolioSegmentMember
+2022-12-31
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-09-30
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+2022-09-30
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+2022-09-30
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:AutomobileLoanMember
+2022-09-30
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+essa:OtherFinancingReceivableMember
+2022-09-30
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+2022-09-30
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-09-30
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+2022-09-30
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+2022-09-30
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+2022-10-01
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+2022-10-01
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:AutomobileLoanMember
+2022-10-01
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+essa:OtherFinancingReceivableMember
+2022-10-01
+2022-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+2022-10-01
+2022-12-31
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+2022-10-01
+2022-12-31
+0001382230
+essa:HomeEquityLoansAndLinesOfCreditMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:AutomobileLoanMember
+2022-10-01
+2022-12-31
+0001382230
+essa:OtherFinancingReceivableMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+2021-10-01
+2021-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+2021-10-01
+2021-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+us-gaap:AutomobileLoanMember
+2021-10-01
+2021-12-31
+0001382230
+essa:ImpairedLoansWithNoAllowanceRecordedMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:RealEstateLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:ImpairedLoansWithAllowanceRecordedMember
+2021-10-01
+2021-12-31
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+us-gaap:AutomobileLoanMember
+2021-10-01
+2021-12-31
+0001382230
+essa:ImpairedLoansWithAllowanceRecordedMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+2021-10-01
+2021-12-31
+0001382230
+essa:HomeEquityLoansAndLinesOfCreditMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:AutomobileLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:PassMember
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:SpecialMentionMember
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:SubstandardMember
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:PassMember
+us-gaap:CommercialPortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:SpecialMentionMember
+us-gaap:CommercialPortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:SubstandardMember
+us-gaap:CommercialPortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:PassMember
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:PassMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:SpecialMentionMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:SubstandardMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:PassMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:SpecialMentionMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:SubstandardMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+us-gaap:PassMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+us-gaap:SpecialMentionMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+us-gaap:SubstandardMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+us-gaap:PassMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:PassMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:SpecialMentionMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:SubstandardMember
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+essa:CommercialAndMunicipalPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:PerformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:NonperformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-12-31
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:PerformingFinancingReceivableMember
+2022-12-31
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+us-gaap:PerformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+us-gaap:NonperformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:AutomobileLoanMember
+us-gaap:PerformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:AutomobileLoanMember
+us-gaap:NonperformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:AutomobileLoanMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+essa:OtherFinancingReceivableMember
+us-gaap:PerformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+essa:OtherFinancingReceivableMember
+us-gaap:NonperformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+essa:OtherFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:PerformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+us-gaap:NonperformingFinancingReceivableMember
+2022-12-31
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+2022-12-31
+0001382230
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:PerformingFinancingReceivableMember
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:PerformingFinancingReceivableMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:NonperformingFinancingReceivableMember
+essa:HomeEquityLoansAndLinesOfCreditMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+essa:HomeEquityLoansAndLinesOfCreditMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:AutomobileLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:AutomobileLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:AutomobileLoanMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:PerformingFinancingReceivableMember
+essa:OtherFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:NonperformingFinancingReceivableMember
+essa:OtherFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+essa:OtherFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:PerformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:NonperformingFinancingReceivableMember
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:ConsumerPortfolioSegmentMember
+2022-09-30
+0001382230
+us-gaap:UnallocatedFinancingReceivablesMember
+2022-09-30
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2022-10-01
+2022-12-31
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:UnallocatedFinancingReceivablesMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:UnallocatedFinancingReceivablesMember
+2022-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-09-30
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-09-30
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-09-30
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+2021-09-30
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+2021-09-30
+0001382230
+essa:HomeEquityLoansAndLinesOfCreditMember
+2021-09-30
+0001382230
+us-gaap:AutomobileLoanMember
+2021-09-30
+0001382230
+essa:OtherFinancingReceivableMember
+2021-09-30
+0001382230
+us-gaap:UnallocatedFinancingReceivablesMember
+2021-09-30
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-10-01
+2021-12-31
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:UnallocatedFinancingReceivablesMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:ResidentialPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-12-31
+0001382230
+essa:ConstructionPortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-12-31
+0001382230
+us-gaap:CommercialRealEstatePortfolioSegmentMember
+us-gaap:RealEstateLoanMember
+2021-12-31
+0001382230
+us-gaap:CommercialPortfolioSegmentMember
+2021-12-31
+0001382230
+essa:ObligationsOfStatesAndPoliticalSubdivisionsLoanMember
+2021-12-31
+0001382230
+essa:HomeEquityLoansAndLinesOfCreditMember
+2021-12-31
+0001382230
+us-gaap:AutomobileLoanMember
+2021-12-31
+0001382230
+essa:OtherFinancingReceivableMember
+2021-12-31
+0001382230
+us-gaap:UnallocatedFinancingReceivablesMember
+2021-12-31
+essa:Contract
+0001382230
+us-gaap:RealEstateLoanMember
+us-gaap:ResidentialPortfolioSegmentMember
+2021-10-01
+2022-06-30
+0001382230
+essa:TroubledDebtRestructuringsMember
+2021-10-01
+2022-06-30
+0001382230
+essa:TwentyZeroSevenEquityIncentivePlanMember
+2016-03-02
+0001382230
+us-gaap:EmployeeStockOptionMember
+2016-03-01
+2016-03-02
+0001382230
+us-gaap:RestrictedStockMember
+2016-03-01
+2016-03-02
+0001382230
+essa:TwentySixteenEquityIncentivePlanMember
+2022-12-31
+0001382230
+us-gaap:RestrictedStockMember
+srt:MinimumMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:RestrictedStockMember
+srt:MaximumMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:RestrictedStockMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:RestrictedStockMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:RestrictedStockMember
+2022-09-30
+0001382230
+us-gaap:RestrictedStockMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MortgageBackedSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MortgageBackedSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:OtherDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:OtherDebtSecuritiesMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MortgageBackedSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:MortgageBackedSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:USGovernmentAgenciesDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CorporateDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:OtherDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:OtherDebtSecuritiesMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsRecurringMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsNonrecurringMember
+2022-12-31
+0001382230
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0001382230
+us-gaap:FairValueMeasurementsNonrecurringMember
+2022-09-30
+0001382230
+essa:ImpairedLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001382230
+essa:ForeclosedRealEstateOwnedMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+xbrli:pure
+0001382230
+srt:MinimumMember
+essa:ImpairedLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001382230
+srt:MinimumMember
+essa:ForeclosedRealEstateOwnedMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001382230
+srt:MaximumMember
+essa:ImpairedLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001382230
+srt:MaximumMember
+essa:ForeclosedRealEstateOwnedMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001382230
+essa:ImpairedLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0001382230
+essa:ForeclosedRealEstateOwnedMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0001382230
+srt:MinimumMember
+essa:ImpairedLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0001382230
+srt:MinimumMember
+essa:ForeclosedRealEstateOwnedMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0001382230
+srt:MaximumMember
+essa:ImpairedLoansMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0001382230
+srt:MaximumMember
+essa:ForeclosedRealEstateOwnedMember
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+essa:Loan
+0001382230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-12-31
+0001382230
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-12-31
+0001382230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-12-31
+0001382230
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-09-30
+0001382230
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-09-30
+0001382230
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-09-30
+0001382230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2022-09-30
+0001382230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2022-09-30
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2022-09-30
+0001382230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2022-12-31
+0001382230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2022-12-31
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2022-12-31
+0001382230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2021-09-30
+0001382230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2021-09-30
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2021-09-30
+0001382230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2021-12-31
+0001382230
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2021-12-31
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2021-12-31
+0001382230
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:FederalHomeLoanBankAdvancesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-12-31
+0001382230
+us-gaap:CommercialLoanMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-12-31
+0001382230
+us-gaap:FederalHomeLoanBankAdvancesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-09-30
+0001382230
+us-gaap:CommercialLoanMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-09-30
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-09-30
+0001382230
+us-gaap:CashFlowHedgingMember
+us-gaap:InterestRateSwapMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:VariableIncomeInterestRateMember
+essa:BrokeredCertificatesMember
+2022-12-31
+0001382230
+us-gaap:CashFlowHedgingMember
+us-gaap:InterestRateSwapMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:VariableIncomeInterestRateMember
+us-gaap:CommercialLoanMember
+2022-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+us-gaap:InterestRateContractMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+us-gaap:InterestRateContractMember
+2021-10-01
+2021-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2022-10-01
+2022-12-31
+0001382230
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2021-10-01
+2021-12-31
+essa:Plaintiff
+0001382230
+2016-12-07
+2016-12-08
+0001382230
+2019-12-08
+2019-12-09
+0001382230
+2020-05-29
+2020-05-29
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended
+December 31,
+2022
+OR
+☐
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from
+to
+Commission File No.  001-33384
+ESSA Bancorp, Inc.
+(Exact name of registrant as specified in its charter)
+Pennsylvania
+20-8023072
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification Number)
+200 Palmer Street ,
+Stroudsburg ,
+Pennsylvania
+18360
+(Address of Principal Executive Offices)
+(Zip Code)
+( 570 )
+421-0531
+(Registrant’s telephone number)
+N/A
+(Former name or former address, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common
+ESSA
+Nasdaq Stock Market LLC
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports) and (2) has been subject to such requirements for the past 90 days.     Yes  ☒     No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted  pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes   ☒      No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filers,” “accelerated filers,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes   ☐      No  ☒
+As of February 08, 2023, there were
+10,401,870
+shares of the Registrant’s common stock, par value $0.01 per share, outstanding.
+ESSA Bancorp, Inc.
+FORM 10-Q
+Table of Contents
+Page
+Part I. Financial Information
+Item 1.
+Financial Statements (unaudited)
+2
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+33
+Item 3
+Quantitative and Qualitative Disclosures About Market Risk
+40
+Item 4
+Controls and Procedures
+40
+Part II. Other Information
+Item 1.
+Legal Proceedings
+41
+Item 1A.
+Risk Factors
+41
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+41
+Item 3.
+Defaults Upon Senior Securities
+41
+Item 4.
+Mine Safety Disclosures
+41
+Item 5.
+Other Information
+41
+Item 6.
+Exhibits
+42
+Signature Page
+43
+Part I. Financial Information
+Item 1.
+Financial Statements
+ESSA BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED BALANCE SHEET
+(UNAUDITED)
+December 31,
+September 30,
+2022
+2022
+(dollars in thousands)
+ASSETS
+Cash and due from banks
+$
+22,360
+$
+19,970
+Interest-bearing deposits with other institutions
+6,412
+7,967
+Total cash and cash equivalents
+28,772
+27,937
+Investment securities available for sale, at fair value
+205,188
+208,647
+Investment securities held to maturity, at amortized cost
+56,025
+57,285
+Loans receivable (net of allowance for loan losses of $ 18,741
+and $ 18,528 )
+1,504,400
+1,435,783
+Regulatory stock, at cost
+17,104
+14,393
+Premises and equipment, net
+13,105
+13,126
+Bank-owned life insurance
+38,431
+38,240
+Foreclosed real estate
+26
+29
+Intangible assets, net
+234
+281
+Goodwill
+13,801
+13,801
+Deferred income taxes
+5,091
+5,375
+Derivative and hedging assets
+22,510
+24,481
+Other assets
+22,542
+22,439
+TOTAL ASSETS
+$
+1,927,229
+$
+1,861,817
+LIABILITIES
+Deposits
+$
+1,369,984
+$
+1,380,021
+Short-term borrowings
+305,582
+230,810
+Advances by borrowers for taxes and insurance
+12,358
+11,803
+Derivative and hedging liabilties
+8,371
+9,176
+Other liabilities
+14,756
+17,670
+TOTAL LIABILITIES
+1,711,051
+1,649,480
+STOCKHOLDERS’ EQUITY
+Preferred stock ($ 0.01
+par value;
+10,000,000
+shares authorized,
+none
+issued)
+-
+—
+Common stock ($ 0.01
+par value;
+40,000,000
+shares authorized,
+18,133,095
+issued;
+10,401,870
+and
+10,371,022
+outstanding at December 31, 2022 and September 30,
+2022, respectively)
+181
+181
+Additional paid in capital
+182,182
+182,173
+Unallocated common stock held by the Employee Stock Ownership Plan (ESOP)
+( 6,349
+)
+( 6,462
+)
+Retained earnings
+142,542
+139,139
+Treasury stock, at cost;
+7,731,225
+and
+7,762,073
+shares outstanding at
+December 31, 2022 and September 30, 2022, respectively
+( 99,401
+)
+( 99,800
+)
+Accumulated other comprehensive loss
+( 2,977
+)
+( 2,894
+)
+TOTAL STOCKHOLDERS’ EQUITY
+216,178
+212,337
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+$
+1,927,229
+$
+1,861,817
+See accompanying notes to the unaudited consolidated financial statements.
+2
+ESSA BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENT OF OPERATIONS
+(UNAUDITED)
+For the Three Months Ended
+December 31,
+2022
+2021
+(dollars in thousands, except per
+share data)
+INTEREST INCOME
+Loans receivable, including fees
+$
+16,085
+$
+13,259
+Investment securities:
+Taxable
+2,091
+1,011
+Exempt from federal income tax
+11
+19
+Other investment income
+432
+119
+Total interest income
+18,619
+14,408
+INTEREST EXPENSE
+Deposits
+2,001
+846
+Short-term borrowings
+958
+—
+Total interest expense
+2,959
+846
+NET INTEREST INCOME
+15,660
+13,562
+Provision for loan losses
+150
+—
+NET INTEREST INCOME AFTER PROVISION FOR LOAN
+LOSSES
+15,510
+13,562
+NONINTEREST INCOME
+Service fees on deposit accounts
+799
+783
+Services charges and fees on loans
+367
+417
+Loan swap fees
+2
+147
+Unrealized gain on equity securities, net
+2
+1
+Trust and investment fees
+402
+426
+Gain on sale of loans, net
+—
+219
+Earnings on bank-owned life insurance
+191
+193
+Insurance commissions
+146
+147
+Other
+6
+( 5
+)
+Total noninterest income
+1,915
+2,328
+NONINTEREST EXPENSE
+Compensation and employee benefits
+6,740
+6,334
+Occupancy and equipment
+1,046
+1,094
+Professional fees
+1,243
+695
+Data processing
+1,179
+1,180
+Advertising
+186
+93
+Federal Deposit Insurance Corporation (FDIC) premiums
+188
+164
+Amortization of intangible assets
+47
+66
+Other
+805
+678
+Total noninterest expense
+11,434
+10,304
+Income before income taxes
+5,991
+5,586
+Income taxes
+1,125
+973
+NET INCOME
+$
+4,866
+$
+4,613
+Earnings per share
+Basic
+$
+0.50
+$
+0.47
+Diluted
+$
+0.50
+$
+0.47
+Dividends per share
+$
+0.15
+$
+0.12
+See accompanying notes to the unaudited consolidated financial statements.
+3
+ESSA BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+(UNAUDITED)
+For the Three Months Ended
+December 31,
+2022
+2021
+(dollars in thousands)
+Net income
+$
+4,866
+$
+4,613
+Other comprehensive (loss) income
+Investment securities available for sale:
+Unrealized holding gains (losses)
+1,061
+( 1,066
+)
+Tax effect
+( 223
+)
+223
+Net of tax amount
+838
+( 843
+)
+Pension plan:
+Changes in unrealized holding gains
+-
+965
+Tax effect
+-
+( 202
+)
+Reclassification of items recognized in net income
+-
+139
+Tax effect
+-
+( 29
+)
+Net of tax amount
+-
+873
+Derivative and hedging activities adjustments:
+Changes in unrealized holding gains on derivatives included in net income
+668
+2,139
+Tax effect
+( 140
+)
+( 449
+)
+Reclassification adjustment for (gains) losses on derivatives included in net income
+( 1,834
+)
+236
+Tax effect
+385
+( 49
+)
+Net of tax amount
+( 921
+)
+1,877
+Total other comprehensive (loss) income
+( 83
+)
+1,907
+Comprehensive income
+$
+4,783
+$
+6,520
+See accompanying notes to the unaudited consolidated financial statements.
+4
+ESSA BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS’ EQUITY
+(UNAUDITED)
+Unallocated
+Accumulated
+Common Stock
+Additional
+Common
+Other
+Total
+Number of
+Paid In
+Stock Held by
+Retained
+Treasury
+Comprehensive
+Stockholders’
+Shares
+Amount
+Capital
+the ESOP
+Earnings
+Stock
+Income
+Equity
+(dollars in thousands except share data)
+Balance, September 30, 2021
+10,461,443
+$
+181
+$
+181,659
+$
+( 6,915
+)
+$
+124,342
+$
+( 98,127
+)
+$
+682
+$
+201,822
+Net Income
+4,613
+4,613
+Other comprehensive income
+1,907
+1,907
+Cash dividends declared ($ 0.12
+per share)
+( 1,171
+)
+( 1,171
+)
+Stock based compensation
+262
+262
+Allocation of ESOP stock
+76
+113
+189
+Allocation of treasury shares to incentive plan
+27,948
+( 363
+)
+360
+( 3
+)
+Balance, December 31, 2021
+10,489,391
+$
+181
+$
+181,634
+$
+( 6,802
+)
+$
+127,784
+$
+( 97,767
+)
+$
+2,589
+$
+207,619
+Unallocated
+Accumulated
+Common Stock
+Additional
+Common
+Other
+Total
+Number of
+Paid In
+Stock Held by
+Retained
+Treasury
+Comprehensive
+Stockholders’
+Shares
+Amount
+Capital
+the ESOP
+Earnings
+Stock
+Loss
+Equity
+(dollars in thousands except share data)
+Balance, September 30, 2022
+10,371,022
+$
+181
+$
+182,173
+$
+( 6,462
+)
+$
+139,139
+$
+( 99,800
+)
+$
+( 2,894
+)
+$
+212,337
+Net income
+4,866
+4,866
+Other comprehensive loss
+( 83
+)
+( 83
+)
+Cash dividends declared ($ 0.15
+per share)
+( 1,463
+)
+( 1,463
+)
+Stock based compensation
+295
+295
+Allocation of ESOP stock
+117
+113
+230
+Allocation of treasury shares to incentive plan
+30,848
+( 403
+)
+399
+( 4
+)
+Balance, December 31, 2022
+10,401,870
+$
+181
+$
+182,182
+$
+( 6,349
+)
+$
+142,542
+$
+( 99,401
+)
+$
+( 2,977
+)
+$
+216,178
+See accompanying notes to the unaudited consolidated financial statements.
+5
+ESSA BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(UNAUDITED)
+For the Three Months Ended
+December 31,
+2022
+2021
+(dollars in thousands)
+OPERATING ACTIVITIES
+Net income
+$
+4,866
+$
+4,613
+Adjustments to reconcile net income to net cash provided by operating activities:
+Provision for loan losses
+150
+—
+Provision for depreciation and amortization
+277
+264
+Amortization and accretion of discounts and premiums, net
+41
+( 293
+)
+Unrealized gain on equity securities
+( 2
+)
+( 1
+)
+Gain on sale of loans, net
+-
+( 219
+)
+Origination of residential real estate loans for sale
+-
+( 12,539
+)
+Proceeds on sale of residential real estate loans
+-
+12,751
+Compensation expense on ESOP
+230
+189
+Amortization of right-of-use asset
+243
+209
+Stock based compensation
+295
+262
+(Increase) decrease in accrued interest receivable
+( 2,083
+)
+284
+Increase in accrued interest payable
+341
+42
+Earnings on bank-owned life insurance
+( 191
+)
+( 193
+)
+Deferred federal income taxes
+306
+41
+Increase in accrued pension
+( 78
+)
+( 69
+)
+Gain on foreclosed real estate, net
+( 21
+)
+( 31
+)
+Amortization of intangible assets
+47
+66
+Other, net
+( 1,299
+)
+( 1,742
+)
+Net cash provided by operating activities
+3,122
+3,634
+INVESTING ACTIVITIES
+Investment securities available for sale:
+Proceeds from principal repayments and maturities
+5,364
+108,028
+Purchases
+( 1,000
+)
+( 40,853
+)
+Investment securities held to maturity:
+Proceeds from principal repayments and maturities
+1,260
+986
+Purchases
+-
+( 35,250
+)
+(Increase) decrease in loans receivable, net
+( 68,678
+)
+2,033
+Redemption of regulatory stock
+3,295
+212
+Purchase of regulatory stock
+( 6,006
+)
+( 620
+)
+Proceeds from sale of foreclosed real estate
+50
+299
+Purchase of premises, equipment and software
+( 399
+)
+( 274
+)
+Net cash (used for) provided by investing activities
+( 66,114
+)
+34,561
+FINANCING ACTIVITIES
+Decrease in deposits, net
+( 10,037
+)
+( 1,381
+)
+Net increase in short-term borrowings
+74,772
+—
+Increase in advances by borrowers for taxes and insurance
+555
+3,832
+Dividends on common stock
+( 1,463
+)
+( 1,171
+)
+Net cash provided for financing activities
+63,827
+1,280
+Increase in cash and cash equivalents
+835
+39,475
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR
+27,937
+158,946
+CASH AND CASH EQUIVALENTS AT END OF YEAR
+$
+28,772
+$
+198,421
+SUPPLEMENTAL CASH FLOW DISCLOSURES
+Cash Paid:
+Interest
+$
+2,618
+$
+804
+Noncash items:
+Transfers from loans to foreclosed real estate
+26
+-
+Initial recognition of Operating Right-of-Use Asset
+-
+520
+Initial recognition of Operating Right-of-Use Liability
+-
+520
+Unrealized holding losses
+1,061
+( 1,066
+)
+See accompanying notes to the unaudited consolidated financial statements.
+6
+ESSA BANCORP, INC. AND SUBSIDIARY
+Notes to Consolidated Financial Statements
+(unaudited)
+1.
+Nature of Operations and Basis of Presentation
+The consolidated financial statements include the accounts of ESSA Bancorp, Inc. (the “Company”), its wholly owned subsidiary, ESSA Bank & Trust (the “Bank”), and the Bank’s wholly owned subsidiaries, ESSACOR Inc.; Pocono Investments Company; ESSA Advisory Services, LLC; Integrated Financial Corporation; and Integrated Abstract Incorporated, a wholly owned subsidiary of Integrated Financial Corporation. The primary purpose of the Company is to act as a holding company for the Bank. The Bank’s primary business consists of the taking of deposits and granting of loans to customers generally in Monroe, Northampton, Lehigh, Delaware, Chester, Montgomery, Lackawanna, and Luzerne Counties, Pennsylvania. The Bank is a Pennsylvania chartered savings bank and is subject to regulation and supervision by the Pennsylvania Department of Banking and Securities and the Federal Deposit Insurance Corporation (the “FDIC”). The investment in the Bank on the parent company’s financial statements is carried at the parent company’s equity in the underlying net assets.
+ESSACOR, Inc. is a Pennsylvania corporation that has been used to purchase properties at tax sales that represent collateral for delinquent loans of the Bank and is currently inactive. Pocono Investment Company is a Delaware corporation formed as an investment company subsidiary to hold and manage certain investments, including certain intellectual property. ESSA Advisory Services, LLC is a Pennsylvania limited liability company wholly owned by ESSA Bank & Trust. ESSA Advisory Services, LLC is a full-service insurance benefits consulting company offering group services such as health insurance, life insurance, short-term and long-term disability, dental, vision, and 401(k) retirement planning as well as individual health products. Integrated Financial Corporation is a Pennsylvania corporation that provided investment advisory services to the general public and is currently inactive. Integrated Abstract Incorporated is a Pennsylvania corporation that provided title insurance services and is currently inactive. All significant intercompany accounts and transactions have been eliminated in consolidation.
+The unaudited consolidated financial statements reflect all adjustments, which in the opinion of management, are necessary for a fair presentation of the results of the interim periods and are of a normal and recurring nature. Operating results for the three month period ended December 31, 2022 are not necessarily indicative of the results that may be expected for the year ending September 30, 2023.
+2.
+Earnings per Share
+The following table sets forth the composition of the weighted-average common shares (denominator) used in the basic and diluted earnings per share computation for the three month periods ended December 31, 2022 and 2021.
+Three Months Ended
+December 31,
+December 31,
+2022
+2021
+Weighted-average common shares outstanding
+18,133,095
+18,133,095
+Average treasury stock shares
+( 7,734,761
+)
+( 7,643,827
+)
+Average unearned ESOP shares
+( 648,860
+)
+( 673,259
+)
+Average unearned non-vested shares
+( 52,619
+)
+( 56,760
+)
+Weighted average common shares and common stock
+equivalents used to calculate basic earnings per share
+9,696,855
+9,759,249
+Additional common stock equivalents (nonvested stock)
+used to calculate diluted earnings per share
+8,818
+12,297
+Weighted average common shares and common stock
+equivalents used to calculate diluted earnings per share
+9,705,673
+9,771,546
+At December 31, 2022 there were
+no
+shares of nonvested stock outstanding that were not included in the computation of diluted earnings per share. At December 31, 2021 there were
+13,883
+shares of nonvested stock outstanding at an average weighted price of $ 16.17
+per share that were not included in the computation of diluted earnings per share because to do so would have been anti-dilutive.
+7
+3.
+Use of Estimates in the Preparation of Financial Statements
+The accounting principles followed by the Company and its subsidiaries and the methods of applying these principles conform to U.S. generally accepted accounting principles (“GAAP”) and to general practice within the banking industry. In preparing the consolidated financial statements, management is required to make estimates and assumptions that affect the reported amounts of assets and liabilities as of the Consolidated Balance Sheet date and related revenues and expenses for the period. Actual results could differ from those estimates.
+4.
+Accounting Pronouncements
+Recent Accounting Pronouncements
+In June 2016, the FASB issued ASU 2016-13,
+Financial Instruments – Credit Losses: Measurement of Credit Losses on Financial Instruments , which changes the impairment model for most financial assets. This Update is intended to improve financial reporting by requiring timelier recording of credit losses on loans and other financial instruments held by financial institutions and other organizations. The underlying premise of the Update is that financial assets measured at amortized cost should be presented at the net amount expected to be collected, through an allowance for credit losses that is deducted from the amortized cost basis. The allowance for credit losses should reflect management’s current estimate of credit losses that are expected to occur over the remaining life of a financial asset. The income statement will be effected for the measurement of credit losses for newly recognized financial assets, as well as the expected increases or decreases of expected credit losses that have taken place during the period. ASU 2016-13 is effective for annual and interim periods beginning after December 15, 2019, and early adoption is permitted for annual and interim periods beginning after December 15, 2018. With certain exceptions, transition to the new requirements will be through a cumulative effect adjustment to opening retained earnings as of the beginning of the first reporting period in which the guidance is adopted. In November 2019, the FASB issued ASU 2019-10,
+Financial Instruments ‒ Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842) . This Update defers the effective date of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers, and all other companies to fiscal years beginning after December 15, 2022, including interim periods within those fiscal years. We expect to recognize a one-time cumulative effect adjustment to the allowance for loan losses as of the beginning of the first reporting period in which the new standard is effective, but cannot yet determine the magnitude of any such one-time adjustment or the overall impact of the new guidance on the consolidated financial statements.
+In May 2019, the FASB issued ASU 2019-05,
+Financial Instruments – Credit Losses (Topic 326) , which allows entities to irrevocably elect the fair value option for certain financial assets previously measured at amortized cost upon adoption of the new credit losses standard. To be eligible for the transition election, the existing financial asset must otherwise be both within the scope of the new credit losses standard and eligible for applying the fair value option in ASC 825-10.3. The election must be applied on an instrument-by-instrument basis and is not available for either available-for-sale or held-to-maturity debt securities. For entities that elect the fair value option, the difference between the carrying amount and the fair value of the financial asset would be recognized through a cumulative-effect adjustment to opening retained earnings as of the date an entity adopted ASU 2016-13. Changes in fair value of that financial asset would subsequently be reported in current earnings. For entities that have not yet adopted the credit losses standard, the ASU is effective when they implement the credit losses standard. For entities that already have adopted the credit losses standard, the ASU is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. The Company qualifies as a smaller reporting company and does not expect to early adopt ASU 2016-13.
+In November 2019, the FASB issued ASU 2019-11,
+Codification Improvements to Topic 326, Financial Instruments – Credit Losses , to clarify its new credit impairment guidance in ASC 326, based on implementation issues raised by stakeholders. This Update clarified, among other things, that expected recoveries are to be included in the allowance for credit losses for these financial assets; an accounting policy election can be made to adjust the effective interest rate for existing troubled debt restructurings based on the prepayment assumptions instead of the prepayment assumptions applicable immediately prior to the restructuring event; and extends the practical expedient to exclude accrued interest receivable from all additional relevant disclosures involving amortized cost basis. For entities that have not yet adopted ASU 2016-13 as of November 26, 2019, the effective dates for ASU 2019-11 are the same as the effective dates and transition requirements in ASU 2016-13. For entities that have adopted ASU 2016-13, ASU 2019-11 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years.
+The Company qualifies as a smaller reporting company and does not expect to early adopt these ASUs.
+In March 2020, the FASB issued ASU 2020-3 ,
+Codification Improvements to Financial Instruments.
+This ASU was issued to improve and clarify various financial instruments topics, including the current expected credit losses (CECL) standard issued in 2016. The ASU includes seven issues that describe the areas of improvement and the related amendments to GAAP; they are intended to make the standards easier to understand and apply and to eliminate inconsistencies, and they are narrow in scope and are not expected to significantly change practice for most entities. Among its provisions, the ASU clarifies that all entities, other than public business entities that elected the fair value option, are required to provide certain fair value disclosures under ASC 825,
+Financial Instruments , in both interim and annual financial statements. It also clarifies that the contractual term of a net investment in a lease under Topic 842
+8
+should be the contractual term used to measure expected credit losses under Topic 326. Amendments related to ASU 2019-04 are effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Early adoption is not permitted before an entity’s adoption of ASU 2016-01. Amendments related to ASU 2016-13 for entities that have not yet adopted that guidance are effective upon adoption of the amendments in ASU 2016-13. Early adoption is not permitted before an entity’s adoption of ASU 2016-13. Amendments related to ASU 2016-13 for entities that have adopted that guidance are effective for fiscal years beginning after December 15, 2019, including interim periods within those years. Other amendments are effective upon issuance of this ASU. This Update is not expected to have a significant impact on the Company’s financial statements.
+In March 2022, the FASB issued ASU 2022-01 , Derivatives and Hedging (ASC 815): Fair Value Hedging - Portfolio Layer Method . ASC 815 currently permits only prepayable financial assets and one or more beneficial interests secured by a portfolio of prepayable financial instruments to be included in a last-of-layer closed portfolio. The amendments in this Update allow non-prepayable financial assets to also be included in a closed portfolio hedged using the portfolio layer method. That expanded scope permits an entity to apply the same portfolio hedging method to both prepayable and non-prepayable financial assets, thereby allowing consistent accounting for similar hedges. The guidance is effective for public business entities for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2022. The Company is currently evaluating the impact the adoption of the standard will have on the Company’s financial position or results of operations.
+In March 2022, the FASB issued ASU 2022-02,
+Financial Instruments - Credit Losses (ASC 326): Troubled Debt Restructurings (TDRs) and Vintage Disclosures . The guidance amends ASC 326 to eliminate the accounting guidance for TDRs by creditors, while enhancing disclosure requirements for certain loan refinancing and restructuring activities by creditors when a borrower is experiencing financial difficulty. Specifically, rather than applying TDR recognition and measurement guidance, creditors will determine whether a modification results in a new loan or continuation of existing loan. These amendments are intended to enhance existing disclosure requirements and introduce new requirements related to certain modifications of receivables made to borrowers experiencing financial difficulty. Additionally, the amendments to ASC 326 require that an entity disclose current-period gross writeoffs by year of origination within the vintage disclosures, which requires that an entity disclose the amortized cost basis of financing receivables by credit quality indicator and class of financing receivable by year of origination. The guidance is only for entities that have adopted the amendments in Update 2016-13 for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2022. Early adoption using prospective application, including adoption in an interim period where the guidance should be applied as of the beginning of the fiscal year. The Company is currently evaluating the impact the adoption of the standard will have on the Company’s financial position or results of operations.
+5.
+Investment Securities
+The amortized cost, gross unrealized gains and losses, and fair value of investment securities are summarized as follows (in thousands):
+December 31, 2022
+Amortized
+Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+Fair Value
+Available for Sale
+Fannie Mae
+$
+59,136
+$
+2
+$
+( 4,622
+)
+$
+54,516
+Freddie Mac
+52,276
+—
+( 3,908
+)
+48,368
+Governmental National Mortgage Association
+5,134
+—
+( 269
+)
+4,865
+Total mortgage-backed securities
+116,546
+2
+( 8,799
+)
+107,749
+Obligations of states and political subdivisions
+10,810
+—
+( 852
+)
+9,958
+U.S. government agency securities
+9,519
+—
+( 181
+)
+9,338
+Corporate obligations
+76,594
+1
+( 6,041
+)
+70,554
+Other debt securities
+8,229
+1
+( 641
+)
+7,589
+Total
+$
+221,698
+$
+4
+$
+( 16,514
+)
+$
+205,188
+Held to Maturity
+Fannie Mae
+$
+29,891
+$
+-
+$
+( 4,561
+)
+$
+25,330
+Freddie Mac
+23,694
+-
+( 3,734
+)
+19,960
+Total mortgage-backed securities
+53,585
+-
+( 8,295
+)
+45,290
+U.S. government agency securities
+2,440
+-
+( 477
+)
+1,963
+Total
+$
+56,025
+$
+-
+$
+( 8,772
+)
+$
+47,253
+9
+September 30, 2022
+Amortized
+Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+Fair Value
+Available for sale
+Fannie Mae
+$
+61,118
+$
+1
+$
+( 5,432
+)
+$
+55,687
+Freddie Mac
+53,842
+-
+( 4,532
+)
+49,310
+Governmental National Mortgage Association securities
+5,411
+-
+( 248
+)
+5,163
+Total mortgage-backed securities
+120,371
+1
+( 10,212
+)
+110,160
+Obligations of states and political subdivisions
+10,815
+-
+( 895
+)
+9,920
+U.S. government agency securities
+9,530
+-
+( 200
+)
+9,330
+Corporate obligations
+76,692
+14
+( 5,587
+)
+71,119
+Other debt securities
+8,810
+2
+( 694
+)
+8,118
+Total debt securities
+$
+226,218
+$
+17
+$
+( 17,588
+)
+$
+208,647
+Held to maturity
+Fannie Mae
+$
+30,659
+$
+-
+$
+( 5,127
+)
+$
+25,532
+Freddie Mac
+24,187
+-
+( 4,142
+)
+20,045
+Total
+54,846
+-
+( 9,269
+)
+45,577
+U.S. government agency securities
+2,439
+-
+( 470
+)
+1,969
+Total debt securities
+$
+57,285
+$
+-
+$
+( 9,739
+)
+$
+47,546
+The following is a summary of unrealized and realized gains and losses recognized in net income on equity securities during the three months ended December 31, 2022 and 2021.
+(in thousands)
+Three Months Ended December 31, 2022
+Three Months Ended December 31, 2021
+Net gains recognized during the period on equity securities
+$
+2
+$
+1
+Less: Net gains recognized during the period on equity securities sold
+during the period
+-
+-
+Unrealized gains recognized during the reporting period on equity
+securities still held at the reporting date
+$
+2
+$
+1
+The amortized cost and fair value of debt securities at December 31, 2022, by contractual maturity, are shown below. Expected maturities will differ from contractual maturities because borrowers may have the right to call or prepay obligations with or without call or prepayment penalties (in thousands):
+Available For Sale
+Held to Maturity
+Amortized
+Cost
+Fair Value
+Amortized
+Cost
+Fair Value
+Due in one year or less
+$
+8,239
+$
+8,163
+$
+—
+$
+—
+Due after one year through five years
+35,435
+33,678
+—
+—
+Due after five years through ten years
+70,875
+64,527
+7,708
+6,626
+Due after ten years
+107,149
+98,820
+48,317
+40,627
+Total
+$
+221,698
+$
+205,188
+$
+56,025
+$
+47,253
+For the three months ended December 31, 2022 and 2021, the Company realized
+no
+gross gains or gross losses on proceeds from the sale on investment securities.
+10
+The following tables show the Company’s gross unrealized losses and fair value, aggregated by investment category and length of time that the individual securities have been in a continuous unrealized loss position (dollars in thousands):
+December 31, 2022
+Number of
+Securities
+Less than Twelve
+Months
+Twelve Months or
+Greater
+Total
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fannie Mae
+74
+$
+48,289
+$
+( 4,482
+)
+$
+29,433
+$
+( 4,701
+)
+$
+77,722
+$
+( 9,183
+)
+Freddie Mac
+63
+46,833
+( 3,961
+)
+21,495
+( 3,681
+)
+68,328
+( 7,642
+)
+Governmental National Mortgage Association
+13
+2,769
+( 205
+)
+2,096
+( 64
+)
+4,865
+( 269
+)
+U.S. government agency securities
+4
+9,338
+( 182
+)
+1,963
+( 476
+)
+11,301
+( 658
+)
+Obligations of states and political subdivisions
+12
+9,958
+( 852
+)
+-
+-
+9,958
+( 852
+)
+Corporate obligations
+88
+41,161
+( 2,751
+)
+27,392
+( 3,290
+)
+68,553
+( 6,041
+)
+Other debt securities
+17
+2,864
+( 273
+)
+4,147
+( 368
+)
+7,011
+( 641
+)
+Total
+271
+$
+161,212
+$
+( 12,706
+)
+$
+86,526
+$
+( 12,580
+)
+$
+247,738
+$
+( 25,286
+)
+September 30, 2022
+Less than Twelve
+Months
+Twelve Months or Greater
+Total
+Number of
+Securities
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fair
+Value
+Gross
+Unrealized
+Losses
+Fannie Mae
+74
+$
+67,101
+$
+( 8,344
+)
+$
+13,759
+$
+( 2,215
+)
+$
+80,860
+$
+( 10,559
+)
+Freddie Mac
+63
+59,954
+( 6,868
+)
+9,401
+( 1,806
+)
+69,355
+( 8,674
+)
+Governmental National Mortgage
+Association securities
+13
+2,924
+( 194
+)
+2,182
+( 54
+)
+5,106
+( 248
+)
+Obligations of states and political subdivisions
+12
+9,920
+( 895
+)
+-
+-
+9,920
+( 895
+)
+U.S. government agency securities
+4
+11,299
+( 670
+)
+-
+-
+11,299
+( 670
+)
+Corporate obligations
+88
+49,333
+( 3,394
+)
+19,773
+( 2,193
+)
+69,106
+( 5,587
+)
+Other debt securities
+17
+5,764
+( 610
+)
+1,759
+( 84
+)
+7,523
+( 694
+)
+Total
+271
+$
+206,295
+$
+( 20,975
+)
+$
+46,874
+$
+( 6,352
+)
+$
+253,169
+$
+( 27,327
+)
+The Company’s investment securities portfolio contains unrealized losses on securities, including mortgage-related instruments issued or backed by the full faith and credit of the United States government, or generally viewed as having the implied guarantee of the U.S. government, other mortgage backed securities, debt obligations of a U.S. state or political subdivision, U.S. government agency securities, corporate obligations, other debt securities and equity securities.
+The Company reviews its position quarterly and has asserted that at December 31, 2022, the declines outlined in the above table represent temporary declines and the Company would not be required to sell the above securities before their anticipated recovery in market value.
+The Company has concluded that any impairment of its investment securities portfolio is not other than temporary but is the result of interest rate changes that are not expected to result in the non-collection of principal and interest during the period.
+11
+6.
+Loans Receivable, Net and Allowance for Loan Losses
+Loans receivable consist of the following (in thousands):
+December 31, 2022
+September 30, 2022
+Real estate loans:
+Residential
+$
+657,192
+$
+623,375
+Construction
+26,594
+25,024
+Commercial
+707,134
+678,841
+Commercial
+44,960
+38,158
+Obligations of states and political subdivisions
+39,312
+40,416
+Home equity loans and lines of credit
+43,687
+43,170
+Auto loans
+2,401
+3,611
+Other
+1,861
+1,716
+1,523,141
+1,454,311
+Less allowance for loan losses
+18,741
+18,528
+Net loans
+$
+1,504,400
+$
+1,435,783
+The following tables show the amount of loans in each category that were individually and collectively evaluated for impairment at the dates indicated (in thousands):
+Total Loans
+Individually
+Evaluated for
+Impairment
+Collectively
+Evaluated for
+Impairment
+December 31, 2022
+Real estate loans:
+Residential
+$
+657,192
+$
+1,289
+$
+655,903
+Construction
+26,594
+-
+26,594
+Commercial
+707,134
+12,097
+695,037
+Commercial
+44,960
+927
+44,033
+Obligations of states and political subdivisions
+39,312
+-
+39,312
+Home equity loans and lines of credit
+43,687
+34
+43,653
+Auto loans
+2,401
+13
+2,388
+Other
+1,861
+5
+1,856
+Total
+$
+1,523,141
+$
+14,365
+$
+1,508,776
+Total Loans
+Individually
+Evaluated for
+Impairment
+Collectively
+Evaluated for
+Impairment
+September 30, 2022
+Real estate loans:
+Residential
+$
+623,375
+$
+1,342
+$
+622,033
+Construction
+25,024
+-
+25,024
+Commercial
+678,841
+12,165
+666,676
+Commercial
+38,158
+937
+37,221
+Obligations of states and political subdivisions
+40,416
+-
+40,416
+Home equity loans and lines of credit
+43,170
+36
+43,134
+Auto loans
+3,611
+16
+3,595
+Other
+1,716
+6
+1,710
+Total
+$
+1,454,311
+$
+14,502
+$
+1,439,809
+The Company maintains a loan review system that allows for a periodic review of our loan portfolio and the early identification of potential impaired loans. Such system takes into consideration, among other things, delinquency status, size of loans, type and market value of collateral and financial condition of the borrowers. Specific loan loss allowances are established for identified losses based on a review of such information. A loan evaluated for impairment is considered to be impaired when, based on current information and events, it is probable that we will be unable to collect all amounts due according to the contractual terms of the loan agreement. All loans identified as impaired are evaluated independently. The Company does not aggregate such loans for evaluation
+12
+purposes. Impairment is measured on a loan-by-loan basis for commercial and construction loans by the present value of expected future cash flows discounted at the loan’s effective interest rate, the loan’s obtainable market price, or the fair value of the collateral if the loan is collateral-dependent.
+Large groups of smaller balance homogeneous loans are collectively evaluated for impairment. Accordingly, the Company does not separately identify individual consumer and residential mortgage loans for impairment disclosures, unless such loans are part of a larger relationship that is impaired or are classified as a troubled debt restructuring (“TDR”).
+A loan is considered to be a TDR loan when the Company grants a concession to the borrower that it would not otherwise consider because of the borrower’s financial condition. Such concessions include the reduction of interest rates, forgiveness of principal or interest, or other modifications of interest rates that are less than the current market rate for new obligations with similar risk. TDR loans that are in compliance with their modified terms and that yield a market rate at the time of modification may be removed from TDR status after one year of performance.
+The following tables include the recorded investment and unpaid principal balances for impaired loans with the associated allowance amount at the dates indicated, if applicable (in thousands):
+Recorded
+Investment
+Unpaid
+Principal
+Balance
+Associated
+Allowance
+December 31, 2022
+With no specific allowance recorded:
+Real estate loans
+Residential
+$
+1,187
+$
+1,956
+$
+-
+Construction
+-
+-
+-
+Commercial
+7,389
+8,043
+-
+Commercial
+369
+409
+-
+Obligations of states and political subdivisions
+-
+-
+-
+Home equity loans and lines of credit
+34
+67
+-
+Auto loans
+13
+19
+-
+Other
+5
+19
+-
+Total
+8,997
+10,513
+-
+With an allowance recorded:
+Real estate loans
+Residential
+102
+106
+11
+Construction
+-
+-
+-
+Commercial
+4,708
+4,864
+420
+Commercial
+558
+572
+249
+Obligations of states and political subdivisions
+-
+-
+-
+Home equity loans and lines of credit
+-
+-
+-
+Auto loans
+-
+-
+-
+Other
+-
+-
+-
+Total
+5,368
+5,542
+680
+Total:
+Real estate loans
+Residential
+1,289
+2,062
+11
+Construction
+-
+-
+-
+Commercial
+12,097
+12,907
+420
+Commercial
+927
+981
+249
+Obligations of states and political subdivisions
+-
+-
+-
+Home equity loans and lines of credit
+34
+67
+-
+Auto loans
+13
+19
+-
+Other
+5
+19
+-
+Total Impaired Loans
+$
+14,365
+$
+16,055
+$
+680
+13
+Recorded
+Investment
+Unpaid
+Principal
+Balance
+Associated
+Allowance
+September 30, 2022
+With no specific allowance recorded:
+Real Estate Loans
+Residential
+$
+1,239
+$
+2,029
+$
+-
+Construction
+-
+-
+-
+Commercial
+8,384
+8,987
+-
+Commercial
+865
+905
+-
+Obligations of states and political subdivisions
+-
+-
+-
+Home equity loans and lines of credit
+36
+68
+-
+Auto Loans
+16
+28
+-
+Other
+6
+19
+-
+Total
+10,546
+12,036
+-
+With an allowance recorded:
+Real Estate Loans
+Residential
+103
+108
+12
+Construction
+-
+-
+-
+Commercial
+3,781
+3,928
+301
+Commercial
+72
+83
+38
+Obligations of states and political subdivisions
+-
+-
+-
+Home equity loans and lines of credit
+-
+-
+-
+Auto Loans
+-
+-
+-
+Other
+-
+-
+-
+Total
+3,956
+4,119
+351
+Total:
+Real Estate Loans
+Residential
+1,342
+2,137
+12
+Construction
+-
+-
+-
+Commercial
+12,165
+12,915
+301
+Commercial
+937
+988
+38
+Obligations of states and political subdivisions
+-
+-
+-
+Home equity loans and lines of credit
+36
+68
+-
+Auto Loans
+16
+28
+-
+Other
+6
+19
+-
+Total Impaired Loans
+$
+14,502
+$
+16,155
+$
+351
+14
+The following tables represents the average recorded investments in the impaired loans and the related amount of interest recognized during the time within the period that the impaired loans were impaired (in thousands):
+For the Three Months Ended December 31,
+2022
+2021
+2022
+2021
+Average
+Recorded
+Investment
+Average
+Recorded
+Investment
+Interest
+Income
+Recognized
+Interest
+Income
+Recognized
+With no specific allowance recorded:
+Real estate loans
+Residential
+$
+1,216
+$
+2,292
+$
+1
+$
+2
+Construction
+-
+-
+-
+-
+Commercial
+10,563
+11,049
+-
+-
+Commercial
+699
+109
+-
+-
+Obligations of states and political subdivisions
+-
+-
+-
+-
+Home equity loans and lines of credit
+35
+310
+-
+-
+Auto loans
+6
+23
+-
+-
+Other
+5
+-
+-
+-
+Total
+12,524
+13,783
+1
+2
+With an allowance recorded:
+Real estate loans
+Residential
+103
+118
+-
+-
+Construction
+-
+-
+-
+-
+Commercial
+1,570
+13
+-
+-
+Commercial
+231
+1,173
+-
+-
+Obligations of states and political subdivisions
+-
+-
+-
+-
+Home equity loans and lines of credit
+-
+-
+-
+-
+Auto loans
+-
+10
+-
+-
+Other
+-
+-
+-
+-
+Total
+1,904
+1,314
+-
+-
+Total:
+Real estate loans
+Residential
+1,319
+2,410
+1
+2
+Construction
+-
+-
+-
+-
+Commercial
+12,133
+11,062
+-
+-
+Commercial
+930
+1,282
+-
+Obligations of states and political subdivisions
+-
+-
+-
+-
+Home equity loans and lines of credit
+35
+310
+-
+-
+Auto loans
+6
+33
+-
+-
+Other
+5
+-
+-
+-
+Total Impaired Loans
+$
+14,428
+$
+15,097
+$
+1
+$
+2
+15
+The Company uses a ten-point internal risk-rating system to monitor the credit quality of the overall loan portfolio. The first
+six
+categories are considered not criticized and are aggregated as Pass-rated. The criticized rating categories utilized by management generally follow bank regulatory definitions. The Special Mention category includes assets that are fundamentally sound yet exhibit potentially unacceptable credit risk or deteriorating trends or characteristics which, if left uncorrected, may result in deterioration of the repayment prospects for the asset or in the Company’s credit position at some future date. Loans in the Substandard category have well-defined weaknesses that jeopardize the liquidation of the debt and have a distinct possibility that some loss will be sustained if the weaknesses are not corrected. All loans that are 90 or more days past due are considered Substandard. Loans in the Doubtful category have all the weaknesses inherent in loans classified as Substandard with the added characteristic that their weaknesses make collection or liquidation in full, on the basis of currently existing facts, conditions, and values, highly questionable and improbable. Loans in the Loss category are considered uncollectible and of little value that their continuance as bankable assets is not warranted. Certain residential real estate loans, construction loans, home equity loans and lines of credit, auto loans and other consumer loans are underwritten and structured using standardized criteria and characteristics, primarily payment performance, and are normally risk rated and monitored collectively on a monthly basis. These are typically loans to individuals in the consumer categories and are delineated as either performing or non-performing.
+To help ensure that risk ratings are accurate and reflect the present and future capacity of borrowers to repay a loan as agreed, the Bank has a structured loan rating process with several layers of internal and external oversight. Generally, consumer and residential mortgage loans are included in the Pass categories unless a specific action, such as bankruptcy, repossession, or death occurs to raise awareness of a possible credit event. The Bank’s commercial loan officers are responsible for the timely and accurate risk rating recommendation for the loans in their portfolios at origination and on an ongoing basis. The Bank’s commercial loan officers perform an annual review of all commercial relationships $ 750,000
+or greater. Confirmation of the appropriate risk grade is included in the review on an ongoing basis. The Bank engages an external consultant to conduct loan reviews on at least a semi-annual basis. Generally, the external consultant reviews commercial relationships greater than $ 1,000,000
+and/or all criticized relationships. Detailed reviews, including plans for resolution, are performed on loans classified as Substandard on a quarterly basis. Loans in the Special Mention and Substandard categories that are collectively evaluated for impairment are given separate consideration in the determination of the allowance.
+The following tables present the classes of the loan portfolio summarized by the aggregate Pass and the criticized categories of Special Mention, Substandard, and Doubtful or Loss within the internal risk rating system at December 31, 2022 and September 30, 2022 (in thousands):
+Pass
+Special
+Mention
+Substandard
+Doubtful
+or Loss
+Total
+December 31, 2022
+Commercial real estate loans
+$
+689,492
+$
+3,230
+$
+14,412
+$
+-
+$
+707,134
+Commercial
+41,662
+1,674
+1,624
+-
+44,960
+Obligations of states and political subdivisions
+39,312
+-
+-
+-
+39,312
+Total
+$
+770,466
+$
+4,904
+$
+16,036
+$
+-
+$
+791,406
+Pass
+Special
+Mention
+Substandard
+Doubtful
+or Loss
+Total
+September 30, 2022
+Commercial real estate loans
+$
+659,104
+$
+6,060
+$
+13,677
+$
+-
+$
+678,841
+Commercial
+35,322
+1,690
+1,146
+-
+38,158
+Obligations of states and political subdivisions
+40,416
+-
+-
+-
+40,416
+Total
+$
+734,842
+$
+7,750
+$
+14,823
+$
+-
+$
+757,415
+16
+All other loans are underwritten and structured using standardized criteria and characteristics, primarily payment performance, and are normally risk rated and monitored collectively on a monthly basis. These are typically loans to individuals in the consumer categories and are delineated as either performing or non-performing.
+The following tables present the risk ratings in the consumer categories of performing and non-performing loans at December 31, 2022 and September 30, 2022 (in thousands):
+Performing
+Non-
+performing
+Total
+December 31, 2022
+Real estate loans:
+Residential
+$
+655,703
+$
+1,489
+$
+657,192
+Construction
+26,594
+-
+26,594
+Home equity loans and lines of credit
+43,566
+121
+43,687
+Auto loans
+2,384
+17
+2,401
+Other
+1,856
+5
+1,861
+Total
+$
+730,103
+$
+1,632
+$
+731,735
+Performing
+Non-
+performing
+Total
+September 30, 2022
+Real estate loans:
+Residential
+$
+621,781
+$
+1,594
+$
+623,375
+Construction
+25,024
+-
+25,024
+Home equity loans and lines of credit
+42,832
+338
+43,170
+Auto loans
+3,590
+21
+3,611
+Other
+1,710
+6
+1,716
+Total
+$
+694,937
+$
+1,959
+$
+696,896
+17
+The Company further monitors the performance and credit quality of the loan portfolio by analyzing the age of the portfolio as determined by the length of time a recorded payment is past due.  The following tables present the classes of the loan portfolio summarized by the aging categories of performing loans, purchased credit impaired loans and nonaccrual loans as of December 31, 2022 and September 30, 2022 (in thousands):
+31-60 Days
+61-89 Days
+90 + Days
+Total
+Total
+Current
+Past Due
+Past Due
+Past Due
+Past Due
+Loans
+December 31, 2022
+Real estate loans:
+Residential
+$
+654,869
+$
+754
+$
+311
+$
+1,258
+$
+2,323
+$
+657,192
+Construction
+26,594
+-
+-
+-
+-
+26,594
+Commercial
+697,592
+478
+-
+9,064
+9,542
+707,134
+Commercial
+43,930
+493
+1
+536
+1,030
+44,960
+Obligations of states and political subdivisions
+39,312
+-
+-
+-
+-
+39,312
+Home equity loans and lines of credit
+43,460
+-
+140
+87
+227
+43,687
+Auto loans
+2,335
+55
+7
+4
+66
+2,401
+Other
+1,830
+-
+31
+-
+31
+1,861
+Total
+$
+1,509,922
+$
+1,780
+$
+490
+$
+10,949
+$
+13,219
+$
+1,523,141
+31-60 Days
+61-89 Days
+90 + Days
+Total
+Total
+Current
+Past Due
+Past Due
+Past Due
+Past Due
+Loans
+September 30, 2022
+Real estate loans:
+Residential
+$
+621,270
+$
+598
+$
+367
+$
+1,140
+$
+2,105
+$
+623,375
+Construction
+25,024
+-
+-
+-
+-
+25,024
+Commercial
+672,875
+5,719
+-
+247
+5,966
+678,841
+Commercial
+37,160
+539
+440
+19
+998
+38,158
+Obligations of states and political subdivisions
+40,416
+-
+-
+-
+-
+40,416
+Home equity loans and lines of credit
+42,842
+121
+144
+63
+328
+43,170
+Auto loans
+3,462
+134
+2
+13
+149
+3,611
+Other
+1,685
+-
+31
+-
+31
+1,716
+Total
+$
+1,444,734
+$
+7,111
+$
+984
+$
+1,482
+$
+9,577
+$
+1,454,311
+Non-Accrual Loans
+December 31, 2022
+September 30, 2022
+Real estate loans:
+Residential
+$
+1,489
+$
+1,594
+Construction
+-
+-
+Commercial
+12,097
+12,165
+Commercial
+1,094
+958
+Obligations of states and
+political subdivisions
+-
+-
+Home equity loans and lines of
+credit
+121
+338
+Auto loans
+17
+21
+Other
+5
+6
+Total
+$
+14,823
+$
+15,082
+There are
+no
+loans greater than 90 days past due that are accruing interest.
+The allowance for loan losses is maintained at a level necessary to absorb loan losses that are both probable and reasonably estimable. Management, in determining the allowance for loan losses, considers the losses inherent in its loan portfolio and changes in the nature and volume of loan activities, along with the general economic and real estate market conditions. The allowance for loan losses consists of two elements: (1) an allocated allowance, which comprises allowances established on specific loans and class allowances based on historical loss experience and current trends, and (2) an unallocated allowance based on general economic conditions and other risk factors in our markets and portfolios. We maintain a loan review system, which allows for a periodic review of our loan portfolio and the early identification of potential impaired loans. Such system takes into consideration, among other things, delinquency status, size of loans, type and market value of collateral and financial condition of the borrowers. General loan loss allowances are based upon a combination of factors including, but not limited to, actual loan loss experience, composition of the loan portfolio, current economic conditions, management’s judgment and losses which are probable and reasonably estimable.  The allowance is increased through provisions charged against current earnings and recoveries of previously charged-off loans. Loans that are determined to be uncollectible are charged against the allowance. While management uses available information to recognize probable and reasonably estimable loan losses, future loss provisions may be necessary, based on changing economic conditions. Payments received on impaired loans generally
+18
+are either applied against principal or reported as interest income, according to management’s judgment as to the collectability of principal. The allowance for loan losses as of
+December 31 ,
+2022
+was maintained at a level that represents management’s best estimate of losses inherent in the loan portfolio, and such losses were both probable and reasonably estimable.
+In addition, the FDIC and the Pennsylvania Department of Banking and Securities, as an integral part of their examination process, have periodically reviewed our allowance for loan losses. The banking regulators may require that we recognize additions to the allowance based on its analysis and review of information available to it at the time of its examination.
+Management reviews the loan portfolio on a quarterly basis using a defined, consistently applied process in order to make appropriate and timely adjustments to the allowance for loan losses (“ALL”). When information confirms all or part of specific loans to be uncollectible, these amounts are promptly charged off against the ALL.
+The following table summarizes changes in the primary segments of the ALL during the three months ended December 31, 2022 and 2021 (in thousands):
+Home
+Obligations of
+Equity
+States and
+Loans and
+Real Estate Loans
+Commercial
+Political
+Lines of
+Other
+Residential
+Construction
+Commercial
+Loans
+Subdivisions
+Credit
+Auto Loans
+Loans
+Unallocated
+Total
+ALL balance at September 30, 2022
+$
+5,122
+$
+319
+$
+10,754
+$
+698
+$
+283
+$
+361
+$
+22
+$
+22
+$
+947
+$
+18,528
+Charge-offs
+-
+-
+-
+-
+-
+-
+( 21
+)
+-
+-
+( 21
+)
+Recoveries
+2
+-
+1
+-
+-
+51
+30
+-
+-
+84
+Provision
+162
+9
+439
+350
+( 8
+)
+( 40
+)
+( 17
+)
+-
+( 745
+)
+150
+ALL balance at December 31, 2022
+$
+5,286
+$
+328
+$
+11,194
+$
+1,048
+$
+275
+$
+372
+$
+14
+$
+22
+$
+202
+$
+18,741
+ALL balance at September 30, 2021
+$
+4,114
+$
+187
+$
+10,470
+$
+1,041
+$
+393
+$
+318
+$
+232
+$
+21
+$
+1,337
+$
+18,113
+Charge-offs
+( 6
+)
+-
+-
+-
+-
+-
+( 6
+)
+-
+-
+( 12
+)
+Recoveries
+72
+-
+1
+-
+-
+2
+34
+-
+-
+109
+Provision
+( 82
+)
+54
+136
+183
+( 128
+)
+( 23
+)
+( 64
+)
+-
+( 76
+)
+-
+ALL balance at December 31, 2021
+$
+4,098
+$
+241
+$
+10,607
+$
+1,224
+$
+265
+$
+297
+$
+196
+$
+21
+$
+1,261
+$
+18,210
+During the three months ended December 31, 2022, the Company recorded provision expense for the residential real estate loans, construction real estate loans, commercial real estate loans and commercial loans segments due to either increased loan balances, changes in the loan mix within the pool, and/or charge-off activity in those segments. Credit provisions were recorded for loan loss for the obligations of states and political subdivisions, home equity loans and lines of credit and auto loans due to either decreased loan balances, improved asset quality, changes in the loan mix within the pool, and/or decreased charge-off activity in those segments.
+During the three months ended December 31, 2021, the Company recorded provision expense for the construction real estate loans, commercial real estate loans and commercial loans segments, due to either increased loan balances, changes in the loan mix within the pool, and/or charge-off activity in those segments. Provision expense was also recorded for possible loan losses due to the economic slowdown caused by COVID-19 restrictions. Credit provisions were recorded for loan loss for the residential real estate loans, obligations of states and political subdivisions, home equity loans and lines of credit and auto loans segments due to either decreased loan balances, changes in the loan mix within the pool, and/or decreased charge-off activity in those segments.
+19
+The following table summarizes the primary segments of the ALL, segregated into two categories, the amount required for loans individually evaluated for impairment and the amount required for loans collectively evaluated for impairment as of December 31, 2022 and September 30, 2022 (in thousands):
+Home
+Obligations of
+Equity
+States and
+Loans and
+Real Estate Loans
+Commercial
+Political
+Lines of
+Other
+Residential
+Construction
+Commercial
+Loans
+Subdivisions
+Credit
+Auto Loans
+Loans
+Unallocated
+Total
+Individually
+evaluated for
+impairment
+$
+11
+$
+-
+$
+420
+$
+249
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+680
+Collectively
+evaluated for
+impairment
+5,275
+328
+10,774
+799
+275
+372
+14
+22
+202
+18,061
+ALL balance at December 31, 2022
+$
+5,286
+$
+328
+$
+11,194
+$
+1,048
+$
+275
+$
+372
+$
+14
+$
+22
+$
+202
+$
+18,741
+Individually
+evaluated for
+impairment
+$
+12
+$
+-
+$
+301
+$
+38
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+351
+Collectively
+evaluated for
+impairment
+5,110
+319
+10,453
+660
+283
+361
+22
+22
+947
+18,177
+ALL balance at September 30, 2022
+$
+5,122
+$
+319
+$
+10,754
+$
+698
+$
+283
+$
+361
+$
+22
+$
+22
+$
+947
+$
+18,528
+The allowance for loan losses is based on estimates, and actual losses will vary from current estimates. Management believes that the granularity of the homogeneous pools and the related historical loss ratios and other qualitative factors, as well as the consistency in the application of assumptions, result in an ALL that is representative of the risk found in the components of the portfolio at any given date. Despite the above allocations, the allowance for loan losses is general in nature and is available to absorb losses from any loan segment.
+There were
+no
+new troubled debt restructurings granted during the three months ended December 31, 2021.
+The following is a summary of troubled debt restructuring granted during the three months ended December 31, 2022 (dollars in thousands):
+For the Three Months Ended December 31, 2022
+Number of
+Contracts
+Pre-Modification
+Outstanding
+Recorded
+Investment
+Post-Modification
+Outstanding
+Recorded
+Investment
+Troubled Debt Restructurings
+Real estate loans:
+Residential
+1
+$
+51
+$
+54
+Construction
+—
+—
+—
+Commercial
+—
+—
+—
+Commercial
+—
+—
+—
+Obligations of states and political subdivisions
+—
+—
+—
+Home equity loans and lines of credit
+—
+—
+—
+Auto loans
+—
+—
+—
+Other
+—
+—
+—
+Total
+1
+$
+51
+$
+54
+For the three months ended December 31, 2022 and 2021,
+no
+loans defaulted on a restructuring agreement within one year of modification.
+20
+7.
+Deposits
+Deposits consist of the following major classifications (in thousands):
+December 31, 2022
+September 30, 2022
+Non-interest bearing demand accounts
+$
+293,040
+$
+290,061
+Interest bearing demand accounts
+320,387
+357,516
+Money market accounts
+365,149
+402,080
+Savings and club accounts
+184,646
+196,696
+Certificates of deposit
+206,762
+133,668
+Total
+$
+1,369,984
+$
+1,380,021
+8 .
+Net Periodic Benefit Cost-Defined Benefit Plan
+For a detailed disclosure on the Bank’s pension and employee benefits plans, please refer to Note 12 of the Company’s Consolidated Financial Statements for the year ended September 30, 2022 included in the Company’s Annual Report on Form 10-K.
+The following table comprises the components of net periodic benefit cost for the three month periods ended December 31, 2022 and 2021 (in thousands):
+For the Three Months Ended December 31,
+2022
+2021
+Service Cost
+$
+-
+$
+-
+Interest Cost
+164
+125
+Expected return on plan assets
+( 242
+)
+( 333
+)
+Partial settlement
+-
+138
+Amortization of net loss from earlier periods
+-
+1
+Net periodic benefit income
+$
+( 78
+)
+$
+( 69
+)
+The Company’s board of directors adopted resolutions to freeze the status of the Defined Benefit Plan (“the plan”) effective February 28, 2017 (“the freeze date”).  Accordingly, no additional participants have been allowed to enter the plan since February 28, 2017; no additional years of service for benefit accrual purposes have been credited since the freeze date under the plan; and compensation earned by participants after the freeze date is not taken into account under the plan.
+9 .
+Equity Incentive Plan
+The Company previously maintained the ESSA Bancorp, Inc. 2007 Equity Incentive Plan (the “Plan”). The Plan provided for a total of
+2,377,326
+shares of common stock for issuance upon the grant or exercise of awards. Of the shares that were available under the Plan,
+1,698,090
+were available to be issued in connection with the exercise of stock options and
+679,236
+were available to be issued as restricted stock. The Plan allowed for the granting of non-qualified stock options (“NSOs”), incentive stock options (“ISOs”), and restricted stock. Options granted under the plan were granted at no less than the fair value of the Company’s common stock on the date of the grant. As of the effective date of the 2016 Equity Incentive Plan (detailed below),
+no
+further grants will be made under the Plan and forfeitures of outstanding awards under the Plan will be added to the shares available under the 2016 Equity Incentive Plan.
+The Company replaced the 2007 Equity Incentive Plan with the ESSA Bancorp, Inc. 2016 Equity Incentive Plan (the “2016 Plan”) which was approved by shareholders on March 3, 2016. The 2016 Plan provides for a total of
+250,000
+shares of common stock for issuance upon the grant or exercise of awards. The 2016 Plan allows for the granting of restricted stock, restricted stock units, ISOs and NSOs.
+The Company classifies share-based compensation for employees and outside directors within “Compensation and employee benefits” in the Consolidated Statement of Operations to correspond with the same line item as compensation paid.
+Restricted stock shares outstanding at December 31, 2022 vest over periods ranging from
+4
+to
+45
+months .  The product of the number of shares granted and the grant date market price of the Company’s common stock determines the fair value of restricted
+21
+shares under the Company’s restricted stock plan.  The Company expenses the fair value of all share based compensation grants over the requisite service period.
+For the three months ended December 31, 2022 and 2021, the Company recorded $ 295,000
+and $ 262,000
+of share-based compensation expense, respectively, comprised of restricted stock expense.  Expected future compensation expense relating to the restricted shares outstanding at December 31, 2022 is $ 829,000
+over the remaining vesting period of
+3.75
+years.
+The following is a summary of the status of the Company’s restricted stock as of December 31, 2022, and changes therein during the three month period then ended:
+Number of
+Restricted   Stock
+Weighted-
+average
+Grant Date
+Fair Value
+Nonvested at September 30, 2022
+35,639
+$
+14.88
+Granted
+31,696
+19.06
+Vested
+( 625
+)
+15.34
+Forfeited
+—
+—
+Nonvested at December 31, 2022
+66,710
+$
+16.84
+22
+10.
+Fair Value
+The following disclosures show the hierarchal disclosure framework associated within the level of pricing observations utilized in measuring assets and liabilities at fair value. The definition of fair value maintains the exchange price notion in earlier definitions of fair value but focuses on the exit price of the asset or liability. The exit price is the price that would be received to sell the asset or paid to transfer the liability adjusted for certain inherent risks and restrictions. Expanded disclosures are also required about the use of fair value to measure assets and liabilities.
+Assets and Liabilities Required to be Measured and Reported at Fair Value on a Recurring Basis
+The following tables provide the fair value for assets and liabilities required to be measured and reported at fair value on a recurring basis on the Consolidated Balance Sheet as of December 31, 2022 and September 30, 2022 by level within the fair value hierarchy (in thousands).
+Recurring Fair Value Measurements at Reporting Date
+December 31, 2022
+Assets
+Level I
+Level II
+Level III
+Total
+Investment securities available for sale:
+Mortgage backed securities
+$
+-
+$
+107,749
+$
+-
+$
+107,749
+Obligations of states and political subdivisions
+-
+9,958
+-
+9,958
+U.S. government agencies
+-
+9,338
+-
+9,338
+Corporate obligations
+-
+63,355
+7,199
+70,554
+Other debt securities
+-
+7,589
+-
+7,589
+Total debt securities
+$
+-
+$
+197,989
+$
+7,199
+$
+205,188
+Equity securities- financial services
+38
+-
+-
+38
+Derivatives and hedging activities
+-
+22,510
+-
+22,510
+Liabilities
+Derivatives and hedging activities
+$
+-
+$
+8,371
+$
+-
+$
+8,371
+September 30, 2022
+Assets
+Level I
+Level II
+Level III
+Total
+Investment securities available for sale:
+Mortgage backed securities
+$
+-
+$
+110,160
+$
+-
+$
+110,160
+Obligations of states and political subdivisions
+-
+9,920
+-
+9,920
+U.S. government agencies
+-
+9,330
+-
+9,330
+Corporate obligations
+-
+63,745
+7,374
+71,119
+Other debt securities
+-
+8,118
+-
+8,118
+Total debt securities
+$
+-
+$
+201,273
+$
+7,374
+$
+208,647
+Equity securities-financial services
+36
+-
+-
+36
+Derivatives and hedging activities
+-
+24,481
+-
+24,481
+Liabilities:
+Derivatives and hedging activities
+$
+-
+$
+9,176
+$
+-
+$
+9,176
+23
+The following table presents a summary of changes in the fair value of the Company’s Level III investments for the three month periods ended December 31, 2022 and 2021 (in thousands).
+Fair Value Measurement Using
+Significant Unobservable Inputs
+(Level III)
+Three Months Ended
+December 31, 2022
+December 31, 2021
+Beginning balance
+$
+7,374
+$
+11,112
+Purchases, sales, issuances, settlements, net
+-
+—
+Total unrealized (loss) gain:
+Included in earnings
+-
+—
+Included in other comprehensive (loss) income
+( 175
+)
+( 175
+)
+Transfers in and/or out of Level III
+-
+-
+$
+7,199
+$
+10,937
+Each financial asset and liability is identified as having been valued according to a specified level of input, 1, 2 or 3. Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the Company has the ability to access at the measurement date. Fair values determined by Level 2 inputs utilize inputs other than quoted prices included in Level 1 that are observable for the asset, either directly or indirectly. Level 2 inputs include quoted prices for similar assets in active markets, and inputs other than quoted prices that are observable for the asset or liability. Level 3 inputs are unobservable inputs for the asset, and include situations where there is little, if any, market activity for the asset or liability. In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, the level in the fair value hierarchy, within which the fair value measurement in its entirety falls, has been determined based on the lowest level input that is significant to the fair value measurement in its entirety. The Company’s assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the asset.
+The measurement of fair value should be consistent with one of the following valuation techniques: market approach, income approach, and/or cost approach. The market approach uses prices and other relevant information generated by market transactions involving identical or comparable assets or liabilities (including a business). For example, valuation techniques consistent with the market approach often use market multiples derived from a set of comparable. Multiples might lie in ranges with a different multiple for each comparable. The selection of where within the range the appropriate multiple falls requires judgment, considering factors specific to the measurement (qualitative and quantitative). Valuation techniques consistent with the market approach include matrix pricing. Matrix pricing is a mathematical technique used principally to value debt securities without relying exclusively on quoted prices for the specific securities, but rather by relying on a security’s relationship to other benchmark quoted securities. Most of the securities classified as available for sale are reported at fair value utilizing Level 2 inputs. For these securities, the Company obtains fair value measurements from an independent pricing service. The fair value measurements consider observable data that may include dealer quoted market spreads, cash flows, the U.S. Treasury yield curve, live trading levels, trade execution data, market consensus prepayment speeds, credit information and the bond’s terms and conditions, among other things. Securities reported at fair value utilizing Level 1 inputs are limited to actively traded equity securities whose market price is readily available from the New York Stock Exchange or the NASDAQ exchange. A few securities are valued using Level 3 inputs, all of these are classified as available for sale and are reported at fair value using Level 3 inputs.
+24
+Assets and Liabilities Required to be Measured and Reported on a Non-Recurring Basis
+The following tables provide the fair value for assets required to be measured and reported at fair value on a non-recurring basis on the Consolidated Balance Sheet as of December 31, 2022 and September 30, 2022 by level within the fair value hierarchy:
+Non-Recurring Fair Value Measurements at Reporting Date (in thousands)
+December 31, 2022
+Level I
+Level II
+Level III
+Total
+Foreclosed real estate
+$
+-
+$
+-
+$
+26
+$
+26
+Impaired loans
+-
+-
+13,685
+13,685
+September 30, 2022
+Level I
+Level II
+Level III
+Total
+Foreclosed real estate
+$
+-
+$
+-
+$
+29
+$
+29
+Impaired loans
+-
+-
+14,151
+14,151
+The following tables present additional quantitative information about assets measured at fair value on a nonrecurring basis and for which the Company has utilized Level 3 inputs to determine fair value:
+Quantitative Information about Level 3 Fair Value Measurements
+(dollars in thousands)
+Fair Value
+Estimate
+Valuation
+Techniques
+Unobservable
+Input
+Range (Average)
+December 31, 2022
+Impaired loans
+$
+13,685
+Appraisal of
+collateral (1)
+Appraisal
+adjustments (2)
+0% to 35%
+(20.6%)
+Foreclosed real estate owned
+26
+Appraisal of
+collateral (1)
+Appraisal
+adjustments (2)
+35%
+(35.0%)
+Quantitative Information about Level 3 Fair Value Measurements
+(dollars in thousands)
+Fair Value
+Estimate
+Valuation
+Techniques
+Unobservable
+Input
+Range (Average)
+September 30, 2022
+Impaired loans
+$
+14,151
+Appraisal of
+collateral (1)
+Appraisal
+adjustments (2)
+0% to 35%
+(20.6%)
+Foreclosed real estate owned
+29
+Appraisal of
+collateral (1)
+Appraisal
+adjustments (2)
+20%
+(20.0%)
+(1)
+Fair value is generally determined through independent appraisals of the underlying collateral, which generally include various level 3 inputs which are not identifiable.
+(2)
+Appraisals may be adjusted by management for qualitative factors such as economic conditions and estimated liquidation expenses. The range of liquidation expenses and other appraisal adjustments are presented as a percent of the appraisal.
+Foreclosed real estate is measured at fair value, less cost to sell at the date of foreclosure, valuations are periodically performed by management and the assets are carried at the lower of carrying amount or fair value, less cost to sell. Income and expenses from operations and changes in valuation allowance are included in the net expenses from foreclosed real estate. Impaired loans are reported at fair value utilizing level three inputs. For these loans, a review of the collateral is conducted and an appropriate allowance for loan losses is allocated to the loan. At December 31, 2022,
+48
+impaired loans with a carrying value of $ 14.4
+million were reduced by specific valuation allowance totaling $ 680,000
+resulting in a net fair value of $ 13.7
+million based on Level 3 inputs. At September 30, 2022,
+49
+impaired loans with a carrying value of $ 14.5
+million were reduced by a specific valuation totaling $ 351,000
+resulting in a net fair value of $ 14.1
+million based on Level 3 inputs.
+25
+Assets and Liabilities not Required to be Measured and Reported at Fair Value
+The following tables provide the carrying value and fair value for certain financial instruments that are not required to be measured or reported at fair value on the Consolidated Balance Sheet at December 31, 2022 and September 30, 2022 by level within the fair value hierarchy:
+December 31, 2022
+(in thousands)
+Carrying   Value
+Level I
+Level II
+Level III
+Total Fair
+Value
+Financial assets:
+Investment securities held to maturity
+$
+56,025
+$
+-
+$
+47,253
+$
+-
+$
+47,253
+Loans receivable, net
+1,504,400
+-
+-
+1,405,406
+1,405,406
+Mortgage servicing rights
+776
+-
+-
+1,350
+1,350
+Financial liabilities:
+Deposits
+$
+1,369,844
+$
+1,163,222
+$
+-
+$
+200,998
+$
+1,364,220
+Short term borrowings
+305,582
+—
+—
+290,528
+290,528
+September 30, 2022
+(in thousands)
+Carrying   Value
+Level I
+Level II
+Level III
+Total Fair
+Value
+Financial assets:
+Investment securities held to maturity
+$
+57,285
+$
+-
+$
+47,546
+$
+-
+$
+47,546
+Loans receivable, net
+1,435,783
+-
+-
+1,351,823
+1,351,823
+Mortgage servicing rights
+788
+-
+-
+1,390
+1,390
+Financial liabilities:
+Deposits
+$
+1,380,021
+$
+1,246,353
+$
+-
+$
+128,533
+$
+1,374,886
+Short-term borrowings
+230,810
+-
+-
+215,287
+215,287
+26
+11.
+Accumulated Other Comprehensive Income (Loss)
+The activity in accumulated other comprehensive income (loss) for the three month periods ended December 31, 2022 and 2021 is as follows (in thousands):
+Accumulated Other
+Comprehensive Income/(Loss)
+Defined
+Benefit
+Pension Plan
+Unrealized   Gains
+(Losses) on
+Securities
+Available for Sale
+Derivatives
+Total
+Balance at September 30, 2022
+$
+( 1,108
+)
+$
+( 13,879
+)
+$
+12,093
+$
+( 2,894
+)
+Other comprehensive (loss) income before
+reclassifications
+-
+838
+528
+1,366
+Amounts reclassified from accumulated
+other comprehensive income (loss)
+-
+-
+( 1,449
+)
+( 1,449
+)
+Period change
+—
+838
+( 921
+)
+( 83
+)
+Balance at December 31, 2022
+$
+( 1,108
+)
+$
+( 13,041
+)
+$
+11,172
+$
+( 2,977
+)
+Balance at September 30, 2021
+$
+( 1,907
+)
+$
+1,962
+$
+627
+$
+682
+Other comprehensive (loss) income before
+reclassifications
+763
+( 843
+)
+1,690
+1,610
+Amounts reclassified from accumulated
+other comprehensive (loss) income
+110
+-
+187
+297
+Period change
+873
+( 843
+)
+1,877
+1,907
+Balance at December 31, 2021
+$
+( 1,034
+)
+$
+1,119
+$
+2,504
+$
+2,589
+The following table presents significant amounts reclassified out of each component of accumulated other comprehensive income (loss) for the three month periods ended December 31, 2022 and 2021 (in thousands):
+Amount Reclassified from
+Accumulated Other Comprehensive Income (Loss)
+Details About Accumulated Other Comprehensive Income (Loss) Components
+Accumulated Other Comprehensive Income (Loss) for the Three  Months Ended December 31,
+Affected Line Item in the
+Consolidated Statement of Operations
+2022
+2021
+Defined benefit pension plan
+Amortization of net gain and prior service costs
+$
+-
+$
+( 139
+)
+Compensation and employee benefits
+Related income tax expense
+-
+29
+Income taxes
+Net effect on accumulated other comprehensive income (loss)
+for the period
+-
+( 110
+)
+Derivatives and hedging activities:
+Interest expense, effective portion
+1,834
+( 236
+)
+Interest expense
+Related income tax expense
+( 385
+)
+49
+Income taxes
+Net effect on accumulated other comprehensive income (loss)
+for the period
+1,449
+( 187
+)
+Total reclassification for the period
+$
+1,449
+$
+( 297
+)
+12.
+Derivatives and Hedging Activities
+Risk Management Objective of Using Derivatives
+The Company is exposed to certain risks arising from both its business operations and economic conditions.  The Company principally manages its exposures to a wide variety of business and operational risks through management of its core business activities. The Company manages economic risks, including interest rate, liquidity, and credit risk, primarily by managing the amount, sources, and duration of its assets and liabilities and through the use of derivative financial instruments.  Specifically, the Company enters into derivative financial instruments to manage exposures that arise from business activities that result in the receipt or payment of future known and uncertain cash amounts, the value of which are determined by interest rates.  The Company’s derivative financial
+27
+instruments are used to manage differences in the amount, timing, and duration of the Company’s known or expected cash receipts and its known or expected cash payments principally related to certain variable rate borrowings.
+Fair Values of Derivative Instruments on the Consolidated Balance Sheet
+The table below presents the fair value of the Company’s derivative financial instruments as of December 31, 2022 and September 30, 2022 (in thousands).
+Fair Values of Derivative Instruments
+Asset Derivatives
+As of December 31, 2022
+As of September 30, 2022
+Hedged Item
+Notional
+Amount
+Fair
+Value
+Notional
+Amount
+Fair
+Value
+FHLB Advances
+$
+225,000
+$
+14,143
+$
+225,000
+$
+15,310
+Commercial Loans
+76,804
+8,367
+79,602
+9,171
+Total
+$
+301,804
+$
+22,510
+$
+304,602
+$
+24,481
+Fair Values of Derivative Instruments
+Liability Derivatives
+As of December 31, 2022
+As of September 30, 2022
+Hedged Item
+Notional
+Amount
+Fair
+Value
+Notional
+Amount
+Fair
+Value
+Commercial Loans
+$
+108,669
+$
+8,371
+$
+111,668
+$
+9,176
+Total
+$
+108,669
+$
+8,371
+$
+111,668
+$
+9,176
+Cash Flow Hedges of Interest Rate Risk
+The Company’s objectives in using interest rate derivatives are to add stability to interest income and expense and to manage its exposure to interest rate movements. To accomplish this objective, the Company has entered into interest rate swaps as part of its interest rate risk management strategy.  These interest rate swaps are designated as cash flow hedges and involve the receipt of variable rate amounts from a counterparty in exchange for the Company making fixed payments.  As of December 31, 2022, the Company had
+ten
+interest rate swaps with a notional principal amount of $ 225.0
+million associated with the Company’s cash outflows associated with various FHLB advances and $ 185.5
+million associated with associated with various commercial loans.
+For derivatives designated as cash flow hedges, the effective portion of changes in the fair value of the derivative is initially reported in other comprehensive income (outside of earnings), net of tax, and subsequently reclassified to earnings when the hedged transaction affects earnings, and the ineffective portion of changes in the fair value of the derivative is recognized directly in earnings. The Company assesses the effectiveness of each hedging relationship by comparing the changes in cash flows of the derivative hedging instrument with the changes in cash flows of the designated hedged transactions.  The Company did not recognize any hedge ineffectiveness in earnings during the periods ended December 31, 2022 and 2021.
+Amounts reported in accumulated other comprehensive income (loss) related to derivatives that will be reclassified to interest income/expense as interest payments are made/received on the Company’s variable-rate assets/liabilities.  During the three months ended December 31, 2022, the Company had $ 1.8
+million of gains, which resulted in a decrease to interest expense.  During the three months ended December 31, 2021, the Company had $ 236,000
+of losses which resulted in an increase to interest expense.   During the next twelve months, the Company estimates that $ 8.7
+million will be reclassified as a decrease to interest expense.
+The table below presents the effect of the Company’s cash flow hedge accounting on Accumulated Other Comprehensive Income (Loss) for the three month periods ended December 31, 2022 and 2021 (in thousands).
+The Effect of Fair Value and Cash Flow Hedge Accounting on Accumulated Other Comprehensive Income (Loss)
+Derivatives in Hedging Relationships
+(Gain) Loss Recognized in
+OCI on Derivative
+(Effective Portion)
+Three Months Ended December 31,
+Location of Gain
+or (Loss)
+Reclassified from
+Accumulated OCI
+into Income
+(Effective Portion)
+Gain (Loss) Reclassified
+from Accumulated OCI into Income
+(Effective Portion)
+Three Months Ended December 31,
+Derivatives in Cash Flow Hedging Relationships
+2022
+2021
+2022
+2021
+Interest Rate Products
+$
+( 1,166
+)
+$
+2,375
+Interest expense
+$
+1,834
+$
+( 236
+)
+Total
+$
+( 1,166
+)
+$
+2,375
+$
+1,834
+$
+( 236
+)
+28
+Credit-risk-related Contingent Features
+The Company has agreements with its derivative counterparties that contain a provision where if the Company defaults on any of its indebtedness, including default where repayment of the indebtedness has not been accelerated by the lender, then the Company could also be declared in default on its derivative obligations.
+The Company also has agreements with certain of its derivative counterparties that contain a provision where if the Company fails to maintain its status as a well / adequately capitalized institution, then the counterparty could terminate the derivative positions and the Company would be required to settle its obligations under the agreements.
+As of December 31, 2022 and September 30, 2022, the Company had
+no
+derivatives in a net liability position and was
+no t required to post collateral against its obligations under these agreements.   If the Company had breached any of these provisions at December 31, 2022 and September 30, 2022, it could have been required to settle its obligations under the agreements at the termination value.
+13.
+Contingent Liabilities
+Legal Proceedings
+The Company and its subsidiaries are subject to various legal actions arising in the normal course of business. In the opinion of Management, the resolution of these legal actions is not expected to have a material adverse effect on the Company’s results of operations.
+The Company and its subsidiary, ESSA Bank and Trust (“ESSA B&T”) were named as defendants, among others, in an action commenced on December 8, 2016 by
+one
+plaintiff who sought to pursue the suit as a class action on behalf of the entire class of people similarly situated.  The plaintiff alleged that a bank previously acquired by the Company received unearned fees and kickbacks in the process of making loans, in violation of the Real Estate Settlement Procedures Act.  In an order dated January 29, 2018, the district court granted the defendants’ motion to dismiss the case.  The plaintiff appealed the court’s ruling.  In an opinion and order dated April 26, 2019, the appellate court reversed the district court’s order dismissing the plaintiff’s case against the Company and remanded the case to the district court in order to continue the litigation.  The litigation is now proceeding before the district court.  On December 9, 2019, the court permitted an amendment to the complaint to add
+two
+new plaintiffs to the case asserting similar claims.  On May 21, 2020, the court granted the plaintiffs’ motion for class certification.  The case is currently in the expert witness discovery phase and the Company and ESSA B&T will continue to vigorously defend against plaintiffs’ allegations.  To the extent that this matter could result in exposure to the Company and/or ESSA B&T, the amount or range of such exposure is not currently estimable but could be substantial.
+On May 29, 2020, the Company and ESSA B&T were named as defendants in a second action commenced by
+three
+plaintiffs who also seek to pursue this action as a class action on behalf of the entire class of people similarly situated.  The plaintiffs allege that a bank previously acquired by the Company received unearned fees and kickbacks from a different title company than the one involved in the previously discussed litigation in the process of making loans.  The original complaint alleged violations of the Real Estate Settlement Procedures Act, the Sherman Act, and the Racketeer Influenced and Corrupt Organizations Act (“RICO”).  The plaintiffs filed an Amended Complaint on September 30, 2020 that dropped the RICO claim, but they are continuing to pursue the Real Estate Settlement Procedures Act and Sherman Act claims.  The defendants moved to dismiss the Sherman Act claim on October 14, 2020, and that motion was denied on April 2, 2021.  The case is currently in the fact discovery phase and plaintiffs have moved to have the court certify the matter as a class action. The Company and ESSA B&T intend to vigorously defend against plaintiffs’ allegations.  To the extent that this matter could result in exposure to the Company and/or ESSA B&T, the amount or range of such exposure is not currently estimable but could be substantial.
+14.
+Revenue Recognition
+Management determined that the primary sources of revenue associated with financial instruments, including interest income on loans and investments, along with certain noninterest revenue sources including investment security gains, loan servicing charges, gains on the sale of loans, and earnings on bank owned life insurance are not within the scope of Topic 606.
+Noninterest income within the scope of Topic 606 are as follows:
+Trust and Investment Fees
+Trust and asset management income is primarily comprised of fees earned from the management and administration of trusts and other customer assets. The Company’s performance obligation is generally satisfied over time and the resulting fees are
+29
+recognized monthly, based upon the month-end market value of the assets under management and the applicable fee rate. Payment is generally received a few days after
+month
+end through a direct charge to customer’s accounts. The Company does not earn performance-based incentives. Optional services such as real estate sales and tax return preparation services are also available to existing trust and asset management customers. The Company’s performance obligation for these transactional-based services is generally satisfied, and related revenue recognized, at a point in time ( i.e.
+as incurred). Payment is received shortly after services are rendered.
+Service Charges on Deposit Accounts
+Service charges on deposit accounts consist of account analysis fees (i.e. net fees earned on analyzed business and public checking accounts), monthly service fees, check orders, and other deposit account related fees. The Company’s performance obligation for account analysis fees and monthly service fees is generally satisfied, and the related revenue recognized, over the period in which the service is provided. Check orders and other deposit account related fees are largely transactional based, and therefore, the Company’s performance obligation is satisfied, and related revenue recognized, at a point in time. Payment for service charges on deposit accounts is primarily received immediately or in the following month through a direct charge to customers’ accounts.
+Fees, Exchange, and Other Service Charges
+Fees, interchange, and other service charges are primarily comprised of debit card income, ATM fees, cash management income, and other services charges. Debit card income is primarily comprised of interchange fees earned whenever the Company’s debit cards are processed through card payment networks such as Mastercard. ATM fees are primarily generated when a Company cardholder uses a non-Company ATM or a non-Company cardholder uses a company ATM. Other service charges include revenue from processing wire transfers, bill pay service, cashier’s checks, and other services. The Company’s performance obligation for fees, exchange, and other service charges are largely satisfied, and related revenue recognized when the services are rendered or upon completion.
+Payment is typically received immediately or in the following month.
+Insurance Commissions
+Insurance income primarily consists of commissions received on product sales. The Company acts as an intermediary between the Company’s customer and the insurance carrier. The Company’s performance obligation is generally satisfied upon the issuance of the policy. Shortly after the policy is issued, the carrier remits the commission payment to the Company, and the Company recognizes the revenue.
+15.
+Leases
+A lease is defined as a contract, or part of a contract, that conveys the right to control the use of identified property, plant or equipment for a period of time in exchange for consideration.
+For the Company, Topic 842 primarily affects the accounting treatment for operating lease agreements in which the Company is the lessee.
+Lessee Accounting
+Substantially all of the leases in which the Company is the lessee are comprised of real estate property for branches, ATM locations, and office space with terms extending through
+2044 .
+In accordance with Topic 842, operating lease agreements are required to be recognized on the Consolidated Balance sheet as a right-of-use (“ROU”) asset and a corresponding lease liability.
+30
+The following table presents the Consolidated Balance Sheet classification of the Company’s ROU assets and lease liabilities. The Company elected not to include short-term leases (i.e., leases with initial terms of twelve months or less), or equipment leases (deemed immaterial) on the Consolidated Balance sheet.
+(in thousands)
+December 31, 2022
+Lease Right-of-Use Assets
+Classification
+Operating lease right-of-use assets
+Other assets
+$
+5,841
+Total Lease Right-Of-Use Assets
+$
+5,841
+(in thousands)
+December 31, 2022
+Lease Liabilities
+Classification
+Operating lease Liabilities
+Other liabilities
+$
+6,053
+Total Lease Liabilities
+$
+6,053
+(in thousands)
+September 30, 2022
+Lease Right-of-Use Assets
+Classification
+Operating lease right-of-use assets
+Other assets
+$
+6,075
+Total Lease Right-Of-Use Assets
+$
+6,075
+(in thousands)
+September 30, 2022
+Lease Liabilities
+Classification
+Operating lease Liabilities
+Other liabilities
+$
+6,275
+Total Lease Liabilities
+$
+6,275
+The calculated amount of the ROU assets and lease liabilities in the table above are impacted by the length of the lease term and the discount rate used to present value the minimum lease payments. The Company’s lease agreements often include one or more options to renew at the Company’s discretion. If at lease inception, the Company considers the exercising of a renewal option to be reasonably certain, the Company will include the extended term in the calculation of the ROU asset and lease liability. Regarding the discount rate, Topic 842 requires the use of the rate implicit in the lease whenever this rate is readily determinable. As this rate is rarely determinable, the Company utilizes its incremental borrowing rate at lease inception, on a collateralized basis, over a similar term.
+December 31, 2022
+Weighted average remaining lease term
+Operating leases
+12.2
+years
+Weighted average discount rate
+Operating leases
+2.39
+%
+The following table represents lease costs and other lease information. As the Company elected, for all classes of underlying assets, not to separate lease and non-lease components and instead to account for them as a single lease component, the variable lease cost primarily represents variable payments such as common area maintenance and utilities.
+Lease Costs (in thousands)
+Three  Months Ended December 31, 2022
+Operating lease cost
+$
+238
+Variable lease cost
+52
+Net lease cost
+$
+290
+Lease Costs (in thousands)
+Three  Months Ended December 31, 2021
+Operating lease cost
+$
+261
+Variable lease cost
+79
+Net lease cost
+$
+340
+31
+Future minimum payments for operating leases with initial or remaining terms of one year or more as of December 31, 2022 were as follows:
+(in thousands)
+Operating leases
+Twelve months Ended:
+December 31, 2023
+$
+823
+December 31, 2024
+622
+December 31, 2025
+510
+December 31, 2026
+472
+December 31, 2027
+457
+Thereafter
+3,939
+Total future minimum lease payments
+6,823
+Amounts representing interest
+770
+Present Value of Net Future Minimum Lease Payments
+$
+6,053
+32
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Forward Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements, which can be identified by the use of such words as estimate, project, believe, intend, anticipate, plan, seek, expect and similar expressions. These forward-looking statements include:
+•
+statements of our goals, intentions and expectations;
+•
+statements regarding our business plans and prospects and growth and operating strategies;
+•
+statements regarding the asset quality of our loan and investment portfolios; and
+•
+estimates of our risks and future costs and benefits.
+By identifying these forward-looking statements for you in this manner, we are alerting you to the possibility that our actual results and financial condition may differ, possibly materially, from the anticipated results and financial condition indicated in these forward-looking statements. Important factors that could cause our actual results and financial condition to differ from those indicated in the forward-looking statements include, among others, those discussed under “Risk Factors” in Part I, Item 1A of the Company’s Annual Report on Form 10-K and Part II, Item 1A of this and any previous Quarterly Report on Form 10-Q filed since our most recent Annual Report on Form 10-K, as well as the following factors:
+•
+significantly increased competition among depository and other financial institutions;
+•
+inflation and changes in the interest rate environment that reduce our margins or reduce the fair value of financial instruments;
+•
+general economic conditions, either nationally or in our market areas, that are worse than expected;
+•
+adverse changes in the securities markets;
+•
+legislative or regulatory changes that adversely affect our business;
+•
+our ability to enter new markets successfully and take advantage of growth opportunities, and the possible short-term dilutive effect of potential acquisitions or
+de novo
+branches, if any;
+•
+changes in consumer spending, borrowing and savings habits;
+•
+changes in accounting policies and practices, as may be adopted by the bank regulatory agencies and the FASB; and
+•
+changes in our organization, compensation and benefit plans.
+Further, the COVID-19 pandemic has had and may continue to have an impact on the Company’s operations and financial results. Given its dynamic nature, it is difficult to predict what effects the pandemic will have on our business and results of operations in the future.
+These risks and uncertainties should be considered in evaluating forward-looking statements and undue reliance should not be placed on such statements.
+Comparison of Financial Condition at December 31, 2022 and September 30, 2022
+Total Assets .
+Total assets increased by $65.4 million, or 3.5%, to $1.93 billion at December 31, 2022 from $1.86 billion at September 30, 2022 due primarily to increases in loans receivable, cash and due from banks, and regulatory stock, at cost partially offset by decreases in investment securities held to maturity, investment securities available for sale, interest bearing deposits with other institutions and derivative and hedging assets.
+Total Cash and Cash Equivalents .
+Total cash and cash equivalents increased $835,000, or 3.0%, to $28.8 million at December 31, 2022 from $27.9 million at September 30, 2022.
+Increases in cash and due from banks were partially offset by decreases in interest-bearing deposits with other institutions.
+Net Loans .
+Net loans increased $68.6 million, or 4.8%, to $1.50 billion at December 31, 2022 from $1.44 billion at September 30, 2022. During this period, residential loans increased $33.8 million to $657.2 million, construction loans increased $1.6 million to $26.6 million, commercial real estate loans increased $28.3 million to $707.1 million, commercial loans increased $6.8 million to $45.0 million, obligations of states and political subdivisions decreased $1.1 million to $39.3 million, home equity loans and lines of credit increased $517,000 to $43.7 million, auto loans decreased $1.2 million to $2.4 million reflecting expected runoff of the portfolio
+33
+following the Company’s previously announced discontinuation of indirect auto lending in July 2018, and other loans
+in creased $ 145 ,000 to $1. 9
+million.
+Investment Securities Available for Sale .
+Investment securities available for sale decreased $3.5 million, or 1.7%, to $205.2 million at December 31, 2022 from $208.6 million at September 30, 2022 due primarily to the maturity or principal repayment of securities in the portfolio.
+Investment Securities Held to Maturity .
+Investment securities held to maturity decreased to $56.0 million at December 31, 2022 from $57.3 million at September 30, 2022. The Company carries some investment securities as held to maturity to manage fluctuations in comprehensive loss caused by interest rate changes.
+Deposits.
+Deposits decreased $10.0 million, or 0.7%, to $1.37 billion at December 31, 2022 from $1.38 billion at September 30, 2022.
+Decreases in interest bearing demand accounts of $37.1 million, money market accounts of $36.9 million and savings and club accounts of $12.1 million were offset in part by increases in certificates of deposit of $73.1 million and non-interest bearing demand accounts of $3.0 million.
+Short Term Borrowings.   Short term borrowings increased to $305.6 million at December 31, 2022 from $230.8 million at September 30, 2022 primarily to fund loan growth.
+S tockholders’ Equity.
+Stockholders’ equity increased by $3.8 million, or 1.8%, to $216.2 million at December 31, 2022 from $212.3 million at September 30, 2022. The increase in stockholders’ equity was primarily due to net income of $4.9 million partially offset by regular cash dividends of $0.15 per share which reduced stockholders’ equity by $1.5 million and other comprehensive loss of $83,000.
+34
+Average Balance Sheets for the Three Months Ended December 31, 2022 and 2021
+The following tables set forth average balance sheets, average yields and costs, and certain other information for the periods indicated. All average balances are daily average balances, the yields set forth below include the effect of deferred fees and discounts and premiums that are amortized or accreted to interest income.
+For the Three Months Ended December 31,
+2022
+2021
+Average Balance
+Interest Income/
+Expense
+Yield/Cost
+Average Balance
+Interest Income/
+Expense
+Yield/Cost
+(dollars in thousands)
+Interest-earning assets:
+Loans (1)
+$
+1,484,083
+$
+16,085
+4.30
+%
+$
+1,363,548
+$
+13,259
+3.87
+%
+Investment securities
+Taxable (2)
+91,437
+926
+4.02
+%
+130,338
+597
+1.82
+%
+Exempt from federal income
+tax (2)(3)
+1,831
+11
+3.02
+%
+3,956
+19
+2.42
+%
+Total investment securities
+93,268
+937
+4.00
+%
+134,294
+616
+1.84
+%
+Mortgage-backed securities
+169,938
+1,165
+2.72
+%
+103,046
+414
+1.60
+%
+Federal Home Loan Bank stock
+16,108
+320
+7.88
+%
+4,707
+54
+4.56
+%
+Other
+13,185
+112
+3.37
+%
+172,678
+65
+0.15
+%
+Total interest-earning assets
+1,776,582
+18,619
+4.16
+%
+1,778,273
+14,408
+3.22
+%
+Allowance for loan losses
+(18,587
+)
+(18,162
+)
+Noninterest-earning assets
+134,151
+111,107
+Total assets
+$
+1,892,146
+$
+1,871,218
+Interest-bearing liabilities:
+NOW accounts
+$
+346,146
+$
+148
+0.17
+%
+$
+305,440
+$
+36
+0.05
+%
+Money market accounts
+387,640
+1,043
+1.07
+%
+449,909
+141
+0.12
+%
+Savings and club accounts
+190,436
+25
+0.05
+%
+192,111
+25
+0.05
+%
+Certificates of deposit
+165,974
+785
+1.88
+%
+422,867
+644
+0.61
+%
+Borrowed funds
+278,476
+958
+1.36
+%
+-
+-
+—
+Total interest-bearing liabilities
+1,368,672
+2,959
+0.86
+%
+1,370,327
+846
+0.24
+%
+Non-interest-bearing NOW
+accounts
+270,190
+270,111
+Non-interest-bearing liabilities
+38,138
+25,252
+Total liabilities
+1,677,000
+1,665,690
+Equity
+215,146
+205,528
+Total liabilities and equity
+$
+1,892,146
+$
+1,871,218
+Net interest income
+$
+15,660
+$
+13,562
+Interest rate spread
+3.30
+%
+2.98
+%
+Net interest-earning assets
+$
+407,910
+$
+407,946
+Net interest margin (4)
+3.50
+%
+3.03
+%
+Average interest-earning assets to
+average interest-bearing liabilities
+129.80
+%
+129.77
+%
+_____________________
+(1)
+Non-accruing loans are included in the outstanding loan balances.
+(2)
+Available for sale securities are reported at fair value.
+(3)
+Yields on tax exempt securities have been calculated on a fully tax equivalent basis assuming a tax rate of 21.00% for the three months ended December 31, 2022 and 2021.
+(4)
+Represents the difference between interest earned and interest paid, divided by average total interest earning assets.
+35
+Comparison of Operating Results for the Three Months Ended December 31, 2022 and December 31, 2021
+Net Income.
+Net income increased $253,000, or 5.5%, to $4.9 million for the three months ended December 31, 2022 compared to net income of $4.6 million for the comparable period in 2021. The increase was primarily due to an increase in net interest income partially offset by increases in non-interest expense, the provision for loan losses and income tax provision and a decrease in non-interest income.
+Net Interest Income.
+Net interest income increased $2.1 million, or 15.5%, to $15.7 million for the three months ended December 31, 2022 compared to $13.6 million for the comparable period in 2021.
+Interest Income.
+Total interest income was $18.6 million for the three months ended December 31, 2022 compared with $14.4 million for the three months ended December 31, 2021 reflecting increases in interest rates and total yield on average interest earning assets from 3.22% for the quarter ended December 31, 2021 to 4.16% for the quarter ended December 31, 2022. A decline of $1.7 million in average interest earning assets partially offset the increase in interest income.
+Interest Expense.
+Interest expense was $3.0 million for the quarter ended December 31, 2022 compared to $846,000 for the same period in 2021. The cost of interest-bearing liabilities increased to 0.86% for the quarter ended December 31, 2022 from 0.24% a year earlier, reflecting higher interest rates, repricing of deposits and higher-cost borrowings.
+The average balance of interest-bearing liabilities decreased $1.7 million year-over-year.
+Provision for Loan Losses.
+In evaluating the level of the allowance for loan losses, management considers historical loss experience, the types of loans and the amount of loans in the loan portfolio, adverse situations that may affect a borrower’s ability to repay, the estimated value of any underlying collateral, peer group information and prevailing economic conditions. This evaluation is inherently subjective as it requires estimates that are subject to interpretation and revision as more information becomes available or as future events occur. After an evaluation of these factors, management made a $150,000 provision for loan losses for the three month period ended December 31, 2022 compared to no provision for the three month period ended December 31, 2021. The allowance for loan losses was $18.7 million, or 1.23% of loans outstanding, at December 31, 2022, compared to $18.5 million, or 1.27% of loans outstanding, at September 30, 2022.
+Non-interest Income.
+Noninterest income decreased 17.7% to $1.9 million for the three months ended December 31, 2022, compared with $2.3 million for the three months ended December 31, 2021. Decreases in trust and investment fees of $24,000, earnings on bank-owned life insurance of $2,000, service charges and fee on loans of $50,000, loan swap fees of $145,000, insurance commissions of $1,000 and gains on sales of residential mortgages of $219,000 were partially offset by an increase in service fees on deposit accounts of $16,000 and other income of $11,000 for the quarter ended December 31, 2022 compared with the comparable period in 2021.
+Non-interest Expense.
+Noninterest expense increased $1.1 million, or 11.0%, to $11.4 million for the three months ended December 31, 2022 compared with the comparable period a year earlier primarily reflecting increases in compensation and employee benefits of $406,000, professional fees of $548,000, Federal Deposit Insurance Corporation premiums of $24,000, other expenses of $127,000 and advertising of $93,000, which was partially offset by a decrease in occupancy and equipment of $48,000.
+Income Taxes.
+Income tax expense increased $152,000 to $1.1 million for the three months ended December 31, 2022 from $973,000 for the comparable 2021 period. The effective tax rate for the three months ended December 31, 2022 was 18.8% compared to 17.4% for the 2021 period.
+36
+The following table provides information with respect to the Bank’s non-performing assets at the dates indicated (dollars in thousands).
+December 31, 2022
+September 30, 2022
+Non-performing assets:
+Non-accruing loans
+$
+14,823
+$
+15,082
+Loans 90+ days delinquent and accruing interest
+—
+—
+Total non-performing loans
+14,823
+15,082
+Foreclosed real estate
+26
+29
+Total non-performing assets
+$
+14,849
+$
+15,111
+Ratio of non-performing loans to total loans
+0.97
+%
+1.04
+%
+Ratio of non-performing loans to total assets
+0.77
+%
+0.81
+%
+Ratio of non-performing assets to total assets
+0.77
+%
+0.81
+%
+Ratio of allowance for loan losses to total loans
+1.23
+%
+1.27
+%
+Loans are reviewed on a regular basis and are placed on non-accrual status when they become 90 days delinquent. When loans are placed on non-accrual status, unpaid accrued interest is fully reserved, and further income is recognized only to the extent received. Non-performing assets decreased $262,000 from September 30, 2022 to December 31, 2022. The $14.8 million of non-accruing loans at December 31, 2022 included 19 residential loans with an aggregate outstanding balance of $1.5 million, 25 commercial and commercial real estate loans with aggregate outstanding balances of $13.2 million and 23 consumer loans with aggregate balances of $143,000. Within the residential loan balance were $200,000 of loans past due less than 90 days. In the quarter ended December 31, 2022, the Company identified five residential loans which, although paying as agreed, have a high probability of default. Foreclosed real estate decreased $3,000 to $26,000 at December 31, 2022. Foreclosed real estate consists of one residential property.
+At December 31, 2022, the principal balance of troubled debt restructures (“TDRs”) was $1.8 million compared to $8.8 million at September 30, 2022. All the $1.8 million of TDRs at December 31, 2022 were non-accrual loans.
+As of December 31, 2022, TDRs were comprised of five residential loans totaling $215,000, six commercial and commercial real estate loans totaling $1.6 million and four consumer loans (home equity loans, home equity lines and credit, indirect auto and other loans) totaling $37,000.
+For the three month period ended December 31, 2022, one loans totaling $6.6 million was removed from TDR status removed for paying off.
+Liquidity and Capital Resources
+We maintain liquid assets at levels we consider adequate to meet both our short-term and long-term liquidity needs. We adjust our liquidity levels to fund deposit outflows, repay our borrowings and to fund loan commitments. We also adjust liquidity as appropriate to meet asset and liability management objectives.
+Our primary sources of liquidity are deposits, prepayment and repayment of loans and mortgage-backed securities, maturities of investment securities and other short-term investments, and earnings and funds provided from operations, as well as access to FHLB advances and other borrowing sources. While scheduled principal repayments on loans and mortgage-backed securities are a relatively predictable source of funds, deposit flows and loan prepayments are greatly influenced by market interest rates, economic conditions, and rates offered by our competition. We set the interest rates on our deposits to maintain a desired level of total deposits.
+A portion of our liquidity consists of cash and cash equivalents and borrowings, which are a product of our operating, investing and financing activities. At December 31, 2022, $28.8 million of our assets were invested in cash and cash equivalents. Our primary sources of cash are principal repayments on loans, proceeds from the maturities of investment securities, principal repayments of mortgage-backed securities and increases in deposit accounts and borrowings. As of December 31, 2022, we had $305.6 million of borrowings outstanding from the Pittsburgh FHLB. We have access to total FHLB advances of up to approximately $788.3 million.
+37
+At
+December 31 , 2022 , we had $ 4 11. 4
+million in loan commitments outstanding, which included, in part, $ 225.2
+million in undisbursed construction loans and land development loans, $ 5 3.4
+million in unused home equity lines of credit, $ 96.1
+million in commercial lines of credit and commitments to originate commercial loans, $1 4.4
+million in performance standby letters of credit and $ 22.3
+million in other unused commitments which are primarily to originate residential mortgage loans and multifamily loans. Certificates of deposit due within one year of
+December 31 , 2022
+totaled $ 141 .7
+million, or
+6 8 .5 % of certificates of deposit. If these maturing deposits do not remain with us, we will be required to seek other sources of funds, including other certificates of deposit and borrowings. Depending on market conditions, we may be required to pay higher rates on such deposits or other borrowings than we currently pay on the certificates of deposit due on or before
+December 31 , 202 3 . We believe, however, based on past experience that a significant portion of our certificates of deposit will remain with us. We
+have the ability to
+attract and retain deposits by adjusting the interest rates offered.
+As reported in the Consolidated Statements of Cash Flow, our cash flows are classified for financial reporting purposes as operating, investing or financing cash flows. Net cash provided by operating activities was $3.1 million and $3.6 million for the three months ended December 31, 2022 and 2021, respectively. These amounts differ from our net income because of a variety of cash receipts and disbursements that did not affect net income for the respective periods. Net cash (used for) provided by investing activities was $(66.1) million and $34.6 million for the three months ended December 31, 2022 and 2021, respectively, principally reflecting our loan and investment security activities. Deposit and borrowing cash flows have comprised most of our financing activities, which resulted in net cash provided by of $63.8 million and $1.3 million for the three months ended December 31, 2022 and 2021, respectively.
+Critical Accounting Policies
+We consider accounting policies that require management to exercise significant judgment or discretion or make significant assumptions that have, or could have, a material impact on the carrying value of certain assets or on income, to be critical accounting policies. We consider the following to be our critical accounting policies:
+Allowance for Loan Losses.
+The allowance for loan losses is the estimated amount considered necessary to cover credit losses inherent in the loan portfolio at the balance sheet date. The allowance is established through the provision for loan losses which is charged against income. In determining the allowance for loan losses, management makes significant estimates and has identified this policy as one of our most critical. The methodology for determining the allowance for loan losses is considered a critical accounting policy by management due to the high degree of judgment involved, the subjectivity of the assumptions utilized and the potential for changes in the economic environment that could result in changes to the amount of the recorded allowance for loan losses.
+As a substantial amount of our loan portfolio is collateralized by real estate, appraisals of the underlying value of property securing loans and discounted cash flow valuations of properties are critical in determining the amount of the allowance required for specific loans. Assumptions for appraisals and discounted cash flow valuations are instrumental in determining the value of properties. Overly optimistic assumptions or negative changes to assumptions could significantly impact the valuation of a property securing a loan and the related allowance determined. The assumptions supporting such appraisals and discounted cash flow valuations are carefully reviewed by management to determine that the resulting values reasonably reflect amounts realizable on the related loans.
+Management performs a quarterly evaluation of the adequacy of the allowance for loan losses. Consideration is given to a variety of factors in establishing this estimate including, but not limited to, current economic conditions, delinquency statistics, geographic and industry concentrations, the adequacy of the underlying collateral, the financial strength of the borrower, results of internal and external loan reviews and other relevant factors. This evaluation is inherently subjective, as it requires material estimates that may be susceptible to significant revision based on changes in economic and real estate market conditions.
+The analysis of the allowance for loan losses has two components: specific and general allocations. Specific allocations are made for loans that are determined to be impaired. Impairment is measured by determining the present value of expected future cash flows or, for collateral-dependent loans, the fair value of the collateral adjusted for market conditions and selling expenses. The general allocation is determined by segregating the remaining loans by type of loan, risk weighting (if applicable) and payment history. We also analyze historical loss experience, delinquency trends, general economic conditions and geographic and industry concentrations. This analysis establishes factors that are applied to the loan groups to determine the amount of the general allocations. Actual loan losses may be significantly more than the allowance for loan losses we have established which could have a material negative effect on our financial results.
+Goodwill and Intangible Assets.
+Goodwill is not amortized, but it is tested at least annually for impairment in the fourth quarter, or more frequently if indicators of impairment are present. If the estimated current fair value of a reporting unit exceeds its carrying value, no additional testing is required and an impairment loss is not recorded. The Company uses market capitalization and multiples of tangible book value methods to determine the estimated current fair value of its reporting unit. Based on this analysis, no impairment was recorded in 2022 or 2021.
+38
+The other intangibles assets are assigned useful lives, which are amortized on an accelerated basis over their weighted-average lives. The Company periodically reviews the intangible assets for impairment as events or changes in circumstances indicate that the carrying amount of such asset may not be recoverable. Based on these reviews, no impairment was recorded in 202 2
+or
+2021 .
+Derivative Instruments and Hedging Activities.
+The Company records all derivatives on the balance sheet at fair value.  The accounting for changes in the fair value of derivatives depends on the intended use of the derivative, whether the Company has elected to designate a derivative in a hedging relationship and apply hedge accounting and whether the hedging relationship has satisfied the criteria necessary to apply hedge accounting. Derivatives designated and qualifying as a hedge of the exposure to changes in the fair value of an asset, liability, or firm commitment attributable to a particular risk, such as interest rate risk, are considered fair value hedges. Derivatives designated and qualifying as a hedge of the exposure to variability in expected future cash flows, or other types of forecasted transactions, are considered cash flow hedges. Derivatives may also be designated as hedges of the foreign currency exposure of a net investment in a foreign operation. Hedge accounting generally provides for the matching of the timing of gain or loss recognition on the hedging instrument with the recognition of the changes in the fair value of the hedged asset or liability that are attributable to the hedged risk in a fair value hedge or the earnings effect of the hedged forecasted transactions in a cash flow hedge.  The Company may enter into derivative contracts that are intended to economically hedge certain of its risk, even though hedge accounting does not apply or the Company elects not to apply hedge accounting.
+Fair Value Measurements.
+We group our assets at fair value in three levels, based on the markets in which the assets are traded and the reliability of the assumptions used to determine fair value. These levels are:
+•
+Level I – Valuation is based upon quoted prices for identical instruments traded in active markets.
+•
+Level II – Valuation is based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques for which all significant assumptions are observable in the market.
+•
+Level III – Valuation is generated from model-based techniques that use significant assumptions not observable in the market. These unobservable assumptions reflect the Company’s own estimates of assumptions that market participants would use in pricing the asset.
+We base our fair values on the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. It is our policy to maximize the use of observable inputs and minimize the use of unobservable inputs when developing fair value measurements, in accordance with the fair value hierarchy in generally accepted accounting principles.
+Fair value measurements for most of our assets are obtained from independent pricing services that we have engaged for this purpose. When available, we, or our independent pricing service, use quoted market prices to measure fair value. If market prices are not available, fair value measurement is based upon models that incorporate available trade, bid, and other market information. Subsequently, all of our financial instruments use either of the foregoing methodologies to determine fair value adjustments recorded to our financial statements. In certain cases, however, when market observable inputs for model-based valuation techniques may not be readily available, we are required to make judgments about assumptions market participants would use in estimating the fair value of financial instruments. The degree of management judgment involved in determining the fair value of a financial instrument is dependent upon the availability of quoted market prices or observable market parameters. For financial instruments that trade actively and have quoted market prices or observable market parameters, there is minimal subjectivity involved in measuring fair value. When observable market prices and parameters are not fully available, management judgment is necessary to estimate fair value. In addition, changes in the market conditions may reduce the availability of quoted prices or observable data. When market data is not available, we use valuation techniques requiring more management judgment to estimate the appropriate fair value measurement. Therefore, the results cannot be determined with precision and may not be realized in an actual sale or immediate settlement of the asset. Additionally, there may be inherent weaknesses in any calculation technique, and changes in the underlying assumptions used, including discount rates and estimates of future cash flows, that could significantly affect the results of current or future valuations.
+Other-than-Temporary Investment Security Impairment.
+Securities are evaluated periodically to determine whether a decline in their value is other-than-temporary. Management utilizes criteria such as the magnitude and duration of the decline, in addition to the reasons underlying the decline, to determine whether the loss in value is other-than-temporary. The term “other-than-temporary” is not intended to indicate that the decline is permanent, but indicates that the prospect for a near-term recovery of value is not necessarily favorable, or that there is a lack of evidence to support a realizable value equal to or greater than the carrying value of the investment. Once a decline in value is determined to be other-than-temporary, the value of the security is reduced and a corresponding charge to earnings is recognized.
+39
+Deferred Income Taxes.
+We use the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. If current available information raises doubt as to the realization of the deferred tax assets, a valuation allowance is established. We consider the determination of this valuation allowance to be a critical accounting policy because of the need to exercise significant judgment in evaluating the amount and timing of recognition of deferred tax liabilities and assets, including projections of future taxable income. These judgments and estimates are reviewed on a continual basis as regulatory and business factors change. A valuation allowance for deferred tax assets may be required if the amount of taxes recoverable through loss carryback declines, or if we project lower levels of future taxable income. Such a valuation allowance would be established through a charge to income tax expense that would adversely affect our operating results.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements (as such term is defined in applicable Securities and Exchange Commission rules) that are reasonably likely to have a current or future material effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources.
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+The majority of our assets and liabilities are monetary in nature. Consequently, our most significant form of market risk is interest rate risk. Our assets, consisting primarily of mortgage loans, have longer maturities than our liabilities, consisting primarily of deposits and borrowings. As a result, a principal part of our business strategy is to manage interest rate risk and reduce the exposure of our net interest income to changes in market interest rates. Accordingly, our Board of Directors has approved guidelines for managing the interest rate risk inherent in our assets and liabilities, given our business strategy, operating environment, capital, liquidity and performance objectives. Senior management monitors the level of interest rate risk on a regular basis and the asset/liability committee meets quarterly to review our asset/liability policies and interest rate risk position.
+We have sought to manage our interest rate risk in order to minimize the exposure of our earnings and capital to changes in interest rates. The net proceeds from the Company’s stock offering increased our capital and provided management with greater flexibility to manage our interest rate risk. In particular, management used the majority of the capital we received to increase our interest-earning assets. There have been no material changes in our interest rate risk since September 30, 2022.
+Item 4.
+Controls and Procedures
+Under the supervision and with the participation of our management, including our Principal Executive Officer and Principal Financial Officer, we evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) as of the end of the period covered by this Report. Based upon that evaluation, the Principal Executive Officer and Principal Financial Officer concluded that, as of the end of the period covered by this Report, our disclosure controls and procedures were effective.
+There were no changes made in the Company’s internal controls over financial reporting (as defined by Rule 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934) or in other factors that have materially affected, or are reasonably likely to materially affect, the Company’s internal controls over financial reporting during the period covered by this Quarterly Report on Form 10-Q.
+40
+Part II – Other Information
+Item 1.
+Legal Proceedings
+The Company and its subsidiaries are subject to various legal actions arising in the normal course of business. In the opinion of Management, the resolution of these legal actions is not expected to have a material adverse effect on the Company’s results of operations.
+The Company and its subsidiary, ESSA Bank and Trust (“ESSA B&T”) were named as defendants, among others, in an action commenced on December 8, 2016 by one plaintiff who sought to pursue the suit as a class action on behalf of the entire class of people similarly situated.  The plaintiff alleged that a bank previously acquired by the Company received unearned fees and kickbacks in the process of making loans, in violation of the Real Estate Settlement Procedures Act.  In an order dated January 29, 2018, the district court granted the defendants’ motion to dismiss the case.  The plaintiff appealed the court’s ruling.  In an opinion and order dated April 26, 2019, the appellate court reversed the district court’s order dismissing the plaintiff’s case against the Company and remanded the case to the district court in order to continue the litigation.  The litigation is now proceeding before the district court.  On December 9, 2019, the court permitted an amendment to the complaint to add two new plaintiffs to the case asserting similar claims.  On May 21, 2020, the court granted the plaintiffs’ motion for class certification.  The case is currently in the expert witness discovery phase and the Company and ESSA B&T will continue to vigorously defend against plaintiffs’ allegations.  To the extent that this matter could result in exposure to the Company and/or ESSA B&T, the amount or range of such exposure is not currently estimable but could be substantial.
+On May 29, 2020, the Company and ESSA B&T were named as defendants in a second action commenced by three plaintiffs who also seek to pursue this action as a class action on behalf of the entire class of people similarly situated.  The plaintiffs allege that a bank previously acquired by the Company received unearned fees and kickbacks from a different title company than the one involved in the previously discussed litigation in the process of making loans.  The original complaint alleged violations of the Real Estate Settlement Procedures Act, the Sherman Act, and the Racketeer Influenced and Corrupt Organizations Act (“RICO”).  The plaintiffs filed an Amended Complaint on September 30, 2020 that dropped the RICO claim, but they are continuing to pursue the Real Estate Settlement Procedures Act and Sherman Act claims.  The defendants moved to dismiss the Sherman Act claim on October 14, 2020, and that motion was denied on April 2, 2021.  The case is currently in the fact discovery phase and plaintiffs have moved to have the court certify the matter as a class action. The Company and ESSA B&T intend to vigorously defend against plaintiffs’ allegations.  To the extent that this matter could result in exposure to the Company and/or ESSA B&T, the amount or range of such exposure is not currently estimable but could be substantial.
+Item 1A. Ri sk Factors
+There have been no material changes in the “Risk Factors” as disclosed in the Company’s response to Item 1A in Part 1 of its Annual Report on Form 10-K for the year ended September 30, 2022, filed on December 14, 2022.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+On June 6, 2022 the Company announced the authorization of a ninth repurchase program for up to 500,000 shares of its common stock.  This program has no expiration date. The company made no purchases of its common stock under this program during the three month period ended December 31, 2022.  There are currently 389,851 shares that may yet be repurchased under the program.
+Item 3.
+Defaults Upon Senior Securities
+Not applicable.
+Item 4.
+Mine Safety Disclosures
+Not applicable.
+Item 5.
+Other Information
+Not applicable.
+41
+Item 6.
+Exhibits
+The following exhibits are either filed as part of this Report or are incorporated herein by reference:
+3.1
+Articles of Incorporation of ESSA Bancorp, Inc. (incorporated by reference to the Registration Statement on Form S-1 of ESSA Bancorp, Inc. (file no. 333-139157), originally filed with the Securities and Exchange Commission on December 7, 2006)
+3.2
+Bylaws of ESSA Bancorp, Inc. (incorporated by reference to the Registration Statement on Form S-1 of ESSA Bancorp, Inc. (file no. 333-139157), originally filed with the Securities and Exchange Commission on December 7, 2006)
+4
+Form of Common Stock Certificate of ESSA Bancorp, Inc. (incorporated by reference to the Registration Statement on Form S-1 of ESSA Bancorp, Inc. (file no. 333-139157), originally filed with the Securities and Exchange Commission on December 7, 2006)
+10.1
+Amended and Restated Employment Agreement between ESSA Bank & Trust, ESSA Bancorp, Inc. and Allan Muto (incorporated by reference to the Current Report on Form 8-K of ESSA Bancorp, Inc. (file no. 001-33384), originally filed with the Securities and Exchange Commission on January 5, 2022)
+10.2
+Amended and Restated Employment Agreement between ESSA Bank & Trust, ESSA Bancorp, Inc. and Charles Hangen
+(incorporated by reference to the Current Report on Form 8-K of ESSA Bancorp, Inc. (file no. 001-33384), originally filed with the Securities and Exchange Commission on January 5, 2022)
+10.3
+Amended and Restated Employment Agreement between ESSA Bank & Trust, ESSA Bancorp, Inc. and Peter Gray (incorporated by reference to the Current Report on Form 8-K of ESSA Bancorp, Inc. (file no. 001-33384), originally filed with the Securities and Exchange Commission on January 5, 2022)
+31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101
+Interactive data files pursuant to Rule 405 of Regulation S-T, formatted in Inline XBRL (Extensible Business Reporting Language): (i) the Consolidated Statements of Condition; (ii) the Consolidated Statement of Income; (iii) the Consolidated Statement of Changes in Stockholder Equity; (iv) the Consolidated Statement of Cash Flows; and (v) the Notes to Consolidated Financial Statements.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+42
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ESSA BANCORP, INC.
+Date: February 10, 2023
+/s/ Gary S. Olson
+Gary S. Olson
+President and Chief Executive Officer
+Date: February 10, 2023
+/s/ Allan A. Muto
+Allan A. Muto
+Executive Vice President and Chief Financial Officer
+43

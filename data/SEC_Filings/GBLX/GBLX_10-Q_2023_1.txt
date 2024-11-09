@@ -1,0 +1,2339 @@
+2022
+165,861
+104,201
+55,915
+1,765
+0
+99,489
+0.0001
+0.0001
+600,000,000
+600,000,000
+379,205,894
+379,205,894
+325,037,557
+325,037,557
+6
+3
+2
+4
+0
+3
+3
+1
+3
+3
+3
+1
+3
+3
+0
+1
+1
+1
+5
+5
+5
+1
+0001165320 2022-04-01 2022-12-31
+xbrli:shares
+0001165320 2023-02-03
+thunderdome:item
+iso4217:USD
+0001165320 2022-12-31
+0001165320 2022-03-31
+iso4217:USD xbrli:shares
+0001165320 2022-10-01 2022-12-31
+0001165320 2021-10-01 2021-12-31
+0001165320 2021-04-01 2021-12-31
+0001165320 2021-03-31
+0001165320 2021-12-31
+0001165320 us-gaap:CommonStockMember 2022-09-30
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001165320 us-gaap:RetainedEarningsMember 2022-09-30
+0001165320 2022-09-30
+0001165320 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001165320 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001165320 us-gaap:CommonStockMember 2022-12-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001165320 us-gaap:RetainedEarningsMember 2022-12-31
+0001165320 us-gaap:CommonStockMember 2021-09-30
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001165320 us-gaap:RetainedEarningsMember 2021-09-30
+0001165320 2021-09-30
+0001165320 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001165320 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001165320 us-gaap:CommonStockMember 2021-12-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001165320 us-gaap:RetainedEarningsMember 2021-12-31
+0001165320 us-gaap:CommonStockMember 2022-03-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2022-03-31
+0001165320 us-gaap:RetainedEarningsMember 2022-03-31
+0001165320 us-gaap:CommonStockMember 2022-04-01 2022-12-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2022-04-01 2022-12-31
+0001165320 us-gaap:RetainedEarningsMember 2022-04-01 2022-12-31
+0001165320 us-gaap:CommonStockMember 2021-03-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2021-03-31
+0001165320 us-gaap:RetainedEarningsMember 2021-03-31
+0001165320 us-gaap:CommonStockMember 2021-04-01 2021-12-31
+0001165320 us-gaap:AdditionalPaidInCapitalMember 2021-04-01 2021-12-31
+0001165320 us-gaap:RetainedEarningsMember 2021-04-01 2021-12-31
+xbrli:pure
+0001165320 us-gaap:PatentsMember country:US 2022-12-31
+0001165320 us-gaap:PatentsMember us-gaap:NonUsMember 2022-12-31
+0001165320 gblx:PatentsPendingMember country:US 2022-12-31
+0001165320 gblx:PatentsPendingMember us-gaap:NonUsMember 2022-12-31
+0001165320 gblx:LicensedPatentsMember country:US 2022-12-31
+0001165320 gblx:GbsGlobalBiopharmaIncMember us-gaap:PatentsMember country:US 2022-12-31
+0001165320 us-gaap:PatentsMember 2022-04-01 2022-12-31
+0001165320 us-gaap:PatentsMember 2021-04-01 2021-12-31
+0001165320 us-gaap:PatentsMember 2022-12-31
+0001165320 gblx:LicensedPatentsMember 2022-12-31
+0001165320 us-gaap:TrademarksMember 2022-12-31
+0001165320 2021-01-01 2021-12-31
+0001165320 2022-01-01 2022-12-31
+0001165320 us-gaap:WarrantMember 2022-01-01 2022-12-31
+0001165320 us-gaap:EmployeeStockOptionMember 2022-01-01 2022-12-31
+0001165320 us-gaap:SegmentDiscontinuedOperationsMember 2022-12-31
+0001165320 us-gaap:SegmentDiscontinuedOperationsMember 2022-03-31
+0001165320 us-gaap:SegmentContinuingOperationsMember 2022-10-01 2022-12-31
+0001165320 us-gaap:SegmentDiscontinuedOperationsMember 2022-10-01 2022-12-31
+0001165320 gblx:SegmentContinuingAndDiscontinuedOperationsMember 2022-10-01 2022-12-31
+0001165320 us-gaap:SegmentContinuingOperationsMember 2021-10-01 2021-12-31
+0001165320 us-gaap:SegmentDiscontinuedOperationsMember 2021-10-01 2021-12-31
+0001165320 gblx:SegmentContinuingAndDiscontinuedOperationsMember 2021-10-01 2021-12-31
+0001165320 us-gaap:SegmentContinuingOperationsMember 2022-04-01 2022-12-31
+0001165320 us-gaap:SegmentDiscontinuedOperationsMember 2022-04-01 2022-12-31
+0001165320 gblx:SegmentContinuingAndDiscontinuedOperationsMember 2022-04-01 2022-12-31
+0001165320 us-gaap:SegmentContinuingOperationsMember 2021-04-01 2021-12-31
+0001165320 us-gaap:SegmentDiscontinuedOperationsMember 2021-04-01 2021-12-31
+0001165320 gblx:SegmentContinuingAndDiscontinuedOperationsMember 2021-04-01 2021-12-31
+0001165320 gblx:The0PercentNotePayableDatedOctober232017Member gblx:PromissoryNoteMember 2022-03-04
+0001165320 gblx:The0PercentNotePayableDatedOctober232017Member gblx:PromissoryNoteMember 2022-03-04 2022-03-04
+0001165320 gblx:The0PercentNotePayableDatedOctober232017Member gblx:PromissoryNoteMember 2022-12-31
+0001165320 gblx:The0PercentNotePayableDatedOctober232017Member gblx:PromissoryNoteMember 2022-04-01 2022-12-31
+0001165320 gblx:March2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2017-03-31
+0001165320 gblx:March2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember us-gaap:CommonStockMember 2017-03-01 2017-03-31
+0001165320 gblx:March2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember us-gaap:CommonStockMember 2017-03-31
+0001165320 gblx:WarrantsIssuedInMarch2017ConvertibleNoteOfferingMember 2017-03-01 2017-03-31
+0001165320 gblx:WarrantsIssuedInMarch2017ConvertibleNoteOfferingMember 2017-03-31
+utr:Y
+0001165320 gblx:March2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2017-05-31
+0001165320 gblx:March2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2017-03-01 2017-05-31
+0001165320 gblx:March2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember us-gaap:CommonStockMember 2017-03-01 2017-05-31
+0001165320 gblx:WarrantsIssuedInMarch2017ConvertibleNoteOfferingMember 2017-03-01 2017-05-31
+0001165320 gblx:WarrantsIssuedInMarch2017ConvertibleNoteOfferingMember 2017-05-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2017-07-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember gblx:PromissoryNoteMember 2017-07-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember us-gaap:CommonStockMember 2017-07-01 2017-07-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember us-gaap:CommonStockMember 2017-07-31
+0001165320 gblx:WarrantsIssuedInMarch2017AndJuly2017ConvertibleNoteOfferingsMember 2017-07-01 2017-07-31
+0001165320 gblx:WarrantsRelatedToJuly2017ConvertibleNoteOfferingMember 2017-07-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2017-07-01 2017-07-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2017-12-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2017-07-01 2017-12-31
+0001165320 gblx:July2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember us-gaap:CommonStockMember 2017-07-01 2017-12-31
+0001165320 gblx:WarrantsRelatedToJuly2017ConvertibleNoteOfferingMember 2017-07-01 2017-12-31
+0001165320 gblx:WarrantsRelatedToJuly2017ConvertibleNoteOfferingMember 2017-12-31
+0001165320 gblx:MarchAndJuly2017ConvertibleNoteOfferingMember us-gaap:ConvertibleNotesPayableMember 2022-03-31
+0001165320 gblx:WarrantsIssuedInMarch2017AndJuly2017ConvertibleNoteOfferingsMember 2021-04-01 2022-03-31
+0001165320 gblx:WarrantsIssuedInSeptember302023ConvertibleNoteOfferingMember 2022-03-31
+0001165320 gblx:MarchAndJuly2017ConvertibleNoteOfferingMember us-gaap:ConvertibleDebtMember 2021-04-01 2022-03-31
+0001165320 gblx:MarchAndJuly2017ConvertibleNoteOfferingMember us-gaap:ConvertibleDebtMember 2022-03-31
+0001165320 gblx:MarchAndJuly2017ConvertibleNoteOfferingMember us-gaap:ConvertibleDebtMember 2022-04-01 2022-12-31
+0001165320 gblx:MarchAndJuly2017ConvertibleNoteOfferingMember us-gaap:ConvertibleDebtMember 2022-12-31
+0001165320 us-gaap:ConvertibleDebtMember 2022-03-31
+0001165320 gblx:The500kNoteMember us-gaap:ConvertibleDebtMember 2022-01-01 2022-01-31
+0001165320 gblx:The560kExtensionMember us-gaap:ConvertibleDebtMember 2022-01-31
+0001165320 us-gaap:ConvertibleDebtMember 2022-01-31
+0001165320 gblx:The560kExtensionMember us-gaap:ConvertibleDebtMember 2022-09-28
+0001165320 gblx:The560kExtensionMember us-gaap:ConvertibleDebtMember 2022-10-01
+0001165320 gblx:The500kNoteMember us-gaap:ConvertibleDebtMember 2022-10-05 2022-10-05
+0001165320 gblx:The500kNoteMember us-gaap:ConvertibleDebtMember 2022-10-05
+0001165320 gblx:The560kExtensionMember us-gaap:ConvertibleDebtMember 2022-12-31
+0001165320 gblx:The560kExtensionMember us-gaap:ConvertibleDebtMember 2022-04-01 2022-12-31
+0001165320 gblx:The6PercentConvertibleNotePayableDatedDecember312023Member 2020-12-18
+0001165320 gblx:ThreeInvestorsMember gblx:The6PercentConvertibleNotePayableDatedDecember312023Member 2020-12-18
+0001165320 gblx:ThreeInvestorsMember gblx:The6ConvertibleNotePayableMatureInDecember2021Member 2020-12-18
+0001165320 gblx:ThreeInvestorsMember gblx:The6ConvertibleNotePayableMatureInDecember2023Member 2020-12-18
+0001165320 gblx:The6PercentConvertibleNotePayableIssuedWithInMoneyConversionFeaturesMember 2020-04-01 2020-12-18
+0001165320 gblx:The6PercentConvertibleNotePayableIssuedWithInMoneyConversionFeaturesMember 2020-12-18
+0001165320 gblx:The300kExtensionMember 2022-09-28
+0001165320 gblx:The300kExtensionMember 2022-10-01
+0001165320 gblx:The6PercentConvertibleNotePayableIssuedWithInMoneyConversionFeaturesMember 2022-12-31
+0001165320 gblx:The6PercentConvertibleNotePayableIssuedWithInMoneyConversionFeaturesMember 2022-04-01 2022-12-31
+0001165320 gblx:The8NotePayableDatedOctober232017CurrentPortionMember gblx:ShortTermNotePayableMember 2022-12-31
+0001165320 gblx:The8ConvertiblePromissoryNotePayableDueOctober12023Member us-gaap:ConvertibleDebtMember 2022-12-31
+0001165320 gblx:The8ConvertibleNotesPayableOctober12023Member us-gaap:ConvertibleDebtMember 2022-12-31
+0001165320 gblx:The6PercentNotesPayableDueJanuary182022Member us-gaap:ConvertibleDebtMember 2022-12-31
+0001165320 gblx:The6NotesPayableDueJuly12022Member us-gaap:ConvertibleDebtMember 2022-12-31
+0001165320 gblx:The6PercentNotePayableDatedSeptember302023Member us-gaap:ConvertibleDebtMember 2022-12-31
+0001165320 gblx:The6ConvertibleNotePayableDueDecember312023Member gblx:ConvertibleLongtermDebtMember 2022-12-31
+0001165320 gblx:PromissoryNoteShortTermMember 2022-12-31
+0001165320 gblx:The8NotePayableDatedOctober232017LongTermPortionMember gblx:NotePayableMember 2022-12-31
+0001165320 gblx:PromissoryNoteMember 2022-12-31
+0001165320 us-gaap:PrivatePlacementMember 2022-05-09 2022-05-09
+0001165320 us-gaap:PrivatePlacementMember 2022-05-09
+0001165320 gblx:WarrantsIssuedToInvestorsInPrivatePlacementsMember 2022-05-09
+0001165320 gblx:WarrantsIssuedToInvestorsInPrivatePlacementsMember 2022-06-30
+0001165320 us-gaap:PrivatePlacementMember 2022-09-09 2022-09-09
+0001165320 us-gaap:PrivatePlacementMember 2022-04-01 2022-12-31
+0001165320 gblx:WarrantsIssuedToInvestorsInPrivatePlacementsMember 2022-04-01 2022-12-31
+0001165320 gblx:WarrantsIssuedToInvestorsInPrivatePlacementsMember 2022-12-31
+0001165320 gblx:CompensationWarrantsMember 2022-04-01 2022-12-31
+0001165320 gblx:CompensationWarrantsMember 2022-12-31
+0001165320 us-gaap:EmployeeStockOptionMember gblx:SevenPersonsMember 2022-08-25
+0001165320 srt:MaximumMember 2022-09-28 2022-09-28
+0001165320 gblx:NevadaSubsidiariesMember 2020-03-24 2020-03-24
+0001165320 gblx:TecoSubsidiariesMember 2020-03-24 2020-03-24
+0001165320 gblx:TecoSubsidiariesMember 2020-03-24
+0001165320 gblx:GBSciencesNopahLLCMember 2019-11-27 2019-11-27
+0001165320 gblx:GBSciencesNopahLLCMember 2020-08-10 2020-08-10
+0001165320 gblx:GBSciencesNopahLLCMember 2020-08-10 2020-08-10
+0001165320 gblx:The0PercentNotePayableDatedOctober232017Member gblx:PromissoryNoteMember 2020-08-10
+0001165320 gblx:AccountsPayableDueToAffiliateOfThePurchaserMember gblx:GBSciencesNopahLLCMember 2020-08-10 2020-08-10
+0001165320 gblx:GBSciencesNopahLLCMember 2021-12-31 2021-12-31
+0001165320 gblx:GBSciencesNopahLLCMember 2021-12-31
+0001165320 gblx:GBSciencesNopahLLCMember 2021-04-11 2022-12-31
+0001165320 gblx:GBSciencesNopahLLCMember 2022-12-31
+0001165320 gblx:GBSciencesNopahLLCMember 2021-04-01 2022-03-31
+0001165320 gblx:GBSciencesNopahLLCMember 2021-04-01 2022-12-31
+0001165320 gblx:NevadaSubsidiariesMember 2022-04-01 2022-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+________________________
+FORM
+10-Q
+__________________________
+(Mark One)
+☒
+QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+☐
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________ to ___________
+Commission file number:
+000-55462
+GB SCIENCES, INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+(State or other Jurisdiction of Incorporation or organization)
+59-3733133
+(IRS Employer I.D. No.)
+9205 W. Russell Road, Suite 240
+Las Vegas ,
+Nevada
+89148
+Phone: ( 866 )
+721-0297
+(Address and telephone number of
+principal executive offices)
+3550 W. Teco Ave., Las Vegas, NV 89118
+(Former name, former address and former fiscal year, if changed since last report )
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each Class Trading Symbol(s) Name of exchange on which registered
+None N/A N/A
+Indicate by check mark whether registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  ☒   Yes      ☐  No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   ☒   Yes      ☐  No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer
+☐
+Smaller reporting company   ☒
+Emerging growth company   ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Act).   ☐   Yes     ☒  No
+There were
+379,205,894
+shares of common stock, par value $0.0001 per share, outstanding as of  February 3, 2023.
+Table of Contents
+GB SCIENCES, INC.
+FORM 10-Q
+FOR THE QUARTERLY PERIOD ENDED December 31, 2022
+INDEX
+Page
+PART I. FINANCIAL INFORMATION
+3
+ITEM 1. Financial Statements (Unaudited)
+3
+ITEM 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+20
+ITEM 3.  Quantitative and Qualitative Disclosures About Market Risk
+32
+ITEM 4.  Controls and Procedures
+32
+PART II – OTHER INFORMATION
+33
+ITEM 1.  Legal Proceedings
+33
+ITEM 1A.  Risk Factors
+33
+ITEM 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+33
+ITEM 3.  Defaults Upon Senior Securities
+33
+ITEM 4.  Mine Safety Disclosures
+33
+ITEM 5.  Other Information
+33
+ITEM 6.  Exhibits
+33
+2
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1. Financial Statements (Unaudited)
+GB SCIENCES, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+As of December 31,
+As of March 31,
+2022
+2022
+(unaudited)
+CURRENT ASSETS:
+Cash and cash equivalents
+$ 274,038     $ 233,893
+Prepaid expenses and other current assets
+159,185       93,933
+TOTAL CURRENT ASSETS
+433,223       327,826
+Intangible assets, net of accumulated amortization of $ 165,861
+and $ 104,201
+at December 31, 2022 and March 31, 2022, respectively
+2,358,703       2,222,074
+TOTAL ASSETS
+$ 2,791,926     $ 2,549,900
+CURRENT LIABILITIES:
+Accounts payable
+$ 1,751,820     $ 1,657,008
+Accrued interest
+322,140       384,769
+Accrued liabilities
+37,950       9,627
+Notes and convertible notes payable and line of credit, net of unamortized discount of $ 55,915
+and $ 1,765
+at December 31, 2022 and March 31, 2022, respectively
+1,387,682       987,565
+Income taxes payable
+896,495       896,495
+TOTAL CURRENT LIABILITIES
+4,396,087       3,935,464
+Notes and convertible notes payable, net of unamortized discount of $ 0
+and $ 99,489
+at December 31, 2022 and March 31, 2022, respectively
+7,546       397,308
+TOTAL LIABILITIES
+4,403,633       4,332,772
+Commitments and contingencies (Note 6)
+STOCKHOLDERS' DEFICIT:
+Common Stock, $ 0.0001
+par value,
+600,000,000
+shares authorized,
+379,205,894
+and
+325,037,557
+outstanding at December 31, 2022 and March 31, 2022, respectively
+37,921       32,504
+Additional paid-in capital
+104,190,412       102,764,746
+Accumulated deficit
+( 105,840,040 )     ( 104,580,122 )
+TOTAL STOCKHOLDERS' DEFICIT
+( 1,611,707 )     ( 1,782,872 )
+TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT
+$ 2,791,926     $ 2,549,900
+The accompanying unaudited condensed notes are an integral part of these unaudited consolidated financial statements
+3
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(unaudited)
+For the Three Months Ended December 31,
+For the Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Sales revenue
+$
+-
+$
+-
+$
+-
+$
+-
+Cost of goods sold
+-
+-
+-
+-
+Gross profit
+-
+-
+-
+-
+General and administrative expenses
+407,302
+512,788
+1,142,658
+1,417,738
+LOSS FROM OPERATIONS
+( 407,302
+)
+( 512,788
+)
+( 1,142,658
+)
+( 1,417,738
+)
+OTHER INCOME/(EXPENSE)
+Interest expense
+( 41,470
+)
+( 159,478
+)
+( 117,260
+)
+( 319,976
+)
+Gain on deconsolidation
+-
+5,206,208
+-
+5,206,208
+Other expense
+-
+( 15,639
+)
+-
+( 6,639
+)
+Total other income/(expense)
+( 41,470
+)
+5,031,091
+( 117,260
+)
+4,879,593
+GAIN/(LOSS) BEFORE INCOME TAXES
+( 448,772
+)
+4,518,303
+( 1,259,918
+)
+3,461,855
+Income tax expense
+-
+-
+-
+-
+GAIN/(LOSS) FROM CONTINUING OPERATIONS
+( 448,772
+)
+4,518,303
+( 1,259,918
+)
+3,461,855
+Loss from discontinued operations
+-
+( 192,766
+)
+-
+( 324,590
+)
+NET INCOME/(LOSS)
+$
+( 448,772
+)
+$
+4,325,537
+$
+( 1,259,918
+)
+$
+3,137,265
+Net income/(loss) attributable to common stockholders of GB Sciences, Inc. - basic
+Continuing operations
+$
+( 448,772
+)
+$
+4,518,303
+$
+( 1,259,918
+)
+$
+3,461,855
+Discontinued operations
+$
+-
+$
+( 192,766
+)
+$
+-
+$
+( 324,590
+)
+Net income/(loss)
+$
+( 448,772
+)
+$
+4,325,537
+$
+( 1,259,918
+)
+$
+3,137,265
+Net income/(loss) attributable to common stockholders of GB Sciences, Inc. - diluted
+Continuing operations
+$
+( 448,772
+)
+$
+4,358,861
+$
+( 1,259,918
+)
+$
+3,347,016
+Discontinued operations
+$
+-
+$
+( 192,766
+)
+$
+-
+$
+( 324,590
+)
+Net income/(loss)
+$
+( 448,772
+)
+$
+4,166,095
+$
+( 1,259,918
+)
+$
+3,022,426
+Net income/(loss) per common share – basic
+Continuing operations
+$
+( 0.00
+)
+$
+0.01
+$
+( 0.00
+)
+$
+0.01
+Discontinued operations
+$
+-
+$
+( 0.00
+)
+$
+-
+$
+( 0.00
+)
+Net income/(loss)
+$
+( 0.00
+)
+$
+0.01
+$
+( 0.00
+)
+$
+0.01
+Net income/(loss) per common share – diluted
+Continuing operations
+$
+( 0.00
+)
+$
+0.01
+$
+( 0.00
+)
+$
+0.01
+Discontinued operations
+$
+-
+$
+( 0.00
+)
+$
+-
+$
+( 0.00
+)
+Net income/(loss)
+$
+( 0.00
+)
+$
+0.01
+$
+( 0.00
+)
+$
+0.01
+Weighted average common shares outstanding - basic
+378,912,416
+317,435,744
+350,397,710
+316,853,591
+Weighted average common shares outstanding - diluted
+378,912,416
+342,320,490
+350,397,710
+343,464,913
+The accompanying unaudited condensed notes are an integral part of these unaudited consolidated financial statements
+4
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited)
+Nine Months Ended December 31,
+2022
+2021
+OPERATING ACTIVITIES:
+Net (loss)/income
+$
+( 1,259,918
+)
+$
+3,137,265
+Loss from discontinued operations
+-
+( 324,590
+)
+Net (loss)/income from continuing operations
+( 1,259,918
+)
+3,461,855
+Adjustments to reconcile net loss/(income) to net cash used in operating activities:
+Depreciation and amortization
+61,660
+53,424
+Stock-based compensation
+17,333
+54,167
+Amortization of debt discount and beneficial conversion feature
+45,339
+227,537
+Gain on deconsolidation
+-
+( 5,206,208
+)
+Loss on disposal
+-
+15,639
+Changes in operating assets and liabilities:
+Prepaid expenses and other current assets
+( 65,252
+)
+143,904
+Accounts payable
+( 71,827
+)
+899,415
+Accrued expenses
+28,323
+( 855,172
+)
+Accrued interest
+( 62,629
+)
+92,296
+Net cash used in operating activities of continuing operations
+( 1,306,971
+)
+( 1,113,143
+)
+Net cash used in operating activities of discontinued operations
+-
+( 87,772
+)
+Net cash used in operating activities
+( 1,306,971
+)
+( 1,200,915
+)
+INVESTING ACTIVITIES:
+Proceeds from sale of Nevada subsidiaries
+-
+1,648,772
+Acquisition of intangible assets
+( 31,650
+)
+( 100,000
+)
+Net cash provided by/(used in) investing activities of continuing operations
+( 31,650
+)
+1,548,772
+Net cash provided by investing activities of discontinued operations
+-
+1,567
+Net cash provided by/(used in) investing activities
+( 31,650
+)
+1,550,339
+FINANCING ACTIVITIES:
+Gross proceeds from warrant exercises
+-
+62,660
+Proceeds from issuing convertible note
+-
+50,000
+Gross proceeds from issuing common stock
+1,625,000
+-
+Brokerage fees for common stock sales
+( 211,250
+)
+-
+Principal payment on notes and convertible notes payable
+( 34,984
+)
+-
+Net cash provided by financing activities of continuing operations
+1,378,766
+112,660
+Net cash used in financing activities of discontinued operations
+-
+( 103,387
+)
+Net cash provided by financing activities
+1,378,766
+9,273
+Net change in cash and cash equivalents
+40,145
+358,697
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD
+233,893
+1,145,633
+CASH AND CASH EQUIVALENTS AT END OF PERIOD
+274,038
+1,504,330
+Less: cash and cash equivalents classified as discontinued operations
+-
+-
+CASH AND CASH EQUIVALENTS AT END OF PERIOD FROM CONTINUING OPERATIONS
+$
+274,038
+$
+1,504,330
+The accompanying unaudited condensed notes are an integral part of these unaudited consolidated financial statements
+5
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+(unaudited)
+Nine Months Ended December 31,
+2022
+2021
+Cash paid for interest
+$
+134,550
+$
+-
+Cash paid for income tax
+$
+-
+$
+-
+Non-cash investing and financing transactions:
+Compensation warrants issued to brokers in private placement
+$
+147,879
+$
+-
+Depreciation capitalized in inventory (discontinued operations)
+$
+-
+$
+349,015
+Accrued patent drafting and filing costs capitalized in intangible assets
+$
+166,639
+$
+342,086
+Note receivable from sale of Nevada subsidiaries
+$
+-
+$
+3,025,000
+Extinguishment of debt and accrued interest owed to the purchasers of Nevada subsidiaries and purchasers' affiliates
+$
+-
+$
+2,612,854
+Extinguishment of accrued management fees payable to purchaser of Nevada subsidiaries
+$
+-
+$
+850,000
+Stock options issued as compensation for drafting and filing patent applications
+$
+-
+$
+28,800
+Induced dividend from warrant exercises
+$
+-
+$
+163,017
+The accompanying unaudited condensed notes are an integral part of these unaudited consolidated financial statements
+6
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY/(DEFICIT)
+For the Three Months Ended December 31, 2022 and 2021
+(unaudited)
+Shares
+Amount
+Additional Paid-In Capital
+Accumulated Deficit
+Total
+Balance at September 30, 2022
+378,205,894
+$
+37,821
+$
+104,160,079
+$
+( 105,391,268
+)
+$
+( 1,193,368
+)
+Stock issued for cash, net of offering costs
+1,000,000
+100
+26,000
+-
+26,100
+Share based compensation expense
+-
+-
+4,333
+-
+4,333
+Net loss
+-
+-
+-
+( 448,772
+)
+( 448,772
+)
+Balance at December 31, 2022
+379,205,894
+$
+37,921
+$
+104,190,412
+$
+( 105,840,040
+)
+$
+( 1,611,707
+)
+Shares
+Amount
+Additional Paid-In Capital
+Accumulated Deficit
+Total
+Balance at September 30, 2021
+317,429,078
+$
+31,743
+$
+102,667,772
+$
+( 105,237,521
+)
+$
+( 2,538,006
+)
+Adjustment to prior period warrant exercise
+6,666
+1
+( 1
+)
+-
+-
+Share based compensation expense
+-
+-
+15,167
+-
+15,167
+Net income
+-
+-
+-
+4,325,537
+4,325,537
+Balance at December 31, 2021
+317,435,744
+$
+31,744
+$
+102,682,938
+$
+( 100,911,984
+)
+$
+1,802,698
+The accompanying unaudited condensed notes are an integral part of these unaudited consolidated financial statements
+7
+GB SCIENCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY/(DEFICIT)
+For the Nine Months Ended December 31, 2022 and 2021
+(unaudited)
+Shares
+Amount
+Additional Paid-In Capital
+Accumulated Deficit
+Total
+Balance at March 31, 2022
+325,037,557
+$
+32,504
+$
+102,764,746
+$
+( 104,580,122
+)
+$
+( 1,782,872
+)
+Stock issued for cash, net of offering costs
+54,168,337
+5,417
+1,408,333
+-
+1,413,750
+Share based compensation expense
+-
+-
+17,333
+-
+17,333
+Net loss
+-
+-
+-
+( 1,259,918
+)
+( 1,259,918
+)
+Balance at December 31, 2022
+379,205,894
+$
+37,921
+$
+104,190,412
+$
+( 105,840,040
+)
+$
+( 1,611,707
+)
+Shares
+Amount
+Additional Paid-In Capital
+Accumulated Deficit
+Total
+Balance at March 31, 2021
+315,340,411
+$
+31,534
+$
+102,380,770
+$
+( 103,886,232
+)
+$
+( 1,473,928
+)
+Exercise of warrants for stock, net of issuance costs
+2,095,333
+210
+56,184
+-
+56,394
+Share based compensation expense
+-
+-
+54,167
+-
+54,167
+Stock options issued as compensation for drafting and filing patents
+-
+-
+28,800
+-
+28,800
+Inducement dividend from warrant exercises
+-
+-
+163,017
+( 163,017
+)
+-
+Net income
+-
+-
+-
+3,137,265
+3,137,265
+Balance at December 31, 2021
+317,435,744
+$
+31,744
+$
+102,682,938
+$
+( 100,911,984
+)
+$
+1,802,698
+The accompanying unaudited condensed notes are an integral part of these unaudited consolidated financial statements
+8
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Note
+1
+– Background and Significant Accounting Policies
+GB Sciences, Inc. (“the Company”, “GB Sciences”, “we”, “us”, or “our”) is a plant-inspired, biopharmaceutical research and development company creating patented, disease-targeted formulations of cannabis- and other plant-inspired therapeutic mixtures for the prescription drug market through its wholly owned Canadian subsidiary, GbS Global Biopharma, Inc. (“GBSGB”).
+Through GBSGB, the Company is engaged in the research and development of plant-inspired medicines, with virtual operations in North America and Europe. GBSGB’s assets include a portfolio of intellectual property containing both proprietary plant-inspired formulations and our AI-enabled drug discovery platform, as well as critical research contracts and key supplier arrangements. The Company’s intellectual property portfolio, which is held by GBSGB, contains
+six
+issued U.S. and
+three
+issued foreign patents, as well as
+18
+U.S. and
+49
+foreign patent-pending applications. On
+October
+14th,
+2021,
+we filed the nonprovisional USPTO patent application entitled “METHOD AND SYSTEMS FOR PHYTOMEDICINE ANALYTICS FOR RESEARCH OPTIMIZATION AT SCALE" to further protect aspects of our proprietary drug discovery engine, PhAROS™, which stands for
+Ph ytomedical
+A nalytics for
+R esearch
+O ptimization at
+S cale. On
+March
+1st,
+2022,
+the Company’s newest patent was issued by the U.S. Patent and Trademark Office (USPTO) for a cannabinoid-containing mixture designed to treat cardiac hypertrophy, often present in advanced heart disease. The Company’s newly issued patent also covers the use of these receptor-targeted formulations for the treatment of
+TRPV1 -receptor associated hearing loss and urinary cystitis.
+GBSGB’s intellectual property covers a range of over
+65
+medical conditions, from which
+five
+drug development programs are in the preclinical stage of drug development including our formulations for Parkinson’s disease ("PD"), chronic pain, COVID-related cytokine release syndrome, depression/anxiety, and cardiovascular therapeutic programs. The Company’s primary focus is on preparing its lead program for the treatment of the motor symptoms of Parkinson's disease for a
+first -in-human clinical trial. Depending on the results of ongoing preclinical studies, the Company intends to move forward with clinical trials for its chronic pain and COVID-related cytokine release syndrome therapies after PD. The Company’s formulations for chronic pain, anxiety, and depression are currently in preclinical animal studies with researchers at the National Research Council Canada. The Company also recently received positive preclinical proof-of-concept data supporting its complex mixtures for the treatment of Cytokine Release Syndrome related to COVID- 19,
+and its lead candidates will be optimized based on late-stage preclinical studies at Michigan State University. Proof-of-concept studies in animals that support our heart disease formulations have been successfully completed at the University of Hawaii. The Company runs a lean drug development program through GBSGB and takes effort to minimize expenses, including personnel, overhead, and fixed capital expenses through strategic partnerships with Universities and Contract Research Organizations (“CROs”). Our productive research and development network includes distinguished universities, hospitals, and Contract Research Organizations.
+Basis of Presentation
+The accompanying unaudited interim condensed consolidated financial statements of GB Sciences, Inc. have been prepared in accordance with U.S. generally accepted accounting principles (“U.S. GAAP”) for interim financial information and with the instructions to Form
+10 -Q and Article
+8
+of Regulations S- X.
+Accordingly, they do
+not
+include all of the information and footnotes required by U.S. GAAP for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Operating results for the periods presented are
+not
+necessarily indicative of the results that
+may
+be expected for the year ending
+March 31, 2023.
+The balance sheet at
+March 31, 2022
+has been derived from the audited financial statements at that date but does
+not
+include all of the information and footnotes required by U.S. GAAP for complete financial statements. The unaudited interim condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and footnotes thereto included in the Company’s annual report on Form
+10 -K for the year ended
+March 31, 2022 .
+Principles of Consolidation
+We prepare our consolidated interim financial statements in accordance with generally accepted accounting principles (GAAP) for the United States of America. Our consolidated financial statements include all operating divisions and majority-owned subsidiaries, reported as a single operating segment, for which we maintain controlling interests. Intercompany accounts and transactions have been eliminated in consolidation. All subsidiaries were wholly owned by the Company for the periods presented.
+9
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Use of Estimates
+The preparation of the consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. The Company regularly evaluates estimates and assumptions related to allowances for doubtful accounts, inventory valuation and standard cost allocations, valuation of initial right-of-use assets and corresponding lease liabilities, valuation of beneficial conversion features in convertible debt, valuation of the assets and liabilities of discontinued operations, stock-based compensation expense, purchased intangible asset valuations, deferred income tax asset valuation allowances, uncertain tax positions, litigation, other loss contingencies, and impairment of long lived assets.  These estimates and assumptions are based on current facts, historical experience and various other factors that the Company believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the recording of costs and expenses that are
+not
+readily apparent from other sources. The actual results the Company experiences
+may
+differ materially and adversely from these estimates.
+Discontinued Operations
+See Note
+3.
+Indefinite and Definite-Lived Intangible Assets
+Our indefinite-lived intangible assets primarily represent the value of our patents pending and includes the costs paid to draft and file patent applications. Upon issuance of the patents, the indefinite-lived intangible assets will have finite lives. We amortize our finite-lived intangible assets, which consist of granted patents, over their estimated useful lives using the straight-line method, and we periodically evaluate the remaining useful lives of our finite-lived intangible assets to determine whether events or circumstances warrant a revision to the remaining period of amortization.
+We review all of our intangible assets for impairment indicators throughout the year. Impairment testing for indefinite-lived intangible assets is performed at least annually and we perform testing for definite-lived intangible assets whenever impairment indicators are present. If we determine that the fair value is less than the carrying value of these assets during testing, we record impairment losses equal to the difference between the carrying value of the asset and the fair market value of the asset.
+At
+December 31, 2022 , the Company had
+six
+patents that have been granted in the United States, including
+two
+licensed patents and
+four
+patents assigned to the Company's subsidiary, GBS Global Biopharma, Inc. The patents owned by the Company expire between
+January 2038
+and
+May 2039.
+Amortization expense for the
+nine
+months ended
+December 31, 2022
+and
+2021 , was $ 61,660
+and $ 28,829 , respectively. The carrying amount of finite-lived intangible assets was $ 1,324,785
+at
+December 31, 2022 .
+There were
+18
+United States patent applications that are pending as of
+December 31, 2022 , and the corresponding patent assets are treated as indefinite-lived intangible assets. The carrying amount of the indefinite-lived patent assets was $ 1,010,471
+at
+December 31, 2022 . In addition, the Company had $ 23,447
+of indefinite-lived trademark assets at
+December 31, 2022 .
+10
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Beneficial Conversion Feature of Convertible Notes Payable
+The Company accounts for convertible notes payable in accordance with the guidelines established by the Financial Accounting Standards Board’s (“FASB”) Accounting Standards Codification (“ASC”) Topic
+470 - 20,  Debt with Conversion and Other Options and Emerging Issues Task Force (“EITF”)
+00 - 27,  “Application of Issue
+No.
+98 - 5
+to Certain Convertible Instruments”.  A beneficial conversion feature (“BCF”) exists on the date a convertible note is issued when the fair value of the underlying common stock to which the note is convertible into is in excess of the remaining unallocated proceeds of the note after
+first
+considering the allocation of a portion of the note proceeds to the fair value of any attached equity instruments, if any related equity instruments were granted with the debt. In accordance with this guidance, the BCF of a convertible note is measured by allocating a portion of the note's proceeds to the warrants, if applicable, and as a reduction of the carrying amount of the convertible note equal to the intrinsic value of the conversion feature, both of which are credited to additional paid-in-capital. The Company calculates the fair value of warrants issued with the convertible notes using the Black-Scholes valuation model and uses the same assumptions for valuing any employee options in accordance with ASC Topic
+718
+Compensation – Stock Compensation. The only difference is that the contractual life of the warrants is used.
+The value of the proceeds received from a convertible note is then allocated between the conversion features and warrants on a relative fair value basis. The allocated fair value is recorded in the financial statements as a debt discount (premium) from the face amount of the note and such discount is amortized over the expected term of the convertible note (or to the conversion date of the note, if sooner) and is charged to interest expense.
+Revenue Recognition
+The FASB issued Accounting Standards Codification (“ASC”)
+606
+as guidance on the recognition of revenue from contracts with customers. Revenue recognition depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The guidance also requires disclosures regarding the nature, amount, timing and uncertainty of revenue and cash flows arising from contracts with customers. The guidance permits
+two
+methods of adoption: retrospectively to each prior reporting period presented, or retrospectively with the cumulative effect of initially applying the guidance recognized at the date of initial application (the cumulative catch-up transition method). The Company adopted the guidance on
+April 1, 2018
+and applied the cumulative catch-up transition method.
+The Company’s only material revenue source was part of discontinued operations prior to the sale of the Nevada Subsidiaries (Note
+8 ), and was derived from sales of distinct physical goods. Under ASC
+606,
+the Company is required to separately identify each performance obligation resulting from its contracts from customers, which
+may
+be a good or a service. A contract
+may
+contain
+one
+or more performance obligations. All of the Company’s contracts with customers contained only a single performance obligation, the delivery of distinct physical goods. Because fulfillment of the company’s performance obligation to the customer under ASC
+606
+results in the same timing of revenue recognition as under the previous guidance (i.e. revenue is recognized upon delivery of physical goods), the Company did
+not
+record any material adjustment to report the cumulative effect of initial application of the guidance.
+11
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Income Taxes
+The Company recognizes deferred tax assets and liabilities for the expected future tax consequences of events that have been included in financial statements or tax returns. Deferred tax items are reflected at the enacted tax laws and statutory tax rates applicable to the periods in which the differences are expected reverse. Valuation allowances are established when necessary to reduce deferred tax assets to the amount expected to be realized. Due to the uncertainty regarding the success of future operations, management has valued the deferred tax asset allowance at
+100%
+of the related deferred tax assets.
+Because the Company previously operated in the State-licensed cannabis industry through its now-deconsolidated Nevada Subsidiaries, gross profits from those subsidiaries was subject to the limitations of Internal Revenue Code Section
+280E
+( “280E” ) for U.S. income tax purposes. Under
+280E,
+the Company was allowed to deduct expenses that were directly related to the production of its products, i.e. cost of goods sold, but was allowed
+no
+further deductions for ordinary and necessary business expenses from its gross profit. The Company believes that the deductions disallowed include the deduction of net operating loss carryforwards ("NOLs"). The unused NOLs will continue to carry forward and
+may
+be used by the Company to offset future taxable income that is
+not
+subject to the limitations of
+280E.
+Earnings and loss per Share
+The Company’s basic earnings and loss per share has been calculated using the weighted average number of common shares outstanding during the period. The Company had
+173,786,468
+and  131,059,194
+potentially dilutive common shares, related to convertible debt, warrants, and stock options, at
+December 31, 2022
+and
+December 31, 2021 , respectively; however, those shares were
+not
+included in the computation of diluted net loss per share for the
+nine
+months ended
+December 31, 2022 , as their inclusion would have been antidilutive. Of the potentially dilutive shares at
+December 31, 2021,
+106,174,448
+and
+104,447,872
+were
+not
+included in the computation of  diluted EPS for the
+three
+and
+nine
+months ended
+December 31, 2021,
+respectively, as their inclusion would have been antidilutive. The computation of diluted EPS for the
+three
+and
+nine
+months ended
+December 31, 2021
+is as follows:
+For the Three Months Ended December 31, 2021
+Diluted EPS Computation
+Income (Numerator)
+Shares (Denominator)
+Per-Share Amount
+Net income from continuing operations available to common stockholders
+$ 4,518,303       -     $ -
+Plus: Income impact of assumed conversions
+Interest expense on convertible notes payable
+( 159,442 )     -       -
+Effect of assumed conversions
+( 159,442 )     -       -
+Income from continuing operations plus assumed conversions
+4,358,861       -       -
+Net loss from discontinued operations available to common stockholders
+( 192,766 )     -       -
+Net income available to common stockholders
+$ 4,166,095       -     $ -
+Weighted-average common shares outstanding
+-       317,435,744       -
+Plus: incremental shares from assumed conversions
+Warrants
+-       6,174,746       -
+Convertible notes payable
+-       18,710,000       -
+Dilutive potential common shares
+-       24,884,746       -
+Adjusted weighted-average shares
+-       342,320,490       -
+Diluted EPS
+Net income from continuing operations
+$ 4,358,861       342,320,490     $ 0.01
+Net loss from discontinued operations
+$ ( 192,766 )     342,320,490     $ ( 0.00 )
+Net income
+$ 4,166,095       342,320,490     $ 0.01
+12
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+For the Nine Months Ended December 31, 2021
+Diluted EPS Computation
+Income (Numerator)
+Shares (Denominator)
+Per-Share Amount
+Net income from continuing operations available to common stockholders
+$ 3,461,855       -     $ -
+Plus: Income impact of assumed conversions
+Interest expense on convertible notes payable
+( 114,839 )     -       -
+Effect of assumed conversions
+( 114,839 )     -       -
+Income from continuing operations plus assumed conversions
+3,347,016       -       -
+Net loss from discontinued operations available to common stockholders
+( 324,590 )     -       -
+Net income available to common stockholders
+$ 3,022,426       -     $ -
+Weighted-average common shares outstanding
+-       316,853,591       -
+Plus: incremental shares from assumed conversions
+Warrants
+-       7,695,439       -
+Options
+-       205,882       -
+Convertible notes payable
+-       18,710,000       -
+Dilutive potential common shares
+-       26,611,322       -
+Adjusted weighted-average shares
+-       343,464,913       -
+Diluted EPS
+Net income from continuing operations
+$ 3,347,016       343,464,913     $ 0.01
+Net loss from discontinued operations
+$ ( 324,590 )     343,464,913     $ ( 0.00 )
+Net income
+$ 3,022,426       343,464,913     $ 0.01
+Recent Accounting Pronouncements
+Standards Recently Adopted
+In
+May 2021,
+the FASB issued ASU
+No.
+2021 - 04,
+Issuer's Accounting for Certain Modifications or Exchanges of Freestanding Equity-Classified Written Call Options. This guidance clarifies and reduces diversity in an issuer’s accounting for modifications or exchanges of freestanding equity-classified written call options due to a lack of explicit guidance in the FASB Codification. The ASU
+2021 - 04
+is effective for The Company's fiscal year beginning
+April 1, 2022.
+The Company adopted the standard on
+April 1, 2022
+and it did
+not
+have a material impact on its financial statements.
+Standards
+Not
+Yet Adopted
+On
+June 16, 2016,
+the FASB issued ASU
+No.
+2016 - 13,
+Measurement of Credit Losses on Financial Instruments. The standard requires the use of an “expected loss” model on certain types of financial instruments. The standard also amends the impairment model for available-for-sale debt securities and requires estimated credit losses to be recorded as allowances instead of reductions to amortized cost of the securities. The Company will adopt this ASU for the fiscal year beginning
+April 1, 2023
+and does
+not
+expect a material impact on its financial statements.
+In
+June 2020,
+the FASB issued ASU
+No.
+2020 - 06,
+Accounting for Convertible Instruments and Contracts in an Entity's Own Equity. The guidance simplifies the current guidance for convertible instruments and the derivatives scope exception for contracts in an entity’s own equity. Additionally, the amendments affect the diluted EPS calculation for instruments that
+may
+be settled in cash or shares and for convertible instruments. This ASU will be effective for the Company's fiscal year beginning
+April 1, 2024.
+Early adoption is permitted. The amendments in this update must be applied on either full retrospective basis or modified retrospective basis through a cumulative-effect adjustment to retained earnings/(deficit) in the period of adoption. The Company is currently evaluating the impact of ASU
+2020 - 06
+on its consolidated financial statements and related disclosures, as well as the timing of adoption.
+All other newly issued accounting pronouncements have been deemed either immaterial or
+not
+applicable.
+13
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Note
+2
+– Going Concern
+The Company’s unaudited condensed consolidated financial statements have been prepared assuming the Company will continue as a going concern. The Company has sustained net losses since inception, which have caused an accumulated deficit of $ 105,840,040
+at
+December 31, 2022 . The Company had a working capital deficit of $ 3,962,864
+at
+December 31, 2022 , compared to a deficit of $ 3,607,638
+at
+March 31, 2022 . In addition, the Company has consumed cash in its operating activities of $ 1,306,971
+for the
+nine
+months ended
+December 31, 2022 , compared to $ 1,200,915
+used in operating activities, including $ 87,772
+used in discontinued operations for the
+nine
+months ended
+December 31, 2021 . These factors, among others, raise substantial doubt about the Company’s ability to continue as a going concern.
+Management has been able, thus far, to finance the losses through debt financings, a public offering, private placements and obtaining operating funds from stockholders. The Company is continuing to seek sources of financing.  There are
+no
+assurances that the Company will be successful in achieving its goals.
+In view of these conditions, the Company’s ability to continue as a going concern is dependent upon its ability to obtain additional financing or capital sources, to meet its financing requirements, and ultimately to achieve profitable operations. Management believes that its current and future plans provide an opportunity to continue as a going concern. The accompanying financial statements do
+not
+include any adjustments relating to the recoverability and classification of recorded assets, or the amounts and classification of liabilities that
+may
+be necessary in the event the Company is unable to continue as a going concern.
+14
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Note
+3
+– Discontinued Operations
+Discontinued operations comprise those activities that were disposed of during the period or which were classified as held for sale at the end of the period and represent a separate major line of business or geographical area that can be clearly distinguished for operational and financial reporting purposes. The Company has included its subsidiaries GB Sciences Nevada, LLC, GB Sciences Las Vegas, LLC, and GB Sciences Nopah, LLC (the "Nevada Subsidiaries") in discontinued operations due to the sale of the Company's Nevada cultivation and extraction facilities. The assets and liabilities of the Nevada Subsidiaries were deconsolidated at
+December 31, 2021
+due to the completion of the sale on that date (Note
+8 ).
+There were
+no
+assets and liabilities associated with discontinued operations as of
+December 31, 2022
+and
+March 31, 2022 . The revenues and expenses associated with discontinued operations included in our unaudited condensed consolidated statement of operations for the
+three
+and
+nine
+months ended
+December 31, 2021
+were as follows:
+For the Three Months Ended December 31,
+2022
+2021
+Continuing
+Discontinued
+Total
+Continuing
+Discontinued
+Total
+Sales revenue
+$ -     $ -     $ -     $ -     $ 811,231     $ 811,231
+Cost of goods sold
+-       -       -       -       ( 832,668 )     ( 832,668 )
+Gross loss
+-       -       -       -       ( 21,437 )     ( 21,437 )
+General and administrative expenses
+407,302       -       407,302       512,788       71,648       584,436
+LOSS FROM OPERATIONS
+( 407,302 )     -       ( 407,302 )     ( 512,788 )     ( 93,085 )     ( 605,873 )
+OTHER INCOME/(EXPENSE)
+Interest expense
+( 41,470 )     -       ( 41,470 )     ( 159,478 )     ( 99,681 )     ( 259,159 )
+Gain on deconsolidation
+-       -       -       5,206,208       -       5,206,208
+Other expense
+-       -       -       ( 15,639 )     -       ( 15,639 )
+Total other income/(expense)
+( 41,470 )     -       ( 41,470 )     5,031,091       ( 99,681 )     4,931,410
+GAIN/(LOSS) BEFORE INCOME TAXES
+( 448,772 )     -       ( 448,772 )     4,518,303       ( 192,766 )     4,325,537
+Income tax expense
+-       -       -       -       -       -
+NET INCOME/(LOSS)
+$ ( 448,772 )   $ -     $ ( 448,772 )   $ 4,518,303     $ ( 192,766 )   $ 4,325,537
+For the Nine Months Ended December 31,
+2022
+2021
+Continuing
+Discontinued
+Total
+Continuing
+Discontinued
+Total
+Sales revenue
+$ -     $ -     $ -     $ -     $ 3,369,812     $ 3,369,812
+Cost of goods sold
+-       -       -       -       ( 3,072,622 )     ( 3,072,622 )
+Gross profit
+-       -       -       -       297,190       297,190
+General and administrative expenses
+1,142,658       -       1,142,658       1,417,738       264,515       1,682,253
+INCOME/(LOSS) FROM OPERATIONS
+( 1,142,658 )     -       ( 1,142,658 )     ( 1,417,738 )     32,675       ( 1,385,063 )
+OTHER INCOME/(EXPENSE)
+Interest expense
+( 117,260 )     -       ( 117,260 )     ( 319,976 )     ( 302,924 )     ( 622,900 )
+Gain on deconsolidation
+-       -       -       5,206,208       -       5,206,208
+Other income/(expense)
+-       -       -       ( 6,639 )     20,890       14,251
+Total other income/(expense)
+( 117,260 )     -       ( 117,260 )     4,879,593       ( 282,034 )     4,597,559
+GAIN/(LOSS) BEFORE INCOME TAXES
+( 1,259,918 )     -       ( 1,259,918 )     3,461,855       ( 249,359 )     3,212,496
+Income tax expense
+-       -       -       -       ( 75,231 )     ( 75,231 )
+NET INCOME/(LOSS)
+$ ( 1,259,918 )   $ -     $ ( 1,259,918 )   $ 3,461,855     $ ( 324,590 )   $ 3,137,265
+15
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Note
+4   – Notes and Convertible Notes Payable
+0%
+Note Payable dated
+October 23, 2017
+On
+March 4, 2022,
+the Company entered into the Second Promissory Note Modification Agreement, which reduced the total outstanding balance of principal and interest from $ 201,532
+(at the time of the agreement) to $ 179,127
+and modified the terms of the note to provide that the Company would make an immediate payment of $ 75,000 , with $ 5,000
+monthly payments thereafter until the note is repaid in full. The modification also provided that the note would bear interest at
+8.0 % per annum.
+At
+December 31, 2022 , the outstanding balance of the note was $ 69,143 , and accrued interest was $ 712 . The Company made regular payments totaling $ 40,000
+during the
+nine
+months ended
+December 31, 2022 , of which $ 5,016
+represented interest payments, and $ 34,984
+was applied to the principal balance of the note.
+March 2017
+and
+July 2017
+Convertible Note Offerings
+In
+March 2017,
+the Company entered into a Placement Agent’s Agreement with a
+third -party brokerage firm to offer units consisting of a $ 1,000
+6 % promissory note convertible into
+4,000
+shares of the Company’s common stock at $ 0.25
+per share and
+4,000
+warrants to purchase shares of the Company’s’ common stock at an exercise price of $ 0.60
+per share for the period of
+three
+years. Between
+March 2017
+and
+May 2017,
+the Company issued short-term Promissory Notes (“Notes”) to various holders with combined face value of $ 2,000,000 . The Notes are payable within
+three
+years of issuance and are convertible into
+8,000,000
+shares of the Company’s common stock. The Company also issued
+8,000,000
+common stock warrants to the Noteholders. The warrants are exercisable at any time and from time to time before maturity at the option of the holder. Each warrant gives the Noteholder the right to purchase
+one
+share of common stock of the Company at an exercise price of $ 0.60
+per share for a period of
+three
+years. The Company recorded an aggregate discount on convertible notes of $ 1,933,693 , which included $ 904,690
+related to the relative fair value of beneficial conversion features and $ 1,029,003
+for the relative fair value of the warrants issued with each note. The fair value of warrants was derived using the Black-Scholes valuation model.
+In
+July 2017,
+the Company entered into a Placement Agent’s Agreement with a
+third -party brokerage firm to offer units consisting of a $ 1,000
+6 % promissory note convertible into
+4,000
+shares of the Company’s common stock at $ 0.25
+per share and
+4,000
+warrants to purchase shares of the Company’s’ common stock at an exercise price of $ 0.65
+per share for the period of
+three
+years. Between
+July 2017
+and
+December 2017,
+the Company issued short-term Promissory Notes (“Notes”) to various holders with combined face value of $ 7,201,000 . The Notes are payable within
+three
+years of issuance and are convertible into
+28,804,000
+shares of the Company’s common stock. The Company also issued
+28,804,000
+common stock warrants to the Note holders. The warrants are exercisable at any time and from time to time before maturity at the option of the holder. Each warrant gives the Noteholder the right to purchase
+one
+share of common stock of the Company at an exercise price of $ 0.60
+per share for a period of
+three
+years. The Company recorded an aggregate discount on convertible notes of $ 7,092,796 , which included $ 3,142,605
+related to the relative fair value of beneficial conversion features and $ 3,950,191
+for the relative fair value of the warrants issued with each note. The fair value of warrants was derived using the Black-Scholes valuation model.
+All notes from the
+March
+and
+July 2017
+offerings have passed their maturity dates. During the year ended
+March 31, 2022,
+the Company agreed to extensions with the holders of a total of $ 197,000
+of the $ 1,257,000
+that remained outstanding at the time. For the
+$197,000
+of extended notes, the Company agreed to reduce the conversion price to $ 0.10
+per share and issued a total of
+788,000
+additional warrants to the holders of the notes with a term of
+three
+years and an exercise price of $ 0.10
+per share. In exchange, the maturity date of the notes was extended to
+September 30, 2023.
+Using the Black-Scholes model, the Company valued the warrants at $ 13,396
+and the change in the fair value of the conversion feature at $ 33,490 . Because the change in the fair value of the conversion feature exceeded
+10%
+of the carrying amount of the notes, the Company accounted for the modification of the notes as an extinguishment and recorded a discount on the new convertible notes of $ 46,886
+related to the fair value of the new warrants issued and the change in the fair value of the conversion feature. The Company recorded interest expense of $ 21,295
+on the new notes during the
+nine
+months ended
+December 31, 2022 , of which $ 12,389
+represented amortization of the note discounts. Accrued interest on the
+$197,000
+extended notes is $ 65,058
+and the remaining unamortized discount was $ 13,865
+at
+December 31, 2022 .
+Three convertible notes totaling $ 1,060,000
+held by the same investor remained outstanding during the year ended
+March 31, 2022.
+On
+January 20, 2022,
+the Company repaid $ 500,000
+of the principal balances owed to the investor ( $500k
+Notes"), and
+one
+convertible note in the amount of  $ 560,000
+( "$560k
+Note") remained outstanding plus accrued interest on all
+three
+notes totaling $ 294,497 . The notes do
+not
+provide for a default penalty or penalty interest rate. On
+September 28, 2022,
+the Company entered into the $ 560,000
+Note Extension Agreement ( "$560k
+Extension") with the investor. The
+$560k
+Extension provides that the due date of the
+$560,000
+Note is extended to
+October 1, 2023,
+and the interest rate of the
+$560k
+Note is increased to
+8 % per annum beginning
+October 1, 2022.
+In addition, the Company agreed to make immediate payment of the outstanding accrued interest balance of
+$129,534
+on the
+$500k
+Notes. The Company made the payment of $ 129,534
+on
+October 5, 2022
+and
+no
+principal or accrued interest balances remain outstanding on the
+$500k
+Notes.
+At
+December 31, 2022 , the accrued interest balance outstanding on the
+$560k
+Note due
+October 1, 2023
+was $ 184,723 . Interest expense was $ 28,138
+for the
+nine
+months ended
+December 31, 2022 .
+16
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+December 2020
+$625,000
+6%
+Convertible Note Offering
+On
+December 18, 2020,
+the Company began an offering of
+6.0 % convertible notes for the purpose of funding a pre-clinical study of the Company's patent-pending Cannabinoid-Containing Complex Mixtures for the treatment of Cytokine Release Syndromes, including Acute Respiratory Distress Syndrome, in COVID- 19
+patients. The Company pledged the related intellectual property as security for the notes. The notes are convertible at a rate of $ 0.05
+per share at the lender's request. To date, the Company has issued $ 625,000
+in convertible notes under the offering to
+three
+investors. $ 375,000
+of the notes matured between
+January 31, 2022
+and
+July 1, 2022,
+and $ 250,000
+mature in
+December 2023.
+Payment of accrued interest and principal is due at maturity. The Company received cash of $ 543,750 , net of brokerage fees, and recorded discounts on the convertible notes totaling $ 81,250
+related to the issuance costs. Notes totaling $ 425,000
+were issued with in-the-money conversion features, and the Company recorded beneficial conversion feature discounts totaling $ 347,000
+on the related notes.
+A
+$300,000
+note ( "$300k
+Note"), a
+$25,000
+note ( "$25k
+Note") due
+January 18, 2022,
+and a
+$50,000
+note due
+July 1, 2022 ( "$50k
+Note") have passed their original maturity dates. On
+September 28, 2022,
+the Company entered into the $ 300,000
+Note Extension Agreement ( "$300k
+Extension") with the holder of the
+$300k
+Note, which extends the maturity date of that note to
+October 1, 2023
+and increases the interest rate to
+8 % per annum beginning
+October 1, 2022.
+The
+$25k
+Note and
+$50k
+Note remain in default and the Company intends to negotiate terms of an extension with the note holders. The notes do
+not
+provide for a default penalty or a penalty interest rate.
+At
+December 31, 2022 , notes with a carrying amount of $ 582,950
+were included in short term notes and convertible notes payable, net of unamortized discounts of $ 42,050 . Interest expense related to the notes was $ 62,715
+for the
+nine
+months ended
+December 31, 2022 , which includes $ 32,949
+from amortization of the note discounts.
+Summary of Notes and Convertible Notes Payable
+As of
+December 31, 2022 , the following notes payable were recorded in the Company’s consolidated balance sheet:
+As of December 31, 2022
+Face Value
+Discount
+Carrying Value
+8% Note Payable dated October 23, 2017 (as amended), current portion
+$ 61,597     $ -     $ 61,597
+8% Convertible promissory note payable due October 1, 2023
+560,000       -       560,000
+8% Convertible note payable due October 1, 2023
+300,000       -       300,000
+6% Convertible notes payable due January 18, 2022
+25,000       -       25,000
+6% Convertible note payable due July 1, 2022
+50,000       -       50,000
+6% Convertible promissory notes payable due September 30, 2023
+197,000       ( 13,865 )     183,135
+6% Convertible note payable due December 31, 2023
+250,000       ( 42,050 )     207,950
+Total short-term notes and convertible notes payable
+$ 1,443,597     $ ( 55,915 )   $ 1,387,682
+8% Note Payable dated October 23, 2017 (as amended), long term portion
+7,546       -       7,546
+Total long term convertible notes payable classified as continuing operations
+$ 7,546     $ -     $ 7,546
+17
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Note
+5
+– Capital Transactions
+Sale of Common Stock and Warrants
+On
+May 9, 2022
+the Company entered into a Placement Agent's Agreement with its brokers for the private placement of up to $ 565,000
+in units at a price of $ 0.03
+per unit. For each unit purchased, the investor will receive
+one
+share of the Company's common stock and
+one
+warrant to purchase
+one
+share of the Company's common stock at a price of $ 0.10
+for a period of
+five
+years. On
+September 9, 2022,
+the Company entered into the Amendment to the Placement Agent's Agreement which extended the placement to
+November 30, 2022
+and increased the amount to $ 2,000,000 , all other terms remaining the same.  During the
+nine
+months ended
+December 31, 2022 , the Company received $ 1,413,750
+under the private placement, net of brokerage fees of $ 211,250 , and issued
+54,168,337
+shares of its common stock and
+54,168,337
+warrants to purchase
+one
+share of the Company's common stock at $ 0.10
+for
+five
+years.
+As the result of the units sold to date under the private placement, the Company will issue its brokers
+5,416,834
+compensation warrants to purchase
+one
+share of the Company's common stock at $ 0.03
+per share for a period of
+five
+years. The Company valued the compensation warrants at $ 0.0273
+or $ 147,879
+using the Black-Scholes model.
+Employee Option Grant
+On
+August 25, 2022,
+the Board of Directors approved a commitment to grant options to a total of
+seven
+persons which include the officers and directors of the Company, who will be instrumental in obtaining an up-listing of the common shares of the Company onto the NASDAQ Stock Market.  The Options will be granted to the employees on the effective date of the up-listing (the “Effective Date”), and will equal options sufficient to purchase
+13 % of the issued and outstanding common shares of the Company on a fully diluted basis, as of the Effective Date.  The exercise price of
+one
+Option will equal
+80 % of the value of
+one
+share of common stock on the Effective Date. The options will be accounted for once the performance condition (the up-listing) is probable.
+Note
+6
+– Commitments and Contingencies
+On
+April 11, 2022,
+the Company was served notice of a lawsuit filed in the Eighth Judicial District Court in Clark County, Nevada by an individual who alleges he was shot by a security guard at the Teco Facility in
+May
+of
+2020.
+The alleged incident occurred after the claimant broke into the Teco Facility during closing hours. GB Sciences, Inc. and its former subsidiaries GB Sciences Nevada, LLC and GB Sciences Las Vegas, LLC, along with the security provider, Protective Force International, Inc. ("PFI"), were named as defendants in the lawsuit. The Company denies any liability and intends to vigorously defend the lawsuit. The Company holds a certificate of insurance with the insurer for PFI and the insurer accepted the Company's defense tender on
+September 28, 2022.
+The insurance policy covers up to $ 1,000,000
+for each occurrence. We are unable to make any determination at this time as to the likelihood or amount of damages.
+From time to time, the Company
+may
+become involved in certain legal proceedings and claims which arise in the ordinary course of business. In management’s opinion, based on consultations with outside counsel, the results of any of these ordinary course matters, individually and in the aggregate, are
+not
+expected to have a material effect on our results of operations, financial condition, or cash flows. As more information becomes available, if management should determine that an unfavorable outcome is probable on such a claim and that the amount of such probable loss that it will incur on that claim is reasonably estimable, the Company would record a reserve for the claim in question. If and when the Company records such a reserve, it could be material and could adversely impact its results of operations, financial condition, and cash flows.
+Note
+7
+– Related Party Transactions
+None.
+18
+Table of Contents
+GB SCIENCES, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2022
+(unaudited)
+Note
+8
+– Sale of Membership Interests in Nevada Subsidiaries
+On
+March 24, 2020,
+the Company entered into the Membership Interest Purchase Agreement ("Teco MIPA") with AJE Management, LLC. Pursuant to the Teco MIPA, the Company agreed to sell
+100 % of its membership interests in GB Sciences Nevada, LLC, and GB Sciences Las Vegas, LLC (the "Teco Subsidiaries") for approximately $ 8
+million, which amount includes a cash payment at closing, the extinguishment and/or repayments of certain liabilities owed to the purchaser and affiliates of the purchaser, and an
+8 % promissory note.
+On
+August 10, 2020,
+the Company entered into the Membership Interest Purchase Agreement ("Nopah MIPA") and Promissory Note Modification Agreement with
+483
+Management, LLC. Pursuant to the Nopah MIPA, the Company agreed to sell its
+100 % membership interest in GB Sciences Nopah, LLC ("Nopah"), which holds a Nevada medical marijuana cultivation certificate. As consideration, the Company would receive $ 312,315
+in consideration in the form of a $ 237,668
+reduction to the outstanding principal and accrued interest balances of the
+0 % Note payable dated
+October 23, 2017 ( Note
+4 ), and extinguishment of accounts payable of $ 74,647 , which were owed to an affiliate of the purchaser.
+The closing of the Teco and Nopah sales was contingent upon the successful transfer of the Nevada cultivation and production licenses. On
+December 14, 2021,
+the Company received approval from the Nevada Cannabis Compliance Board for the transfer of cannabis cultivation and extraction licenses held by its subsidiaries GB Sciences Nevada, LLC, GB Sciences Las Vegas, LLC, and GB Sciences Nopah, LLC (the "Nevada Subsidiaries"). Consequently, all conditions to closing the sales of the
+100 % membership interests in the Nevada Subsidiaries were satisfied, and the transactions formally closed on
+December 31, 2021.
+After the closing date, the Company retains
+no
+ownership interest in the Nevada Subsidiaries.
+As the result of sale, the income, assets, and cash flows of GB Sciences Nevada, LLC, GB Sciences Las Vegas, LLC, and GB Sciences Nopah, LLC have been reclassified as discontinued operations for all periods presented in the Company's consolidated financial statements prior to the sale.
+Note Receivable from Sale of Teco Subsidiaries
+The $ 3,025,000
+note receivable from the sale of the Teco Subsidiaries is payable as quarterly, interest only payments of $ 60,500
+for the
+first
+year, followed by
+seven
+quarterly payments of interest and principal of $ 201,774
+beginning
+March 31, 2023,
+with a final payment of principal and interest totaling $ 2,014,225
+on
+December 31, 2024.
+The note contains a provision that allows payments of principal and interest due prior to the maturity date to be postponed to the next quarterly payment date if cash flow from the operations of the facility is insufficient to cover the amount of the payment. Several days prior to the
+first
+interest payment due date of
+April 1, 2022,
+AJE Management, LLC notified the Company that it would be postponing the payment of interest of $ 60,500
+due on
+April 1, 2022
+due to insufficient cash flow to make the payment. AJE Management, LLC was also unable to make the interest payment due
+July 1, 2022
+due to insufficient cash flow. As a result, the Company reevaluated the factors relating to the collectibility of the note and recorded a valuation allowance in the amount of $ 3,025,000
+at
+March 31, 2022,
+equal to the full balance of the note, as there is substantial uncertainty around the collectibility of the note, and we are unable to make an appropriate estimate of the amount of payments, if any, the Company will ultimately receive.
+Note
+9
+– Subsequent Events
+None.
+19
+ITEM 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis contains “forward-looking statements,” as defined in the United States Private Securities Litigation Reform Act of 1995. In some cases, you can identify forward-looking statements by terminology such as “may”, “will”, “should”, “could”, “expects”, “plans”, “intends”, “anticipates”, believes”, “estimates”, “predicts” or “continue”, which list is not meant to be all-inclusive, and other such negative terms and comparable technology. These forward-looking statements, include, without limitation, statements about market opportunity, strategies, competition, expected activities and expenditures as we pursue business our plan, and the adequacy of available cash reserves. Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Actual results may differ materially from the predictions discussed in these forward-looking statements. The economic environment within which we operate could materially affect actual results. Additional factors that could materially affect these forward-looking statements and/or predictions include among other things:
+(i) product demand, market and customer acceptance of any or all of the Company’s products, equipment and other goods,
+(ii) ability to obtain financing to expand its operations,
+(iii) ability to attract and retain qualified personnel,
+(iv) the results, cost and timing of our preclinical studies and clinical trials, including any delays to such clinical trials relating to enrollment or site initiation, as well as the number of required trials for regulatory approval and the criteria for success in such trials,
+(v) our dependence on third parties in the conduct of our preclinical studies and clinical trials,
+(vi) legal and regulatory developments in the United States and foreign countries, including any actions or advice that may affect the design, initiation, timing, continuation, progress or outcome of clinical trials or result in the need for additional clinical trials,
+(vii) the results of our preclinical studies and earlier clinical trials of our product candidates may not be predictive of future results and we may not have favorable results in our ongoing or planned clinical trials,
+(viii) the difficulties and expenses associated with obtaining and maintaining regulatory approval of our product candidates, and the indication and labeling under any such approval,
+(ix) our plans and ability to develop and commercialize our product candidates,
+(x) successful development of our commercialization capabilities, including sales and marketing capabilities, whether alone or with potential future collaborators,
+(xi) the size and growth of the potential markets for our product candidates, the rate and degree of market acceptance of our product candidates and our ability to serve those markets,
+(xii) the success of competing therapies and products that are or become available,
+(xiii) our ability to limit our exposure under product liability lawsuits, shareholder class action lawsuits or other litigation,
+(xiv) our ability to obtain and maintain intellectual property protection for our product candidates,
+(xv) our ability to obtain and maintain third-party manufacturing for our product candidates on commercially reasonable terms,
+(xvi) delays, interruptions or failures in the manufacture and supply of our product candidates,
+(xvii) the performance of third parties upon which we depend, including third-party contract research organizations, or CROs, contract manufacturing organizations, or CMOs, contractor laboratories and independent contractors,
+(xviii) the timing and outcome of current and future legal proceedings,
+(xix) our ability to maintain proper functionality and security of our internal computer and information systems and prevent or avoid cyberattacks, malicious intrusion, breakdown, destruction, loss of data privacy or other significant disruption,
+(xx) the adequacy of capital reserves and liquidity including, but not limited to, access to additional borrowing capacity,
+(xxi) the extent to which health epidemics and other outbreaks of communicable diseases, including the ongoing COVID-19 pandemic, could disrupt our operations or materially and adversely affect our business and financial conditions, and
+(xxii) general industry and market conditions and growth rates, unexpected natural disasters, and other factors, which we have little or no control: and any other factors discussed in the Company’s filings with the Securities and Exchange Commission (“SEC”).
+The Company does not undertake any obligation to update forward-looking statements to reflect events or circumstances occurring after the date of this report.
+The following discussion highlights the Company’s results of operations and the principal factors that have affected our financial condition, as well as our liquidity and capital resources for the periods described and provides information that management believes is relevant for an assessment and understanding of the statements of financial condition and results of operations presented herein. The following discussion and analysis is based on the Company’s unaudited financial statements contained in this Quarterly Report, which we have prepared in accordance with United States generally accepted accounting principles. You should read this discussion and analysis together with such financial statements and the related notes thereto.
+20
+Table of Contents
+Overview
+GB Sciences, Inc. (“the Company”, “GB Sciences”, “we”, “us”, or “our”) is a plant-inspired, biopharmaceutical research and development company creating patented, disease-targeted formulations of cannabis- and other plant-inspired therapeutic mixtures for the prescription drug market through its wholly owned Canadian subsidiary, GbS Global Biopharma, Inc. (“GBSGB”).
+Through GBSGB, the Company is engaged in the research and development of plant-inspired medicines, with virtual operations in North America and Europe. GBSGB’s assets include a portfolio of intellectual property containing both proprietary plant-inspired formulations and our AI-enabled drug discovery platform, as well as critical research contracts and key supplier arrangements. The Company’s intellectual property portfolio, which is held by GBSGB, contains six issued U.S. and three issued foreign patents, as well as 18 U.S. and 49 foreign patent-pending applications. On October 14th, 2021, we filed the nonprovisional USPTO patent application entitled “METHOD AND SYSTEMS FOR PHYTOMEDICINE ANALYTICS FOR RESEARCH OPTIMIZATION AT SCALE" to further protect aspects of our proprietary drug discovery engine, PhAROS™, which stands for
+Ph ytomedical
+A nalytics for
+R esearch
+O ptimization at
+S cale. On March 1st, 2022, the Company’s newest patent was issued by the U.S. Patent and Trademark Office (USPTO) for a cannabinoid-containing mixture designed to treat cardiac hypertrophy, often present in advanced heart disease. The Company’s newly issued patent also covers the use of these receptor-targeted formulations for the treatment of TRPV1-receptor associated hearing loss and urinary cystitis.
+GBSGB’s intellectual property covers a range of over 65 medical conditions, from which five drug development programs are in the preclinical stage of drug development including our formulations for Parkinson’s disease ("PD"), chronic pain, COVID-related cytokine release syndrome, depression/anxiety, and cardiovascular therapeutic programs. The Company’s primary focus is on preparing its lead program for the treatment of the motor symptoms of Parkinson's disease for a first-in-human clinical trial. Depending on the results of ongoing preclinical studies, the Company intends to move forward with clinical trials for its chronic pain and COVID-related cytokine release syndrome therapies after PD. The Company’s formulations for chronic pain, anxiety, and depression are currently in preclinical animal studies with researchers at the National Research Council Canada. The Company also recently received positive preclinical proof-of-concept data supporting its complex mixtures for the treatment of Cytokine Release Syndrome related to COVID-19, and its lead candidates will be optimized based on late-stage preclinical studies at Michigan State University. Proof-of-concept studies in animals that support our heart disease formulations have been successfully completed at the University of Hawaii. The Company runs a lean drug development program through GBSGB and takes effort to minimize expenses, including personnel, overhead, and fixed capital expenses through strategic partnerships with Universities and Contract Research Organizations (“CROs”). Our productive research and development network includes distinguished universities, hospitals, and Contract Research Organizations.
+On April 4, 2014, we changed our name from Signature Exploration and Production Corporation to Growblox Sciences, Inc. Effective December 12, 2016, the Company amended its Certificate of Corporation pursuant to shareholder approval, and the Company’s name was changed from Growblox Sciences, Inc. to GB Sciences, Inc.
+Effective April 8, 2018, Shareholders of the Company approved the change in corporate domicile from the State of Delaware to the State of Nevada and increase in the number of authorized capital shares from 250,000,000 to 400,000,000. Effective August 15, 2019, Shareholders of the Company approved an increase in authorized capital shares from 400,000,000 to 600,000,000.
+21
+Table of Contents
+Plan of Operation
+Drug Discovery and Development of Novel Cannabis-Based Therapies
+Through its wholly owned Canadian subsidiary, GBS Global Biopharma, Inc. ("GBSGB"), the Company has conducted ground-breaking research embracing the rational design of plant-inspired medicines led by Dr. Andrea Small-Howard, the Company’s President, Chief Science Officer, and Director. In the early days, Small-Howard and Dr. Helen Turner, Vice President of Innovation and Dean of the Natural Sciences and Mathematics Department at Chaminade University, posited that minimum essential mixtures of plant-based ingredients would provide more targeted and effective treatments for specific disease conditions than either single ingredient or whole plant formulations. They started with cannabis-based drug discovery and developed a rapid screening and assaying system that tested thousands of combinations of cannabinoids and terpenes in vitro against cell-based models of disease. This process identified precise mixtures of cannabinoids and terpenes, many of which contained no THC, to treat categories of disease conditions, including neurological disorders, inflammation, heart disease, metabolic syndrome, and chronic neuropathic pain. More recently, a similar approach has been applied to the discovery and validation of therapies informed by plants described in a variety of Traditional Medical Systems. These rich discovery efforts have yielded new preclinical programs; for example, our anxiety and depression formulations that contain minimum essential mixtures of compounds derived from plants in the Piper plant family, such as kava.
+Currently, the Company’s drug discovery engine involves both a data analytics/machine learning tool to expedite drug discovery and high throughput screening of cell and animal models of disease. As previously mentioned, the Company initially explored the potential medical uses of specific mixtures derived from cannabis-based raw materials, but our early
+in silico
+tools have now been improved, and they are becoming increasingly effective for investigating the medical applications of potential therapeutic mixtures from any plant-derived starting material. In 2014, the Company developed its first rapid screening and assaying system which tested thousands of combinations of cannabinoids and terpenes against cell-based models of diseases. This process has been refined over the years and now has identified precise mixtures of cannabinoids and terpenes, many of which contained no THC, to treat categories of disease conditions, including neurological disorders, inflammation, heart disease, metabolic syndrome, chronic and neuropathic pain. Through GBSGB, the Company has filed for patent protection on these plant-inspired, minimum essential mixtures, and they are validating them in disease-specific animal models in preparation for human trials.
+The Company’s drug discovery process combines: 1) PhAROS™: Phytomedical Analytics for Research Optimization at Scale for the prediction of minimum essential mixtures from plant-based materials, and 2) HTS: high throughput screening to refine and validate plant-inspired, minimum essential mixtures in well-established cell and animal models of diseases. This combined approach to drug discovery increases research efficiency and accuracy reducing the time from ideation to patenting from 7 years to 1.5 years. The Company now uses its PhAROS™ Drug Discovery Platform to ‘pre-validate’ therapeutic mixtures. PhAROS can both prioritize and eliminate some potential combinations, which reduces time and resources used in the discovery period. PhAROS™ can also be used to identify and predict the efficacy of plant-inspired, minimum essential mixtures for specific diseases
+in silico , which are then tested by screening in cell and animal models. Screening of plant-inspired mixtures for drug discovery involves the testing of specific combinations of plant chemicals from many naturally occurring plants and the use of live models for these diseases that have been well established by other researchers. The Company refines the potential therapeutic mixtures pre-validated by PhAROS™ to optimize their effectiveness using cell and animal models. Based on data from disease-specific assays, therapeutic formulations are refined during the HTS screening process by removing compounds that do not act synergistically with the others in the mixtures. The goal is to identify minimum essential mixtures (MEM) that retain the efficacy of the whole plant extracts, but with the manufacturing and quality control advantages of single ingredient pharmaceutical products.
+In October of 2021, GBSGB began its first preclinical animal trial of non-cannabis-based formulations that were discovered and pre-validated using our PhAROS™ drug discovery platform. The National Research Council of Canada (“NRC”) are testing the Company’s proprietary, psychotropic plant-based formulas for the treatment of depression and anxiety. For these novel psychotropic drug candidates, the Company used the PhAROS™ platform to identify new ingredients to improve upon an initial formulation for anxiety based on traditional medicine. The original plant mixture was derived from the kava plant, but some elements of kava are thought to cause liver toxicity. PhAROS™ identified ingredients from the Piper plant family as a substitute for the functionality of the ingredients in question without the potentially adverse safety profiles of those original ingredients. The Piper plant family includes pepper plants that are used worldwide in traditional medicines. The Company’s new psychotropic formulations are currently in preclinical trials at the Zebrafish Toxicology, Genomics and Neurobiology Lab at the NRC, led by Dr. Lee Ellis, Research Officer and Team Lead. The ongoing work between the NRC and the Company has produced strong and applicable data for the evaluation of its therapies, and this trial could provide novel treatment options for patients with depression and anxiety.
+The U.S. Patent and Trademark Office allows complex mixtures to be claimed as Active Pharmaceutical Ingredients ("APIs"). Through GBSGB, the Company has six issued patents, plus a series of pending patents containing plant-derived complex mixtures and minimum essential mixtures that act as therapeutic agents for specific disease categories, as described below. The Company’s pending patents are protected whether the individual compounds are derived from the cannabis plant, another plant, synthetically produced, or derived from a combination of sources for the individual chemical compounds in these mixtures. On March 1st, 2022, the Company’s newest patent was issued by the U.S. Patent and Trademark Office (USPTO) for a cannabinoid-containing mixture designed to treat cardiac hypertrophy, often present in advanced heart disease. The Company’s newly issued patent also covers the use of these receptor-targeted formulations for the treatment of TRPV1-receptor associated hearing loss and urinary cystitis. This year, our growing intellectual property portfolio was augmented with additional patent-protections for our PhAROS™ drug discovery platform, new PhAROS™ discovered, non-cannabis formulations, and improved formulations for our PD therapeutics.
+22
+Table of Contents
+Drug Development Progress
+The Company has made significant strides in the past year with respect to both its drug discovery research and product development programs. The Company, through GBSGB, now has five preclinical phase product development programs and is aggressively preparing its lead formulations for the treatment of Parkinson’s disease for a first-in-human clinical trial. Our lead program in Parkinson’s disease is being prepared for a first-in-human trial through the following essential steps: a) creating clinical prototypes by combining our proprietary Parkinson’s formulas with a convenient oral delivery system; b) performing a dose response study in rodents to establish the correct range of active ingredients for our first-in-human trial; c) performing necessary ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicology) tests on the clinical prototypes; and d) selecting a Contract Research Organization (CRO) to prepare an Investigational New Drug (IND) application to the US FDA to begin our first-in-human trial. In addition to our work in preparing the Parkinson’s formulation for a First-in-Human trial, the Company’s chronic pain, anxiety, and depression formulations are currently in preclinical animal studies with Dr. Lee Ellis of the National Research Council ("NRC") Canada in Halifax, Nova Scotia. We received positive preclinical, proof-of-concept data supporting our minimum essential mixtures for the treatment of Cytokine Release Syndrome in COVID-19 (COVID-CRS) and other severe hyperinflammatory conditions. GBSGB’s lead COVID-CRS candidates will be optimized based on late-stage preclinical studies with Dr. Norbert Kaminski at Michigan State University.
+For the Company’s lead program in PD therapeutics, the efficacy of our original formulations has been improved and the Company has filed a new patent application family to protect our defined cannabinoid ratio-minimum essential mixtures (DCR-MEMs) for the treatment of Parkinsonian motor symptoms. The Company had announced previously that it has obtained the statistically significant reduction of Parkinson’s-disease like symptoms using proprietary cannabinoid-containing MEMs in an animal model of Parkinson’s disease ("PD"). Three of the Company’s PD formulations significantly reduced the PD-like motor symptoms. In addition, the toxicity studies for these original PD formulas came back without any significant negative findings. These initial efficacious PD formulations were equimolar minimum essential mixtures (E-MEMs), wherein, each contained three cannabinoids combined at an equimolar ratio (1:1:1). In the past year 2020-2021, the Company has screened an additional sixty-three variations of the original three equimolar MEMs and identified a total of twenty-two DCR-MEMs with optimized ratios of cannabinoids that produced a statistically significant reduction in OHDA induced motor symptoms. Five of these twenty-two efficacious MEMs outperformed the original equimolar cannabinoid MEMs. A new patent application has been filed to protect these DCR-MEMs. These important preclinical results will be included in GBS’ Investigational New Drug ("IND") application with the US FDA to enter human clinical trials as soon as possible. New therapies to address Parkinson’s disease symptoms are needed to help those afflicted with this debilitating disease. The combined direct and indirect costs associated with Parkinson’s disease are estimated at $52 billion in the U.S. alone.
+This year, we are working with Catalent Pharma on the preparation of clinical prototypes of our proprietary cannabinoid-based formulations for Parkinson’s disease in Catalent Pharma’s proprietary Zydis® delivery system. Catalent Pharma’s Zydis® delivery system is an Orally Disintegrating Tablet format (“ODT”) that should be ideal for delivering our cannabinoid-ratio controlled formulations to Parkinson’s patients. More than 50% of Parkinson’s patients have trouble swallowing, but the Zydis® format delivers the active ingredients into the mouth by dispersion without needing water or the ability to swallow. To ready the Company’s Parkinson’s disease therapies for a First-in-Human trial, the initial clinical prototypes of our Defined Cannabinoid Ratio (DCR)-MEM have been formulated by Catalent Pharma using Catalent’s Zydis® Orally Disintegrating Tablet technology and they are being evaluated in stability and functional testing. As mentioned above, the ODT format was selected for the PD formulas because it dissolves on the tongues of patients without the need to swallow for ease of use in patients with PD, who often have difficulties with swallowing. Previously, the Company has completed two proof-of-concept studies for its MEM. Now, the Company is performing a Feasibility Study that will produce and validate the clinical prototypes for its DCR-MEM. The Company selected Catalent for the delivery of their PD therapies due to Catalent’s prior experience in working on US FDA-approved, cannabinoid-containing drugs, their Schedule I drug manufacturing facilities, their familiarity with US FDA and international regulatory and manufacturing requirements, their expertise in tackling formulation challenges, and their ability to achieve the stability and dosing necessary for these novel therapeutic mixtures. In addition to its Zydis® technology, Catalent has early drug development services and additional oral drug delivery solutions available for the efficient delivery of the Company's proprietary APIs.
+23
+Table of Contents
+Additionally, the Company has selected the University of Lethbridge to start our required dose response study in a rodent model of Parkinson’s disease, which will help us to establish the correct dosing for our first-in-human trial. Prior to filing our IND application, we must conduct ADMET testing on the clinical prototypes of our Parkinson’s medication being formulated for us by Catalent Pharma. The Company has identified a Contract Research Organization that will perform the ADMET testing. In the IND application for our novel Parkinson’s disease therapy, the ADMET testing data will be combined with the Chemistry Manufacturing and Controls (CMC) data prepared by Catalent Pharma and our proof-of-concept data (National Research Council Canada). In the near future, we expect to announce the selection of the Contract Research Organization that will write the IND-application and run the first-in-human trials for our novel treatment for the motor symptoms of Parkinson’s disease.
+For its lead chronic pain program, the Company is testing its MEM for chronic pain both as encapsulated, time-released nanoparticles, as well as in non-encapsulated forms of these therapeutic mixtures in an animal model at the NRC in Halifax, Nova Scotia. In preparation for human clinical trials, our standard MEM and the time-released MEM are currently being compared in an animal model that demonstrates their potential effectiveness at treating chronic pain. The early results from this preclinical research project look very promising. However, the COVID pandemic adversely affected the progress on this study, but we are happy to report that we are back on track to continue with the testing of these promising chronic pain formulations.
+In late summer of 2021, the Company received positive proof-of-concept data from a human immune cell model supporting the efficacy of their proprietary MEM designed for the suppression of COVID-related, cytokine release syndromes (CRS) while preserving key anti-viral immune responses. Based on this new positive proof-of-concept data, GBSGB converted their provisional patent application entitled, “CANNABINOID-CONTAINING COMPLEX MIXTURES FOR THE TREATMENT OF CYTOKINE RELEASE SYNDROME WHILE PRESERVING KEY ANTI-VIRAL IMMUNE REACTIONS” to a nonprovisional patent application on August 18, 2021. The best performing MEM will be further developed in preparation for clinical studies to evaluate their anti-inflammatory potential in the treatment of severely ill COVID-19 patients contending with Cytokine Release Syndrome (CRS) and associated hyperinflammatory conditions, such as macrophage activation syndrome (MAS) and acute respiratory distress syndrome (ARDS). CRS, MAS, and ARDS are the leading causes of deaths in COVID-19 patients. The Company’s proof-of-concept study was performed at Michigan State University using a state-of-the-science human immune model. In the Company’s proof-of-concept study, immune cells from human donors were co-cultured together in one of four treatment groups: untreated (no inflammatory stimulus), inflammatory stimulus, control (inflammatory stimulus + vehicle from cannabinoid mixtures), or pre-treatment with the cannabinoid mixture + inflammatory stimulus. Then a panel of cytokines and inflammatory markers was measured from each of these treatment groups from different immune cell types within the co-cultured cells at four time points to determine whether the Company’s MEMs were able to alter the levels of pro-inflammatory cytokines or other inflammatory agents. The Company’s COVID-CRS formulations showed potential for the selective inhibition of pro-inflammatory processes in response to viral- and bacterial-triggered hyperinflammation in a human immune cell model. These positive proof-of-concept results support the potential for some of these mixtures to accomplish our therapeutic goals, but, ultimately, clinical trial results will determine whether they are efficacious. The Company’s plant-based drug discovery platform is advancing biopharmaceutical research at a time when thousands are dying from COVID-19. The next step is to further develop our plant-inspired drugs and eventually bring them to human trials so that the use of well-defined cannabinoid mixtures in clinical practice can become a reality.
+24
+Table of Contents
+As mentioned above, the Company announced that the NRC Canada is testing our proprietary, psychotropic plant-based formulas for the treatment of depression and anxiety in preclinical animal studies. The Company has leveraged its patent-pending PhAROS™ (Phytomedical Analytics for Research Optimization at Scale) platform to identify these combinations of plant compounds for novel drug candidates to treat depression and anxiety. These are the company’s first non-cannabis formulations to enter preclinical studies. For these novel psychotropic drug candidates, the Company used the PhAROS™ platform to identify new ingredients to improve upon an initial formulation for anxiety based on traditional medicine. The original plant mixture was derived from the kava plant, but some elements of kava are thought to cause liver toxicity. PhAROS™ identified ingredients from the Piper plant family as a substitute for the functionality of the ingredients in question without the potentially adverse safety profiles of those original ingredients. The Piper plant family includes pepper plants that are used worldwide in traditional medicines. The Global Anxiety Disorder and Depression Treatment Market size is forecast to reach USD 19.81 Billion by 2028 according to Reports & Data.
+Favorable Research Updates from our university collaborators reveal the promise in our discovery programs including: 1) Multiple MEM discovery projects using and advancing our proprietary PhAROS™ drug discovery platform in conjunction with Chaminade University, 2) the Company’s Cannabis Metabolomics Project with both Chaminade University of Honolulu, Hawai’i and the University of Athens, Greece, and 3) the Company’s Time-Released Nanoparticles for Delivery of Cannabis-based Ingredients with the University of Seville, Spain and the University of Cadiz, Spain.
+This year, our growing intellectual property portfolio was augmented with additional patent-protections for our PhAROS™ drug discovery platform that were filed in July of 2021 and in October of 2021. The Company, through GBSGB, also filed for protection of new PhAROS™ discovered, non-cannabis formulations in July of 2021. In September of 2021, the Company filed a patent application for the Company’s improved DCR-MEM formulations for our PD therapeutic program. These new patent applications expanded upon the solid foundation of intellectual property developed over the past six years. In 2020, the three patents which protect formulations for the Company’s lead therapeutic programs were issued by the USPTO. The issuance of U.S. Patent No. 10,653,640 entitled "Cannabinoid-Containing Complex Mixtures for the Treatment of Neurodegenerative Diseases" on May 19, 2020 protects methods of using GBSGB’s proprietary cannabinoid-containing complex mixtures (CCCM™) for treating Parkinson’s Disease. This was an important milestone in the development of these vitally important therapies and validates GBSGB’s drug discovery platform. In the US alone, the combined direct and indirect costs associated with Parkinson’s disease are estimated at $52 billion, and new therapies to address Parkinson’s disease symptoms are greatly needed. This was also the first time that a US patent has been awarded for a cannabis-based complex mixture defined using this type of drug discovery method. The first US patent for PD therapies validated our drug discovery platform and strengthened our intellectual property portfolio of unique CCCM’s™, each targeting one of up to 60 specific clinical applications.
+The issuance of the Company’s second and third US patents for active pharmaceutical ingredients that are complex mixtures identified by our biotech platform further confirmed that the Company’s pharmaceutical compositions can be patent protected for use as biopharmaceutical and nutraceutical products. The US Patent entitled “Myrcene-Containing Complex Mixtures Targeting TRPV1” protects methods of using our proprietary MEMs for the treatment of pain disorders related to arthritis, shingles, irritable bowel syndrome, sickle cell disease, and endometriosis. In the US alone, chronic pain represents an estimated health burden of between $560 and $650 billion dollars, and an estimated 20.4% of U.S. adults suffer from chronic pain that significantly decreases their quality of life. Despite the widespread rates of addiction and death, opioids remain the standard of care treatment for most people with chronic pain. The Company believes that it is important to create safer, less addictive alternatives to opioids for the treatment of chronic pain disorders, like GBSGB’s myrcene-containing MEMs.
+The Company's third issued US Patent entitled "Cannabinoid-Containing Complex Mixtures for the Treatment of Mast-Cell-Associated or Basophil-Mediated Inflammatory Disorders" protects methods of using the Company’s proprietary MEMs for treating Mast Cell Activation Syndrome (MCAS). MCAS is a severe immunological condition in which mast cells inappropriately and excessively release inflammatory mediators, resulting in a range of severe chronic hyperinflammatory symptoms and life-threatening anaphylaxis attacks. Receiving this patent for the treatment of MCAS using our MEMs is an important milestone in the development of this urgently needed medicine. There is no single recommended treatment for MCAS patients. Instead, they attempt to manage MCAS symptoms primarily by avoiding ‘triggers’ and using rescue medicines for their severe hyperinflammatory attacks. Therefore, MCAS patients need new therapeutic options to control their mast cell related symptoms, and our MEMs were designed to simultaneously control multiple inflammatory pathways within mast cells as a comprehensive treatment option. The Company is strategically targeting MCAS for two additional reasons. By focusing on a rare disease with no known cure, our company can apply for the U.S. Food and Drug Administration’s expedited approval process, which allows clinically successful treatments to get to market both quicker and more cost effectively. Gaining approval from the US FDA for the entire anti-inflammatory market would be extremely time consuming and cost prohibitive. Demonstrating that our MEMs are safe for the treatment of MCAS would favorably position our Company for clinical testing of these MEMs as potential treatments for other related inflammatory disorders, such as inflammatory bowel disease, thereby widening the target market and drastically shortening the development cycle and costs.
+The Company’s fourth US Patent was issued on March 1, 2022 for a cannabinoid-containing mixture designed to treat cardiac hypertrophy, often present in advanced heart disease. Gb Sciences’ newly issued patent also covers the use of these receptor-targeted formulations for the treatment of TRPV1-receptor associated hearing loss and urinary cystitis. Despite multiple categories of prescription heart medications on the market, heart disease remains the leading cause of death in the United States for people of most racial and ethnic groups. Alternative therapeutic approaches are still needed, especially for the treatment of advanced heart disease. The market for prescription heart disease medications is predicted to rise to $64 billion dollars in the US by 2026, with future market growth fueled by innovative new therapeutic approaches.
+25
+Table of Contents
+Intellectual Property Portfolio
+GBSGB retained Fenwick & West, a Silicon Valley based law firm focusing on life sciences and high technology companies with a nationally top-ranked intellectual property practice, to develop strategies for the protection of the Company's intellectual property. The status of the intellectual property portfolio is as follows. Unless otherwise indicated, all patents listed below are assigned to the Company's wholly owned subsidiary, GBS Global Biopharma, Inc.
+Issued Patents
+Title:      CANNABINOID-CONTAINING COMPLEX MIXTURES FOR THE TREATMENT OF NEURODEGENERATIVE DISEASES
+U.S. Patent Number:
+10,653,640
+Expiration date:
+October 23, 2038
+Issued:
+May 19, 2020
+Inventors:
+Andrea Small-Howard et al.
+U.S. Patent protection was granted for GBSGB’s Cannabinoid-Containing Complex Mixtures for the treatment of Parkinson’s disease.
+Title:      MYRCENE-CONTAINING COMPLEX MIXTURES TARGETING TRPV1
+U.S. Patent Number:
+10,709,670
+Expiration date:
+May 22, 2038
+Issued:
+July 14, 2020
+Inventors:
+Andrea Small-Howard, et al.
+GBSGB’s MCCMs are protected in the U.S. for use in the treatment of pain related to arthritis, shingles, irritable bowel syndrome, sickle cell disease, and endometriosis.
+Title:     CANNABINOID-CONTAINING COMPLEX MIXTURES FOR THE TREATMENT OF MAST CELL-ASSOCIATED OR BASOPHIL-MEDIATED INFLAMMATORY DISORDERS
+U.S. Patent Number:
+10,857,107
+Expiration date:
+January 31, 2038
+Issued:
+December 8, 2020
+Inventors:
+Andrea Small-Howard et al.
+U.S. Patent protection was granted for GBSGB’s Cannabinoid-Containing Complex Mixtures for the treatment of Mast Cell Activation Syndrome (MCAS).
+Title: TRPV1 ACTIVATION-MODULATING COMPLEX MIXTURES OF CANNABINOIDS AND/OR TERPENES
+U.S. Patent Number:
+11,260,044
+Expiration date:
+January 31, 2038
+Issued:
+March 1, 2022
+Inventors:
+Andrea Small-Howard et al.
+U.S.  Patent protection was granted for GBSGB’s Cannabinoid-Containing Complex Mixtures designed to treat cardiac hypertrophy, often present in advanced heart disease. The Company’s newly issued patent also covers the use of these receptor-targeted formulations for the treatment of TRPV1-receptor associated hearing loss and urinary cystitis.
+Title:     METHODS AND COMPOSITIONS FOR PREVENTION AND TREATMENT OF CARDIAC HYPERTROPHY
+Inventor:
+Alexander Stokes
+Assignee:
+University of Hawai'i
+U.S. Patent Number:
+9,084,786
+Issued:
+July 21, 2015
+U.S. Patent Number:
+10,137,123
+Issued:
+November 27, 2018
+E.U. Patent Number:
+2,635,281
+Issued:
+March 14, 2018
+Hong Kong Patent Number:
+14102182.8
+Issued:
+March 14, 2018
+GBSGB has sublicensed from Makai Biotechnology, LLC these two issued USPTO patents and two issued international patents for the prevention and treatment of heart failure due to cardiac hypertrophy through therapeutic regulation of TRPV1.
+Title:      METHOD FOR PRODUCING A PHARMACEUTICAL COMPOSITION OF POLYMERIC NANOPARTICLES FOR TREATING NEUROPATHIC PAIN CAUSED BY PERIPHERAL NERVE COMPRESSION
+Spain Patent Number:
+ES2582287
+Inventors:
+Lucia Martin Banderas, Mercedes Fernandez Arevalo, Esther Berrocoso Dominguez, Juan Antonio Mico Segura
+Issued:
+September 29, 2017
+Assignees:
+Universidad de Sevilla, Universidad de Cadiz, Centro de Investigacion Biomedica En Red
+Exclusive worldwide license held by GBS Global Biopharma, Inc. Claims benefit of Spanish Patent Application No. P201500129 (Pub. No. ES 2582287). GBSGB holds the exclusive rights to commercialize these cannabinoid-containing, time-released, oral nanoparticles for the treatment of neuropathic pain.
+26
+Table of Contents
+In addition to the issued patents listed above, GBSGB's intellectual property portfolio includes a total of 14 USPTO and 41 international patents pending:
+Title
+Jurisdiction
+Application Number
+Other International Applications Filed
+Continuation of
+CANNABINOID-CONTAINING COMPLEX MIXTURES FOR THE TREATMENT OF NEURODEGENERATIVE DISEASES
+US
+USPTO 16/844,713
+PCT/US2017/055989
+AU, CA, CN, EP, HK, IL, JP
+15/729,565
+MYRCENE-CONTAINING COMPLEX MIXTURES TARGETING TRPV1
+US
+USPTO 16/878,295
+PCT/US2018/033956
+AU, CA, CN, EP, HK, IL, JP
+15/986,316
+CANNABINOID-CONTAINING COMPLEX MIXTURES FOR THE TREATMENT OF MAST CELL-ASSOCIATED OR BASOPHIL-MEDIATED INFLAMMATORY DISORDERS
+US
+USPTO 17/065,400
+PCT/US2018/016296
+AU, CA, CN, EP, HK, IL, JP
+15/885,620
+TRPV1 ACTIVATION-MODULATING COMPLEX MIXTURES OF CANNABINOIDS AND/OR TERPENES
+US
+USPTO 16/420,004
+PCT/US2019/033618
+AU, CA, CN, EP, HK, IL, JP
+THERAPEUTIC NANOPARTICLES ENCAPSULATING TERPENOIDS AND/OR CANNABINOIDS
+US
+USPTO 16/686,069
+PCT/ES2019/070765
+TREATMENT OF PAIN USING ALLOSTERIC MODULATOR OF TRPV1
+US
+USPTO 16/914,205
+PCT/US2020/039989
+CANNABINOID-CONTAINING COMPLEX MIXTURES FOR THE TREATMENT OF CHRONIC INFLAMMATORY DISORDERS
+US
+USPTO 63/067,269 (provisional)
+CANNABINOID-CONTAINING COMPLEX MIXTURES FOR THE TREATMENT OF CYTOKINE RELEASE SYNDROME WHILE PRESERVING KEY ANTI-VIRAL IMMUNE REACTIONS
+US
+USPTO 17/406,035
+PCT/US2021/046584
+IN SILICO META-PHARMACOPEIA ASSEMBLY FROM NON-WESTERN MEDICAL SYSTEMS USING ADVANCED DATA ANALYTIC TECHNIQUES TO IDENTIFY AND DESIGN PHYTOTHERAPEUTIC STRATEGIES
+US
+USPTO 17/501,498
+PCT/US2021/055056
+METHODS AND COMPOSITIONS FOR PREVENTION AND TREATMENT OF CARDIAC HYPERTROPHY
+EU
+EPO 3,348,267
+IN, CN
+METHOD FOR PRODUCING A PHARMACEUTICAL COMPOSITION OF POLYMERIC NANOPARTICLES FOR TREATING NEUROPATHIC PAIN CAUSED BY PERIPHERAL NERVE COMPRESSION
+WIPO/PCT
+WIPO 2016/128591
+PCT/ES2016/000016
+EU, CA
+CANNABINOID-CONTAINING FORMULATIONS FOR PARKINSONIAN MOVEMENT DISORDERS
+US
+USPTO 63/249,482 (provisional)
+METHODS AND COMPOSITIONS FOR THE IDENTIFICATION OF NOVEL THERAPEUTIC APPROACHES TO MIGRAINE USING THE PHAROS IN SILICO DRUG DISCOVERY PLATFORM
+US
+USPTO 63/221,334 (provisional)
+METHOD AND COMPOSITIONS FOR THE PHYTOMEDICAL COMPONENT SUPPLY CHAIN DECISION SUPPORT USING THE PHAROS IN SILICO DRUG DISCOVERY PLATFORM
+US
+USPTO 63/221,358 (provisional)
+METHODS AND COMPOSITIONS FOR NOVEL PAIN THERAPIES INCLUDING OPIOID-ALTERNATIVE STRATEGIES IDENTIFIED USING THE PHAROS IN SILICO DRUG DISCOVERY PLATFORM
+US
+USPTO 63/221,364 (provisional)
+METHODS AND COMPOSITIONS FOR NOVEL PAIN THERAPIES TARGETED TO SPECIFIC PAIN SUBTYPES IDENTIFIED USING THE PHAROS IN SILICO DRUG DISCOVERY PLATFORM
+US
+USPTO 63/221,366 (provisional)
+METHODS AND COMPOSITIONS DEVELOPMENT OF NOVEL THERAPEUTICS BASED ON PIPER SPECIE-CONTAINING PHYTOMEDICINES FOR ANXIETY AND ASSOCIATED DISORDERS USING THE PHAROS IN SILICO DRUG DISCOVERY PLATFORM
+US
+USPTO 63/221,367 (provisional)
+METHODS AND COMPOSITIONS FOR DECONVOLUTION OF COMPLEX PHYTOMEDICAL FORMULAE FOR CANCER TO IDENTIFY TARGETED STRATEGIES FOR CANCER PAIN AND CYTOTOXIC THERAPEUTIC CANDIDATES USING THE PHAROS IN SILICO DRUG DISCOVERY PLATFORM
+US
+USPTO 63/221,371 (provisional)
+27
+Table of Contents
+Partnering Strategy
+The Company runs a lean drug development program and minimizes expenses, including personnel, overhead, and fixed capital expenses (such as lab and diagnostic equipment), through strategic partnerships with universities, hospitals, suppliers, Contract Research Organizations (“CROs”), and Contract Manufacturing Organizations (“CMOs”). Through these research and development agreements, the Company has created a virtual pipeline for the further development of novel medicines based on ingredients originally derived from the cannabis plant and other plant-based traditional medicines. The partners bring both expertise and infrastructure at a reasonable cost to the life sciences program. In most instances, the Company has also negotiated with these partners to keep 100% of the ownership of the IP within GBSGB for original patent filings.
+The Company currently has on-going research agreements with the following institutions covering the indicated areas of research:
+Chaminade University: Broad-based research program to support the drug discovery platform that has yielded many of the Company’s original patents to date in the areas of neurodegenerative diseases, heart disease, inflammatory diseases, neuropathic and chronic pain. They have also performed the bioassay portion of the Cannabis Metabolomics study performed with the University of Athens, Greece and the Company. Our collaborations with Chaminade also led to the development of our PhAROS™ drug discovery platform.
+University of Athens: Broad-based metabolomics analysis of over 100 cannabis genotypes including both hemp and THC-producing cannabis varieties, in combination with the Company’s bioassay data linking genotypes and potential disease-remediations. This project has the potential to define active ingredients from plant-derived mixtures beyond the standard cannabinoids and terpenoids. The discovery potential is huge, and novel agents have recently been discovered. Novel ligands have been identified and are being validated. This project will ultimately yield novel patent-protected therapies.
+Michigan State University: Preclinical work using a cutting-edge, multi-cellular model of the human immune system and a multi-cell model of the brain to validate our MEMs for use in the treatment of COVID-19-related cytokine release syndromes (COVID-CRS). MSU has performed experiments using their novel model of the human-immune system that have allowed GBSGB to prepare cannabis-based formulas for the potential treatment of virally-induced hyperinflammation/cytokine storm syndrome that has led to the majority of COVID-19 deaths. Positive proof-of-concept results have guided the development of these selectively anti-inflammatory MEM.
+The University of Seville: Bringing their novel expertise to the development and functional testing of time-released and disease-targeted nanoparticles of cannabis-based minimum essential mixtures for oral administration. These specialized nanoparticles are being used for the precise and time-released delivery of several of our therapies, including the Company’s chronic pain MEMs used in the preclinical animal testing performed at the NRC Canada. The University of Seville has completed functional testing on nanoparticles containing myrcene, nerolidol, and beta-caryophyllene for our chronic pain MEMs. In cell-based assays, the effectiveness and kinetics of the nanoparticle-forms of these terpenes were compared with the “naked” terpenes both individually and in mixtures. In all cases, the effectiveness of the nanoparticles was superior to the naked terpenes, however, the mixtures were dramatically more effective than the individuals. Recently, our partners at the University of Seville have completed the formulation of new cannabis-based ingredients for inclusion into the oral, time-released nanoparticle format for the completion of our maximally effective MEMs for chronic pain. The results from Seville are very promising, and these nanoparticles have entered the animal testing phase at the NRC in Halifax.
+The National Research Center (NRC) of Canada, Halifax, Nova Scotia: Four animal-phase studies are being performed by Dr. Lee Ellis’ group at the NRC. 1) Parkinson’s Disease: In Q1 of 2020, an animal safety and efficacy study was completed for the Company’s equimolar MEMs for the treatment of the motor symptoms of Parkinson’s disease, and the NRC has demonstrated that the company’s PD formulations were able to reduce behavioral changes associated with the loss of dopamine-producing neurons, which underlies the pathology of Parkinson’s disease in the animal model. Based on achieving the statistically significant reduction in Parkinson’s disease symptomology in these equimolar MEMs, the Company completed a final phase of testing in August of 2021, which identified five defined cannabinoid ratio (DCR)-MEMs that were more effective than the root equimolar MEM. 2) Chronic Pain: In Q1 of 2019, the Company started a safety and efficacy study in animals for our Chronic Pain (CP) formulas. The midterm results for these preclinical pain studies were promising, but the study was significantly delayed by the COVID pandemic. These preclinical studies have resumed and are progressing well. 3 & 4) Depression and Anxiety: Minimum essential mixtures of plant-based ingredients from kava and the related Piper plant family are being evaluated now.
+The University of Cadiz: Testing the safety and efficacy of the above-mentioned time-released nanoparticles in rodent models of chronic pain. Proof of concept complete for one formulation.
+University of Hawaii: Validating the efficacy of a complex cannabis-based mixture for the treatment of cardiac hypertrophy and cardiac disease in a rodent model. Proof of concept work is complete in rodents, and we are seeking commercialization partners.
+28
+Table of Contents
+Path to Market: Drug Development Stages and Proposed Clinical Trials
+The Company has plant-based therapeutic products in the following stages of drug development: Discovery, Pre-Clinical, and entering the Clinical Phase. It has also licensed therapeutic products that the Company intends to develop through partners, labeled Partner Programs.
+The completion of discovery, preclinical studies, clinical trials, and the required regulatory submissions required for obtaining US FDA pre-market approvals for pharmaceutical products (and equivalent approvals from other corresponding agencies worldwide) is traditionally a long and expensive process. However, the Company asserts that its proprietary, PhAROS™, AI-enabled, drug discovery engine; plant-inspired formulations; lean development program; novel regulatory strategy; experienced development partners; and aggressive licensing of these products at early clinical stages can mitigate some of the risks. The Company uses a combination of  in silico
+discovery methods and automated screening of cellular and animal models of disease to decrease the time in Discovery prior to filing novel patent applications for disease-specific therapeutics. Through GBSGB, the Company’s original patent applications cover new chemical entities (“NCE”) based on discovery and validation of minimum essential mixtures derived from complex, plant-based therapeutics. The Company plans to use an Exploratory IND/Phase 0 Program that gets the Company to First-in-Human sooner than traditional programs, which reduces translational risks, and includes preliminary efficacy measures for responsible development decisions. In contrast, a traditional phased-development path would not provide any efficacy measures until Phase II. After the completion of our Phase 0 study for PD, which compares the efficacies of multiple related cannabinoid-based formulations, the Company plans to advance the lead PD drug candidate using an adaptive trial design that is more efficient than the traditional phased-development pathway. Through GBSGB, the Company has entered into research contracts, partnerships, and/or joint ventures with several respected, independent contract research organizations, medical schools, universities, and with other scientific consultants to increase developmental efficiencies. If and when one or more of the Company’s drugs, therapies or treatments are approved by the US FDA, the Company will seek to market them under licensing arrangements with major biotechnology or pharmaceutical companies.
+There can be no assurance that we will ever be able to enter into any joint ventures or other arrangements with third parties to finance our drug development program or that if we are able to do so, that any of our projected therapies will ever be approved by the US FDA. Even if we obtain US FDA approval to market one of our therapies, there can be no assurance that it could be successfully marketed or would not be superseded by another plant-based therapy produced by one or more of our competitors. It also may be anticipated that even if we enter into a joint venture development with a financially stable pharmaceutical or institutional partner, we will still be required to raise significant additional capital in the future to achieve the strategic goals of the Company. There can be no assurance that we will be able to obtain such additional capital on reasonable terms, if at all. If the Company fails to achieve its goal of producing one or more plant-inspired pharmaceuticals or therapies, it would have a material adverse effect on our future financial condition and business prospects.
+Other Operations
+On March 24, 2020, the Company entered into the Membership Interest Purchase Agreement ("Teco MIPA") with AJE Management, LLC. Pursuant to the Teco MIPA, the Company agreed to sell 100% of its membership interests in GB Sciences Nevada, LLC, and GB Sciences Las Vegas, LLC (the "Teco Subsidiaries") for approximately $8 million, which amount includes a cash payment at closing, the extinguishment of certain liabilities owed to the purchaser and affiliates of the purchaser, and an 8% promissory note.
+On August 10, 2020, the Company entered into the Membership Interest Purchase Agreement ("Nopah MIPA") and Promissory Note Modification Agreement with 483 Management, LLC. Pursuant to the Nopah MIPA, the Company agreed to sell its 100% membership interest in GB Sciences Nopah, LLC ("Nopah"), which holds a Nevada medical marijuana cultivation certificate. As consideration, the Company would receive $300,000 as a reduction to the balance of the 0% Note payable dated October 23, 2017 and accounts payable of $74,647, which were owed to an affiliate of the purchaser.
+The closing of the Teco and Nopah sales was contingent upon the successful transfer of the Nevada cultivation and production licenses. On December 14, 2021, the Company received approval from the Nevada Cannabis Compliance Board for the transfer of cannabis cultivation and extraction licenses held by its subsidiaries GB Sciences Nevada, LLC, GB Sciences Las Vegas, LLC, and GB Sciences Nopah, LLC (the "Nevada Subsidiaries"). Consequently, all conditions to closing the sales of the 100% membership interests in the Nevada Subsidiaries were satisfied, and the transactions formally closed on December 31, 2021. After the closing date, the Company retains no ownership interest in the Nevada Subsidiaries.
+29
+Table of Contents
+RESULTS OF OPERATIONS
+The following table sets forth certain of our Statements of Operations data from continuing operations:
+For the Three Months Ended
+For the Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+General and administrative expenses
+$
+407,302
+$
+512,788
+$
+1,142,658
+$
+1,417,738
+LOSS FROM OPERATIONS
+(407,302
+)
+(512,788
+)
+(1,142,658
+)
+(1,417,738
+)
+OTHER INCOME/(EXPENSE)
+Interest expense
+(41,470
+)
+(159,478
+)
+(117,260
+)
+(319,976
+)
+Gain on deconsolidation
+-
+5,206,208
+-
+5,206,208
+Other expense
+-
+(15,639
+)
+-
+(6,639
+)
+GAIN/(LOSS) BEFORE INCOME TAXES
+(448,772
+)
+4,518,303
+(1,259,918
+)
+3,461,855
+Income tax expense
+-
+-
+-
+-
+GAIN/(LOSS) FROM CONTINUING OPERATIONS
+$
+(448,772
+)
+$
+4,518,303
+$
+(1,259,918
+)
+$
+3,461,855
+Comparison of the Three and Nine Months Ended
+December 31, 2022 and 2021
+General and Administrative Expenses
+General and administrative expenses decreased by $105,486 to $407,302 for the three months ended December 31, 2022, compared to $512,788 for the three months ended December 31, 2021, and decreased by $275,080 to $1,142,658 for the nine months ended December 31, 2022 compared to $1,417,738 for the nine months ended December 31, 2021. The decrease is attributable in part to the completion of a research contract with Michigan State University for which the Company had recorded expense of $100,690 in the prior nine month period. In addition, the Company is continuing its efforts to maintain administrative costs at a minimum and to make the best use of its limited resources in advancing research & development of the Company's intellectual property portfolio.
+Interest and Other Income
+Interest expense decreased by $118,008 to $41,470 for the three months ended December 31, 2022, compared to $159,478 in the prior year quarter. Other expense was $15,639 in the prior year quarter. For the nine months ended December 31, 2022, interest expense decreased by $202,716 to $117,260 compared to $319,976 in the nine months ended December 31, 2021, and other expense was $6,639 for the prior year nine months.
+The decrease in both periods is attributable to less debt outstanding as the result of the repayment of $500,000 debt principal during the March 31, 2022 quarter and a decrease in amortization expense from debt discounts during the current year period as the result of prior amortization of discounts on outstanding debt.
+LIQUIDITY AND CAPITAL RESOURCES
+Current Liquidity
+The Company will need additional capital to implement its strategies. There is no assurance that it will be able to raise the amount of capital needed for future growth plans. Even if financing is available, it may not be on terms that are acceptable. If unable to raise the necessary capital at the times required, the Company may have to materially change the business plan, including delaying implementation of aspects of the business plan or curtailing or abandoning the business plan. The Company represents a speculative investment and investors may lose all of their investment. In order to be able to achieve the strategic goals, the Company needs to further expand its business and financing activities. Based on the Company's cash position, it is necessary to raise additional capital by the end of the next quarter in order to continue to fund current operations. These factors raise substantial doubt about the ability to continue as a going concern.  The Company is pursuing several alternatives to address this situation, including the raising of additional funding through equity or debt financing. In order to finance existing operations and pay current liabilities over the next twelve months, the Company will need to raise additional capital. No assurance can be given that the Company will be able to operate profitably on a consistent basis, or at all, in the future.
+The principal sources of liquidity to date have been cash generated from sales of debt and equity securities and loans along with the sale of our subsidiaries.
+At  December 31, 2022, cash was $274,038, other current assets excluding cash were $159,185, and our working capital deficit was $3,962,864. Current liabilities were $4,396,087 and consisted principally of $1,751,820 in accounts payable, $360,090 in accrued liabilities, $1,387,682 in notes and convertible notes payable, and and a federal income tax liability related to the Company's past ownership of the Nevada Subsidiaries of $896,495.
+At March 31, 2022, cash was $233,893, other current assets excluding cash were $93,933, and our working capital deficit was $3,607,638. Current liabilities were $3,935,464, which consisted principally of $1,657,008 in accounts payable, $394,396 in accrued liabilities, $987,565 in notes and convertible notes payable, and an income tax liability related to the Company's past ownership of the Nevada Subsidiaries of $896,495.
+30
+Table of Contents
+Sources and Uses of Cash
+Operating Activities
+Net cash used in operating activities was $1,306,971 for the nine months ended December 31, 2022, compared to cash used of $1,200,915, including $87,772 used in operating activities of discontinued operations for the nine months ended December 31, 2021. We anticipate that cash flows from operations will be insufficient to fund business operations for the next twelve-month period. Accordingly, we will have to generate additional liquidity or cash flow to fund our current and anticipated operations. This will likely require the sale of additional common stock or other securities. There is no assurance that we will be able to realize any significant proceeds from such sales, if at all.
+Investing Activities
+During the nine months ended December 31, 2022, $31,650 was used in investing activities for the acquisition of intangible assets. During the nine months ended December 31, 2021, cash provided by investing activities was $1,550,339, which consists of $1,648,772 in proceeds from the sale of the Nevada Subsidiaries, offset by $100,000 paid to acquire intangible assets and $1,567 provided by investing activities of discontinued operations.
+Financing Activities
+During the nine months ended December 31, 2022, cash flows provided by financing activities totaled $1,378,766, including $1,625,000 in gross proceeds from sales of the Company's common stock in a private placement, offset by $207,350 in brokerage fees and $34,984 of principal payments on a note payable. Cash provided by financing activities for the nine months ended December 31, 2021 included $62,660 proceeds from warrant exercises and $50,000 proceeds from a convertible note, offset by $103,387 used in discontinued operations.
+Going Concern
+The Company’s unaudited condensed consolidated financial statements have been prepared assuming the Company will continue as a going concern. The Company has sustained net losses since inception, which have caused an accumulated deficit of $105,840,040 at December 31, 2022. The Company had a working capital deficit of $3,962,864 at December 31, 2022, compared to a deficit of $3,607,638 at March 31, 2022. In addition, the Company has consumed cash in its operating activities of $1,306,971 for the nine months ended December 31, 2022, compared to $1,200,915 used in operating activities, including $87,772 used in discontinued operations for the nine months ended December 31, 2021. These factors, among others, raise substantial doubt about the Company’s ability to continue as a going concern.
+Management has been able, thus far, to finance the losses through debt financings, a public offering, private placements and obtaining operating funds from stockholders. The Company is continuing to seek sources of financing.  There are no assurances that the Company will be successful in achieving its goals.
+In view of these conditions, the Company’s ability to continue as a going concern is dependent upon its ability to obtain additional financing or capital sources, to meet its financing requirements, and ultimately to achieve profitable operations. Management believes that its current and future plans provide an opportunity to continue as a going concern. The accompanying financial statements do not include any adjustments relating to the recoverability and classification of recorded assets, or the amounts and classification of liabilities that may be necessary in the event the Company is unable to continue as a going concern.
+31
+Table of Contents
+VARIABLES AND TRENDS
+In the event the Company is able to obtain the necessary financing to progress with its business plan, the Company expects expenses to increase significantly to grow the business. Accordingly, the comparison of the financial data for the periods presented may not be a meaningful indicator of future performance and must be considered in light of these circumstances.
+CRITICAL ACCOUNTING POLICIES
+A description of the Company's significant accounting policies is included in Note 3 of its Annual Report on Form 10–K for the fiscal year ended March 31, 2022.
+ITEM 3.  Quantitative and Qualitative Disclosures About Market Risk
+As a “smaller reporting company” as defined by Item 10 of Regulation S-K, the Company is not required to provide information required by this Item.
+ITEM 4.  Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+The Company  maintains disclosure controls and procedures that are designed to ensure that material information required to be disclosed in the periodic reports filed under the Securities Exchange Act of 1934, as amended, or 1934 Act, is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms and to ensure that such information is accumulated and communicated to management, including the chief executive officer and chief financial officer as appropriate, to allow timely decisions regarding required disclosure. At the end of the quarter ended December 31, 2022, the Company carried out an evaluation, under the supervision and with the participation of management, including the principal executive officer and the principal financial officer, of the effectiveness of the design and operation of disclosure controls and procedures, as defined in Rule 13(a)-15(e) and Rule 15d-15(e) under the 1934 Act. Based on this evaluation, management concluded that as of December 31, 2022, the disclosure controls and procedures were not effective due to material weaknesses as no member of our board of directors qualifies as an “audit committee financial expert” as defined in Item 407(d)(5) of Regulation S-K promulgated under the Securities Act.
+Limitations on Effectiveness of Controls and Procedures
+Management, including the Chief Executive Officer (Principal Executive Officer) and Chief Financial Officer (Principal Financial Officer), does not expect that disclosure controls and procedures will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include, but are not limited to, the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the control. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+Changes in Internal Controls
+During the fiscal quarter ended December 31, 2022, there have been no changes in the internal controls over financial reporting that have materially affected or are reasonably likely to materially affect the internal controls over financial reporting.
+32
+Table of Contents
+PART II – OTHER INFORMATION
+ITEM 1.  Legal Proceedings
+No new items to disclose.
+ITEM 1A.  Risk Factors
+There are no material changes from the risk factors previously disclosed in the Company’s Annual Report on Form 10-K for the fiscal year ended March 31, 2022, as filed with the SEC.
+ITEM 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+No new items to disclose.
+ITEM 3. Defaults Upon Senior Securities
+No new items to disclose.
+ITEM 4.  Mine Safety Disclosures
+Not Applicable.
+ITEM 5.  Other Information
+None.
+ITEM 6.  Exhibits
+In reviewing the agreements included as exhibits to this Form 10-Q, please remember that they are included to provide you with information regarding their terms and are not intended to provide any other factual or disclosure information about the Company or the other parties to the agreements. The agreements may contain representations and warranties by each of the parties to the applicable agreement. These representations and warranties have been made solely for the benefit of the parties to the applicable agreement and:
+●should not in all instances be treated as categorical statements of fact, but rather as a way of allocating the risk to one of the parties if those statements prove to be inaccurate;
+●have been qualified by disclosures that were made to the other party in connection with the negotiation of the applicable agreement, which disclosures are not necessarily reflected in the agreement;
+●may apply standards of materiality in a way that is different from what may be viewed as material to you or other investors; and
+●were made only as of the date of the applicable agreement or such other date or dates as may be specified in the agreement and are subject to more recent developments.
+Accordingly, these representations and warranties may not describe the actual state of affairs as of the date they were made or at any other time. Additional information about the Company may be found elsewhere in this Form 10-Q and the Company’s other public filings, which are available without charge through the SEC’s website at http://www.sec.gov.
+33
+Table of Contents
+The following exhibits are included as part of this report:
+Exhibit
+Number
+Description of Exhibit
+3.1
+Articles of Incorporation (Incorporated by reference to an exhibit to Form SB-2 No. 333-82580 filed with the Commission on February 12, 2002)
+3.2
+Amendment to Articles of Incorporation (Incorporated by reference to Exhibit 3.2 to Form S-1/A No. 333-82580 filed with the Commission on October 6, 2014 and Exhibit 3.2 to the Annual Report on Form 10-K filed with the Commission on June 27, 2014)
+3.3
+Articles of Incorporation (Incorporated by reference to Exhibit 3.3 to the Annual Report on Form 10-K filed with the Commission on August 28, 2020)
+3.4
+Amendment to Articles of Incorporation (Incorporated by reference to Exhibit 3.3 to the Annual Report on Form 10-K filed with the Commission on August 28, 2020)
+3.5
+Bylaws (Incorporated by reference to an exhibit to Form SB-2 No. 333-82580 filed with the Commission on February 12, 2002)
+31.1
+Certification of Principal Executive Officer and Pursuant to Rule 13a-14
+31.2
+Certification of Principal Financial Officer Pursuant to Rule 13a-14
+32.1*
+CEO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act
+32.2*
+CFO Certification Pursuant to Section 906 of the Sarbanes-Oxley Act
+101.INS
+Inline XBRL Instance Document
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Labels Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+* This certification is being furnished and shall not be deemed “filed” with the SEC for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, and shall not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
+34
+Table of Contents
+SIGNATURES
+In accordance with the requirements of the Securities Exchange Act of 1934, the Registrant has caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+GB SCIENCES, INC.
+Date: February 3, 2023
+By:
+/s/ John Poss
+John Poss, Chief Executive Officer
+(Principal Executive Officer)
+GB SCIENCES, INC.
+Date: February 3, 2023
+By:
+/s/ Zach Swarts
+Zach Swarts, Chief Financial Officer
+(Principal Financial Officer)
+35

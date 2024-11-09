@@ -1,0 +1,2235 @@
+2023
+662,054
+371,271
+5
+5
+20,000,000
+20,000,000
+9,851,780
+9,851,780
+9,820,535
+9,820,535
+0
+0
+5,000,000
+5,000,000
+0
+0
+0
+0
+0.1975
+31,245
+0.195
+13,914
+25.74
+2017 2018 2019
+2017 2018 2019 2020 2021 2022
+2019 2020 2021 2022
+4.26
+4.26
+3.58
+3.58
+4.41
+4.41
+3.60
+3.60
+1.20
+1.20
+1.00
+1.00
+1.50
+1.50
+1.15
+1.15
+1.20
+1.20
+1.15
+1.15
+0
+0
+0
+Included in accounts receivable in the condensed consolidated balance sheet. Amounts shown net of reserve for credit losses.
+0001069533 2022-10-01 2022-12-31
+xbrli:shares
+0001069533 2023-01-31
+thunderdome:item
+iso4217:USD
+0001069533 2022-12-31
+0001069533 2022-09-30
+iso4217:USD xbrli:shares
+0001069533 rgco:GasUtilityMember 2022-10-01 2022-12-31
+0001069533 rgco:GasUtilityMember 2021-10-01 2021-12-31
+0001069533 rgco:NonutilityMember 2022-10-01 2022-12-31
+0001069533 rgco:NonutilityMember 2021-10-01 2021-12-31
+0001069533 2021-10-01 2021-12-31
+0001069533 us-gaap:InterestRateSwapMember 2022-10-01 2022-12-31
+0001069533 us-gaap:InterestRateSwapMember 2021-10-01 2021-12-31
+0001069533 us-gaap:CommonStockMember 2022-09-30
+0001069533 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0001069533 us-gaap:RetainedEarningsMember 2022-09-30
+0001069533 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0001069533 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0001069533 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0001069533 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0001069533 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0001069533 us-gaap:CommonStockMember 2022-12-31
+0001069533 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0001069533 us-gaap:RetainedEarningsMember 2022-12-31
+0001069533 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0001069533 us-gaap:CommonStockMember 2021-09-30
+0001069533 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0001069533 us-gaap:RetainedEarningsMember 2021-09-30
+0001069533 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0001069533 2021-09-30
+0001069533 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0001069533 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0001069533 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0001069533 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0001069533 us-gaap:CommonStockMember 2021-12-31
+0001069533 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0001069533 us-gaap:RetainedEarningsMember 2021-12-31
+0001069533 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0001069533 2021-12-31
+0001069533 rgco:ResidentialMember us-gaap:OilAndGasMember rgco:GasUtilityMember 2022-10-01 2022-12-31
+0001069533 rgco:ResidentialMember us-gaap:OilAndGasMember rgco:NonutilityMember 2022-10-01 2022-12-31
+0001069533 rgco:ResidentialMember us-gaap:OilAndGasMember 2022-10-01 2022-12-31
+0001069533 rgco:ResidentialMember us-gaap:OilAndGasMember rgco:GasUtilityMember 2021-10-01 2021-12-31
+0001069533 rgco:ResidentialMember us-gaap:OilAndGasMember rgco:NonutilityMember 2021-10-01 2021-12-31
+0001069533 rgco:ResidentialMember us-gaap:OilAndGasMember 2021-10-01 2021-12-31
+0001069533 rgco:CommercialMember us-gaap:OilAndGasMember rgco:GasUtilityMember 2022-10-01 2022-12-31
+0001069533 rgco:CommercialMember us-gaap:OilAndGasMember rgco:NonutilityMember 2022-10-01 2022-12-31
+0001069533 rgco:CommercialMember us-gaap:OilAndGasMember 2022-10-01 2022-12-31
+0001069533 rgco:CommercialMember us-gaap:OilAndGasMember rgco:GasUtilityMember 2021-10-01 2021-12-31
+0001069533 rgco:CommercialMember us-gaap:OilAndGasMember rgco:NonutilityMember 2021-10-01 2021-12-31
+0001069533 rgco:CommercialMember us-gaap:OilAndGasMember 2021-10-01 2021-12-31
+0001069533 rgco:IndustrialAndTransportationMember us-gaap:OilAndGasMember rgco:GasUtilityMember 2022-10-01 2022-12-31
+0001069533 rgco:IndustrialAndTransportationMember us-gaap:OilAndGasMember rgco:NonutilityMember 2022-10-01 2022-12-31
+0001069533 rgco:IndustrialAndTransportationMember us-gaap:OilAndGasMember 2022-10-01 2022-12-31
+0001069533 rgco:IndustrialAndTransportationMember us-gaap:OilAndGasMember rgco:GasUtilityMember 2021-10-01 2021-12-31
+0001069533 rgco:IndustrialAndTransportationMember us-gaap:OilAndGasMember rgco:NonutilityMember 2021-10-01 2021-12-31
+0001069533 rgco:IndustrialAndTransportationMember us-gaap:OilAndGasMember 2021-10-01 2021-12-31
+0001069533 us-gaap:ProductAndServiceOtherMember rgco:GasUtilityMember 2022-10-01 2022-12-31
+0001069533 us-gaap:ProductAndServiceOtherMember rgco:NonutilityMember 2022-10-01 2022-12-31
+0001069533 us-gaap:ProductAndServiceOtherMember 2022-10-01 2022-12-31
+0001069533 us-gaap:ProductAndServiceOtherMember rgco:GasUtilityMember 2021-10-01 2021-12-31
+0001069533 us-gaap:ProductAndServiceOtherMember rgco:NonutilityMember 2021-10-01 2021-12-31
+0001069533 us-gaap:ProductAndServiceOtherMember 2021-10-01 2021-12-31
+0001069533 rgco:GasUtilityMember 2022-10-01 2022-12-31
+0001069533 rgco:NonutilityMember 2022-10-01 2022-12-31
+0001069533 rgco:GasUtilityMember 2021-10-01 2021-12-31
+0001069533 rgco:NonutilityMember 2021-10-01 2021-12-31
+0001069533 us-gaap:TradeAccountsReceivableMember 2022-09-30
+0001069533 us-gaap:TradeAccountsReceivableMember 2022-12-31
+0001069533 us-gaap:TradeAccountsReceivableMember 2022-10-01 2022-12-31
+xbrli:pure
+0001069533 us-gaap:DomesticCountryMember us-gaap:InternalRevenueServiceIRSMember 2022-10-01 2022-12-31
+0001069533 us-gaap:StateAndLocalJurisdictionMember rgco:VirginiaJurisdictionMember 2022-10-01 2022-12-31
+0001069533 us-gaap:StateAndLocalJurisdictionMember rgco:WestVirginiaJurisdictionMember 2022-10-01 2022-12-31
+0001069533 2022-12-02 2022-12-02
+0001069533 rgco:RoanokeGasCompanyMember 2021-10-01 2022-09-30
+0001069533 2022-06-02
+0001069533 2022-07-19
+0001069533 rgco:NaturalGasDeliveryAssetsMember rgco:HousingAuthorityManagementMember 2022-07-01 2022-09-30
+0001069533 rgco:RGCMidstreamLLCMember rgco:MVPMember 2022-12-31
+0001069533 rgco:RGCMidstreamLLCMember rgco:MVPSouthgateInvestmentMember 2022-12-31
+0001069533 rgco:RGCMidstreamLLCMember rgco:MVPMember 2022-01-01 2022-03-31
+0001069533 rgco:RGCMidstreamLLCMember rgco:MVPMember 2022-07-01 2022-09-30
+0001069533 rgco:RGCMidstreamLLCMember rgco:MVPMember 2022-09-30
+0001069533 rgco:MVPMember 2022-12-31
+0001069533 rgco:MVPMember 2022-09-30
+0001069533 rgco:SouthgateMember 2022-12-31
+0001069533 rgco:SouthgateMember 2022-09-30
+0001069533 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember rgco:MVPMember 2022-10-01 2022-12-31
+0001069533 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember rgco:MVPMember 2021-10-01 2021-12-31
+0001069533 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember 2022-12-31
+0001069533 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember 2022-09-30
+0001069533 rgco:RoanokeGasCompanyMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotesPayableAt30daySOFRAverage120DueAugust202026Member rgco:RoanokeGasCompanyMember us-gaap:UnsecuredDebtMember 2021-08-20
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLiborPlus100BasisPointsDueOctober12028Member rgco:RoanokeGasCompanyMember us-gaap:UnsecuredDebtMember 2021-09-24
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLiborPlus100BasisPointsDueOctober12028Member rgco:RoanokeGasCompanyMember 2022-04-01 2022-04-01
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLiborPlus100BasisPointsDueOctober12028Member rgco:RoanokeGasCompanyMember 2022-09-30 2022-09-30
+0001069533 rgco:RGCMidstreamLLCMember 2022-06-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember us-gaap:UnsecuredDebtMember 2019-06-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus120DueJune12024Member rgco:RGCMidstreamLLCMember us-gaap:UnsecuredDebtMember 2019-06-30
+0001069533 rgco:RGCMidstreamLLCMember 2021-09-24
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember 2019-06-30
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLIBORPlus120DueJune12024Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember 2019-06-30
+0001069533 rgco:RGCMidstreamLLCMember us-gaap:UnsecuredDebtMember 2021-11-01
+0001069533 us-gaap:LineOfCreditMember rgco:SecuredOvernightFinancingRateSofrMember 2022-03-31 2022-03-31
+0001069533 srt:MinimumMember 2022-12-31
+0001069533 srt:MaximumMember 2022-12-31
+0001069533 rgco:UnsecuredPromissoryNoteWith30DayLiborPlus115BasisPointsMaturingJanuary12028Member rgco:RGCMidstreamLLCMember 2021-11-01
+0001069533 rgco:UnsecuredPromissoryNoteWith30DayLiborPlus115BasisPointsMaturingJanuary12028Member rgco:RGCMidstreamLLCMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-11-01 2021-11-01
+0001069533 2021-10-31
+0001069533 2021-11-01
+0001069533 rgco:CashInfusionProceedsUtilizedToRepayNonrevolvingCreditFacilityMember 2021-03-31 2021-03-31
+0001069533 2022-03-31
+0001069533 rgco:UnsecuredPromissoryNotesMember rgco:RGCMidstreamLLCMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-06-30 2022-06-30
+0001069533 rgco:UnsecuredPromissoryNotesMember rgco:RGCMidstreamLLCMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-06-30 2022-06-30
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLiborPlus100BasisPointsDueOctober12028Member rgco:RoanokeGasCompanyMember 2021-09-24
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLiborPlus100BasisPointsDueOctober12028Member rgco:RoanokeGasCompanyMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-24 2021-09-24
+0001069533 rgco:UnsecuredTermNotesPayableAt30dayLiborPlus100BasisPointsDueOctober12028Member us-gaap:InterestRateSwapMember rgco:RoanokeGasCompanyMember 2021-09-24
+0001069533 rgco:UnsecuredTermNotesPayableAt30daySOFRAverage120DueAugust202026Member rgco:RoanokeGasCompanyMember 2021-08-20
+0001069533 rgco:UnsecuredTermNotesPayableAt30daySOFRAverage120DueAugust202026Member rgco:RoanokeGasCompanyMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2021-08-20 2021-08-20
+0001069533 rgco:UnsecuredTermNotesPayableAt30daySOFRAverage120DueAugust202026Member us-gaap:InterestRateSwapMember rgco:RoanokeGasCompanyMember 2021-08-20
+0001069533 rgco:UnsecuredSeniorNotesPayableAt426DueOnSeptember182034Member rgco:RoanokeGasCompanyMember rgco:UnsecuredSeniorNotesPayableMember 2022-12-31
+0001069533 rgco:UnsecuredSeniorNotesPayableAt426DueOnSeptember182034Member rgco:RoanokeGasCompanyMember rgco:UnsecuredSeniorNotesPayableMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotesPayableAt358DueOnOctober22027Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotesPayableAt358DueOnOctober22027Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotesPayableAt441DueOnMarch282031Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotesPayableAt441DueOnMarch282031Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotesPayableAt360DueOnDecember62029Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotesPayableAt360DueOnDecember62029Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30daySofrPlus120DueAugust202026Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember rgco:SecuredOvernightFinancingRateSofrMember 2022-10-01 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30daySofrPlus120DueAugust202026Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember rgco:SecuredOvernightFinancingRateSofrMember 2020-10-01 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30daySofrPlus120DueAugust202026Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember rgco:SecuredOvernightFinancingRateSofrMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30daySofrPlus120DueAugust202026Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30daySofrPlus120DueAugust202026Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember rgco:SecuredOvernightFinancingRateSofrMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus090DueNovember12021Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-10-01 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus090DueNovember12021Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2020-10-01 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus090DueNovember12021Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus090DueNovember12021Member rgco:RoanokeGasCompanyMember rgco:UnsecuredTermNotesMember 2021-09-30
+0001069533 rgco:LineOfCreditAt30dayLiborPlus150DueDecember312023Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-10-01 2022-12-31
+0001069533 rgco:LineOfCreditAt30dayLiborPlus150DueDecember312023Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2020-10-01 2021-09-30
+0001069533 rgco:LineOfCreditAt30dayLiborPlus150DueDecember312023Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-12-31
+0001069533 rgco:LineOfCreditAt30dayLiborPlus150DueDecember312023Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-30
+0001069533 rgco:UnsecuredDelayedDrawTermNoteWith30DayLiborMaturingOctober12028Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-10-01 2022-12-31
+0001069533 rgco:UnsecuredDelayedDrawTermNoteWith30DayLiborMaturingOctober12028Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2020-10-01 2021-09-30
+0001069533 rgco:UnsecuredDelayedDrawTermNoteWith30DayLiborMaturingOctober12028Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-12-31
+0001069533 rgco:UnsecuredDelayedDrawTermNoteWith30DayLiborMaturingOctober12028Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredDelayedDrawTermNoteWith30DayLiborMaturingOctober12028Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-30
+0001069533 rgco:UnsecuredDelayedDrawTermNoteWith30DayLiborMaturingOctober12028Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-10-01 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2020-10-01 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLIBORPlus115DueJune122026Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus120DueJune12024Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-10-01 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus120DueJune12024Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2020-10-01 2021-09-30
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus120DueJune12024Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus120DueJune12024Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember 2022-12-31
+0001069533 rgco:UnsecuredTermNotePayableAt30dayLiborPlus120DueJune12024Member rgco:RGCMidstreamLLCMember rgco:UnsecuredTermNotesMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-30
+0001069533 rgco:RGCMidstreamLLCMember rgco:NotesPayableMember 2022-12-31
+0001069533 rgco:RGCMidstreamLLCMember rgco:NotesPayableMember 2021-09-30
+0001069533 rgco:NotesPayableMember 2022-12-31
+0001069533 rgco:NotesPayableMember 2021-09-30
+0001069533 rgco:UnsecuredTermNotesPayableAt30daySOFRAverage120DueAugust202026Member 2021-08-20
+0001069533 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-09-30
+0001069533 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2022-09-30
+0001069533 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-10-01 2022-12-31
+0001069533 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2022-10-01 2022-12-31
+0001069533 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-12-31
+0001069533 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember 2022-12-31
+0001069533 us-gaap:PensionPlansDefinedBenefitMember 2022-10-01 2022-12-31
+0001069533 us-gaap:PensionPlansDefinedBenefitMember 2021-10-01 2021-12-31
+0001069533 us-gaap:PostemploymentRetirementBenefitsMember 2022-10-01 2022-12-31
+0001069533 us-gaap:PostemploymentRetirementBenefitsMember 2021-10-01 2021-12-31
+0001069533 us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember 2022-10-01 2022-12-31
+0001069533 us-gaap:PensionPlansDefinedBenefitMember 2022-12-31
+0001069533 us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember 2022-12-31
+0001069533 us-gaap:InterestRateSwapMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0001069533 us-gaap:InterestRateSwapMember us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001069533 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001069533 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001069533 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001069533 us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001069533 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001069533 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-09-30
+0001069533 us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-12-31
+0001069533 us-gaap:FairValueInputsLevel1Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001069533 us-gaap:FairValueInputsLevel2Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001069533 us-gaap:FairValueInputsLevel3Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-12-31
+0001069533 us-gaap:CarryingReportedAmountFairValueDisclosureMember 2022-09-30
+0001069533 us-gaap:FairValueInputsLevel1Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-09-30
+0001069533 us-gaap:FairValueInputsLevel2Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-09-30
+0001069533 us-gaap:FairValueInputsLevel3Member us-gaap:EstimateOfFairValueFairValueDisclosureMember 2022-09-30
+0001069533 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2022-12-31
+0001069533 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2022-09-30
+0001069533 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember rgco:OneCustomerMember 2021-10-01 2022-09-30
+0001069533 us-gaap:OperatingSegmentsMember rgco:GasUtilityMember 2022-10-01 2022-12-31
+0001069533 us-gaap:OperatingSegmentsMember rgco:InvestmentInAffiliatesMember 2022-10-01 2022-12-31
+0001069533 us-gaap:CorporateNonSegmentMember 2022-10-01 2022-12-31
+0001069533 us-gaap:OperatingSegmentsMember rgco:GasUtilityMember 2021-10-01 2021-12-31
+0001069533 us-gaap:OperatingSegmentsMember rgco:InvestmentInAffiliatesMember 2021-10-01 2021-12-31
+0001069533 us-gaap:CorporateNonSegmentMember 2021-10-01 2021-12-31
+0001069533 us-gaap:OperatingSegmentsMember rgco:GasUtilityMember 2022-12-31
+0001069533 us-gaap:OperatingSegmentsMember rgco:InvestmentInAffiliatesMember 2022-12-31
+0001069533 us-gaap:CorporateNonSegmentMember 2022-12-31
+0001069533 us-gaap:OperatingSegmentsMember rgco:GasUtilityMember 2022-09-30
+0001069533 us-gaap:OperatingSegmentsMember rgco:InvestmentInAffiliatesMember 2022-09-30
+0001069533 us-gaap:CorporateNonSegmentMember 2022-09-30
+0001069533 rgco:WNAMember 2022-12-31
+0001069533 rgco:WNAMember 2022-09-30
+0001069533 us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2022-12-31
+0001069533 us-gaap:RegulatoryClauseRevenuesUnderRecoveredMember 2022-09-30
+0001069533 us-gaap:PensionCostsMember 2022-12-31
+0001069533 us-gaap:PensionCostsMember 2022-09-30
+0001069533 us-gaap:OtherAssetsMember 2022-12-31
+0001069533 us-gaap:OtherAssetsMember 2022-09-30
+0001069533 us-gaap:DeferredLossOnEarlyExtinguishmentOfDebtMember 2022-12-31
+0001069533 us-gaap:DeferredLossOnEarlyExtinguishmentOfDebtMember 2022-09-30
+0001069533 rgco:OverrecoveryOfGasCostMember 2022-12-31
+0001069533 rgco:OverrecoveryOfGasCostMember 2022-09-30
+0001069533 us-gaap:RevenueSubjectToRefundMember 2022-12-31
+0001069533 us-gaap:RevenueSubjectToRefundMember 2022-09-30
+0001069533 us-gaap:DeferredIncomeTaxChargesMember 2022-12-31
+0001069533 us-gaap:DeferredIncomeTaxChargesMember 2022-09-30
+0001069533 rgco:SupplierRefundMember 2022-12-31
+0001069533 rgco:SupplierRefundMember 2022-09-30
+0001069533 rgco:OtherDeferredLiabilitiesMember 2022-12-31
+0001069533 rgco:OtherDeferredLiabilitiesMember 2022-09-30
+0001069533 us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2022-12-31
+0001069533 us-gaap:OtherRegulatoryAssetsLiabilitiesMember 2022-09-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For Quarterly Period Ended
+December 31, 2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For Transition Period From
+to
+Commission File Number
+000-26591
+RGC Resources, Inc.
+(Exact name of Registrant as Specified in its Charter)
+Virginia
+54-1909697
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(I.R.S. Employer
+Identification No.)
+519 Kimball Ave., N.E. ,
+Roanoke ,
+VA
+24016
+(Address of Principal Executive Offices)
+(Zip Code)
+( 540 )
+777-4427
+(Registrant’s Telephone Number, Including Area Code)
+None
+(Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading   Symbol
+Name of Each Exchange on Which Registered
+Common Stock, $5 Par Value
+RGCO
+NASDAQ
+Global Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of “large accelerated filer,” “accelerated-filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes   ☐     No  ☒
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+Class
+Outstanding at January 31, 2023
+Common Stock, $5 Par Value
+9,910,731
+Table of Contents
+INDEX
+​
+​
+Page   No.
+​
+​
+​
+PART   I. FINANCIAL INFORMATION
+​
+​
+​
+Item 1.
+Financial Statements
+​
+Condensed Consolidated Balance Sheets
+1
+​
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+3
+​
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+4
+​
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+5
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+6
+​
+Notes to Condensed Consolidated Financial Statements
+7
+Item 2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+23
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+33
+Item 4.
+Controls and Procedures
+33
+PART   II. OTHER INFORMATION
+Item 1.
+Legal Proceedings
+34
+Item 1A.
+Risk Factors
+34
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+34
+Item 3.
+Defaults Upon Senior Securities
+34
+Item 4.
+Mine Safety Disclosures
+34
+Item 5.
+Other Information
+34
+Item 6.
+Exhibits
+34
+Signatures
+​
+35
+​
+Table of Contents
+GLOSSARY OF TERMS
+AFUDC
+Allowance for Funds Used During Construction
+AOCI/AOCL
+Accumulated Other Comprehensive Income (Loss)
+ARO
+Asset Retirement Obligation
+ARP
+Alternative Revenue Program, regulatory or rate recovery mechanisms approved by the SCC that allow for the adjustment of revenues for certain broad, external factors, or for additional billings if the entity achieves certain performance targets
+ARPA
+American Rescue Plan Act of 2021
+ASC
+Accounting Standards Codification
+ASU
+Accounting Standards Update as issued by the FASB
+ATM
+At-the-market program whereby a Company can incrementally offer common stock through a broker at prevailing market prices and on an as-needed basis
+CARES/CARES Act
+The Coronavirus Aid, Relief, and Economic Security Act
+Company
+RGC Resources, Inc. or Roanoke Gas Company
+COVID-19 or Coronavirus
+A pandemic disease that causes respiratory illness similar to the flu with symptoms such as coughing, fever, and in more severe cases, difficulty in breathing
+CPCN
+Certificate of Public Convenience and Necessity
+Diversified Energy
+Diversified Energy Company, a wholly-owned subsidiary of Resources
+DRIP
+Dividend Reinvestment and Stock Purchase Plan of RGC Resources, Inc.
+DTH
+Decatherm (a measure of energy used primarily to measure natural gas)
+EPS
+Earnings Per Share
+ERISA
+Employee Retirement Income Security Act of 1974
+FASB
+Financial Accounting Standards Board
+FDIC
+Federal Deposit Insurance Corporation
+Table of Contents
+FERC
+Federal Energy Regulatory Commission
+Fourth Circuit
+U.S. Fourth Circuit Court of Appeals
+GAAP
+Generally Accepted Accounting Principles in the United States
+HDD
+Heating degree day, a measurement designed to quantify the demand for energy. It is the number of degrees that a day’s average temperature falls below 65 degrees Fahrenheit
+ICC
+Inventory carrying cost revenue, an SCC approved rate structure that mitigates the impact of financing costs on natural gas inventory
+IRS
+Internal Revenue Service
+KEYSOP
+RGC Resources, Inc. Key Employee Stock Option Plan
+LDI
+Liability Driven Investment approach, a strategy which reduces the volatility in the pension plan's funded status and expense by matching the duration of the fixed income investments with the duration of the corresponding pension liabilities
+LIBOR
+London Inter-Bank Offered Rate
+LLC
+Mountain Valley Pipeline, L.L.C., a joint venture established to design, construct and operate MVP and Southgate
+LNG
+Liquefied natural gas, the cryogenic liquid form of natural gas. Roanoke Gas operates and maintains a plant capable of producing and storing up to 200,000 DTH of liquefied natural gas
+MGP
+Manufactured gas plant
+Midstream
+RGC Midstream, L.L.C., a wholly-owned subsidiary of Resources created to invest in pipeline projects including MVP and Southgate
+MVP
+Mountain Valley Pipeline, a FERC-regulated natural gas pipeline project intended to connect the Equitran's gathering and transmission system in northern West Virginia to the Transco interstate pipeline in south central Virginia with a planned interconnect to Roanoke Gas’ natural gas distribution system
+NQDC Plan
+RGC Resources, Inc. Non-qualified Deferred Compensation Plan
+Normal Weather
+The average number of heating degree days over the most recent 30-year period
+PBGC
+Pension Benefit Guaranty Corporation
+Pension Plan
+Defined benefit plan that provides pension benefits to employees hired prior to January 1, 2017 who meet certain years of service criteria
+Table of Contents
+PGA
+Purchased Gas Adjustment, a regulatory mechanism, which adjusts natural gas customer rates to reflect changes in the forecasted cost of gas and actual gas costs
+Postretirement Plan
+Defined benefit plan that provides postretirement medical and life insurance benefits to eligible employees hired prior to January 1, 2000 who meet years of service and other criteria
+R&D credit
+Research and development federal tax credit defined under Internal Revenue Code section 41 and the related regulations
+Resources
+RGC Resources, Inc., parent company of Roanoke Gas, Midstream and Diversified Energy
+RGCO
+Trading symbol for RGC Resources, Inc. on the NASDAQ Global Stock Market
+Roanoke Gas
+Roanoke Gas Company, a wholly-owned subsidiary of Resources
+RNG
+Renewable natural gas
+RSPD
+RGC Resources, Inc. Restricted Stock Plan for Outside Directors
+RSPO
+RGC Resources, Inc. Restricted Stock Plan for Officers
+SAVE
+Steps to Advance Virginia's Energy, a regulatory mechanism per Chapter 26 of Title 56 of the Code of Virginia that allows natural gas utilities to recover the investment, including related depreciation and expenses and provide return on rate base, in eligible infrastructure replacement projects without the filing of a formal base rate application
+SAVE Plan
+Steps to Advance Virginia's Energy Plan, the Company's proposed and approved operational replacement plan and related spending under the SAVE regulatory mechanism
+SAVE Rider
+Steps to Advance Virginia's Energy Plan Rider, the rate component of the SAVE Plan as approved by the SCC that is billed monthly to the Company’s customers to recover the costs associated with eligible infrastructure projects including the related depreciation and expenses and return on rate base of the investment
+SCC
+Virginia State Corporation Commission, the regulatory body with oversight responsibilities of the utility operations of Roanoke Gas
+SEC
+U.S. Securities and Exchange Commission
+SOFR
+Secured Overnight Financing Rate
+Southgate
+Mountain Valley Pipeline, LLC’s Southgate project, which is a contemplated interstate pipeline that was approved by the FERC to extend from the MVP in south central Virginia to central North Carolina, of which Midstream holds less than a 1% investment
+S&P 500 Index
+Standard & Poor’s 500 Stock Index
+WNA
+Weather Normalization Adjustment, an ARP mechanism which adjusts revenues for the effects of weather temperature variations as compared to the 30-year average
+Some of the terms above may not be included in this filing
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+December 31, 2022
+September 30,
+Unaudited
+2022
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents
+$ 3,234,192     $ 4,898,914
+Accounts receivable (less allowance for credit losses of $ 662,054 , and $ 371,271 , respectively)
+21,029,677       5,353,270
+Materials and supplies
+1,340,154       1,228,554
+Gas in storage
+15,251,579       16,916,651
+Prepaid income taxes
+3,293,148       3,087,755
+Regulatory assets
+314,762       1,877,468
+Interest rate swaps
+1,258,824       1,218,211
+Other
+2,122,737       967,496
+Total current assets
+47,845,073       35,548,319
+UTILITY PROPERTY:
+In service
+294,958,870       290,940,683
+Accumulated depreciation and amortization
+( 81,739,456 )     ( 80,242,946 )
+In service, net
+213,219,414       210,697,737
+Construction work in progress
+21,630,301       19,163,337
+Utility property, net
+234,849,715       229,861,074
+OTHER NON-CURRENT ASSETS:
+Regulatory assets
+5,420,668       5,446,547
+Investment in unconsolidated affiliates
+14,631,951       13,773,075
+Benefit plan assets
+622,831       749,341
+Deferred income taxes
+952,124       1,057,079
+Interest rate swaps
+3,292,811       3,580,256
+Other
+336,989       293,552
+Total other non-current assets
+25,257,374       24,899,850
+TOTAL ASSETS
+$ 307,952,162     $ 290,309,243
+1
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+December 31, 2022
+September 30,
+Unaudited
+2022
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+CURRENT LIABILITIES:
+Current maturities of long-term debt
+$ 24,700,000     $ 1,300,000
+Line-of-credit
+9,391,974       —
+Dividends payable
+1,957,369       1,915,317
+Accounts payable
+11,124,909       8,600,919
+Capital contributions payable
+843,972       804,506
+Customer credit balances
+1,269,179       1,400,770
+Customer deposits
+1,559,528       1,457,610
+Accrued expenses
+2,404,087       3,668,122
+Regulatory liabilities
+6,913,419       3,168,066
+Total current liabilities
+60,164,437       22,315,310
+LONG-TERM DEBT:
+Notes payable
+113,550,000       135,971,200
+Less unamortized debt issuance costs
+( 261,005 )     ( 275,911 )
+Long-term debt, net
+113,288,995       135,695,289
+DEFERRED CREDITS AND OTHER NON-CURRENT LIABILITIES:
+Asset retirement obligations
+10,329,950       10,204,079
+Regulatory cost of retirement obligations
+12,520,934       12,277,796
+Benefit plan liabilities
+390,531       337,535
+Deferred income taxes
+3,299,760       3,165,454
+Regulatory liabilities
+13,067,548       13,223,124
+Total deferred credits and other non-current liabilities
+39,608,723       39,207,988
+STOCKHOLDERS’ EQUITY:
+Common stock, $ 5
+par; authorized
+20,000,000
+shares; issued and outstanding
+9,851,780
+and
+9,820,535
+shares, respectively
+49,258,900       49,102,675
+Preferred stock,
+no
+par, authorized
+5,000,000
+shares;
+no
+shares issued and outstanding
+—       —
+Capital in excess of par value
+41,992,216       41,479,459
+Retained earnings
+1,843,194       544,158
+Accumulated other comprehensive income
+1,795,697       1,964,364
+Total stockholders’ equity
+94,890,007       93,090,656
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+$ 307,952,162     $ 290,309,243
+See notes to condensed consolidated financial statements.
+2
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+UNAUDITED
+Three Months Ended December 31,
+2022
+2021
+OPERATING REVENUES:
+Gas utility
+$ 33,252,767     $ 23,231,655
+Non utility
+29,568       31,425
+Total operating revenues
+33,282,335       23,263,080
+OPERATING EXPENSES:
+Cost of gas - utility
+20,804,153       11,316,405
+Cost of sales - non utility
+4,593       4,035
+Operations and maintenance
+3,920,513       3,690,314
+General taxes
+589,050       603,209
+Depreciation and amortization
+2,419,541       2,270,694
+Total operating expenses
+27,737,850       17,884,657
+OPERATING INCOME
+5,544,485       5,378,423
+Equity in earnings of unconsolidated affiliate
+1,232       72,127
+Other income, net
+74,606       322,439
+Interest expense
+1,369,164       1,104,856
+INCOME BEFORE INCOME TAXES
+4,251,159       4,668,133
+INCOME TAX EXPENSE
+994,754       1,083,604
+NET INCOME
+$ 3,256,405     $ 3,584,529
+BASIC EARNINGS PER COMMON SHARE
+$ 0.33     $ 0.43
+DILUTED EARNINGS PER COMMON SHARE
+$ 0.33     $ 0.43
+DIVIDENDS DECLARED PER COMMON SHARE
+$ 0.1975     $ 0.1950
+See notes to condensed consolidated financial statements.
+3
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+UNAUDITED
+Three Months Ended December 31,
+2022
+2021
+NET INCOME
+$ 3,256,405     $ 3,584,529
+Other comprehensive income (loss), net of tax:
+Interest rate swaps
+( 183,298 )     362,274
+Defined benefit plans
+14,631       ( 11,191 )
+OTHER COMPREHENSIVE INCOME (LOSS), NET OF TAX
+( 168,667 )     351,083
+COMPREHENSIVE INCOME
+$ 3,087,738     $ 3,935,612
+See notes to condensed consolidated financial statements.
+4
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+UNAUDITED
+Three Months Ended December 31, 2022
+Common Stock
+Capital in Excess of Par Value
+Retained Earnings
+Accumulated Other Comprehensive Income (Loss)
+Total Stockholders' Equity
+Balance - September 30, 2022
+$ 49,102,675   $ 41,479,459   $ 544,158   $ 1,964,364   $ 93,090,656
+Net Income
+—     —     3,256,405     —     3,256,405
+Other comprehensive loss
+—     —     —     ( 168,667 )   ( 168,667 )
+Cash dividends declared ($ 0.1975
+per share)
+—     —     ( 1,957,369 )   —     ( 1,957,369 )
+Issuance of common stock ( 31,245
+shares)
+156,225     512,757     —     —     668,982
+Balance - December 31, 2022
+$ 49,258,900   $ 41,992,216   $ 1,843,194   $ 1,795,697   $ 94,890,007
+Three Months Ended December 31, 2021
+Common Stock
+Capital in Excess of Par Value
+Retained Earnings
+Accumulated Other Comprehensive Income (Loss)
+Total Stockholders' Equity
+Balance - September 30, 2021
+$ 41,875,460   $ 19,705,387   $ 39,656,296   $ ( 1,535,434 ) $ 99,701,709
+Net Income
+—     —     3,584,529     —     3,584,529
+Other comprehensive income
+—     —     —     351,083     351,083
+Cash dividends declared ($ 0.195
+per share)
+—     —     ( 1,642,324 )   —     ( 1,642,324 )
+Issuance of common stock ( 13,914
+shares)
+69,570     230,278     —     —     299,848
+Balance - December 31, 2021
+$ 41,945,030   $ 19,935,665   $ 41,598,501   $ ( 1,184,351 ) $ 102,294,845
+See notes to condensed consolidated financial statements.
+5
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+UNAUDITED
+Three Months Ended December 31,
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income
+$ 3,256,405     $ 3,584,529
+Adjustments to reconcile net income to net cash used in operating activities:
+Depreciation and amortization
+2,477,084       2,329,409
+Cost of retirement of utility property, net
+( 159,174 )     ( 113,505 )
+Stock option grants
+16,170       5,550
+Equity in earnings of unconsolidated affiliate
+( 1,232 )     ( 72,127 )
+Allowance for funds used during construction
+( 103,771 )     —
+Changes in assets and liabilities which used cash, exclusive of changes and noncash transactions shown separately
+( 7,909,883 )     ( 9,278,622 )
+Net cash used in operating activities
+( 2,424,401 )     ( 3,544,766 )
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Expenditures for utility property
+( 7,530,620 )     ( 5,737,232 )
+Investment in unconsolidated affiliates
+( 818,178 )     ( 2,143,981 )
+Proceeds from disposal of utility property
+209       48,300
+Net cash used in investing activities
+( 8,348,589 )     ( 7,832,913 )
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from issuance of unsecured notes
+1,103,800       25,930,000
+Repayments of notes payable
+( 125,000 )     ( 15,000,000 )
+Borrowings under line-of-credit
+17,952,768       24,123,902
+Repayments under line-of-credit
+( 8,560,795 )     ( 22,147,391 )
+Debt issuance expenses
+—       ( 39,732 )
+Proceeds from issuance of stock
+652,812       294,297
+Cash dividends paid
+( 1,915,317 )     ( 1,549,840 )
+Net cash provided by financing activities
+9,108,268       11,611,236
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+( 1,664,722 )     233,557
+BEGINNING CASH AND CASH EQUIVALENTS
+4,898,914       1,518,317
+ENDING CASH AND CASH EQUIVALENTS
+$ 3,234,192     $ 1,751,874
+See notes to condensed consolidated financial statements.
+6
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+CONDENSED NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+UNAUDITED
+1.
+Basis of Presentation
+Resources is an energy services company primarily engaged in the sale and distribution of natural gas. The condensed consolidated financial statements include the accounts of Resources and its wholly-owned subsidiaries: Roanoke Gas, Diversified Energy and Midstream.
+In the opinion of management, the accompanying unaudited condensed consolidated financial statements contain all adjustments (consisting of only normal recurring accruals) necessary to fairly present Resources' financial position as of
+December 31, 2022 , cash flows for the
+three
+months ended
+December 31, 2022
+and
+2021 , and the results of its operations, comprehensive income, and changes in stockholders' equity for the
+three
+months ended
+December 31, 2022
+and
+2021 . The results of operations for the  three
+months ended
+December 31, 2022
+are
+not
+indicative of the results to be expected for the fiscal year ending
+September 30, 2023  as quarterly earnings are affected by the highly seasonal nature of the business and weather conditions generally result in greater earnings during the winter months.
+The unaudited condensed consolidated financial statements and condensed notes are presented under the rules and regulations of the SEC. Pursuant to those rules, certain information and note disclosures normally included in the annual financial statements prepared in accordance with GAAP have been condensed or omitted.  Although the Company believes that the disclosures are adequate, the unaudited condensed consolidated financial statements and condensed notes should be read in conjunction with the financial statements and notes contained in the Company’s Form
+10 -K for the year ended
+September 30, 2022 . The
+September 30, 2022
+consolidated balance sheet was included in the Company’s audited financial statements included in Form
+10 -K.
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+The Company’s significant accounting policies are described in Note
+1
+to the consolidated financial statements contained in the Company's Form
+10 -K for the year ended
+September 30, 2022 .
+Recently Issued or Adopted Accounting Standards
+In
+March 2020,
+the FASB issued ASU
+2020 - 04,
+Reference Rate Reform (Topic
+848 ) - Facilitation of the Effects of Reference Rate Reform on Financial Reporting.
+In combination with ASU
+2021 - 01
+and ASU
+2022 - 06,
+the ASU provides temporary optional guidance to ease the potential burden in accounting for and recognizing the effects of reference rate change on financial reporting. The new guidance applies specifically to contracts and hedging relationships that reference LIBOR, or any other referenced rate that is expected to be discontinued due to reference rate reform. The new guidance is effective for the Company through
+December 31, 2024.
+The Intercontinental Exchange Benchmark Administration, the administrator for LIBOR and other inter-bank offered rates, announced that the LIBOR rates for
+one -day,
+one -month,
+six -month and
+one -year will cease publication in
+June 2023
+and that
+no
+new financial contracts
+may
+use LIBOR after
+December 31, 2021.  Currently, all of the Company's LIBOR based financial contracts are based on the
+one -month LIBOR rate.
+None
+of the holders of these financial contracts have indicated when a transition from LIBOR will occur. Accordingly, the Company does
+not
+anticipate adopting this guidance until later in fiscal
+2023.
+The new guidance could result in a significant impact on the Company's financial position, results of operations, and cash flows when the reference rate is changed for related contracts.
+Other accounting standards that have been issued by the FASB or other standard-setting bodies are
+not
+currently applicable to the Company or are
+not
+expected to have a material impact on the Company’s financial position, results of operations or cash flows.
+7
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+2.
+Revenue
+The Company assesses new contracts and identifies related performance obligations for promises to transfer distinct goods or services to the customer. Revenue is recognized when performance obligations have been satisfied. In the case of Roanoke Gas, the Company contracts with its customers for the sale and/or delivery of natural gas.
+The following tables summarize revenue by customer, product and income statement classification:
+Three Months Ended December 31, 2022
+Three Months Ended December 31, 2021
+Gas utility
+Non utility
+Total operating revenues
+Gas utility
+Non utility
+Total operating revenues
+Natural Gas (Billed and Unbilled):
+Residential
+$ 19,365,840     $ —     $ 19,365,840     $ 13,212,489     $ —     $ 13,212,489
+Commercial
+12,019,113       —       12,019,113       7,385,718       —       7,385,718
+Industrial and Transportation
+1,588,068       —       1,588,068       1,313,091       —       1,313,091
+Other
+421,995       29,568       451,563       223,828       31,425       255,253
+Total contracts with customers
+33,395,016       29,568       33,424,584       22,135,126       31,425       22,166,551
+Alternative Revenue Programs
+( 142,249 )     —       ( 142,249 )     1,096,529       —       1,096,529
+Total operating revenues
+$ 33,252,767     $ 29,568     $ 33,282,335     $ 23,231,655     $ 31,425     $ 23,263,080
+Gas utility revenues
+Substantially all of Roanoke Gas' revenues are derived from rates authorized by the SCC through its tariffs. Based on its evaluation, the Company has concluded that these tariff-based revenues fall within the scope of ASC
+606.
+Tariff rates represent the transaction price. Performance obligations created under these tariff-based sales include the cost of natural gas sold to customers (commodity) and the cost of transporting natural gas through the Company’s distribution system to customers (delivery). The delivery of natural gas to customers results in the satisfaction of the Company’s respective performance obligations over time.
+All customers are billed monthly based on consumption as measured by metered usage with payments due
+20
+days from the rendering of the bill. Revenue is recognized as bills are issued for natural gas that has been delivered or transported. In addition, the Company utilizes the practical expedient that allows an entity to recognize the invoiced amount as revenue, if that amount corresponds to the value received by the customer. Since customers are billed tariff rates, there is
+no
+variable consideration in the transaction price.
+Unbilled revenue is included in residential and commercial revenues in the preceding table. Natural gas consumption is estimated for the period subsequent to the last billed date and up through the last day of the month. Estimated volumes and approved tariff rates are utilized to calculate unbilled revenue. The following month, the unbilled estimate is reversed, the actual usage is billed and a new unbilled estimate is calculated. The Company obtains metered usage for industrial customers at the end of each month, thereby eliminating any unbilled consideration for these rate classes.
+Other revenues
+Other revenues primarily consist of miscellaneous fees and charges, utility-related revenues
+not
+directly billed to utility customers and billings for non-utility activities. Customers are invoiced monthly based on services provided for these activities. The Company utilizes the practical expedient allowing revenue to be recognized based on invoiced amounts. The transaction price is based on a contractually predetermined rate schedule; therefore, the transaction price represents total value to the customer and
+no
+variable price consideration exists.
+8
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Alternative Revenue Program revenues
+ARPs, which fall outside the scope of ASC
+606,
+are SCC approved mechanisms that allow for the adjustment of revenues for certain broad, external factors, or for additional billings if the entity achieves certain performance targets. The Company's ARPs include its WNA, which adjusts revenues for the effects of weather temperature variations as compared to the
+30 -year average, and the SAVE Plan over/under collection mechanism, which adjusts revenues for the differences between SAVE Plan revenues billed to customers and the revenue earned, as calculated based on the timing and extent of infrastructure replacement completed during the period. These amounts are ultimately collected from, or returned to, customers through future rate changes as approved by the SCC.
+Customer accounts  r eceivable and liabilities
+Accounts receivable, as reflected in the condensed consolidated balance sheets, includes both billed and unbilled customer revenues, as well as amounts that are
+not
+related to customers. The balances of customer receivables are provided below:
+Current Assets
+Current Liabilities
+Trade accounts receivable (1)
+Unbilled revenue (1)
+Customer credit balances
+Customer deposits
+Balance at September 30, 2022
+$ 3,697,431     $ 1,585,062     $ 1,400,770     $ 1,457,610
+Balance at December 31, 2022
+11,282,850       9,531,260       1,269,179       1,559,528
+Increase (decrease)
+$ 7,585,419     $ 7,946,198     $ ( 131,591 )   $ 101,918
+( 1 )
+Included in accounts receivable in the condensed consolidated balance sheet. Amounts shown net of reserve for credit losses.
+The Company had
+no
+significant contract assets or liabilities during the period. Furthermore, the Company did
+not
+incur any significant costs to obtain contracts.
+3.
+Income Taxes
+The effective tax rates for the
+three
+month periods ended
+December 31, 2022
+and
+2021
+reflected in the table below are less than the combined federal and state statutory rate of
+25.74 % due to additional tax deductions from the amortization of excess deferred taxes and amortization of R&D tax credits deferred as a regulatory liability.
+Three Months Ended December 31,
+2022
+2021
+Effective tax rate
+23.4 %     23.2 %
+The Company files a consolidated federal income tax return and state income tax returns in Virginia and West Virginia, and thus subject to examinations by federal and state tax authorities.  The IRS is currently examining the Company's  2018  and  2019  federal tax returns. The Company does  not  have any indication at this time of the outcome. The Company believes its income tax assets and liabilities are fairly stated as of
+December 31, 2022  and  2021;  however, these assets and liabilities could be adjusted as a result of this examination.  With the amendment of the federal returns for fiscal  2017,   2018  and  2019,  these years will remain open for IRS examination for  two  more years. Aside from these exceptions, the federal returns and the state returns for Virginia for the tax years ended prior to
+September  30,   2017  are  no  longer subject to examination.  The state returns for West Virginia prior to
+September 30,  2019  are  no  longer subject to examination.
+4.
+Rates and Regulatory Matters
+The SCC exercises regulatory authority over the natural gas operations of Roanoke Gas. Such regulation encompasses terms, conditions and rates to be charged to customers for natural gas service, safety standards, service extension and depreciation.
+On
+December 2, 2022,
+Roanoke Gas filed an application with the SCC seeking an $ 8.55
+million increase in base rates, of which $ 4.05
+million was being recovered through the Company’s SAVE Rider.  Since the Company is seeking recovery of the costs associated with its SAVE plan through its proposed base rates, the Company proposed discontinuing its SAVE Plan and SAVE Rider for the remainder of the current fiscal year, effective
+January 1, 2023.
+9
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+On
+December 21, 2022,
+the SCC issued its Order for Notice and Hearing which authorized the Company to put its proposed rates into effect on
+January 1, 2023,
+on an interim basis.  The SCC also established a procedural schedule and set the matter for hearing. The Company expects final resolution of the rate case to occur in late calendar
+2023
+or early
+2024.
+The Company expects to file for a new SAVE Plan and Rider in the
+third
+quarter of fiscal
+2023
+for recovery of costs associated with SAVE eligible investments beginning
+October 1, 2023.
+On
+May 16, 2022,
+Roanoke Gas announced a cooperative agreement under which Roanoke Gas and the Western Virginia Water Authority will produce commercial quality RNG from biogas produced at the regional water pollution control plant.  In
+August  2022,
+Roanoke Gas filed an application with the SCC seeking approval of a rate adjustment clause under which the Company will recover the costs associated with constructing, owning, operating and maintaining the renewable natural gas facility.  The application was filed under Chapter
+30
+of Title
+56
+of the Code of Virginia. Chapter
+30
+allows the Company to accrue AFUDC on the RNG project.  In connection with the RNG project, Roanoke Gas began accruing AFUDC in fiscal
+2022
+associated with construction of the facility. As of
+December 31, 2022,
+the Company has recognized approximately $ 179,000  in AFUDC since inception of the RNG project.  The Company received a final order from the SCC on
+January 23, 2023
+approving the Company’s application. The Company is permitted to start billing customers for the RNG rate adjustment upon administrative approval of the final rates, which the Company expects to occur by early
+March 2023,
+at which time the Company will cease recording AFUDC.
+On
+June 2, 2022,
+Roanoke Gas filed an application with the SCC to acquire certain natural gas delivery assets from a local housing authority.  Under this application, the Company requested the approval to acquire such facilities at
+five
+separate apartment complexes, located in the Company’s service territory, that were under housing authority management.  Under the proposed plan, the housing authority would renew existing natural gas distribution facilities to include mains, services, and meter installations and then transfer ownership of these facilities to Roanoke Gas.  In turn, Roanoke Gas would assume responsibility for the operation and maintenance of these assets and recognize a gain related to the asset acquisition equal to the cost associated with the renewal.
+On
+July 19, 2022,
+the SCC approved the application and on
+August 4, 2022,
+the housing authority transferred the assets from
+two
+apartment complexes to Roanoke Gas. Roanoke Gas recorded these assets and recognized a pre-tax gain of approximately $ 219,000
+during the Company’s
+fourth
+quarter of fiscal
+2022.
+The housing authority expects to complete the upgrade and subsequent asset transfer at
+one
+more apartment complex in fiscal
+2023.   The authority is awaiting future funding to complete the
+two
+remaining apartment complexes.  The timing of funding and the completion of the asset renewals for these complexes is unknown at this time.
+5.
+Other Investments
+Midstream is an approximately
+1 % equity investment owner of the LLC constructing the MVP, a
+303
+mile natural gas inter-state pipeline that is designed to extend from northern West Virginia to southern Virginia.  Since inception, the MVP has encountered various legal and regulatory issues that continue to delay the completion of the project.  While under construction, AFUDC has provided the majority of the income recognized by Midstream.
+The LLC temporarily suspended accruing AFUDC on the project beginning
+January 1, 2021
+and through
+March 31, 2021
+due to a temporary reduction in growth construction activities. The LLC resumed accruing AFUDC beginning
+April 2021
+through
+November 2021,
+when certain associated growth construction activities were again reduced.  AFUDC accruals will resume when growth construction activities restart. The amount of AFUDC recognized during the prior years is included in the tables below.
+Roanoke Gas will continue to suspend accruing AFUDC on its
+two
+gate stations that will interconnect with the MVP until such time as construction activities resume on the respective gate stations.
+Midstream is a less than  1 % investor in Southgate, which is being accounted for under the cost method.
+10
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+In the
+second
+quarter of fiscal
+2022,
+Midstream incurred an other-than-temporary decline in the fair value of its equity investment in the LLC, primarily due to unfavorable decisions by the Fourth Circuit that vacated and remanded key authorizations, which required a pre-tax impairment charge of approximately $ 39.8
+million.  During the
+fourth
+quarter of fiscal
+2022,
+Midstream incurred an additional other-than-temporary decline in value in its equity investment in the LLC due to increased uncertainty in the permitting process for the MVP project as a result of legal developments and regulatory uncertainties, as well as macroeconomic pressures primarily due to increased interest rates impacting the discount rate. As a result of the impairment, the carrying value of Midstream’s equity investment in the LLC was further reduced by $ 15.3
+million pre-tax, to a carrying value of $ 13.8
+million as of
+September 30, 2022.
+Midstream estimated the fair value of its investment in the LLC, with the assistance of a valuation specialist, using an income-based approach that primarily considered probability-weighted scenarios of discounted future cash flows based on the estimated project costs at completion and projected revenues. These scenarios reflected assumptions and judgments regarding the ultimate outcome of further matters relating to, or resulting from, the Fourth Circuit rulings, as well as various other ongoing legal and regulatory matters affecting MVP and Southgate. Such assumptions and judgments also included certain additional potential delays and related cost increases that could result from unfavorable decisions on these proceedings and matters. Midstream’s analysis also took into account, among other things, probability weighted growth expectations from additional compression expansion opportunities. This analysis also considered scenarios under which ongoing or new legal and regulatory matters further delay the completion and increase the total costs of the project; all required legal and regulatory approvals and authorizations and certain compression expansion opportunities are realized; and MVP and Southgate are canceled.
+Midstream reassesses the value of its investment in the LLC on at least a quarterly basis. With the assistance of a valuation specialist, Midstream conducted the quarterly evaluation of its investment in the LLC as of
+December 31, 2022
+and determined that its investment was fairly stated and
+no
+further impairment was required.   The fair value of the investment in the LLC was determined under a Level
+3
+measurement considering the significant assumptions and judgments required in estimating the fair value of the Company's investment in the LLC.
+There is risk that Midstream’s equity investment in the LLC
+may
+be impaired further in the future.  There are continuing, and potential future, legal and regulatory matters related to MVP and Southgate, any of which could affect the ability to complete or operate the project, as well as potential macroeconomic factors, changes in interest rates, cost increases, other unanticipated events and legal and regulatory matters that must be resolved.  While macroeconomic factors in and of themselves
+may
+not
+be a direct indicator of impairment, should an impairment indicator be identified in the future, macroeconomic factors such as changes in interest rates could ultimately impact the size and scope of any potential impairment.  Assumptions and estimates utilized in assessing the fair value of Midstream’s investment in the LLC
+may
+change depending on the nature or timing of resolutions to the legal and regulatory matters or based on other relevant developments.  Adverse changes in circumstances relevant to the likelihood of project or expansion completion could prompt Midstream, in future assessments, to apply lower probability of project or expansion completion.  Such changes in assumptions or estimates, including discount rates, could have a material adverse effect on the fair value of Midstream’s investment in the LLC and potentially result in additional impairment, which could have a material adverse effect on the results of operations and financial position of Midstream and the Company as a whole.
+11
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Funding for Midstream's investments in the LLC for both MVP and Southgate is being provided through
+two
+variable rate unsecured promissory notes, under a non-revolving credit agreement maturing in
+December 2023,
+and
+three
+additional notes as detailed in Note
+8,
+as well as by equity contributions from Resources.
+The Company will participate in the earnings generated from the transportation of natural gas through both pipelines proportionate to its level of investment once the pipelines are placed in service.
+Investment balances of MVP and Southgate, as of
+December 31, 2022,
+are reflected in the table below:
+Balance Sheet location:
+December 31, 2022
+September 30, 2022
+Other Assets:
+MVP
+$ 14,545,563     $ 13,689,370
+Southgate
+86,388       83,705
+Investment in unconsolidated affiliates
+$ 14,631,951     $ 13,773,075
+Current Liabilities:
+MVP
+$ 843,415     $ 804,404
+Southgate
+557       102
+Capital contributions payable
+$ 843,972     $ 804,506
+Three Months Ended
+Income Statement location:
+December 31, 2022
+December 31, 2021
+Equity in earnings of unconsolidated affiliate
+$ 1,232     $ 72,127
+December 31, 2022
+September 30, 2022
+Undistributed earnings, net of income taxes, of MVP in retained earnings, excluding impairment
+$ 8,136,398     $ 8,135,482
+The undistributed earnings does
+not
+include the impairment of the investment in the LLC.
+12
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The change in the investment in unconsolidated affiliates is provided below:
+Three Months Ended
+December 31, 2022
+December 31, 2021
+Cash investment
+$ 818,178     $ 2,143,981
+Change in accrued capital calls
+39,466       ( 211,580 )
+Equity in earnings of unconsolidated affiliate
+1,232       72,127
+Change in investment in unconsolidated affiliates
+$ 858,876     $ 2,004,528
+Summary unaudited financial statements of MVP are presented below. Southgate financial statements, which are accounted for under the cost method, are
+not
+included.
+Income Statements
+Three Months Ended
+December 31, 2022
+December 31, 2021
+AFUDC
+$ —     $ 6,883,069
+Other income (expense), net
+160,472       ( 45,063 )
+Net income
+$ 160,472     $ 6,838,006
+Balance Sheets
+December 31, 2022
+September 30, 2022
+Assets:
+Current assets
+$ 91,864,255     $ 76,474,981
+Construction work in progress
+6,727,679,677       6,667,146,408
+Other assets
+8,873,646       8,021,877
+Total assets
+$ 6,828,417,578     $ 6,751,643,266
+Liabilities and Equity:
+Current liabilities
+$ 118,168,250     $ 115,061,723
+Capital
+6,710,249,328       6,636,581,543
+Total liabilities and equity
+$ 6,828,417,578     $ 6,751,643,266
+6.
+Derivatives and Hedging
+The Company’s hedging and derivative policy allows management to enter into derivatives for the purpose of managing the commodity and financial market risks of its business operations, including the price of natural gas and the cost of borrowed funds. This policy specifically prohibits the use of derivatives for speculative purposes.
+The Company has
+five  interest rate swaps associated with its variable rate debt as of
+December 31, 2022.
+Roanoke Gas has  two  delayed draw variable-rate term notes in the amounts of $ 15  million and $ 10  million, with corresponding swap agreements to convert the variable interest rates into fixed rates of  2.00 % and  2.49 %, respectively. Under the provisions of the $ 10
+million delayed draw note, Roanoke Gas received $ 5
+million on
+April 1, 2022
+and the remaining $ 5
+million on
+September 30, 2022.  Midstream has
+two
+swap agreements corresponding to the $ 14
+million and $ 10
+million variable rate term notes. The swap agreements convert these
+two
+notes into fixed rate instruments with effective interest rates of
+3.24 % and
+3.14 %, respectively.  In addition, on
+November 1, 2021,
+Midstream entered into a promissory note in the amount of $ 8
+million, with a corresponding swap agreement to convert the variable interest rate into a fixed rate of
+2.443 %.  The swaps qualify as cash flow hedges with changes in fair value reported in other comprehensive income.
+No
+portion of the swaps were deemed ineffective during the periods presented.
+13
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The Company had
+no
+outstanding derivative instruments for the purchase of natural gas.
+The fair value of the current and non-current portions of the interest rate swaps are reflected in the condensed consolidated balance sheets under the caption interest rate swaps. The table in Note
+9  reflects the effect on income and other comprehensive income of the Company's cash flow hedges.
+7.
+Short-Term Debt
+On
+March 31, 2022,
+Roanoke Gas entered into an unsecured line-of-credit agreement replacing the line-of-credit agreement dated
+March 25, 2021.
+The agreement provides for a variable interest rate based upon Daily Simple SOFR plus
+1.10 % and multiple tier borrowing limits to accommodate seasonal borrowing demands. The Company's total available borrowing limits during the term of the line-of-credit agreement range from $ 21
+million to $ 33
+million.  The line-of-credit agreement will expire on
+March 31, 2023,
+unless extended. The Company anticipates being able to extend or replace the credit line upon expiration. As of
+December 31, 2022,
+the Company had a balance of $ 9,391,974  outstanding under its line-of-credit agreement.
+In connection with the line-of-credit, the Company also entered into the Seventh Amendment to Credit Agreement as of
+March 31, 2022,
+which amended the original Credit Agreement dated
+March 31, 2016
+and all subsequent amendments.  The Amendment aligned the termination date, maximum principal amount available under the line-of-credit, amended certain financial conditions required of Resources, and retained all other terms and requirements of prior credit agreements.
+8.
+Long-Term Debt
+On
+November  1,
+2021,
+Midstream entered into an unsecured promissory note in the principal amount of $ 8  million with an interest rate based on  30 -day LIBOR plus  115  basis points maturing
+January 1, 2028.  Related to this note, Midstream also entered into an interest rate swap agreement that effectively converted the variable rate note into a fixed rate instrument with an effective annual interest rate of  2.443 %. The loan will convert into an installment loan with principal pay-down beginning on
+April 1, 2023.  In addition, this note reduced the borrowing capacity defined by the Third Amendment to Credit Agreement and related Promissory Notes. The total borrowing capacity declined from $ 41  million to $ 33  million effective with the new promissory note.  On
+March 31, 2022,
+Midstream applied $ 10
+million from a cash infusion received from Resources to pay down a corresponding amount on the non-revolving credit facility which in turn reduced the total borrowing capacity from $ 33
+million to $ 23
+million.  On
+June 30, 2022,
+Midstream entered into the Fourth Amendment to Credit Agreement and related Promissory Notes.  The Amendment modified the original Credit Agreement and prior amendments by replacing the
+30 -day LIBOR plus
+1.35 % interest on the Promissory Notes with Term SOFR plus
+1.50 %, as well as extended the maturity date to
+December 31, 2023.  All other terms of the Fourth Amendment to Credit Agreement remain unchanged.
+On
+September 24, 2021,  Roanoke Gas entered into a Loan Agreement ("Agreement") and an unsecured Delayed Draw Promissory Note in the principal amount of $ 10  million ("Promissory Note"). Under the provisions of the Agreement, Roanoke Gas received the  first  advance of $ 5  million on
+April 1, 2022  and the remaining $ 5
+million on
+September 30, 2022.  The Promissory Note has an interest rate of  30 -day LIBOR plus  100  basis points and a maturity date of
+October 1, 2028.  The proceeds from this Promissory Note were used to finance Roanoke Gas' infrastructure enhancement and replacement projects.  Also, on
+September 24, 2021,  Roanoke Gas entered into an interest rate swap agreement for $ 10  million corresponding to the term and draw provisions of the Agreement, which effectively converted the variable rate Promissory Note to a fixed instrument with an effective annual interest rate of  2.49 %.
+On
+August 20, 2021,  Roanoke Gas entered into an unsecured Delayed Draw Term Note in the principal amount of $ 15  million ("Term Note") with an interest rate of  1.20 % above  30 -day SOFR Average per annum maturing on
+August 20, 2026.  In connection with the Term Note, Roanoke Gas also entered into the Sixth Amendment to its Credit Agreement ("Amendment"), which amended the original Credit Agreement with the corresponding bank dated
+March 31, 2016  and all subsequent amendments. The Amendment aligned the termination date and the maximum principal amount available under the Term Note and retains all other terms and requirements of prior credit agreements. The proceeds from this Term Note were used to finance Roanoke Gas' infrastructure enhancement and replacement projects, as well as to refinance a portion of its existing debt. Also, on
+August 20, 2021,  Roanoke Gas entered into an interest rate swap agreement for $ 15  million corresponding to the duration of the Term Note, which effectively converted the variable rate note to a fixed rate instrument with an effective annual interest rate of  2.00 %. The Term Note funded in full on
+October 1, 2021.
+14
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Long-term debt consists of the following:
+December 31, 2022
+September 30, 2022
+Principal
+Unamortized Debt Issuance Costs
+Principal
+Unamortized Debt Issuance Costs
+Roanoke Gas:
+Unsecured senior notes payable, at
+4.26% , due September 18, 2034
+$ 30,500,000     $ 113,435     $ 30,500,000     $ 115,849
+Unsecured term notes payable, at
+3.58% , due October 2, 2027
+8,000,000       22,876       8,000,000       24,080
+Unsecured term notes payable, at
+4.41% , due March 28, 2031
+10,000,000       25,844       10,000,000       26,627
+Unsecured term notes payable, at
+3.60% , due December 6, 2029
+10,000,000       24,659       10,000,000       25,539
+Unsecured term note payable, at 30-day SOFR plus
+1.20% , due August 20, 2026
+15,000,000       —       15,000,000       —
+Unsecured term note payable, at 30-day LIBOR plus
+1.00% , due October 1, 2028
+10,000,000       27,479       10,000,000       28,674
+Midstream:
+Unsecured term notes payable, at TERM SOFR plus
+1.50% , due December 31, 2023
+23,000,000       12,458       21,896,200       18,553
+Unsecured term note payable, at 30-day LIBOR plus
+1.15% , due June 12, 2026
+14,000,000       8,427       14,000,000       9,029
+Unsecured term note payable, at 30-day LIBOR plus
+1.20% , due June 1, 2024
+9,750,000       3,340       9,875,000       3,929
+Unsecured term note payable, at 30-day LIBOR plus
+1.15% , due January 1, 2028
+8,000,000       22,487       8,000,000       23,631
+Total long-term debt
+138,250,000       261,005       137,271,200       275,911
+Less: current maturities of long-term debt
+( 24,700,000 )     —       ( 1,300,000 )     —
+Total long-term debt, net current maturities
+$ 113,550,000     $ 261,005     $ 135,971,200     $ 275,911
+All debt agreements set forth certain representations, warranties and covenants to which the Company is subject, including financial covenants that limit consolidated long-term indebtedness to
+not
+more than
+65 % of total capitalization.  All of the debt agreements, except for the line-of-credit, provide for priority indebtedness to
+not
+exceed
+15 % of consolidated total assets.  The $ 15
+million note and the line-of-credit have an interest coverage ratio requirement of
+1.5 , which excludes the effect of a non-cash impairment on the LLC investments up to the total investment as of
+December 31, 2021
+as revised by the Seventh Amendment to the Credit Agreement. The Company was in compliance with all debt covenants as of
+December 31, 2022
+and
+September 30, 2022 .
+15
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+9.
+Other Comprehensive Income (Loss)
+A summary of other comprehensive income and loss is provided below:
+Tax
+Before-Tax
+(Expense)
+Net-of-Tax
+Amount
+or Benefit
+Amount
+Three Months Ended December 31, 2022
+Interest rate swaps:
+Unrealized gains
+$ 43,947     $ ( 11,311 )   $ 32,636
+Transfer of realized gains to interest expense
+( 290,779 )     74,845       ( 215,934 )
+Net interest rate swaps
+( 246,832 )     63,534       ( 183,298 )
+Defined benefit plans:
+Amortization of actuarial losses
+19,703       ( 5,072 )     14,631
+Other comprehensive loss
+$ ( 227,129 )   $ 58,462     $ ( 168,667 )
+Three Months Ended December 31, 2021
+Interest rate swaps:
+Unrealized gains
+$ 315,983     $ ( 81,333 )   $ 234,650
+Transfer of realized losses to interest expense
+171,863       ( 44,239 )     127,624
+Net interest rate swaps
+487,846       ( 125,572 )     362,274
+Defined benefit plans:
+Amortization of actuarial gains
+( 15,070 )     3,879       ( 11,191 )
+Other comprehensive income
+$ 472,776     $ ( 121,693 )   $ 351,083
+The amortization of actuarial gains and losses, reflected in the preceding table, relate to the unregulated operations of the Company. Actuarial gains and losses attributable to the regulated operations are included as a regulatory asset. See Note
+15  for a schedule of regulatory assets. The amortization of actual gains and losses is recognized as a component of net periodic pension and postretirement benefit costs under other income, net.
+16
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Reconciliation of Accumulated Other Comprehensive Income (Loss)
+Accumulated
+Other
+Interest Rate
+Defined Benefit
+Comprehensive
+Swaps
+Plans
+Income (Loss)
+Balance at September 30, 2022
+$ 3,563,341     $ ( 1,598,977 )   $ 1,964,364
+Other comprehensive income (loss)
+( 183,298 )     14,631       ( 168,667 )
+Balance at December 31, 2022
+$ 3,380,043     $ ( 1,584,346 )   $ 1,795,697
+10.
+Commitments and Contingencies
+Roanoke Gas currently holds the only franchises and CPCNs to distribute natural gas in its service area. The current franchise agreements expire
+December  31,
+2035.
+The Company's CPCNs are exclusive and generally are intended for perpetual duration.
+Due to the nature of the natural gas distribution business, the Company has entered into agreements with both suppliers and pipelines for natural gas commodity purchases, storage capacity and pipeline delivery capacity. The Company utilizes an asset manager to assist in optimizing the use of its transportation, storage rights and gas supply in order to provide a secure and reliable source of natural gas to its customers. The Company also has storage and pipeline capacity contracts to store and deliver natural gas to the Company’s distribution system. Roanoke Gas is currently served directly by  two  primary pipelines that deliver all of the natural gas supplied to the Company’s distribution system. Depending on weather conditions and the level of customer demand, failure of
+one
+of these transmission pipelines could have a major adverse impact on the Company's ability to deliver natural gas to its customers and its results of operations. The MVP will provide Roanoke Gas with access to an additional delivery source to its distribution system, increasing system reliability and the Company's ability to meet future demands for natural gas.
+11.
+Earnings Per Share
+Basic earnings per common share for the  three
+months ended
+December 31, 2022
+and
+2021
+were calculated by dividing net income by the weighted average common shares outstanding during the period. Diluted earnings per common share were calculated by dividing net income by the weighted average common shares outstanding during the period plus potential dilutive common shares.
+A reconciliation of basic and diluted earnings per share is presented below:
+Three Months Ended December 31,
+2022
+2021
+Net income
+$ 3,256,405     $ 3,584,529
+Weighted average common shares
+9,830,206       8,383,986
+Effect of dilutive securities:
+Options to purchase common stock
+6,982       9,046
+Diluted average common shares
+9,837,188       8,393,032
+Earnings per share of common stock:
+Basic
+$ 0.33     $ 0.43
+Diluted
+$ 0.33     $ 0.43
+17
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+12.
+Employee Benefit Plans
+The Company has both a pension plan and a postretirement plan. The pension plan covers the Company’s employees hired before
+January 1, 2017
+and provides retirement income based on years of service and employee compensation. The postretirement plan provides certain health care and supplemental life insurance benefits to retired employees who meet specific age and service requirements. Net pension plan and postretirement plan expense is detailed as follows:
+Three Months Ended
+December 31,
+2022
+2021
+Components of net periodic pension cost:
+Service cost
+$ 91,635     $ 162,072
+Interest cost
+343,025       253,279
+Expected return on plan assets
+( 308,149 )     ( 457,888 )
+Recognized loss
+79,181       36,600
+Net periodic pension cost (benefit)
+$ 205,692     $ ( 5,937 )
+Three Months Ended
+December 31,
+2022
+2021
+Components of postretirement benefit cost:
+Service cost
+$ 11,475     $ 24,450
+Interest cost
+155,156       110,930
+Expected return on plan assets
+( 116,012 )     ( 166,541 )
+Recognized loss
+—       —
+Net postretirement benefit cost (benefit)
+$ 50,619     $ ( 31,161 )
+The components of net periodic benefit cost, other than the service cost component, are included in other income, net in the condensed consolidated statements of income. Service cost is included in operations and maintenance expense in the condensed consolidated statements of income.
+For the
+three -month period ended
+December 31, 2022,
+no
+contributions were made to the pension plan or postretirement plan. The Company is
+not
+currently anticipating making any funding contributions to either plan in fiscal
+2023.
+13.
+Fair Value Measurements
+ASC
+820,
+Fair Value Measurements and Disclosures , established a fair value hierarchy that prioritizes each input to the valuation method used to measure fair value of financial and nonfinancial assets and liabilities that are measured and reported on a fair value basis into
+one
+of the following
+three
+levels:
+Level
+1
+– Unadjusted quoted prices in active markets for identical assets or liabilities that the Company has the ability to access at the measurement date.
+18
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Level
+2
+– Inputs other than quoted prices in Level
+1
+that are either for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are
+not
+active, inputs other than quoted prices that are observable for the asset or liability, or inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+Level
+3
+– Unobservable inputs for the asset or liability where there is little, if any, market activity for the asset or liability at the measurement date.
+The fair value hierarchy gives the highest priority to unadjusted quoted prices in active markets (Level
+1 ) and the lowest priority to unobservable inputs (Level
+3 ).
+The following table summarizes the Company’s financial assets and liabilities that are measured at fair value on a recurring basis as required by existing guidance and the fair value measurements by level within the fair value hierarchy:
+Fair Value Measurements - December 31, 2022
+Quoted
+Significant
+Prices
+Other
+Significant
+in Active
+Observable
+Unobservable
+Fair
+Markets
+Inputs
+Inputs
+Value
+(Level 1)
+(Level 2)
+(Level 3)
+Assets:
+Interest rate swaps
+$ 4,551,635     $ —     $ 4,551,635     $ —
+Total
+$ 4,551,635     $ —     $ 4,551,635     $ —
+Liabilities:
+Natural gas purchases
+$ 2,187,722     $ —     $ 2,187,722     $ —
+Total
+$ 2,187,722     $ —     $ 2,187,722     $ —
+Fair Value Measurements - September 30, 2022
+Quoted
+Significant
+Prices
+Other
+Significant
+in Active
+Observable
+Unobservable
+Fair
+Markets
+Inputs
+Inputs
+Value
+(Level 1)
+(Level 2)
+(Level 3)
+Assets:
+Interest rate swaps
+$ 4,798,467     $ —     $ 4,798,467     $ —
+Total
+$ 4,798,467     $ —     $ 4,798,467     $ —
+Liabilities:
+Natural gas purchases
+$ 1,295,225     $ —     $ 1,295,225     $ —
+Total
+$ 1,295,225     $ —     $ 1,295,225     $ —
+The fair value of the interest rate swaps are determined by using the counterparty's proprietary models and certain assumptions regarding past, present and future market conditions.
+See Note
+5  for discussion on the fair value assumptions of the Company's investment in the LLC.
+Under the asset management contract, a timing difference can exist between the payment for natural gas purchases and the actual receipt of such purchases. Payments are made based on a predetermined monthly volume with the price based on weighted average
+first
+of the month index prices corresponding to the month of the scheduled payment. At
+December 31, 2022
+and
+September 30, 2022 , the Company had recorded in accounts payable the estimated fair value of the liability valued at the corresponding
+first
+of month index prices for which the liability is expected to be settled.
+19
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The Company’s nonfinancial assets and liabilities measured at fair value on a nonrecurring basis consist of its AROs. The AROs are measured at fair value at initial recognition based on expected future cash flows required to settle the obligation.
+The carrying value of cash and cash equivalents, accounts receivable, borrowings under line-of-credit, accounts payable (with the exception of the timing difference under the asset management contract), customer credit balances and customer deposits is a reasonable estimate of fair value due to the short-term nature of these financial instruments. In addition, the carrying amount of the variable rate line-of-credit is a reasonable approximation of its fair value.
+The following table summarizes the fair value of the Company’s financial assets and liabilities that are
+not
+adjusted to fair value in the financial statements:
+Fair Value Measurements - December 31, 2022
+Quoted
+Significant
+Prices
+Other
+Significant
+in Active
+Observable
+Unobservable
+Carrying
+Markets
+Inputs
+Inputs
+Value
+(Level 1)
+(Level 2)
+(Level 3)
+Liabilities:
+Current maturities of long-term debt
+$ 24,700,000     $ —     $ —     $ 24,697,717
+Notes payable
+113,550,000       —       —       109,036,788
+Total
+$ 138,250,000     $ —     $ —     $ 133,734,505
+Fair Value Measurements - September 30, 2022
+Quoted
+Significant
+Prices
+Other
+Significant
+in Active
+Observable
+Unobservable
+Carrying
+Markets
+Inputs
+Inputs
+Value
+(Level 1)
+(Level 2)
+(Level 3)
+Liabilities:
+Current maturities of long-term debt
+$ 1,300,000     $ —     $ —     $ 1,300,000
+Notes payable
+135,971,200       —       —       130,266,252
+Total
+$ 137,271,200     $ —     $ —     $ 131,566,252
+The fair value of long-term debt is estimated by discounting the future cash flows of the fixed rate debt based on the underlying Treasury rate or other Treasury instruments with a corresponding maturity period and estimated credit spread extrapolated based on market conditions since the issuance of the debt.
+ASC
+825,
+Financial Instruments , requires disclosures regarding concentrations of credit risk from financial instruments. Cash equivalents are investments in high-grade, short-term securities (original maturity less than
+three
+months), placed with financially sound institutions. Accounts receivable are from a diverse group of customers including individuals and small and large companies in various industries.
+No
+individual customer amounted to more than
+5%
+of total accounts receivable at
+December 31, 2022
+and
+one
+customer amounted to approximately
+5.1 % of total receivables at
+September 30, 2022 . The Company maintains certain credit standards with its customers and requires a customer deposit if such evaluation warrants.
+14.
+Segment Information
+Operating segments are defined as components of an enterprise for which separate financial information is available and is evaluated regularly by the Company's chief operating decision maker in deciding how to allocate resources and assess performance. The Company uses operating income and equity in earnings to assess segment performance.
+Intersegment transactions are recorded at cost.
+20
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The reportable segments disclosed herein are defined as follows:
+Gas Utility  - The natural gas segment of the Company generates revenue from its tariff rates and other regulatory mechanisms through which it provides the sale and distribution of natural gas to its residential, commercial and industrial customers.
+Investment in Affiliates  - The investment in affiliates segment reflects the activities of the Company's investment in the LLC.
+Parent and Other  - The category parent and other includes the unregulated activities of the Company as well as certain corporate eliminations.
+Information related to the segments of the Company are provided below:
+Three Months Ended December 31, 2022
+Gas Utility
+Investment in Affiliates
+Parent and Other
+Consolidated Total
+Operating revenues
+$ 33,252,767     $ —     $ 29,568     $ 33,282,335
+Depreciation
+2,419,541       —       —       2,419,541
+Operating income (loss)
+5,567,345       ( 46,704 )     23,844       5,544,485
+Equity in earnings
+—       1,232       —       1,232
+Interest expense
+822,566       546,598       —       1,369,164
+Income (loss) before income taxes
+4,819,955       ( 592,615 )     23,819       4,251,159
+Three Months Ended December 31, 2021
+Gas Utility
+Investment in Affiliates
+Parent and Other
+Consolidated Total
+Operating revenues
+$ 23,231,655     $ —     $ 31,425     $ 23,263,080
+Depreciation
+2,270,694       —       —       2,270,694
+Operating income (loss)
+5,404,316       ( 51,560 )     25,667       5,378,423
+Equity in earnings
+—       72,127       —       72,127
+Interest expense
+764,863       339,993       —       1,104,856
+Income (loss) before income taxes
+4,959,182       ( 316,881 )     25,832       4,668,133
+21
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+December 31, 2022
+Gas Utility
+Investment in Affiliates
+Parent and Other
+Consolidated Total
+Total assets
+$ 270,030,140     $ 15,277,600     $ 22,644,422     $ 307,952,162
+September 30, 2022
+Gas Utility
+Investment in Affiliates
+Parent and Other
+Consolidated Total
+Total assets
+$ 258,519,230     $ 13,838,108     $ 17,951,905     $ 290,309,243
+15.
+Regulatory Assets and Liabilities
+The Company’s regulated operations follow the accounting and reporting requirements of ASC
+980,
+Regulated Operations . The economic effects of regulation can result in a regulated company deferring costs that have been or are expected to be recovered from customers in a period different from the period in which the costs would ordinarily be charged to expense by an unregulated enterprise. When this situation occurs, costs are deferred as assets in the condensed consolidated balance sheet (regulatory assets) and amortized into expense over periods when such amounts are reflected in rates. Additionally, regulators can impose liabilities upon a regulated company for amounts previously collected from customers and for current collection in rates of costs that are expected to be incurred in the future (regulatory liabilities). In the event the provisions of ASC
+980
+no
+longer apply to any or all regulatory assets or liabilities, the Company would write off such amounts and include the effects in the condensed consolidated statements of income and comprehensive income in the period which ASC
+980
+no
+longer applied.
+Regulatory assets included in the Company’s accompanying balance sheets are as follows:
+December 31, 2022
+September 30, 2022
+Assets:
+Current Assets:
+Regulatory assets:
+Accrued WNA revenues
+$ 6,870     $ 193,518
+Under-recovery of gas costs
+—       1,316,580
+Accrued pension and postretirement medical
+178,433       237,911
+Other deferred expenses
+129,459       129,459
+Total current
+314,762       1,877,468
+Utility Property:
+In service:
+Other
+11,945       11,945
+Construction work in progress:
+AFUDC
+565,113       461,342
+Other Non-Current Assets:
+Regulatory assets:
+Premium on early retirement of debt
+1,341,699       1,370,246
+Accrued pension and postretirement medical
+3,894,561       3,894,561
+Other deferred expenses
+184,408       181,740
+Total non-current
+5,420,668       5,446,547
+Total regulatory assets
+$ 6,312,488     $ 7,797,302
+22
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Regulatory liabilities included in the Company’s accompanying balance sheets are as follows:
+December 31, 2022
+September 30, 2022
+Liabilities and Stockholders' Equity:
+Current Liabilities:
+Regulatory liabilities:
+Over-recovery of gas costs
+$ 4,447,378     $ —
+Over-recovery of SAVE Plan revenues
+136,010       158,847
+Deferred income taxes
+363,297       363,297
+Supplier refunds
+1,802,357       2,484,992
+Other deferred liabilities
+164,377       160,930
+Total current
+6,913,419       3,168,066
+Deferred Credits and Other Non-Current Liabilities:
+Asset retirement obligations
+10,329,950       10,204,079
+Regulatory cost of retirement obligations
+12,520,934       12,277,796
+Regulatory liabilities:
+Deferred income taxes
+13,037,430       13,193,006
+Other
+30,118       30,118
+Total non-current
+35,918,432       35,704,999
+Total regulatory liabilities
+$ 42,831,851     $ 38,873,065
+As of
+December 31, 2022
+and
+September 30, 2022 , the Company had regulatory assets in the amount of $ 6,300,543  and $ 7,785,357 , respectively, on which the Company did
+not
+earn a return during the recovery period.
+16.
+Subsequent Events
+The Company has evaluated subsequent events through the date the financial statements were issued.  There were
+no
+items
+not
+otherwise disclosed which would have materially impacted the Company’s condensed consolidated financial statements.
+ITEM 2 – MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Forward-Looking Statements
+This report contains forward-looking statements that relate to future transactions, events or expectations. In addition, Resources may publish forward-looking statements relating to such matters as anticipated financial performance, business prospects, technological developments, new products, research and development activities, operational impacts and similar matters. These statements are based on management’s current expectations and information available at the time of such statements and are believed to be reasonable and are made in good faith. The Private Securities Litigation Reform Act of 1995 provides a safe harbor for forward-looking statements. In order to comply with the terms of the safe harbor, the Company notes that a variety of factors could cause the Company’s actual results and experience to differ materially from the anticipated results or other expectations expressed in the Company’s forward-looking statements. The risks and uncertainties that may affect the operations, performance, development and results of the Company’s business include, but are not limited to those set forth in the following discussion and within Item 1A “Risk Factors” in the Company’s 2022 Annual Report on Form 10-K.  All of these factors are difficult to predict and many are beyond the Company’s control. Accordingly, while the Company believes its forward-looking statements to be reasonable, there can be no assurance that they will approximate actual experience or that the expectations derived from them will be realized. When used in the Company’s documents or news releases, the words, “anticipate,” “believe,” “intend,” “plan,” “estimate,” “expect,” “objective,” “projection,” “forecast,” “budget,” “assume,” “indicate” or similar words or future or conditional verbs such as “will,” “would,” “should,” “can,” “could” or “may” are intended to identify forward-looking statements.
+Forward-looking statements reflect the Company’s current expectations only as of the date they are made. The Company assumes no duty to update these statements should expectations change or actual results differ from current expectations except as required by applicable laws and regulations.
+23
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The three-month earnings presented herein should not be considered as reflective of the Company’s consolidated financial results for the fiscal year ending September 30, 2023. The total revenues and margins realized during the first three months reflect higher billings due to the weather sensitive nature of the natural gas business.
+Overview
+Resources is an energy services company primarily engaged in the regulated sale and distribution of natural gas to approximately 62,900 residential, commercial and industrial customers in Roanoke, Virginia and surrounding localities through its Roanoke Gas subsidiary.  As a wholly-owned subsidiary of Resources, Midstream is a more than 1% investor in MVP and a less than 1% investor in Southgate.
+As a result of prior rulings and actions by the Fourth Circuit vacating and remanding certain permits necessary for the completion of MVP, progress on completing the pipeline remains on hold as the LLC continues to pursue resolution of these items.  See the Equity Investment in Mountain Valley Pipeline section for more information.
+The utility operations of Roanoke Gas are regulated by the SCC, which oversees the terms, conditions, and rates charged to customers for natural gas service, safety standards, extension of service and depreciation. Nearly all of the Company’s revenues are derived from the sale and delivery of natural gas to Roanoke Gas customers based on rates and fees authorized by the SCC. These rates are designed to provide the Company with the opportunity to recover its gas and non-gas expenses and to earn a reasonable rate of return on investment based on normal weather. These rates are determined based on the filing of a formal non-gas rate application with the SCC. Generally, investments related to extending service to new customers are recovered through the additional revenues generated by the non-gas base rates in place at that time. The investment in replacing and upgrading existing infrastructure, as well as recovering increases in non-gas expenses due to inflationary pressures, regulatory requirements or operation needs, are generally not recoverable until a formal rate application is filed to include the additional investment and higher costs, and new non-gas base rates are approved.  On December 5, 2022, primarily in response to increasing operating costs, Roanoke Gas filed for a non-gas base rate increase.  The new non-gas base rate increase included in its rate application became effective for gas usage beginning January 1, 2023.  These additional revenues are subject to refund pending audit, hearing and final order by the SCC later in 2023.  See the Regulatory section below for additional information.
+The Company is also subject to federal regulation from the Department of Transportation in regard to the construction, operation, maintenance, safety and integrity of its transmission and distribution pipelines. FERC regulates the prices for the transportation and delivery of natural gas to the Company’s distribution system and underground storage services. In addition, Roanoke Gas is subject to other regulations which are not necessarily industry specific.
+As the Company’s business is seasonal in nature, volatility in winter weather and the commodity price of natural gas can impact the effectiveness of the Company’s rates in recovering its costs and providing a reasonable return for its shareholders. In order to mitigate the effect of weather variations and other factors not provided for in the Company's base rates, Roanoke Gas has certain approved rate mechanisms in place that help provide stability in earnings, adjust for volatility in the price of natural gas and provide a return on qualified infrastructure investment. These mechanisms include the SAVE Rider, WNA, ICC and PGA.
+The SAVE Rider provides the Company with a mechanism through which it recovers costs related to SAVE qualified infrastructure investments on a prospective basis, until a formal rate application is filed to incorporate these investments in non-gas base rates. The SAVE Plan and Rider were previously reset effective January 2019, when the recovery of all prior SAVE Plan investment was incorporated into the then current non-gas rates. Accordingly, SAVE Plan revenues increased by approximately $322,000 for the three month period ended December 31, 2022 compared to the same period last year, reflecting the Company's cumulative investment in qualified SAVE Plan infrastructure since 2019. With the implementation of the new non-gas base rates, the SAVE Plan and Rider reset effective January 1, 2023 as the total qualified SAVE Plan investment was incorporated into the rate base upon which the new non-gas base rates were determined.
+24
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The WNA mechanism reduces the volatility in earnings due to the variability in temperatures during the heating season. The WNA is based on the most recent 30-year temperature average and provides the Company with a level of earnings protection when weather is warmer than normal and provides its customers with price protection when weather is colder than normal. The WNA allows the Company to recover from its customers the lost margin (excluding gas costs) from the impact of weather that is warmer than normal and correspondingly requires the Company to refund the excess margin earned for weather that is colder than normal. The WNA mechanism used by the Company is based on a linear regression model that determines the value of a single heating degree day and thereby estimates the revenue adjustment based on weather variance from normal. Any billings or refunds related to the WNA are completed following each WNA year, which extends for the 12-month period from April to March.  For the three months ended December 31, 2022, the Company accrued refunds of approximately $187,000 for weather that was 3% colder than normal compared to approximately $1,244,000 in additional revenues for weather that was 22% warmer than normal for the corresponding period last year.
+The Company also has an approved rate structure in place that mitigates the impact of the financing costs of its natural gas inventory. Under this rate structure, Roanoke Gas recognizes revenue by applying the ICC factor, based on the Company’s weighted-average cost of capital, including interest rates on short-term and long-term debt, and the Company’s authorized return on equity, to the average cost of natural gas inventory during the period. Total ICC revenues increased by approximately $194,000 for the three month period ended December 31, 2022, compared to the corresponding period last year, as much higher natural gas commodity prices more than doubled the average price of gas in storage.  Natural gas commodity futures prices have declined significantly, which should result in smaller increases in ICC revenues for the remainder of the current fiscal year compared to the corresponding periods in the prior year.
+The cost of natural gas is a pass-through cost and is independent of the non-gas rates of the Company. Accordingly, the Company's approved billing rates include a component designed to allow for the recovery of the cost of natural gas used by its customers. This rate component, referred to as the PGA, allows the Company to pass along to its customers increases and decreases in natural gas costs based on a quarterly filing, or more frequent if necessary, with the SCC. Once administrative approval is received, the Company adjusts the gas cost component of its rates to reflect the approved amount. As actual costs will differ from the projections used in establishing the PGA rate, the Company will either over-recover or under-recover its actual gas costs during the period. The difference between actual costs incurred and costs recovered through the application of the PGA is recorded as a regulatory asset or liability. At the end of the annual deferral period, the balance is amortized over an ensuing 12-month period as amounts are reflected in customer billings.
+Results of Operations
+The analysis on the results of operations is based on the consolidated operations of the Company, which is primarily associated with the utility segment. Additional segment analysis is provided when Midstream's investment in affiliates represents a significant component of the comparison.
+The Company's operating revenues are affected by the cost of natural gas, as reflected in the consolidated income statement under cost of gas - utility. The cost of natural gas, which includes commodity price, transportation, storage, injection and withdrawal fees with any increase or decrease offset by a correlating change in revenue through the PGA, is passed through to customers at cost. Accordingly, management believes that gross utility margin, a non-GAAP financial measure defined as utility revenues less cost of gas, is a more useful and relevant measure to analyze financial performance. The term gross utility margin is not intended to represent or replace operating income, the most comparable GAAP financial measure, as an indicator of operating performance and is not necessarily comparable to similarly titled measures reported by other companies. The following results of operations analyses will reference gross utility margin.
+25
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Three Months Ended December 31, 2022:
+Net income decreased by $328,124 for the three months ended December 31, 2022, compared to the same period last year, as higher operating and interest expense more than offset increased SAVE and ICC revenues.
+The tables below reflect operating revenues, volume activity and heating degree-days.
+Three Months Ended December 31,
+Increase/
+2022
+2021
+(Decrease)
+Percentage
+Operating Revenues
+Gas Utility
+$
+33,252,767
+$
+23,231,655
+$
+10,021,112
+43
+%
+Non Utility
+29,568
+31,425
+(1,857
+)
+(6
+)%
+Total Operating Revenues
+$
+33,282,335
+$
+23,263,080
+$
+10,019,255
+43
+%
+Delivered Volumes
+Regulated Natural Gas (DTH)
+Residential and Commercial
+2,433,239
+1,910,730
+522,509
+27
+%
+Transportation and Interruptible
+875,301
+777,441
+97,860
+13
+%
+Total Delivered Volumes
+3,308,540
+2,688,171
+620,369
+23
+%
+HDD
+1,523
+1,161
+362
+31
+%
+Total operating revenues for the three months ended December 31, 2022, compared to the same period last year, increased by 43% due to sharply higher natural gas commodity prices, increased natural gas deliveries and higher SAVE and ICC revenues.  Natural gas commodity prices averaged more than $7.00 per dekatherm during the quarter compared to $3.80 per dekatherm for the corresponding quarter last year.  To keep pace with the rising commodity prices, the Company increased the PGA component of its rates during the quarter, resulting in higher revenues and customer bills.  Additionally, total heating degree days increased by 31% over the same period last year resulting in a 27% increase in the weather sensitive residential and commercial deliveries.  The Company continued to benefit from an increase in transportation and interruptible volumes due to a single, multi-fuel customer that has continued its higher natural gas utilization during the quarter.  Excluding this customer's usage from both periods, total transportation and interruptible volumes would have been nearly unchanged between periods.  SAVE Plan revenues continued their upward trend as Roanoke Gas continues to invest in qualified SAVE infrastructure projects.   ICC revenues increased due to higher commodity prices of gas in storage.  After accounting for the application of the WNA model for the effect of weather variation from normal, the WNA adjusted residential and commercial volumes would have only increased by approximately 1% compared to the WNA adjusted volumes for the same period last year.
+Three Months Ended December 31,
+2022
+2021
+Increase
+Percentage
+Gross Utility Margin
+Gas Utility Revenues
+$
+33,252,767
+$
+23,231,655
+$
+10,021,112
+43
+%
+Cost of Gas - Utility
+20,804,153
+11,316,405
+9,487,748
+84
+%
+Gross Utility Margin
+$
+12,448,614
+$
+11,915,250
+$
+533,364
+4
+%
+Gross utility margin increased from the same period last year primarily as a result of the aforementioned higher SAVE and ICC revenues.  Although total residential and commercial natural gas deliveries increased substantially over last year due to the colder weather, the WNA adjusted margin reflects only a small increase as the WNA mechanism normalized the impact of weather on the delivered volumes for both periods as reflected in the table below.
+26
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The components of and the change in gas utility margin are summarized below:
+Three Months Ended December 31,
+Increase/
+2022
+2021
+(Decrease)
+Customer Base Charge
+$
+3,590,557
+$
+3,636,677
+$
+(46,120
+)
+Carrying Cost
+371,539
+177,331
+194,208
+SAVE Plan
+1,049,310
+727,373
+321,937
+Volumetric
+7,573,398
+6,083,354
+1,490,044
+WNA
+(186,647
+)
+1,244,017
+(1,430,664
+)
+Other Revenues
+50,457
+46,498
+3,959
+Total
+$
+12,448,614
+$
+11,915,250
+$
+533,364
+Operations and maintenance expenses increased by $230,199, or 6%, over the same period last year primarily due to higher compensation costs, contracted services, bad debts and corporate insurance premiums, net of higher capitalized overheads. Compensation costs and contracted services increased by approximately $424,000 due to the effects of inflation on salary and contractor costs.  Bad debt expense increased by approximately $56,000 due to significantly higher customer billings.  Corporate insurance premiums related to property and liability insurance increased by nearly $38,000 due to insurance market conditions.  Total capitalized overheads increased by approximately $267,000 due to higher direct construction expenditures related to Roanoke Gas capital projects and timing of LNG production.
+General taxes decreased by $14,159, or 2%, primarily due to lower property taxes associated with reductions in the assessed values of property reported by the SCC more than offsetting an increase in gross utility property.
+Depreciation expense increased by $148,847, or 7%, on a comparable increase in utility property balances.
+Equity in earnings of unconsolidated affiliate decreased by $70,895 due to the absence of construction activities during the quarter. See Equity Investment in Mountain Valley Pipeline section below for additional information.
+Other income, net decreased by $247,833, or 77%, primarily due to an increase of approximately $377,000 in the non-service cost components of net periodic benefit costs arising from the effect of much higher interest rates on the actuarial expense calculation.  Roanoke Gas also recognized approximately $82,000 in AFUDC related to the RNG project during the current period.
+Interest expense increased by $264,308, or 24%, as the weighted-average interest rate on total debt increased from 2.93% during the first quarter of fiscal 2022 to 3.78% during the first quarter of fiscal 2023, while total daily average debt outstanding declined by 3%.  The increase in the weighted average interest rate was associated with Roanoke Gas' variable rate line-of-credit and Midstream's credit facility.
+Roanoke Gas' interest expense increased by $57,703 primarily due to the increase in the interest rate on the variable rate line-of-credit.
+Midstream's interest expense increased by $206,605 due to rising interest rates on its credit facility.  Total average outstanding debt during the quarter declined by $4.1 million due to the equity infusion from Resources in March 2022, more than offsetting the ongoing funding of MVP and Southgate.
+Income tax expense decreased by $88,850, or 8%, corresponding to a similar reduction in taxable income. The effective tax rate was 23.4% and 23.2% for the three month periods ended December 31, 2022 and 2021, respectively.  The effective tax rate is below the combined statutory state and federal rate due to the amortization of excess deferred taxes and R&D tax credits.
+27
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Critical Accounting Policies and Estimates
+The consolidated financial statements of Resources are prepared in accordance with GAAP. The amounts of assets, liabilities, revenues and expenses reported in the Company’s consolidated financial statements are affected by accounting policies, estimates and assumptions that are necessary to comply with generally accepted accounting principles. Estimates used in the financial statements are derived from prior experience, statistical analysis and management judgments. Actual results may differ significantly from these estimates and assumptions.
+There have been no significant changes to the critical accounting policies as reflected in the Company’s Annual Report on Form 10-K for the year ended September 30, 2022.
+Asset Management
+Roanoke Gas uses a third-party asset manager to oversee its pipeline transportation, storage rights and gas supply inventories and deliveries. In return for being able to utilize the excess capacities of the transportation and storage rights, the asset manager pays Roanoke Gas a monthly utilization fee. In accordance with an SCC order issued in 2018, a portion of the utilization fee is retained by the Company with the balance passed through to
+customers through reduced gas costs. The current asset management agreement ends on March 31, 2025.
+Equity Investment in Mountain Valley Pipeline, LLC
+In October 2017, FERC issued the CPCN for the MVP project. In the first quarter of 2018, the LLC received limited notice from FERC to proceed with certain construction activities and commenced construction.
+Recent construction activity has been limited based on legal and regulatory challenges. Although certain permits and authorizations were received, the MVP project has been subject to repeated, significant delays and cost increases resulting from legal challenges and regulatory setbacks, particularly in respect to litigation in the Fourth Circuit, including, on January 25, 2022, the Fourth Circuit’s vacatur and remanding on specific issues of the LLC's authorizations related to the Jefferson National Forest (JNF) received from the Bureau of Land Management and the U.S. Forest Service and on February 3, 2022, the Fourth Circuit’s vacatur and remanding on specific issues of the Biological Opinion and Incidental Take Statement issued by the United States Department of the Interior's Fish and Wildlife Service for the MVP project.
+28
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Given ongoing litigation and regulatory matters, the LLC filed a request on June 24, 2022 with the FERC for an extension of time to complete the project for an additional four years (relative to a prior obtained extension) through October 13, 2026.  The request was granted on August 23, 2022.
+The LLC has sought new authorizations relating to the JNF, a new Biological Opinion and Incidental Take Statement, and an Individual Permit from the Huntington, Pittsburgh and Norfolk Districts of the U.S. Army Corps of Engineers to effect approximately 300 water crossings utilizing open cut techniques. In April 2022, the MVP obtained the FERC’s authorization to amend the Certificate to utilize alternative trenchless construction methods to effect approximately 120 water crossings. In order to complete the project, in addition to the authorizations with respect to water crossings and other relevant regulatory matters, the LLC needs to continue to have available the orders previously issued by the FERC that are necessary to complete the MVP project and receive authorization from the FERC to complete construction work in the portion of the project route currently remaining subject to the FERC’s previous stop work order and in the JNF. The LLC is also participating in the defense of Section 401 water quality certification approvals received in December 2021 from each of the West Virginia Department of Environmental Protection (WVDEP) and the Virginia Department of Environmental Quality (VADEQ) (the State 401 Approvals), which are the subject of ongoing litigation in the Fourth Circuit and the LLC is awaiting rulings from the Fourth Circuit.
+On October 25, 2022, oral argument was held in the Fourth Circuit relating to the State 401 Approvals, which oral argument was conducted by the same panel of Fourth Circuit judges as have appeared, and overruled permitting agencies, in numerous prior matters relating to the MVP.  The project operator perceives continued hostility to and risk posed by the Fourth Circuit panel to the LLC’s State 401 Approvals (based upon the oral arguments, particularly with respect to the WVDEP State 401 Approval) and more generally to those potential future authorizations and permits within the Fourth Circuit’s jurisdiction, including any new authorizations for the JNF and new Biological Opinion and Incidental Take Statement.
+However, notwithstanding prior setbacks and ongoing risks, the LLC continues to engage in pursuing the requisite authorizations necessary under applicable law from the relevant agencies to complete the MVP project. The LLC understands that the agencies are working to issue such authorizations in the first half of calendar 2023 and to produce authorizations, for the third time in certain cases, that address points raised by the Fourth Circuit and exceed legal and regulatory standards for the issuance of such authorizations. The project operator previously indicated that the best path to complete the MVP project in accordance with the previously communicated targeted full in-service date during the second half of calendar 2023 and at a targeted total project cost of approximately $6.6 billion (excluding AFUDC) is for the United States Congress to expeditiously pass, and there to be enacted, federal energy infrastructure permitting reform legislation that specifically requires the completion of the MVP project, similar to MVP-specific aspects of legislation proposed in September 2022 by each of United States Senators Joseph Manchin and Shelley Moore Capito.  However, while as of the date of the filing of this Quarterly Report on Form 10-Q, the LLC is cognizant that attempts to enact such legislation have failed and that differences between and within the Republican and Democratic parties continue to exist as to the scope and terms of any such reform.  Such differences could impede the prospect of legislation being enacted in sufficient time for the LLC to complete construction in 2023.
+29
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Management conducted an assessment of its investment in the LLC in accordance with the provisions of ASC 323,  Investments - Equity Method and Joint Ventures . This assessment included a third-party valuation.  As a result of its evaluations in fiscal 2022, management concluded that the investment in the LLC sustained other-than-temporary declines in fair value as of February 22, 2022 and as of September 30, 2022 and recorded pre-tax impairment losses of approximately $39.8 million and $15.3 million in its second and fourth quarter operating results, respectively. Management re-evaluated its investment as of December 31, 2022 and concluded that its investment was fairly stated and no additional impairment was required.  Management will continue monitoring the status of MVP for circumstances that may lead to future impairments, including further delays or denials of necessary permits and approvals. If necessary, the amount and timing of any further impairment would be dependent on the specific circumstances, including changes to probabilities of completion, and changes in the assumed future cash flows, and discount rate at the time of evaluation.
+Midstream has utilized the $23 million of borrowing capacity under its non-revolving credit facility, which matures in December 2023.  Effective November 1, 2021, the borrowing capacity under this credit facility was reduced to $33 million as $8 million of the outstanding balance was re-financed through a separate unsecured promissory note.  Effective March 31, 2022, the borrowing capacity under the credit facility was further reduced to its current $23 million level as $10 million of the outstanding balance was paid.  See Note 7 for more information. Due to ongoing delays, additional financing will be required. Management is evaluating various options to secure the necessary capital, including discussions with Midstream's current lenders and additional equity capital.
+If the legal and regulatory challenges, including any future challenges, are not resolved in a timely manner and/or restrictions are imposed that impact future construction, the cost of the MVP and Midstream's capital contributions may further increase.  See Investment in Mountain Valley Pipeline, LLC Risk Factor under Item 1A of the Company's Form 10-K for the year ended September 30, 2022.
+Regulatory
+On December 2, 2022, Roanoke Gas filed an application with the SCC seeking an increase in its base rates.  The Company is seeking an increase in base rate of $8.55 million, of which $4.05 million was being recovered through the SAVE Rider.  Since the Company is proposing to recover the costs associated with its SAVE plan through interim base rates effective January 1, 2023, the Company proposed discontinuing its SAVE Plan and Rider for the remainder of the current fiscal year.
+On December 21, 2022, the SCC issued its Order for Notice and Hearing, which authorized the Company to put its proposed rates into effect, on an interim basis, on January 1, 2023, and set the matter for hearing. The Company expects final resolution of the rate case to occur in late calendar 2023 or early 2024.
+In the final order from the last non-gas base rate increase, the SCC allowed Roanoke Gas to defer the related financing costs of two gate stations that would interconnect to MVP for possible future recovery. As a result, the Company began recognizing AFUDC during the second quarter of fiscal 2020 to capitalize both the equity and debt financing costs incurred during the construction phases. Beginning January 2021, Roanoke Gas temporarily ceased recording AFUDC on its related MVP interconnect construction projects until such time as construction activities resume.  The Company is seeking rate recovery of the MVP related assets in its base rate filing and, if approved, will permanently stop accruing AFUDC on these assets.
+30
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+The Company expects to file for a new SAVE Plan and SAVE Rider in the third quarter of fiscal 2023 for recovery of SAVE eligible investments beginning October 1, 2023.
+On May 16, 2022, Roanoke Gas announced a cooperative agreement under which Roanoke Gas and the Western Virginia Water Authority will produce commercial quality RNG from biogas produced at the regional water pollution control plant.  In August 2022, Roanoke Gas filed an application with the SCC seeking approval of a rate adjustment clause under which the Company will recover the costs associated with constructing, owning, operating and maintaining the renewable natural gas facility.  The application was filed under Chapter 30 of Title 56 of the Code of Virginia. Chapter 30 allows the Company to accrue AFUDC on the RNG project.  In connection with the RNG project, Roanoke Gas began accruing AFUDC in fiscal 2022 associated with construction of the facility. As of December 31, 2022, the Company has recognized approximately of $179,000 in AFUDC since inception of the RNG project.  The Company received a final order from the Commission on January 23, 2023 approving the Company’s application.  The Company expects to start commissioning the RNG facility in the third quarter of fiscal 2023 and cease recording AFUDC on the project.
+On June 2, 2022, Roanoke Gas filed an application with the SCC to acquire certain natural gas distribution assets from a local housing authority.  Under this application, the Company requested the approval to acquire such facilities at five separate apartment complexes, located in the Company’s service territory, that were under housing authority management.  Under the proposed plan, the housing authority would renew existing natural gas distribution facilities to include mains, services and meter installations and then transfer ownership of these facilities to Roanoke Gas.  In turn, Roanoke Gas would assume responsibility for the operation and maintenance of these assets and recognize a gain related to the asset acquisition equal to the cost associated with the renewal.
+On July 19, 2022, the SCC approved the application and on August 4, 2022, the housing authority transferred the assets from two apartment complexes to Roanoke Gas. Roanoke Gas recorded these assets and recognized a pre-tax gain of approximately $219,000 during the Company’s fourth quarter of fiscal 2022. The housing authority expects to complete the upgrade and subsequent asset transfer at one more apartment complex in fiscal 2023.  The authority is awaiting future funding to complete the two remaining apartment complexes.  The timing of funding and the completion of the asset renewals for these two complexes is unknown at this time.
+In November 2021, Roanoke Gas received $859,000 in ARPA funds and applied the full amount to customer arrearages in December 2021.
+Capital Resources and Liquidity
+Due to the capital intensive nature of the utility business, as well as the impact of weather variability, the Company’s primary capital needs are the funding of its capital projects, investment in the LLC, the seasonal funding of its natural gas inventories and accounts receivables and the payment of dividends. To meet these needs, the Company anticipates funding these items through its operating cash flows, credit availability under short-term and long-term debt agreements and proceeds from the sale of its common stock.
+Cash and cash equivalents decreased by $1,664,722 for the three-month period ended December 31, 2022 compared to an increase of $233,557 for the three-month period ended December 31, 2021. The following table summarizes the sources and uses of cash:
+Three Months Ended December 31,
+Cash Flow Summary
+2022
+2021
+Net cash used in operating activities
+$
+(2,424,401
+)
+$
+(3,544,766
+)
+Net cash used in investing activities
+(8,348,589
+)
+(7,832,913
+)
+Net cash provided by financing activities
+9,108,268
+11,611,236
+Increase (decrease) in cash and cash equivalents
+$
+(1,664,722
+)
+$
+233,557
+Cash Flows Used in Operating Activities:
+The seasonal nature of the natural gas business causes operating cash flows to fluctuate significantly during the year as well as from year to year. Factors, including weather, energy prices, natural gas storage levels and customer collections, all contribute to working capital levels and related cash flows. Generally, operating cash flows are positive during the second and third fiscal quarters as a combination of earnings, declining storage gas levels and collections on customer accounts all contribute to higher cash levels. During the first and fourth fiscal quarters, operating cash flows generally decrease due to increases in natural gas storage levels and rising customer receivable balances.
+Cash flows from operating activities for the three months ended December 31, 2022 increased by $1,120,365 compared to the same period last year. The table below summarizes the significant components of operating cash flows:
+31
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Three Months Ended December 31,
+Increase/
+Cash Flow From Operating Activities:
+2022
+2021
+(Decrease)
+Net income (loss)
+$
+3,256,405
+$
+3,584,529
+$
+(328,124
+)
+Non-cash adjustments:
+Depreciation
+2,477,084
+2,329,409
+147,675
+Equity in earnings
+(1,232
+)
+(72,127
+)
+70,895
+AFUDC
+(103,771
+)
+—
+(103,771
+)
+Changes in working capital and regulatory assets and liabilities:
+Accounts receivable
+(15,967,191
+)
+(7,105,030
+)
+(8,862,161
+)
+Over-recovery of gas cost
+5,763,958
+823,059
+4,940,899
+Accounts payable
+3,220,632
+(1,320,430
+)
+4,541,062
+WNA
+186,648
+(1,244,017
+)
+1,430,665
+Supplier refunds
+(682,636
+)
+388,786
+(1,071,422
+)
+Other
+(574,298
+)
+(928,945
+)
+354,647
+Net cash used in operating activities
+$
+(2,424,401
+)
+$
+(3,544,766
+)
+$
+1,120,365
+A combination of significantly higher natural gas commodity prices combined with colder weather compared to the same period last year resulted in much higher accounts receivable and accounts payable balances.  Due to the higher commodity prices, the Company adjusted the PGA factor included in its billing rates to keep pace with these higher commodity prices.  However, December commodity prices experienced a significant decline even in consideration of the colder weather, which resulted in a significant over-recovery of gas costs during the month.  The PGA rate was subsequently reduced in January 2023 to reflect the lower natural gas prices.  Likewise, the colder weather resulted in a significant change in the WNA balances as the prior year fiscal quarter reflected an increase in WNA receivable due to the weather being 22% warmer than normal, while the current fiscal quarter reflected a reduction in the WNA receivable related to weather that was 3% colder than normal.  The current quarter also included the refunding of approximately $683,000 in supplier refunds balances compared to the same period last year, which included the receipt from suppliers of approximately $414,000 of said refunds.
+Cash Flows Used in Investing Activities:
+Investing activities primarily consist of expenditures related to investment in Roanoke Gas' utility property, which includes replacing aging natural gas pipe with new plastic or coated steel pipe, improvements to the LNG plant and gas distribution system facilities and expansion of its natural gas system to meet the demands of customer growth, as well as Midstream's continued investment in the LLC. The Company continued its focus on SAVE infrastructure replacement projects, including the replacement of pre-1973 first generation plastic pipe and extending the natural gas distribution system to unserved developments within its existing service territory. Roanoke Gas' total capital expenditures for the three-months ended December 31, 2022 were approximately $7.5 million compared to $5.7 million during the same period last year. Capital expenditures for fiscal 2023 are expected to be in the $20 million range. Midstream's investment in the LLC declined by approximately $1.3 million as no active construction activities occurred during the current fiscal year.  The Company will continue its funding of the LLC for the purposes of maintenance and monitoring until such time as construction activities resume and the pipeline is placed in service.
+32
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Cash Flows Provided by Financing Activities:
+Financing activities generally consist of borrowings and repayments under credit agreements, issuance of stock and the payment of dividends. Net cash flows provided by financing activities were $9.1 million for the three months ended December 31, 2022, compared to $11.6 million for the same period last year. The reduction in financing cash flows is primarily attributable to Roanoke Gas' issuance of $15 million in unsecured notes, net of the retirement of $7 million in matured notes during the first quarter of fiscal 2022.  Roanoke Gas also increased net borrowing under its line-of-credit by $7.4 million during the current fiscal quarter to provide additional working capital needs and provide bridge financing for its construction activities.  Additionally, Resources issued a total of 31,245 shares of common stock during the quarter, including 17,199 shares through the ATM program in which Resources received $377,000, net of fees.
+Notes 7 and 8 provide details on the Company's line-of-credit and outstanding debt.
+The rise in interest rates will continue to result in higher interest expense associated with the Company's variable rate debt or the issuance of any new debt in the future.
+Management regularly evaluates the Company’s liquidity through a review of its available financing resources and its cash flows. Resources’ maintains the ability to raise equity capital through its ATM program, private placement or other public offerings.  Management believes Roanoke Gas has access to sufficient financing resources to meet its cash requirements for the next year, including the line-of-credit and the two private shelf facilities.  Roanoke Gas may also adjust capital spending as necessary.
+Based on the LLC's projected cash requirements for MVP, which includes MVP construction resuming in 2023, Midstream will need between $15 million and $18 million in additional capital over the next 12 to 24 months.  Various debt and equity options are being evaluated.
+As of December 31, 2022, Resources' long-term capitalization ratio was 41% equity and 59% debt.
+ITEM 3 – QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not applicable.
+ITEM 4 – CONTROLS AND PROCEDURES
+The Company maintains disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) that are designed to be effective in providing reasonable assurance that information required to be disclosed in reports under the Exchange Act are identified, recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC, and that such information is accumulated and communicated to management to allow for timely decisions regarding required disclosure.
+Through December 31, 2022, the Company has evaluated, under the supervision and with the participation of management, including the chief executive officer and the chief financial officer, the effectiveness of the design and operation of the Company’s disclosure controls and procedures. Based upon that evaluation, the chief executive officer and chief financial officer concluded that the Company’s disclosure controls and procedures were effective at the reasonable assurance level as of December 31, 2022.
+Management routinely reviews the Company’s internal control over financial reporting and makes changes, as necessary, to enhance the effectiveness of the internal controls. There were no control changes during the fiscal quarter ended December 31, 2022, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+33
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+Part II – Other Information
+ITEM 1 – LEGAL PROCEEDINGS
+No material proceedings.
+ITEM 1A – RISK FACTORS
+There have been no material changes to the risk factors previously disclosed in Resources' Annual Report on Form 10-K for the year ended September 30, 2022.
+ITEM 2 – UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+None.
+ITEM 3 – DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4 – MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5 – OTHER INFORMATION
+None.
+ITEM 6 – EXHIBITS
+Number
+Description
+10.1
+Third Amendment to Private Shelf Agreement dated as of December 6, 2022 (incorporated by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K filed on December 7, 2022)
+31.1
+Rule 13a–14(a)/15d–14(a) Certification of Principal Executive Officer
+31.2
+Rule 13a–14(a)/15d–14(a) Certification of Principal Financial Officer
+32.1*
+Section 1350 Certification of Principal Executive Officer
+32.2*
+Section 1350 Certification of Principal Financial Officer
+101.INS
+Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+*
+These certifications are being furnished solely to accompany this quarterly report pursuant to 18 U.S.C. Section 1350, and are not being filed for purposes of Section 18 of the Securities Exchange Act of 1934 and are not to be incorporated by reference into any filing of the Registrant, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+34
+Table of Contents
+RGC RESOURCES, INC. AND SUBSIDIARIES
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+RGC Resources, Inc.
+Date: February 8, 2023
+By:
+/s/ Jason A. Field
+Jason A. Field
+Vice President, Chief Financial Officer and Treasurer
+(Principal Financial Officer)
+35

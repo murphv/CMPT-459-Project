@@ -1,0 +1,2103 @@
+3000000
+P6Y
+P6Y
+P5Y8M12D
+P2Y2M12D
+P2Y8M12D
+P1Y4M24D
+0001488917
+2022-07-01
+2022-12-31
+0001488917
+2023-02-10
+0001488917
+2022-12-31
+0001488917
+2022-06-30
+0001488917
+2022-10-01
+2022-12-31
+0001488917
+2021-10-01
+2021-12-31
+0001488917
+2021-07-01
+2021-12-31
+0001488917
+2021-06-30
+0001488917
+2021-12-31
+0001488917
+us-gaap:CommonStockMember
+2021-06-30
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2021-06-30
+0001488917
+us-gaap:RetainedEarningsMember
+2021-06-30
+0001488917
+us-gaap:CommonStockMember
+2021-09-30
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-30
+0001488917
+us-gaap:RetainedEarningsMember
+2021-09-30
+0001488917
+2021-09-30
+0001488917
+us-gaap:CommonStockMember
+2022-06-30
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2022-06-30
+0001488917
+us-gaap:RetainedEarningsMember
+2022-06-30
+0001488917
+us-gaap:CommonStockMember
+2022-09-30
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001488917
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001488917
+2022-09-30
+0001488917
+us-gaap:CommonStockMember
+2021-07-01
+2021-09-30
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2021-07-01
+2021-09-30
+0001488917
+us-gaap:RetainedEarningsMember
+2021-07-01
+2021-09-30
+0001488917
+2021-07-01
+2021-09-30
+0001488917
+us-gaap:CommonStockMember
+2021-10-01
+2021-12-31
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2021-10-01
+2021-12-31
+0001488917
+us-gaap:RetainedEarningsMember
+2021-10-01
+2021-12-31
+0001488917
+us-gaap:CommonStockMember
+2022-07-01
+2022-09-30
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2022-07-01
+2022-09-30
+0001488917
+us-gaap:RetainedEarningsMember
+2022-07-01
+2022-09-30
+0001488917
+2022-07-01
+2022-09-30
+0001488917
+us-gaap:CommonStockMember
+2022-10-01
+2022-12-31
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0001488917
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0001488917
+us-gaap:CommonStockMember
+2021-12-31
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001488917
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001488917
+us-gaap:CommonStockMember
+2022-12-31
+0001488917
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001488917
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001488917
+elmd:InternationalMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:InternationalMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:InstitutionalMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:InstitutionalMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:InstitutionalMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:InstitutionalMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:HomeCareDistributorMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:HomeCareDistributorMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:HomeCareDistributorMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:HomeCareDistributorMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:InternationalOneMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:InternationalOneMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:InternationalOneMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:InternationalOneMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:CommercialMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:CommercialMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:CommercialMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:CommercialMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicareMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicareMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicareMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicareMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicaidMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicaidMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicaidMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:MedicaidMember
+2021-07-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:OtherMember
+2022-10-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:OtherMember
+2021-10-01
+2021-12-31
+0001488917
+elmd:HomeCareMember
+elmd:OtherMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:HomeCareMember
+elmd:OtherMember
+2021-07-01
+2021-12-31
+0001488917
+2021-07-01
+2022-06-30
+0001488917
+us-gaap:RevolvingCreditFacilityMember
+2022-12-31
+0001488917
+us-gaap:RevolvingCreditFacilityMember
+2022-06-30
+0001488917
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:PrimeRateMember
+2022-12-31
+0001488917
+us-gaap:RevolvingCreditFacilityMember
+2022-07-01
+2022-12-31
+0001488917
+elmd:CapitalStockMember
+2022-12-31
+0001488917
+elmd:AuthorizedSharesUndesignatedStockMember
+2022-12-31
+0001488917
+srt:BoardOfDirectorsChairmanMember
+2022-05-26
+0001488917
+us-gaap:EmployeeStockOptionMember
+2021-07-01
+2022-03-31
+0001488917
+us-gaap:EmployeeStockOptionMember
+2022-12-31
+0001488917
+us-gaap:RestrictedStockMember
+elmd:EmployeeMember
+2022-07-01
+2022-12-31
+0001488917
+us-gaap:EmployeeStockOptionMember
+elmd:EmployeeMember
+2022-07-01
+2022-12-31
+0001488917
+us-gaap:RestrictedStockMember
+2022-07-01
+2022-12-31
+0001488917
+us-gaap:RestrictedStockMember
+elmd:EmployeeMember
+2022-12-31
+0001488917
+us-gaap:RestrictedStockMember
+2022-12-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☑
+QUARTERLY REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+☐
+TRANSITION REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from               to               .
+Commission File No.:
+001-34839
+Electromed,
+Inc.
+(Exact Name of Registrant as Specified in its Charter)
+Minnesota
+41-1732920
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+500
+Sixth Avenue NW
+New
+Prague ,
+Minnesota
+56071
+(Address of principal executive offices)
+(Zip Code)
+( 952 )
+758-9299
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of
+the Act:
+Common Stock, $0.01 par value
+ELMD
+NYSE
+American LLC
+(Title of each class)
+(Trading Symbol(s))
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+Yes
+☑ No ☐
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑ No ☐
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth
+company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting
+company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer
+☑
+Smaller reporting company
+☑
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+☑
+There were
+8,514,164
+shares of Electromed, Inc. common stock, par value $0.01 per share, outstanding as of the close of business on February 10, 2023.
+Electromed, Inc.
+Index to Quarterly Report
+on Form 10-Q
+Page
+PART I – FINANCIAL INFORMATION
+Item 1. Financial Statements
+1
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+11
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+18
+Item 4. Controls and Procedures
+18
+PART II – OTHER INFORMATION
+Item 1. Legal Proceedings
+18
+Item 1A. Risk Factors
+18
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+18
+Item 3. Defaults Upon Senior Securities
+19
+Item 4. Mine Safety Disclosures
+19
+Item 5. Other Information
+19
+Item 6. Exhibits
+19
+PART
+I – FINANCIAL INFORMATION
+Item
+1. Financial
+Statements.
+Electromed,
+Inc.
+Condensed
+Balance Sheets
+December 31, 2022
+June 30, 2022
+(Unaudited)
+Assets
+Current Assets
+Cash and cash equivalents
+$ 6,909,000
+$ 8,153,000
+Accounts receivable (net of allowances for doubtful accounts of $ 45,000 )
+21,555,000
+21,052,000
+Contract assets
+507,000
+286,000
+Inventories
+3,473,000
+3,178,000
+Prepaid expenses and other current assets
+1,720,000
+1,870,000
+Total current assets
+34,164,000
+34,539,000
+Property and equipment, net
+5,038,000
+4,568,000
+Finite-life intangible assets, net
+584,000
+599,000
+Other assets
+80,000
+120,000
+Deferred income taxes
+1,528,000
+1,538,000
+Total assets
+$ 41,394,000
+$ 41,364,000
+Liabilities and Shareholders’ Equity
+Current Liabilities
+Accounts payable
+$ 785,000
+$ 1,261,000
+Accrued compensation
+2,210,000
+2,742,000
+Income tax payable
+130,000
+51,000
+Warranty reserve
+1,337,000
+1,256,000
+Other accrued liabilities
+1,549,000
+1,840,000
+Total current liabilities
+6,011,000
+7,150,000
+Other long-term liabilities
+33,000
+41,000
+Total liabilities
+6,044,000
+7,191,000
+Commitments and Contingencies
+Shareholders’ Equity
+Common stock, $ 0.01
+par value per share,
+13,000,000
+shares authorized;
+8,514,164
+and
+8,475,438
+shares issued and outstanding, as of December 31, 2022 and June 30, 2022, respectively
+85,000
+85,000
+Additional paid-in capital
+18,580,000
+18,308,000
+Retained earnings
+16,685,000
+15,780,000
+Total shareholders’ equity
+35,350,000
+34,173,000
+Total liabilities and shareholders’ equity
+$ 41,394,000
+$ 41,364,000
+See
+Notes to Condensed Financial Statements (Unaudited).
+1
+Electromed,
+Inc.
+Condensed
+Statements of Operations (Unaudited)
+Three
+Months Ended
+December 31,
+Six
+Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Net revenues
+$ 11,729,000
+$ 10,248,000
+$ 22,387,000
+$ 20,249,000
+Cost of revenues
+3,047,000
+2,368,000
+5,374,000
+4,668,000
+Gross profit
+8,682,000
+7,880,000
+17,013,000
+15,581,000
+Operating expenses
+Selling, general and administrative
+7,254,000
+6,475,000
+15,243,000
+13,262,000
+Research and development
+154,000
+329,000
+452,000
+705,000
+Total operating expenses
+7,408,000
+6,804,000
+15,695,000
+13,967,000
+Operating income
+1,274,000
+1,076,000
+1,318,000
+1,614,000
+Interest income, net
+7,000
+6,000
+11,000
+15,000
+Net income before income taxes
+1,281,000
+1,082,000
+1,329,000
+1,629,000
+Income tax expense
+304,000
+244,000
+271,000
+352,000
+Net income
+$ 977,000
+$ 838,000
+$ 1,058,000
+$ 1,277,000
+Income per share:
+Basic
+$ 0.12
+$ 0.10
+$ 0.13
+$ 0.15
+Diluted
+$ 0.11
+$ 0.10
+$ 0.12
+$ 0.15
+Weighted-average common shares outstanding:
+Basic
+8,442,939
+8,478,394
+8,442,684
+8,501,041
+Diluted
+8,684,352
+8,760,946
+8,685,184
+8,788,194
+See
+Notes to Condensed Financial Statements (Unaudited).
+2
+Electromed,
+Inc.
+Condensed
+Statements of Cash Flows (Unaudited)
+Six Months Ended December 31,
+2022
+2021
+Cash Flows From Operating Activities
+Net income
+$ 1,058,000
+$ 1,277,000
+Adjustments to reconcile net income to net cash used in operating activities:
+Depreciation
+272,000
+221,000
+Amortization of finite-life intangible assets
+47,000
+79,000
+Share-based compensation expense
+316,000
+526,000
+Deferred income taxes
+10,000
+37,000
+Changes in operating assets and liabilities:
+Accounts receivable
+( 503,000 )
+( 2,082,000 )
+Contract assets
+( 221,000 )
+111,000
+Inventories
+( 321,000 )
+334,000
+Prepaid expenses and other assets
+176,000
+( 265,000 )
+Income tax payable, net
+79,000
+( 366,000 )
+Accounts payable and accrued liabilities
+( 711,000 )
+435,000
+Accrued compensation
+( 532,000 )
+( 413,000 )
+Net cash used in operating activities
+( 330,000 )
+( 106,000 )
+Cash Flows From Investing Activities
+Expenditures for property and equipment
+( 687,000 )
+( 511,000 )
+Expenditures for finite-life intangible assets
+( 30,000 )
+( 69,000 )
+Net cash used in investing activities
+( 717,000 )
+( 580,000 )
+Cash Flows From Financing Activities
+Issuance of common stock upon exercise of options
+16,000
+-
+Taxes paid on net share settlement of stock option exercises
+( 60,000 )
+( 70,000 )
+Repurchase of common stock
+( 153,000 )
+( 663,000 )
+Net cash used in financing activities
+( 197,000 )
+( 733,000 )
+Net decrease in cash
+( 1,244,000 )
+( 1,419,000 )
+Cash and cash equivalents
+Beginning of period
+8,153,000
+11,889,000
+End of period
+$ 6,909,000
+$ 10,470,000
+Supplemental Disclosures of Cash Flow Information
+Cash paid for income taxes
+$ 182,000
+$ 681,000
+Supplemental Disclosures of Noncash Investing and Financing Activities
+Property and equipment acquisitions in accounts payable
+$ 73,000
+$ 153,000
+Intangible asset acquisitions in accounts payable
+$ 5,000
+$ 6,000
+Lease assets obtained in exchange for new operating lease liabilities
+$ -
+$ 53,000
+Demonstration equipment returned to inventory
+$ 26,000
+$ 10,000
+See
+Notes to Condensed Financial Statements (Unaudited).
+3
+Electromed,
+Inc.
+Condensed
+Statements of Shareholders’ Equity (Unaudited)
+Total
+Common Stock
+Additional Paid-
+Retained
+Shareholders’
+Shares
+Amount
+in Capital
+Earnings
+Equity
+Balance at June 30, 2021
+8,533,209
+$ 85,000
+$ 17,409,000
+$ 14,922,000
+$ 32,416,000
+Net income
+–
+–
+–
+439,000
+439,000
+Issuance of restricted stock
+25,900
+–
+–
+–
+–
+Issuance of common stock upon exercise of options
+10,530
+1,000
+–
+–
+1,000
+Taxes paid on stock options exercised on a net basis
+–
+–
+( 64,000 )
+–
+( 64,000 )
+Share-based compensation expense
+–
+–
+249,000
+–
+249,000
+Balance at September 30, 2021
+8,569,639
+86,000
+17,594,000
+15,361,000
+33,041,000
+Net income
+–
+–
+–
+838,000
+838,000
+Issuance of restricted stock
+18,000
+–
+–
+–
+–
+Issuance of common stock upon exercise of options
+1,387
+–
+–
+–
+–
+Taxes paid on stock options exercised on a net basis
+–
+–
+( 6,000 )
+–
+( 6,000 )
+Share-based compensation expense
+–
+–
+277,000
+–
+277,000
+Repurchase of common stock
+( 55,687 )
+( 1,000 )
+–
+( 662,000 )
+( 663,000 )
+Balance at December 31, 2021
+8,533,339
+$ 85,000
+$ 17,865,000
+$ 15,537,000
+$ 33,487,000
+Total
+Common Stock
+Additional Paid-
+Retained
+Shareholders’
+Shares
+Amount
+in Capital
+Earnings
+Equity
+Balance at June 30, 2022
+8,475,438
+$ 85,000
+$ 18,308,000
+$ 15,780,000
+$ 34,173,000
+Net income
+–
+–
+–
+81,000
+81,000
+Issuance of restricted stock
+27,400
+–
+–
+–
+–
+Forfeiture of restricted stock
+( 14,166 )
+–
+–
+–
+–
+Issuance of common stock upon exercise of options
+11,760
+–
+–
+–
+–
+Taxes paid on stock option exercised on a net basis
+–
+–
+( 60,000 )
+–
+( 60,000 )
+Share-based compensation expense
+–
+–
+95,000
+–
+95,000
+Repurchase of common stock
+( 14,568 )
+–
+–
+( 145,000 )
+( 145,000 )
+Balance at September 30, 2022
+8,485,864
+85,000
+18,343,000
+15,716,000
+34,144,000
+Net income
+–
+–
+–
+977,000
+977,000
+Issuance of restricted stock
+26,000
+–
+–
+–
+–
+Issuance of common stock upon exercise of options
+3,100
+–
+16,000
+–
+16,000
+Share-based compensation expense
+–
+–
+221,000
+–
+221,000
+Repurchase of common stock
+( 800 )
+–
+–
+( 8,000 )
+( 8,000 )
+Balance at December 31, 2022
+8,514,164
+$ 85,000
+$ 18,580,000
+$ 16,685,000
+$ 35,350,000
+See
+Notes to Condensed Financial Statements (Unaudited).
+4
+Electromed, Inc.
+Notes to Condensed
+Financial Statements
+(Unaudited)
+Note 1.
+Interim Financial Reporting
+Nature of business:
+Electromed,
+Inc. (the “Company”) develops, manufactures and markets innovative airway clearance products that apply High
+Frequency Chest Wall Oscillation (“HFCWO”) therapy in pulmonary care for patients of all ages. The Company
+markets its products in the U.S. to the home health care and institutional markets for use by patients in personal
+residences, hospitals and clinics. The Company also sells internationally both directly and through distributors.
+International sales were $ 153,000
+and $ 236,000
+for the six months ended December 31, 2022 and 2021, respectively. Since its
+inception, the Company has operated in a single industry segment: developing, manufacturing and marketing medical
+equipment.
+Impacts of COVID-19 on the Company’s
+business:
+The impact of the COVID-19 pandemic on the
+Company’s business remains uncertain, and its effects on our operational and financial performance will depend in large part
+on future developments, which cannot be reasonably estimated at this time. Such future developments include, but are not limited
+to, the duration, scope and severity of the COVID-19 pandemic in geographic areas where the Company operates or in which its patients
+live, actions taken to contain or mitigate its impact, the impact on governmental healthcare programs and budgets, the development
+and distribution of treatments or vaccines, and the resumption of widespread economic activity. Due to the inherent uncertainty
+of the unprecedented and rapidly evolving situation, the Company is unable to predict with confidence the likely impact of the
+COVID-19 pandemic on its future operations. For a more detailed discussion, see “Management’s Discussion and Analysis
+of Financial Condition and Results of Operations” in Part I, Item 2 of this Quarterly Report on Form 10-Q.
+Basis of presentation:
+The accompanying
+unaudited Condensed Financial Statements of the Company have been prepared in accordance with U.S. generally accepted accounting
+principles (“U.S. GAAP”) for interim financial statements and pursuant to the rules and regulations of the U.S. Securities
+and Exchange Commission. In the opinion of management, the accompanying unaudited Condensed Financial Statements reflect all adjustments
+consisting of normal recurring adjustments necessary for a fair presentation of the Company’s financial position and results
+of operations as required by Regulation S-X. Interim results of operations are not necessarily indicative of the results that may
+be achieved for the full year. The financial statements and related notes do not include all information and footnotes required
+by U.S. GAAP for annual reports. This interim report should be read in conjunction with the financial statements included in the
+Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2022 (“fiscal 2022”).
+A summary of the Company’s significant accounting
+policies follows:
+Use of estimates .
+Management uses estimates
+and assumptions in preparing the unaudited Condensed Financial Statements in accordance with U.S. GAAP. Those estimates and assumptions
+affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities, and the reported revenues
+and expenses. Actual results could vary from the estimates that were used. The Company believes the critical accounting policies
+that require the most significant assumptions and judgments in the preparation of its unaudited Condensed Financial Statements
+include revenue recognition and the related estimation of variable consideration, inventory valuation, share-based compensation
+and warranty reserve.
+Net income per common share .
+Net income
+is presented on a per share basis for both basic and diluted common shares. Basic net income per common share is computed using
+the weighted average number of common shares outstanding during the period, excluding any restricted stock awards which have not
+vested. The diluted net income per common share calculation includes outstanding restricted stock grants and assumes that all stock
+options were exercised and converted into common stock at the beginning of the period unless their effect would be anti-dilutive.
+Common stock equivalents excluded from the calculation of diluted earnings per share because their impact was anti-dilutive were
+200,499
+and
+108,044
+for the three months ended December 31, 2022 and 2021, respectively, and were
+206,261
+and
+112,170
+for the six
+months ended December 31, 2022 and 2021, respectively.
+Recently Issued Accounting Standards
+In June 2016, the Financial Accounting Board issued
+Accounting Standards Update (“ASU”) 2016-13, “Financial Instruments -- Credit Losses: Measurement of Credit
+Losses on Financial Instruments”, which was subsequently amended by ASU 2018-19, ASU 2019-04, 2019-05, 2019-10, 2019-11,
+and 2020-02. The standard introduces new accounting guidance for credit losses on financial instruments within its scope, including
+trade receivables. This new guidance adds an impairment model that is based on expected losses rather than incurred losses. It
+is effective for interim and annual reporting periods beginning after December 15, 2022, with early adoption permitted. The adoption
+of the standard is not expected to have a significant impact on the Company’s consolidated results of operations and financial
+condition.
+5
+Note 2.
+Revenues
+Revenue is measured based on consideration specified
+in the contract with a customer, adjusted for any applicable estimates of variable consideration and other factors affecting the
+transaction price, including consideration paid or payable from customers and significant financing components. Revenue from all
+customers is recognized when a performance obligation is satisfied by transferring control of a distinct good or service to a customer,
+as further described below under
+Performance obligations and transaction price .
+Individual promised goods
+and services in a contract are considered a performance obligation and accounted for separately if the individual good or service
+is distinct (i.e., the customer can benefit from the good or service on its own or with other resources that are readily available
+to the customer and the good or service is separately identifiable from other promises in the arrangement). If an arrangement includes
+multiple performance obligations, the consideration is allocated between the performance obligations in proportion to their estimated
+standalone selling price, unless discounts or variable consideration is attributable to one or more but not all the performance
+obligations. Costs related to products delivered are recognized in the period incurred, unless criteria for capitalization of costs
+under Accounting Standards Codification (“ASC”) 340-40, “Other Assets and Deferred Costs” (“ASC 340”),
+or other applicable guidance are met.
+The Company includes shipping and handling
+fees in net revenues. Shipping and handling costs associated with the shipment of the Company’s SmartVest® Airway Clearance
+System (“SmartVest System”) after control has transferred to a customer are accounted for as a fulfillment cost and
+are included in cost of revenues in the Condensed Statements of Operations.
+The timing of revenue recognition, billings and
+cash collections results in accounts receivable on the Condensed Balance Sheets as further described below under
+Accounts receivable
+and
+Contract assets .
+Disaggregation of revenues.
+In the following
+table, net revenues are disaggregated by market:
+Schedule of disaggregated revenue
+Three Months Ended December 31,
+Six Months Ended December 31,
+2022
+2021
+2022
+2021
+Home care
+$ 10,732,000
+$ 9,404,000
+$ 20,364,000
+$ 18,688,000
+Institutional
+589,000
+333,000
+980,000
+782,000
+Home care distributor
+336,000
+387,000
+890,000
+543,000
+International
+72,000
+124,000
+153,000
+236,000
+Total
+$ 11,729,000
+$ 10,248,000
+$ 22,387,000
+$ 20,249,000
+In the following table, net home care revenue is
+disaggregated by payer type:
+Three Months Ended December 31,
+Six Months Ended December 31,
+2022
+2021
+2022
+2021
+Commercial
+$ 4,040,000
+$ 3,595,000
+$ 7,919,000
+$ 7,380,000
+Medicare
+6,230,000
+5,400,000
+11,612,000
+10,576,000
+Medicaid
+336,000
+242,000
+490,000
+417,000
+Other
+126,000
+167,000
+343,000
+315,000
+Total
+$ 10,732,000
+$ 9,404,000
+$ 20,364,000
+$ 18,688,000
+Revenues in the Company’s home care, home
+care distributor, and international markets are recognized at a point in time when control passes to the customer upon product
+shipment or delivery. Revenues in the Company’s institutional market include revenue recognized at a point in time upon shipment
+or delivery as well as revenue recognized over time under operating leases.
+6
+Performance
+obligations and transaction price.
+A performance obligation is a promise in a contract to transfer a distinct good or service
+to the customer and is the unit of account under ASC 606, “Revenue From Contracts With Customers” (“ASC 606”).
+A contract’s transaction price is allocated to each distinct performance obligation in proportion to the standalone selling
+price for each and recognized as revenue when, or as, the performance obligation is satisfied. The Company’s performance
+obligations and the timing or method of revenue recognition in each of the Company’s markets are discussed below:
+Home
+care market .
+In the Company’s home care market, its customers are patients who use the SmartVest System. The various
+models of the SmartVest System are comprised of three main components – a generator, a vest and a connecting hose –
+that are sold together as an integrated unit. Accordingly, in contracts within the home care market, the Company regards the SmartVest
+System to be a single performance obligation.
+The
+Company makes available to its home care patients limited post-sale services that are not material in the context of the contracts,
+either individually or taken together, and therefore does not consider them to be performance obligations. The costs associated
+with the services are accrued and expensed when the related revenues are recognized. As such, transactions in the home care market
+consist of a single performance obligation: the SmartVest System.
+Home
+care patients generally will rely on third-party payers, including commercial payers and governmental payers such as Medicare,
+Medicaid and the U.S. Department of Veterans Affairs to cover and reimburse all or part of the cost of the SmartVest System. The
+third-party payers’ reimbursement programs fall into three types, distinguished by the differences in the timing of payments
+from the payer, consisting of either (i) outright sale, in which payment is received from the payer based on standard terms, (ii)
+capped installment sale, under which the SmartVest System is sold for a series of payments that are capped not to exceed a prescribed
+or negotiated amount over a period of time or (iii) installment sale, under which the SmartVest System is paid for over a period
+of several months as long as the patient continues to use the SmartVest System.
+Regardless
+of the type of transaction, provided criteria for an enforceable contract are met, it is the Company’s long- standing business
+practice to regard all home care agreements as transferring control to the patient upon shipment or delivery, in spite of possible
+payment cancellation under government or commercial programs where the payer is controlling the payment over specified time periods.
+For home care sales that feature installment payments, the ultimate amount of consideration received from Medicare, Medicaid or
+commercial payers can be significantly less than expected if the contract is terminated due to changes in the patient’s
+status, including insurance coverage, hospitalization, death or otherwise becoming unable to use the SmartVest System. However,
+once delivered to a patient who needs the SmartVest System, the patient is under no obligation to return the SmartVest System
+should payments be terminated as a result of the described contingencies. As a result, the Company’s product sales qualify
+for point in time revenue recognition. Control transfers to the patient, and revenue is recognized, upon shipment of the SmartVest
+System. At this point, physical possession and the significant risks and rewards of ownership are transferred to the patient and
+either a current or future right to payment is triggered, as further discussed under
+Accounts receivable
+and
+Contract
+assets
+below.
+The
+Company’s contractually stated transaction prices in the home care market are generally set by the terms of the contracts
+negotiated with insurance companies or by government programs. The transaction price for the Company’s products may be further
+impacted by variable consideration. ASC 606 requires the Company to adjust the transaction price at contract inception and throughout
+the contract duration for the estimated value of payments to be received from insurance payers based on historical experience
+and other available information, subject to the constraint on estimates of variable consideration. Transactions requiring estimates
+of variable consideration primarily include (i) capped installment payments, which are subject to the third-party payer’s
+termination due to changes in insurance coverage, death or the patient’s discontinued use of the SmartVest System, (ii)
+contracts under appeal and (iii) patient responsibility amounts for deductibles, coinsurance, copays and other similar payments.
+Although
+estimates may be made on a contract-by-contract basis, whenever possible, the Company uses all available information, including
+historical collection patterns, to estimate variable consideration for portfolios of contracts. The Company’s estimates
+of variable consideration consist of amounts it may receive from insurance providers in excess of its initial revenue estimate
+due to patients meeting deductibles or coinsurance during the payment duration, changes to a patient’s insurance status,
+changes in an insurance allowable, claims in appeals with Medicare and amounts received directly from patients for their allowable
+or coinsurance. The Company believes it has representative historical information to estimate the amount of variable consideration
+in relevant portfolios considering the significant experience it has with each portfolio and the similarity of patient accounts
+within a portfolio. The analysis includes steps to ensure that revenue recognized on a portfolio basis does not result in a material
+difference when compared with an individual contract approach. The Company also leverages its historical experience and all available
+relevant information for each portfolio of contracts to minimize the risk its estimates used to arrive at the transaction price
+will result in a significant reversal in the amount of cumulative revenue recognized when the uncertainty associated with the
+variable consideration is subsequently resolved. Variable consideration is included in the transaction price if, in the Company’s
+judgment, it is probable that a significant future reversal of cumulative revenue under the contract will not occur.
+For
+example, for contracts in which the Company believes the criteria for reimbursement under government or commercial payer contracts
+have been met but for which coverage is unconfirmed or payments are under appeal, the Company has significant observable evidence
+of relatively consistent claims recovery experience over the prior three to five years. The Company believes the low volatility
+in historical claims approval rates for populations of patients whose demographics are similar to those of current patients provides
+reliable predictive value in arriving at estimates of variable consideration in such contracts. Similarly, historical payment
+trends for recovery of claims subject to payer installments and payments from patients have remained relatively consistent over
+the past five years. No significant changes in patient demographics or other relevant factors have occurred that would limit the
+predictive value of such payment trends in estimating variable consideration for current contracts. As a result, the Company believes
+its estimates of variable consideration are generally not subject to the risk of significant revenue reversal.
+7
+For
+each type of variable consideration discussed above, there are a large number of contracts with similar characteristics with a
+wide range of possible transaction prices. For that reason, the Company uses the probability-weighted expected value method provided
+under ASC 606 to estimate variable consideration.
+The
+Company often receives payment from third-party payers for SmartVest System sales over a period of time that may exceed one year.
+Despite these extended payment terms, no significant financing component is deemed to exist because the purpose of such terms
+is not to provide financing to the patient, the payer or the Company. Rather, the extended payment terms are mandated by the government
+or commercial insurance programs; the fundamental purpose of which is to avoid paying the full purchase price of equipment that
+may potentially be used by the patient for only a short period of time.
+Home
+care distributors.
+Sales to distributors, who sell direct to patients, are made at fixed contract prices and may include
+tiered pricing structures or volume-based rebates which offer more favorable pricing once certain volumes are achieved per the
+negotiated contract. The distributor’s purchases accumulate to give the distributor a right to a higher discount on purchases
+in excess of the specified level within the contract period. As a result, to the extent the Company expects the distributor to
+exceed the specified volume of purchases in the annual period, it recognizes revenue at a blended rate based on estimated total
+annual volume and sales revenue. This effectively defers a portion of the transaction price on initial purchases below the specified
+volumes for recognition when the higher discount is earned on purchases in excess of specified volumes. Transfer of control of
+the products occurs upon shipment or delivery to the distributor, as applicable.
+Institutional
+market.
+The Company’s institutional sales are made to hospitals and home health care centers, pulmonary rehabilitation
+centers and other clinics. Sales to these institutions are negotiated with the individual institution or with group purchasing
+organizations, with payments received directly from the institution. No insurance reimbursement is involved. Generators are either
+sold or leased to the institutions and associated hoses and wraps (used in institutional settings rather than vests) are sold
+separately. Accordingly, each product is distinct and considered a separate performance obligation in sales to institutional customers.
+The agreements with institutions fall into two main types, distinguished by differences in the timing of transfer of control and
+timing of payments:
+● Outright
+sale – Under these transactions, the Company sells its products for a prescribed
+or negotiated price. Transfer of control of the product, and associated revenue recognition,
+occurs at the time of shipment and payment is made within normal credit terms, usually
+within thirty days.
+● Wrap
+usage agreements – Under these transactions, the Company provides a generator device
+at no cost to the hospital in return for a fixed annual commitment to purchase consumable
+wraps. These agreements are cancellable upon at least sixty days prior written notice
+by either party. If cancelled, the generator is returned to the Company, where it can
+be refurbished and used again at a later date. Revenue for the consumable wraps is recognized
+when control transfers to the customer.
+International
+market.
+Sales to international markets are made directly to a number of independent distributors at fixed contract prices
+that are not subject to further adjustments for variable consideration. Transfer of control of the products occurs upon shipment
+or delivery to the distributor, as applicable.
+Product
+warranty.
+The Company offers warranties on its products. These warranties are assurance-type warranties not sold on a standalone
+basis or are otherwise considered immaterial in the context of the contract, and therefore are not considered distinct performance
+obligations under ASC 606. The Company estimates the costs that may be incurred under its warranties and records a liability in
+the amount of such costs at the time the product is sold.
+Accounts
+receivable.
+The Company’s accounts receivable balance is comprised of amounts due from individuals, institutions and
+distributors. Balances due from individuals are typically remitted to the Company by third-party reimbursement agencies such as
+Medicare, Medicaid and private insurance companies. Accounts receivable are carried at amounts estimated to be received from patients
+under reimbursement arrangements with third-party payers. Accounts receivable are also net of an allowance for doubtful accounts.
+Management determines the allowance for doubtful accounts by regularly evaluating individual customer receivables and considering
+a customer’s financial condition and credit history. Receivables are written off when deemed uncollectible.
+8
+Contract
+assets.
+Contract assets include amounts recognized as revenue that are estimates of variable consideration for Medicare appeals
+where the final determination of the insurance coverage amount is dependent on future approval of an appeal, or when the consideration
+due to the Company is dependent on a future event such as the patient meeting a deductible prior to the Company’s claim
+being processed by the payer. Contract assets are classified as current as amounts will turn into accounts receivable and be collected
+during the Company’s normal business operating cycle. Contract assets are reclassified to accounts receivable when the right
+to receive payment is unconditional.
+Contract
+balances.
+The following table provides information about contract assets from contracts with customers:
+Schedule of contract assets
+Six Months Ended
+December 31, 2022
+Fiscal Year Ended
+June 30, 2022
+Increase (decrease)
+Increase (decrease)
+Contract assets, beginning
+$ 286,000
+$ 393,000
+Reclassification of contract assets to accounts receivable
+( 737,000 )
+( 833,000 )
+Contract assets recognized
+1,008,000
+784,000
+Increase (decrease) as a result of changes in the estimate of amounts to be realized from payers, excluding amounts transferred to receivables during the period
+( 50,000 )
+( 58,000 )
+Contract assets, ending
+$ 507,000
+$ 286,000
+Incremental
+costs to obtain a contract.
+Sales incentives paid to sales representatives are eligible for capitalization as they are incremental
+costs that would not have been incurred without entering into a specific sales arrangement and are recoverable through the expected
+margin on the transaction. However, the recovery period is less than one year as the performance obligation is satisfied upon
+shipment or delivery. Consequently, the Company applies the practical expedient provided by ASC 340 and expenses sales incentives
+as incurred. These costs are included in selling, general and administrative expenses in the Condensed Statements of Operations.
+Note
+3.
+Inventories
+The
+components of inventory were as follows:
+Schedule of components of inventories
+December 31, 2022
+June 30, 2022
+Parts inventory
+$ 3,075,000
+$ 2,672,000
+Work in process
+107,000
+100,000
+Finished goods
+235,000
+469,000
+Estimated inventory to be returned
+258,000
+228,000
+Less: Reserve for obsolescence
+( 202,000 )
+( 291,000 )
+Total
+$ 3,473,000
+$ 3,178,000
+Note
+4.
+Warranty Reserve
+The
+Company provides a lifetime warranty on its products to the prescribed patient for sales within the U.S. and a three-year warranty
+for all institutional sales and sales to individuals outside the U.S. The Company estimates the costs that may be incurred under
+its warranty and records a liability in the amount of such costs at the time the product is shipped. Factors that affect the Company’s
+warranty reserve include the number of units shipped, historical and anticipated rates of warranty claims, the product’s
+useful life and cost per claim. The Company periodically assesses the adequacy of its recorded warranty reserve and adjusts the
+amounts as necessary.
+Changes
+in the Company’s warranty reserve were as follows:
+Schedule of changes in warranty liability
+Six Months Ended
+December 31, 2022
+Fiscal Year Ended
+June 30, 2022
+Warranty reserve, beginning
+$ 1,256,000
+$ 940,000
+Accrual for products sold
+222,000
+494,000
+Expenditures and costs incurred for warranty claims
+( 141,000 )
+( 178,000 )
+Warranty reserve, ending
+$ 1,337,000
+$ 1,256,000
+9
+Note
+5.
+Income Taxes
+Income
+tax expense was estimated at $ 304,000
+and $ 271,000 , and the effective tax rate was
+23.7 % and
+20.4 % for the three and six months
+ended December 31, 2022, respectively. Estimated income tax expense for the three and six months ended December 31, 2022 includes
+a discrete current tax expense of $ 1,000
+and a discrete current tax benefit of $ 43,000 , respectively, related to the exercise
+of stock options.
+Income
+tax expense was estimated at $ 244,000
+and $ 352,000 , and the effective tax rate was
+22.6 % and
+21.6 % for the three and six months
+ended December 31, 2021, respectively. Estimated income tax expense for the three and six months ended December 31, 2021 includes
+a discrete current tax benefit of $ 1,000
+and $ 21,000 , respectively, related to the exercise of stock options.
+The
+Company is subject to U.S. federal and state income tax in multiple jurisdictions. With limited exceptions, years prior to the
+Company’s fiscal year ended June 30, 2019 are no longer open to U.S. federal, state or local examinations by taxing authorities.
+The Company is not under any current income tax examinations by any federal, state or local taxing authority. If any issues addressed
+in the Company’s tax audits are resolved in a manner not consistent with management’s expectations, the Company could
+be required to adjust its provision for income taxes in the period such resolution occurs.
+Note
+6.
+Financing Arrangements
+The
+Company has a credit facility that provides for a $ 2,500,000
+revolving line of credit. There was
+no
+outstanding principal balance
+on the line of credit as of December 31, 2022 or June 30, 2022. Interest on borrowings under the line of credit, if any, accrues
+at the prime rate ( 7.50 % at December 31, 2022) less
+1.00 % and is payable monthly. The amount eligible for borrowing on the line
+of credit is limited to the lesser of $ 2,500,000
+or
+57.00 % of eligible accounts receivable and the line of credit expires on
+December
+18, 2023 , if not renewed before such date. At December 31, 2022, the maximum $ 2,500,000
+was eligible for borrowing. Payment obligations
+under the line of credit, if any, are secured by a security interest in substantially all of the tangible and intangible assets
+of the Company.
+The
+documents governing the line of credit contain certain financial and nonfinancial covenants that include a minimum tangible net
+worth covenant of not less than $ 10,125,000
+and restrictions on the Company’s ability to incur certain additional indebtedness
+or pay dividends.
+Note
+7.
+Common Stock
+Authorized
+shares:  The Company’s Articles of Incorporation, as amended, have established  15,000,000  authorized shares
+of capital stock consisting of  13,000,000  shares of common stock, par value $ 0.01  per share, and  2,000,000  shares
+of undesignated stock.
+On
+May 26, 2021, the Company’s Board of Directors (the “Board”) approved a stock repurchase authorization. Under
+the authorization, the Company was originally able to repurchase up to $ 3.0  million of shares of common stock through
+May 26, 2022. On May 26, 2022, the Board removed the date limitation. As of December 31, 2022, a total of  239,995  shares
+have been repurchased and retired under this authorization for a total cost of $ 2,725,000 , or $ 11.36  per share. Repurchased
+shares have been retired and constitute authorized but unissued shares.
+Note
+8.
+Share-Based Compensation
+The
+Company’s share-based compensation plans are described in Note 8 to the financial statements included in the Company’s
+Annual Report on Form 10-K for fiscal 2022. Share-based compensation expense was $ 316,000
+and $ 526,000
+for the six months ended
+December 31, 2022 and 2021, respectively. This expense is included in selling, general and administrative expense in the Condensed
+Statements of Operations.
+Stock
+Options
+Stock
+option transactions during the six months ended December 31, 2022 are summarized as follows:
+Number of Shares
+Weighted-Average Exercise Price per Share
+Outstanding at June 30, 2022
+502,084
+$ 5.82
+Granted
+102,775
+$ 9.91
+Exercised
+( 23,100 )
+$ 2.23
+Cancelled or Forfeited
+( 21,065 )
+$ 11.90
+Outstanding at December 31, 2022
+560,694
+$ 6.49
+10
+The
+following assumptions were used to estimate the fair value of stock options granted:
+Six Months Ended
+December 31, 2022
+Fiscal Year Ended
+June 30, 2022
+Risk-free interest rate
+2.88
+-
+4.23 %
+0.89
+-
+2.52 %
+Expected term (years)
+6
+6
+Expected volatility
+53 %
+55
+-
+64 %
+The
+intrinsic value of an option is the amount by which the fair value of the underlying stock exceeds its exercise price. At December
+31 2022, the weighted average remaining contractual term for all outstanding stock options was
+5.7
+years and the aggregate intrinsic
+value of the options was $ 2,440,949 . Outstanding at December 31, 2022 were
+560,694
+stock options issued to employees, of which
+404,121
+were vested and exercisable and had an aggregate intrinsic value of $ 2,381,897 . As of December 31, 2022, $ 499,441
+of total
+unrecognized compensation expense related to stock options is expected to be recognized over a weighted-average period of approximately
+2.2
+years.
+Restricted
+Stock
+During
+the six months ended December 31, 2022, the Company issued restricted stock awards to employees totaling
+32,400
+shares of common
+stock, with a weighted average vesting term of
+2.7
+years and a weighted average fair value of $ 9.92
+per share, and to directors
+totaling
+21,000
+shares of common stock, with a vesting term of six months and a weighted average fair value of $ 9.86
+per share.
+There were
+68,918
+shares of unvested restricted stock with a weighted average fair value of $ 10.43
+per share outstanding as of
+December 31, 2022. As of December 31, 2022, $ 449,362
+of total unrecognized compensation expense related to restricted stock awards
+is expected to be recognized over a weighted-average period of approximately
+1.4
+years.
+Note
+9.
+Commitments and Contingencies
+The
+Company is occasionally involved in claims and disputes arising in the ordinary course of business. The Company insures certain
+business risks where possible to mitigate the financial impact of individual claims and establishes reserves for an estimate of
+any probable cost of settlement or other disposition.
+On
+September 8, 2021, a state court putative class action lawsuit was filed in Minnesota against the Company asserting injury resulting
+from the previously announced data breach that impacted the Company’s customer protected health information and employee
+personal information and seeking compensatory damages, equitable relief, and attorneys’ fees and costs. On October 6, 2021,
+the proceeding was removed to the District of Minnesota. The Company believes the plaintiff was not injured as a result of the
+data privacy incident and, as a result, the claims are without merit. Accordingly, on November 11, 2021, the Company moved to
+dismiss the complaint in its entirety. Prior to the hearing on the motion to dismiss, the parties agreed in principle to settle
+the case. The parties have executed a settlement agreement and submitted a motion to settle the class action in the near
+future. During January 2023, the settlement was preliminarily approved. The hearing for final approval is scheduled for June 5,
+2023. If the court does not grant the approval for settlement, the Company will continue to vigorously defend the lawsuit. At
+this time, the Company is unable to determine the ultimate outcome or potential exposure to loss, if any.
+Item
+2. Management’s
+Discussion and Analysis of Financial Condition and Results of Operations.
+The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction with our
+unaudited Condensed Financial Statements and related notes thereto included in Part I, Item 1 of this Quarterly Report on Form
+10-Q, and our audited financial statements and related notes thereto included in Part II, Item 8 of our Annual Report on Form
+10-K for the fiscal year ended June 30, 2022 (“fiscal 2022”).
+Overview
+Electromed,
+Inc. (“we,” “our,” “us,” “Electromed” or the “Company”) develops and
+provides innovative airway clearance products applying High Frequency Chest Wall Oscillation (“HFCWO”) technologies
+in pulmonary care for patients of all ages.
+11
+We
+manufacture, market and sell products that provide HFCWO, including the SmartVest® Airway Clearance System (“SmartVest
+System”) that includes our SmartVest SQL® and previous generation SV2100, and related products, to patients with compromised
+pulmonary function. The SmartVest SQL is smaller, quieter and lighter than our previous product, with enhanced programmability
+and ease of use. Our products are sold in both the home health care market and the institutional market for use by patients in
+hospitals, which we refer to as “institutional sales.” The SmartVest SQL has been sold in the domestic home care market
+since 2014. In 2015, we launched the SmartVest SQL into institutional and certain international markets. In June 2017, we announced
+the launch of the SmartVest SQL with SmartVest Connect™ wireless technology, which allows data connection between physicians
+and patients to track therapy performance and collaborate in treatment decisions. SmartVest Connect is currently available to
+pediatric and cystic fibrosis patients and was made available to certain targeted adult pulmonary clinics starting in November
+2017. Since 2000, we have marketed the SmartVest System and its predecessor products to patients suffering from cystic fibrosis,
+bronchiectasis and repeated episodes of pneumonia. Additionally, we offer our products to a patient population that includes neuromuscular
+disorders such as cerebral palsy, muscular dystrophies, amyotrophic lateral sclerosis (“ALS”), the combination of
+emphysema and chronic bronchitis commonly known as chronic obstructive pulmonary disease (“COPD”), and patients with
+post-surgical complications or who are ventilator dependent or have other conditions involving excess secretion and impaired mucus
+transport.
+In
+December 2022, we received 510(k) clearance of our newest generation SmartVest® Clearway® Airway Clearance System
+(“Clearway”) from the U.S. Food and Drug Administration and began a limited market release, with the expectation of
+a full product launch this year in our third fiscal quarter which ends March 31, 2023.
+The
+SmartVest System is often eligible for reimbursement from major private insurance providers, health maintenance organizations
+(“HMOs”), state Medicaid systems, and the federal Medicare system, which we believe is an important consideration
+for patients considering an HFCWO course of therapy. For domestic sales, the SmartVest System may be reimbursed under the Medicare-assigned
+billing code (E0483) for HFCWO devices if the patient has cystic fibrosis, bronchiectasis (including chronic bronchitis or COPD
+that has resulted in a diagnosis of bronchiectasis), or any one of certain enumerated neuromuscular diseases, and can demonstrate
+that another less expensive physical or mechanical treatment did not adequately mobilize retained secretions. Private payers consider
+a variety of sources, including Medicare, as guidelines in setting their coverage policies and payment amounts.
+Critical
+Accounting Estimates
+For
+a description of our critical accounting policies, estimates and assumptions used in the preparation of our financial statements,
+including the unaudited Condensed Financial Statements in this Quarterly Report on Form 10-Q, see Note 1 to our unaudited Condensed
+Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q and Part II, Item 7, and Note 1 to our audited
+financial statements included in Part II, Item 8, of our Annual Report on Form 10-K for fiscal 2022.
+Some
+of our accounting policies require us to exercise significant judgment in selecting the appropriate assumptions for calculating
+financial statements. Such judgments are subject to an inherent degree of uncertainty and are based upon our historical experience,
+known trends in our industry, terms of existing contracts, other information from outside sources, as appropriate and other factors.
+Therefore, management discusses the development, selection and disclosures with the audit committee. Among other factors, these
+judgments are based upon our historical experience, known trends in our industry, terms of existing contracts and other information
+from outside sources, as appropriate. We believe the critical accounting policies that require the most significant estimates,
+assumptions and judgments in the preparation of our financial statements, including the unaudited Condensed Financial Statements
+contained in this Quarterly Report on Form 10-Q, include: revenue recognition and the estimation of variable consideration, inventory
+valuation, share-based compensation and warranty reserve.
+Impacts
+of COVID-19 on Our Business and Operations
+In
+March 2020, the World Health Organization designated COVID-19 as a global pandemic, and the U.S. Department of Health and Human
+Services designated COVID-19 as a public health emergency. The impact of the COVID-19 pandemic on our business remains uncertain,
+and its effects on our operational and financial performance will depend in part on future developments, which cannot be reasonably
+estimated at this time. Such future developments include, but are not limited to, the duration, scope and severity of the COVID-19
+pandemic in geographic areas in which we operate or in which our patients live, actions taken to contain or mitigate its impact,
+the impact on governmental healthcare programs and budgets, the development and distribution of treatments or vaccines, and the
+resumption of widespread economic activity. Due to the inherent uncertainty of the unprecedented and evolving situation, we are
+unable to predict with confidence the likely impact of the COVID-19 pandemic on our future operations.
+12
+We
+believe that the impact of the COVID-19 pandemic on our home care and institutional business will likely continue through the
+remainder of fiscal 2023. Our home care and institutional revenue for the three months ended December 31, 2022 increased as compared
+to the three months ended December 31, 2021; however, if COVID-19 infection rates increase and federal, state and local restrictions
+on commerce, stay-at-home orders or other restrictions on businesses are reinstated, we believe that such measures could have
+a material adverse effect on our business.
+In
+response to the COVID-19 pandemic and the U.S. federal government’s declaration of a public health emergency, the Centers
+for Medicare & Medicaid Services (“CMS”) implemented a number of temporary rule changes and waivers to allow prescribers
+to best treat patients during the period of the public health emergency. These waivers became effective on March 1, 2020. Clinical
+indications and documentation typically required will not be enforced for respiratory-related products, including the SmartVest
+System (solely with respect to Medicare patients). The minimum documentation now requires a valid order and documentation of a
+respiratory-related diagnosis. Face-to-face and in-person requirements for respiratory devices are being waived while the waiver
+is in place. The CMS waiver was recently extended in conjunction with the extension of the federal public health emergency for
+an additional 90-day period beginning January 11, 2023.
+On
+January 30, 2023, the Biden administration announced that the COVID-19 national and public health emergency declarations will
+end on May 11, 2023 (the “PHE End Date”), one month after the current PHE was previously set to expire, or April 11,
+2023. Without further action from the U.S. federal government, we expect the CMS waiver will terminate no later than the PHE End
+Date and we may experience a one-time delay in some percentage of our Medicare net revenue as we expect our average Medicare patient
+referral to approval timeframe will extend to pre-COVID-19 pandemic timeframes and referrals with diagnoses not covered pre-COVID-19
+pandemic may be cancelled or need to be submitted to CMS for an appeal. We are executing our plans to mitigate the effects on
+our net revenue resulting from the likely termination of the CMS waiver by hiring additional employees to increase capacity and
+minimize the average timeframe to convert a Medicare patient referral to approval.
+Impacts
+of Certain Macro-Economic Conditions and the Supply Chain on Our Business and Operations
+We
+observed increased lead times for certain components in our supply chain and increased material costs and shipping rates during
+the second half of fiscal 2022 and into the six months ended December 31, 2022. The changes to our supply chain lead times resulted
+in a temporary interruption that impacted product availability for certain customers beginning in September 2022 and continuing
+through December 2022. We anticipate that these increased lead times and temporary interruption of supply have the potential to
+continue through the second half of fiscal 2023. If we are unable to procure components to meet our demand or if we extend delivery
+lead-times to our customers, there may be an adverse impact to our revenue and, longer term, the potential of market share losses.
+We are taking actions to expedite components and to identify and qualify alternate suppliers for certain components to minimize
+any impact to our revenue and customer deliveries.
+We
+expect that material costs and shipping rates will remain elevated during the second half of fiscal 2023 relating to supply chain
+availability and inflationary trends in electronic components and may extend to other components. In certain instances, we have
+purchased key electronic materials in advance to ensure adequate future supply and mitigate the risk of potential supply chain
+disruptions. It is possible that these macro-economic conditions and the COVID-19 pandemic could have a greater adverse impact
+on our supply chain in the future, including impacts associated with preventative and precautionary measures taken by other businesses
+and applicable governments. A reduction or further interruption in any of our manufacturing processes could have a material adverse
+effect on our business. Any significant increases to our raw material or shipping costs could reduce our gross margins.
+Results
+of Operations
+Net
+Revenues
+Net
+revenues for the three and six months ended December 31, 2022 and 2021 are summarized in the table below.
+Three Months Ended December 31,
+Six Months Ended
+December 31,
+2022
+2021
+Increase (Decrease)
+2022
+2021
+Increase (Decrease)
+Home care
+$ 10,732,000
+$ 9,404,000
+$ 1,328,000
+14.1 %
+$ 20,364,000
+$ 18,688,000
+$ 1,676,000
+9.0 %
+Institutional
+589,000
+333,000
+256,000
+76.9 %
+980,000
+782,000
+198,000
+25.3 %
+Home care distributor
+336,000
+387,000
+(51,000 )
+(13.2 %)
+890,000
+543,000
+347,000
+63.9 %
+International
+72,000
+124,000
+(52,000 )
+(41.9 %)
+153,000
+236,000
+(83,000 )
+(35.2 %)
+Total
+$ 11,729,000
+$ 10,248,000
+$ 1,481,000
+14.5 %
+$ 22,387,000
+$ 20,249,000
+$ 2,138,000
+10.6 %
+13
+Home
+care revenue .
+Home care revenue increased by $1,328,000, or 14.1%, for the three months ended December 31, 2022
+compared to the same period in the prior year. For the six months ended December 31, 2022, home care revenue was $20,364,000,
+representing an increase of $1,676,000, or 9.0%, compared to the same period in the prior year. The increase was primarily due
+to an increase in referrals and approvals. The increase in referrals was due to an increase in direct sales representatives and
+was offset by a temporary interruption in supply chain and associated operations in the six months ended December 31, 2022.
+The
+CMS waiver continues to benefit the non-commercial Medicare portion of our home care revenue by increasing the number of referrals
+and the approval percentage for non-covered diagnoses. We believe that our ongoing sales team execution, along with the continued
+return to pre-COVID-19 levels of patient face-to-face engagement with physicians and clinic access for our sales team, has the
+potential to mitigate much of the impact of a CMS waiver expiration.
+Home
+care distributor revenue .
+Home care distributor revenue decreased by $51,000, or 13.2%, for the three months ended
+December 31, 2022 compared to the same period in the prior year. For the six months ended December 31, 2022, home care distributor
+revenue was $890,000, an increase of $347,000, or 63.9%, compared to the same period in the prior year. Home care distributor
+sales are affected by the timing of distributor purchases that can cause significant fluctuations in reported revenue on a quarterly
+basis. The year-to-date revenue increase was due to increased demand from one of our primary home care distribution partners.
+Institutional
+revenue.
+Institutional revenue was $589,000, an increase of $256,000, or 76.9%, for the three months ended December 31,
+2022 compared to the same period in the prior year. For the six months ended December 31, 2022, institutional revenue was $980,000,
+an increase of $198,000, or 25.3%, compared to the same period in the prior year. The increase in the current year periods was
+primarily due to increased capital sales to institutional customers.
+International
+revenue .
+International revenue was $72,000, a decrease of $52,000, or 41.9%, for the three months ended December
+31, 2022 compared to the same period in the prior year. For the six months ended December 31, 2022, international revenue was
+$153,000, a decrease of $83,000, or 35.2%, compared to the same period in the prior year.
+Gross
+profit
+Gross
+profit increased to $8,682,000, or 74.0% of net revenues, for the three months ended December 31, 2022, from $7,880,000, or 76.9%
+of net revenues, in the same period in the prior year. Gross profit increased to $17,013,000, or 76.0% of net revenues, for the
+six months ended December 31, 2022, from $15,581,000, or 76.9% of net revenues, in the same period in the prior year. The decrease
+in gross profit as a percentage of net revenues compared to the same period in the prior year was primarily due to increased material
+costs and higher shipping expenses to expedite inventory purchases.
+Operating
+expenses
+Selling,
+general and administrative expenses.
+Selling, general and administrative (“SG&A”) expenses were $7,254,000
+and $15,243,000 for the three and six months ended December 31, 2022, respectively, representing increases of $779,000 and $1,981,000,
+or 12.0% and 14.9%, respectively, compared to the same periods in the prior year.
+Payroll
+and compensation-related expenses were $4,940,000 and $9,884,000 for the three and six months ended December 31, 2022, respectively,
+representing increases of $614,000 and $1,292,000, or 14.2% and 15.0%, respectively, compared to the same periods in the prior
+year. The increase in the current year periods was primarily due to salaries and incentive compensation related to the higher
+average number of sales, sales support, marketing, and reimbursement personnel to process higher patient referrals. We have also
+continued to provide regular merit-based increases for our employees and are regularly benchmarking our compensation ranges for
+new and existing employees to ensure we can hire and retain the talent needed to drive growth in our business. Field sales employees
+totaled 57 as of December 31, 2022, 48 of which were direct sales representatives, compared to 48 field sales employees and 39
+direct sales representatives as of December 31, 2021.
+14
+Travel,
+meals and entertainment expenses were $719,000 and $1,632,000 for the three and six months ended December 31, 2022, respectively,
+representing increases of $102,000 and $371,000, or 16.5% and 29.4%, respectively, compared to the same periods in the prior year.
+The increase in the current year periods was due to a higher average number of direct sales representatives as well as increases
+in airfare, lodging and inflationary expenses for our annual sales meeting in August 2022.
+Total
+discretionary marketing expenses were $182,000 and $369,000 for the three and six months ended December 31, 2022, respectively,
+representing a decrease of $29,000 and an increase of $4,000, or a decrease of 13.7% and an increase of 1.1%, respectively, compared
+to the same periods in the prior year.
+Professional
+fees were $1,031,000 and $2,462,000 for the three and six months ended December 31, 2022, respectively, representing increases
+of $94,000 and $264,000, or 10.0% and 12.0%, respectively, compared to the same periods in the prior year. Professional fees are
+primarily for services related to legal costs, shareowner services and reporting requirements, information technology technical
+support and consulting fees. The increase in the six months ended December 31, 2022 was primarily due to nonrecurring legal compliance
+fees of approximately $400,000 for a reimbursement-related project offset by a reduction in expenses related to shareholder activism
+incurred during the three months ended September 30, 2021, which concluded with a cooperation agreement that became effective
+in September 2021.
+Research
+and development expenses . Research and development (“R&D”) expenses were $153,000 and $452,000 for the three
+and six months ended December 31, 2022, respectively, representing decreases of $176,000 and $253,000, or 53.5% and 35.9%, respectively,
+compared to the same periods in the prior year. The decrease was primarily due to reduced professional services costs associated
+with our next generation Clearway development. R&D expenses were 1.3% and 2.0% of revenue for the three and six months ended
+December 31, 2022, respectively.
+Interest
+income, net
+Net
+interest income for the three and six months ended December 31, 2022 was $7,000 and $11,000, respectively, compared to $6,000
+and $15,000, respectively, for the same periods in the prior year.
+Income
+tax expense
+Income
+tax expense was estimated at $304,000 and $271,000, and the effective tax rate was 23.7% and 20.4%, for the three and six months
+ended December 31, 2022, respectively. Estimated income tax expense for the three and six months ended December 31, 2022 includes
+a discrete tax expense of $1,000 and a discrete tax benefit of $43,000, respectively, related to the exercise of stock options.
+Income
+tax expense was estimated at $244,000 and $352,000, and the effective tax rate was 22.6% and 21.6%, for the three and six months
+ended December 31, 2021, respectively. Estimated income tax expense for the three and six months ended December 31, 2021 includes
+a discrete tax benefit of $1,000 and $21,000, respectively, related to the exercise of stock options.
+Net
+income
+Net
+income for the three and six months ended December 31, 2022 was $977,000 and $1,058,000, respectively, compared to $838,000 and
+$1,277,000 for the same periods in the prior year. The increase in net income in the three months ended December 31, 2022 was
+driven primarily by revenue growth while the decrease in net income in the six months ended December 31, 2022 was primarily due
+to increased SG&A expenses related to our sales and reimbursement investments in revenue growth partially offset by increased
+gross profit.
+Liquidity
+and Capital Resources
+Cash
+Flows and Sources of Liquidity
+Cash
+Flows from Operating Activities
+For
+six months ended December 31, 2022, net cash used in operating activities was $330,000. Cash flows provided by operating activities
+consisted of net income of $1,058,000, non-cash expenses of $645,000, a decrease in prepaid expenses and other assets of $176,000,
+and an increase in income tax payable of $79,000. These cash flows from operating activities were offset by a decrease in accrued
+compensation of $532,000, a decrease in accounts payable and other accrued liabilities of $711,000, an increase in accounts receivable
+of $503,000, an increase in inventory of $321,000, and an increase in contract assets of $221,000.
+15
+Cash
+Flows from Investing Activities
+For
+the six months ended December 31, 2022, cash used in investing activities was $717,000. Cash used in investing activities consisted
+of $687,000 primarily related to our enterprise resource planning infrastructure investments and $30,000 in expenditures for intangible
+asset costs.
+Cash
+Flows from Financing Activities
+For
+the six months ended December 31, 2022, cash used in financing activities was $197,000. Cash used in financing activities consisted
+of $153,000 used for our share repurchase program and $60,000 for taxes paid on net share settlement of stock option exercises.
+Adequacy
+of Capital Resources
+Our
+primary working capital requirements relate to adding employees to our sales force and support functions, continuing infrastructure
+investments, and supporting general corporate needs, including financing equipment purchases and other capital expenditures incurred
+in the ordinary course of business. Based on our current operational performance, we believe our working capital of $28,153,000
+and available borrowings under our existing credit facility will provide adequate liquidity during fiscal 2023.
+Our
+credit facility provides us with a revolving line of credit. Interest on borrowings on the line of credit accrues at the prime
+rate (7.5% at December 31, 2022) less 1.00% and is payable monthly. There was no outstanding principal balance on the line of
+credit as of December 31, 2022 or June 30, 2022. The amount eligible for borrowing on the line of credit is limited to the lesser
+of $2,500,000 or 57.00% of eligible accounts receivable, and the line of credit expires on December 18, 2023, if not renewed.
+As of December 31, 2022, the maximum $2,500,000 was available under the line of credit. Payment obligations under the line of
+credit are secured by a security interest in substantially all of our tangible and intangible assets.
+The
+documents governing our line of credit contain certain financial and nonfinancial covenants that include a minimum tangible net
+worth of not less than $10,125,000 and restrictions on our ability to incur certain additional indebtedness or pay dividends.
+Any
+failure to comply with these covenants in the future may result in an event of default, which if not cured or waived, could result
+in the lender accelerating the maturity of our indebtedness, preventing access to additional funds under the line of credit, requiring
+prepayment of outstanding indebtedness, or refusing to renew the line of credit. If the maturity of the indebtedness is accelerated
+or the line of credit is not renewed, sufficient cash resources to satisfy the debt obligations may not be available and we may
+not be able to continue operations as planned. If we are unable to repay such indebtedness, the lender could foreclose on these
+assets.
+For
+the six months ended December 21, 2022 and 2021, we spent $687,000 and $511,000, respectively, on property and equipment. We currently
+expect to finance planned equipment purchases with cash flows from operations or borrowings under our credit facility. We may
+need to incur additional debt if we have an unforeseen need for additional capital equipment or if our operating performance does
+not generate adequate cash flows.
+While
+the impact of the COVID-19 pandemic and other factors such as inflation are difficult to predict, we believe our cash, cash equivalents
+and cash flows from operations will be sufficient to meet our working capital, capital expenditure, operational cash requirements for
+fiscal 2023 and the foreseeable future.  We will continue to evaluate our projected expenditures relative to our available
+cash and evaluate financing alternatives in order to satisfy our working capital and other cash requirements.
+Information
+Regarding Forward-Looking Statements
+Statements
+contained in this Quarterly Report on Form 10-Q that are not statements of historical fact should be considered forward-looking
+statements within the meaning of the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended, and Section
+21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Forward- looking statements include,
+but are not limited to, statements regarding: the expected impact of the COVID-19 pandemic on our business; our business strategy,
+including our intended level of investment in R&D and marketing activities; our expectations with respect to earnings, gross
+margins and sales growth, industry relationships, marketing strategies and international sales; estimated sizes of markets into
+which our products are or may be sold; our business strengths and competitive advantages; our ability to grow additional sales
+distribution channels; our intent to retain any earnings for use in operations rather than paying dividends; our expectation that
+our products will continue to qualify for reimbursement and payment under government and private insurance programs; our intellectual
+property plans and practices; the expected impact of applicable regulations on our business; our beliefs about our manufacturing
+processes; our expectations and beliefs with respect to our employees and our relationships with them; our belief that our current
+facilities are adequate to support our growth plans; our expectations with respect to ongoing compliance with the terms of our
+credit facility; our expectations regarding the ongoing availability of credit and our ability to renew our line of credit; enhancements
+to our products and services; expected excise tax exemption for the SmartVest System; and our anticipated revenues, expenses,
+capital requirements and liquidity. Words such as “anticipate,” “believe,” “continue,” “could,”
+“estimate,” “expect,” “intend,” “may,” “ongoing,” “plan,”
+“potential,” “project,” “goal,” “target,” “should,” “will,”
+“would,” and similar expressions, including the negative of these terms, are intended to identify forward-looking
+statements but are not the exclusive means of identifying such statements. Although we believe these forward-looking statements
+are reasonable, they involve risks and uncertainties that may cause actual results to differ materially from those projected by
+such statements. Such statements involve known and unknown risks, uncertainties and other factors that may cause our actual results
+or our industry’s actual results, levels of activity, performance or achievements to be materially different from the information
+expressed or implied by the forward-looking statements.
+16
+Factors
+that could cause actual results to differ from those discussed in the forward-looking statements include, but are not limited
+to, the following:
+● ability
+to obtain reimbursement from Medicare, Medicaid, or private insurance payers for our
+products including potential adverse impact with an expiration of the CMS waiver for
+certain respiratory diseases;
+● component
+or raw material shortages, changes to lead times or significant price increases;
+● the
+risks associated with our anticipated launch of Clearway;
+● adverse
+changes to state and federal health care regulations;
+● our
+ability to maintain regulatory compliance and to gain future regulatory approvals and
+clearances;
+● entry
+of new competitors including new drug or pharmaceutical discoveries;
+● adverse
+economic and business conditions or intense competition;
+● the
+risks associated with our planned sales force expansion;
+● wage
+and component price inflation;
+● technical
+problems with our research and products;
+● the
+duration, extent and severity of the COVID-19 pandemic, including its effects on our
+business, operations and employees as well as its impact on our customers and distribution
+channels and on economies and markets more generally;
+● the
+risks associated with cyberattacks, data breaches, computer viruses and other similar
+security threats;
+● changes
+affecting the medical device industry;
+● our
+ability to develop new sales channels for our products such as the home care distributor
+channel;
+● adverse
+international health care regulation impacting current international business;
+● our
+ability to renew our line of credit or obtain additional credit as necessary; and
+● our
+ability to protect and expand our intellectual property portfolio.
+This
+list of factors is not exhaustive, however, and these or other factors, many of which are outside of our control, could have a
+material adverse effect on us and our results of operations. Therefore, you should consider these risk factors with caution and
+form your own critical and independent conclusions about the likely effect of these risk factors on our future performance. Forward-looking
+statements speak only as of the date on which the statements are made, and we undertake no obligation, and expressly disclaim
+any such obligation, to update any forward-looking statement for any reason other than as required by law, even if new information
+becomes available or other events occur in the future. You should carefully review the disclosures and the risk factors described
+in this and other documents we file from time to time with the Securities and Exchange Commission (the “SEC”), including
+our Annual Report on Form 10-K for fiscal 2022. All forward-looking statements attributable to us or persons acting on our behalf
+are expressly qualified in their entirety by the cautionary statements set forth herein.
+17
+Item
+3. Quantitative
+and Qualitative Disclosures About Market Risk.
+As
+a smaller reporting company, we are not required to provide disclosure pursuant to this Item.
+Item
+4. Controls
+and Procedures.
+Evaluation
+of Disclosure Controls and Procedures
+Our
+principal executive officer and principal financial officer evaluated the effectiveness of our disclosure controls and procedures,
+as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act, as of the end of the period subject to this Quarterly Report
+on Form 10-Q. Based on this evaluation, our principal executive officer and principal financial officer concluded that our disclosure
+controls and procedures were effective as of the date of such evaluation to provide reasonable assurance that information required
+to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized
+and reported within the time periods specified by the SEC’s rules and forms.
+Changes
+to Internal Control Over Financial Reporting
+There
+were no changes in our internal control over financial reporting that occurred during the quarter ended December 31, 2022 that
+have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART
+II – OTHER INFORMATION
+Item
+1. Legal
+Proceedings.
+The
+disclosure regarding legal proceedings set forth in Note 9 to our unaudited Condensed Financial Statements in Part I, Item 1 of
+this Quarterly Report on Form 10-Q is incorporated herein by reference. Occasionally, we may be party to legal actions, proceedings,
+or claims in the ordinary course of business, including claims based on assertions of patent and trademark infringement. Corresponding
+costs are accrued when it is probable that loss will be incurred and the amount can be precisely or reasonably estimated. We are
+not aware of any undisclosed actual or threatened litigation that would have a material adverse effect on our financial condition
+or results of operations.
+Item
+1A. Risk Factors.
+As
+a smaller reporting company, we are not required to provide disclosure pursuant to this Item.
+Item
+2. Unregistered
+Sales of Equity Securities and Use of Proceeds.
+On
+May 26, 2021, our Board of Directors (the “Board”) approved a stock repurchase authorization. Under the authorization,
+we were originally able to repurchase up to $3.0 million of outstanding shares of our common stock through May 26, 2022. On May
+26, 2022, the Board removed the date limitation. The shares of our common stock may be repurchased on the open market or in privately
+negotiated transactions subject to applicable securities laws and regulations. The following table sets forth information concerning
+purchases of shares of our common stock for three months ended December 31, 2022:
+Period
+Total Number of
+Shares Purchased
+Average
+Price Paid
+per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Approximate Dollar Value of Shares that May Yet be Purchased Under the Plans or Programs
+October 1 – October 31, 2022
+800
+$ 10.28
+800
+$ 275,000
+November 1 – November 30, 2022
+-
+-
+-
+$ 275,000
+December 1 – December 31, 2022
+-
+-
+-
+$ 275,000
+Total
+800
+$ 10.28
+800
+18
+Item
+3. Defaults
+Upon Senior Securities.
+None.
+Item
+4. Mine
+Safety Disclosures.
+None.
+Item
+5. Other
+Information.
+None.
+Item
+6. Exhibits.
+Exhibit
+Number
+Description
+Method
+of Filing
+3.1
+Composite Articles of Incorporation, as amended through November 8, 2010 (incorporated by reference to Exhibit 3.1 to Annual Report on Form 10-K for the fiscal year ended June 30, 2015)
+Incorporated by
+Reference
+3.2
+Amended and Restated Bylaws, effective September 29, 2020 (incorporated by reference to Exhibit 3.1 to Current Report on Form 8-K filed September 29, 2020)
+Incorporated by
+Reference
+10.1
+Employment Agreement with Bradley M. Nagel, dated October 19, 2022 (incorporated by reference to Exhibit 10.1 to Current Report on Form 8-K filed October 24, 2022)*
+Incorporated by
+Reference
+31.1
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed Electronically
+31.2
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed Electronically
+32.1
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+Furnished Electronically
+32.2
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+Furnished Electronically
+101
+Financial statements from the Quarterly Report
+on Form 10-Q for the period ended December 31, 2022, formatted in inline XBRL: (i) Condensed Balance Sheets, (ii) Condensed
+Statements of Operations, (iii) Condensed Statements of Cash Flows, (iv) Condensed Statements of Shareholders’ Equity,
+and (v) Notes to Condensed Financial Statements
+Filed Electronically
+104
+Cover Page Interactive Data File (embedded within
+the inline XBRL Document)
+Filed Electronically
+*
+Management compensatory contract or arrangement
+19
+SIGNATURES
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.
+ELECTROMED, INC.
+Date:
+February
+14, 2023
+/s/
+Kathleen S. Skarvan
+Kathleen S. Skarvan, President and Chief Executive Officer
+(duly authorized officer)
+Date:
+February
+14, 2023
+/s/
+Bradley M. Nagel
+Bradley M. Nagel, Chief Financial Officer
+(principal
+financial officer and principal accounting officer)

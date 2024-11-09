@@ -1,0 +1,1520 @@
+2022-09-30
+0000064472
+2021-10-01
+2021-12-31
+0000064472
+2022-10-01
+2022-12-31
+0000064472
+2020-08-28
+0000064472
+2021-09-30
+0000064472
+2021-12-31
+0000064472
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+2022-09-30
+0000064472
+us-gaap:CashAndCashEquivalentsMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CashAndCashEquivalentsMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CashAndCashEquivalentsMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CashAndCashEquivalentsMember
+2022-09-30
+0000064472
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:CorporateBondSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CorporateBondSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CorporateBondSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CorporateBondSecuritiesMember
+2022-09-30
+0000064472
+us-gaap:ExchangeTradedFundsMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:ExchangeTradedFundsMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ExchangeTradedFundsMember
+2022-09-30
+0000064472
+us-gaap:ExchangeTradedFundsMember
+us-gaap:FairValueInputsLevel1Member
+2022-09-30
+0000064472
+us-gaap:MutualFundMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MutualFundMember
+2022-09-30
+0000064472
+us-gaap:MutualFundMember
+us-gaap:FairValueInputsLevel2Member
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:MutualFundMember
+2022-09-30
+0000064472
+us-gaap:EquityFundsMember
+2022-09-30
+0000064472
+us-gaap:EquityFundsMember
+us-gaap:FairValueInputsLevel3Member
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EquityFundsMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EquityFundsMember
+2022-09-30
+0000064472
+genc:CurrentLiabilitiesMember
+2022-09-30
+0000064472
+us-gaap:CommonClassBMember
+2022-09-30
+0000064472
+genc:CommonClassUndefinedMember
+2022-09-30
+0000064472
+genc:NewLeaseAgreementMember
+2022-09-30
+0000064472
+genc:NewLeaseAgreementMember
+genc:BlawKnoxProductLineFromVolvoCeMember
+2022-09-30
+0000064472
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0000064472
+us-gaap:CashAndCashEquivalentsMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CashAndCashEquivalentsMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CashAndCashEquivalentsMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CashAndCashEquivalentsMember
+2022-12-31
+0000064472
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+2022-12-31
+0000064472
+us-gaap:USTreasuryAndGovernmentShorttermDebtSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0000064472
+us-gaap:CorporateBondSecuritiesMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CorporateBondSecuritiesMember
+2022-12-31
+0000064472
+us-gaap:CorporateBondSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CorporateBondSecuritiesMember
+2022-12-31
+0000064472
+us-gaap:ExchangeTradedFundsMember
+2022-12-31
+0000064472
+us-gaap:ExchangeTradedFundsMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:ExchangeTradedFundsMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:ExchangeTradedFundsMember
+2022-12-31
+0000064472
+us-gaap:MutualFundMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:MutualFundMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:MutualFundMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:MutualFundMember
+2022-12-31
+0000064472
+us-gaap:EquityFundsMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EquityFundsMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EquityFundsMember
+2022-12-31
+0000064472
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EquityFundsMember
+2022-12-31
+0000064472
+genc:CurrentLiabilitiesMember
+2022-12-31
+0000064472
+us-gaap:CommonClassBMember
+2022-12-31
+0000064472
+genc:CommonClassUndefinedMember
+2022-12-31
+0000064472
+genc:NewLeaseAgreementMember
+2022-12-31
+0000064472
+genc:NewLeaseAgreementMember
+genc:BlawKnoxProductLineFromVolvoCeMember
+2022-12-31
+0000064472
+genc:CustomerOneMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-01
+2022-12-31
+0000064472
+genc:CustomerTwoMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-01
+2022-12-31
+0000064472
+us-gaap:TransferredOverTimeMember
+genc:EquipmentSalesMember
+2022-10-01
+2022-12-31
+0000064472
+us-gaap:TransferredAtPointInTimeMember
+genc:EquipmentSalesMember
+2022-10-01
+2022-12-31
+0000064472
+genc:PartsAndComponentSalesMember
+2022-10-01
+2022-12-31
+0000064472
+genc:FreightRevenueMember
+2022-10-01
+2022-12-31
+0000064472
+genc:OtherRevenuesMember
+2022-10-01
+2022-12-31
+0000064472
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0000064472
+genc:MoreThanThreeAndWithinFourYearFromBalanceSheetDateMember
+2022-10-01
+2022-12-31
+0000064472
+genc:MoreThanFourAndWithinFiveYearFromBalanceSheetDateMember
+2022-10-01
+2022-12-31
+0000064472
+genc:MoreThanFiveYearFromBalanceSheetDateAndThereafterMember
+2022-10-01
+2022-12-31
+0000064472
+genc:TwoThousandNineIncentiveCompensationPlanMember
+2022-10-01
+2022-12-31
+0000064472
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+genc:CustomerOneMember
+2021-10-01
+2021-12-31
+0000064472
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+genc:CustomerTwoMember
+2021-10-01
+2021-12-31
+0000064472
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+genc:CustomerThreeMember
+2021-10-01
+2021-12-31
+0000064472
+us-gaap:TransferredOverTimeMember
+genc:EquipmentSalesMember
+2021-10-01
+2021-12-31
+0000064472
+us-gaap:TransferredAtPointInTimeMember
+genc:EquipmentSalesMember
+2021-10-01
+2021-12-31
+0000064472
+genc:PartsAndComponentSalesMember
+2021-10-01
+2021-12-31
+0000064472
+genc:FreightRevenueMember
+2021-10-01
+2021-12-31
+0000064472
+genc:OtherRevenuesMember
+2021-10-01
+2021-12-31
+0000064472
+us-gaap:RetainedEarningsMember
+2021-10-01
+2021-12-31
+0000064472
+genc:NewLeaseAgreementMember
+2020-08-28
+0000064472
+genc:NewLeaseAgreementMember
+2020-10-09
+0000064472
+genc:NewLeaseAgreementMember
+genc:BlawKnoxProductLineFromVolvoCeMember
+2020-10-09
+0000064472
+genc:RenewalEventMember
+genc:NewLeaseAgreementMember
+2021-10-31
+0000064472
+genc:TwoThousandNineIncentiveCompensationPlanMember
+2021-11-01
+0000064472
+genc:NewLeaseAgreementMember
+genc:BlawKnoxProductLineFromVolvoCeMember
+2020-08-28
+2020-08-28
+0000064472
+genc:CommonClassUndefinedMember
+2023-02-08
+0000064472
+us-gaap:CommonClassBMember
+2023-02-08
+0000064472
+us-gaap:RetainedEarningsMember
+2022-09-30
+0000064472
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0000064472
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2022-09-30
+0000064472
+us-gaap:CommonStockMember
+2022-09-30
+0000064472
+us-gaap:RetainedEarningsMember
+2022-12-31
+0000064472
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0000064472
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2022-12-31
+0000064472
+us-gaap:CommonStockMember
+2022-12-31
+0000064472
+us-gaap:RetainedEarningsMember
+2021-09-30
+0000064472
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-30
+0000064472
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2021-09-30
+0000064472
+us-gaap:CommonStockMember
+2021-09-30
+0000064472
+us-gaap:RetainedEarningsMember
+2021-12-31
+0000064472
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0000064472
+us-gaap:CommonStockMember
+us-gaap:CommonClassBMember
+2021-12-31
+0000064472
+us-gaap:CommonStockMember
+2021-12-31
+iso4217:USD
+xbrli:pure
+utr:Year
+xbrli:shares
+iso4217:USD
+xbrli:shares
+genc:Segment
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE QUARTERLY PERIOD ENDED
+DECEMBER 31,
+2022
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE TRANSITION PERIOD: From
+to
+Commission File Number:
+001-11703
+GENCOR INDUSTRIES, INC.
+Delaware
+59-0933147
+(State or other jurisdiction of incorporation or organization)
+(IRS Employer Identification No.)
+5201 North Orange Blossom Trail ,
+Orlando ,
+Florida
+32810
+(Address of principal executive offices) (Zip Code)
+( 407 )
+290-6000
+(Registrant’s telephone number, including area code)
+Securities registered or to be registered pursuant to Section 12(b) of the Act
+Title of Each Class
+Trading Symbol(s)
+Name of Exchange on which registered
+Common Stock
+($.10 Par Value)
+GENC
+NYSE American LLC Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days .
+Yes    ☒    No  ☐ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation
+S-T
+(§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated
+filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule
+12b-2
+of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated Filer
+☐
+Non-accelerated
+Filer
+☒
+Smaller Reporting Company
+☒
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule
+12b-2
+of the Exchange Act ).     Yes   ☐    No   ☒
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+Class
+Outstanding at February 8, 2023
+Common Stock, $.10 par value
+12,338,845  shares
+Class B Stock, $.10 par value
+2,318,857
+shares
+Table of Contents
+GENCOR INDUSTRIES, INC.
+Page
+Index
+Part I. Financial Information
+Item 1. Financial Statements
+Condensed Consolidated Balance Sheets – December 31, 2022 (Unaudited) and September 30, 2022
+4
+Condensed Consolidated Statements of Operations – Quarters Ended December 31, 2022 and 2021 (Unaudited)
+5
+Condensed Consolidated Statements of Shareholders’ Equity – Quarters Ended December 31, 2022 and 2021 (Unaudited)
+6
+Condensed Consolidated Statements of Cash Flows – Quarters Ended December 31, 2022 and 2021 (Unaudited)
+7
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+8
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+15
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+21
+Item 4. Controls and Procedures
+21
+Part II. Other Information
+Item 1. Legal Proceedings
+22
+Item 1A. Risk Factors
+22
+Item 6. Exhibits
+23
+Signatures
+24
+2
+Table of Contents
+Caution Concerning Forward-Looking Statements
+This Quarterly Report on Form
+10-Q
+(this “Quarterly Report”) and the Company’s other communications and statements may contain certain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), including statements about the Company’s beliefs, plans, objectives, goals, expectations, estimates, projections and intentions. All forward-looking statements, by their nature, are subject to significant risks and uncertainties and are subject to change based on various factors, many of which are beyond the Company’s control. The Company’s actual future results may differ materially from those set forth in the Company’s forward-looking statements depending on a variety of important factors, including the financial condition of the Company’s customers, changes in the economic and competitive environments, demand for the Company’s products, the duration and scope of the coronavirus
+(“COVID-19”)
+pandemic and its variants, actions government entities and businesses take in response to the
+COVID-19
+pandemic, including mandatory business closures; the impact of the pandemic and actions taken on regional economies; and the pace of recovery when the
+COVID-19
+pandemic subsides. In addition, on February 24, 2022, Russian military forces invaded Ukraine. The impact to Ukraine as well as actions taken by other countries, including new and stricter sanctions imposed by the U.S. and other countries and companies against officials, individuals, regions, and industries in Russia, and actions taken by Russia and certain other countries in response to such sanctions, could result in a disruption in our supply chain and higher costs of our products. The words “may,” “could,” “should,” “would,” “believe,” “anticipate,” “estimate,” “expect,” “intend,” “plan,” “target,” “goal,” and similar expressions are intended to identify forward-looking statements.
+For information concerning these factors and related matters, see the following sections of the Company’s Annual Report on Form
+10-K
+for the year ended September 30, 2022: (a) Part I, Item 1A, “Risk Factors” and (b) Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”. However, other factors besides those referenced could adversely affect the Company’s results, and you should not consider any such list of factors to be a complete set of all potential risks or uncertainties. Any forward-looking statement made by the Company herein speaks as of the date of this Quarterly Report. The Company does not undertake to update any forward-looking statements, except as required by law.
+Unless the context otherwise indicates, all references in this Quarterly Report to the “Company,” “Gencor,” “we,” “us,” or “our,” or similar words are to Gencor Industries, Inc. and its subsidiaries.
+3
+Table of Contents
+1738000 P3Y P4Y
+Part I. Financial Information
+Item 1. Financial Statements
+GENCOR INDUSTRIES, INC.
+Condensed Consolidated Balance Sheets
+December 31, 2022 (Unaudited)
+September 30, 2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+5,978,000
+$
+9,581,000
+Marketable securities at fair value (cost of $ 94,965,000
+at December 31, 2022 and $ 94,879,000
+at September 30,
+2022)
+91,718,000
+89,300,000
+Accounts receivable, less allowance for doubtful accounts of $ 442,000   at December 31, 2022 and $ 370,000
+at September 30, 2022
+4,659,000
+2,996,000
+Costs and estimated earnings in excess of billings
+4,950,000
+2,118,000
+Inventories, net
+59,315,000
+55,815,000
+Prepaid expenses and other current assets
+2,633,000
+2,669,000
+Total current assets
+169,253,000
+162,479,000
+Property and equipment, net
+13,334,000
+13,491,000
+Deferred and other income taxes
+2,403,000
+2,893,000
+Other long-term assets
+346,000
+450,000
+Total Assets
+$
+185,336,000
+$
+179,313,000
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable
+$
+4,385,000
+$
+4,251,000
+Customer deposits
+8,387,000
+5,864,000
+Accrued expenses
+1,878,000
+1,885,000
+Current operating lease liabilities
+293,000
+390,000
+Total current liabilities
+14,943,000
+12,390,000
+Non-current
+operating lease liabilities
+—
+6,000
+Total liabilities
+14,943,000
+12,396,000
+Commitments and contingencies
+Shareholders’ equity:
+Preferred stock, par value $ .10
+per share;
+300,000
+shares authorized;
+no ne issued
+—
+—
+Common stock, par value $ .10
+per share;
+15,000,000
+shares authorized;
+12,338,845
+shares issued and outstanding at December 31, 2022 and September 30, 2022
+1,234,000
+1,234,000
+Class B Stock, par value $ .10
+per share;
+6,000,000
+shares authorized;
+2,318,857
+shares issued and outstanding at
+December 31, 2022 and September 30, 2022
+232,000
+232,000
+Capital in excess of par value
+12,590,000
+12,590,000
+Retained earnings
+156,337,000
+152,861,000
+Total shareholders’ equity
+170,393,000
+166,917,000
+Total Liabilities and Shareholders’ Equity
+$
+185,336,000
+$
+179,313,000
+See accompanying Notes to Condensed Consolidated Financial Statements
+4
+Table of Contents
+GENCOR INDUSTRIES, INC.
+Condensed Consolidated Statements of Operations
+For the Quarters Ended December 31, 2022 and 2021
+(Unaudited)
+2022
+2021
+Net revenue
+$
+25,825,000
+$
+20,106,000
+Cost of goods sold
+20,010,000
+16,401,000
+Gross profit
+5,815,000
+3,705,000
+Operating expenses:
+Product engineering and development
+897,000
+1,349,000
+Selling, general and administrative
+2,799,000
+3,399,000
+Total operating expenses
+3,696,000
+4,748,000
+Operating income (loss)
+2,119,000
+( 1,043,000
+)
+Other income, net:
+Interest and dividend income, net of fees
+493,000
+277,000
+Realized and unrealized gains on marketable securities, net
+1,962,000
+423,000
+2,455,000
+700,000
+Income (loss) before income tax expense (benefit)
+4,574,000
+( 343,000
+)
+Income tax expense (benefit)
+1,098,000
+( 69,000
+)
+Net income (loss)
+$
+3,476,000
+$
+( 274,000
+)
+Basic income (loss) per common share
+$
+0.24
+$
+( 0.02
+)
+Diluted income (loss) per common share
+$
+0.24
+$
+( 0.02
+)
+See accompanying Notes to Condensed Consolidated Financial Statements
+5 Table of Contents
+GENCOR INDUSTRIES, INC.
+Condensed Consolidated Statements of Shareholders’ Equity
+(Unaudited)
+For the Quarter Ended December 31, 2022
+Common Stock
+Class B Stock
+Capital in Excess of
+Retained
+Total Shareholders’
+Shares
+Amount
+Shares
+Amount
+Par Value
+Earnings
+Equity
+September 30, 2022
+12,338,845
+$
+1,234,000
+2,318,857
+$
+232,000
+$
+12,590,000
+$
+152,861,000
+$
+166,917,000
+Net income
+—
+—
+—
+—
+—
+3,476,000
+3,476,000
+December 31, 2022
+12,338,845
+$
+1,234,000
+2,318,857
+$
+232,000
+$
+12,590,000
+$
+156,337,000
+$
+170,393,000
+For the Quarter Ended December 31, 2021
+Common Stock
+Class B Stock
+Capital in Excess of
+Retained
+Total Shareholders’
+Shares
+Amount
+Shares
+Amount
+Par Value
+Earnings
+Equity
+September 30, 2021
+12,338,845
+$
+1,234,000
+2,318,857
+$
+232,000
+$
+12,590,000
+$
+153,233,000
+$
+167,289,000
+Net loss
+—
+—
+—
+—
+—
+( 274,000
+)
+( 274,000
+)
+December 31, 2021
+12,338,845
+$
+1,234,000
+2,318,857
+$
+232,000
+$
+12,590,000
+$
+152,959,000
+$
+167,015,000
+See accompanying Notes to Condensed Consolidated Financial Statements
+6   Table of Contents
+GENCOR INDUSTRIES, INC.
+Condensed Consolidated Statements of Cash Flows
+For the Quarters Ended December 31, 2022 and 2021
+(Unaudited)
+2022
+2021
+Cash flows from operating activities:
+Net income (loss)
+$
+3,476,000
+$
+( 274,000
+)
+Adjustments to reconcile net income (loss) to cash used in operating activities:
+Purchase of marketable securities
+( 42,080,000
+)
+( 35,718,000
+)
+Proceeds from sale and maturity of marketable securities
+41,427,000
+35,326,000
+Change in value of marketable securities
+( 1,765,000
+)
+( 314,000
+)
+Deferred and other income taxes
+490,000
+13,000
+Depreciation and amortization
+705,000
+750,000
+Provision for doubtful accounts
+75,000
+75,000
+Loss on disposal of assets
+157,000
+—
+Changes in assets and liabilities:
+Accounts receivable
+(1.738,000
+)
+( 829,000
+)
+Costs and estimated earnings in excess of billings
+( 2,832,000
+)
+678,000
+Inventories
+( 3,500,000
+)
+( 3,846,000
+)
+Prepaid expenses and other current assets
+36,000
+( 1,170,000
+)
+Accounts payable
+134,000
+1,350,000
+Customer deposits
+2,523,000
+3,453,000
+Accrued expenses and other
+( 6,000
+)
+( 475,000
+)
+Total adjustments
+( 6,374,000
+)
+( 707,000
+)
+Cash flows used in operating activities
+( 2,898,000
+)
+( 981,000
+)
+Cash flows from investing activities:
+Capital expenditures
+( 705,000
+)
+( 1,003,000
+)
+Cash flows used in investing activities
+( 705,000
+)
+( 1,003,000
+)
+Net decrease in cash and cash equivalents
+( 3,603,000
+)
+( 1,984,000
+)
+Cash and cash equivalents at:
+Beginning of period
+9,581,000
+23,232,000
+End of period
+$
+5,978,000
+$
+21,248,000
+Non-cash
+investing and financing activities:
+Operating lease
+right-of-use
+assets
+$
+—
+$
+39,000
+Operating lease liabilities
+$
+—
+$
+39,000
+See accompanying Notes to Condensed Consolidated Financial Statements
+7
+Table of Contents
+GENCOR INDUSTRIES, INC.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 1 - Basis of Presentation
+The accompanying condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles for interim financial information and with the instructions to Form
+10-Q
+and Article 10 of Regulation
+S-X.
+Accordingly, they do not include all of the information and notes required by generally accepted accounting principles for complete financial statements. In the opinion of management, all material adjustments (consisting of normal, recurring adjustments) considered necessary for a fair presentation have been included. Operating results for the quarter ended December 31, 2022 are not necessarily indicative of the results that may be expected for the year ending September 30, 2023.
+The accompanying Condensed Consolidated Balance Sheet at September 30, 2022 has been derived from the audited financial statements at that date but does not include all of the information and notes required by generally accepted accounting principles for complete financial statements.
+These condensed consolidated financial statements and accompanying notes should be read in conjunction with the audited consolidated financial statements and accompanying notes included in our Annual Report on Form
+10-K
+for the year ended September 30, 2022 filed with the Securities and Exchange Commission on December 16, 2022.
+Recent Accounting Pronouncements
+No accounting pronouncements recently issued or newly effective have had, or are expected to have, a material impact on the Company’s condensed consolidated financial statements.
+COVID-19
+Pandemic
+The Company continues to monitor and evaluate the risks to public health and the slowdown in overall business activity related to the
+COVID-19
+pandemic, including impacts on its employees, customers, suppliers and financial results. As of the date of issuance of this Quarterly Report, the Company’s operations have not been significantly impacted. However, the full impact of the
+COVID-19
+pandemic continues to evolve subsequent to the quarter ended December 31, 2022 and as of the date this Quarterly Report is issued. As such, the full magnitude of the effect that the
+COVID-19
+pandemic will have on the Company’s financial condition and future results of operations is uncertain. Management continues to monitor the situation on the Company’s financial condition, operations, suppliers, industry, customers, and workforce. As the spread of
+COVID-19
+and its variants continues, the Company’s ability to meet customer demands for products may be impacted or its customers may experience adverse business consequences due to
+COVID-19
+and its variants. Reduced demand for products or ability to meet customer demand (including as a result of disruptions at the Company’s suppliers) could have a material adverse effect on its business operations and financial performance.
+Global, market and economic conditions may negatively impact our business, financial condition and share price
+Concerns over inflation, geopolitical issues, global financial markets and the COVID-19 pandemic have led to increased economic instability and expectations of slower global economic growth. Our business may be adversely affected by any such economic instability or unpredictability. Russia’s invasion of Ukraine and related sanctions has led to increased oil and natural gas prices. Such sanctions and disruptions to the global economy may lead to additional inflation and may disrupt the global supply chain and could have a material adverse effect on our ability to secure supplies. The increased cost of oil, along with increased or prolonged periods of inflation, would likely increase our costs in the form of higher wages, further inflation on supplies and equipment necessary to operate our business. There is a risk that one or more of our suppliers could be negatively affected by global economic instability, which could adversely affect our ability to operate efficiently and timely complete our operational goals. As of the date of issuance of this Quarterly Report, the Company’s operations have not been significantly impacted.
+8 Table of Contents Note 2 - Marketable Securities and Fair Value Measurements
+Marketable debt and equity securities are categorized as trading securities and are thus marked to market and stated at fair value. Fair value is determined using the quoted closing or latest bid prices for Level 1 investments and market standard valuation methodologies for Level 2 investments. Realized gains and losses on investment transactions are determined by specific identification and are recognized as incurred in the condensed consolidated statements of operations. Net changes in unrealized gains and losses are reported in the condensed consolidated statements of operations in the current period.
+Fair Value Measurements
+The fair value of financial instruments is presented based upon a hierarchy of levels that prioritizes the inputs of valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets
+fo r identical assets
+or
+liabilities (Level 1 measurements) and the lowest priority to unobservable inputs (Level 3 measurements). A financial instrument’s level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement.
+The fair value of marketable equity securities (stocks), mutual funds, exchange-traded funds, government securities, and cash and money funds, are substantially based on quoted market prices (Level 1). Corporate bonds are valued using market standard valuation methodologies, including: discounted cash flow methodologies, and matrix pricing or other similar techniques. The inputs to these market standard valuation methodologies include, but are not limited to: interest rates, credit standing of the issuer or counterparty, industry sector of the issuer, coupon rate, call provisions, maturity, estimated duration and assumptions regarding liquidity and estimated future cash flows. In addition to bond characteristics, the valuation methodologies incorporate market data, such as actual trades completed, bids and actual dealer quotes, where such information is available. Accordingly, the estimated fair values are based on available market information and judgments about financial instruments (Level 2). Fair values of the Level 2 investments are provided by the Company’s professional investment management firms. From time to time the Company may transfer cash between its marketable securities portfolio and operating cash and cash equivalents.
+The following table sets forth, by level, within the fair value hierarchy, the Company’s marketable securities measured at fair value as of December 31, 2022:
+Fair Value Measurements
+Level 1
+Level 2
+Level 3
+Total
+Equities
+$
+5,524,000
+$
+—
+$
+—
+$
+5,524,000
+Mutual Funds
+5,423,000
+—
+—
+5,423,000
+Exchange-Traded Funds
+4,825,000
+—
+—
+4,825,000
+Corporate Bonds
+—
+36,697,000
+—
+36,697,000
+Government Securities
+33,925,000
+—
+—
+33,925,000
+Cash and Money Funds
+5,324,000
+—
+—
+5,324,000
+Total
+$
+55,021,000
+$
+36,697,000
+$
+—
+$
+91,718,000
+Net unrealized gains recognized during the quarter ended December 31, 2022 on trading securities still held
+as
+of December 31, 2022 were $ 2,332,000 .
+9
+Table of Contents
+The following table sets forth by level, within the fair value hierarchy, the Company’s assets measured
+at
+fair value as of September 30, 2022:
+Fair Value Measurements
+Level 1
+Level 2
+Level 3
+Total
+Equities
+$
+12,149,000
+$
+—
+$
+—
+$
+12,149,000
+Mutual Funds
+5,337,000
+—
+—
+5,337,000
+Exchange-Traded Funds
+4,794,000
+—
+—
+4,794,000
+Corporate Bonds
+—
+37,339,000
+—
+37,339,000
+Government Securities
+29,327,000
+—
+—
+29,327,000
+Cash and Money Funds
+354,000
+—
+—
+354,000
+Total
+$
+51,961,000
+$
+37,339,000
+$
+—
+$
+89,300,000
+Net unrealized gains recognized during the quarter ended December 31, 2021 on trading securities still held as of December 31, 2021 were $ 67,000 .
+The carrying amounts of cash and cash equivalents, accounts receivable, accounts payable, customer deposits and accrued expenses approximate fair value because of the short-term nature of these items.
+Note 3 – Inventories
+Inventories are valued at the lower of cost or net realizable value with cost being determined under the first in, first out method and net realizable value defined as the estimated selling price of goods less reasonable costs of completion and delivery. Appropriate consideration is given to obsolescence, excessive levels, deterioration, possible alternative uses and other factors in determining net realizable value. The cost of work in process and finished goods includes materials, direct labor, variable costs and overhead. The Company evaluates the need to record inventory adjustments on all inventories, including raw material, work in process, finished goods, spare parts and used equipment. Used equipment acquired by the Company on
+trade-in
+from customers is carried at estimated net realizable value. Unless specific circumstances warrant different treatment regarding inventory obsolescence, an allowance is established to reduce the cost basis of inventories
+three
+to
+four years
+old by
+50 %, the cost basis of inventories
+four
+to
+five years
+old by
+75 %, and the cost basis of inventories greater than
+five years
+old to
+zero . Inventory is typically reviewed for obsolescence on an annual basis computed as of September 30, the Company’s fiscal year end. If significant known changes in trends, technology or other specific circumstances that warrant consideration occur during the year, then the impact on obsolescence is considered at that time.
+Net inventories at December 31, 2022 and September 30, 2022 consist of the following:
+December 31, 2022
+September 30, 2022
+Raw materials
+$
+35,085,000
+$
+31,975,000
+Work in process
+14,545,000
+13,903,000
+Finished goods
+9,685,000
+9,937,000
+$
+59,315,000
+$
+55,815,000
+Slow-moving and obsolete inventory reserves were  $ 8,352,000
+and $ 8,192,000
+at December 31, 2022 and September 30, 2022,
+respectively.
+10
+Table of Contents
+Note 4 – Costs and Estimated Earnings in Excess of Billings
+Costs and estimated earnings in excess of billings on uncompleted contracts as of December 31, 2022 and September 30, 2022 consist of the following:
+December 31, 2022
+September 30, 2022
+Costs incurred on uncompleted contracts
+$
+17,613,000
+$
+12,660,000
+Estimated earnings
+7,155,000
+4,780,000
+24,768,000
+17,440,000
+Billings to date
+19,818,000
+15,322,000
+Costs and estimated earnings in excess of billings
+$
+4,950,000
+$
+2,118,000
+Note 5 – Earnings (Loss) per Share Data
+The following table sets forth the computation of basic and diluted income (loss) per share for the quarters ended December 31, 2022 and 2021:
+Quarter Ended December 31,
+2022
+2021
+Net Income (loss)
+$
+3,476,000
+$
+( 274,000
+)
+Common Shares:
+Weighted average common shares outstanding
+14,657,000
+14,617,000
+Effect of dilutive stock options (none)
+—
+—
+Diluted shares outstanding
+14,657,000
+14,617,000
+Basic:
+Net income (loss) per share
+$
+0.24
+$
+( 0.02
+)
+Diluted:
+Net income (loss) per share
+$
+0.24
+$
+( 0.02
+)
+The Company’s 2009 Incentive Compensation Plan expired on
+October 1, 2021
+and as of November 1, 2021 there were
+no
+outstanding stock options under the 2009 Plan. There were
+no
+other existing equity compensation plans and arrangements previously approved by security holders as of December 31, 2022 and 2021.
+Note 6 – Customers with 10% (or greater) of Net Revenues
+During the quarter ended December 31, 2022, two customers accounted for
+13.4 % and
+12.5 % of net revenues, respectively.
+During the quarter ended December 31, 2021, three customers accounted for
+13.2 %,
+12.4 % and
+10.2 % of net revenues, respectively.
+Note 7 – Income Taxes
+Income taxes are provided for the tax effects of transactions reported in the condensed consolidated financial statements and primarily consist of taxes currently due, plus deferred taxes.
+The Company recognizes deferred tax liabilities and assets for the expected future tax consequences of events that have been included in the condensed consolidated financial statements or tax returns using current tax rates. The Company and its domestic subsidiaries file a consolidated federal income tax return.
+11
+Table of Contents
+Deferred
+tax assets and liabilities are measured using the rates expected to apply to taxable income in the years in which the temporary differences are expected to reverse and the credits are expected to be used. The effect on deferred tax assets and liabilities of the change in tax rates is recognized in income in the period that includes the enactment date. All available evidence, both positive and negative, is considered to determine whether, based on the weight of that evidence, the Company is more likely than not to realize the benefit of a deferred tax asset and whether a valuation allowance is needed for some portion or all of a deferred tax asset.
+No
+such valuation allowances were recorded as of December 31, 2022 and September 30, 2022.
+The Company’s income tax provision is based on management’s estimate of the effective tax rate for the full year. The tax provision in any period will be affected by, among other things, permanent, as well as temporary differences in the deductibility of certain items, in addition to changes in tax legislation. As a result, the Company may experience significant fluctuations in the effective book tax rate (that is, its tax expense divided by
+pre-tax
+book income) from period to period. The Company’s effective tax rates for the quarters ended December 31, 2022 and December 31, 2021 reflect income tax rates under the Tax Cuts and Jobs Act of 2017 (the “TCJA”).
+Beginning in 2022, the TCJA eliminated the option of expensing all research and development expenditures in the current year, instead requiring amortization over five years pursuant to IRC Section 174. In the future, Congress may consider legislation that would eliminate the capitalization and amortization requirement. There is no assurance that the requirement will be deferred, repealed or otherwise modified. The requirement is effective for the Company’s fiscal year 2023, beginning October 1, 2022.
+The Company will continue to make additional estimated federal tax payments based on the current Section 174 tax law. The impact of Section 174 on the Company’s cash from operations depends primarily on the amount of research and development expenditures incurred and whether the IRS issues guidance on the provision which differs from the Company’s current interpretation.
+Note 8 – Revenue Recognition and Related Costs
+The Company recognizes revenue under ASU
+No. 2014-09,
+Revenue from Contracts with Customers
+(Topic 606). The following table disaggregates the Company’s net revenue by major source for the quarters ended December 31, 2022 and 2021:
+Quarter Ended December 31,
+2022
+2021
+Equipment sales recognized over time
+$
+7,329,000
+$
+9,774,000
+Equipment sales recognized at a point in time
+11,498,000
+4,198,000
+Parts and component sales
+5,901,000
+5,443,000
+Freight revenue
+1,046,000
+584,000
+Other
+51,000
+107,000
+Net revenue
+$
+25,825,000
+$
+20,106,000
+Revenues from contracts with customers for the design, manufacture and sale of custom equipment are recognized over time when the performance obligation is satisfied by transferring control of the equipment. Control of the equipment transfers over time, as the equipment is unique to the specific contract and thus does not create an asset with an alternative use to the Company. Revenues and costs are recognized in proportion to actual labor costs incurred, as compared with total estimated labor costs expected to be incurred, during the entire contract. All incremental costs related to obtaining a contract are expensed as incurred, as the amortization period is less than
+one year . Changes to total estimated contract costs or losses, if any, are recognized in the period in which they are determined.
+Contract assets (excluding accounts receivable) under contracts with customers represent revenue recognized in excess of amounts billed on equipment sales recognized over time. These contract assets were $ 4,950,000
+and $ 2,118,000
+at December 31, 2022 and September 30, 2022, respectively, and are included in current assets as costs and estimated earnings in excess of billings on the Company’s condensed consolidated balance sheets. The Company anticipates that all of the contract assets at December 31, 2022, will be billed and collected within
+one year .
+12
+Table of Contents
+Revenues
+from all other contracts for the design and manufacture of equipment, for service and for parts sales, net of any discounts and return allowances, are recorded at a point in time when control of the goods or services has been transferred. Control of the goods or service typically transfers at time of shipment or upon completion of the service.
+Payment for equipment under contract with customers is typically due prior to shipment. Payment for services under contract with customers is due as services are completed. Accounts receivable related to contracts with customers for equipment sales were $ 133,000
+and $ 142,000
+at December 31, 2022 and September 30, 2022, respectively.
+Product warranty costs are estimated using historical experience and known issues and are charged to production costs as revenue is recognized.
+Under certain contracts with customers, recognition of a portion of the consideration received may be deferred and recorded as a contract liability if the Company has to satisfy a future obligation, such as to provide installation assistance. There were no contract liabilities other than customer deposits at December 31, 2022 and September 30, 2022. Customer deposits related to contracts with customers were $ 8,387,000
+and $ 5,864,000
+at December 31, 2022 and September 30, 2022, respectively, and are included in current liabilities on the Company’s condensed consolidated balance sheets.
+The
+Company records revenues earned for shipping and handling as freight revenue at the time of shipment, regardless of whether or not it is identified as a separate performance obligation. The cost of shipping and handling is classified as cost of goods sold concurrently with the revenue recognition.
+All product engineering and development costs, and selling, general and administrative expenses are charged to operations as incurred. Provision is made for any anticipated contract losses in the period that the loss becomes evident.
+The allowance for doubtful accounts is determined by performing a specific review of all account balances greater than 90 days past due and other higher risk amounts to determine collectability, and also adjusting for any known customer payment issues with account balances in the
+less-than-90-day
+past due aging category. Account balances are charged off against the allowance for doubtful accounts when they are determined to be uncollectible. Any recoveries of account balances previously considered in the allowance for doubtful accounts reduce future additions to the allowance for doubtful accounts. The allowance for doubtful accounts also includes an estimate for returns and allowances. Provisions for estimated returns and allowances and other adjustments, are provided for in the same period the related sales are recorded. Returns and allowances, which reduce product revenue, are estimated using known issues and historical experience.
+Note 9 – Leases
+The Company leases certain equipment under
+non-cancelable
+operating leases. Future minimum rental payments under these leases at December 31, 2022 were immaterial.
+On August 28, 2020, the Company entered into a
+three-year
+operating lease for property related to manufacturing and warehousing. The lease term is for the period beginning on September 1, 2020 through
+August 31, 2023 . In accordance with ASU
+2016-02,
+the Company recorded a ROU asset totaling $ 970,000
+and related lease liabilities at inception. On October 9, 2020, the Company entered into an operating lease for additional warehousing space for inventory. The original lease term was for
+one year
+beginning November 2020 with automatic
+one-year
+renewals. In accordance with ASU
+2016-02,
+the Company recorded a ROU asset totaling $ 254,000
+and related lease liabilities at inception. An additional $ 39,000
+was recorded as a ROU asset and related lease liability in October 2021 to reflect the impact of the lease
+renewal.
+13
+Table of Contents
+For
+the quarter ended December 31, 2022, operating lease costs were $ 107,000
+and cash payments related to these operating leases were $ 133,000 . For the quarter ended December 31, 2021, operating lease costs were $ 101,000
+and cash payments related to these operating leases were $ 109,000 .
+Other information concerning the Company’s operating lease accounted for under ASC 842 guidelines as of December 31, 2022 and September 30, 2022, is as follows:
+December 31, 2022
+September 30, 2022
+Operating lease ROU asset included in other long-term assets
+$
+293,000
+$
+396,000
+Current operating lease liability
+$
+293,000
+$
+390,000
+Non-current
+operating lease liability
+$
+—
+$
+6,000
+Weighted average remaining lease term (in years)
+0.75
+1.00
+Weighted average discount rate used in calculating ROU asset
+4.0
+%
+4.0
+%
+Future annual minimum lease payments as of December 31, 2022 are as follows:
+Fiscal Year
+Annual Lease Payments
+2023 (remaining nine months)
+$
+298,000
+Less interest
+( 5,000
+)
+Present value of lease liabilities
+$
+293,000
+Note 10 – Segment Information
+The Company has
+one
+reporting segment, equipment for the highway construction industry. Based on evaluation of the criteria of ASC 280 – Segment Reporting, including the nature of products and services, the nature of the production
+processes , the type of customers and the methods used
+to
+distribute products and services, the Company determined that its operating segments meet the requirements for aggregation. The Company designs, manufactures and sells asphalt plants and pavers, combustion systems and fluid heat transfer systems, for the highway construction industry and environmental and petrochemical markets. The Company’s products are manufactured at three facilities in the United States. The Company
+also
+services and sells spare parts for its equipment.
+1 4
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Forward-Looking Information
+This Quarterly Report contains certain “forward-looking statements” within the meaning of the Exchange Act, which represent the Company’s expectations and beliefs, including, but not limited to, statements concerning gross margins, sales of the Company’s products and future financing plans, income from investees and litigation. These statements by their nature involve substantial risks and uncertainties, certain of which are beyond the Company’s control. Actual results may differ materially depending on a variety of important factors, including the financial condition of the Company’s customers, changes in the economic and competitive environments, the performance of the investment portfolio and the demand for the Company’s products.
+For information concerning these factors and related matters, see the following sections of the Company’s Annual Report on Form
+10-K
+for the year ended September 30, 2022: (a) Part I, Item 1A, “Risk Factors” and (b) Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”. However, other factors besides those referenced could adversely affect the Company’s results, and you should not consider any such list of factors to be a complete set of all potential risks or uncertainties. Any forward-looking statements made by the Company herein speak as of the date of this Quarterly Report. The Company does not undertake to update any forward-looking statement, except as required by law.
+Overview
+Gencor designs, manufactures and sells hot mix asphalt plants, combustion systems, fluid heat transfer systems and pavers for the highway construction industry and environmental and petrochemical markets. The Company’s products are manufactured at three facilities in the United States.
+Because the Company’s products are sold primarily to the highway construction industry, the business is seasonal in nature. Traditionally, the Company’s customers reduce their purchases of new equipment for shipment during the summer and fall months to avoid disrupting their peak season for highway construction and related repair work. The majority of orders for the Company’s products are thus received between October and February, with a significant volume of shipments occurring in the late winter and spring. The principal factors driving demand for the Company’s products are the overall economic conditions, the level of government funding for domestic highway construction and repair, Canadian infrastructure spending, the need for spare parts, fluctuations in the price of liquid asphalt, and a trend towards larger more efficient asphalt plants.
+On November 15, 2021, President Biden signed into law a five-year, $1.2 trillion infrastructure bill, the Infrastructure Investment and Jobs Act (the “IIJ Act”), including $550 billion in new spending and reauthorization of $650 billion in previously allocated funds. The IIJ Act provides $110 billion for the nation’s highways, bridges and roads.
+Fluctuations in the price of carbon steel, which is a significant cost and material used in the manufacturing of the Company’s equipment, may affect the Company’s financial performance. The Company is subject to fluctuations in market prices for raw materials, such as steel. If the Company is unable to purchase materials it requires or is unable to pass on price increases to its customers or otherwise reduce its cost of goods sold, its business results of operations and financial condition may be adversely affected.
+Also, a significant increase in the price of liquid asphalt could decrease demand for hot mix asphalt paving materials and certain of the Company’s products. Increases in oil prices also drive up the cost of gasoline and diesel, which results in increased freight costs. Where possible, the Company will pass increased freight costs on to its customers. However, the Company may not be able to recapture all of the higher costs and thus could have a negative impact on the Company’s financial performance.
+15
+Table of Contents
+On July 19, 2022, the Company announced that it was transferring the listing of its common stock, $0.10 per share par value (“Common Stock”), to the NYSE American LLC (“NYSE American”) from the NASDAQ Global Market (“NASDAQ”). Listing and trading of the Company’s Common Stock on NASDAQ ended at market close on July 29, 2022 and listing and trading of its Common Stock on the NYSE American commenced at market open on August 1, 2022 under its current ticker symbol ‘GENC’.
+COVID-19
+Pandemic
+The Company continues to monitor and evaluate the risks to public health and the overall business activity related to the
+COVID-19
+pandemic, including impacts on its employees, customers, suppliers and financial results. As of the date of issuance of this Quarterly Report, the Company’s operations have not been significantly impacted. However, the full impact of the
+COVID-19
+pandemic continues to evolve subsequent to the quarter ended December 31, 2022 and as of the date this Quarterly Report is issued. As such, the full magnitude of the effect that the
+COVID-19
+pandemic will have on the Company’s financial condition and future results of operations is uncertain. Management continues to monitor the Company’s financial condition, operations, suppliers, industry, customers, and workforce. As the spread of
+COVID-19
+and its variants continues, the Company’s ability to meet customer demands for products may be impacted or its customers may experience adverse business consequences due to
+COVID-19
+and its variants. Reduced demand for products or ability to meet customer demand (including as a result of disruptions at the Company’s suppliers) could have a material adverse effect on its business operations and financial performance.
+Global, market and economic conditions may negatively impact our business, financial condition and share price
+Concerns over inflation, geopolitical issues, global financial markets and the
+COVID-19
+pandemic have led to increased economic instability and expectations of slower global economic growth. Our business may be adversely affected by any such economic instability or unpredictability. Russia’s invasion of Ukraine and related sanctions has led to increased oil and natural gas prices. Such sanctions and disruptions to the global economy may lead to additional inflation and may disrupt the global supply chain and could have a material adverse effect on our ability to secure supplies. The increased cost of oil, along with increased or prolonged periods of inflation, would likely increase our costs in the form of higher wages, further inflation on supplies and equipment necessary to operate our business. There is a risk that one or more of our suppliers could be negatively affected by global economic instability, which could adversely affect our ability to operate efficiently and timely complete our operational goals. As of the date of issuance of this Quarterly Report, the Company’s operations have not been significantly impacted.
+Changes in our tax rates or exposure to additional tax liabilities could adversely affect our earnings and financial condition
+Beginning in 2022, the TCJA eliminated the option of expensing all research and development expenditures in the current year, instead requiring amortization over five years pursuant to IRC Section 174. In the future, Congress may consider legislation that would eliminate the capitalization and amortization requirement. There is no assurance that the requirement will be deferred, repealed or otherwise modified. The requirement is effective for the Company’s fiscal year 2023, beginning October 1, 2022. The Company will continue to make additional estimated federal tax payments based on the current Section 174 tax law. The impact of Section 174 on the Company’s cash from operations depends primarily on the amount of research and development expenditures incurred and whether the IRS issues guidance on the provision which differs from our current interpretation.
+Results of Operations
+Quarter Ended December 31, 2022 versus December 31, 2021
+Net revenues for the quarters ended December 31, 2022 and December 31, 2021 were $25,825,000 and $20,106,000, respectively, an increase of $5,719,000 or 28.4%. The improved revenues were in contract equipment sales, paver and parts sales.
+As a percent of sales, gross profit margins improved to 22.5% in the quarter ended December 31, 2022, compared to 18.4% in the quarter ended December 31, 2021 on increased production and favorable price realization.
+Product engineering and development expenses decreased $452,000 to $897,000 for the quarter ended December 31, 2022, as compared to $1,349,000 for the quarter ended December 31, 2021, due primarily to reduced wages and benefits on lower headcount. Selling, general and administrative (“SG&A”) expenses decreased by $600,000 to $2,799,000 for the quarter ended December 31, 2022, compared to $3,399,000 for the quarter ended December 31, 2021. The decrease in SG&A expenses was primarily due to reduced wages and benefits on lower headcount and reduced professional expenses.
+16
+Table of Contents
+The Company had operating income of $2,119,000 for the quarter ended December 31, 2022 as compared to an operating loss of $(1,043,000) for the quarter ended December 31, 2021. The improved operating results were due to higher net revenues and lower operating expenses for the quarter ended December 31, 2022.
+For the quarter ended December 31, 2022, the Company had net
+non-operating
+income of $2,455,000 compared to $700,000 for the quarter ended December 31, 2021. Included in net
+non-operating
+income for the quarter ended December 31, 2022 were net realized and unrealized gains on marketable securities of $1,962,000 compared to $423,000 for the quarter ended December 31, 2021. The higher gains in fiscal 2023 were due to a stronger domestic stock market during the quarter ended December 31, 2022.
+The effective income tax rates for the quarters ended December 31, 2022 and December 31, 2021 were 24.0% and 20.0%, respectively. The higher tax rate in fiscal 2023 is due to an anticipated reduction in research and development tax credits, effective for the Company’s fiscal 2023. Net income for the quarter ended December 31, 2022 was $3,476,000, or $0.24 per basic and diluted share, compared to a net loss of $(274,000), or $(0.02) per basic and diluted share for the quarter ended December 31, 2021.
+Liquidity and Capital Resources
+The Company generates capital resources through operations and returns on its investments.
+The Company had no long-term or short-term debt outstanding at December 31, 2022 or September 30, 2022. As of December 31, 2022, the Company has funded $85,000 in cash deposits at insurance companies to cover related collateral needs. In April 2020, a financial institution issued an irrevocable standby letter of credit (“letter of credit”) on behalf of the Company for the benefit of one of the Company’s insurance carriers. The maximum amount that can be drawn by the beneficiary under the letter of credit is $150,000. The letter of credit expires in April 2023, unless terminated earlier, and can be extended, as provided by the agreement. The Company intends to renew the letter of credit for as long as the Company does business with the beneficiary insurance carrier. The letter is collateralized by restricted cash of the same amount on any outstanding drawings. To date, no amounts have been drawn under the letter of credit.
+As of December 31, 2022, the Company had $5,978,000 in cash and cash equivalents, and $91,718,000 in marketable securities, including $36,697,000 in corporate bonds, $5,524,000 in equities, $5,423,000 in mutual funds, $4,825,000 in exchange-traded funds, $33,925,000 in government securities, and $5,324,000 in cash and money funds. The marketable securities are invested through a professional investment management firm. These securities may be liquidated at any time into cash and cash equivalents.
+The Company’s backlog was $42.5 million at December 31, 2022 compared to $58.0 million at December 31, 2021. The Company’s working capital (defined as current assets less current liabilities) was $154.3 million at December 31, 2022 and $150.1 million at September 30, 2022. Cash flows used in operations during the quarter ended December 31, 2022, were $2,898,000. The significant purchases, sales and maturities of marketable securities shown on the condensed consolidated statements of cash flows, reflect the recurring purchases and sales of United States treasury bills. Accounts receivable increased $1,738,000 compared to September 30, 2022, primarily from increased paver and parts sales. Costs and estimated earnings in excess of billings increased $2,832,000 with the timing of inventory build and percentage of completion recognition on plant sales where revenue is recognized over time. Inventories increased by $3,500,000 due to progress on several large contract orders where revenue is recognized at a point in time and some stock build to compensate for the increasing lead times from suppliers. Customer deposits increased $2,523,000 reflecting down payments and final payments on contract jobs not yet shipped.
+Cash flows used in investing activities for the quarter ended December 31, 2022 of $705,000 were related to capital expenditures, primarily for manufacturing processing and finishing equipment.
+17
+Table of Contents
+Seasonality
+The Company’s primary business is the manufacture of asphalt plants and related components and asphalt pavers. These products typically experience a seasonal slowdown during the third and fourth quarters of the calendar year. This slowdown often results in lower reported sales and operating results during the first and fourth quarters of the fiscal year ended September 30.
+Critical Accounting Policies, Estimates and Assumptions
+The Company believes the following discussion addresses its most critical accounting policies, which are those that are most important to the portrayal of the financial condition and results of operations and require management’s most difficult, subjective, or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. Accounting policies, in addition to the critical accounting policies referenced below, are presented in Note 1 to the Company’s consolidated financial statements included in the Company’s Annual Report on Form
+10-K
+for the year ended September 30, 2022, “Nature of Operations and Summary of Significant Accounting Policies.”
+Estimates and Assumptions
+In preparing the condensed consolidated financial statements, the Company uses certain estimates and assumptions that may affect reported amounts and disclosures. Estimates and assumptions are used, among other places, when accounting for certain revenue (e.g., contract accounting), expense, and asset and liability valuations. The Company believes that the estimates and assumptions made in preparing the condensed consolidated financial statements are reasonable, but are inherently uncertain. Assumptions may be incomplete or inaccurate and unanticipated events may occur. The Company is subject to risks and uncertainties that may cause actual results to differ from estimated results.
+Revenues & Expenses
+The Company recognizes revenue under ASU
+No. 2014-09,
+Revenue from Contracts with Customers
+(Topic 606). Revenues from contracts with customers for the design, manufacture and sale of custom equipment are recognized over time when the performance obligation is satisfied by transferring control of the equipment. Control of the equipment transfers over time, as the equipment is unique to the specific contract and thus does not create an asset with an alternative use to the Company. Revenues and costs are recognized in proportion to actual labor costs incurred, as compared with total estimated labor costs expected to be incurred, during the entire contract. All incremental costs related to obtaining a contract are expensed as incurred, as the amortization period is less than one year. Changes to total estimated contract costs or losses, if any, are recognized in the period in which they are determined.
+Contract assets (excluding accounts receivable) under contracts with customers represent revenue recognized in excess of amounts billed on equipment sales recognized over time. These contract assets were $4,950,000 and $2,118,000 at December 31, 2022 and September 30, 2022, respectively, and are included in current assets as costs and estimated earnings in excess of billings on the Company’s condensed consolidated balance sheets. The Company anticipates that all of the contract assets at December 31, 2022, will be billed and collected within one year.
+Revenues from all other contracts for the design and manufacture of equipment, for service and for parts sales, net of any discounts and return allowances, are recorded at a point in time when control of the goods or services has been transferred. Control of the goods or service typically transfers at time of shipment or upon completion of the service.
+Payment for equipment under contract with customers is typically due prior to shipment. Payment for services under contract with customers is due as services are completed. Accounts receivable related to contracts with customers for equipment sales were $133,000 and $142,000 at December 31, 2022 and September 30, 2022, respectively.
+18
+Table of Contents
+Product warranty costs are estimated using historical experience and known issues and are charged to production costs as revenue is recognized.
+Under certain contracts with customers, recognition of a portion of the consideration received may be deferred and recorded as a contract liability if the Company has to satisfy a future obligation, such as to provide installation assistance. There were no contract liabilities other than customer deposits at December 31, 2022 and September 30, 2022. Customer deposits related to contracts with customers were $8,387,000 and $5,864,000 at December 31, 2022 and September 30, 2022, respectively, and are included in current liabilities on the Company’s condensed consolidated balance sheets.
+The Company records revenues earned for shipping and handling as freight revenue at the time of shipment, regardless of whether or not it is identified as a separate performance obligation. The cost of shipping and handling is classified as cost of goods sold concurrently with the revenue recognition.
+All product engineering and development costs, and selling, general and administrative expenses are charged to operations as incurred. Provision is made for any anticipated contract losses in the period that the loss becomes evident.
+The allowance for doubtful accounts is determined by performing a specific review of all account balances greater than 90 days past due and other higher risk amounts to determine collectability, and also adjusting for any known customer payment issues with account balances in the
+less-than-90-day
+past due aging category. Account balances are charged off against the allowance for doubtful accounts when they are determined to be uncollectible. Any recoveries of account balances previously considered in the allowance for doubtful accounts reduce future additions to the allowance for doubtful accounts. The allowance for doubtful accounts also includes an estimate for returns and allowances. Provisions for estimated returns and allowances and other adjustments, are provided for in the same period the related sales are recorded. Returns and allowances, which reduce product revenue, are estimated using known issues and historical experience.
+Inventories
+Inventories are valued at the lower of cost or net realizable value, with cost being determined under the first in, first out method and net realizable value defined as the estimated selling price of goods less reasonable costs of completion and delivery. Appropriate consideration is given to obsolescence, excessive levels, deterioration, possible alternative uses and other factors in determining net realizable value. The cost of work in process and finished goods includes materials, direct labor, variable costs and overhead. The Company evaluates the need to record inventory adjustments on all inventories, including raw material, work in process, finished goods, spare parts and used equipment. Used equipment acquired by the Company on
+trade-in
+from customers is carried at estimated net realizable value. Unless specific circumstances warrant different treatment regarding inventory obsolescence, an allowance is established to reduce the cost basis of inventories three to four years old by 50%, the cost basis of inventories four to five years old by 75%, and the cost basis of inventories greater than five years old to zero. Inventory is typically reviewed for obsolescence on an annual basis computed as of September 30, the Company’s fiscal year end. If significant known changes in trends, technology or other specific circumstances that warrant consideration occur during the year, then the impact on obsolescence is considered at that time.
+Marketable Securities and Fair Value Measurements
+Marketable debt and equity securities are categorized as trading securities and are thus marked to market and stated at fair value. Fair value is determined using the quoted closing or latest bid prices for Level 1 investments and market standard valuation methodologies for Level 2 investments. Realized gains and (losses) on investment transactions are determined by specific identification and are recognized as incurred in the condensed consolidated statements of income. Net unrealized gains and (losses) are reported in the condensed consolidated statements of income in the current period and represent the change in the fair value of investment holdings during the period.
+19
+Table of Contents
+Long-Lived Asset Impairment
+Property and equipment and intangible assets subject to amortization are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset (or asset group) may not be recoverable. An impairment loss would be recognized when the carrying amount of an asset exceeds the estimated undiscounted cash flows expected to result from the use of the asset and its eventual disposition. The amount of the impairment loss to be recorded is calculated by the excess over its fair value of the asset’s carrying value. Fair value is generally determined using a discounted cash flow analysis.
+Off-Balance
+Sheet Arrangements
+None
+20
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+Not applicable.
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+The Company’s President (who is currently serving as the Company’s Principal Executive Officer) and Chief Financial Officer (Principal Financial and Accounting Officer) evaluated the effectiveness of the design and operation of the Company’s “disclosure controls and procedures” (as defined in Rule
+13a-15(e)
+under the Exchange Act) as of the end of the period covered by this Quarterly Report. Based upon that evaluation, the President and the Chief Financial Officer concluded that, as of the end of the period covered by this Quarterly Report, the Company’s disclosure controls and procedures are effective.
+Because of inherent limitations, the Company’s disclosure controls and procedures, no matter how well-designed and operated, can provide only reasonable, and not absolute, assurance that the objectives of such disclosure controls and procedures are met, and no evaluation can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected.
+Changes in Internal Control over Financial Reporting
+The Company’s management, including the President and Chief Financial Officer, has reviewed the Company’s internal control over financial reporting. There were no changes in the Company’s internal control over financial reporting during the quarter ended December 31, 2022 that materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+21
+Table of Contents
+Part II. Other Information
+Item 1. Legal Proceedings
+From time to time the Company is engaged in legal proceedings in the ordinary course of business. We do not believe any current legal proceedings are material to our business.
+Item 1A. Risk Factors
+Our business, operations, and financial condition are subject to various risks and uncertainties. The risk factors described in Part I, Item 1A, “Risk Factors” contained in our Annual Report on Form 10K for the year ended September 30, 2022, as filed with the SEC on December 16, 2022, should be carefully considered, together with the other information contained or incorporated by reference in this Quarterly Report on Form
+10-Q
+and in our other filings filed with the SEC in connection with evaluating us, our business, and the forward-looking statements contained in this Quarterly Report on Form
+10-Q.
+During the quarter ended December 31, 2022, there have been no material changes from the risk factors previously disclosed under Part I, Item 1A, “Risk Factors” in our Annual Report on Form
+10-K,
+for the year ended September 30, 2022, other than the addition of the following risk factor:
+Changes in our tax rates or exposure to additional tax liabilities could adversely affect our earnings and financial condition
+Beginning in 2022, the Tax Cuts and Jobs Act of 2017 eliminated the option of expensing all research and development expenditures in the current year, instead requiring amortization over five years pursuant to IRC Section 174. In the future, Congress may consider legislation that would eliminate the capitalization and amortization requirement. There is no assurance that the requirement will be deferred, repealed or otherwise modified. The requirement is effective for the Company’s fiscal year 2023, beginning October 1, 2022. The Company will continue to make additional estimated federal tax payments based on the current Section 174 tax law. The impact of Section 174 on the Company’s cash from operations depends primarily on the amount of research and development expenditures incurred and whether the IRS issues guidance on the provision which differs from the Company’s current interpretation.
+22
+Table of Contents
+Item 6. Exhibits
+Exhibit 31.1
+Certification of Principal Executive Officer Pursuant to Rule 13a – 14(a) of the Securities Exchange Act of 1934, as amended
+Exhibit 31.2
+Certification of Chief Financial Officer Pursuant to Rule 13a – 14(a) of the Securities Exchange Act of 1934, as amended
+Exhibit 32
+Certifications of Principal Executive Officer and Chief Financial Officer Pursuant to 18 U. S. C. Section 1350
+Exhibit 101.1
+Interactive Data File
+101.INS
+XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH
+XBRL Schema Document
+101.CAL
+XBRL Calculation Linkbase Document
+101.DEF
+XBRL Definition Linkbase Document
+101.LAB
+XBRL Label Linkbase Document
+101.PRE
+XBRL Presentation Linkbase Document
+104
+The cover page from the Company’s Quarterly Report on Form
+10-Q
+for the quarter ended December 31, 2022, formatted in Inline XBRL (included in Exhibit 101)
+23
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+GENCOR INDUSTRIES, INC.
+/s/ Marc G. Elliott
+Marc G. Elliott
+President
+(Principal Executive Officer)
+February 10, 2023
+/s/ Eric E. Mellen
+Eric E. Mellen
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+February 10, 2023
+24

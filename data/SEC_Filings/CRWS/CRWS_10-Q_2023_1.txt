@@ -1,0 +1,1999 @@
+2022
+1,540
+945
+0.01
+0.01
+40,000,000
+40,000,000
+13,011,814
+12,944,918
+2,894,242
+2,864,698
+0.43
+0.08
+0.59
+0.24
+30.0
+22.9
+2
+46,896
+40,165
+41,452
+46,512
+20,000
+10,000
+25,000
+10
+10
+2
+0000025895 2022-04-04 2023-01-01
+xbrli:shares
+0000025895 2023-02-03
+thunderdome:item
+iso4217:USD
+0000025895 2023-01-01
+0000025895 2022-04-03
+iso4217:USD xbrli:shares
+0000025895 2022-10-03 2023-01-01
+0000025895 2021-09-27 2021-12-26
+0000025895 2021-03-29 2021-12-26
+0000025895 us-gaap:CommonStockMember 2021-09-26
+0000025895 us-gaap:TreasuryStockMember 2021-09-26
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2021-09-26
+0000025895 us-gaap:RetainedEarningsMember 2021-09-26
+0000025895 2021-09-26
+0000025895 us-gaap:CommonStockMember 2021-09-27 2021-12-26
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2021-09-27 2021-12-26
+0000025895 us-gaap:TreasuryStockMember 2021-09-27 2021-12-26
+0000025895 us-gaap:RetainedEarningsMember 2021-09-27 2021-12-26
+0000025895 us-gaap:CommonStockMember 2021-12-26
+0000025895 us-gaap:TreasuryStockMember 2021-12-26
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2021-12-26
+0000025895 us-gaap:RetainedEarningsMember 2021-12-26
+0000025895 2021-12-26
+0000025895 us-gaap:CommonStockMember 2022-10-02
+0000025895 us-gaap:TreasuryStockMember 2022-10-02
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2022-10-02
+0000025895 us-gaap:RetainedEarningsMember 2022-10-02
+0000025895 2022-10-02
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2022-10-03 2023-01-01
+0000025895 us-gaap:RetainedEarningsMember 2022-10-03 2023-01-01
+0000025895 us-gaap:CommonStockMember 2022-10-03 2023-01-01
+0000025895 us-gaap:TreasuryStockMember 2022-10-03 2023-01-01
+0000025895 us-gaap:CommonStockMember 2023-01-01
+0000025895 us-gaap:TreasuryStockMember 2023-01-01
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2023-01-01
+0000025895 us-gaap:RetainedEarningsMember 2023-01-01
+0000025895 us-gaap:CommonStockMember 2021-03-28
+0000025895 us-gaap:TreasuryStockMember 2021-03-28
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2021-03-28
+0000025895 us-gaap:RetainedEarningsMember 2021-03-28
+0000025895 2021-03-28
+0000025895 us-gaap:CommonStockMember 2021-03-29 2021-12-26
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2021-03-29 2021-12-26
+0000025895 us-gaap:TreasuryStockMember 2021-03-29 2021-12-26
+0000025895 us-gaap:RetainedEarningsMember 2021-03-29 2021-12-26
+0000025895 us-gaap:CommonStockMember 2022-04-03
+0000025895 us-gaap:TreasuryStockMember 2022-04-03
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2022-04-03
+0000025895 us-gaap:RetainedEarningsMember 2022-04-03
+0000025895 us-gaap:CommonStockMember 2022-04-04 2023-01-01
+0000025895 us-gaap:AdditionalPaidInCapitalMember 2022-04-04 2023-01-01
+0000025895 us-gaap:TreasuryStockMember 2022-04-04 2023-01-01
+0000025895 us-gaap:RetainedEarningsMember 2022-04-04 2023-01-01
+xbrli:pure
+0000025895 crws:BeddingBlanketsAndAccessoriesMember 2022-10-03 2023-01-01
+0000025895 crws:BeddingBlanketsAndAccessoriesMember 2021-09-27 2021-12-26
+0000025895 crws:BeddingBlanketsAndAccessoriesMember 2022-04-04 2023-01-01
+0000025895 crws:BeddingBlanketsAndAccessoriesMember 2021-03-29 2021-12-26
+0000025895 crws:BibsToysAndDisposablesProductsMember 2022-10-03 2023-01-01
+0000025895 crws:BibsToysAndDisposablesProductsMember 2021-09-27 2021-12-26
+0000025895 crws:BibsToysAndDisposablesProductsMember 2022-04-04 2023-01-01
+0000025895 crws:BibsToysAndDisposablesProductsMember 2021-03-29 2021-12-26
+0000025895 us-gaap:RoyaltyMember 2022-10-03 2023-01-01
+0000025895 us-gaap:RoyaltyMember 2021-09-27 2021-12-26
+0000025895 us-gaap:RoyaltyMember 2022-04-04 2023-01-01
+0000025895 us-gaap:RoyaltyMember 2021-03-29 2021-12-26
+0000025895 us-gaap:DiscontinuedOperationsDisposedOfByMeansOtherThanSaleMember crws:CarouselDesignsLLCMember crws:SaleOfInventoryBelowCostMember 2021-09-27 2021-12-26
+0000025895 us-gaap:DiscontinuedOperationsDisposedOfByMeansOtherThanSaleMember crws:CarouselDesignsLLCMember crws:SaleOfInventoryBelowCostMember 2021-03-29 2021-12-26
+0000025895 us-gaap:DiscontinuedOperationsDisposedOfByMeansOtherThanSaleMember crws:CarouselDesignsLLCMember crws:SettlementWithSupplierMember 2021-03-29 2021-06-27
+0000025895 us-gaap:DiscontinuedOperationsDisposedOfByMeansOtherThanSaleMember crws:CarouselDesignsLLCMember crws:LiquidationOfInventoryMember 2021-03-29 2021-12-26
+0000025895 crws:FactoringFeesMember 2022-10-03 2023-01-01
+0000025895 crws:FactoringFeesMember 2021-09-27 2021-12-26
+0000025895 crws:FactoringFeesMember 2022-04-04 2023-01-01
+0000025895 crws:FactoringFeesMember 2021-03-29 2021-12-26
+0000025895 us-gaap:RevolvingCreditFacilityMember 2023-01-01
+0000025895 us-gaap:LetterOfCreditMember 2023-01-01
+0000025895 us-gaap:RevolvingCreditFacilityMember us-gaap:PrimeRateMember 2022-07-03 2022-07-03
+0000025895 us-gaap:RevolvingCreditFacilityMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-07-03 2022-07-03
+0000025895 us-gaap:RevolvingCreditFacilityMember us-gaap:PrimeRateMember 2023-01-01 2023-01-01
+0000025895 crws:ReceivableDueFromFactorMember 2023-01-01
+0000025895 crws:NegativeBalanceOutstandingUnderRevolvingLineOfCreditMember 2023-01-01
+0000025895 crws:ReceivableFromFactorAndNegativeBalanceOnRevolvingLineOfCreditMember 2023-01-01
+0000025895 crws:ReceivableDueFromFactorMember 2022-04-03
+0000025895 crws:NegativeBalanceOutstandingUnderRevolvingLineOfCreditMember 2022-04-03
+0000025895 crws:ReceivableFromFactorAndNegativeBalanceOnRevolvingLineOfCreditMember 2022-04-03
+0000025895 crws:PaycheckProtectionProgramCARESActMember 2020-04-19 2020-04-19
+0000025895 crws:PaycheckProtectionProgramCARESActMember 2021-05-20 2021-05-20
+0000025895 crws:PaycheckProtectionProgramCARESActMember 2021-04-20
+0000025895 crws:PaycheckProtectionProgramCARESActMember 2021-03-29 2021-06-27
+0000025895 us-gaap:TrademarksAndTradeNamesMember 2023-01-01
+0000025895 us-gaap:TrademarksAndTradeNamesMember 2022-04-03
+0000025895 us-gaap:TrademarksAndTradeNamesMember 2022-10-03 2023-01-01
+0000025895 us-gaap:TrademarksAndTradeNamesMember 2021-09-27 2021-12-26
+0000025895 us-gaap:TrademarksAndTradeNamesMember 2022-04-04 2023-01-01
+0000025895 us-gaap:TrademarksAndTradeNamesMember 2021-03-29 2021-12-26
+0000025895 us-gaap:NoncompeteAgreementsMember 2023-01-01
+0000025895 us-gaap:NoncompeteAgreementsMember 2022-04-03
+0000025895 us-gaap:NoncompeteAgreementsMember 2022-10-03 2023-01-01
+0000025895 us-gaap:NoncompeteAgreementsMember 2021-09-27 2021-12-26
+0000025895 us-gaap:NoncompeteAgreementsMember 2022-04-04 2023-01-01
+0000025895 us-gaap:NoncompeteAgreementsMember 2021-03-29 2021-12-26
+0000025895 us-gaap:PatentsMember 2023-01-01
+0000025895 us-gaap:PatentsMember 2022-04-03
+0000025895 us-gaap:PatentsMember 2022-10-03 2023-01-01
+0000025895 us-gaap:PatentsMember 2021-09-27 2021-12-26
+0000025895 us-gaap:PatentsMember 2022-04-04 2023-01-01
+0000025895 us-gaap:PatentsMember 2021-03-29 2021-12-26
+0000025895 us-gaap:CustomerRelationshipsMember 2023-01-01
+0000025895 us-gaap:CustomerRelationshipsMember 2022-04-03
+0000025895 us-gaap:CustomerRelationshipsMember 2022-10-03 2023-01-01
+0000025895 us-gaap:CustomerRelationshipsMember 2021-09-27 2021-12-26
+0000025895 us-gaap:CustomerRelationshipsMember 2022-04-04 2023-01-01
+0000025895 us-gaap:CustomerRelationshipsMember 2021-03-29 2021-12-26
+0000025895 us-gaap:CostOfSalesMember 2022-10-03 2023-01-01
+0000025895 us-gaap:CostOfSalesMember 2021-09-27 2021-12-26
+0000025895 us-gaap:CostOfSalesMember 2022-04-04 2023-01-01
+0000025895 us-gaap:CostOfSalesMember 2021-03-29 2021-12-26
+0000025895 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+utr:Y
+utr:sqft
+0000025895 crws:FacilityInComptonCaliforniaMember us-gaap:SubsequentEventMember 2023-02-03
+utr:M
+0000025895 us-gaap:EmployeeStockOptionMember 2022-04-04 2023-01-01
+0000025895 crws:June72022Member 2022-04-04 2023-01-01
+0000025895 crws:June92021Member 2021-03-29 2021-12-26
+0000025895 crws:June72022Member 2023-01-01
+0000025895 crws:June92021Member 2021-12-26
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember 2021-09-27 2021-12-26
+0000025895 us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-10-03 2023-01-01
+0000025895 us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 us-gaap:EmployeeStockOptionMember 2022-10-03 2023-01-01
+0000025895 us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-09-27 2021-12-26
+0000025895 us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 us-gaap:EmployeeStockOptionMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2020Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2020Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2020Member us-gaap:EmployeeStockOptionMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2020Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2020Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2020Member us-gaap:EmployeeStockOptionMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2021Member us-gaap:EmployeeStockOptionMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2022Member us-gaap:EmployeeStockOptionMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2023Member us-gaap:EmployeeStockOptionMember 2021-03-29 2021-12-26
+0000025895 us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2022-04-04 2023-01-01
+0000025895 us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 us-gaap:EmployeeStockOptionMember us-gaap:CostOfSalesMember 2021-03-29 2021-12-26
+0000025895 us-gaap:EmployeeStockOptionMember crws:MarketingAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 us-gaap:EmployeeStockOptionMember 2021-03-29 2021-12-26
+0000025895 us-gaap:EmployeeStockOptionMember 2023-01-01
+0000025895 crws:August112021Member crws:NonVestedStockGrantsMember crws:NonEmployeeDirectorsMember 2022-04-04 2023-01-01
+0000025895 crws:August122020Member crws:NonVestedStockGrantsMember crws:NonEmployeeDirectorsMember 2022-04-04 2023-01-01
+0000025895 crws:August142019Member crws:NonVestedStockGrantsMember crws:NonEmployeeDirectorsMember 2022-04-04 2023-01-01
+0000025895 crws:NonVestedStockGrantsMember crws:NonEmployeeDirectorsMember 2022-05-01 2022-05-01
+0000025895 crws:NonVestedStockGrantsMember crws:NonEmployeeDirectorsMember 2022-08-01 2022-08-31
+0000025895 crws:NonVestedStockGrantsMember crws:NonEmployeeDirectorsMember 2021-08-01 2021-08-31
+0000025895 crws:June102020Member crws:NonVestedStockGrantsMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-04-04 2023-01-01
+0000025895 crws:February222021Member crws:NonVestedStockGrantsMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-04-04 2023-01-01
+0000025895 crws:June92021Member crws:NonVestedStockGrantsMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-04-04 2023-01-01
+0000025895 crws:NonVestedStockGrantsMember crws:EmployeeMember 2022-06-01 2022-06-30
+0000025895 us-gaap:PerformanceSharesMember srt:ExecutiveOfficerMember 2022-03-01
+0000025895 us-gaap:PerformanceSharesMember srt:ExecutiveOfficerMember us-gaap:ShareBasedCompensationAwardTrancheOneMember 2022-03-01
+utr:D
+0000025895 us-gaap:PerformanceSharesMember srt:ExecutiveOfficerMember us-gaap:ShareBasedCompensationAwardTrancheOneMember 2022-03-01 2022-03-01
+0000025895 us-gaap:PerformanceSharesMember srt:ExecutiveOfficerMember us-gaap:ShareBasedCompensationAwardTrancheTwoMember 2022-03-01
+0000025895 us-gaap:PerformanceSharesMember srt:ExecutiveOfficerMember us-gaap:ShareBasedCompensationAwardTrancheTwoMember 2022-03-01 2022-03-01
+0000025895 us-gaap:EmployeeStockOptionMember 2022-03-01 2022-03-01
+0000025895 us-gaap:PerformanceSharesMember 2022-03-01 2022-03-01
+0000025895 crws:FiscalYear2020Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2020Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2020Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2020Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2021Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2021Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2021Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2021Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2022Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2022Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2022Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2022Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:FiscalYear2023Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:FiscalYear2023Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:FiscalYear2023Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:FiscalYear2023Member crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+0000025895 crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-03 2023-01-01
+0000025895 crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-09-27 2021-12-26
+0000025895 crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-04 2023-01-01
+0000025895 crws:NonVestedStockGrantsMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-03-29 2021-12-26
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+January 1, 2023
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _____to_____
+Commission File No.
+1-7604
+Crown Crafts, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware   58-0678148
+(State or other jurisdiction of incorporation)   (IRS Employer Identification No.)
+916 South Burnside Avenue ,
+Gonzales ,
+LA   70737
+(Address of principal executive offices)   (Zip Code)
+( 225 )
+647-9100
+Registrant’s telephone number, including area code
+Former name, former address and former fiscal year, if changed since last report
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+CRWS
+Nasdaq
+Capital Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes
+☑         No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).        Yes
+☑         No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer                  ☐   Accelerated filer                            ☐
+Non-Accelerated filer                    ☑   Smaller Reporting Company
+☑
+Emerging Growth Company          ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.         ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No ☑
+The number of shares of common stock, $0.01 par value, of the registrant outstanding as of February 3, 2023 was
+10,117,572 .
+1
+PART I – FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+CROWN CRAFTS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+JANUARY 1, 2023 (UNAUDITED) AND APRIL 3, 2022
+(amounts in thousands, except share and per share amounts)
+January 1, 2023
+April 3, 2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$ 3,076     $ 1,598
+Accounts receivable (net of allowances of $ 1,540
+at January 1, 2023 and $ 945
+at April 3, 2022):
+Due from factor
+17,190       21,093
+Other
+1,684       2,133
+Inventories
+25,782       20,653
+Prepaid expenses
+1,501       1,031
+Total current assets
+49,233       46,508
+Operating lease right of use assets
+1,320       2,423
+Property, plant and equipment - at cost:
+Vehicles
+182       182
+Leasehold improvements
+425       425
+Machinery and equipment
+4,024       3,581
+Furniture and fixtures
+378       367
+Property, plant and equipment - gross
+5,009       4,555
+Less accumulated depreciation
+3,697       3,198
+Property, plant and equipment - net
+1,312       1,357
+Finite-lived intangible assets - at cost:
+Customer relationships
+7,374       7,374
+Other finite-lived intangible assets
+4,266       4,266
+Finite-lived intangible assets - gross
+11,640       11,640
+Less accumulated amortization
+9,347       8,986
+Finite-lived intangible assets - net
+2,293       2,654
+Goodwill
+7,125       7,125
+Other
+86       88
+Total Assets
+$ 61,369     $ 60,155
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+$ 6,391     $ 6,375
+Accrued wages and benefits
+776       2,196
+Accrued royalties
+853       462
+Dividends payable
+813       827
+Operating lease liabilities, current
+963       1,832
+Other accrued liabilities
+126       94
+Total current liabilities
+9,922       11,786
+Non-current liabilities:
+Deferred income taxes
+1,215       1,020
+Operating lease liabilities, noncurrent
+443       809
+Reserve for unrecognized tax liabilities
+837       739
+Total non-current liabilities
+2,495       2,568
+Shareholders' equity:
+Common stock - $ 0.01
+par value per share; Authorized
+40,000,000
+shares at January 1, 2023 and April 3, 2022; Issued
+13,011,814
+shares at January 1, 2023 and
+12,944,918
+shares at April 3, 2022
+130       129
+Additional paid-in capital
+56,866       55,925
+Treasury stock - at cost -
+2,894,242
+shares at January 1, 2023 and
+2,864,698
+shares at April 3, 2022
+( 15,803 )     ( 15,614 )
+Retained Earnings
+7,759       5,361
+Total shareholders' equity
+48,952       45,801
+Total Liabilities and Shareholders' Equity
+$ 61,369     $ 60,155
+See notes to unaudited condensed consolidated financial statements.
+2
+CROWN CRAFTS, INC. AND SUBSIDIARIES
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+THREE- AND NINE-MONTH PERIODS ENDED JANUARY 1, 2023 AND DECEMBER 26, 2021
+(amounts in thousands, except per share amounts)
+Three-Month Periods Ended
+Nine-Month Periods Ended
+January 1, 2023
+December 26, 2021
+January 1, 2023
+December 26, 2021
+Net sales
+$
+19,004
+$
+22,742
+$
+53,440
+$
+61,674
+Cost of products sold
+14,498
+16,572
+38,335
+44,780
+Gross profit
+4,506
+6,170
+15,105
+16,894
+Marketing and administrative expenses
+2,742
+3,094
+8,891
+9,624
+Income from operations
+1,764
+3,076
+6,214
+7,270
+Other (expense) income:
+Interest income - net of interest expense
+5
+( 14
+)
+6
+( 30
+)
+Gain on extinguishment of debt
+-
+-
+-
+1,985
+Gain on insurance proceeds received for damage to equipment
+-
+-
+34
+-
+Gain (loss) on sale of property, plant and equipment
+-
+-
+2
+( 3
+)
+Other - net
+( 1
+)
+( 25
+)
+123
+67
+Income before income tax expense
+1,768
+3,037
+6,379
+9,289
+Income tax expense
+420
+605
+1,557
+1,806
+Net income
+$
+1,348
+$
+2,432
+$
+4,822
+$
+7,483
+Weighted average shares outstanding:
+Basic
+10,118
+10,078
+10,096
+10,045
+Effect of dilutive securities
+15
+29
+20
+30
+Diluted
+10,133
+10,107
+10,116
+10,075
+Earnings per share -- basic and diluted
+$
+0.13
+$
+0.24
+$
+0.48
+$
+0.74
+See notes to unaudited condensed consolidated financial statements.
+3
+CROWN CRAFTS, INC. AND SUBSIDIARIES
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+THREE- AND NINE-MONTH PERIODS ENDED JANUARY 1, 2023 AND DECEMBER 26, 2021
+Common Shares
+Treasury Shares
+Additional
+Total
+Number of Shares
+Amount
+Number of Shares
+Amount
+Paid-in Capital
+Retained Earnings
+Shareholders' Equity
+(Dollar amounts in thousands)
+Three-Month Periods
+Balances - September 26, 2021
+12,924,918     $ 129       ( 2,849,846 )   $ ( 15,498 )   $ 55,335     $ 5,634     $ 45,600
+Issuance of shares
+20,000       -       -       -       96       -       96
+Stock-based compensation
+-       -       -       -       224       -       224
+Acquisition of treasury stock
+-       -       ( 14,852 )     ( 116 )     -       -       ( 116 )
+Net income
+-       -       -       -       -       2,432       2,432
+Dividend declared on common stock - $ 0.43
+per share
+-       -       -       -       -       ( 4,334 )     ( 4,334 )
+Balances - December 26, 2021
+12,944,918     $ 129       ( 2,864,698 )   $ ( 15,614 )   $ 55,655     $ 3,732     $ 43,902
+Balances - October 2, 2022
+13,011,814     $ 130       ( 2,894,242 )   $ ( 15,803 )   $ 56,613     $ 7,220     $ 48,160
+Stock-based compensation
+-       -       -       -       253       -       253
+Net income
+-       -       -       -       -       1,348       1,348
+Dividend declared on common stock - $ 0.08
+per share
+-       -       -       -       -       ( 809 )     ( 809 )
+Balances - January 1, 2023
+13,011,814     $ 130       ( 2,894,242 )   $ ( 15,803 )   $ 56,866     $ 7,759     $ 48,952
+Nine-Month Periods
+Balances - March 28, 2021
+12,809,753     $ 128       ( 2,811,446 )   $ ( 15,202 )   $ 54,748     $ 2,191     $ 41,865
+Issuance of shares
+135,165       1       -       -       343       -       344
+Stock-based compensation
+-       -       -       -       564       -       564
+Acquisition of treasury stock
+-       -       ( 53,252 )     ( 412 )     -       -       ( 412 )
+Net income
+-       -       -       -       -       7,483       7,483
+Dividends declared on common stock - $ 0.59
+per share
+-       -       -       -       -       ( 5,942 )     ( 5,942 )
+Balances - December 26, 2021
+12,944,918     $ 129       ( 2,864,698 )   $ ( 15,614 )   $ 55,655     $ 3,732     $ 43,902
+Balances - April 3, 2022
+12,944,918     $ 129       ( 2,864,698 )   $ ( 15,614 )   $ 55,925     $ 5,361     $ 45,801
+Issuance of shares
+66,896       1       -       -       97       -       98
+Stock-based compensation
+-       -       -       -       844       -       844
+Acquisition of treasury stock
+-       -       ( 29,544 )     ( 189 )     -       -       ( 189 )
+Net income
+-       -       -       -       -       4,822       4,822
+Dividends declared on common stock - $ 0.24
+per share
+-       -       -       -       -       ( 2,424 )     ( 2,424 )
+Balances - January 1, 2023
+13,011,814     $ 130       ( 2,894,242 )   $ ( 15,803 )   $ 56,866     $ 7,759     $ 48,952
+See notes to unaudited condensed consolidated financial statements.
+4
+CROWN CRAFTS, INC. AND SUBSIDIARIES
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+NINE-MONTH PERIODS ENDED JANUARY 1, 2023 AND DECEMBER 26, 2021
+(amounts in thousands)
+Nine-Month Periods Ended
+January 1, 2023
+December 26, 2021
+Operating activities:
+Net income
+$
+4,822
+$
+7,483
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation of property, plant and equipment
+499
+475
+Amortization of intangibles
+361
+389
+Amortization of right of use assets
+1,330
+1,320
+Deferred income taxes
+195
+320
+Gain on extinguishment of debt
+-
+( 1,985
+)
+Gain on insurance proceeds received for damage to equipment
+( 34
+)
+-
+(Gain) loss on sale of property, plant and equipment
+( 2
+)
+3
+Reserve for unrecognized tax liabilities
+98
+104
+Stock-based compensation
+844
+564
+Changes in assets and liabilities:
+Accounts receivable
+4,352
+( 1,664
+)
+Inventories
+( 5,129
+)
+( 4,132
+)
+Prepaid expenses
+( 470
+)
+( 210
+)
+Other assets
+2
+3
+Lease liabilities
+( 1,461
+)
+( 1,443
+)
+Accounts payable
+( 39
+)
+2,217
+Accrued liabilities
+( 998
+)
+822
+Net cash provided by operating activities
+4,370
+4,266
+Cash used in investing activities:
+Capital expenditures for property, plant and equipment
+( 399
+)
+( 375
+)
+Insurance proceeds received for damage to equipment
+34
+-
+Proceeds from sale of property, plant and equipment
+2
+20
+Net cash used in investing activities
+( 363
+)
+( 355
+)
+Financing activities:
+Repayments under revolving line of credit
+-
+( 5,809
+)
+Borrowings under revolving line of credit
+-
+5,809
+Purchase of treasury stock from related parties
+( 189
+)
+( 412
+)
+Issuance of common stock
+98
+344
+Dividends paid
+( 2,438
+)
+( 2,404
+)
+Net cash used in financing activities
+( 2,529
+)
+( 2,472
+)
+Net increase in cash and cash equivalents
+1,478
+1,439
+Cash and cash equivalents at beginning of period
+1,598
+613
+Cash and cash equivalents at end of period
+$
+3,076
+$
+2,052
+Supplemental cash flow information:
+Income taxes paid
+$
+130
+$
+934
+Interest paid
+7
+9
+Noncash activities:
+Property, plant and equipment purchased but unpaid
+( 55
+)
+( 17
+)
+Dividends declared but unpaid
+( 813
+)
+( 4,338
+)
+See notes to unaudited condensed consolidated financial statements.
+5
+CROWN CRAFTS, INC. AND SUBSIDIARIES
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE- AND NINE-MONTH PERIODS ENDED JANUARY 1, 2023 AND DECEMBER 26, 2021
+Note
+1
+–
+Interim Financial Statements
+Basis of Presentation:
+The accompanying unaudited condensed consolidated financial statements include the accounts of Crown Crafts, Inc. (the “Company”) and its subsidiaries and have been prepared pursuant to accounting principles generally accepted in the United States (“GAAP”) applicable to interim financial information as promulgated by the Financial Accounting Standards Board (“FASB”). Accordingly, they do
+not
+include all of the information and disclosures required by GAAP for complete financial statements. References herein to GAAP are to topics within the FASB Accounting Standards Codification (the “FASB ASC”), which the FASB periodically revises through the issuance of an Accounting Standards Update (“ASU”) and which has been established by the FASB as the authoritative source for GAAP recognized by the FASB to be applied by nongovernmental entities.
+In the opinion of the Company’s management, the interim unaudited condensed consolidated financial statements contained herein include all adjustments necessary to present fairly the financial position of the Company as of
+January 1, 2023
+and the results of its operations and cash flows for the periods presented. Such adjustments include normal, recurring accruals, as well as the elimination of all significant intercompany balances and transactions. Operating results for the quarter ended
+January 1, 2023
+are
+not
+necessarily indicative of the results that
+may
+be expected by the Company for its fiscal year ending
+April 2, 2023.
+For further information, refer to the Company’s consolidated financial statements and notes thereto included in the Company’s Annual Report on Form
+10 -K for the fiscal year ended
+April 3, 2022.
+Fiscal Year:
+The Company’s fiscal year ends on the Sunday that is nearest to or on
+March 31.
+References herein to “fiscal year
+2023”
+or
+“2023”
+represent the
+52 -week period ending
+April 2, 2023
+and references herein to “fiscal year
+2022”
+or
+“2022”
+represent the
+53 -week period ended
+April 3, 2022.
+Recently-Issued Accounting Standards:
+In
+June 2016,
+the FASB issued ASU
+No.
+2016 - 13,
+Financial Instruments
+–
+Credit Losses (Topic
+326 ): Measurement of Credit Losses on Financial Instruments,
+the objective of which is to provide financial statement users with more information about the expected credit losses on financial instruments and other commitments to extend credit held by an entity. Current GAAP requires an “incurred loss” methodology for recognizing credit losses that delays recognition until it is probable that a loss has been incurred. Because this methodology restricted the recognition of credit losses that are expected, but did
+not
+yet meet the “probable” threshold, ASU
+No.
+2016 - 13
+was issued to require the consideration of a broader range of reasonable and supportable information when determining estimates of credit losses. The ASU is to be applied using a modified retrospective approach, and the ASU could have been early-adopted in the fiscal year that began after
+December 15, 2018.
+When issued, ASU
+No.
+2016 - 13
+was required to be adopted
+no
+later than the fiscal year beginning after
+December 15, 2019,
+but on
+November 15, 2019,
+the FASB issued ASU
+No.
+2019 - 10,
+Financial Instruments
+–
+Credit Losses (Topic
+326 ), Derivatives and Hedging (Topic
+815 ), and Leases (Topic
+842 ): Effective Dates , which provided for the deferral of the effective date of ASU
+No.
+2016 - 13
+for a registrant that is a smaller reporting company to the
+first
+interim period of the fiscal year beginning after
+December 15, 2022.
+Accordingly, the Company intends to adopt ASU
+No.
+2016 - 13
+effective as of
+April 3, 2023.
+Because the Company assigns substantially all of its trade accounts receivable under factoring agreements with The CIT Group/Commercial Services, Inc. (“CIT”), a subsidiary of CIT Group Inc., the Company does
+not
+believe that the adoption of the ASU will have a significant impact on the Company’s financial position, results of operations and related disclosures.
+The Company has determined that all other ASUs issued which had become effective as of
+January 1, 2023,
+or which will become effective at some future date, are
+not
+expected to have a material impact on the Company’s consolidated financial statements.
+Note
+2
+–
+Advertising Costs
+The Company’s advertising costs are primarily associated with cooperative advertising arrangements with certain of the Company’s customers and are recognized using the straight-line method based upon aggregate annual estimated amounts for these customers, with periodic adjustments to the actual amounts of authorized agreements. Advertising expense is included in marketing and administrative expenses in the accompanying unaudited condensed consolidated statements of income and amounted to $ 123,000
+and $ 105,000
+for the
+three -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+respectively, and amounted to $ 370,000
+and $ 455,000
+for the
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+respectively.
+6
+Note
+3
+–
+Segment and Related Information
+The Company operates primarily in
+one
+principal segment, infant, toddler and juvenile products. These products consist of infant and toddler bedding, blankets, accessories, bibs, toys and disposable products. Net sales of bedding, blankets and accessories and net sales of bibs, toys and disposable products for the
+three - and
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021
+are as follows (in thousands):
+Three-Month Periods Ended
+Nine-Month Periods Ended
+January 1, 2023
+December 26, 2021
+January 1, 2023
+December 26, 2021
+Bedding, blankets and accessories
+$
+9,005
+$
+11,780
+$
+26,006
+$
+32,838
+Bibs, toys and disposables products
+9,999
+10,962
+27,434
+28,836
+Total net sales
+$
+19,004
+$
+22,742
+$
+53,440
+$
+61,674
+Note
+4
+–
+Licensing Agreements
+The Company has entered into licensing agreements that provide for royalty payments based on a percentage of sales with certain minimum guaranteed amounts. These royalty amounts are accrued based upon historical sales rates adjusted for current sales trends by customers. Royalty expense is included in cost of products sold in the accompanying unaudited condensed consolidated statements of income and amounted to $ 1.2
+million and $ 1.5
+million for the
+three
+months ended
+January 1, 2023
+and
+December 26, 2021,
+respectively, and amounted to $ 3.5
+million and $ 4.2
+million for the
+nine
+months ended
+January 1, 2023
+and
+December 26, 2021,
+respectively.
+Note
+5
+–
+Income Taxes
+The Company files income tax returns in the many jurisdictions in which it operates, including the U.S., several U.S. states and the People’s Republic of China. The statute of limitations varies by jurisdiction; tax years open to examination or other adjustment as of
+January 1, 2023
+were the fiscal years ended
+April 3, 2022,
+March 28, 2021,
+March 29, 2020,
+March 31, 2019,
+April 1, 2018
+and
+April 2, 2017.
+In
+August 2020,
+the Company was notified by the Franchise Tax Board of the State of California of its intention to examine the Company’s California income tax returns for the fiscal years ended
+March 31, 2019,
+April 1, 2018
+and
+April 2, 2017.
+Further, in
+February 2021,
+the Company was notified by the U.S. Internal Revenue Service of its intention to examine the Company’s amended federal income tax return for the fiscal year ended
+April 2, 2017.
+The ultimate resolution of these examinations could include administrative or legal proceedings. Although management believes that the calculations and positions taken on these income tax returns and all other filed income tax returns are reasonable and justifiable, the outcome of these or any other examination could result in an adjustment to the position that the Company took on such income tax returns.
+The Company recorded discrete income tax charges of $ 6,000
+during the
+nine -month period ended
+January 1, 2023,
+and the Company recorded discrete income tax benefits of $ 11,000
+and $ 83,000
+during the
+three - and
+nine -month periods ended
+December 26, 2021,
+respectively, to reflect the net effects of the excess tax benefits and tax shortfalls arising from the exercise of stock options and the vesting of non-vested stock during the periods.
+Note
+6
+–
+Carousel Designs
+The accompanying unaudited condensed consolidated statements of income for the
+three - and
+nine -month periods ended
+December 26, 2021
+include income, expenses and losses associated with the operating activities of Carousel Designs, LLC (“Carousel”), a wholly-owned subsidiary that manufactured and marketed infant and toddler bedding directly to consumers online from a facility in Douglasville, Georgia. On
+May 5, 2021,
+the Company’s Board of Directors (the “Board”) approved the closure of Carousel due to its high costs, declining sales and operating losses, as well as management’s determination that, due to post-COVID- 19
+competitive pressures in the infant, toddler and juvenile products segment within the consumer products industry, such losses were likely to continue. Accordingly, the operations of Carousel ceased on
+May 21, 2021.
+During the
+three - and
+nine -month periods ended
+December 26, 2021,
+Carousel experienced a gross loss of $ 1,000
+and $ 689,000 , respectively. The gross loss was the result of the sale of inventory below cost and, for the
+three -month period ended
+June 27, 2021
+and the
+nine -month period ended
+December 26, 2021,
+the recognition of charges of $ 334,000
+related to the settlement with a supplier of a commitment to purchase fabric and $ 265,000
+associated with the liquidation of Carousel’s remaining inventory upon the closure of the business.
+7
+Note
+7
+–
+Financing Arrangements
+Factoring Agreements:  To reduce its exposure to credit losses, the Company assigns substantially all of its trade accounts receivable to CIT pursuant to factoring agreements, which have expiration dates that are coterminous with that of the financing agreement described below. Under the terms of the factoring agreements, CIT remits customer payments to the Company as such payments are received by CIT. As such, the Company does
+not
+take advances on the factoring agreements.
+CIT bears credit losses with respect to assigned accounts receivable from approved shipments, while the Company bears the responsibility for adjustments from customers related to returns, allowances, claims and discounts. CIT
+may
+at any time terminate or limit its approval of shipments to a particular customer. If such a termination or limitation occurs, then the Company either assumes (and
+may
+seek to mitigate) the credit risk for shipments to the customer after the date of such termination or limitation or discontinues shipments to the customer. Factoring fees, which are included in marketing and administrative expenses in the accompanying unaudited condensed consolidated statements of income, amounted to $ 77,000
+and $ 99,000
+for the
+three -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+respectively, and amounted to $ 224,000
+and $ 248,000
+for the
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+respectively.
+Credit Facility:   The Company’s credit facility as of
+January 1, 2023
+consisted of a revolving line of credit under a financing agreement with CIT of up to $ 26.0
+million, which includes a $ 1.5
+million sub-limit for letters of credit. The financing agreement matures on
+July 11, 2025,
+bears interest at prime minus
+1.0 % or the Secured Overnight Financing Rate (“SOFR”) plus
+1.6 %, and is secured by a
+first
+lien on all assets of the Company. At
+January 1, 2023,
+the Company had elected to pay interest on balances owed under the revolving line of credit, if any, under the SOFR option. The financing agreement also provides for the payment by CIT to the Company of interest at prime as of the beginning of the calendar month minus
+2.0 %, which was
+5.5 % as of
+January 1, 2023,
+on daily negative balances, if any, held at CIT.
+As of
+January 1, 2023
+and
+April 3, 2022,
+there was
+no
+balance owed on the revolving line of credit, there was
+no
+letter of credit outstanding and $ 26.0
+million was available under the revolving line of credit based on the Company’s eligible accounts receivable and inventory balances. The financing agreement contains usual and customary covenants for agreements of that type, including limitations on other indebtedness, liens, transfers of assets, investments and acquisitions, merger or consolidation transactions, transactions with affiliates, and changes in or amendments to the organizational documents for the Company and its subsidiaries. The Company believes it was in compliance with these covenants as of
+January 1, 2023.
+Credit Concentration:
+The Company’s accounts receivable as of
+January 1, 2023
+amounted to $ 18.9
+million, net of allowances of $ 1.5
+million. Of this amount, $ 17.2
+million was due from CIT under the factoring agreements; an additional amount of $ 1.7
+million was due from CIT as a negative balance outstanding under the revolving line of credit. The combined amount of $ 18.9
+million represented the maximum loss that the Company could have incurred as of
+January 1, 2023
+if CIT had failed completely to perform its obligations under the factoring agreements and the revolving line of credit. The Company’s accounts receivable at
+April 3, 2022
+amounted to $ 23.2
+million, net of allowances of $ 945,000 . Of this amount, $ 21.1
+million was due from CIT under the factoring agreements; an additional amount of $ 1.5
+million was due from CIT as a negative balance outstanding under the revolving line of credit. The combined amount of $ 22.6
+million represented the maximum loss that the Company could have incurred as of
+April 3, 2022
+if CIT had failed completely to perform its obligations under the factoring agreements and the revolving line of credit.
+Paycheck Protection Program Loan:
+On
+April 19, 2020,
+the Company executed a Note (the “Note”) in connection with a loan made pursuant to the Paycheck Protection Program (the “PPP Loan”), which is administered by the U.S. Small Business Administration (the “SBA”) under the Coronavirus Aid, Relief and Economic Security Act (the “CARES Act”) and the Paycheck Protection Program Flexibility Act of
+2020.
+The Note was entered into with CIT Bank, N.A. (the “Lender”) for the principal amount of $ 1,963,800
+and accrued interest at
+1.0%
+per year.
+As authorized by the provisions of the CARES Act, the Company applied to the Lender for forgiveness of all or a portion of the PPP Loan. The Note would have matured on
+April 20, 2022,
+but on
+May 20, 2021,
+the PPP Loan was forgiven in full and the SBA remitted to the Lender on that date the principal amount of the Note of $ 1,963,800
+and interest of $ 21,000
+that had accrued from the funding date of
+April 20, 2020
+through the forgiveness date of
+May 20, 2021.
+During the
+three
+months ended
+June 27, 2021,
+the Company recorded a gain on extinguishment of debt in the amount of $ 1,985,000
+associated with the forgiveness of the PPP Loan, which has been presented below income from operations in the accompanying unaudited condensed consolidated statements of income.
+8
+Note
+8
+–
+Goodwill
+Goodwill represents the excess of the purchase price over the fair value of net identifiable assets acquired in business combinations. For the purpose of presenting and measuring for the impairment of goodwill, the Company has
+two
+reporting units:
+one
+that produces and markets infant and toddler bedding, blankets and accessories and another that produces and markets infant and toddler bibs, toys and disposable products. The Company’s reporting units have recognized goodwill as of
+January 1, 2023
+and
+April 3, 2022
+of $ 30.0
+million, which is reflected in the accompanying condensed consolidated balance sheets net of accumulated impairment charges of $ 22.9
+million, for a net reported balance of $ 7.1
+million.
+The Company measures for impairment the goodwill within its reporting units annually as of the
+first
+day of the Company’s fiscal year. An additional interim measurement for impairment is performed during the year whenever an event or change in circumstances occurs that suggests that the fair value of either of the reporting units of the Company has more likely than
+not
+(defined as having a likelihood of greater than
+50% ) fallen below its carrying value. The annual or interim measurement for impairment is performed by
+first
+assessing qualitative factors to determine whether it is more likely than
+not
+that the fair value of a reporting unit is less than its carrying amount. If such qualitative factors so indicate, then the measurement for impairment is continued by calculating an estimate of the fair value of each reporting unit and comparing the estimated fair value to the carrying value of the reporting unit. If the carrying value exceeds the estimated fair value of the reporting unit, then an impairment charge is calculated as the difference between the carrying value of the reporting unit and its estimated fair value,
+not
+to exceed the goodwill of the reporting unit.
+On
+April 4, 2022,
+the Company performed a qualitative assessment to determine if it is more likely than
+not
+that the fair values of the Company’s reporting units are less than their carrying values by evaluating relevant events and circumstances, including financial performance, market conditions and share price. Based on this assessment, the Company concluded that the goodwill for each of the Company’s reporting units was
+not
+considered at risk of impairment.
+Note
+9
+–
+Other Intangible Assets
+Other intangible assets as of
+January 1, 2023
+and
+April 3, 2022
+consisted primarily of the fair value of identifiable assets acquired in business combinations other than tangible assets and goodwill. The gross amount and accumulated amortization of the Company’s other intangible assets as of
+January 1, 2023
+and
+April 3, 2022,
+the amortization expense for the
+three - and
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+and the classification of such amortization expense within the accompanying unaudited condensed consolidated statements of income are as follows (in thousands):
+Amortization Expense
+Gross Amount
+Accumulated Amortization
+Three-Month Periods Ended
+Nine-Month Periods Ended
+January 1,
+April 3,
+January 1,
+April 3,
+January 1,
+December 26,
+January 1,
+December 26,
+2023
+2022
+2023
+2022
+2023
+2021
+2023
+2021
+Tradename and trademarks
+$
+2,567
+$
+2,567
+$
+1,990
+$
+1,885
+$
+35
+$
+43
+$
+105
+$
+128
+Non-compete covenants
+98
+98
+98
+98
+-
+2
+-
+5
+Patents
+1,601
+1,601
+1,042
+1,003
+13
+13
+39
+40
+Customer relationships
+7,374
+7,374
+6,217
+6,000
+72
+72
+217
+216
+Total other intangible assets
+$
+11,640
+$
+11,640
+$
+9,347
+$
+8,986
+$
+120
+$
+130
+$
+361
+$
+389
+Classification within the accompanying unaudited condensed consolidated statements of income:
+Cost of products sold
+$
+-
+$
+2
+$
+-
+$
+5
+Marketing and administrative expenses
+120
+128
+361
+384
+Total amortization expense
+$
+120
+$
+130
+$
+361
+$
+389
+Note
+10
+–
+Inventories
+Major classes of inventory were as follows (in thousands):
+January 1, 2023
+April 3, 2022
+Raw Materials
+$
+-
+$
+28
+Finished Goods
+25,782
+20,625
+Total inventory
+$
+25,782
+$
+20,653
+9
+Note
+11
+–
+Leases
+The Company made cash payments related to its recognized operating leases of $ 492,000
+and $ 460,000
+during the
+three
+months ended
+January 1, 2023
+and
+December 26, 2021,
+respectively, and $ 1.5
+million and $ 1.4
+million during the
+nine
+months ended
+January 1, 2023
+and
+December 26, 2021,
+respectively. Such payments reduced the operating lease liabilities and were included in the cash flows provided by operating activities in the accompanying unaudited condensed consolidated statements of cash flows. At
+January 1, 2023,
+the Company’s operating leases had a weighted-average remaining lease term of  1.6
+years and a weighted-average discount rate of  3.6 %.
+During the
+three - and
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+the Company classified its operating lease costs within the accompanying unaudited condensed consolidated statements of income as follows (in thousands):
+Three-Month Periods Ended
+Nine-Month Periods Ended
+January 1, 2023
+December 26, 2021
+January 1, 2023
+December 26, 2021
+Cost of products sold
+$ 403     $ 395     $ 1,205     $ 1,197
+Marketing and administrative expenses
+43       32       125       123
+Total operating lease costs
+$ 446     $ 427     $ 1,330     $ 1,320
+The maturities of the Company’s operating lease liabilities as of
+January 1, 2023
+are as follows (in thousands):
+Fiscal Year
+2023
+$ 493
+2024
+563
+2025
+223
+2026
+171
+Total undiscounted operating lease payments
+1,450
+Less imputed interest
+44
+Operating lease liabilities - net
+$ 1,406
+On
+February 3, 2023,
+the Company entered into a new operating lease agreement for approximately
+157,400
+square feet for its existing office, warehouse and distribution center located in Compton, California.  The existing lease for the Compton facility will expire on
+May 31, 2023;
+the term of the new lease is
+sixty
+( 60 ) months, commencing on
+June 1, 2023.
+The Company will be required to remit minimum non-variable rental payments under the new lease of $ 2.8
+million, $ 3.5
+million, $ 3.7
+million, $ 3.8
+million, $ 4.0
+million and $ 663,000
+in fiscal years
+2024,
+2025,
+2026,
+2027,
+2028
+and
+2029,
+respectively.  As of
+February 3, 2023,
+the Company had
+not
+yet calculated the amount associated with the lease that will be capitalized as an operating lease right-of-use asset or the corresponding operating lease liability.
+Note
+12
+–
+Stock-based Compensation
+The Company has
+three
+incentive stock plans, the
+2006
+Omnibus Incentive Plan (the
+“2006
+Plan”), the
+2014
+Omnibus Equity Compensation Plan (the
+“2014
+Plan”) and the
+2021
+Incentive Plan (the
+“2021
+Plan”), although grants
+may
+no
+longer be issued under either the
+2006
+Plan or the
+2014
+Plan. As of
+January 1, 2023,
+805,439
+shares of the Company’s common stock were available for future issuance under the
+2021
+Plan, which
+may
+be issued from authorized and unissued shares of the Company’s common stock or treasury shares. The Company recorded stock-based compensation expense of $ 253,000
+and $ 224,000
+during the
+three -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+respectively, and recorded $ 844,000
+and $ 564,000
+during the
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+respectively. The Company records the compensation expense associated with stock-based awards granted to individuals in the same expense classifications as the cash compensation paid to those same individuals.
+No
+stock-based compensation costs were capitalized as part of the cost of an asset as of
+January 1, 2023.
+10
+Stock Options:
+The following table represents stock option activity for the
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021:
+Nine-Month Periods Ended
+January 1, 2023
+December 26, 2021
+Weighted-
+Weighted-
+Average
+Number of
+Average
+Number of
+Exercise
+Options
+Exercise
+Options
+Price
+Outstanding
+Price
+Outstanding
+Outstanding at Beginning of Period
+$ 7.39       635,500     $ 6.84       567,500
+Granted
+6.54       120,000       7.98       158,000
+Exercised
+4.92       ( 20,000 )     7.72       ( 70,000 )
+Forfeited
+-       -       4.84       ( 20,000 )
+Outstanding at End of Period
+7.32       735,500       7.39       635,500
+Exercisable at End of Period
+7.42       499,000       7.54       352,500
+As of
+January 1, 2023,
+the intrinsic value of the outstanding and exercisable stock options was $ 47,000 . There were
+no
+options exercised during the
+three -month period ended
+January 1, 2023.
+The intrinsic value of the stock options exercised during the
+nine -month period ended
+January 1, 2023
+was $ 28,000 . The Company did
+not
+receive any cash from the exercise of stock options during either of the
+nine -month periods ended
+January 1, 2023
+or
+December 26, 2021.
+Upon the exercise of stock options, participants
+may
+choose to surrender to the Company those shares from the option exercise necessary to satisfy the exercise amount and their income tax withholding obligations that arise from the option exercise. The effect on the cash flow of the Company from these “cashless” option exercises is that the Company remits cash on behalf of the participant to satisfy his or her income tax withholding obligations. The Company used cash to remit the required income tax withholding amounts from “cashless” option exercises of $ 19,000
+during the
+three -month period ended
+December 26, 2021,
+and $ 10,000
+and $ 67,000
+during the
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+respectively.
+Stock-based compensation is calculated according to FASB ASC Topic
+718,
+Compensation
+–
+Stock Compensation , which requires stock-based compensation to be accounted for using a fair-value-based measurement. To determine the estimated fair value of stock options granted, the Company uses the Black-Scholes-Merton valuation formula, which is a closed-form model that uses an equation to estimate fair value. The following table sets forth the assumptions used to determine the fair value of the non-qualified stock options that were awarded to certain employees during the
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+which options vest over a
+two -year period, assuming continued service.
+Nine-Month Periods Ended
+January 1, 2023
+December 26, 2021
+Number of options issued
+120,000       158,000
+Grant date
+June 7, 2022
+June 9, 2021
+Dividend yield
+4.89 %     4.00 %
+Expected volatility
+30.00 %     35.00 %
+Risk free interest rate
+2.95 %     0.53 %
+Contractual term (years)
+10.00       10.00
+Expected term (years)
+4.00       4.00
+Forfeiture rate
+5.00 %     5.00 %
+Exercise price (grant-date closing price) per option
+$ 6.54     $ 7.98
+Fair value per option
+$ 0.90     $ 1.61
+During the
+three -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+the Company classified its compensation expense associated with stock options within the accompanying unaudited condensed consolidated statements of income as follows (in thousands):
+Three-Month Period Ended January 1, 2023
+Three-Month Period Ended December 26, 2021
+Cost of
+Marketing &
+Cost of
+Marketing &
+Products
+Administrative
+Total
+Products
+Administrative
+Total
+Options Granted in Fiscal Year
+Sold
+Expenses
+Expense
+Sold
+Expenses
+Expense
+2021
+$ -     $ 11     $ 11     $ 4     $ 14     $ 18
+2022
+9       20       29       9       20       29
+2023
+6       7       13       -       -       -
+Total stock option compensation
+$ 15     $ 38     $ 53     $ 13     $ 34     $ 47
+11
+During the
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+the Company classified its compensation expense associated with stock options within the accompanying unaudited condensed consolidated statements of income as follows (in thousands):
+Nine-Month Period Ended January 1, 2023
+Nine-Month Period Ended December 26, 2021
+Cost of
+Marketing &
+Cost of
+Marketing &
+Products
+Administrative
+Total
+Products
+Administrative
+Total
+Options Granted in Fiscal Year
+Sold
+Expenses
+Expense
+Sold
+Expenses
+Expense
+2020
+$ -     $ -     $ -     $ 3     $ 4     $ 7
+2021
+3       37       40       11       37       48
+2022
+31       66       97       20       52       72
+2023
+12       17       29       -       -       -
+Total stock option compensation
+$ 46     $ 120     $ 166     $ 34     $ 93     $ 127
+As of
+January 1, 2023,
+total unrecognized stock option compensation expense amounted to $ 143,000 , which will be recognized as the underlying stock options vest over a weighted-average period of
+7.4
+months. The amount of future stock option compensation expense could be affected by any future stock option grants and by the separation from the Company of any individual who has received stock options that are unvested as of such individual’s separation date.
+Non-vested Stock Granted to Directors:
+The following shares of non-vested stock were granted to the Company’s directors:
+Number of Shares
+Fair Value per Share
+Grant Date
+Vesting Period (Years)
+46,896     $ 6.65
+August 16, 2022
+One
+40,165       7.47
+August 11, 2021
+One
+41,452       5.79
+August 12, 2020
+Two
+46,512       5.16
+August 14, 2019
+Two
+The fair value of the non-vested stock granted to the Company’s directors was based on the closing price of the Company’s common stock on the date of each grant. The non-vested stock granted on
+August 11, 2021
+included
+8,033
+shares granted to E. Randall Chestnut, formerly the Company’s Chairman, President and Chief Executive Officer. On
+May 1, 2022,
+upon the resignation of Mr. Chestnut from the Board and his retirement from all positions that he held within the Company, the vesting of these
+8,033
+shares was accelerated, with such shares having an aggregate value on such date of $ 50,000 . The remaining shares set forth above will vest over the periods indicated, assuming continued service. In
+August 2022
+and
+August 2021,
+52,856
+shares and
+43,984
+shares, respectively, that had been granted to the Company’s directors vested, having an aggregate value of $ 331,000
+and $ 327,000 , respectively.
+Non-vested Stock Granted to Employees:
+The following shares of non-vested stock were granted to certain of the Company’s employees:
+Number of Shares
+Fair Value per Share
+Grant Date
+Vesting Date
+20,000     $ 4.92
+June 10, 2020
+June 10, 2022
+10,000       7.60
+February 22, 2021
+February 22, 2023
+25,000       7.98
+June 9, 2021
+June 9, 2022
+These shares vest on the dates indicated, assuming continued service. In
+June 2022,
+45,000
+shares that had been granted to certain of the Company’s employees vested, having an aggregate value on their respective vesting dates of $ 293,000 .
+Performance Award Shares:  On
+March 1, 2022,  performance awards were granted to certain of the Company’s executive officers, consisting of  187,500  shares, of which: (a)  75,000  shares shall be earned if the closing price per share of the Company’s common stock equals or exceeds $ 8.00  on  ten  trading days within any period of  twenty  consecutive trading days prior to
+March 1, 2027;  and (b)  112,500  shares shall be earned if the closing price per share of the Company’s common stock equals or exceeds $ 9.00  on  ten  trading days within any period of  twenty  consecutive trading days prior to
+March 1, 2027.
+Upon the achievement of each applicable stock hurdle described above: (i)  one - third  of the shares that are earned shall vest on the later of the date on which the shares are earned and
+March 1, 2023; ( ii)  one - third  of the shares that are earned shall vest on the  first  anniversary of the date on which the shares are earned; and (iii)  one - third  shall vest on the  second  anniversary of the date on which the shares are earned. All shares that are non-earned or non-vested will be forfeited upon the termination of service. The Company, with the assistance of an independent  third  party, determined that the grant date fair value of the awards amounted to $ 732,000 .
+12
+During the
+three - and
+nine -month periods ended
+January 1, 2023
+and
+December 26, 2021,
+the Company recorded compensation expense associated with stock grants, which is included in marketing and administrative expenses in the accompanying unaudited condensed consolidated statements of income, as follows (in thousands):
+Three-Month Periods Ended
+Nine-Month Periods Ended
+Stock Granted in Fiscal Year
+January 1, 2023
+December 26, 2021
+January 1, 2023
+December 26, 2021
+2020
+$ -     $ -     $ -     $ 40
+2021
+9       52       76       156
+2022
+113       125       472       241
+2023
+78       -       130       -
+Total stock grant compensation
+$ 200     $ 177     $ 678     $ 437
+As of
+January 1, 2023,
+total unrecognized compensation expense related to the Company’s non-vested stock grants amounted to $ 542,000 , which will be recognized over the respective vesting terms associated with each block of non-vested stock indicated above, such grants having an aggregate weighted-average vesting term of
+11.7
+months. The amount of future compensation expense related to the Company’s non-vested stock grants could be affected by any future non-vested stock grants and by the separation from the Company of any individual who has non-vested stock grants as of such individual’s separation date.
+Note
+13
+–
+Subsequent Events
+On
+February 3, 2023,
+the Company entered into a new operating lease agreement for approximately
+157,400
+square feet for its existing office, warehouse and distribution center located in Compton, California.  The Company has evaluated all other events which have occurred between
+January 1, 2023
+and the date that the accompanying unaudited condensed consolidated financial statements were issued, and has determined that there are
+no
+other material subsequent events that require disclosure.
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+FORWARD-LOOKING INFORMATION
+Certain of the statements made in this Quarterly Report on Form 10-Q (this “Quarterly Report”) within this Item 2. and elsewhere, including information incorporated herein by reference to other documents, are “forward-looking statements” within the meaning of, and subject to the protections of, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and the Private Securities Litigation Reform Act of 1995. Such statements are based upon management’s current expectations, projections, estimates and assumptions. Words such as “expects,” “believes,” “anticipates,” “intends,” “may,” “will,” “could,” “would” and variations of such words and similar expressions may identify such forward-looking statements. Forward-looking statements involve known and unknown risks and uncertainties that may cause future results to differ materially from those suggested by the forward-looking statements. These risks include, among others, the impact of the COVID-19 pandemic on the Company’s business operations, general economic conditions, including changes in interest rates, in the overall level of consumer spending and in the price of oil, cotton and other raw materials used in the Company’s products, changing competition, changes in the retail environment, the Company’s ability to successfully integrate newly acquired businesses, the level and pricing of future orders from the Company’s customers, the Company’s dependence upon third-party suppliers, including some located in foreign countries with unstable political situations, the Company’s ability to successfully implement new information technologies, customer acceptance of both new designs and newly-introduced product lines, actions of competitors that may impact the Company’s business, disruptions to transportation systems or shipping lanes used by the Company or its suppliers, and the Company’s dependence upon licenses from third parties. Reference is also made to the Company’s periodic filings with the Securities and Exchange Commission for additional factors that may impact the Company’s results of operations and financial condition. The Company does not undertake to update the forward-looking statements contained herein to conform to actual results or changes in the Company’s expectations, whether as a result of new information, future events or otherwise.
+DESCRIPTION OF BUSINESS
+The Company was originally formed as a Georgia corporation in 1957 and was reincorporated as a Delaware corporation in 2003. The Company operates indirectly through two of its wholly-owned subsidiaries, NoJo Baby & Kids, Inc. and Sassy Baby, Inc., in the infant, toddler and juvenile products segment within the consumer products industry. The infant, toddler and juvenile products segment consists of infant and toddler bedding and blankets, bibs, disposables, toys and feeding products.
+13
+The Company’s products are marketed under Company-owned trademarks, under trademarks licensed from others and as private label goods. Sales of the Company’s products are made directly to retailers, such as mass merchants, large chain stores, juvenile specialty stores, value channel stores, grocery and drug stores, restaurants, wholesale clubs and internet-based retailers.
+The accompanying unaudited condensed consolidated statements of income for the three- and nine-month periods ended December 26, 2021 include income, expenses and losses associated with the operating activities of Carousel, a wholly-owned subsidiary that manufactured and marketed infant and toddler bedding directly to consumers online from a facility in Douglasville, Georgia. On May 5, 2021, the Board approved the closure of Carousel due to a history of high costs, declining sales and operating and cash flow losses, as well as management’s determination that such losses were likely to continue. Accordingly, the operations of Carousel ceased at the close of business on May 21, 2021.
+Foreign and domestic contract manufacturers produce most of the Company’s products, with the largest concentration being in China. The Company makes sourcing decisions based on quality, timeliness of delivery and price, including the impact of ocean freight and duties. Although the Company maintains relationships with a limited number of suppliers, the Company believes that its products may be readily manufactured by several alternative sources in quantities sufficient to meet the Company's requirements.
+A summary of certain factors that management considers important in reviewing the Company’s results of operations, financial position, liquidity and capital resources is set forth below, which should be read in conjunction with the accompanying condensed consolidated financial statements and related notes included in the preceding sections of this Quarterly Report.
+RESULTS OF OPERATIONS
+The following table contains the results of operations for the three- and nine-month periods ended January 1, 2023 and December 26, 2021 and the dollar and percentage changes for those periods (in thousands, except percentages):
+Three-Month Periods Ended
+Change
+Nine-Month Periods Ended
+Change
+January 1,
+2023
+December 26,
+2021
+$
+%
+January 1,
+2023
+December 26,
+2021
+$
+%
+Net sales by category:
+Bedding, blankets and accessories
+$
+9,005
+$
+11,780
+$
+(2,775
+)
+-23.6
+%
+$
+26,006
+$
+32,838
+$
+(6,832
+)
+-20.8
+%
+Bibs, toys and disposable products
+9,999
+10,962
+(963
+)
+-8.8
+%
+27,434
+28,836
+(1,402
+)
+-4.9
+%
+Total net sales
+19,004
+22,742
+(3,738
+)
+-16.4
+%
+53,440
+61,674
+(8,234
+)
+-13.4
+%
+Cost of products sold
+14,498
+16,572
+(2,074
+)
+-12.5
+%
+38,335
+44,780
+(6,445
+)
+-14.4
+%
+Gross profit
+4,506
+6,170
+(1,664
+)
+-27.0
+%
+15,105
+16,894
+(1,789
+)
+-10.6
+%
+% of net sales
+23.7
+%
+27.1
+%
+28.3
+%
+27.4
+%
+Marketing and administrative expenses
+2,742
+3,094
+(352
+)
+-11.4
+%
+8,891
+9,624
+(733
+)
+-7.6
+%
+% of net sales
+14.4
+%
+13.6
+%
+16.6
+%
+15.6
+%
+Interest income - net of interest expense
+5
+(14
+)
+19
+-135.7
+%
+6
+(30
+)
+36
+-120.0
+%
+Gain on extinguishment of debt
+-
+-
+-
+-
+1,985
+(1,985
+)
+Other income (expense) - net
+(1
+)
+(25
+)
+24
+-96.0
+%
+159
+64
+95
+148.4
+%
+Income tax expense
+420
+605
+(185
+)
+-30.6
+%
+1,557
+1,806
+(249
+)
+-13.8
+%
+Net income
+1,348
+2,432
+(1,084
+)
+-44.6
+%
+4,822
+7,483
+(2,661
+)
+-35.6
+%
+% of net sales
+7.1
+%
+10.7
+%
+9.0
+%
+12.1
+%
+Net Sales:
+Sales decreased to $19.0 million for the three months ended January 1, 2023, compared with $22.7 million for the three months ended December 26, 2021, a decrease of $3.7 million, or 16.4%. Sales of bedding, blankets and accessories decreased by $2.8 million, and sales of bibs, toys and disposable products decreased by $963,000.
+Sales declined in part due to sales to a struggling retail customer of the Company that were approximately $600,000 lower in the current-year quarter. Also, because the Company’s products can typically be purchased anytime during the mother’s pregnancy, sales declined during the current-year quarter as consumers, influenced by current macroeconomic conditions, and more so in the current quarter than in prior quarters, diverted their discretionary spending to holiday purchases.
+Sales for the nine-month period ended January 1, 2023 decreased to $53.4 million, compared with $61.7 million for the nine-month period ended December 26, 2021, a decrease of $8.2 million, or 13.4%. Sales of bedding, blankets and accessories decreased by $6.8 million, and sales of bibs, toys and disposable products decreased by $1.4 million. The decreases in sales are primarily due to lower replenishment orders at retailers. Also, during the current-year period, the Company’s customers have been reducing their purchases as their inventories have increased, which the Company believes has resulted from customers’ excessive inventory purchases during the first quarter of calendar 2022 and consumers’ response to macroeconomic conditions.
+14
+Gross Profit:
+Gross profit decreased by $1.7 million and decreased from 27.1% of net sales for the three-month period ended December 26, 2021 to 23.7% of net sales for the three-month period ended January 1, 2023. Gross profit decreased by $1.8 million but increased from 27.4% of net sales for the nine-month period ended December 26, 2021 to 28.3% of net sales for the nine-month period ended January 1, 2023. The decrease in the gross profit amount for the current-year periods is associated with the decline in sales during the periods and is net of the positive impact of the closure of Carousel, which in the prior-year nine-month period recognized a gross loss of $689,000, including losses from the sale of inventory below cost and the recognition of charges of $334,000 associated with the settlement with a supplier of a commitment to purchase fabric and $265,000 associated with the liquidation of Carousel’s remaining inventory upon the closure of the business. Although the gross profit in the prior-year nine-month period was impacted by increases in costs across the entire supply chain, the Company in the current year has realized some stabilization in its input costs. Finally, the Company has benefited from recent increases in the selling prices of its products.
+Marketing and Administrative Expenses:
+Marketing and administrative expenses decreased by $352,000, but increased from 13.6% of net sales for the three-month period ended December 26, 2021 to 14.4% of net sales for the three-month period ended January 1, 2023. Marketing and administrative expenses decreased by $733,000 but increased from 15.6% of net sales for the nine-month period ended December 26, 2021 to 16.6% of net sales for the nine-month period ended January 1, 2023. The prior-year period included $496,000 for charges incurred by Carousel.
+Gain on extinguishment of debt:
+On May 20, 2021, the PPP Loan was forgiven in full, which resulted in a gain on extinguishment of debt in the amount of $1,985,000 during the three months ended June 27, 2021 and the nine months ended December 26, 2021.
+Income Tax Expense:
+The Company’s provision for income taxes is based upon an estimated annual effective tax rate (“ETR”) from continuing operations of 23.3% for the nine-month period ended January 1, 2023, as compared with an estimated annual ETR from continuing operations of 20.0% for the nine-month period ended December 26, 2021. The gain on extinguishment of debt associated with the forgiveness of the PPP Loan was permitted to be excluded from taxable income, the effect of which lowered the ETR for the prior-year period by approximately four percentage points.
+As a result of the consideration of the relevant information regarding the state portion of its income tax provision, the Company recorded discrete reserves for unrecognized tax liabilities of $12,000 and $22,000 during the three-month periods ended January 1, 2023 and December 26, 2021, respectively, and $58,000 and $67,000 for the nine-month periods ended January 1, 2023 and December 26, 2021, respectively, in the accompanying unaudited condensed consolidated statements of income. The Company also recorded discrete income tax charges of $6,000 during the nine months ended January 1, 2023, and the Company recorded discrete income tax benefits of $11,000 and $83,000 during the three- and nine-months ended December 26, 2021, respectively, to reflect the net effects of the excess tax benefits and tax shortfalls arising from the exercise of stock options and the vesting of non-vested stock during the periods.
+The ETR on continuing operations and the discrete income tax charges and benefits set forth above resulted in an overall provision for income taxes of 24.4% and 19.4% for the nine-month periods ended January 1, 2023 and December 26, 2021, respectively.
+Although the Company does not anticipate a material change to the ETR from continuing operations for the remainder of fiscal year 2023, several factors could impact the ETR, including variations from the Company’s estimates of the amount and source of its pre-tax income, and the actual ETR for the year could differ materially from the Company’s estimates.
+FINANCIAL POSITION, LIQUIDITY AND CAPITAL RESOURCES
+Net cash provided by operating activities increased from $4.3 million for the nine-month period ended December 26, 2021 to $4.4 million for the nine-month period ended January 1, 2023. The increase in the current year was the result of a decrease in accounts receivable in the current year that was $6.0 million higher than the increase in the prior year and the gain on extinguishment of debt of $1,985,000 in the prior year that was associated with the forgiveness of the PPP Loan. These increases were offset by a $2.7 million decrease in net income from the prior year to the current year. There was also an increase in accounts payable in the prior year that was $2.3 million higher than the decrease in the current year. There was also a decrease in accrued liabilities in the current year that was $1.8 million higher than the increase in the prior year and an increase in inventory in the current year that was $997,000 higher than the increase in the prior year.
+Net cash used in investing activities, which were primarily associated with capital expenditures for property, plant and equipment, increased from $355,000 in the prior year to $363,000 in the current year.
+15
+Net cash used in financing activities, which were primarily associated with the payment of dividends, increased by $57,000 from the prior year to the current year.
+As of January 1, 2023, there was no balance owed on the Company’s revolving line of credit with CIT, there was no letter of credit outstanding and $26.0 million was available under the revolving line of credit based on the Company’s eligible accounts receivable and inventory balances.
+To reduce its exposure to credit losses and to enhance the predictability of its cash flow, the Company assigns substantially all of its trade accounts receivable to CIT under factoring agreements. Under the terms of the factoring agreements, CIT remits customer payments to the Company as such payments are received by CIT. As such, the Company does not take advances on the factoring agreements.
+CIT bears credit losses with respect to assigned accounts receivable from approved customers that are within approved credit limits, while the Company bears the responsibility for adjustments from customers related to returns, allowances, claims and discounts. CIT may at any time terminate or limit its approval of shipments to a particular customer. If such a termination or limitation were to occur, then the Company must choose to either assume the credit risk for shipments after the date of such termination or limitation or discontinue shipments to the customer. Factoring fees, which are included in marketing and administrative expenses in the accompanying unaudited condensed consolidated statements of income, amounted to $77,000 and $99,000 for the three-month periods ended January 1, 2023 and December 26, 2021, respectively, and amounted to $224,000 and $248,000 for the nine-month periods ended January 1, 2023 and December 26, 2021, respectively.
+The Company continues to monitor the impact of the COVID-19 pandemic on its supply chain, manufacturing and distribution operations, customers and employees, as well as the U.S. economy in general. However, due to the uncertainty as to the duration and widespread nature of the COVID-19 pandemic, the success rates of vaccines for COVID-19 and the variants thereof, and the extent to which the vaccines are accepted and effectively administered, the Company cannot currently predict the long-term impact of the COVID-19 pandemic on its operations and financial results.
+The uncertainties associated with the COVID-19 pandemic include potential adverse effects on the overall economy, the Company’s supply chain, transportation services, employees and customers, consumer sentiment in general, and traffic within the retail stores that carry the Company’s products. The COVID-19 pandemic could adversely affect the Company’s revenues, earnings, liquidity and cash flows and may require significant actions in response, including employee furloughs, closings of Company facilities, expense reductions or discounts of the pricing of the Company’s products, all in an effort to mitigate such effects.
+Conditions surrounding COVID-19 change rapidly, and additional impacts of which the Company is not currently aware may arise. Based on past performance and current expectations, the Company believes that its anticipated cash flow from operations and the availability under its revolving line of credit are sufficient to fund the Company’s requirements for working capital and capital expenditures for at least the next 12 months.
+The Company’s future performance is, to a certain extent, subject to general economic, financial, competitive, legislative, regulatory and other factors beyond its control. Based upon the current level of operations, the Company believes that its cash flow from operations and funds available under the revolving line of credit will be adequate to meet its liquidity needs.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+For a discussion of market risks that could affect the Company, refer to the risk factors disclosed in Item 1A. of Part 1 of the Company’s Annual Report on Form 10-K for the year ended April 3, 2022.
+INTEREST RATE RISK
+Although the Company could have an exposure to interest rate risk related to its floating rate debt, there was no balance outstanding on its floating rate debt as of January 1, 2023.
+16
+COMMODITY RATE RISK
+The Company sources its products primarily from foreign contract manufacturers, with the largest concentration being in China. The Company’s exposure to commodity price risk primarily relates to changes in the prices in China of cotton, oil and labor, which are the principal inputs used in a substantial number of the Company’s products. In addition, although the Company pays its Chinese suppliers in U.S. dollars, a strengthening of the rate of the Chinese currency versus the U.S. dollar could result in an increase in the cost of the Company’s finished goods. There is no assurance that the Company could timely respond to such increases by proportionately increasing the prices at which its products are sold to the Company’s customers.
+MARKET CONCENTRATION RISK
+The Company’s financial results are closely tied to sales to its top two customers, which represented approximately 73% of the Company’s gross sales in fiscal year 2022. In addition, 40% of the Company’s gross sales in fiscal year 2022 consisted of licensed products, which included 33% of sales associated with the Company’s license agreements with affiliated companies of the Walt Disney Company. The Company’s results could be materially impacted by the loss of one or more of these licenses.
+ITEM 4. CONTROLS AND PROCEDURES
+The Company’s Chief Executive Officer and Chief Financial Officer have evaluated the effectiveness of the Company’s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Quarterly Report, as required by paragraph (b) of Rules 13a-15 or 15d-15 of the Exchange Act.  Based on such evaluation, such officers have concluded that, as of the end of the period covered by this Quarterly Report, the Company’s disclosure controls and procedures are effective.
+During the three-month period ended January 1, 2023, there were no changes in the Company’s internal control over financial reporting (“ICFR”) identified in connection with the evaluation required by paragraph (d) of Rules 13a-15 or 15d-15 of the Exchange Act that has materially affected, or is reasonably likely to materially affect, the Company’s ICFR.
+PART II - OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+The Company is, from time to time, involved in various legal and regulatory proceedings relating to claims arising in the ordinary course of its business. Neither the Company nor any of its subsidiaries is a party to any such proceeding the outcome of which, individually or in the aggregate, is expected to have a material adverse effect on the Company’s financial condition, results of operations or cash flow.
+ITEM 1A. RISK FACTORS
+There have been no material changes to the risk factors disclosed in Item 1A of Part 1 of the Company’s Annual Report on Form 10-K for the year ended April 3, 2022.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+None.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5. OTHER INFORMATION
+None.
+17
+ITEM 6. EXHIBITS
+Exhibits required to be filed by Item 601 of Regulation S-K are included as Exhibits to this Quarterly Report as follows:
+Exhibit
+Number
+Description of Exhibit
+3.1
+Amended and Restated Certificate of Incorporation of the Company (1)
+3.2
+Certificate of Amendment to the Amended and Restated Certificate of Incorporation of the Company (2)
+3.3
+Bylaws of the Company, as amended and restated through November 15, 2016 (3)
+31.1
+Rule 13a-14(a)/15d-14(a) Certification by the Company’s Chief Executive Officer (4)
+31.2
+Rule 13a-14(a)/15d-14(a) Certification by the Company’s Chief Financial Officer (4)
+32.1
+Section 1350 Certification by the Company’s Chief Executive Officer (4)
+32.2
+Section 1350 Certification by the Company’s Chief Financial Officer (4)
+101
+Interactive data files pursuant to Rule 405 of SEC Regulation S-T in connection with registrant’s Form 10-Q for the quarterly period ended January 1, 2023, formatted in iXBRL (Inline eXtensible Business Reporting Language):
+(i)    Unaudited Condensed Consolidated Balance Sheets;
+(ii)   Unaudited Condensed Consolidated Statements of Income;
+(iii)  Unaudited Condensed Consolidated Statements of Changes in Shareholders’ Equity;
+(iv)  Unaudited Condensed Consolidated Statements of Cash Flows; and
+(v)   Notes to Unaudited Condensed Consolidated Financial Statements.
+104
+Cover page Interactive Data File pursuant to Rule 406 of SEC Regulation S-T formatted in iXBRL (Inline eXtensible Business Reporting Language) and contained in Exhibit 101.
+(1)
+Incorporated herein by reference to Exhibit 3.1 to the registrant’s Quarterly Report on Form 10-Q for the quarter ended December 28, 2003.
+(2)
+Incorporated herein by reference to Exhibit 3.1 to the registrant’s Current Report on Form 8-K dated August 9, 2011.
+(3)
+Incorporated herein by reference to Exhibit 3.3 to the registrant’s Current Report on Form 8-K dated November 16, 2016.
+(4)
+Filed herewith.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CROWN CRAFTS, INC.
+Date:
+February 15, 2023
+/s/ Craig J. Demarest
+CRAIG J. DEMAREST
+Vice President and Chief Financial Officer
+(Principal Financial Officer and Principal Accounting Officer)
+18

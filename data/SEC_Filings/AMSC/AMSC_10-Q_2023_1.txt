@@ -1,0 +1,3591 @@
+2022
+250
+301,556
+2
+873,657
+2
+1
+3
+4
+30
+60
+12
+13
+60
+0
+0
+0
+1.1
+1.1
+1.1
+1.0
+1.0
+1.0
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+2.0
+1
+3
+0.1
+0
+0
+4
+0.1
+5
+39
+6.6
+0000880807 2022-04-01 2022-12-31
+xbrli:shares
+0000880807 2023-01-30
+iso4217:USD
+0000880807 2022-12-31
+0000880807 2022-03-31
+0000880807 2022-10-01 2022-12-31
+0000880807 2021-10-01 2021-12-31
+0000880807 2021-04-01 2021-12-31
+iso4217:USD xbrli:shares
+0000880807 us-gaap:CommonStockMember 2022-03-31
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2022-03-31
+0000880807 us-gaap:TreasuryStockMember 2022-03-31
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-03-31
+0000880807 us-gaap:RetainedEarningsMember 2022-03-31
+0000880807 us-gaap:CommonStockMember 2022-04-01 2022-06-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2022-04-01 2022-06-30
+0000880807 us-gaap:TreasuryStockMember 2022-04-01 2022-06-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-04-01 2022-06-30
+0000880807 us-gaap:RetainedEarningsMember 2022-04-01 2022-06-30
+0000880807 2022-04-01 2022-06-30
+0000880807 us-gaap:CommonStockMember 2022-06-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2022-06-30
+0000880807 us-gaap:TreasuryStockMember 2022-06-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-30
+0000880807 us-gaap:RetainedEarningsMember 2022-06-30
+0000880807 2022-06-30
+0000880807 us-gaap:CommonStockMember 2022-07-01 2022-09-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2022-07-01 2022-09-30
+0000880807 us-gaap:TreasuryStockMember 2022-07-01 2022-09-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-01 2022-09-30
+0000880807 us-gaap:RetainedEarningsMember 2022-07-01 2022-09-30
+0000880807 2022-07-01 2022-09-30
+0000880807 us-gaap:CommonStockMember 2022-09-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000880807 us-gaap:TreasuryStockMember 2022-09-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0000880807 us-gaap:RetainedEarningsMember 2022-09-30
+0000880807 2022-09-30
+0000880807 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0000880807 us-gaap:TreasuryStockMember 2022-10-01 2022-12-31
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0000880807 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000880807 us-gaap:CommonStockMember 2022-12-31
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000880807 us-gaap:TreasuryStockMember 2022-12-31
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0000880807 us-gaap:RetainedEarningsMember 2022-12-31
+0000880807 us-gaap:CommonStockMember 2021-03-31
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2021-03-31
+0000880807 us-gaap:TreasuryStockMember 2021-03-31
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-03-31
+0000880807 us-gaap:RetainedEarningsMember 2021-03-31
+0000880807 2021-03-31
+0000880807 amsc:RestrictedStockIssuedInlieuOfCashBonusesMember us-gaap:CommonStockMember 2021-04-01 2021-06-30
+0000880807 amsc:RestrictedStockIssuedInlieuOfCashBonusesMember us-gaap:AdditionalPaidInCapitalMember 2021-04-01 2021-06-30
+0000880807 amsc:RestrictedStockIssuedInlieuOfCashBonusesMember us-gaap:TreasuryStockMember 2021-04-01 2021-06-30
+0000880807 amsc:RestrictedStockIssuedInlieuOfCashBonusesMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-04-01 2021-06-30
+0000880807 amsc:RestrictedStockIssuedInlieuOfCashBonusesMember us-gaap:RetainedEarningsMember 2021-04-01 2021-06-30
+0000880807 amsc:RestrictedStockIssuedInlieuOfCashBonusesMember 2021-04-01 2021-06-30
+0000880807 us-gaap:CommonStockMember 2021-04-01 2021-06-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2021-04-01 2021-06-30
+0000880807 us-gaap:TreasuryStockMember 2021-04-01 2021-06-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-04-01 2021-06-30
+0000880807 us-gaap:RetainedEarningsMember 2021-04-01 2021-06-30
+0000880807 2021-04-01 2021-06-30
+0000880807 us-gaap:CommonStockMember 2021-06-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2021-06-30
+0000880807 us-gaap:TreasuryStockMember 2021-06-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-30
+0000880807 us-gaap:RetainedEarningsMember 2021-06-30
+0000880807 2021-06-30
+0000880807 us-gaap:CommonStockMember 2021-07-01 2021-09-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2021-07-01 2021-09-30
+0000880807 us-gaap:TreasuryStockMember 2021-07-01 2021-09-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-07-01 2021-09-30
+0000880807 us-gaap:RetainedEarningsMember 2021-07-01 2021-09-30
+0000880807 2021-07-01 2021-09-30
+0000880807 us-gaap:CommonStockMember 2021-09-30
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000880807 us-gaap:TreasuryStockMember 2021-09-30
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0000880807 us-gaap:RetainedEarningsMember 2021-09-30
+0000880807 2021-09-30
+0000880807 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000880807 us-gaap:TreasuryStockMember 2021-10-01 2021-12-31
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0000880807 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000880807 us-gaap:CommonStockMember 2021-12-31
+0000880807 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000880807 us-gaap:TreasuryStockMember 2021-12-31
+0000880807 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0000880807 us-gaap:RetainedEarningsMember 2021-12-31
+0000880807 2021-12-31
+0000880807 amsc:InoxWindLimitedMember 2021-02-28
+xbrli:pure
+0000880807 2023-01-01 2023-01-31
+0000880807 2023-01-31
+0000880807 amsc:AMSCHuskyLLCMember 2021-05-06 2021-05-06
+0000880807 amsc:OwnersOfNeeltranHeadquartersMember amsc:AMSCHuskyLLCMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember amsc:NeeltranThirdPartyLendersMember amsc:IndebtednessSecuredByMortgageOnRealPropertyMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember amsc:NeeltranIncSelllingStockholdersMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember amsc:NeeltranIncSelllingStockholdersMember 2021-05-06
+0000880807 amsc:NeeltranIncMember amsc:CapannaSrAndCapannaJrMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember amsc:NeeltranThirdPartyLendersMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember 2022-03-31
+0000880807 amsc:NeeltranIncMember amsc:BacklogMember 2022-03-31
+0000880807 amsc:NeeltranIncMember us-gaap:TrademarksAndTradeNamesMember 2022-03-31
+0000880807 amsc:NeeltranIncMember us-gaap:CustomerRelationshipsMember 2022-03-31
+0000880807 amsc:NeeltranIncMember 2021-04-01 2022-03-31
+0000880807 amsc:NeeltranIncMember amsc:BacklogMember 2021-05-06
+utr:Y
+0000880807 amsc:NeeltranIncMember amsc:BacklogMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember us-gaap:CustomerRelationshipsMember 2021-05-06
+0000880807 amsc:NeeltranIncMember us-gaap:CustomerRelationshipsMember 2021-05-06 2021-05-06
+0000880807 amsc:NeeltranIncMember us-gaap:TrademarksAndTradeNamesMember 2021-05-06
+utr:Rate
+0000880807 amsc:NeeltranIncMember us-gaap:TrademarksAndTradeNamesMember amsc:RoyaltyRateMember 2021-05-06
+0000880807 amsc:NeeltranIncMember us-gaap:TrademarksAndTradeNamesMember us-gaap:MeasurementInputDiscountRateMember 2021-05-06
+0000880807 amsc:NeeltranIncMember us-gaap:TrademarksAndTradeNamesMember us-gaap:MeasurementInputExpectedTermMember 2021-05-06
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember 2019-04-01 2020-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember 2020-10-01 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember 2021-03-31 2021-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:SellingGeneralAndAdministrativeExpensesMember 2020-04-01 2021-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember 2021-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember amsc:BacklogMember 2021-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:TradeNamesMember 2021-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:CustomerRelationshipsMember 2021-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:FairValueAdjustmentToInventoryMember 2020-04-01 2021-03-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember amsc:BacklogMember 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember amsc:BacklogMember 2020-10-01 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:CustomerRelationshipsMember 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:TrademarksAndTradeNamesMember 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:TrademarksAndTradeNamesMember amsc:RoyaltyRateMember 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:TrademarksAndTradeNamesMember us-gaap:MeasurementInputDiscountRateMember 2020-10-01
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember us-gaap:TrademarksAndTradeNamesMember us-gaap:MeasurementInputExpectedTermMember 2020-10-01
+0000880807 us-gaap:GrantMember 2022-04-01 2022-12-31
+0000880807 us-gaap:GrantMember 2021-10-01 2021-12-31
+0000880807 us-gaap:GrantMember 2021-04-01 2021-12-31
+0000880807 srt:MinimumMember 2022-04-01 2022-12-31
+0000880807 srt:MaximumMember 2022-04-01 2022-12-31
+utr:D
+0000880807 amsc:EquipmentAndSystemsMember amsc:GridMember 2022-10-01 2022-12-31
+0000880807 amsc:EquipmentAndSystemsMember amsc:WindMember 2022-10-01 2022-12-31
+0000880807 amsc:EquipmentAndSystemsMember amsc:GridMember 2022-04-01 2022-12-31
+0000880807 amsc:EquipmentAndSystemsMember amsc:WindMember 2022-04-01 2022-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:GridMember 2022-10-01 2022-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:WindMember 2022-10-01 2022-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:GridMember 2022-04-01 2022-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:WindMember 2022-04-01 2022-12-31
+0000880807 amsc:GridMember 2022-10-01 2022-12-31
+0000880807 amsc:WindMember 2022-10-01 2022-12-31
+0000880807 amsc:GridMember 2022-04-01 2022-12-31
+0000880807 amsc:WindMember 2022-04-01 2022-12-31
+0000880807 amsc:GridMember srt:AmericasMember 2022-10-01 2022-12-31
+0000880807 amsc:WindMember srt:AmericasMember 2022-10-01 2022-12-31
+0000880807 amsc:GridMember srt:AmericasMember 2022-04-01 2022-12-31
+0000880807 amsc:WindMember srt:AmericasMember 2022-04-01 2022-12-31
+0000880807 amsc:GridMember srt:AsiaPacificMember 2022-10-01 2022-12-31
+0000880807 amsc:WindMember srt:AsiaPacificMember 2022-10-01 2022-12-31
+0000880807 amsc:GridMember srt:AsiaPacificMember 2022-04-01 2022-12-31
+0000880807 amsc:WindMember srt:AsiaPacificMember 2022-04-01 2022-12-31
+0000880807 amsc:GridMember us-gaap:EMEAMember 2022-10-01 2022-12-31
+0000880807 amsc:WindMember us-gaap:EMEAMember 2022-10-01 2022-12-31
+0000880807 amsc:GridMember us-gaap:EMEAMember 2022-04-01 2022-12-31
+0000880807 amsc:WindMember us-gaap:EMEAMember 2022-04-01 2022-12-31
+0000880807 amsc:EquipmentAndSystemsMember amsc:GridMember 2021-10-01 2021-12-31
+0000880807 amsc:EquipmentAndSystemsMember amsc:WindMember 2021-10-01 2021-12-31
+0000880807 amsc:EquipmentAndSystemsMember amsc:GridMember 2021-04-01 2021-12-31
+0000880807 amsc:EquipmentAndSystemsMember amsc:WindMember 2021-04-01 2021-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:GridMember 2021-10-01 2021-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:WindMember 2021-10-01 2021-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:GridMember 2021-04-01 2021-12-31
+0000880807 amsc:ServicesAndTechnologyDevelopmentMember amsc:WindMember 2021-04-01 2021-12-31
+0000880807 amsc:GridMember 2021-10-01 2021-12-31
+0000880807 amsc:WindMember 2021-10-01 2021-12-31
+0000880807 amsc:GridMember 2021-04-01 2021-12-31
+0000880807 amsc:WindMember 2021-04-01 2021-12-31
+0000880807 amsc:GridMember srt:AmericasMember 2021-10-01 2021-12-31
+0000880807 amsc:WindMember srt:AmericasMember 2021-10-01 2021-12-31
+0000880807 amsc:GridMember srt:AmericasMember 2021-04-01 2021-12-31
+0000880807 amsc:WindMember srt:AmericasMember 2021-04-01 2021-12-31
+0000880807 amsc:GridMember srt:AsiaPacificMember 2021-10-01 2021-12-31
+0000880807 amsc:WindMember srt:AsiaPacificMember 2021-10-01 2021-12-31
+0000880807 amsc:GridMember srt:AsiaPacificMember 2021-04-01 2021-12-31
+0000880807 amsc:WindMember srt:AsiaPacificMember 2021-04-01 2021-12-31
+0000880807 amsc:GridMember us-gaap:EMEAMember 2021-10-01 2021-12-31
+0000880807 amsc:WindMember us-gaap:EMEAMember 2021-10-01 2021-12-31
+0000880807 amsc:GridMember us-gaap:EMEAMember 2021-04-01 2021-12-31
+0000880807 amsc:WindMember us-gaap:EMEAMember 2021-04-01 2021-12-31
+utr:M
+0000880807 2023-01-01 2022-12-31
+0000880807 2024-01-01 2022-12-31
+0000880807 srt:MinimumMember 2024-01-01 2022-12-31
+0000880807 srt:MaximumMember 2024-01-01 2022-12-31
+0000880807 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember amsc:InoxWindLimitedMember amsc:WindMember 2022-10-01 2022-12-31
+0000880807 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember amsc:FujiBridexPteLtdMember amsc:GridMember 2021-10-01 2021-12-31
+0000880807 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember amsc:FujiBridexPteLtdMember amsc:GridMember 2022-04-01 2022-12-31
+0000880807 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember amsc:FujiBridexPteLtdMember amsc:GridMember 2021-04-01 2021-12-31
+0000880807 us-gaap:CostOfSalesMember 2022-10-01 2022-12-31
+0000880807 us-gaap:CostOfSalesMember 2021-10-01 2021-12-31
+0000880807 us-gaap:CostOfSalesMember 2022-04-01 2022-12-31
+0000880807 us-gaap:CostOfSalesMember 2021-04-01 2021-12-31
+0000880807 us-gaap:ResearchAndDevelopmentExpenseMember 2022-10-01 2022-12-31
+0000880807 us-gaap:ResearchAndDevelopmentExpenseMember 2021-10-01 2021-12-31
+0000880807 us-gaap:ResearchAndDevelopmentExpenseMember 2022-04-01 2022-12-31
+0000880807 us-gaap:ResearchAndDevelopmentExpenseMember 2021-04-01 2021-12-31
+0000880807 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-01 2022-12-31
+0000880807 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-10-01 2021-12-31
+0000880807 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-04-01 2022-12-31
+0000880807 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-04-01 2021-12-31
+0000880807 us-gaap:RestrictedStockMember 2022-10-01 2022-12-31
+0000880807 us-gaap:RestrictedStockMember 2022-04-01 2022-12-31
+0000880807 amsc:ImmediatelyVestedCommonStockMember 2022-04-01 2022-12-31
+0000880807 us-gaap:RestrictedStockMember 2021-10-01 2021-12-31
+0000880807 us-gaap:RestrictedStockMember 2021-04-01 2021-12-31
+0000880807 amsc:ImmediatelyVestedCommonStockMember 2021-04-01 2021-12-31
+0000880807 amsc:ImmediatelyVestedCommonStockIssuedInLieuOfCashBonusesMember 2021-04-01 2021-12-31
+0000880807 us-gaap:RestrictedStockMember srt:MinimumMember 2021-04-01 2021-12-31
+0000880807 us-gaap:RestrictedStockMember srt:MaximumMember 2021-04-01 2021-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2022-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2022-04-01 2022-12-31
+0000880807 us-gaap:RestrictedStockMember 2022-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2021-04-01 2021-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0000880807 amsc:SharesTiedToDerivativeLiabilityMember 2022-04-01 2022-12-31
+0000880807 amsc:SharesTiedToDerivativeLiabilityMember 2021-04-01 2021-12-31
+0000880807 amsc:SharesTiedToDerivativeLiabilityMember 2022-10-01 2022-12-31
+0000880807 amsc:SharesTiedToDerivativeLiabilityMember 2021-10-01 2021-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2022-04-01 2022-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2021-04-01 2021-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0000880807 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0000880807 amsc:GridMember 2021-03-31
+0000880807 amsc:GridMember 2021-04-01 2022-03-31
+0000880807 amsc:GridMember 2022-03-31
+0000880807 amsc:GridMember 2022-12-31
+0000880807 us-gaap:LicensingAgreementsMember 2022-12-31
+0000880807 us-gaap:LicensingAgreementsMember 2022-03-31
+0000880807 us-gaap:LicensingAgreementsMember 2022-04-01 2022-12-31
+0000880807 amsc:BacklogMember 2022-12-31
+0000880807 amsc:BacklogMember 2022-03-31
+0000880807 amsc:BacklogMember 2022-04-01 2022-12-31
+0000880807 us-gaap:TradeNamesMember 2022-12-31
+0000880807 us-gaap:TradeNamesMember 2022-03-31
+0000880807 us-gaap:CustomerRelationshipsMember 2022-12-31
+0000880807 us-gaap:CustomerRelationshipsMember 2022-03-31
+0000880807 us-gaap:CustomerRelationshipsMember 2022-04-01 2022-12-31
+0000880807 amsc:CoreTechnologyAndKnowhowMember 2022-12-31
+0000880807 amsc:CoreTechnologyAndKnowhowMember 2022-03-31
+0000880807 amsc:CoreTechnologyAndKnowhowMember srt:MinimumMember 2022-04-01 2022-12-31
+0000880807 amsc:CoreTechnologyAndKnowhowMember srt:MaximumMember 2022-04-01 2022-12-31
+0000880807 amsc:CustomerRelationshipCoreTechnologyAndKnowhowMember 2022-10-01 2022-12-31
+0000880807 amsc:CustomerRelationshipCoreTechnologyAndKnowhowMember 2022-04-01 2022-12-31
+0000880807 amsc:CustomerRelationshipCoreTechnologyAndKnowhowMember 2021-10-01 2021-12-31
+0000880807 amsc:CustomerRelationshipCoreTechnologyAndKnowhowMember 2021-04-01 2021-12-31
+0000880807 amsc:BacklogMember 2022-10-01 2022-12-31
+0000880807 amsc:BacklogMember 2021-10-01 2021-12-31
+0000880807 amsc:BacklogMember 2021-04-01 2021-12-31
+0000880807 amsc:NortheastPowerSystemsIncNEPSIMember 2022-12-31
+0000880807 us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0000880807 us-gaap:FairValueInputsLevel1Member us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0000880807 us-gaap:FairValueInputsLevel2Member us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0000880807 us-gaap:FairValueInputsLevel3Member us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-12-31
+0000880807 us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-03-31
+0000880807 us-gaap:FairValueInputsLevel1Member us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-03-31
+0000880807 us-gaap:FairValueInputsLevel2Member us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-03-31
+0000880807 us-gaap:FairValueInputsLevel3Member us-gaap:CarryingReportedAmountFairValueDisclosureMember us-gaap:FairValueMeasurementsRecurringMember 2022-03-31
+0000880807 us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-03-31
+0000880807 us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2021-04-01 2022-03-31
+0000880807 us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-03-31
+0000880807 us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-04-01 2022-12-31
+0000880807 us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember 2022-12-31
+0000880807 us-gaap:ConstructionInProgressMember 2022-12-31
+0000880807 us-gaap:ConstructionInProgressMember 2022-03-31
+0000880807 us-gaap:LandMember 2022-12-31
+0000880807 us-gaap:LandMember 2022-03-31
+0000880807 us-gaap:BuildingMember 2022-12-31
+0000880807 us-gaap:BuildingMember 2022-03-31
+0000880807 amsc:EquipmentAndSoftwareMember 2022-12-31
+0000880807 amsc:EquipmentAndSoftwareMember 2022-03-31
+0000880807 amsc:FinanceLeaseRightOfUseMember 2022-12-31
+0000880807 amsc:FinanceLeaseRightOfUseMember 2022-03-31
+0000880807 us-gaap:FurnitureAndFixturesMember 2022-12-31
+0000880807 us-gaap:FurnitureAndFixturesMember 2022-03-31
+0000880807 us-gaap:LeaseholdImprovementsMember 2022-12-31
+0000880807 us-gaap:LeaseholdImprovementsMember 2022-03-31
+0000880807 srt:MaximumMember 2021-10-01 2021-12-31
+0000880807 amsc:NeeltranIncMember 2021-12-31
+0000880807 amsc:NeeltranIncMember 2021-04-01 2021-12-31
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2022-12-31
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2022-09-30
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2022-06-30
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2022-12-31
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2022-09-30
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2022-06-30
+0000880807 us-gaap:MeasurementInputSharePriceMember 2022-12-31
+0000880807 us-gaap:MeasurementInputSharePriceMember 2022-09-30
+0000880807 us-gaap:MeasurementInputSharePriceMember 2022-06-30
+0000880807 amsc:MeasurementInputPaymentDelayMember 2022-12-31
+0000880807 amsc:MeasurementInputPaymentDelayMember 2022-09-30
+0000880807 amsc:MeasurementInputPaymentDelayMember 2022-06-30
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2022-03-31
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2021-12-31
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2021-09-30
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2021-06-30
+0000880807 amsc:MeasurementInputRevenueRiskPremiumMember 2021-03-31
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2022-03-31
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2021-12-31
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2021-09-30
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2021-06-30
+0000880807 amsc:MeasurementInputRevenueVolatilityMember 2021-03-31
+0000880807 us-gaap:MeasurementInputSharePriceMember 2022-03-31
+0000880807 us-gaap:MeasurementInputSharePriceMember 2021-12-31
+0000880807 us-gaap:MeasurementInputSharePriceMember 2021-09-30
+0000880807 us-gaap:MeasurementInputSharePriceMember 2021-06-30
+0000880807 us-gaap:MeasurementInputSharePriceMember 2021-03-31
+0000880807 amsc:MeasurementInputPaymentDelayMember 2022-03-31
+0000880807 amsc:MeasurementInputPaymentDelayMember 2021-12-31
+0000880807 amsc:MeasurementInputPaymentDelayMember 2021-09-30
+0000880807 amsc:MeasurementInputPaymentDelayMember 2021-06-30
+0000880807 amsc:MeasurementInputPaymentDelayMember 2021-03-31
+0000880807 amsc:NeeltranIncMember 2021-05-06
+0000880807 amsc:EquipmentFinancingAgreementsAssumedInBusinessAcquisitionMember 2021-06-30
+0000880807 amsc:EquipmentFinancingAgreementsAssumedInBusinessAcquisitionMember 2022-12-31
+0000880807 srt:MaximumMember 2022-12-31
+0000880807 amsc:NeeltranIncMember 2020-02-29
+0000880807 amsc:PropertyAndEquipmentNetMember amsc:NeeltranIncMember 2021-05-06
+0000880807 us-gaap:LetterOfCreditMember 2022-03-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:GridMember 2022-10-01 2022-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:GridMember 2021-10-01 2021-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:GridMember 2022-04-01 2022-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:GridMember 2021-04-01 2021-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:WindMember 2022-10-01 2022-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:WindMember 2021-10-01 2021-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:WindMember 2022-04-01 2022-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:WindMember 2021-04-01 2021-12-31
+0000880807 us-gaap:CorporateNonSegmentMember 2022-10-01 2022-12-31
+0000880807 us-gaap:CorporateNonSegmentMember 2021-10-01 2021-12-31
+0000880807 us-gaap:CorporateNonSegmentMember 2022-04-01 2022-12-31
+0000880807 us-gaap:CorporateNonSegmentMember 2021-04-01 2021-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:GridMember 2022-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:GridMember 2022-03-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:WindMember 2022-12-31
+0000880807 us-gaap:OperatingSegmentsMember amsc:WindMember 2022-03-31
+0000880807 us-gaap:CorporateNonSegmentMember 2022-12-31
+0000880807 us-gaap:CorporateNonSegmentMember 2022-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+Quarterly Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended  December 31, 2022
+☐
+Transition Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from
+_____
+to
+_____ .
+Commission File Number:
+0-19672
+American Superconductor Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+04-2959321
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+114 East Main St.
+Ayer ,
+Massachusetts
+01432
+(Address of principal executive offices)
+(Zip Code)
+( 978 )
+842-3000
+(Registrant’s telephone number, including area code)
+N/A
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock,
+$0.01 par value per share
+AMSC
+Nasdaq
+Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes   ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).      Yes   ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer  ☒
+Smaller reporting company  ☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes   ☐     No   ☒
+Shares outstanding of the Registrant’s common stock:
+Common Stock, par value $0.01 per share
+29,530,137
+Class
+Outstanding as
+of January 30 , 2023
+AMERICAN SUPERCONDUCTOR CORPORATION
+INDEX
+Page No.
+PART I—FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+3
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+23
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+30
+Item 4.
+Controls and Procedures
+30
+PART II—OTHER INFORMATION
+Item 1.
+Legal Proceedings
+31
+Item 1A.
+Risk Factors
+31
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+31
+Item 3.
+Defaults Upon Senior Securities
+31
+Item 4.
+Mine Safety Disclosure
+31
+Item 5.
+Other Information
+31
+Item 6.
+Exhibits
+32
+Signature
+33
+2
+AMERICAN SUPERCONDUCTOR CORPORATION
+PART I — FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands)
+December 31, 2022
+March 31, 2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$ 23,685     $ 40,584
+Accounts receivable, net
+17,568       20,280
+Inventory, net
+38,725       23,666
+Prepaid expenses and other current assets
+7,544       7,052
+Restricted cash
+6,643       2,754
+Total current assets
+94,165       94,336
+Property, plant and equipment, net
+12,611       13,656
+Intangibles, net
+9,215       11,311
+Right-of-use assets
+3,068       3,502
+Goodwill
+43,471       43,471
+Restricted cash
+1,023       6,148
+Deferred tax assets
+1,086       1,224
+Other assets
+433       239
+Total assets
+$ 165,072     $ 173,887
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable and accrued expenses
+$ 32,060     $ 29,140
+Lease liability, current portion
+822       740
+Debt, current portion
+72       72
+Contingent consideration
+860       1,200
+Deferred revenue, current portion
+34,239       22,812
+Total current liabilities
+$ 68,053       53,964
+Deferred revenue, long-term portion
+7,176       7,222
+Lease liability, long-term portion
+2,375       2,900
+Deferred tax liabilities
+202       297
+Debt, long-term portion
+35       90
+Other liabilities
+24       25
+Total liabilities
+77,865       64,498
+Commitments and Contingencies (Note 16)
+Stockholders' equity:
+Common stock
+299       289
+Additional paid-in capital
+1,137,622       1,133,536
+Treasury stock
+( 3,639 )     ( 3,639 )
+Accumulated other comprehensive income (loss)
+1,603       ( 291 )
+Accumulated deficit
+( 1,048,678 )     ( 1,020,506 )
+Total stockholders' equity
+87,207       109,389
+Total liabilities and stockholders' equity
+$ 165,072     $ 173,887
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements
+3
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share data)
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Revenues
+$
+23,881
+$
+26,799
+$
+74,241
+$
+80,126
+Cost of revenues
+23,364
+23,227
+69,533
+69,925
+Gross margin
+517
+3,572
+4,708
+10,201
+Operating expenses:
+Research and development
+2,083
+2,657
+7,076
+8,368
+Selling, general and administrative
+7,173
+6,777
+22,084
+20,615
+Amortization of acquisition-related intangibles
+690
+628
+2,058
+1,840
+Change in fair value of contingent consideration
+( 220
+)
+( 2,110
+)
+( 340
+)
+( 4,440
+)
+Total operating expenses
+9,726
+7,952
+30,878
+26,383
+Operating loss
+( 9,209
+)
+( 4,380
+)
+( 26,170
+)
+( 16,182
+)
+Interest income, net
+42
+12
+112
+68
+China dissolution
+-
+-
+( 1,921
+)
+-
+Other income (expense), net
+( 287
+)
+45
+( 48
+)
+7
+Loss before income tax expense
+( 9,454
+)
+( 4,323
+)
+( 28,027
+)
+( 16,107
+)
+Income tax expense (benefit)
+127
+1
+144
+( 1,946
+)
+Net loss
+$
+( 9,581
+)
+$
+( 4,324
+)
+$
+( 28,171
+)
+$
+( 14,161
+)
+Net loss per common share
+Basic
+$
+( 0.34
+)
+$
+( 0.16
+)
+$
+( 1.01
+)
+$
+( 0.52
+)
+Diluted
+$
+( 0.34
+)
+$
+( 0.16
+)
+$
+( 1.01
+)
+$
+( 0.52
+)
+Weighted average number of common shares outstanding
+Basic
+27,954
+27,352
+27,794
+27,145
+Diluted
+27,954
+27,352
+27,794
+27,145
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+4
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+(In thousands)
+Three Months Ended
+Nine Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Net loss
+$
+( 9,581
+)
+$
+( 4,324
+)
+$
+( 28,171
+)
+$
+( 14,161
+)
+Other comprehensive (loss) gain, net of tax:
+China dissolution
+-
+-
+1,921
+-
+Foreign currency translation (loss) gain
+( 195
+)
+20
+( 27
+)
+( 19
+)
+Total other comprehensive (loss) gain, net of tax
+( 195
+)
+20
+1,894
+( 19
+)
+Comprehensive loss
+$
+( 9,776
+)
+$
+( 4,304
+)
+$
+( 26,277
+)
+$
+( 14,180
+)
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+5
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+FOR THE THREE and NINE MONTHS ENDED
+December 31, 2022
+AND 2021
+(In thousands)
+Common Stock
+Additional
+Accumulated Other
+Total
+Number of Shares
+Par Value
+Paid-in Capital
+Treasury Stock
+Comprehensive Loss
+Accumulated Deficit
+Stockholders' Equity
+Balance at March 31, 2022
+28,920
+$
+289
+$
+1,133,536
+$
+( 3,639
+)
+$
+( 291
+)
+$
+( 1,020,506
+)
+$
+109,389
+Issuance of common stock - restricted shares, net of forfeited shares
+( 9
+)
+—
+—
+—
+—
+—
+—
+Stock-based compensation expense
+—
+—
+1,033
+—
+—
+—
+1,033
+Issuance of stock for 401(k) match
+28
+—
+138
+—
+—
+—
+138
+Cumulative translation adjustment
+—
+—
+—
+—
+63
+—
+63
+Net loss
+—
+—
+—
+—
+—
+( 8,710
+)
+( 8,710
+)
+Balance at June 30, 2022
+28,939
+$
+289
+$
+1,134,707
+$
+( 3,639
+)
+$
+( 228
+)
+$
+( 1,029,216
+)
+$
+101,913
+Issuance of common stock - ESPP
+34
+—
+127
+—
+—
+—
+127
+Issuance of common stock - restricted shares
+331
+3
+( 3
+)
+—
+—
+—
+—
+Stock-based compensation expense
+—
+—
+1,019
+—
+—
+—
+1,019
+Issuance of stock for 401(k) match
+33
+1
+178
+—
+—
+—
+179
+Cumulative translation adjustment
+—
+—
+—
+2,026
+—
+2,026
+Net loss
+—
+—
+—
+—
+( 9,881
+)
+( 9,881
+)
+Balance at September 30, 2022
+29,337
+$
+293
+$
+1,136,028
+$
+( 3,639
+)
+$
+1,798
+$
+( 1,039,097
+)
+$
+95,383
+Issuance of common stock - restricted shares
+550
+6
+( 6
+)
+—
+—
+—
+—
+Stock-based compensation expense
+—
+—
+1,440
+—
+—
+—
+1,440
+Issuance of stock for 401(k) match
+41
+—
+160
+—
+—
+—
+160
+Cumulative translation adjustment
+—
+—
+—
+—
+( 195
+)
+—
+( 195
+)
+Net loss
+—
+—
+—
+—
+—
+( 9,581
+)
+( 9,581
+)
+Balance at December 31, 2022
+29,928
+$
+299
+$
+1,137,622
+$
+( 3,639
+)
+$
+1,603
+$
+( 1,048,678
+)
+$
+87,207
+Common Stock
+Additional
+Accumulated Other
+Total
+Number of Shares
+Par Value
+Paid-in Capital
+Treasury Stock
+Comprehensive Loss
+Accumulated Deficit
+Stockholders' Equity
+Balance at March 31, 2021
+27,988
+$
+280
+$
+1,121,495
+$
+( 3,593
+)
+$
+( 277
+)
+$
+( 1,001,313
+)
+$
+116,592
+Issuance of common stock - bonus payout
+111
+1
+1,681
+—
+—
+—
+1,682
+Issuance of common stock - restricted shares
+318
+3
+( 3
+)
+—
+—
+—
+—
+Stock-based compensation expense
+—
+—
+1,292
+—
+—
+—
+1,292
+Issuance of stock for 401(k) match
+7
+—
+112
+—
+—
+—
+112
+Neeltran acquisition
+302
+3
+4,384
+—
+—
+—
+4,387
+Repurchase of treasury stock
+—
+—
+—
+( 46
+)
+—
+—
+( 46
+)
+Cumulative translation adjustment
+—
+—
+—
+—
+( 63
+)
+—
+( 63
+)
+Net loss
+—
+—
+—
+—
+—
+( 5,403
+)
+( 5,403
+)
+Balance at June 30, 2021
+28,726
+$
+287
+$
+1,128,961
+$
+( 3,639
+)
+$
+( 340
+)
+$
+( 1,006,716
+)
+$
+118,553
+Issuance of common stock - ESPP
+10
+—
+125
+—
+—
+—
+125
+Issuance of common stock - bonus payout
+47
+1
+597
+—
+—
+—
+598
+Stock-based compensation expense
+—
+—
+1,101
+—
+—
+—
+1,101
+Issuance of stock for 401(k) match
+10
+—
+137
+—
+—
+—
+137
+Cumulative translation adjustment
+—
+—
+—
+—
+24
+—
+24
+Net loss
+—
+—
+—
+—
+—
+( 4,434
+)
+( 4,434
+)
+Balance at September 30, 2021
+28,793
+$
+288
+$
+1,130,921
+$
+( 3,639
+)
+$
+( 316
+)
+$
+( 1,011,150
+)
+$
+116,104
+Issuance of common stock - restricted shares
+54
+1
+( 1
+)
+—
+—
+—
+—
+Stock-based compensation expense
+—
+—
+1,120
+—
+—
+—
+1,120
+Issuance of stock for 401(k) match
+8
+—
+115
+—
+—
+—
+115
+Cumulative translation adjustment
+—
+—
+—
+—
+20
+—
+20
+Net loss
+—
+—
+—
+—
+—
+( 4,324
+)
+( 4,324
+)
+Balance at December 31, 2021
+28,855
+$
+289
+$
+1,132,155
+$
+( 3,639
+)
+$
+( 296
+)
+$
+( 1,015,474
+)
+$
+113,035
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+6
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+Nine Months Ended December 31,
+2022
+2021
+Cash flows from operating activities:
+Net loss
+$
+( 28,171
+)
+$
+( 14,161
+)
+Adjustments to reconcile net loss to net cash used in operations:
+Depreciation and amortization
+4,104
+4,009
+Stock-based compensation expense
+3,492
+3,513
+Provision for excess and obsolete inventory
+1,247
+1,627
+Deferred income taxes
+65
+( 2,136
+)
+Change in fair value of contingent consideration
+( 340
+)
+( 4,440
+)
+China dissolution
+1,921
+-
+Non-cash interest income
+-
+( 49
+)
+Other non-cash items
+185
+407
+Unrealized foreign exchange loss on cash and cash equivalents
+( 3
+)
+( 118
+)
+Changes in operating asset and liability accounts:
+Accounts receivable
+2,738
+( 4,528
+)
+Inventory
+( 16,324
+)
+( 279
+)
+Prepaid expenses and other assets
+( 165
+)
+85
+Accounts payable and accrued expenses
+2,565
+( 236
+)
+Deferred revenue
+11,619
+381
+Net cash used in operating activities
+( 17,067
+)
+( 15,925
+)
+Cash flows from investing activities:
+Purchase of property, plant and equipment
+( 970
+)
+( 710
+)
+Cash paid for acquisition, net of cash acquired
+-
+( 11,479
+)
+Proceeds from the maturity of marketable securities
+-
+5,189
+Change in other assets
+( 194
+)
+( 56
+)
+Net cash used in investing activities
+( 1,164
+)
+( 7,056
+)
+Cash flows from financing activities:
+Repurchase of treasury stock
+-
+( 46
+)
+Repayment of debt
+( 56
+)
+( 30
+)
+Proceeds from exercise of employee stock options and ESPP
+127
+125
+Net cash provided by financing activities
+71
+49
+Effect of exchange rate changes on cash
+25
+( 51
+)
+Net decrease in cash, cash equivalents and restricted cash
+( 18,135
+)
+( 22,983
+)
+Cash, cash equivalents and restricted cash at beginning of period
+49,486
+75,539
+Cash, cash equivalents and restricted cash at end of period
+$
+31,351
+$
+52,556
+Supplemental schedule of cash flow information:
+Cash paid for income taxes, net of refunds
+$
+280
+$
+445
+Non-cash investing and financing activities
+Issuance of common stock in connection with the purchase of Neeltran, Inc.
+-
+$
+4,387
+Issuance of common stock to settle liabilities
+$
+476
+$
+2,643
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+7
+AMERICAN SUPERCONDUCTOR CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1.
+Nature of the Business and Operations and Liquidity
+Nature of the Business and Operations
+American Superconductor Corporation (together with its subsidiaries, “AMSC®” or the “Company”) was founded on
+April  9,
+1987.
+The Company is a leading system provider of megawatt-scale power resiliency solutions that orchestrate the rhythm and harmony of power on the grid™ and that protect and expand the capability of the Navy’s fleet. The Company’s system level products leverage its proprietary “smart materials” and “smart software and controls” to provide enhanced resiliency and improved performance of megawatt-scale power flow.
+These unaudited condensed consolidated financial statements of the Company have been prepared on a going concern basis in accordance with United States generally accepted accounting principles (“GAAP”) and the Securities and Exchange Commission’s (“SEC”) instructions to Form
+10 -Q. The going concern basis of presentation assumes that the Company will continue operations and will be able to realize its assets and discharge its liabilities and commitments in the normal course of business. Certain information and footnote disclosures normally included in the financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to those instructions. The year-end condensed balance sheet data was derived from audited financial statements but does
+not
+include all disclosures required by GAAP. The unaudited condensed consolidated financial statements, in the opinion of management, reflect all adjustments (consisting of normal recurring adjustments) necessary for a fair statement of the results for the interim periods ended
+December 31, 2022  and  2021  and the financial position at
+December 31, 2022;
+however, these results are
+not
+necessarily indicative of results which
+may
+be expected for the full year. The interim condensed consolidated financial statements, and notes thereto, should be read in conjunction with the audited consolidated financial statements for the year ended
+March 31, 2022,
+and notes thereto, included in the Company’s Annual Report on Form
+10 -K for the year ended
+March 31, 2022  filed with the SEC on
+June 1, 2022.
+Liquidity
+The Company has historically experienced recurring operating losses and as of
+December 31, 2022 , the Company had an accumulated deficit of $ 1,049  million. In addition, the Company has historically experienced recurring negative operating cash flows. At
+December 31, 2022 , the Company had cash and cash equivalents of $ 23.7
+million. Cash used in operations for the  nine
+months ended
+December 31, 2022
+was $ 17.1
+million.
+In
+February 2021,
+the Company filed a shelf registration statement on Form S- 3
+that will expire in
+February 2024 ( the “Form S- 3” ). The Form S- 3
+allows the Company to offer and sell from time-to-time up to
+$250  million of common stock, debt securities, warrants or units comprised of any combination of these securities. The Form S- 3
+is intended to provide the Company flexibility to conduct registered sales of the Company's securities, subject to market conditions, in order to fund the Company's future capital needs. The terms of any future offering under the Form S- 3
+will be established at the time of such offering and will be described in a prospectus supplement filed with the SEC prior to the completion of any such offering.
+The Company is experiencing substantial inflationary pressure in its supply chain and some delays in sourcing materials needed for its products resulting in some production disruption, both of which have increased the Company’s cost of revenues and decreased gross margin. Changes in macroeconomic conditions arising from the COVID- 19
+pandemic or for other reasons, such as the ongoing war between Russia and Ukraine, inflation, rising interest rates, labor force availability, sourcing, material delays and global supply chain disruptions could have a material adverse effect on the Company’s business, financial condition and results of operation.
+From time-to-time the Company
+may
+undertake restructuring activities in order to align the global organization in a manner that the Company believes will better position it to achieve its long-term goals. In
+January 2023,
+the Company undertook a reduction in force that involved approximately
+5 % of the global workforce. This restructuring is expected to incur an immaterial amount of cash expense and to result in annualized cost savings of approximately $ 5
+million, beginning in fiscal year
+2023.
+The Company believes that based on the information presented above and its quarterly management assessment, it has sufficient liquidity to fund its operations and capital expenditures for the next
+twelve
+months following the issuance of the financial statements for the
+nine
+months ended
+December 31, 2022 . The Company’s liquidity is highly dependent on its ability to increase revenues, its ability to control its operating costs, and its ability to raise additional capital, if necessary. The impact of the COVID- 19
+pandemic and other sources of instability, including the war between Russia and Ukraine, on the global financing markets
+may
+reduce the Company's ability to raise additional capital, if necessary, which could negatively impact the Company's liquidity.  There can be
+no
+assurance that the Company will be able to continue to raise additional capital, on favorable terms or at all, from other sources or execute on any other means of improving liquidity described above.
+8
+2.
+Acquisitions
+2021
+Acquisition of Neeltran
+On
+May 6, 2021,
+the Company entered into a Purchase and Sale Agreement (the "Real Property Purchase Agreement") and a Stock Purchase Agreement (the "Neeltran Stock Purchase Agreement") with the selling equity holders named therein. Also on
+May 6, 2021 ,  pursuant to the terms of the Real Property Purchase Agreement, the Company's wholly-owned Connecticut limited liability company, AMSC Husky LLC ("AMSC Husky"), purchased the real property that serves as Neeltran's headquarters for $ 4.3  million, of which (a) $ 2.4  million was paid in immediately available funds by AMSC Husky to the owners of such real property, and (b) $ 1.9  million was paid directly to TD Bank as full payment for the outstanding indebtedness secured by the mortgage on such real property.
+Pursuant to the terms of the Neeltran Stock Purchase Agreement, the Company purchased all of the issued and outstanding shares of capital stock of Neeltran, Inc., a Connecticut corporation ("Neeltran") and Neeltran International, Inc., a Connecticut corporation ("International") for $ 1.0
+million in cash and
+301,556  shares of the Company's common stock, $. 01  par value per share ("AMSC Shares"), that were paid and issued, respectively, to the Neeltran selling stockholders. The Company also paid $ 1.1
+million to International selling stockholders to pay off previous loans made by them to Neeltran.
+Additionally, the Company paid approximately $ 7.6
+million, including $ 1.9
+million of indebtedness secured by the mortgage on the real property as described above, directly to Neeltran lenders at closing to extinguish outstanding Neeltran indebtedness to
+third
+parties. The total purchase price of $ 16.4
+million includes cash paid, the fair value of the AMSC Shares issued at closing and the debt payoff on behalf of the sellers as follows (in millions):
+Cash payment
+$ 4.4
+Issuance of
+301,556
+shares of Company's common stock
+4.4
+Debt payment to third party lenders on behalf of sellers
+7.6
+Total consideration
+$ 16.4
+The Neeltran Acquisition completed by the Company during the fiscal year ended
+March  31,
+2022  has been accounted for under the purchase method of accounting in accordance with ASC
+805,
+Business Combinations.
+The Company allocated the purchase price to the assets acquired and liabilities assumed at their estimated fair values as of the date of Neeltran Acquisition. The excess of the purchase price paid by the Company over the estimated fair value of net assets acquired has been recorded as goodwill. As Neeltran was previously a private company, the adoption of Accounting Standards Codification
+842
+("ASC
+842" ) was completed as part of the Neeltran Acquisition. See Note
+15,
+"Leases" for further details. Neeltran had previously adopted Accounting Standards Codification
+606,
+Revenue from Contracts with Customers
+("ASC
+606" ) as part of prior year audited financial statements.
+The following table summarizes the allocation of the purchase price based on the estimated fair value of the assets acquired and liabilities assumed in connection with the Neeltran Acquisition (in millions):
+Cash and short-term investments
+$
+0.5
+Net working capital (excluding inventory and deferred revenue)
+( 0.9
+)
+Inventory
+9.0
+Property, plant and equipment
+6.5
+Deferred revenue
+( 10.0
+)
+Deferred tax liability
+( 2.3
+)
+Net tangible assets/(liabilities)
+2.8
+Backlog
+0.1
+Trade names and trademarks
+1.2
+Customer relationships
+3.5
+Net identifiable intangible assets/(liabilities)
+4.8
+Goodwill
+8.8
+Total purchase consideration
+$
+16.4
+Inventory include
+s a $ 0.6
+million adjustment to step up the inventory balance to fair value consistent with the purchase price allocation. The fair value was based on the estimated selling price of the inventory, less the remaining manufacturing and selling cost and a normal profit margin on those manufacturing and selling efforts. The inventory step up adjustment increased cost of revenue by $ 0.6
+million in the
+twelve
+month period ended
+March 31, 2022
+as the inventory was sold. This increase is
+not
+reflected in the pro forma condensed combined statements of operations because it does
+not
+have a continui ng impact beyond the
+first
+year.
+Backlog of $ 0.1
+million was evaluated using the multi period excess earnings method under the income approach. The contracts with customers do
+not
+provide for any guarantees to source all future requirements from the Company. The amortization method being utilized is economic consumption estimated over a
+two
+year period with the expense being allocated to cost of revenues.
+﻿
+Customer relationships of $ 3.5
+million relates to customers currently under contract and was determined based on a multi period excess earnings method under the income approach. The method of amortization being utilized is the economic consumption over  7
+years with the expense being allocated to SG&A.
+Trade names and trademarks of $ 1.2
+million were reviewed using the assumption that the Company would continue to utilize the Neeltran trade name indefinitely. The relief from royalty method was utilized using a
+1 % royalty rate on revenues with a
+24.5 % discount rate over
+15
+years.
+9
+The goodwill represents the value associated with the acquired workforce and expected synergies related to the business combinations of the  two  companies. Goodwill resulting from the Neeltran Acquisition was assigned to the Company's Grid business segment. Goodwill recognized in the Neeltran Acquisition is  not  deductible for tax purposes. The Company has finalized its purchase price allocation for the Neeltran Acquisition, and there were
+no
+changes to the net assets and goodwill recorded by the Company as of
+May 6, 2021.
+Unaudited Pro Forma Operating Results
+The unaudited pro forma condensed consolidated statement of operations for the
+three
+and
+nine
+months ended
+December 31, 2022
+and
+2021
+is presented as if the Neeltran Acquisition had occurred on
+April 1, 2021.
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Revenues
+$
+23,881
+$
+26,799
+$
+74,241
+$
+82,957
+Operating loss
+( 9,209
+)
+( 4,380
+)
+( 26,184
+)
+( 16,066
+)
+Net loss
+$
+( 9,581
+)
+$
+( 4,324
+)
+$
+( 28,186
+)
+$
+( 14,323
+)
+Net loss per common share
+Basic
+$
+( 0.34
+)
+$
+( 0.16
+)
+$
+( 1.01
+)
+$
+( 0.53
+)
+Diluted
+$
+( 0.34
+)
+$
+( 0.16
+)
+$
+( 1.01
+)
+$
+( 0.53
+)
+Shares - basic
+27,954
+27,352
+27,794
+27,185
+Shares - diluted
+27,954
+27,352
+27,794
+27,185
+The pro forma amounts include the historical operating results of the Company, and Neeltran, with appropriate adjustments that give effect to acquisition related costs, income taxes, intangible amortization resulting from the Neeltran Acquisition and certain conforming accounting policies of the Company. The pro forma amounts are
+not
+necessarily indicative of the operating results that would have occurred if the Neeltran Acquisition and related transactions had been completed at the beginning of the applicable periods presented. In addition, the pro forma amounts are
+not
+necessarily indicative of operating results in future periods.
+Acquisition of NEPSI
+On
+October 1, 2020 ( the "NEPSI Acquisition Date"), the Company entered into a Stock Purchase Agreement (the "NEPSI Stock Purchase Agreement") with the selling stockholders named therein. Pursuant to the terms of the NEPSI Stock Purchase Agreement and concurrently with entering into such agreement, the Company acquired all of the issued and outstanding (i) shares of capital stock of Northeast Power Systems, Inc., a New York corporation ("NEPSI"), and (ii) membership interests of Northeast Power Realty, LLC, a New York limited liability company, which holds the real property that serves as NEPSI's headquarters (the "NEPSI Acquisition"). NEPSI is a U.S.-based global provider of medium-voltage metal-enclosed power capacitor banks and harmonic filter banks for use on electric power systems. Prior to the NEPSI Acquisition, the Company had purchased $ 0.4
+million of products from NEPSI in fiscal year
+2019
+for which NEPSI was paid and had recorded revenue.
+Pursuant to the NEPSI Stock Purchase Agreement, the Company acquired all of the issued and outstanding shares of NEPSI, and membership interest in the realty entity, for which the Company paid $ 26.0
+million in cash and issued
+873,657
+restricted shares of the Company’s common stock. Additionally, the Company
+may
+issue to the selling stockholders up to an additional
+1,000,000
+shares of common stock upon NEPSI’s achievement of specified revenue objectives during varying periods of up to
+four
+years following closing of the NEPSI Acquisition. This contingent consideration is recorded as a derivative liability based on a Monte Carlo simulation to determine fair value at the time of issuance. NEPSI is now a wholly-owned subsidiary of the Company and is operated and reported as a component of its Grid business unit.
+The NEPSI Acquisition completed by the Company during the fiscal year ended
+March 31, 2021  has been accounted for under the purchase method of accounting in accordance with ASC
+805,   Business Combinations . The Company allocated the purchase price to the assets acquired and liabilities assumed at their estimated fair values as of the date of NEPSI Acquisition. The excess of the purchase price paid by the Company over the estimated fair value of net assets acquired has been recorded as goodwill.  As NEPSI was previously a private company, the adoption of ASC
+606  was completed as part of the NEPSI Acquisition.  See Note
+3,
+"Revenue Recognition" for further details.  There were
+no
+leases acquired and the NEPSI Acquisition had  no
+impact to the Company's reporting under ASC
+842.
+The total purchase price of approximately $ 42.4  million includes the fair value of shares of the Company’s common stock issued at closing, cash paid, and contingent consideration as follows (in millions):
+Cash payment
+$ 26.0
+Issuance of
+873,657
+shares of Company’s common stock
+12.4
+Contingent consideration
+4.0
+Total consideration
+$ 42.4
+Total consideration consists of (a) cash of $ 26.0
+million, (b) issuance of the Company's common stock, using $ 14.23
+per share, which was the closing price on the day that the Company acquired NEPSI, and (c) $ 4.0
+million of contingent consideration for the earnout liability valued as of the NEPSI Acquisition Date. NEPSI Acquisition costs of $ 0.3  million were recorded in selling, general and administrative ("SG&A") costs for the fiscal year ended
+March 31, 2021.
+The fair value of the contingent consideration was determined using a Monte Carlo model and is accounted for as a derivative liability which is revalued at the fair value determined at each subsequent balance sheet date until the contingencies are resolved and the shares to be issued are determined, with the change in fair value recorded in the current period operating loss or (income).  See Note
+13,
+"Contingent Consideration" for further details and a summary of key assumptions used to determine fair value in each period.
+10
+The following table summarizes the allocation of the purchase price based on the estimated fair values of the assets acquired and liabilities assumed and related deferred income taxes in connection with the NEPSI Acquisition (in millions):
+Net working capital (excluding inventory and deferred revenue)
+$
+0.1
+Inventory
+4.2
+Property, plant and equipment
+2.3
+Deferred revenue
+( 2.7
+)
+Deferred tax liability
+( 1.7
+)
+Net tangible assets/(liabilities)
+2.2
+Backlog
+0.6
+Trade names and trademarks
+0.6
+Customer relationships
+6.1
+Net identifiable intangible assets/(liabilities)
+7.3
+Goodwill
+32.9
+Total purchase consideration
+$
+42.4
+Inventory includes a $ 1.0
+million adjustment to step up the inventory balance to fair value consistent with the purchase price allocation.  The fair value was determined based on the estimated selling price of the inventory, less the remaining manufacturing and selling cost and a normal profit margin on those manufacturing and selling efforts. The $ 1.0
+million step up adjustment increased cost of revenue in the fiscal year ended
+March 31, 2021
+as the inventory was sold.  This increase is
+not
+reflected in the pro forma condensed combined statements of operations because it does
+not
+have a continuing impact beyond the
+first
+year.
+Backlog of $ 0.6
+million was evaluated using the multi period excess earnings method under the income approach. The contracts with customers do
+not
+provide for any guarantees to source all future requirements from the Company. The amortization method being utilized is economic consumption estimated over a
+two
+year period with the expense being allocated to cost of revenues.
+Customer relationships of $ 6.1
+million relates to customers currently under contract and was determined based on a multi period excess earnings method under the income approach. The method of amortization being utilized is the economic consumption over
+7
+years with the expense being allocated to SG&A.
+Trade names and trademarks of $ 0.6
+million were reviewed, using the assumption that the Company would continue to utilize the NEPSI trade name indefinitely. The relief from royalty method was utilized using an
+8 % royalty rate on revenues with a
+13 % discount rate over
+8
+years.
+Goodwill represents the value associated with the acquired workforce and expected synergies related to the business combination of the
+two
+companies. Goodwill resulting from the NEPSI Acquisition was assigned to the Company’s Grid business segment.  Goodwill recognized in the NEPSI Acquisition is
+not
+deductible for tax purposes. The $ 1.7
+million of deferred tax liability is primarily related to inventory step up and intangibles.
+11
+3.
+Revenue Recognition
+The Company’s revenues in its Grid business segment are derived primarily through enabling the transmission and distribution of power, providing planning services that allow it to identify power grid needs and risks, and developing ship protection systems for the U.S. Navy. The Company’s revenues in its Wind business segment are derived primarily through supplying advanced power electronics and control systems, licensing its highly engineered wind turbine designs, and providing extensive customer support services to wind turbine manufacturers. The Company records revenue based on a
+five -step model in accordance with ASC
+606.
+For its customer contracts, the Company identifies the performance obligations, determines the transaction price, allocates the contract transaction price to the performance obligations, and recognizes the revenue when (or as) control of goods or services is transferred to the customer. In the  three
+and
+nine
+months ended
+December 31, 2022 ,
+87 % and
+80 % of revenue, respectively, was recognized at the point in time when control transferred to the customer, with the remainder being recognized over time. In the
+three
+and
+nine  months ended
+December 31, 2021,
+79 % and
+76 % of revenue, respectively, was recognized at the point in time when control transferred to the customer, with the remainder being recognized over time.
+In the Company's equipment and system product line, each contract with a customer summarizes each product sold to a customer, which typically represents distinct performance obligations. A contract's transaction price is allocated to each distinct performance obligation using the respective standalone selling price which is determined primarily using the cost-plus expected margin approach and recognized as revenue when, or as, the performance obligation is satisfied. The majority of the Company’s product sales transfer control to the customer in line with the contracted delivery terms and revenue is recorded at the point in time when title and risk transfer to the customer, which is primarily upon delivery, as the Company has determined that this is the point in time that control transfers to the customer.
+The Company's equipment and system product line includes certain contracts which do
+not
+meet the requirements of an exchange transaction and therefore do
+not
+fall within the scope of ASC
+606.   As these non-exchange transaction contracts are considered grant revenue and do
+not
+fall within any specific accounting literature, the Company follows guidance within ASC
+606
+by analogy to recognize grant revenue over time. The Company recorded
+no
+grant revenue in each of the
+three
+and
+nine  months ended
+December  31,
+2022.  In the
+three
+and
+nine  months ended
+December 31, 2021,  the Company recorded $ 0.1  million and $ 0.9  million in grant revenue, respectively, which is included in the Company’s Grid business segment revenue.
+In the Company's service and technology development product line, there are several different types of transactions and each begins with a contract with a customer that summarizes each product sold to a customer, which typically represent distinct performance obligations. The technology development transactions are primarily for activities that have
+no
+alternative use and for which a profit can be expected throughout the life of the contract. In these cases, the revenue is recognized over time, but in the instances where a reasonable profit margin cannot be assured throughout the entire contract, the revenue is recognized at a point in time. Each contract's transaction price is allocated to each distinct performance obligation using the respective standalone selling price which is determined primarily using the cost-plus expected margin approach. The ongoing service transactions are for service contracts that provide benefit to the customer simultaneously as the Company performs its obligations, and therefore this revenue is recognized ratably over time throughout the effective period of these contracts. The transaction prices on these contracts are allocated based on an adjusted market approach which is reassessed annually for reasonableness. The field service transactions include contracts for delivery of goods and completion of services made at the customer's requests, which are
+not
+deemed satisfied until the work has been completed and/or the requested goods have been delivered, so all of this revenue is recognized at the point in time when the control changes, and at allocated prices based on the adjusted market approach driven by standard price lists. The royalty transactions are related to certain contract terms on transactions in the Company's equipment and systems product line based on activity as specified in the contracts. The transaction prices of these agreements are calculated based on an adjusted market approach as specified in the contract. The Company reports royalty revenue for usage-based royalties when the sales have occurred. In circumstances when collectability is
+not
+assured and a contract does
+not
+exist under ASC
+606,
+revenue is deferred until a non-refundable payment has been received for substantially all the amount that is due and there are
+no
+further remaining performance obligations.
+The Company's service contracts can include a purchase order from a customer for specific goods in which each item is a distinct performance obligation satisfied at a point in time at which control of the goods is transferred to the customer.  This transfer occurs based on the contracted delivery terms or when the requested service work has been completed. The transaction price for these goods is allocated based on the adjusted market approach considering similar transactions under similar circumstances. Service contracts are also derived from ongoing maintenance contracts and extended service-type warranty contracts. In these transactions, the Company is contracted to provide an ongoing service over a specified period of time. As the customer is consuming the benefits as the service is being provided, the revenue is recognized over time ratably.
+The Company’s policy is
+not
+to accept volume discounts, product returns, or rebates and allowances within its contracts. In the event a contract was approved with any of these terms, it would be evaluated for variable consideration, estimated and recorded as a reduction of revenue in the same period the related product revenue was recorded.
+The Company provides assurance-type warranties on all product sales for a term of typically
+one
+to
+three
+years, and extended service-type warranties at the customer's option for an additional term ranging up to
+four
+additional years. The Company accrues for the estimated warranty costs for assurance warranties at the time of sale based on historical warranty experience plus any known or expected changes in warranty exposure. For all extended service-type warranties, the Company recognizes the revenue ratably over time during the effective period of the services.
+The Company records revenue net of sales tax, value added tax, excise tax and other taxes collected concurrent with revenue-producing activities. The Company has elected to recognize the cost for freight and shipping when control over the products sold passes to customers and revenue is recognized. The Company has elected to recognize incremental costs of obtaining a contract as expense when incurred except in contracts where the amortization period would exceed
+twelve
+months; in such cases the long-term amount will be assessed for materiality. The Company has elected
+not
+to adjust the promised amount of consideration for the effects of a significant financing component if the period of financing is
+twelve
+months or less.
+The Company monitors costs to meet our obligations on our customer contracts. When it is evident that there is a loss expected on a contract, a contract loss is accrued in the period. Several long-term contracts that were acquired from Neeltran were impacted by higher than planned costs due to required design changes and inflation on material costs, resulting in an increase to the contract loss accrual of $ 1.6
+million and $ 3.2
+million in the
+three
+and
+nine
+month period ended
+December 31, 2022
+which negatively impacted the Company's gross margins.
+The Company’s contracts with customers do
+not
+typically include extended payment terms and
+may
+include milestone billing over the life of the contract. Payment terms vary by contract type and type of customer and generally range from
+30
+to
+60
+days from delivery.
+12
+The following tables disaggregate the Company’s revenue by product line and by shipment destination (in thousands):
+Three Months Ended December 31, 2022
+Nine Months Ended December 31, 2022
+Product Line:
+Grid
+Wind
+Grid
+Wind
+Equipment and systems
+$ 19,475     $ 2,842     $ 61,680     $ 6,144
+Services and technology development
+1,334       230       4,657       1,760
+Total
+$ 20,809     $ 3,072     $ 66,337     $ 7,904
+Region:
+Americas
+$ 17,010       19     $ 51,934     $ 19
+Asia Pacific
+1,760       3,053       10,615       7,815
+EMEA
+2,039       -       3,788       70
+Total
+$ 20,809     $ 3,072     $ 66,337     $ 7,904
+Three Months Ended December 31, 2021
+Nine Months Ended December 31, 2021
+Product Line:
+Grid
+Wind
+Grid
+Wind
+Equipment and systems
+$ 23,416     $ 1,309     $ 67,605     $ 4,168
+Services and technology development
+1,634       440       5,564       2,789
+Total
+$ 25,050     $ 1,749     $ 73,169     $ 6,957
+Region:
+Americas
+$ 16,739     $ 56     $ 57,498     $ 134
+Asia Pacific
+7,064       1,690       10,931       6,781
+EMEA
+1,247       3       4,740       42
+Total
+$ 25,050     $ 1,749     $ 73,169     $ 6,957
+As of
+December 31, 2022 , and
+2021 , the Company’s contract assets and liabilities primarily relate to the timing differences between cash received from a customer in connection with contractual rights to invoicing and the timing of revenue recognition following completion of performance obligations. The Company's accounts receivable balance is made up entirely of customer contract related balances. Changes in the Company’s contract assets, which are included in “Unbilled accounts receivable” and “Deferred program costs” (see Note
+8,
+“Accounts Receivable” and Note
+9,
+“Inventory” for a reconciliation to the condensed consolidated balance sheets) and "Contract liabilities", which are included in the current portion and long-term portion of "Deferred revenue" in the Company’s condensed consolidated balance sheets, are as follows (in thousands):
+Unbilled Accounts Receivable     Deferred Program Costs     Contract Liabilities
+Beginning balance as of March 31, 2022
+$ 6,492     $ 858     $ 30,034
+Increases for costs incurred to fulfill performance obligations
+—       909       —
+Increase (decrease) due to customer billings
+( 11,723 )     —       48,013
+Decrease due to cost recognition on completed performance obligations
+—       ( 791 )     —
+Increase (decrease) due to recognition of revenue based on transfer of control of performance obligations
+9,544       —       ( 36,452 )
+Other changes and FX impact
+—       ( 15 )     ( 180 )
+Ending balance as of December 31, 2022
+$ 4,313     $ 961     $ 41,415
+Unbilled Accounts Receivable     Deferred Program Costs     Contract Liabilities
+Beginning balance as of March 31, 2021
+$ 5,765     $ 977     $ 21,257
+Increases for costs incurred to fulfill performance obligations
+—       3,140       —
+Increase for balance acquired
+—       634       10,048
+Increase (decrease) due to customer billings
+( 11,214 )     —       55,354
+Decrease due to cost recognition on completed performance obligations
+—       ( 4,128 )     —
+Increase (decrease) due to recognition of revenue based on transfer of control of performance obligations
+12,186       —       ( 55,318 )
+Other changes and FX impact
+—       ( 8 )     137
+Ending balance as of December 31, 2021
+$ 6,737     $ 615     $ 31,478
+13
+The Company’s remaining performance obligations represent the unrecognized revenue value of the Company’s contractual commitments. The Company’s performance obligations
+may
+vary significantly each reporting period based on the timing of major new contractual commitments. As of
+December 31, 2022 , the Company had outstanding performance obligations on existing contracts under ASC
+606
+to be recognized in the next
+twelve
+months of approximately $ 112.1  million. There are also approximately $ 30.4   million of outstanding performance obligations to be recognized over a period of
+thirteen
+to
+sixty
+months. The remaining performance obligations are subject to customer actions and therefore the timing of revenue recognition cannot be reasonably estimated. The
+twelve -month performance obligations include anticipated shipments to Inox based on the
+twelve -month rolling forecast provided by Inox on the multi-year supply contract. The quantities specified in any forecast provided by Inox related to the multi-year supply contract are firm and irrevocable for the
+first
+three
+months of a
+twelve -month rolling forecast. The timing of the performance obligations beyond the
+twelve -month forecast provided by Inox are
+not
+determinable and therefore are
+not
+included in the total remaining performance obligations.
+The following table sets forth customers who represented
+10%
+or more of the Company’s total revenues for the
+three
+and
+nine
+months ended
+December 31, 2022
+and
+2021 :
+Three Months Ended
+Nine Months Ended
+Reportable
+December 31,
+December 31,
+Segment
+2022
+2021
+2022
+2021
+Inox Wind Limited
+Wind
+11 %
+<10%
+<10%
+<10%
+Fuji Bridex Pte Ltd
+Grid
+<10%
+20 %     10 %     10 %
+4.
+Stock-Based Compensation
+The Company accounts for its stock-based compensation at fair value. The following table summarizes stock-based compensation expense by financial statement line item for the  three
+and
+nine
+months ended
+December 31, 2022
+and  2021
+(in thousands):
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Cost of revenues
+$ 89     $ 36     $ 195     $ 148
+Research and development
+214       190       570       629
+Selling, general and administrative
+1,137       894       2,727       2,736
+Total
+$ 1,440     $ 1,120     $ 3,492     $ 3,513
+The Company issued
+550,000
+shares of restricted stock during the
+three
+months ended
+December 31, 2022,
+and
+888,500  shares  of restricted stock and
+25,806
+shares of immediately vested common stock during the
+nine
+months ended
+December 31, 2022.  The Company issued
+61,000
+shares of restricted stock during the
+three
+months ended
+December 31, 2021,
+and  370,700
+shares of restricted stock and
+166,648
+shares of immediately vested common stock, of which
+158,356
+shares were issued in-lieu of cash bonuses during the
+nine
+months ended
+December 31, 2021.
+These restricted stock awards generally vest over
+2 - 3
+years.  Awards for restricted stock include both time-based and performance-based awards.  For options and restricted stock awards that vest upon the passage of time, expense is being recorded over the vesting period.  Performance-based awards are expensed over the requisite service period based on probability of achievement.
+The estimated fair value of the Company’s stock-based awards, less expected annual forfeitures, is amortized over the awards’ service period. The total unrecognized compensation cost for unvested stock options was $ 0.1  million during the
+nine  months ended
+December 31, 2022.  This expense will be recognized over a weighted average of approximately
+1.4
+years. The total unrecognized compensation cost for unvested outstanding restricted stock was $ 6.1  million at
+December 31, 2022.
+This expense will be recognized over a weighted-average expense period of approximately  1.7  years.
+The Company granted
+20,564
+stock options during the  nine  months ended
+December 31, 2022 . The Company did
+not
+grant any stock options during the
+three
+months ended
+December 31, 2022
+or the
+three
+and
+nine  months ended
+December 31, 2021.
+The stock options granted during the
+nine  months ended
+December 31, 2022
+will vest over
+2  years. The weighted average assumptions used in the Black Scholes valuation model for stock options granted during the
+nine  months ended
+December 31, 2022
+are as follows:
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Expected volatility
+N/A       N/A       71.40 %     N/A
+Risk-free interest rate
+N/A       N/A       3.10 %     N/A
+Expected life (years)
+N/A       N/A       6.14       N/A
+Dividend yield
+N/A       N/A       None       N/A
+5.
+Computation of Net Loss per Common Share
+Basic net loss per share (“EPS”) is computed by dividing net loss by the weighted-average number of common shares outstanding for the period. Where applicable, diluted EPS is computed by dividing the net loss by the weighted-average number of common shares and dilutive common equivalent shares outstanding during the period, calculated using the treasury stock method. Common equivalent shares include the effect of restricted stock, exercise of stock options and warrants and contingently issuable shares. Stock options and warrants that are out-of-the-money with exercise prices greater than the average market price of the underlying common shares and shares of performance-based restricted stock where the contingency was
+not
+met are excluded from the computation of diluted EPS as the effect of their inclusion would be anti-dilutive.  For each of the
+three
+and
+nine
+months ended
+December 31, 2022 , and
+2021,   1.1
+million shares were
+not
+included in the calculation of diluted EPS. Of these,
+1.0  million relate to shares tied to the derivative liability for which the contingency has
+not
+yet been met, and
+0.1
+million relate to outstanding stock options as they were considered anti-dilutive .
+The following table reconciles the numerators and denominators of the earnings per share calculation for the  three
+and
+nine
+months ended
+December 31, 2022
+and  2021
+(in thousands, except per share data):
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Numerator:
+Net loss
+$ ( 9,581 )   $ ( 4,324 )   $ ( 28,171 )   $ ( 14,161 )
+Denominator:
+Weighted-average shares of common stock outstanding
+29,354       28,418       28,884       28,234
+Weighted-average shares subject to repurchase
+( 1,400 )     ( 1,066 )     ( 1,090 )     ( 1,089 )
+Shares used in per-share calculation ― basic
+27,954       27,352       27,794       27,145
+Shares used in per-share calculation ― diluted
+27,954       27,352       27,794       27,145
+Net loss per share ― basic
+$ ( 0.34 )   $ ( 0.16 )   $ ( 1.01 )   $ ( 0.52 )
+Net loss per share ― diluted
+$ ( 0.34 )   $ ( 0.16 )   $ ( 1.01 )   $ ( 0.52 )
+14
+6.
+Goodwill and Other Intangibles
+Goodwill
+Goodwill represents the difference between the purchase price and the fair value of the identifiable tangible and intangible net assets when accounted for using the purchase method of accounting. The Company's goodwill balance relates to the Neeltran Acquisition in fiscal
+2021,
+the NEPSI Acquisition in fiscal
+2020,
+and the acquisition of Infinia Technology Corporation in fiscal
+2017
+and is reported in the Grid business segment. Goodwill is
+not
+amortized but reviewed for impairment. Goodwill is reviewed annually and whenever events or changes in circumstances indicate that the carrying value of the goodwill might
+not
+be recoverable.
+The following table provides a roll forward of the changes in the Company's Grid business segment goodwill balance:
+Goodwill
+March 31, 2021
+$ 34,634
+Neeltran Acquisition
+8,837
+March 31, 2022
+$ 43,471
+Less impairment loss
+-
+December 31, 2022
+$ 43,471
+The Company did
+not
+identify any triggering events in the  three
+and
+nine
+months ended
+December 31, 2022
+that would require interim impairment testing of goodwill.
+Other Intangibles
+Intangible assets at
+December 31, 2022  and
+March 31, 2022  consisted of the following (in thousands):
+December 31, 2022
+March 31, 2022
+Gross Amount
+Accumulated Amortization
+Net Book Value
+Gross Amount
+Accumulated Amortization
+Net Book Value
+Estimated Useful Life
+Licenses
+$ 3,610     $ ( 3,610 )     —     $ 3,610     $ ( 3,610 )     —       7
+Backlog
+$ 681     $ ( 675 )   $ 6     $ 681     $ ( 631 )   $ 50       2
+Trade name and trademarks
+1,800       —       1,800       1,800       —       1,800       Indefinite
+Customer relationships
+9,600       ( 4,413 )     5,187       9,600       ( 2,723 )     6,877       7
+Core technology and know-how
+5,970       ( 3,748 )     2,222       5,970       ( 3,386 )     2,584       5 - 10
+Intangible assets
+$ 21,661     $ ( 12,446 )   $ 9,215     $ 21,661     $ ( 10,350 )   $ 11,311
+The Company recorded intangible amortization expense related to customer relationship and core technology and know-how of $ 0.7  million and $ 2.1  million, in the
+three
+and
+nine
+months ended
+December 31, 2022 , respectively, and $ 0.6
+million and $ 1.8
+million in the
+three
+and
+nine
+months ended
+December 31, 2021,
+respectively.  Additionally, the Company recorded intangible amortization related to backlog that is reported in cost of revenues of less than
+$0.1
+million in each of the
+three
+and
+nine  months  ended
+December 31, 2022 . The Company recorded intangible amortization related to backlog that is reported in cost of revenues of  $0.1
+million in each of the
+three
+and
+nine
+months ended
+December 31, 2021,
+respectively.
+Expected future amortization expense related to intangible assets is as follows (in thousands):
+Years ended March 31,
+Total
+2023
+688
+2024
+2,158
+2025
+1,648
+2026
+1,221
+2027
+1,085
+Thereafter
+615
+Total
+$ 7,415
+The Company's intangible assets relate entirely to the Grid business segment operations in the United States.
+7.
+Fair Value Measurements
+A valuation hierarchy for disclosure of the inputs to valuation used to measure fair value has been established. This hierarchy prioritizes the inputs into
+three
+broad levels as follows:
+Level  1
+-
+Inputs are unadjusted quoted prices in active markets for identical assets or liabilities that the Company has the ability to access at the measurement date.
+Level  2
+-
+Inputs include quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are
+not
+active, inputs other than quoted prices that are observable for the asset or liability, and inputs that are derived principally from or corroborated by observable market data by correlation or other means (market corroborated inputs).
+Level  3
+-
+Unobservable inputs that reflect the Company’s assumptions that market participants would use in pricing the asset or liability. The Company develops these inputs based on the best information available, including its own data.
+The Company provides a gross presentation of activity within Level
+3
+measurement roll-forward and details of transfers in and out of Level
+1
+and
+2
+measurements.  A change in the hierarchy of an investment from its current level is reflected in the period during which the pricing methodology of such investment changes.  Disclosure of the transfer of securities from Level
+1
+to Level
+2
+or Level
+3
+is made in the event that the related security is significant to total cash and investments.  The Company did
+not
+have any transfers of assets and liabilities from Level
+1,
+Level
+2
+or Level
+3
+of the fair value measurement hierarchy during the
+nine
+months ended
+December 31, 2022 .
+15
+A financial asset’s or liability’s classification within the hierarchy is determined based on the lowest level input that is significant to the fair value measurement.
+Valuation Techniques
+Cash Equivalents
+Cash equivalents consist of highly liquid instruments with maturities of
+three
+months or less that are regarded as high quality, low risk investments, are measured using such inputs as quoted prices and are classified within Level
+1
+of the valuation hierarchy. Cash equivalents consist principally of certificates of deposits and money market accounts.
+Contingent Consideration
+Contingent consideration relates to the earnout payment set forth in the NEPSI Stock Purchase Agreement that provides that the selling stockholders
+may
+receive up to an additional
+1,000,000
+shares of common stock of the Company upon the achievement of certain specified revenue objectives over varying periods of up to
+four
+years following the NEPSI Acquisition Date.
+See Note
+13 , "Contingent Consideration" and Note
+2,
+“Acquisitions” for further discussion. The Company relied on a Monte Carlo method to determine the fair value of the contingent consideration on the NEPSI Acquisition Date and will continue to revalue the fair value of the contingent consideration using the same method at each subsequent balance sheet date until the contingencies are resolved and the shares to be issued are determined, with the change in fair value recorded in the current period operating loss.
+The following table provides the assets and liabilities carried at fair value on a recurring basis, measured as of
+December 31, 2022
+and
+March 31, 2022
+(in thousands):
+Total Carrying Value
+Quoted Prices in Active Markets (Level 1)
+Significant Other Observable Inputs (Level 2)
+Significant Unobservable Inputs (Level 3)
+December 31, 2022:
+Assets:
+Cash equivalents
+$ 6,392     $ 6,392     $ —     $ —
+Derivative liabilities:
+Contingent consideration
+$ 860     $ —     $ —     $ 860
+Total Carrying Value     Quoted Prices in Active Markets (Level 1)     Significant Other Observable Inputs (Level 2)     Significant Unobservable Inputs (Level 3)
+March 31, 2022:
+Assets:
+Cash equivalents
+$ 17,641     $ 17,641     $ —     $ —
+Derivative liabilities:
+Contingent consideration
+$ 1,200     $ —     $ —     $ 1,200
+16
+The table below reflects the activity for the Company’s derivative liability measured at fair value on a recurring basis (in thousands):
+Acquisition Contingent Consideration
+Balance at March 31, 2021
+$ 7,050
+Change in fair value
+( 5,850 )
+Balance at March 31, 2022
+1,200
+Change in fair value
+( 340 )
+Balance at December 31, 2022
+$ 860
+8.
+Accounts Receivable
+Accounts receivable at
+December 31, 2022
+and
+March 31, 2022
+consisted of the following (in thousands):
+December 31, 2022
+March 31, 2022
+Accounts receivable (billed)
+$
+13,255
+$
+13,788
+Accounts receivable (unbilled)
+4,313
+6,492
+Accounts receivable, net
+$
+17,568
+$
+20,280
+9.
+Inventory
+Inventory, net of reserves, at
+December 31, 2022
+and
+March 31, 2022
+consisted of the following (in thousands):
+December 31, 2022
+March 31, 2022
+Raw materials
+$
+18,122
+$
+11,020
+Work-in-process
+12,496
+10,462
+Finished goods
+7,146
+1,326
+Deferred program costs
+961
+858
+Net inventory
+$
+38,725
+$
+23,666
+The Company recorded inventory write-downs of $ 0.2
+million and $ 0.4  million for the
+three
+months ended
+December 31, 2022  and
+2021 , respectively. The Company recorded inventory write-downs of $ 1.2  million and $ 1.6  million for the
+nine
+months ended
+December 31, 2022
+and
+2021,
+respectively.  These write-downs were based on the Company's evaluation of its inventory on hand for excess quantities and obsolescence.
+Deferred program costs as of
+December 31, 2022  and
+March 31, 2022 , primarily represent costs incurred on programs where the Company needs to complete performance obligations before the related revenue and costs will be recognized.
+17
+10.
+Property, Plant and Equipment
+The cost and accumulated depreciation of property, plant and equipment at
+December 31, 2022
+and
+March 31, 2022
+are as follows (in thousands):
+December 31, 2022
+March 31, 2022
+Construction in progress - equipment
+$ 844     $ 573
+Land
+980       980
+Building
+5,416       5,270
+Equipment and software
+43,938       43,668
+Finance lease - right of use asset
+3       8
+Furniture and fixtures
+1,530       1,379
+Leasehold improvements
+6,650       6,634
+Property, plant and equipment, gross
+$ 59,361       58,512
+Less accumulated depreciation
+( 46,750 )     ( 44,856 )
+Property, plant and equipment, net
+$ 12,611     $ 13,656
+Depreciation expense was $ 0.6
+million and $ 0.7
+million for the
+three
+months ended
+December 31, 2022
+and
+2021 , respectively. Depreciation expense was $ 2.0  million for each of the
+nine  months ended
+December 31, 2022
+and
+2021,
+respectively.
+11.
+Accounts Payable and Accrued Expenses
+Accounts payable and accrued expenses at
+December 31, 2022
+and
+March 31, 2022
+consisted of the following (in thousands):
+December 31, 2022
+March 31, 2022
+Accounts payable
+$
+13,548
+$
+13,192
+Accrued inventories in-transit
+2,126
+2,212
+Accrued other miscellaneous expenses
+6,539
+3,602
+Advanced deposits
+3,152
+3,021
+Accrued compensation
+4,281
+4,642
+Income taxes payable
+418
+405
+Accrued product warranty
+1,996
+2,066
+Total
+$
+32,060
+$
+29,140
+The Company generally provides a
+one
+to
+three
+year warranty on its products, commencing upon delivery or installation where applicable. A provision is recorded upon revenue recognition to cost of revenues for estimated warranty expense based on historical experience.
+Product warranty activity was as follows (in thousands):
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Balance at beginning of period
+$
+2,053
+$
+2,155
+$
+2,066
+$
+2,053
+Acquired warranty obligations
+-
+-
+-
+248
+Change in accruals for warranties during the period
+535
+206
+1,191
+520
+Settlements during the period
+( 592
+)
+( 143
+)
+( 1,261
+)
+( 603
+)
+Balance at end of period
+$
+1,996
+$
+2,218
+$
+1,996
+$
+2,218
+12.
+Income Taxes
+The Company recorded an  income tax expense of $ 0.1  million in each of the  three
+and
+nine
+months ended
+December 31, 2022 .
+The Company recorded an income tax expense of less than $ 0.1
+million and income tax benefit of $ 1.9
+million in the  three
+and
+nine  months ended
+December 31, 2021,
+respectively.
+As a result of a difference in book and tax basis related to the intangible assets acquired in the Neeltran Acquisition (see Note
+2,
+"Acquisitions"), the Company recorded a deferred tax liability of $ 2.3
+million during the
+nine
+months ended
+December 31, 2021.
+As a result, the Company was able to benefit from additional deferred tax assets and therefore released a corresponding valuation allowance of $ 2.3  million  during the
+nine   months ended
+December  31,
+2021 . Goodwill recognized in the Neeltran Acquisition is
+not
+deductible for tax purposes.
+18
+Accounting for income taxes requires a
+two -step approach to recognizing and measuring uncertain tax positions.  The
+first
+step is to evaluate the tax position for recognition by determining if, based on the technical merits, it is more likely than
+not
+the position will be sustained upon audit, including resolution of related appeals or litigation processes, if any.  The
+second
+step is to measure the tax benefit as the largest amount that is more than
+50%
+likely to be realized upon ultimate settlement.  The Company re-evaluates these uncertain tax positions on a quarterly basis.  The evaluation is based on factors including, but
+not
+limited to, changes in facts or circumstances, changes in tax law, effectively settled issues under audit and new audit activity.  Any changes in these factors could result in the recognition of a tax benefit or an additional charge to the tax provision.  The Company did
+not
+identify any uncertain tax positions in the  nine
+months ended
+December 31, 2022  and did
+not
+have any gross unrecognized tax benefits as of
+December 31, 2022 .
+13.
+Contingent Consideration
+Contingent Consideration
+The Company evaluated the NEPSI Acquisition earnout payment set forth in the NEPSI Stock Purchase Agreement (see Note
+2,
+"Acquisitions" for further details), which
+may
+require settlement in the Company's common stock, and determined the contingent consideration qualified for liability classification and derivative treatment under ASC
+815,
+Derivatives and Hedging . As a result, for each period, the fair value of the contingent consideration will be remeasured and the resulting gain or loss will be recognized in operating expenses until the share amount is fixed.
+Following is a summary of the key assumptions used in a Monte Carlo simulation to calculate the fair value of the contingent consideration related to the NEPSI Acquisition:
+December 31,
+September 30,
+June 30,
+Fiscal Year 2022
+2022
+2022
+2022
+Revenue risk premium
+5.30
+%
+5.20
+%
+6.60
+%
+Revenue volatility
+25
+%
+25
+%
+30
+%
+Stock Price
+$
+3.68
+$
+4.38
+$
+5.18
+Payment delay (days)
+80
+80
+80
+Fair value (millions)
+$
+0.9
+$
+1.1
+$
+1.4
+March 31,
+December 31,
+September 30,
+June 30,
+March 31,
+Fiscal Year 2021
+2022
+2021
+2021
+2021
+2021
+Revenue risk premium
+6.50
+%
+6.60
+%
+6.60
+%
+6.60
+%
+6.70
+%
+Revenue volatility
+33
+%
+33
+%
+30
+%
+30
+%
+30
+%
+Stock Price
+$
+7.61
+$
+10.88
+$
+14.58
+$
+17.39
+$
+18.96
+Payment delay (days)
+80
+80
+80
+80
+80
+Fair value (millions)
+$
+1.2
+$
+2.6
+$
+4.7
+$
+7.2
+$
+7.1
+The Company recorded a net gain  of $ 0.2
+million and $ 0.3
+million resulting  from the decrease in the fair value of the contingent consideration in the  three
+and
+nine  months ended
+December 31, 2022 . The Company recorded a net gain of $ 2.1  million and $ 4.4  million resulting from the decrease in the fair value of the contingent consideration in the  three
+and
+nine  months ended
+December 31, 2021,
+respectively.
+14.
+Debt
+As part of the Neeltran Acquisition, the Company identified
+four
+equipment financing agreements that Neeltran had entered into prior to the acquisition on
+May 6, 2021.
+The Company determined to account for these agreements as a debt transaction and recorded current and long-term debt liabilities
+of $ 0.1
+mi llion each during the
+three  months ended
+June  30,
+2021.
+The current and long-term debt balance is
+$0.1
+million and less than
+$0.1
+million as of
+December 31, 2022,
+respectively.
+15.
+Leases
+The Company determines whether a contract is or contains a lease at inception of a contract. The Company defines a lease as a contract, or part of a contract, that conveys the right to control the use of identified property or equipment (an identified asset) for a period of time in exchange for consideration. Control over the use of the identified asset means that the Company has both the right to obtain substantially all of the economic benefits from the use of the asset and the right to direct the use of the asset.
+The discount rate was calculated using an incremental borrowing rate based on an assessment prepared by the Company through the use of Company credit ratings, consideration of its lease populations potential risk to its total capital structure, and a market rate for a collateralized loan for its risk profile, calculated by a
+third
+party. The Company elected to apply the discount rate using the remaining lease term at the date of adoption for Neeltran lease contracts.
+Following the Neeltran Acquisition, the Company evaluated all open Neeltran contracts at the date of the acquisition to determine if any applied under ASC
+842
+as Neeltran, a private company, had deferred adopting ASC
+842
+prior to the Neeltran Acquisition, as permitted. The Company identified
+nine
+lease contracts with terms greater than
+twelve
+months and evaluated them under ASC
+842
+guidance. As part of the implementation, the Company identified
+one
+lease contract that classified as a financing lease. The Company does
+not
+expect a material impact to the financial statements on an ongoing basis resulting from the adoption of the ASC
+842
+standard for the Neeltran business and Neeltran will follow the existing policies below.
+Operating Leases
+All significant lease arrangements are recognized at lease commencement.  Operating lease right–of-use assets and lease liabilities are recognized at commencement. The operating lease right-of-use asset includes any lease payments related to initial direct cost and prepayments and excludes any lease incentives. Lease expense is recognized on a straight-line basis over the lease term.  The Company enters into a variety of operating lease agreements through the normal course of its business, but primarily real estate leases to support its operations. The real estate lease agreements generally provide for fixed minimum rental payments and the payment of real estate taxes and insurance. Many of these real estate leases have
+one
+or more renewal options that allow the Company, at its discretion, to renew the lease for varying periods up to
+five
+years or to terminate the lease. Only renewal options or termination rights that the Company believed were likely to be exercised were included in the lease calculations.
+The Company also enters into leases for vehicles, IT equipment and service agreements, and other leases related to its manufacturing operations that are also included in the right-of-use assets and lease liability accounts if they are for a term of longer than
+twelve
+months. However, many of these leases are either short-term in nature or immaterial. The Company has made the policy election to exclude short-term leases from the balance sheet.
+19
+Finance﻿ Leases
+As part of the adoption of ASC
+842
+at Neeltran, the Company identified
+one
+lease contract that is classified as a finance lease. In
+February 2020,
+Neeltran entered into a contract to lease a copy machine for an initial term of
+39
+months, or through
+May 2023.
+The Company concluded that the lease should be classified and accounted for as a finance lease as the total value of the lease payments are greater than fair value of the asset. Accordingly, on
+May 6, 2021,
+the Company recognized a finance lease right-of-use asset and a finance lease liability of $ 13.2
+thousand on the Neeltran opening balance sheet. As of
+December 31, 2022,
+the right-of-use asset related to the finance lease w as $ 2.6  t housand, net of accumulated amortization o f $ 10.6   thousand, and is included in the property and equipment, net on the Company's consolidated balance sheet.
+Finance lease right-of-use assets and lease liabilities are recognized similar to an operating lease, at the lease commencement date or the date the lessor makes the leased asset available for use. Finance lease right-of-use assets are generally amortized on a straight-line basis over the lease term, and the carrying amount of the finance lease liabilities are ( 1 ) accreted to reflect interest using the incremental borrowing rate if the rate implicit in the lease is
+not
+readily determinable, and ( 2 ) reduced to reflect lease payments made during the period. Amortization expense for finance lease right-of-use assets and interest accretion on finance lease liabilities are recorded to depreciation expense and interest expense, respectively in the Company's consolidated statement of operations.
+Supplemental balance sheet information related to leases at
+December 31, 2022 , and
+March 31, 2022
+are as follows (in thousands):
+December 31, 2022
+March 31, 2022
+Leases:
+Right-of-use assets - Financing
+$
+3
+8
+Right-of-use assets - Operating
+3,068
+3,502
+Total right-of-use assets
+3,071
+3,510
+Lease liabilities - ST Financing
+$
+3
+7
+Lease liabilities - ST Operating
+819
+740
+Lease liabilities - LT Financing
+-
+1
+Lease liabilities - LT Operating
+2,375
+2,900
+Total lease liabilities
+3,197
+3,648
+Weighted-average remaining lease term
+4.12
+4.93
+Weighted-average discount rate
+6.42
+%
+6.36
+%
+The costs related to the Company's finance lease are
+not
+material. The costs related to the Company's operating leases for the  three
+and
+nine
+months ended
+December 31, 2022  and  2021
+are as follows (in thousands):
+Three Months Ended
+Nine Months Ended
+December 31, 2022
+December 31, 2022
+Operating Leases:
+Operating lease costs - fixed
+$ 256     $ 765
+Operating lease costs - variable
+41       118
+Short-term lease costs
+30       92
+Total lease costs
+327       975
+Three Months Ended
+Nine Months Ended
+December 31, 2021
+December 31, 2021
+Operating Leases:
+Operating lease costs - fixed
+$
+238
+$
+707
+Operating lease costs - variable
+33
+97
+Short-term lease costs
+64
+195
+Total lease costs
+335
+999
+The Company’s estimated minimum future lease obligations under the Company's leases are as follows (in thousands):
+Leases
+Year ended March 31,
+2023
+$
+256
+2024
+973
+2025
+780
+2026
+720
+2027
+579
+Thereafter
+357
+Total minimum lease payments
+3,665
+Less: interest
+468
+Present value of lease liabilities
+3,197
+20
+16.
+Commitments and Contingencies
+Legal Contingencies
+From time to time, the Company is involved in legal and administrative proceedings and claims of various types. The Company records a liability in its consolidated financial statements for these matters when a loss is known or considered probable and the amount can be reasonably estimated. The Company reviews these estimates each accounting period as additional information is known and adjusts the loss provision when appropriate. If a matter is both probable to result in a liability and the amounts of loss can be reasonably estimated, the Company estimates and discloses the possible loss or range of loss to the extent necessary to make the consolidated financial statements
+not
+misleading. If the loss is
+not
+probable or cannot be reasonably estimated, a liability is
+not
+recorded in its consolidated financial statements.
+Other
+The Company enters into long-term construction contracts with customers that require the Company to obtain performance bonds. The Company is required to deposit an amount equivalent to some or all the face amount of the performance bonds into an escrow account until the termination of the bond. When the performance conditions are met, amounts deposited as collateral for the performance bonds are returned to the Company. In addition, the Company has various contractual arrangements in which minimum quantities of goods or services have been committed to be purchased on an annual basis.
+As of
+December 31, 2022 , the Company had $ 1.0
+million of restricted cash included in long-term assets and
+$6 .6  m illion of restricted cash included in current assets. As of
+March 31, 2022 , the Company had $ 6.1
+million of restricted cash included in long term assets and $ 2.8
+million of restricted cash included in current assets. These amounts included in restricted cash primarily represent deposits to secure letters of credit for various supply contracts and long-term projects, including the irrevocable letter of credit in the amount of $ 5.0
+million to secure certain of the Company's obligations under a subcontract agreement with ComEd.  These deposits are held in interest bearing accounts.
+17.
+Business Segments
+The Company reports its financial results in
+two
+reportable business segments: Grid and Wind.
+Through the Company’s power grid offerings, the Grid business segment enables electric utilities, industrial facilities, and renewable energy project developers to connect, transmit and distribute power with exceptional efficiency, reliability, security and affordability through its transmission planning services, power electronics, and superconductor-based systems. The sales process is enabled by transmission planning services that allow it to identify power grid congestion, poor power quality and other risks, which helps the Company determine how its solutions can improve network performance. These services often lead to sales of grid interconnection solutions for wind farms and solar power plants, power quality systems, and transmission and distribution cable systems.  The Company also sells ship protection products to the U.S. Navy through its Grid business segment.
+Through the Company’s wind power offerings, the Wind business segment enables manufacturers to field wind turbines with exceptional power output, reliability and affordability.  The Company provides advanced power electronics and control system products, engineered designs, and support services. The Company supplies advanced power electronics and control systems, licenses its highly engineered wind turbine designs, and provides extensive customer support services to wind turbine manufacturers. The Company’s design portfolio includes a broad range of drivetrains and power ratings of
+2
+megawatts ("MWs") and higher. The Company provides a broad range of power electronics and software-based control systems that are highly integrated and designed for optimized performance, efficiency, and grid compatibility.
+The operating results for the
+two
+business segments are as follows (in thousands):
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Revenues:
+Grid
+$
+20,809
+$
+25,050
+$
+66,337
+$
+73,169
+Wind
+3,072
+1,749
+7,904
+6,957
+Total
+$
+23,881
+$
+26,799
+$
+74,241
+$
+80,126
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Operating loss:
+Grid
+$
+( 7,064
+)
+$
+( 3,691
+)
+$
+( 20,840
+)
+$
+( 14,873
+)
+Wind
+( 924
+)
+( 1,678
+)
+( 2,178
+)
+( 2,236
+)
+Unallocated corporate expenses
+( 1,221
+)
+989
+( 3,152
+)
+927
+Total
+$
+( 9,209
+)
+$
+( 4,380
+)
+$
+( 26,170
+)
+$
+( 16,182
+)
+21
+The accounting policies of the business segments are the same as those for the consolidated Company. The Company’s business segments have been determined in accordance with the Company’s internal management structure, which is organized based on operating activities. The Company evaluates performance based upon several factors, of which the primary financial measures are segment revenues and segment operating loss. The disaggregated financial results of the segments reflect allocation of certain functional expense categories consistent with the basis and manner in which Company management internally disaggregates financial information for the purpose of assisting in making internal operating decisions. In addition, certain corporate expenses which the Company does
+not
+believe are specifically attributable or allocable to either of the
+two
+business segments have been excluded from the segment operating loss.
+Unallocated corporate expenses consist of a gain on contingent consider ation of $ 0.2  million and $ 0.3  million  in the
+three
+and
+nine  months ended
+December 31, 2022.
+Unallocated corporate expenses consist of a gain on contingent consideration of $ 2.1  million and $ 4.4  million in the
+three
+and
+nine  months ended
+December  31,
+2021.
+Additionally, unallocated corporate expenses consist of stock-based compensation expense of $ 1.4
+million and $ 1.1  million in the
+three
+months ended
+December 31, 2022 , and
+2021 , respectively  and $ 3.5  million in each of the
+nine  months ended
+December 31, 2022  and
+2021,
+respectively.
+Total assets for the
+two
+business segments as of
+December 31, 2022 , and
+March 31, 2022 , are as follows (in thousands):
+December 31, 2022
+March 31, 2022
+Grid
+$
+123,664
+$
+114,053
+Wind
+10,005
+9,866
+Corporate assets
+31,403
+49,968
+Total
+$
+165,072
+$
+173,887
+18.
+Recent Accounting Pronouncements
+In
+June 2016,
+the FASB issued ASU
+2016 - 13,
+Financial Instruments-Credit Losses (Topic
+326 ): Measurement of Credit Losses on Financial Instruments . The amendments in ASU
+2016 - 13
+will provide more decision-useful information about the expected credit losses on financial instruments and other commitments to extend credit held by a reporting entity at each reporting date. Following the release of ASU
+2019 - 10
+in
+November 2019,
+the new effective date, as long as the Company remains a smaller reporting company, would be annual reporting periods beginning after
+December 15, 2022.
+The Company evaluated the impact of the adoption of ASU
+2016 - 13,
+and does
+not
+expect it to have a material impact on its consolidated financial statements.
+In
+October 2021,
+the FASB issued ASU
+2021 - 08,
+Business Combinations (Topic
+805 ): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers . The amendments in ASU
+2021 - 08
+will improve the accounting for acquired revenue contracts with customers in a business combination. Following the release of ASU
+2021 - 08
+in
+October 2021,
+the new effective date will be annual reporting periods beginning after
+December 15, 2022.
+The Company evaluated the impact of the adoption of ASU
+2021 - 08,
+and does
+not
+expect it to have a material impact on its consolidated financial statements.
+In
+November 2021,
+the FASB issued ASU
+2021 - 10,
+Government Assistance (Topic
+832 ): Disclosures by Business Entities about Government Assistance . The amendments in ASU
+2021 - 10
+will improve financial reporting by requiring disclosures that increase the transparency of transactions with government accounted for by applying a grant or contribution accounting model by analogy. Following the release of ASU
+2021 - 10
+in
+November 2021,
+the new effective date will be annual reporting periods beginning after
+December 15, 2021.
+As of
+April 1, 2022,
+the Company has adopted ASU
+2021 - 10
+and noted
+no
+material impact on its consolidated financial statements.
+19.
+Subsequent Events
+The Company has performed an evaluation of subsequent events through the time of filing this Quarterly Report on Form
+10 -Q with the SEC and has determined that there are
+no
+such events to report.
+22
+AMERICAN SUPERCONDUCTOR CORPORATION
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). For this purpose, any statements contained herein that relate to future events or conditions, including without limitation, the statements in Part II, “Item 1A. Risk Factors” and in Part I under “Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations” and located elsewhere herein regarding industry prospects, our prospective results of operations or financial position, the benefits of our acquisition of Northeast Power Systems, Inc. ("NEPSI") and Neeltran, Inc. ("Neeltran"), changes in macroeconomic and market conditions, including increasing inflation and impacts from the COVID-19 pandemic, sourcing, production disruption, material delays and global supply chain disruptions and adoption of accounting changes may be deemed to be forward-looking statements. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects,” and similar expressions are intended to identify forward-looking statements. Such forward-looking statements represent management’s current expectations and are inherently uncertain. There are a number of important factors that could materially impact the value of our common stock or cause actual results to differ materially from those indicated by such forward-looking statements. These important factors include, but are not limited to: We have a history of operating losses, which may continue in the future. Our operating results may fluctuate significantly from quarter to quarter and may fall below expectations in any particular fiscal quarter; We have a history of negative operating cash flows, and we may require additional financing in the future, which may not be available to us; We may be required to issue performance bonds or provide letters of credit, which restricts our ability to access any cash used as collateral for the bonds or letters of credit; Changes in exchange rates could adversely affect our results of operations; If we fail to maintain proper and effective internal control over financial reporting, our ability to produce accurate and timely financial statements could be impaired and may lead investors and other users to lose confidence in our financial data; We may not realize all of the sales expected from our backlog of orders and contracts; Our contracts with the U.S. government are subject to audit, modification or termination by the U.S. government and include certain other provisions in favor of the government. The continued funding of such contracts remains subject to annual congressional appropriation, which, if not approved, could reduce our revenue and lower or eliminate our profit; The COVID-19 pandemic could adversely impact our business, financial condition and results of operations;
+Changes in U.S. government defense spending could negatively impact our financial position, results of operations, liquidity and overall business; We rely upon third-party suppliers for the components and subassemblies of many of our Grid and Wind products, making us vulnerable to supply shortages and price fluctuations, which could harm our business; Uncertainty surrounding our prospects and financial condition may have an adverse effect on our customer and supplier relationships; We have not manufactured our Amperium wire in commercial quantities, and a failure to manufacture our Amperium wire in commercial quantities at acceptable cost and quality levels would substantially limit our future revenue and profit potential; Our success is dependent upon attracting and retaining qualified personnel and our inability to do so could significantly damage our business and prospects; A significant portion of our Wind segment revenues are derived from a single customer. If this customer's business is negatively affected, it could adversely impact our business;   Our success in addressing the wind energy market is dependent on the manufacturers that license our designs;
+Our business and operations would be adversely impacted in the event of a failure or security breach of our or any critical third parties   information technology infrastructure and networks; Failure to comply with evolving data privacy and data protection laws and regulations or to otherwise protect personal data, may adversely impact our business and financial results; Many of our revenue opportunities are dependent upon subcontractors and other business collaborators; If we fail to implement our business strategy successfully, our financial performance could be harmed; Problems with product quality or product performance may cause us to incur warranty expenses and may damage our market reputation and prevent us from achieving increased sales and market share; Many of our customers outside of the United States may be either directly or indirectly related to governmental entities, and we could be adversely affected by violations of the United States Foreign Corrupt Practices Act and similar worldwide anti-bribery laws outside the United States; We have had limited success marketing and selling our superconductor products and system-level solutions, and our failure to more broadly market and sell our products and solutions could lower our revenue and cash flow;
+We may acquire additional complementary businesses or technologies, which may require us to incur substantial costs for which we may never realize the anticipated benefits; Our success depends upon the commercial adoption of the REG system, which is currently limited, and a widespread commercial market for our products may not develop; Adverse changes in domestic and global economic conditions could adversely affect our operating results; We have operations in, and depend on sales in, emerging markets, including India, and global conditions could negatively affect our operating results or limit our ability to expand our operations outside of these markets. Changes in India ’ s political, social, regulatory and economic environment may affect our financial performance; Our products face competition, which could limit our ability to acquire or retain customers; Our international operations are subject to risks that we do not face in the United States, which could have an adverse effect on our operating results; Growth of the wind energy market depends largely on the availability and size of government subsidies, economic incentives and legislative programs designed to support the growth of wind energy; Lower prices for other fuel sources may reduce the demand for wind energy development, which could have a material adverse effect on our ability to grow our Wind business; The increasing focus on environmental sustainability and social initiatives could increase our costs, and inaction could harm our reputation and adversely impact our financial results; We may be unable to adequately prevent disclosure of trade secrets and other proprietary information;
+Our patents may not provide meaningful protection for our technology, which could result in us losing some or all of our market position; There are a number of technological challenges that must be successfully addressed before our superconductor products can gain widespread commercial acceptance, and our inability to address such technological challenges could adversely affect our ability to acquire customers for our products; Third parties have or may acquire patents that cover the materials, processes and technologies we use or may use in the future to manufacture our Amperium products, and our success depends on our ability to license such patents or other proprietary rights; Our technology and products could infringe intellectual property rights of others, which may require costly litigation and, if we are not successful, could cause us to pay substantial damages and disrupt our business; We face risks related to our legal proceedings; We face risks related to our common stock; and the other important factors discussed under the caption "Risk Factors" in Part 1. Item 1A of our Annual Report on Form 10-K for the fiscal year ended March 31, 2022, and our other reports filed with the SEC.   These important factors, among others, could cause actual results to differ materially from those indicated by forward-looking statements made herein and presented elsewhere by management from time to time. Any such forward-looking statements represent management’s estimates as of the date of this Quarterly Report on Form 10-Q. While we may elect to update such forward-looking statements at some point in the future, we disclaim any obligation to do so, even if subsequent events cause our views to change. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this Quarterly Report on Form 10-Q.
+American Superconductor®, Amperium®, AMSC®, D-VAR®, PowerModule™, D-VAR VVO ®,
+PQ-IVR®, SeaTitan®, Gridtec™ Solutions, Windtec™ Solutions, Smarter, Cleaner...Better Energy™, Orchestrate the Rhythm and Harmony of Power on the Grid™, actiVAR®, armorVAR™, NEPSI™ and Neeltran™ and SafetyLOCK™ are trademarks or registered trademarks of American Superconductor Corporation or our subsidiaries. We reserve all of our rights with respect to our trademarks or registered trademarks regardless of whether they are so designated in this Quarterly Report on Form 10-Q by an ® or ™ symbol. All other brand names, product names, trademarks or service marks appearing in this Quarterly Report on Form 10-Q are the property of their respective holders.
+23
+Executive Overview
+We are a leading system provider of megawatt-scale resiliency solutions that orchestrate the rhythm and harmony of power on the grid™, and that protect and expand the capability of the U.S. Navy's fleet. In the power grid market, we enable electric utilities, industrial facilities, and renewable energy project developers to connect, transmit and distribute smarter, cleaner and better power through our transmission planning services and power electronics and superconductor-based systems. In the wind power market, we enable manufacturers to field highly competitive wind turbines through our advanced power electronics and control system products, engineering, and support services. Our power grid and wind products and services provide exceptional reliability, security, efficiency and affordability to our customers.
+Our power system solutions help to improve energy efficiency, alleviate power grid capacity constraints, improve system resiliency, and increase the adoption of renewable energy generation. Demand for our solutions is driven by the growing needs for modernized smart grids that improve power reliability, security and quality, the U.S. Navy's effort to upgrade on-board power systems to support fleet electrification, and the need for increased renewable sources of electricity, such as wind and solar energy. Concerns about these factors have led to increased spending by corporations and the military, as well as supportive government regulations and initiatives on local, state, and national levels, including renewable portfolio standards, tax incentives and international treaties.
+We manufacture products using two proprietary core technologies: PowerModule™ programmable power electronic converters and our Amperium® high temperature superconductor (“HTS”) wires. These technologies and our system-level solutions are protected by a broad and deep intellectual property portfolio consisting of hundreds of patents and licenses worldwide.
+We operate our business under two market-facing business units: Grid and Wind. We believe this market-centric structure enables us to more effectively anticipate and meet the needs of the U.S. Navy, electric utilities, industrial facilities, power generation project developers and wind turbine manufacturers.
+•
+Grid.  Through our Gridtec™ Solutions, our Grid business segment enables electric utilities, industrial facilities, and renewable energy project developers to connect, transmit and distribute power with exceptional efficiency, reliability, security and affordability. We provide transmission planning services that allow us to identify power grid congestion, poor power quality, and other risks, which help us determine how our solutions can improve network performance. These services often lead to sales of our grid interconnection solutions for wind farms and solar power plants, power quality systems and transmission and distribution cable systems.  We also sell ship protection products to the U.S. Navy through our Grid business segment.
+•
+Wind.  Through our Windtec™ Solutions, our Wind business segment enables manufacturers to field wind turbines with exceptional power output, reliability and affordability. We supply advanced power electronics and control systems, license our highly engineered wind turbine designs, and provide extensive customer support services to wind turbine manufacturers. Our design portfolio includes a broad range of drivetrains and power ratings of 2 MW and higher. We provide a broad range of power electronics and software-based control systems that are highly integrated and designed for optimized performance, efficiency, and grid compatibility.
+Our fiscal year begins on April 1 and ends on March 31. When we refer to a particular fiscal year, we are referring to the fiscal year that began on April 1 of that same year. For example, fiscal 2022 refers to the fiscal year that began on April 1, 2022. Other fiscal years follow similarly.
+On October 31, 2018, we entered into a Subcontract Agreement with Commonwealth Edison Company (“ComEd”) (the “Subcontract Agreement”) for the manufacture and installation of the Company’s resilient electric grid ("REG") system within ComEd’s electric grid in Chicago, Illinois (the “Project”). As provided in the Subcontract Agreement, the Subcontract Agreement became effective upon the signing of an amendment by us and the U.S. Department of Homeland Security (“DHS”) to the existing contract (the “Prime Contract”) between us and DHS on June 20, 2019. Unless terminated earlier by us, ComEd or DHS according to the terms of the Subcontract Agreement, the term of the Subcontract Agreement will continue until we complete our warranty obligations under the Subcontract Agreement. Under the terms of the Subcontract Agreement, we agreed, among other things, to provide the REG system and to supervise ComEd’s installation of the REG system in Chicago. As part of our separate cost sharing arrangement with DHS under the Prime Contract, we received funding provided by DHS in connection with the Subcontract Agreement of approximately $10.0 million, which represents the total amount of revenue we recognized over the term of the Subcontract Agreement and includes $1.0 million that we have agreed to reimburse ComEd for costs incurred by ComEd while undertaking its tasks under the Subcontract Agreement (the “Reimbursement Amount”). In addition, we are required to deliver an irrevocable letter of credit in the amount of $5.0 million to secure certain Company obligations under the Subcontract Agreement, which we have done, and deposited $5.0 million in an escrow account as collateral to secure such letter of credit. We expect that this irrevocable letter of credit will be terminated and the full $5.0 million will be returned from escrow to us during the quarter ending March 31, 2023. ComEd has agreed to provide the site and provide all civil engineering work required to support the operation and integration of the REG system into ComEd’s electric grid. Other than the Reimbursement Amount, ComEd is responsible for its own costs and expenses. DHS’s approval to commence with construction was obtained on June 20, 2019. Substation work on the project began in late 2019 and we successfully integrated the REG system on Com Ed's electric power grid and the REG system became fully operational in August 2021.
+24
+We are experiencing substantial inflationary pressure in our supply chain and some delays in sourcing materials needed for our products, resulting in some production disruption both of which have increased our cost of revenues and decreased gross margin. Changes in macroeconomic and market conditions arising from the COVID-19 pandemic, or for other reasons, such as the ongoing war between Russia and Ukraine, inflation, rising interest rates, labor force availability, sourcing, material delays and global supply chain disruptions could have a material adverse effect on our business, financial condition and results of operation.
+From time-to-time we may undertake restructuring activities in order to align our global organization in a manner that we believe will better position us to achieve our long-term goals. In January 2023, we undertook a reduction in force that involved approximately 5% of our global workforce. This restructuring is expected to incur an immaterial amount of cash expense and to result in annualized cost savings of approximately $5 million, beginning in fiscal year 2023.
+Critical Accounting Policies and Estimates
+The preparation of the unaudited condensed consolidated financial statements requires that we make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ under different assumptions or conditions. There were no significant changes in the critical accounting policies that were disclosed in our Annual Report on Form 10-K for the fiscal year ended March 31, 2022.
+Results of Operations
+Three and nine months ended
+December 31, 2022 , compared to the three and nine months ended December 31, 2021
+Revenues
+Total revenues decreased 11% to $23.9 million for the three months ended
+December 31, 2022  and total revenues decreased 7% to $74.2 million for the nine months ended December 31, 2022 compared to $26.8 million and $80.1 million for the three and nine months ended December 31, 2021, respectively. Our revenues are summarized as follows (in thousands):
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Revenues:
+Grid
+$
+20,809
+$
+25,050
+$
+66,337
+$
+73,169
+Wind
+3,072
+1,749
+7,904
+6,957
+Total
+$
+23,881
+$
+26,799
+$
+74,241
+$
+80,126
+Our Grid business unit accounted for 87% and 89% of total revenues for the three and nine months ended
+December 31, 2022 , respectively, compared to  93% and 91%  for the three and nine months ended December 31, 2021, respectively. Our Grid business unit revenues  decreased  17% to $20.8 million in the three months ended December 31, 2022, from $25.0 million in the three months ended December 31, 2021. Our Grid business unit revenues decreased 9% to $66.3 million in the nine months
+ended
+December 31, 2022 , from
+$73.2 million in the nine  months ended
+December 31, 2021 . The decrease in the Grid business unit revenue in the three and nine months ended December 31, 2022,
+was primarily driven by lower D-VAR revenues than in the prior year periods.
+Our Wind business unit accounted for 13% and 11% of total revenues for the three and nine months ended
+December 31, 2022 , respectively, c ompared to  7% and 9%
+for the  three and nine
+months ended
+December 31, 2021 , respectively. Revenues in the Wind business unit increased
+76%  and 14% to $ 3.1
+million and $7.9 million in the  three and nine
+months ended
+December 31, 2022 , from
+$1.7 million and $7.0 million i n the  three and nine
+months ended
+December 31, 2021 , respectively. T he increase in the three and nine months ended December 31, 2022, was driven by additional shipments of electrical control systems ("ECS") to Inox in the three months ended December 31, 2022.
+Cost of Revenues and Gross Margin
+Cost of revenues  increased b y 1% to $23.4 million for the three months ended
+December 31, 2022 , compared to $23.2 million for the three month s ended
+December 31, 2021 . Cost of revenues decreased by less than 1% to $69.5 million for the nine months ended December 31, 2022, compared to $69.9 million for the nine months ended December 31, 2021. Gross margin was  2%  and 6% for the  three and nine
+months ended
+December 31, 2022 , respectively, compared to
+13%  for both the  three and nine
+months ended
+December 31, 2021 .  The decrease in gross margin in the three and nine months ended  December 31, 2022 ,  was due to lower revenues, contract losses, an unfavorable product mix and inflation pressure in our supply chain.
+25
+Operating Expenses
+Research and development
+Research and development ("R&D") expense decreased 22% in the three months ended December 31, 2022, to $2.1 million from $2.7 million in the three months ended December 31, 2021. R&D expense decreased 15% in the nine months ended December 31, 2022, to $7.1 million from $8.4 million in the nine months ended December 31, 2021. The decrease in R&D expense was due to lower overall compensation expense and an increase in utilization of our research engineers supporting funded projects.
+Selling, general, and administrative
+Selling, general and administrative ("SG&A") expen ses increased
+6%  in the three months ended
+December 31, 2022 ,  to $ 7.2
+million from $6.8  million  in the three months ended  December 31, 2021 . The increase in SG&A expense in the three months ended December 31, 2022, was due to higher stock compensation expense than in the prior year period.  SG&A expen ses increased 7% to $22.1 million  in the nine months ended
+December 31, 2022 , compared to $20.6 million in the nine months ended December 31, 2021.  The increase in SG&A expense in the nine months ended December 31, 2022, was due to higher overall sales expense than in the prior year period.
+Amortization of acquisition related intangibles
+We recorded amortization expense related to our core technology and know-how, customer relationships, and other intangible assets of $0.7 million and $2.1 million in the three and nine months ended  December 31, 2022 , respectively, and $0.6 million and $1.8 million in the three and nine months ended December 31, 2021, respectively. The increase in amortization expense is a result of additional expense tied to the acquisition of Neeltran.
+Change in fair value of contingent consideration
+The change in fair value of our contingent consideration for the earnout payment on the NEPSI Acquisition resulted in a gain of $0.2 million and $0.3 million in the three and nine months ended December 31, 2022, respectively, compared to a gain of $2.1 million and $4.4 million in the three and nine months ended December 31, 2021, respectively. The change in the fair value was primarily driven by a decreased likelihood of achieving certain revenue targets and a decline in the Company's stock price.
+Operating loss
+Our operating loss is summarized as follows (in thousands):
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Operating loss:
+Grid
+$
+(7,064
+)
+$
+(3,691
+)
+$
+(20,840
+)
+$
+(14,873
+)
+Wind
+(924
+)
+(1,678
+)
+(2,178
+)
+(2,236
+)
+Unallocated corporate expenses
+(1,221
+)
+989
+(3,152
+)
+927
+Total
+$
+(9,209
+)
+$
+(4,380
+)
+$
+(26,170
+)
+$
+(16,182
+)
+Our Grid business segment generated operating losses of $7.1 million and $20.9 million in the three and nine mon ths ended
+December 31, 2022 , compared to operating losses of  $3.7 million and $14.9 million  in the
+three and nine
+months ended
+December 31, 2021 .  The increase in the Grid business unit operating loss in the three months ended December 31, 2022, was due to lower gross margins due to an unfavorable product mix, and higher operating expenses. The increase in the Grid business unit operating loss in the nine months ended December 31, 2022 was due to lower revenues and gross margins.
+Our Wind business segment generated operating losses of $0.9 milli on and $2.2 million  in the
+three and nine
+months ended
+December 31, 2022 , compared to operating losses of $1.7 million and $2.2 million in the
+three and nine
+months ended
+December 31, 2021 , respectively.  The decrease in the Wind business unit operating loss was due to higher revenues and gross margins.
+Unallocated corporate expenses included a gain on contingent consideration of $0.2 million and $0.3 million  in the three and nine months ended December 31, 2022. Unallocated corporate expenses consisted of a gain on contingent consideration of $2.1 million and $4.4 million in the three and nine months ended December 31, 2021, respectively. Additionally, unallocated corporate expenses primarily consisted of stock-based compensation expense of $1.4 million and $1.1 million in the three months ended December 31, 2022 and 2021, respectively, and $3.5 million in each of the nine months ended December 31, 2022 and 2021, respectively.
+26
+Interest income, net
+Interest income, net, was less tha n $0.1 million  in the three months ended December 31, 2022 and 2021, respectively. Interest income, net, was $0.1 million in the nine months ended
+December 31, 2022  and less than $0.1 million in the nine months ended December 31, 2021.
+China dissolution
+China dissolution was
+$1.9  million in the nine months ended
+December 31, 2022  compared to no activity in the
+three and nine
+months ended
+December 31, 2021
+.
+The increase in China dissolution during the nine months ended December 31, 2022, was driven by the liquidation of our China entity, resulting in a foreign currency gain/loss from the cumulative translation release of $1.9 million in the nine months ended December 31, 2022 in which there was no similar transaction in the three and nine months ended December 31, 2021.
+Other income (expense), net
+Other expense, net, was
+$0.3  million and less than $0.1 million in the three and nine months ended
+December 31, 2022 , respectively, compared to o ther income, net, of less than $ 0.1 million in both the three and nine months ended December 31, 2021.   The increase in other expense during the three and nine months ended December 31, 2022, was driven by the impacts of unfavorable fluctuations in foreign currencies during the respective periods.
+Income Taxes
+Income tax expense was $0.1 million in each of the three and nine months ended December 31, 2022. Income tax expense was less than $0.1 million in the three months ended December 31, 2021 and income tax benefit was $1.9 million in the nine months ended December 31, 2021. The increase in income tax expense in the three months ended December 31, 2022 compared to the same period in fiscal 2021 was primarily due to lower withholding taxes from foreign jurisdictions in the three months ended December 31, 2022. The increase in income tax expense in the nine months ended December 31, 2022 compared to the same period in fiscal 2021 was a result of the release of the valuation allowance to offset the recording of the deferred tax liability from the Neeltran Acquisition in the nine months ended December 31, 2021.
+Net loss
+Net loss was
+$9.6 million and $28.2 million  in
+the three and nine months ended
+December 31, 2022 , compared to $4.3 million and $14.2 million in the three and nine months ended December 31, 2021. The increase in net loss was driven primarily by the increased operating loss due to lower revenues and gross margins.
+Non-GAAP Financial Measure -  Non-GAAP Net Loss
+Generally, a non-GAAP financial measure is a numerical measure of a company’s performance, financial position or cash flow that either excludes or includes amounts that are not normally excluded or included in the most directly comparable measure calculated and presented in accordance with GAAP. The non-GAAP measures included in this Quarterly Report on Form 10-Q, however, should be considered in addition to, and not as a substitute for or superior to the comparable measures prepared in accordance with GAAP.
+We define non-GAAP net loss as net loss before China dissolution, stock-based compensation, amortization of acquisition-related intangibles, acquisition costs, change in fair value of contingent consideration, and other non-cash or unusual charges.  We believe non-GAAP net loss assists management and investors in comparing our performance across reporting periods on a consistent basis by excluding these non-cash charges and other items that we do not believe are indicative of our core operating performance. In addition, we use non-GAAP net loss as a factor to evaluate the effectiveness of our business strategies. A reconciliation of GAAP to non-GAAP net loss is set forth in the table below (in thousands, except per share data):
+Three Months Ended December 31,
+Nine Months Ended December 31,
+2022
+2021
+2022
+2021
+Net loss
+$
+(9,581
+)
+$
+(4,324
+)
+$
+(28,171
+)
+$
+(14,161
+)
+China dissolution
+—
+—
+1,921
+—
+Stock-based compensation
+1,440
+1,120
+3,492
+3,513
+Amortization of acquisition-related intangibles
+696
+690
+2,096
+1,979
+Acquisition costs
+—
+—
+—
+681
+Change in fair value of contingent consideration
+(220
+)
+(2,110
+)
+(340
+)
+(4,440
+)
+Non-GAAP net loss
+$
+(7,665
+)
+$
+(4,624
+)
+$
+(21,002
+)
+$
+(12,428
+)
+Non-GAAP net loss per share - basic
+$
+(0.27
+)
+$
+(0.17
+)
+$
+(0.76
+)
+$
+(0.46
+)
+Weighted average shares outstanding - basic
+27,954
+27,352
+27,794
+27,145
+We incurred non-GAAP net losses of $ 7.7
+million and $21.0 million,  or $ 0.27  and $0.76  per share, for the  three and nine
+months ended
+December 31, 2022 , compared to $4.6  million and $12.4 million,  or $ 0.17 and $0.46 per share , for the  three and nine
+months ended
+December 31, 2021 .
+The increase in the non-GAAP net loss for the three and nine months ended December 31, 2022 was due to a higher operating loss driven by lower gross margin and higher operating expenses.
+27
+Liquidity and Capital Resources
+We have experienced recurring operating losses and, as of
+December 31, 2022 , had an accumulated deficit of $1,049 millio n.
+Our cash requirements depend on numerous factors, including the successful completion of our product development activities, our ability to commercialize our REG and ship protection system solutions, the rate of customer and market adoption of our products, collecting receivables according to established terms, the continued availability of U.S. government funding during the product development phase of our superconductor-based products and whether Inox is successful in executing on Solar Energy Corporation of India Limited orders or in obtaining additional orders under the new central and state auction regime. We continue to closely monitor our expenses and, if required, expect to reduce our operating and capital spending to enhance liquidity.
+In February 2021, we filed a shelf registration statement on Form S-3 that will expire in February 2024 (the “Form S-3”). The Form S-3 allows us to offer and sell from time-to-time up to $250 million of common stock, debt securities, warrants or units comprised of any combination of these securities. The Form S-3 is intended to provide us flexibility to conduct registered sales of our securities, subject to market conditions, in order to fund our future capital needs. The terms of any future offering under the Form S-3 will be established at the time of such offering and will be described in a prospectus supplement filed with the SEC prior to the completion of any such offering.
+As of
+December 31, 2022 , we had cash, cash equivalents and restricted cash of $31.4 million, compared to $49.5 million as of March 31, 2022, a decrease of $18.1 million. As of
+December 31, 2022 , we had approximately $1.8 million of cash, cash equivalents, and restricted cash in foreign bank accounts. Our cash, cash equivalents, and restricted cash are summarized as follows (in thousands):
+December 31, 2022
+March 31, 2022
+Cash and cash equivalents
+$
+23,685
+$
+40,584
+Restricted cash
+7,666
+8,902
+Total cash, cash equivalents, and restricted cash
+$
+31,351
+$
+49,486
+For the nine months ended
+December 31, 2022 , net cash used in operating activities was $17.1 million, compared to $15.9 million for the nine months ended December 31, 2021.
+The increase in net cash used in operations was due primarily to an increase in inventory purchases offset by accounts r eceivable collections in the nine months ended December 31, 2022 as compared to December 31, 2021.
+For the
+nine
+months ended
+December 31, 2022 , net cash used in investing activities was $ 1.2  million, compared to $7.1 million for the
+nine
+months e nded
+December 31, 2021 . The decrease in net cash used in investing activities was primarily due to the cash that was used to pay for the Neeltran Acquisition in the nine months ended December 31, 2021. There was no such transaction in the nine months ended December 31, 2022.
+For the nine months ended
+December 31, 2022  and 2021, respectively, net cash provided by financing activities remained consistent at less than  $0.1  million.
+As of
+December 31, 2022 , we had $1.0 million of restricted cash included in long-term assets and $6.6 million of restricted cash included in current assets.  These amounts of restricted cash primarily represent deposits to secure letters of credit for various supply contracts and long-term projects, including the irrevocable letter of credit in the amount of $5.0 million to secure certain of our obligations under the Subcontract Agreement with ComEd. These deposits are held in interest bearing accounts.
+We are a party to many contractual obligations involving commitments to make payments to third parties. These obligations impact our short-term and long-term liquidity and capital resource needs. Certain contractual obligations are reflected on the consolidated balance sheet as of December 31, 2022, while others are considered future commitments. We have various contractual arrangements, under which we have committed to purchase certain minimum quantities of goods or services on an annual basis. For information regarding our other contractual obligations, refer to Note 13, "Contingent Consideration," Note 14, "Debt," Note 15, "Leases" and Note 16, "Commitments and Contingencies" to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+We believe we have sufficient available liquidity to fund our operations and capital expenditures for the next twelve months. In addition, we may seek to raise additional capital, which could be in the form of loans, convertible debt or equity, to fund our operating requirements and capital expenditures. Our liquidity is highly dependent on our ability to increase revenues, improve upon gross margins, control our operating costs, and raise additional capital, if necessary. There can be no assurance that we will be able to raise additional capital on favorable terms or at all, or execute on any other means of improving our liquidity as described above.  Additionally, the impact of the COVID-19 pandemic and adverse macroeconomic conditions on the global financial markets may reduce our ability to raise additional capital, if necessary, which could negatively impact our liquidity.
+28
+Legal Proceedings
+We are involved in legal and administrative proceedings and claims of various types. See Part II, Item 1, “Legal Proceedings,” for additional information. We record a liability in our consolidated financial statements for these matters when a loss is known or considered probable and the amount can be reasonably estimated. We review these estimates each accounting period as additional information is known and adjust the loss provision when appropriate. If a matter is both probable to result in liability and the amounts of loss can be reasonably estimated, we estimate and disclose the possible loss or range of loss to the extent necessary to make the consolidated financial statements not misleading. If the loss is not probable or cannot be reasonably estimated, a liability is not recorded in our consolidated financial statements.
+Recent Accounting Pronouncements
+In June 2016, the FASB issued ASU 2016-13,
+Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments . The amendments in ASU 2016-13 will provide more decision-useful information about the expected credit losses on financial instruments and other commitments to extend credit held by a reporting entity at each reporting date. Following the release of ASU 2019-10 in November 2019, the new effective date, as long as we remain a smaller reporting company, would be annual reporting periods beginning after December 15, 2022. We have evaluated the impact of the adoption of ASU 2016-13, and do not expect it to have a material impact on our consolidated financial statements.
+In October 2021, the FASB issued ASU 2021-08,
+Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers . The amendments in ASU 2021-08 will improve the accounting for acquired revenue contracts with customers in a business combination. Following the release of ASU 2021-08 in October 2021, the new effective date will be annual reporting periods beginning after December 15, 2022. We have evaluated the impact of the adoption of ASU 2021-08, and do not expect it to have a material impact on our consolidated financial statements.
+In November 2021, the FASB issued ASU 2021-10,
+Government Assistance (Topic 832): Disclosures by Business Entities about Government Assistance . The amendments in ASU 2021-10 improve financial reporting by requiring disclosures that increase the transparency of transactions with government accounted for by applying a grant or contribution accounting model by analogy. Following the release of ASU 2021-10 in November 2021, the effective date was annual reporting periods beginning after December 15, 2021. As of April 1, 2022, we have adopted ASU 2021-10 and noted no material impact on our consolidated financial statements.
+We do not believe that, outside of those disclosed here, there are any other recently issued accounting pronouncements that will have a material impact on our consolidated financial statements.
+29
+ITEM 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not Applicable
+ITEM 4.
+CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of
+December 31, 2022 . The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on the evaluation of our disclosure controls and procedures as of
+December 31, 2022 , our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level.
+Changes in Internal Control over Financial Reporting
+There were no changes to our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+30
+PART II—OTHER INFORMATION
+ITEM 1.
+LEGAL PROCEEDINGS
+None
+ITEM 1A.
+RISK FACTORS
+There have been no material changes to the risk factors described in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended March 31, 2022, filed with the SEC on June 1, 2022.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The Company’s stock repurchase activity during the three months ended  December 31, 2022
+was as follows:
+Month
+Total Number
+of Shares
+Purchased (a)
+Average
+Price Paid
+per Share
+Total Number of
+Shares Purchased
+as Part of Publicly
+Announced
+Plans or
+Programs
+Approximate
+Dollar Value of Shares
+that May Yet Be
+Purchased under the
+Plans or Programs
+(in millions)
+October 1, 2022 - October 31, 2022
+—
+—
+—
+November 1, 2022 - November 30, 2022
+—
+—
+—
+December 1, 2022 - December 31, 2022
+—
+—
+—
+Total
+—
+—
+—
+(a) During the three months ended
+December 31, 2022 , we did not repurchase shares in connection with our stock-based compensation plans .
+ITEM 3.
+DEFAULTS UPON SENIOR SECURITIES
+None
+ITEM 4.
+MINE SAFETY DISCLOSURES
+Not Applicable
+ITEM 5.
+OTHER INFORMATION
+None
+31
+ITEM 6.
+EXHIBITS
+EXHIBIT INDEX
+Incorporated by Reference
+Exhibit
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing
+Date
+Filed/Furnished
+Herewith
+31.1
+Chief Executive Officer—Certification pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+*
+31.2
+Chief Financial Officer—Certification pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+*
+32.1
+Chief Executive Officer—Certification pursuant to Rule13a-14(b) or Rule 15d-14(b) of the Securities Exchange Act of 1934 and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+**
+32.2
+Chief Financial Officer—Certification pursuant to Rule 13a-14(b) or Rule 15d-14(b) of the Securities Exchange Act of 1934 and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+**
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+*
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.
+*
+101.CAL
+Inline XBRL Taxonomy Calculation Linkbase Document.
+*
+101.DEF
+Inline XBRL Definition Linkbase Document.
+*
+101.LAB
+Inline XBRL Taxonomy Label Linkbase Document.
+*
+101.PRE
+Inline XBRL Taxonomy Presentation Linkbase Document.
+*
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+_________________________
+*
+Filed herewith
+**
+Furnished herewith
+Attached as Exhibits 101 to this report are the following formatted in inline XBRL (Extensible Business Reporting Language): (i) Condensed Consolidated Balance Sheet as of
+December 31, 2022
+and March 31, 2022 (ii) Condensed Statements of Operations and Income for the three and nine months ended  December 31, 2022
+and 2021, (iii) Condensed Consolidated Statements of Comprehensive (Loss) Income for the three and nine months ended  December 31, 2022
+and 2021, (iv) Condensed Consolidated Statements of Cash Flows for the nine months ended  December 31, 2022
+and 2021, and (v) Notes to Condensed Consolidated Financial Statements.
+32
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+AMERICAN SUPERCONDUCTOR CORPORATION
+By:
+/s/ John W. Kosiba, Jr.
+Date:
+February 1, 2023
+John W. Kosiba, Jr.
+Senior Vice President, Chief Financial Officer and Treasurer (Principal Financial and Accounting Officer)
+33

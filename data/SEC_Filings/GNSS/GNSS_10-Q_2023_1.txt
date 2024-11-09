@@ -1,0 +1,2710 @@
+2
+0
+0
+3.39
+1.99
+1.86
+1.31
+7
+7
+3
+799
+0
+5
+3
+3
+799
+1,000
+0
+0
+0
+0
+2
+8
+253
+0
+0
+0
+0
+0000924383 2022-10-01 2022-12-31
+thunderdome:item
+iso4217:USD
+0000924383 2022-09-30
+0000924383 2022-12-31
+0000924383 us-gaap:EMEAMember 2022-09-30
+0000924383 us-gaap:EMEAMember 2022-12-31
+0000924383 us-gaap:NonUsMember 2022-09-30
+0000924383 us-gaap:NonUsMember 2022-12-31
+0000924383 country:US 2022-09-30
+0000924383 country:US 2022-12-31
+0000924383 2021-10-01 2021-12-31
+0000924383 us-gaap:EMEAMember 2021-10-01 2021-12-31
+0000924383 us-gaap:EMEAMember 2022-10-01 2022-12-31
+0000924383 srt:AsiaPacificMember 2021-10-01 2021-12-31
+0000924383 srt:AsiaPacificMember 2022-10-01 2022-12-31
+0000924383 srt:AmericasMember 2021-10-01 2021-12-31
+0000924383 srt:AmericasMember 2022-10-01 2022-12-31
+0000924383 country:US 2021-10-01 2021-12-31
+0000924383 country:US 2022-10-01 2022-12-31
+xbrli:pure
+0000924383 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember gnss:TwoCustomersMember 2021-10-01 2021-12-31
+0000924383 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember gnss:OneCustomerMember 2021-10-01 2021-12-31
+0000924383 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember gnss:OneCustomerMember 2021-10-01 2021-12-31
+0000924383 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember gnss:TwoCustomersMember 2022-10-01 2022-12-31
+0000924383 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember gnss:OneCustomerMember 2022-10-01 2022-12-31
+0000924383 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember gnss:OneCustomerMember 2022-10-01 2022-12-31
+0000924383 gnss:SoftwareMember 2022-09-30
+0000924383 gnss:SoftwareMember 2022-12-31
+0000924383 gnss:HardwareMember 2022-09-30
+0000924383 gnss:HardwareMember 2022-12-31
+0000924383 gnss:SoftwareMember 2022-10-01 2022-12-31
+0000924383 gnss:HardwareMember 2021-10-01 2021-12-31
+0000924383 gnss:HardwareMember 2022-10-01 2022-12-31
+0000924383 gnss:SoftwareMember 2021-10-01 2021-12-31
+0000924383 us-gaap:IntersegmentEliminationMember 2021-10-01 2021-12-31
+0000924383 us-gaap:IntersegmentEliminationMember 2022-10-01 2022-12-31
+0000924383 us-gaap:IntersegmentEliminationMember gnss:SoftwareMember 2021-10-01 2021-12-31
+0000924383 us-gaap:IntersegmentEliminationMember gnss:SoftwareMember 2022-10-01 2022-12-31
+0000924383 us-gaap:IntersegmentEliminationMember gnss:HardwareMember 2021-10-01 2021-12-31
+0000924383 us-gaap:IntersegmentEliminationMember gnss:HardwareMember 2022-10-01 2022-12-31
+xbrli:shares
+0000924383 gnss:ObligationToIssueCommonStockMember 2021-10-01 2021-12-31
+0000924383 gnss:ObligationToIssueCommonStockMember 2022-10-01 2022-12-31
+0000924383 us-gaap:RestrictedStockUnitsRSUMember 2021-10-01 2021-12-31
+0000924383 us-gaap:RestrictedStockUnitsRSUMember 2022-10-01 2022-12-31
+0000924383 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0000924383 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+iso4217:USD xbrli:shares
+0000924383 gnss:ShareBuybackProgramMember 2022-12-31
+0000924383 gnss:ShareBuybackProgramMember 2021-10-01 2021-12-31
+0000924383 gnss:ShareBuybackProgramMember 2020-12-31
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember 2022-10-01 2022-12-31
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember gnss:FormerOwnerOfAmikaMobileMember 2022-10-01 2022-12-31
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember gnss:FormerOwnerOfAmikaMobileMember 2020-10-01 2021-09-30
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember 2020-10-02 2020-10-02
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember 2020-10-02
+0000924383 2021-12-31
+0000924383 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0000924383 us-gaap:RetainedEarningsMember 2021-12-31
+0000924383 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000924383 us-gaap:CommonStockMember 2021-12-31
+0000924383 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0000924383 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000924383 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000924383 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000924383 2021-09-30
+0000924383 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0000924383 us-gaap:RetainedEarningsMember 2021-09-30
+0000924383 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000924383 us-gaap:CommonStockMember 2021-09-30
+0000924383 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0000924383 us-gaap:RetainedEarningsMember 2022-12-31
+0000924383 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000924383 us-gaap:CommonStockMember 2022-12-31
+0000924383 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000924383 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0000924383 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0000924383 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0000924383 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0000924383 us-gaap:RetainedEarningsMember 2022-09-30
+0000924383 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000924383 us-gaap:CommonStockMember 2022-09-30
+0000924383 us-gaap:ResearchAndDevelopmentExpenseMember 2021-10-01 2021-12-31
+0000924383 us-gaap:ResearchAndDevelopmentExpenseMember 2022-10-01 2022-12-31
+0000924383 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2021-10-01 2021-12-31
+0000924383 us-gaap:SellingGeneralAndAdministrativeExpensesMember 2022-10-01 2022-12-31
+0000924383 us-gaap:CostOfSalesMember 2021-10-01 2021-12-31
+0000924383 us-gaap:CostOfSalesMember 2022-10-01 2022-12-31
+0000924383 us-gaap:EmployeeStockOptionMember gnss:EmployeesDirectorsAndConsultantsMember 2021-10-01 2021-12-31
+0000924383 us-gaap:EmployeeStockOptionMember gnss:EmployeesDirectorsAndConsultantsMember 2022-10-01 2022-12-31
+utr:Y
+0000924383 2021-10-01 2022-09-30
+0000924383 gnss:RangeFiveMember 2022-09-30
+0000924383 gnss:RangeFiveMember 2021-10-01 2022-09-30
+0000924383 gnss:RangeFourMember 2022-09-30
+0000924383 gnss:RangeFourMember 2021-10-01 2022-09-30
+0000924383 gnss:RangeThreeMember 2022-09-30
+0000924383 gnss:RangeThreeMember 2021-10-01 2022-09-30
+0000924383 gnss:RangeTwoMember 2022-09-30
+0000924383 gnss:RangeTwoMember 2021-10-01 2022-09-30
+0000924383 gnss:RangeOneMember 2022-09-30
+0000924383 gnss:RangeOneMember 2021-10-01 2022-09-30
+0000924383 us-gaap:RestrictedStockUnitsRSUMember 2022-12-31
+0000924383 us-gaap:RestrictedStockUnitsRSUMember 2022-10-01 2022-12-31
+0000924383 us-gaap:RestrictedStockUnitsRSUMember 2022-09-30
+0000924383 us-gaap:RestrictedStockUnitsRSUMember 2021-10-01 2021-12-31
+0000924383 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2021-11-01 2021-11-01
+0000924383 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-11-01 2022-11-01
+0000924383 us-gaap:RestrictedStockUnitsRSUMember gnss:NonemployeeAdvisorsMember 2021-11-01 2021-11-01
+0000924383 us-gaap:RestrictedStockUnitsRSUMember gnss:BoardOfDirectorsMember 2022-03-15 2022-03-15
+0000924383 us-gaap:RestrictedStockUnitsRSUMember gnss:BoardOfDirectorsMember 2020-10-01 2021-09-30
+0000924383 us-gaap:RestrictedStockUnitsRSUMember gnss:BoardOfDirectorsMember 2019-10-01 2020-09-30
+0000924383 us-gaap:PerformanceSharesMember srt:ManagementMember 2022-08-10 2022-08-10
+0000924383 us-gaap:RestrictedStockUnitsRSUMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-10-08 2022-10-08
+0000924383 us-gaap:PerformanceSharesMember gnss:KeyExecutiveMember 2022-10-01 2022-12-31
+0000924383 us-gaap:PerformanceSharesMember gnss:KeyExecutiveMember 2019-10-04 2019-10-04
+utr:Rate
+0000924383 gnss:CommonStockAwardMember 2022-12-31
+0000924383 gnss:OptionsAndRSUSMember gnss:EquityPlan2015Member 2022-12-31
+0000924383 gnss:OptionsAndRSUSMember gnss:EquityPlan2005Member 2022-12-31
+0000924383 gnss:EquityPlan2015Member 2021-03-16
+0000924383 gnss:EquityPlan2015Member 2020-12-08
+0000924383 2020-10-02
+iso4217:CAD
+0000924383 us-gaap:RevolvingCreditFacilityMember gnss:MUFGUnionBankNAMember 2022-12-31
+0000924383 us-gaap:RevolvingCreditFacilityMember gnss:MUFGUnionBankNAMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-03-08 2021-03-08
+0000924383 us-gaap:RevolvingCreditFacilityMember gnss:MUFGUnionBankNAMember 2021-03-08
+0000924383 gnss:HardwareMember 2022-09-30
+0000924383 gnss:HardwareMember 2022-12-31
+0000924383 us-gaap:ServiceMember 2022-09-30
+0000924383 us-gaap:ServiceMember 2022-12-31
+0000924383 srt:MaximumMember 2022-12-31
+0000924383 srt:MinimumMember 2022-12-31
+0000924383 us-gaap:PatentsMember 2022-09-30
+0000924383 us-gaap:PatentsMember 2022-12-31
+0000924383 us-gaap:NoncompeteAgreementsMember 2022-09-30
+0000924383 us-gaap:NoncompeteAgreementsMember 2022-12-31
+0000924383 us-gaap:TradeNamesMember 2022-09-30
+0000924383 us-gaap:TradeNamesMember 2022-12-31
+0000924383 us-gaap:CustomerRelationshipsMember 2022-09-30
+0000924383 us-gaap:CustomerRelationshipsMember 2022-12-31
+0000924383 us-gaap:DevelopedTechnologyRightsMember 2022-09-30
+0000924383 us-gaap:DevelopedTechnologyRightsMember 2022-12-31
+0000924383 gnss:GenasysSpainMember 2022-10-01 2022-12-31
+0000924383 gnss:SoftwareMember 2022-10-01 2022-12-31
+0000924383 us-gaap:ConstructionInProgressMember 2022-09-30
+0000924383 us-gaap:ConstructionInProgressMember 2022-12-31
+0000924383 us-gaap:LeaseholdImprovementsMember 2022-09-30
+0000924383 us-gaap:LeaseholdImprovementsMember 2022-12-31
+0000924383 us-gaap:MachineryAndEquipmentMember 2022-09-30
+0000924383 us-gaap:MachineryAndEquipmentMember 2022-12-31
+0000924383 us-gaap:FurnitureAndFixturesMember 2022-09-30
+0000924383 us-gaap:FurnitureAndFixturesMember 2022-12-31
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember gnss:HoldbackLiabilityMember us-gaap:FairValueMeasurementsNonrecurringMember 2022-10-01 2022-12-31
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember gnss:HoldbackLiabilityMember us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 gnss:AssetsAcquisitionOfAmikaMobileCorporationMember 2020-10-01 2020-10-02
+0000924383 us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 us-gaap:ConvertibleDebtSecuritiesMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 us-gaap:CorporateDebtSecuritiesMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 us-gaap:USStatesAndPoliticalSubdivisionsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 us-gaap:CertificatesOfDepositMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-09-30
+0000924383 us-gaap:FairValueMeasurementsNonrecurringMember 2022-12-31
+0000924383 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-12-31
+0000924383 us-gaap:CorporateDebtSecuritiesMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-12-31
+0000924383 us-gaap:USStatesAndPoliticalSubdivisionsMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-12-31
+0000924383 us-gaap:CertificatesOfDepositMember us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-12-31
+0000924383 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsNonrecurringMember 2022-12-31
+utr:M
+0000924383 2022-10-01 2022-12-31
+0000924383 gnss:DeferredRevenueMember 2022-12-31
+0000924383 gnss:CustomerDepositsMember 2022-12-31
+0000924383 gnss:DeferredRevenueMember 2022-10-01 2022-12-31
+0000924383 gnss:CustomerDepositsMember 2022-10-01 2022-12-31
+0000924383 gnss:DeferredRevenueMember 2022-09-30
+0000924383 gnss:CustomerDepositsMember 2022-09-30
+0000924383 us-gaap:ServiceMember 2021-10-01 2021-12-31
+0000924383 us-gaap:ServiceMember 2022-10-01 2022-12-31
+0000924383 us-gaap:ProductMember 2021-10-01 2021-12-31
+0000924383 us-gaap:ProductMember 2022-10-01 2022-12-31
+0000924383 2023-02-06
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark one)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number:
+000-24248
+GENASYS INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+87-0361799
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification Number)
+16262 West Bernardo Drive,
+San Diego ,
+California
+92127
+(Address of principal executive offices)
+(Zip Code)
+( 858 )
+676-1112
+(Registrant ’ s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which securities are registered
+Common stock, $0.00001 par value per share
+GNSS
+NASDAQ
+Capital Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   ☒    Yes      ☐  No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    ☒   Yes     ☐  No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     ☐   Yes  ☒    No
+The number of shares of Common Stock, $0.00001 par value, outstanding on February 6, 2023 was
+36,755,944 .
+PART I. FINANCIAL INFORMATION
+Item   1.           Financial Statements
+Genasys Inc.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands, except par value and share amounts)
+December 31,
+2022
+September 30,
+(Unaudited)
+2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+7,563
+$
+12,736
+Short-term marketable securities
+6,551
+6,397
+Restricted cash
+738
+100
+Accounts receivable, net of allowance for doubtful accounts of $ 181
+3,297
+6,744
+Inventories, net
+8,003
+6,008
+Prepaid expenses and other
+2,936
+3,577
+Total current assets
+29,088
+35,562
+Long-term marketable securities
+1,034
+781
+Long-term restricted cash
+96
+823
+Deferred tax assets, net
+7,373
+7,373
+Property and equipment, net
+1,755
+1,757
+Goodwill
+10,308
+10,118
+Intangible assets, net
+10,004
+10,505
+Operating lease right of use assets
+4,384
+4,541
+Other assets
+422
+394
+Total assets
+$
+64,464
+$
+71,854
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+$
+2,609
+2,334
+Accrued liabilities
+8,075
+12,083
+Operating lease liabilities, current portion
+954
+948
+Total current liabilities
+11,638
+15,365
+Other liabilities, noncurrent
+243
+907
+Operating lease liabilities, noncurrent
+4,979
+5,189
+Total liabilities
+16,860
+21,461
+Stockholders' equity:
+Preferred stock, $ 0.00001
+par value;
+5,000,000
+shares authorized;
+none
+issued and outstanding
+-
+-
+Common stock, $ 0.00001
+par value;
+100,000,000
+shares authorized;
+36,713,471
+and
+36,611,240
+shares issued and outstanding, respectively
+-
+-
+Additional paid-in capital
+109,003
+108,551
+Accumulated deficit
+( 60,873
+)
+( 57,366
+)
+Accumulated other comprehensive loss
+( 526
+)
+( 792
+)
+Total stockholders' equity
+47,604
+50,393
+Total liabilities and stockholders' equity
+$
+64,464
+$
+71,854
+See accompanying notes
+1
+Genasys Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share and share amounts)
+(Unaudited)
+Three months ended
+December 31,
+2022
+2021
+Revenues:
+Product sales
+$
+9,118
+$
+9,570
+Contract and other
+1,369
+1,107
+Total revenues
+10,487
+10,677
+Cost of revenues
+5,944
+5,535
+Gross profit
+4,543
+5,142
+Operating expenses
+Selling, general and administrative
+6,095
+5,037
+Research and development
+1,935
+1,714
+Total operating expenses
+8,030
+6,751
+Loss from operations
+( 3,487
+)
+( 1,609
+)
+Other (expense) income, net
+( 20
+)
+13
+Loss before income taxes
+( 3,507
+)
+( 1,596
+)
+Income tax benefit
+-
+( 291
+)
+Net loss
+$
+( 3,507
+)
+$
+( 1,305
+)
+Net loss per common share - basic and diluted
+$
+( 0.10
+)
+$
+( 0.04
+)
+Weighted average common shares outstanding:
+Basic and diluted
+36,696,145
+36,456,187
+2
+Genasys Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+(in thousands)
+(Unaudited)
+Three months ended
+December 31,
+Net loss
+2021
+2020
+Other comprehensive loss
+$
+( 3,507
+)
+$
+( 1,305
+)
+Unrealized gain (loss) on marketable securities
+21
+( 10
+)
+Unrealized foreign currency gain (loss)
+245
+( 75
+)
+Comprehensive loss
+$
+( 3,241
+)
+$
+( 1,390
+)
+See accompanying notes
+3
+Genasys Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+(Unaudited)
+Three Months Ended
+December 31,
+2022
+2021
+Operating Activities:
+Net loss
+$
+( 3,507
+)
+$
+( 1,305
+)
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+643
+639
+Amortization of debt issuance costs
+5
+5
+Warranty provision
+24
+4
+Inventory obsolescence
+46
+26
+Stock-based compensation
+420
+558
+Deferred income taxes
+-
+(291
+)
+Amortization of operating lease right of use asset
+199
+178
+Accretion of acquisition holdback liability
+12
+12
+Changes in operating assets and liabilities:
+Accounts receivable, net
+3,482
+889
+Inventories, net
+( 2,041
+)
+( 2,752
+)
+Prepaid expenses and other
+624
+979
+Accounts payable
+249
+99
+Accrued and other liabilities
+( 5,006
+)
+( 1,743
+)
+Net cash used in operating activities
+( 4,850
+)
+( 2,702
+)
+Investing Activities:
+Purchases of marketable securities
+( 1,994
+)
+( 2,655
+)
+Proceeds from maturities of marketable securities
+1,609
+2,886
+Capital expenditures
+( 98
+)
+( 159
+)
+Net cash (used in) provided by investing activities
+( 483
+)
+72
+Financing Activities:
+Proceeds from exercise of stock options
+32
+46
+Repurchase of common stock
+-
+(441
+)
+Net cash provided by (used in) financing activities
+32
+( 395
+)
+Effect of foreign exchange rate on cash
+39
+( 11
+)
+Net decrease in cash, cash equivalents, and restricted cash
+( 5,262
+)
+( 3,036
+)
+Cash, cash equivalents and restricted cash, beginning of period
+13,659
+14,528
+Cash, cash equivalents and restricted cash, end of period
+$
+8,397
+$
+11,492
+Reconciliation of cash, cash equivalents and restricted cash to the consolidated balance sheets:
+Cash and cash equivalents
+$
+7,563
+$
+10,136
+Restricted cash, current portion
+738
+273
+Long-term restricted cash
+96
+1,083
+Total cash, cash equivalents and restricted cash shown in the consolidated statement of cash flows
+$
+8,397
+$
+11,492
+See accompanying notes
+4
+Genasys Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (continued)
+(in thousands)
+(Unaudited)
+Three Months Ended
+December 31,
+2022
+2021
+Noncash investing and financing activities:
+Change in unrealized loss on marketable securities
+$
+21
+$
+( 10
+)
+Obligation to issue common stock in connection with the Amika Mobile asset purchase
+$
+( 416
+)
+$
+( 832
+)
+Initial measurement of operating lease right of use assets
+$
+-
+$
+7
+Initial measurement of operating lease liabilities
+$
+-
+$
+7
+5
+1. OPERATIONS
+Genasys Inc. (the “Company”) is a global provider of critical communications hardware and software systems designed to alert, inform, and protect. The Company's unified platform receives information from a wide variety of sensors and Internet-of-Things (IoT) inputs to collect real-time information on developing and active emergency situations. The Company uses this information to create and disseminate alerts, warnings, notifications, and instructions through multiple channels before, during, and after public safety and enterprise threats, critical events, and other crisis situations.
+2. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+General
+The Company’s unaudited interim condensed consolidated financial statements included herein have been prepared in accordance with the instructions to Form 10-Q and Article 8 of Regulation S-X and the rules and regulations of the Securities and Exchange Commission (“SEC”). Certain information and footnote disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles have been condensed or omitted pursuant to such rules and regulations. In management’s opinion, the accompanying financial statements reflect adjustments necessary to present fairly the financial position, results of operations, and cash flows for those periods indicated, and contain adequate disclosure to make the information presented not misleading. Adjustments included herein are of a normal, recurring nature unless otherwise disclosed in the footnotes. The condensed consolidated financial statements and notes thereto should be read in conjunction with the Company’s audited financial statements and notes thereto for the year ended September 30, 2022, included in the Company’s Annual Report on Form 10-K, as filed with the SEC on December 16, 2022. The accompanying condensed consolidated balance sheet as of September 30, 2022 has been derived from the audited consolidated balance sheet as of September 30, 2022 contained in the above referenced Form 10-K. Results of operations for interim periods are not necessarily indicative of the results of operations for a full year.
+Principles of consolidation
+The Company has
+eight
+wholly owned subsidiaries, Genasys II Spain, S.A.U. (“Genasys Spain”), Genasys Communications Canada ULC (“Genasys Canada”), Genasys Singapore PTE Ltd, Genasys Puerto Rico, LLC, Zonehaven LLC, and Genasys Inc. (branch) in the United Arab Emirates and
+two
+currently inactive subsidiaries, Genasys America de CV and LRAD International Corporation. The consolidated financial statements include the accounts of these subsidiaries after elimination of intercompany transactions and accounts.
+Cash, cash equivalents and restricted cash
+The Company considers all highly liquid investments with an original maturity of three months or less, when purchased, to be cash equivalents. As of December 31, 2022, the amount of cash and cash equivalents was $ 7,563 . As of September 30, 2022, the amount of cash and cash equivalents was $ 12,736 .
+The Company considers any amounts pledged as collateral or otherwise restricted for use in current operations to be restricted cash. In addition, the Company excludes from cash and cash equivalents cash required to fund specific future contractual obligations related to business combinations. Restricted cash is classified as a current asset unless amounts are not expected to be released and available for use in operations within one year. As of December 31, 2022, the current portion of restricted cash was $ 738 , and the noncurrent portion was $ 96 . As of September 30, 2022, the current portion of restricted cash was $ 100 , and the noncurrent portion was $ 823 .
+Reclassifications
+Where necessary, certain prior year’s information has been reclassified to conform to the current year presentation.
+3. RECENT ACCOUNTING PRONOUNCEMENTS
+New pronouncements pending adoption
+In June 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2016-13,
+Measurement of Credit Losses on Financial Instruments , which supersedes current guidance by requiring recognition of credit losses when it is probable that a loss has been incurred. The new standard requires the establishment of an allowance for estimated credit losses on financial assets including trade and other receivables at each reporting date. The new standard will result in earlier recognition of allowances for losses on trade and other receivables and other contractual rights to receive cash. In November 2019, the FASB issued ASU No. 2019-10,
+Financial Instruments
+–
+Credit Losses (ASC 326), Derivatives and Hedging (ASC 815) and Leases (ASC 842) , which extends the effective date of ASC 326 for certain companies until fiscal years beginning after December 15, 2022. The new standard will be effective for the Company in the first quarter of fiscal year beginning October 1, 2023, and early adoption is permitted. The Company has not completed its review of the impact of this standard on its consolidated financial statements. However, based on the Company’s history of immaterial credit losses from trade receivables, the Company does not expect that the adoption of this standard will have a material effect on the Company’s consolidated financial statements.
+6
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+In March 2020, the FASB issued ASU No. 2020-04,
+Reference Rate Reform (ASC 848), Facilitation of the Effects of Reference Rate Reform on Financial Reporting . ASU No. 2020-04 provides optional guidance, expedients and exceptions for a limited period of time to ease the potential burden in accounting for (or recognizing the effects of) reference rate reform on financial reporting. The amendments in this update apply to all entities, subject to meeting the criteria, which participate in contracts, hedging relationships and other transactions that reference LIBOR or another reference rate expected to be discontinued because of reference rate reform. ASU No. 2020-04 was subsequently amended by ASU No. 2021-01,
+Reference Rate Reform (ASC   848), Scope , which refines the scope of ASC 848 and permits optional expedients and exceptions when accounting for derivative contracts and certain hedging relationships. The amendments of these updates were available to all entities as of March 12, 2020. In December 2022, the FASB issued ASU 2022-06,
+Reference Rate Reform (ASC 848 ),
+Deferral of the Sunset Date of Topic 848 , extending the relief offered in this series of ASUs through December 31, 2024. The Company intends to adopt this standard when LIBOR is discontinued.  The Company does not expect that the adoption of this standard will have a material effect on the Company’s consolidated financial statements.
+4. REVENUE RECOGNITON
+ASC 606,
+Revenue from Contracts with Customers
+(“ASC 606”), outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most revenue recognition guidance, including industry-specific guidance. This new revenue recognition model provides a five-step analysis in determining when and how revenue is recognized:
+1.
+Identify the contract(s) with customers
+2.
+Identify the performance obligations
+3.
+Determine the transaction price
+4.
+Allocate the transaction price to the performance obligations
+5.
+Recognize revenue when the performance obligations have been satisfied
+ASC 606 requires revenue recognition to depict the transfer of promised goods or services to customers in an amount that reflects the consideration a company expects to receive in exchange for those goods or services.
+The Company derives its revenue from the sale of products to customers, contracts, software license fees, other services and freight. The Company sells its products through its direct sales force and through authorized resellers and system integrators. The Company recognizes revenue for goods including software when all the significant risks and rewards have been transferred to the customer, no continuing managerial involvement usually associated with ownership of the goods is retained, no effective control over the goods sold is retained, the amount of revenue can be measured reliably, it is probable that the economic benefits associated with the transactions will flow to the Company and the costs incurred or to be incurred in respect of the transaction can be measured reliably. Software license revenue, maintenance and/or software development service fees may be bundled in one arrangement or may be sold separately.
+Product revenue
+Product revenue is recognized as a distinct single performance obligation when products are tendered to a carrier for delivery, which represents the point in time that the Company’s customer obtains control of the products. A smaller portion of product revenue is recognized when the customer receives delivery of the products. A portion of products are sold through resellers and system integrators based on firm commitments from an end user, and as a result, resellers and system integrators carry little or no inventory. The Company’s customers do not have a right to return product unless the product is found defective and therefore the Company’s estimate for returns has historically been insignificant
+Perpetual licensed software
+The sale and/or license of software products is deemed to have occurred when a customer either has taken possession of, or has the ability to take immediate possession of, the software and the software key. Perpetual software licenses can include one-year maintenance and support services. In addition, the Company sells maintenance services on a stand-alone basis and is therefore capable of determining their fair value. On this basis, the amount of the embedded maintenance is separated from the fee for the perpetual license and is recognized on a straight-line basis over the period to which the maintenance relates.
+Time-based licensed software
+The time-based license agreements include the use of a software license for a fixed term, generally one-year, and maintenance and support services during the same period. The Company does not sell time-based licenses without maintenance and support services and therefore revenues for the entire arrangements are recognized on a straight-line basis over the term.
+7
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Warranty, maintenance and services
+The Company offers extended warranty, maintenance and other services. Extended warranty and maintenance contracts are offered with terms ranging from one to several years, which provide repair and maintenance services after expiration of the original one-year warranty term. Revenues from separately priced extended warranty and maintenance contracts are recognized based on time elapsed over the service period and classified as contract and other revenues. Revenue from other services such as training or installation is recognized when the service is completed.
+Multiple element arrangements
+The Company has entered into a number of multiple element arrangements, such as the sale of a product or perpetual licenses that may include maintenance and support (included in the price of perpetual licenses) and time-based licenses (that include embedded maintenance and support, both of which may be sold with software development services, training, and other product sales). In some cases, the Company delivers software development services bundled with the sale of the software. In multiple element arrangements, the Company uses either the stand-alone selling price or an expected cost plus margin approach to determine the fair value of each element within the arrangement, including software and software-related services such as maintenance and support. In general, elements in such arrangements are also sold on a stand-alone basis and stand-alone selling prices are available.
+Revenue is allocated to each deliverable based on the fair value of each individual element and is recognized when the revenue recognition criteria described above are met, except for time-based licenses which are not unbundled. When software development services are performed and are considered essential to the functionality of the software, the Company recognizes revenue from the software development services on a stage of completion basis, and the revenue from the software when the related development services have been completed.
+The Company disaggregates revenue by reporting segment (Hardware and Software) and geographically to depict the nature of revenue in a manner consistent with its business operations and to be consistent with other communications and public filings. Refer to Note 18, Segment Information and Note 19, Major Customers, Suppliers and Related Information for additional details of revenues by reporting segment and disaggregation of revenue.
+Contract assets and liabilities
+The Company enters into contracts to sell products and provide services and recognizes contract assets and liabilities that arise from these transactions. The Company recognizes revenue and corresponding accounts receivable according to ASC 606 and, at times, recognizes revenue in advance of the time when contracts give the Company the right to invoice a customer. Sales commissions are considered incremental and recoverable costs of obtaining a contract with a customer. Subscription related commission costs are deferred and then amortized on a straight-line basis over the period of benefit. The Company may also receive consideration, per terms of a contract, from customers prior to transferring goods to the customer. The Company records customer deposits as a contract liability. Additionally, the Company may receive payments, most typically for service and warranty contracts, at the onset of the contract and before the services have been performed. In such instances, a deferred revenue liability is recorded. The Company recognizes these contract liabilities as revenue after all revenue recognition criteria are met. The table below reflects the balances of contract liabilities as of December 31, 2022 and September 30, 2022, including the change between the periods. There were
+no
+contract assets as of December 31, 2022 and September 30, 2022. The current portion of contract liabilities and the noncurrent portion are included in “Accrued liabilities” and “Other liabilities, noncurrent”, respectively, on the accompanying condensed consolidated balance sheets. Refer to Note 10, Accrued and Other Liabilities for additional details.
+The Company’s contract liabilities were as follows:
+Customer
+deposits
+Deferred
+revenue
+Total
+contract
+liabilities
+Balance as of September 30, 2022
+$
+4,724
+$
+2,054
+$
+6,778
+New performance obligations
+1,562
+492
+2,054
+Recognition of revenue as a result of satisfying performance obligations
+( 3,277
+)
+( 744
+)
+( 4,021
+)
+Effect of exchange rate on deferred revenue
+2
+26
+28
+Balance as of December 31, 2022
+$
+3,011
+$
+1,828
+$
+4,839
+Less: non-current portion
+-
+( 243
+)
+( 243
+)
+Current portion as of December 31, 2022
+$
+3,011
+$
+1,585
+$
+4,596
+8
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Remaining performance obligations
+Remaining performance obligations related to ASC 606 represent the aggregate transaction price allocated to performance obligations under an original contract with a term greater than one year, which are fully or partially unsatisfied at the end of the period.
+As of December 31, 2022, the aggregate amount of the transaction price allocated to remaining performance obligations was approximately $ 4,839 . The Company expects to recognize revenue on approximately $ 4,596
+or
+95 % of the remaining performance obligations over the next
+12
+months, and the remainder is expected to be recognized thereafter.
+Practical expedients
+In cases where the Company is responsible for shipping after the customer has obtained control of the goods, the Company has elected to treat these activities as fulfillment activities rather than as a separate performance obligation. Additionally, the Company has elected to capitalize the cost to obtain a contract only if the period of amortization would be longer than one year. The Company only gives consideration to whether a customer agreement has a financing component if the period of time between transfer of goods and services and customer payment is greater than one year. The Company also utilizes the “as invoiced” practical expedient in certain cases where performance obligations are satisfied over time and the invoiced amount corresponds directly with the value the Company is providing to the customer.
+5. FAIR VALUE MEASUREMENTS
+The Company’s financial instruments consist principally of cash equivalents, short and long-term marketable securities, accounts receivable, and accounts payable. The fair value of a financial instrument is the amount that would be received in an asset sale or paid to transfer a liability in an orderly transaction between unaffiliated market participants. Assets and liabilities measured at fair value are categorized based on whether or not the inputs are observable in the market and the degree that the inputs are observable. The categorization of financial instruments within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement. The hierarchy is prioritized into three levels (with Level 3 being the lowest) defined as follows:
+Level 1:
+Inputs are based on quoted market prices for identical assets or liabilities in active markets at the measurement date.
+Level 2:
+Inputs include quoted prices for similar assets or liabilities in active markets and/or quoted prices for identical or similar assets or liabilities in markets that are not active near the measurement date.
+Level 3:
+Inputs include management’s best estimate of what market participants would use in pricing the asset or liability at the measurement date. The inputs are unobservable in the market and significant to the instrument’s valuation.
+The fair value of the Company’s cash equivalents and marketable securities were determined based on Level 1 and Level 2 inputs. The valuation techniques used to measure the fair value of the “Level 2” instruments were based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data. The Company believes that the recorded values of its other financial instruments approximate their current fair values because of their nature and respective relatively short maturity dates or durations. The Company did
+not
+have any marketable securities in the Level 3 category as of December 31, 2022 or September 30, 2022. There have been no changes in Level 1, Level 2, and Level 3 and no changes in valuation techniques for financial instruments measured at fair value on a recurring basis for the periods ended December 31, 2022 and September 30, 2022.
+Instruments measured at fair value on a recurring basis
+Cash equivalents and marketable securities : The following tables present the Company’s cash equivalents and marketable securities’ costs, gross unrealized gains and losses, and fair value by major security type recorded as cash equivalents or short-term or long-term marketable securities as of December 31, 2022 and September 30, 2022. Unrealized gains and losses from the remeasurement of marketable securities are recorded in accumulated other comprehensive income (loss) until recognized in earnings upon the sale or maturity of the security.
+9
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+December 31, 2022
+Cost Basis
+Unrealized
+Loss
+Fair Value
+Cash
+Equivalents
+Short-term
+Securities
+Long-term
+Securities
+Level 1:
+Money market funds
+$
+977
+$
+-
+$
+977
+$
+977
+$
+-
+$
+-
+Level 2:
+Certificates of deposit
+800
+-
+800
+-
+498
+302
+Municipal securities
+4,645
+( 49
+)
+4,596
+-
+4,116
+480
+Corporate bonds
+2,209
+( 20
+)
+2,189
+-
+1,937
+252
+Subtotal
+7,654
+( 69
+)
+7,585
+-
+6,551
+1,034
+Total
+$
+8,631
+$
+( 69
+)
+$
+8,562
+$
+977
+$
+6,551
+$
+1,034
+September 30, 2022
+Cost Basis
+Unrealized
+Loss
+Fair Value
+Cash
+Equivalents
+Short-term
+Securities
+Long-term
+Securities
+Level 1:
+Money market funds
+$
+1,316
+$
+-
+$
+1,316
+$
+1,316
+$
+-
+$
+-
+Level 2:
+Certificates of deposit
+800
+-
+800
+-
+498
+302
+Municipal securities
+4,066
+( 65
+)
+4,001
+-
+3,772
+229
+Corporate bonds
+2,402
+( 25
+)
+2,377
+-
+2,127
+250
+Subtotal
+7,268
+( 90
+)
+7,178
+-
+6,397
+781
+Total
+$
+8,584
+$
+( 90
+)
+$
+8,494
+$
+1,316
+$
+6,397
+$
+781
+Instruments measured at fair value on a non-recurring basis
+Nonfinancial assets : Nonfinancial assets such as goodwill, other intangible assets, long-lived assets held and used, and right-of-use (“ROU”) assets are measured at fair value when there is an indicator of impairment and recorded at fair value only when impairment is recognized or for a business combination.
+Goodwill and intangible assets are recognized at fair value during the period in which an acquisition is completed, from updated estimates during the measurement period, or when they are considered to be impaired. These non-recurring fair value measurements, primarily for intangible assets acquired, were based on Level 3 inputs. The Company estimates the fair value of these long-lived assets on a non-recurring basis based on a market valuation approach, engaging independent valuation experts to assist in the determination of fair value.
+Holdback Liability : In connection with the Amika Mobile asset purchase, the Company recorded a holdback liability related to potential future adjustments to assets and liabilities, misrepresentations and indemnifications against third-party claims. Adjustments of up to CAD$ 1,000
+(USD$ 738 ) will be deducted from the asset purchase holdback liability for up to
+three
+years from the closing date. The holdback liability was recorded at the present value which was the fair value at the acquisition date. The Company engaged independent valuation experts to assist in determining the present value of the holdback liability. The expected future payment was discounted using a rate representative of the Company’s payment risk and credit rating. Accretion is recorded in each subsequent reporting period based on the discount factor used to arrive at the original fair value. This change in fair value is recorded in the accompanying condensed consolidated statement of operations. The changes in the carrying amount of the holdback liability is as follows:
+Balance as of September 30, 2022
+$
+680
+Accretion
+12
+Currency translation
+9
+Balance as of December 31, 2022
+$
+701
+10
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+6. INVENTORIES, NET
+Inventories, net consisted of the following:
+December 31,
+September 30,
+2022
+2022
+Raw materials
+$
+6,958
+$
+5,277
+Finished goods
+844
+844
+Work in process
+1,103
+744
+Inventories, gross
+8,905
+6,865
+Reserve for obsolescence
+( 902
+)
+( 857
+)
+Inventories, net
+$
+8,003
+$
+6,008
+7. PROPERTY AND EQUIPMENT, NET
+Property and equipment, net consisted of the following:
+December 31,
+September 30,
+2022
+2022
+Office furniture and equipment
+$
+1,436
+$
+1,432
+Machinery and equipment
+1,404
+1,391
+Leasehold improvements
+2,302
+2,172
+Construction in progress
+-
+104
+Property and equipment, gross
+5,142
+5,099
+Accumulated depreciation
+( 3,387
+)
+( 3,342
+)
+Property and equipment, net
+$
+1,755
+$
+1,757
+Depreciation and amortization expense for property and equipment was $ 111
+and $ 96
+for the three months ended December 31, 2022 and 2021, respectively.
+8. GOODWILL AND INTANGIBLE ASSETS
+Goodwill is attributable to the acquisitions of Genasys Spain and Zonehaven, and the Amika Mobile asset purchase and is due to combining the integrated emergency critical communications, mass messaging solutions and software development capabilities with existing hardware products for enhanced offerings and the skill level of the acquired workforces. The Company periodically reviews goodwill for impairment in accordance with relevant accounting standards. In the fourth quarter of fiscal 2022, in conjunction with the annual impairment assessment, the Company determined that the fair value of the software reporting unit was less than the carrying value. The Company engaged independent valuation experts to assist in determining the fair value of the software reporting unit and recorded a $ 13,162
+goodwill impairment charge. As of December 31, 2022 and September 30, 2022, goodwill was $ 10,308
+and $ 10,118
+respectively. There were no additions or impairments to goodwill during the three months ended December 31, 2022.
+The changes in the carrying amount of goodwill by segment for the three months ended December 31, 2022, were as follows:
+Hardware
+Software
+Total
+Balance as of September 30, 2022
+$
+-
+$
+10,118
+$
+10,118
+Currency translation
+-
+190
+190
+Balance as of December 31, 2022
+$
+-
+$
+10,308
+$
+10,308
+Intangible assets and goodwill related to Genasys Spain are translated from Euros to U.S. dollars at the balance sheet date. The net impact of foreign currency exchange differences arising during the period related to goodwill and intangible assets was an increase of $ 221 .
+11
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+The changes in the carrying amount of intangible assets by segment for the three months ended December 31, 2022, were as follows:
+Hardware
+Software
+Total
+Balance as of September 30, 2022
+$
+21
+$
+10,484
+$
+10,505
+Amortization
+( 1
+)
+( 531
+)
+( 532
+)
+Currency translation
+-
+31
+31
+Balance as of December 31, 2022
+$
+20
+$
+9,984
+$
+10,004
+The Company’s consolidated intangible assets consisted of the following:
+December 31,
+September 30,
+2022
+2022
+Technology
+$
+11,937
+$
+11,886
+Customer relationships
+1,762
+1,715
+Trade name portfolio
+608
+590
+Non-compete agreements
+225
+206
+Patents
+72
+72
+14,604
+14,469
+Accumulated amortization
+( 4,600
+)
+( 3,964
+)
+$
+10,004
+$
+10,505
+As of December 31, 2022, future amortization expense is as follows:
+Fiscal year ending September 30,
+2023 (remaining nine months)
+1,574
+2024
+2,097
+2025
+1,978
+2026
+1,843
+2027
+1,669
+Thereafter
+843
+Total estimated amortization expense
+$
+10,004
+Amortization expense was $ 532
+and $ 543
+for the three months ended December 31, 2022 and 2021, respectively.
+9. PREPAID EXPENSES AND OTHER
+Prepaid expenses and other current assets consisted of the following:
+December 31,
+September 30,
+2022
+2022
+Deposits for inventory
+$
+171
+$
+461
+Prepaid insurance
+255
+360
+Dues and subscriptions
+183
+182
+Prepaid commissions
+265
+228
+Trade shows and travel
+171
+471
+Canadian goods and services and harmonized sales tax receivable
+1,707
+1,631
+Other
+184
+244
+$
+2,936
+$
+3,577
+Deposits for inventory
+Deposits for inventory consisted of cash payments to vendors for inventory to be delivered in the future.
+12
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Prepaid insurance
+Prepaid insurance consisted of premiums paid for health, commercial and corporate insurance. These premiums are amortized on a straight-line basis over the term of the agreements.
+Dues and subscriptions
+Dues and subscriptions consisted of payments made in advance for software subscriptions and trade and professional organizations. These payments are amortized on a straight-line basis over the term of the agreements.
+Prepaid commissions
+Prepaid commissions represented the current portion of sales commissions paid in connection with obtaining a contract with a customer. These costs are deferred and are amortized on a straight-line basis over the period of benefit, which is typically between
+three
+and
+five
+years. Amortization of prepaid commissions is included in selling, general and administrative expenses in the accompanying condensed consolidated statement of operations.
+Trade shows and travel
+Trade shows and travel consisted of payments made in advance for trade show events.
+Canadian goods and services and harmonized sales tax receivable
+The goods and services tax and harmonized sales tax (“GST/HST”) is a Canadian value-added tax that applies to many goods and services. Registrants may claim refundable tax credits for GST/HST incurred through filing periodic tax returns. This GST/HST receivable is a receivable from the Canadian Revenue Agency.
+10. ACCRUED AND OTHER LIABILITIES
+Accrued liabilities consisted of the following:
+December 31,
+September 30,
+2022
+2022
+Payroll and related
+$
+2,155
+$
+3,003
+Deferred revenue
+1,585
+1,827
+Customer deposits
+3,011
+4,724
+Accrued contract costs
+454
+809
+Warranty reserve
+159
+159
+Canadian goods and services and harmonized sales tax payable
+-
+1,556
+Asset purchase holdback liability
+701
+-
+Other
+10
+5
+Total
+$
+8,075
+$
+12,083
+Other liabilities-noncurrent consisted of the following:
+December 31,
+September 30,
+2022
+2022
+Deferred revenue
+$
+243
+$
+227
+Asset purchase holdback liability
+-
+680
+Total
+$
+243
+$
+907
+Payroll and related
+Payroll and related consisted primarily of accrued vacation, bonus, sales commissions and benefits.
+Deferred revenue
+Deferred revenue as of December 31, 2022, included prepayments from customers for services, including extended warranty, scheduled to be performed in the twelve months ending December 31, 2023.
+Customer deposits
+Customer deposits represent amounts paid by customers as a down payment on hardware orders to be delivered in the twelve months ending December 31, 2023.
+13
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Accrued contract costs
+Accrued contract costs consisted of accrued expenses for contracting a third-party service provider to fulfill repair and maintenance obligations required under a contract with a foreign military for units sold in the year ended September 30, 2011. Payments to the service provider will be made annually upon completion of each year of service. A new contract was signed with the customer in May 2019 to continue repair and maintenance services through May 2024. These services are being recorded in cost of revenues to correspond with the revenues for these services.
+Asset purchase holdback liability
+In connection with the Amika Mobile asset purchase, the Company recorded a holdback liability related to potential future adjustments to assets and liabilities, misrepresentations and indemnifications against third-party claims. Adjustments of up to CAD$1,000 (USD$738) will be deducted from the asset purchase holdback liability for up to three years from the closing date. The liability is recorded at fair value in the condensed consolidated balance sheet.
+Warranty reserve
+Changes in the warranty reserve and extended warranty were as follows:
+December 31,
+September 30,
+2022
+2022
+Beginning balance
+$
+159
+$
+146
+Warranty provision
+24
+86
+Warranty settlements
+( 24
+)
+( 73
+)
+Ending balance
+$
+159
+$
+159
+The Company establishes a warranty reserve based on anticipated warranty claims at the time product revenue is recognized. Factors affecting warranty reserve levels include the number of units sold, anticipated cost of warranty repairs and anticipated rates of warranty claims. The Company evaluates the adequacy of the provision for warranty costs each reporting period and adjusts the accrued warranty liability to an amount equal to estimated warranty expense for products currently under warranty.
+Deferred extended warranty revenue
+Deferred extended warranty revenue consisted of warranties purchased in excess of the Company’s standard warranty. Extended warranties typically range from one to two years.
+11. DEBT
+Revolving line of credit
+On March 8, 2021, the Company entered into an agreement with MUFG Union Bank, N.A. for a $ 10
+million revolving line of credit. Outstanding balances on the revolving line of credit bear interest at a per annum rate equal to the London Interbank Offered Rate (“LIBOR”) plus
+2.25 %. The agreement contains a provision for determining an alternative interest rate index in the event the LIBOR rate is no longer available. The agreement contains standard covenants, including affirmative financial covenants, such as the maintenance of a short-term liquidity ratio and a senior leverage ratio, in addition to negative covenants which limit the incurrence of additional indebtedness, loans and equity investments, disposition of assets, mergers and consolidations and other matters customarily restricted in such agreements. The maturity date of this revolving line of credit is March 31, 2023. As of December 31, 2022 and September 30, 2022, there were no borrowings on the revolving line of credit. The Company incurred and capitalized $ 38
+of issuance costs related to this revolving line of credit. These issuance costs were recorded in prepaid expenses and other assets in the condensed consolidated balance sheet and have and will be amortized on a straight-line basis over the term of the loan.
+12. LEASES
+The Company determines if an arrangement is a lease at inception. The guidance in ASC 842 defines a lease as a contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration. Operating lease ROU assets and lease liabilities are recognized based on the present value of future minimum lease payments over the lease term at commencement date. The Company’s leases do not provide an implicit rate. The Company uses its incremental borrowing rate based on the information available at the commencement date in determining the present value of future payments. Additionally, the portfolio approach is used in determining the discount rate used to present value lease payments. The ROU asset includes any lease payments made and excludes lease incentives and initial direct costs incurred.
+14
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+The Company is party to operating leases for office and production facilities and equipment under agreements that expire at various dates through 2028. The Company elected the package of practical expedients permitted under the lease standard. In electing the practical expedient package, the Company is not required to reassess whether an existing or expired contract is or contains a lease, reassess the lease classification for expired or existing leases nor reassess the initial direct costs for leases that commenced before the adoption of ASC 842. The Company also elected the short-term lease exemption such that the lease standard was applied to leases greater than one year in duration. Leases with an initial term of twelve months or less are not recorded on the balance sheet. The Company recognizes lease expense for these leases on a straight-line basis over the lease term.
+The tables below show the operating lease ROU assets and liabilities as of September 30, 2022, and the balances as of December 31, 2022, including the changes during the periods.
+Operating lease
+ROU assets
+Operating lease ROU assets as of September 30, 2022
+$
+4,541
+Less amortization of operating lease ROU assets
+( 199
+)
+Effect of exchange rate on operating lease ROU assets
+42
+Operating lease ROU assets as of December 31, 2022
+$
+4,384
+Operating lease
+liabilities
+Operating lease liabilities as of September 30, 2022
+$
+6,137
+Less lease principal payments on operating lease liabilities
+( 247
+)
+Effect of exchange rate on operating lease liabilities
+43
+Operating lease liabilities as of December 31, 2022
+5,933
+Less non-current portion
+( 4,979
+)
+Current portion as of December 31, 2022
+$
+954
+As of December 31, 2022, the Company’s operating leases have a weighted-average remaining lease term of 5.5 years and a weighted-average discount rate of 4.12%. The maturities of the operating lease liabilities are as follows:
+Fiscal year ending September 30,
+2023 (remaining nine months)
+$
+880
+2024
+1,188
+2025
+1,164
+2026
+1,178
+2027
+1,200
+Thereafter
+1,037
+Total undiscounted operating lease payments
+6,647
+Less imputed interest
+( 714
+)
+Present value of operating lease liabilities
+$
+5,933
+For the three months ended December 31, 2022 and 2021, total lease expense under operating leases was approximately $ 264
+and $ 244 , respectively. The Company did not have any short-term lease expense during the three months ended December 31, 2022 and 2021.
+13. INCOME TAXES
+For the three months ended December 31, 2022, the Company did
+not
+record an income tax expense benefit for the tax loss as the benefits are not expected to be realized during the current fiscal year through ordinary income generated during the second through fourth quarters or in a future year through recognition of a deferred tax asset. For the three months ended December 31, 2021, the Company recorded an income tax benefit of $ 291
+reflecting an effective tax rate of
+28.8 %.
+The Company expects to utilize its deferred tax asset in the future, except for those related to federal R&D tax credit carryforwards and net operating loss carryforwards, R&D credits, and foreign tax credits related to Genasys Spain and Genasys Canada, and continues to maintain a partial allowance.
+15
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+ASC 740,
+Income Taxes , requires the Company to recognize in its consolidated financial statements uncertainties in tax positions taken that may not be sustained upon examination by the taxing authorities. If interest or penalties are assessed, the Company would recognize these charges as income tax expense. The Company has not recorded any income tax expense or benefit for uncertain tax positions.
+14. COMMITMENTS AND CONTINGENCIES
+Litigation
+The Company may at times be involved in litigation in the ordinary course of business. The Company will, from time to time, when appropriate in the Company’s estimation, record adequate reserves in the Company’s consolidated financial statements for pending litigation. Currently, there are no pending material legal proceedings to which the Company is a party or to which any of its property is subject.
+Bonus plan
+The Company has a bonus plan for employees, in accordance with their terms of employment, whereby they can earn a percentage of their salary based on meeting targeted objectives for orders received, revenue, operating income and operating cash flow. In the three months ended December 31, 2022, the Company recorded $ 548
+of bonus expense. In the three months ended December 31, 2021, the Company recorded $ 463
+of bonus expense.
+Amika Mobile asset purchase
+In connection with the Amika Mobile asset purchase, the Company recorded a holdback liability related to potential future adjustments to assets and liabilities, misrepresentations and indemnifications against third-party claims. Adjustments of up to CAD$ 1,000
+(USD$ 738 ) will be deducted from the asset purchase holdback liability for up to
+three
+years from the closing date. The liability is recorded at fair value in the condensed consolidated balance sheet.
+The Company also agreed to issue
+191,267
+shares of the Company’s common stock to the former owners of Amika Mobile on each of the first, second and third anniversaries of the closing date. The total number of shares of common stock the Company is obligated to issue is
+573,801 . The fair value of the Company’s common stock on the closing date was $ 5.98 , resulting in the addition of $ 3,431
+to additional paid-in-capital. During the year ended September 30, 2021, the Company accelerated the issuance of
+365,109
+of such shares of common stock to a former owner of the Amika Mobile assets. During the year ended September 30, 2022, the Company issued 69,564 shares to the former owners of the Amika Mobile assets. During the three months ended December 31, 2022, the Company issued
+69,564
+shares to the former owners of the Amika Mobile assets. There are
+69,564
+remaining shares of the Company’s common stock subject to issuance under this obligation.
+15. SHARE-BASED COMPENSATION
+Stock option plans
+As of December 31, 2022, the Company had two equity incentive plans. The 2005 Equity Incentive Plan (“2005 Equity Plan”) was terminated with respect to new grants in March 2015 but remains in effect for grants issued prior to that time. The Amended and Restated 2015 Equity Incentive Plan (“2015 Equity Plan”) was adopted by the Company’s Board of Directors on December 6, 2016 and approved by the Company’s stockholders on March 14, 2017. The 2015 Equity Plan was amended by the Company’s Board of Directors on December 8, 2020, to increase the number of shares authorized for issuance from
+5,000,000
+to
+10,000,000 . On March 16, 2021, the Company’s stockholders approved the plan amendment. The 2015 Equity Plan authorizes the issuance of stock options, restricted stock, stock appreciation rights, restricted stock units (“RSUs”) and performance awards, to an aggregate of
+10,000,000
+new shares of common stock to employees, directors, advisors or consultants. As of December 31, 2022, there were options and restricted stock units outstanding covering
+5,000
+and
+5,149,711
+shares of common stock under the 2005 Equity Plan and the 2015 Equity Plan, respectively, and
+2,582,927
+shares of common stock available for grant, for a total of
+7,732,638
+shares of common stock authorized and unissued under the two equity plans.
+Share-based compensation
+The Company’s employee stock options have various restrictions that reduce option value, including vesting provisions and restrictions on transfer and hedging, among others, and are often exercised prior to their contractual maturity.
+16
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+There were
+1,204,000
+stock options granted during the three months ended December 31, 2022. There were
+267,000
+stock options granted during the three months ended December 31, 2021. The weighted average estimated fair value of employee stock options granted during the three months ended December 31, 2022 and 2021, was calculated using the Black-Scholes option-pricing model with the following weighted average assumptions (annualized percentages):
+Three months ended
+December 31,
+2022
+2021
+Volatility
+52.1
+%
+48.1
+%
+Risk-free interest rate
+4.1
+%
+1.2
+%
+Dividend yield
+0.0
+%
+0.0
+%
+Expected term in years
+6.1
+6.9
+Expected volatility is based on the historical volatility of the Company’s common stock over the period commensurate with the expected term of the options. The risk-free interest rate is based on rates published by the Federal Reserve Board. The contractual term of the options was
+seven
+years. The expected term is based on observed and expected time to post-vesting exercise. The expected forfeiture rate is based on past experience and employee retention data. Forfeitures are estimated at the time of the grant and revised in subsequent periods if actual forfeitures differ from those estimates. Such revision adjustments to expense will be recorded as a cumulative adjustment in the period in which the estimate is changed. The Company has not paid a dividend in fiscal 2023 and did not pay a dividend in fiscal 2022.
+As of December 31, 2022, there was approximately $ 1,926
+of total unrecognized compensation costs related to outstanding employee stock options. This amount is expected to be recognized over a weighted average period of
+2.4
+years. To the extent the forfeiture rate is different from what the Company anticipated, stock-based compensation related to these awards will be different from the Company’s expectations.
+Performance-based stock options
+On October 4, 2019, the Company awarded a performance-based stock option (PVO) to purchase
+800,000
+shares of the Company’s common stock to a key executive, with a contractual term of
+seven
+years. Vesting is based upon the achievement of certain performance criteria for each of fiscal 2022 and 2023 including a minimum free cash flow margin and net revenue targets. Additionally, vesting is subject to the executive being employed by the Company at the time the Company achieves such financial targets. During the year ended September 30, 2022, the Company modified the performance criteria for these PVOs to exclude certain strategic growth initiatives that were not planned at the time of grant. The Company recorded $ 209
+in stock-based compensation expense related to these options in the year ended September 30, 2022. The Company did not record compensation expense releated to the 2023 performance-based stock options during the three months ended December 31, 2022.
+On October 8, 2022, the Company awarded additional performance-based stock options to purchase
+800,000
+shares of the Company’s common stock to the same key executive, with a contractual term of seven years. Vesting is based upon the achievement of certain performance criteria for each of fiscal 2025 and 2026 including a minimum free cash flow margin and net revenue targets. Additionally, vesting is subject to the executive being employed by the Company at the time the Company achieves such financial targets. The Company did not record compensation expense related to these options for the three months ended December 31, 2022.
+On August 10, 2022, the Company granted PVOs to purchase up to
+750,000
+shares of the Company’s common stock to a key member of management, with a contractual term of seven years. Vesting is based upon the achievement of certain performance criteria for each of fiscal years 2023, 2024, and 2025, including net bookings targets. Additionally, vesting is subject to the grantee being employed by the Company as of the applicable vest date during each fiscal year in which the Company achieves such financial targets. The Company did not record compensation expense related to these options for the three months ended December 31, 2022.
+The Company did not grant any PVO’s during the three months ended December 31, 2021.
+Restricted stock units
+In fiscal 2020,
+81,270
+RSUs were granted to employees that will vest over three years on the anniversary date of the grant. These were issued at a market value of $ 258 , which have and will be expensed on a straight-line basis over the three-year life of the grants.
+During fiscal 2021,
+145,950
+RSUs were granted to employees that will vest over three years on the anniversary date of the grant. These were issued at a market value of $ 989 , which have and will be expensed on a straight-line basis over the three-year life of the grants.
+On March 15, 2022, each non-employee member of the Board of Directors received a grant of
+30,000
+RSUs that will vest on the first anniversary of the grant date. These were issued at a market value of $ 407 , which have and will be expensed on a straight-line basis through the March 15, 2023 vest date. On November 1, 2021,
+10,000
+RSUs were granted to a non-employee advisor that vested on the first anniversary of the grant date. These were issued at a market value of $ 51 , which were expensed on a straight-line basis though the November 1, 2022 vest date. On November 1, 2022,
+10,000
+RSUs were granted to a non-employee advisor that vest on the first anniversary of the grant date. These were issued at a market value of $ 29 , which have and will be expensed on a straight-line basis though the November 1, 2023 vest date.
+17
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Compensation expense for RSUs was $ 198
+and $ 437
+for the three months ended December 31, 2022 and 2021, respectively. As of December 31, 2022, there was approximately $ 723
+of total unrecognized compensation costs related to outstanding RSUs. This amount is expected to be recognized over a weighted average period of
+1.0
+years.
+A summary of the Company’s RSUs as of December 31, 2022 is presented below:
+Number of
+Shares
+Weighted
+Average Grant
+Date Fair Value
+Outstanding September 30, 2022
+342,841
+$
+4.11
+Granted
+10,000
+$
+2.87
+Released
+( 12,667
+)
+$
+5.11
+Forfeited/cancelled
+-
+$
+-
+Outstanding December 31, 2022
+340,174
+$
+4.03
+Stock option summary information
+A summary of the activity in options to purchase the capital stock of the Company as of December 31, 2022 is presented below:
+Number of
+Shares
+Weighted
+Average
+Exercise Price
+Outstanding September 30, 2022
+3,940,899
+$
+3.31
+Granted
+1,204,000
+$
+2.73
+Forfeited/expired
+( 310,362
+)
+$
+4.50
+Exercised
+( 20,000
+)
+$
+1.58
+Outstanding December 31, 2022
+4,814,537
+$
+3.10
+Exerciseable December 31, 2022
+1,871,879
+$
+2.83
+Options outstanding are exercisable at prices ranging from $ 1.31
+to $ 8.03
+per share and expire over the period from 2023 to 2030 with an average life of
+3.10
+years. The aggregate intrinsic value of options outstanding and exercisable as of December 31, 2022 was $ 3,745
+and $ 2,192 , respectively. The aggregate intrinsic value represents the difference between the Company’s closing stock price on the last day of trading for the quarter, which was $ 3.70
+per share, and the exercise price multiplied by the number of applicable options. The total intrinsic value of stock options exercised during the three months ended December 31, 2022 was $ 23
+and proceeds from these exercises was $ 32 . The total intrinsic value of stock options exercised during the three months ended December 31, 2021 was $ 74
+and proceeds from these exercises was $ 46 .
+The following table summarized information about stock options outstanding as of December 31, 2022:
+Weighted Average
+Weighted Average
+Weighted Average
+Range of
+Number
+Remaining
+Exercise
+Number
+Exercise
+Exercise Prices
+Outstanding
+Contractual Term
+Price
+Exercisable
+Price
+$ 1.31
+-
+$ 1.76
+223,922
+1.12
+$
+1.69
+223,922
+$
+1.69
+$ 1.99
+-
+$ 1.99
+937,500
+1.18
+$
+1.99
+937,500
+$
+1.99
+$ 2.69
+-
+$ 3.21
+1,224,000
+6.78
+$
+2.74
+-
+$
+-
+$ 3.39
+-
+$ 3.48
+1,965,865
+5.27
+$
+3.44
+458,291
+$
+3.40
+$ 3.95
+-
+$ 8.03
+463,250
+3.90
+$
+5.50
+252,166
+$
+5.90
+4,814,537
+4.53
+$
+3.10
+1,871,879
+$
+2.83
+The Company recorded $ 222
+and $ 121
+of stock option compensation expense for employees, directors and consultants for the three months ended December 31, 2022, and 2021, respectively.
+18
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Share-based compensation
+The Company recorded share-based compensation expense and classified it in the condensed consolidated statements of operations as follows:
+Three Months Ended
+December 31,
+2022
+2021
+Cost of revenues
+$
+15
+$
+15
+Selling, general and administrative
+373
+531
+Research and development
+32
+12
+$
+420
+$
+558
+16. STOCKHOLDERS ’
+EQUITY
+Summary
+The following table summarizes changes in the components of stockholders’ equity during the three months ended December 31, 2022 and the three months ended December 31, 2021 (amounts in thousands, except par value and share amounts):
+Accumulated
+Common Stock
+Additional
+Other
+Total
+Shares
+Par Value
+Amount
+Paid-in
+Capital
+Accumulated
+Deficit
+Comprehensive
+Loss
+Stockholders'
+Equity
+Balance as of September 30, 2022
+36,611,240
+366
+108,551
+( 57,366
+)
+( 792
+)
+50,393
+Share-based compensation expense
+-
+-
+420
+-
+-
+420
+Issuance of common stock upon exercise of stock options, net
+20,000
+-
+32
+-
+-
+32
+Issuance of common stock upon vesting of restricted stock units
+12,667
+-
+-
+-
+-
+-
+Release of obligation to issue commons stock
+69,564
+1
+-
+-
+-
+Accumulated other comprehensive loss
+-
+-
+-
+-
+266
+266
+Net loss
+-
+-
+-
+( 3,507
+)
+( 3,507
+)
+Balance as of December 31, 2022
+36,713,471
+367
+109,003
+( 60,873
+)
+( 526
+)
+47,604
+Accumulated
+Common Stock
+Additional
+Other
+Total
+Shares
+Par Value
+Amount
+Paid-in
+Capital
+Accumulated
+Deficit
+Comprehensive
+Loss
+Stockholders'
+Equity
+Balance as of September 30, 2021
+36,403,833
+$
+364
+$
+107,110
+$
+( 41,154
+)
+$
+2
+$
+65,958
+Share-based compensation expense
+-
+-
+558
+-
+-
+558
+Issuance of common stock upon exercise of stock options, net
+15,000
+-
+46
+-
+-
+46
+Stock buyback
+(116,868
+)
+( 1
+)
+( 441
+)
+-
+-
+( 441
+)
+Release of obligation to issue commons stock
+69,564
+-
+-
+-
+-
+-
+Accumulated other comprehensive loss
+-
+-
+-
+-
+( 85
+)
+( 85
+)
+Net loss
+-
+-
+-
+( 1,305
+)
+-
+( 1,305
+)
+Balance as of December 31, 2021
+36,371,529
+363
+$
+107,273
+$
+( 42,459
+)
+$
+( 83
+)
+$
+64,731
+Common stock activity
+During the three months ended December 31, 2022, the Company issued
+20,000
+shares of common stock and received gross proceeds of $ 32
+in connection with the exercise of stock options and the Company issued
+12,667
+shares of common stock in connection with the vesting of RSUs. During the three months ended December 31, 2021, the Company issued
+15,000
+shares of common stock and received gross proceeds of $ 46
+in connection with the exercise of stock options.
+In connection with the Amika Mobile asset purchase, the Company agreed to issue
+191,267
+shares of the Company’s common stock to the former owners of Amika Mobile on each of the first, second and third anniversaries of the closing date. The total number of shares of common stock the Company is obligated to issue is
+573,801 . The fair value of the Company’s common stock on the closing date was $ 5.98 , resulting in the addition of $ 3,431
+to additional paid-in-capital. During the year ended September 30, 2021, the Company accelerated the issuance of
+365,109
+of such shares of common stock to a former owner of the Amika Mobile assets. During the year ended September 30, 2022, the Company issued 69,564 shares to the former owners of the Amika Mobile assets. During the three months ended December 31, 2022, the Company issued
+69,564
+shares to the former owners of the Amika Mobile assets. There are
+69,564
+remaining shares of the Company’s common stock subject to issuance under this obligation.
+19
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Share buyback program
+In December 2018, the Board of Directors approved a new share buyback program beginning January 1, 2019 and expiring on December 31, 2020, under which the Company was authorized to repurchase up to $ 5
+million of its outstanding common shares. In December 2020, the Board of Directors extended the buyback program until December 31, 2022. In December 2022, the Board of Directors extended the Company’s share buyback program through December 31, 2024.
+There were no shares repurchased during the three months ended December 31, 2022. During the three months ended December 31, 2021,
+116,868
+shares were repurchased for $ 441 . All repurchased shares have been retired as of December 31, 2022 and $ 3
+million was available for share repurchase under the program.
+Dividends
+There were
+no
+dividends declared in the three months ended December 31, 2022 and 2021.
+17. NET LOSS PER SHARE
+The following table sets forth the computation of basic and diluted net loss per share:
+Three months ended
+December 31,
+2022
+2021
+Net loss
+$
+( 3,507
+)
+$
+( 1,305
+)
+Basic and diluted loss per share
+$
+( 0.10
+)
+$
+( 0.04
+)
+Weighted average shares outstanding - basic
+36,696,145
+36,456,187
+Assumed exercise of dilutive options
+-
+-
+Weighted average shares outstanding - diluted
+36,696,145
+36,456,187
+Potentially diluted securities outstanding at period end excluded from diluted computation as the inclusion would have been antidilutive:
+Options
+4,814,537
+2,997,384
+RSU
+340,174
+139,128
+Obligation to issue common stock
+69,564
+402,469
+Total
+5,224,275
+3,538,981
+18. SEGMENT INFORMATION
+The Company is engaged in the design, development and commercialization of directed and multidirectional sound technologies, voice broadcast products, and location-based mass messaging software for emergency warning and evacuation management. The Company operates in
+two
+business segments: Hardware and Software and its principal markets are North and South America, Europe, the Middle East and Asia. As reviewed by the Company’s chief operating decision maker, the Company evaluates the performance of each segment based on sales and operating income. Cash and cash equivalents, marketable securities, accounts receivable, inventory, property and equipment, deferred tax assets, goodwill and intangible assets are primary assets identified by segment. The accounting policies for segment reporting are the same for the Company as a whole.
+20
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+The following table presents the Company’s segment disclosures:
+Three months ended
+December 31,
+2022
+2021
+Revenue from external customers
+Hardware
+$
+9,584
+$
+10,127
+Software
+903
+550
+$
+10,487
+$
+10,677
+Intersegment revenues
+Hardware
+$
+-
+$
+-
+Software
+1,222
+674
+$
+1,222
+$
+674
+Segment operating income (loss)
+Hardware
+$
+( 28
+)
+$
+1,172
+Software
+( 3,459
+)
+( 2,781
+)
+$
+( 3,487
+)
+$
+( 1,609
+)
+Other expenses:
+Depreciation and amortization expense
+Hardware
+$
+99
+$
+94
+Software
+544
+545
+$
+643
+$
+639
+Income tax expense (benefit)
+Hardware
+$
+-
+$
+( 291
+)
+Software
+-
+-
+$
+-
+$
+( 291
+)
+December 31,
+September 30,
+2022
+2022
+Long-lived assets
+Hardware
+$
+1,616
+$
+1,677
+Software
+10,143
+10,585
+$
+11,759
+$
+12,262
+Total assets
+Hardware
+$
+41,427
+$
+47,237
+Software
+23,037
+24,617
+$
+64,464
+$
+71,854
+19. MAJOR CUSTOMERS, SUPPLIERS AND RELATED INFORMATION
+For the three months ended December 31, 2022, revenues from one customer accounted for
+60 % of total revenues with no other single customer accounting for more than 10% of revenues. As of December 31, 2022, accounts receivable from two customers accounted for
+41 % and
+18 % of total accounts receivable, with no other single customer accounting for more than 10% of the accounts receivable balance.
+For the three months ended December 31, 2021, revenues from one customer accounted for
+68 % of total revenues with no other single customer accounting for more than 10% of revenues. As of December 31, 2021, accounts receivable from two customers accounted for
+61 % and
+23 % of total accounts receivable, with no other single customer accounting for more than 10% of the accounts receivable balance.
+21
+Genasys Inc.
+Notes to the Condensed Consolidated Financial Statements
+(in thousands, except per share and share amounts)
+(Unaudited)
+Revenue from customers in the United States was $ 8,938
+and $ 9,303
+for the three months ended December 31, 2022 and 2021, respectively. The following table summarizes revenues by geographic region. Revenues are attributed to countries based on customer’s delivery location. The following table summarizes revenues by geographic region.
+Three months ended December 31,
+2022
+2021
+Americas
+$
+9,163
+$
+9,436
+Asia Pacific
+759
+308
+Europe, Middle East and Africa
+565
+933
+Total Revenues
+$
+10,487
+$
+10,677
+The following table summarizes long-lived assets by geographic region.
+December 31,
+September 30,
+2022
+2022
+United States
+$
+11,257
+$
+11,800
+Americas (excluding the United States)
+14
+16
+Europe, Middle East and Africa
+488
+446
+Total long lived assets
+$
+11,759
+$
+12,262
+22
+Item   2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+The discussion and analysis set forth below should be read in conjunction with the accompanying unaudited condensed consolidated financial statements and the related notes included under Item 1 of this Quarterly Report on Form 10-Q, together with Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended September 30, 2022.
+Forward Looking Statements
+This report contains certain statements of a forward-looking nature relating to future events or future performance. Words such as
+“ expects, ”
+“ anticipates, ”
+“ intends, ”
+“ plans, ”
+“ believes, ”
+“ seeks, ”
+“ estimates ”
+and similar expressions or variations of such words are intended to identify forward-looking statements but are not the only means of identifying forward-looking statements. Prospective investors are cautioned that such statements are only predictions and actual events or results may differ materially. In evaluating such statements, prospective investors should specifically consider various factors identified in this report and any matters set forth under Part I, Item   1A (Risk Factors) of our Annual Report on Form 10-K, which could cause actual results to differ materially from those indicated by such forward-looking statements.
+For purposes of this Quarterly Report, the terms
+“ we, ”
+“ us, ”
+“ our ”
+“ Genasys ”
+and the
+“ Company ”
+refer to Genasys Inc. and its consolidated subsidiaries.
+Overview
+Genasys is a global provider of critical communications hardware and software systems designed to alert, inform and protect people. Our unified platform receives information from a wide variety of sensors and Internet-of-Things (IoT) inputs to collect real-time information on developing and active emergency situations. Genasys uses this information to create and disseminate alerts, warnings, notifications, and instructions through multiple channels before, during, and after public safety and enterprise threats, critical events, and other crisis situations.
+Our multi-channel approach includes:
+Software Products
+GEM
+Genasys Emergency Management (“GEM”) is Genasys’ software-as-a-service (“SaaS”) product platform that includes GEM Public Safety, GEM Enterprise, Zonehaven and NEWS.
+GEM Public Safety
+is an interactive, cloud-based SaaS solution that enables State, Local and Education (“SLED”) customers to send critical information to at-risk individuals or groups when an emergency occurs. GEM acts as both a communications input and output, receiving information from state-of-the-art sensors and emergency services, and quickly relaying notifications, alerts, and instructions to at-risk populations and first responders. GEM customers can create and send critical, verified, and secure notifications and messages using emails, voice calls, text messages, panic buttons, desktop alerts, television, social media, and more. Additionally, Genasys is a certified provider of Integrated Public Alert and Warning System (“IPAWS”) notifications.
+GEM Enterprise
+empowers businesses and organizations to send critical communications to at-risk employees, contractors, visitors, or groups based on geographic location or team status. Operated and controlled via a single dashboard that includes two-way polling, duress buttons, field check-ins, and recipient locations, GEM Enterprise solutions integrate with data sources, including active directories, human resources, visitor management, and building control systems to find and deliver safety alerts and notifications to employees, staff, contractors, temporary workers, and visitors.
+Zonehaven
+is a multipronged SaaS application that serves both first responders and the jurisdictions they protect. Emergency services agencies can prepare for natural or man-made disasters by developing evacuation plans that map routes, shelters, traffic control locations, and road closures using Zonehaven's extensive public safety resources and mapped zones. This information is easily shared with the public and reduces the time it takes to execute emergency evacuations and conduct orderly repopulations.
+NEWS
+– Genasys' National Emergency Warning System (“NEWS”) provides multichannel public safety notifications and instructions to designated areas, groups, or agencies when a crisis occurs. Genasys partners with mobile telecom networks to provide the channels to deliver NEWS SMS and CBC alerts and notifications that can be sent to anyone, anywhere, with no recipient opt-in, registration, or download required. NEWS can locate recipients and deliver messages in near real time, compared with other SMS alert providers that can take up to 15 minutes. Even with NEWS’ reach and scope, all data is anonymized, ensuring individuals stay safe and informed without sacrificing their privacy.
+23
+Hardware Products
+IMNS
+–
+Genasys' Integrated Mass Notification System (“IMNS”) product line unites Genasys next generation mass notification speaker systems with GEM command-and-control software. Genasys' advanced mass notification systems feature the industry's highest Speech Transmission Index (“STI”), large directional and omni-directional broadcast coverage areas, and an array of options that enable the systems to continue to operate when power and telecommunications infrastructure goes down.
+Emergency alerts and information can be sent via individual, grouped or networked IMNS installations, text messages, emails, IPAWS, desktop alerts, television, voice calls, and social media. IMNS' layered redundancy helps to ensure the maximum number of people receive critical communications.
+LRAD
+is the world’s leading Acoustic Hailing Device (“AHD”). Projecting alert tones and audible voice messages with exceptional vocal clarity in a 30° beam from close range to 5,500 meters. LRADs are used throughout the world in multiple applications and circumstances to safely hail, warn, inform, direct, prevent misunderstandings, determine intent, establish large safety zones, resolve uncertain situations, and save lives. LRAD helps ensure voice messages and alert tones cut through background noise and are clearly heard and understood over distance.
+LRAD is the de facto standard of the global AHD market with more than 100 countries using our long-range communication systems in a range of diverse applications that include public safety, emergency warning, mass notification, defense, law enforcement, border and homeland security, critical infrastructure protection, wildlife preservation, and many more.
+We continue to develop new critical communications innovations and believe we have established significant competitive advantages in our principal markets.
+Recent Developments
+Business developments in the fiscal quarter ended December 31, 2022:
+•
+Awarded multi-year GEM contract by San Diego County, CA
+•
+Added four more California counties to Zonehaven evacuation management contracts
+•
+Secured Zonehaven contract to expand critical communications in Riverside County, CA
+•
+Announced GEM / Zonehaven contract with Monterey County, CA
+Revenues for the Company’s first quarter of fiscal 2023, were $10.5 million, a slight decrease from $10.7 million in the first quarter of fiscal 2022. Software revenue ($903) increased $353, offset by a decrease of $543 in hardware revenue ($9,584).The timing of budget cycles, government financial issues and military conflict in certain areas of the world, often delay contract awards, resulting in uneven quarterly revenue. Gross profit decreased compared to the same quarter in the prior year as a result of higher component costs and additional costs to support the growth in software sales in this year’s quarter. Operating expenses in the quarter ended December 31, 2022, increased 18.9% to $8.0 million, compared with $6.8 million in the same period in the prior year. We reported a net loss of $3,507 for the first quarter of fiscal 2023, or $(0.10) per share, compared with a net loss of $1,305, or $(0.04) per share, for the same quarter in the prior year.
+Business Outlook
+Our products, systems, and solutions continue to gain worldwide awareness and recognition through media exposure, product demonstrations, and word of mouth as a result of positive responses and increased acceptance. We believe we have a solid global brand, technology, and product foundation, which we continue to expand to serve new markets and customers for greater business growth. We believe we have strong market opportunities for our product offerings throughout the world in the defense, public safety, emergency warning, mass notification, critical event management, and law enforcement sectors as a result of increasing threats to government, commerce, law enforcement, homeland security, and critical infrastructure. Our products, systems, and solutions also have many applications within the fire rescue, maritime, asset protection, and wildlife control and preservation business segments.
+Genasys has developed a global market and an increased demand for LRADs and advanced mass notification speakers. We have a reputation for producing quality products that feature industry-leading broadcast area coverage, vocal intelligibility, and product reliability. We intend to continue building on our AHD market leadership position by offering enhanced voice broadcast systems and accessories for an expanding range of applications. In executing our strategy, we use direct sales to governments, militaries, large end-users, system integrators, and prime vendors. We have built a worldwide distribution channel consisting of partners and resellers that have significant expertise and experience selling integrated communication solutions into our various target markets. As our primary AHD sales opportunities are with domestic and international governments, military branches, and law enforcement agencies, we are subject to each customer’s unique budget cycle, which leads to long selling cycles and uneven revenue flow, complicating our product planning.
+24
+The proliferation of natural and man-made disasters, emergency events, and civil unrest require technologically advanced, multi-channel solutions to deliver clear and timely critical communications to help keep people safe during crisis situations. Businesses are also incorporating critical communication and emergency management systems that locate and help safeguard employees when crises occur.
+By providing the only SaaS platform that unifies sensors and IoT inputs with multichannel, multiagency alerting and notifications, Genasys seeks to deliver reliable, fast, and intuitive solutions for creating and disseminating geolocation-targeted warnings, information, and instructions before, during, and after public safety and enterprise threats.
+While the software and hardware mass notification markets are more mature with many established manufacturers and suppliers, we believe that our advanced technology and unified platform provides opportunities to succeed in the large and growing public safety, emergency warning, and critical communications markets.
+In fiscal 2023, we intend to continue pursuing domestic and international business opportunities with the support of business development consultants, key representatives, and resellers. We plan to grow our revenues through increased direct sales to governments and agencies that desire to integrate our communication technologies into their homeland security and public safety systems. This includes building on fiscal 2022 domestic defense sales by pursuing further U.S. military opportunities. We also plan to pursue emergency warning, enterprise critical event management, government, law enforcement, fire rescue, homeland and international security, private and commercial security, border security, maritime security, and wildlife dispersion and preservation business opportunities. In addition to the matters above, we are authorized for the performance of services and provision of goods pursuant to Delaware General Corporation Law.
+Our research and development strategy involves incorporating further innovations and capabilities into our GEM, Zonehaven, NEWS, IMNS and LRAD products, systems, and solutions to meet the needs of our target markets.
+Our GEM, Zonehaven, and NEWS software solutions are more complex offerings. We are pursuing certain certifications, which are often required when bidding on government and mass notification opportunities. We intend to invest engineering resources to enhance our GEM and Zonehaven software solutions to compete for larger emergency warning and critical communications business opportunities. We are also configuring alternative solutions to achieve lower price points to meet the needs of certain customers or applications. We also engage in ongoing value engineering to reduce the cost and simplify the manufacturing of our products.
+A large number of components and sub-assemblies manufactured by outside suppliers within our supply chain are produced within 50 miles of our facility. We do not source component parts from suppliers in China. It is likely that some of our suppliers source parts in China. The aftermath of the COVID-19 pandemic continues to impact worldwide supply chains and the ability to obtain sufficient amounts of component parts, including semiconductor chips and integrated circuits, resins, coating and other equipment and components. Negative impacts on our supply chain could have material effects on our business. We communicate with our suppliers regarding measures to mitigate ongoing worldwide supply chain issues.
+We have been affected by price increases from our suppliers and logistics as well as other inflationary factors such as increased salary, labor, and overhead costs. We regularly review and adjust the sales price of our finished goods to offset these inflationary factors. Although we do not believe that inflation has had a material impact on our financial results through December 31, 2022, sustained or increased inflation in the future may affect our ability to achieve certain expectations in gross margin and operating expenses. If we are unable to offset the negative impacts of inflation with increased prices, our future results could be materially affected.
+Critical Accounting Policies
+We have identified a number of accounting policies as critical to our business operations and the understanding of our results of operations. These are described in our consolidated financial statements located in Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the year ended September 30, 2022. The impact and any associated risks related to these policies on our business operations is discussed below and throughout Management’s Discussion and Analysis of Financial Condition and Results of Operations when such policies affect our reported and expected financial results.
+The methods, estimates and judgments we use in applying our accounting policies, in conformity with U.S. generally accepted accounting principles, have a significant impact on the results we report in our financial statements. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. The estimates affect the carrying values of assets and liabilities. Actual results may differ from these estimates under different assumptions or conditions.
+25
+Comparison of Results of Operations for the Three Months Ended December 31, 2022 and 2021 (in thousands)
+Three Months Ended
+December 31, 2022
+December 31, 2021
+% of
+% of
+Total
+Total
+Fav(Unfav)
+Amount
+Revenue
+Amount
+Revenue
+Amount
+%
+Revenues:
+Product sales
+$
+9,118
+86.9
+%
+$
+9,570
+89.6
+%
+$
+(452
+)
+(4.7%
+)
+Contract and other
+1,369
+13.1
+%
+1,107
+10.4
+%
+262
+23.7
+%
+Total revenues
+10,487
+100.0
+%
+10,677
+100.0
+%
+(190
+)
+(1.8%
+)
+Cost of revenues
+5,944
+56.7
+%
+5,535
+51.8
+%
+(409
+)
+(7.4%
+)
+Gross Profit
+4,543
+43.3
+%
+5,142
+48.2
+%
+(599
+)
+(11.6%
+)
+Operating expenses
+Selling, general and administrative
+6,095
+58.1
+%
+5,037
+47.2
+%
+(1,058
+)
+(21.0%
+)
+Research and development
+1,935
+18.5
+%
+1,714
+16.1
+%
+(221
+)
+(12.9%
+)
+Total operating expenses
+8,030
+76.6
+%
+6,751
+63.2
+%
+(1,279
+)
+(18.9%
+)
+Loss from operations
+(3,487
+)
+(33.3%
+)
+(1,609
+)
+(15.1%
+)
+(1,878
+)
+116.7
+%
+Other income, net
+(20
+)
+(0.2%
+)
+13
+0.1
+%
+(33
+)
+(253.8%
+)
+Loss before income taxes
+(3,507
+)
+(33.4%
+)
+(1,596
+)
+(14.9%
+)
+(1,911
+)
+119.7
+%
+Income tax benefit
+-
+0.0
+%
+(291
+)
+(2.7%
+)
+(291
+)
+100.0
+%
+Net loss
+$
+(3,507
+)
+(33.4%
+)
+$
+(1,305
+)
+(12.2%
+)
+$
+(2,202
+)
+168.7
+%
+Net revenue
+Hardware
+$
+9,584
+91.4
+%
+$
+10,127
+94.8
+%
+(543
+)
+(5.4%
+)
+Software
+903
+8.6
+%
+550
+5.2
+%
+353
+64.2
+%
+Total net revenue
+$
+10,487
+100.0
+%
+$
+10,677
+100.0
+%
+$
+(190
+)
+(1.8%
+)
+The tables above set forth for the periods indicated certain items of our condensed consolidated statements of operations expressed in dollars and as a percentage of net revenues. The financial information and the discussion below should be read in conjunction with the condensed consolidated financial statements and notes contained in this report.
+Revenues
+Revenues decreased $190, or 1.8%, compared with the same quarter in the prior year. IMNS revenue ($313) decreased $2,301, offset by LRAD revenue ($9,271) which increased $1,758 and software revenue ($903) which increased $353, compared with the prior year quarter. Slightly lower revenue in the first quarter of fiscal 2023 was largely due to the lower backlog at the start of the fiscal year compared with the prior year amount. The higher software revenue was primarily due to a 87% increase in North American recurring revenue partially offset by lower professional services performed in the current quarter. The receipt of orders is often uneven due to the timing of budget cycles, government financial issues and military conflict. As of December 31, 2022, we had aggregate deferred revenue of $1,828 for extended warranty obligations and software support agreements.
+Gross Profit
+The decrease in gross profit compared with the same period in the prior year was due to lower hardware revenue and higher component costs in this year’s quarter. Gross profit as a percentage of sales was lower compared with the prior year period primarily due to higher costs of components in this year’s quarter and additional costs to support the growth in software sales.
+As our products have varying gross margins, product mix may affect gross profits. In addition, our margins vary based on the sales channels through which our products are sold in a given period. We continue to implement product updates and changes, including raw material and component changes, that may impact product costs. We have limited warranty cost experience with product updates and changes and estimated future warranty costs can impact our gross margins. We do not believe that historical gross profit margins should be relied upon as an indicator of future gross profit margins.
+26
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses increased $1,058, or 21.0%, over the prior year quarter. The increase was largely due to $349 of increased compensation expense, $306 from higher professional services, and $166 from higher travel and sales and marketing activities in the current year period.
+We incurred non-cash share-based compensation expenses allocated to selling, general and administrative expenses in the three-months ended December 31, 2022 and 2021 of $373 and $531, respectively.
+We may expend additional resources on the marketing and selling of our products in future periods as we identify ways to optimize potential opportunities. Commission expenses will fluctuate based on the nature of our sales.
+Research and Development Expenses
+Research and development expenses increased $221, or 12.9%, this year as the number of engineers increased 14% over last year’s quarter and more engineering time was incurred to increase the features and functionality of our software offering, including the expansion and integration of Zonehaven into the GEM software platform, as compared with the prior year when more time was devoted to professional service contracts.
+Included in research and development expenses for the three months ended December 31, 2022 and 2021, was $32 and $12, respectively, of non-cash share-based compensation costs.
+Research and development costs vary period to period due to the timing of projects, and the timing and extent of using outside consulting, design, and development firms. We seek to continually improve our product offerings, and we expect to continue to expand our product line with new products, customizations, and enhancements. Based on current plans, we may expend additional resources on research and development in the current year compared to the prior year.
+Net Loss
+Net loss in the first quarter of fiscal year 2023 was $3,507, compared with a net loss of $1,305 in the first quarter of fiscal year 2022. The increase in net loss was primarily due to the increased operating expenses resulting from additional engineering, sales and marketing employees and higher cost of components.
+Other Metrics
+We monitor a number of financial and operating metrics, including adjusted EBITDA, to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions. Our business metrics may be calculated in a manner different than similar other business metrics used by other companies.
+Adjusted EBITDA
+Adjusted EBITDA represents our net income before other income, net income tax expense (benefit), depreciation and amortization expense, and stock-based compensation. We do not consider these items to be indicative of our core operating performance. The items that are non-cash include depreciation and amortization expense and stock-based compensation. Adjusted EBITDA is a measure used by management to understand and evaluate our core operating performance and trends, and to generate future operating plans, make strategic decisions regarding allocation of capital, and invest in initiatives focused on cultivating new markets for our solutions. In particular, the exclusion of certain expenses in calculating adjusted EBITDA facilitates comparisons of our operating performance on a period-to-period basis. Adjusted EBITDA is not a measure calculated in accordance with generally accepted accounting principles in the United States of America (“U.S. GAAP”). We believe that adjusted EBITDA provides useful information to investors and others in understanding and evaluating our operating results in the same manner as our management and board of directors. Nevertheless, use of adjusted EBITDA has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our financial results as reported under U.S. GAAP. Some of these limitations are: (1) although depreciation and amortization are non-cash charges, the intangible assets that are amortized and property and equipment that is depreciated, will need to be replaced in the future, and adjusted EBITDA does not reflect cash capital expenditure requirements for such replacement or for new capital expenditure requirements; (2) adjusted EBITDA does not reflect changes in, or cash requirements for, our working capital needs; (3) adjusted EBITDA does not reflect the potentially dilutive impact of equity-based compensation; (4) adjusted EBITDA does not reflect tax payments or receipts that may represent a reduction or increase in cash available to us; and (5) other companies, including companies in our industry, may calculate adjusted EBITDA or similarly titled measures differently, which reduces the usefulness of the metric as a comparative measure. Because of these and other limitations, you should consider adjusted EBITDA alongside our other U.S. GAAP-based financial performance measures, net income and our other U.S. GAAP financial results.
+27
+The following table presents a reconciliation of adjusted EBITDA to net income, the most directly comparable U.S. GAAP measure, for each of the periods indicated (in thousands):
+Three months ended
+December 31,
+2022
+2021
+Net loss
+$
+(3,507
+)
+$
+(1,305
+)
+Other income, net
+20
+(13
+)
+Income tax expense (benefit)
+-
+(291
+)
+Depreciation and amortization
+643
+639
+Stock-based compensation
+420
+558
+Adjusted EBITDA
+$
+(2,424
+)
+$
+(412
+)
+Segment Results
+Segment results include net sales and operating income by segment. Corporate expense including various administrative expenses and costs of a publicly traded company are included in the Hardware segment as per historical financial reporting.
+Software
+Hardware
+Three months ended
+Three months ended
+December 31,
+Fav (Unfav)
+December 31,
+Fav (Unfav)
+2022
+2021
+$
+%
+2022
+2021
+$
+%
+Revenue
+$
+903
+$
+550
+$
+353
+64.2
+%
+$
+9,584
+$
+10,127
+$
+(543
+)
+(5.4%
+)
+Operating (loss) Income
+(3,459
+)
+(2,781
+)
+(678
+)
+24.4
+%
+(28
+)
+1,172
+(1,200
+)
+(102.4%
+)
+Reconciliation of GAAP to Non-GAAP
+Depreciation and amortization
+544
+545
+(1
+)
+(0.2%
+)
+99
+94
+5
+5.3
+%
+Stock-based compensation
+100
+58
+42
+72.4
+%
+320
+500
+(180
+)
+(36.0%
+)
+Adjusted EBITDA
+$
+(2,815
+)
+$
+(2,178
+)
+$
+(637
+)
+29.2
+%
+$
+391
+$
+1,766
+$
+(1,375
+)
+(77.9%
+)
+Software Segment
+Software segment revenue increased 64% over the prior fiscal year. This primarily reflects a 87% increase in North American recurring revenue compared to the prior fiscal year.
+Operating loss increased $0.7 million in the current fiscal year due to increases in payroll and benefits costs from increased hiring to support software development and sales, increased sales and marketing and related expenses, higher professional services expenses and higher commission expense from the increased revenues.
+Hardware Segment
+Hardware segment revenue decreased $0.5 million, or 5.4%, over the prior year. The decrease was largely due to the lower backlog at the start of this fiscal year compared to the prior year amount.
+Operating income decreased $1.2 million in the current fiscal year due to lower gross profit resulting from higher cost of components, and higher professional services expense, compensation expense, sales and marketing expenses and commission expense.
+Liquidity and Capital Resources
+Cash and cash equivalents as of December 31, 2022 was $7,563, down $5,173 compared with $12,736 as of September 30, 2022. We had short-term marketable securities of $6,551 as of December 31, 2022, compared with $6,397 as of September 30, 2022. We had long-term marketable securities of $1,034 as of December 31, 2022, compared with $781 as of September 30, 2022. In addition to cash and cash equivalents, short and long-term marketable securities, other working capital and expected future cash flows from operating activities in subsequent periods, we have a $10 million revolving line of credit available as a source of liquidity.
+We continue to manage all aspects of our business including, but not limited to, monitoring the financial health of our customers, suppliers and other third-party relationships and developing new opportunities for growth.
+Principal factors that could affect our liquidity include:
+•
+ability to meet sales projections;
+•
+government spending levels;
+28
+•
+introduction of competing technologies;
+•
+product mix and effect on margins;
+•
+ability to reduce current inventory levels;
+•
+product acceptance in new markets;
+•
+value of shares repurchased;
+•
+value of dividends declared;
+•
+supply chain disruptions;
+•
+inflation;
+•
+conflict between Russia and Ukraine;
+•
+impact of COVID-19 on global market conditions; and
+•
+impact of COVID-19 on customers’ ability to pay.
+Principal factors that could affect our ability to obtain cash from external sources include:
+•
+volatility in the capital markets; and
+•
+market price and trading volume of our common stock.
+Based on our current cash position, and assuming currently planned expenditures and level of operations, we believe we have sufficient capital to fund operations for the twelve-month period subsequent to the issuance of the interim financial information. However, we operate in a rapidly evolving and unpredictable business environment that may change the timing or amount of expected future cash receipts and expenditures. Accordingly, there can be no assurance that we may not be required to raise additional funds through the sale of equity or debt securities or from credit facilities. Additional capital, if needed, may not be available on satisfactory terms, or at all.
+Cash Flows
+Our cash flows from operating, investing and financing activities, as reflected in the condensed consolidated statements of cash flows, are summarized in the table below:
+Three months ended
+December 31, 2022
+December 31, 2021
+Cash provided by (used in):
+Operating activities
+$
+(4,850
+)
+$
+(2,702
+)
+Investing activities
+(483
+)
+72
+Financing activities
+32
+(395
+)
+Operating Activities
+Net loss of $3,507 for the three months ended December 31, 2022 was decreased by $1,349 of non-cash items that included share-based compensation, warranty provision, depreciation and amortization, amortization of operating lease ROU assets, and inventory obsolescence. Cash used by operating activities in the current year reflected an increase in inventory of $2,041, and a decrease in accrued liabilities and other of $5,006, comprised of a decrease in the balances of customer deposits received, and payment of incentive compensation earned in fiscal year 2022. This was offset by a $3,482 decrease in accounts receivable, a $624 decrease in prepaid expenses, and a $249 increase in accounts payable.
+Net loss of $1,305 for the three months ended December 31, 2021 was decreased by $1,131 of non-cash items that included an increase to deferred income taxes, share-based compensation, depreciation and amortization, warranty provision and inventory obsolescence. Cash used by operating activities in the quarter reflected an increase in inventory of $2,752 and a decrease in accrued liabilities and other of $1,743 for payment of incentive compensation earned in fiscal year 2021. This was offset by an $889 decrease in accounts receivable on lower revenue this quarter compared to the fourth quarter of fiscal year 2021, a $979 decrease in prepaid expenses and a $99 increase in accounts payable.
+We had accounts receivable of $3,297 as of December 31, 2022, compared with $6,744 as of September 30, 2022. Terms with individual customers vary greatly. We regularly provide thirty-day terms to our customers if credit is approved. Our receivables can vary dramatically due to overall sales volume, quarterly variations in sales, timing of shipments to and receipts from large customers, payment terms, and the timing of contract payments.
+As of December 31, 2022 and September 30, 2022, our working capital was $17,450 and $20,197, respectively. The decrease in working capital was primarily due to the net loss this period, decrease in accounts receiveable and decrease in prepaid expenses.
+29
+Investing Activities
+Our net cash used in investing activities was $483 for the three months ended December 31, 2022, compared with net cash provided by investing activities of $72 for the three months ended December 31, 2021. In the three months of fiscal 2023, we increased our holdings in short and long-term marketable securities by $385, compared with an increase of $231 for the three months ending December 31, 2021.  Cash used in investing activities for the purchase of property and equipment was $98 and $159 for the three months ended December 31, 2022, and 2021, respectively. We anticipate additional expenditures for tooling and equipment during the balance of fiscal year 2023.
+Financing Activities
+In the three months ended December 31, 2022, we received $32 for financing activities, compared with $395 used in financing activities for the three months ended December 31, 2021. In the first three months of fiscal 2023 we received $32 from the exercise of stock options. In the first three months of fiscal year 2022, we received $46 from the exercise of stock options, which was offset by $441 of cash used to repurchase the Company’s stock.
+In December 2018, the Board of Directors approved a new share buyback program beginning January 1, 2019 and expiring on December 31, 2020, under which the Company was authorized to repurchase up to $5 million of its outstanding common shares. In December 2020, the Board of Directors extended the buyback program until December 31, 2022. In December 2022, the Board of Directors extended the Company’s share buyback program through December 31, 2024.
+There were no shares repurchased during the three months ended December 31, 2022. During the three months ended December 31, 2021, 116,868 shares were repurchased for $441. All repurchased shares have been retired and as of December 31, 2022, $3.0 million was available for share repurchase under this program.
+Recent Accounting Pronouncements
+New pronouncements issued for future implementation are discussed in Note 3, Recent Accounting Pronouncements, to our condensed consolidated financial statements.
+Item
+3.
+Quantitative and Qualitative Disclosures about Market Risk.
+Foreign Currency Risk
+We consider our direct exposure to foreign exchange rate fluctuations to be minimal. The transactions of our Spanish subsidiary are denominated primarily in Euros and the transactions of our Canadian subsidiary are denominated primarily in Canadian dollars, which is a natural hedge against foreign currency fluctuations. All other sales to customers and all arrangements with third-party manufacturers, with one exception, provide for pricing and payment in U.S. dollars, and, therefore, are not subject to exchange rate fluctuations. Increases in the value of the U.S. dollar relative to other currencies could make our products more expensive, which could negatively impact our ability to compete. Conversely, decreases in the value of the U.S. dollar relative to other currencies could result in our suppliers raising their prices to continue doing business with us. Fluctuations in currency exchange rates could affect our business in the future.
+Item
+4.
+Controls and Procedures.
+We are required to maintain disclosure controls and procedures designed to ensure that material information related to us, including our consolidated subsidiaries, is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms.
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures
+Under the supervision and with the participation of our management, including our principal executive officer and our principal financial officer, we conducted an evaluation of our disclosure controls and procedures as such term is defined under Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934. Based on this evaluation, our principal executive officer and our principal financial officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of December 31, 2022.
+Changes in Internal Control over Financial Reporting
+There have been no changes in our internal control over financial reporting during our fiscal quarter ended December 31, 2022, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Our process for evaluating controls and procedures is continuous and encompasses constant improvement of the design and effectiveness of established controls and procedures and the remediation of any deficiencies, which may be identified during this process.
+30
+Because of the inherent limitations of internal control over financial reporting, including the possibility of collusion or improper management override of controls, material misstatements due to error or fraud may not be prevented or detected on a timely basis. Also, projections of any evaluation of the effectiveness of the internal control over financial reporting to future periods are subject to the risk that the controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+PART II. OTHER INFORMATION
+Item 1.
+Legal Proceedings.
+We may at times be involved in litigation in the ordinary course of business. We will also, from time to time, when appropriate in management’s estimation, record adequate reserves in our consolidated financial statements for pending litigation. Currently, there are no pending material legal proceedings to which the Company is a party or to which any of its property is subject.
+Item
+1A.
+Risk Factors.
+There have been no material changes to the risk factors described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended September 30, 2022, filed with the SEC on December 16, 2022.
+Item
+2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+None.
+Item
+3.
+Defaults Upon Senior Securities.
+None.
+Item
+4.
+Mine Safety Disclosures.
+Not Applicable.
+Item
+5.
+Other Information.
+None.
+Item
+6.
+Exhibits.
+31.1
+Certification of Richard S. Danforth, Principal Executive Officer, pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities and Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.*
+31.2
+Certification of Dennis D. Klahn, Principal Financial Officer, pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities and Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.*
+32.1
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, executed by Richard S. Danforth, Principal Executive Officer and Dennis D. Klahn, Principal Financial Officer.*
+101.INS
+Inline XBRL Instance Document*
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document*
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document*
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document*
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document*
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document*
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL and contained in Exhibit 101)
+*
+Filed concurrently herewith.
+31
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+GENASYS INC.
+Date: February 9, 2023
+By:
+/s/    Dennis D. Klahn
+Dennis D. Klahn,   Chief   Financial   Officer
+(Principal Financial Officer)
+32

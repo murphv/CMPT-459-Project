@@ -1,0 +1,2673 @@
+2022
+77
+53
+54
+0.25
+0.25
+0.25
+6
+10
+0.25
+0.025
+0.025
+0.25
+0.25
+8
+3
+7
+0
+0000088948 2022-04-01 2022-12-31
+0000088948 us-gaap:CommonClassAMember 2022-04-01 2022-12-31
+0000088948 us-gaap:CommonClassBMember 2022-04-01 2022-12-31
+xbrli:shares
+0000088948 us-gaap:CommonClassAMember 2023-01-27
+0000088948 us-gaap:CommonClassBMember 2023-01-27
+thunderdome:item
+iso4217:USD
+0000088948 2022-12-31
+0000088948 2022-01-01
+0000088948 2022-03-31
+iso4217:USD xbrli:shares
+0000088948 2022-10-02 2022-12-31
+0000088948 2021-10-03 2022-01-01
+0000088948 2021-04-01 2022-01-01
+0000088948 2021-03-31
+0000088948 us-gaap:PreferredStockMember 2022-03-31
+0000088948 us-gaap:CommonStockMember 2022-03-31
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-03-31
+0000088948 us-gaap:TreasuryStockMember 2022-03-31
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-03-31
+0000088948 us-gaap:RetainedEarningsMember 2022-03-31
+0000088948 us-gaap:PreferredStockMember 2022-04-01 2022-07-02
+0000088948 us-gaap:CommonStockMember 2022-04-01 2022-07-02
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-04-01 2022-07-02
+0000088948 us-gaap:TreasuryStockMember 2022-04-01 2022-07-02
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-04-01 2022-07-02
+0000088948 us-gaap:RetainedEarningsMember 2022-04-01 2022-07-02
+0000088948 us-gaap:PreferredStockMember 2022-07-02
+0000088948 us-gaap:CommonStockMember 2022-07-02
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-07-02
+0000088948 us-gaap:TreasuryStockMember 2022-07-02
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-02
+0000088948 us-gaap:RetainedEarningsMember 2022-07-02
+0000088948 us-gaap:PreferredStockMember 2022-07-03 2022-10-01
+0000088948 us-gaap:CommonStockMember 2022-07-03 2022-10-01
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-07-03 2022-10-01
+0000088948 us-gaap:TreasuryStockMember 2022-07-03 2022-10-01
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-03 2022-10-01
+0000088948 us-gaap:RetainedEarningsMember 2022-07-03 2022-10-01
+0000088948 us-gaap:PreferredStockMember 2022-10-01
+0000088948 us-gaap:CommonStockMember 2022-10-01
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-10-01
+0000088948 us-gaap:TreasuryStockMember 2022-10-01
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01
+0000088948 us-gaap:RetainedEarningsMember 2022-10-01
+0000088948 us-gaap:PreferredStockMember 2022-10-02 2022-12-31
+0000088948 us-gaap:CommonStockMember 2022-10-02 2022-12-31
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-10-02 2022-12-31
+0000088948 us-gaap:TreasuryStockMember 2022-10-02 2022-12-31
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-02 2022-12-31
+0000088948 us-gaap:RetainedEarningsMember 2022-10-02 2022-12-31
+0000088948 us-gaap:PreferredStockMember 2022-12-31
+0000088948 us-gaap:CommonStockMember 2022-12-31
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000088948 us-gaap:TreasuryStockMember 2022-12-31
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0000088948 us-gaap:RetainedEarningsMember 2022-12-31
+0000088948 us-gaap:PreferredStockMember 2021-03-31
+0000088948 us-gaap:CommonStockMember 2021-03-31
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2021-03-31
+0000088948 us-gaap:TreasuryStockMember 2021-03-31
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-03-31
+0000088948 us-gaap:RetainedEarningsMember 2021-03-31
+0000088948 us-gaap:PreferredStockMember 2021-04-01 2021-07-03
+0000088948 us-gaap:CommonStockMember 2021-04-01 2021-07-03
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2021-04-01 2021-07-03
+0000088948 us-gaap:TreasuryStockMember 2021-04-01 2021-07-03
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-04-01 2021-07-03
+0000088948 us-gaap:RetainedEarningsMember 2021-04-01 2021-07-03
+0000088948 us-gaap:PreferredStockMember 2021-07-03
+0000088948 us-gaap:CommonStockMember 2021-07-03
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2021-07-03
+0000088948 us-gaap:TreasuryStockMember 2021-07-03
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-07-03
+0000088948 us-gaap:RetainedEarningsMember 2021-07-03
+0000088948 us-gaap:PreferredStockMember 2021-04-01 2021-10-02
+0000088948 us-gaap:CommonStockMember 2021-04-01 2021-10-02
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2021-04-01 2021-10-02
+0000088948 us-gaap:TreasuryStockMember 2021-04-01 2021-10-02
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-04-01 2021-10-02
+0000088948 us-gaap:RetainedEarningsMember 2021-04-01 2021-10-02
+0000088948 us-gaap:PreferredStockMember 2021-10-02
+0000088948 us-gaap:CommonStockMember 2021-10-02
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2021-10-02
+0000088948 us-gaap:TreasuryStockMember 2021-10-02
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-02
+0000088948 us-gaap:RetainedEarningsMember 2021-10-02
+0000088948 us-gaap:PreferredStockMember 2021-10-03 2022-01-01
+0000088948 us-gaap:CommonStockMember 2021-10-03 2022-01-01
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2021-10-03 2022-01-01
+0000088948 us-gaap:TreasuryStockMember 2021-10-03 2022-01-01
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-03 2022-01-01
+0000088948 us-gaap:RetainedEarningsMember 2021-10-03 2022-01-01
+0000088948 us-gaap:PreferredStockMember 2022-01-01
+0000088948 us-gaap:CommonStockMember 2022-01-01
+0000088948 us-gaap:AdditionalPaidInCapitalMember 2022-01-01
+0000088948 us-gaap:TreasuryStockMember 2022-01-01
+0000088948 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-01-01
+0000088948 us-gaap:RetainedEarningsMember 2022-01-01
+xbrli:pure
+0000088948 us-gaap:CumulativePreferredStockMember 2022-04-01 2022-12-31
+0000088948 senea:CumulativeConvertiblePreferredStockMember 2022-04-01 2022-12-31
+0000088948 us-gaap:CumulativePreferredStockMember 2022-12-31
+0000088948 senea:CumulativeConvertiblePreferredStockMember 2022-12-31
+0000088948 senea:ParticipatingConvertiblePreferredStockMember 2022-12-31
+0000088948 us-gaap:CommonClassAMember 2022-12-31
+0000088948 us-gaap:CommonClassBMember 2022-12-31
+0000088948 senea:SenecaFoodPlantsMember 2022-12-31
+0000088948 senea:CannedVegetablesMember 2022-10-02 2022-12-31
+0000088948 senea:CannedVegetablesMember 2021-10-03 2022-01-01
+0000088948 senea:CannedVegetablesMember 2022-04-01 2022-12-31
+0000088948 senea:CannedVegetablesMember 2021-04-01 2022-01-01
+0000088948 senea:FrozenMember 2022-10-02 2022-12-31
+0000088948 senea:FrozenMember 2021-10-03 2022-01-01
+0000088948 senea:FrozenMember 2022-04-01 2022-12-31
+0000088948 senea:FrozenMember 2021-04-01 2022-01-01
+0000088948 senea:FruitMember 2022-10-02 2022-12-31
+0000088948 senea:FruitMember 2021-10-03 2022-01-01
+0000088948 senea:FruitMember 2022-04-01 2022-12-31
+0000088948 senea:FruitMember 2021-04-01 2022-01-01
+0000088948 senea:SnackMember 2022-10-02 2022-12-31
+0000088948 senea:SnackMember 2021-10-03 2022-01-01
+0000088948 senea:SnackMember 2022-04-01 2022-12-31
+0000088948 senea:SnackMember 2021-04-01 2022-01-01
+0000088948 us-gaap:ManufacturedProductOtherMember 2022-10-02 2022-12-31
+0000088948 us-gaap:ManufacturedProductOtherMember 2021-10-03 2022-01-01
+0000088948 us-gaap:ManufacturedProductOtherMember 2022-04-01 2022-12-31
+0000088948 us-gaap:ManufacturedProductOtherMember 2021-04-01 2022-01-01
+0000088948 us-gaap:LandAndLandImprovementsMember 2022-12-31
+0000088948 us-gaap:LandAndLandImprovementsMember 2022-01-01
+0000088948 us-gaap:LandAndLandImprovementsMember 2022-03-31
+0000088948 us-gaap:BuildingAndBuildingImprovementsMember 2022-12-31
+0000088948 us-gaap:BuildingAndBuildingImprovementsMember 2022-01-01
+0000088948 us-gaap:BuildingAndBuildingImprovementsMember 2022-03-31
+0000088948 us-gaap:MachineryAndEquipmentMember 2022-12-31
+0000088948 us-gaap:MachineryAndEquipmentMember 2022-01-01
+0000088948 us-gaap:MachineryAndEquipmentMember 2022-03-31
+0000088948 senea:OfficeFurnitureVehiclesAndComputerSoftwareMember 2022-12-31
+0000088948 senea:OfficeFurnitureVehiclesAndComputerSoftwareMember 2022-01-01
+0000088948 senea:OfficeFurnitureVehiclesAndComputerSoftwareMember 2022-03-31
+0000088948 us-gaap:ConstructionInProgressMember 2022-12-31
+0000088948 us-gaap:ConstructionInProgressMember 2022-01-01
+0000088948 us-gaap:ConstructionInProgressMember 2022-03-31
+0000088948 us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember 2022-12-31
+0000088948 us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember 2022-01-01
+0000088948 us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember 2022-03-31
+0000088948 us-gaap:LineOfCreditMember 2022-12-31
+0000088948 us-gaap:LineOfCreditMember 2022-01-01
+0000088948 us-gaap:LineOfCreditMember 2022-03-31
+0000088948 senea:TermLoanMember 2022-12-31
+0000088948 senea:TermLoanMember 2022-01-01
+0000088948 senea:TermLoanMember 2022-03-31
+0000088948 senea:OtherMember 2022-12-31
+0000088948 senea:OtherMember 2022-01-01
+0000088948 senea:OtherMember 2022-03-31
+0000088948 us-gaap:RevolvingCreditFacilityMember 2021-03-24
+0000088948 us-gaap:RevolvingCreditFacilityMember 2021-07-31
+0000088948 us-gaap:RevolvingCreditFacilityMember 2022-03-31
+utr:M
+0000088948 senea:TermLoanPayableToFarmCreditEastACAMember 2020-05-28
+0000088948 senea:TermLoanPayableToFarmCreditEastACAMember 2021-04-01 2022-01-01
+0000088948 senea:TermLoanPayableToFarmCreditEastACAMember 2022-12-31
+utr:Y
+0000088948 us-gaap:CommonClassAMember 2021-04-01 2022-01-01
+0000088948 us-gaap:ConvertiblePreferredStockMember 2022-04-01 2022-12-31
+0000088948 us-gaap:EmployeeSeveranceMember 2022-03-31
+0000088948 us-gaap:OtherRestructuringMember 2022-03-31
+0000088948 us-gaap:EmployeeSeveranceMember 2022-04-01 2022-07-02
+0000088948 us-gaap:OtherRestructuringMember 2022-04-01 2022-07-02
+0000088948 2022-04-01 2022-07-02
+0000088948 us-gaap:EmployeeSeveranceMember 2022-07-03 2022-10-01
+0000088948 us-gaap:OtherRestructuringMember 2022-07-03 2022-10-01
+0000088948 2022-07-03 2022-10-01
+0000088948 us-gaap:EmployeeSeveranceMember 2022-10-02 2022-12-31
+0000088948 us-gaap:OtherRestructuringMember 2022-10-02 2022-12-31
+0000088948 us-gaap:EmployeeSeveranceMember 2022-04-01 2022-12-31
+0000088948 us-gaap:OtherRestructuringMember 2022-04-01 2022-12-31
+0000088948 us-gaap:EmployeeSeveranceMember 2022-12-31
+0000088948 us-gaap:OtherRestructuringMember 2022-12-31
+0000088948 us-gaap:EmployeeSeveranceMember 2021-03-31
+0000088948 us-gaap:OtherRestructuringMember 2021-03-31
+0000088948 us-gaap:EmployeeSeveranceMember 2021-04-01 2021-07-03
+0000088948 us-gaap:OtherRestructuringMember 2021-04-01 2021-07-03
+0000088948 2021-04-01 2021-07-03
+0000088948 us-gaap:EmployeeSeveranceMember 2021-07-04 2021-10-02
+0000088948 us-gaap:OtherRestructuringMember 2021-07-04 2021-10-02
+0000088948 2021-07-04 2021-10-02
+0000088948 us-gaap:EmployeeSeveranceMember 2021-10-03 2022-01-01
+0000088948 us-gaap:OtherRestructuringMember 2021-10-03 2022-01-01
+0000088948 us-gaap:EmployeeSeveranceMember 2021-04-01 2022-01-01
+0000088948 us-gaap:OtherRestructuringMember 2021-04-01 2022-01-01
+0000088948 us-gaap:EmployeeSeveranceMember 2022-01-01
+0000088948 us-gaap:OtherRestructuringMember 2022-01-01
+0000088948 senea:TermLoanPayableToFarmCreditEastACAMember us-gaap:SubsequentEventMember 2023-01-20
+0000088948 senea:TermLoanPayableToFarmCreditEastAcaA2Member us-gaap:SubsequentEventMember 2023-01-20
+0000088948 us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember 2022-04-01 2022-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form
+10-Q
+(Mark one)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _____ to _____
+Commission File Number
+0-01989
+Seneca Foods Corporation
+(Exact name of Registrant as specified in its charter)
+New York
+16-0733425
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+350 WillowBrook Office Park
+Fairport ,
+New York 14450
+(Address of principal executive offices) (Zip code)
+( 585 )
+495-4100
+(Registrant’s telephone number, including area code)
+N/A
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class Trading Symbol
+Name of Exchange on
+Which Registered
+Common Stock Class A, $.25 Par SENEA NASDAQ
+Global Select Market
+Common Stock Class B, $.25 Par SENEB NASDAQ
+Global Select Market
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☑ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐ Accelerated filer
+☒ Non-accelerated filer ☐ Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No ☒
+The number of shares outstanding of each of the registrant’s classes of common stock at the latest practical date are:
+Class
+Shares Outstanding at January 27, 2023
+Common Stock Class A, $.25 Par
+5,889,247
+Common Stock Class B, $.25 Par
+1,707,241
+Table of Contents
+Seneca Foods Corporation
+Quarterly Report on Form 10-Q
+Table of Contents
+PART I.  FINANCIAL INFORMATION
+Item 1. Financial Statements
+Condensed Consolidated Balance Sheets (Unaudited)
+1
+Condensed Consolidated Statements of Net Earnings (Unaudited)
+2
+Condensed Consolidated Statements of Comprehensive Income (Unaudited)
+2
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+3
+Condensed Consolidated Statements of Stockholders' Equity (Unaudited)
+4
+Notes to Condensed Consolidated Financial Statements
+5
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+13
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+20
+Item 4.
+Controls and Procedures
+21
+PART II. OTHER INFORMATION
+Item 1.
+Legal Proceedings
+22
+Item 1A.
+Risk Factors
+22
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+22
+Item 3.
+Defaults Upon Senior Securities
+22
+Item 4.
+Mine Safety Disclosures
+22
+Item 5.
+Other Information
+22
+Item 6.
+Exhibits
+23
+SIGNATURES
+24
+Table of Contents
+SENECA FOODS CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands, except per share data)
+Unaudited
+Unaudited
+December 31,
+2022
+January 1,
+2022
+March 31,
+2022
+Assets
+Current assets:
+Cash and cash equivalents
+$ 12,516     $ 11,011     $ 10,904
+Accounts receivable, net of allowance for credit losses of $ 77 , $ 53 , and $ 54 , respectively
+94,947       80,361       119,169
+Assets held for sale
+1,615       8,930       5,979
+Inventories
+780,457       481,978       410,331
+Refundable income taxes
+-       14,088       3,866
+Other current assets
+4,283       8,809       5,193
+Total current assets
+893,818       605,177       555,442
+Property, plant and equipment, net
+297,676       258,204       268,043
+Right-of-use assets operating, net
+26,012       38,442       34,008
+Right-of-use assets financing, net
+33,882       35,968       34,867
+Pension assets
+51,786       62,690       52,866
+Other assets
+1,670       1,878       1,804
+Total assets
+$ 1,304,844     $ 1,002,359     $ 947,030
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable
+$ 156,065     $ 111,323     $ 87,602
+Deferred revenue
+14,412       12,199       7,655
+Accrued vacation
+11,682       11,951       11,611
+Accrued payroll
+12,469       9,885       16,998
+Other accrued expenses
+26,921       27,472       23,269
+Income taxes payable
+4,007       -       -
+Current portion of long-term debt and lease obligations
+21,344       27,111       26,020
+Total current liabilities
+246,900       199,941       173,155
+Long-term debt, less current portion
+399,948       123,808       109,624
+Operating lease obligations, less current portion
+17,219       24,533       22,533
+Financing lease obligations, less current portion
+17,382       21,587       19,942
+Deferred income tax liability, net
+34,362       32,361       32,944
+Other long-term liabilities
+3,954       5,575       4,995
+Total liabilities
+719,765       407,805       363,193
+Commitments and contingencies
+Stockholders' equity:
+Preferred stock
+607       644       644
+Common stock, $ .25
+par value per share
+3,043       3,041       3,041
+Additional paid-in capital
+98,862       98,608       98,641
+Treasury stock, at cost
+( 170,088 )     ( 118,977 )     ( 128,879 )
+Accumulated other comprehensive loss
+( 26,468 )     ( 19,067 )     ( 26,468 )
+Retained earnings
+679,123       630,305       636,858
+Total stockholders' equity
+585,079       594,554       583,837
+Total liabilities and stockholders’ equity
+$ 1,304,844     $ 1,002,359     $ 947,030
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+1
+Table of Contents
+SENECA FOODS CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF NET EARNINGS
+(In thousands, except per share data)
+(Unaudited)
+Three Months Ended
+Nine Months Ended
+December 31,
+2022
+January 1,
+2022
+December 31,
+2022
+January 1,
+2022
+Net sales
+$
+473,254
+$
+445,593
+$
+1,178,289
+$
+1,052,891
+Costs and expenses:
+Cost of product sold
+419,465
+400,608
+1,059,878
+931,555
+Selling, general and administrative
+21,914
+21,032
+60,636
+57,442
+Plant restructuring charge (credit)
+1,829
+( 110
+)
+1,937
+3
+Other operating expense (income), net
+229
+399
+( 2,411
+)
+681
+Total costs and expenses
+443,437
+421,929
+1,120,040
+989,681
+Operating income
+29,817
+23,664
+58,249
+63,210
+Other income and expenses:
+Loss from equity investment
+-
+-
+-
+7,775
+Other non-operating income
+( 2,017
+)
+( 2,218
+)
+( 5,070
+)
+( 6,969
+)
+Interest expense, net
+4,277
+1,505
+8,037
+4,183
+Earnings before income taxes
+27,557
+24,377
+55,282
+58,221
+Income taxes
+6,503
+5,713
+12,994
+13,767
+Net earnings
+$
+21,054
+$
+18,664
+$
+42,288
+$
+44,454
+Earnings per share:
+Basic
+$
+2.77
+$
+2.16
+$
+5.36
+$
+5.02
+Diluted
+$
+2.74
+$
+2.14
+$
+5.31
+$
+4.98
+Weighted average common shares outstanding:
+Basic
+7,582
+8,603
+7,858
+8,813
+Diluted
+7,655
+8,674
+7,931
+8,884
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+SENECA FOODS CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In thousands)
+(Unaudited)
+Three Months Ended
+Nine Months Ended
+December 31,
+2022
+January 1,
+2022
+December 31,
+2022
+January 1,
+2022
+Comprehensive income:
+Net earnings
+$
+21,054
+$
+18,664
+$
+42,288
+$
+44,454
+Total
+$
+21,054
+$
+18,664
+$
+42,288
+$
+44,454
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+2
+Table of Contents
+SENECA FOODS CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+(Unaudited)
+Nine Months Ended
+December 31,
+2022
+January 1,
+2022
+Cash flows from operating activities:
+Net earnings
+$
+42,288
+$
+44,454
+Adjustments to reconcile net earnings to net cash from operating activities:
+Depreciation & amortization
+30,344
+27,048
+Gain on the sale of assets
+( 2,191
+)
+( 1,635
+)
+Provision for restructuring
+1,937
+3
+Loss from equity investment
+-
+7,775
+Deferred income taxes
+1,418
+4,055
+Changes in operating assets and liabilities:
+Accounts receivable
+24,722
+11,893
+Inventories
+( 370,126
+)
+( 138,834
+)
+Other current assets
+910
+( 4,786
+)
+Income taxes
+7,873
+( 5,703
+)
+Accounts payable, accrued expenses and other
+73,345
+44,645
+Net cash used by operating activities
+( 189,480
+)
+( 11,085
+)
+Cash flows from investing activities:
+Additions to property, plant and equipment
+( 56,509
+)
+( 36,437
+)
+Proceeds from the sale of assets
+5,013
+4,773
+Net cash used by investing activities
+( 51,496
+)
+( 31,664
+)
+Cash flows from financing activities:
+Long-term borrowing
+783,346
+278,106
+Payments on long-term debt
+( 493,022
+)
+( 248,383
+)
+Other assets
+-
+( 2,206
+)
+Payments on financing leases
+( 6,515
+)
+( 5,803
+)
+Purchase of treasury stock
+( 41,209
+)
+( 27,779
+)
+Dividends
+( 12
+)
+( 12
+)
+Net cash provided (used) by financing activities
+242,588
+( 6,077
+)
+Net increase (decrease) in cash and cash equivalents
+1,612
+( 48,826
+)
+Cash and cash equivalents, beginning of the period
+10,904
+59,837
+Cash and cash equivalents, end of the period
+$
+12,516
+$
+11,011
+Supplemental disclosures of cash flow information:
+Noncash transactions:
+Right-of-use assets obtained in exchange for lease obligations
+$
+8,237
+$
+20,259
+Right-of-use assets derecognized upon early lease termination
+$
+2,874
+$
+1,546
+Property, plant and equipment purchased on account
+$
+970
+$
+2,229
+Sale of property, plant and equipment in exchange for note receivable
+$
+750
+$
+-
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+3
+Table of Contents
+SENECA FOODS CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS ’
+EQUITY
+(Unaudited)
+Accumulated
+Additional
+Other
+Preferred
+Common
+Paid-In
+Treasury
+Comprehensive
+Retained
+Stock
+Stock
+Capital
+Stock
+Loss
+Earnings
+First Quarter FY 2023:
+Balances, March 31, 2022
+$
+644
+$
+3,041
+$
+98,641
+$
+( 128,879
+)
+$
+( 26,468
+)
+$
+636,858
+Net earnings
+-
+-
+-
+-
+-
+5,103
+Cash dividends declared on preferred stock
+-
+-
+-
+-
+-
+( 12
+)
+Issue stock for bonus program
+-
+1
+76
+-
+-
+-
+Equity incentive program
+-
+-
+33
+-
+-
+-
+Purchase treasury stock
+-
+-
+-
+( 15,923
+)
+-
+-
+Balances, July 2, 2022
+$
+644
+$
+3,042
+$
+98,750
+$
+( 144,802
+)
+$
+( 26,468
+)
+$
+641,949
+Second Quarter FY 2023:
+Net earnings
+-
+-
+-
+-
+-
+16,131
+Equity incentive program
+-
+-
+37
+-
+-
+-
+Preferred stock conversion
+( 32
+)
+1
+31
+-
+-
+-
+Purchase treasury stock
+-
+-
+-
+( 21,069
+)
+-
+-
+Balances, October 1, 2022
+$
+612
+$
+3,043
+$
+98,818
+$
+( 165,871
+)
+$
+( 26,468
+)
+$
+658,080
+Third Quarter FY 2023:
+Net earnings
+-
+-
+-
+-
+-
+21,054
+Cash dividends declared on preferred stock
+-
+-
+-
+-
+-
+( 11
+)
+Equity incentive program
+-
+-
+39
+-
+-
+-
+Preferred stock conversion
+( 5
+)
+-
+5
+-
+-
+-
+Purchase treasury stock
+-
+-
+-
+( 4,217
+)
+-
+-
+Balances, December 31, 2022
+$
+607
+$
+3,043
+$
+98,862
+$
+( 170,088
+)
+$
+( 26,468
+)
+$
+679,123
+First Quarter FY 2022:
+Balances, March 31, 2021
+$
+663
+$
+3,041
+$
+98,502
+$
+( 91,198
+)
+$
+( 19,067
+)
+$
+585,874
+Net earnings
+-
+-
+-
+-
+-
+14,136
+Cash dividends declared on preferred stock
+-
+-
+-
+-
+-
+( 12
+)
+Equity incentive program
+-
+-
+25
+-
+-
+-
+Purchase treasury stock
+-
+-
+-
+( 4,552
+)
+-
+-
+Balances, July 3, 2021
+$
+663
+$
+3,041
+$
+98,527
+$
+( 95,750
+)
+$
+( 19,067
+)
+$
+599,998
+Second Quarter FY 2022:
+Net earnings
+-
+-
+-
+-
+-
+11,654
+Equity incentive program
+-
+-
+30
+-
+-
+-
+Preferred stock conversion
+( 1
+)
+-
+1
+-
+-
+-
+Purchase treasury stock
+-
+-
+-
+( 12,757
+)
+-
+-
+Balances, October 2, 2021
+$
+662
+$
+3,041
+$
+98,558
+$
+( 108,507
+)
+$
+( 19,067
+)
+$
+611,652
+Third Quarter FY 2022:
+Net earnings
+-
+-
+-
+-
+-
+18,664
+Cash dividends declared on preferred stock
+-
+-
+-
+-
+-
+( 11
+)
+Equity incentive program
+-
+-
+32
+-
+-
+-
+Preferred stock conversion
+( 18
+)
+-
+18
+-
+-
+-
+Purchase treasury stock
+-
+-
+-
+( 10,470
+)
+-
+-
+Balances, January 1, 2022
+$
+644
+$
+3,041
+$
+98,608
+$
+( 118,977
+)
+$
+( 19,067
+)
+$
+630,305
+6 % Voting
+10 % Voting
+Cumulative
+Cumulative
+Participating
+Class A
+Class B
+Callable
+Convertible
+Convertible
+Common
+Common
+Par $ 0.25
+Par $ 0.025
+Par $ 0.025
+Par $ 0.25
+Par $ 0.25
+Shares authorized and designated:
+December 31, 2022
+200,000       1,400,000       29,780       20,000,000       10,000,000
+Shares outstanding:
+December 31, 2022
+200,000       807,240       29,780       5,867,759       1,707,241
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+4
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+1.
+Basis of Preparation and Presentation
+Seneca Foods Corporation (the “Company”) is a leading provider of packaged fruits and vegetables with
+26
+facilities in
+eight
+states in support of its operations. The Company’s principal products include canned vegetables, frozen vegetables, jarred fruit, and other food products. The products are sold nationwide by major grocery outlets, including supermarkets, mass merchandisers, limited assortment stores, club stores and dollar stores. Additionally, products are sold to food service distributors, restaurant chains, industrial markets, other food packagers, export customers in
+80
+countries, and federal, state and local governments for school and other feeding programs.
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with the rules and regulations of the Securities and Exchange Commission (“SEC”) applicable to interim financial statements. While these statements reflect all adjustments (consisting of items of a normal recurring nature) that are, in the opinion of management, necessary for a fair presentation of the results of the interim period, they do
+not
+include all of the information and footnotes required by United States generally accepted accounting principles (“U.S. GAAP”) for complete financial statement presentation. The condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation. The condensed consolidated financial statements should be read in conjunction with the financial statement disclosures in the Company’s Annual Report on Form
+10 -K for the fiscal year ended
+March 31, 2022.
+Due to the seasonal nature of the business, quarterly operating results and cash flows are
+not
+necessarily indicative of the results that
+may
+be expected for other interim periods or the full year. All references to years are fiscal years ended or ending
+March 31
+unless otherwise indicated. Certain percentage tables
+may
+not
+foot due to rounding. Certain previously reported amounts have been reclassified to conform to the current period classification.
+The preparation of financial statements in accordance with U.S. GAAP requires management to make certain estimates and assumptions. Such estimates and assumptions affect the reported amounts of assets and liabilities as well as disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements, and the reported amounts of revenue and expenses during the reporting period. Actual results could differ materially from those estimates.
+The Company uses the same accounting policies in preparing quarterly and annual financial statements. A summary of significant accounting policies followed by the Company are set forth in Note
+1
+to the Consolidated Financial Statements in the Company’s Annual Report on Form
+10 -K for the fiscal year ended
+March 31, 2022.
+New Accounting Pronouncements and Policies
+Effective
+April 1, 2022,
+the Company adopted ASU
+2016 - 13,
+Financial Instruments - Credit Losses (Topic
+326 ): Measurement of Credit Losses on Financial Instruments , which was subsequently amended in
+November 2018
+through ASU
+No.
+2018 - 19,
+Codification Improvements to Topic
+326,
+Financial Instruments
+–
+Credit Losses
+(“ASU
+2016 - 13” ). The amended guidance requires entities to estimate lifetime expected credit losses for trade and other receivables, including those that are current with respect to payment terms, along with other financial instruments which
+may
+result in earlier recognition of credit losses. The Company evaluated its existing methodology for estimating an allowance for doubtful accounts and the risk profile of its receivables portfolio and developed a model that includes the qualitative and forecasting aspects of the “expected loss” model under the amended guidance. In determining the Company’s reserve for credit losses, receivables are assigned an expected loss based on historical information adjusted for forward-looking economic factors. The adoption of ASU
+2016 - 13
+did
+not
+have a material impact to the Company’s condensed consolidated financial statements.
+In
+March 2020,
+the FASB issued ASU
+2020 - 04,
+Reference Rate Reform (Topic
+848 ): Facilitation of the Effects of Reference Rate Reform on Financial Reporting
+(“ASU
+2020 - 04” ). ASU
+2020 - 04
+provides an optional expedient and exceptions for applying U.S. GAAP to contracts, hedging relationships, and other transactions affected by reference rate reform if certain criteria are met. The optional guidance can be applied from
+March 12, 2020
+through
+December 31, 2022.
+ASU
+2020 - 04
+eases the potential accounting burden associated with the expected discontinuance of the London Interbank Offered Rate (LIBOR) and other interbank offered rates, which are being replaced by alternative reference rates such as the Secured Overnight Financing Rate (SOFR). The interest rates associated with the Company’s previous borrowings under its senior revolving credit facility (as defined in Note
+7,
+“Long-term Debt”) were tied to LIBOR. Subsequent to the amendment of the senior revolving credit facility agreement on
+September 14, 2022,
+the Company’s borrowings are tied to SOFR plus a spread adjustment (see Note
+7,
+“Long-term Debt”). The adoption of ASU
+2020 - 04
+as a result of this amendment did
+not
+have a material impact on the Company’s unaudited condensed consolidated financial statements.
+5
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+2.
+Revenue Recognition
+Revenue recognition is completed for most customers at a point in time when product control is transferred to the customer. In general, control transfers to the customer when the product is shipped or delivered to the customer based upon applicable shipping terms, as the customer can direct the use and obtain substantially all of the remaining benefits from the asset at this point in time. The Company does sell certain finished goods inventory for cash on a bill and hold basis. The terms of the bill and hold agreement provide that title to the specified inventory is transferred to the customer prior to shipment and the Company has the right to payment (prior to physical delivery) which results in recorded revenue as determined under the revenue recognition standard.
+In the following table, revenue is disaggregated by product category groups (in thousands):
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Canned vegetables
+$
+392,942
+$
+373,205
+$
+976,026
+$
+860,737
+Frozen vegetables
+33,754
+32,305
+93,560
+95,739
+Fruit products
+33,371
+30,192
+75,674
+68,351
+Snack products
+3,360
+2,550
+10,035
+9,647
+Other
+9,827
+7,341
+22,994
+18,417
+Net sales
+$
+473,254
+$
+445,593
+$
+1,178,289
+$
+1,052,891
+As a result of certain contracts with customers, the Company has contract asset balances of $ 0.7
+million, $ 0.9
+million, and $ 0.9
+million as of
+December 31, 2022,
+January 1, 2022,
+and
+March 31, 2022
+respectively, which are included in other current assets on the condensed consolidated balance sheets.
+3.
+Earnings per Common Share
+Earnings per share for the
+three
+and
+nine
+months ended
+December 31, 2022
+and
+January 1, 2022
+are as follows (in thousands, except per share amounts):
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Basic
+Net earnings
+$
+21,054
+$
+18,664
+$
+42,288
+$
+44,454
+Deduct preferred stock dividends paid
+6
+6
+17
+17
+Undistributed net earnings
+21,048
+18,658
+42,271
+44,437
+Earnings attributable to participating preferred
+82
+72
+169
+171
+Earnings attributable to common shareholders
+$
+20,966
+$
+18,586
+$
+42,102
+$
+44,266
+Weighted average common shares outstanding
+7,582
+8,603
+7,858
+8,813
+Basic earnings per common share
+$
+2.77
+$
+2.16
+$
+5.36
+$
+5.02
+Diluted
+Earnings attributable to common shareholders
+$
+20,966
+$
+18,586
+$
+42,102
+$
+44,266
+Add dividends on convertible preferred stock
+5
+5
+15
+15
+Earnings attributable to common stock on a diluted basis
+$
+20,971
+$
+18,591
+$
+42,117
+$
+44,281
+Weighted average common shares outstanding-basic
+7,582
+8,603
+7,858
+8,813
+Additional shares issued related to the equity compensation plan
+6
+4
+6
+4
+Additional shares to be issued under full conversion of preferred stock
+67
+67
+67
+67
+Total shares for diluted
+7,655
+8,674
+7,931
+8,884
+Diluted earnings per common share
+$
+2.74
+$
+2.14
+$
+5.31
+$
+4.98
+6
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+4.
+Inventories
+The Company uses the last-in,
+first -out (“LIFO”) method of valuing inventory. An actual valuation of inventory under the LIFO method is made at the end of each fiscal year based on the inventory levels and costs at that time. Accordingly, interim LIFO calculations are based on management’s estimates of expected year-end inventory levels, production pack yields, sales and the expected rate of inflation or deflation for the year. The interim LIFO calculations are subject to adjustment in the final year-end LIFO inventory valuation.
+As of
+December 31, 2022,
+January 1, 2022,
+and
+March 31, 2022,
+first -in,
+first -out (“FIFO”) based inventory costs exceeded LIFO based inventory costs, resulting in a LIFO reserve of $ 243.8
+million, $ 159.3
+million, and $ 164.5
+million, respectively. In order to state inventories at LIFO, the Company recorded an increase to cost of products sold of $ 30.9
+million and $ 19.0
+million for the
+three
+months ended
+December 31, 2022
+and
+January 1, 2022,
+respectively, and an increase to cost of products sold of $ 79.3
+million and $ 30.7
+million for the
+nine
+months ended
+December 31, 2022
+and
+January 1, 2022,
+respectively.
+The following table shows inventory by category and the related LIFO reserve (in thousands):
+As of:
+December 31,
+January 1,
+March 31,
+2022
+2022
+2022
+Finished products
+$
+738,331
+$
+515,225
+385,681
+In process
+67,380
+26,468
+23,652
+Raw materials and supplies
+218,572
+99,611
+165,491
+1,024,283
+641,304
+574,824
+Less excess of FIFO cost over LIFO cost
+243,826
+159,326
+164,493
+Inventories
+$
+780,457
+$
+481,978
+$
+410,331
+5.
+Property, Plant and Equipment
+Property, plant and equipment is comprised of the following (in thousands):
+As of:
+December 31,
+January 1,
+March 31,
+2022
+2022
+2022
+Land and land improvements
+$
+46,832
+$
+42,889
+$
+42,981
+Buildings and improvements
+210,991
+197,080
+202,444
+Machinery and equipment
+423,901
+390,344
+403,192
+Office furniture, vehicles and computer software
+11,397
+10,018
+10,003
+Construction in progress
+46,395
+33,378
+29,976
+Property, plant and equipment, cost
+739,516
+673,709
+688,596
+Less: accumulated depreciation
+( 441,840
+)
+( 415,505
+)
+( 420,553
+)
+Property, plant and equipment, net
+$
+297,676
+$
+258,204
+$
+268,043
+Depreciation expense totaled $ 8.7
+million and $ 7.9
+million for the
+three
+months ended
+December 31, 2022
+and
+January 1, 2022,
+respectively. For the
+nine
+months ended
+December 31, 2022
+and
+January 1, 2022,
+depreciation expense totaled $ 25.1
+million and $ 22.5
+million, respectively.
+7
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+6.
+Assets Held For Sale
+The Company classifies its assets as held for sale at the time management commits to a plan to sell the asset, the asset is actively marketed and available for immediate sale, and the sale is expected to be completed within
+one
+year. Due to market conditions, certain assets
+may
+be classified as held for sale for more than
+one
+year as the Company continues to actively market the assets. The Company has non-operating facilities and equipment that meet the criteria to be classified as held for sale and are recorded at the lower of carrying value or fair value less costs to sell. The following table presents information related to the major classes of assets that were classified as held for sale in the condensed consolidated balance sheets (in thousands):
+As of:
+December 31,
+January 1,
+March 31,
+2022
+2022
+2022
+Property, plant and equipment, net
+$
+1,615
+$
+8,930
+$
+5,979
+Current assets held for sale
+$
+1,615
+$
+8,930
+$
+5,979
+7.
+Long-Term Debt
+Long-term debt is comprised of the following (in thousands):
+As of
+December 31,
+January 1,
+March 31,
+2022
+2022
+2022
+Revolving credit facility
+$
+313,808
+$
+33,700
+$
+20,508
+Term loan
+89,924
+93,892
+92,900
+Other
+216
+216
+216
+Total long-term debt
+403,948
+127,808
+113,624
+Less current portion
+4,000
+4,000
+4,000
+Long-term debt, less current portion
+$
+399,948
+$
+123,808
+$
+109,624
+Revolving Credit Facility
+On
+March 24, 2021,
+the Company entered into a Fourth Amended and Restated Loan and Security Agreement that provides for a senior revolving credit facility of up to $ 400.0
+million that is seasonally adjusted (the “Revolver”). Maximum borrowings under the Revolver total $ 300.0
+million from
+April
+through
+July
+and $ 400.0
+million from
+August
+through
+March.
+The Revolver balance is included in Long-Term Debt in the accompanying condensed consolidated balance sheet due to the Revolver’s
+March 24, 2026
+maturity. In order to maintain availability of funds under the facility, the Company pays a commitment fee on the unused portion of the Revolver. The Revolver is secured by substantially all of the Company’s accounts receivable and inventories and contains borrowing base requirements as well as a financial covenant, if certain circumstances apply. The Company utilizes its Revolver for general corporate purposes, including seasonal working capital needs, to pay debt principal and interest obligations, and to fund capital expenditures and acquisitions. Seasonal working capital needs are affected by the growing cycles of the vegetables the Company packages. The majority of vegetable inventories are produced during the months of
+June
+through
+November
+and are then sold over the following year. Payment terms for vegetable produce are generally
+three
+months but can vary from a few days to
+seven
+months. Accordingly, the Company’s need to draw on the Revolver
+may
+fluctuate significantly throughout the year.
+On
+September 14, 2022,
+the Company entered into a First Amendment to the Fourth Amended and Restated Loan and Security Agreement (the “Amendment”) which amended several provisions to replace LIBOR with SOFR plus a spread adjustment as the interest rate benchmark on the Revolver. The transition to SOFR did
+not
+materially impact the interest rates applied to the Company’s borrowings.
+No
+other material changes were made to the terms of the Company’s Revolver as a result of the Amendment.
+8
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+The following table illustrates certain quantitative data for Revolver borrowings during fiscal year
+2023
+and fiscal year
+2022
+(in thousands):
+As of:
+December 31,
+January 1,
+March 31,
+2022
+2022
+2022
+Outstanding borrowings
+$
+313,808
+$
+33,700
+$
+20,508
+Weighted average interest rate
+5.85
+%
+1.35
+%
+1.71
+%
+Three Months Ended:
+Nine Months Ended:
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Maximum amount of borrowings
+$
+327,881
+$
+54,264
+$
+327,881
+$
+54,264
+Average outstanding borrowings
+$
+269,833
+$
+37,112
+$
+140,996
+$
+16,250
+Weighted average interest rate
+5.11
+%
+1.34
+%
+4.50
+%
+1.34
+%
+Term Loan
+On
+May 28, 2020
+the Company entered into an Amended and Restated Loan and Guaranty Agreement that provides for a $ 100.0
+million unsecured term loan (the “Term Loan”), maturing on
+June 1, 2025.
+The amended and restated agreement converted the Term Loan to a fixed interest rate of
+3.3012 % until maturity rather than a variable interest rate in addition to requiring quarterly principal payments of $ 1.0
+million, which commenced during fiscal year
+2021.
+The Company incurred financing costs totaling $ 0.2
+million, which have been classified as a discount to the debt. This agreement contains certain covenants, including maintaining a minimum EBITDA and minimum tangible net worth.
+Subsequent to
+December 31, 2022,
+the Company amended the Term Loan and entered into a Second Amended and Restated Loan Agreement. Refer to Note
+15
+“Subsequent Events” for additional information.
+8.
+Leases
+The Company determines whether an arrangement is a lease at inception of the agreement. Presently, the Company leases land, machinery and equipment under various operating and financing leases.
+Right-of-Use, or ROU, assets represent the Company’s right to use the underlying assets for the lease term, and lease obligations represent the net present value of the Company’s obligation to make payments arising from these leases. ROU assets and lease obligations are recognized at commencement date based on the present value of lease payments over the lease term using the implicit lease interest rate or, when unknown, an incremental borrowing rate based on the information available at commencement date or
+April 1, 2019
+for leases that commenced prior to that date.
+Lease terms
+may
+include options to extend or terminate the lease, and the impact of these options are included in the calculation of the ROU asset and lease obligation only when the exercise of the option is at the Company’s sole discretion and it is reasonably certain that the Company will exercise that option. The Company will
+not
+separate lease and non-lease components for its leases when it is impractical to separate the two. In addition, the Company
+may
+have certain leases that have variable payments based solely on output or usage of the leased asset. These variable operating lease assets are excluded from the Company’s balance sheet presentation and expensed as incurred. Leases with an initial term of
+12
+months or less, or short-term leases, are
+not
+recorded on the accompanying condensed consolidated balance sheets.
+9
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ROU assets and lease obligations for the Company’s operating and financing leases are disclosed separately in the Company’s condensed consolidated balance sheets. The components of lease cost were as follows (in thousands):
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Lease cost:
+Amortization of right of use asset
+$
+1,703
+$
+1,557
+$
+4,960
+$
+4,398
+Interest on lease liabilities
+239
+263
+720
+799
+Finance lease cost
+1,942
+1,820
+5,680
+5,197
+Operating lease cost
+2,926
+4,739
+10,810
+14,699
+Total lease cost
+$
+4,868
+$
+6,559
+$
+16,490
+$
+19,896
+Cash paid for amounts included in the measurement of lease liabilities
+Operating cash flows from finance leases
+$
+720
+$
+799
+Operating cash flows from operating leases
+12,343
+15,917
+Financing cash flows from finance leases
+6,515
+5,803
+$
+19,578
+$
+22,519
+Right-of-use assets obtained in exchange for new finance lease liabilities
+$
+4,053
+$
+9,754
+Right-of-use assets obtained in exchange for new operating lease liabilities
+$
+4,184
+$
+10,505
+Weighted-average lease term (years):
+Financing leases
+4.6
+4.6
+Operating leases
+4.6
+4.2
+Weighted-average discount rate (percentage):
+Financing leases
+3.6
+3.4
+Operating leases
+4.4
+4.2
+Undiscounted future lease payments under non-cancelable operating and financing leases, along with a reconciliation of undiscounted cash flows to operating and financing lease obligations, respectively, as of
+December 31, 2022
+were as follows (in thousands):
+Years ending March 31:
+Operating
+Financing
+Balance of 2023
+$
+1,432
+$
+2,467
+2024
+9,217
+8,393
+2025
+6,025
+5,061
+2026
+3,533
+3,975
+2027
+3,021
+2,917
+2028-2033
+5,521
+5,278
+Total minimum payment required
+$
+28,749
+$
+28,091
+Less interest
+2,631
+2,264
+Present value of minimum lease payments
+26,118
+25,827
+Amount due within one year
+8,899
+8,445
+Long-term lease obligations
+$
+17,219
+$
+17,382
+9.
+Income Taxes
+The Company’s effective tax rate was
+23.5 % and
+23.6 % for the
+nine
+months ended
+December 31, 2022
+and
+January 1, 2022,
+respectively. The effective tax rate decreased in the current
+nine -month interim period primarily due to the impact of federal credits, which reduced the effective rate by
+0.5 %. The overall effective rate decrease was partially offset by a
+0.1 % increase in each of the following as compared to the prior year
+nine -month interim period: state income taxes (net of federal benefits), permanent differences, interest and penalties, and other miscellaneous items.
+10
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+10.
+Retirement Plans
+The net periodic benefit cost for the Company’s pension plan consisted of (in thousands):
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Service cost including administration
+$
+1,310
+$
+2,377
+$
+6,180
+$
+7,131
+Interest cost
+2,193
+1,930
+6,941
+5,791
+Expected return on plan assets
+( 4,027
+)
+( 4,276
+)
+( 12,079
+)
+( 12,829
+)
+Amortization of prior service cost
+22
+23
+68
+68
+Amortization of net loss
+( 205
+)
+-
+-
+-
+Net periodic benefit cost
+$
+( 707
+)
+$
+54
+$
+1,110
+$
+161
+There were
+no
+pension contributions made during the
+nine
+months ended
+December 31, 2022
+and
+January 1, 2022.
+11.
+Stockholders ’  Equity
+During the
+nine
+month period ended
+December 31, 2022,
+the Company repurchased
+766,071
+shares of its Class A Common Stock at a cost of $ 41.2
+million, which are included in Treasury Stock. During the
+nine
+month period ended
+January 1, 2022,
+the Company repurchased
+557,311
+shares of its Class A Common Stock at a cost of $ 27.8
+million. The Company did
+not
+repurchase any of its Class B Common Stock in either
+nine
+month interim period. As of
+December 31, 2022,
+there are
+4,605,419
+shares or $ 170.1
+million of repurchased stock being held as Treasury Stock. These shares are
+not
+considered outstanding.
+12.
+Fair Value of Financial Instruments
+On a quarterly basis, the Company estimates the fair values for financial instruments that are recorded at carrying value on the consolidated condensed balance sheets. The estimated fair value for long-term debt (classified as Level
+2
+in the fair value hierarchy) is determined by the quoted market prices for similar debt (comparable to the Company’s financial strength) or current rates offered to the Company for debt with the same maturities. The fair value and carrying value of the Company’s long-term debt are as follows (in thousands):
+As of:
+December 31,
+January 1,
+March 31,
+2022
+2022
+2022
+Carrying value
+$
+403,948
+$
+127,808
+$
+113,624
+Estimated fair value
+$
+396,408
+$
+127,371
+$
+108,608
+13.
+Other Operating Income and Expense
+The Company had net other operating expense of $ 0.2
+million during the
+three
+months ended
+December 31, 2022,
+which was driven primarily by a write down of idle production equipment to estimated selling price, less commission, as the assets met the criteria to be classified as held for sale at
+December 31, 2022.
+The write down was partially offset by a gain on the sale of an aircraft. During the
+three
+months ended
+January 1, 2022,
+the Company had net other operating expense of $ 0.4
+million, driven mostly by various miscellaneous expenses related to properties that were classified as held for sale during the prior year interim period.
+During the
+nine
+months ended
+December 31, 2022,
+the Company had net other operating income of $ 2.4
+million, which was driven primarily by a gain on the sale of the Company’s western trucking fleet amongst other fixed assets and a true-up of the supplemental early retirement plan accrual, partially offset by the aforementioned write down of production equipment. During the
+nine
+months ended
+January 1, 2022,
+the Company had net other operating expense of $ 0.7
+million, driven mostly by a charge for a supplemental early retirement plan offset by a gain on the sale of an aircraft.
+11
+Table of Contents
+SENECA FOODS CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+14.
+Restructuring
+The following table summarizes the rollforward of restructuring charges recorded and the accruals established (in thousands):
+Restructuring Payable
+Severance
+Other Costs
+Total
+Balance March 31, 2022
+$
+-
+$
+-
+$
+-
+First quarter charge
+-
+56
+56
+Second quarter charge
+-
+52
+52
+Third quarter charge
+389
+1,440
+1,829
+Cash payments/write offs
+-
+( 1,548
+)
+( 1,548
+)
+Balance December 31, 2022
+$
+389
+$
+-
+$
+389
+Severance
+Other Costs
+Total
+Balance March 31, 2021
+$
+-
+$
+-
+$
+-
+First quarter charge
+-
+66
+66
+Second quarter charge
+-
+47
+47
+Third quarter charge
+-
+( 110
+)
+( 110
+)
+Cash payments/write offs
+-
+( 3
+)
+( 3
+)
+Balance January 1, 2022
+$
+-
+$
+-
+$
+-
+During the
+three
+months ended
+December 31, 2022,
+the Company ceased production of green beans at
+one
+of it’s New York facilities. As a result, the Company incurred severance costs and also a write down of production equipment that will be sold in the next
+twelve
+months.
+15.
+Subsequent Event
+On
+January 20, 2023,
+the Company entered into a Second Amended and Restated Loan and Guaranty Agreement with Farm Credit East, ACA (the “Amended Agreement”). The Amended Agreement governs
+two
+term loans, summarized below:
+Term Loan A- 1:
+The Amended Agreement continues certain aspects of the $ 100
+million term loan described in Note
+7
+“Long-Term Debt”, namely Term Loan A- 1
+will continue to bear interest at a fixed interest rate of
+3.3012 %, mature on
+June 1, 2025,
+and remain unsecured.
+Term Loan A- 2:
+The Amended Agreement adds an additional term loan in the amount of $ 175
+million that will mature on
+January 20, 2028
+and is secured by a portion of the Company’s property, plant and equipment. Term Loan A- 2
+bears interest at a variable interest rate based upon SOFR plus an additional margin determined by the Company’s leverage ratio.
+The Amended Agreement contains restrictive covenants usual and customary for loans of its type, in addition to financial covenants including minimum EBITDA and minimum tangible net worth which apply to both terms loans described above.
+12
+Table of Contents
+ITEM
+2
+MANAGEMENTS DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OPERATIONS
+Seneca Foods Corporation is a leading provider of packaged fruits and vegetables, with facilities located throughout the United States. Our product offerings include canned, frozen and jarred produce and snack chips that are sold under private label as well as national and regional brands that the Company owns or licenses, including Seneca®, Libby’s®, Aunt Nellie’s®, Cherryman®, Green Valley® and READ®. Canned fruits and vegetables are sold nationwide by major grocery outlets, including supermarkets, mass merchandisers, limited assortment stores, club stores and dollar stores. We also sell products to foodservice distributors, restaurant chains, industrial markets, other food processors, export customers in over 80 countries and federal, state and local governments for school and other food programs. Additionally, the Company packs canned and frozen vegetables under contract packing agreements.
+Business Trends
+We purchase raw materials, including raw produce, steel, ingredients and packaging materials from growers, commodity processors, steel producers and packaging suppliers. Raw materials and other input costs, such as labor, fuel, utilities and transportation, are subject to fluctuations in price attributable to a number of factors. Fluctuations in commodity prices can lead to retail price volatility and can influence consumer and trade buying patterns. The cost of raw materials, fuel, labor, distribution and other costs related to our operations can increase from time to time significantly and unexpectedly.
+We continue to experience material cost inflation for many of our raw materials and other input costs attributable to a number of factors, including but not limited to, the COVID-19 pandemic, the war in Ukraine, supply chain disruptions (including raw material shortages) and labor shortages. While we have no direct exposure to Russia and Ukraine, we have experienced increased costs for transportation, energy and raw materials due in part to the negative impact of the Russia-Ukraine conflict on the global economy. We attempt to manage cost inflation risks by locking in prices through short-term supply contracts, advance grower purchase agreements, and by implementing cost saving measures. We also attempt to offset rising input costs by raising sales prices to our customers. However, increases in the prices we charge our customers may lag behind rising input costs. Competitive pressures also may limit our ability to quickly raise prices in response to rising costs. To the extent we are unable to avoid or offset any present or future cost increases our operating results could be materially adversely affected.
+Results of Operations
+Net Sales:
+The following table presents net sales by product category (in thousands):
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Canned vegetables
+$
+392,942
+$
+373,205
+$
+976,026
+$
+860,737
+Frozen vegetables
+33,754
+32,305
+93,560
+95,739
+Fruit products
+33,371
+30,192
+75,674
+68,351
+Snack products
+3,360
+2,550
+10,035
+9,647
+Other
+9,827
+7,341
+22,994
+18,417
+Net sales
+$
+473,254
+$
+445,593
+$
+1,178,289
+$
+1,052,891
+Three Months Ended December 31, 2022 and January 1, 2022
+Net sales totaled $473.3 million for the three months ended December 31, 2022 as compared with $445.6 million for the three months ended January 1, 2022. The overall net sales increase of $27.7 million, or 6.2%, was predominantly due to higher selling prices contributing favorability of $73.7 million offset by lower sales volumes having an unfavorable impact of $46.0 million to net sales, as compared to the prior year three-month interim period.
+Net sales of canned vegetables, frozen vegetables and fruit products increased over the prior year quarter due to higher pricing necessitated by the material cost increases that the Company is experiencing. Volume in each of these product categories is down vs. the prior year quarter partially offsetting a portion of the favorability in net sales generated by increased pricing. Volume in the snack category was up slightly over the prior year quarter and combined with increased pricing contributed to the net sales increase of $0.8 million.
+13
+Table of Contents
+ITEM 2 MANAGEMENTS DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OPERATIONS
+Nine Months Ended December 31, 2022 and January 1, 2022
+Net sales amounted to $1,178.3 million for the nine months ended December 31, 2022 as compared with $1,052.9 million for the nine months ended January 1, 2022. The overall net sales increase of $125.4 million, or 11.9%, was due to higher selling prices contributing favorability of $160.7 million offset by lower sales volumes having an unfavorable impact of $35.3 million to net sales, as compared to the prior year nine-month interim period.
+Net sales increased for canned vegetables, frozen vegetables, fruit products, and snack products over the prior year interim period due to higher pricing necessitated by the material cost increases that the Company is experiencing. Volume in each of these product categories is down vs. the prior year quarter partially offsetting a portion of the favorability in net sales generated by increased pricing.
+Operating and Non-Operating Income :
+The following table presents components of operating and non-operating income as a percentage of net sales:
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Gross margin
+11.4
+%
+10.1
+%
+10.0
+%
+11.5
+%
+Selling, general, and administrative expense
+4.6
+%
+4.7
+%
+5.1
+%
+5.5
+%
+Other operating expense (income), net
+0.0
+%
+0.1
+%
+(0.2%
+)
+0.1
+%
+Restructuring
+0.4
+%
+0.0
+%
+0.2
+%
+0.0
+%
+Loss from equity investment
+0.0
+%
+0.0
+%
+0.0
+%
+0.7
+%
+Other non-operating income
+0.4
+%
+0.5
+%
+0.4
+%
+0.7
+%
+Interest expense, net
+0.9
+%
+0.3
+%
+0.7
+%
+0.4
+%
+Three Months Ended December 31, 2022 and January 1, 2022
+Gross margin : Gross margin for the three months ended December 31, 2022 was 11.4% as compared with 10.1% for the three months ended January 1, 2022. The increase in gross margin for the three months ended December 31, 2022 was due primarily to an increase in net sales and favorable sales mix in fiscal year 2023, partially offset by a higher LIFO charge. The Company’s LIFO charge for the three months ended December 31, 2022 was $30.9 million as compared to a charge of $19.0 million for the three months ended January 1, 2022. The increase in the LIFO reserve over the three months ended December 31, 2022 reflects the projected impact of expected cost increases throughout fiscal year 2023.
+Selling, General, and Administrative : Selling, general, and administrative costs as a percentage of net sales for the three months ended December 31, 2022 were 4.6% as compared with 4.7% for the prior year quarter. The decrease in selling, general, and administrative costs as a percentage of net sales was due to the increase in net sales and the fixed nature of certain expenses.
+Other Operating Expense (Income), net : The Company had net other operating expense of $0.2 million during the three months ended December 31, 2022, which was driven primarily by a write down of idle production equipment to estimated selling price, less commission, as the assets met the criteria to be classified as held for sale at December 31, 2022. The write down was partially offset by a gain on the sale of an aircraft. During the three months ended January 1, 2022, the Company had net other operating expense of $0.4 million, driven mostly by various miscellaneous expenses related to properties that were classified as held for sale during the prior year interim period.
+Restructuring :
+During the three months ended December 31, 2022, the Company ceased production of green beans at one of its New York facilities. As a result, the Company incurred severance costs and a write down of production equipment that will be sold in the next twelve months.
+Other Non-Operating Income : Other non-operating income totaled $2.0 million and $2.2 million for the three months ended December 31, 2022 and January 1, 2022, respectively, and is comprised of the non-service related pension amounts that are actuarially determined.
+Interest Expense : Interest expense as a percentage of net sales was 0.9% for the three months ended December 31, 2022 as compared to 0.3% for the three months ended January 1, 2022. Interest expense increased from $1.5 million in the prior year quarter to $4.3 million for the current quarter as a result of higher interest rates and increased average borrowing levels.
+14
+Table of Contents
+ITEM 2 MANAGEMENTS DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OPERATIONS
+Nine Months Ended December 31, 2022 and January 1, 2022
+Gross margin : Gross margin for the nine months ended December 31, 2022 was 10.0% as compared with 11.5% for the nine months ended January 1, 2022. The decrease in gross margin for the nine months ended December 31, 2022 was due primarily to a larger LIFO charge in fiscal year 2023. The Company’s LIFO charge for the nine months ended December 31, 2022 was $79.3 million as compared to a charge of $30.7 million for the nine months ended January 1, 2022. The increase in the LIFO reserve over the nine months ended December 31, 2022 reflects the projected impact of expected cost increases throughout fiscal year 2023.
+Selling, General, and Administrative : Selling, general, and administrative costs as a percentage of net sales for the nine months ended December 31, 2022 were 5.1% as compared with 5.5% for the comparable prior year nine-month interim period. The decrease in selling, general, and administrative costs as a percentage of net sales was due to the increase in net sales and the fixed nature of certain expenses.
+Other Operating Expense (Income), net : During the nine months ended December 31, 2022, the Company had net other operating income of $2.4 million, which was driven primarily by a gain on the sale of the Company’s western trucking fleet amongst other fixed assets and a true-up of the supplemental early retirement plan accrual, partially offset by the aforementioned write down of production equipment. During the nine months ended January 1, 2022, the Company had net other operating expense of $0.7 million, driven mostly by a charge for a supplemental early retirement plan offset by a gain on the sale of an aircraft.
+Loss from Equity Investment :
+The Company’s equity investment was written down to $0 in fiscal year 2022 due to an other-than-temporary impairment charge as the investment was determined to not be recoverable. The impairment resulted in a $7.8 million charge during the nine months ended January 1, 2022.
+Other Non-Operating Income : Other non-operating income totaled $5.1 million and $7.0 million for the nine months ended December 31, 2022 and January 1, 2022, respectively, and is comprised of the non-service related pension amounts that are actuarially determined.
+Interest Expense : Interest expense as a percentage of net sales was 0.7% for the nine months ended December 31, 2022 as compared to 0.4% for the nine months ended January 1, 2022. Interest expense increased from $4.2 million in the prior year nine-month interim period to $8.0 million for the nine months ended December 31, 2022 as a result of higher interest rates and increased average borrowing levels. through the first nine months of fiscal year 2023.
+Income Taxes :
+The Company’s effective tax rate was 23.5% and 23.6% for the nine months ended December 31, 2022 and January 1, 2022, respectively. The effective tax rate decreased in the current nine-month interim period primarily due to the impact of federal credits, which reduced the effective rate by 0.5%. The overall effective rate decrease was partially offset by a 0.1% increase in each of the following as compared to the prior year nine-month interim period: state income taxes (net of federal benefits), permanent differences, interest and penalties, and other miscellaneous items.
+Earnings per Share :
+A summary of the Company’s earnings per common share is as follows:
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Basic earnings per common share
+$
+2.77
+$
+2.16
+$
+5.36
+$
+5.02
+Diluted earnings per common share:
+$
+2.74
+$
+2.14
+$
+5.31
+$
+4.98
+For details of the calculation of these amounts, refer to Note 3 “Earnings per Common Share.”
+15
+Table of Contents
+ITEM 2 MANAGEMENTS DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OPERATIONS
+Liquidity and Capital Resources
+The financial condition of the Company is summarized in the following table and explanatory review (dollar amounts in thousands, except per share data):
+December 31,
+January 1,
+March 31,
+March 31,
+2022
+2022
+2022
+2021
+Working capital:
+Balance
+$
+646,918
+$
+405,236
+$
+382,287
+$
+358,169
+Change in quarter
+$
+87,494
+$
+(5,875
+)
+Current portion of long-term debt
+$
+4,000
+$
+4,000
+$
+4,000
+$
+4,500
+Long-term debt, less current portion
+$
+399,948
+$
+123,808
+$
+109,624
+$
+94,085
+Operating lease obligations, less current portion
+$
+17,219
+$
+24,533
+$
+22,533
+$
+27,769
+Financing lease obligations, less current portion
+$
+17,382
+$
+21,587
+$
+19,942
+$
+19,232
+Total stockholders' equity per equivalent common share (1)
+$
+76.26
+$
+69.04
+$
+69.23
+$
+63.05
+Stockholders' equity per common share
+$
+77.16
+$
+69.78
+$
+69.98
+$
+63.68
+Current ratio
+3.62
+3.03
+3.21
+3.27
+Note (1): Equivalent common shares are either common shares or, for convertible preferred shares, the number of common shares that the preferred shares are convertible into. See Note 11 of the Notes to Consolidated Financial Statements of the Company’s 2022 Annual Report on Form 10-K for conversion details.
+As shown in the condensed consolidated statements of cash flows, net cash used by operating activities was $189.5 million for the nine months ended December 31, 2022, compared to $11.1 million used by operating activities for the same period of the prior year, a change of $178.4 million. The increase in cash used by operating activities is primarily comprised of an increase in cash used for working capital purposes. Inventories increased by $231.3 million, driven by the increased size of the current year harvest in addition to material cost inflation to various production inputs. The increase in inventory was partially offset by a decrease in accounts payable, accrued expenses, and other of $28.7 million, income taxes of $13.6 million and accounts receivable of $12.8 million.
+Cash used by investing activities was $51.5 million for the nine months ended December 31, 2022 as compared to $31.7 million for the nine months ended January 1, 2022, an increase of $19.8 million. Additions to property, plant and equipment increased $20.1 million during the first nine months of fiscal 2023 compared to the same period of fiscal 2022, representing the majority of the increase.
+Cash provided by financing activities was $242.6 million for the nine months ended December 31, 2022, an increase of $248.7 million compared to cash used by financing activities for the nine months ended January 1, 2022 of $6.1 million. Entering fiscal year 2022, the Company had cash and cash equivalents of $59.8 million on hand to use for seasonal pack needs prior to borrowing on the Revolver as compared to cash and cash equivalents of $10.9 million entering fiscal year 2023. Additionally, cost inflation in fiscal year 2023 is higher than the prior year driving seasonal borrowings for the pack higher as compared to the prior year. During the nine months ended December 31, 2022, the Company borrowed $783.3 million and paid down $493.0 million, providing net cash of $290.3 million, which was a change of $260.6 million compared to the comparable prior year period. Other than borrowings under the Revolver, there was no new long-term debt during the first nine months of fiscal year 2023. Additionally, during the first nine months of fiscal year 2023, the Company repurchased $41.2 million of its common stock, the majority of which was done through a stock repurchase program that was authorized in the first quarter of fiscal year 2022. By comparison, the Company repurchased $27.8 million during the nine months ended January 1, 2022, an increase in cash used by financing activities of $13.4 million over the comparable prior year period.
+On March 24, 2021, the Company entered into a Fourth Amended and Restated Loan and Security Agreement that provides for a senior revolving credit facility of up to $400.0 million that is seasonally adjusted (the “Revolver”). Maximum borrowings under the Revolver total $300.0 million from April through July and $400.0 million from August through March. The Revolver balance is included in Long-Term Debt in the accompanying condensed consolidated balance sheet due to the Revolver’s March 24, 2026 maturity. In order to maintain availability of funds under the facility, the Company pays a commitment fee on the unused portion of the Revolver. The Revolver is secured by substantially all of the Company’s accounts receivable and inventories and contains borrowing base requirements as well as a financial covenant, if certain circumstances apply. The Company utilizes its Revolver for general corporate purposes, including seasonal working capital needs, to pay debt principal and interest obligations, and to fund capital expenditures and acquisitions. Seasonal working capital needs are affected by the growing cycles of the vegetables the Company packages. The majority of vegetable inventories are produced during the months of June through November and are then sold over the following year. Payment terms for vegetable produce are generally three months but can vary from a few days to seven months. Accordingly, the Company’s need to draw on the Revolver may fluctuate significantly throughout the year.
+16
+Table of Contents
+ITEM 2 MANAGEMENTS DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OPERATIONS
+On September 14, 2022, the Company entered into a First Amendment to the Fourth Amended and Restated Loan and Security Agreement (the “Amendment”) which amended several provisions to replace LIBOR with SOFR plus a spread adjustment as the interest rate benchmark on the Revolver. The transition to SOFR did not materially impact the interest rates applied to the Company’s borrowings. No other material changes were made to the terms of the Company’s Revolver as a result of the Amendment.
+The Company’s credit facilities contain standard representations and warranties, events of default, and certain affirmative and negative covenants, including various financial covenants. At December 31, 2022, the Company was in compliance with all such covenants.
+Subsequent to December 31, 2022, the Company amended the Term Loan and entered into a Second Amended and Restated Loan Agreement. Refer to Note 15 “Subsequent Events” for additional information.
+Impact of Seasonality on Financial Position and Results of Operations:
+While individual vegetables have seasonal cycles of peak production and sales, the different cycles are somewhat offsetting. Minimal food packaging occurs in the Company's last fiscal quarter ending March 31, which is the optimal time for maintenance, repairs and equipment changes in its packaging plants. The supply of commodities, current pricing, and expected new crop quantity and quality affect the timing and amount of the Company’s sales and earnings. When the seasonal harvesting periods of the Company's major vegetables are newly completed, inventories for these packaged vegetables are at their highest levels. For peas, the peak inventory time is mid-summer and for corn and green beans, the Company's highest volume vegetables, the peak inventory is in mid-autumn. The seasonal nature of the Company’s production cycle results in inventory and accounts payable reaching their lowest point late in the fourth quarter/early in the first quarter prior to the new seasonal pack commencing. As the seasonal pack progresses, these components of working capital both increase until the pack is complete. Given the material cost increases incurred to date in fiscal year 2023, both inventory and accounts payable are higher than prior year levels as of December 31, 2022.
+The Company’s fruit and vegetable sales exhibit seasonal increases in the third and fourth fiscal quarters due to increased retail demand during the holiday seasons. In addition, the Company sells canned and frozen vegetables to a co-pack customer on a bill and hold basis at the end of each pack cycle, which typically occurs during the second and third quarters. The seasonal nature of the Company’s sales, particularly holiday driven retail sales, result in the accounts receivable balance reaching its highest point at the end of the third and fourth fiscal quarters, while typically being the lowest at the end of the first quarter. One of the ways we attempt to offset material cost increases incurred is to increase selling prices, which resulted in a higher accounts receivable balance as compared to the prior year as of December 31, 2022.
+Non-GAAP Financial Measures:
+Certain disclosures in this report include non-GAAP financial measures. A non-GAAP financial measure is defined as a numerical measure of our financial performance that excludes or includes amounts so as to be different from the most directly comparable measure calculated and presented in accordance with GAAP in our condensed consolidated balance sheets and related condensed consolidated statements of net earnings, comprehensive income, stockholders’ equity and cash flows.
+Adjusted net earnings is calculated on a FIFO basis and excludes the impact of the Company’s loss on equity investment. The Company believes this non-GAAP financial measure provides for a better comparison of year over year operating performance. The Company does not intend for this information to be considered in isolation or as a substitute for other measures prepared in accordance with GAAP. Set forth below is a reconciliation of reported net earnings to adjusted net earnings (in thousands):
+Three Months Ended
+Nine Months Ended
+December 31,
+January 1,
+December 31,
+January 1,
+2022
+2022
+2022
+2022
+Earnings before income taxes, as reported
+$
+27,557
+$
+24,377
+$
+55,282
+$
+58,221
+LIFO charge
+30,898
+19,015
+79,333
+30,654
+Loss on equity investment
+-
+-
+-
+7,775
+Adjusted earnings before income taxes
+58,455
+43,392
+134,615
+96,650
+Income taxes at effective tax rates
+13,737
+10,241
+31,635
+22,809
+Adjusted net earnings
+$
+44,718
+$
+33,151
+$
+102,980
+$
+73,841
+17
+Table of Contents
+ITEM 2 MANAGEMENTS DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OPERATIONS
+New Accounting Standards
+Refer to Note 1 “Basis of Preparation and Presentation.”
+Critical Accounting Policies and Estimates
+Revenue Recognition and Trade Promotion Expenses : Revenue recognition is completed for most customers at a point in time basis when product control is transferred to the customer. In general, control transfers to the customer when the product is shipped or delivered to the customer based upon applicable shipping terms, as the customer can direct the use and obtain substantially all of the remaining benefits from the asset at this point in time. The Company sells certain finished goods inventory for cash on a bill and hold basis. The terms of the bill and hold agreement provide that title to the specified inventory is transferred to the customer prior to shipment and the Company has the right to payment (prior to physical delivery) which results in recorded revenue as determined under the revenue recognition standard.
+Trade promotions are an important component of the sales and marketing of the Company’s branded products and are critical to the support of the business. Trade promotion costs, which are recorded as a reduction of net sales, include amounts paid to encourage retailers to offer temporary price reductions for the sale of the Company’s products to consumers, amounts paid to obtain favorable display positions in retail stores, and amounts paid to retailers for shelf space in retail stores. Accruals for trade promotions are recorded primarily at the time of sale of product to the retailer based on expected levels of performance. Settlement of these liabilities typically occurs in subsequent periods primarily through an authorized process for deductions taken by a retailer from amounts otherwise due to the Company. As a result, the ultimate cost of a trade promotion program is dependent on the relative success of the events and the actions and level of deductions taken by retailers for amounts they consider due to them. Final determination of the permissible deductions may take extended periods of time.
+Inventories : The Company uses the lower of cost, determined under the LIFO method, or market, to value substantially all of its inventories. In the high inflation environment that the Company is experiencing, the Company believes that the LIFO method was preferable over the FIFO method because it better matches the cost of current production to current revenue. An actual valuation of inventory under the LIFO method is made at the end of each fiscal year based on the inventory levels and costs at that time. In contrast, interim LIFO calculations are based on management’s estimates of expected year-end inventory levels, production pack yields, sales and the expected rate of inflation or deflation for the year. The interim LIFO calculations are subject to adjustment in the final year-end LIFO inventory valuation.
+Long-Lived Assets : The Company assesses its long-lived assets for impairment whenever there is an indicator of impairment. Property, plant, and equipment are depreciated over their assigned lives. The assigned lives and the projected cash flows used to test impairment are subjective. If actual lives are shorter than anticipated or if future cash flows are less than anticipated, a future impairment charge or a loss on disposal of the assets could be incurred. Impairment losses are evaluated if the estimated undiscounted value of the cash flows is less than the carrying value. If such is the case, a loss is recognized when the carrying value of an asset exceeds its fair value.
+Income Taxes : As part of the income tax provision process of preparing the consolidated financial statements, the Company estimates income taxes. This process involves estimating current tax expenses together with assessing temporary differences resulting from differing treatment of items for tax and accounting purposes. These differences result in deferred tax assets and liabilities. The Company then assesses the likelihood that any deferred tax assets will be recovered from future taxable income and to the extent it is believed the recovery is not likely, a valuation allowance is established.
+Pension Expense : The Company has a defined benefit plan which is subject to certain actuarial assumptions. The funded status of the pension plan is dependent upon many factors, including returns on invested assets and the level of certain market interest rates, employee-related demographic factors, such as turnover, retirement age and mortality, and the rate of salary increases. Certain assumptions reflect the Company's historical experience and management’s best judgment regarding future expectations.
+18
+Table of Contents
+ITEM 2 MANAGEMENTS DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OPERATIONS
+Forward-Looking Information
+This Quarterly Report on Form 10-Q contains “forward-looking statements” as that term is used in the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by the fact that they address future events, developments, and results and do not relate strictly to historical facts. Any statements contained herein that are not statements of historical fact may be deemed to be forward-looking statements. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate, or imply future results, performance, or achievements, and may contain the words "will," "anticipate," "estimate," "expect," "project," "intend," "plan," "believe," "seeks," "should," "likely," "targets," "may", "can" and variations thereof and similar expressions. Forward-looking statements are subject to known and unknown risks, uncertainties, and other important factors that could cause actual results to differ materially from those expressed. We believe important factors that could cause actual results to differ materially from our expectations include, but are not limited to, the following:
+●
+the effects of rising costs and availability of raw fruit and vegetables, steel, ingredients, packaging, other raw materials, distribution and labor;
+●
+crude oil prices and their impact on distribution, packaging and energy costs;
+●
+an overall labor shortage, ability to retain a sufficient seasonal workforce, lack of skilled labor, labor inflation or increased turnover impacting our ability to recruit and retain employees;
+●
+climate and weather affecting growing conditions and crop yields;
+●
+our ability to successfully implement sales price increases and cost saving measures to offset cost increases;
+●
+the loss of significant customers or a substantial reduction in orders from these customers;
+●
+effectiveness of our marketing and trade promotion programs;
+●
+competition, changes in consumer preferences, demand for our products and local economic and market conditions;
+●
+the impact of a pandemic on our business, suppliers, customers, consumers and employees;
+●
+unanticipated expenses, including, without limitation, litigation or legal settlement expenses;
+●
+product liability claims;
+●
+the anticipated needs for, and the availability of, cash;
+●
+the availability of financing;
+●
+leverage and the ability to service and reduce debt;
+●
+foreign currency exchange and interest rate fluctuations;
+●
+the risks associated with the expansion of our business;
+●
+the ability to successfully integrate acquisitions into our operations;
+●
+our ability to protect information systems against, or effectively respond to, a cybersecurity incident or other disruption;
+●
+other factors that affect the food industry generally, including:
+o
+recalls if products become adulterated or misbranded, liability if product consumption causes injury, ingredient disclosure and labeling laws and regulations and the possibility that consumers could lose confidence in the safety and quality of certain food products;
+o
+competitors’ pricing practices and promotional spending levels;
+o
+fluctuations in the level of our customers’ inventories and credit and other business risks related to our customers operating in a challenging economic and competitive environment; and
+o
+the risks associated with third-party suppliers, including the risk that any failure by one or more of our third-party suppliers to comply with food safety or other laws and regulations may disrupt our supply of raw materials or certain finished goods products or injure our reputation; and
+●
+changes in, or the failure or inability to comply with, U.S., foreign and local governmental regulations, including health, environmental, and safety regulations.
+Any of these factors, as well as such other factors as discussed in our other periodic filings with the SEC, could cause our actual results to differ materially from our anticipated results. The information provided in this Form 10-Q is based upon the facts and circumstances known as of the date of this report, and any forward-looking statements made by us in this Form 10-Q speak only as of the date on which they are made. Except as required by law, we undertake no obligation to update these forward-looking statements after the date of this Form 10-Q to reflect events or circumstances after such date, or to reflect the occurrence of unanticipated events.
+19
+Table of Contents
+ITEM 3 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+In the ordinary course of business, the Company is exposed to various market risk factors, including changes in general economic conditions, competition and raw material pricing and availability. There have been no material changes to the Company’s exposure to market risk since March 31, 2022. In addition, the Company is exposed to fluctuations in interest rates, primarily related to its revolving credit facility. To manage interest rate risk, the Company uses both fixed and variable interest rate debt plus fixed interest rate lease obligations.
+20
+Table of Contents
+ITEM 4 CONTROLS AND PROCEDURES
+The Company maintains a system of internal and disclosure controls and procedures designed to ensure that information required to be disclosed in reports filed or submitted under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported on a timely basis. The Company’s Board of Directors, operating through its Audit Committee, which is composed entirely of independent outside directors, provides oversight to the financial reporting process.
+An evaluation was performed under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities and Exchange Act of 1934, as amended) as of the end of the period covered by this report. Based upon that evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that, as of December 31, 2022, our disclosure controls and procedures were effective. The Company continues to examine, refine and formalize its disclosure controls and procedures and to monitor ongoing developments in this area.
+There have been no changes during the period covered by this report to the Company's internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+21
+Table of Contents
+PART II – OTHER INFORMATION
+Item 1. Legal Proceedings
+Refer to Note 15 to the Consolidated Financial Statements included in Part II Item 8 of the Annual Report on Form 10-K for the fiscal year ended March 31, 2022.
+Item 1A. Risk Factors
+There have been no material changes to the risk factors disclosed in the Company’s Annual Report Form 10-K for the period ended March 31, 2022 except to the extent factual information disclosed elsewhere in this Form 10-Q relates to such risk factors.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Total Number of
+Average Price
+Shares Purchased
+Paid per Share
+Maximum Number
+Total Number of Shares
+(or Approximate Dollar Value) of
+Class A
+Class B
+Class A
+Class B
+Purchased as Part of Publicly
+Shares that May Yet Be Purchased
+Period
+Common
+Common
+Common
+Common
+Announced Plans or Programs
+Under the Plans or Programs
+10/01/2022 –
+10/31/2022
+64,997
+-
+$           54.31
+-
+64,997
+11/01/2022 –
+11/30/2022
+-
+-
+$                  -
+-
+12/1/2022
+12/31/2022 (1)
+11,148
+-
+$           61.57
+-
+Total
+76,145
+-
+$           55.38
+-
+64,997
+550,661
+(1) Includes 11,148 shares that were purchased in open market transactions by the trustees under the Seneca Foods Corporation Employees' Savings Plan to provide employee matching contributions under the plan.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures
+None.
+Item 5. Other Information
+None.
+22
+Table of Contents
+PART II – OTHER INFORMATION
+Item 6. Exhibits
+Exhibit
+Number
+Description
+31.1
+Certification of Paul L. Palmby pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2
+Certification of Timothy J. Benjamin pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32
+Certifications pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS
+Inline XBRL Instance Document (filed herewith).
+101.1.SCH
+Inline XBRL Taxonomy Extension Calculation Schema Document (filed herewith).
+101.2.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document (filed herewith).
+101.3.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document (filed herewith).
+101.4.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document (filed herewith).
+101.5.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document (filed herewith).
+104
+Cover page Interactive Data File (formatted as inline XBRL with applicable taxonomy extension information contained in Exhibits 101.*) (filed herewith)
+23
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+SENECA FOODS CORPORATION
+By:
+/s/ Paul L. Palmby
+Paul L. Palmby
+President and Chief Executive
+Officer
+(Principal Executive Officer)
+February 8, 2023
+By:
+/s/ Timothy J. Benjamin
+Timothy J. Benjamin
+Chief Financial Officer
+(Principal Financial Officer)
+February 8, 2023
+24

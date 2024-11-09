@@ -1,0 +1,2435 @@
+3
+7
+3
+8
+0000010329 2022-11-27 2023-02-25
+iso4217:USD
+0000010329 2022-11-26
+0000010329 2023-02-25
+0000010329 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-02-26
+0000010329 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-02-25
+0000010329 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-11-28 2022-02-26
+0000010329 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-11-27 2023-02-25
+0000010329 srt:CumulativeEffectPeriodOfAdoptionAdjustmentMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-11-27
+0000010329 srt:CumulativeEffectPeriodOfAdoptionAdjustmentMember us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-11-26
+0000010329 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-11-27
+0000010329 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-11-26
+0000010329 us-gaap:RetainedEarningsMember 2022-02-26
+0000010329 us-gaap:RetainedEarningsMember 2023-02-25
+0000010329 us-gaap:RetainedEarningsMember 2021-11-28 2022-02-26
+0000010329 us-gaap:RetainedEarningsMember 2022-11-27 2023-02-25
+0000010329 us-gaap:RetainedEarningsMember 2021-11-27
+0000010329 us-gaap:RetainedEarningsMember 2022-11-26
+0000010329 us-gaap:AdditionalPaidInCapitalMember 2022-02-26
+0000010329 us-gaap:AdditionalPaidInCapitalMember 2023-02-25
+0000010329 us-gaap:AdditionalPaidInCapitalMember 2021-11-28 2022-02-26
+0000010329 us-gaap:AdditionalPaidInCapitalMember 2022-11-27 2023-02-25
+0000010329 us-gaap:AdditionalPaidInCapitalMember 2021-11-27
+0000010329 us-gaap:AdditionalPaidInCapitalMember 2022-11-26
+xbrli:shares
+0000010329 us-gaap:CommonStockMember 2022-02-26
+0000010329 us-gaap:CommonStockMember 2023-02-25
+0000010329 us-gaap:CommonStockMember 2021-11-28 2022-02-26
+0000010329 us-gaap:CommonStockMember 2022-11-27 2023-02-25
+0000010329 us-gaap:CommonStockMember 2021-11-27
+0000010329 us-gaap:CommonStockMember 2022-11-26
+0000010329 bset:FurnitureAndAccessoriesMember 2021-11-28 2022-02-26
+0000010329 bset:FurnitureAndAccessoriesMember us-gaap:CorporateAndOtherMember 2021-11-28 2022-02-26
+0000010329 bset:FurnitureAndAccessoriesMember bset:RetailSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:FurnitureAndAccessoriesMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:FurnitureAndAccessoriesMember 2022-11-27 2023-02-25
+0000010329 bset:FurnitureAndAccessoriesMember us-gaap:CorporateAndOtherMember 2022-11-27 2023-02-25
+0000010329 bset:FurnitureAndAccessoriesMember bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:FurnitureAndAccessoriesMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:AccessoriesMattressesAndOtherMember 2021-11-28 2022-02-26
+0000010329 bset:AccessoriesMattressesAndOtherMember us-gaap:CorporateAndOtherMember 2021-11-28 2022-02-26
+0000010329 bset:AccessoriesMattressesAndOtherMember bset:RetailSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:AccessoriesMattressesAndOtherMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:AccessoriesMattressesAndOtherMember 2022-11-27 2023-02-25
+0000010329 bset:AccessoriesMattressesAndOtherMember us-gaap:CorporateAndOtherMember 2022-11-27 2023-02-25
+0000010329 bset:AccessoriesMattressesAndOtherMember bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:AccessoriesMattressesAndOtherMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCasegoodsMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCasegoodsMember us-gaap:CorporateAndOtherMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCasegoodsMember bset:RetailSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCasegoodsMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCasegoodsMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCasegoodsMember us-gaap:CorporateAndOtherMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCasegoodsMember bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCasegoodsMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomWoodMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomWoodMember us-gaap:CorporateAndOtherMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomWoodMember bset:RetailSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomWoodMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomWoodMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomWoodMember us-gaap:CorporateAndOtherMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomWoodMember bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomWoodMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettLeatherMember 2021-11-28 2022-02-26
+0000010329 bset:BassettLeatherMember us-gaap:CorporateAndOtherMember 2021-11-28 2022-02-26
+0000010329 bset:BassettLeatherMember bset:RetailSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettLeatherMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettLeatherMember 2022-11-27 2023-02-25
+0000010329 bset:BassettLeatherMember us-gaap:CorporateAndOtherMember 2022-11-27 2023-02-25
+0000010329 bset:BassettLeatherMember bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettLeatherMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomUpholsteryMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomUpholsteryMember us-gaap:CorporateAndOtherMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomUpholsteryMember bset:RetailSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomUpholsteryMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:BassettCustomUpholsteryMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomUpholsteryMember us-gaap:CorporateAndOtherMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomUpholsteryMember bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:BassettCustomUpholsteryMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 us-gaap:OtherCurrentAssetsMember bset:SalesCommissionsMember 2022-11-26
+0000010329 us-gaap:OtherCurrentAssetsMember bset:SalesCommissionsMember 2023-02-25
+xbrli:pure
+0000010329 us-gaap:CorporateAndOtherMember 2022-11-26
+0000010329 us-gaap:CorporateAndOtherMember 2023-02-25
+0000010329 us-gaap:OperatingSegmentsMember bset:RetailSegmentMember 2022-11-26
+0000010329 us-gaap:OperatingSegmentsMember bset:RetailSegmentMember 2023-02-25
+0000010329 us-gaap:OperatingSegmentsMember bset:WholesaleSegmentMember 2022-11-26
+0000010329 us-gaap:OperatingSegmentsMember bset:WholesaleSegmentMember 2023-02-25
+0000010329 2021-11-28 2022-02-26
+0000010329 us-gaap:CorporateAndOtherMember 2021-11-28 2022-02-26
+0000010329 us-gaap:CorporateAndOtherMember 2022-11-27 2023-02-25
+0000010329 us-gaap:OperatingSegmentsMember bset:RetailSegmentsMember 2021-11-28 2022-02-26
+0000010329 us-gaap:OperatingSegmentsMember bset:RetailSegmentsMember 2022-11-27 2023-02-25
+0000010329 us-gaap:OperatingSegmentsMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 us-gaap:OperatingSegmentsMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 us-gaap:OperatingSegmentsMember 2021-11-28 2022-02-26
+0000010329 us-gaap:OperatingSegmentsMember 2022-11-27 2023-02-25
+0000010329 us-gaap:IntersegmentEliminationMember 2021-11-28 2022-02-26
+0000010329 us-gaap:IntersegmentEliminationMember 2022-11-27 2023-02-25
+0000010329 bset:FurnitureAndAccessoriesMember 2021-11-28 2022-02-26
+0000010329 bset:FurnitureAndAccessoriesMember 2022-11-27 2023-02-25
+0000010329 us-gaap:OperatingSegmentsMember bset:RetailSegmentMember 2021-11-28 2022-02-26
+0000010329 us-gaap:OperatingSegmentsMember bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 us-gaap:IntersegmentEliminationMember bset:WholesaleSegmentMember 2021-11-28 2022-02-26
+0000010329 us-gaap:IntersegmentEliminationMember bset:WholesaleSegmentMember 2022-11-27 2023-02-25
+0000010329 us-gaap:DiscontinuedOperationsDisposedOfBySaleMember bset:ZenithFreightLinesMember 2021-11-28 2022-02-26
+0000010329 us-gaap:DiscontinuedOperationsDisposedOfBySaleMember bset:ZenithFreightLinesMember bset:LogisticalServicesMember srt:SubsidiariesMember 2022-11-27 2023-02-25
+utr:Y
+0000010329 us-gaap:DiscontinuedOperationsDisposedOfBySaleMember bset:ZenithFreightLinesMember bset:LogisticalServicesMember srt:SubsidiariesMember 2021-11-28 2022-02-26
+0000010329 us-gaap:DiscontinuedOperationsDisposedOfBySaleMember bset:ZenithFreightLinesMember 2022-05-29 2022-11-26
+0000010329 us-gaap:DiscontinuedOperationsDisposedOfBySaleMember bset:ZenithFreightLinesMember 2022-02-28 2022-02-28
+0000010329 us-gaap:DiscontinuedOperationsDisposedOfBySaleMember bset:ZenithFreightLinesMember 2022-02-28
+0000010329 bset:UnvestedSharesMember 2021-11-28 2022-02-26
+0000010329 bset:UnvestedSharesMember 2022-11-27 2023-02-25
+iso4217:USD xbrli:shares
+0000010329 us-gaap:SegmentDiscontinuedOperationsMember 2021-11-28 2022-02-26
+0000010329 bset:LeaseObligationsOfLicenseeOperatorsMember 2022-11-26
+0000010329 bset:LeaseObligationsOfLicenseeOperatorsMember 2023-02-25
+0000010329 bset:DeferredCompensationPlansMember 2022-11-26
+0000010329 bset:DeferredCompensationPlansMember 2023-02-25
+0000010329 bset:PostEmploymentBenefitObligationsMember bset:DeferredCompensationPlansMember 2022-11-26
+0000010329 bset:PostEmploymentBenefitObligationsMember bset:DeferredCompensationPlansMember 2023-02-25
+0000010329 bset:AccruedCompensationAndBenefitsMember bset:DeferredCompensationPlansMember 2022-11-26
+0000010329 bset:AccruedCompensationAndBenefitsMember bset:DeferredCompensationPlansMember 2023-02-25
+0000010329 bset:DeferredCompensationManagementSavingsPlanMember 2022-11-26
+0000010329 bset:DeferredCompensationManagementSavingsPlanMember 2023-02-25
+0000010329 bset:UnfundedDeferredCompensationPlanMember 2022-11-26
+0000010329 bset:UnfundedDeferredCompensationPlanMember 2023-02-25
+0000010329 bset:PensionPlansDefinedBenefitAndSupplementalEmployeeRetirementPlanMember 2022-11-26
+0000010329 bset:PensionPlansDefinedBenefitAndSupplementalEmployeeRetirementPlanMember 2023-02-25
+0000010329 bset:PostEmploymentBenefitObligationsMember bset:PensionPlansDefinedBenefitAndSupplementalEmployeeRetirementPlanMember 2022-11-26
+0000010329 bset:PostEmploymentBenefitObligationsMember bset:PensionPlansDefinedBenefitAndSupplementalEmployeeRetirementPlanMember 2023-02-25
+0000010329 bset:AccruedCompensationAndBenefitsMember bset:PensionPlansDefinedBenefitAndSupplementalEmployeeRetirementPlanMember 2022-11-26
+0000010329 bset:AccruedCompensationAndBenefitsMember bset:PensionPlansDefinedBenefitAndSupplementalEmployeeRetirementPlanMember 2023-02-25
+0000010329 bset:ManagementSavingsPlanMember 2022-11-26
+0000010329 bset:ManagementSavingsPlanMember 2023-02-25
+0000010329 bset:ManagementSavingsPlanMember 2017-05-02 2017-05-02
+0000010329 us-gaap:UnfundedPlanMember us-gaap:SupplementalEmployeeRetirementPlanDefinedBenefitMember 2022-11-26
+0000010329 us-gaap:UnfundedPlanMember us-gaap:SupplementalEmployeeRetirementPlanDefinedBenefitMember 2023-02-25
+0000010329 bset:BankOneMember 2023-02-25
+0000010329 bset:BankOneMember 2022-11-27 2023-02-25
+0000010329 bset:BankOneMember 2021-11-28 2023-02-25
+0000010329 bset:BankOneMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-11-28 2023-02-25
+0000010329 bset:BankTwoMember 2023-02-25
+0000010329 bset:RetailSegmentMember 2023-02-25
+0000010329 bset:WholesaleSegmentMember 2023-02-25
+0000010329 bset:RetailSegmentMember 2022-11-27 2023-02-25
+0000010329 bset:RetailSegmentMember 2022-11-26
+0000010329 bset:WholesaleSegmentMember 2022-11-26
+0000010329 2022-02-26
+0000010329 us-gaap:CustomerRelationshipsMember 2022-02-26
+0000010329 us-gaap:CustomerRelationshipsMember 2023-02-25
+0000010329 srt:WeightedAverageMember 2022-11-27 2023-02-25
+0000010329 srt:MaximumMember 2022-11-27 2023-02-25
+0000010329 srt:MinimumMember 2022-11-27 2023-02-25
+utr:M
+0000010329 us-gaap:CertificatesOfDepositMember 2022-02-26
+0000010329 us-gaap:CertificatesOfDepositMember 2023-02-25
+0000010329 bset:NoaHomeIncMember us-gaap:TradeNamesMember 2022-09-02
+0000010329 bset:NoaHomeIncMember 2022-09-02
+0000010329 bset:NoaHomeIncMember 2022-09-02 2022-09-02
+iso4217:CAD
+0000010329 2021-11-27
+0000010329 us-gaap:SupplementalEmployeeRetirementPlanDefinedBenefitMember 2021-11-28 2022-02-26
+0000010329 us-gaap:SupplementalEmployeeRetirementPlanDefinedBenefitMember 2022-11-27 2023-02-25
+0000010329 us-gaap:PensionPlansDefinedBenefitMember 2021-11-28 2022-02-26
+0000010329 us-gaap:PensionPlansDefinedBenefitMember 2022-11-27 2023-02-25
+0000010329 2023-03-24
+thunderdome:item
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+February 25, 2023
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _____________________________ to _______________________
+Commission File No.
+000-00209
+BASSETT FURNITURE INDUSTRIES, INCORPORATED
+(Exact name of Registrant as specified in its charter)
+Virginia
+54-0135270
+(State or other jurisdiction
+(I.R.S. Employer
+of incorporation or organization)
+Identification No.)
+3525 Fairystone Park Highway
+Bassett ,
+Virginia
+24055
+(Address of principal executive offices)
+(Zip Code)
+( 276 )
+629-6000
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of exchange on which registered
+Common Stock ($5.00 par value)
+BSET
+NASDAQ
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months, and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+☐
+Accelerated Filer
+☒
+Non-accelerated Filer
+☐
+Smaller Reporting Company
+☒
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐   No ☒
+At March 24, 2023,
+8,929,711
+shares of common stock of the Registrant were outstanding.
+1 of 34
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+TABLE OF CONTENTS
+ITEM
+PAGE
+PART I - FINANCIAL INFORMATION
+1.
+Condensed Consolidated Financial Statements as of  February 25, 2023 (unaudited) and November 26, 2022 and for the three months ended February 25, 2023 (unaudited) and February 26, 2022 (unaudited)
+Condensed Consolidated Statements of Income
+3
+Condensed Consolidated Statements of Comprehensive Income
+4
+Condensed Consolidated Balance Sheets
+5
+Condensed Consolidated Statements of Cash Flows
+6
+Notes to Condensed Consolidated Financial Statements
+7
+2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+21
+3.
+Quantitative and Qualitative Disclosures About Market Risk
+31
+4.
+Controls and Procedures
+32
+PART II - OTHER INFORMATION
+1.
+Legal Proceedings
+33
+2.
+Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities
+33
+3.
+Defaults Upon Senior Securities
+33
+6.
+Exhibits
+33
+2 of 34
+PART I - FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+FOR THE PERIODS ENDED FEBRUARY 25, 2023 AND FEBRUARY 26, 2022
+–
+UNAUDITED
+(In thousands except per share data)
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Net sales of furniture and accessories
+$
+107,698
+$
+117,864
+Cost of furniture and accessories sold
+50,501
+60,471
+Gross profit
+57,197
+57,393
+Selling, general and administrative expenses
+54,495
+50,915
+Income from operations
+2,702
+6,478
+Other loss, net
+( 415
+)
+( 629
+)
+Income from continuing operations before income taxes
+2,287
+5,849
+Income tax expense
+842
+1,558
+Income from continuing operations
+1,445
+4,291
+Income from discontinued operations, net of tax
+-
+1,282
+Net income
+$
+1,445
+$
+5,573
+Basic and diluted earnings per share:
+Income from continuing operations
+$
+0.16
+$
+0.44
+Income from discontinued operations
+-
+0.13
+Basic and diluted earnings per share
+$
+0.16
+$
+0.57
+Regular dividends per share
+$
+0.16
+$
+0.14
+Special dividend per share
+$
+-
+$
+-
+The accompanying notes to condensed consolidated financial statements are an integral part of the condensed consolidated financial statements.
+3 of 34
+PART I
+–
+FINANCIAL INFORMATION
+–
+CONTINUED
+ITEM 1. FINANCIAL STATEMENTS
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+FOR THE PERIODS ENDED FEBRUARY 25, 2023 AND FEBRUARY 26, 2022
+–
+UNAUDITED
+(In thousands)
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Net income
+$
+1,445
+$
+5,573
+Other comprehensive income:
+Foreign currency translation adjustments
+( 186
+)
+-
+Income taxes related to foreign currency translation adjustments
+50
+-
+Amortization associated with
+Long Term Cash Awards (LTCA)
+32
+33
+Income taxes related to LTCA
+( 8
+)
+( 8
+)
+Amortization associated with supplemental executive retirement defined benefit plan (SERP)
+-
+32
+Income taxes related to SERP
+-
+( 8
+)
+Other comprehensive income, net of tax
+( 112
+)
+49
+Total comprehensive income
+$
+1,333
+$
+5,622
+The accompanying notes to condensed consolidated financial statements are an integral part of the condensed consolidated financial statements.
+4 of 34
+PART I
+–
+FINANCIAL INFORMATION
+–
+CONTINUED
+ITEM 1. FINANCIAL STATEMENTS
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+FEBRUARY 25, 2023 AND NOVEMBER 26, 2022
+(In thousands)
+(Unaudited)
+Assets
+February 25, 2023
+November 26, 2022
+Current assets
+Cash and cash equivalents
+$
+54,892
+$
+61,625
+Short-term investments
+17,725
+17,715
+Accounts receivable, net
+18,308
+17,838
+Inventories
+79,011
+85,477
+Recoverable income taxes
+1,707
+2,353
+Other current assets
+12,103
+11,487
+Total current assets
+183,746
+196,495
+Property and equipment, net
+78,030
+77,001
+Deferred income taxes
+5,438
+5,528
+Goodwill and other intangible assets
+21,599
+21,727
+Right of use assets under operating leases
+96,454
+99,472
+Other
+6,350
+6,050
+Total long-term assets
+129,841
+132,777
+Total assets
+$
+391,617
+$
+406,273
+Liabilities and Stockholders ’
+Equity
+Current liabilities
+Accounts payable
+$
+17,956
+$
+20,359
+Accrued compensation and benefits
+9,942
+12,921
+Customer deposits
+31,040
+35,963
+Current portion operating lease obligations
+18,947
+18,819
+Other current liabilites and accrued expenses
+12,695
+12,765
+Total current liabilities
+90,580
+100,827
+Long-term liabilities
+Post employment benefit obligations
+10,386
+9,954
+Long-term portion of operating lease obligations
+93,618
+97,477
+Other long-term liabilities
+3,173
+2,406
+Total long-term liabilities
+107,177
+109,837
+Stockholders ’
+equity
+Common stock
+44,311
+44,759
+Retained earnings
+149,611
+150,800
+Additional paid-in capital
+-
+-
+Accumulated other comprehensive income (loss)
+( 62
+)
+50
+Total stockholders' equity
+193,860
+195,609
+Total liabilities and stockholders ’
+equity
+$
+391,617
+$
+406,273
+The accompanying notes to condensed consolidated financial statements are an integral part of the condensed consolidated financial statements.
+5 of 34
+PART I
+–
+FINANCIAL INFORMATION
+–
+CONTINUED
+ITEM 1. FINANCIAL STATEMENTS
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE PERIODS ENDED FEBRUARY 25, 2023 AND FEBRUARY 26, 2022
+–
+UNAUDITED
+(In thousands)
+Three Months Ended
+February 25, 2023
+February 26, 2022
+Operating activities:
+Net income
+$
+1,445
+$
+5,573
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+Depreciation and amortization
+2,340
+3,655
+Deferred income taxes
+132
+116
+Other, net
+852
+770
+Changes in operating assets and liabilities:
+Accounts receivable
+( 470
+)
+( 4,609
+)
+Inventories
+6,466
+( 3,675
+)
+Other current assets
+30
+781
+Right of use assets under operating leases
+4,587
+6,559
+Customer deposits
+( 4,923
+)
+2,999
+Accounts payable and other liabilities
+( 4,596
+)
+( 2,194
+)
+Obligations under operating leases
+( 5,300
+)
+( 7,109
+)
+Net cash provided by operating activities
+563
+2,866
+Investing activities:
+Purchases of property and equipment
+( 3,341
+)
+( 2,424
+)
+Proceeds from sales of property and equipment
+-
+9
+Other
+( 563
+)
+( 465
+)
+Net cash used in investing activities
+( 3,904
+)
+( 2,880
+)
+Financing activities:
+Cash dividends
+( 1,421
+)
+( 1,374
+)
+Other issuance of common stock
+80
+93
+Repurchases of common stock
+( 1,844
+)
+( 765
+)
+Taxes paid related to net share settlement of equity awards
+( 109
+)
+-
+Repayments of finance lease obligations
+( 69
+)
+( 434
+)
+Net cash used in financing activities
+( 3,363
+)
+( 2,480
+)
+Effect of exchange rate changes on cash and cash equivalents
+( 29
+)
+-
+Change in cash and cash equivalents
+( 6,733
+)
+( 2,494
+)
+Cash and cash equivalents - beginning of period
+61,625
+34,374
+.
+Cash and cash equivalents - end of period
+$
+54,892
+$
+31,880
+The accompanying notes to condensed consolidated financial statements are an integral part of the condensed consolidated financial statements.
+6 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+1. Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with the instructions to Form 10-Q and do not include all of the information and footnotes required by accounting principles generally accepted in the United States (“GAAP”) for complete financial statements. In our opinion, all adjustments (consisting of normal recurring adjustments) considered necessary for a fair presentation have been included.
+References to “ASC” included hereinafter refer to the Accounting Standards Codification established by the Financial Accounting Standards Board (“FASB”) as the source of authoritative GAAP.
+The condensed consolidated financial statements include the accounts of Bassett Furniture Industries, Incorporated (“Bassett”, “we”, “our”, or the “Company”) and our wholly-owned subsidiaries of which we have a controlling interest. In accordance with ASC Topic 810, we have evaluated our licensees and certain other entities to determine whether they are variable interest entities (“VIEs”) of which we are the primary beneficiary and thus would require consolidation in our financial statements. To date we have concluded that none of our licensees represent VIEs.
+Revenue from the sale of furniture and accessories is reported in the accompanying condensed consolidated statements of income net of estimates for returns and allowances.
+On January 31, 2022, we entered into a definitive agreement to sell substantially all of the assets of our wholly-owned subsidiary, Zenith Freight Lines, LLC (“Zenith”) to J.B. Hunt Transport Services, Inc. (“J.B. Hunt”). The sale was completed on February 28, 2022. Accordingly, the operations of our logistical services segment for the three months ended February 26, 2022 are presented in the accompanying condensed consolidated statements of income as discontinued operations. See Note 12, Discontinued Operations, for additional information. Costs incurred by Bassett for logistical services performed for Bassett by Zenith were included in selling, general and administrative expenses for the three months ended February 26, 2022.
+On September 2, 2022, we acquired
+100 % of the capital stock of Noa Home Inc. (“Noa Home”), a mid-priced e-commerce furniture retailer headquartered in Montreal, Canada. Noa Home has operations in Canada, Australia, Singapore and the United Kingdom. Since acquisition, Noa Home has been consolidated as a wholly-owned subsidiary. See Note 3 for additional information.
+Certain prior year amounts have been reclassified to conform to the current year presentation (see Note 13, Segments).
+2. Interim Financial Presentation and Other Information
+All intercompany accounts and transactions have been eliminated in the condensed consolidated financial statements. The results of operations for the three months ended February 25, 2023 are not necessarily indicative of results for the full fiscal year. These interim condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the year ended November 26, 2022.
+Income Taxes
+We calculate an anticipated effective tax rate for the year based on our annual estimates of pretax income and use that effective tax rate to record our year-to-date income tax provision. Any change in annual projections of pretax income could have a significant impact on our effective tax rate for the respective quarter.
+Our effective tax rate was
+36.8 % and
+26.3 % for the three months ended February 25, 2023 and February 26, 2022, respectively. These effective rates differ from the federal statutory rate of
+21 % primarily due to increases in the valuation allowance placed on deferred tax assets associated with Noa Home, the effects of state income taxes and various permanent differences.
+Non-cash Investing and Financing Activity
+During the three months ended February 25, 2023 and February 26, 2022, $ 3,406
+and $ 4119 , respectively, of lease right-of- use assets were added through the recognition of the corresponding lease obligations.
+7 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+3. Business Combinations
+On September 2, 2022, we acquired
+100 % of the capital stock of Noa Home Inc. (“Noa Home”), a mid-priced e-commerce furniture retailer headquartered in Montreal, Canada. Noa Home has operations in Canada, Australia, Singapore and the United Kingdom. The initial purchase price (denominated in Canadian dollars) of approximately C$ 7,700
+included cash payments of C$ 2,000
+paid to the co-founders of Noa Home and approximately C$ 5,700
+for the repayment of existing debt owed by Noa Home. The Noa Home co-founders will also have the opportunity to receive additional cash payments totaling approximately C$ 1,330
+per year for the three fiscal years following the year of acquisition based on established increases in net revenues and achieving certain internal EBITDA goals.
+Under the acquisition method of accounting, the fair value of the consideration transferred was allocated to the tangible and intangible assets acquired and the liabilities assumed based on their estimated fair values as of the acquisition date with the remaining unallocated amount recorded as goodwill.
+The allocation of the fair value of the acquired business has been based on a preliminary valuation. Our estimates and assumptions are subject to change as we obtain additional information for our estimates during the measurement period (up to one year from the acquisition date). The primary areas of the preliminary allocation of the fair value of consideration transferred that are not yet finalized relate to the fair values of certain tangible and intangible assets acquired and the residual goodwill. As of February 25, 2023, there have been no changes to the preliminary allocation of the purchase price (translated into U.S. dollars as of the acquisition date) which is as follows:
+The following is a collective summary of the purchase price allocations for those acquisitions:
+Fair value of consideration transferred in exchange for 100% of Noa Home:
+Cash
+$
+5,878
+Fair value of contingent consideration payable
+1,375
+Total fair value of consideration paid or payable
+$
+7,253
+Allocation of the fair value of consideration transferred:
+Identifiable assets acquired:
+Cash
+$
+296
+Inventory
+1,585
+Other current assets
+317
+Property & equipment
+155
+Intangible asset - trade name
+1,929
+Total identifiable assets acquired
+4,282
+Liabilities assumed:
+Accounts payable
+( 1,227
+)
+Customer deposits
+( 1,059
+)
+Other current liabilities and accrued expenses
+( 458
+)
+Total liabilities assumed
+( 2,744
+)
+Net identifiable assets acquired
+1,538
+Goodwill
+5,715
+Total net assets acquired
+$
+7,253
+Goodwill was determined based on the residual difference between the fair value of the consideration transferred and the value assigned to the tangible and intangible assets and liabilities recognized in connection with the acquisition and is deductible for tax purposes. Among the factors that contributed to a purchase price resulting in the recognition of goodwill are the expected synergies arising from combining the Company’s manufacturing and distribution capabilities with Noa Home’s position in the international e-commerce market for home furnishings and accessories.
+8 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+A portion of the fair value of the consideration transferred in the amount of $ 1,929
+has been assigned to the identifiable intangible asset associated with the Noa Home trade name. This intangible asset is considered to have an indefinite life. The indefinite-lived intangible asset and goodwill are not amortized but will be tested for impairment annually or between annual tests if an indicator of impairment exists.
+The fair values of consideration transferred and net assets acquired were determined using a combination of Level 2 and Level 3 inputs as specified in the fair value hierarchy in ASC 820,
+Fair Value Measurements and Disclosures .
+The revenues and results of operations of Noa Home for the three months ended February 25, 2023 were not material. The pro forma impact of the acquisition has not been presented because it was not material to our consolidated results of operations for the three months ended February 26, 2022.
+4. Financial Instruments and Investments
+Financial Instruments
+Our financial instruments include cash and cash equivalents, short-term investments in certificates of deposit (CDs), accounts receivable, and accounts payable. Because of their short maturities, the carrying amounts of cash and cash equivalents, short-term investments in CDs, accounts receivable, and accounts payable approximate fair value.
+Investments
+Our short-term investments of $ 17,725
+and $ 17,715
+at February 25, 2023 and November 26, 2022 consisted of CDs. At February 25, 2023, the CDs had original terms averaging
+eight
+months, bearing interest at rates ranging from
+0.3 % to
+4.75 %. At February 25, 2023, the weighted average remaining time to maturity of the CDs was approximately five months and the weighted average yield of the CDs was approximately
+4.29 %. Each CD is placed with a federally insured financial institution and all deposits are within federal deposit insurance limits. Due to the nature of these investments and their relatively short maturities, the carrying amount of the short-term investments at February 25, 2023 and November 26, 2022 approximates their fair value.
+5. Accounts Receivable
+Accounts receivable consists of the following:
+February 25, 2023
+November 26, 2022
+Gross accounts receivable
+$
+18,992
+$
+19,099
+Allowance for doubtful accounts
+( 684
+)
+( 1,261
+)
+Accounts receivable, net
+$
+18,308
+$
+17,838
+We maintain an allowance for credit losses for estimated losses resulting from the inability of our customers to make required payments. The allowance for credit losses is based on a review of specifically identified accounts in addition to an overall aging analysis which is applied to accounts pooled on the basis of similar risk characteristics. Judgments are made with respect to the collectibility of accounts receivable within each pool based on historical experience, current payment practices and current economic trends based on our expectations over the expected life of the receivables, which is generally ninety days or less. Actual credit losses could differ from those estimates.
+9 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Activity in the allowance for credit losses for the three months ended February 25, 2023 was as follows:
+Balance at November 26, 2022
+$
+1,261
+Additions charged to expense
+116
+Write-offs against allowance
+( 693
+)
+Balance at February 25, 2023
+$
+684
+We believe that the carrying value of our net accounts receivable approximates fair value. The inputs into these fair value estimates reflect our market assumptions and are not observable. Consequently, the inputs are considered to be Level 3 as specified in the fair value hierarchy in ASC Topic 820,
+Fair Value Measurements and Disclosures . See Note 4.
+6. Inventories
+Domestic furniture inventories are valued at the lower of cost, which is determined using the last-in, first-out (LIFO) method, or market. Imported inventories and those applicable to our Lane Venture and Bassett Outdoor lines are valued at the lower of cost, which is determined using the first-in, first-out (FIFO) method, or net realizable value.
+Inventories were comprised of the following:
+February 25, 2023
+November 26, 2022
+Wholesale finished goods
+$
+38,142
+$
+46,607
+Work in process
+722
+620
+Raw materials and supplies
+21,725
+22,859
+Retail merchandise
+35,255
+32,974
+Total inventories on first-in, first-out method
+95,844
+103,060
+LIFO adjustment
+( 12,187
+)
+( 12,416
+)
+Reserve for excess and obsolete inventory
+( 4,646
+)
+( 5,167
+)
+$
+79,011
+$
+85,477
+We estimate an inventory reserve for excess quantities and obsolete items based on specific identification and historical write-offs, taking into account future demand, market conditions and the respective valuations at LIFO. The need for these reserves is primarily driven by the normal product life cycle. As products mature and sales volumes decline, we rationalize our product offerings to respond to consumer tastes and keep our product lines fresh. If actual demand or market conditions in the future are less favorable than those estimated, additional inventory write-downs may be required. In determining reserves, we calculate separate reserves on our wholesale and retail inventories. Our wholesale inventories tend to carry the majority of the reserves for excess quantities and obsolete inventory due to the nature of our distribution model. These wholesale reserves primarily represent design and/or style obsolescence. Typically, product is not shipped to our retail warehouses until a consumer has ordered and paid a deposit for the product. We do not typically hold retail inventory for stock purposes. Consequently, floor sample inventory and inventory for delivery to customers account for the majority of our inventory at retail. Retail reserves are based on accessory and clearance floor sample inventory in our stores and any inventory that is not associated with a specific customer order in our retail warehouses.
+10 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Activity in the reserves for excess quantities and obsolete inventory by segment are as follows:
+Wholesale Segment
+Retail Segment
+Total
+Balance at November 26, 2022
+$
+4,103
+$
+1,064
+$
+5,167
+Additions charged to expense
+470
+253
+723
+Write-offs
+( 1,067
+)
+( 177
+)
+( 1,244
+)
+Balance at February 25, 2023
+$
+3,506
+$
+1,140
+$
+4,646
+Our estimates and assumptions have been reasonably accurate in the past. We have not made any significant changes to our methodology for determining inventory reserves in 2023 and do not anticipate that our methodology is likely to change in the future.
+7. Goodwill and Other Intangible Assets
+Goodwill and other intangible assets consisted of the following:
+February 25, 2023
+Gross Carrying Amount
+Accumulated Amortization
+Intangible Assets, Net
+Intangibles subject to amortization
+Customer relationships
+$
+512
+$
+( 294
+)
+$
+218
+Intangibles not subject to amortization:
+Trade names
+8,694
+Goodwill
+12,687
+Total goodwill and other intangible assets
+$
+21,599
+November 26, 2022
+Gross Carrying Amount
+Accumulated Amortization
+Intangible Assets, Net
+Intangibles subject to amortization
+Customer relationships
+$
+512
+$
+( 280
+)
+$
+232
+Intangibles not subject to amortization:
+Trade names
+8,723
+Goodwill
+12,772
+Total goodwill and other intangible assets
+$
+21,727
+11 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Changes in the carrying amounts of goodwill by reportable segment were as follows:
+Wholesale
+Retail
+Corporate & Other
+Total
+Balance as of November 26, 2022
+$
+7,217
+$
+-
+$
+5,554
+$
+12,771
+Foreign currency translation adjustments
+-
+-
+( 84
+)
+( 84
+)
+Balance as of February 25, 2023
+$
+7,217
+$
+-
+$
+5,470
+$
+12,687
+Accumulated impairment losses at both February 25, 2023 and November 26, 2022 were $ 3,897 .
+Amortization expense associated with intangible assets during the three months ended February 25, 2023 and February 26, 2022 was as follows:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Intangible asset amortization expense
+$
+14
+$
+14
+Estimated future amortization expense for intangible assets that exist at February 25, 2023 is as follows:
+Remainder of fiscal 2023
+$
+42
+Fiscal 2024
+57
+Fiscal 2025
+57
+Fiscal 2026
+57
+Fiscal 2027
+5
+Fiscal 2028
+-
+Total
+$
+218
+8. Bank Credit Facility
+Our bank credit facility provides for a line of credit of up to $ 25,000 . At February 25, 2023, we had $ 3,731
+outstanding under standby letters of credit against our line, leaving availability under our credit line of $ 21,269 . In addition, we had outstanding standby letters of credit with another bank totaling $ 250
+at February 25, 2023. The line bears interest at the One-Month Term Secured Overnight Financing Rate (“One-Month Term SOFR”) plus
+1.5 % and is unsecured. Our bank charges a fee of
+0.25 % on the daily unused balance of the line, payable quarterly. Under the terms of the bank credit facility, we must maintain the following financial covenants, measured quarterly on a rolling twelve-month basis:
+●
+Consolidated fixed charge coverage ratio of not less than
+1.4
+times,
+●
+Consolidated lease-adjusted leverage ratio not to exceed
+3.0
+times, and
+●
+Minimum tangible net worth of $ 140,000 .
+We were in compliance with these covenants at February 25, 2023 and expect to remain in compliance for the foreseeable future. The credit facility will mature on January 27, 2025, at which time any amounts outstanding under the facility will be due.
+12 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+9. Post Employment Benefit Obligations
+Defined Benefit Plans
+We have an unfunded Supplemental Retirement Income Plan (the “Supplemental Plan”) that covers one current and certain former executives. The liability for the Supplemental Plan was $ 6,007
+and $ 5,987
+as of February 25, 2023 and November 26, 2022, respectively.
+We also have the Bassett Furniture Industries, Incorporated Management Savings Plan (the “Management Savings Plan”) which was established in the second quarter of fiscal 2017. The Management Savings Plan is an unfunded, nonqualified deferred compensation plan maintained for the benefit of certain highly compensated or management level employees. As part of the Management Savings Plan, we have made Long Term Cash Awards (“LTC Awards”) totaling $ 2,000
+to certain management employees in the amount of $ 400
+each. The liability for the LTC Awards was $ 1,300
+and $ 1,275
+as of February 25, 2023 and November 26, 2022, respectively.
+The combined pension liability for the Supplemental Plan and LTC Awards is recorded as follows in the condensed consolidated balance sheets:
+February 25, 2023
+November 26, 2022
+Accrued compensation and benefits
+$
+698
+$
+698
+Post employment benefit obligations
+6,609
+6,564
+Total pension liability
+$
+7,307
+$
+7,262
+Components of net periodic pension costs for our defined benefit plans for the three months ended February 25, 2023 and February 26, 2022 are as follows:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Service cost
+$
+7
+$
+9
+Interest cost
+93
+58
+Amortization of prior service costs
+31
+31
+Amortization of loss
+-
+33
+Net periodic pension cost
+$
+131
+$
+131
+The components of net periodic pension cost other than the service cost component, which is included in selling, general and administrative expenses, are included in other loss, net in our condensed consolidated statements of operations.
+Deferred Compensation Plans
+We have an unfunded deferred compensation plan that covers one current executive and certain former executives and provides for voluntary deferral of compensation. This plan has been frozen with no additional participants or deferrals permitted. Our liability under this plan was $ 1,626
+and $ 1,616
+as of February 25, 2023 and November 26, 2022, respectively.
+We also have an unfunded, nonqualified deferred compensation plan maintained for the benefit of certain highly compensated or management level employees which was established under the Management Savings Plan. Our liability under this plan, including both accrued Company contributions and participant salary deferrals, was $ 2,447
+and $ 2,070
+as of February 25, 2023 and November 26, 2022, respectively.
+13 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Our combined liability for all deferred compensation arrangements, including Company contributions and participant deferrals under the Management Savings Plan, is recorded as follows in the condensed consolidated balance sheets:
+February 25, 2023
+November 26, 2022
+Accrued compensation and benefits
+$
+296
+$
+296
+Post employment benefit obligations
+3,777
+3,390
+Total deferred compensation liability
+$
+4,073
+$
+3,686
+We recognized expense under our deferred compensation arrangements during the three months ended February 25, 2023 and February 26, 2022 as follows:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Deferred compensation expense (benefit)
+$
+78
+$
+54
+10. Commitments and Contingencies
+We are involved in various legal and environmental matters which arise in the normal course of business. Although the final outcome of these matters cannot be determined, based on the facts presently known, we believe that the final resolution of these matters will not have a material adverse effect on our financial position or future results of operations.
+Lease Guarantees
+We were contingently liable under a licensee lease obligation guarantee in the amounts of $ 1,889
+and $ 1,880
+at February 25, 2023 and November 26, 2022, respectively. The remaining term under this lease guarantee extends for
+five
+years.
+In the event of default by an independent dealer under the guaranteed lease, we believe that the risk of loss is mitigated through a combination of options that include, but are not limited to, arranging for a replacement dealer or liquidating the collateral (primarily inventory). The proceeds of the above options are expected to cover the estimated amount of our future payments under the guarantee obligation, net of recorded reserves. The fair value of this lease guarantee (an estimate of the cost to the Company to perform on the guarantee) at February 25, 2023 and November 26, 2022 was not material.
+14 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+11. Earnings Per Share
+The following reconciles basic and diluted earnings per share:
+Net Income
+Weighted Average
+Shares
+Net Income
+Per Share
+For the quarter ended February 25, 2023:
+Basic earnings per share - continuing operations
+$
+1,445
+8,867,881
+$
+0.16
+Add effect of dilutive securities:
+Restricted shares
+-
+29,122
+-
+Diluted earnings per share - continuing operations
+$
+1,445
+8,897,003
+$
+0.16
+For the quarter ended February 26, 2022:
+Basic earnings per share - continuing operations
+$
+4,291
+9,750,432
+$
+0.44
+Add effect of dilutive securities:
+Options and restricted shares
+-
+8,545
+-
+Diluted earnings per share - continuing operations
+$
+4,291
+9,758,977
+$
+0.44
+Basic loss per share - discontinued operations
+$
+1,282
+9,750,432
+$
+0.13
+Add effect of dilutive securities:
+Options and restricted shares
+-
+8,545
+-
+Diluted loss per share - discontinued operations
+$
+1,282
+9,758,977
+$
+0.13
+For the three months ended February 25, 2023 and February 26, 2022, the following potentially dilutive shares were excluded from the computations as their effect was anti-dilutive:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Unvested shares
+51,000
+51,300
+12. Discontinued Operations
+On January 31, 2022, we entered into a definitive agreement to sell substantially all of the assets of Zenith to J.B. Hunt. The sale was completed on February 28, 2022. Subsequent to the first quarter of fiscal 2022 and through the end of fiscal 2022, we received the following net proceeds:
+Sales price prior to post-closing working capital adjustment
+$
+86,939
+Less:
+Amount held in escrow for contingencies related to representations and warranties (1)
+1,000
+Seller expenses paid at closing
+418
+Working capital adjustment paid to buyer
+987
+Net proceeds from the sale
+$
+84,534
+(1)
+This was held in escrow until the first anniversary of the sale, at which time the full amount was released to the Company on March 2, 2023. As of February 25, 2023 and November 26, 2022, this amount is included in other current assets in the accompanying condensed consolidated balance sheets.
+15 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+The sales price was subject to customary post-closing working capital adjustments which were paid during the second half of fiscal 2022 and resulted in a pre-tax gain from the sale of Zenith of $ 52,534
+recognized subsequent to the first quarter of fiscal 2022.
+The operations of our logistical services segment, which consisted entirely of the operations of Zenith, are presented in the accompanying condensed consolidated statements of income as discontinued operations.
+The following table summarizes the major classes of line items constituting income of the discontinued operations, as reported in the condensed consolidated statements of income for the three months ended February 26, 2022:
+Quarter Ended
+February 26, 2022
+Major line items constituting pretax income of discontinued operations:
+Logistical services revenue
+$
+16,776
+Cost of logistical services
+15,001
+Other loss, net
+( 63
+)
+Income from operations of logistical services
+1,712
+Income tax expense
+430
+Income from discontinued operations, net of tax
+$
+1,282
+The amounts for revenue and costs of logistical services shown above represent the results of Zenith’s business transactions with third parties. Zenith also charged Bassett for logistical services provided to our wholesale segment in the amount of $ 9,121
+during the three months ended February 26, 2022. Upon the sale of Zenith we entered into a service agreement with J.B. Hunt for the continuation of these services for a period of
+seven
+years. We incurred $ 8,434
+of expense during the three months ended February 25, 2023 for logistical services performed by J.B. Hunt.
+Included in other loss, net, is interest arising from finance leases assumed by J.B. Hunt as part of the transaction. Such interest amounted to $ 78
+for the three months ended February 26, 2022.
+The following table summarizes the cash flows generated by discontinued operations during the three months ended February 26, 2022:
+Three Months Ended
+February 26, 2022
+Cash provided by operating activities
+$
+1,681
+Cash used in investing activities
+( 81
+)
+Cash used in financing activities
+( 371
+)
+Net cash provided by discontinued operations
+$
+1,229
+16 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+13. Segment Information
+Beginning with the three months ended February 25, 2023, we have strategically aligned our business into
+three
+reportable segments as defined in ASC 280,
+Segment Reporting , and as described below:
+●
+Wholesale.
+The wholesale home furnishings segment is involved principally in the design, manufacture, sourcing, sale and distribution of furniture products to a network of Bassett stores (Company-owned and licensee-owned retail stores) and independent furniture retailers. Our wholesale segment includes our wood and upholstery operations, which includes Lane Venture.
+●
+Retail
+–
+Company-owned stores.
+Our retail segment consists of Company-owned stores and includes the revenues, expenses, assets and liabilities and capital expenditures directly related to these stores and the Company-owned distribution network utilized to deliver products to our retail customers.
+●
+Corporate and other
+– Corporate and other includes the shared costs of corporate functions such as treasury and finance, information technology, accounting, human resources, legal and others, including certain product development and marketing functions benefitting both wholesale and retail operations. In addition to property and equipment and various other assets associated with the shared corporate functions, the identifiable assets of Corporate and other include substantially all of our cash and our investments in CDs. We consider our corporate functions to be other business activities and have aggregated them with our other insignificant operating segment, the recently acquired Noa Home (see Note 3).
+Inter-company net sales elimination represents the elimination of wholesale sales to our Company-owned stores. Inter-company income elimination includes the embedded wholesale profit in the Company-owned store inventory that has not been realized. These profits will be recorded when merchandise is delivered to the retail consumer. The inter-company income elimination also includes rent paid by our retail stores occupying Company-owned real estate.
+Prior to the current period, the functions included in Corporate and other were included in our wholesale segment reportable segment, and Noa Home was included in our retail reportable segment for the fourth quarter of fiscal 2022 following its acquisition on September 2, 2022. We believe that the new alignment of our reporting segments provides our chief operating decision maker with clearer information with which to assess the operating results of our wholesale segment. Noa Home does not meet the requirements to be a separate reportable segment as it is below the thresholds of the revenue, income and asset tests. The segment information presented below for the three months ended February 26, 2022 and as of November 26, 2022 has been restated to reflect the new alignment of our reportable segments.
+Our former logistical services segment which represented the operations of Zenith is now presented as a discontinued operation in the accompanying condensed consolidated balances sheets and statements of income (see Note 12).
+17 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+The following table presents our segment information:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Sales Revenue
+Wholesale sales of furniture and accessories
+$
+69,884
+$
+83,485
+Less: Sales to retail segment
+( 30,099
+)
+( 29,728
+)
+Wholesale sales to external customers
+39,785
+53,757
+Retail sales of furniture and accessories
+64,962
+64,107
+Corporate and other
+2,951
+-
+Consolidated net sales of furniture and accessories
+$
+107,698
+$
+117,864
+Income from Operations
+Wholesale
+$
+8,994
+$
+10,202
+Retail - Company-owned stores
+1,530
+2,622
+Net expenses - Corporate and other
+( 7,771
+)
+( 6,245
+)
+Inter-company elimination
+( 51
+)
+( 101
+)
+Consolidated
+$
+2,702
+$
+6,478
+Depreciation and Amortization
+Wholesale
+$
+606
+$
+570
+Retail - Company-owned stores
+1,299
+1,495
+Corporate and other
+435
+324
+Consolidated
+$
+2,340
+$
+2,389
+Capital Expenditures
+Wholesale
+$
+637
+$
+1,103
+Retail - Company-owned stores
+1,282
+116
+Corporate and other
+1,422
+1,124
+Consolidated
+$
+3,341
+$
+2,343
+As of
+As of
+Identifiable Assets
+February 25, 2023
+November 26, 2022
+Wholesale
+$
+116,694
+$
+125,433
+Retail - Company-owned stores
+162,232
+162,222
+Corporate and other
+112,691
+118,618
+Consolidated
+$
+391,617
+$
+406,273
+See Note 14, Revenue Recognition, for disaggregated revenue information regarding sales of furniture and accessories by product type for the wholesale and retail segments.
+14. Revenue Recognition
+We recognize revenue when we transfer promised goods or services to our customers in an amount that reflects the consideration we expect to receive in exchange for those goods or services. For our wholesale and retail segments, revenue is recognized when the risks and rewards of ownership and title to the product have transferred to the buyer. At wholesale, transfer occurs and revenue is recognized upon the shipment of goods to independent dealers and licensee-owned BHF stores. At retail, transfer occurs and revenue is recognized upon delivery of goods to the customer. All wholesale and retail revenues are recorded net of estimated returns and allowances based on historical patterns. We typically collect a significant portion of the purchase price from our retail customers as a deposit upon order, with the balance typically collected upon delivery. These customer deposits are carried on our balance sheet as a current liability until delivery is fulfilled and amounted to $ 31,040
+and $ 35,963
+as of February 25, 2023 and November 26, 2022, respectively. Approximately
+81 % of the customer deposits held at November 26, 2022 related to performance obligations that were satisfied during the current year-to-date period and have therefore been recognized in revenue for the three months ended February 25, 2023.
+18 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Sales commissions are expensed as part of selling, general and administrative expenses at the time revenue is recognized because the amortization period would have been one year or less. Sales commissions at wholesale are accrued upon the shipment of goods. Sales commissions at retail are accrued at the time a sale is written (i.e. – when the customer’s order is placed) and are carried as prepaid commissions in other current assets until the goods are delivered and revenue is recognized. At February 25, 2023 and November 26, 2022, our balance of prepaid commissions included in other current assets was $ 3,145
+and $ 3,768 , respectively.
+We exclude from revenue all amounts collected from customers for sales tax. We do not disclose amounts allocated to remaining unsatisfied performance obligations as they are expected to be satisfied within one year or less.
+Disaggregated revenue information for sales of furniture and accessories by product category for the three months ended February 25, 2023 and February 26, 2022, excluding intercompany transactions between our segments, is a follows:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Wholesale
+Retail
+Corporate
+& Other (2)
+Total
+Wholesale
+Retail
+Corporate
+& Other
+Total
+Bassett Custom Upholstery
+$
+24,506
+$
+36,159
+$
+-
+$
+60,665
+$
+31,929
+$
+37,818
+$
+-
+$
+69,747
+Bassett Leather
+6,805
+494
+-
+7,299
+12,939
+240
+-
+13,179
+Bassett Custom Wood
+4,876
+9,669
+-
+14,545
+5,980
+9,407
+-
+15,387
+Bassett Casegoods
+3,598
+10,050
+-
+13,648
+2,909
+8,292
+-
+11,201
+Accessories, mattresses and other (1)
+-
+8,590
+2,951
+11,541
+-
+8,350
+-
+8,350
+Consolidated net sales of furniture and accessories
+$
+39,785
+$
+64,962
+$
+2,951
+$
+107,698
+$
+53,757
+$
+64,107
+$
+-
+$
+117,864
+(1)
+Includes the sale of goods other than Bassett-branded products, such as accessories and bedding, and also includes the sale of furniture protection plans.
+(2)
+Our Corporate and other segment for the three months ended February 25, 2023 includes the sales of Noa Home, which was acquired on September 2, 2023 (see Note 3).
+19 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+15. Changes to Stockholders ’
+Equity
+The following changes in our stockholders’ equity occurred during the three months ended February 25, 2023 and February 26, 2022:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Common Stock:
+Beginning of period
+$
+44,759
+$
+48,811
+Issuance of common stock
+92
+54
+Purchase and retirement of common stock
+( 540
+)
+( 225
+)
+End of period
+$
+44,311
+$
+48,640
+Common Shares Issued and Outstanding:
+Beginning of period
+8,951,839
+9,762,125
+Issuance of common stock
+18,381
+10,796
+Purchase and retirement of common stock
+( 108,083
+)
+( 44,989
+)
+End of period
+8,862,137
+9,727,932
+Additional Paid-in Capital:
+Beginning of period
+$
+-
+$
+113
+Issuance of common stock
+( 12
+)
+39
+Purchase and retirement of common stock
+( 200
+)
+( 267
+)
+Stock based compensation
+212
+115
+End of period
+$
+-
+$
+-
+Retained Earnings:
+Beginning of period
+$
+150,800
+$
+115,631
+Net income for the period
+1,445
+5,573
+Purchase and retirement of common stock
+( 1,213
+)
+( 273
+)
+Cash dividends declared
+( 1,421
+)
+( 1,374
+)
+End of period
+$
+149,611
+$
+119,557
+Accumulated Other Comprehensive Loss:
+Beginning of period
+$
+50
+$
+( 1,823
+)
+Cumulative translation adjustments, net of tax
+( 136
+)
+-
+Amortization of pension costs, net of tax
+24
+49
+End of period
+$
+( 62
+)
+$
+( 1,774
+)
+The balance of cumulative translation adjustments, net of tax, was a net loss of $ 340
+and $ 204
+at February 25, 2023 and November 26, 2022, respectively.
+20 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+16. Recent Accounting Pronouncements
+In October 2021, the FASB issued Accounting Standards Update No. 2021-08– Business Combinations (Topic 805) Accounting for Contract Assets and Contract Liabilities from Contracts with Customers, to improve the accounting for acquired revenue contracts with customers in a business combination by addressing diversity in practice and inconsistency related to the recognition of an acquired contract liability and to payment terms and their effect on subsequent revenue recognized by the acquirer. The amendments in ASU 2021-08 require that an entity (acquirer) recognize and measure contract assets and contract liabilities acquired in a business combination in accordance with Topic 606. At the acquisition date, an acquirer should account for the related revenue contracts in accordance with Topic 606 as if it had originated the contracts. The amendments in ASU 2021-08 will become effective for us as of the beginning of our 2024 fiscal year. Early adoption is permitted, including adoption in any interim period. We do not expect that this guidance will have a material impact upon our financial position and results of operations.
+In March 2022, the FASB issued Accounting Standards Update No. 2022-02 – Financial Instruments – Credit Losses (Topic 326): Troubled Debt Restructurings and Vintage Disclosures, to address certain concerns identified in the Post-Implementation Review process for ASU Topic 326. The amendments in ASU 2022-02 eliminate the accounting guidance for troubled debt restructurings by creditors in ASC Subtopic 310-40, Receivables – Troubled Debt Restructurings by Creditors, while enhancing disclosure requirements for certain loan refinancings and restructurings by creditors when a borrower is experiencing financial difficulty. In addition, for public business entities, the amendments in ASU 2022-02 require that an entity disclose current-period gross write-offs by year of origination for financing receivables and net investments in leases within the scope of ASC Subtopic 326-20, Financial Instruments – Credit Losses – Measured at Amortized Cost. The amendments in ASU 2022-02 will become effective for us as of the beginning of our 2024 fiscal year. Early adoption is permitted. We expect that the adoption of this standard will primarily impact our disclosures but do not expect that this guidance will have a material impact upon our financial position and results of operations.
+In June 2022, the FASB issued Accounting Standards Update No. 2022-03 – Fair Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions, to clarify the guidance in Topic 820 when measuring the fair value of an equity security subject to contractual restrictions that prohibit the sale of an equity security. The amendments in ASU 2022-03 clarify that a contractual restriction on the sale of an equity security is not considered part of the unit of account of the equity security and, therefore, is not considered in measuring fair value. The amendments also clarify that an entity cannot, as a separate unit of account, recognize and measure a contractual sale restriction. In addition, the amendments in ASU 2022-03 require certain additional disclosures related to investments in equity securities subject to contractual sale restrictions. The amendments in ASU 2022-03 will become effective for us as of the beginning of our 2025 fiscal year. Early adoption is permitted. As of February 25, 2023 we do not hold any investments in equity securities, therefore we do not currently expect that this guidance will have a material impact upon our financial position and results of operations.
+21 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Safe-harbor, forward-looking statements:
+This report contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 with respect to the financial condition, results of operations and business of Bassett Furniture Industries, Incorporated and subsidiaries. Such forward-looking statements are identified by use of forward-looking words such as “ anticipates ”, “ believes ”, “ plans ”, “ estimates ”, “ expects ”, “ aims ” and “ intends ” or words or phrases of similar expression. These forward-looking statements involve certain risks and uncertainties. No assurance can be given that any such matters will be realized. Important factors that could cause actual results to differ materially from those contemplated by such forward-looking statements include:
+•
+fluctuations in the cost and availability of raw materials, fuel, labor, delivery costs and sourced products, including those which may result from supply chain disruptions and shortages and the imposition of new or increased duties, tariffs, retaliatory tariffs and trade limitations with respect to foreign-sourced products
+•
+competitive conditions in the home furnishings industry
+•
+overall retail traffic levels in stores and on the web and consumer demand for home furnishings
+•
+ability of our customers and consumers to obtain credit
+•
+the profitability of the stores (independent licensees and Company-owned retail stores) which may result in future store closings
+•
+ability to implement our Company-owned retail strategies and realize the benefits from such strategies, including our initiatives to expand and improve our digital marketing and advertising capabilities, as they are implemented
+•
+the risk that we may not achieve the strategic benefits of our acquisition of Noa Home Inc.
+•
+effectiveness and security of our information technology systems and possible disruptions due to cybersecurity threats, including any impacts from a network security incident; and the sufficiency of our insurance coverage, including cybersecurity insurance
+•
+future tax legislation, or regulatory or judicial positions
+•
+ability to efficiently manage the import supply chain to minimize business interruption
+•
+concentration of domestic manufacturing, particularly of upholstery products, and the resulting exposure to business interruption from accidents, weather and other events and circumstances beyond our control
+•
+the impact of a resurgence of the COVID-19 pandemic or any other similar health emergency and any resulting supply chain disruptions upon our ability to maintain normal operations at our retail stores and manufacturing facilities, and the resulting effects any future interruption of those operations may have upon our financial condition, results of operations and liquidity, as well as the impact of the pandemic upon general economic conditions, including consumer spending and the strength of the housing market in the United States
+Additionally, other risks that could cause actual results to differ materially from those contemplated by such forward-looking statements are set forth in Part I, Item 1A. Risk Factors in the Company’s Annual Report on Form 10-K for the fiscal year ended November 26, 2022.
+You should keep in mind that any forward-looking statement made by us in this report or elsewhere speaks only as of the date on which such forward-looking statement is made. New risks and uncertainties arise from time to time, and it is impossible for us to predict these events or how they may affect us. We have no duty to, and do not intend to, update or revise the forward-looking statements in this discussion after the date hereof, except as may be required by law. In light of these risks and uncertainties, you should keep in mind that the events described in any forward-looking statement made in this report or elsewhere, might not occur.
+22 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Overview
+Bassett is a leading retailer, manufacturer and marketer of branded home furnishings. Our products are sold primarily through a network of Company-owned and licensee-owned branded stores under the Bassett Home Furnishings (“BHF”) name, with additional distribution through other wholesale channels including multi-line furniture stores, many of which feature Bassett galleries or design centers. We also sell our products through our website at
+www.bassettfurniture.com . We were founded in 1902 and incorporated under the laws of Virginia in 1930. Our rich 121-year history has instilled the principles of quality, value, and integrity in everything we do, while simultaneously providing us with the expertise to respond to ever-changing consumer tastes and meet the demands of a global economy.
+With 92 BHF stores at February 25, 2023, we have leveraged our strong brand name in furniture into a network of Company-owned and licensed stores that focus on providing consumers with a friendly and casual environment for buying furniture and accessories.  Our store program is designed to provide a single source home furnishings retail store that provides a unique combination of stylish, quality furniture and accessories with a high level of customer service.  In order for the Bassett brand to reach markets that cannot be effectively served by our retail store network, we also distribute our products through other wholesale channels including multi-line furniture stores, many of which feature Bassett galleries or design centers. We use a network of over 30 independent sales representatives who have stated geographical territories. These sales representatives are compensated based on a standard commission rate. We believe this blended strategy provides us the greatest ability to effectively distribute our products throughout the United States and ultimately gain market share.
+The BHF stores feature custom order furniture, free in-home or virtual design visits (“home makeovers”) and coordinated decorating accessories.  Our philosophy is based on building strong long-term relationships with each customer.  Sales people are referred to as “Design Consultants” and are trained to evaluate customer needs and provide comprehensive solutions for their home decor.  Until a rigorous training and design certification program is completed, Design Consultants are not authorized to perform in-home or virtual design services for our customers.
+During the second quarter of fiscal 2022, we opened our first regional fulfillment center (“RFC”) in Orlando, Florida where we are stocking our best sellers for much quicker delivery. This adds an element of immediacy to our proven platform of made to order custom furniture that has driven our strategy for the past two decades. During the fourth quarter of 2022, we opened our second RFC near Baltimore, Maryland. In the first quarter of 2023, we opened three more RFCs in Conover, North Carolina, Grand Prairie, Texas and Riverside, California. We plan to evaluate the performance of these five RFCs before considering any additional locations.
+In 2018, we added outdoor furniture to our offerings with the acquisition of the Lane Venture brand. Our strategy is to distribute these products outside of our BHF store network through a network of over 10 independent sales representatives. Using Lane Venture as a platform, we developed the Bassett Outdoor brand that is only marketed through the BHF store network. This allows Bassett branded product to move from inside the home to outside the home to capitalize on the growing trend of outdoor living.
+We have factories in Newton, North Carolina that manufacture both stationary and motion upholstered furniture for inside the home along with our outdoor furniture offerings. We also have factories in Martinsville and Bassett, Virginia that assemble and finish our custom bedroom and dining offerings. Late in the third quarter of fiscal 2022, we purchased a facility which we had formerly leased in Haleyville, Alabama where we manufacture aluminum frames for our outdoor furniture. With the purchase, we also obtained two additional buildings which will allow us to expand our footprint at that facility. Our manufacturing team takes great pride in the breadth of its options, the precision of its craftsmanship, and the speed of its manufacturing process.
+In addition to the furniture that we manufacture domestically, we source most of our formal bedroom and dining room furniture (casegoods) and certain leather upholstery offerings from several foreign plants, primarily in Vietnam, Thailand and China. Over 75% of our wholesale revenues are derived from products that are manufactured in the United States using a mix of domestic and globally sourced components and raw materials.
+23 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+We consider our website to be the front door to our brand experience where customers can research our furniture and accessory offerings and subsequently buy online or engage with an in-store design consultant. Customer acquisition resulting from our digital outreach strategies has significantly increased our traffic to the website since 2019. The migration to digital brand research has caused us to comprehensively evaluate all of our American made custom products. While our Bench Made line of custom upholstery and custom bedroom and dining products continue to be our most successful offerings, most of these items must be purchased in a store as they are not conducive to web transactions due to the number of options available. Consequently, we will continue to methodically re-design each one of these important lines to best serve our customers online, in the store or wherever our customer might be. Our intent is to continue to offer the consumer custom options that will help them personalize their home but to do so in an edited fashion that will provide a better web experience in the research phase and will also allow the final purchase to be made either on the web or in the store. While we work to make it easier to purchase either in store or on-line, we will not compromise our in-store experience or the quality of our in-home makeover capabilities.
+We are engaged in a multi-year cross-functional digital transformation initiative with the first phase consisting of the examination and improvement of our underlying data management processes. During the second quarter of 2022, we implemented a comprehensive Product Information Management system which allows us to enhance and standardize our product development and data management and governance processes. This results in more consistent data that our merchandizing and sales teams can use in analyzing various product and sales trends in order to make better informed decisions. We are also in the process of implementing a new eCommerce platform that we plan to introduce in the second half of 2023.  The new web platform will leverage world class features including enhanced customer research capabilities and streamlined navigation that we believe will result in increased web traffic and sales. We expect to spend approximately $2,000 on these efforts in 2023.
+During the fourth quarter of fiscal 2022 we acquired Noa Home (see Note 3 to the Consolidated Financial Statements for additional information regarding the acquisition). A mid-priced e-commerce furniture retailer headquartered in Montreal, Canada, Noa Home has operations in Canada, Australia, Singapore and the United Kingdom. With a lean staffing model, the Noa Home team has built an operational blueprint that has the potential for significant growth. We believe the acquisition will provide Bassett with a greater online presence and will allow us to attract more digitally native consumers. While still in the planning phase, we expect to introduce the Noa Home brand in the United States during 2023.
+Company-owned Retail Stores
+As we continually monitor the performance of our Company-owned retail store locations, we may occasionally determine that it is necessary to close underperforming stores in certain markets. During 2022, we closed three stores with the operations of one those stores being consolidated into another store in the same market. All of the above-mentioned closures occurred at or near the lease expirations.
+We also may occasionally identify opportunities to enhance our presence in existing markets by relocating stores to better locations within the same market. During 2022, we sold the store property of one of our Houston, Texas locations and leased a new 9,600 square foot store property in a more upscale shopping area in the vicinity of the former location. We are in the process of upfitting the store and expect to open in late 2023. During late 2022 at the end of the lease term, we closed our Dallas, Texas store located at the intersection of McKinney and Knox streets. We opened a new 11,600 square foot store in the nearby iconic Inwood Village shopping center during the first quarter of 2023.
+In 2022, we acquired a 25,000 square foot property in Tampa, Florida. We will begin upfitting the property early in April with a planned opening date in late 2023.
+As of February 25, 2023, we had 59 Corporate-owned stores operating.
+Sale of the Assets of Zenith Freight Lines, LLC
+During the first quarter of 2022, we entered into a definitive agreement to sell substantially all of the assets of our wholly-owned subsidiary, Zenith, to J.B. Hunt and the transaction was completed at the beginning of the second quarter of fiscal 2022. As a result of the sale, the operations of our former logistical services segment, which consisted entirely of the operations of Zenith, are presented in the accompanying condensed consolidated statements of income and in the following discussion as discontinued operations (see Note 12 to the Condensed Consolidated Statements of Income).
+24 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Results of Continuing Operations
+–
+Period ended February 25, 2023 compared with the period ended February 26, 2022:
+Consolidated results of continuing operations for the three months ended February 25, 2023 and February 26, 2022 are as follows:
+Quarter Ended
+Change
+February 25, 2023
+February 26, 2022
+Dollars
+Percent
+Net sales of furniture and accessories
+$
+107,698
+100.0
+%
+$
+117,864
+100.0
+%
+$
+(10,166
+)
+-8.6
+%
+Cost of furniture and accessories sold
+50,501
+46.9
+%
+60,471
+51.3
+%
+(9,970
+)
+-16.5
+%
+Gross profit
+57,197
+53.1
+%
+57,393
+48.7
+%
+(196
+)
+-0.3
+%
+SG&A expenses
+54,495
+50.6
+%
+50,915
+43.2
+%
+3,580
+7.0
+%
+Income from operations
+$
+2,702
+2.5
+%
+$
+6,478
+5.5
+%
+$
+(3,776
+)
+-58.3
+%
+Analysis of Quarterly Results:
+Total sales revenue for the three months ended February 25, 2023 decreased $10,166 or 8.6% from the prior year period primarily due to a 16% decline in wholesale sales partially offset by a 1.3% increase in retail sales through the Company-owned stores and the addition of Noa Home in 2023.
+Gross margins for the three months ended February 25, 2023 increased 440 basis points from 2022 primarily due to higher margins in the wholesale segment along with a greater portion of total sales coming from the Corporate retail segment. These increases were partially offset by lower margins in the retail segment.
+Selling, general and administrative (“SG&A”) expenses as a percentage of sales for the three months ended February 25, 2023 increased 740 basis points from 2022 primarily due to a greater portion of total sales coming from the Corporate retail segment along with the deleverage of fixed costs caused by lower sales volumes.
+Segment Information
+Beginning with the three months ended February 25, 2023, we have strategically aligned our business into three reportable segments as defined in ASC 280,
+Segment Reporting , and as described below:
+●
+Wholesale.
+The wholesale home furnishings segment is involved principally in the design, manufacture, sourcing, sale and distribution of furniture products to a network of Bassett stores (Company-owned and licensee-owned retail stores) and independent furniture retailers. Our wholesale segment includes our wood and upholstery operations, which includes Lane Venture.
+●
+Retail
+–  Company-owned stores.
+Our retail segment consists of Company-owned stores and includes the revenues, expenses, assets and liabilities and capital expenditures directly related to these stores and the Company-owned distribution network utilized to deliver products to our retail customers.
+●
+Corporate and other
+– Corporate and other includes the shared costs of corporate functions such as treasury and finance, information technology, accounting, human resources, legal and others, including certain product development and marketing functions benefitting both wholesale and retail operations. We consider our corporate functions to be other business activities and have aggregated them with our other insignificant operating segment, the recently acquired Noa Home.
+Inter-company net sales elimination represents the elimination of wholesale sales to our Company-owned stores. Inter-company income elimination includes the embedded wholesale profit in the Company-owned store inventory that has not been realized. These profits will be recorded when merchandise is delivered to the retail consumer. The inter-company income elimination also includes rent paid by our retail stores occupying Company-owned real estate.
+Prior to the current period, the functions included in Corporate and other were included in our wholesale segment reportable segment, and Noa Home was included in our retail reportable segment for the fourth quarter of fiscal 2022 following its acquisition on September 2, 2022. We believe that the new alignment of our reporting segments provides our chief operating decision maker with clearer information with which to assess the operating results of our wholesale segment. Noa Home does not meet the requirements to be a separate reportable segment. The segment information presented below for the three months ended February 26, 2022 has been restated to reflect the new alignment of our reportable segments.
+25 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Our former logistical services segment which represented the operations of Zenith is now presented as a discontinued operation.
+Reconciliation of Segment Results to Consolidated Results of Operations
+To supplement the financial measures prepared in accordance with GAAP, we present gross profit by segment inclusive of the effects of intercompany sales by our wholesale segment to our retail segment. Because these intercompany transactions are not eliminated from our segment presentations and because we do not present gross profit as a measure of segment profitability in the accompanying condensed consolidated financial statements, the presentation of gross profit by segment is considered to be a non-GAAP financial measure. The reconciliation of this non-GAAP financial measure to the most directly comparable financial measure calculated and presented in accordance with GAAP is presented below along with the effects of various other intercompany eliminations on our consolidated results of operations.
+Quarter Ended February 25, 2023
+Non-GAAP Presentation
+GAAP Presentation
+Wholesale
+Retail
+Corporate & Other
+Eliminations
+Consolidated
+Net sales of furniture and accessories
+$
+69,884
+$
+64,962
+$
+2,951
+$
+(30,099
+) (1)
+$
+107,698
+Cost of furniture and accessories sold
+48,278
+30,586
+1,433
+(29,796
+) (2)
+50,501
+Gross profit
+21,606
+34,376
+1,518
+(303
+)
+57,197
+SG&A expense
+12,612
+32,846
+9,289
+(252
+) (3)
+54,495
+Income from operations
+$
+8,994
+$
+1,530
+$
+(7,771
+)
+$
+(51
+)
+$
+2,702
+Quarter Ended February 26, 2022
+Non-GAAP Presentation
+GAAP Presentation
+Wholesale
+Retail
+Corporate & Other
+Eliminations
+Consolidated
+Net sales of furniture and accessories
+$
+83,485
+$
+64,107
+$
+-
+$
+(29,728
+) (1)
+$
+117,864
+Cost of furniture and accessories sold
+59,601
+30,170
+-
+(29,300
+) (2)
+60,471
+Gross profit
+23,884
+33,937
+-
+(428
+)
+57,393
+SG&A expense
+13,682
+31,315
+6,245
+(327
+) (3)
+50,915
+Income from operations
+$
+10,202
+$
+2,622
+$
+(6,245
+)
+$
+(101
+)
+$
+6,478
+Notes to segment consolidation table:
+(1)
+Represents the elimination of sales from our wholesale segment to our Company-owned BHF stores.
+(2)
+Represents the elimination of purchases by our Company-owned BHF stores from our wholesale segment, as well as the change for the period in the elimination of intercompany profit in ending retail inventory.
+(3)
+Represents the elimination of rent paid by our retail stores occupying Company-owned real estate.
+26 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Wholesale Segment
+Results for the wholesale segment for the periods ended February 25, 2023 and February 26, 2022 are as follows:
+Quarter Ended
+Change
+February 25, 2023
+February 26, 2022
+Dollars
+Percent
+Net sales
+$
+69,884
+100.0
+%
+$
+83,485
+100.0
+%
+$
+(13,601
+)
+-16.3
+%
+Gross profit (1)
+21,606
+30.9
+%
+23,884
+28.6
+%
+(2,278
+)
+-9.5
+%
+SG&A expenses
+12,612
+18.0
+%
+13,682
+16.4
+%
+(1,070
+)
+-7.8
+%
+Income from operations
+$
+8,994
+12.9
+%
+$
+10,202
+12.2
+%
+$
+(1,208
+)
+-11.8
+%
+(1)
+Gross profit at the segment level is considered a Non-GAAP financial measure due to the included effects of intercompany transactions. Refer to the reconciliation of gross profit by segment to consolidated gross profit presented under the Reconciliation of Segment Results to Consolidated Results of Operations above.
+Wholesale sales by major product category are as follows:
+Quarter Ended
+February 25, 2023
+February 26, 2022
+Total Change
+External
+Intercompany
+Total
+External
+Intercompany
+Total
+Dollars
+Percent
+Bassett Custom Upholstery
+$
+24,506
+$
+19,344
+$
+43,850
+62.7
+%
+$
+31,929
+$
+20,096
+$
+52,025
+62.3
+%
+$
+(8,175
+)
+-15.7
+%
+Bassett Leather
+6,805
+18
+6,823
+9.8
+%
+12,939
+12
+12,951
+15.5
+%
+(6,128
+)
+-47.3
+%
+Bassett Custom Wood
+4,876
+5,940
+10,816
+15.5
+%
+5,980
+6,261
+12,241
+14.7
+%
+(1,425
+)
+-11.6
+%
+Bassett Casegoods
+3,598
+4,797
+8,395
+12.0
+%
+2,909
+3,359
+6,268
+7.5
+%
+2,127
+33.9
+%
+Total
+$
+39,785
+$
+30,099
+$
+69,884
+100.0
+%
+$
+53,757
+$
+29,728
+$
+83,485
+100.0
+%
+$
+(13,601
+)
+-16.3
+%
+Analysis of Quarterly Results
+–
+Wholesale
+Net sales for the three months ended February 25, 2023 decreased $13,601 or 16% from the prior year period due primarily to a 29% decrease in shipments to the open market, a 20% decrease in Lane Venture shipments and a 3.4% decrease in shipments to our retail store network. Gross margins for the three months ended February 25, 2023 improved 230 basis points over the prior year as we were able to recognize a greater portion of previously implemented price increases in current period sales. This was offset by lower margins in the Bassett Leather product line due to product discounting. As this product line is internationally sourced with extended lead times, we received significant amounts of inventory during the second and third quarters of 2022 just as product demand was weakening due to the market downturn in home furnishings. Also, the ocean freight costs associated with the majority of the product received was at significantly higher costs than are currently being realized on current product receipts. We expect reduced margins on this product line to continue through the third quarter of 2023 as we reduce the inventory to a more normal level. SG&A expenses as a percentage of sales increased 160 basis points primarily due to reduced leverage of fixed costs from decreased sales along with higher warehousing and shipping costs.
+Wholesale Backlog
+Wholesale backlog at February 25, 2023 was $24,895 as compared to $35,336 at November 26, 2022 and $78,135 at February 26, 2022. While wholesale orders for the first quarter of 2023 decreased 18% against the prior year period, they were 5.6% higher than the pre-pandemic level of the first quarter of 2020.
+27 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Retail
+–
+Company-owned Stores Segment
+Results for the retail segment for the periods ended February 25, 2023 and February 26, 2022 are as follows:
+Quarter Ended
+Change
+February 25, 2023
+February 26, 2022
+Dollars
+Percent
+Net sales
+$
+64,962
+100.0
+%
+$
+64,107
+100.0
+%
+$
+855
+1.3
+%
+Gross profit (1)
+34,376
+52.9
+%
+33,937
+52.9
+%
+439
+1.3
+%
+SG&A expenses
+32,846
+50.6
+%
+31,315
+48.8
+%
+1,531
+4.9
+%
+Income (loss) from operations
+$
+1,530
+2.4
+%
+$
+2,622
+4.1
+%
+$
+(1,092
+)
+-41.6
+%
+(1)
+Gross profit at the segment level is considered a Non-GAAP financial measure due to the included effects of intercompany transactions. Refer to the reconciliation of gross profit by segment to consolidated gross profit presented under the Reconciliation of Segment Results to Consolidated Results of Operations above.
+Retail sales by major product category are as follows:
+Quarter Ended
+Change
+February 25, 2023
+February 26, 2022
+Dollars
+Percent
+Bassett Custom Upholstery
+$
+36,159
+55.7
+%
+$
+37,818
+59.0
+%
+$
+(1,659
+)
+-4.4
+%
+Bassett Leather
+494
+0.8
+%
+240
+0.4
+%
+254
+105.8
+%
+Bassett Custom Wood
+9,669
+14.9
+%
+9,407
+14.7
+%
+262
+2.8
+%
+Bassett Casegoods
+10,050
+15.5
+%
+8,292
+12.9
+%
+1,758
+21.2
+%
+Accessories, mattresses and other (1)
+8,590
+13.2
+%
+8,350
+13.0
+%
+240
+2.9
+%
+Total
+$
+64,962
+100.0
+%
+$
+64,107
+100.0
+%
+$
+855
+1.3
+%
+(1)
+Includes the sale of goods other than Bassett-branded products, such as accessories and bedding, and also includes the sale of furniture protection plans.
+Quarterly Analysis of Results - Retail
+Net sales for the three months ended February 25, 2023 increased $855 or 1.3% from the prior year period. Written sales (the value of sales orders taken but not delivered) declined 16% from the first quarter of 2022. Gross margins for the three months ended February 25, 2023 were flat compared to the prior period as increased promotional activity in the current quarter coupled with higher in-bound freight costs were offset by lower unit costs as measured on a last-in, first-out basis. Selling, general and administrative expenses as a percentage of sales for the three months ended February 25, 2023 increased 180 basis points primarily due to increased advertising costs to drive more customer engagement, higher consumer financing costs from higher interest rates and increased warehousing and delivery costs.
+Retail Backlog
+Retail backlog at February 25, 2023 was $41,763 compared to $51,041 at November 26, 2022 and $84,645 at February 26, 2022. Although the retail backlog continues to be elevated as compared to pre-pandemic levels, we expect a more normalized and sustainable level by the end of the second quarter of 2023.
+28 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Corporate and Other
+Revenues, costs and expenses of corporate and other for the three months ended February 25, 2023 and February 22, 2022 are as follows:
+Quarter Ended
+Change
+February 25, 2023
+February 26, 2022
+Dollars
+Percent
+Net sales
+$
+2,951
+$
+-
+$
+2,951
+100.0
+%
+Gross profit
+1,518
+-
+1,518
+100.0
+%
+SG&A expenses
+9,289
+6,245
+3,044
+48.7
+%
+Net expenses
+$
+(7,771
+)
+$
+(6,245
+)
+$
+(1,526
+)
+24.4
+%
+The increases in sales and gross profit over the prior year period were due to the acquisition of Noa Home on September 2, 2022. The $3,044 increase in SG&A expenses was primarily due to the addition of Noa Home coupled with increased corporate marketing and information technology expenses primarily in connection with our digital transformation initiatives.
+Discontinued Operations
+–
+Logistical Services
+Quarter Ended
+February 26, 2022
+Logistical services revenue
+$
+16,776
+100.0
+%
+Cost of logistical services
+15,001
+89.4
+%
+Other loss, net
+(63
+)
+-0.4
+%
+Income from discontinued operations before tax
+$
+1,712
+10.2
+%
+The first quarter of 2022 was the final period during which Zenith operated as a consolidated subsidiary of Bassett. During the three months ended February 26, 2022, Zenith generated a pre-tax profit of $1,712 on sales to third party customers of $16,776.
+Zenith also charged Bassett $9,121 for logistical services provided to our wholesale segment during the three months ended February 26, 2022. These shipping and handling costs are included in selling, general and administrative expenses in the accompanying condensed consolidated statements of income. Upon the sale of Zenith, we entered into a service agreement with J.B. Hunt for the continuation of these services for a period of seven years. We incurred $8,434 of expense during the three months ended February 25, 2023 for logistical services performed by J.B. Hunt.
+Other Items Affecting Net Income
+Other Loss, Net
+Other loss, net, for the three months ended February 25, 2023 and February 26, 2022 was $415 and $629, respectively, a net decrease of $214 from the prior year period. The net change was primarily due to higher interest income on our investment in certificates of deposit.
+Income Taxes
+We calculate an anticipated effective tax rate for the year based on our annual estimates of pretax income and use that effective tax rate to record our year-to-date income tax provision.  Any change in annual projections of pretax income could have a significant impact on our effective tax rate for the respective quarter.
+Our effective tax rate was 36.8% and 26.3% for the three months ended February 25, 2023 and February 26, 2022, respectively. These effective rates differ from the federal statutory rate of 21% primarily due to increases in the valuation allowance placed on deferred tax assets associated with Noa Home, the effects of state income taxes and various permanent differences.
+29 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Liquidity and Capital Resources
+Cash Flows
+Cash provided by operations for the first quarter of fiscal 2023 was $563 compared to cash provided by operations of $2,866 for the first quarter of fiscal 2022, representing a decrease of $2,303 in cash flows from operations. Cash provided by the operating activities of our discontinued operations was $1,681 for the first quarter of fiscal 2022. Excluding the decline in operating cash flow from discontinued operations, cash flows from continuing operations declined $622 for the first quarter of fiscal 2023 from the prior year period. This decline was primarily the result of lower income from continuing operations and reduced customer deposits from lower written retail sales, partially offset by reduced investment in inventory.
+Our overall cash position decreased by $6,733 during the first quarter of fiscal 2023, compared to a decline of $2,484 during the first quarter of fiscal 2022, an increased net use of $4,239 from the prior year period. Excluding the overall cash flow from discontinued operations, overall cash flow from continuing operations decreased $3,074 from the prior year period. In addition to the decline in cash flows from operations, net cash used in investing activities during the first quarter of fiscal 2023 increased $1,024 to $3,904 compared to net cash used in investing activities of $2,880 for the prior year period. This increase was primarily due to higher capital expenditures over the prior year primarily consisting of expenditures related to our digital transformation project, upfit of the recently opened Inwood store in Dallas, TX and the remodel of two other stores in the Dallas, TX market. We expect capital expenditures for the full year to range from $17 million to $20 million. Net cash used in financing activities during the first quarter of 2022 increased $883 to a net use of $3,363 as compared to a net use of $2,480 for the prior year period, primarily due to a $1,079 increase in share repurchases to $1,844 during the first quarter of fiscal 2023 as compared to $765 repurchased during the first quarter of fiscal 2022. As of February 25, 2023, $24,154 remains available for future purchases under our stock repurchase plan. With cash and cash equivalents and short-term investments totaling $72,617 on hand at February 25, 2023, expected future operating cash flows and the availability under our credit line noted below, we believe we have sufficient liquidity to fund operations for the foreseeable future.
+Debt and Other Obligations
+Our bank credit facility provides for a line of credit of up to $25,000. At February 25, 2023, we had $3,731 outstanding under standby letters of credit against our line, leaving availability under our credit line of $21,269. In addition, we had outstanding standby letters of credit with another bank totaling $250 at February 25, 2023. The line bears interest at the One-Month Term Secured Overnight Financing Rate (“One-Month Term SOFR”) plus 1.5% and is unsecured. Our bank charges a fee of 0.25% on the daily unused balance of the line, payable quarterly. Under the terms of the bank credit facility, we must maintain the following financial covenants, measured quarterly on a rolling twelve-month basis:
+●
+Consolidated fixed charge coverage ratio of not less than 1.4 times,
+●
+Consolidated lease-adjusted leverage ratio not to exceed 3.0 times, and
+●
+Minimum tangible net worth of $140,000.
+We were in compliance with these covenants at February 25, 2023 and expect to remain in compliance for the foreseeable future. The credit facility will mature on January 27, 2025, at which time any amounts outstanding under the facility will be due.
+We lease land and buildings that are used in the operation of our Company-owned retail stores as well as in the operation of certain of our licensee-owned stores, and we lease land and buildings used in our wholesale manufacturing operations. We also lease local delivery trucks used in our retail segment. The present value of our obligations for leases with terms in excess of one year at February 25, 2023 is $113,120 and is included in our accompanying condensed consolidated balance sheet at February 25, 2023. We were contingently liable under a licensee lease obligation guarantee in the amount of $1,889 at February 25, 2023. The remaining term under this lease guarantee extends for five years. See Note 10 to our condensed consolidated financial statements for additional details regarding our lease guarantees.
+Investment in Retail Real Estate
+We have a substantial investment in real estate acquired for use as retail locations and occupied by Company-owned retail stores, including a site in Tampa, Florida acquired in 2022 with a planned opening late in fiscal 2023. Such real estate is included in property and equipment, net, in the accompanying condensed consolidated balance sheets and consists of eight properties with an aggregate square footage of 203,465 and a net book value of $21,164 at February 25, 2023.
+30 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Critical Accounting Policies and Estimates
+There have been no material changes to our critical accounting policies and estimates from the information provided in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, included in our Annual Report on Form 10-K for the fiscal year ended November 26, 2022.
+Off-Balance Sheet Arrangements
+We utilize stand-by letters of credit in the procurement of certain goods in the normal course of business. In addition, we have guaranteed certain lease obligations of licensee operators for some of their store locations. See Note 10 to our condensed consolidated financial statements for further discussion of lease guarantees, including descriptions of the terms of such commitments and methods used to mitigate risks associated with these arrangements.
+Contingencies
+We are involved in various legal and environmental matters which arise in the normal course of business. Although the final outcome of these matters cannot be determined, based on the facts presently known, it is our opinion that the final resolution of these matters will not have a material adverse effect on our financial position or future results of operations. See Note 10 to our condensed consolidated financial statements for further information regarding certain contingencies as of February 25, 2023.
+Item 3. Quantitative and Qualitative Disclosure about Market Risk:
+We are exposed to market risk from changes in the value of foreign currencies. Substantially all of our imports purchased outside of North America are denominated in U.S. dollars. Therefore, we believe that gains or losses resulting from changes in the value of foreign currencies relating to foreign purchases not denominated in U.S. dollars would not be material to our results from operations in fiscal 2023. We are also exposed to foreign currency market risk through our investment in Noa Home. Our investment in Noa Home is subject to changes in the value of the Canadian dollar versus the U.S. dollar. Additionally, Noa Home is exposed to other local currency fluctuation risk through its operations in Australia, Singapore and the United Kingdom. The impact of currency fluctuations on our financial position and results of operations since the acquisition of Noa Home on September 2, 2022 has not been significant.
+We are exposed to market risk from changes in the cost and availability of raw materials used in our manufacturing processes, principally wood, woven fabric, and foam products.  The cost of foam products, which are petroleum-based, is sensitive to changes in the price of oil.
+We are also exposed to commodity price risk related to diesel fuel prices for fuel used in our retail segment for home delivery as well as through amounts we are charged for logistical services by our service providers. We manage our exposure to that risk primarily through the application of fuel surcharges to our customers.
+We have potential exposure to market risk related to conditions in the commercial real estate market. Our retail real estate holdings of $21,164 at February 25, 2023 for Company-owned stores could suffer significant impairment in value if we are forced to close additional stores and sell or lease the related properties during periods of weakness in certain markets. Additionally, if we are required to assume responsibility for payment under the lease obligations of $1,889 which we have guaranteed on behalf of licensees as of February 25, 2023 we may not be able to secure sufficient sub-lease income in the current market to offset the payments required under the guarantees. We are also exposed to risk related to conditions in the commercial real estate rental market with respect to the right-of-use assets we carry on our balance sheet for leased retail store locations, manufacturing and warehouse facilities. At February 25, 2023, the unamortized balance of such right-of-use assets used in continuing operations totaled $95,966. Should we have to close or otherwise abandon one of these leased locations, we could incur additional impairment charges if rental market conditions do not support a fair value for the right of use asset in excess of its carrying value.
+31 of 34
+PART I-FINANCIAL INFORMATION-CONTINUED
+BASSETT FURNITURE INDUSTRIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS-UNAUDITED
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Item 4. Controls and Procedures:
+The Company’s principal executive officer and principal financial officer have evaluated the Company’s disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e)) as of the end of the period covered by this Quarterly Report on Form 10-Q. Based upon their evaluation, the principal executive officer and principal financial officer concluded that the Company’s disclosure controls and procedures are effective. There has been no change in the Company’s internal control over financial reporting during the Company’s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+32 of 34
+PART II - OTHER INFORMATION
+BASSETT FURNITURE INDUSTRIES INCORPORATED AND SUBSIDIARIES
+FEBRUARY 25, 2023
+(Dollars in thousands except share and per share data)
+Item 1. Legal Proceedings
+None
+Item 2. Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities
+The following table summarizes the stock repurchase activity by or on behalf of the Company or any “affiliated purchaser,” as defined by Rule 10b-18(a)(3) of the Exchange Act, for the three months ended February 25, 2023 and the approximate dollar value of shares that may yet be purchased pursuant to our stock repurchase program:
+Total
+Shares
+Purchased
+Average
+Price  Paid
+Total Number of Shares
+Purchased as Part of
+Publicly Announced Plans
+or Programs (1)
+Approximate Dollar Value of
+Shares that May Yet Be
+Purchased Under the Plans
+or Programs (1)
+November 27, 2022 - December 31, 2022
+60,000
+$
+17.87
+60,000
+$
+24,927
+January 1, 2023 - January 28, 2023
+34,785
+$
+18.07
+28,800
+$
+24,407
+January 29, 2023 - February 25, 2023
+13,298
+$
+19.01
+13,298
+$
+24,154
+(1)
+The Company is authorized to repurchase Company stock under a plan which was originally announced in 1998. On March 9, 2022, the Board of Directors increased the remaining limit of the repurchase plan to $40,000. At February 25, 2023, $24,154 remained available for share repurchases under the plan.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 6. Exhibits
+a.
+Exhibits:
+Exhibit 3a – Articles of Incorporation as amended to date are incorporated herein by reference to the Exhibit to Form 10-Q for the fiscal quarter ended February 28, 1994.
+Exhibit 3b –
+By-laws as amended to date are incorporated herein by reference to Exhibit 3.1 to Form 8-K filed with the SEC on November 23, 2022.
+Exhibit 4 – Registrant hereby agrees to furnish the SEC, upon request, other instruments defining the rights of holders of long-term debt of the Registrant.
+Exhibit 31a –
+Chief Executive Officer’s certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Exhibit 31b –
+Chief Financial Officer’s certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Exhibit 32a –
+Chief Executive Officer’s certification pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+Exhibit 32b –
+Chief Financial Officer’s certification pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+Exhibit 101.INS Inline XBRL Instance
+Exhibit 101.SCH Inline XBRL Taxonomy Extension Schema
+Exhibit 101.CAL Inline XBRL Taxonomy Extension Calculation
+Exhibit 101.DEF Inline XBRL Taxonomy Extension Definition
+Exhibit 101.LAB Inline XBRL Taxonomy Extension Labels
+Exhibit 101.PRE Inline XBRL Taxonomy Extension Presentation
+Exhibit 104. Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+33 of 34
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+BASSETT FURNITURE INDUSTRIES, INCORPORATED
+/s/
+Robert H. Spilman, Jr.
+Robert H. Spilman, Jr., Chairman and Chief Executive Officer
+March 30, 2023
+/s/
+J. Michael Daniel
+J. Michael Daniel, Senior Vice President and Chief Financial Officer
+March 30, 2023
+34 of 34

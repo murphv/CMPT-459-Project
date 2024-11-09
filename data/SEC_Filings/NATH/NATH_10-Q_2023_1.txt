@@ -1,0 +1,2335 @@
+5
+17
+6
+0
+0
+1
+1
+1
+1
+1
+0.25
+0.35
+0.45
+0.52
+0.79
+0.52
+0.80
+0.01
+0.01
+0000069733 2022-03-28 2022-12-25
+xbrli:shares
+0000069733 us-gaap:RestrictedStockMember nath:ExecutiveChairmanOfTheBoardMember 2022-12-08 2022-12-08
+iso4217:USD
+0000069733 2021-03-29 2021-12-26
+0000069733 2021-09-27 2021-12-26
+0000069733 2022-09-26 2022-12-25
+0000069733 2022-12-25
+xbrli:pure
+utr:Y
+0000069733 us-gaap:OtherIncomeMember 2021-03-29 2021-12-26
+0000069733 us-gaap:OtherIncomeMember 2022-03-28 2022-12-25
+0000069733 us-gaap:OtherIncomeMember 2021-09-27 2021-12-26
+0000069733 us-gaap:OtherIncomeMember 2022-09-26 2022-12-25
+0000069733 us-gaap:GeneralAndAdministrativeExpenseMember 2021-03-29 2021-12-26
+0000069733 us-gaap:GeneralAndAdministrativeExpenseMember 2022-03-28 2022-12-25
+0000069733 us-gaap:GeneralAndAdministrativeExpenseMember 2021-09-27 2021-12-26
+0000069733 us-gaap:GeneralAndAdministrativeExpenseMember 2022-09-26 2022-12-25
+0000069733 nath:RestaurantOperatingExpenseMember 2021-03-29 2021-12-26
+0000069733 nath:RestaurantOperatingExpenseMember 2022-03-28 2022-12-25
+0000069733 nath:RestaurantOperatingExpenseMember 2021-09-27 2021-12-26
+0000069733 nath:RestaurantOperatingExpenseMember 2022-09-26 2022-12-25
+0000069733 2022-03-27
+0000069733 nath:SeniorSecured2025NotesMember us-gaap:SeniorNotesMember 2022-03-27
+0000069733 nath:SeniorSecured2025NotesMember us-gaap:SeniorNotesMember 2022-12-25
+0000069733 nath:SeniorSecured2025NotesMember us-gaap:SeniorNotesMember 2022-09-25
+0000069733 nath:Plan10b51Member 2022-03-28 2022-12-25
+iso4217:USD xbrli:shares
+0000069733 nath:SixthStockRepurchasePlanMember 2016-03-12 2022-12-25
+0000069733 nath:SixthStockRepurchasePlanMember 2016-03-11
+0000069733 us-gaap:SubsequentEventMember 2023-02-02 2023-02-02
+0000069733 2022-11-04 2022-11-04
+0000069733 2022-08-05 2022-08-05
+0000069733 2022-06-10 2022-06-10
+0000069733 us-gaap:RestrictedStockMember 2022-03-28 2022-12-25
+0000069733 2021-03-29 2022-03-27
+0000069733 us-gaap:RestrictedStockMember 2021-03-29 2021-12-26
+0000069733 us-gaap:RestrictedStockMember 2021-09-27 2021-12-26
+0000069733 us-gaap:RestrictedStockMember 2022-09-26 2022-12-25
+0000069733 us-gaap:EmployeeStockOptionMember 2021-03-29 2021-12-26
+0000069733 us-gaap:EmployeeStockOptionMember 2022-03-28 2022-12-25
+0000069733 us-gaap:EmployeeStockOptionMember 2021-09-27 2021-12-26
+0000069733 us-gaap:EmployeeStockOptionMember 2022-09-26 2022-12-25
+0000069733 us-gaap:RestrictedStockMember nath:VestingOnDecember82027Member 2022-03-28 2022-12-25
+0000069733 us-gaap:RestrictedStockMember nath:VestingOnDecember82026Member 2022-03-28 2022-12-25
+0000069733 us-gaap:RestrictedStockMember nath:VestingOnDecember82025Member 2022-03-28 2022-12-25
+0000069733 us-gaap:RestrictedStockMember nath:VestingOnDecember82024Member 2022-03-28 2022-12-25
+0000069733 us-gaap:RestrictedStockMember nath:VestingOnDecember82023Member 2022-03-28 2022-12-25
+utr:M
+0000069733 us-gaap:CorporateNonSegmentMember 2021-03-29 2021-12-26
+0000069733 us-gaap:CorporateNonSegmentMember 2022-03-28 2022-12-25
+0000069733 us-gaap:CorporateNonSegmentMember 2021-09-27 2021-12-26
+0000069733 us-gaap:CorporateNonSegmentMember 2022-09-26 2022-12-25
+0000069733 us-gaap:OperatingSegmentsMember nath:RestaurantOperationsMember 2021-03-29 2021-12-26
+0000069733 us-gaap:OperatingSegmentsMember nath:RestaurantOperationsMember 2022-03-28 2022-12-25
+0000069733 us-gaap:OperatingSegmentsMember nath:RestaurantOperationsMember 2021-09-27 2021-12-26
+0000069733 us-gaap:OperatingSegmentsMember nath:RestaurantOperationsMember 2022-09-26 2022-12-25
+0000069733 us-gaap:OperatingSegmentsMember nath:ProductLicensingMember 2021-03-29 2021-12-26
+0000069733 us-gaap:OperatingSegmentsMember nath:ProductLicensingMember 2022-03-28 2022-12-25
+0000069733 us-gaap:OperatingSegmentsMember nath:ProductLicensingMember 2021-09-27 2021-12-26
+0000069733 us-gaap:OperatingSegmentsMember nath:ProductLicensingMember 2022-09-26 2022-12-25
+0000069733 us-gaap:OperatingSegmentsMember nath:BrandedProductProgramMember 2021-03-29 2021-12-26
+0000069733 us-gaap:OperatingSegmentsMember nath:BrandedProductProgramMember 2022-03-28 2022-12-25
+0000069733 us-gaap:OperatingSegmentsMember nath:BrandedProductProgramMember 2021-09-27 2021-12-26
+0000069733 us-gaap:OperatingSegmentsMember nath:BrandedProductProgramMember 2022-09-26 2022-12-25
+0000069733 nath:DeferredFranchiseFeesAndOtherDeferredRevenueMember 2022-03-27
+0000069733 nath:DeferredFranchiseFeesAndOtherDeferredRevenueMember 2022-12-25
+0000069733 2021-03-28
+utr:D
+0000069733 nath:OtherReceivablesMember 2022-03-27
+0000069733 nath:OtherReceivablesMember 2022-12-25
+0000069733 nath:FranchiseAndLicenseRoyaltiesMember 2022-03-27
+0000069733 nath:FranchiseAndLicenseRoyaltiesMember 2022-12-25
+0000069733 nath:BrandedProductSalesMember 2022-03-27
+0000069733 nath:BrandedProductSalesMember 2022-12-25
+0000069733 2027-03-29 2022-12-25
+0000069733 2026-03-30 2022-12-25
+0000069733 2025-03-31 2022-12-25
+0000069733 2024-04-01 2022-12-25
+0000069733 2023-03-27 2022-12-25
+0000069733 2022-12-26 2022-12-25
+0000069733 2021-12-26
+0000069733 us-gaap:NonUsMember 2021-03-29 2021-12-26
+0000069733 us-gaap:NonUsMember 2022-03-28 2022-12-25
+0000069733 us-gaap:NonUsMember 2021-09-27 2021-12-26
+0000069733 us-gaap:NonUsMember 2022-09-26 2022-12-25
+0000069733 country:US 2021-03-29 2021-12-26
+0000069733 country:US 2022-03-28 2022-12-25
+0000069733 country:US 2021-09-27 2021-12-26
+0000069733 country:US 2022-09-26 2022-12-25
+0000069733 nath:AdvertisingFundRevenueMember 2021-03-29 2021-12-26
+0000069733 nath:AdvertisingFundRevenueMember 2022-03-28 2022-12-25
+0000069733 nath:AdvertisingFundRevenueMember 2021-09-27 2021-12-26
+0000069733 nath:AdvertisingFundRevenueMember 2022-09-26 2022-12-25
+0000069733 nath:FranchiseFeesAndRoyaltiesMember 2021-03-29 2021-12-26
+0000069733 nath:FranchiseFeesAndRoyaltiesMember 2022-03-28 2022-12-25
+0000069733 nath:FranchiseFeesAndRoyaltiesMember 2021-09-27 2021-12-26
+0000069733 nath:FranchiseFeesAndRoyaltiesMember 2022-09-26 2022-12-25
+0000069733 us-gaap:FranchiseMember 2021-03-29 2021-12-26
+0000069733 us-gaap:FranchiseMember 2022-03-28 2022-12-25
+0000069733 us-gaap:FranchiseMember 2021-09-27 2021-12-26
+0000069733 us-gaap:FranchiseMember 2022-09-26 2022-12-25
+0000069733 nath:FranchiseRoyaltiesMember 2021-03-29 2021-12-26
+0000069733 nath:FranchiseRoyaltiesMember 2022-03-28 2022-12-25
+0000069733 nath:FranchiseRoyaltiesMember 2021-09-27 2021-12-26
+0000069733 nath:FranchiseRoyaltiesMember 2022-09-26 2022-12-25
+0000069733 us-gaap:LicenseMember 2021-03-29 2021-12-26
+0000069733 us-gaap:LicenseMember 2022-03-28 2022-12-25
+0000069733 us-gaap:LicenseMember 2021-09-27 2021-12-26
+0000069733 us-gaap:LicenseMember 2022-09-26 2022-12-25
+0000069733 us-gaap:ProductMember 2021-03-29 2021-12-26
+0000069733 us-gaap:ProductMember 2022-03-28 2022-12-25
+0000069733 us-gaap:ProductMember 2021-09-27 2021-12-26
+0000069733 us-gaap:ProductMember 2022-09-26 2022-12-25
+0000069733 nath:CompanyOperatedRestaurantsMember 2021-03-29 2021-12-26
+0000069733 nath:CompanyOperatedRestaurantsMember 2022-03-28 2022-12-25
+0000069733 nath:CompanyOperatedRestaurantsMember 2021-09-27 2021-12-26
+0000069733 nath:CompanyOperatedRestaurantsMember 2022-09-26 2022-12-25
+0000069733 nath:BrandedProductsMember 2021-03-29 2021-12-26
+0000069733 nath:BrandedProductsMember 2022-03-28 2022-12-25
+0000069733 nath:BrandedProductsMember 2021-09-27 2021-12-26
+0000069733 nath:BrandedProductsMember 2022-09-26 2022-12-25
+0000069733 nath:VirtualKitchensMember 2021-03-29 2021-12-26
+0000069733 us-gaap:TreasuryStockMember 2021-12-26
+0000069733 us-gaap:RetainedEarningsMember 2021-12-26
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2021-12-26
+0000069733 us-gaap:CommonStockMember 2021-12-26
+0000069733 us-gaap:RetainedEarningsMember 2021-03-29 2021-12-26
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2021-03-29 2021-12-26
+0000069733 us-gaap:TreasuryStockMember 2021-03-29 2021-12-26
+0000069733 us-gaap:CommonStockMember 2021-03-29 2021-12-26
+0000069733 us-gaap:TreasuryStockMember 2021-03-28
+0000069733 us-gaap:RetainedEarningsMember 2021-03-28
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2021-03-28
+0000069733 us-gaap:CommonStockMember 2021-03-28
+0000069733 us-gaap:TreasuryStockMember 2022-12-25
+0000069733 us-gaap:RetainedEarningsMember 2022-12-25
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2022-12-25
+0000069733 us-gaap:CommonStockMember 2022-12-25
+0000069733 us-gaap:TreasuryStockMember 2022-03-28 2022-12-25
+0000069733 us-gaap:RetainedEarningsMember 2022-03-28 2022-12-25
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2022-03-28 2022-12-25
+0000069733 us-gaap:TreasuryStockMember 2022-03-27
+0000069733 us-gaap:RetainedEarningsMember 2022-03-27
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2022-03-27
+0000069733 us-gaap:CommonStockMember 2022-03-27
+0000069733 us-gaap:TreasuryStockMember 2021-09-27 2021-12-26
+0000069733 us-gaap:RetainedEarningsMember 2021-09-27 2021-12-26
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2021-09-27 2021-12-26
+0000069733 us-gaap:CommonStockMember 2021-09-27 2021-12-26
+0000069733 2021-09-26
+0000069733 us-gaap:TreasuryStockMember 2021-09-26
+0000069733 us-gaap:RetainedEarningsMember 2021-09-26
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2021-09-26
+0000069733 us-gaap:CommonStockMember 2021-09-26
+0000069733 us-gaap:TreasuryStockMember 2022-09-26 2022-12-25
+0000069733 us-gaap:RetainedEarningsMember 2022-09-26 2022-12-25
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2022-09-26 2022-12-25
+0000069733 us-gaap:CommonStockMember 2022-09-26 2022-12-25
+0000069733 2022-09-25
+0000069733 us-gaap:TreasuryStockMember 2022-09-25
+0000069733 us-gaap:RetainedEarningsMember 2022-09-25
+0000069733 us-gaap:AdditionalPaidInCapitalMember 2022-09-25
+0000069733 us-gaap:CommonStockMember 2022-09-25
+0000069733 2023-02-02
+thunderdome:item
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 25, 2022 .
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT of 1934
+For the transition period from
+___________ to ____________.
+Commission File No.
+001-35962
+NATHAN'S FAMOUS, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+11-3166443
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+One Jericho Plaza, Second Floor – Wing A ,
+Jericho ,
+New York
+11753
+(Address and Zip Code of principal executive offices)
+( 516 )
+338-8500
+(Registrant's telephone number, including area code)
+________________________________________________________________
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $.01 per share
+NATH
+The
+NASDAQ
+Global Market
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer  ☐
+Accelerated filer   ☒
+Non-accelerated filer  ☐
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No ☒
+At
+February 2, 2023, an aggregate of
+4,079,720
+shares of the registrant's common stock, par value of $.01, were outstanding.
+-1-
+NATHAN'S FAMOUS, INC. AND SUBSIDIARIES
+INDEX
+Page
+Number
+PART I.
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements.
+3
+Consolidated Financial Statements
+Consolidated Balance Sheets – December 25, 2022 (Unaudited) and March 27, 2022
+3
+Consolidated Statements of Earnings (Unaudited) – Thirteen and Thirty-nine Weeks Ended December 25, 2022 and December 26, 2021
+4
+Consolidated Statements of Stockholders’ Deficit (Unaudited) – Thirteen Weeks Ended December 25, 2022 and December 26, 2021
+5
+Consolidated Statements of Stockholders’ Deficit (Unaudited) – Thirty-nine Weeks Ended December 25, 2022 and December 26, 2021
+6
+Consolidated Statements of Cash Flows (Unaudited) – Thirty-nine Weeks Ended December 25, 2022 and December 26, 2021
+7
+Notes to Consolidated Financial Statements
+8
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations.
+20
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk.
+30
+Item 4.
+Controls and Procedures.
+31
+PART II.
+OTHER INFORMATION
+Item 1.
+Legal Proceedings.
+32
+Item 1A.
+Risk Factors.
+32
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+32
+Item 3.
+Defaults Upon Senior Securities.
+32
+Item 4.
+Mine Safety Disclosures.
+32
+Item 5.
+Other Information.
+32
+Item 6.
+Exhibits.
+33
+SIGNATURES
+34
+-2-
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements.
+Nathan ’ s Famous, Inc. and Subsidiaries
+CONSOLIDATED BALANCE SHEETS
+December 25, 2022 and March 27, 2022
+(in thousands, except share and per share amounts)
+December 25, 2022
+March 27, 2022
+(Unaudited)
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents (Note E)
+$
+55,454
+$
+50,063
+Accounts and other receivables, net (Note G)
+13,042
+13,374
+Inventories
+336
+522
+Prepaid expenses and other current assets (Note H)
+1,109
+1,441
+Total current assets
+69,941
+65,400
+Property and equipment, net of accumulated depreciation of $ 10,824
+and $ 10,344 , respectively
+3,513
+3,785
+Operating lease assets (Note Q)
+6,604
+7,416
+Goodwill
+95
+95
+Intangible asset, net
+913
+1,043
+Deferred income taxes
+584
+582
+Other assets
+175
+195
+Total assets
+$
+81,825
+$
+78,516
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+CURRENT LIABILITIES
+Accounts payable
+$
+3,847
+$
+6,381
+Accrued expenses and other current liabilities (Note K)
+5,511
+7,833
+Current portion of operating lease liabilities (Note Q)
+1,827
+1,849
+Deferred franchise fees
+343
+349
+Total current liabilities
+11,528
+16,412
+Long-term debt, net of unamortized debt issuance costs of $ 1,436
+and $ 1,817 , respectively (Note P)
+108,564
+108,183
+Operating lease liabilities (Note Q)
+5,583
+6,487
+Other liabilities
+737
+674
+Deferred franchise fees
+1,378
+1,748
+Total liabilities
+127,790
+133,504
+COMMITMENTS AND CONTINGENCIES (Note R)
+STOCKHOLDERS’ DEFICIT
+Common stock, $ .01
+par value;
+30,000,000
+shares authorized;
+9,369,235
+shares issued; and
+4,079,720
+and
+4,115,154
+shares outstanding at December 25, 2022 and March 27, 2022, respectively
+94
+94
+Additional paid-in capital
+62,388
+62,307
+Accumulated deficit
+( 21,785
+)
+( 32,619
+)
+Stockholders’ equity before treasury stock
+40,697
+29,782
+Treasury stock, at cost,
+5,289,515
+and
+5,254,081
+shares at December 25, 2022 and March 27, 2022, respectively
+( 86,662
+)
+( 84,770
+)
+Total stockholders’ deficit
+( 45,965
+)
+( 54,988
+)
+Total liabilities and stockholders’ deficit
+$
+81,825
+$
+78,516
+The accompanying notes are an integral part of these consolidated financial statements.
+-3-
+Nathan ’ s Famous, Inc. and Subsidiaries
+CONSOLIDATED STATEMENTS OF EARNINGS
+Thirteen and Thirty-nine weeks ended December 25, 2022 and December 26, 2021
+(in thousands, except per share amounts)
+(Unaudited)
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+REVENUES
+Sales
+$
+18,340
+$
+18,637
+$
+72,535
+$
+61,462
+License royalties
+6,337
+5,878
+26,064
+24,218
+Franchise fees and royalties
+976
+919
+3,268
+2,993
+Advertising fund revenue
+501
+479
+1,504
+1,437
+Total revenues
+26,154
+25,913
+103,371
+90,110
+COSTS AND EXPENSES
+Cost of sales
+14,925
+16,040
+59,490
+51,536
+Restaurant operating expenses
+932
+547
+3,217
+2,874
+Depreciation and amortization
+303
+259
+837
+807
+General and administrative expenses
+3,161
+2,975
+10,122
+9,702
+Advertising fund expense
+501
+479
+1,679
+1,437
+Total costs and expenses
+19,822
+20,300
+75,345
+66,356
+Income from operations
+6,332
+5,613
+28,026
+23,754
+Interest expense
+( 1,944
+)
+( 2,650
+)
+( 5,831
+)
+( 7,951
+)
+Interest income
+158
+24
+260
+88
+Other (expense) income, net
+( 60
+)
+3
+( 4
+)
+24
+Income before provision for income taxes
+4,486
+2,990
+22,451
+15,915
+Provision for income taxes
+1,223
+860
+6,093
+4,477
+Net income
+$
+3,263
+$
+2,130
+$
+16,358
+$
+11,438
+PER SHARE INFORMATION
+Weighted average shares used in computing income per share:
+Basic
+4,080
+4,115
+4,092
+4,115
+Diluted
+4,116
+4,115
+4,104
+4,115
+Income per share:
+Basic
+$
+.80
+$
+.52
+$
+4.00
+$
+2.78
+Diluted
+$
+.79
+$
+.52
+$
+3.99
+$
+2.78
+Dividends declared per share
+$
+.45
+$
+.35
+$
+1.35
+$
+1.05
+The accompanying notes are an integral part of these consolidated financial statements.
+-4-
+Nathan ’ s Famous, Inc. and Subsidiaries
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS ’
+DEFICIT
+Thirteen weeks ended December 25, 2022 and December 26, 2021
+(in thousands, except share amounts)
+(Unaudited)
+Additional
+Total
+Common
+Common
+Paid-in
+Accumulated
+Treasury Stock, at Cost
+Stockholders’
+Shares
+Stock
+Capital
+Deficit
+Shares
+Amount
+Deficit
+Balance, September 25, 2022
+9,369,235
+$
+94
+$
+62,323
+$
+( 23,212
+)
+5,289,515
+$
+( 86,662
+)
+$
+( 47,457
+)
+Dividends on common stock
+-
+-
+-
+( 1,836
+)
+-
+-
+( 1,836
+)
+Share-based compensation
+-
+-
+65
+-
+-
+-
+65
+Net income
+-
+-
+-
+3,263
+-
+-
+3,263
+Balance, December 25, 2022
+9,369,235
+$
+94
+$
+62,388
+$
+( 21,785
+)
+5,289,515
+$
+( 86,662
+)
+$
+( 45,965
+)
+Additional
+Total
+Common
+Common
+Paid-in
+Accumulated
+Treasury Stock, at Cost
+Stockholders’
+Shares
+Stock
+Capital
+Deficit
+Shares
+Amount
+Deficit
+Balance, September 26, 2021
+9,369,235
+$
+94
+$
+62,291
+$
+( 33,614
+)
+5,254,081
+$
+( 84,770
+)
+$
+( 55,999
+)
+Dividends on common stock
+-
+-
+-
+( 1,440
+)
+-
+-
+( 1,440
+)
+Share-based compensation
+-
+-
+8
+-
+-
+-
+8
+Net income
+-
+-
+-
+2,130
+-
+-
+2,130
+Balance, December 26, 2021
+9,369,235
+$
+94
+$
+62,299
+$
+( 32,924
+)
+5,254,081
+$
+( 84,770
+)
+$
+( 55,301
+)
+The accompanying notes are an integral part of these consolidated financial statements.
+-5-
+Nathan ’ s Famous, Inc. and Subsidiaries
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS ’
+DEFICIT
+Thirty-nine weeks ended December 25, 2022 and December 26, 2021
+(in thousands, except share amounts)
+(Unaudited)
+Additional
+Total
+Common
+Common
+Paid-in
+Accumulated
+Treasury Stock, at Cost
+Stockholders’
+Shares
+Stock
+Capital
+Deficit
+Shares
+Amount
+Deficit
+Balance, March 27, 2022
+9,369,235
+$
+94
+$
+62,307
+$
+( 32,619
+)
+5,254,081
+$
+( 84,770
+)
+$
+( 54,988
+)
+Repurchase of common stock
+-
+-
+-
+-
+35,434
+( 1,892
+)
+( 1,892
+)
+Dividends on common stock
+-
+-
+-
+( 5,524
+)
+-
+-
+( 5,524
+)
+Share-based compensation
+-
+-
+81
+-
+-
+-
+81
+Net income
+-
+-
+-
+16,358
+-
+-
+16,358
+Balance, December 25, 2022
+9,369,235
+$
+94
+$
+62,388
+$
+( 21,785
+)
+5,289,515
+$
+( 86,662
+)
+$
+( 45,965
+)
+Additional
+Total
+Common
+Common
+Paid-in
+Accumulated
+Treasury Stock, at Cost
+Stockholders’
+Shares
+Stock
+Capital
+Deficit
+Shares
+Amount
+Deficit
+Balance, March 28, 2021
+9,369,015
+$
+94
+$
+62,240
+$
+( 40,042
+)
+5,254,081
+$
+( 84,770
+)
+$
+( 62,478
+)
+Shares issued in connection with share-based compensation plans
+220
+-
+-
+-
+-
+-
+-
+Withholding tax on net share settlement of share-based compensation plans
+-
+-
+( 7
+)
+-
+-
+-
+( 7
+)
+Dividends on common stock
+-
+-
+-
+( 4,320
+)
+-
+-
+( 4,320
+)
+Share-based compensation
+-
+-
+66
+-
+-
+-
+66
+Net income
+-
+-
+-
+11,438
+-
+-
+11,438
+Balance, December 26, 2021
+9,369,235
+$
+94
+$
+62,299
+$
+( 32,924
+)
+5,254,081
+$
+( 84,770
+)
+$
+( 55,301
+)
+The accompanying notes are an integral part of these consolidated financial statements.
+-6-
+Nathan ’ s Famous, Inc. and Subsidiaries
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Thirty-nine weeks ended December 25, 2022 and December 26, 2021
+(in thousands)
+(Unaudited)
+December 25,
+2022
+December 26,
+2021
+Cash flows from operating activities:
+Net income
+$
+16,358
+$
+11,438
+Adjustments to reconcile net income to net cash provided by operating activities
+Depreciation and amortization
+837
+807
+Loss on disposal of property and equipment
+87
+-
+Amortization of debt issuance costs
+381
+518
+Share-based compensation expense
+81
+66
+Provision for doubtful accounts
+114
+112
+Deferred income taxes
+( 2
+)
+( 10
+)
+Other non-cash items
+( 114
+)
+( 98
+)
+Changes in operating assets and liabilities:
+Accounts and other receivables, net
+218
+( 2,635
+)
+Inventories
+186
+253
+Prepaid expenses and other current assets
+332
+504
+Other assets
+20
+128
+Accounts payable, accrued expenses and other current liabilities
+( 4,856
+)
+( 1,395
+)
+Deferred franchise fees
+( 376
+)
+249
+Other liabilities
+63
+( 41
+)
+Net cash provided by operating activities
+13,329
+9,896
+Cash flows from investing activities:
+Insurance proceeds for property and equipment
+42
+-
+Purchase of property and equipment
+( 564
+)
+( 465
+)
+Net cash used in investing activities
+( 522
+)
+( 465
+)
+Cash flows from financing activities:
+Dividends paid to stockholders
+( 5,524
+)
+( 4,320
+)
+Payments of withholding tax on net share settlement of share-based compensation plans
+-
+( 7
+)
+Repurchase of treasury stock
+( 1,892
+)
+-
+Net cash used in financing activities
+( 7,416
+)
+( 4,327
+)
+Net increase in cash and cash equivalents
+5,391
+5,104
+Cash and cash equivalents, beginning of period
+50,063
+81,064
+Cash and cash equivalents, end of period
+$
+55,454
+$
+86,168
+Cash paid during the period for:
+Interest
+$
+7,288
+$
+9,938
+Income taxes paid
+$
+5,041
+$
+3,558
+Non-cash financing activity:
+Dividends declared per share
+$
+1.35
+$
+1.05
+The accompanying notes are an integral part of these consolidated financial statements.
+-7-
+NATHAN'S FAMOUS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 25, 2022
+(Unaudited)
+NOTE A - BASIS OF PRESENTATION
+The accompanying consolidated financial statements of Nathan's Famous, Inc. and subsidiaries (collectively “Nathan’s,” the “Company,” “we,” “us” or “our”) as of and for the thirteen and thirty-nine week periods ended December 25, 2022 and December 26, 2021 have been prepared in accordance with accounting principles generally accepted in the United States of America. The unaudited financial statements include all adjustments (consisting of normal recurring adjustments) which, in the opinion of management, are necessary for a fair presentation of financial condition, results of operations and cash flows for the periods presented. However, our results of operations are seasonal in nature, and the results of any interim period are not necessarily indicative of results for any other interim period or the full fiscal year.
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been omitted pursuant to the requirements of the U.S. Securities and Exchange Commission (“SEC”).
+Management believes that the disclosures included in the accompanying consolidated interim financial statements and footnotes are adequate to make the information not misleading, but should be read in conjunction with the Consolidated Financial Statements and Notes thereto included in Nathan’s Annual Report on Form 10-K for the fiscal year ended March 27, 2022 as filed with the SEC on June 10, 2022.
+Our significant interim accounting policies include the recognition of advertising fund expense in proportion to advertising funds revenue, and the recognition of income taxes using an estimated annual effective tax rate.
+A summary of the Company’s significant accounting policies is identified in Note B of the Notes to Consolidated Financial Statements included in the Company’s Annual Report on Form 10-K for the fiscal year ended March 27, 2022.
+COVID-19 Pandemic and Inflation
+In March 2020, the World Health Organization declared the novel strain of coronavirus (COVID-19), a global pandemic. The COVID-19 pandemic has had and may continue to have a significant impact on our business and results of operations.
+During fiscal 2022, we experienced pandemic and inflationary pressures, most notably within our Restaurant Operations and Branded Products Program segments. We experienced macroeconomic impacts arising from the long-term duration of the pandemic, including rising labor costs, increasing commodity prices, higher packaging costs and fuel prices, which contributed to a decline in consumer confidence and spending. We expect this trend to continue for the remainder of fiscal 2023. Our average cost of hot dogs for the thirty-nine week period ended December 25, 2022 was approximately
+3 % higher than during the thirty-nine week period ended December 26, 2021.
+Inflation has an impact on food, paper, utility, labor and benefits and other general and administrative expenses which can impact our results of operations. In general, we have been able to offset cost increases resulting from inflation by increasing prices. We may not be able to offset cost increases in the future.
+The Company’s franchisees and Branded Menu Program operators also have experienced some disruptions and challenges as a result of the pandemic including workforce absences, as well as changes in the availability and cost of labor, including higher wages and overtime costs.
+There is continued uncertainty due to the COVID-19 pandemic and supply chain disruptions and their impacts on the Company’s business. We remain in regular contact with our major suppliers and to date we have not experienced significant disruptions in our supply chain.
+The extent to which COVID-19 will continue to impact the Company will depend on future developments, which cannot be predicted, including the duration and severity of the COVID-19 pandemic, which may be impacted by new and evolving variants, the adoption rates of vaccines in the jurisdictions in which the Company operates, and further actions that may be taken to limit the public health and economic impact.
+Such impacts may include non-cash asset impairments and difficulty collecting trade receivables, among other things.
+-8-
+NOTE B – NEW ACCOUNTING STANDARD NOT YET ADOPTED
+In June 2016, the FASB issued ASU 2016-13, “ Financial Instruments
+–
+Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, ”
+which significantly changes the impairment model for most financial instruments. Current guidance requires the recognition of credit losses based on an incurred loss impairment methodology that reflects losses once the losses are probable. Under the new standard, the Company will be required to use a current expected credit loss model (“CECL”) that will immediately recognize an estimate of credit losses that are expected to occur over the life of the consolidated financial instruments that are in the scope of this update, including trade receivables. The CECL model uses a broader range of reasonable and supportable information in the development of credit loss estimates. In November 2019, the FASB deferred the effective date for smaller reporting companies for annual reporting periods beginning after December 15, 2022. This standard is required to take effect in Nathan’s first quarter (June 2023) of our fiscal year ending March 31, 2024. The Company is currently evaluating the impact that the adoption of this guidance will have on its consolidated financial statements and related disclosures.
+The Company does not believe that any other recently issued, but not yet effective accounting standards, when adopted, will have a material effect on the accompanying consolidated financial statements.
+NOTE C – REVENUES
+The Company’s disaggregated revenues for the thirteen and thirty-nine weeks ended December 25, 2022 and December 26, 2021 are as follows (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+Branded Products
+$
+16,661
+$
+16,901
+$
+61,862
+$
+51,960
+Company-owned restaurants
+1,679
+1,736
+10,673
+9,502
+Total sales
+18,340
+18,637
+72,535
+61,462
+License royalties
+6,337
+5,878
+26,064
+24,218
+Franchise royalties
+829
+744
+2,785
+2,581
+Franchise fees
+147
+175
+483
+412
+Total franchise fees and royalties
+976
+919
+3,268
+2,993
+Advertising fund revenue
+501
+479
+1,504
+1,437
+Total revenues
+$
+26,154
+$
+25,913
+$
+103,371
+$
+90,110
+The following table disaggregates revenues by primary geographical market (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+United States
+$
+24,824
+$
+25,066
+$
+98,836
+$
+87,545
+International
+1,330
+847
+4,535
+2,565
+Total revenues
+$
+26,154
+$
+25,913
+$
+103,371
+$
+90,110
+-9-
+Contract balances
+The following table provides information about contract receivables and liabilities (deferred franchise fees) from contracts with customers (in thousands):
+December 25,
+2022
+March 27,
+2022
+Receivables, which are included in “Accounts and other receivables, net” (a)
+$
+-
+$
+312
+Deferred franchise fees (b)
+$
+1,721
+$
+2,097
+(a)
+Includes receivables related to “franchise fees and royalties”
+(b)
+Deferred franchise fees of $ 343
+and $ 1,378
+as of December 25, 2022 and $ 349
+and $ 1,748
+as of March 27, 2022 are included in Deferred franchise fees – current and long term, respectively.
+Significant changes in deferred franchise fees are as follows (in thousands):
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+Deferred franchise fees at beginning of period
+$
+2,097
+$
+1,773
+New deferrals due to cash received and other
+107
+661
+Revenue recognized during the period
+( 483
+)
+( 412
+)
+Deferred franchise fees at end of period
+$
+1,721
+$
+2,022
+Anticipated future recognition of deferred franchise fees
+The following table reflects the estimated franchise fees to be recognized in the future related to performance obligations that are unsatisfied at the end of the period (in thousands):
+Estimate for fiscal year
+2023 (a)
+$
+86
+2024
+339
+2025
+322
+2026
+287
+2027
+168
+Thereafter
+519
+Total
+$
+1,721
+(a)
+Represents franchise fees expected to be recognized for the remainder of the 2023 fiscal year, which includes international development fees expected to be recognized over the duration of
+one
+year or less. Amount does not include $ 483
+of franchise fee revenue recognized for the thirty-nine weeks ended December 25, 2022.
+We have applied the optional exemption, as provided for under ASC Topic 606,
+Revenues from Contracts with Customers , which allows us to not disclose the transaction price allocated to unsatisfied performance obligations when the transaction price is a sales-based royalty.
+NOTE D – INCOME PER SHARE
+Basic income per common share is calculated by dividing income by the weighted-average number of common shares outstanding and excludes any dilutive effect of stock options. Diluted income per common share gives effect to all potentially dilutive common shares that were outstanding during the period. Dilutive common shares used in the computation of diluted income per common share result from the assumed exercise of stock options and warrants, as determined using the treasury stock method.
+-10-
+The following chart provides a reconciliation of information used in calculating the per-share amounts for the thirteen and thirty-nine week periods ended December 25, 2022 and December 26, 2021, respectively.
+Thirteen weeks
+Net Income
+Net Income
+Number of Shares
+Per Share
+2022
+2021
+2022
+2021
+2022
+2021
+(in thousands)
+(in thousands)
+Basic EPS
+Basic calculation
+$
+3,263
+$
+2,130
+4,080
+4,115
+$
+0.80
+$
+0.52
+Effect of dilutive employee stock options
+-
+-
+36
+-
+( 0.01
+)
+-
+Diluted EPS
+Diluted calculation
+$
+3,263
+$
+2,130
+4,116
+4,115
+$
+0.79
+$
+0.52
+Thirty-nine weeks
+Net Income
+Net Income
+Number of Shares
+Per Share
+2022
+2021
+2022
+2021
+2022
+2021
+(in thousands)
+(in thousands)
+Basic EPS
+Basic calculation
+$
+16,358
+$
+11,438
+4,092
+4,115
+$
+4.00
+$
+2.78
+Effect of dilutive employee stock options
+-
+-
+12
+-
+( 0.01
+)
+-
+Diluted EPS
+Diluted calculation
+$
+16,358
+$
+11,438
+4,104
+4,115
+$
+3.99
+$
+2.78
+Options to purchase
+20,000
+shares of common stock in the thirteen and thirty-nine week periods ended December 25, 2022 and December 26, 2021, were not included in the computation of diluted EPS because the exercise price exceeded the average market price of common shares during the period.
+NOTE E – CASH AND CASH EQUIVALENTS
+The Company considers all highly liquid instruments purchased with an original maturity of three months or less to be cash equivalents. The Company did
+not
+have any cash equivalents at December 25, 2022 and March 27, 2022. The Company’s cash balances principally consist of cash in bank and money market accounts.
+At December 25, 2022 and March 27, 2022, substantially all of the Company’s cash balances are in excess of Federal government insurance limits. The Company has not experienced any losses in such accounts.
+NOTE F – FAIR VALUE MEASUREMENTS
+Nathan’s follows a three-level fair value hierarchy that prioritizes the inputs to measure fair value. This hierarchy requires entities to maximize the use of “observable inputs” and minimize the use of “unobservable inputs.” The valuation hierarchy is based upon the transparency of inputs to the valuation of an asset or liability on the measurement date. The three levels are defined as follows:
+●  Level 1 - inputs to the valuation methodology are quoted prices (unadjusted) for an identical asset or liability in an active market
+●  Level 2 - inputs to the valuation methodology include quoted prices for a similar asset or liability in an active market or model-derived valuations in which all significant inputs are observable for substantially the full term of the asset or liability
+●  Level 3 - inputs to the valuation methodology are unobservable and significant to the fair value measurement of the asset or liability
+-11-
+The face value and fair value of long-term debt as of December 25, 2022 and March 27, 2022 were as follows (in thousands):
+December 25, 2022
+March 27, 2022
+Face value
+Fair value
+Face value
+Fair value
+Long-term debt
+$
+110,000
+$
+107,497
+$
+110,000
+$
+111,346
+The Company estimates the fair value of its long-term debt based upon review of observable pricing in secondary markets as of the last trading day of the fiscal period. Accordingly, the Company classifies its long-term debt as Level 2.
+The carrying amounts of cash and cash equivalents, accounts receivable and accounts payable approximate fair value due to the short-term maturity of the instruments.
+Certain non-financial assets and liabilities are measured at fair value on a non-recurring basis; that is, the assets and liabilities are not measured at fair value on an ongoing basis, but are subject to fair value adjustments in certain circumstances, such as when evidence of impairment exists. At December 25, 2022, no fair value adjustment or material fair value measurements were required for non-financial assets or liabilities.
+NOTE G – ACCOUNTS AND OTHER RECEIVABLES, NET
+Accounts and other receivables, net, consist of the following (in thousands):
+December 25,
+March 27,
+2022
+2022
+Branded product sales
+$
+9,301
+$
+9,318
+Franchise and license royalties
+3,276
+3,923
+Other
+753
+391
+13,330
+13,632
+Less: allowance for doubtful accounts
+288
+258
+Accounts and other receivables, net
+$
+13,042
+$
+13,374
+Accounts receivable are generally due within
+30
+days and are stated at amounts due from franchisees, including virtual kitchens, retail licensees and Branded Product Program customers, net of an allowance for doubtful accounts. Accounts that are outstanding longer than the contractual payment terms are generally considered past due. The Company does not recognize franchise and license royalties that are not deemed to be realizable.
+The Company individually reviews each past due account and determines its allowance for doubtful accounts by considering a number of factors, including the length of time accounts receivable are past due, the Company’s previous loss history, the customer’s current and expected future ability to pay its obligation to the Company, the condition of the general economy and the industry as a whole. Based on management’s assessment, the Company provides for estimated uncollectible amounts through a charge to earnings. After the Company has used reasonable collection efforts, it writes off accounts receivable through a charge to the allowance for doubtful accounts.
+Changes in the Company’s allowance for doubtful accounts for the thirty-nine week period ended December 25, 2022 and the fiscal year ended March 27, 2022 are as follows (in thousands):
+December 25,
+2022
+March 27,
+2022
+Beginning balance
+$
+258
+$
+345
+Bad debt expense
+114
+186
+Write offs and other
+( 84
+)
+( 273
+)
+Ending balance
+$
+288
+$
+258
+-12-
+NOTE H – PREPAID EXPENSES AND OTHER CURRENT ASSETS
+Prepaid expenses and other current assets consist of the following (in thousands):
+December 25,
+March 27,
+2022
+2022
+Real estate taxes
+$
+151
+$
+71
+Insurance
+306
+327
+Marketing
+372
+653
+Other
+280
+390
+Total prepaid expenses and other current assets
+$
+1,109
+$
+1,441
+NOTE I – INTANGIBLE ASSET
+The Company’s definite-lived intangible asset consists of trademarks, and the trade name and other intellectual property in connection with its Arthur Treacher’s co-branding agreements. Based upon review of the current Arthur Treacher’s co-branding agreements, the Company determined that the remaining useful lives of these agreements is
+six
+years concluding in fiscal year 2028, and the intangible asset is subject to annual amortization. The Company performs an annual impairment test, or more frequently if events or changes in circumstances indicate that the intangible asset may be impaired. The Company tests for recoverability of its definite-lived intangible asset based on the projected undiscounted cash flows to be derived from such co-branding agreements. Cash flow projections require significant estimates and assumptions by management. Should the estimates and assumptions prove to be incorrect, the Company may be required to record an impairment charge in future periods and such impairment could be material.
+There have been no significant events or changes in circumstances during the thirteen and thirty-nine week periods ended December 25, 2022 that would indicate that the carrying amount of the Company’s intangible asset may be impaired as of December 25, 2022.
+NOTE J - LONG LIVED ASSETS
+Long-lived assets on a restaurant-by-restaurant basis are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+Long-lived assets include property, equipment and right-of-use assets for operating leases with finite useful lives. Assets are grouped at the individual restaurant level which represents the lowest level for which cash flows can be identified largely independent of the cash flows of other assets and liabilities. The Company generally considers a history of restaurant operating losses to be its primary indicator of potential impairment for individual restaurant locations.
+The Company tests for recoverability based on the projected undiscounted cash flows to be derived from such assets. If the projected undiscounted future cash flows are less than the carrying value of the asset, the Company will record on a restaurant-by-restaurant basis, an impairment loss, if any, based on the difference between the estimated fair value and the carrying value of the asset. The Company generally measures fair value by considering discounted estimated future cash flows from such assets. Cash flow projections and fair value estimates require significant estimates and assumptions by management. Should the estimates and assumptions prove to be incorrect, the Company may be required to record impairment charges in future periods and such impairments could be material.
+There have been no significant events or changes in circumstances during the thirteen and thirty-nine week periods ended December 25, 2022 that would indicate that the carrying amount of the Company’s long-lived assets may be impaired as of December 25, 2022.
+-13-
+NOTE K – ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+Accrued expenses and other current liabilities consist of the following (in thousands):
+December 25,
+March 27,
+2022
+2022
+Payroll and other benefits
+$
+2,590
+$
+3,109
+Accrued rebates
+156
+166
+Rent and occupancy costs
+118
+90
+Deferred revenue
+-
+876
+Construction costs
+-
+58
+Interest
+1,131
+2,968
+Professional fees
+71
+129
+Sales, use and other taxes
+55
+39
+Corporate income taxes
+1,094
+103
+Other
+296
+295
+Total accrued expenses and other current liabilities
+$
+5,511
+$
+7,833
+NOTE L – INCOME TAXES
+The effective income tax rates for the thirteen weeks ended December 25, 2022 and December 26, 2021 were
+27.3 % and
+28.8 %, respectively. The effective income tax rate for the thirteen weeks ended December 25, 2022 reflected $ 1,223
+of income tax expense recorded on $ 4,486
+of pre-tax income. The effective income tax rate for the thirteen weeks ended December 26, 2021 reflected $ 860
+of income tax expense recorded on $ 2,990
+of pre-tax income.
+The effective income tax rates for the thirty-nine weeks ended December 25, 2022 and December 26, 2021 were
+27.1 % and
+28.1 %, respectively. The effective income tax rate for the thirty-nine weeks ended December 25, 2022 reflected $ 6,093
+of income tax expense recorded on $ 22,451
+of pre-tax income. The effective income tax rate for the thirty-nine weeks ended December 26, 2021 reflected $ 4,477
+of income tax expense recorded on $ 15,915
+of pre-tax income.
+The effective income tax rates for the thirteen and thirty-nine weeks ended December 25, 2022 and December 26, 2021 were higher than the United States statutory income tax rate primarily due to state and local taxes.
+The amount of unrecognized tax benefits included in Other Liabilities at December 25, 2022 and March 27, 2022 was $ 437
+and $ 403 , respectively, all of which would impact the Company’s effective tax rate, if recognized. As of December 25, 2022 and March 27, 2022, the Company had approximately $ 315
+and $ 271 , respectively, accrued for the payment of interest and penalties in connection with unrecognized tax benefits.
+On August 16, 2022, the United States enacted the Inflation Reduction Act. Among other provisions, this new law imposes a 1% excise tax on stock buybacks made after December 31, 2022, with certain exceptions including stock repurchases of less than $1,000 within a tax year. We are not expecting this new law to have a material effect on our consolidated financial statements.
+NOTE M – SEGMENT INFORMATION
+Nathan’s considers itself to be a brand marketer of the Nathan’s Famous signature products to the foodservice industry pursuant to its various business structures. Nathan’s sells its products directly to consumers through its restaurant operations segment consisting of Company-owned and franchised restaurants, including virtual kitchens, to distributors that resell our products to the foodservice industry through the Branded Product Program and by third party manufacturers pursuant to license agreements that sell our products to club stores and grocery stores nationwide. The Company’s Chief Executive Officer has been identified as the Chief Operating Decision Maker (“CODM”) who evaluates performance and allocates resources for the Branded Product Program, Product Licensing and Restaurant Operations segments based upon a number of factors, the primary profit measure being income from operations. Certain administrative expenses are not allocated to the segments and are reported within the Corporate segment.
+Branded Product Program
+– This segment derives revenue principally from the sale of hot dog products either directly to foodservice operators or to various foodservice distributors who resell the products to foodservice operators.
+Product licensing
+– This segment derives revenue, primarily in the form of royalties, from licensing a broad variety of Nathan’s Famous branded products, including our hot dogs, sausage and corned beef products, frozen French fries and additional products through retail grocery channels and club stores throughout the United States.
+-14-
+Restaurant operations
+– This segment derives revenue from the sale of our products at Company-owned restaurants and earns fees and royalties from its franchised restaurants, including its virtual kitchens.
+Revenues from operating segments are from transactions with unaffiliated third parties and do not include any intersegment revenues.
+Income from operations attributable to Corporate consists principally of administrative expenses not allocated to the operating segments such as executive management, finance, information technology, legal, insurance, corporate office costs, corporate incentive compensation and compliance costs and expenses of the Advertising Fund.
+Interest expense, interest income, and other (expense) income, net, are managed centrally at the corporate level, and, accordingly, such items are not presented by segment since they are excluded from the measure of profitability reviewed by the CODM.
+Operating segment information is as follows (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+Revenues
+Branded Product Program
+$
+16,661
+$
+16,901
+$
+61,862
+$
+51,960
+Product licensing
+6,337
+5,878
+26,064
+24,218
+Restaurant operations
+2,655
+2,655
+13,941
+12,495
+Corporate (1)
+501
+479
+1,504
+1,437
+Total revenues
+$
+26,154
+$
+25,913
+$
+103,371
+$
+90,110
+Income from operations
+Branded Product Program
+$
+2,451
+$
+1,681
+$
+7,003
+$
+5,096
+Product licensing
+6,292
+5,832
+25,928
+24,081
+Restaurant operations
+( 238
+)
+( 69
+)
+1,879
+623
+Corporate
+( 2,173
+)
+( 1,831
+)
+( 6,784
+)
+( 6,046
+)
+Income from operations
+$
+6,332
+$
+5,613
+$
+28,026
+$
+23,754
+Interest expense
+( 1,944
+)
+( 2,650
+)
+( 5,831
+)
+( 7,951
+)
+Interest income
+158
+24
+260
+88
+Other (expense) income, net
+( 60
+)
+3
+( 4
+)
+24
+Income before provision for income taxes
+$
+4,486
+$
+2,990
+$
+22,451
+$
+15,915
+(1)
+Represents advertising fund revenue.
+NOTE N – SHARE-BASED COMPENSATION
+Total share-based compensation during each of the thirteen and thirty-nine week periods ended December 25, 2022 and December 26, 2021 was $ 65
+and $ 8 , and $ 81
+and $ 66 , respectively. As of December 25, 2022, there was $ 3,409
+of unamortized compensation expense related to share-based incentive awards. We expect to recognize this expense over approximately
+fifty-five
+months, which represents the weighted average remaining requisite service periods for such awards.
+During the thirty-nine week period ended December 25, 2022, the Company granted
+50,000
+restricted stock units at a fair value of $ 67.59
+per unit representing the closing price on the date of grant, which will be fully vested
+five
+years from the date of grant. The restricted stock units vest ratably over a five-year period as follows:
+10,000
+restricted stock units on December 8, 2023;
+10,000
+restricted stock units on December 8, 2024;
+10,000
+restricted stock units on December 8, 2025;
+10,000
+restricted stock units on December 8, 2026; and
+10,000
+restricted stock units on December 8, 2027.
+The Company recognizes compensation cost for unvested stock-based incentive awards on a straight-line basis over the requisite service period. Compensation cost charged to expense under all stock-based incentive awards is as follows (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+Stock options
+$
+8
+$
+8
+$
+24
+$
+52
+Restricted stock units
+57
+-
+57
+14
+Total compensation cost
+$
+65
+$
+8
+$
+81
+$
+66
+-15-
+Stock options:
+There were no new share-based awards granted during the thirty-nine week period ended December 25, 2022.
+Transactions with respect to stock options for the thirty-nine weeks ended December 25, 2022 are as follows:
+Weighted-
+Weighted-
+Aggregate
+Average
+Average
+Intrinsic
+Exercise
+Remaining
+Value
+Shares
+Price
+Contractual Life
+(in thousands)
+Options outstanding at March 27, 2022
+20,000
+$
+79.20
+2.92
+-
+Granted
+-
+-
+-
+-
+Exercised
+-
+-
+-
+-
+Options outstanding at December 25, 2022
+20,000
+$
+79.20
+2.17
+-
+Options exercisable at December 25, 2022
+12,500
+$
+85.62
+1.29
+-
+Restricted stock units:
+Transactions with respect to restricted stock units for the thirty-nine weeks ended December 25, 2022 are as follows:
+Weighted-
+Average
+Grant-date
+Fair value
+Shares
+Per share
+Unvested restricted stock units at March 27, 2022
+--
+$
+--
+Granted
+50,000
+$
+67.59
+Vested
+--
+$
+-
+Unvested restricted stock units at December 25, 2022
+50,000
+$
+67.59
+NOTE O– STOCKHOLDERS’ EQUITY
+1.
+Dividends
+Effective June 10, 2022, the Company’s Board of Directors (the “Board”) declared its first quarterly cash dividend of $ 0.45
+per share for fiscal 2023, which was paid on June 24, 2022 to stockholders of record as of the close of business on June 20, 2022.
+Effective August 5, 2022, the Board declared its second quarterly cash dividend of $ 0.45
+per share for fiscal 2023, which was paid on September 2, 2022 to stockholders of record as of the close of business on August 22, 2022.
+Effective November 3, 2022, the Board declared its third quarterly cash dividend of $ 0.45
+per share for fiscal 2023 which was paid on December 2, 2022 to stockholders of record as of the close of business on November 21, 2022.
+Effective February 2, 2023, the Board authorized the increase of its regular dividend from $0.45 to $0.50 per quarter and declared its fourth quarterly cash dividend of $ 0.50
+per share payable on March 3, 2023 to stockholders of record as of the close of business on February 21, 2023.
+Our ability to pay future dividends is limited by the terms of the Indenture with U.S. Bank National Association, as trustee and collateral trustee. In addition to the terms of the Indenture, the declaration and payment of any cash dividends in the future are subject to final determination of the Board and will be dependent upon our earnings and financial requirements.
+2. Stock Repurchase Program
+In 2016, the Board authorized increases to the sixth stock repurchase plan for the purchase of up to
+1,200,000
+shares of its common stock on behalf of the Company. As of December 25, 2022, Nathan’s had repurchased
+1,101,884
+shares at a cost of $ 39,000
+under the sixth stock repurchase plan. At December 25, 2022 there were 98,116 shares remaining to be repurchased pursuant to the sixth stock repurchase plan. The plan does not have a set expiration date. Purchases under the Company’s stock repurchase program may be made from time to time, depending on market conditions, in open market or privately-negotiated transactions, at prices deemed appropriate by management. There is no set time limit on the repurchases.
+-16-
+On June 14, 2022, the Board approved a 10b5-1 Plan (the “10b5-1 Plan”) which expired on September 13, 2022.
+During the thirty-nine week period ended December 25, 2022, the Company repurchased in open market transactions
+35,434
+shares of the Company’s common stock at an average share price of $ 53.39
+for a total cost of $ 1,892
+under the 10b5-1 Plan.
+NOTE P – LONG-TERM DEBT
+Long-term debt consists of the following (in thousands):
+December 25,
+March 27,
+2022
+2022
+6.625 % Senior Secured Notes due 2025
+$
+110,000
+$
+110,000
+Less: unamortized debt issuance costs
+( 1,436
+)
+( 1,817
+)
+Long-term debt, net
+$
+108,564
+$
+108,183
+NOTE Q – LEASES
+The Company is party as lessee to various leases for its Company-owned restaurants and lessee/sublessor to one franchised location property, including land and buildings, as well as leases for its corporate office and certain office equipment.
+Company as lessee
+The components of the net lease cost for the thirteen and thirty-nine week periods ended December 25, 2022 and December 26, 2021 were as follows (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+Operating lease cost
+$
+378
+$
+378
+$
+1,214
+$
+1,223
+Variable lease cost
+396
+57
+1,246
+1,023
+Less: Sublease income, net
+( 22
+)
+( 41
+)
+( 64
+)
+( 62
+)
+Total net lease cost
+$
+752
+$
+394
+$
+2,396
+$
+2,184
+The following table presents the components of the net lease cost on the Consolidated Statement of Earnings for the thirteen and thirty-nine week periods ended December 25, 2022 and December 26, 2021 (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+Restaurant operating expenses
+$
+589
+$
+243
+$
+1,908
+$
+1,713
+General and administrative expenses
+185
+192
+552
+533
+Less: Other income, net
+( 22
+)
+( 41
+)
+( 64
+)
+( 62
+)
+Total net lease cost
+$
+752
+$
+394
+$
+2,396
+$
+2,184
+Cash paid for amounts included in the measurement of lease liabilities were as follows (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+Operating cash flows from operating leases
+$
+216
+$
+187
+$
+950
+$
+544
+-17-
+The weighted average remaining lease term and weighted average discount rate for operating leases as of December 25, 2022 were as follows:
+Weighted average remaining lease term (years):
+5.6
+Weighted average discount rate:
+8.868
+%
+Future lease commitments to be paid and received by the Company as of December 25, 2022 were as follows (in thousands):
+Payments
+Receipts
+Operating Leases
+Subleases
+Net Leases
+Fiscal year:
+2023 (a)
+$
+383
+$
+42
+$
+341
+2024
+1,782
+271
+1,511
+2025
+1,687
+274
+1,413
+2026
+1,717
+278
+1,439
+2027
+1,726
+281
+1,445
+Thereafter
+2,036
+624
+1,412
+Total lease commitments
+$
+9,331
+$
+1,770
+$
+7,561
+Less: Amount representing interest
+1,921
+Present value of lease liabilities (b)
+$
+7,410
+(a)
+Represents future lease commitments to be paid and received by the Company for the remainder of the 2023 fiscal year. Amount does not include $ 1,216   of lease commitments paid and received by the Company for the thirty-nine week period ended December 25, 2022.
+(b)
+The present value of minimum operating lease payments of $ 1,827
+and $ 5,583   are included in “Current portion of operating lease liabilities” and “Long-term operating lease liabilities,” respectively on the Consolidated Balance Sheet.
+Company as lessor
+The components of lease income for the thirteen and thirty-nine week periods ended December 25, 2022 and December 26, 2021 were as follows (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+Operating lease income, net
+$
+22
+$
+41
+$
+64
+$
+62
+NOTE R – COMMITMENTS AND CONTINGENCIES
+1.
+Commitments
+On December 8, 2022, the Company amended its employment agreement with its Executive Chairman of the Board, Howard M. Lorber. Under the amendment, the term of the employment agreement was extended from December 31, 2022 to December 31, 2027. In addition, Mr. Lorber received a grant of
+50,000
+restricted stock units subject to vesting as provided in a Restricted Stock Unit Award Agreement between Mr. Lorber and the Company.
+2.
+Contingencies
+The Company and its subsidiaries are from time to time involved in ordinary and routine litigation. Management presently believes that the ultimate outcome of these proceedings, individually or in the aggregate, will not have a material adverse effect on the Company’s financial position, cash flows or results of operations. Nevertheless, litigation is subject to inherent uncertainties and unfavorable rulings could occur. An unfavorable ruling could include money damages and, in such event, could result in a material adverse impact on the Company’s results of operations for the period in which the ruling occurs.
+-18-
+NOTE S – SUBSEQUENT EVENTS
+The Company evaluated subsequent events through the date the Consolidated Financial Statements were issued and filed with the SEC. There were no subsequent events that require recognition or disclosure.
+-19-
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Forward-Looking Statements
+This Form 10-Q contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended and Section 21E of the Securities Exchange Act of 1933, as amended, that involve risks and uncertainties. You can identify forward-looking statements because they contain words such as “believes”, “expects”, “projects”, “may”, “would”, “should”, “seeks”, “intends”, “plans”, “estimates”, “anticipates” or similar expressions that relate to our strategy, plans or intentions. All statements we make relating to our estimated and projected earnings, margins, costs, expenditures, cash flows, growth rates and financial results or to our expectations regarding future industry trends are forward-looking statements. In addition, we, through our senior management, from time to time make forward-looking public statements concerning our expected future operations and performance and other developments. These forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may change at any time, and, therefore, our actual results may differ materially from those that we expected. We derive many of our forward-looking statements from our operating budgets and forecasts, which are based upon many detailed assumptions. While we believe that our assumptions are reasonable, we caution that it is very difficult to predict the impact of known factors, and, of course, it is impossible for us to anticipate all factors that could affect our actual results. All forward-looking statements contained in this Form 10-Q are based upon information available to us on the date of this Form 10-Q.
+Statements in this Form 10-Q quarterly report may be “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include, but are not limited to, statements that express our intentions, beliefs, expectations, strategies, predictions or any other statements relating to our future activities or other future events or conditions. These statements are based on current expectations, estimates and projections about our business based, in part, on assumptions made by management. These statements are not guarantees of future performance and involve risks, uncertainties and assumptions that are difficult to predict. These risks and uncertainties, many of which are not within our control, include but are not limited to: the impact of the COVID-19 pandemic; the status of our licensing and supply agreements, including our licensing revenue and overall profitability being substantially dependent on our agreement with John Morrell & Co., a wholly-owned subsidiary of Smithfield Foods, Inc., the impact of our debt service and repayment obligations under the 2025 Notes, including the effect on our ability to fund working capital, operations and make new investments; economic (including inflationary pressures like those currently being experienced), weather (including the impact on the supply of cattle and the impact on sales at our restaurants, particularly during the summer months), and change in the price of beef trimmings; our ability to pass on the cost of any price increases in beef and beef trimmings, or labor costs; legislative and business conditions; the collectibility of receivables; changes in consumer tastes; the continued viability of Coney Island as a destination location for visitors; the ability to continue to attract franchisees; the impact of the minimum wage legislation on labor costs in New York State or other changes in labor laws, including regulations which could render a franchisor as a “joint employee” or the impact of our union contracts; our ability to attract competent restaurant and managerial personnel; the enforceability of international franchising agreements; the future effects of any food borne illness such as bovine spongiform encephalopathy, BSE or e-coli; as well as those risks discussed from time to time in this Form 10-Q and our Form 10-K annual report for the year ended March 27, 2022, and in other documents we file with the U.S. Securities and Exchange Commission. Therefore, actual outcomes and results may differ materially from what is expressed or forecasted in the forward-looking statements. We generally identify forward-looking statements with the words “believe,” “intend,” “plan,” “expect,” “anticipate,” “estimate,” “will,” “should” and similar expressions. Any forward-looking statements speak only as of the date on which they are made, and we do not undertake any obligation to update any forward-looking statement to reflect events or circumstances after the date of this Form 10-Q.
+Introduction
+As used in this Report, the terms “we”, “us”, “our”, “Nathan’s” or the “Company” mean Nathan’s Famous, Inc. and its subsidiaries (unless the context indicates a different meaning).
+We are engaged primarily in the marketing of the “Nathan’s Famous” brand and the sale of products bearing the “Nathan’s Famous” trademarks through several different channels of distribution. Historically, our business has been the operation and franchising of quick-service restaurants featuring Nathan’s World Famous Beef Hot Dogs, crinkle-cut French-fried potatoes, and a variety of other menu offerings. Our Company-owned and franchised units operate under the name “Nathan’s Famous,” the name first used at our original Coney Island restaurant opened in 1916. Nathan’s product licensing program sells packaged hot dogs and other meat products to retail customers through supermarkets or grocery-type retailers for off-site consumption. Our Branded Product Program enables foodservice retailers and others to sell some of Nathan’s proprietary products outside of the realm of a traditional franchise relationship. In conjunction with this program, purchasers of Nathan’s products are granted a limited use of the Nathan’s Famous trademark with respect to the sale of the purchased products, including Nathan’s World Famous Beef Hot Dogs, certain other proprietary food items and paper goods. Our Branded Menu Program is a limited franchise program, under which foodservice operators may sell a greater variety of Nathan’s Famous menu items than under the Branded Product Program.
+-20-
+Our revenues are generated primarily from selling products under Nathan’s Branded Product Program, operating Company-owned restaurants, licensing agreements for the sale of Nathan’s products within supermarkets and club stores, the sale of Nathan’s products directly to other foodservice operators and the manufacture of certain proprietary spices by third parties and the royalties, fees and other sums we can earn from franchising the Nathan’s restaurant concept (including the Branded Menu Program and virtual kitchens).
+At December 25, 2022, our restaurant system, excluding virtual kitchens, consisted of 233 Nathan’s franchised units, including 120 Branded Menu Program units, and four Company-owned units (including one seasonal unit), located in 17 states, and 12 foreign countries (including 2 Branded Menu units in Ukraine which are temporarily closed as a result of the Russia-Ukraine conflict). Our virtual kitchens in operation consisted of 226 units located in 19 states and four foreign countries.
+At December 26, 2021, our restaurant system, excluding virtual kitchens, consisted of 242 Nathan’s franchised units, including 120 Branded Menu Program units, and four Company-owned units (including one seasonal unit), located in 18
+states, and 14 foreign countries. Our virtual kitchens in operation consisted of 277 units located in 20 states and six foreign countries.
+Our primary focus is to expand the market penetration of the Nathan’s Famous brand by increasing the number of distribution points for our products across all of our business platforms, including our Licensing Program for distribution of Nathan’s Famous branded consumer packaged goods, our Branded Products Program for distribution of Nathan’s Famous branded bulk products to the foodservice industry, and our namesake restaurant system comprised of both Company-owned and franchised units, including virtual kitchens. The primary drivers of our recent growth have been our Licensing and Branded Product Programs which have been the largest contributors to the Company’s profits.
+While we do not expect to significantly increase the number of Company-owned units, we may opportunistically and strategically invest in a small number of new units as showcase locations for prospective franchisees and master developers as we seek to grow our franchise system. We continue to seek opportunities to drive sales in a variety of ways as we adapt to the ever-changing consumer and environment.
+As described in our Annual Report on Form 10-K for the year ended March 27, 2022, our future results could be materially impacted by many developments including the impact of the COVID-19 pandemic on our business, our dependence on Smithfield Foods, Inc. as our principal supplier and the dependence of our licensing revenue and overall profitability on our agreement with Smithfield Foods, Inc. In addition, our future operating results could be impacted by supply constraints on beef or by increased costs of beef, beef trimmings and other commodities due to inflationary pressures compared to earlier periods.
+On November 1, 2017, the Company issued $150,000,000 of 6.625% Senior Secured Notes due 2025 (the “2025 Notes”) and used the majority of the proceeds of this offering to redeem the Company’s 10.000% Senior Secured Notes due 2020, paid a portion of the special $5.00 cash dividend and used the remaining proceeds for general corporate purposes, including working capital.
+On January 26, 2022, the Company redeemed $40,000,000 in aggregate principal amount of its 2025 Notes. As a result of the partial redemption, the Company expects to reduce its future cash interest expense by $2,650,000 per annum.
+As described below, we are also including information relating to EBITDA and Adjusted EBITDA, which are non-GAAP financial measures, in this Form 10-Q quarterly report. See “Reconciliation of GAAP and Non-GAAP Measures.”
+Impact of COVID-19 Pandemic
+In March 2020, the World Health Organization declared a global pandemic related to the outbreak of a novel strain of coronavirus, designated COVID-19.
+COVID-19 related pressures have continued during the thirty-nine weeks ended December 25, 2022 (“fiscal 2023 period”), although to a lesser extent than during the thirty-nine weeks ended December 26, 2021 (“fiscal 2022 period”). As approved vaccines continue to be distributed and administered, state and local restrictions continue to be lessened. Despite the fact that vaccines are now widely available across the country, there have been increases in diagnosed cases reported due to the spread of additional COVID-19 variants.
+Customer traffic at our Company-owned restaurants, in particular at Coney Island, during the fiscal 2023 period increased by approximately 12% over the fiscal 2022 period. Additionally, we experienced increased customer traffic within our franchise system, including airport locations; highway travel plazas; shopping malls; movie theaters; and casino locations, primarily in Las Vegas, Nevada. The increase in customer traffic translated into higher Company-owned restaurant sales and higher franchise fees and royalties during the fiscal 2023 period than during the fiscal 2022 period.
+-21-
+Additionally, as the level of comfort of consumers gathering in social settings increases and travel continues to increase, our Branded Product Program customers, including professional sports arenas, amusement parks, shopping malls and movie theaters have experienced stronger attendance contributing to higher sales.
+We continue to follow guidance from health officials in determining the appropriate restrictions, if any, to place within our operations. Our Company-owned and franchised restaurants could be disrupted by COVID-19 related employee absences or due to changes in the availability and cost of labor.
+There continues to be uncertainty around the COVID-19 pandemic as variants including Omicron and others have caused increases in the number of reported COVID-19 cases. We cannot predict the ultimate duration, scope and severity of the COVID-19 pandemic or its ultimate impact on our business in the short or long-term. The ongoing economic impacts and health concerns associated with the pandemic may continue to affect consumer behavior, spending levels, and may result in reduced customer traffic and consumer spending trends that may adversely impact our financial condition and results of operations.
+Inflation
+We remain in regular contact with our major suppliers and to date we have not experienced significant disruptions in our supply chain; however, we have experienced rising transportation costs, rising costs of hot dogs due to the higher costs for beef and beef trimmings, and other food costs and paper products, which could continue to increase as the impact of COVID-19 continues across the supply chain.
+The ongoing effects of COVID-19 and its variants, along with other macroeconomic events could lead to further wage inflation, product cost inflation and supply chain challenges during the remainder of fiscal 2023 and may impact our operations.
+In general, we have been able to offset cost increases resulting from inflation by increasing prices. We continue to monitor these inflationary pressures and will continue to implement mitigation plans as needed. Delays in implementing price increases, competitive pressures, consumer spending levels and other factors may limit our ability to implement further price increases in the future.
+Critical Accounting Policies and Estimates
+As discussed in our Form 10-K for the fiscal year ended March 27, 2022, the discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in conformity with accounting principles generally accepted in the United States of America. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the amounts of assets, liabilities, revenues and expenses reported in those consolidated financial statements. These judgments can be subjective and complex, and consequently, actual results could differ from those estimates. Our most critical accounting policies and estimates relate to revenue recognition; impairment of intangible assets; impairment of long-lived assets; and income taxes (including uncertain tax positions). Since March 27, 2022, there have been no material changes in our critical accounting policies or significant changes to the assumptions and estimates related to them.
+New Accounting Standard Not Yet Adopted
+Please refer to Note B of the preceding consolidated financial statements for our discussion of the New Accounting Standard Not Yet Adopted.
+EBITDA and Adjusted EBITDA
+The Company believes that EBITDA and Adjusted EBITDA, which are non-GAAP financial measures, are useful to investors to assist in assessing and understanding the Company's operating performance and underlying trends in the Company's business because EBITDA and Adjusted EBITDA are (i) among the measures used by management in evaluating performance and (ii) are frequently used by securities analysts, investors and other interested parties as a common performance measure.
+-22-
+Reconciliation of GAAP and Non-GAAP Measures
+The following is provided to supplement certain Non-GAAP financial measures.
+In addition to disclosing results that are determined in accordance with Generally Accepted Accounting Principles in the United States of America ("US GAAP"), the Company has provided EBITDA, a non-GAAP financial measure, which is defined as net income excluding (i) interest expense; (ii) provision for income taxes and (iii) depreciation and amortization expense. The Company has also provided Adjusted EBITDA, a non-GAAP financial measure, which is defined as EBITDA, excluding (i) the loss on disposal of property and equipment and (ii) share-based compensation that the Company believes will impact the comparability of its results of operations.
+EBITDA and Adjusted EBITDA are not recognized terms under US GAAP and should not be viewed as alternatives to net income or other measures of financial performance or liquidity in conformity with US GAAP. Additionally, our definitions of EBITDA and Adjusted EBITDA may differ from other companies. Analysis of results and outlook on a non-US GAAP basis should be used as a complement to, and in conjunction with, data presented in accordance with US GAAP.
+The following is a reconciliation of net income to EBITDA and Adjusted EBITDA (in thousands):
+Thirteen weeks ended
+Thirty-nine weeks ended
+December 25,
+2022
+December 26,
+2021
+December 25,
+2022
+December 26,
+2021
+(unaudited)
+(unaudited)
+Net income
+$
+3,263
+$
+2,130
+$
+16,358
+$
+11,438
+Interest expense
+1,944
+2,650
+5,831
+7,951
+Provision for income taxes
+1,223
+860
+6,093
+4,477
+Depreciation and amortization
+303
+259
+837
+807
+EBITDA
+6,733
+5,899
+29,119
+24,673
+Loss on disposal of property and equipment
+101
+-
+87
+-
+Share-based compensation
+65
+8
+81
+66
+Adjusted EBITDA
+$
+6,899
+$
+5,907
+$
+29,287
+$
+24,739
+Seasonality
+Our routine business pattern is affected by seasonal fluctuations, including the effects of weather and economic conditions. Historically, sales from our Company-owned locations, principally at Coney Island, and franchised restaurants from which franchised royalties are earned and the Company’s earnings have been highest during our first two fiscal quarters, with the fourth quarter representing the slowest period. Additionally, revenues from our Branded Product Program and retail licensing program generally follow similar seasonal fluctuations, although not to the same degree. Working capital requirements may vary throughout the year to support these seasonal patterns.
+Due to the above seasonal factors, as well as the COVID-19 pandemic and inflationary pressures, our results of operations for the thirteen and thirty-nine weeks ended December 25, 2022 are not necessarily indicative of those for a full fiscal year.
+Results of Operations
+Thirteen weeks ended December 25, 2022 compared to thirteen weeks ended December 26, 2021
+Revenues
+Total revenues increased by 1% to $26,154,000 for the thirteen weeks ended December 25, 2022 (“third quarter fiscal 2023”) as compared to $25,913,000
+for the thirteen weeks ended December 26, 2021 (“third quarter fiscal 2022”).
+Total sales decreased by 2% to $18,340,000 for the third quarter fiscal 2023 as compared to $18,637,000 for the third quarter fiscal 2022 which included foodservice sales from the Branded Product Program decreasing by 1% to $16,661,000 for the third quarter fiscal 2023 as compared to sales of $16,901,000 for the third quarter fiscal 2022. During the third quarter fiscal 2023, the volume of hot dogs sold in the Branded Product Program increased by approximately 3% as compared to the third quarter fiscal 2022. Our average selling prices decreased by approximately 3% as compared to the third quarter fiscal 2022.
+Total Company-owned restaurant sales decreased by 3% to $1,679,000 during the third quarter fiscal 2023 as compared to $1,736,000 during the third quarter fiscal 2022. The decrease was primarily due to a decline in traffic at our Yonkers, New York and Oceanside, New York locations which were partially offset by an increase in traffic at our Coney Island locations.
+-23-
+License royalties increased by 8% to $6,337,000 in the third quarter fiscal 2023 as compared to $5,878,000 in the third quarter fiscal 2022. Total royalties earned on sales of hot dogs from our license agreement with Smithfield Foods, Inc. at retail and foodservice, including sales of hot dogs to WalMart, increased 5% to $5,489,000 for the third quarter fiscal 2023 as compared to $5,239,000 in the third quarter fiscal 2022. The increase is primarily due to a 7% increase in retail volume as compared to the third quarter fiscal 2022, which was offset by a 3% decline in average net selling price. The foodservice business earned higher royalties of $63,000 as compared to the third quarter fiscal 2022. Royalties earned from all other licensing agreements for the manufacture and sale of Nathan’s products increased by $209,000 during the third quarter fiscal 2023 as compared to the third quarter fiscal 2022 primarily due to additional royalties earned on sales of French fries and seasonings.
+Franchise fees and royalties were $976,000 in the third quarter fiscal 2023 as compared to $919,000 in the third quarter fiscal 2022. Total royalties were $829,000 in the third quarter fiscal 2023 as compared to $744,000 in the third quarter fiscal 2022. Royalties earned under the Branded Menu program were $151,000 in the third quarter fiscal 2023 as compared to $101,000 in the third quarter fiscal 2022. Royalties earned under the Branded Menu Program are not based upon a percentage of restaurant sales but are based upon product purchases. Virtual kitchen royalties were $30,000 in the third quarter fiscal 2023 as compared to $88,000 in the third quarter fiscal 2022. Traditional franchise royalties were $648,000 in the third quarter fiscal 2023 as compared to $555,000 in the third quarter fiscal 2022. Franchise restaurant sales increased
+to $14,761,000 in the third quarter fiscal 2023 as compared to $12,280,000 in the third quarter fiscal 2022 primarily due to higher sales at airport locations; highway travel plazas; shopping malls; movie theaters; and casino locations, primarily in Las Vegas, Nevada. Comparable domestic franchise sales (consisting of 61 Nathan’s units, excluding sales under the Branded Menu Program) were $12,369,000 in the third quarter fiscal 2023 as compared to $9,811,000 in the third quarter fiscal 2022.
+At December 25, 2022, 233 franchised units, including domestic, international and Branded Menu Program units were operating as compared to 242 franchised units, including domestic, international franchised and Branded Menu Program units at December 26, 2021. Total franchise fee income was $147,000 in the third quarter fiscal 2023 as compared to $175,000 in the third quarter fiscal 2022. Domestic franchise fee income was $27,000 in the third quarter fiscal 2023 as compared to $36,000 in the third quarter fiscal 2022. International franchise fee income was $61,000 in the third quarter fiscal 2023 as compared to $63,000 during the third quarter fiscal 2022.
+We recognized $59,000 and $76,000 in forfeited fees in the third quarter fiscal 2023 and the third quarter fiscal 2022, respectively. During the third quarter fiscal 2023, two franchised units opened, as well as two Branded Menu Program units. Additionally, 9 virtual kitchens opened. During the third quarter fiscal 2022, twelve
+franchised units opened, as well as fourteen Branded Menu Program units. Additionally, 39 virtual kitchens opened.
+Advertising fund revenue, after eliminating Company contributions, was $501,000 during the third quarter fiscal 2023 as compared to $479,000 during the third quarter fiscal 2022 period.
+Costs and Expenses
+Overall, our cost of sales decreased by 7% to $14,925,000 in the third quarter fiscal 2023 as compared to $16,040,000 in the third quarter fiscal 2022. Our gross profit (representing the difference between sales and cost of sales) increased to $3,415,000 or 19% of sales during the third quarter fiscal 2023 as compared to $2,597,000 or 14% of sales during the third quarter fiscal 2022.
+Cost of sales in the Branded Product Program decreased by 7% to $13,681,000 in the third quarter fiscal 2023 as compared to $14,724,000 in the third quarter fiscal 2022, primarily due to the 9% decrease in the average cost per pound of our hot dogs, partially offset by the 3% increase in the volume of hot dogs sold as discussed above. Beef prices declined during the third quarter fiscal 2023 as compared to the significantly higher commodity costs experienced during the third quarter fiscal 2022.
+We did not make any purchase commitments of beef during the third quarter fiscal 2023 or the third quarter fiscal 2022. If the cost of beef and beef trimmings increases and we are unable to pass on these higher costs through price increases or otherwise reduce any increase in our costs through the use of purchase commitments, our margins will be adversely impacted.
+With respect to Company-owned restaurants, our cost of sales during the third quarter fiscal 2023 was $1,244,000 or 74% of restaurant sales as compared to $1,316,000 or 76% of restaurant sales in the third quarter fiscal 2022. The decrease in cost of sales during the third quarter of fiscal 2023 was primarily due to the 3% decrease in sales as discussed above. Food and paper costs as a percentage of Company-owned restaurant sales were 31%, down from 32% in the comparable period of the prior year. Labor and related expenses as a percentage of Company-owned restaurant sales were 43%, down from 44% in the comparable period in the prior year. The availability of labor remains a challenge at our Company-owned restaurants and it has required us to remain flexible as it relates to staffing levels and costs.
+Restaurant operating expenses were $932,000 in the third quarter fiscal 2023 as compared to $547,000 in the third quarter fiscal 2022. We incurred higher occupancy expenses of $324,000, higher utility expenses of $18,000, and higher insurance costs of $22,000.
+-24-
+Depreciation and amortization, which primarily consists of the depreciation of fixed assets, including leasehold improvements and equipment, was $303,000 in the third quarter fiscal 2023 as compared to $259,000 in the third quarter fiscal 2022.
+General and administrative expenses increased by $186,000 or 6% to $3,161,000 in the third quarter fiscal 2023 as compared to $2,975,000 in the third quarter fiscal 2022. The increase in general and administrative expenses was primarily attributable to higher compensation expenses of $287,000 offset, in part, by a decrease in travel expenses of $37,000 and a reduction in bad debt expense of $52,000.
+Advertising fund expense, after eliminating Company contributions, was $501,000 during the third quarter fiscal 2023 as compared to $479,000 in the third quarter fiscal 2022.
+Other Items
+Interest expense of $1,944,000 in the third quarter fiscal 2023 represented interest expense of $1,817,000 on the 2025 Notes and amortization of debt issuance costs of $127,000.
+Interest expense of $2,650,000 in the third quarter fiscal 2022 represented interest expense of $2,477,000 on the 2025 Notes and amortization of debt issuance costs of $173,000.
+Interest income was $158,000
+for the third quarter fiscal 2023 as compared to
+$24,000 in the third quarter fiscal 2022.
+Other expense, net was $60,000 in the third quarter fiscal 2023 which primarily relates to a loss on disposal of assets for capitalized software no longer in use of $101,000 offset by sublease income from a franchised restaurant.
+Provision for Income Taxes
+The effective income tax rate for the third quarter fiscal 2023 was 27.3% compared to 28.8% in the third quarter fiscal 2022. The effective income tax rate for the third quarter fiscal 2023 reflected income tax expense of $1,223,000 recorded on $4,486,000 of pre-tax income. The effective income tax rate for the third quarter fiscal 2022 reflected income tax expense of $860,000 recorded on $2,990,000 of pre-tax income. The effective tax rates are higher than the statutory rates primarily due to state and local taxes.
+The amount of unrecognized tax benefits at December 25, 2022 was $437,000 all of which would impact the Company’s effective tax rate, if recognized. As of December 25, 2022, the Company had approximately $315,000 accrued for the payment of interest and penalties in connection with unrecognized tax benefits.
+Nathan’s estimates that its unrecognized tax benefit excluding accrued interest and penalties could be further reduced by up to $16,000 during the fiscal year ending March 26, 2023.
+Results of Operations
+Thirty-nine weeks ended December 25, 2022 compared to thirty-nine weeks ended December 26, 2021
+Revenues
+Total revenues increased by 15% to $103,371,000 for the thirty-nine weeks ended December 25, 2022 (“fiscal 2023 period”) as compared to $90,110,000 for the thirty-nine weeks ended December 26, 2021 (“fiscal 2022 period”).
+Total sales increased by 18% to $72,535,000 for the fiscal 2023 period as compared to $61,462,000 for the fiscal 2022 period which included foodservice sales from the Branded Product Program increasing by 19% to $61,862,000 for the fiscal 2023 period as compared to sales of $51,960,000 for the fiscal 2022 period. During the fiscal 2023 period, the volume of hot dogs sold increased by approximately 14% as compared to the fiscal 2022 period. Our average selling prices increased by approximately 5% as compared to the fiscal 2022 period.
+Total Company-owned restaurant sales increased by 12% to $10,673,000 during the fiscal 2023 period as compared to $9,502,000 during the fiscal 2022 period. The increase was primarily due to an increase in traffic at our Coney Island locations.
+-25-
+License royalties increased by 8% to $26,064,000 in the fiscal 2023 period as compared to $24,218,000 in the fiscal 2022 period. Total royalties earned on sales of hot dogs from our license agreement with Smithfield Foods, Inc. at retail and foodservice, including sales of hot dogs to WalMart, increased 6% to $23,594,000 for the 2023 fiscal period as compared to $22,161,000 in the fiscal 2022 period. The increase is due to a 9% increase in average net selling price as compared to the fiscal 2022 period which was offset, in part, by a 3% decrease in retail volume. The foodservice business earned higher royalties of $196,000 as compared to the fiscal 2022 period. Royalties earned from all other licensing agreements for the manufacture and sale of Nathan’s products increased by $413,000 during the fiscal 2023 period as compared to the fiscal 2022 period primarily due to additional royalties earned on sales of French fries, cocktail franks, mozzarella sticks, pickles and seasonings.
+Franchise fees and royalties were $3,268,000 in the fiscal 2023 period as compared to $2,993,000 in the fiscal 2022 period. Total royalties were $2,785,000 in the fiscal 2023 period as compared to $2,581,000 in the fiscal 2022 period. Royalties earned under the Branded Menu program were $468,000 in the fiscal 2023 period as compared to $430,000 in the fiscal 2022 period. Royalties earned under the Branded Menu Program are not based upon a percentage of restaurant sales but are based upon product purchases. Virtual kitchen royalties were $112,000 in the fiscal 2023 period as compared to $258,000 in the fiscal 2022 period. Traditional franchise royalties were $2,205,000 in the fiscal 2023 period as compared to $1,893,000 in the fiscal 2022 period. Franchise restaurant sales increased to $49,302,000 in the fiscal 2023 period as compared to $40,910,000 in the fiscal 2022 period primarily due to higher sales at airport locations; highway travel plazas; shopping malls; movie theaters; and casino locations, primarily in Las Vegas, Nevada. Comparable domestic franchise sales (consisting of 63
+Nathan’s units, excluding sales under the Branded Menu Program) were $40,192,000 in the fiscal 2023 period as compared to $31,434,000 in the fiscal 2022 period.
+At December 25, 2022, 233 franchised units, including domestic, international and Branded Menu Program units were operating as compared to 242 franchised units, including domestic, international and Branded Menu Program franchise units at December 26, 2021. Total franchise fee income was $483,000 in the fiscal 2023 period as compared to $412,000 in the fiscal 2022 period. Domestic franchise fee income was $84,000 in the fiscal 2023 period as compared to $109,000 in the fiscal 2022 period. International franchise fee income was $191,000 in the fiscal 2023 period as compared to $173,000 during the fiscal 2022 period.
+We recognized $208,000
+and $130,000 in forfeited fees in the fiscal 2023 period and fiscal 2022 period, respectively. During the fiscal 2023 period, six franchised units opened, as well as two Branded Menu Program units. Additionally, 67 virtual kitchens opened. During the fiscal 2022 period, fifteen franchised units opened, as well as thirty-two Branded Menu Program units. Additionally, 164 virtual kitchens opened.
+Advertising fund revenue, after eliminating Company contributions, was $1,504,000 in the fiscal 2023 period, as compared to $1,437,000 during the fiscal 2022 period.
+Costs and Expenses
+Overall, our cost of sales increased by 15% to $59,490,000 in the fiscal 2023 period as compared to $51,536,000 in the fiscal 2022 period. Our gross profit (representing the difference between sales and cost of sales) increased to $13,045,000 or 18% of sales during the fiscal 2023 period as compared to $9,926,000 or 16% of sales during the fiscal 2022 period.
+Cost of sales in the Branded Product Program increased by 17% to $53,056,000 during the fiscal 2023 period as compared to $45,343,000 during the fiscal 2022 period, primarily due to the 14% increase in the volume of hot dogs sold as discussed above, as well as a 3% increase in the average cost per pound of our hot dogs. We continue to experience commodity inflation, including beef and beef trimmings.
+We did not make any purchase commitments of beef during the fiscal 2023 period or the fiscal 2022 period. If the cost of beef and beef trimmings increases and we are unable to pass on these higher costs through price increases or otherwise reduce any increase in our costs through the use of purchase commitments, our margins will be adversely impacted.
+With respect to Company-owned restaurants, our cost of sales during the fiscal 2023 period was $6,434,000 or 60% of restaurant sales as compared to $6,193,000 or 65% of restaurant sales in the fiscal 2022 period. The increase in cost of sales during the fiscal 2023 period was primarily due to the 12% increase in sales discussed above. The decrease in cost of sales, as a percent of total restaurant sales, was due to an increase in customer counts driving higher sales which were offset by higher commodity costs and restaurant labor costs. Food and paper costs as a percentage of Company-owned restaurant sales were 29%, down from 30% in the comparable period of the prior year. Labor and related expenses as a percentage of Company-owned restaurant sales were 31%, down from 35% in the comparable period in the prior year due to labor wage increases as a result of competitive pressures, offset by higher sales.
+Restaurant operating expenses were $3,217,000 in the fiscal 2023 period as compared to $2,874,000 in the fiscal 2022 period. We incurred higher occupancy expenses of $118,000, higher utility expenses of $54,000, higher marketing expenses of $51,000, and higher insurance costs of $77,000 .
+-26-
+Depreciation and amortization, which primarily consists of the depreciation of fixed assets, including leasehold improvements and equipment, were $837,000 in the fiscal 2023 period as compared to $807,000 in the fiscal 2022 period.
+General and administrative expenses increased by $420,000 or 4% to $10,122,000 in the fiscal 2023 period as compared to $9,702,000 in the fiscal 2022 period. The increase in general and administrative expenses was primarily attributable to higher compensation expenses of $232,000, and higher marketing and trade show expenses of $295,000.
+Advertising fund expense, after eliminating Company contributions, was $1,679,000 in the fiscal 2023 period, as compared to $1,437,000 in the fiscal 2022 period. The Company has determined that the Advertising Fund normal seasonal deficit is not to be fully recovered during the remainder of the fiscal 2023 period and has reflected the projected deficit of $175,000 in the fiscal 2023 period.
+Other Items
+Interest expense of $5,831,000 in the fiscal 2023 period represented interest expense of $5,450,000 on the 2025 Notes and amortization of debt issuance costs of $381,000.
+Interest expense of $7,951,000 in the fiscal 2022 period represented interest expense of $7,433,000 on the 2025 Notes and amortization of debt issuance costs of $518,000.
+Interest income was $260,000 for the fiscal 2023 period as compared to $88,000 in the fiscal 2022 period.
+Other expense, net was $4,000 in the fiscal 2023 period which primarily relates to a net loss on disposal of assets for capitalized software no longer in use of $87,000, offset by sublease income from a franchised restaurant.
+Provision for Income Taxes
+The effective income tax rate for the fiscal 2023 period was 27.1% compared to 28.1% in the fiscal 2022 period. The effective income tax rate for the fiscal 2023 period reflected income tax expense of $6,093,000 recorded on $22,451,000 of pre-tax income. The effective income tax rate for the fiscal 2022 period reflected income tax expense of $4,477,000 recorded on $15,915,000 of pre-tax income. The effective tax rates are higher than the statutory rates primarily due to state and local taxes.
+The amount of unrecognized tax benefits at December 25, 2022 was $437,000 all of which would impact the Company’s effective tax rate, if recognized. As of December 25, 2022, the Company had approximately $315,000 accrued for the payment of interest and penalties in connection with unrecognized tax benefits.
+Nathan’s estimates that its unrecognized tax benefit excluding accrued interest and penalties could be further reduced by up to $16,000 during the fiscal year ending March 26, 2023.
+Off-Balance Sheet Arrangements
+At December 25, 2022 and December 26, 2021, Nathan’s did not have any open purchase commitments for hot dogs. Nathan’s may enter into purchase commitments in the future as favorable market conditions become available.
+Liquidity and Capital Resources
+Cash and cash equivalents at December 25, 2022 aggregated $55,454,000, a $5,391,000 increase during the fiscal 2023 period as compared to cash and cash equivalents of $50,063,000 at March 27, 2022. Net working capital increased to $58,413,000 from $48,988,000 at March 27, 2022. We paid our semi-annual interest payments for fiscal 2023 of $3,643,750 on May 1, 2022 and November 1, 2022, respectively. We paid our first, second and third quarter fiscal 2023 dividend payments of $1,852,000, $1,836,000 and $1,836,000 on June 24, 2022, September 2, 2022 and December 2, 2022, respectively. We expect to pay our fourth quarter dividend on March 3, 2023.
+The 2025 Notes bear interest at 6.625% per annum, payable semi-annually on May 1 st
+and November 1 st
+of each year, beginning on May 1, 2018. The 2025 Notes have no scheduled principal amortization payments prior to its final maturity on November 1, 2025.
+-27-
+Cash provided by operations of $13,329,000 in the fiscal 2023 period is primarily attributable to net income of $16,358,000 in addition to other non-cash operating items of $1,384,000, offset by changes in other operating assets and liabilities of $4,413,000. Non-cash operating expenses consist principally of depreciation and amortization of $837,000, amortization of debt issuance costs of $381,000, share-based compensation expense of $81,000, bad debts of $114,000, and a loss on disposal of assets of $87,000. In the fiscal 2023 period, accounts and other receivables decreased by $218,000 due primarily to lower franchise and license royalties receivable of $647,000 which were offset, in part, by higher receivables due to the Advertising Fund of $329,000. Prepaid expenses and other current assets decreased by $332,000 due primarily to the reduction of prepaid insurance and marketing expenses of $21,000 and $281,000, respectively. In the fiscal 2023 period, accounts payable, accrued expenses and other current liabilities decreased by $4,856,000 due primarily to lower accrued interest expense of $1,837,000 as a result of the partial redemption of our 2025 Notes; a decline in accrued payroll and other benefits of $519,000 resulting primarily from the payment of year-end fiscal 2022 incentive compensation; earned deferred revenue of $876,000; and a decline in accounts payable of $2,534,000 due to the timing of product purchases for our Branded Product Program and Company-owned restaurants. Offsetting these declines were increases in accrued corporate income taxes of $991,000 due to the timing of estimated tax payments and higher earnings.
+Cash used in investing activities was $522,000 in the fiscal 2023 period primarily in connection with capital expenditures incurred for our Branded Product Program, our Coney Island restaurants and our general ledger and accounting system upgrade.
+Cash used in financing activities of $7,416,000 in the fiscal 2023 period relates primarily to the payments of the Company’s quarterly $0.45 per share cash dividends on June 24, 2022, September 2, 2022 and December 2, 2022 totaling $5,524,000. Additionally, during the fiscal 2023 period, the Company repurchased 35,434 shares of common stock for $1,892,000 under the 10b5-1 Plan.
+In 2016, the Board authorized increases to the sixth stock repurchase plan for the purchase of up to 1,200,000 shares of its common stock on behalf of the Company. As of December 25, 2022, Nathan’s has repurchased 1,101,884 shares at a cost of $39,000,000
+under the sixth stock repurchase plan. At December 25, 2022, there were 98,116 shares remaining to be repurchased pursuant to the sixth stock repurchase plan. The plan does not have a set expiration date. Purchases under the Company’s stock repurchase program may be made from time to time, depending on market conditions, in open market or privately negotiated transactions, at prices deemed appropriate by management. There is no set time limit on the repurchases.
+On June 14, 2022, the Board approved a 10b5-1 stock plan (the “10b5-1 Plan”) which expired on September 13, 2022.
+During the fiscal 2023 period, the Company repurchased in open market transactions 35,434 shares of the Company’s common stock at an average price of $53.39 for a total cost of $1,892,000 under the 10b5-1 Plan. The Company did not repurchase any shares of its common stock during the thirteen weeks ended December 25, 2022.
+As discussed above, we had cash and cash equivalents at December 25, 2022 aggregating $55,454,000.
+Our Board routinely monitors and assesses its cash position and our current and potential capital requirements. On May 31, 2018, the Board authorized the commencement of a regular dividend of $1.00 per share per annum, payable at the rate of $0.25 per share per quarter. On June 14, 2019, the Board authorized the increase of its regular quarterly dividend to $0.35 from $0.25. On February 4, 2022, the Board authorized the increase of its regular quarterly dividend to $0.45 from $0.35. On February 2, 2023, the Board authorized the increase of its regular quarterly dividend to $0.50 from $0.45. The Company paid its first quarter fiscal 2023 dividend of $1,852,000 on June 24, 2022, its second quarter fiscal 2023 dividend of $1,836,000 on September 2, 2022 and its third quarter fiscal 2023 dividend of $1,836,000 on December 2, 2022.
+Effective February 2, 2023, the Company declared its fourth quarter dividend of $0.50 per common share to stockholders of record as of the close of business on February 21, 2023, which is payable on March 3, 2023.
+The Company’s total cash requirement for dividends for all of fiscal 2023 would be approximately $7,564,000 based on the number of shares of common stock outstanding at February 2, 2023. The Company intends to declare and pay quarterly cash dividends; however, there can be no assurance that any additional quarterly dividends will be declared or paid or of the amount or timing of such dividends, if any.
+Our ability to pay future dividends is limited by the terms of the Indenture for the 2025 Notes. In addition, the payment of any cash dividends in the future, are subject to final determination of the Board and will be dependent upon our earnings and financial requirements. We may also return capital to our stockholders through stock repurchases, subject to any restrictions in the Indenture, although there is no assurance that the Company will make any repurchases under its existing stock repurchase plan.
+We expect that in the future we will make investments in certain existing restaurants, support the growth of the Branded Product and Branded Menu Programs, service the outstanding debt, fund our dividend program and may continue our stock repurchase programs, funding those investments from our operating cash flow. We may also incur capital and other expenditures or engage in investing activities in connection with opportunistic situations that may arise on a case-by-case basis. During the fiscal year ending March 26, 2023, we will be required to make interest payments of $7,287,500, of which all have been made as of November 1, 2022.
+-28-
+Management believes that available cash, cash equivalents and cash generated from operations should provide sufficient capital to finance our operations, satisfy our debt service requirements, fund dividend distributions and stock repurchases for at least the next 12 months.
+At December 25, 2022, we sublet one property to a franchisee that we lease from a third party. We remain contingently liable for all costs associated with this property including: rent, property taxes and insurance. We may incur future cash payments with respect to such property, consisting primarily of future lease payments, including costs and expenses associated with terminating such lease.
+Our contractual obligations primarily consist of the 2025 Notes and the related interest payments, operating leases, and employment agreement with certain executive officers. These contractual obligations impact our short-term and long-term liquidity and capital resource needs. There have been no material changes in our contractual obligations since March 27, 2022.
+Inflationary Impact
+Beginning in fiscal 2022 and continuing into the fiscal 2023 period, we have experienced inflationary pressures on commodity prices. We expect this trend to continue throughout the remainder of fiscal 2023. Our average cost of hot dogs during fiscal 2022 was approximately 19% higher than during fiscal 2021. Our average cost of hot dogs during fiscal 2023 was approximately 3% higher than during fiscal 2022. Beginning in July 2021, the cost of hot dogs has increased significantly due to higher costs for beef and beef trimmings, labor, packaging and transportation, as well as supply chain challenges associated with increased consumer demand as a result of the continued recovery from the COVID-19 pandemic. Inherent volatility experienced in certain commodity markets, such as those for beef and beef trimmings due to seasonal shifts, climate conditions, industry demand, inflationary pressures and other macroeconomic factors could have an adverse effect on our results of operations.
+We have experienced competitive pressure on labor rates as a result of the increase in the minimum hourly wage for fast food workers which increased to $15.00 in New York state during fiscal 2022 where our Company-owned restaurants are located. Additionally, with the continued recovery from the COVID-19 pandemic, there has been an increased demand for labor at all levels which has resulted in greater challenges retaining adequate staffing levels at our Company-owned restaurants; our franchised restaurants and Branded Menu Program locations; as well as for certain vendors in our supply chain that we depend on for our commodities. We remain in contact with our major suppliers and to date we have not experienced significant disruptions in our supply chain.
+We are unable to predict the future cost of our hot dogs and expect to experience price volatility for our beef products during the remainder of fiscal 2023. To the extent that beef prices increase as compared to earlier periods, it could impact our results of operations. In the past, we entered into purchase commitments for a portion of our hot dogs to reduce the impact of increasing market prices. Our most recent purchase commitment was completed in 2016 for approximately 2,600,000 pounds of hot dogs. We may attempt to enter into similar purchase arrangements for hot dogs and other products in the future. Additionally, we expect to continue experiencing volatility in oil and gas prices on our distribution costs for our food products and utility costs in the Company-owned restaurants and volatile insurance costs resulting from the uncertainty of the insurance markets.
+We must comply with the Fair Labor Standards Act and various federal and state laws governing minimum wages. Increases in the minimum wage and labor regulations have increased our labor costs. The minimum wage for New York State increased to $15.00 per hour on December 31, 2021. All of our Company-owned restaurants operate in New York State. In addition, the federal government and a number of other states are evaluating various proposals to increase their respective minimum wage.
+We believe that these increases in the minimum wage and other changes in employment law have had a significant financial impact on our financial results and the results of our franchisees that operate in New York State. Our business could be negatively impacted if the decrease in margins for our franchisees results in the potential loss of new franchisees or the closing of a significant number of franchised restaurants.
+Continued increases in labor costs, commodity prices and other operating expenses, including healthcare, could adversely affect our operations. We attempt to manage inflationary pressure, and rising commodity costs, at least in part, through raising prices. Delays in implementing price increases, competitive pressures, consumer spending levels and other factors may limit our ability to offset these rising costs. Volatility in commodity prices, including beef and beef trimmings could have a significant adverse effect on our results of operations.
+The Company’s business, financial condition, operating results and cash flows can be impacted by a number of factors, including but not limited to those set forth above in “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” any one of which could cause our actual results to vary materially from recent results or from our anticipated future results. For a discussion identifying additional risk factors and important factors that could cause actual results to differ materially from those anticipated, also see the discussions in “Forward-Looking Statements” and “Notes to Consolidated Financial Statements” in this Form 10-Q and “Risk Factors” in our Form 10-K for our fiscal year ended March 27, 2022.
+-29-
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk.
+Cash
+We have historically invested our cash and cash equivalents in money market funds or short-term, fixed rate, highly rated and highly liquid instruments which are generally reinvested when they mature. Although these existing investments are not considered at risk with respect to changes in interest rates or markets for these instruments, our rate of return on short-term investments could be affected at the time of reinvestment as a result of intervening events. As of December 25, 2022, Nathan’s cash and cash equivalents aggregated $55,454,000.
+Earnings on this cash would increase or decrease by approximately $139,000 per annum for each 0.25% change in interest rates.
+Borrowings
+At December 25, 2022, we had $110,000,000 of 6.625% 2025 Notes outstanding which are due in November 2025. Interest expense on these borrowings would increase or decrease by approximately $275,000 per annum for each 0.25% change in interest rates. We currently do not anticipate entering into interest rate swaps or other financial instruments to hedge our borrowings.
+Commodity Costs
+Beginning in fiscal 2022 and continuing into the fiscal 2023 period, we have experienced inflationary pressures on commodity prices. We expect this trend to continue throughout the remainder of fiscal 2023. Our average cost of hot dogs during fiscal 2022 was approximately 19% higher than during fiscal 2021. Our average cost of hot dogs during fiscal 2023 was approximately 3% higher than during fiscal 2022. Beginning in July 2021, the cost of hot dogs has increased significantly due to higher costs for beef and beef trimmings, labor, packaging and transportation, as well as supply chain challenges associated with increased consumer demand as a result of the continued recovery from the COVID-19 pandemic. Inherent volatility experienced in certain commodity markets, such as those for beef and beef trimmings due to seasonal shifts, climate conditions, industry demand, inflationary pressures and other macroeconomic factors could have an adverse effect on our results of operations.
+We are unable to predict the future cost of our hot dogs and expect to experience price volatility for our beef products during the remainder of fiscal 2023. To the extent that beef prices increase as compared to earlier periods, it could impact our results of operations. In the past, we entered into purchase commitments for a portion of our hot dogs to reduce the impact of increasing market prices. Our most recent purchase commitment was completed in 2016 for approximately 2,600,000 pounds of hot dogs. We may attempt to enter into similar purchase arrangements for hot dogs and other products in the future. Additionally, we expect to continue experiencing volatility in oil and gas prices on our distribution costs for our food products and utility costs in the Company-owned restaurants and volatile insurance costs resulting from the uncertainty of the insurance markets.
+With the exception of purchase commitments, we have not attempted to hedge against fluctuations in the prices of the commodities we purchase using future, forward, option or other instruments. As a result, we expect that the majority of our future commodity purchases will be subject to market changes in the prices of such commodities. We have attempted to enter sales agreements with our customers that are correlated to our cost of beef, thus reducing our market volatility, or have passed through permanent increases in our commodity prices to our customers that are not on formula pricing, thereby reducing the impact of long-term increases on our financial results. A short-term increase or decrease of 10.0% in the cost of our food and paper products for the thirty-nine week period ended December 25, 2022 would have increased or decreased our cost of sales by approximately $5,477,000.
+Foreign Currencies
+Foreign franchisees generally conduct business with us and make payments in United States dollars, reducing the risks inherent with changes in the values of foreign currencies. As a result, we have not purchased future contracts, options or other instruments to hedge against changes in values of foreign currencies and we do not believe fluctuations in the value of foreign currencies would have a material impact on our financial results.
+-30-
+Item 4.
+Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as required by Exchange Act Rule 13a-15(e) and Exchange Act Rule 15d-15(e).  Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of the period covered by this report, our disclosure controls and procedures were effective to ensure that the information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified by the SEC’s rules and forms and that such information is accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
+Changes in Internal Controls
+There were no changes in our internal controls over financial reporting that occurred during the quarter ended December 25, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Limitations on the Effectiveness of Controls
+We believe that a control system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the control system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. Our disclosure controls and procedures are designed to provide reasonable assurance of achieving their objectives and our Chief Executive Officer and Chief Financial Officer have concluded that such controls and procedures are effective at the reasonable assurance level.
+-31-
+PART II. OTHER INFORMATION
+I tem 1. Legal Proceedings.
+None.
+Item 1A. Risk Factors.
+In addition to the other information set forth in this report, you should carefully consider the risk factors discussed in Part I, “Item 1A. Risk Factors” in the Annual Report on Form 10-K for the fiscal year ended March 27, 2022, which could materially affect our business, financial condition or future results. The risks described in our Annual Report on Form 10-K are not the only risks facing Nathan's. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds .
+None.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+None.
+Item 5. Other Information.
+Effective February 2, 2023, the Board declared its quarterly cash dividend of $0.50 per share which is payable on March 3, 2023 to shareholders of record as of the close of business on February 21, 2023.
+-32-
+Item 6. Exhibits.
+31.1
+*Certification of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+*Certification of the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+*Certification by Eric Gatoff, CEO, Nathan’s Famous, Inc., pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+*Certification by Robert Steinberg, CFO, Nathan’s Famous, Inc., pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.1
+*The following materials from the Nathan’s Famous, Inc., Quarterly Report on Form 10-Q for the quarter ended December 25, 2022 formatted in Inline Extensible Business Reporting Language (iXBRL): (i) the Consolidated Balance Sheets, (ii) the Consolidated Statements of Earnings, (iii) the Consolidated Statements of Stockholders’ Deficit, (iv) the Consolidated Statements of Cash Flows and (v) related notes.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+* Filed herewith.
+**Indicates a management plan or amendment.
+-33-
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+NATHAN'S FAMOUS, INC.
+Date: February 2, 2023
+By:
+/s/  Eric Gatoff
+Eric Gatoff
+Chief Executive Officer
+(Principal Executive Officer)
+Date: February 2, 2023
+By:
+/s/  Robert Steinberg
+Robert Steinberg
+Vice President - Finance
+and Chief Financial Officer
+(Principal Financial and Accounting Officer)
+-34-

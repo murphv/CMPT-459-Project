@@ -1,0 +1,1530 @@
+☒   QUARTERLY REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended:  December
+31, 2022
+or
+☐   TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ___________ to ___________
+Commission File Number:  001-39553
+AMESITE INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+82-3431718
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+607 Shelby Street
+Suite 700 PMB 214
+Detroit ,
+MI
+48226
+(Address of principal executive offices)
+(Zip Code)
+(734)
+876-8130
+(Registrant’s telephone number, including
+area code)
+N/A
+(Former name, former address and former fiscal
+year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.0001
+AMST
+The
+Nasdaq
+Stock Market LLC
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes  ☒  No ☐
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes  ☒  No ☐
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,”
+and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☒
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐  No  ☒
+There were
+30,400,305
+shares of the registrant’s
+common stock issued and outstanding as of February 17, 2023.
+TABLE OF CONTENTS
+Page
+PART I - FINANCIAL INFORMATION
+1
+ITEM 1. FINANCIAL STATEMENTS
+1
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+15
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+20
+ITEM 4. CONTROLS AND PROCEDURES
+20
+PART II – OTHER INFORMATION
+21
+ITEM 1. LEGAL PROCEEDINGS
+21
+ITEM 1A. RISK FACTORS
+21
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+21
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+21
+ITEM 4. MINE SAFETY DISCLOSURES
+21
+ITEM 5. OTHER INFORMATION
+21
+ITEM 6. EXHIBITS
+22
+SIGNATURES
+23
+- i -
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING
+STATEMENTS
+This Quarterly Report on Form
+10-Q contains forward-looking statements. These statements may be identified by such forward-looking terminology as “may,”
+“should,” “expects,” “intends,” “plans,” “anticipates,” “believes,”
+“estimates,” “predicts,” “potential,” “continue” or the negative of these terms or other
+comparable terminology. Our forward-looking statements are based on a series of expectations, assumptions, estimates and projections about
+our company, are not guarantees of future results or performance and involve substantial risks and uncertainty. We may not actually achieve
+the plans, intentions or expectations disclosed in these forward-looking statements. Actual results or events could differ materially
+from the plans, intentions and expectations disclosed in these forward-looking statements. Our business and our forward-looking statements
+involve substantial known and unknown risks and uncertainties, including the risks and uncertainties inherent in our statements regarding:
+●
+our artificial intelligence (AI)-driven learning platform’s ability to enable businesses, universities and K-12 schools to offer timely, improved popular courses and certification programs, without becoming software tech companies;
+●
+our planned online machine learning platform’s ability to result in opportunistic incremental revenue for colleges and universities, and improved ability to garner state funds due to increased retention and graduation rates through use of machine learning and natural language processing;
+●
+our ability to continue as a going concern;
+●
+our ability to obtain and maintain intellectual property protection for our technologies and our ability to operate our business without infringing the intellectual property rights of others;
+●
+our reliance on third parties to conduct our business and studies;
+●
+our reliance on third party designers, suppliers, and partners to provide and maintain our learning platform;
+●
+our ability to attract and retain qualified key management and technical personnel;
+●
+our expectations regarding the time during which we will be an emerging growth company under the Jumpstart Our Business Startups Act, or JOBS Act;
+●
+our financial performance; and
+●
+the impact of government regulation and developments relating to our competitors or our industry.
+All of our forward-looking
+statements are as of the date of this Quarterly Report on Form 10-Q only. In each case, actual results may differ materially from such
+forward-looking information. We can give no assurance that such expectations or forward-looking statements will prove to be correct. An
+occurrence of, or any material adverse change in, one or more of the risk factors or risks and uncertainties referred to in this Quarterly
+Report on Form 10-Q or included in our other public disclosures or our other periodic reports or other documents or filings filed with
+or furnished to the U.S. Securities and Exchange Commission (the “SEC”) could materially and adversely affect our business,
+prospects, financial condition and results of operations. Except as required by law, we do not undertake or plan to update or revise any
+such forward-looking statements to reflect actual results, changes in plans, assumptions, estimates or projections or other circumstances
+affecting such forward-looking statements occurring after the date of this Quarterly Report on Form 10-Q, even if such results, changes
+or circumstances make it clear that any forward-looking information will not be realized. Any public statements or disclosures by us following
+this Quarterly Report on Form 10-Q that modify or impact any of the forward-looking statements contained in this Quarterly Report on Form
+10-Q will be deemed to modify or supersede such statements in this Quarterly Report on Form 10-Q.
+This Quarterly Report on Form
+10-Q may include market data and certain industry data and forecasts, which we may obtain from internal company surveys, market research,
+consultant surveys, publicly available information, reports of governmental agencies and industry publications, articles and surveys.
+Industry surveys, publications, consultant surveys and forecasts generally state that the information contained therein has been obtained
+from sources believed to be reliable, but the accuracy and completeness of such information is not guaranteed. While we believe that such
+studies and publications are reliable, we have not independently verified market and industry data from third-party sources.
+- ii -
+PART I – FINANCIAL INFORMATION
+Item 1. Financial Statements
+Amesite
+Inc.
+Condensed Financial Statements
+December 31, 2022
+- 1 -
+Amesite Inc.
+Contents
+Condensed Financial Statements
+Page
+Condensed Balance Sheets (unaudited)
+3
+Condensed Statements of Operations (unaudited)
+4
+Condensed Statements of Stockholders’ Equity (unaudited)
+5
+Condensed Statements of Cash Flows (unaudited)
+6
+Notes to Condensed Financial Statements
+7-14
+- 2 -
+Amesite Inc.
+Condensed Balance Sheets (unaudited)
+December 31,
+2022
+June 30,
+2022
+Assets
+Current Assets
+Cash and cash equivalents
+$ 6,991,236
+$ 7,155,367
+Accounts receivable
+104,985
+14,545
+Prepaid expenses and other current assets
+261,223
+560,084
+Total current assets
+7,357,444
+7,729,996
+Noncurrent assets
+Property and Equipment - net
+77,377
+87,190
+Capitalized software - net
+892,217
+1,066,674
+Total noncurrent assets
+969,594
+1,153,864
+Total assets
+$ 8,327,038
+$ 8,883,860
+Liabilities and Stockholders’ Equity
+Current Liabilities
+Accounts payable
+$ 112,863
+$ 122,285
+Accrued and other current liabilities:
+Accrued compensation
+36,200
+174,056
+Deferred revenue
+276,740
+342,672
+Other accrued liabilities
+21,985
+109,095
+Total current liabilities
+447,788
+748,108
+Stockholders’ Equity
+Common stock, $ .0001
+par value;
+100,000,000
+shares authorized;
+30,344,305
+and
+25,993,484
+shares issued and outstanding and December 31, 2022 and June 30, 2022, respectively
+3,034
+2,559
+Preferred stock, $ .0001  par value;  5,000,000  shares authorized;  no  shares issued and outstanding at December 31, 2022 and June 30, 2022, respectively
+-
+-
+Additional paid-in capital
+39,430,054
+37,410,209
+Accumulated deficit
+( 31,553,838 )
+( 29,277,016 )
+Total stockholders’ equity
+7,879,250
+8,135,752
+Total liabilities and stockholders’ equity
+$ 8,327,038
+$ 8,883,860
+See accompanying Notes to Condensed Financial Statements.
+- 3 -
+Amesite Inc.
+Condensed
+Statements of Operations (unaudited)
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Net Revenue
+$ 237,139
+$ 189,174
+$ 517,421
+329,865
+Operating Expenses
+General and administrative expenses
+316,348
+1,451,979
+1,292,668
+2,687,748
+Technology and content development
+431,087
+681,018
+912,274
+1,477,126
+Sales and marketing
+201,696
+384,027
+606,728
+871,260
+Total operating expenses
+949,131
+2,517,024
+2,811,670
+5,036,134
+Loss from Operations
+( 711,992 )
+( 2,327,850 )
+( 2,294,249 )
+( 4,706,269 )
+Other Income (Expense)
+Interest Income
+12,508
+7,273
+17,959
+7,535
+Interest Expense
+0
+( 1,662 )
+( 531 )
+( 1,662 )
+Total other income (expense)
+12,508
+5,611
+17,428
+5,873
+Net Loss
+$ ( 699,484 )
+$ ( 2,322,239 )
+( 2,276,821 )
+( 4,700,396 )
+Earnings per Share
+Basic loss per share
+$ ( 0.02 )
+$ ( 0.11 )
+( 0.08 )
+( 0.22 )
+Weighted average shares outstanding
+30,305,566
+21,984,947
+28,862,964
+21,743,986
+See accompanying
+Notes to Condensed Financial Statements.
+- 4 -
+Amesite Inc.
+Condensed
+Statements of Stockholders’ Equity (unaudited)
+Common Stock
+Additional
+Paid-In
+Accumulated
+Shares
+Amount
+Capital
+Deficit
+Total
+Balance – July 1, 2021
+21,063,954
+$ 2,066
+$ 31,950,117
+$ ( 20,217,093 )
+$ 11,735,090
+Net loss
+-
+-
+-
+( 2,378,157 )
+( 2,378,157 )
+Issuance of common stock – net of offering costs of $ 140,000
+911,824
+91
+1,359,909
+-
+1,360,000
+Stock-based compensation expense
+-
+-
+389,085
+-
+389,085
+Balance - September 30, 2021
+21,975,778
+$ 2,157
+$ 33,699,111
+$ ( 22,595,250 )
+$ 11,106,018
+Balance - July 1, 2022
+25,993,484
+$ 2,559
+$ 37,410,209
+$ ( 29,277,016 )
+$ 8,135,752
+Net loss
+-
+-
+-
+( 1,577,338 )
+( 1,577,338 )
+Stock issued to vendor for services
+125,000
+13
+61,237
+-
+61,250
+Issuance of common stock – net of offering costs of $ 142,500
+4,181,821
+418
+1,850,083
+-
+1,850,501
+Stock-based compensation expense
+-
+-
+175,779
+-
+175,779
+Balance - September 30, 2022
+30,300,305
+$ 2,990
+$ 39,497,308
+$ ( 30,854,354 )
+$ 8,645,944
+Net loss
+-
+-
+-
+( 699,484 )
+( 699,484 )
+Stock issued to vendor for services
+44,000
+44
+10,646
+-
+10,690
+Stock-based compensation expense
+-
+-
+( 77,900 )
+-
+( 77,900 )
+Balance – December 31, 2022
+30,344,305
+3,304
+39,430,054
+( 31,553,838 )
+7,879,250
+See accompanying
+Notes to Condensed Financial Statements.
+- 5 -
+Amesite Inc.
+Condensed
+Statements of Cash Flows (unaudited)
+Six Months Ended
+December 31,
+2022
+2021
+Cash Flows from Operating Activities
+Net loss
+$ ( 2,276,821 )
+$ ( 4,700,396 )
+Adjustments to reconcile net loss to net cash and cash equivalents from operating activities:
+Depreciation and amortization
+362,340
+441,849
+Stock compensation expense
+97,879
+811,611
+Value of common stock issued in exchange for consulting services
+71,940
+22,698
+Changes in operating assets and liabilities which used cash:
+Accounts receivable
+( 90,440 )
+34,525
+Prepaid expenses and other assets
+298,860
+( 478,160 )
+Accounts payable
+( 9,422 )
+138,615
+Accrued compensation
+( 137,856 )
+( 129,398 )
+Deferred revenue
+( 65,932 )
+59,368
+Accrued and other liabilities
+( 87,110 )
+( 13,631 )
+Net cash and cash equivalents used in operating activities
+( 1,836,562 )
+( 3,812,919 )
+Cash Flows from Investing Activities
+Purchase of property and equipment
+( 2,861 )
+( 8,804 )
+Investment in capitalized software
+( 175,209 )
+( 500,624 )
+Net cash and cash equivalents used in investing activities
+( 178,070 )
+( 509,428 )
+Cash Flows from Financing Activities
+Issuance of common stock - net of issuance costs
+1,850,501
+1,360,000
+Net cash and cash equivalents provided by financing activity
+1,850,501
+1,360,000
+Net (Decrease) Increase in Cash and Cash Equivalents
+( 164,131 )
+( 2,962,347 )
+Cash and Cash Equivalents - Beginning of period
+7,155,367
+10,713,091
+Cash and Cash Equivalents - End of period
+$ 6,991,236
+$ 7,750,744
+See accompanying Notes to Condensed Financial Statements.
+- 6 -
+Amesite Inc.
+Notes
+to Condensed Financial Statements
+December 31, 2022 and 2021
+Note 1 - Nature of Business and Liquidity
+Amesite Inc. (the “Company”)
+was incorporated in November 2017. The Company is an artificial intelligence driven platform and course designer, that provides customized,
+high performance and scalable online products for schools and businesses. The Company uses machine learning to provide a novel, mass customized
+experience to learners. The Company’s customers are businesses, universities and colleges, and K-12 schools. The Company’s
+activities are subject to significant risks and uncertainties. The Company’s operations are considered to be in
+one
+segment.
+On September 18, 2020, we consummated
+a reorganizational merger, pursuant to an Agreement and Plan of Merger (the “Merger Agreement”), dated July 14, 2020 (“Effective
+Date”), whereby we merged with and into Amesite Inc. (“Amesite Parent”) our former parent corporation, with our Company
+resulting as the surviving entity. In connection with the same, we filed a Certificate of Ownership and Merger with the Secretary of State
+of the State of Delaware, and changed our name from “Amesite Operating Company” to “Amesite Inc.” The stockholders
+of Amesite Parent approved the Merger Agreement on August 4, 2020. The directors and officers of Amesite Parent became our directors and
+officers.
+Pursuant to the Merger Agreement, on
+the Effective Date, each share of the Amesite parent’s common stock, $ 0.0001
+par value per share, issued and outstanding immediately
+before the Effective Date, was converted, on a one-for-one basis, into shares of our common stock.
+Additionally, each option or warrant
+to acquire shares of Amesite Parent outstanding immediately before the Effective Date was converted into and became an equivalent option
+to acquire shares of our common stock, upon the same terms and conditions.
+Going Concern
+The accompanying condensed financial
+statements have been prepared in accordance with generally accepted accounting principles applicable to a going concern, which contemplates
+the realization of assets and the satisfaction of liabilities in the normal course of business.
+The
+Company is developing its customer base and has not completed its efforts to establish a stabilized source of revenue sufficient to cover
+its expenses. The Company has had a history of net losses and negative cash flows from operating activities since inception and expects
+to continue to incur net losses and use cash in its operations in the foreseeable future.
+In
+addition, the Company has received a notice from the Nasdaq related to their failure to maintain a minimum bid price of $ 1
+per share.
+The Company is not currently in compliance with the Nasdaq listing rules and if the Company does not regain compliance by March 6, 2023,
+the common stock of the Company will become subject to delisting. If the Company’s common stock is delisted, it may affect the Company’s
+ability to obtain financing, trade or sell shares of their common stock, and/or forecasted operations could be negatively impacted in
+an amount that the Company cannot currently quantify.
+The assessment of the Company’s
+ability to meet its future obligations is inherently judgmental, subjective and susceptible to change.
+Based
+on their current forecast, management believes that it will have sufficient cash and cash equivalents to maintain the Company’s
+planned operations for the next twelve months following the issuance of these financial statements; however, there is uncertainty in the
+forecast and therefore the Company cannot assert that it is probable. The Company has considered both quantitative and qualitative factors
+that are known or reasonably knowable as of the date of these financial statements are issued and concluded that there are conditions
+present in the aggregate that raise substantial doubt about the Company’s ability to continue as a going concern.
+In
+response to the conditions, management plans include generating cash by completing financing transactions, which may include offerings
+of common stock. However, these plans are subject to market conditions, and are not within the Company’s control, and therefore,
+cannot be deemed probable. There is no assurance that the Company will be successful in implementing their plans. As a result, the Company
+has concluded that management’s plans do not alleviate substantial doubt about the Company’s ability to continue as a going
+concern.
+The condensed financial statements do
+not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification
+of liabilities that might result from the outcome of this uncertainty.
+- 7 -
+Note 2 - Significant Accounting Policies
+Basis of Presentation
+The condensed financial statements of
+the Company have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”)
+and considering the requirements of the United States Securities and Exchange Commission (“SEC”). The Company has a fiscal
+year with a June 30 year end.
+In the opinion of management, the condensed
+financial statements of the Company as of December 31, 2022 and 2021 and for the six months ended December 31, 2022 and 2021 include all
+adjustments and accruals, consisting only of normal, recurring accrual adjustments, which are necessary for a fair presentation of the
+results for the interim periods. These interim results are not necessarily indicative of results for a full year.
+Certain information and footnote disclosures
+normally included in financial statements prepared in accordance with GAAP have been condensed in or omitted from this report pursuant
+to the rules and regulations of the SEC. These financial statements should be read together with the condensed financial statements and
+notes thereto included in the Company’s Annual Report on Form 10-K for the year ended June 30, 2022.
+Use
+of Estimates
+The
+preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts
+of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+Fair
+Value Measurements
+Accounting
+standards require certain assets and liabilities be reported at fair value in the financial statements and provide a framework for establishing
+that fair value. The framework for determining fair value is based on a hierarchy that prioritizes the inputs and valuation techniques
+used to measure fair value.
+Fair
+values determined by Level 1 inputs use quoted prices in active markets for identical assets or liabilities that the Company has the ability
+to access.
+Fair
+values determined by Level 2 inputs use other inputs that are observable, either directly or indirectly. These Level 2 inputs include
+quoted prices for similar assets and liabilities in active markets and other inputs such as interest rates and yield curves that are observable
+at commonly quoted intervals.
+Level
+3 inputs are unobservable inputs, including inputs that are available in situations where there is little, if any, market activity for
+the related asset. These Level 3 fair value measurements are based primarily on management’s own estimates using pricing models,
+discounted cash flow methodologies, or similar techniques.
+In
+instances wherein inputs used to measure fair value fall into different levels in the above fair value hierarchy, fair value measurements
+in their entirety are categorized based on the lowest level input that is significant to the valuation. The Company’s assessment
+of the significance of particular inputs to these fair value measurements requires judgment and considers factors specific to each asset
+or liability.
+Cash
+and Cash Equivalents
+The
+Company considers all investments with an original maturity of three months or less when purchased to be cash equivalents. The total amount
+of bank deposits (checking and savings accounts) that was insured by the FDIC at year end was $ 250,000 .
+Income
+Taxes
+A
+current tax liability or asset is recognized for the estimated taxes payable or refundable on tax returns for the year. Deferred tax liabilities
+or assets are recognized for the estimated future tax effects of temporary differences between financial reporting and tax accounting.
+Deferred
+tax assets are reduced by a valuation allowance to the extent management concludes it is more likely than not that the assets will not
+be realized. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years
+in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change
+in tax rates is recognized in the statement of operations in the period that includes the enactment date.
+- 8 -
+Technology
+and Content Development
+Technology
+and content development expenditures consist primarily of personnel and personnel-related expense and contracted services associated with
+the maintenance of our platform as well as hosting and licensing costs and are charged to expense as incurred. It also includes amortization
+of capitalized software costs and research and development costs related to improving our platform and creating content that are charged
+to expense as incurred.
+Property
+and Equipment
+Property
+and equipment are recorded at cost. The straight-line method is used for computing depreciation and amortization. Assets are depreciated
+over their estimated useful lives. The cost of leasehold improvements is depreciated (amortized) over the lesser of the length of the
+related leases or the estimated useful lives of the assets. Costs of maintenance and repairs are charged to expense when incurred.
+Depreciable
+Life - Years
+Leasehold improvements
+Shorter of estimated lease term or 10 years
+Furniture and fixtures
+7
+years
+Computer equipment and software
+5
+years
+Capitalized Software Costs
+The Company capitalizes costs incurred
+in the development of software for internal use, including the costs of the software, materials, consultants, and payroll and payroll
+related costs for employees incurred in developing internal use computer software. Planning costs incurred prior to the development of
+software and costs not qualifying for capitalization are charged to expense. The Company amortizes capitalized software over a period
+of three years, which is the expected useful life of the software. The Company recognized amortization expense of approximately $ 350,000
+and $ 424,000
+for the six months ended December 31, 2022 and 2021, respectively. Accumulated amortization on December, 2022 and 2021 was
+$ 2,533,000
+and $ 1,762,000 , respectively.
+Revenue Recognition
+We generate substantially all of our
+revenue from contractual arrangements with businesses, colleges and universities to provide a comprehensive platform of integrated technology
+and technology enabled services related to product offerings.
+During the six months ended December
+31, 2022 and 2021, we recognized revenue from contracts with customers of approximately $ 517,000  and $ 330,000 , respectively, of which
+$ 77,000  and $ 14,000 , respectively, related to services transferred at a point in time and the remainder related to services provided
+over time.
+Performance Obligations and Timing
+of Recognition
+A performance obligation is a promise
+in a contract to transfer a distinct good or service to the customer. A contract’s transaction price is allocated to each distinct
+performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.
+We derive revenue from annual licensing
+arrangements, including maintenance fees, setup fees and other variable fees for course development and miscellaneous items. Our contracts
+with partners generally have two-year terms and have a single performance obligation. The promises to set up and provide a hosted platform
+of tightly integrated technology and services partners needed to attract, enroll, educate, and support students are not distinct within
+the context of the contracts. This performance obligation is satisfied as the partners receive and consume benefits, which occurs ratably
+over the contract term.
+- 9 -
+Occasionally, we will provide professional
+services, such as custom development, non-complex implementation activities, training, and other various professional services. We evaluate
+these services to determine if they are distinct and separately identifiable in the context of the contract. In our contracts with customers
+that contain multiple performance obligations as a result of this assessment, we allocate the transaction price to each separate performance
+obligation on a relative standalone selling price basis. Standalone selling prices of our solutions and services are typically estimated
+based on observable transactions when the solutions or services are sold on a standalone basis. When standalone selling prices are not
+observable, we utilize a cost plus margin approach to allocate the transaction price.
+We do not disclose the value of unsatisfied
+performance obligations because the variable consideration is allocated entirely to a wholly unsatisfied promise to transfer a service
+that forms part of a single performance obligation (i.e., consideration received is based on the level of product offerings, which is
+unknown in advance). For the six months ended December 31, 2022 and 2021, all of the revenue recognized has been recognized over the related
+contract periods. Additionally, for the six months ended December 31, 2022, five customers comprised approximately
+70 % of total revenue.
+During the six months ended December 31, 2021, one customer comprised approximately
+20 % of total revenue.
+We also receive fees that are fixed
+in nature, such as annual license and maintenance charges, in place of or in conjunction with variable consideration. The fees are independent
+of the number of students that are enrolled in courses with our customers and are allocated to and recognized ratably over the service
+period of the contract that the Company’s platform is made available to the customer (i.e. the customer simultaneously receives
+and consumes the benefit of the software over the contract service period).
+The following factors affect the nature,
+amount, timing, and uncertainty of our revenue and cash flows:
+●
+The majority of our customers are private and public learning institutions across various domestic regions
+●
+The majority of our customers have annual payment terms
+Accounts Receivable, Contract Assets
+and Liabilities
+Balance sheet items related to contracts
+consist of accounts receivable (net) and contract liabilities on our condensed balance sheets. Accounts receivable (net) is stated at
+net realizable value, and we utilize the allowance method to provide for doubtful accounts based on management’s evaluation of the
+collectability of the amounts due. Our estimates are reviewed and revised periodically based on historical collection experience and a
+review of the current status of accounts receivable. Historically, actual write-offs for uncollectible accounts have not significantly
+differed from prior estimates. There was no allowance for doubtful accounts on accounts receivable balances as of December 31, 2022 or June
+30, 2022.
+We may recognize revenue prior to billing
+a customer when we have satisfied or partially satisfied our performance obligations as billings to our customers may not be made until
+after the service period has commenced. As of December 31, 2022 and June 30, 2022, we do not have any contract assets.
+Contract liabilities as of each balance
+sheet date represent the excess of amounts billed or received as compared to amounts recognized in revenue on our condensed statements
+of operations as of the end of the reporting period, and such amounts are reflected as a current liability on our condensed balance sheets
+as deferred revenue. We generally receive payments prior to completion of the service period and our performance obligations. These payments
+are recorded as deferred revenue until the services are delivered or until our obligations are otherwise met, at which time revenue is
+recognized.
+Some contracts also involve annual license
+fees, for which upfront amounts are received from customers. In these contracts, the license fees received in advance of the platform’s
+launch are recorded as contract liabilities.
+- 10 -
+The following table provides information
+on the changes in the balance of contract liabilities for the six months ended December 31:
+2022
+2021
+Opening balance
+$ 342,672
+$ 333,200
+Billings
+451,490
+389,306
+Less revenue recognized (net of cancellations):
+( 517,422 )
+( 329,938 )
+Closing balance
+$ 276,740
+$ 392,568
+Revenue recognized during the six months
+ended December 31, 2022 and 2021 that was included in the deferred revenue balance that existed in the opening balance of each year was
+approximately $ 207,000
+and $ 164,000 , respectively.
+The deferred revenue balance as of December
+31, 2022 is expected to be recognized over the next 12 months.
+Net Loss per Share
+Basic net loss per share is calculated
+by dividing the net loss for the period by the weighted-average number of common shares outstanding during the period. Diluted loss per
+share includes potentially dilutive securities such as outstanding options and warrants, using various methods such as the treasury stock
+or modified treasury stock method in the determination of dilutive shares outstanding during each reporting period.
+At
+December 31, 2022 and June 30, 2022, the Company had  4,710,262  and  4,922,007  potentially
+dilutive shares of common stock related to common stock options and warrants, respectively, as determined using the if-converted method.
+For the six months ended December 31, 2022 and 2021, the dilutive effect of common stock options and common stock warrants has not been
+included in the average shares outstanding for the calculation of net loss per share as the effect would be anti-dilutive as a result
+of our net losses in these periods .
+Stock-Based Compensation
+We have issued three types of stock-based
+awards under our stock plans: stock options, restricted stock units and stock warrants. All stock-based awards granted to employees, directors
+and independent contractors are measured at fair value at each grant date. We rely on the Black-Scholes option pricing model for estimating
+the fair value of stock-based awards granted, and expected volatility is based on the historical volatility of the Company’s stock
+prices. Stock options generally vest over two years from the grant date and generally have ten-year contractual terms. Restricted stock
+units generally have a term of 12 months from the closing date of the agreement. Stock warrants issued have a term of
+five years . Information
+about the assumptions used in the calculation of stock-based compensation expense is set forth in Note 3 in the Notes to Financial Statements.
+Risks and Uncertainties
+The Company operates in an industry
+subject to rapid change. The Company’s operations will be subject to significant risk and uncertainties including financial, operational,
+technological, and other risks associated with an early-stage company, including the potential risk of business failure.
+On March 11, 2020, the World Health
+Organization declared the outbreak of a respiratory disease caused by a novel coronavirus as a “pandemic.” First identified
+in late 2019 and known now as COVID-19, the outbreak has impacted thousands of individuals worldwide. In response, many countries, including
+the United States, have implemented measures to combat the outbreak which have impacted global business operations. While management believes
+the Company’s operations have not been significantly impacted, the Company continues to monitor the situation. In addition, while
+the Company’s results of operations, cash flows and financial condition could be negatively impacted, the extent of the impact cannot
+be reasonably estimated at this time.
+- 11 -
+Note 3 - Stock-Based Compensation
+The Company’s Equity Incentive
+Plan (the “Plan”) permits the grant of stock options, stock appreciation rights, restricted stock, or restricted stock units
+to officers, employees, directors, consultants, agents, and independent contractors of the Company. The Company believes that such awards
+better align the interests of its employees, directors, and consultants with those of its stockholders. Option awards are generally granted
+with an exercise price equal to the market price of the Company’s stock at the date of grant; those option awards generally vest
+over two years from the grant date and generally have ten-year contractual terms. Certain option awards provide for accelerated vesting
+(as defined in the Plan).
+The Company has reserved
+4,600,000
+shares
+of common stock to be available for granting under the Plan.
+The Company estimates the fair value
+of each option award using a Black Scholes Model (“BSM”) that uses the weighted average assumptions included in the table
+below. Expected volatilities are based on historical volatility of comparable companies. The Company uses historical data to estimate
+option exercise within the valuation model or estimates the expected option exercise when historical data is unavailable. The risk-free
+rate for periods within the contractual life of the option is based on the U.S. Treasury yield curve in effect at the time of grant. The
+Company has not paid any dividends on common stock since its inception and does not anticipate paying dividends on its common stock in
+the foreseeable future. When calculating the amount of annual compensation expense, the Company has elected not to estimate forfeitures
+and instead accounts for forfeitures as they occur.
+The following table summarizes the assumptions
+used for estimating the fair value of the stock options granted for the six months ended:
+December 31,
+2022
+December 31,
+2021
+Expected term (years)
+9.97
+6.00
+Risk-free interest rate
+2.20
+%
+0.12
+%
+Expected volatility
+92.98
+%
+46.30
+%
+Dividend yield
+0
+%
+0
+%
+A summary of option activity for the
+six months ended December 31, 2022 is presented below:
+Options
+Number of
+Shares
+Weighted Average
+Exercise
+Price
+Weighted
+Average
+Remaining
+Contractual
+Term
+(in years)
+Outstanding at July 1, 2022
+3,163,190
+$ 1.89
+7.34
+Granted
+4,000
+.25
+9.89
+Cancelled
+( 47,667 )
+2.84
+8.55
+Outstanding and expected to vest at December 31, 2022
+3,119,523
+1.88
+6.82
+The weighted-average grant-date fair
+value of options granted during the six months ended December 31, 2022 as $ 1,000 . The options contained time-based vesting conditions
+satisfied over
+four
+years from the grant date.
+For the three months ended December
+31, 2022 and 2021, the Company recognized $ 15,600
+and $ 422,526 , in expense related to the Plan, respectively. For the six months ended
+December 31, 2022 and 2021, the Company recognized $ 191,379
+and $ 811,611 , in expense related to the Plan, respectively.
+- 12 -
+On September 28, 2021, the Board approved
+certain stock awards to its board members in the form of stock options and restricted stock.
+The stock option awards vested ratably
+over the twelve-month period from beginning September 28, 2021 through September 28, 2022. The total approved compensation was $ 172,702
+in stock options. The number of options was determined based on the fair value of the Company’s share price as of the date of grant.
+The Company determined that there will be
+337,078
+of restricted shares issued upon vesting, based on the fair value of the Company’s
+share price on the grant date.
+The restricted stock awards vested over
+a twelve-month period beginning July 1, 2021 through June 30, 2022. The total approved compensation was $ 600,000
+in restricted stock.
+Accordingly, $ 56,500
+and $ 156,175
+related
+to the stock option grants made to the board members, was recognized as stock-based compensation expense for the three and six months
+ended December 31, 2022. The Company also recognized ($ 150,000 ) and $ 0
+as stock-based compensation expense related to the restricted stock
+unit grants made to the board members for the three and six months ended December 31, 2022, respectively.
+Beginning in January 2022, additional
+Board of Directors compensation at the rate of $ 305,500
+annually was implemented with Directors opting for receipt via stock options under
+the Equity Incentive Plan or cash. For the year ended December 31, 2022, $ 226,000
+in stock option grants were awarded and $ 79,500
+of cash
+payments were made. The Company recognized $ 56,500
+and $ 113,000
+as stock-based compensation expense related to the restricted stock unit
+grants made to the board members for the three and six months ended December 31, 2022, respectively.
+As of December 31, 2022, there was approximately
+$ 1,464,000
+of total unrecognized compensation cost for employees and non-employees related to nonvested options. These costs are expected
+to be recognized through December 2026.
+Note 4 – Warrants
+As of December 31, 2022 and June 30,
+2022, there were 1,590,739 and 1,421,739 warrants outstanding, respectively. During the six months ended December 31, 2022 and 2021, the
+Company issued $169,000 and 63,489 common stock warrants, respectively, to a placement agent related to fundraisings and other advisory
+services. The warrants are fully vested, have a term of 5 years from closing date of the private placements and an exercise price of $1.00
+per share (2022 warrants) and $6.00 per share (2021 warrants) , respectively (see Note 4 for additional terms of the warrants).
+Warrants
+Number of
+Warrants
+Outstanding at July 1, 2021 and September 30, 2021
+1,234,239
+Outstanding at July 1, 2022
+1,421,739
+Granted
+169,000
+Exercised
+-
+Outstanding at December 31, 2022
+1,590,739
+The Company measures the fair value
+of warrants using Black-Scholes Model. The fair value of the warrants issued during the six months ended December 31, 2022 and 2021 was
+approximately $ 63,489
+and $ 23,500
+respectively, based on the following inputs and assumptions below.
+2022
+2021
+Volatility (percent)
+92.98 %
+45.00 %
+Risk-free rate (percent)
+3.80 %
+0.14 %
+Expected term (in years)
+9.97
+5
+- 13 -
+Note 5 - Income Taxes
+For the six months ended December 31,
+2022 and prior periods since inception, the Company’s activities have not generated taxable income or tax liabilities. Accordingly,
+the Company has not recognized an income tax benefit on the Condensed Statements of Operations for the six months ended December 31, 2022
+and 2021.
+The Company has approximately $ 31,500,000
+of net operating loss carryforwards available to reduce future income taxes, of which approximately $ 17,000
+of net operating loss carryforwards
+expire in 2037. Due to uncertainty as to the realization of the net operating loss carryforwards and other deferred tax assets as a result
+of the Company’s limited operating history and operating losses since inception, a full valuation allowance has been recorded against
+the Company’s deferred tax assets.
+Note 6 - Convertible Notes Payable
+In April and May 2020, the Company issued
+unsecured, convertible notes payable (the “Notes”) to certain accredited investors, with an aggregate principal amount of
+$ 2,182,500 , in an offering intended to be exempt from registration under the Securities Act of 1933, as amended, pursuant to Section 4(a)(2)
+thereof and Regulation D thereunder.
+The Notes were unsecured, bore interest
+at  8 % per annum, and matured  one year  from their dates of issuance. The Notes were subject to automatic conversion into
+the Company’s common stock upon a qualified equity financing or change of control, based on a specified formula for the conversion
+price; using the lesser of $ 2.00  or
+75 % of the price paid per share in either of the conversion events.
+The Company incurred issuance costs
+of $ 261,900 . The issuance costs were amortized over six months, which was the estimated length of time that the Company believed the Notes
+would be outstanding until a conversion event occurred.
+Note 7 - Subsequent Events
+On February 15, 2023, the Company held a special meeting of stockholders
+(the “Special Meeting”) for the purpose of holding a stockholder vote on the following proposals: (i) To grant discretionary
+authority to our board of directors to (i) amend our certificate of incorporation to combine outstanding shares of our common stock
+into a lesser number of outstanding shares, or a “reverse stock split,” at a specific ratio within a range of one-for-five
+(1-for-5) to a maximum of a one-for-fifty (1-for-50) split, with the exact ratio to be determined by our board of directors in its sole
+discretion; and (ii)  effect the reverse stock split, if at all, within one year of the date the proposal is approved by stockholders ;
+and (ii) To approve an amendment the Company’s 2018 Equity Incentive Plan (the “2018 Plan”) to
+(a) increase the number
+of shares available for issuance under the 2018 Plan by 3,000,000 shares and (b) increase the amount of shares that may be issued pursuant
+to the exercise of incentive stock options by 3,000,000 shares.
+The reverse stock split proposal and the amendment to the Company’s
+2018 Plan were each approved by the requisite vote of the Company’s stockholders.
+- 14 -
+Item 2. Management’s Discussion and Analysis
+of Financial Condition and Results of Operations.
+The following discussion and analysis of our
+financial condition and results of operations should be read together with our unaudited financial statements and related notes appearing
+elsewhere in this Quarterly Report on Form 10-Q and our audited financial statements and related notes for the year ended June 30, 2022
+included in our Annual Report on Form 10-K filed with the Securities and Exchange Commission, or SEC, on September 28, 2022. In addition
+to historical information, this discussion and analysis contains forward-looking statements that involve risks, uncertainties and assumptions.
+Our actual results may differ materially from those anticipated in these forward-looking statements as a result of certain factors. We
+discuss factors that we believe could cause or contribute to these differences below and elsewhere in this Quarterly Report on Form 10-Q,
+including those factors set forth in the section entitled “Cautionary Statement Regarding Forward-Looking Statements” and
+in the section entitled “Risk Factors” in Part II, Item 1A.
+Overview
+The following discussion highlights our results
+of operations and the principal factors that have affected our financial condition as well as our liquidity and capital resources for
+the three and six months ended December 31, 2022 and provides information that management believes is relevant for an assessment and understanding
+of the statements of financial condition and results of operations presented herein. The following discussion and analysis are based on
+our unaudited condensed financial statements contained in this Quarterly Report on Form 10-Q, which we have prepared in accordance with
+United States generally accepted accounting principles, or GAAP. You should read the discussion and analysis together with such financial
+statements and the related notes thereto.
+We are not currently profitable, and we cannot
+provide any assurance that we will ever be profitable. We incurred a net loss of $699,000 for the three months ended December 31, 2022,
+and we incurred a net loss of $23,800,000 for the period from November 14, 2017 (date of incorporation) to December 31, 2022.
+The assessment of the Company’s ability
+to meet its future obligations is inherently judgmental, subjective and susceptible to change. Based on their current forecast, management
+believes that it will have sufficient cash and cash equivalents to maintain the Company’s planned operations for the next twelve
+months following the issuance of these financial statements; however, there is uncertainty in the forecast
+and
+therefore the Company cannot assert that it is probable . The Company has considered both quantitative and qualitative factors that
+are known or reasonably knowable as of the date of these financial statements are issued and concluded that there are conditions present
+in the aggregate that raise substantial doubt about the Company’s ability to continue as a going concern.
+In response to the conditions, management plans
+include generating cash by completing financing transactions, which may include offerings of common stock. However, these plans are subject
+to market conditions, and are not within the Company’s control, and therefore, cannot be deemed probable. There is no assurance
+that the Company will be successful in implementing their plans. As a result, the Company has concluded that management’s plans
+do not alleviate substantial doubt about the Company’s ability to continue as a going concern.
+- 15 -
+Basis of Presentation
+The financial statements contained herein have
+been prepared in accordance with GAAP and the requirements of the SEC.
+Critical Accounting Policies and Significant Judgments and Estimates
+This management’s discussion and analysis
+of financial condition and results of operations is based on our financial statements, which have been prepared in accordance with U.S.
+GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of
+assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts
+of revenue and expenses during the reported period. In accordance with U.S. GAAP, we base our estimates on historical experience and on
+various other assumptions we believe to be reasonable under the circumstances. Actual results may differ from these estimates if conditions
+differ from our assumptions. While our significant accounting policies are more fully described in Note 2 in the “Notes to Condensed
+Financial Statements,” we believe the following accounting policies are critical to the process of making significant judgments
+and estimates in preparation of our financial statements.
+Internally-Developed Capitalized Software
+We capitalize certain costs related to internal-use
+software, primarily consisting of direct labor and third-party vendor costs associated with creating the software. Software development
+projects generally include three stages: the preliminary project stage (all costs are expensed as incurred), the application development
+stage (certain costs are capitalized and certain costs are expensed as incurred) and the post-implementation/operation stage (all costs
+are expensed as incurred). Costs capitalized in the application development stage include costs related to the design and implementation
+of the selected software components, software build and configuration infrastructure, and software interfaces. Capitalization of costs
+requires judgment in determining when a project has reached the application development stage, the proportion of time spent in the application
+development stage, and the period over which we expect to benefit from the use of that software. Once the software is placed in service,
+these costs are amortized on the straight-line method over the estimated useful life of the software, which is generally three years.
+Stock-Based Compensation
+We have issued three
+types of stock-based awards under our stock plans: stock options, restricted stock units and stock warrants. All stock-based awards granted
+to employees, directors and independent contractors are measured at fair value at each grant date. We rely on the Black-Scholes option
+pricing model for estimating the fair value of stock-based awards granted, and expected volatility is based on the historical volatility
+of the Company’s stock prices. Stock options generally vest over two years from the grant date and generally have ten-year contractual
+terms. Restricted stock units generally have a term of 12 months from the closing date of the agreement. Stock warrants issued have a
+term of five years. Information about the assumptions used in the calculation of stock-based compensation expense is set forth in Note
+3 in the Notes to Financial Statements.
+Revenue Recognition
+We generate substantially all our revenue from
+contractual arrangements with businesses, colleges and universities and K-12 schools to provide a comprehensive platform of tightly integrated
+technology and technology enabled services related to product offerings.
+Revenue related to our
+licensing arrangements is generally recognized ratably over the contract term commencing upon platform delivery. Revenue related to licensing
+arrangements recognized in a given time period will consist of contracts that went live in the current period or that went live in previous
+periods and are currently ongoing.
+- 16 -
+Performance Obligations and Timing of Recognition
+A performance obligation is a promise in a contract
+to transfer a distinct good or service to the customer. A contract’s transaction price is allocated to each distinct performance
+obligation and recognized as revenue when, or as, the performance obligation is satisfied.
+We derive revenue from annual licensing arrangements,
+including maintenance fees, setup fees and other variable fees for course development and miscellaneous items. Our contracts with partners
+generally have two-year terms and have a single performance obligation. The promises to set up and provide a hosted platform of tightly
+integrated technology and services partners need to attract, enroll, educate and support students are not distinct within the context
+of the contracts. This performance obligation is satisfied as the partners receive and consume benefits, which occurs ratably over the
+contract term.
+Occasionally, we will provide professional services,
+such as custom development, non-complex implementation activities, training, and other various professional services. We evaluate these
+services to determine if they are distinct and separately identifiable in the context of the contract. In our contracts with Customers
+that contain multiple performance obligations because of this assessment, we allocate the transaction price to each separate performance
+obligation on a relative standalone selling price basis. Standalone selling prices of our solutions and services are typically estimated
+based on observable transactions when the solutions or services are sold on a standalone basis. When standalone selling prices are not
+observable, we utilize a cost-plus margin approach to allocate the transaction price.
+We do not disclose the value of unsatisfied performance
+obligations because the variable consideration is allocated entirely to a wholly unsatisfied promise to transfer a service that forms
+part of a single performance obligation (i.e., consideration received is based on the level of product offerings, which is unknown in
+advance).
+We also receive fees that are fixed in nature,
+such as annual license and maintenance charges, in place of or in conjunction with variable consideration. The fees are independent of
+the number of students that are enrolled in courses with our customers and are allocated to and recognized ratably over the service period
+of the contract that the Company’s platform is made available to the customer (i.e. the customer simultaneously receives and consumes
+the benefit of the software over the contract service period).
+The following factors affect the nature, amount,
+timing, and uncertainty of our revenue and cash flows:
+●
+The majority of our customers are private and public learning institutions across various domestic regions
+●
+The majority of our customers have annual payment terms
+Accounts Receivable, Contract Assets and Liabilities
+Balance sheet items related to contracts consist
+of accounts receivable (net) and contract liabilities on our condensed balance sheets. Accounts receivable (net) is stated at net realizable
+value, and we utilize the allowance method to provide for doubtful accounts based on management’s evaluation of the collectability
+of the amounts due. Our estimates are reviewed and revised periodically based on historical collection experience and a review of the
+current status of accounts receivable. Historically, actual write-offs for uncollectible accounts have not significantly differed from
+prior estimates. There was no allowance for doubtful accounts on accounts receivable balances as of December 31, 2022, and June 30, 2022.
+We may recognize revenue prior to billing a customer
+when we have satisfied or partially satisfied our performance obligations as billings to our customers may not be made until after the
+service period has commenced. As of December 31, 2022, and June 30, 2022, we do not have any contract assets.
+Contract liabilities as of each balance sheet
+date represent the excess of amounts billed or received as compared to amounts recognized in revenue on our statements of operations as
+of the end of the reporting period, and such amounts are reflected as a current liability on our balance sheets as deferred revenue. We
+generally receive payments prior to completion of the service period and our performance obligations. These payments are recorded as deferred
+revenue until the services are delivered or until our obligations are otherwise met, at which time revenue is recognized.
+Some contracts also involve annual license fees,
+for which upfront amounts are received from Customers. In these contracts, the license fees received in advance of the platform’s
+launch are recorded as contract liabilities.
+- 17 -
+Results of Operations
+Revenue
+We generated revenues of $237,000 for the three
+months ended December 31, 2022 as compared to $189,174 for the three months ended December 31, 2021. We generated revenues of $517,421
+for the six months ended December 31, 2022 as compared to $329,865 for the six months ended December 31, 2021.Revenue growth compared
+to prior year for the three and six months ended December 31, 2022 was primarily driven by contract renewals.
+General and Administrative
+General and administrative expenses consist primarily
+of personnel and personnel-related expenses, including executive management, legal, finance, human resources and other departments that
+do not provide direct operational services. General and administrative expense also includes professional fees and other corporate expense.
+General and administrative expenses for the three
+months ended December 31, 2022 were $316,348 as compared to $1,451,978 for the three months ended December 31, 2021. General and administrative
+expenses for the six months ended December 31, 2022 were $1,292,219 as compared to $2,687,748 for the six months ended December 31, 2021.
+The decrease between the three-month periods and the six month periods are primarily due to deliberate cost reductions, including reductions
+in headcount and associated administrative costs. These reductions were made possible by completion of certain features and platform capabilities,
+that require less staffing to maintain than to build.
+Technology and Content Development
+Technology and content development expenses consist
+primarily of personnel and personnel-related expense and contracted services associated with the ongoing improvement and maintenance of
+our platform as well as hosting and licensing costs. Technology and content expense also include the amortization of capitalized software
+costs.
+Technology and content development expenses for
+the three months ended December 31, 2022 were $431,087 as compared to $681,018 for the three months ended December 31, 2021. Technology
+and content development expenses for the six months ended December 31, 2022 were $911,274 as compared to $1,477,126 for the six months
+ended December 31, 2021. The decrease between the three-month periods and the six month periods in technology are also principally related
+to reductions in headcount and associated administrative costs, since these costs scale with staff. The reductions in the three-month
+and six month periods in content development are principally due to completion of certain learning programs that are now offered by our
+customers, and require less staffing to maintain than to build.
+Sales and Marketing
+Sales and marketing expense consist primarily
+of activities to attract Customers to our offerings. This includes personnel and personnel-related expenses, various search engine and
+social media costs as well as the cost of advertising.
+Sales and marketing expenses for the three months
+ended December 31, 2022 were $201,656 as compared to $384,027 for the three months ended December 31, 2021. Sales and marketing expenses
+for the six months ended December 31, 2022 were $607,100 as compared to $871,260 for the six months ended December 31, 2021. The decrease
+between the three-month periods and the six month periods in sales and marketing are principally related to refinement of sales and marketing
+processes to those that focus messaging directly to our key markets and offer improved lead generation. We have seen increases in marketing
+qualified leads (MQLs) in both periods, while reducing the overall sales and marketing spends.
+- 18 -
+Interest Income
+For the three months ended December 31, 2022,
+interest income totaled $12,508 as compared to interest income of $7,273 for the three months ended December 31, 2021. For the six months
+ended December 31, 2022, interest income totaled $17,958 as compared to interest income of $7,535 for the six months ended December 31,
+2021.
+Net Loss
+Our net loss for the three months ended December
+31, 2022 was $699,444 as compared to a net loss for the three months ended December 31, 2021 of $2,322,239. Our net loss for the six months
+ended December 31, 2022 was $2,276,747 as compared to a net loss for the six months ended December 31, 2021 of $4,700,396. The loss was
+substantially lower during the six months ended December 31, 2022 compared to 2021 as a result of deliberate cost savings measures described
+above, as we have launched capabilities that are now maintainable and lower cost, adjusted our headcount to reflect the reduced need for
+staffing, and improved our sales and marketing efficiency with more targeted, effective messaging.
+Capital Expenditures
+During the three months
+ended December 31, 2022 and 2021, we had capital asset additions of $65,672 and $212,091 respectively, which were comprised of $65,672
+and $5,130 respectively, in capitalized technology and content development. During the six months ended December 31, 2022 and 2021, we
+had capital asset additions of $175,209 and $500,624 in capitalized technology and content development. [We will continue to capitalize
+significant software development costs, comprised primarily of internal payroll, payroll related and contractor costs, as we build out
+and complete our technology platforms.]
+Financial Position, Liquidity, and Capital
+Resources
+Overview
+We are not currently profitable, and we cannot
+provide any assurance that we will ever be profitable, as indicated by our losses noted above.
+During the period from November 14, 2017 (date
+of incorporation) to September 30, 2020, we raised net proceeds of approximately $11,760,000 from private placement financing transactions
+(stock and debt). On September 25, 2020, we completed the Offering of 3,000,000 shares of our common stock, $0.0001 par value per share,
+at an offering price of $5.00 per share (total net proceeds of approximately $12.8 million after underwriting discounts, commissions,
+and other offering costs).
+On August 2, 2021, we entered into a purchase
+agreement (the “Purchase Agreement”) with Lincoln Park Capital Fund, LLC (“Lincoln Park”), under which, subject
+to specified terms and conditions, we may sell up to $16.5 million of shares of common stock. Our net proceeds under the Purchase Agreement
+will depend on the frequency of sales and the number of shares sold to Lincoln Park and the prices at which we sell shares to Lincoln
+Park. On August 2, 2021, we sold 759,109 shares of our common stock to Lincoln Park in an initial purchase under the Purchase Agreement
+for a total purchase price of $1,500,000. We also issued 152,715 shares of our common stock to Lincoln Park as consideration for its irrevocable
+commitment to purchase our common stock under the Purchase Agreement.
+On February 16, 2022, we closed on a public offering
+of common stock and received approximately $2.51 million of cash proceeds, net of underwriting discounts, commissions, and other offering
+costs (Note 6 to the Financial Statements).
+On September 1, 2022, we closed on a public offering
+of common stock and concurrent private placement of warrants and received approximately $1.85 million of cash proceeds, net of underwriting
+discounts, commissions, and other offering costs (Note 6 to the Financial Statements).
+- 19 -
+As of December 31, 2022, our cash balance totaled
+$6,991,236.
+The Company is developing its customer base and
+has not completed its efforts to establish a stabilized source of revenue sufficient to cover its expenses. The Company has had a history
+of net losses and negative cash flows from operating activities since inception and expects to continue to incur net losses and use cash
+in its operations in the foreseeable future.
+In addition, the Company has received a notice
+from the Nasdaq related to their failure to maintain a minimum bid price of $1 per share. The Company is not currently in compliance with
+the Nasdaq listing rules and if the Company does not regain compliance, the common stock of the Company could be delisted from the Nasdaq
+exchange. If the Company’s common stock is delisted, it may affect the Company’s ability to obtain financing, trade or sell
+shares of their common stock, and/or forecasted operations could be negatively impacted in an amount that the Company cannot currently
+quantify.
+The assessment of the Company’s ability
+to meet its future obligations is inherently judgmental, subjective and susceptible to change. Based on their current forecast, management
+believes that it will have sufficient cash and cash equivalents to maintain the Company’s planned operations for the next twelve
+months following the issuance of these financial statements; however, there is uncertainty in the forecast
+and
+therefore the Company cannot assert that it is probable . The Company has considered both quantitative and qualitative factors that
+are known or reasonably knowable as of the date of these financial statements are issued and concluded that there are conditions present
+in the aggregate that raise substantial doubt about the Company’s ability to continue as a going concern.
+In response to the conditions, management plans
+include generating cash by completing financing transactions, which may include offerings of common stock. However, these plans are subject
+to market conditions, and are not within the Company’s control, and therefore, cannot be deemed probable. There is no assurance
+that the Company will be successful in implementing their plans. As a result, the Company has concluded that management’s plans
+do not alleviate substantial doubt about the Company’s ability to continue as a going concern.
+Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+None.
+Item 3. Quantitative and Qualitative Disclosure About Market Risk.
+The Company is not required to provide the information
+required by this Item as it is a “smaller reporting company.”
+Item 4. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+As of the end of the period covered by this Quarterly
+Report on Form 10-Q, we carried out an evaluation, under the supervision, and with the participation of, our management, including our
+Chief Executive Officer (also our principal executive officer) and our Chief Financial Officer (also our principal financial and accounting
+officer), of the effectiveness of our disclosure controls and procedures as defined in Rule 13a-15(e) and 15d-15(e) of the Securities
+Exchange Act of 1934, as amended (“Exchange Act”). Based on that evaluation, our management concluded that our disclosure
+controls and procedures were effective.
+Changes in Internal Controls Over Financial Reporting
+Material weaknesses were identified in the Company’s
+internal controls which were described in our Annual Report on form 10-K filed with the Securities and Exchange Commission, or SEC, on
+September 29, 2022. Since then, the Company has undertaken a full risk assessment of its controls utilizing the COSO five-part framework,
+has enhanced its control activities around its structure, platforms, procedures, and people, and has implemented monitoring processes.
+Except as noted above, there were no changes in
+our internal control over financial reporting that occurred during the quarter ended December 31, 2022, that have materially affected,
+or are reasonably likely to materially affect, our internal control over financial reporting.
+- 20 -
+PART II – OTHER INFORMATION
+Item 1. Legal Proceedings.
+None.
+Item 1A. Risk Factors.
+Our business, financial condition, results of
+operations, and cash flows may be impacted by a number of factors, many of which are beyond our control, including those set forth in
+our Annual Report on Form 10-K, the occurrence of any one of which could have a material adverse effect on our actual results. There have
+been no material changes in our risk factors from those previously disclosed in our Annual Report on Form 10-K, other than as described
+below:
+There is substantial doubt about our ability
+to continue as a going concern.
+Our financial statements are prepared in accordance
+with U.S. generally accepted accounting principles, or GAAP, applicable to a going concern, which contemplates the realization of assets
+and the satisfaction of liabilities in the normal course of business. We are in the early stages of developing our customer base and have
+not completed our efforts to establish a stabilized source of revenue sufficient to cover our costs over an extended period of time. For
+the years ended June 30, 2022 and 2021, we had net losses of $9,059,923 and $11,586,292, respectively. For the three and six months ended
+December 31, 2022, we had net losses of $699,444 and $2,276,747, respectively. Our ability to continue as a going concern is dependent
+on our ability to raise additional capital and implement our business plan. On February 16, 2022, we completed a public offering of our
+common stock which resulted in net proceeds to the Company of $2.51 million. On September 1, 2022, we completed a public offering of our
+common stock which resulted in net proceeds to the Company of $1.85 million. In addition, on August 2, 2021, we entered into a purchase
+agreement (the “Lincoln Park Purchase Agreement”) with Lincoln Park Capital Fund, LLC (“Lincoln Park”), under
+which, subject to specified terms and conditions, we may sell up to $16.5 million of shares of common stock. We may raise capital by selling
+additional shares to Lincoln Park, however, the net proceeds under the Lincoln Park Purchase Agreement will depend on the frequency of
+sales and the number of shares sold to Lincoln Park and the prices at which we sell shares to Lincoln Park. Based upon our current operations
+with our currently available cash balance, management concluded that the current conditions raise substantial doubt about our ability
+to continue as a going concern, management concluded it has substantial doubt in its ability to continue as a going concern.
+We received a written notice from Nasdaq
+that we have failed to comply with certain listing requirements of the Nasdaq Stock Market, which could result in our Common Stock being
+delisted from the Nasdaq Stock Market.
+On March 8, 2022, we received a notification from
+Nasdaq related to our failure to maintain a minimum bid price of $1 per share. Based on the closing bid price of the Company’s common
+stock between January 24, 2022 and March 7, 2022, the Company no longer meets the minimum bid price requirement. However, the Nasdaq Listing
+Rules also provide us a compliance period of 180 calendar days in which to regain compliance.
+On
+September 6, 2022, Nasdaq granted the Company a second 180 calendar day period to regain compliance by March 6, 2023 . The Company
+is carefully assessing potential actions to regain compliance, including without limitation, holding a special stockholders’ meeting
+to solicit approval of a reverse stock split. If we do not regain compliance with the minimum bid price requirement by the end of the
+second compliance period, our common stock will become subject to delisting. If we are delisted from Nasdaq, our common stock may be eligible
+for trading on an over-the-counter market. If we are not able to obtain a listing on another stock exchange or quotation service for our
+common stock, it may be extremely difficult or impossible for stockholders to sell their shares. We intend to monitor the closing bid
+price of our common stock and may be required to seek approval from our stockholders to affect a reverse stock split of the issued and
+outstanding shares of our common stock. However, there can be no assurance that the reverse stock split would be approved by our stockholders.
+Further, there can be no assurance that the market price per new share of our common stock after the reverse stock split will remain unchanged
+or increase in proportion to the reduction in the number of old shares of our common stock outstanding before the reverse stock split.
+Even if the reverse stock split is approved by our stockholders, there can be no assurance that we will be able to regain compliance with
+the minimum bid price requirement or will otherwise be in compliance with other Nasdaq listing rules.
+If we are delisted from Nasdaq, but obtain a substitute
+listing for our common stock, it will likely be on a market with less liquidity, and therefore experience potentially more price volatility
+than experienced on Nasdaq. Stockholders may not be able to sell their shares of common stock on any such substitute market in the quantities,
+at the times, or at the prices that could potentially be available on a more liquid trading market. As a result of these factors, if our
+common stock is delisted from Nasdaq, the value and liquidity of our common stock, warrants and pre-funded warrants would likely be significantly
+adversely affected. A delisting of our common stock from Nasdaq could also adversely affect our ability to obtain financing for our operations
+and/or result in a loss of confidence by investors, employees and/or business partners.
+Item 2. Sales of Equity Securities and Use of Proceeds.
+None.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+Item 5. Other Information.
+None.
+- 21 -
+Item 6. Exhibits
+Exhibit
+Incorporated by Reference
+Filed
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing Date
+Herewith
+3.1
+Certificate of Incorporation of the Registrant
+10-Q
+001-39553
+3.1
+November 16, 2020
+3.2
+Bylaws of the Registrant
+10-Q
+001-39553
+3.2
+November 16, 2020
+4.1
+Form of Underwriter’s Warrant
+8-K
+001-39553
+4.1
+February 16, 2022
+31.1*
+Certification of Chief Executive Officer filed pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a) of the Securities and Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+31.2*
+Certification of Chief Financial Officer filed pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a) of the Securities and Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+32.1*
+Certification by Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+32.2*
+Certification by Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+101.INS
+Inline XBRL Instance Document
+X
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+X
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+X
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+X
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+X
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+X
+104
+Cover Page Interactive Data File - the cover page from the Registrant’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2022 is formatted in Inline XBRL
+X
+*
+This certification is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (Exchange Act), or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act.
+- 22 -
+SIGNATURES
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto
+duly authorized
+AMESITE INC.
+Date: February 17, 2023
+By:
+/s/ Ann Marie Sastry, Ph.D.
+Ann Marie Sastry, Ph.D.
+Chief Executive Officer
+(Principal Executive Officer)
+Date: February 17, 2023
+By:
+/s/ Sherlyn W. Farrell
+Sherlyn W. Farrell
+Chief Financial Officer
+(Principal Financial Officer)
+(Principal Accounting Officer)
+-23-
+0.02
+0.08
+0.11
+0.22
+21743986
+21984947
+28862964
+30305566
+false
+--06-30
+Q2
+2023
+0001807166
+0001807166
+2022-07-01
+2022-12-31
+0001807166
+2023-02-17
+0001807166
+2022-12-31
+0001807166
+2022-06-30
+0001807166
+2022-10-01
+2022-12-31
+0001807166
+2021-10-01
+2021-12-31
+0001807166
+2021-07-01
+2021-12-31
+0001807166
+us-gaap:CommonStockMember
+2021-06-30
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2021-06-30
+0001807166
+us-gaap:RetainedEarningsMember
+2021-06-30
+0001807166
+2021-06-30
+0001807166
+us-gaap:CommonStockMember
+2021-07-01
+2021-09-30
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2021-07-01
+2021-09-30
+0001807166
+us-gaap:RetainedEarningsMember
+2021-07-01
+2021-09-30
+0001807166
+2021-07-01
+2021-09-30
+0001807166
+us-gaap:CommonStockMember
+2021-09-30
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-30
+0001807166
+us-gaap:RetainedEarningsMember
+2021-09-30
+0001807166
+2021-09-30
+0001807166
+us-gaap:CommonStockMember
+2022-06-30
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2022-06-30
+0001807166
+us-gaap:RetainedEarningsMember
+2022-06-30
+0001807166
+us-gaap:CommonStockMember
+2022-07-01
+2022-09-30
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2022-07-01
+2022-09-30
+0001807166
+us-gaap:RetainedEarningsMember
+2022-07-01
+2022-09-30
+0001807166
+2022-07-01
+2022-09-30
+0001807166
+us-gaap:CommonStockMember
+2022-09-30
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-30
+0001807166
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001807166
+2022-09-30
+0001807166
+us-gaap:CommonStockMember
+2022-10-01
+2022-12-31
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-01
+2022-12-31
+0001807166
+us-gaap:RetainedEarningsMember
+2022-10-01
+2022-12-31
+0001807166
+us-gaap:CommonStockMember
+2022-12-31
+0001807166
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001807166
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001807166
+2021-12-31
+0001807166
+amst:MergerAgreementMember
+2022-12-31
+0001807166
+2021-09-01
+2021-09-28
+0001807166
+2021-07-01
+2022-06-30
+0001807166
+2022-01-31
+0001807166
+srt:DirectorMember
+2022-07-01
+2022-12-31
+0001807166
+srt:DirectorMember
+2022-10-01
+2022-12-31
+0001807166
+2020-04-01
+2020-05-31
+0001807166
+srt:ScenarioForecastMember
+2023-02-01
+2023-02-15
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure

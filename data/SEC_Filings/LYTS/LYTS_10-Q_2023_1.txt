@@ -1,0 +1,2839 @@
+7
+1
+May 9, 2022
+May 17, 2022
+5
+2
+1
+3
+1
+0
+0
+1
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0000763532 2022-07-01 2022-12-31
+thunderdome:item
+xbrli:pure
+0000763532 2021-07-01 2021-12-31
+0000763532 2021-10-01 2021-12-31
+0000763532 2022-10-01 2022-12-31
+iso4217:USD
+0000763532 2022-12-31
+0000763532 2022-06-30
+utr:Y
+0000763532 lyts:EquipmentUnderFinanceLeasesMember 2022-06-30
+0000763532 lyts:EquipmentUnderFinanceLeasesMember 2022-12-31
+0000763532 lyts:BuildingsUnderFinanceLeasesMember 2022-06-30
+0000763532 lyts:BuildingsUnderFinanceLeasesMember 2022-12-31
+0000763532 lyts:AccruedExpensesMember 2022-06-30
+0000763532 lyts:AccruedExpensesMember 2022-12-31
+0000763532 srt:MaximumMember 2022-07-01 2022-12-31
+0000763532 srt:MinimumMember 2022-07-01 2022-12-31
+iso4217:USD xbrli:shares
+0000763532 us-gaap:PerformanceSharesMember lyts:The2019OmnibusAwardPlanMember 2022-07-01 2022-09-30
+xbrli:shares
+0000763532 us-gaap:RestrictedStockUnitsRSUMember lyts:The2019OmnibusAwardPlanMember 2022-07-01 2022-09-30
+0000763532 lyts:The2019OmnibusAwardPlanMember 2022-12-31
+0000763532 lyts:The2019OmnibusAwardPlanMember 2022-11-01 2022-11-30
+0000763532 us-gaap:SubsequentEventMember 2023-01-01 2023-01-31
+0000763532 us-gaap:SubsequentEventMember 2023-01-31
+0000763532 us-gaap:RevolvingCreditFacilityMember 2022-12-31
+0000763532 srt:MaximumMember 2021-09-01 2021-09-30
+0000763532 srt:MinimumMember 2021-09-01 2021-09-30
+0000763532 us-gaap:RevolvingCreditFacilityMember 2021-09-30
+0000763532 us-gaap:RevolvingCreditFacilityMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-01-01 2022-06-30
+0000763532 srt:ScenarioForecastMember us-gaap:LondonInterbankOfferedRateLIBORMember 2023-01-01 2023-03-03
+0000763532 srt:MaximumMember us-gaap:BaseRateMember 2021-09-01 2021-09-30
+0000763532 srt:MinimumMember us-gaap:BaseRateMember 2021-09-01 2021-09-30
+0000763532 srt:MaximumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-01 2021-09-30
+0000763532 srt:MinimumMember us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-01 2021-09-30
+0000763532 us-gaap:LondonInterbankOfferedRateLIBORMember 2021-09-01 2021-09-30
+0000763532 us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2021-09-01 2021-09-30
+0000763532 lyts:TermLoanMember 2021-09-01 2021-09-30
+0000763532 lyts:TermLoanMember 2021-09-30
+0000763532 2021-09-30
+0000763532 2021-06-30
+0000763532 2022-03-31
+0000763532 lyts:TermLoanMember 2021-06-30
+0000763532 lyts:TermLoanMember 2022-03-31
+0000763532 lyts:TermLoanMember 2022-06-30
+0000763532 us-gaap:TrademarksAndTradeNamesMember 2022-06-30
+0000763532 us-gaap:NoncompeteAgreementsMember 2022-06-30
+0000763532 us-gaap:TradeNamesMember 2022-06-30
+0000763532 lyts:LedTechnologyFirmwareSoftwareMember 2022-06-30
+0000763532 us-gaap:PatentsMember 2022-06-30
+0000763532 us-gaap:CustomerRelationshipsMember 2022-06-30
+0000763532 us-gaap:TrademarksAndTradeNamesMember 2022-12-31
+0000763532 us-gaap:NoncompeteAgreementsMember 2022-12-31
+0000763532 us-gaap:TradeNamesMember 2022-12-31
+0000763532 us-gaap:TechnologyBasedIntangibleAssetsMember 2022-12-31
+0000763532 us-gaap:PatentsMember 2022-12-31
+0000763532 us-gaap:CustomerRelationshipsMember 2022-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember 2022-06-30
+0000763532 lyts:LightingSegmentMember 2022-06-30
+0000763532 lyts:DisplaySolutionsSegmentMember 2022-12-31
+0000763532 lyts:LightingSegmentMember 2022-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember 2022-07-01 2022-12-31
+0000763532 lyts:LightingSegmentMember 2022-07-01 2022-12-31
+0000763532 us-gaap:RestrictedStockUnitsRSUMember 2021-07-01 2021-12-31
+0000763532 us-gaap:RestrictedStockUnitsRSUMember 2022-07-01 2022-12-31
+0000763532 us-gaap:RestrictedStockUnitsRSUMember 2021-10-01 2021-12-31
+0000763532 us-gaap:RestrictedStockUnitsRSUMember 2022-10-01 2022-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:DisplaySolutionsSegmentMember 2022-07-01 2022-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:DisplaySolutionsSegmentMember 2021-10-01 2021-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:DisplaySolutionsSegmentMember 2022-10-01 2022-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:LightingSegmentMember 2021-07-01 2021-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:LightingSegmentMember 2022-07-01 2022-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:LightingSegmentMember 2021-10-01 2021-12-31
+0000763532 us-gaap:IntersegmentEliminationMember lyts:LightingSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:CorporateAndEliminationsMember 2022-06-30
+0000763532 lyts:CorporateAndEliminationsMember 2022-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:DisplaySolutionsSegmentMember 2022-06-30
+0000763532 us-gaap:OperatingSegmentsMember lyts:DisplaySolutionsSegmentMember 2022-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:LightingSegmentMember 2022-06-30
+0000763532 us-gaap:OperatingSegmentsMember lyts:LightingSegmentMember 2022-12-31
+0000763532 lyts:CorporateAndEliminationsMember 2021-07-01 2021-12-31
+0000763532 lyts:CorporateAndEliminationsMember 2022-07-01 2022-12-31
+0000763532 lyts:CorporateAndEliminationsMember 2021-10-01 2021-12-31
+0000763532 lyts:CorporateAndEliminationsMember 2022-10-01 2022-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:DisplaySolutionsSegmentMember 2022-07-01 2022-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:DisplaySolutionsSegmentMember 2021-10-01 2021-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:DisplaySolutionsSegmentMember 2022-10-01 2022-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:LightingSegmentMember 2021-07-01 2021-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:LightingSegmentMember 2022-07-01 2022-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:LightingSegmentMember 2021-10-01 2021-12-31
+0000763532 us-gaap:OperatingSegmentsMember lyts:LightingSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:LightingSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:LightingSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:LightingSegmentMember 2022-10-01 2022-12-31
+0000763532 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember lyts:OneCustomerMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2022-06-30
+0000763532 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2022-07-01 2022-12-31
+0000763532 us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember 2022-10-01 2022-12-31
+0000763532 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember lyts:OneCustomerMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 us-gaap:SalesRevenueNetMember us-gaap:RevenueFromRightsConcentrationRiskMember lyts:OneCustomerMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 us-gaap:SalesRevenueSegmentMember us-gaap:CustomerConcentrationRiskMember lyts:OneCustomerMember lyts:DisplaySolutionsSegmentMember 2021-10-01 2021-12-31
+0000763532 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-07-01 2022-12-31
+0000763532 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-10-01 2022-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:LightingSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:DisplaySolutionsSegmentMember 2022-07-01 2022-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:LightingSegmentMember 2022-07-01 2022-12-31
+0000763532 lyts:LegacyProductsMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:LegacyProductsMember lyts:LightingSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:LegacyProductsMember lyts:DisplaySolutionsSegmentMember 2022-07-01 2022-12-31
+0000763532 lyts:LegacyProductsMember lyts:LightingSegmentMember 2022-07-01 2022-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:DisplaySolutionsSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:LightingSegmentMember 2021-07-01 2021-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:DisplaySolutionsSegmentMember 2022-07-01 2022-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:LightingSegmentMember 2022-07-01 2022-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:DisplaySolutionsSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:LightingSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:DisplaySolutionsSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:TurnkeyServicesAndOtherMember lyts:LightingSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:LegacyProductsMember lyts:DisplaySolutionsSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:LegacyProductsMember lyts:LightingSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:LegacyProductsMember lyts:DisplaySolutionsSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:LegacyProductsMember lyts:LightingSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:DisplaySolutionsSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:LightingSegmentMember 2021-10-01 2021-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:DisplaySolutionsSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:LEDLightingDigitalSignageElectronicCircuitBoardsMember lyts:LightingSegmentMember 2022-10-01 2022-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredOverTimeMember 2021-07-01 2021-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredOverTimeMember 2021-07-01 2021-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredOverTimeMember 2022-07-01 2022-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredOverTimeMember 2022-07-01 2022-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-07-01 2021-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-07-01 2021-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-07-01 2022-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-07-01 2022-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredOverTimeMember 2021-10-01 2021-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredOverTimeMember 2021-10-01 2021-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredOverTimeMember 2022-10-01 2022-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredOverTimeMember 2022-10-01 2022-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-10-01 2021-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredAtPointInTimeMember 2021-10-01 2021-12-31
+0000763532 lyts:DisplaySolutionsSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-10-01 2022-12-31
+0000763532 lyts:LightingSegmentMember us-gaap:TransferredAtPointInTimeMember 2022-10-01 2022-12-31
+0000763532 2021-12-31
+0000763532 us-gaap:RetainedEarningsMember 2022-12-31
+0000763532 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0000763532 lyts:KeyExecutiveDeferredCompensationMember 2022-12-31
+0000763532 us-gaap:TreasuryStockMember 2022-12-31
+0000763532 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2022-12-31
+0000763532 us-gaap:RetainedEarningsMember 2022-07-01 2022-12-31
+0000763532 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-01 2022-12-31
+0000763532 lyts:KeyExecutiveDeferredCompensationMember 2022-07-01 2022-12-31
+0000763532 us-gaap:TreasuryStockMember 2022-07-01 2022-12-31
+0000763532 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2022-07-01 2022-12-31
+0000763532 us-gaap:RetainedEarningsMember 2022-06-30
+0000763532 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-30
+0000763532 lyts:KeyExecutiveDeferredCompensationMember 2022-06-30
+0000763532 us-gaap:TreasuryStockMember 2022-06-30
+0000763532 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2022-06-30
+0000763532 us-gaap:RetainedEarningsMember 2021-12-31
+0000763532 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0000763532 lyts:KeyExecutiveDeferredCompensationMember 2021-12-31
+0000763532 us-gaap:TreasuryStockMember 2021-12-31
+0000763532 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2021-12-31
+0000763532 us-gaap:RetainedEarningsMember 2021-07-01 2021-12-31
+0000763532 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-07-01 2021-12-31
+0000763532 lyts:KeyExecutiveDeferredCompensationMember 2021-07-01 2021-12-31
+0000763532 us-gaap:TreasuryStockMember 2021-07-01 2021-12-31
+0000763532 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2021-07-01 2021-12-31
+0000763532 us-gaap:RetainedEarningsMember 2021-06-30
+0000763532 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-30
+0000763532 lyts:KeyExecutiveDeferredCompensationMember 2021-06-30
+0000763532 us-gaap:TreasuryStockMember 2021-06-30
+0000763532 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2021-06-30
+0000763532 2023-01-27
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC    20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE QUARTERLY PERIOD ENDED
+DECEMBER 31, 2022 , OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM ________________ TO ________________.
+Commission File No.
+0-13375
+LSI Industries Inc.
+(Exact name of registrant as specified in its charter)
+Ohio
+31-0888951
+(State or other jurisdiction
+of incorporation or organization)
+(I.R.S. Employer Identification No.)
+10000 Alliance Road ,
+Cincinnati ,
+Ohio
+45242
+(Address of principal executive offices)
+(Zip Code)
+( 513 )
+793-3200
+Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, no par value
+LYTS
+NASDAQ
+Global Select Market
+Indicate by checkmark whether the registrant:  (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.   Yes   ☒  No  ☐
+Indicate by checkmark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒   No  ☐
+Indicate by checkmark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer
+☒
+Emerging growth company
+☐
+Non-accelerated filer ☐
+Smaller reporting company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes  ☐   No ☒
+As of January 27, 2023, there were
+28,166,965
+shares of the registrant's common stock, no par value per share, outstanding.
+LSI INDUSTRIES INC.
+FORM 10-Q
+FOR THE QUARTER ENDED December 31, 2022
+INDEX
+PART I.    FINANCIAL INFORMATION
+3
+ITEM 1.         FINANCIAL STATEMENTS
+3
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+3
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+4
+CONDENSED CONSOLIDATED BALANCE SHEETS
+5
+CONDENSED CONSOLIDATED BALANCE SHEETS
+6
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+7
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+8
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+9
+ITEM 2.         MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+20
+ITEM 3.         QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+28
+ITEM 4.         CONTROLS AND PROCEDURES
+28
+PART II.    OTHER INFORMATION
+29
+ITEM 5.         OTHER INFORMATION
+29
+ITEM 6.         EXHIBITS
+29
+SIGNATURES
+30
+Page 2
+PART I.     FINANCIAL INFORMATION
+ITEM 1.     FINANCIAL STATEMENTS
+LSI INDUSTRIES INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands, except per share data)
+2022
+2021
+2022
+2021
+Net Sales
+$
+128,804
+$
+111,143
+$
+255,873
+$
+217,540
+Cost of products and services sold
+94,646
+85,695
+186,964
+167,582
+Severence Costs
+18
+-
+31
+-
+Gross profit
+34,140
+25,448
+68,878
+49,958
+Selling and administrative expenses
+25,102
+21,026
+49,819
+41,092
+Operating income
+9,038
+4,422
+19,059
+8,866
+Interest expense
+1,258
+529
+2,046
+763
+Other expense (income)
+( 55
+)
+9
+158
+88
+Income before income taxes
+7,835
+3,884
+16,855
+8,015
+Income tax expense
+1,418
+779
+4,177
+1,777
+Net income
+$
+6,417
+$
+3,105
+$
+12,678
+$
+6,238
+Earnings per common share (see Note 4)
+Basic
+$
+0.23
+$
+0.11
+$
+0.45
+$
+0.23
+Diluted
+$
+0.22
+$
+0.11
+$
+0.44
+$
+0.22
+Weighted average common shares outstanding
+Basic
+28,078
+27,292
+27,874
+27,144
+Diluted
+29,204
+28,067
+28,766
+27,895
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements.
+Page 3
+LSI INDUSTRIES INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands)
+2022
+2021
+2022
+2021
+Net Income
+$
+6,417
+$
+3,105
+$
+12,678
+$
+6,238
+Foreign currency translation adjustment
+68
+9
+75
+( 35
+)
+Comprehensive Income
+$
+6,485
+$
+3,114
+$
+12,753
+$
+6,203
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements.
+Page 4
+LSI INDUSTRIES INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+December 31,
+June 30,
+(In thousands, except shares)
+2022
+2022
+ASSETS
+Current assets
+Cash and cash equivalents
+$
+2,765
+$
+2,462
+Accounts receivable, less allowance for credit losses of $ 392
+and $ 499 , respectively
+67,352
+77,750
+Inventories
+73,205
+74,421
+Refundable income taxes
+1,325
+1,041
+Other current assets
+4,378
+3,243
+Total current assets
+149,025
+158,917
+Property, Plant and Equipment, at cost
+Land
+4,010
+4,010
+Buildings
+24,485
+24,495
+Machinery and equipment
+67,322
+66,762
+Buildings under finance leases
+2,033
+2,033
+Construction in progress
+893
+618
+98,743
+97,918
+Less accumulated depreciation
+( 72,957
+)
+( 70,760
+)
+Net property, plant and equipment
+25,786
+27,158
+Goodwill
+45,030
+45,030
+Other intangible assets, net
+65,584
+67,964
+Operating lease right-of-use assets
+7,548
+8,664
+Other long-term assets, net
+3,310
+3,347
+Total assets
+$
+296,283
+$
+311,080
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements.
+Page 5
+LSI INDUSTRIES INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+December 31
+June 30,
+(In thousands, except shares)
+2022
+2022
+LIABILITIES & SHAREHOLDERS' EQUITY
+Current liabilities
+Current maturities of long-term debt
+$
+3,571
+$
+3,571
+Accounts payable
+27,293
+34,783
+Accrued expenses
+33,270
+36,264
+Total current liabilities
+64,134
+74,618
+Long-term debt
+59,250
+76,025
+Finance lease liabilities
+1,105
+1,246
+Operating lease liabilities
+6,957
+8,240
+Other long-term liabilities
+3,521
+3,182
+Commitments and contingencies (Note 12)
+-
+-
+Shareholders' Equity
+Preferred shares,
+without
+par value; Authorized
+1,000,000
+shares,
+none
+issued
+-
+-
+Common shares,
+without
+par value; Authorized
+50,000,000
+shares; Outstanding
+28,120,755
+and
+27,484,514
+shares, respectively
+142,988
+139,500
+Treasury shares, without par value
+( 6,988
+)
+( 5,927
+)
+Deferred compensation plan
+6,988
+5,927
+Retained earnings
+18,208
+8,224
+Accumulated other comprehensive income
+120
+45
+Total shareholders' equity
+161,316
+147,769
+Total liabilities & shareholders' equity
+$
+296,283
+$
+311,080
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements.
+Page 6
+LSI INDUSTRIES INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(Unaudited)
+Common Shares
+Treasury Shares
+Key Executive
+Accumulated Other
+Retained
+Total
+Number Of
+Number Of
+Compensation
+Comprehensive
+Earnings
+Shareholders'
+Shares
+Amount
+Shares
+Amount
+Amount
+Income (Loss)
+(Loss)
+Equity
+Balance at June 30, 2021
+26,863
+$
+132,526
+( 346
+)
+$
+( 2,450
+)
+$
+2,450
+$
+49
+$
+( 1,405
+)
+$
+131,170
+Net Income
+-
+-
+-
+-
+-
+-
+6,238
+6,238
+Other comprehensive loss
+-
+-
+-
+-
+-
+( 35
+)
+-
+( 35
+)
+Stock compensation awards
+19
+150
+-
+-
+-
+-
+-
+150
+Restricted stock units issued, net of shares withheld for tax withholdings
+80
+( 250
+)
+-
+-
+-
+-
+-
+( 250
+)
+Shares issued for deferred compensation
+334
+2,569
+-
+-
+-
+-
+-
+2,569
+Activity of treasury shares, net
+-
+-
+( 324
+)
+( 2,491
+)
+-
+-
+-
+( 2,491
+)
+Deferred stock compensation
+-
+-
+-
+-
+2,491
+-
+-
+2,491
+Stock compensation expense
+-
+1,686
+-
+-
+-
+-
+-
+1,686
+Stock options exercised, net
+5
+26
+-
+-
+-
+-
+-
+26
+Dividends — $ 0.20
+per share
+-
+-
+-
+-
+-
+-
+( 2,668
+)
+( 2,668
+)
+Balance at December 31, 2021
+27,301
+$
+136,707
+( 670
+)
+$
+( 4,941
+)
+$
+4,941
+$
+14
+$
+2,165
+$
+138,886
+Common Shares
+Treasury Shares
+Key Executive
+Accumulated Other
+Retained
+Total
+Number Of
+Number Of
+Compensation
+Comprehensive
+Earnings
+Shareholders'
+Shares
+Amount
+Shares
+Amount
+Amount
+Income (Loss)
+(Loss)
+Equity
+Balance at June 30, 2022
+27,484
+$
+139,500
+( 822
+)
+$
+( 5,927
+)
+$
+5,927
+$
+45
+$
+8,224
+$
+147,769
+Net Income
+-
+-
+-
+-
+-
+-
+12,678
+12,678
+Other comprehensive loss
+-
+-
+-
+-
+-
+75
+-
+75
+Stock compensation awards
+35
+173
+-
+-
+-
+-
+-
+173
+Restricted stock units issued, net of shares withheld for tax withholdings
+272
+( 465
+)
+-
+-
+-
+-
+-
+( 465
+)
+Shares issued for deferred compensation
+137
+1,087
+-
+-
+-
+-
+-
+1,087
+Activity of treasury shares, net
+-
+-
+( 135
+)
+( 1,061
+)
+-
+-
+-
+( 1,061
+)
+Deferred stock compensation
+-
+-
+-
+-
+1,061
+-
+-
+1,061
+Stock compensation expense
+-
+1,415
+-
+-
+-
+-
+-
+1,415
+Stock options exercised, net
+192
+1,278
+-
+-
+-
+-
+-
+1,278
+Dividends — $ 0.20
+per share
+-
+-
+-
+-
+-
+-
+( 2,694
+)
+( 2,694
+)
+Balance at December 31, 2022
+28,120
+$
+142,988
+( 957
+)
+$
+( 6,988
+)
+$
+6,988
+$
+120
+$
+18,208
+$
+161,316
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements.
+Page 7
+LSI INDUSTRIES INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Six Months Ended
+December 31
+(In thousands)
+2022
+2021
+Cash Flows from Operating Activities
+Net income
+$
+12,678
+$
+6,238
+Non-cash items included in net income
+Depreciation and amortization
+4,840
+5,101
+Deferred income taxes
+49
+( 256
+)
+Deferred compensation plan
+1,087
+2,569
+Stock compensation expense
+1,415
+1,686
+Issuance of common shares as compensation
+173
+150
+Loss on disposition of fixed assets
+37
+22
+Allowance for doubtful accounts
+( 108
+)
+148
+Inventory obsolescence reserve
+300
+955
+Changes in certain assets and liabilities
+Accounts receivable
+10,506
+( 11,608
+)
+Inventories
+916
+( 13,995
+)
+Refundable income taxes
+( 284
+)
+77
+Accounts payable
+( 7,490
+)
+3,747
+Accrued expenses and other
+( 1,581
+)
+( 6,360
+)
+Customer prepayments
+( 2,476
+)
+( 5,017
+)
+Net cash flows provided by (used in) operating activities
+20,062
+( 16,543
+)
+Cash Flows from Investing Activities
+Purchases of property, plant and equipment
+( 995
+)
+( 745
+)
+Adjustment to JSI acquisition purchase price
+-
+500
+Proceeds from the sale of fixed assets
+1
+-
+Net cash flows used in investing activities
+( 994
+)
+( 245
+)
+Cash Flows from Financing Activities
+Payments of long-term debt
+( 102,152
+)
+( 77,737
+)
+Borrowings of long-term debt
+85,377
+96,192
+Cash dividends paid
+( 2,694
+)
+( 2,657
+)
+Shares withheld for employees' taxes
+( 465
+)
+( 250
+)
+Payments on financing lease obligations
+( 123
+)
+( 129
+)
+Proceeds from stock option exercises
+1,278
+26
+Net cash flows (used in) provided by financing activities
+( 18,779
+)
+15,445
+Change related to foreign currency
+14
+( 25
+)
+Increase (decrease) in cash and cash equivalents
+303
+( 1,368
+)
+Cash and cash equivalents at beginning of period
+2,462
+2,282
+Cash and cash equivalents at end of period
+$
+2,765
+$
+914
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these financial statements.
+Page 8
+LSI INDUSTRIES INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+NOTE 1   -   INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+The interim condensed consolidated financial statements are unaudited and are prepared in accordance with accounting principles generally accepted in the United States of America for interim financial information, and rules and regulations of the Securities and Exchange Commission. Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted pursuant to such rules and regulations. In the opinion of management, the interim financial statements include all normal adjustments and disclosures necessary to present fairly the Company’s financial position as of December 31, 2022, the results of its operations for the three and six-month periods ended December 31, 2022, and 2021, and its cash flows for the six-month periods ended December 31, 2022, and 2021. These statements should be read in conjunction with the financial statements and footnotes included in the fiscal 2022 Annual Report on Form 10-K. Financial information as of June 30, 2022, has been derived from the Company’s audited consolidated financial statements.
+NOTE 2   -   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Consolidation:
+A summary of the Company’s significant accounting policies is included in Note 1 to the audited consolidated financial statements of the Company’s fiscal 2022 Annual Report on Form 10-K.
+Revenue Recognition:
+The Company recognizes revenue when it satisfies the performance obligation in its customer contracts or purchase orders. Most of the Company’s products have a single performance obligation which is satisfied at a point in time when control is transferred to the customer. Control is generally transferred at time of shipment when title and risk of ownership passes to the customer. For customer contracts with multiple performance obligations, the Company allocates the transaction price and any discounts to each performance obligation based on relative standalone selling prices. Payment terms are typically within 30 to 90 days from the shipping date, depending on the terms with the customer. The Company offers standard warranties that do not represent separate performance obligations.
+Installation is a separate performance obligation, except for the Company’s digital signage products. For digital signage products, installation is not a separate performance obligation as the product and installation is the combined item promised in digital signage contracts. The Company is not always responsible for installation of products it sells and has no post-installation responsibilities other than standard warranties.
+A number of the Company's display solutions and select lighting products are customized for specific customers. As a result, these customized products do not have an alternative use. For these products, the Company has a legal right to payment for performance to date and generally does not accept returns on these items. The measurement of performance is based upon cost plus a reasonable profit margin for work completed. Because there is no alternative use and there is a legal right to payment, the Company transfers control of the item as the item is being produced and therefore, recognizes revenue over time. The customized product types are as follows:
+●
+Customer specific branded print graphics
+●
+Electrical components based on customer specifications
+●
+Digital signage and related media content
+The Company also offers installation services for its display solutions elements and select lighting products. Installation revenue is recognized over time as the customer simultaneously receives and consumes the benefits provided through the installation process.
+For these customized products and installation services, revenue is recognized using a cost-based input method: recognizing revenue and gross profit as work is performed based on the relationship between the actual cost incurred and the total estimated cost for the performance obligation.
+Page 9
+On occasion, the Company enters into bill-and-hold arrangements on a limited basis. Each bill-and-hold arrangement is reviewed and revenue is recognized only when certain criteria have been met: (1) the customer has requested delayed delivery and storage of the products by the Company because the customer wants to secure a supply of the products but lacks storage space; (ii) the risk of ownership has passed to the customer; (iii) the products are segregated from the Company’s other inventory items held for sale; (iv) the products are ready for shipment to the customer; and (v) the Company does not have the ability to use the products or direct them to another customer.
+Disaggregation of Revenue
+The Company disaggregates the revenue from contracts with customers by the timing of revenue recognition because the Company believes it best depicts the nature, amount, and timing of its revenue and cash flows. The table below presents a reconciliation of the disaggregation by reportable segments:
+Three Months Ended
+(In thousands)
+December 31, 2022
+December 31, 2021
+Lighting
+Segment
+Display
+Solutions
+Segment
+Lighting
+Segment
+Display
+Solutions
+Segment
+Timing of revenue recognition
+Products and services transferred at a point in time
+$
+58,591
+$
+47,027
+$
+50,141
+$
+35,437
+Products and services transferred over time
+8,242
+14,944
+7,135
+18,430
+$
+66,833
+$
+61,971
+$
+57,276
+$
+53,867
+Six Months Ended
+(In thousands)
+December 31, 2022
+December 31, 2021
+Lighting
+Segment
+Display
+Solutions
+Segment
+Lighting
+Segment
+Display
+Solutions
+Segment
+Timing of revenue recognition
+Products and services transferred at a point in time
+$
+116,668
+$
+94,516
+$
+94,723
+$
+72,868
+Products and services transferred over time
+17,698
+26,991
+13,813
+36,136
+$
+134,366
+$
+121,507
+$
+108,536
+$
+109,004
+Three Months Ended
+(In thousands)
+December 31, 2022
+December 31, 2021
+Lighting
+Segment
+Display
+Solutions
+Segment
+Lighting
+Segment
+Display
+Solutions
+Segment
+Type of Product and Services
+LED lighting, digital signage solutions, electronic circuit boards
+$
+54,410
+$
+5,801
+$
+47,626
+$
+12,551
+Poles, printed graphics, display fixtures
+11,632
+41,683
+9,079
+31,127
+Project management, installation services, shipping and handling
+791
+14,487
+571
+10,189
+$
+66,833
+$
+61,971
+$
+57,276
+$
+53,867
+Six Months Ended
+(In thousands)
+December 31, 2022
+December 31, 2021
+Lighting
+Segment
+Display
+Solutions
+Segment
+Lighting
+Segment
+Display
+Solutions
+Segment
+Type of Product and Services
+LED lighting, digital signage solutions, electronic circuit boards
+$
+109,945
+$
+12,976
+$
+89,505
+$
+24,979
+Poles, printed graphics, display fixtures
+22,761
+83,154
+18,045
+64,429
+Project management, installation services, shipping and handling
+1,660
+25,377
+986
+19,596
+$
+134,366
+$
+121,507
+$
+108,536
+$
+109,004
+Page 10
+Practical Expedients and Exemptions
+●
+The Company’s contracts with customers have an expected duration of one year or less, as such, the Company applies the practical expedient to expense sales commissions as incurred and has omitted disclosures on the amount of remaining performance obligations.
+●
+Shipping costs that are not material in context of the delivery of products are expensed as incurred.
+●
+The Company’s accounts receivable balance represents the Company’s unconditional right to receive payment from its customers with contracts. Payments are generally due within 30 to 90 days of completion of the performance obligation and invoicing; therefore, payments do not contain significant financing components.
+●
+The Company collects sales tax and other taxes concurrent with revenue-producing activities which are excluded from revenue. Shipping and handling costs are treated as fulfillment activities and included in cost of products and services sold on the Consolidated Statements of Operations.
+New Accounting Pronouncements:
+In October 2021, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2021-08, “Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers,” creating an exception to the recognition and measurement principles in ASC 805. The amendment requires that entities apply ASC 606, “Revenue from Contracts with Customers,” rather than using fair value, to recognize and measure contracts assets and contract liabilities from contracts with customers acquired in a business combination. The ASU is effective for fiscal years beginning after December 15, 2022, and interim periods therein. Early adoption is permitted, including adoption in an interim period, regardless of whether a business combination occurs in that period. The guidance should be applied prospectively; however, an entity that elects to early adopt in an interim period should apply the amendments to all business combinations that occurred during the fiscal year that includes that interim period. The Company is evaluating the impact this guidance may have on its consolidated financial statements and related disclosures.
+In December 2019, the Financial Accounting Standards Board ("FASB") issued ASU 2019-12, "Income Taxes - Simplifying the Accounting for Income Taxes (Topic 740)." This guidance removes certain exceptions to the general principles in ASC 740 such as recognizing deferred taxes for equity investments, the incremental approach to performing intra-period tax allocation and calculating income taxes in interim periods. The standard also simplifies accounting for income taxes under U.S. GAAP by clarifying and amending existing guidance, including the recognition of deferred taxes for goodwill, the allocation of taxes to members of a consolidated group and requiring that an entity reflect the effect of enacted changes in tax laws or rates in the annual effective tax rate computation in the interim period that includes the enactment date. The Company adopted ASC 2019-12 effective July 1, 2021, which did not have a material impact on its consolidated financial statements or disclosures.
+NOTE 3 - SEGMENT REPORTING INFORMATION
+The accounting guidance on Segment Reporting establishes standards for reporting information regarding operating segments in annual financial statements and requires selected information of those segments to be presented in financial statements. Operating segments are identified as components of an enterprise for which separate discrete financial information is available for evaluation by the chief operating decision maker (the Company’s Chief Executive Officer or “CODM”) in making decisions on how to allocate resources and assess performance. The Company’s  two  operating segments are Lighting and Display Solutions (formerly known as the Graphics Segment), with one executive team under the organizational structure reporting directly to the CODM with responsibilities for managing each segment. Corporate and Eliminations, which captures the Company’s corporate administrative activities, is also reported in the segment information.
+The Lighting Segment includes non-residential outdoor and indoor lighting fixtures utilizing LED light sources that have been fabricated and assembled for the Company’s markets, primarily the refueling and convenience store markets, parking lot and garage markets, quick-service restaurant market, retail and grocery store markets, the automotive market, the warehouse market, and the sports court and field market. The Company also offers a variety of lighting controls to complement its lighting fixtures which include sensors, photocontrols, dimmers, motion detection and Bluetooth systems. The Company also services lighting product customers through the commercial and industrial project, stock and flow, and renovation channels. The Lighting Segment also includes the design, engineering and manufacturing of electronic circuit boards, assemblies and sub-assemblies which are sold directly to customers.
+The Display Solutions Segment manufactures, sells and installs exterior and interior visual image and display elements, including printed graphics, structural graphics, digital signage, menu board systems, display fixtures, refrigerated displays, and custom display elements. These products are used in visual image programs in several markets including the refueling and convenience store markets, parking lot and garage markets, quick-service restaurant market, retail and grocery store markets, the automotive market, the warehouse market, and the sports court and field market. The Display Solutions Segment also provides a variety of project management services to complement our display elements, such as installation management, site surveys, permitting, and content management which are offered to our customers to support our digital signage.
+Page 11
+The Company’s corporate administration activities are reported in the Corporate and Eliminations line item. These activities primarily include intercompany profit in inventory eliminations, expense related to certain corporate officers and support staff, the Company’s internal audit staff, expense related to the Company’s Board of Directors, equity compensation expense for various equity awards granted to corporate administration employees, certain consulting expenses, investor relations activities, and a portion of the Company’s legal, auditing, and professional fee expenses. Corporate identifiable assets primarily consist of cash, invested cash (if any), refundable income taxes (if any), and deferred income taxes.
+There were
+no
+customers or customer programs representing a concentration of 10% or more of the Company’s consolidated net sales in the three and six months ended December 31, 2022.
+One
+customer program in the Display Solutions Segment represents $ 11.4
+million, or
+10.3 %, and $ 23.7
+million, or
+10.9 %, of the Company’s net sales in the three and six months ended December 31, 2021, respectively. There was
+no
+concentration of accounts receivable at December 31, 2022.
+One
+customer in the Display Solutions Segment represents $ 8.5
+million or
+10.9 % of the Company’s accounts receivable at June 30, 2022.
+Summarized financial information for the Company’s operating segments is provided for the indicated periods and as of December 31, 2022 and December 31, 2021:
+Three Months Ended
+Six Months Ended
+(In thousands)
+December 31
+December 31
+2022
+2021
+2022
+2021
+Net Sales:
+Lighting Segment
+$
+66,833
+$
+57,276
+$
+134,366
+$
+108,536
+Display Solutions Segment
+61,971
+53,867
+121,507
+109,004
+$
+128,804
+$
+111,143
+$
+255,873
+$
+217,540
+Operating Income (Loss):
+Lighting Segment
+$
+6,754
+$
+4,623
+$
+15,912
+$
+8,962
+Display Solutions Segment
+7,762
+3,837
+14,258
+7,586
+Corporate and Eliminations
+( 5,478
+)
+( 4,038
+)
+( 11,111
+)
+( 7,682
+)
+$
+9,038
+$
+4,422
+$
+19,059
+$
+8,866
+Capital Expenditures:
+Lighting Segment
+$
+74
+$
+172
+$
+323
+$
+352
+Display Solutions Segment
+539
+254
+700
+475
+Corporate and Eliminations
+( 52
+)
+22
+( 28
+)
+( 82
+)
+$
+561
+$
+448
+$
+995
+$
+745
+Depreciation and Amortization:
+Lighting Segment
+$
+1,382
+$
+1,450
+$
+2,769
+$
+2,911
+Display Solutions Segment
+975
+1,016
+1,949
+2,047
+Corporate and Eliminations
+62
+72
+122
+143
+$
+2,419
+$
+2,538
+$
+4,840
+$
+5,101
+December 31,
+2022
+June 30,
+2022
+Identifiable Assets:
+Lighting Segment
+$
+143,741
+$
+152,431
+Display Solutions Segment
+145,722
+152,302
+Corporate and Eliminations
+6,820
+6,347
+$
+296,283
+$
+311,080
+The segment net sales reported above represent sales to external customers. Segment operating income, which is used in management’s evaluation of segment performance, represents net sales less all operating expenses. Identifiable assets are those assets used by each segment in its operations.
+The Company records a
+10 % mark-up on intersegment revenues. Any intersegment profit in inventory is eliminated in consolidation. Intersegment revenues were eliminated in consolidation as follows:
+Inter-segment sales
+Three Months Ended
+Six Months Ended
+(In thousands)
+December 31
+December 31
+2022
+2021
+2022
+2021
+Lighting Segment inter-segment net sales
+$
+5,067
+$
+11,266
+$
+11,210
+$
+21,723
+Display Solutions Segment inter-segment net sales
+$
+30
+$
+72
+$
+36
+$
+235
+The Company’s operations are located solely within North America. As a result, the geographic distribution of the Company’s net sales and long-lived assets originate within North America.
+Page 12
+NOTE 4 -   EARNINGS PER COMMON SHARE
+The following table presents the amounts used to compute basic and diluted earnings per common share, as well as the effect of dilutive potential common shares on weighted average shares outstanding (in thousands, except per share data):
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+2022
+2021
+2022
+2021
+BASIC EARNINGS PER SHARE
+Net income
+$
+6,417
+$
+3,105
+$
+12,678
+$
+6,238
+Weighted average shares outstanding during the period, net of treasury shares
+27,005
+26,625
+26,890
+26,589
+Weighted average vested restricted stock units outstanding
+117
+30
+81
+24
+Weighted average shares outstanding in the Deferred Compensation Plan during the period
+956
+637
+903
+531
+Weighted average shares outstanding
+28,078
+27,292
+27,874
+27,144
+Basic income per share
+$
+0.23
+$
+0.11
+$
+0.45
+$
+0.23
+DILUTED EARNINGS PER SHARE
+Net income
+$
+6,417
+$
+3,105
+$
+12,678
+$
+6,238
+Weighted average shares outstanding:
+Basic
+28,078
+27,292
+27,874
+27,144
+Effect of dilutive securities (a):
+Impact of common shares to be issued under stock option plans, and contingently issuable shares, if any
+1,126
+775
+892
+751
+Weighted average shares outstanding
+29,204
+28,067
+28,766
+27,895
+Diluted income per share
+$
+0.22
+$
+0.11
+$
+0.44
+$
+0.22
+Anti-dilutive securities (b)
+85
+981
+452
+984
+(a)
+Calculated using the “Treasury Stock” method as if dilutive securities were exercised and the funds were used to purchase common shares at the average market price during the period.
+(b)
+Anti-dilutive securities were excluded from the computation of diluted net income per share for the three months ended December 31, 2022, and December 31, 2021, because the exercise price was greater than the average fair market price of the common shares or because the assumed proceeds from the award’s exercise or vesting was greater than the average fair market price of the common shares.
+Page 13
+NOTE 5  –  INVENTORIES, NET
+The following information is provided as of the dates indicated:
+December 31,
+June 30,
+(In thousands)
+2022
+2022
+Inventories:
+Raw materials
+$
+51,532
+$
+51,637
+Work-in-progress
+6,844
+3,029
+Finished goods
+14,829
+19,755
+Total Inventories
+$
+73,205
+$
+74,421
+NOTE 6   - ACCRUED EXPENSES
+The following information is provided as of the dates indicated:
+December 31,
+June 30,
+(In thousands)
+2022
+2022
+Accrued Expenses:
+Customer prepayments
+$
+3,940
+$
+6,416
+Compensation and benefits
+9,865
+9,611
+Accrued warranty
+4,516
+4,491
+Operating lease liabilities
+1,347
+1,274
+Accrued sales commissions
+3,528
+4,783
+Accrued Freight
+3,348
+3,680
+Accrued FICA
+396
+1,122
+Finance lease liabilities
+281
+275
+Accrued income tax
+-
+109
+Other accrued expenses
+6,049
+4,503
+Total Accrued Expenses
+$
+33,270
+$
+36,264
+NOTE 7   -   GOODWILL AND OTHER INTANGIBLE ASSETS
+The carrying values of goodwill and other intangible assets with indefinite lives are reviewed at least annually for possible impairment. The Company may first assess qualitative factors in order to determine if goodwill and indefinite-lived intangible assets are impaired. If through the qualitative assessment it is determined that it is more likely than not that goodwill and indefinite-lived assets are not impaired, no further testing is required. If it is determined more likely than not that goodwill and indefinite-lived assets are impaired, or if the Company elects not to first assess qualitative factors, the Company’s impairment testing continues with the estimation of the fair value of the reporting unit using a combination of a market approach and an income (discounted cash flow) approach, at the reporting unit level. The estimation of the fair value of reporting unit requires significant management judgment with respect to revenue and expense growth rates, changes in working capital and the selection and use of an appropriate discount rate. The estimates of the fair value of reporting units are based on the best information available as of the date of the assessment. The use of different assumptions would increase or decrease estimated discounted future operating cash flows and could increase or decrease an impairment charge. Company management uses its judgment in assessing whether assets may have become impaired between annual impairment tests. Indicators such as adverse business conditions, economic factors and technological change or competitive activities may signal that an asset has become impaired.
+The Company identified its reporting units in conjunction with its annual goodwill impairment testing. The Company has a total of  three  reporting units that contain goodwill.
+One
+reporting unit is within the Lighting Segment and  two  reporting units are within the Display Solutions Segment. The tradename intangible assets have an indefinite life and are also tested separately on an annual basis. The Company relies upon a number of factors, judgments and estimates when conducting its impairment testing including, but not limited to, the Company’s stock price, operating results, forecasts, anticipated future cash flows and marketplace data. There are inherent uncertainties related to these factors and judgments in applying them to the analysis of goodwill impairment.
+Page 14
+The following table presents information about the Company's goodwill on the dates or for the periods indicated:
+Goodwill
+(In thousands)
+Display
+Lighting
+Solutions
+Segment
+Segment
+Total
+Balance as of December 31, 2022
+Goodwill
+$
+70,971
+$
+63,347
+$
+134,318
+Accumulated impairment losses
+( 61,763
+)
+( 27,525
+)
+( 89,288
+)
+Goodwill, net as of December 31, 2022
+$
+9,208
+$
+35,822
+$
+45,030
+Balance as of June 30, 2022
+Goodwill
+$
+70,971
+$
+63,347
+$
+134,318
+Accumulated impairment losses
+( 61,763
+)
+( 27,525
+)
+( 89,288
+)
+Goodwill, net as of June 30, 2022
+$
+9,208
+$
+35,822
+$
+45,030
+The gross carrying amount and accumulated amortization by each major intangible asset class is as follows:
+Other Intangible Assets
+December 31, 2022
+(In thousands)
+Gross
+Carrying
+Accumulated
+Net
+Amount
+Amortization
+Amount
+Amortized Intangible Assets
+Customer relationships
+$
+62,083
+$
+16,108
+$
+45,975
+Patents
+268
+268
+-
+LED technology firmware, software
+20,966
+15,191
+5,775
+Trade name
+2,658
+1,102
+1,556
+Non-compete
+260
+84
+176
+Total Amortized Intangible Assets
+86,235
+32,753
+53,482
+Indefinite-lived Intangible Assets
+Trademarks and trade names
+12,102
+-
+12,102
+Total indefinite-lived Intangible Assets
+12,102
+-
+12,102
+Total Other Intangible Assets
+$
+98,337
+$
+32,753
+$
+65,584
+Other Intangible Assets
+June 30, 2022
+(In thousands)
+Gross
+Carrying
+Accumulated
+Net
+Amount
+Amortization
+Amount
+Amortized Intangible Assets
+Customer relationships
+$
+62,083
+$
+14,400
+$
+47,683
+Patents
+268
+268
+-
+LED technology firmware, software
+20,966
+14,598
+6,368
+Trade name
+2,658
+1,049
+1,609
+Non-compete
+260
+58
+202
+Total Amortized Intangible Assets
+86,235
+30,373
+55,862
+Indefinite-lived Intangible Assets
+Trademarks and trade names
+12,102
+-
+12,102
+Total indefinite-lived Intangible Assets
+12,102
+-
+12,102
+Total Other Intangible Assets
+$
+98,337
+$
+30,373
+$
+67,964
+Page 15
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands)
+2022
+2021
+2022
+2021
+Amortization Expense of Other Intangible Assets
+$
+1,190
+$
+1,198
+$
+2,380
+$
+2,413
+The Company expects to record annual amortization expense as follows:
+(In thousands)
+2023
+$
+4,808
+2024
+4,760
+2025
+4,760
+2026
+4,760
+2027
+4,754
+After 2027
+32,020
+NOTE 8   -   DEBT
+The Company’s long-term debt as of September 30, 2022, and June 30, 2022, consisted of the following:
+December 31,
+June 30,
+(In thousands)
+2022
+2022
+Secured line of credit
+$
+42,310
+$
+57,275
+Term loan, net of debt issuance costs of $ 26
+and $ 30 , respectively
+20,511
+22,321
+Total debt
+62,821
+79,596
+Less: amounts due within one year
+3,571
+3,571
+Total amounts due after one tear, net
+$
+59,250
+$
+76,025
+In September 2021, the Company amended its existing $ 100
+million secured line of credit, to a $ 25
+million term loan and $ 75
+million remaining as a secured revolving line of credit. Both facilities expire in the third quarter of fiscal 2026. The principal of the term loan is repaid annually in the amount of $ 3.6
+million over a
+five-year
+period with a balloon payment of the remaining balance due on the last month. Interest on both the revolving line of credit and the term loan is charged based upon an increment over the LIBOR rate or a base rate, at the Company’s option. The base rate is calculated as the highest of (a) the Prime rate, (b) the sum of the Overnight Funding Rate plus
+50
+basis points and (c) the sum of the Daily LIBOR Rate plus
+100
+basis points as long as a Daily LIBOR rate is offered, ascertainable and not unlawful. The increment over the LIBOR borrowing rate fluctuates between
+100
+and
+225
+basis points, and the increment over the Base Rate fluctuates between
+0
+and
+125
+basis points, both of which depend upon the ratio of indebtedness to earnings before interest, taxes, depreciation, and amortization (“EBITDA”), as defined in the line of credit agreement. As of December 31, 2022, the Company’s borrowing rate against its revolving line of credit was
+6.1 %. The increment over LIBOR borrowing rate will be
+125
+basis points for the third quarter of fiscal 2023.  As a result of a reduction of the Company’s leverage ratio, the increment over LIBOR was lowered
+25
+basis points for each of the previous two consecutive quarters. The fee on the unused balance of the $ 75
+million committed line of credit fluctuates between
+15
+and
+25
+basis points. Under the terms of this line of credit, the Company has agreed to a negative pledge of real estate assets and is required to comply with financial covenants that limit the ratio of indebtedness to EBITDA and require a minimum fixed charge ratio. As of December 31, 2022, there was $ 32.7
+million available for borrowing under the $ 75
+million line of credit.
+The Company is in compliance with all of its loan covenants as of December 31, 2022.
+NOTE 9   -   CASH DIVIDENDS
+The Company paid cash dividends of $ 2.7
+million in both the six months ended December 31, 2022, and December 31, 2021. In January 2023, the Board of Directors declared a regular quarterly cash dividend of $ 0.05
+per share payable February
+14,
+2023, to shareholders of record as of February
+6,
+2023. The indicated annual cash dividend rate is $ 0.20
+per share.
+Page 16
+NOTE 10  –  EQUITY COMPENSATION
+In November 2022, the Company’s shareholders approved the amendment and restatement of the 2019 Omnibus Award Plan (“2019 Omnibus Plan”) which increased the number of shares authorized for issuance under the plan by
+2,350,000
+and removed the Plan’s fungible share counting feature. The purpose of the 2019 Omnibus Plan is to provide a means to attract and retain key personnel and to align the interests of the directors, officers, and employees with the Company’s shareholders. The plan also provides a vehicle whereby directors and officers may acquire shares in order to meet the ownership requirements under the Company’s Stock Ownership Policy. Except for Restricted Stock Unit (“RSU”) grants which are time-based, participants in the Company’s Long-Term Equity Compensation Plans are awarded the opportunity to acquire shares over a three-year performance measurement period tied to specific company performance metrics. The number of shares that remain reserved for issuance under the 2019 Omnibus Plan equates to
+2,637,095
+as of December 31, 2022. The 2019 Omnibus Plan allows for the grant of stock options, stock appreciation rights, restricted stock awards, restricted stock units RSUs, performance stock units (“PSUs”) and other awards.
+In the first quarter of fiscal 2023, the Company granted
+164,348
+PSU’s and
+197,915
+RSU’s, both with a weighted average market value of $ 6.90 . Stock compensation expense was $ 0.8
+million and $ 1.1
+million for the three months ended December 31, 2022, and 2021, respectively, and $ 1.4
+million and $ 1.7
+million in the six months ended December 31, 2022, and 2021, respectively.
+NOTE 11   -   SUPPLEMENTAL CASH FLOW INFORMATION
+Six Months Ended
+(In thousands)
+December 31
+2022
+2021
+Cash Payments:
+Interest
+$
+1,689
+$
+627
+Income taxes
+$
+4,299
+$
+2,820
+Non-cash investing and financing activities
+Issuance of common shares as compensation
+$
+173
+$
+150
+Issuance of common shares to fund deferred compensation plan
+$
+1,087
+$
+2,569
+NOTE 12 - COMMITMENTS AND CONTINGENCIES
+The Company is party to various negotiations, customer bankruptcies, and legal proceedings arising in the normal course of business. The Company provides reserves for these matters when a loss is probable and reasonably estimable. The Company does not disclose a range of potential loss because the likelihood of such a loss is remote. In the opinion of management, the ultimate disposition of these matters will not have a material adverse effect on the Company’s financial position, results of operations, cash flows or liquidity.
+The Company may occasionally issue a standby letter of credit in favor of third parties. As of December 31, 2022, there were no such standby letters of credit issued.
+NOTE 13 - LEASES
+The Company leases certain manufacturing facilities along with a small office space, several forklifts, several small tooling items, and various items of office equipment. The Company also acquired buildings, machinery, and forklift leases with the acquisition of JSI, as well as one sublease. All but two of the Company’s leases are operating leases. Leases have a remaining term of
+one
+to
+seven
+years some of which have an option to renew. The Company does not assume renewals in determining the lease term unless the renewals are deemed reasonably certain. The lease agreements do not contain any material residual guarantees or material variable lease payments.
+The Company has periodically entered into short-term operating leases with an initial term of twelve months or less. The Company elected not to record these leases on the balance sheet. For the three and six months ended December 31, 2022, and 2021, the rent expense for these leases is immaterial.
+Page 17
+The Company has certain leases that contain lease and non-lease components and has elected to utilize the practical expedient to account for these components together as a single lease component.
+Lease expense is recognized on a straight-line basis over the lease term. The Company used its incremental borrowing rate when determining the present value of lease payments.
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands)
+2022
+2021
+2022
+2021
+Operating lease cost
+$
+885
+$
+870
+$
+1,776
+$
+1,749
+Financing lease cost:
+Amortization of right of use assets
+74
+74
+148
+148
+Interest on lease liabilities
+17
+20
+35
+41
+Variable lease cost
+22
+22
+44
+44
+Sublease income
+( 116
+)
+( 94
+)
+( 232
+)
+( 188
+)
+Total lease cost
+$
+882
+$
+892
+$
+1,771
+$
+1,794
+Three Months Ended
+December 31,
+(In thousands)
+2022
+2021
+Cash flows from operating leases
+Fixed payments - operating cash flows
+$
+1,832
+$
+1,778
+Liability reduction - operating cash flows
+$
+1,618
+$
+1,502
+Cash flows from finance leases
+Interest - operating cash flows
+$
+35
+$
+42
+Repayments of principal portion - financing cash flows
+$
+123
+$
+129
+Operating Leases:
+December 31,
+June 30,
+2022
+2022
+Total operating right-of-use assets
+$
+7,548
+$
+8,664
+Accrued expenses (Current liabilities)
+$
+1,347
+$
+1,274
+Long-term operating lease liability
+6,957
+8,240
+Total operating lease liabilities
+$
+8,304
+$
+9,514
+Weighted Average remaining Lease Term (in years)
+2.72
+3.05
+Weighted Average Discount Rate
+4.82
+%
+4.81
+%
+Page 18
+Finance Leases:
+December 31,
+June 30,
+2022
+2022
+Buildings under finance leases
+$
+2,033
+$
+2,033
+Equipment under finance leases
+30
+11
+Accumulated depreciation
+( 793
+)
+( 634
+)
+Total finance lease assets, net
+$
+1,270
+$
+1,410
+Accrued expenses (Current liabilities)
+$
+281
+$
+275
+Long-term finance lease liability
+1,105
+1,246
+Total finance lease liabilities
+$
+1,386
+$
+1,521
+Weighted Average remaining Lease Term (in years)
+4.30
+4.80
+Weighted Average Discount Rate
+4.86
+%
+4.86
+%
+Maturities of Lease Liability:
+Operating
+Lease
+Liabilities
+Finance Lease
+Liabilities
+Operating
+Subleases
+Net Lease
+Commitments
+2023
+$
+2,134
+$
+207
+$
+( 189
+)
+$
+2,152
+2024
+3,399
+337
+( 377
+)
+3,359
+2025
+2,253
+362
+( 31
+)
+2,584
+2026
+952
+362
+-
+1,314
+2027
+323
+303
+-
+626
+Thereafter
+4
+-
+-
+4
+Total lease payments
+$
+9,065
+$
+1,571
+$
+( 597
+)
+$
+10,039
+Less: Interest
+( 761
+)
+( 185
+)
+( 946
+)
+Present Value of Lease Liabilities
+$
+8,304
+$
+1,386
+$
+9,093
+NOTE 14
+–
+INCOME TAXES
+The Company's effective income tax rate is based on expected income, statutory rates and tax planning opportunities available in the various jurisdictions in which it operates. For interim financial reporting, the Company estimates the annual income tax rate based on projected taxable income for the full year and records a quarterly income tax provision or benefit in accordance with the anticipated annual rate. The Company refines the estimates of the year's taxable income as new information becomes available, including actual year-to-date financial results. This continual estimation process often results in a change to the expected effective income tax rate for the year. When this occurs, the Company adjusts the income tax provision during the quarter in which the change in estimate occurs so that the year-to-date provision reflects the expected income tax rate. Significant judgment is required in determining the effective tax rate and in evaluating tax positions.
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+2022
+2021
+2022
+2021
+Reconciliation of effective tax rate:
+Provision for income taxes at the anticipated annual tax rate
+21.5
+%
+23.8
+%
+24.0
+%
+24.0
+%
+Uncertain tax positions
+( 1.2
+)
+( 3.9
+)
+-
+( 1.5
+)
+Tax rate changes
+( 1.9
+)
+-
+-
+-
+Share-based compensation
+( 0.3
+)
+0.1
+0.8
+( 0.3
+)
+Effective tax rate
+18.1
+%
+20.0
+%
+24.8
+%
+22.2
+%
+Page 19
+ITEM 2. MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Note About Forward-Looking Statements
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including this section. These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “focus,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ materially in in our Annual Report on Form 10-K in the following sections: “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” “Quantitative and Qualitative Disclosures about Market Risk,” and “Risk Factors.” All of those risks and uncertainties are incorporated herein by reference. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise.
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand the results of operations and financial condition of LSI Industries Inc. MD&A is provided as a supplement to, and should be read in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2022, and our financial statements and the accompanying Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+Our condensed consolidated financial statements, accompanying notes and the “Safe Harbor” Statement, each as appearing earlier in this report, should be referred to in conjunction with this Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Summary of Consolidated Results
+Net Sales by Business Segment
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands)
+2022
+2021
+2022
+2021
+Lighting Segment
+$
+66,833
+$
+57,276
+$
+134,366
+$
+108,536
+Display Solutions Segment
+61,971
+53,867
+121,507
+109,004
+$
+128,804
+$
+111,143
+$
+255,873
+$
+217,540
+Operating Income (Loss) by Business Segment
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands)
+2022
+2021
+2022
+2021
+Lighting Segment
+$
+6,754
+$
+4,623
+$
+15,912
+$
+8,962
+Display Solutions Segment
+7,762
+3,837
+14,258
+7,586
+Corporate and Eliminations
+(5,478
+)
+(4,038
+)
+(11,111
+)
+(7,682
+)
+$
+9,038
+$
+4,422
+$
+19,059
+$
+8,866
+Net sales of $128.8 million for the three months ended December 31, 2022, increased $17.7 million or 16% as compared to net sales of $111.1 million for the three months ended December 31, 2021. Net sales were driven by increased net sales of the Lighting Segment (an increase of $9.6 million or 17%) and increased net sales of the Display Solutions Segment (an increase of $8.1 million or 15%). Double digit growth in both reportable segments reflects the ongoing strength in demand levels from our key vertical markets, focusing on higher-value applications where our differentiated products and solutions meet the unique requirements of our customers.
+Page 20
+Net sales of $255.9 million for the six months ended December 31, 2022, increased $38.3 million or 18% as compared to net sales of $217.5 million for the six months ended December 31, 2021. Net sales were driven by increased net sales of the Lighting Segment (an increase of $25.8 million or 24%) and increased net sales of the Display Solutions Segment (an increase of $12.5 million or 12%).
+Operating income of $9.0 million for the three months ended December 31, 2022, represents a $4.6 million increase from operating income of $4.4 million in the three months ended December 31, 2021. Adjusted operating income, a Non-GAAP measure, was $10.6 million in the three months ended December 31, 2022, compared to $5.9 million in the three months ended December 31, 2021. Refer to “Non-GAAP Financial Measures” below for a reconciliation of Non-GAAP financial measures to U.S. GAAP measures. The increase in operating income was the result of increased volume leveraged by a higher value sales mix, continued price discipline, and continued effective cost management. The Company continues to focus on actions which increase its value and importance to customers in verticals where the Company sees profitable growth.
+Operating income of $19.1 million for the six months ended December 31, 2022, represents a $10.2 million increase from operating income of $8.9 million in the six months ended December 31, 2021. Adjusted operating income, a Non-GAAP financial measure, was $21.4 million in the six months ended December 31, 2022, compared to $10.9 million in the six months ended December 31, 2021. Refer to “Non-GAAP Financial Measures” below for a reconciliation of Non-GAAP financial measures to U.S. GAAP measures.
+Non-GAAP Financial Measures
+We believe it is appropriate to evaluate our performance after making adjustments to the as-reported U.S. GAAP operating income, net income, and earnings per share. Adjusted operating income, net income, and earnings per share, which exclude the impact of stock compensation expense, severance costs, and consulting expense related to commercial growth initiatives, are Non-GAAP financial measures. Also included below are Non-GAAP financial measures including Earnings before Interest, Taxes, Depreciation and Amortization (EBITDA and Adjusted EBITDA), Free Cash Flow, and Net Debt to Adjusted EBITDA. We believe that these adjusted supplemental measures are useful in assessing the operating performance of our business. These supplemental measures are used by our management, including our chief operating decision maker, to evaluate business results. Although the impacts of some of these items have been recognized in prior periods and could recur in future periods, we exclude these items because they provide greater comparability and enhanced visibility into our results of operations. These non-GAAP measures may be different from non-GAAP measures used by other companies.  In addition, the non-GAAP measures are not based on any comprehensive set of accounting rules or principles.  Non-GAAP measures have limitations, in that they do not reflect all amounts associated with our results as determined in accordance with U.S. GAAP. Therefore, these measures should be used only to evaluate our results in conjunction with corresponding GAAP measures. Below is a reconciliation of these Non-GAAP measures to operating income, net income, and earnings per share for the periods indicated along with the calculation of EBITDA and Adjusted EBITDA, Free Cash Flow, and Net Debt to Adjusted EBITDA.
+Reconciliation of operating income to adjusted operating income:
+Three Months Ended
+December 31
+(In thousands)
+2022
+2021
+Operating Income as reported
+$
+9,038
+$
+4,422
+Stock compensation expense
+1,002
+1,130
+Consulting expense: Commercial Growth Initiatives
+486
+-
+Acquisition Costs
+-
+340
+Severance costs
+33
+-
+Adjusted Operating Income
+$
+10,559
+$
+5,892
+Page 21
+Reconciliation of net income to adjusted net income
+Three Months Ended
+December 31
+(In thousands, except per share data)
+2022
+2021
+Diluted EPS
+Diluted EPS
+Net Income as reported
+$
+6,417
+$
+0.22
+$
+3,105
+$
+0.11
+Stock compensation expense
+785
+(1)
+0.03
+867
+(4)
+0.03
+Consulting expense: Commercial Growth Initiatives
+399
+(2)
+0.01
+-
+-
+Acquisition Costs
+-
+-
+269
+(5)
+0.01
+Severance costs
+26
+(3)
+-
+-
+-
+Net Income adjusted
+$
+7,627
+$
+0.26
+$
+4,241
+$
+0.15
+The following represents the income tax effects of the adjustments in the tables above, which were calculated using the estimated combined U.S., Canada and Mexico effective income tax rates for the periods indicated (in thousands):
+(1)
+$217
+(2)
+$87
+(3)
+$7
+(4)
+$263
+(5)
+$71
+Reconciliation of operating income to adjusted operating income:
+Six Months Ended
+December 31
+(In thousands)
+2022
+2021
+Operating Income as reported
+$
+19,059
+$
+8,866
+Stock compensation expense
+1,553
+1,686
+Consulting expense: Commercial Growth Initiatives
+789
+-
+Acquisition costs
+-
+340
+Severance costs
+46
+-
+Adjusted Operating Income
+$
+21,447
+$
+10,892
+Reconciliation of net income to adjusted net income
+Six Months Ended
+December 31
+(In thousands, except per share data)
+2022
+2021
+Diluted EPS
+Diluted EPS
+Net Income as reported
+$
+12,678
+$
+0.44
+$
+6,238
+$
+0.22
+Stock compensation expense
+1,341
+(1)
+0.05
+1,274
+(4)
+0.05
+Consulting expense: Commercial Growth Initiatives
+647
+(2)
+0.02
+-
+-
+Acquisition costs
+-
+-
+269
+(5)
+0.01
+Severance costs
+38
+(3)
+-
+-
+-
+Net Income adjusted
+$
+14,704
+$
+0.51
+$
+7,781
+$
+0.28
+The following represents the income tax effects of the adjustments in the tables above, which were calculated using the estimated combined U.S., Canada and Mexico effective income tax rates for the periods indicated (in thousands):
+(1)
+$212
+(2)
+$142
+(3)
+$8
+(4)
+$412
+(5)
+$71
+Page 22
+Reconciliation of operating income to EBITDA and Adjusted EBITDA
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands)
+2022
+2021
+2022
+2021
+Operating Income as reported
+$
+9,038
+$
+4,422
+$
+19,059
+$
+8,866
+Depreciation and Amortization
+2,419
+2,538
+4,840
+5,101
+EBITDA
+$
+11,457
+$
+6,960
+$
+23,899
+$
+13,967
+Stock compensation expense
+1,002
+1,130
+1,553
+1,686
+Consulting Expense - Commercial Growth Initiatives
+486
+789
+Acquisition Costs
+-
+340
+-
+340
+Severance costs
+33
+-
+46
+-
+Adjusted EBITDA
+$
+12,978
+$
+8,430
+$
+26,287
+$
+15,993
+Reconciliation of cash flow from operations to free cash flow
+Three Months Ended
+Six Months Ended
+December 31
+December 31
+(In thousands)
+2022
+2021
+2022
+2021
+Cash Flow from Operations
+$
+9,481
+$
+(8,654
+)
+$
+20,064
+$
+(16,543
+)
+Capital expenditures
+(561
+)
+(448
+)
+(994
+)
+(745
+)
+Free Cash Flow
+$
+8,920
+$
+(9,102
+)
+$
+19,070
+$
+(17,288
+)
+Net Debt to Adjusted EBITDA
+December 31,
+June 30,
+(In thousands)
+2022
+2022
+Current portion and long-term debt as reported
+$
+3,571
+$
+3,571
+Long-Term Debt
+59,250
+76,025
+Total Debt
+62,821
+79,596
+Less: Cash and cash equivalents
+(2,765
+)
+(2,462
+)
+Net Debt
+$
+60,056
+$
+77,134
+Adjusted EBITDA - Trailing 12 Months
+$
+45,387
+$
+35,091
+Net Debt to Adjusted EBITDA
+1.3
+2.2
+Results of Operations
+THREE MONTHS ENDED DECEMBER 31, 2022, COMPARED TO THREE MONTHS ENDED DECEMBER 31, 2021
+Lighting Segment
+Three Months Ended
+December 31
+(In thousands)
+2022
+2021
+Net Sales
+$
+66,833
+$
+57,276
+Gross Profit
+$
+20,457
+$
+16,898
+Operating Income
+$
+6,754
+$
+4,623
+Page 23
+Lighting Segment net sales of $66.8 million in the three months ended December 31, 2022, increased 17% from net sales of $57.3 million in the same period in fiscal 2022. Sales growth was broad-based, with significant increases in all vertical market applications. The Company’s efforts over the last two years to strengthen its lighting offering for select vertical market applications coupled with the Company’s enhanced product offering, continues to position LSI to win additional business.
+Gross profit of $20.5 million in the three months ended December 31, 2022, increased $3.6 million or 21% from the same period of fiscal 2022. Gross profit as a percentage of net sales was 30.6% in the three months ended December 31, 2022, compared to 29.5% in the same period of fiscal 2022. The improvement in gross profit as a percentage of sales was driven by the increase in net sales resulting from the Company’s continued focus on verticals where it competes coupled with enhanced product offerings, and continued price disciplines, all of which in turn result in improved margins.
+Operating expenses of $13.7 million
+in the three months ended December 31, 2022, increased $1.4 million from the same period of fiscal 2022, primarily driven by higher commission expense as a result of higher net sales.
+Lighting Segment operating income of $6.8 million for the three months ended December 31, 2022, increased $2.1 million from operating income of $4.6 million in the same period of fiscal 2022 primarily driven by sales volume and by an improvement in gross profit as a percentage of sales.
+Display Solutions Segment
+Three Months Ended
+December 31
+(In thousands)
+2022
+2021
+Net Sales
+$
+61,971
+$
+53,867
+Gross Profit
+$
+13,681
+$
+8,559
+Operating Income
+$
+7,762
+$
+3,837
+Display Solutions Segment net sales of $62.0 million in the three months ended December 31, 2022, increased $8.1 million or 15% from net sales of $53.9 million in the same period in fiscal 2022. The sales increase is primarily the result of growth in both the grocery and refueling/convenience-store verticals.
+Gross profit of $13.7 million in the three months ended December 31, 2022, increased $5.1 million or 60% from the same period of fiscal 2022. Gross profit as a percentage of net sales in the three months ended December 31, 2022, was 22.1% compared to 15.9% in the same period of fiscal 2022. The improvement in gross profit as a percentage of sales was driven by the increase in net sales, improved program pricing, and favorable sales mix.
+Operating expenses of $5.9 million in the three months ended December 31, 2022, increased $1.2 million from $4.7 million in the same period of fiscal 2022. The increase of $1.2 million was driven by investments in commercial resources to support sales growth along with an increase in short-term performance-based incentive plan expense driven by improved business performance.
+Display Solutions Segment operating income of $7.8 million in the three months ended December 31, 2022, increased $3.9 million from operating income of $3.8 million in the same period of fiscal 2022. The increase of $3.9 million was primarily driven by an increase in sales and an improvement of gross profit as a percentage of sales.
+Corporate and Eliminations
+Three Months Ended
+December 31
+(In thousands)
+2022
+2021
+Gross Profit (Loss)
+$
+2
+$
+(9
+)
+Operating (Loss)
+$
+(5,478
+)
+$
+(4,038
+)
+The gross profit/(loss) relates to the change in the intercompany profit in inventory elimination.
+Page 24
+Operating expenses of $5.5 million in the three months ended December 31, 2022, increased $1.5 million from the same period of fiscal 2022. The increase was primarily the result of an increase in short-term and long-term performance-based incentive plan expense driven by improved business performance and by commercial growth initiative consulting expense of $0.5 million for which there was no comparable expense in the second fiscal 2022.
+Consolidated Results
+The Company reported $1.3 million and $0.5 million of net interest expense in the three months ended December 31, 2022, and December 31, 2021, respectively. The increase in interest expense is the results of increased borrowing costs. The Company also recorded other (income) of ($0.1) million and a nominal amount of expense in the three months ended December 31, 2022, and December 31, 2021, respectively, both of which is related to net foreign exchange currency transaction losses through our Mexican and Canadian subsidiaries.
+The $1.4 million of income tax expense in the three months ended December 31, 2022, represents a consolidated effective tax rate of 18.1%. The $0.7 million of income tax expense in the three months ended December 31, 2021, represents a consolidated effective tax rate of 20.1%.
+The Company reported net income of $6.4 million in the three months ended December 31, 2022, compared to net income of $3.1 million in the three months ended December 31, 2021. Non-GAAP adjusted net income was $7.6 million for the three months ended December 31, 2022, compared to adjusted net income of $4.2 million for the three months ended December 31, 2021 (Refer to the Non-GAAP tables above). The increase in Non-GAAP adjusted net income is primarily the net result of an increase in sales and an increase in the gross profit as a percentage of sales. Diluted earnings per share of $0.22 was reported in the three months ended December 31, 2022, as compared to $0.11 diluted earnings per share in the same period of fiscal 2022. The weighted average common shares outstanding for purposes of computing diluted earnings per share in the three months ended December 31, 2022, were 29,204,000 shares compared to 28,067,000 shares in the same period last year.
+SIX MONTHS ENDED DECEMBER 31, 2022, COMPARED TO SIX MONTHS ENDED DECEMBER 31, 2021
+Lighting Segment
+Six Months Ended
+December 31
+(In thousands)
+2022
+2021
+Net Sales
+$
+134,366
+$
+108,536
+Gross Profit
+$
+42,737
+$
+32,355
+Operating Income
+$
+15,912
+$
+8,962
+Lighting Segment net sales of $134.4 million in the six months ended December 31, 2022, increased 24% from net sales of $108.5 million in the same period in fiscal 2022. Sales growth was broad-based, with significant increases in all vertical market applications. The Company’s efforts over the last two years to strengthen its lighting offering for select vertical market applications continues to position LSI to win additional business.
+Gross profit of $42.7 million in the six months ended December 31, 2022, increased $10.4 million or 32% from the same period of fiscal 2022. Gross profit as a percentage of net sales was 31.8% in the six months ended December 31, 2022, compared to 29.8% in the same period of fiscal 2022. The improvement in gross profit as a percentage of sales was driven by the increase in net sales resulting from the Company’s continued focus on verticals where it competes coupled with enhanced product offerings, and continued price disciplines, all of which in turn result in improved margins.
+Operating expenses of $26.8 million
+in the six months ended December 31, 2022, increased $3.4 million from the same period of fiscal 2022, primarily driven by higher commission expense as a result of higher net sales.
+Lighting Segment operating income of $15.9 million for the six months ended December 31, 2022, increased $7.0 million from operating income of $9.0 million in the same period of fiscal 2022 primarily driven by sales volume and by an improvement in gross profit as a percentage of sales.
+Page 25
+Display Solutions Segment
+Six Months Ended
+December 31
+(In thousands)
+2022
+2021
+Net Sales
+$
+121,507
+$
+109,004
+Gross Profit
+$
+26,134
+$
+17,595
+Operating Income
+$
+14,258
+$
+7,586
+Display Solutions Segment net sales of $121.5 million in the six months ended December 31, 2022, increased $12.5 million or 12% from net sales of $109.0 million in the same period in fiscal 2022. The sales increase is primarily the result of growth in both the grocery and refueling/convenience-store verticals.
+Gross profit of $26.1 million in the six months ended December 31, 2022, increased $8.5 million or 49% from the same period of fiscal 2022. Gross profit as a percentage of net sales in the six months ended December 31, 2022, was 21.5% compared to 16.1% in the same period of fiscal 2022. The improvement in gross profit as a percentage of sales was driven by the increase in net sales, improved program pricing, and favorable sales mix.
+Operating expenses of $11.9 million in the six months ended December 31, 2022, increased $1.9 million from $10.0 million in the same period of fiscal 2022. The increase of $1.9 million was driven by investments in commercial resources to support sales growth along with an increase in short-term performance-based incentive plan expense driven by improved business performance.
+Display Solutions Segment operating income of $14.3 million in the six months ended December 31, 2022, increased $6.7 million or 88% from operating income of $7.6 million in the same period of fiscal 2022. The increase was primarily driven by an increase in sales and an improvement of gross profit as a percentage of sales.
+Corporate and Eliminations
+Six Months Ended
+December 31
+(In thousands)
+2022
+2021
+Gross Profit (Loss)
+$
+7
+$
+8
+Operating (Loss)
+$
+(11,111
+)
+$
+(7,682
+)
+The gross profit relates to the change in the intercompany profit in inventory elimination.
+Operating expenses of $11.1 million in the six months ended December 31, 2022, increased $3.4 million from the same period of fiscal 2022. The increase was primarily the result of an increase in short-term and long-term performance-based incentive plan expense driven by improved business performance and by commercial growth initiative consulting expense of $0.8 million for which there was no comparable expense in the first half fiscal 2022.
+Consolidated Results
+The Company reported $2.0 million and $0.8 million of net interest expense in the six months ended December 31, 2022, and December 31, 2021, respectively. The increase in interest expense is primarily the results of increased borrowing costs. The Company also recorded other expense of $0.2 and $0.1 in the six months ended December 31, 2022, and December 31, 2021, respectively, related to net foreign exchange currency transaction losses and gains through our Mexican and Canadian subsidiaries.
+The $4.2 million of income tax expense in the six months ended December 31, 2022, represents a consolidated effective tax rate of 24.8%. The $1.8 million income tax expense in the six months ended December 31, 2021, represents a consolidated effective tax rate of 22.2%.
+The Company reported net income of $12.7 million in the six months ended December 31, 2022, compared to net income of $6.2 million in the six months ended December 31, 2021. Non-GAAP adjusted net income was $14.7 million for the six months ended December 31, 2022, compared to adjusted net income of $7.8 million for the six months ended December 31, 2021 (Refer to the Non-GAAP tables above). The increase in Non-GAAP adjusted net income is primarily the net result of an increase in sales and an increase in the gross profit as a percentage of sales. Diluted earnings per share of $0.44 was reported in the six months ended December 31, 2022, as compared to $0.22 diluted earnings per share in the same period of fiscal 2022. The weighted average common shares outstanding for purposes of computing diluted earnings per share in the six months ended December 31, 2022, were 28,766,000 shares compared to 27,895,000 shares in the same period last year.
+Page 26
+Liquidity and Capital Resources
+The Company considers its level of cash on hand, borrowing capacity, current ratio and working capital levels to be its most important measures of short-term liquidity. For long-term liquidity indicators, the Company believes its ratio of long-term debt to equity and our historical levels of net cash flows from operating activities to be the most important measures.
+At December 31, 2022, the Company had working capital of $84.9 million compared to $84.3 million at June 30, 2022. The ratio of current assets to current liabilities was 2.32 to 1 at December 31, 2022, and 2.13 at June 30, 2022. The marginal increase in working capital from June 30, 2022, to December 31, 2022, is primarily driven by a $10.4 million decrease in net accounts receivable more than offset by a $7.5 million decrease in accounts payable and a $3.0 million decrease in accrued expenses. Also contributing to the change in working capital was a $1.2 million decrease in net inventory, partially offset by a $0.3 million increase in cash and a $1.4 million increase in refundable income taxes and other current assets.
+Net accounts receivable was $67.4 million and $77.8 million at December 31, 2022, and June 30, 2022, respectively. DSO decreased to 52 days at December 31, 2022, from 55 days at June 30, 2022.
+Net inventories of $73.2 million at December 31, 2022, decreased $1.2 million from $74.4 million at June 30, 2022. The decrease of $1.2 million is the result of a decrease in net inventory of $0.4 million in the Lighting Segment and a $0.8 decrease in net inventory in the Display Solutions Segment.
+Cash generated from operations and borrowing capacity under the Company’s line of credit is its primary source of liquidity. In September 2021, the Company amended its existing $100 million secured line of credit, to a $25 million term loan and $75 million remaining as a secured revolving line of credit. Both facilities expire in the third quarter of fiscal 2026. As of December 31, 2022, $32.7 million of the credit line was available. The Company is in compliance with all of its loan covenants. The $100 million credit facility plus cash flows from operating activities are adequate for operational and capital expenditure needs for the remainder of fiscal 2023..
+The Company had a source of $20.1 million of cash from operating activities in the six months ended December 31, 2022, compared to a use of cash of $16.5 million in the six months ended December 31, 2021. The increase in net cash flows from operating activities is primarily the result of effective management of the Company’s working capital and from improved earnings.
+The Company used $1.0 million and $.2 million of cash related to investing activities in the six months ended December 31, 2022, and December 31, 2021, respectively.
+The Company had a use of cash of $18.8 million related to financing activities in the six months ended December 31, 2022, compared to a source of cash of $15.4 million in the six months ended December 31, 2021. The $34.2 million change in cash flow was primarily the result of cash generated from improved working capital management and from improved earnings, which was used to pay down the Company’s line of credit in the first half of fiscal 2023. Also contributing to the reduction of debt was $1.3 million of cash received from the exercise of stock options in the second quarter of fiscal 2023.
+The Company has on its balance sheet financial instruments consisting primarily of cash and cash equivalents, short-term investments, revolving lines of credit, and long-term debt. The fair value of these financial instruments approximates carrying value because of their short-term maturity and/or variable, market-driven interest rates.
+Off-Balance Sheet Arrangements
+The Company has no financial instruments with off-balance sheet risk and have no off-balance sheet arrangements.
+Cash Dividends
+In January 2023, the Board of Directors declared a regular quarterly cash dividend of $0.05 per share payable February 14, 2023, to shareholders of record as of February 6, 2023. The indicated annual cash dividend rate for fiscal 2023 is $0.20 per share. The Board of Directors has adopted a policy regarding dividends which indicates that dividends will be determined by the Board of Directors in its discretion based upon its evaluation of earnings, cash flow requirements, financial condition, debt levels, stock repurchases, future business developments and opportunities, and other factors deemed relevant.
+Critical Accounting Policies and Estimates
+A summary of our significant accounting policies is included in Note 1 to the audited consolidated financial statements of the Company’s fiscal 2022 Annual Report on Form 10-K.
+Page 27
+ITEM 3.     QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+There have been no material changes in our exposure to market risk since June 30, 2022. Additional information can be found in Item 7A, Quantitative and Qualitative Disclosures About Market Risk, which appears on page 18 of the Annual Report on Form 10-K for the fiscal year ended June 30, 2022.
+ITEM 4.     CONTROLS AND PROCEDURES
+Disclosure Controls and Procedures
+We maintain disclosure controls and procedures (as such term is defined Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”)), that are designed to ensure that information required to be disclosed by a company in the reports that it files under the Exchange Act is recorded, processed, summarized, and reported within required time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+We conducted, under the supervision of our management, including the Chief Executive Officer and Chief Financial Officer, an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act. Based upon our evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of December 31, 2022, our disclosure controls and procedures were effective. Management believes that the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q are fairly presented in all material respects in accordance with GAAP for interim financial statements, and the Company’s Chief Executive Officer and Chief Financial Officer have certified that, based on their knowledge, the condensed consolidated financial statements included in this report fairly present in all material respects the Company’s financial condition, results of operations and cash flows for each of the periods presented in this report.
+Changes in Internal Control
+There have been no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the second quarter ended December 31, 2022, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Page 28
+PART II.     OTHER INFORMATION
+ITEM 5. OTHER INFORMATION
+None.
+ITEM 6.     EXHIBITS
+Exhibits:
+31.1
+Certification of Principal Executive Officer required by Rule 13a-14(a)
+31.2
+Certification of Principal Financial Officer required by Rule 13a-14(a)
+32.1
+Section 1350 Certification of Principal Executive Officer
+32.2
+Section 1350 Certification of Principal Financial Officer
+101.INS Inline XBRL Instance Document
+101.SCH Inline XBRL Taxonomy Extension Schema Document
+101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL with applicable taxonomy extension information contained in Exhibits 101)
+Page 29
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+LSI Industries Inc.
+By:
+/s/ James A. Clark
+James A. Clark
+Chief Executive Officer and President
+(Principal Executive Officer)
+By:
+/s/ James E. Galeese
+James E. Galeese
+Executive Vice President and Chief Financial Officer
+(Principal Financial Officer)
+February 7, 2023
+Page 30

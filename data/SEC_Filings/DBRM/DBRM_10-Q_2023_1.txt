@@ -1,0 +1,3004 @@
+4
+5
+2
+4
+5
+2
+263619
+0001164256
+2022-03-01
+2022-11-30
+0001164256
+2023-01-17
+0001164256
+2022-11-30
+0001164256
+2022-02-28
+0001164256
+2022-09-01
+2022-11-30
+0001164256
+2021-09-01
+2021-11-30
+0001164256
+2021-03-01
+2021-11-30
+0001164256
+dbrm:CrudeOilSalesMember
+2022-09-01
+2022-11-30
+0001164256
+dbrm:CrudeOilSalesMember
+2021-09-01
+2021-11-30
+0001164256
+dbrm:CrudeOilSalesMember
+2022-03-01
+2022-11-30
+0001164256
+dbrm:CrudeOilSalesMember
+2021-03-01
+2021-11-30
+0001164256
+dbrm:NaturalGasSalesMember
+2022-09-01
+2022-11-30
+0001164256
+dbrm:NaturalGasSalesMember
+2021-09-01
+2021-11-30
+0001164256
+dbrm:NaturalGasSalesMember
+2022-03-01
+2022-11-30
+0001164256
+dbrm:NaturalGasSalesMember
+2021-03-01
+2021-11-30
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2022-02-28
+0001164256
+us-gaap:CommonStockMember
+2022-02-28
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2022-02-28
+0001164256
+us-gaap:RetainedEarningsMember
+2022-02-28
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2022-05-31
+0001164256
+us-gaap:CommonStockMember
+2022-05-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2022-05-31
+0001164256
+us-gaap:RetainedEarningsMember
+2022-05-31
+0001164256
+2022-05-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2022-08-31
+0001164256
+us-gaap:CommonStockMember
+2022-08-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2022-08-31
+0001164256
+us-gaap:RetainedEarningsMember
+2022-08-31
+0001164256
+2022-08-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2021-02-28
+0001164256
+us-gaap:CommonStockMember
+2021-02-28
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2021-02-28
+0001164256
+us-gaap:RetainedEarningsMember
+2021-02-28
+0001164256
+2021-02-28
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2021-05-31
+0001164256
+us-gaap:CommonStockMember
+2021-05-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2021-05-31
+0001164256
+us-gaap:RetainedEarningsMember
+2021-05-31
+0001164256
+2021-05-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2021-08-31
+0001164256
+us-gaap:CommonStockMember
+2021-08-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2021-08-31
+0001164256
+us-gaap:RetainedEarningsMember
+2021-08-31
+0001164256
+2021-08-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2022-03-01
+2022-05-31
+0001164256
+us-gaap:CommonStockMember
+2022-03-01
+2022-05-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2022-03-01
+2022-05-31
+0001164256
+us-gaap:RetainedEarningsMember
+2022-03-01
+2022-05-31
+0001164256
+2022-03-01
+2022-05-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2022-06-01
+2022-08-31
+0001164256
+us-gaap:CommonStockMember
+2022-06-01
+2022-08-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2022-06-01
+2022-08-31
+0001164256
+us-gaap:RetainedEarningsMember
+2022-06-01
+2022-08-31
+0001164256
+2022-06-01
+2022-08-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2022-09-01
+2022-11-30
+0001164256
+us-gaap:CommonStockMember
+2022-09-01
+2022-11-30
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2022-09-01
+2022-11-30
+0001164256
+us-gaap:RetainedEarningsMember
+2022-09-01
+2022-11-30
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2021-03-01
+2021-05-31
+0001164256
+us-gaap:CommonStockMember
+2021-03-01
+2021-05-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2021-03-01
+2021-05-31
+0001164256
+us-gaap:RetainedEarningsMember
+2021-03-01
+2021-05-31
+0001164256
+2021-03-01
+2021-05-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2021-06-01
+2021-08-31
+0001164256
+us-gaap:CommonStockMember
+2021-06-01
+2021-08-31
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2021-06-01
+2021-08-31
+0001164256
+us-gaap:RetainedEarningsMember
+2021-06-01
+2021-08-31
+0001164256
+2021-06-01
+2021-08-31
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2021-09-01
+2021-11-30
+0001164256
+us-gaap:CommonStockMember
+2021-09-01
+2021-11-30
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2021-09-01
+2021-11-30
+0001164256
+us-gaap:RetainedEarningsMember
+2021-09-01
+2021-11-30
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2022-11-30
+0001164256
+us-gaap:CommonStockMember
+2022-11-30
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2022-11-30
+0001164256
+us-gaap:RetainedEarningsMember
+2022-11-30
+0001164256
+dbrm:ConvertiblePreferredStockSeriesAMember
+2021-11-30
+0001164256
+us-gaap:CommonStockMember
+2021-11-30
+0001164256
+us-gaap:AdditionalPaidInCapitalMember
+2021-11-30
+0001164256
+us-gaap:RetainedEarningsMember
+2021-11-30
+0001164256
+2021-11-30
+0001164256
+us-gaap:SalesRevenueNetMember
+2022-11-30
+0001164256
+dbrm:ReaboldCaLlcMember
+us-gaap:SalesRevenueNetMember
+2022-11-30
+0001164256
+dbrm:ReaboldCaLlcMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:CustomerConcentrationRiskMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:CustomerConcentrationRiskMember
+2021-03-01
+2022-02-28
+0001164256
+dbrm:EastSlopesMember
+2022-11-30
+0001164256
+dbrm:EastSlopesMember
+2022-02-28
+0001164256
+dbrm:ReaboldCaLlcMember
+2022-03-01
+2022-05-31
+0001164256
+dbrm:ReaboldCaLlcMember
+2022-05-31
+0001164256
+dbrm:ReaboldCaLlcMember
+2022-11-30
+0001164256
+2009-03-01
+2009-03-31
+0001164256
+2009-03-01
+2009-06-11
+0001164256
+dbrm:WorkingInterestPartnerMember
+2022-11-30
+0001164256
+dbrm:WorkingInterestPartnerMember
+2022-02-28
+0001164256
+dbrm:GreatEarthPowerMember
+2022-03-01
+2022-11-30
+0001164256
+dbrm:GreatEarthPowerMember
+2021-03-01
+2021-11-30
+0001164256
+dbrm:AbPlusNetHoldingsMember
+2022-03-01
+2022-11-30
+0001164256
+dbrm:AbPlusNetHoldingsMember
+2021-03-01
+2021-11-30
+0001164256
+dbrm:ThirdPartyVendorsMember
+2019-02-28
+0001164256
+dbrm:ThirdPartyVendorsMember
+2019-03-01
+2020-02-29
+0001164256
+dbrm:ThirdPartyVendorsMember
+2018-03-01
+2019-02-28
+0001164256
+dbrm:ThirdPartyVendorsMember
+2022-11-30
+0001164256
+dbrm:ThirdPartyVendorsMember
+2022-02-28
+0001164256
+us-gaap:SecuredDebtMember
+srt:ChiefExecutiveOfficerMember
+2020-12-21
+2020-12-22
+0001164256
+us-gaap:SecuredDebtMember
+srt:ChiefExecutiveOfficerMember
+2020-12-22
+0001164256
+us-gaap:SecuredDebtMember
+srt:ChiefExecutiveOfficerMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:ConvertibleDebtMember
+dbrm:ThirdPartyMember
+2021-03-01
+2022-02-28
+0001164256
+us-gaap:ConvertibleDebtMember
+dbrm:ThirdPartyMember
+2022-02-28
+0001164256
+us-gaap:ConvertibleDebtMember
+dbrm:ThirdPartyMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:ConvertibleDebtMember
+dbrm:ThirdPartyMember
+2022-11-30
+0001164256
+us-gaap:PrivatePlacementMember
+us-gaap:SubordinatedDebtMember
+2010-01-01
+2010-01-31
+0001164256
+us-gaap:PrivatePlacementMember
+us-gaap:SubordinatedDebtMember
+2010-01-31
+0001164256
+us-gaap:PrivatePlacementMember
+us-gaap:SubordinatedDebtMember
+2015-01-01
+2015-01-29
+0001164256
+us-gaap:PrivatePlacementMember
+us-gaap:SubordinatedDebtMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:PrivatePlacementMember
+us-gaap:SubordinatedDebtMember
+2022-11-30
+0001164256
+us-gaap:SubordinatedDebtMember
+2022-11-30
+0001164256
+us-gaap:SubordinatedDebtMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:SubordinatedDebtMember
+2021-03-01
+2022-02-28
+0001164256
+us-gaap:LineOfCreditMember
+dbrm:UbsBankMember
+2011-10-24
+0001164256
+us-gaap:LineOfCreditMember
+dbrm:UbsBankMember
+2022-03-01
+2022-05-31
+0001164256
+dbrm:ProductionPaymentProgramMember
+2018-12-01
+2018-12-31
+0001164256
+dbrm:ProductionPaymentProgramMember
+2022-11-30
+0001164256
+dbrm:ProductionPaymentProgramMember
+2022-03-01
+2022-11-30
+0001164256
+dbrm:ProductionPaymentProgramMember
+2021-03-01
+2021-11-30
+0001164256
+us-gaap:SubordinatedDebtMember
+dbrm:ThirdPartyMember
+2022-11-30
+0001164256
+us-gaap:SubordinatedDebtMember
+dbrm:ThirdPartyMember
+2022-02-28
+0001164256
+us-gaap:SubordinatedDebtMember
+dbrm:RelatedPartyNotesMember
+2022-11-30
+0001164256
+us-gaap:SubordinatedDebtMember
+dbrm:RelatedPartyNotesMember
+2022-02-28
+0001164256
+us-gaap:SubordinatedDebtMember
+2022-02-28
+0001164256
+dbrm:SpokaneValleyWashingtonMember
+2022-11-30
+0001164256
+dbrm:FriendswoodTexasMember
+2022-11-30
+0001164256
+dbrm:WallaceIdahoMember
+2022-11-30
+0001164256
+dbrm:FriendswoodTexasMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:CommonStockMember
+2022-03-01
+2022-11-30
+0001164256
+us-gaap:CommonStockMember
+2021-03-01
+2022-02-28
+0001164256
+us-gaap:ShareBasedPaymentArrangementNonemployeeMember
+2019-03-01
+2020-02-29
+0001164256
+dbrm:TaxCutsAndJobsActMember
+2018-03-01
+2019-02-28
+0001164256
+dbrm:TaxCutsAndJobsActMember
+2019-03-01
+2020-02-28
+0001164256
+dbrm:TaxCutsAndJobsActMember
+us-gaap:TaxYear2018Member
+2022-11-30
+0001164256
+dbrm:TaxCutsAndJobsActMember
+us-gaap:TaxYear2020Member
+2022-11-30
+0001164256
+dbrm:TaxCutsAndJobsActMember
+us-gaap:TaxYear2021Member
+2022-11-30
+0001164256
+dbrm:TaxCutsAndJobsActMember
+us-gaap:TaxYear2022Member
+2022-11-30
+0001164256
+dbrm:TaxCutsAndJobsActMember
+2022-11-30
+0001164256
+2021-03-01
+2022-02-28
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+dbrm:Number
+utr:sqft
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+x
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+November 30, 2022
+OR
+o
+TRANSITION
+REPORT PURSUANT TO SECTION 13 O R
+15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+F or the
+transition period fro m
+______________ to _______________
+Commission File Number:
+000-50107
+DAYBREAK OIL AND GAS, INC.
+(Exact name of registrant as specified in its charter)
+Washington
+91-0626366
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1414 S. Friendswood Dr. ,
+Suite 212 ,
+Friendswood ,
+TX
+77546
+(Address of principal executive offices)
+(Zip code)
+(281)
+996-4176
+(Registrant’s telephone number, including area
+code)
+(Former name, former address and former fiscal year,
+if changed since last report)
+Securities registered pursuant to Section 12(b)
+of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange
+on which registered
+n/a
+n/a
+n/a
+Indicate by check
+mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days.
+þ
+Yes
+¨
+No
+Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of
+this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes
+þ
+No
+¨
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See
+the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company,” and
+“emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+¨
+Accelerated filer
+¨
+Non-accelerated filer
+þ
+Smaller reporting company
+☑
+Emerging growth company   ¨
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Indicate by check
+mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+¨
+Yes
+þ
+No
+At
+January 17,
+2023
+the registrant had
+384,735,402
+outstanding shares of $0.001 par value common stock.
+1
+TABLE OF CONTENTS
+PART I - FINANCIAL INFORMATION
+ITEM 1.
+FINANCIAL STATEMENTS
+3
+Consolidated Balance Sheets at November 30, 2022 and February 28, 2022 (Unaudited)
+3
+Consolidated Statements of Operations for the Three and Nine Months Ended November 30, 2022 and November 30, 2021 (Unaudited)
+4
+Consolidated Statements of Changes in Stockholders’ Equity (Deficit) for the Three and Nine Months Ended November 30, 2022 and November 30, 2021 (Unaudited)
+5
+Consolidated Statements of Cash Flows for the Nine Months Ended November 30, 2022 and November 30, 2021 (Unaudited)
+6
+NOTES TO UNAUDITED FINANCIAL STATEMENTS
+7
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+16
+ITEM 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+30
+ITEM 4.
+CONTROLS AND PROCEDURES
+30
+PART II - OTHER INFORMATION
+ITEM 1.
+LEGAL PROCEEDINGS
+31
+ITEM 1A.
+RISK FACTORS
+31
+ITEM 6.
+EXHIBITS
+32
+Signatures
+33
+2
+PART I
+FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+DAYBREAK OIL AND GAS, INC.
+Balance Sheets – Unaudited
+As of
+November 30, 2022
+As of
+February 28, 2022
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents
+$ 403,498
+$ 139,573
+Restricted cash
+275,000
+—
+Accounts receivable:
+Crude oil sales
+178,679
+117,727
+Joint interest participants
+404,085
+85,339
+Prepaid expenses and other current assets
+138,322
+74,012
+Total current assets
+1,399,584
+416,651
+LONG-TERM ASSETS:
+Crude oil properties, successful efforts method, net
+Proved properties
+5,468,324
+536,032
+Unproved properties
+—
+—
+Prepaid drilling costs
+16,452
+16,452
+Property, plant and equipment, net
+4,204
+6,569
+Goodwill, crude oil and natural gas properties
+1,876,264
+—
+Total long-term assets
+7,365,244
+559,053
+Total assets
+$ 8,764,828
+$ 975,704
+LIABILITIES AND STOCKHOLDERS’ EQUITY (DEFICIT)
+CURRENT LIABILITIES:
+Accounts payable and other accrued liabilities
+$ 2,477,090
+$ 1,649,119
+Accounts payable – related parties
+22,164
+49,228
+Accrued interest
+173,928
+176,229
+Note payable
+120,000
+120,000
+Note payable – related party, current, net of unamortized discount of $ 729
+and $ 729 , respectively
+8,277
+8,100
+Convertible Notes payable – related party
+—
+200,000
+12% Notes payable
+290,000
+315,000
+Production revenue payable - current, net of unamortized discount
+162,991
+78,877
+Line of credit
+—
+808,182
+Total current liabilities
+3,254,450
+3,404,735
+LONG-TERM LIABILITIES:
+Note payable – related party, net of current portion and net of unamortized discount of $ 8,804
+and $ 9,350 , respectively
+121,130
+127,360
+Production revenue payable, net of unamortized discount and current portion
+702,489
+738,248
+Asset retirement obligation
+223,243
+52,565
+Total long-term liabilities
+1,046,862
+918,173
+Total liabilities
+4,301,312
+4,322,908
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS’ EQUITY (DEFICIT):
+Common stock –
+500,000,000
+shares authorized; $ 0.001
+par value,
+384,735,402
+and
+67,802,273
+shares issued and outstanding, respectively
+384,735
+67,802
+Additional paid-in capital
+35,297,706
+26,115,450
+Accumulated deficit
+( 31,218,925 )
+( 29,530,456 )
+Total stockholders’ equity and (deficit)
+4,463,516
+( 3,347,204 )
+Total liabilities and stockholders’ equity and (deficit)
+$ 8,764,828
+$ 975,704
+The accompanying notes are an integral part of these
+unaudited financial statements
+3
+DAYBREAK OIL AND GAS, INC.
+Statements of Operations – Unaudited
+For the Three Months Ended
+November 30,
+For the Nine Months Ended
+November 30,
+2022
+2021
+2022
+2021
+REVENUE:
+Crude oil sales
+$ 460,165
+$ 188,792
+$ 1,239,063
+$ 505,410
+Natural gas sales
+5,846
+—
+15,594
+—
+Total crude oil and natural gas sales
+$ 466,011
+$ 188,792
+$ 1,254,657
+$ 505,410
+OPERATING EXPENSES:
+Production
+383,251
+65,788
+742,450
+165,357
+Exploration and drilling (G&G)
+—
+34
+1,170
+235
+Depreciation, depletion, and amortization (DD&A)
+64,382
+15,196
+214,046
+44,004
+Transaction (acquisition) expenses
+60,613
+—
+1,086,154
+—
+General and administrative
+236,989
+161,164
+775,449
+447,952
+Total operating expenses
+745,235
+242,182
+2,819,269
+657,548
+OPERATING LOSS
+( 279,224 )
+( 53,390 )
+( 1,564,612 )
+( 152,138 )
+OTHER INCOME (EXPENSE):
+Gain on asset disposal
+—
+—
+—
+9,614
+Gain on SBA PPP loan forgiveness
+—
+72,800
+—
+72,800
+Interest expense, net
+14,719
+( 62,623 )
+( 123,857 )
+( 178,220 )
+NET LOSS
+( 264,505 )
+( 43,213 )
+( 1,688,469 )
+( 247,944 )
+Cumulative convertible preferred stock dividend requirement
+—
+( 31,841 )
+—
+( 96,223 )
+NET LOSS AVAILABLE TO COMMON SHAREHOLDERS
+$ ( 264,505 )
+$ ( 75,054 )
+$ ( 1,688,469 )
+$ ( 344,167 )
+NET LOSS PER COMMON SHARE, basic and diluted
+$ ( 0.001 )
+$ ( 0.001 )
+$ ( 0.006 )
+$ ( 0.006 )
+WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING - Basic and
+diluted
+384,735,402
+60,491,122
+287,558,715
+60,491,122
+The accompanying notes are an integral part of
+these unaudited financial statements
+4
+DAYBREAK OIL AND GAS, INC.
+Consolidated Statements of Changes in Stockholders'
+Equity (Deficit)
+For the Three
+and Nine Months Ended November 30, 2022 and 2021
+Series A Convertible
+Additional
+Preferred Stock
+Common Stock
+Paid-In
+Accumulated
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Total
+BALANCE, FEBRUARY 28,
+2022
+—
+$ —
+67,802,273
+$ 67,802
+$ 26,115,450
+$ ( 29,530,456 )
+$ ( 3,347,204 )
+Issuance of common stock for:
+Conversion of 12%
+Note principal and interest
+—
+—
+78,934
+79
+35,441
+—
+35,520
+Conversion of Convertible Note
+—
+—
+27,764,706
+27,765
+208,235
+—
+236,000
+Acquisition of oil and gas property
+—
+—
+160,964,489
+160,964
+6,438,580
+—
+6,599,544
+Sale of common stock
+—
+—
+128,125,000
+128,125
+2,500,000
+—
+2,628,125
+Net loss
+—
+—
+—
+—
+—
+( 1,173,487 )
+( 1,173,487 )
+BALANCE, MAY 31, 2022
+—
+$ —
+384,735,402
+$ 384,735
+$ 35,297,706
+$ ( 30,703,943 )
+$ 4,978,498
+Net loss
+—
+—
+—
+—
+—
+( 250,477 )
+( 250,477 )
+BALANCE, AUGUST 31, 2022
+—
+$ —
+384,735,402
+$ 384,735
+$ 35,297,706
+$ ( 30,954,420 )
+$ 4,728,021
+Net loss
+—
+—
+—
+—
+—
+( 264,505 )
+( 264,505 )
+BALANCE, NOVEMBER 30, 2022
+—
+$ —
+384,735,402
+$ 384,735
+$ 35,297,706
+$ ( 31,218,925 )
+$ 4,463,516
+Series A Convertible
+Additional
+Preferred Stock
+Common Stock
+Paid-In
+Accumulated
+Shares
+Amount
+Shares
+Amount
+Capital
+Deficit
+Total
+BALANCE, FEBRUARY 28,
+2021
+709,568
+$ 710
+60,491,122
+$ 60,491
+$ 24,250,556
+$ ( 29,428,897 )
+$ ( 5,117,140 )
+Recognition of warrants issued for:
+Investor relations services
+—
+—
+—
+—
+1,474
+—
+1,474
+Net loss
+—
+—
+—
+—
+—
+( 132,651 )
+( 132,651 )
+BALANCE, MAY 31, 2021
+709,568
+$ 710
+60,491,122
+$ 60,491
+$ 24,252,030
+$ ( 29,561,548 )
+$ ( 5,248,317 )
+Recognition of warrants issued for:
+Investor relations services
+—
+—
+—
+—
+1,474
+—
+1,474
+Net loss
+—
+—
+—
+—
+—
+( 72,080 )
+( 72,080 )
+BALANCE, AUGUST 31, 2021
+709,568
+$ 710
+60,491,122
+$ 60,491
+$ 24,253,504
+$ ( 29,633,628 )
+$ ( 5,318,923 )
+Recognition of warrants issued for:
+Investor relations services
+—
+—
+—
+—
+1,474
+—
+1,474
+Net loss
+—
+—
+—
+—
+—
+( 43,213 )
+( 43,213 )
+BALANCE, NOVEMBER 30, 2021
+709,568
+$ 710
+60,491,122
+$ 60,491
+$ 24,254,978
+$ ( 29,676,841 )
+$ ( 5,360,662 )
+The accompanying notes are an integral part of these
+unaudited financial statements
+Common
+Stock
+Additional
+Paid-In Capital
+Accumulated
+Deficit
+5
+DAYBREAK OIL AND GAS, INC.
+Statements of Cash Flows – Unaudited
+Nine Months Ended
+November 30, 2022
+November 30, 2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss
+$ ( 1,688,469 )
+$ ( 247,944 )
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities:
+Depreciation, depletion, amortization and impairment expense
+214,046
+44,004
+Amortization of debt discount
+48,900
+87,554
+Financing fee expense
+512,500
+—
+Warrant issued for investor relations services
+—
+4,422
+Gain on forgiveness of PPP 2 nd
+Draw loan
+—
+( 72,800 )
+Changes in assets and liabilities:
+Accounts receivable – crude oil sales
+( 60,952 )
+( 2,789 )
+Accounts receivable – joint interest participants
+( 318,746 )
+2,166
+Prepaid expenses and other current assets
+( 64,310 )
+45,968
+Accounts payable and other accrued liabilities
+786,976
+120,577
+Accounts payable – related parties
+( 27,064 )
+( 7,332 )
+Accrued interest
+( 2,301 )
+58,158
+Net cash (used in) provided by
+operating activities
+( 599,420 )
+31,984
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Additions to crude oil properties
+—
+( 5,213 )
+Purchase of fixed assets
+—
+( 9,460 )
+Net cash used in investing activities
+—
+( 14,673 )
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from paycheck protection program (PPP) loan
+—
+72,800
+Payments to line of credit
+( 808,182 )
+( 45,000 )
+Proceeds from sale of common stock
+1,987,500
+—
+Insurance financing repayments
+( 34,375 )
+( 54,820 )
+Payments on note payable – related party
+( 6,598 )
+( 6,427 )
+Net cash provided by (used in) financing
+activities
+1,138,345
+( 33,447 )
+NET INCREASE (DECREASE) IN CASH AND RESTRICTED CASH
+538,925
+( 16,136 )
+CASH AND RESTRICTED CASH AT BEGINNING OF PERIOD
+139,573
+33,528
+CASH AND RESTRICTED CASH AT END OF PERIOD
+$ 678,498
+$ 17,392
+CASH PAID FOR:
+Interest
+$
+23,891
+$
+10,145
+Income taxes
+$
+—
+$
+—
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Unpaid additions to crude oil and natural gas properties
+$
+$
+Non-cash increase to line of credit due to monthly interest
+$
+—
+$
+20,679
+Financing of insurance premiums
+$
+—
+$
+81,154
+Common stock issued for conversion of 12% Subordinated Note
+$
+35,520
+$
+—
+Common stock issued for conversion of convertible Note
+$
+236,000
+$
+—
+Common stock issued for acquisition of crude oil and natural gas property
+$
+6,599,544
+$
+—
+Common stock issued for financing fees
+$
+128,125
+$
+—
+Goodwill from acquisition of O&G properties
+$
+1,876,264
+$
+—
+ARO asset and liability increase due to acquisition of O&G properties
+$
+154,133
+$
+—
+The accompanying notes are an integral part of these
+unaudited financial statements
+6
+DAYBREAK OIL AND GAS, INC.
+NOTES TO UNAUDITED FINANCIAL STATEMENTS
+NOTE 1 —
+ORGANIZATION AND BASIS OF PRESENTATION :
+Organization
+Originally incorporated as Daybreak Uranium, Inc.,
+(“Daybreak Uranium”) on March 11, 1955, under the laws of the State of Washington, Daybreak Uranium was organized to explore
+for, acquire, and develop mineral properties in the Western United States. In August 1955, the assets of Morning Sun Uranium, Inc. were
+acquired by Daybreak Uranium. In May 1964, Daybreak Uranium changed its name to Daybreak Mines, Inc. During 2005, management of the Company
+decided to enter the crude oil and natural gas exploration, development and production industry. On October 25, 2005, the Company shareholders
+approved a name change from Daybreak Mines, Inc. to Daybreak Oil and Gas, Inc. (referred to herein as “Daybreak” or the “Company”)
+to better reflect the business of the Company.
+All of the Company’s crude oil production is
+sold under contracts which are market-sensitive. Accordingly, the Company’s financial condition, results of operations, and capital
+resources are highly dependent upon prevailing market prices of, and demand for, crude oil. These commodity prices are subject to wide
+fluctuations and market uncertainties due to a variety of factors that are beyond the control of the Company. These factors may include
+the level of global demand for petroleum (hydrocarbon) products; foreign supply of crude oil and natural gas; the establishment of and
+compliance with production quotas by crude oil-exporting countries; the relative strength of the U.S. dollar; weather conditions; the
+price and availability of alternative fuels; overall economic conditions, both foreign and domestic; crude oil price disputes between
+OPEC and non-OPEC members; and national and international pandemics like the coronavirus outbreak.
+Basis of Presentation
+The accompanying unaudited interim financial statements
+and notes for the Company have been prepared in accordance with accounting principles generally accepted in the United States of America
+for interim financial information and with the instructions to Form 10-Q for quarterly reports under Section 13 or 15(d) of the Securities
+Exchange Act of 1934 (the “Exchange Act”). Accordingly, they do not include all of the information and footnote disclosures
+normally required by accounting principles generally accepted in the United States of America for complete financial statements.
+In the opinion of management, all adjustments considered
+necessary for a fair presentation of the financial statements have been included and such adjustments are of a normal recurring nature.
+Operating results for the nine months ended November 30, 2022 are not necessarily indicative of the results that may be expected for the
+fiscal year ending February 28, 2023.
+These financial statements should be read in conjunction
+with the audited financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the fiscal year
+ended February 28, 2022.
+Use of Estimates
+In preparing financial statements
+in conformity with accounting principles generally accepted in the United States of America, management is required to make estimates
+and assumptions. These estimates and assumptions may affect the reported amounts of assets and liabilities and the disclosure of contingent
+assets and liabilities at the date of the financial statements, and revenues and expenses during the reporting period. Actual results
+could differ materially from those estimates. The accounting policies most affected by management’s estimates and assumptions are
+as follows:
+· The reliance on estimates of
+proved reserves to compute the provision for depreciation, depletion and amortization (“DD&A”) and to determine the amount
+of any impairment of proved properties;
+· The valuation of unproved acreage
+and proved crude oil properties to determine the amount of any impairment of crude oil properties;
+· Judgment regarding the productive
+status of in-progress exploratory wells to determine the amount of any provision for abandonment; and
+· Estimates regarding abandonment
+obligations; and
+· Estimates regarding projected
+cash flows used in determining the production payable discount.
+7
+Earnings per Share
+The Company follows ASC Topic 260,
+Earnings per
+Share , to account for the earnings per share. Basic earnings per common share (“EPS”) calculations are determined by dividing
+net income (loss) by the weighted average number of shares of common stock outstanding during the period. Diluted earnings per common
+share calculations are determined by dividing net income (loss) by the weighted average number of common shares and dilutive common share
+equivalents outstanding. During periods when common stock equivalents, if any, are anti-dilutive they are not considered in the computation.
+NOTE 2 —
+GOING CONCERN :
+Financial Condition
+The Company’s financial statements for the nine
+months ended November 30, 2022 have been prepared on a going concern basis, which contemplates the realization of assets and the settlement
+of liabilities in the normal course of business. The Company has incurred net operating losses since entering the crude oil exploration
+industry and as of November 30, 2022 has an accumulated deficit of $ 31.2
+million and a working capital deficit of $ 1.85
+million which
+raises substantial doubt about the Company’s ability to continue as a going concern.
+Management Plans to Continue as a Going Concern
+The Company continues to implement plans to enhance
+its ability to continue as a going concern. Daybreak currently has a net revenue interest (“NRI”) in
+20
+producing crude oil
+wells in its East Slopes Project located in Kern County, California (the “East Slopes Project”). The revenue from these wells
+has created a steady and reliable source of income for the Company. The Company’s average working interest (“WI”) in
+these wells is
+36.6 % and the average net revenue interest (“NRI”) is
+27.6 % for these same wells.
+Revenue
+In May 2022, the Company acquired Reabold California,
+LLC (“Reabold”) from a third party. This property currently includes
+four
+producing wells,
+five
+shut-in wells, and
+two
+potential
+disposal wells in the Monterey and Contra Costa counties of California. We have a
+50 % working interest with a
+40 % net revenue interest
+in this project.
+In conjunction with our acquisition of Reabold, the
+Company was able to secure a capital raise of $ 2,500,000
+through the issuances of the Company’s common stock.
+The Company anticipates its revenue will continue
+to increase as the Company participates in the drilling of more wells in the East Slopes and the Reabold Projects in California. Daybreak’s
+sources of funds in the past have included the debt or equity markets and the sale of assets. It will be necessary for the Company to
+obtain additional funding from the private or public debt or equity markets in the future. However, the Company cannot offer any assurance
+that it will be successful in executing the aforementioned plans to continue as a going concern.
+Daybreak’s financial statements as of November
+30, 2022 do not include any adjustments that might result from the inability to implement or execute the Company’s plans to improve
+its ability to continue as a going concern.
+NOTE
+3
+—
+CONCENTRATION RISK :
+Substantially all of the Company’s trade accounts
+receivable consists of receivables from two sources: (1) the sale of crude oil and natural gas production from operations by the Company
+and (2) from receivables from the Company’s working interest partners in the East Slopes project where we are the Operator or from
+the Reabold project where we have one working interest partner. This concentration of customers and joint interest owners may impact the
+Company’s overall credit risk, as these entities could be affected by similar changes in economic conditions including lower crude
+oil prices as well as other related factors. Trade accounts receivable are generally not collateralized.
+Customer Concentration
+At the Company’s East Slopes and Reabold projects
+in California, there is only one buyer for the purchase of crude oil production and one buyer for the natural gas production in the Reabold
+project. The Company has no natural gas production in the East Slopes project. At November 30, 2022 and February 28, 2022 these customers
+represented
+100.0 % of crude oil and natural gas sales receivable. If these buyers are unable to resell their products or if they lose
+a significant sales contract, the Company may incur difficulties in selling its crude oil and natural gas production.
+8
+Crude oil and natural gas sales receivables balances
+of $ 178,679
+and $ 117,727
+at November 30, 2022 and February 28, 2022, represent crude oil and natural gas sales that occurred in November
+and February 2022, respectively.
+Joint interest participant receivables balances of
+$ 404,085
+and $ 85,339
+at November 30, 2022 and February 28, 2022, respectively, represent amounts due from our working interest partners
+in both the East Slopes and Reabold projects. There were no allowances for doubtful accounts for the Company’s trade accounts receivable
+at November 30, 2022 and February 28, 2022, as the joint interest owners have a history of paying their obligations.
+NOTE 4 —
+CRUDE OIL PROPERTIES :
+Crude oil property balances at November 30, 2022 and
+February 28, 2022 are set forth in the table below.
+Crude
+Oil Properties - Schedule of Crude Oil Activities
+November 30, 2022
+February 28, 2022
+Proved leasehold costs
+$ 115,119
+$ 115,119
+Costs of wells and development
+7,437,055
+2,309,628
+Capitalized exploratory well costs
+1,341,494
+1,341,494
+Cost of proved crude oil properties
+8,784,086
+3,766,241
+Accumulated depletion, depreciation, amortization and impairment
+( 3,425,344 )
+( 3,230,209 )
+Proved crude oil properties, net
+$ 5,468,324
+$ 536,032
+Unproved crude oil properties
+—
+—
+Total proved and unproved crude oil properties, net
+$ 5,468,324
+$ 536,032
+On May 25, 2022, the Company finalized the acquisition
+of Reabold California, LLC (“Reabold”). This property includes producing wells in both the Monterey and Contra Costa counties
+of California. This project includes
+four
+producing wells,
+five
+shut-in wells and the potential for
+two
+disposal wells. The Company has
+a
+50 % working interest with a
+40 % net revenue interest in this project. The balances above include the Reabold acquisition.
+NOTE 5 –
+ACQUISITION :
+On May 25, 2022, the Company finalized the acquisition
+of Reabold from a third party for
+160,964,489
+shares of the Company’s common stock valued at $ 6,599,544 . The transaction balance
+of $ 6,863,163
+reflects the common stock valuation of the acquisition transaction and $ 263,619
+in reimbursements to the seller as a purchase
+price adjustment relating to expenditures for workovers agreed to by the Company and the third party. The following table presents the
+estimated allocation of the purchase price of the assets acquired and liabilities assumed for the acquisition.
+Crude oil and natural gas property and equipment
+$ 4,694,563
+Goodwill
+1,876,264
+Accounts payable
+( 263,619 )
+Other liabilities
+292,336
+Purchase price, net of closing adjustments
+$ 6,599,544
+This preliminary allocation is based on
+management’s estimated fair value of the Reabold assets and liabilities at May 25, 2022, and is subject to adjustment when a
+third party valuation to determine the fair value of the assets for ASC 805, Business Combinations reporting purposes is received.
+Adjustments made to the Reabold assets are derived from a total value of $ 6,599,544 ,
+based on
+160,964,489
+shares of stock issued for the acquisition and the closing price that day of $ 0.041
+per share. From the $ 6,599,544
+amount, total assets acquired of $ 4,694,563
+was deducted, and liabilities acquired of $ 263,619,
+and liabilities paid of $ 292,336
+were added back to arrive at the $ 1,876,264
+amount of Goodwill recorded at November 30, 2022. The Company incurred approximately $ 445,529
+in transaction costs directly related to the Acquisition.
+NOTE 6 —
+ACCOUNTS PAYABLE :
+On March 1, 2009, the Company became the operator
+for its East Slopes Project located in Kern County, California. Additionally, the Company then assumed certain original defaulting partners’
+approximate $ 1.5
+million liability
+representing a 25% working interest in the drilling and completion costs associated with the East Slopes
+Project four earning well program. The Company subsequently sold the same 25% working interest on June 11, 2009 .
+9
+Of
+the $ 1.5
+million liability, $ 244,849
+remains unpaid and is included in both the November 30, 2022 and February 28, 2022 accounts payable
+balances. Payment of this liability has been delayed until the Company’s cash flow situation improves. On October 17, 2018, a working
+interest partner in California filed a UCC financing statement in regards to payables owed to the partner by the Company. At November
+30, 2022 and February 28, 2022, the balance owed this working interest partner was $ 65,381
+and $ 76,268 , respectively, and is included
+in the approximate $ 2.5
+million and
+1.65
+million accounts payable balance at November 30, 2022 and February 28, 2022, respectively.
+NOTE 7
+—
+ACCOUNTS PAYABLE-
+RELATED PARTIES :
+The November 30, 2022 and February 28, 2022 accounts
+payable – related party balances of approximately $ 22,164
+and $ 49,228
+respectively, were comprised primarily of expense reimbursements
+to employees.
+In California at the East Slopes Project, two of the
+vendors that the Company uses for services are partially owned by a related party, the Company’s Chief Operating Officer. The Company’s
+Chief Operating Officer is 50% owner in both Great Earth Power and ABPlus Net Holdings. Great Earth Power began providing a portion of
+the solar power electrical service for production operations in July 2020. ABPlus Net Holdings began providing portable tank rentals to
+the Company as a part of its water treatment and disposal operations in September 2020. The services provided by Great Earth Power and
+ABPlus Net Holdings are competitive with other vendors and save the Company significant expense. For the nine months ended November 30,
+2022 and 2021, Great Earth Power was paid $ 13,300
+and $ 20,038 , respectively. For the nine months ended November 30, 2022 and 2021, ABPlus
+Net holdings was paid $ 8,640
+and $ 10,560 , respectively.
+NOTE 8 —
+SHORT-TERM AND LONG-TERM BORROWINGS :
+Note Payable
+In December 2018, the Company was able to settle
+an outstanding balance owed to one of its third-party vendors. This settlement resulted in a $ 120,000
+note payable being issued to the vendor. Additionally, the Company agreed to issue
+2,000,000
+shares of the Company’s common stock as a part of the settlement agreement. Based on the closing price of the Company’s
+common stock on the date of the settlement agreement, the value of the common stock transaction was determined to be $ 6,000 .
+The common stock shares were issued during the twelve months ended February 29, 2020. The note had a maturity date of
+January
+1, 2022
+and bears an interest rate of
+10 %
+rate per annum. The note principal has not been paid and the Company is considered to be in default. There is no default interest
+rate associated with the note. Interest is accrued monthly and is payable on January 1 st
+of each anniversary date of the
+note. At November 30, 2022, the principal and a portion of the accrued interest had not been paid and was outstanding. The accrued
+interest on the Note was $ 23,000
+and $ 38,000
+at November 30, 2022 and February 28, 2022, respectively.
+Note Payable – Related Party
+Secured Debt
+Chief Executive Officer
+On December 22, 2020, the Company entered into a Secured
+Promissory Note (the “ Note ”), as borrower, with James Forrest Westmoreland and Angela Marie Westmoreland, Co-Trustees
+of the James and Angela Westmoreland Revocable Trust, or its assigns (the “ Noteholder ”), as the lender. James F. Westmoreland
+is the Company’s Chairman, President and Chief Executive Officer. Pursuant to the Note, the Noteholder loaned the Company an aggregate
+principal amount of $ 155,548 . After the deduction of loan fees of $ 10,929
+the net proceeds from the loan were $ 144,619 . The loan fees
+are being amortized as original issue discount (OID) over the term of the loan. The interest rate of the loan is
+2.25 %. The Note requires
+monthly payments on the Note balance until repaid in full. The maturity date of the Note is
+December 21, 2035 . For the nine months ended
+November 30, 2022, the Company made principal payments of $ 6,598
+and amortized debt discount of $ 546 . The obligations under the Note are
+secured by a lien on and security interest in the Company’s crude oil assets located in Kern County, California, as described in
+a Deed of Trust entered into by the Company in favor of the Noteholder to secure the obligations under the Note. Such lien shall be a
+first priority lien, subject only to a pre-existing lien filed by a working interest partner of the Company.
+The Company may prepay the Note at any time. Upon
+the occurrence of any Event of Default and expiration of any applicable cure period, and at any time thereafter during the continuance
+of such Event of Default, the Noteholder may at its option, by written notice to the Company: (a) declare the entire principal amount
+of the Note, together with all accrued interest thereon and all other amounts payable hereunder, immediately due and payable; (b) exercise
+any of its remedies with respect to the collateral set forth in the Deed of Trust; and/or (c) exercise any or all of its other rights,
+powers or remedies under applicable law.
+10
+Current portion of note payable – related party
+balances at November 30, 2022 and February 28, 2022 are set forth in the table below:
+Short-Term and Long-Term Borrowings - Schedule
+of Related Party Notes Payable
+November 30, 2022
+February 28, 2022
+Note payable – related party, current portion
+$ 9,006
+$ 8,829
+Unamortized debt issuance expenses
+( 729 )
+( 729 )
+Note payable – related party, current portion, net
+$ 8,277
+$ 8,100
+Note payable – related party long-term balances
+at November 30, 2022 and February 28, 2022 are set forth in the table below:
+November 30, 2022
+February 28, 2022
+Note payable – related party, non-current
+$ 129,934
+$ 136,710
+Unamortized debt issuance expenses
+( 8,804 )
+( 9,350 )
+Note payable – related party, non-current, net
+$ 121,130
+$ 127,360
+Future estimated payments on the outstanding note
+payable – related party are set forth in the table below:
+Short-Term and Long-Term Borrowings - Schedule of Future Estimated Payments
+Twelve month periods ending November 30
+2023
+$ 9,006
+2024
+9,247
+2025
+9,495
+2026
+9,750
+2027
+10,011
+Thereafter
+91,431
+Total
+$ 138,940
+Short-term Convertible Note Payable
+Convertible Debt
+During the twelve months ended February 28, 2022,
+the Company executed a convertible promissory note with a third party for $ 200,000 . The interest rate was
+18 % per annum and is payable
+in kind (PIK) solely by additional shares of the Company’s common stock. Regardless of when the conversion occurred, a full 12 months
+of interest would be payable upon conversion. On May 5, 2022, the Company received notice of conversion of the promissory note. The face
+amount of the note and $ 36,000
+in interest were converted at a rate of $ 0.0085
+per share into
+27,764,706
+shares of the Company’s
+common stock during the nine months ended November 30, 2022.
+12% Subordinated Notes
+Private Placement
+Subordinated Debt
+The Company’s 12% Subordinated Notes (“the
+Notes”) issued pursuant to a January 2010 private placement offering to accredited investors, resulted in $ 595,000
+in gross proceeds
+(of which $ 250,000
+was from a related party) to the Company and accrue interest at
+12 % per annum, payable semi-annually on January 29th
+and July 29th.
+On January 29, 2015, the Company and 12 of the 13 holders of the Notes agreed to extend the maturity date of the Notes
+for an additional two years to January 29, 2017. Effective January 29, 2017, the maturity date of the Notes and the expiration date of
+the warrants that were issued in conjunction with the Notes were extended for an additional two years to January 29, 2019.
+As a result of the Company restructuring its balance
+sheet through conversions of related party debt to common stock, the related party 12% Noteholder, James F. Westmoreland, the Company’s
+President and Chief Executive Officer, chose to convert the principal and accrued interest of their Notes to the Company’s common
+stock. The related party Note for $ 250,000
+and accrued interest of $ 264,986
+were converted to common stock at a rate of approximately
+$ 0.45
+for every dollar of principal and interest resulting in
+1,144,415
+shares of common stock being issued.
+During the nine months ended November 30, 2022, one
+12% Note holder chose to convert the principal balance and accrued interest in to the Company’s common stock. The $ 25,000
+Note and
+accrued interest of $ 10,520
+were converted at a rate of approximately $ 0.45
+for every dollar of principal and interest resulting in
+78,934
+shares of common stock being issued.
+11
+The Company has informed the Note holders that the
+payment of principal and final interest will be late and is subject to future financing being completed and the Company’s cash flow.
+The Notes principal of $ 290,000
+has not been paid. The terms of the Notes, state that should the Board of Directors decide that the payment
+of the principal and any unpaid interest would impair the financial condition or operations of the Company, the Company may then elect
+a mandatory conversion of the unpaid principal and interest into the Company’s common stock at a conversion rate equal to 75% of
+the average closing price of the Company’s common stock over the 20 consecutive trading days preceding December 31, 2018. The accrued
+interest on the 12% Notes at November 30, 2022 and February 28, 2022 was $ 150,927
+and $ 135,229 , respectively.
+12% Note balances at November 30, 2022 and February
+28, 2022 are set forth in the table below:
+Short-Term and Long-Term Borrowings - Schedule
+of Subordinated Notes
+12% Subordinated Notes
+Related Party Notes
+November 30, 2022
+February 28, 2022
+12% Subordinated Notes
+$ 290,000
+$ 315,000
+12% Subordinated Notes – related party
+—
+—
+Total 12% Subordinated Note balance
+$ 290,000
+$ 315,000
+Line of Credit
+Line of Credit
+The Company had an existing $ 890,000
+line of credit
+for working capital purposes with UBS Bank USA (“UBS”), established pursuant to a Credit Line Agreement dated October 24,
+2011 that was secured by the personal guarantee of its Chairman, President and Chief Executive Officer. On May 26, 2022, the Company paid
+off the outstanding balance of $ 809,930
+on the line of credit. The payoff of the line of credit was previously approved under terms of
+the Equity Exchange Agreement in which the Company acquired the Reabold property in California. The payoff was a part of the use of proceeds
+from the Company’s sale of common stock to a third party.
+Production Revenue Payable
+Beginning in December 2018, the Company conducted
+a fundraising program to fund the drilling of future wells in California and Michigan and to settle some of its historical debt. The purchaser(s)
+of a production revenue payment interest received a production revenue payment on future wells to be drilled in California and Michigan
+in exchange for their purchase.
+The production payment interest entitles the purchasers to receive production payments equal to twice
+their original amount paid, payable from a percentage of the Company’s future net production payments from wells drilled after the
+date of the purchase and until the Production Payment Target (as described below) is met.  The Company shall pay fifty percent of
+its net production payments from the relevant wells to the purchasers until each purchaser has received two times the purchase price (the
+“Production Payment Target”). Once the Company pays the purchasers amounts equal to the Production Payment Target, it shall
+thereafter pay a pro-rated eight percent (8%) of $1.3 million on its net production payments from the relevant wells to each of the purchasers.
+However, if the total raised is less than the target $1.3 million, then the payment will be a proportionate amount of the eight percent
+(8%). Additionally, if the Production Payment Target is not met within the first three years, the Company shall pay seventy-five percent
+of its production payments from the relevant wells to the purchasers until the Production Payment Target is met.
+The Company accounted for the amounts received from
+these sales in accordance with ASC 470-10-25 and 470-10-35 which require amounts recorded as debt to be amortized under the interest method
+as described in ASC 835-30, Interest Method. Consequently, the net program balance of $ 865,480
+has been recognized as a production revenue
+payable. The Company determined an effective interest rate based on future expected cash flows to be paid to the holders of the production
+payment interests. This rate represents the discount rate that equates estimated cash flows with the initial proceeds received from the
+sales and is used to compute the amount of interest to be recognized each period. Estimating the future cash outflows under this agreement
+requires the Company to make certain estimates and assumptions about future revenues and payments and such estimates are subject to significant
+variability. Therefore, the estimates are likely to change which may result in future adjustments to the accretion of the interest expense
+and the amortized cost based carrying value of the related payables.
+Accordingly, the Company has estimated the cash flows
+associated with the production revenue payments of $ 951,417
+and determined a discount of $ 85,937
+as of November 30, 2022, which is being
+accounted as interest expense over the estimated period over which payments will be made based on expected future revenue streams. For
+the nine months ended November 30, 2022 and 2021, amortization of the debt discount on these payables amounted to $ 50,063
+and $ 87,008 ,
+respectively, which has been included in interest expense in the statements of operations.
+12
+Production revenue payable balances at November 30,
+2022 and February 28, 2022 are set forth in the table below:
+Short-Term and Long-Term Borrowings - Schedule
+of Production Revenue Payable Balances
+November 30, 2022
+February 28, 2022
+Estimated payments of production revenue payable
+$ 951,417
+$ 941,259
+Less: unamortized discount
+( 85,937 )
+( 124,134 )
+865,480
+817,125
+Less: current portion
+( 162,991 )
+( 78,877 )
+Net production revenue payable – long-term
+$ 702,489
+$ 738,248
+Encumbrances
+On October 17, 2018, a working interest partner in
+California filed a UCC financing statement in regards to payable amounts owed to the partner by the Company.
+NOTE 9 —
+LEASES :
+The Company leases approximately
+988
+rentable square
+feet of office space from an unaffiliated third party for our former corporate office located in Spokane Valley, Washington. Additionally,
+we lease approximately
+416
+and
+695
+rentable square feet from unaffiliated third parties for our regional operations office in Friendswood,
+Texas and storage and auxiliary office space in Wallace, Idaho, respectively. The lease in Friendswood is a
+12 -month lease that expires
+on
+October 31, 2023
+and as such is considered a short-term lease. The Company has elected to not apply the recognition requirements of
+ASC 842 to this short-term lease. The Spokane Valley and Wallace leases are currently on a month-to-month basis. The Company’s lease
+agreements do not contain any residual value guarantees, restrictive covenants or variable lease payments. The Company has not entered
+into any financing leases.
+Rent expense for the nine months ended November 30,
+2022 and 2021 was $ 17,867
+and $ 17,542 , respectively.
+NOTE 10 —
+STOCKHOLDERS’ EQUITY (DEFICIT) :
+Preferred Stock
+With the filing of the Company’s Second Amended
+and Restated Articles of Incorporation with the Washington Secretary of State in May 2022, the Company no longer has any preferred shares.
+The Company has only one class of stock, common stock.
+Common Stock
+The Company is authorized to issue up to
+500,000,000
+shares of $ 0.001
+par value common stock of which
+384,735,402
+and
+67,802,273
+shares were issued and outstanding as of November 30, 2022
+and February 28, 2022, respectively.
+Common Stock
+Balance
+Par Value
+Common stock, Issued and Outstanding, February 28, 2021
+60,491,122
+Shares issued for Series A Preferred conversion
+2,128,704
+$ 2,129
+Shares issued for Series A accumulated dividend
+1,100,000
+$ 1,100
+Shares issued for debt conversion of accrued salaries
+1,397,880
+$ 1,398
+Shares issued for debt conversion of accrued directors fees
+317,708
+$ 318
+Shares issued for conversion of 12% Note principal and interest – related party
+1,144,415
+$ 1,144
+Shares issued for investment principal in production revenue program
+1,222,444
+$ 1,222
+Common stock, Issued and Outstanding, February 28, 2022
+67,802,273
+Shares issued for conversion of 12% Note principal and interest
+78,934
+$ 79
+Shares issued for conversion of convertible note
+27,764,706
+$ 27,765
+Shares issued for acquisition of crude oil and natural gas properties
+160,964,489
+$ 160,964
+Shares issued from sale of stock
+128,125,000
+$ 128,125
+Common stock, Issued and Outstanding, November 30, 2022
+384,735,402
+13
+During the nine months ended November 30, 2022, there
+were
+316,933,129
+shares of common stock issued in aggregate. There were
+78,934
+shares issued to a third party on conversion of a $ 25,000
+12% Subordinated Note and $ 10,520
+in accumulated interest. There were
+27,764,706
+shares issued on conversion of a $ 200,000
+convertible
+note and $ 36,000
+in accumulated interest. There were
+160,964,489
+shares issued for the acquisition of the Reabold California, LLC crude
+oil and natural gas properties. There were
+128,125,000
+shares issued through the sale of common stock to a third party that became a related
+party through the sale.
+NOTE 11 —
+WARRANTS :
+Share Based Payment Arrangement -
+Non-Employee
+During the twelve months ended February 29, 2020 there
+were
+2.1
+million warrants issued to a third party for investor relations services. The fair value of the warrants was determined by the
+Black-Scholes pricing model, was $ 17,689 , and is being amortized over the
+3
+year vesting period of the warrants. The Black-Scholes valuation
+encompassed the following assumptions: a risk free interest rate of
+1.68 %; volatility rate of
+260.23 %; and a dividend yield of
+0.0 %.
+The warrants contains a vesting blocking provision
+that prevents the vesting of any warrants that such vesting would cause the warrant holder’s beneficial ownership (as such term
+is defined in Section 13d-3 of the Securities Exchange Act of 1934, as amended) to exceed more than four and ninety-nine one-hundredths
+percent (4.99%) of the Company’s outstanding Common Stock. The foregoing restriction may not be waived by either party. The warrants
+vested in equal parts over a three year period beginning on January 2, 2020 and were fully vested at January 2, 2022. The warrants expire
+on January 2, 2024.
+As of November 30, 2022, there were
+2,100,000
+exercisable
+warrants. At November 30, 2022, both the outstanding warrants and the exercisable warrants have a weighted average exercise price of $ 0.01 ,
+a weighted average remaining life of
+1.08
+years. Both the outstanding warrants and the exercisable warrants have an intrinsic value of
+$ 65,520 . For the nine months ended November 30, 2022 and 2021, the recorded amount of warrant expense was $- 0 - and $ 4,422 , respectively.
+Warrant activity for the nine months ended November
+30, 2022 is set forth in the table below:
+Warrants - Schedule of Warrant Activity
+Warrants
+Weighted Average
+Exercise Price
+Warrants outstanding, February 28, 2022
+2,100,000
+$ 0.01
+Changes during the nine months ended November 30, 2022:
+Issued
+—
+$ —
+Expired / cancelled / forfeited
+—
+$ —
+Warrants outstanding, November 30, 2022
+2,100,000
+$ 0.01
+Warrants exercisable, November 30, 2022
+2,100,000
+$ 0.01
+NOTE 12
+—
+INCOME TAXES :
+On December 22, 2017, the federal government enacted
+a tax bill H.R.1, an act to provide for reconciliation pursuant to Titles II and V of the concurrent resolution on the budget for fiscal
+year 2018, commonly referred to as the Tax Cuts and Jobs Act. The Tax Cuts and Jobs Act contains significant changes to corporate taxation,
+including, but not limited to, reducing the U.S. federal corporate income tax rate from
+35 % to
+21 % and modifying or limiting many business
+deductions. The Company has re-measured its deferred tax liabilities based on rates at which they are expected to be utilized in the future,
+which is generally 21%.
+Reconciliation between actual tax expense (benefit)
+and income taxes computed by applying the U.S. federal income tax rate and state income tax rates to income from continuing operations
+before income taxes is set forth in the table below:
+Income Taxes - Schedule of Reconciliation Between Actual Tax Expense Benefit and Income Taxes Computed by Applying Income Tax Rate
+November 30, 2022
+February 28, 2022
+Computed at U.S. and state statutory rates
+$ ( 415,033 )
+$ ( 118,897 )
+Permanent differences
+19,527
+11,157
+Changes in valuation allowance
+395,506
+107,740
+Total
+$ —
+$ —
+14
+Tax effects of temporary differences that give rise
+to significant portions of the deferred tax assets and deferred liabilities are set forth in the table below:
+Income Taxes - Schedule of Deferred Tax
+Assets and Liabilities
+November 30, 2022
+February 28, 2022
+Deferred tax assets:
+Net operating loss carryforwards
+$ 6,097,746
+$ 5,670,900
+Crude oil properties
+56,354
+87,694
+Stock based compensation
+66,187
+66,187
+Other
+27,838
+27,838
+Less valuation allowance
+( 6,248,125 )
+( 5,852,619 )
+Total
+$ —
+$ —
+At November 30, 2022, the Company had estimated net
+operating loss (“NOL”) carryforwards for federal and state income tax purposes of
+approximately
+$ 20,434,807
+which
+will begin to expire, if unused, beginning in 2024. Under the Tax Cuts and Jobs Act, the NOL portion of the loss
+incurred in the year ended
+February 28, 2018 of $ 340,749 ; the loss incurred in the year ended February
+29, 2020 of $ 339,299 ; the loss incurred in the year ended February 28, 2021 of $ 416,898 ; the loss incurred in the year ended February
+28, 2022 of $ 279,773 ; and the loss incurred for the nine months ended November 30, 2022 in the amount of approximately $ 1,430,448
+will
+not expire and will carry over indefinitely. The valuation allowance increased approximately $ 395,506
+for the nine months ended November
+30, 2022 and increased approximately $ 107,740
+for the year ended February 28, 2022,
+respectively. Section 382 of the Internal Revenue
+Code places annual limitations on the Company’s net operating loss (NOL) carryforward.
+Tax Year 2018
+Tax Year 2020
+Tax Year 2021
+Tax Year 2022
+The above estimates are based on management’s
+decisions concerning elections which could change the relationship between net income and taxable income. Management decisions are made
+annually and could cause estimates to vary significantly. The Company files federal income tax returns with the United States Internal
+Revenue Service and state income tax returns in various state tax jurisdictions. As a general rule the Company’s tax returns for
+the fiscal years after 2016 currently remain subject to examinations by appropriate tax authorities. None of our tax returns are under
+examination at this time.
+NOTE 13 —
+COMMITMENTS AND CONTINGENCIES :
+Various lawsuits, claims and other contingencies arise
+in the ordinary course of the Company’s business activities. While the ultimate outcome of any future contingency is not determinable
+at this time, management believes that any liability or loss resulting therefrom will not materially affect the financial position, results
+of operations or cash flows of the Company.
+The Company, as an owner or lessee and operator of
+crude oil properties, is subject to various federal, state and local laws and regulations relating to discharge of materials into, and
+protection of, the environment. These laws and regulations may, among other things, impose liability on the lessee under a crude oil lease
+for the cost of pollution clean-up resulting from operations and subject the lessee to liability for pollution damages. In some instances,
+the Company may be directed to suspend or cease operations in the affected area. The Company maintains insurance coverage that is customary
+in the industry, although the Company is not fully insured against all environmental risks.
+Sunflower Lawsuit
+Sunflower Alliance v. California Department of Conservation,
+Geologic Energy Management Division.  This case challenges the state agency’s compliance with the California Environmental
+Quality Act (CEQA) with respect to the PAL Reabold 072-00-0001 Project, for wastewater injection into an existing well.  The Petition
+was filed on December 29, 2021 in the Alameda County Superior Court.  The Petitioner seeks an order setting aside the state agency’s
+approval of a wastewater injection permit; damages are not sought in the lawsuit.  On February 22, 2022, Real Party in Interest Reabold
+California, LLC filed a motion to transfer the case to the Contra Costa County Superior Court.  On March 22, 2022, the Alameda County
+Superior Court ordered the case transferred to the Contra Costa County Superior Court.  On August 15, 2022, the Contra Costa County
+Superior Court provided notice that the transfer had been completed and the case filed in that court.  If successful, the lawsuit
+would prevent Reabold from injecting wastewater into an existing well until any CEQA deficiencies are addressed.  The California
+Attorney General is defending the state agency, which disputes Petitioner’s claims.  On December 22, 2022, the Superior Court
+issued an order finding CEQA deficiencies, and directing the state agency to rescind its approval of the project. Reabold will appeal
+the Superior Court’s order. At this time, it is unclear when the litigation will be resolved.
+The Company is not aware of any environmental claims
+existing as of November 30, 2022. There can be no assurance, however, that current regulatory requirements will not change or that past
+non-compliance with environmental issues will not be discovered on the Company’s crude oil properties.
+15
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion is management’s assessment
+of the current and historical financial and operating results of the Company and of our financial condition. It is intended to provide
+information relevant to an understanding of our financial condition, changes in our financial condition and our results of operations
+and cash flows and should be read in conjunction with our unaudited financial statements and notes thereto included elsewhere in this
+Quarterly Report on Form 10-Q for the nine months ended November 30, 2022 and in our Annual Report on Form 10-K for the year ended February
+28, 2022. References to “Daybreak”, the “Company”, “we”, “us” or “our” mean
+Daybreak Oil and Gas, Inc.
+Cautionary Statement Regarding Forward-Looking
+Statements
+Certain statements contained in our Management’s
+Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) are intended to be covered by the safe
+harbor provided for under Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act.
+All statements other than statements of historical
+fact contained in this MD&A report are inherently uncertain and are forward-looking statements. Statements that relate to results
+or developments that we anticipate will or may occur in the future are not statements of historical fact. Words such as “anticipate,”
+“believe,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,”
+“predict,” “project,” “will” and similar expressions identify forward-looking statements. Examples
+of forward-looking statements include, without limitation, statements about the following:
+· Our future operating results;
+· Our future capital expenditures;
+· Our future financing;
+· Our expansion and growth of operations; and
+· Our future investments in and acquisitions of crude oil properties.
+We have based these forward-looking statements on
+assumptions and analyses made in light of our experience and our perception of historical trends, current conditions, and expected future
+developments. However, you should be aware that these forward-looking statements are only our predictions and we cannot guarantee any
+such outcomes. Future events and actual results may differ materially from the results set forth in or implied in the forward-looking
+statements. Important factors that could cause actual results to differ materially from our expectations include, but are not limited
+to, the following risks and uncertainties:
+· General economic and business conditions;
+· National and international pandemics such as the novel coronavirus COVID-19
+outbreak;
+· Exposure to market risks in our financial instruments;
+· Fluctuations in worldwide prices and demand for crude oil;
+· Our ability to find, acquire and develop crude oil properties;
+· Fluctuations in the levels of our crude oil exploration and development
+activities;
+· Risks associated with crude oil exploration and development activities;
+· Competition for raw materials and customers in the crude oil industry;
+· Technological changes and developments in the crude oil industry;
+· Legislative and regulatory uncertainties, including proposed changes to
+federal tax law and climate change legislation, regulation of hydraulic fracturing and potential environmental liabilities;
+· Our ability to continue as a going concern;
+· Our ability to secure financing under any commitments as well as additional
+capital to fund operations; and
+· Other factors discussed elsewhere in this Form 10-Q; in our other public
+filings and press releases; and discussions with Company management.
+Our reserve estimates are determined through a subjective
+process and are subject to revision.
+Should one or more of the risks or uncertainties described
+above or elsewhere in our Form 10-K for the year ended February 28, 2022 and in this Form 10-Q for the nine months ended November 30,
+2022 occur, or should any underlying assumptions prove incorrect, our actual results and plans could differ materially from those expressed
+in any forward-looking statements. We specifically undertake no obligation to publicly update or revise any information contained in any
+forward-looking statement or any forward-looking statement in its entirety, whether as a result of new information, future events, or
+otherwise, except as required by law.
+16
+All forward-looking statements attributable to us
+are expressly qualified in their entirety by this cautionary statement.
+Introduction and Overview
+We are an independent crude oil and natural gas exploration,
+development and production company. Our basic business model is to increase shareholder value by finding and developing crude oil and
+natural gas reserves through exploration and development activities, and selling the production from those reserves at a profit. To be
+successful, we must, over time, be able to find crude oil and natural gas reserves and then sell the resulting production at a price that
+is sufficient to cover our finding costs, operating expenses, administrative costs and interest expense, plus offer us a return on our
+capital investment. A secondary means of generating returns can include the sale of either producing or non-producing lease properties.
+Our longer-term success depends on, among many other
+factors, the acquisition and drilling of commercial grade crude oil and natural gas properties and on the prevailing sales prices for
+crude oil and natural gas along with associated operating expenses. The volatile nature of the energy markets makes it difficult to estimate
+future prices of crude oil and natural gas; however, any prolonged period of depressed prices or market volatility, such as we have experienced
+in the last 18 months, will have a material adverse effect on our results of operations and financial condition.
+Our operations are focused on identifying and evaluating
+prospective crude oil and natural gas properties and funding projects that we believe have the potential to produce crude oil and natural
+gas in commercial quantities. We conduct all of our drilling, exploration and production activities in the United States, and all of our
+revenues are derived from sales to customers within the United States. Currently, we are in the process of developing a multi-well oilfield
+project in Kern County, California.
+Our management cannot provide any assurances that
+Daybreak will ever operate profitably. While, in the past, we have had positive cash flow from our crude oil operations in the East Slopes
+project in California, we have not yet generated sustainable positive cash flow or earnings on a company-wide basis. As a small company,
+we are more susceptible to the numerous business, investment and industry risks that have been described in Item 1A. Risk Factors of our
+Annual Report on Form 10-K for the fiscal year ended February 28, 2022 and in Part III, Item 1A. Risk Factors of this 10-Q Report. Throughout
+this Quarterly Report on Form 10-Q, crude oil is shown in barrels (“Bbls”); natural gas is shown in thousands of cubic feet
+(“Mcf”) unless otherwise specified, and hydrocarbon totals are expressed in barrels of crude oil equivalent (“BOE”).
+Below is brief summary of our two crude oil and natural
+gas projects in California. Refer to our discussion in Item 2. Properties, in our Annual Report on Form 10-K for the year ended February
+28, 2022 for more information on our multi-well oilfield East Slopes project in California.
+Kern County, California (East Slopes Project)
+The East Slopes Project is located in the southeastern
+part of the San Joaquin Basin near Bakersfield, California. Drilling targets are porous and permeable sandstone reservoirs that exist
+at depths of 1,200 feet to 4,500 feet. Since January 2009, we have participated in the drilling of 25 wells in this project. We have been
+the Operator at the East Slopes Project since March 2009.
+The crude oil produced from our acreage in the Vedder
+Sand is considered heavy oil. The gravity of the crude oil ranges from 14 °
+to 16 °
+API (American Petroleum Institute) gravity and must be heated to separate and remove water prior to sale. Our crude oil wells in the East
+Slopes Project produce from five reservoirs at our Sunday, Bear, Black, Ball and Dyer Creek locations. The Sunday property has six producing
+wells, while the Bear property has nine producing wells. The Black property is the smallest of all currently producing reservoirs, and
+currently has two producing wells at this property. The Ball property also has two producing wells while the Dyer Creek property has one
+producing well. During the nine months ended November 30, 2022 we normally had production from 20 crude oil wells, however during this
+same nine month time period multiple wells had workovers done to replace the downhole pumps. Our average working interest (“WI”)
+and net revenue interest (“NRI”) in these 20 wells is 36.6% and 27.6%, respectively.
+We plan on acquiring additional acreage exhibiting
+the same seismic characteristics and on trend with the Bear, Black and Dyer Creek reservoirs. Some of these prospects, if successful,
+would utilize the Company’s existing production facilities. In addition to the current field development, there are several other
+exploratory prospects that have been identified from the seismic data, which we plan to drill in the future.
+17
+East Slopes, Kern County, California Drilling Plans
+We are currently in the planning and permitting process
+to undertake a multi-well developmental drilling program commencing in the second quarter of 2023. These plans are also dependent on a
+stabilization of crude oil prices. We plan to spend approximately $825,000 drilling three development wells and one water disposal well
+in this drilling program.
+Monterey and Contra Costa Counties, California
+(Reabold California, LLC)
+In May 2022, we acquired Reabold California, LLC (“Reabold”)
+from a third party. This property includes producing wells in both Monterey and Contra Costa counties of California.
+The Burnett Lease and the Doud Lease are located in
+close proximity to each another in Monterey County. They are part of a geological feature named the Monroe Swell. The Burnett Lease presently
+has two directional wells that are being produced from a depth of 2,900’ from the Beedy Sand zone. The oil being produced is approximately
+17 °
+API gravity. We have future plans of drilling one horizontal well on this lease and to
+convert an old well bore into a salt water disposal well (“SWD”). The Doud Lease has four directional well bores with three
+of those being produced from a depth of 3,300’ from the Doud A Sand zone. The oil being produced is approximately 23 °
+API gravity. We have future plans of drilling one additional directional well on this lease. The SWD for the Burnett Lease will be utilized
+for the Doud lease as well.
+The Brentwood Lease is located in Contra-Costa County.
+This lease is part of a geological feature named the Meganos Unconformity. There are presently two directional wells producing from this
+lease. A work over was successfully completed on a third well to decrease water production and to increase oil production. This third
+well will be put back on production once the Sunflower Alliance lawsuit is settled and a SWD permit has been approved. The wells are
+producing from the Second Massive Sand from a depth of between 4,000’- 4,500’. The oil being produced is approximately 38 °
+gravity.
+Sunflower Lawsuit
+Sunflower Alliance v. California Department of Conservation,
+Geologic Energy Management Division.  This case challenges the state agency’s compliance with the California Environmental
+Quality Act (CEQA) with respect to the PAL Reabold 072-00-0001 Project, for wastewater injection into an existing well.  The Petition
+was filed on December 29, 2021 in the Alameda County Superior Court.  The Petitioner seeks an order setting aside the state agency’s
+approval of a wastewater injection permit; damages are not sought in the lawsuit.  On February 22, 2022, Real Party in Interest Reabold
+California, LLC filed a motion to transfer the case to the Contra Costa County Superior Court.  On March 22, 2022, the Alameda County
+Superior Court ordered the case transferred to the Contra Costa County Superior Court.  On August 15, 2022, the Contra Costa County
+Superior Court provided notice that the transfer had been completed and the case filed in that court.  If successful, the lawsuit
+would prevent Reabold from injecting wastewater into an existing well until any CEQA deficiencies are addressed.  The California
+Attorney General is defending the state agency, which disputes Petitioner’s claims.  On December 22, 2022, the Superior Court
+issued an order finding CEQA deficiencies, and directing the state agency to rescind its approval of the project. Reabold will appeal
+the Superior Court’s order. At this time, it is unclear when the litigation will be resolved.
+The Company is not aware of any environmental claims
+existing as of November 30, 2022. There can be no assurance, however, that current regulatory requirements will not change or that past
+non-compliance with environmental issues will not be discovered on the Company’s crude oil properties.
+Encumbrances
+On October 17, 2018, a working interest partner in
+the East Slopes Project in California filed a UCC financing statement in regards to payables owed to the partner by the Company.
+Results of Operations – Nine months ended November
+30, 2022 compared to the nine months ended November 30, 2021
+California Crude Oil Prices
+The prices we receive for crude oil sales in California
+from the East Slopes project and from Reabold California, LLC (“Reabold”) are based on prices posted for Midway-Sunset and
+Buena Vista crude oil delivery contracts, respectively. All posted pricing is subject to adjustments that vary by grade of crude oil,
+transportation costs, market differentials and other local conditions. Both the posted Midway-Sunset and Buena Vista prices generally
+move in correlation to prices quoted on the New York Mercantile Exchange (NYMEX”) for spot West Texas intermediate (“WTI”)
+crude oil, Cushing, Oklahoma delivery contracts.
+18
+California Natural Gas Prices
+The price we receive for natural gas sales from Reabold
+is based on ninety-five percent (95%) of the price published in Natural Gas Intelligence (“NGI”) Gas Price Index under the
+column “Bidweek Averages” for “California”, “PG&E Citygate” less an amount per MMBtu equal to
+the Silverado Path On System As-Available transport date, less the Silverado Path On System transmission shrinkage rate for Silverado.
+The price we receive generally moves in correlation to prices quoted on the New York Mercantile Exchange (NYMEX”) for spot Henry
+Hub natural gas prices.
+There continues to be a significant amount of volatility
+in hydrocarbon prices and a corresponding fluctuation in our realized sale price of crude oil does exist. An example of this volatility
+is that in June of 2014 the monthly average price of WTI oil was $105.79 per barrel and our realized price per barrel of crude oil was
+$98.78. For example, in April 2020, the monthly average price of WTI crude oil was $16.55 and our monthly realized price was $16.96 per
+barrel. Then in May 2022, the monthly average price of WTI oil was $109.55 per barrel and our realized price per barrel of crude oil was
+$106.56. Finally, in November 2022, our average realized price was $84.37 per barrel. This volatility in crude oil prices has continued
+throughout most of the fiscal year ended February 28, 2023. Any downward volatility in the price of crude oil will have a prolonged and
+substantial negative impact on our profitability and cash flow from our producing California properties. It is beyond our ability to accurately
+predict crude oil prices over any substantial length of time.
+A comparison of the average WTI crude oil price and
+the average realized crude oil sales price for the nine months ended November 30, 2022 and 2021 is shown in the table below:
+Nine Months Ended
+November 30, 2022
+November 30, 2021
+Percentage Change
+Average nine month WTI crude oil price (Bbl)
+$
+98.46
+$
+70.34
+40.0%
+Average nine month realized crude oil sales price (Bbl)
+$
+95.69
+$
+67.97
+40.8%
+For the nine months ended November 30, 2022, the average
+WTI price was $98.46 and our average realized crude oil sale price was $95.69, representing a discount of $2.77 per barrel or 2.8% lower
+than the average WTI price. In comparison, for the nine months ended November 30, 2021, the average WTI price was $70.34 and our average
+realized sale price was $67.97 representing a discount of $2.37 per barrel or 3.4% lower than the average WTI price.
+California Crude Oil Revenue and Production
+Crude oil revenue in California for the nine months
+ended November 30, 2022 increased $733,653 or 145.2146.6% to $1,239,063 in comparison to revenue of $505,410 for the nine months ended
+November 30, 2021. The reason for the increase was the acquisition of the Reabold California, LLC wells in central California. The average
+sale price of a barrel of crude oil for the nine months ended November 30, 2022 was $95.69 in comparison to $67.97 for the nine months
+ended November 30, 2021. The increase of $27.72 or 40.8% per barrel in the average realized price of a barrel of crude oil accounted for
+27.8% of the increase in crude oil revenue for the nine months ended November 30, 2022.
+Our net crude oil sales volume for the nine months
+ended November 30, 2022 was 13,027 barrels of crude oil in comparison to 7,436 barrels sold for the nine months ended November 30, 2021.
+This increase in crude oil sales volume of 5,591 barrels or 75.2% was primarily due to our acquisition of the Reabold property and its
+producing wells in central California. The gravity of our produced crude oil in the East Slopes project ranges between 14° API and
+16° API. Historically, the sale price we receive for East Slopes crude oil has been less than the quoted WTI price because of the
+lower API gravity of our East Slopes crude oil in comparison to the API gravity of quoted WTI crude oil. The gravity of our produced crude
+oil in the Reabold project ranges between 17° API and 38° API.
+Our crude oil sales revenue for the nine months ended
+November 30, 2022 and 2021 are set forth in the following table:
+Nine Months Ended
+November 30, 2022
+Nine Months Ended
+November 30, 2021
+Project
+Revenue
+Percentage
+Revenue
+Percentage
+East Slopes Project – crude oil sales
+$ 609,924
+49.2 %
+$ 505,410
+100.0 %
+Reabold Project – crude oil sales
+629,139
+50.8 %
+—
+—
+California Totals
+$ 1,239,063
+100.0 %
+$ 505,410
+100.0 %
+19
+Our natural gas sales revenue for the nine months
+ended November 30, 2022 and 2021 is set forth in the following table:
+Nine Months Ended
+November 30, 2022
+Nine Months Ended
+November 30, 2021
+Project
+Revenue
+Percentage
+Revenue
+Percentage
+Reabold Project – natural gas sales
+$ 15,594
+100.0 %
+$ —
+—
+Our average realized
+sale price on a barrel of oil equivalent (BOE) basis of crude oil and natural gas for the nine months ended November 30, 2022 was $94.87
+in comparison to $67.97 for the nine months ended November 30, 2021, representing an increase of $26.90 or 39.6% per barrel.
+Operating Expenses
+Total operating expenses for the nine months ended
+November 30, 2022 were $2,819,269, an increase of $2,161,721 or 328.8% compared to $657,548 for the nine months ended November 30, 2021.
+Operating expenses for the nine months ended November 30, 2022 and 2021 are set forth in the table below:
+Nine Months Ended
+November 30, 2022
+Nine Months Ended
+November 30, 2021
+Expenses
+Percentage
+BOE
+Basis
+Expenses
+Percentage
+BOE
+Basis
+Production expenses
+$ 742,450
+26.3 %
+$ 165,357
+25.1 %
+Exploration and drilling expenses
+1,170
+0.1 %
+235
+0.0 %
+Depreciation, depletion, amortization (“DD&A”)
+214,046
+7.6 %
+44,004
+6.7 %
+Transaction (acquisition) expenses
+1,086,154
+38.5 %
+—
+—
+General and administrative (“G&A”) expenses
+775,449
+27.5 %
+447,952
+68.2 %
+Total operating expenses
+$ 2,819,269
+100.0 %
+$ 211.93
+$ 657,548
+100.0 %
+$ 88.43
+Production expenses include expenses associated with
+the production of crude oil. These expenses include contract pumpers, electricity, road maintenance, control of well insurance, property
+taxes and well workover expenses; and, relate directly to the number of wells that are in production. For the nine months ended November
+30, 2022, these expenses increased by $577,093 or 349.0% to $742,450 in comparison to $165,357 for the nine months ended November 30,
+2021. For the nine months ended November 30, 2022, we had 25 wells on production from the East Slopes and Reabold projects in comparison
+to 20 wells on production in the East Slopes project for the nine months ended November 30, 2021. The increase of four wells was from
+the Reabold acquisition that occurred in late May 2022. The increase in production expenses for the nine months ended November 30, 2022,
+was primarily due to the replacement and upgrading of pumps in seven wells of the East Slopes project for $56,549 and the expenses associated
+with salt water disposal of $318,052 from the Reabold project. A salt water disposal well is currently being permitted which, when put
+into operation is expected to significantly lower operating costs of the Reabold project. Production expense on a barrel of oil equivalent
+(“BOE”) basis for the nine months ended November 30, 2022 and 2021 were $55.81 and $22.24, respectively. Production expenses
+represented 27.5% and 25.1% of total operating expenses for the nine months ended November 30, 2022 and 2021, respectively.
+Exploration and drilling expenses include geological
+and geophysical (“G&G”) expenses as well as leasehold maintenance, plugging and abandonment (“P&A”) expenses
+and dry hole expenses. For the nine months ended November 30, 2022 and 2021, these expenses were $1,170 and $235, respectively. Exploration
+and drilling expenses represented 0.1% and 0.0% of total operating expenses for the nine months ended November 30, 2022 and 2021, respectively.
+Depreciation, depletion and amortization (“DD&A”)
+expenses relate to equipment, proven reserves and property costs, along with impairment, and is another component of operating expenses.
+For the nine months ended November 30, 2022, DD&A expenses increased $170,042 or 386.4% to $214,046 in comparison to $44,004 for the
+nine months ended November 30, 2021. On a BOE basis, DD&A expense was $16.09 and $5.92 for the nine months ended November 30, 2022
+and 2021, respectively. DD&A expenses represented 7.6% and 6.7% of total operating expenses for the nine months ended November 30,
+2022 and 2021, respectively.
+For the nine months ended November 30, 2022, we incurred
+transaction expenses of $1,086,154 related to the acquisition of funding and to acquire the Reabold crude oil and natural gas properties
+located in central California. For the nine months ended November 30, 2021, we did not incur any related expenses. Transaction expenses
+represented 38.5% and 0.0% of total operating expenses for the nine months ended November 30, 2022 and 2021, respectively.
+20
+General and administrative (“G&A”)
+expenses include the salaries of nine employees, including management. Other items included in our G&A expenses are legal and accounting
+expenses, investor relations fees, travel expenses, insurance expenses and other administrative expenses necessary for an operation of
+crude oil and natural gas properties as well as for the running a public company. For the nine months ended November 30, 2022, G&A
+expenses increased $327,497 or 73.1% to $775,449 in comparison to $447,952 for the nine months ended November 30, 2021. The primary reasons
+for the increase in G&A expense are related to the expenses of both the special shareholders and the annual shareholders meetings,
+in the amount of approximately $122,200 in aggregate, that were held during the nine months ended November 30, 2022 and professional legal
+and accounting fees of approximately $70,000 related to the Reabold acquisition. We are continuing a program of controlling our G&A
+costs wherever possible. G&A expenses represented 27.5% and 68.2% of total operating expenses for the nine months ended November 30,
+2022 and 2021, respectively.
+During the nine months ended
+November 30, 2021, the Company recognized a gain on asset disposal of $9,614. The gain was the result of an insurance settlement on the
+theft of a company vehicle that was fully depreciated. Additionally, during the nine months ended November 30, 2021, the Company recognized
+a gain on debt forgiveness in the amount of $72,800 due to notification that the SBA had approved the company’s application for
+loan forgiveness on a Paycheck Protection Program (PPP) 2 nd  Draw loan.
+Interest expense, net for the nine months ended November
+30, 2022 decreased $54,363 or 30.5% to $123,857 in comparison to $178,220 for the nine months ended November 30, 2021.
+Results of Operations – Three months ended November
+30, 2022 compared to the three months ended November 30, 2021
+A comparison of the average WTI crude oil price and
+the average realized crude oil sales price for the three months ended November 30, 2022 and 2021 is shown in the table below:
+Three Months Ended
+November 30, 2022
+November 30, 2021
+Percentage Change
+Average three month WTI crude oil price (Bbl)
+$ 85.39
+$ 77.43
+10.3 %
+Average three month realized crude oil sales price (Bbl)
+$ 85.39
+$ 74.12
+15.2 %
+For the three months ended November 30, 2022, the
+average WTI price was $85.39 and our average realized crude oil sale price was also $85.39. In comparison, for the three months ended
+November 30, 2021, the average WTI price was $77.43 and our average realized sale price was $74.12 representing a discount of $3.31 per
+barrel or 4.3% lower than the average WTI price.
+California Crude Oil Revenue and Production
+Crude oil revenue in California for the three months
+ended November 30, 2022, increased $271,373 or 143.7% to $460,165 in comparison to revenue of $188,792 for the three months ended November
+30, 2021. The primary reason for the increase was the acquisition of the Reabold California, LLC wells in central California. The average
+sale price of a barrel of crude oil for the three months ended November 30, 2022 was $85.39 in comparison to $74.12 for the three months
+ended November 30, 2021. The increase of $11.27 or 15.2% per barrel in the average realized price of a barrel of crude oil accounted for
+120.6% of the increase in crude oil revenue for the three months ended November 30, 2022.
+Our net sales volume for the three months ended November
+30, 2022 was 5,389 barrels of crude oil in comparison to 2,547 barrels sold for the three months ended November 30, 2021. This increase
+in crude oil sales volume of 2,842 barrels or 111.6% was due to our acquisition of the Reabold property and its producing wells in central
+California. The gravity of our produced crude oil in the East Slopes project ranges between 14° API and 16° API. Historically,
+the sale price we receive for East Slopes heavy crude oil has been less than the quoted WTI price because of the lower API gravity of
+our California crude oil in comparison to the API gravity of quoted WTI crude oil. The gravity of our produced crude oil in the Reabold
+project ranges between 17° API and 38° API.
+Our crude oil sales revenue for the three months ended
+November 30, 2022 and 2021 are set forth in the following table:
+Three Months Ended
+November 30, 2022
+Three Months Ended
+November 30, 2021
+Project
+Revenue
+Percentage
+Revenue
+Percentage
+East Slopes Project – crude oil sales
+$ 169,885
+36.9 %
+$ 188,792
+100.0 %
+Reabold Project – crude oil sales
+290,280
+63.1 %
+—
+—
+California Totals
+$ 460,165
+100.0 %
+$ 188,792
+100.0 %
+21
+Our natural gas sales revenue for the three months
+ended November 30, 2022 and 2021 is set forth in the following table:
+Three Months Ended
+November 30, 2022
+Three Months Ended
+November 30, 2021
+Project
+Revenue
+Percentage
+Revenue
+Percentage
+Reabold Project – natural gas sales
+$ 5,846
+100.0 %
+$ —
+—
+Our average realized
+sale price on a barrel of oil equivalent (BOE) basis of crude oil and natural gas for the three months ended November 30, 2022 was $84.72
+in comparison to $74.12 for the three months ended November 30, 2021, representing an increase of $10.60 or 14.3% per barrel.
+Operating Expenses
+Total operating expenses for the three months ended
+November 30, 2022 were $745,236, an increase of $442,304 or 207.7% compared to $242,182 for the three months ended November 30, 2021.
+Operating expenses for the three months ended November 30, 2022 and 2021 are set forth in the table below:
+Three Months Ended
+November 30, 2022
+Three Months Ended
+November 30, 2021
+Expenses
+Percentage
+BOE
+Basis
+Expenses
+Percentage
+BOE
+Basis
+Production expenses
+$ 383,251
+51.4 %
+$ 65,788
+27.2 %
+Exploration and drilling expenses
+—
+0.0 %
+34
+0.0 %
+Depreciation, depletion, amortization (“DD&A”)
+64,382
+8.6 %
+15,196
+6.3 %
+Transaction (acquisition) expenses
+60,613
+8.2 %
+—
+—
+General and administrative (“G&A”) expenses
+236,989
+31.8 %
+161,164
+66.5 %
+Total operating expenses
+$ 745,235
+100.0 %
+$ 135.47
+$ 242,182
+100.0 %
+$ 95.09
+Production expenses for the three months ended November
+30, 2022, increased by $317,463 or 482.6% to $383,251 in comparison to $65,788 for the three months ended November 30, 2021. For the three
+months ended November 30, 2022 and 2021, we had 20 and 20 wells, respectively, on production in our East Slopes project. For the three
+months ended November 30, 2022, we had five wells on production in the Reabold project that we acquired in May 2022. The increase in production
+expenses for the three months ended November 30, 2022, was primarily due to the replacement and upgrading of pumps in seven wells of the
+East Slopes project for $42,920 and the expenses associated with salt water disposal of $158,100 from the Reabold project. A salt water
+disposal well is currently being permitted which, when put into operation will significantly lower operating costs of the Reabold project.
+Production expense on a barrel of oil equivalent (“BOE”) basis for the three months ended November 30, 2022 and 2021 were
+$69.67 and $25.83, respectively. Production expenses represented 51.4% and 27.2% of total operating expenses for the three months ended
+November 30, 2022 and 2021, respectively.
+Exploration and drilling expenses for the three months
+ended November 30, 2022 were $-0- in comparison to $34 for the three months ended November 30, 2021. Exploration and drilling expenses
+represented 0.0% and 0.0% of total operating expenses for the three months ended November 30, 2022 and 2021, respectively.
+DD&A expenses for the three months ended November
+30, 2022, increased $49,186 or 323.7% to $64,382 in comparison to $15,196 for the three months ended November 30, 2021. DD&A on a
+BOE basis was $11.70 and $5.97 for the three months ended November 30, 2022 and 2021, respectively. DD&A expenses represented 8.6%
+and 6.3% of total operating expenses for the three months ended November 30, 2022 and 2021, respectively.
+General and administrative (“G&A”)
+expenses include the salaries of five employees, including management. Other items included in our G&A expenses are legal and accounting
+expenses, investor relations fees, travel expenses, insurance expenses and other administrative expenses necessary for an operator of
+crude oil properties as well as for running a public company. G&A expenses for the three months ended November 30, 2022, increased
+$75,825 or 47.0% to $236,989 in comparison to $161,164 for the three months ended November 30, 2021. We are continuing a program of controlling
+our G&A costs wherever possible. G&A expenses represented 31.8% and 66.5% of total operating expenses for the three months ended
+November 30, 2022 and 2021, respectively.
+22
+Interest expense, net for the three months ended November
+30, 2022 decreased $77,342 to $14,719 due to an adjustment from prior periods in comparison to ($62,623) for the three months ended November
+30, 2021.
+Due to the nature of our business, we expect that
+revenues, as well as all categories of expenses, will continue to fluctuate substantially on a quarter-to-quarter and year-to-year basis.
+Revenues are highly dependent on the volatility of hydrocarbon prices and production volumes. Production expenses will fluctuate according
+to the number and percentage ownership of producing wells as well as the amount of revenues we receive based on the price of crude oil.
+Exploration and drilling expenses will be dependent upon the amount of capital that we have to invest in future development projects,
+as well as the success or failure of such projects. Likewise, the amount of DD&A expense will depend upon the factors cited above
+including the size of our proven reserves base and the market price of energy products. G&A expenses will also fluctuate based on
+our current requirements, but will generally tend to increase as we expand the business operations of the Company. An on-going goal of
+the Company is to improve cash flow to cover the current level of G&A expenses and to fund our drilling programs in California and
+Michigan.
+Capital Resources and Liquidity
+Our primary financial resource is our proven crude
+oil reserve base. Our ability to fund any future capital expenditure programs is dependent upon the prices we receive from crude oil sales,
+the success of our drilling programs in California and the availability of capital resource financing. There continues to be a significant
+amount of volatility in crude oil prices and dramatic fluctuation in our realized sale price of crude oil since June of 2014, when the
+monthly average price of WTI crude oil was $105.79 per barrel, and our realized sale price per barrel of crude oil was $98.78. For example,
+in the month of April 2020 the monthly average closing price of WTI crude oil was $16.55 and our monthly realized oil price was $16.96
+per barrel. Then in in May, 2022, the monthly average price of WTI oil was $109.55 per barrel and our realized price per barrel of crude
+oil was $106.56. In November, 2022, our average realized price was $84.37 per barrel. This volatility in crude oil prices continued into
+the current fiscal year. Any downward volatility in the price of crude oil will have a prolonged and substantial negative impact on our
+profitability and cash flow from our producing California properties. It is beyond our ability to accurately predict crude oil prices
+over any substantial length of time.
+East Slopes, Kern County, California Drilling Plans
+We are currently in the planning and permitting process
+to undertake a multi-well developmental drilling program commencing in the second quarter of 2023. These plans are also dependent on a
+stabilization of crude oil prices. We plan to spend approximately $825,000 drilling three development wells and one water disposal well
+in this drilling program.
+Changes in our capital resources at November 30, 2022
+in comparison to February 28, 2022 are set forth in the table below:
+November 30, 2022
+February 28, 2022
+Increase
+(Decrease)
+Percentage
+Change
+Cash
+$ 403,498
+$ 139,573
+$ 263,925
+189.1 %
+Restricted Cash
+$ 275,000
+$ —
+$ 275,000
+100.0 %
+Current assets
+$ 1,399,584
+$ 416,651
+$ 982,933
+235.9 %
+Total assets
+$ 8,764,828
+$ 975,704
+$ 7,789,124
+798.3 %
+Current liabilities
+$ (3,254,450 )
+$ (3,404,735 )
+$ (150,285 )
+(4.4 %)
+Total liabilities
+$ (4,301,312 )
+$ (4,322,908 )
+$ (21,596 )
+(0.5 %)
+Working capital deficit
+$ (1,854,866 )
+$ (2,988,084 )
+$ (1,133,218 )
+(37.9 %)
+Our working capital deficit decreased approximately
+$1.13 million or 37.9% to approximately $1.85 million at November 30, 2022 in comparison to approximately $2.99 million at February 28,
+2022. The decrease in our working capital deficit was primarily due to the proceeds we received in connection with the sale of common
+stock and the acquisition of the Reabold California, LLC current assets. We anticipate an increase in our cash flow will occur when we
+are able to return to our planned drilling program that will result in an increase in the number of successful wells on production.
+Our business is capital intensive. Our ability to
+grow is dependent upon favorably obtaining outside capital and generating cash flows from operating activities necessary to fund our investment
+activities. There is no assurance that we will be able to achieve profitability. Since our future operations will continue to be dependent
+on successful exploration and development activities and our ability to seek and secure capital from external sources, should we be unable
+to achieve sustainable profitability this could cause any equity investment in the Company to become worthless.
+23
+Major sources of funds in the past for us have included
+the debt or equity markets and the sale of assets. We anticipate that we will have to rely on these capital markets to fund future operations
+and growth. Our business model is focused on acquiring exploration or development properties as well as existing production. Our ability
+to generate future revenues and operating cash flow will depend on successful exploration, and/or acquisition of crude oil producing properties,
+which may very likely require us to continue to raise equity or debt capital from outside sources.
+Daybreak has ongoing capital commitments to develop
+certain leases pursuant to their underlying terms. Failure to meet such ongoing commitments may result in the loss of the right to participate
+in future drilling on certain leases or the loss of the lease itself. These ongoing capital commitments will cause us to seek additional
+forms of financing through various methods, including issuing debt securities, equity securities, bank debt, or combinations of these
+instruments which could result in dilution to existing security holders and increased debt and leverage. The current uncertainty in the
+credit and capital markets as well as the instability and volatility in crude oil prices since June of 2014, has restricted our ability
+to obtain needed capital. The 2019 novel coronavirus (“COVID-19") and its subsequent variants that spread to countries throughout
+the world including the United States continue to have an uncertain negative impact on the financial and energy markets. No assurance
+can be given that we will be able to obtain funding under any loan commitments or any additional financing on favorable terms, if at all.
+Sales of interests in our assets may be another source of cash flow available to us.
+The Company’s financial statements for the nine
+months ended November 30, 2022 have been prepared on a going concern basis, which contemplates the realization of assets and the settlement
+of liabilities in the normal course of business. We have incurred net losses since entering the crude oil exploration industry in 2005,
+and as of the nine months ended November 30, 2022, we have an accumulated deficit of $31.2 million and a working capital deficit of $1.85
+million which raises substantial doubt about our ability to continue as a going concern.
+In the current fiscal year, we will need to seek additional
+financing for our planned exploration and development activities in California. We could obtain financing through one or more various
+methods, including issuing debt securities, equity securities, or bank debt, or combinations of these instruments, which could result
+in dilution to existing security holders and increased debt and leverage. No assurance can be given that we will be able to obtain funding
+under any loan commitments or any additional financing on favorable terms, if at all. Sales of interests in our assets may be another
+source of cash flow.
+Changes in Financial Condition
+During the nine months ended November 30, 2022, we
+received crude oil sales revenue from our 20 producing wells in the East slopes project as well as crude oil and natural gas sales revenue
+from five producing wells in the recently acquired Reabold project. Both of these projects are located in California. Our commitment to
+improving corporate profitability remains unchanged. We experienced an increase in revenues of $749,247 or 148.2% to $1,254,657 for the
+nine months ended November 30, 2022 in comparison to revenues of $505,410 for the nine months ended November 30, 2021. The increase of
+$26.90 or 39.5% in the average realized price BOE accounted for 26.4% of the increase in crude oil revenue for the nine months ended November
+30, 2022. The increase in sales volume BOE accounted for the remaining 73.6% of the revenue increase. The increase in volume was primarily
+due to the producing wells that we acquired in the recently completed acquisition of Reabold California, LLC. For the nine months ended
+November 30, 2022, we had an operating loss of $1,564,612 in comparison to an operating loss of $152,138 for the nine months ended November
+30, 2021. The increase in the operating loss was due to transaction expenses related to the acquisition of the Reabold property, fundraising,
+and the expenses of holding both a special shareholders’ meeting to approve the acquisition and a regular annual shareholders meeting.
+Our balance sheet at November 30, 2022 reflects total
+assets of approximately $8.8 million in comparison to approximately $0.98 million at February 28, 2022. The increase of approximately
+$7.8 million is directly related to the acquisition of crude oil and natural gas assets in California.
+At November 30, 2022, total liabilities decreased
+by approximately $21,600 to approximately $4.3 million in comparison to approximately $4.3 million at February 28, 2022.
+At November 30, 2022, there were 384,735,402 issued
+and outstanding shares of common stock in comparison to 67,802,273 shares at February 28, 2022. The increase in shares issued and outstanding
+of 316,933,129 shares was directly related to the acquisition of producing crude oil and natural gas assets, associated fundraising and
+the restructuring of our balance sheet eliminating debt in exchange for equity.
+24
+Additional paid in capital (APIC) increased approximately
+$9.2 million at November 30, 2022 to $35,297,706 from $26,115,450 at February 28, 2022, as a result of the same acquisition of producing
+crude oil and natural gas assets, associated fundraising and the restructuring of our balance sheet eliminating debt in exchange for equity.
+Cash Flows
+Changes in the net funds provided by and (used in)
+our operating, investing and financing activities are set forth in the table below:
+Nine Months
+Ended
+November 30, 2022
+Nine Months
+Ended
+November 30, 2021
+Increase
+(Decrease)
+Percentage
+Change
+Net cash (used in) provided by operating activities
+$ (599,420 )
+$ 31,984
+(631,404 )
+(1,974.1 %)
+Net cash (used in) investing activities
+$ —
+$ (14,673 )
+14,673
+100.0 %
+Net cash provided by (used in) financing activities
+$ 1,138,345
+$ (33,447 )
+1,171,792
+3,503.4 %
+Cash Flow Provided By (Used In) Operating Activities
+Cash flow from operating activities is derived from
+the production of our crude oil reserves and changes in the balances of non-cash accounts, receivables, payables or other non-energy property
+asset account balances. For the nine months ended November 30, 2022, cash flow used in operating activities was $599,420 in comparison
+to cash flow provided by operating activities of $31,984 for the nine months ended November 30, 2021. The increase in our cash flow used
+in operating activities of $631,404 for the nine months ended November 30, 2022 was primarily due to increases in our accounts receivable
+crude oil and natural gas sales and receivables from our working interest partners. Both of these increases were directly related to our
+acquisition of producing crude oil and natural gas assets in California from a third party. Changes in non-cash account balances primarily
+relating to financing fees, DD&A and amortization of debt discount increased by approximately $644,000 in comparison to the nine month
+ended November 30, 2021. Variations in cash flow from operating activities may impact our level of exploration and development expenditures.
+Cash Flow Used In Investing Activities
+Cash flow from investing activities is derived from
+changes in crude oil property balances and any lending activities. Cash flow used in our investing activities for the nine months ended
+November 30, 2022 was $-0- in comparison to cash flow used in our investing activities of $14,673 for the nine months ended November 30,
+2021.
+Cash Flow Provided By (Used In) Financing Activities
+Cash flow from financing activities is derived from
+changes in long-term liability account balances or in equity account balances, excluding retained earnings. Cash flow provided by our
+financing activities was $1,138,345 for the nine months ended November 30, 2022 in comparison to cash flow used in our financing activities
+of $33,447 for the nine months ended November 30, 2021. During the nine months ended November 30, 2022 we secured a capital raise of $1,987,500
+net of transaction expenses from the sale of 128,125,000 shares of our common stock. Additionally, during the nine months ended November
+30, 2022, we paid off the balance of $808,182 on the line of credit with UBS Bank.
+The following discussion is a summary of cash flows
+provided by, and used in, the Company’s financing activities at November 30, 2022.
+SHORT-TERM AND LONG-TERM
+BORROWINGS:
+Note Payable
+In December 2018, the Company was able to settle an
+outstanding balance owed to one of its third-party vendors. This settlement resulted in a $120,000 note payable being issued to the vendor.
+Additionally, the Company agreed to issue 2,000,000 shares of the Company’s common stock as a part of the settlement agreement.
+Based on the closing price of the Company’s common stock on the date of the settlement agreement, the value of the common stock
+transaction was determined to be $6,000. The common stock shares were issued during the twelve months ended February 29, 2020. The note
+had a maturity date of January 1, 2022, and bears an interest rate of 10% rate per annum. The note principal has not been paid and the
+Company is considered to be in default. There is no default interest rate associated with the note. Interest is accrued monthly and is
+payable on January 1 st
+of each anniversary date of the note. At November 30, 2022, the note principal and a portion of the
+accrued interest had not been paid and was outstanding. The accrued interest on the Note was $23,000 and $38,000 at November 30, 2022
+and February 28, 2022, respectively.
+25
+Note Payable – Related Party
+On December 22, 2020, the Company entered into a Secured
+Promissory Note (the “ Note ”), as borrower, with James Forrest Westmoreland and Angela Marie Westmoreland, Co-Trustees
+of the James and Angela Westmoreland Revocable Trust, or its assigns (the “ Noteholder ”), as the lender. James F. Westmoreland
+is the Company’s Chairman, President and Chief Executive Officer. Pursuant to the Note, the Noteholder loaned the Company an aggregate
+principal amount of $155,548. After the deduction of loan fees of $10,929 the net proceeds from the loan were $144,619. The loan fees
+are being amortized as original issue discount (OID) over the term of the loan. The interest rate of the loan is 2.25%. The Note requires
+monthly payments on the Note balance until repaid in full. The maturity date of the Note is December 21, 2035. For the nine months ended
+November 30, 2022, the Company made principal payments of $6,598 and amortized debt discount of $546. The obligations under the Note are
+secured by a lien on and security interest in the Company’s crude oil assets located in Kern County, California, as described in
+a Deed of Trust entered into by the Company in favor of the Noteholder to secure the obligations under the Note. Such lien shall be a
+first priority lien, subject only to a pre-existing lien filed by a working interest partner of the Company.
+The Company may prepay the Note at any time. Upon
+the occurrence of any Event of Default and expiration of any applicable cure period, and at any time thereafter during the continuance
+of such Event of Default, the Noteholder may at its option, by written notice to the Company: (a) declare the entire principal amount
+of the Note, together with all accrued interest thereon and all other amounts payable hereunder, immediately due and payable; (b) exercise
+any of its remedies with respect to the collateral set forth in the Deed of Trust; and/or (c) exercise any or all of its other rights,
+powers or remedies under applicable law.
+Current portion of note payable – related party
+balances at November 30, 2022 and February 28, 2022 are set forth in the table below:
+November 30, 2022
+February 28, 2022
+Note payable – related party, current portion
+$ 9,006
+$ 8,829
+Unamortized debt issuance expenses
+(729 )
+(729 )
+Note payable – related party, current portion, net
+$ 8,277
+$ 8,100
+Note payable – related party long-term balances
+at November 30, 2022 and February 28, 2022 are set forth in the table below:
+November 30, 2022
+February 28, 2022
+Note payable – related party, non-current
+$ 129,934
+$ 136,710
+Unamortized debt issuance expenses
+(8,804 )
+(9,350 )
+Note payable – related party, non-current, net
+$ 121,130
+$ 127,360
+Future estimated payments on the outstanding note
+payable – related party are set forth in the table below:
+Twelve month periods ending November 30
+2023
+$ 9,006
+2024
+9,247
+2025
+9,495
+2026
+9,750
+2027
+10,011
+Thereafter
+91,431
+Total
+$ 138,940
+Short-term Convertible Note Payable
+During the twelve months ended February 28, 2022,
+the Company executed a convertible promissory note with a third party for $200,000. The interest rate was 18% per annum and is payable
+in kind (PIK) solely by additional shares of the Company’s common stock. Regardless of when the conversion occurred, a full 12 months
+of interest would be payable upon conversion. On May 5, 2022, the Company received notice of conversion of the promissory note. The face
+amount of the note and $36,000 in interest were converted at a rate of $0.0085 per share into 27,764,706 share of the Company’s
+common stock during the nine months ended November 30, 2022.
+26
+12% Subordinated Notes
+The Company’s 12% Subordinated Notes (“the
+Notes”) issued pursuant to a January 2010 private placement offering to accredited investors, resulted in $595,000 in gross proceeds
+(of which $250,000 was from a related party) to the Company and accrue interest at 12% per annum, payable semi-annually on January 29th
+and July 29th. On January 29, 2015, the Company and 12 of the 13 holders of the Notes agreed to extend the maturity date of the Notes
+for an additional two years to January 29, 2017. Effective January 29, 2017, the maturity date of the Notes and the expiration date of
+the warrants that were issued in conjunction with the Notes were extended for an additional two years to January 29, 2019.
+As a result of the Company restructuring its balance
+sheet through conversions of related party debt to common stock, the related party 12% Noteholder, James F. Westmoreland, the Company’s
+President and Chief Executive Officer, chose to convert the principal and accrued interest of their Notes to the Company’s common
+stock. The related party Note for $250,000 and accrued interest of $264,986 were converted to common stock at a rate of approximately
+$0.45 for every dollar of principal and interest resulting in 1,144,415 shares of common stock being issued.
+During the nine months ended November 30, 2022, one
+12% Note holder chose to convert the principal balance and accrued interest in to the Company’s common stock. The $25,000 Note and
+accrued interest of $10,520 were converted at a rate of approximately $0.45 for every dollar of principal and interest resulting in 78,934
+shares of common stock being issued.
+The Company has informed the Note holders that the
+payment of principal and final interest will be late and is subject to future financing being completed and the Company’s cash flow.
+The Notes principal of $290,000 has not been paid. The terms of the Notes, state that should the Board of Directors decide that the payment
+of the principal and any unpaid interest would impair the financial condition or operations of the Company, the Company may then elect
+a mandatory conversion of the unpaid principal and interest into the Company’s common stock at a conversion rate equal to 75% of
+the average closing price of the Company’s common stock over the 20 consecutive trading days preceding December 31, 2018. The accrued
+interest on the 12% Notes at November 30, 2022 and February 28, 2022 was $150,927 and $135,229, respectively.
+12% Note balances at November 30, 2022 and February
+28, 2022 are set forth in the table below:
+November 30, 2022
+February 28, 2022
+12% Subordinated Notes
+$ 290,000
+$ 315,000
+12% Subordinated Notes – related party
+—
+—
+Total 12% Subordinated Note balance
+$ 290,000
+$ 315,000
+Line of Credit
+The Company had an existing $890,000 line of credit
+for working capital purposes with UBS Bank USA (“UBS”), established pursuant to a Credit Line Agreement dated October 24,
+2011 that was secured by the personal guarantee of its Chairman, President and Chief Executive Officer. On May 26, 2022, the Company paid
+off the outstanding balance of $809,930 on the line of credit. The payoff of the line of credit was previously approved under terms of
+the Equity Exchange Agreement in which the Company acquired the Reabold property in California. The payoff was a part of the use of proceeds
+from the Company’s sale of common stock to a third party.
+Production Revenue Payable
+Beginning in December 2018, the Company conducted
+a fundraising program to fund the drilling of future wells in California and Michigan and to settle some of its historical debt. The purchaser(s)
+of a production revenue payment interest received a production revenue payment on future wells to be drilled in California and Michigan
+in exchange for their purchase. The production payment interest entitles the purchasers to receive production payments equal to twice
+their original amount paid, payable from a percentage of the Company’s future net production payments from wells drilled after the
+date of the purchase and until the Production Payment Target (as described below) is met.  The Company shall pay fifty percent of
+its net production payments from the relevant wells to the purchasers until each purchaser has received two times the purchase price (the
+“Production Payment Target”). Once the Company pays the purchasers amounts equal to the Production Payment Target, it shall
+thereafter pay a pro-rated eight percent (8%) of $1.3 million on its net production payments from the relevant wells to each of the purchasers.
+However, if the total raised is less than the target $1.3 million, then the payment will be a proportionate amount of the eight percent
+(8%). Additionally, if the Production Payment Target is not met within the first three years, the Company shall pay seventy-five percent
+of its production payments from the relevant wells to the purchasers until the Production Payment Target is met.
+27
+The Company accounted for the amounts received from
+these sales in accordance with ASC 470-10-25 and 470-10-35 which require amounts recorded as debt to be amortized under the interest method
+as described in ASC 835-30, Interest Method. Consequently, the net program balance of $865,480 has been recognized as a production revenue
+payable. The Company determined an effective interest rate based on future expected cash flows to be paid to the holders of the production
+payment interests. This rate represents the discount rate that equates estimated cash flows with the initial proceeds received from the
+sales and is used to compute the amount of interest to be recognized each period. Estimating the future cash outflows under this agreement
+requires the Company to make certain estimates and assumptions about future revenues and payments and such estimates are subject to significant
+variability. Therefore, the estimates are likely to change which may result in future adjustments to the accretion of the interest expense
+and the amortized cost based carrying value of the related payables.
+Accordingly, the Company has estimated the cash flows
+associated with the production revenue payments of $951,417 and determined a discount of $85,937 as of November 30, 2022, which is being
+accounted as interest expense over the estimated period over which payments will be made based on expected future revenue streams. For
+the nine months ended November 30, 2022 and 2021, amortization of the debt discount on these payables amounted to $50,063 and $87,008,
+respectively, which has been included in interest expense in the statements of operations.
+Production revenue payable balances at November 30,
+2022 and February 28, 2022 are set forth in the table below:
+November 30, 2022
+February 28, 2022
+Estimated payments of production revenue payable
+$ 981,417
+$ 941,259
+Less: unamortized discount
+(85,937 )
+(124,134 )
+865,480
+817,125
+Less: current portion
+(162,991 )
+(78,877 )
+Net production revenue payable – long-term
+$ 702,489
+$ 738,248
+Encumbrances
+On October 17, 2018, a working interest partner in
+California filed a UCC financing statement in regards to payable amounts owed to the partner by the Company.
+Operating Leases
+The Company leases approximately 988 rentable square
+feet of office space from an unaffiliated third party for our former corporate office located in Spokane Valley, Washington. Additionally,
+we lease approximately 416 and 695 rentable square feet from unaffiliated third parties for our regional operations office in Friendswood,
+Texas and storage and auxiliary office space in Wallace, Idaho, respectively. The lease in Friendswood is a 12 month lease that expires
+in October 2022. The Spokane Valley and Wallace leases are currently on a month-to-month basis. The Company’s lease agreements do
+not contain any residual value guarantees, restrictive covenants or variable lease payments. The Company has not entered into any financing
+leases.
+The Company determines if an arrangement is a lease
+at inception. Operating leases are recorded in operating lease right of use assets, net, operating lease liability – current, and
+operating lease liability – long-term on its balance sheet.
+Rent expense for the nine months ended November 30,
+2022 and 2021 was $17,867 and $17,542, respectively.
+Related Party Transactions
+In California at the East Slopes Project, two of the
+vendors that the Company uses for services are partially owned by a related party, the Company’s Chief Operating Officer. The Company’s
+Chief Operating Officer is a 50% owner in both Great Earth Power and ABPlus Net Holdings. Great Earth Power began providing a portion
+of the solar power electrical service for production operations in July 2020. ABPlus Net Holdings began providing portable tank rentals
+to the Company as a part of its water treatment and disposal operations in September 2020. The services provided by Great Earth Power
+and ABPlus Net Holdings are competitive with other vendors and save the Company significant expense. For the nine months ended November
+30, 2022 and 2021, Great Earth Power was paid $13,300 and $20,038, respectively. For the nine months ended November 30, 2022 and 2021,
+ABPlus Net holdings was paid $8,640 and $10,560, respectively.
+28
+Capital Commitments
+Daybreak has ongoing capital commitments to develop
+certain leases pursuant to their underlying terms. Failure to meet such ongoing commitments may result in the loss of the right to participate
+in future drilling on certain leases or the loss of the lease itself. These ongoing capital commitments may also cause us to seek additional
+capital from sources outside of the Company. The current uncertainty in the credit and capital markets, and the current economic downturn
+in the energy sector, may restrict our ability to obtain needed capital.
+Management Plans to Continue as a Going Concern
+We continue to implement plans to enhance our ability
+to continue as a going concern. Daybreak currently has a net revenue interest (“NRI”) in 20 producing crude oil wells in its
+East Slopes Project located in Kern County, California (the “East Slopes Project”). The revenue from these wells has created
+a steady and reliable source of income for the Company. The Company’s average working interest (“WI”) in these wells
+is 36.6% and the average net revenue interest (“NRI”) is 27.6% for these same wells.
+In May 2022, we acquired Reabold California, LLC (“Reabold”)
+from a third party. This property currently includes four producing wells, five shut-in wells, and two potential disposal wells in the
+Monterey and Contra Costa counties of California. We have a 50% working interest with a 40% net revenue interest in this project.
+In conjunction with our acquisition of Reabold, we
+were able to secure a capital raise of $2,500,000 through the issuances of the Company’s common stock.
+We anticipate our revenue will continue to increase
+as the Company participates in the drilling of more wells in the East Slopes and the Reabold Projects in California. Daybreak’s
+sources of funds in the past have included the debt or equity markets and the sale of assets. It will be necessary for us to obtain additional
+funding from the private or public debt or equity markets in the future. However, we cannot offer any assurance that it will be successful
+in executing the aforementioned plans to continue as a going concern.
+Our financial statements as of November 30, 2022 do
+not include any adjustments that might result from the inability to implement or execute our plans to improve our ability to continue
+as a going concern.
+Critical Accounting Policies
+Refer to Daybreak’s Annual Report on Form 10-K
+for the fiscal year ended February 28, 2022.
+Off-Balance Sheet Arrangements
+As of November 30, 2022, we did not have any off-balance
+sheet arrangements or relationships with unconsolidated entities or financial partners that have been, or are reasonably likely to have,
+a material effect on our financial position or results of operations.
+29
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES
+ABOUT MARKET RISK
+As a smaller reporting company, we are not required
+to provide the information otherwise required by this Item.
+ITEM 4. CONTROLS AND PROCEDURES
+Management’s Evaluation of Disclosure
+Controls and Procedures
+As of the end of the reporting period, November 30,
+2022, an evaluation was conducted by Daybreak management, including our President and Chief Executive Officer, who is also serving as
+our interim principal finance and accounting officer, as to the effectiveness of the design and operation of our disclosure controls and
+procedures pursuant to Rule 13a-15(e) of the Exchange Act. Such disclosure controls and procedures are designed to ensure that information
+required to be disclosed by a company in the reports that it files under the Exchange Act is recorded, processed, summarized and reported
+within required time periods specified by the SEC rules and forms. Additionally, it is vital that such information is accumulated and
+communicated to our management, including our President and Chief Executive Officer, in a manner to allow timely decisions regarding required
+disclosures. Based on that evaluation, our management concluded that our disclosure controls were effective as of November 30, 2022.
+Changes in Internal Control over Financial Reporting
+During the three months ended November 30, 2022, there
+have not been any changes in the Company’s internal control over financial reporting that have materially affected, or are reasonably
+likely to materially affect, the Company’s internal control over financial reporting.
+Limitations
+Our management does not expect that our disclosure
+controls or internal controls over financial reporting will prevent all errors or all instances of fraud. A control system, no matter
+how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be
+met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must
+be considered relative to their costs.
+Because of the inherent limitations in all control
+systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within our company
+have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns
+can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of
+two or more people, or by management override of the controls. The design of any system of controls is based in part upon certain assumptions
+about the likelihood of future events, and any design may not succeed in achieving its stated goals under all potential future conditions.
+Over time, controls may become inadequate because
+of changes in conditions or deterioration in the degree of compliance with policies or procedures. Because of the inherent limitation
+of a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+30
+PART II
+OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+None
+ITEM 1A. RISK FACTORS
+In addition to the other information set forth in
+this Form 10-Q Report, you should carefully consider the various factors discussed in Part I, Item 1A. Risk Factors in our Annual Report
+on Form 10-K for the year ended February 28, 2022, which could materially affect our business, financial condition or future results.
+Our Annual Report is available from the SEC at www.sec.gov. The risks described in this report are not the only risks we face. Additional
+risks and uncertainties not currently known to us or that we currently deem to be immaterial could have a material adverse effect on our
+business, financial condition or future results of operations.
+31
+ITEM 6. EXHIBITS
+The following Exhibits are filed as part of the report:
+Exhibit
+Number
+Description
+31.1 (1)
+Certification of principal executive and principal financial officer as required pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1 (1)
+Certification of principal executive and principal financial officer as required pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS (2)
+Inline XBRL Instance Document
+101.SCH (2)
+Inline XBRL Taxonomy Schema
+101.CAL (2)
+Inline XBRL Taxonomy Calculation Linkbase
+101.DEF (2)
+Inline XBRL Taxonomy Definition Linkbase
+101.LAB (2)
+Inline XBRL Taxonomy Label Linkbase
+101.PRE (2)
+Inline XBRL Taxonomy Presentation Linkbase
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+(1)        Filed
+herewith.
+(2)        Furnished
+herewith
+32
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+DAYBREAK OIL AND GAS, INC.
+By:
+/s/ JAMES F. WESTMORELAND
+James F. Westmoreland, its
+President, Chief Executive Officer and interim
+principal finance and accounting officer
+(Principal Executive Officer, Principal Financial
+Officer and Principal Accounting Officer)
+Date:
+January
+17 , 2023
+33

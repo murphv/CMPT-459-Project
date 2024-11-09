@@ -1,0 +1,3270 @@
+2023
+2
+7
+4
+17
+488
+460
+0.50
+0.50
+30,000,000
+30,000,000
+7,560,420
+7,560,420
+7,529,078
+7,529,078
+0.2
+0.1
+October 20, 2022
+3
+5
+5
+10
+0
+3
+5
+3
+5
+3
+5
+3
+10
+15
+15
+15
+5
+4
+0
+Operating expense allocations between segments are based on actual amounts, a percentage of revenues, headcount, and management’s estimates.
+Revenues are attributed to the countries based on the destination of a product shipment or the location where service is rendered.
+United States includes Puerto Rico.
+0000099302 2022-03-27 2022-12-24
+xbrli:shares
+0000099302 2023-01-27
+iso4217:USD
+0000099302 us-gaap:ServiceMember 2022-09-25 2022-12-24
+0000099302 us-gaap:ServiceMember 2021-09-26 2021-12-25
+0000099302 us-gaap:ServiceMember 2022-03-27 2022-12-24
+0000099302 us-gaap:ServiceMember 2021-03-28 2021-12-25
+0000099302 us-gaap:DistributionServiceMember 2022-09-25 2022-12-24
+0000099302 us-gaap:DistributionServiceMember 2021-09-26 2021-12-25
+0000099302 us-gaap:DistributionServiceMember 2022-03-27 2022-12-24
+0000099302 us-gaap:DistributionServiceMember 2021-03-28 2021-12-25
+0000099302 2022-09-25 2022-12-24
+0000099302 2021-09-26 2021-12-25
+0000099302 2021-03-28 2021-12-25
+iso4217:USD xbrli:shares
+0000099302 2022-12-24
+0000099302 2022-03-26
+0000099302 2021-03-27
+0000099302 2021-12-25
+0000099302 trns:NEXAMember 2022-03-27 2022-12-24
+0000099302 trns:NEXAMember 2021-03-28 2021-12-25
+0000099302 trns:AllianceMember 2022-03-27 2022-12-24
+0000099302 trns:AllianceMember 2021-03-28 2021-12-25
+0000099302 us-gaap:CommonStockMember 2021-03-27
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2021-03-27
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-03-27
+0000099302 us-gaap:RetainedEarningsMember 2021-03-27
+0000099302 us-gaap:CommonStockMember 2021-03-28 2021-06-26
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2021-03-28 2021-06-26
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-03-28 2021-06-26
+0000099302 us-gaap:RetainedEarningsMember 2021-03-28 2021-06-26
+0000099302 2021-03-28 2021-06-26
+0000099302 us-gaap:CommonStockMember 2021-06-26
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2021-06-26
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-26
+0000099302 us-gaap:RetainedEarningsMember 2021-06-26
+0000099302 2021-06-26
+0000099302 us-gaap:CommonStockMember 2021-06-27 2021-09-25
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2021-06-27 2021-09-25
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-27 2021-09-25
+0000099302 us-gaap:RetainedEarningsMember 2021-06-27 2021-09-25
+0000099302 2021-06-27 2021-09-25
+0000099302 us-gaap:CommonStockMember 2021-09-25
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2021-09-25
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-25
+0000099302 us-gaap:RetainedEarningsMember 2021-09-25
+0000099302 2021-09-25
+0000099302 us-gaap:CommonStockMember 2021-09-26 2021-12-25
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2021-09-26 2021-12-25
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-26 2021-12-25
+0000099302 us-gaap:RetainedEarningsMember 2021-09-26 2021-12-25
+0000099302 us-gaap:CommonStockMember 2021-12-25
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2021-12-25
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-25
+0000099302 us-gaap:RetainedEarningsMember 2021-12-25
+0000099302 us-gaap:CommonStockMember 2022-03-26
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2022-03-26
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-03-26
+0000099302 us-gaap:RetainedEarningsMember 2022-03-26
+0000099302 us-gaap:CommonStockMember 2022-03-27 2022-06-25
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2022-03-27 2022-06-25
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-03-27 2022-06-25
+0000099302 us-gaap:RetainedEarningsMember 2022-03-27 2022-06-25
+0000099302 2022-03-27 2022-06-25
+0000099302 us-gaap:CommonStockMember 2022-06-25
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2022-06-25
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-25
+0000099302 us-gaap:RetainedEarningsMember 2022-06-25
+0000099302 2022-06-25
+0000099302 us-gaap:CommonStockMember 2022-06-26 2022-09-24
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2022-06-26 2022-09-24
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-26 2022-09-24
+0000099302 us-gaap:RetainedEarningsMember 2022-06-26 2022-09-24
+0000099302 2022-06-26 2022-09-24
+0000099302 us-gaap:CommonStockMember 2022-09-24
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2022-09-24
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-24
+0000099302 us-gaap:RetainedEarningsMember 2022-09-24
+0000099302 2022-09-24
+0000099302 us-gaap:CommonStockMember 2022-09-25 2022-12-24
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2022-09-25 2022-12-24
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-25 2022-12-24
+0000099302 us-gaap:RetainedEarningsMember 2022-09-25 2022-12-24
+0000099302 us-gaap:CommonStockMember 2022-12-24
+0000099302 us-gaap:AdditionalPaidInCapitalMember 2022-12-24
+0000099302 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-24
+0000099302 us-gaap:RetainedEarningsMember 2022-12-24
+0000099302 us-gaap:ForeignExchangeContractMember 2022-12-24
+0000099302 trns:DistributionSegmentMember 2022-03-26
+0000099302 trns:ServiceSegmentMember 2022-03-26
+0000099302 trns:DistributionSegmentMember 2022-03-27 2022-12-24
+0000099302 trns:ServiceSegmentMember 2022-03-27 2022-12-24
+0000099302 trns:DistributionSegmentMember 2022-12-24
+0000099302 trns:ServiceSegmentMember 2022-12-24
+0000099302 us-gaap:RevolvingCreditFacilityMember 2020-05-18
+0000099302 us-gaap:RevolvingCreditFacilityMember 2021-07-07
+0000099302 us-gaap:LetterOfCreditMember 2020-05-18
+0000099302 us-gaap:LetterOfCreditMember 2021-07-07
+0000099302 us-gaap:RevolvingCreditFacilityMember srt:MinimumMember 2022-03-26
+0000099302 us-gaap:RevolvingCreditFacilityMember srt:MaximumMember 2022-03-26
+0000099302 us-gaap:RevolvingCreditFacilityMember srt:MaximumMember 2022-12-24
+xbrli:pure
+0000099302 trns:The2018TermLoanMember 2021-07-07
+0000099302 trns:The2018TermLoanMember 2020-05-18
+thunderdome:item
+0000099302 us-gaap:RevolvingCreditFacilityMember 2020-05-18 2020-05-18
+0000099302 us-gaap:RevolvingCreditFacilityMember 2022-12-24
+0000099302 trns:The2018TermLoanMember 2022-12-24
+0000099302 trns:The2018TermLoanMember 2022-03-27 2022-12-24
+0000099302 us-gaap:RevolvingCreditFacilityMember 2021-06-26
+0000099302 trns:The2018TermLoanMember 2021-06-26
+0000099302 trns:The2018TermLoanMember 2021-09-26
+0000099302 us-gaap:RevolvingCreditFacilityMember srt:MinimumMember 2022-12-24
+0000099302 us-gaap:RevolvingCreditFacilityMember 2022-03-27 2022-12-24
+0000099302 us-gaap:RevolvingCreditFacilityMember 2021-03-28 2022-03-26
+0000099302 us-gaap:RevolvingCreditFacilityMember 2021-03-28 2021-06-26
+0000099302 trns:The2021PlanMember 2022-12-24
+utr:Y
+0000099302 trns:PerformancebasedRestrictedStockUnitsMember 2022-03-27 2022-12-24
+0000099302 trns:PerformancebasedRestrictedStockUnitsMember 2019-03-28 2020-03-28
+0000099302 trns:PerformancebasedRestrictedStockUnitsMember 2022-03-27 2022-06-25
+0000099302 trns:October2018Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:April2020Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:July2020Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:September2020FirstIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:September2020SecondIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:September2020ThirdIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:January2021Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:May2021Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:June2021FirstIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:June2021SecondIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:September2021FirstIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:December2021Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:January2022Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:March2022Member trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:May2022FirstIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:May2022SecondIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:August2022IssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:December2022FirstIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:December2022SecondIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 trns:September2022FirstIssuanceMember trns:PerformancebasedRestrictedStockUnitsMember 2022-12-24
+0000099302 us-gaap:RestrictedStockUnitsRSUMember 2022-03-27 2022-12-24
+0000099302 us-gaap:RestrictedStockUnitsRSUMember 2021-03-28 2021-12-25
+0000099302 us-gaap:RestrictedStockUnitsRSUMember 2022-12-24
+0000099302 us-gaap:EmployeeStockOptionMember 2022-03-27 2022-12-24
+0000099302 us-gaap:EmployeeStockOptionMember srt:MinimumMember 2022-03-27 2022-12-24
+0000099302 us-gaap:EmployeeStockOptionMember srt:MaximumMember 2022-03-27 2022-12-24
+0000099302 us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-03-27 2022-12-24
+0000099302 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember 2022-03-27 2022-12-24
+0000099302 trns:BoardOfDirectorsMemberMember 2022-03-27 2022-12-24
+0000099302 us-gaap:EmployeeStockOptionMember trns:BoardOfDirectorsMemberMember 2022-03-27 2022-12-24
+0000099302 us-gaap:ShareBasedPaymentArrangementEmployeeMember 2021-03-28 2021-12-25
+0000099302 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember srt:MinimumMember 2021-03-28 2021-12-25
+0000099302 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember srt:MaximumMember 2021-03-28 2021-12-25
+0000099302 us-gaap:ShareBasedPaymentArrangementEmployeeMember trns:EachOfFiveEmployeesMember 2021-03-28 2021-12-25
+0000099302 us-gaap:ShareBasedPaymentArrangementEmployeeMember trns:FiveEmployeesMember 2021-03-28 2021-12-25
+0000099302 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember trns:FiveEmployeesMember 2021-03-28 2021-12-25
+0000099302 us-gaap:EmployeeStockOptionMember us-gaap:ShareBasedPaymentArrangementEmployeeMember trns:CompanyEmployeesTwoMember 2021-03-28 2021-12-25
+0000099302 us-gaap:EmployeeStockOptionMember 2021-03-28 2021-12-25
+0000099302 us-gaap:EmployeeStockOptionMember 2022-12-24
+0000099302 trns:ServiceSegmentMember 2022-09-25 2022-12-24
+0000099302 trns:ServiceSegmentMember 2021-09-26 2021-12-25
+0000099302 trns:ServiceSegmentMember 2021-03-28 2021-12-25
+0000099302 trns:DistributionSegmentMember 2022-09-25 2022-12-24
+0000099302 trns:DistributionSegmentMember 2021-09-26 2021-12-25
+0000099302 trns:DistributionSegmentMember 2021-03-28 2021-12-25
+0000099302 country:US 2022-09-25 2022-12-24
+0000099302 country:US 2021-09-26 2021-12-25
+0000099302 country:US 2022-03-27 2022-12-24
+0000099302 country:US 2021-03-28 2021-12-25
+0000099302 country:CA 2022-09-25 2022-12-24
+0000099302 country:CA 2021-09-26 2021-12-25
+0000099302 country:CA 2022-03-27 2022-12-24
+0000099302 country:CA 2021-03-28 2021-12-25
+0000099302 trns:OtherInternationalMember 2022-09-25 2022-12-24
+0000099302 trns:OtherInternationalMember 2021-09-26 2021-12-25
+0000099302 trns:OtherInternationalMember 2022-03-27 2022-12-24
+0000099302 trns:OtherInternationalMember 2021-03-28 2021-12-25
+0000099302 trns:CompleteCalibrationsMember 2022-09-28 2022-09-28
+iso4217:EUR
+0000099302 trns:CompleteCalibrationsMember trns:TechnologyLicenseAgreementMember 2022-09-28 2022-09-28
+0000099302 trns:CompleteCalibrationsMember 2022-09-28
+0000099302 trns:CompleteCalibrationsMember 2022-09-28 2022-12-24
+0000099302 trns:E2bMember 2022-09-27 2022-09-27
+0000099302 trns:E2bMember 2022-09-27
+0000099302 trns:E2bMember us-gaap:CustomerRelatedIntangibleAssetsMember 2022-09-27
+0000099302 trns:E2bMember us-gaap:NoncompeteAgreementsMember 2022-09-27
+0000099302 trns:E2bMember 2022-09-27 2022-12-24
+0000099302 trns:AllianceMember 2022-05-31 2022-05-31
+0000099302 trns:AllianceMember 2022-05-31
+0000099302 trns:AllianceMember us-gaap:CustomerRelatedIntangibleAssetsMember 2022-05-31
+0000099302 trns:AllianceMember us-gaap:NoncompeteAgreementsMember 2022-05-31
+0000099302 trns:AllianceMember 2022-05-31 2022-12-24
+0000099302 trns:TangentMember 2021-12-31 2021-12-31
+0000099302 trns:TangentMember 2021-12-31
+0000099302 trns:TangentMember 2022-06-26 2022-12-24
+0000099302 trns:TangentMember us-gaap:CustomerRelatedIntangibleAssetsMember 2021-12-31
+0000099302 trns:TangentMember us-gaap:NoncompeteAgreementsMember 2021-12-31
+0000099302 trns:TangentMember 2022-03-27 2022-12-24
+0000099302 trns:NEXAMember 2021-08-31 2021-08-31
+0000099302 trns:NEXAMember 2021-08-31
+0000099302 trns:NEXAMember us-gaap:MeasurementInputCostToSellMember 2021-08-31
+0000099302 trns:NEXAMember us-gaap:MeasurementInputRiskFreeInterestRateMember 2021-08-31
+0000099302 trns:NEXAMember us-gaap:MeasurementInputPriceVolatilityMember 2021-08-31
+0000099302 trns:NEXAMember us-gaap:CustomerRelatedIntangibleAssetsMember 2021-08-31
+0000099302 trns:NEXAMember us-gaap:OrderOrProductionBacklogMember 2021-08-31
+0000099302 trns:NEXAMember us-gaap:NoncompeteAgreementsMember 2021-08-31
+0000099302 trns:UpstateMetrologyMember 2021-04-29 2021-04-29
+0000099302 trns:UpstateMetrologyMember 2021-04-29
+0000099302 trns:UpstateMetrologyMember 2022-03-27 2022-12-24
+0000099302 trns:UpstateMetrologyMember 2021-03-28 2021-12-25
+0000099302 us-gaap:GeneralAndAdministrativeExpenseMember 2022-03-27 2022-12-24
+0000099302 us-gaap:GeneralAndAdministrativeExpenseMember 2021-03-28 2021-12-25
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_______________
+FORM
+10-Q
+(Mark one)
+☑
+Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended:
+December 24, 2022
+or
+☐
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from
+to
+Commission File Number:
+000-03905
+TRANSCAT, INC.
+(Exact name of registrant as specified in its charter)
+Ohio
+16-0874418
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+35 Vantage Point Drive ,
+Rochester ,
+New York
+14624
+(Address of principal executive offices) (Zip Code)
+( 585 )
+352-7777
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.50 par value
+TRNS
+Nasdaq
+Global Market
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☑   No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑   No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer
+☑
+Non-accelerated filer ☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐    No ☑
+The number of shares of common stock, par value $0.50 per share, of the registrant outstanding as of January 27, 2023 was
+7,561,512 .
+Table of Contents
+Page(s)
+PART I.
+FINANCIAL INFORMATION
+Item 1.
+Consolidated Financial Statements:
+Statements of Income for the Third Quarter and Nine Months Ended December 24, 2022 and December 25, 2021
+1
+Statements of Comprehensive Income for the Third Quarter and Nine Months Ended December 24, 2022 and December 25, 2021
+2
+Balance Sheets as of December 24, 2022 and March 26, 2022
+3
+Statements of Cash Flows for the Nine Months Ended December 24, 2022 and December 25, 2021
+4
+Statements of Changes in Shareholders’ Equity for the Third Quarter and Nine Months Ended December 24, 2022 and December 25, 2021
+5
+Notes to Consolidated Financial Statements
+6
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+19
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+31
+Item 4.
+Controls and Procedures
+32
+PART II.
+OTHER INFORMATION
+Item 6.
+Exhibits
+33
+SIGNATURES
+34
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1. CONSOLIDATED FINANCIAL STATEMENTS
+TRANSCAT, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(In Thousands, Except Per Share Amounts)
+(Unaudited)
+(Unaudited)
+Third Quarter Ended
+Nine Months Ended
+December 24,
+December 25,
+December 24,
+December 25,
+2022
+2021
+2022
+2021
+Service Revenue
+$ 35,977     $ 30,237     $ 105,120     $ 87,338
+Distribution Sales
+21,425       20,665       63,382       61,741
+Total Revenue
+57,402       50,902       168,502       149,079
+Cost of Service Revenue
+25,184       21,254       72,005       59,891
+Cost of Distribution Sales
+15,818       16,012       47,292       47,421
+Total Cost of Revenue
+41,002       37,266       119,297       107,312
+Gross Profit
+16,400       13,636       49,205       41,767
+Selling, Marketing and Warehouse Expenses
+6,595       5,051       18,315       15,022
+General and Administrative Expenses
+6,642       6,224       20,497       17,117
+Total Operating Expenses
+13,237       11,275       38,812       32,139
+Operating Income
+3,163       2,361       10,393       9,628
+Interest and Other Expense, net
+1,039       136       1,732       581
+Income Before Income Taxes
+2,124       2,225       8,661       9,047
+Provision for Income Taxes
+523       596       1,631       715
+Net Income
+$ 1,601     $ 1,629     $ 7,030     $ 8,332
+Basic Earnings Per Share
+$ 0.21     $ 0.22     $ 0.93     $ 1.11
+Average Shares Outstanding
+7,559       7,519       7,547       7,487
+Diluted Earnings Per Share
+$ 0.21     $ 0.21     $ 0.92     $ 1.10
+Average Shares Outstanding
+7,666       7,653       7,644       7,599
+See accompanying notes to consolidated financial statements.
+1
+Table of Contents
+TRANSCAT, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In Thousands)
+(Unaudited)
+(Unaudited)
+Third Quarter Ended
+Nine Months Ended
+December 24,
+December 25,
+December 24,
+December 25,
+2022
+2021
+2022
+2021
+Net Income
+$ 1,601     $ 1,629     $ 7,030     $ 8,332
+Other Comprehensive Income (Loss):
+Currency Translation Adjustment
+393       ( 233 )     ( 878 )     ( 314 )
+Other, net of tax effects of $ 2
+and $ 7
+for the third quarter ended December 24, 2022 and December 25, 2021, respectively; and $( 4 ) and $ 17
+for the nine months ended December 24, 2022 and December 25, 2021, respectively
+8       18       ( 12 )     48
+Total Other Comprehensive Income (Loss)
+401       ( 215 )     ( 890 )     ( 266 )
+Comprehensive Income
+$ 2,002     $ 1,414     $ 6,140     $ 8,066
+See accompanying notes to consolidated financial statements.
+2
+Table of Contents
+TRANSCAT, INC.
+CONSOLIDATED BALANCE SHEETS
+(In Thousands, Except Share and Per Share Amounts)
+(Unaudited)
+(Audited)
+December 24,
+March 26,
+2022
+2022
+ASSETS
+Current Assets:
+Cash
+$ 1,593     $ 1,396
+Accounts Receivable, less allowance for doubtful accounts of $ 488
+and $ 460
+as of December 24, 2022 and March 26, 2022, respectively
+37,702       39,737
+Other Receivables
+377       558
+Inventory, net
+16,884       12,712
+Prepaid Expenses and Other Current Assets
+4,141       5,301
+Total Current Assets
+60,697       59,704
+Property and Equipment, net
+28,334       26,439
+Goodwill
+68,826       65,074
+Intangible Assets, net
+14,843       14,692
+Right To Use Assets, net
+14,874       11,026
+Other Assets
+895       827
+Total Assets
+$ 188,469     $ 177,762
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+Accounts Payable
+$ 13,845     $ 14,171
+Accrued Compensation and Other Current Liabilities
+9,012       11,378
+Current Portion of Long-Term Debt
+2,227       2,161
+Total Current Liabilities
+25,084       27,710
+Long-Term Debt
+46,941       46,291
+Deferred Tax Liabilities, net
+6,672       6,724
+Lease Liabilities
+12,998       9,194
+Other Liabilities
+1,490       1,667
+Total Liabilities
+93,185       91,586
+Shareholders' Equity:
+Common Stock, par value $ 0.50
+per share,
+30,000,000
+shares authorized;
+7,560,420
+and
+7,529,078
+shares issued and outstanding as of December 24, 2022 and March 26, 2022, respectively
+3,780       3,765
+Capital in Excess of Par Value
+27,123       23,900
+Accumulated Other Comprehensive Loss
+( 1,123 )     ( 233 )
+Retained Earnings
+65,504       58,744
+Total Shareholders' Equity
+95,284       86,176
+Total Liabilities and Shareholders' Equity
+$ 188,469     $ 177,762
+See accompanying notes to consolidated financial statements.
+3
+Table of Contents
+TRANSCAT, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In Thousands)
+(Unaudited)
+Nine Months Ended
+December 24,
+December 25,
+2022
+2021
+Cash Flows from Operating Activities:
+Net Income
+$
+7,030
+$
+8,332
+Adjustments to Reconcile Net Income to Net Cash Provided by Operating Activities:
+Net Loss on Disposal of Property and Equipment
+62
+113
+Deferred Income Taxes
+( 52
+)
+5
+Depreciation and Amortization
+8,243
+6,899
+Provision for Accounts Receivable and Inventory Reserves
+174
+417
+Stock-Based Compensation Expense
+2,757
+1,681
+Changes in Assets and Liabilities, net of acquisitions:
+Accounts Receivable and Other Receivables
+1,850
+1,185
+Inventory
+( 3,589
+)
+( 1,794
+)
+Prepaid Expenses and Other Current Assets
+1,074
+( 3,280
+)
+Accounts Payable
+( 424
+)
+689
+Accrued Compensation and Other Current Liabilities
+( 3,150
+)
+( 1,470
+)
+Income Taxes Payable
+-
+( 399
+)
+Net Cash Provided by Operating Activities
+13,975
+12,378
+Cash Flows from Investing Activities:
+Purchases of Property and Equipment
+( 7,149
+)
+( 5,861
+)
+Proceeds from Sale of Property and Equipment
+10
+12
+Business Acquisitions, net of cash acquired
+( 8,306
+)
+( 20,910
+)
+Net Cash Used in Investing Activities
+( 15,445
+)
+( 26,759
+)
+Cash Flows from Financing Activities:
+Proceeds from Revolving Credit Facility, net
+2,286
+22,760
+Repayments of Term Loan
+( 1,570
+)
+( 1,565
+)
+Issuance of Common Stock
+503
+1,354
+Repurchase of Common Stock
+( 437
+)
+( 5,649
+)
+Net Cash Provided by Financing Activities
+782
+16,900
+Effect of Exchange Rate Changes on Cash
+885
+( 300
+)
+Net Increase in Cash
+197
+2,219
+Cash at Beginning of Period
+1,396
+560
+Cash at End of Period
+$
+1,593
+$
+2,779
+Supplemental Disclosure of Cash Flow Activity:
+Cash paid during the period for:
+Interest
+$
+1,510
+$
+531
+Income Taxes, net
+$
+957
+$
+3,263
+Supplemental Disclosure of Non-Cash Investing and Financing Activities:
+Common stock issued for acquisitions
+$
+145
+$
+2,368
+Assets acquired and liabilities assumed in business combinations:
+Accrued contingent consideration related to NEXA acquisition
+$
+-
+$
+153
+Accrued holdback consideration related to Alliance acquisition
+$
+518
+$
+-
+See accompanying notes to consolidated financial statements.
+4
+Table of Contents
+TRANSCAT, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS ’
+EQUITY
+(In Thousands, Except Par Value Amounts)
+(Unaudited)
+Capital
+Common Stock
+In
+Accumulated
+Issued
+Excess
+Other
+$0.50 Par Value
+of Par
+Comprehensive
+Retained
+Shares
+Amount
+Value
+Income (Loss)
+Earnings
+Total
+Balance as of March 27, 2021
+7,458
+$
+3,729
+$
+19,287
+$
+( 451
+)
+$
+52,513
+$
+75,078
+Issuance of Common Stock
+52
+26
+673
+-
+-
+699
+Repurchase of Common Stock
+( 62
+)
+( 31
+)
+( 755
+)
+-
+( 2,591
+)
+( 3,377
+)
+Stock-Based Compensation
+21
+10
+427
+-
+-
+437
+Other Comprehensive Income
+-
+-
+-
+182
+-
+182
+Net Income
+-
+-
+-
+-
+3,688
+3,688
+Balance as of June 26, 2021
+7,469
+$
+3,734
+$
+19,632
+$
+( 269
+)
+$
+53,610
+$
+76,707
+Issuance of Common Stock
+72
+36
+2,871
+-
+-
+2,907
+Repurchase of Common Stock
+( 35
+)
+( 18
+)
+( 403
+)
+-
+( 1,851
+)
+( 2,272
+)
+Stock-Based Compensation
+12
+7
+613
+-
+-
+620
+Other Comprehensive Loss
+-
+-
+-
+( 233
+)
+-
+( 233
+)
+Net Income
+-
+-
+-
+-
+3,015
+3,015
+Balance as of September 25, 2021
+7,518
+$
+3,759
+$
+22,713
+$
+( 502
+)
+$
+54,774
+$
+80,744
+Issuance of Common Stock
+2
+1
+115
+-
+-
+116
+Stock-Based Compensation
+1
+-
+624
+-
+-
+624
+Other Comprehensive Loss
+-
+-
+-
+( 215
+)
+-
+( 215
+)
+Net Income
+-
+-
+-
+-
+1,629
+1,629
+Balance as of December 25, 2021
+7,521
+$
+3,760
+$
+23,452
+$
+( 717
+)
+$
+56,403
+$
+82,898
+Capital
+Common Stock
+In
+Accumulated
+Issued
+Excess
+Other
+$0.50 Par Value
+of Par
+Comprehensive
+Retained
+Shares
+Amount
+Value
+Income (Loss)
+Earnings
+Total
+Balance as of March 26, 2022
+7,529
+$
+3,765
+$
+23,900
+$
+( 233
+)
+$
+58,744
+$
+86,176
+Issuance of Common Stock
+8
+3
+363
+-
+-
+366
+Repurchase of Common Stock
+( 7
+)
+( 3
+)
+( 164
+)
+-
+( 270
+)
+( 437
+)
+Stock-Based Compensation
+16
+8
+820
+-
+-
+828
+Other Comprehensive Loss
+-
+-
+-
+( 453
+)
+-
+( 453
+)
+Net Income
+-
+-
+-
+-
+3,072
+3,072
+Balance as of June 25, 2022
+7,546
+$
+3,773
+$
+24,919
+$
+( 686
+)
+$
+61,546
+$
+89,552
+Issuance of Common Stock
+3
+2
+141
+-
+-
+143
+Stock-Based Compensation
+9
+4
+1,110
+-
+-
+1,114
+Other Comprehensive Loss
+-
+-
+-
+( 838
+)
+-
+( 838
+)
+Net Income
+-
+-
+-
+-
+2,357
+2,357
+Balance as of September 24, 2022
+7,558
+$
+3,779
+$
+26,170
+$
+( 1,524
+)
+$
+63,903
+$
+92,328
+Issuance of Common Stock
+1
+-
+139
+-
+-
+139
+Stock-Based Compensation
+1
+1
+814
+-
+-
+815
+Other Comprehensive Income
+-
+-
+-
+401
+-
+401
+Net Income
+-
+-
+-
+-
+1,601
+1,601
+Balance as of December 24, 2022
+7,560
+$
+3,780
+$
+27,123
+$
+( 1,123
+)
+$
+65,504
+$
+95,284
+See accompanying notes to consolidated financial statements.
+5
+Table of Contents
+TRANSCAT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+NOTE
+1
+–
+GENERAL
+Description of Business:
+Transcat, Inc. (“Transcat,” “we,” “us,” “our” or the “Company”) is a leading provider of accredited calibration services, enterprise asset management services, and value-added distributor of professional grade handheld test, measurement and control instrumentation. The Company is focused on providing services and products to highly regulated industries, particularly the life science industry, which includes pharmaceutical, biotechnology, medical device and other FDA-regulated businesses. Additional industries served include industrial manufacturing; energy and utilities, including oil and gas; chemical manufacturing; FAA-regulated businesses, including aerospace and defense and other industries that require accuracy in their processes, confirmation of the capabilities of their equipment, and for which the risk of failure is very costly.
+Basis of Presentation:
+Transcat’s unaudited Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) for interim financial information and in accordance with the instructions to Form
+10 -Q and Rule
+10 - 01
+of Regulation S- X
+of the Securities and Exchange Commission (“SEC”). Accordingly, the Consolidated Financial Statements do
+not
+include all of the information and footnotes required by GAAP for complete financial statements. In the opinion of the Company’s management, all adjustments considered necessary for a fair presentation (consisting of normal recurring adjustments) have been included. The results for the interim periods are
+not
+necessarily indicative of what the results will be for the fiscal year. The accompanying Consolidated Financial Statements should be read in conjunction with the audited Consolidated Financial Statements as of and for the fiscal year ended
+March 26, 2022
+(“fiscal year
+2022 ”) contained in the Company’s Annual Report on Form
+10 -K for fiscal year
+2022
+filed with the SEC.
+Revenue Recognition:
+Distribution sales are recorded when an order’s title and risk of loss transfers to the customer, which is generally upon shipment. The Company recognizes the majority of its Service revenue based upon when the calibration or other activity is performed and then shipped and/or delivered to the customer. The majority of the Company’s revenue generating activities have a single performance obligation and are recognized at the point in time when control transfers and/or our obligation has been fulfilled. Some Service revenue is generated from managing customers’ calibration programs in which the Company recognizes revenue over time using the output method-time elapsed as this portrays the transfer of control to the customer. Revenue is measured as the amount of consideration the Company expects to receive in exchange for product shipped or services performed. Sales taxes and other taxes billed and collected from customers are excluded from revenue. The Company generally invoices its customers for freight, shipping, and handling charges. Freight billed to customers is included in revenue. Shipping and handling is
+not
+included in revenue. Provisions for customer returns are provided for in the period the related revenue is recorded based upon historical data.
+Under Accounting Standards Codification (“ASC”) Topic
+606,
+Revenue from Contracts with Customers, we use judgments that could potentially impact both the timing of our satisfaction of performance obligations and our determination of transaction prices used in determining revenue recognized. Such judgments include considerations in determining our transaction prices and when our performance obligations are satisfied for our standard product sales that include general payment terms that are between net
+30
+and
+90
+days.
+Revenue recognized from prior period performance obligations for the  third
+quarter of the fiscal year ending
+March 25, 2023 ( “fiscal year
+2023 ”) was immaterial. As of
+December 24, 2022 , the Company had
+no
+unsatisfied performance obligations for contracts with an original expected duration of greater than
+one
+year. Pursuant to Topic
+606,
+the Company applied the practical expedient with respect to disclosure of the deferral and future expected timing of revenue recognition for transaction price allocated to remaining performance obligations. Deferred revenue, unbilled revenue and deferred contract costs recorded on our Consolidated Balance Sheets as of
+December 24, 2022
+and
+March 26, 2022
+were immaterial. See Note
+4
+for disaggregated revenue information.
+Fair Value of Financial Instruments:
+Transcat has determined the fair value of debt and other financial instruments using a valuation hierarchy. The hierarchy, which prioritizes the inputs used in measuring fair value, consists of
+three
+levels. Level
+1
+uses observable inputs such as quoted prices in active markets; Level
+2
+uses inputs other than quoted prices in active markets that are either directly or indirectly observable; and Level
+3,
+which is defined as unobservable inputs in which little or
+no
+market data exists, requires the Company to develop its own assumptions. The carrying amount of debt on the Consolidated Balance Sheets approximates fair value due to variable interest rate pricing on a portion of the debt with the balance bearing an interest rate approximating current market rates, and the carrying amounts for cash, accounts receivable and accounts payable approximate fair value due to their short-term nature. Investment assets, which fund the Company’s non-qualified deferred compensation plan, consist of mutual funds and are valued based on Level
+1
+inputs. At each of
+December 24, 2022
+and
+March 26, 2022 , investment assets totaled $ 0.2
+million, and are included as a component of other assets (non-current) on the Consolidated Balance Sheets.
+6
+Table of Contents
+Stock-Based Compensation:
+The Company measures the cost of services received in exchange for all equity awards granted, including stock options and restricted stock units, based on the fair market value of the award as of the grant date. The Company records compensation cost related to unvested equity awards by recognizing, on a straight-line basis, the unamortized grant date fair value over the remaining service period of each award. Excess tax benefits for share-based award activity are reflected in the Consolidated Statements of Income as a component of the provision for income taxes. Excess tax benefits are realized benefits from tax deductions for exercised awards in excess of the deferred tax asset attributable to stock-based compensation costs for such awards. The Company did
+not
+capitalize any stock-based compensation costs as part of an asset. The Company estimates forfeiture rates based on its historical experience. During the
+first
+nine
+months of fiscal year
+2023
+and fiscal year
+2022 , the Company recorded non-cash stock-based compensation expense of $ 2.8  million and $ 1.7  million, respectively, in the Consolidated Statements of Income.
+Foreign Currency Translation and Transactions:
+The accounts of Cal OpEx Limited (d/b/a NEXA Enterprise Asset Management), an Irish company, Galium Limited (d/b/a Complete Calibrations), an Irish company, and Transcat Canada Inc., all of which are wholly-owned subsidiaries of the Company, are maintained in the local currencies, the Euro, Euro and Canadian dollar, respectively, and have been translated to U.S. dollars. Accordingly, the amounts representing assets and liabilities have been translated at the period-end rates of exchange and related revenue and expense accounts have been translated at an average rate of exchange during the period. Gains and losses arising from translation of Cal OpEx Limited’s, Galium Limited's and Transcat Canada Inc.’s financial statements into U.S. dollars are recorded directly to the accumulated other comprehensive loss component of shareholders’ equity.
+Transcat records foreign currency gains and losses on business transactions denominated in foreign currency. The net foreign currency loss was less than $ 0.1
+million in each of the
+first
+nine
+months of fiscal year
+2023
+and fiscal year
+2022 . The Company continually utilizes short-term foreign exchange forward contracts to reduce the risk that its future earnings denominated in Canadian dollars would be adversely affected by changes in currency exchange rates. The Company does
+not
+apply hedge accounting and therefore the net change in the fair value of the contracts, which totaled a gain of $ 0.3
+million and less than $ 0.1
+million during the
+first
+nine
+months of fiscal years
+2023
+and
+2022 , respectively, was recognized as a component of Interest and Other Expenses, net in the Consolidated Statements of Income. The change in the fair value of the contracts is offset by the change in fair value on the underlying accounts receivables denominated in Canadian dollars being hedged. On
+December 24, 2022 , the Company had a foreign exchange contract, which matured in
+January 2023,
+outstanding in the notional amount of $ 3.0  million. This contract was subsequently renewed and remains in place. The Company does
+not
+use hedging arrangements for speculative purposes.
+Earnings Per Share:
+Basic earnings per share of common stock is computed based on the weighted average number of shares of common stock outstanding during the period. Diluted earnings per share of common stock reflect the assumed conversion of stock options and unvested restricted stock units using the treasury stock method in periods in which they have a dilutive effect. In computing the per share effect of assumed conversion, proceeds received from the exercise of options and unvested restricted stock units are considered to have been used to purchase shares of common stock at the average market prices during the period, and the resulting net additional shares of common stock are included in the calculation of average shares of common stock outstanding.
+For the  third
+quarter of fiscal year
+2023 , the net additional common stock equivalents had
+no
+effect on the calculation of diluted earnings per share. For the
+third
+quarter of fiscal year
+2022,
+the net additional common stock equivalents had a ($ 0.01 ) effect on the calculation of diluted earnings per share. For the
+first
+nine
+months of fiscal year
+2023 , and fiscal year
+2022,
+the net additional common stock equivalents had a ($ 0.01 ) effect on the calculation of diluted earnings per share. The average shares outstanding used to compute basic and diluted earnings per share are as follows (amounts in thousands):
+Third Quarter Ended
+Nine Months Ended
+December 24,
+December 25,
+December 24,
+December 25,
+2022
+2021
+2022
+2021
+Average Shares Outstanding – Basic
+7,559       7,519       7,547       7,487
+Effect of Dilutive Common Stock Equivalents
+107       134       97       112
+Average Shares Outstanding – Diluted
+7,666       7,653       7,644       7,599
+Anti-dilutive Common Stock Equivalents
+148       -       163       100
+7
+Table of Contents
+Goodwill and Intangible Assets:
+Goodwill represents the excess of the purchase price over the fair values of the underlying net assets of an acquired business. The Company tests goodwill for impairment for each reporting unit on an annual basis during the
+fourth
+quarter of its fiscal year, or immediately if conditions indicate that such impairment could exist. The Company is permitted, but
+not
+required, to qualitatively assess indicators of a reporting unit’s fair value to determine whether it is necessary to perform the
+two -step goodwill impairment test. If a quantitative test is deemed necessary, a discounted cash flow analysis is prepared to estimate fair value.
+Intangible assets, namely customer base and covenants
+not
+to compete, represent an allocation of purchase price to identifiable intangible assets of an acquired business. Intangible assets are evaluated for impairment when events or changes in business circumstances indicate that the carrying amount of the assets
+may
+not
+be fully recoverable. A summary of changes in the Company’s goodwill and intangible assets is as follows (amounts in thousands):
+Goodwill
+Intangible Assets
+Distribution
+Service
+Total
+Distribution
+Service
+Total
+Net Book Value as of March 26, 2022
+$ 11,458     $ 53,616     $ 65,074     $ 647     $ 14,045     $ 14,692
+Additions
+-       4,496       4,496       -       3,576       3,576
+Measurement Period Adjustments
+-       ( 203 )     ( 203 )     -       -       -
+Amortization
+-       -       -       ( 152 )     ( 3,259 )     ( 3,411 )
+Currency Translation Adjustment
+-       ( 541 )     ( 541 )     -       ( 14 )     ( 14 )
+Net Book Value as of December 24, 2022
+$ 11,458     $ 57,368     $ 68,826     $ 495     $ 14,348     $ 14,843
+Recently Issued Accounting Pronouncements:
+In
+June 2016,
+the Financial Accounting Standard Board (“FASB”) issued ASU
+2016 - 13,
+Financial Instruments - Credit Losses (Topic
+326 ), which significantly changes how entities will measure credit losses for most financial assets and certain other instruments that are
+not
+measured at fair value through net income. The ASU replaces the "incurred loss" model with an "expected credit loss" model that requires entities to estimate an expected lifetime credit loss on financial assets, including trade accounts receivable. The ASU is effective for fiscal years, and interim periods within those fiscal years, beginning after
+December 15, 2022.
+Allowance for doubtful accounts is the most significant item for the Company under this ASU. As credit losses from the Company's trade receivables have
+not
+historically been significant, the Company anticipates that the adoption of the ASU will
+not
+have a material impact on its consolidated financial statements.
+NOTE
+2
+–
+LONG-TERM DEBT
+On
+July 7, 2021,
+we entered into the Second Amended and Restated Credit Facility Agreement (the
+“2021
+Credit Agreement”) with Manufacturers and Traders Trust Company (“M&T”), that amended and restated in its entirety the Company’s Amended and Restated Credit Facility Agreement dated as of
+October 30, 2017,
+as amended by Amended and Restated Credit Facility Agreement Amendment
+1
+dated
+December 10, 2018
+and Amended and Restated Credit Facility Agreement Amendment
+2
+(“Amendment Two”) dated
+May 18, 2020 ( as amended, the “Prior Credit Agreement”).
+The
+2021
+Credit Agreement increased the revolving credit commitment (the “Revolving Credit Commitment”) from $ 40.0
+million to $ 80.0
+million, with a letter of credit subfacility increased from $ 2.0
+million to $ 10.0
+million, and extended the term of the Revolving Credit Commitment to
+June 2026.
+The
+2021
+Credit Agreement amended the definition of Applicable Margin (formerly Applicable Rate under the Prior Credit Agreement), which is based upon the Company’s then current leverage ratio and is used to determine interest charges on outstanding and unused borrowings under the revolving credit facility; the amendments reduced the Applicable Margins payable at the
+two
+highest leverage ratio levels. The
+2021
+Credit Agreement also amended the definition of Permitted Acquisitions, that is, acquisitions which are permitted under, and
+may
+be financed with proceeds of, the revolving credit facility, including increasing the aggregate purchase price for acquisitions consummated in any fiscal year from $ 1.0
+million to $ 65.0
+million during fiscal year
+2022
+and $ 50.0
+million during any subsequent fiscal year, and adding an aggregate purchase price of $ 40.0
+million for acquisitions consummated at any time during the term of the
+2021
+Credit Agreement related to businesses with a principal place of business located in the United Kingdom or the European Union.
+8
+Table of Contents
+In addition, the
+2021
+Credit Agreement provides that, assuming
+no
+event of default, restricted payments up to $ 25.0
+million (increased from $ 10.0
+million in the Prior Credit Agreement) in the aggregate and $ 10.0
+million (increased from $ 3.0
+million in the Prior Credit Agreement) in any single fiscal year
+may
+be used by us to repurchase our shares and pay dividends. The
+2021
+Credit Agreement modified the leverage ratio and fixed charge coverage ratio covenants with which we are required to comply. The
+2021
+Credit Agreement also reduced the London Interbank Offered Rate (“LIBOR”) floor from
+1.0 % to
+0.25 % and included a mechanism for adoption of a different benchmark rate upon the discontinuation of LIBOR. The
+2021
+Credit Agreement also reduced the fixed interest rate on our term loan in the amount of $ 15.0
+million (the
+“2018
+Term Loan”) was reduced from
+4.15 % to
+3.90 %.
+The
+2021
+Credit Agreement superseded in its entirety, the Prior Credit Agreement. Amendment Two to the Prior Credit Agreement had previously extended the term of the revolving credit facility to
+October 20, 2022
+and increased the revolving credit commitment to $ 40.0
+million.
+Amendment Two had modified the definition of the applicable rate used to determine interest charges on outstanding and unused borrowings under the revolving credit facility and it amended the definition of permitted acquisitions to amend borrowings available under the revolving credit facility for acquisitions. In addition, Amendment Two had amended the definition of restricted payments to exclude amounts up to $ 2.5
+million during each fiscal year used to pay certain employee tax obligations associated with share-based payment and stock option activity, and modified certain restrictions to the Company’s ability to repurchase its shares and pay dividends. Amendment Two also had modified the leverage ratio and fixed charge coverage ratio covenants with which the Company was required to comply and limited capital expenditures to $ 5.5
+million for fiscal year
+2021.
+Amendment Two also had established a LIBOR floor of
+1.0 % and included a mechanism for adoption of a different benchmark rate in the event LIBOR was discontinued.
+As of
+December 24, 2022 , $ 80.0
+million was available under the revolving credit facility, of which $ 42.2  million was outstanding and included in long-term debt on the Consolidated Balance Sheets. During the
+first
+nine
+months of fiscal year
+2023 , $ 8.3  million was used for
+three  business acquisitions.
+As of
+December 24, 2022 , $ 7.0  million was outstanding on the
+2018
+Term Loan, of which $ 2.2
+million was included in current liabilities on the Consolidated Balance Sheets with the remainder included in long-term debt. The
+2018
+Term Loan requires total repayments (principal plus interest) of $ 0.2
+million per month through
+December 2025.
+Interest and Other Costs:
+Interest on outstanding borrowings under the revolving credit facility accrue, at Transcat’s election, at either the variable
+one -month LIBOR or a fixed rate for a designated period at the LIBOR corresponding to such period (subject to a
+1 % floor during the
+first
+quarter of fiscal year
+2022
+and a
+0.25 % floor for subsequent periods), in each case, plus a margin. Interest on outstanding borrowings under the
+2018
+Term Loan accrued at a fixed rate of
+4.15 % during the
+first
+quarter of fiscal year
+2022
+and accrued at a fixed rate of
+3.90 % during the
+second
+quarter of fiscal year
+2022
+and accrues at a fixed rate of
+3.90 % over the term of the loan for subsequent periods. Unused fees accrue based on the average daily amount of unused credit available on the revolving credit facility. Interest rate margins and unused fees are determined on a quarterly basis based upon the Company’s calculated leverage ratio. The Company’s interest rate for the revolving credit facility for the
+first
+nine
+months of fiscal year  2023
+ranged from
+1.6 % to
+6.0 %.
+Covenants:
+The
+2021
+Credit Agreement has certain covenants with which the Company must comply, including a fixed charge ratio covenant and a leverage ratio covenant. The Company was in compliance with all loan covenants and requirements during the  third
+quarter of fiscal year
+2023 . Our leverage ratio, as defined in the
+2021
+Credit Agreement, was
+1.66  at
+December 24, 2022 , compared with
+1.74
+at
+March 26, 2022 .
+Pursuant to the Prior Credit Agreement, we were required to comply with a fixed charge ratio covenant and a leverage ratio covenant, which were modified by the
+2021
+Credit Agreement. The allowable leverage ratio under the Prior Credit Agreement for the
+first
+quarter of fiscal year
+2022
+was a maximum multiple of
+4.0
+of total debt outstanding compared to EBITDA and non-cash stock-based compensation expense for the preceding
+four
+consecutive fiscal quarters. The Prior Credit Agreement also had provided that the trailing
+twelve -month pro forma EBITDA of an acquired business was included in the allowable leverage calculation. After the
+first
+quarter of fiscal year
+2022,
+pursuant to the
+2021
+Credit Agreement, the allowable leverage ratio is a maximum multiple of
+3.0 .
+Other Terms:
+The Company has pledged all of its U.S. tangible and intangible personal property, the equity interests of its U.S.-based subsidiaries, and a majority of the common stock of Transcat Canada Inc. as collateral security for the loans made under the revolving credit facility.
+9
+Table of Contents
+NOTE
+3
+–
+STOCK-BASED COMPENSATION
+In
+September 2021,
+the Transcat, Inc.
+2021
+Stock Incentive Plan (the
+“2021
+Plan”) was approved by shareholders and became effective. The
+2021
+Plan replaced the Transcat, Inc.
+2003
+Incentive Plan (the
+“2003
+Plan”). Shares available for grant under the
+2021
+Plan include any shares remaining available for issuance under the
+2003
+Plan and any shares that are subject to outstanding awards under the
+2003
+Plan that are subsequently canceled, expired, forfeited, or otherwise
+not
+issued or are settled in cash. The
+2021
+Plan provides for, among other awards, grants of restricted stock units and stock options to directors, officers and key employees at the fair market value at the date of grant. At
+December 24, 2022 ,
+0.7
+million shares of common stock were available for future grant under the
+2021
+Plan.
+The Company receives an excess tax benefit related to restricted stock vesting and stock options exercised and redeemed. The discrete tax benefits related to share-based compensation and stock option activity during the
+first
+nine
+months of fiscal year
+2023
+and fiscal year  2022
+were $ 0.5
+million and $ 1.7
+million, respectively.
+Restricted Stock Units:
+The Company grants time-based and performance-based restricted stock units as a component of executive and key employee compensation. Expense for restricted stock unit grants is recognized on a straight-line basis for the service period of the stock award based upon fair value of the award on the date of grant. The fair value of the restricted stock unit grants is the quoted market price for the Company’s common stock on the date of grant. These restricted stock units are either time vested, or vest following the
+third
+fiscal year from the date of grant subject to cumulative diluted earnings per share targets over the eligible period.
+Compensation cost ultimately recognized for performance-based restricted stock units will equal the grant date fair market value of the unit that coincides with the actual outcome of the performance conditions. On an interim basis, the Company records compensation cost based on the estimated level of achievement of the performance conditions. The expense relating to the time vested restricted stock units is recognized on a straight-line basis over the requisite service period for the entire award.
+The Company achieved
+82 % of the target level for the performance-based restricted stock units granted in the fiscal year ended
+March 28, 2020
+and as a result, issued
+16
+thousand shares of common stock to executive officers and certain key employees during the
+first
+quarter of fiscal year
+2023 . The following table summarizes the non-vested restricted stock units outstanding as of
+December 24, 2022
+(in thousands, except per unit data):
+Total
+Grant Date
+Estimated
+Number
+Fair
+Level of
+Date
+Measurement
+of Units
+Value
+Achievement at
+Granted
+Period
+Outstanding
+Per Unit
+December 24, 2022
+October 2018
+October 2018 – September 2027
+6     $ 20.81
+Time Vested
+April 2020
+April 2020 – March 2023
+2     $ 26.25
+Time Vested
+July 2020
+July 2020 – July 2023
+26     $ 27.08
+Time Vested
+September 2020
+September 2020 – July 2023
+4     $ 28.54
+Time Vested
+September 2020
+September 2020 – July 2023
+5     $ 29.76
+Time Vested
+September 2020
+September 2020 – September 2023
+3     $ 29.76
+Time Vested
+January 2021
+January 2021 – January 2024
+1     $ 34.62
+Time Vested
+May 2021
+May 2021 – May 2024
+1     $ 54.21
+Time Vested
+June 2021
+June 2021 – March 2024
+10     $ 53.17
+150% of target level
+June 2021
+June 2021 – March 2024
+11     $ 53.17
+Time Vested
+September 2021
+September 2021 – September 2024
+4     $ 67.76
+Time Vested
+December 2021
+December 2021 – December 2024
+1     $ 90.41
+Time Vested
+January 2022
+January 2022 – March 2024
+2     $ 90.92
+Time Vested
+March 2022
+March 2022 – March 2025
+2     $ 76.31
+Time Vested
+May 2022
+May 2022-March 2025
+12     $ 63.17
+100% of target level
+May 2022
+May 2022-March 2025
+11     $ 63.17
+Time Vested
+August 2022
+August 2022-August 2025
+1     $ 78.04
+Time Vested
+December 2022
+December 2022 -December 2025
+1     $ 81.26
+Time Vested
+December 2022
+December 2022 - December 2025
+1     $ 67.48
+Time Vested
+September 2022
+September 2022-September 2023
+5     $ 73.80
+Time Vested
+10
+Table of Contents
+Total expense relating to restricted stock units, based on grant date fair value and the achievement criteria, was $ 1.7  million and $ 1.2  million in the
+first
+nine
+months of fiscal year  2023
+and fiscal year
+2022 , respectively. As of
+December 24, 2022 , unearned compensation, to be recognized over the grants’ respective service periods, totaled $ 2.7  million.
+Stock Options:
+The Company grants stock options to employees and directors with an exercise price equal to the quoted market price of the Company’s stock at the date of the grant. The fair value of stock options is estimated using the Black-Scholes option pricing formula that requires assumptions for expected volatility, expected dividends, the risk-free interest rate and the expected term of the option. Expense for stock options is recognized on a straight-line basis over the requisite service period for each award. Options vest either immediately or over a period of up to
+five
+years using a straight-line basis and expire either
+five
+years or
+ten
+years from the date of grant.
+We calculate the fair value of the stock options granted using the Black-Scholes model. There were
+no
+stock options granted during the
+three
+months ended
+December 24, 2022
+and
+December 25, 2021.
+The following weighted-average assumptions were used to value options granted during the
+first
+nine
+months of fiscal year
+2023
+and fiscal year
+2022 :
+Nine Months Ended
+December 24,
+December 25,
+2022
+2021
+Risk-Free Interest Rate
+2.65 %     1.00 %
+Volatility Factor
+37.62 %     29.95 %
+Expected Term (in Years)
+4.58       6.38
+Annual Dividend Rate
+0.00 %     0.00 %
+We calculate expected volatility for stock options by taking an average of historical volatility over the expected term. The computation of expected term was determined based on safe harbor rules, giving consideration to the contractual terms of the stock-based awards and vesting schedules. The interest rate for periods within the contractual life of the award is based on the U.S. Treasury yield in effect at the time of grant. We assume
+no
+expected dividends. Under FASB ASC Topic
+718,
+“Compensation – Stock Compensation”, the Company has elected to account for forfeitures as they occur.
+During the
+first
+nine
+months of fiscal year
+2023 , the Company granted options for
+46,000
+shares of common stock in the aggregate to Company employees that vest over
+three
+years and an option for
+10,000
+shares of common stock to a Board of Directors member that vests over
+five
+years.
+During the
+first
+nine
+months of fiscal year
+2022 , the Company granted options for
+25,000
+shares of common stock in the aggregate to Company employees that vest over
+three
+to
+five
+years, an option for
+2,000
+shares of common stock each to
+five
+employees ( 10,000
+shares in the aggregate) that vests over
+three
+years and options for
+90,000
+shares of common stock in the aggregate to Company employees that vest over
+five
+years.
+The expense related to all stock option awards was $ 1.1  million in the
+first
+nine  months of fiscal year
+2023
+and $ 0.4  million in the
+first
+nine  months of fiscal year
+2022 .
+11
+Table of Contents
+The following table summarizes the Company’s options as of and for the
+first
+nine
+months ended
+December 24, 2022
+(in thousands, except price per option data and years):
+Weighted
+Weighted
+Average
+Average
+Number
+Exercise
+Remaining
+Aggregate
+Of
+Price Per
+Contractual
+Intrinsic
+Options
+Option
+Term (in years)
+Value
+Outstanding as of March 26, 2022
+165     $ 53.27
+Granted
+56     $ 62.46
+Exercised
+( 4 )   $ 6.19
+Forfeited
+-     $ -
+Outstanding as of December 24, 2022
+217     $ 56.25       7     $ 2,980
+Exercisable as of December 24, 2022
+28     $ 53.76       9     $ 454
+The aggregate intrinsic value in the table above represents the total pre-tax intrinsic value (the difference between the Company’s closing stock price on the last trading day of the  third
+quarter of fiscal year
+2023
+and the exercise price, multiplied by the number of in-the-money stock options) that would have been received by the option holders had all holders exercised their options on
+December 24, 2022 . The amount of aggregate intrinsic value will change based on the fair market value of the Company’s common stock.
+Total unrecognized compensation cost related to non-vested stock options as of
+December 24, 2022
+was $ 2.2  million, which is expected to be recognized over a period of
+three
+years. The aggregate intrinsic value of stock options exercised during the
+first
+nine
+months of fiscal year
+2023
+and fiscal year
+2022
+was $ 0.2
+million and $ 6.9  million, respectively. Cash received from the exercise of options in the
+first
+nine
+months of fiscal year
+2023
+and fiscal year
+2022
+was less than $ 0.1
+million and $ 1.0
+million, respectively.
+12
+Table of Contents
+NOTE
+4
+–
+SEGMENT INFORMATION
+The basis for determining our operating segments is the manner in which financial information is used in monitoring our operations. Transcat has
+two
+reportable segments: Service and Distribution. Through our Service segment, we offer calibration, repair, inspection, analytical qualifications, preventative maintenance, consulting and other related services. Through our Distribution segment, we sell and rent national and proprietary brand instruments to customers globally. The Company has
+no
+inter-segment sales. We believe that reporting performance at the operating income level is the best indicator of segment performance. The following table presents segment and geographic data for the  third
+quarter and
+first
+nine
+months of fiscal year
+2023
+and fiscal year
+2022
+(dollars in thousands):
+Third Quarter Ended
+Nine Months Ended
+December 24,
+December 25,
+December 24,
+December 25,
+2022
+2021
+2022
+2021
+Revenue:
+Service
+$
+35,977
+$
+30,237
+$
+105,120
+$
+87,338
+Distribution
+21,425
+20,665
+63,382
+61,741
+Total
+57,402
+50,902
+168,502
+149,079
+Gross Profit:
+Service
+10,793
+8,983
+33,115
+27,447
+Distribution
+5,607
+4,653
+16,090
+14,320
+Total
+16,400
+13,636
+49,205
+41,767
+Operating Expenses:
+Service
+(1)
+8,957
+7,322
+26,240
+20,165
+Distribution
+(1)
+4,280
+3,953
+12,572
+11,974
+Total
+13,237
+11,275
+38,812
+32,139
+Operating Income:
+Service
+1,836
+1,661
+6,875
+7,282
+Distribution
+1,327
+700
+3,518
+2,346
+Total
+3,163
+2,361
+10,393
+9,628
+Unallocated Amounts:
+Interest and Other Expense, net
+1,039
+136
+1,732
+581
+Provision for Income Taxes
+523
+596
+1,631
+715
+Total
+1,562
+732
+3,363
+1,296
+Net Income
+$
+1,601
+$
+1,629
+$
+7,030
+$
+8,332
+Geographic Data:
+Revenues to Unaffiliated Customers
+(2)
+United States
+(3)
+$
+51,209
+$
+46,005
+$
+151,242
+$
+136,359
+Canada
+4,221
+3,749
+12,075
+10,849
+Other International
+1,972
+1,148
+5,185
+1,871
+Total
+$
+57,402
+$
+50,902
+$
+168,502
+$
+149,079
+( 1 )
+Operating expense allocations between segments are based on actual amounts, a percentage of revenues, headcount, and management’s estimates.
+( 2 )
+Revenues to unaffiliated customers are attributed to the countries based on the destination of a product shipment or the location where service is rendered.
+( 3 )
+United States includes Puerto Rico.
+13
+Table of Contents
+NOTE
+5
+–
+BUSINESS ACQUISITIONS
+Complete Calibrations : Effective
+September 28, 2022,
+Transcat purchased all of the outstanding capital stock of Galium Limited (d/b/a Complete Calibrations) ("Complete Calibrations"), an Irish company.  This transaction aligned with a key component of the Company’s acquisition strategy of targeting businesses that expand the depth and breadth of the Company’s Service capabilities.
+All the goodwill related to the Complete Calibrations acquisition has been allocated to the Service segment. Amortization of goodwill related to the Complete Calibrations acquisition is
+not
+deductible for tax purposes.  The goodwill is primarily attributable to the workforce acquired, as well as operational synergies and other intangibles that do
+not
+qualify for separate recognition.
+The total purchase price paid for Complete Calibrations was approximately $ 1.2
+million in cash.  In connection with this transaction, the Company also entered into a Technology License Agreement with Calibration Robots Limited, an Irish company and related party to Complete Calibrations, for the use of their proprietary robotics in completing calibrations.  The Technology License Agreement includes transactional royalties in the amount of
+3
+Euros ($ 3 ) per calibration performed by technology covered under this license agreement, with a royalty term of up to
+ten
+years commencing from the earlier of (i) the date on which cumulative revenue earned from technology covered under this license agreement equals
+0.75
+million Euros ($ 0.80
+million), and (ii)
+March 28, 2024.
+In addition to the transactional royalties, as long as a key employee is employed by the Company, there is an annual royalty fee of
+0.1
+million Euros ($ 0.1
+million).  For purposes of this paragraph, we used a conversion rate of
+1.0617  to convert Euro to U.S. dollar as of
+December 24, 2022.
+The purchase price allocation is subject to revision based upon our final review of assets acquired, and liabilities assumed. The following is a summary of the preliminary purchase price allocation, in the aggregate, to the fair value, based on Level
+3
+inputs, of Complete Calibrations’ assets and liabilities acquired on
+September 28, 2022 ( in thousands):
+Goodwill
+$ 1,123
+Plus:
+Cash
+10
+Inventory
+44
+Total Purchase Price
+$ 1,177
+From the date of acquisition, Complete Calibrations has contributed revenue of $ 0.1
+million and operating income of less than $ 0.1
+million.
+e2b : Effective
+September 27, 2022,
+Transcat acquired substantially all of the assets of
+e2b
+Calibration ( “e2b” ), an Ohio based provider of calibration services.  This transaction aligned with a key component of the Company’s acquisition strategy of targeting businesses that expand the depth and breadth of the Company’s Service capabilities.
+The
+e2b
+goodwill is primarily attributable to the workforce acquired, as well as operational synergies and other intangibles that do
+not
+qualify for separate recognition. All the goodwill and intangible assets relating to the
+e2b
+acquisition has been allocated to the Service segment. Intangible assets related to the
+e2b
+acquisition are being amortized for financial reporting purposes on an accelerated basis over the estimated useful life of up to
+fifteen
+years and are deductible for tax purposes. Amortization of goodwill related to the
+e2b
+acquisition is deductible for tax purposes.
+The total purchase price paid for the assets of
+e2b
+was approximately $ 3.1  million in cash.  Pursuant to the asset purchase agreement, the Company has $ 0.9
+million of the purchase price in escrow for certain potential post-closing adjustments.
+14
+Table of Contents
+The purchase price allocation is subject to revision based upon our final review of intangible asset valuation assumptions, working capital adjustments, assets acquired, and liabilities assumed. The following is a summary of the preliminary purchase price allocation, in the aggregate, to the fair value, based on Level
+3
+inputs, of
+e2b’s
+assets and liabilities acquired on
+September 27, 2022 ( in thousands):
+Goodwill
+$ 1,590
+Intangible Assets – Customer Base & Contracts
+746
+Intangible Assets – Covenant Not to Compete
+396
+2,732
+Plus:
+Accounts Receivable
+361
+Other Current Assets
+24
+Property and Equipment
+103
+Less:
+Current Liabilities
+( 121 )
+Total Purchase Price
+$ 3,099
+From the date of acquisition,
+e2b
+has contributed revenue of $ 0.9
+million and operating income of $ 0.2  million, which includes the negative impact of amortization of the acquired intangible assets.
+Alliance : Effective
+May 31, 2022,
+Transcat acquired substantially all of the assets of Charlton Jeffmont Inc., Raitz Inc. and Toolroom Calibration Inc. d/b/a Alliance Calibration (“Alliance”), an Ohio based provider of calibration services. This transaction aligned with a key component of the Company’s acquisition strategy of targeting businesses that expand the depth and breadth of the Company’s service capabilities.
+The Alliance goodwill is primarily attributable to the workforce acquired, as well as operational synergies and other intangibles that do
+not
+qualify for separate recognition. All the goodwill and intangible assets relating to the Alliance acquisition has been allocated to the Service segment. Intangible assets related to the Alliance acquisition are being amortized for financial reporting purposes on an accelerated basis over the estimated useful life of up to
+fifteen
+years and are deductible for tax purposes. Amortization of goodwill related to the Alliance acquisition is deductible for tax purposes.
+The purchase price for Alliance was approximately $ 4.7
+million and was paid with $ 4.0
+million in cash and the issuance of
+2,284
+shares of our common stock valued at $ 0.1
+million. Pursuant to the asset purchase agreement, the Company held back $ 0.5
+million of the purchase price for certain potential post-closing adjustments, and the purchase price will be subject to reduction by $ 0.5
+million if a key customer relationship is
+not
+retained.
+The purchase price allocation is subject to revision based upon our final review of intangible asset valuation assumptions, working capital adjustments, assets acquired, and liabilities assumed. The following is a summary of the preliminary purchase price allocation, in the aggregate, to the fair value, based on Level
+3
+inputs, of Alliance’s assets and liabilities acquired on
+May 31, 2022 ( in thousands):
+Goodwill
+$ 1,783
+Intangible Assets – Customer Base & Contracts
+2,320
+Intangible Assets – Covenant Not to Compete
+114
+4,217
+Plus:
+Accounts Receivable
+343
+Property and Equipment
+170
+Less:
+Current Liabilities
+( 27 )
+Total Purchase Price
+$ 4,703
+From the date of acquisition, Alliance has contributed revenue of $ 1.3  million and operating income of $ 0.1
+million, which includes the negative impact of amortization of the acquired intangible assets.
+15
+Table of Contents
+Tangent : Effective
+December 31, 2021,
+Transcat purchased all the outstanding membership units of Tangent Labs, LLC (“Tangent”). Tangent provides in-house and on-site calibrations of precision measurement and control instrumentation to customers in the life science, aerospace and other regulated industries, and has lab locations in Indianapolis, Indiana and Huntsville, Alabama. This transaction aligned with a key component of the Company’s strategy of acquiring local capabilities in attractive geographies.
+The Tangent goodwill is primarily attributable to the workforce acquired, as well as operational synergies and other intangibles that do
+not
+qualify for separate recognition. All the goodwill and intangible assets relating to the Tangent acquisition has been allocated to the Service segment. Intangible assets related to the Tangent acquisition are being amortized for financial reporting purposes on an accelerated basis over the estimated useful life of up to
+fifteen
+years and are deductible for tax purposes. Amortization of goodwill related to the Tangent acquisition is
+not
+deductible for tax purposes.
+The purchase price for Tangent was approximately $ 8.9
+million, all paid in cash, and is subject to certain customary holdback provisions and a portion of which was placed in escrow to secure the sellers’ obligations in the event that a key employee terminates employment with Tangent on or before the
+first
+anniversary of the closing of the transaction.  $ 7.9
+million was paid in cash and $ 1.0
+million of the purchase price has been put into escrow for indemnification claims, if any.
+During the
+second
+quarter of fiscal year
+2023,
+the key employee terminated their employment with the Company.  As a result, the Company took $ 0.2
+million out of the escrow account and it was recorded as a gain in the Company's Consolidated Statement of Income.
+During the
+second
+quarter of fiscal year
+2023,
+a measurement period adjustment was recorded to recognize the fair value of Property and Equipment acquired, with a corresponding reduction to Goodwill. There was
+no
+remeasurement period adjustment in the
+third
+quarter of fiscal year
+2023.
+The following is a summary of the purchase price allocation, in the aggregate, to the fair value, based on Level
+3
+inputs, of Tangent’s assets and liabilities acquired on
+December 31, 2021 ( in thousands):
+Goodwill
+$ 5,385
+Intangible Assets – Customer Base & Contracts
+4,150
+Intangible Assets – Covenant Not to Compete
+220
+9,755
+Plus:
+Cash
+26
+Accounts Receivable
+187
+Other Current Assets
+16
+Property and Equipment
+203
+Less:
+Current Liabilities
+( 68 )
+Deferred Tax Liability
+( 1,195 )
+Total Purchase Price
+$ 8,924
+During the
+first
+nine
+months of fiscal year
+2023 , Tangent contributed revenue of $ 1.7  million and operating loss of less than $ 0.1
+million, which includes the negative impact of amortization of the acquired intangible assets.
+NEXA : Effective
+August 31, 2021,
+Transcat purchased all of the outstanding capital stock of Cal OpEx Limited (d/b/a NEXA Enterprise Asset Management), an Irish company, which owns all of the issued and outstanding capital stock of its U.S.-based subsidiary, Cal OpEx Inc., a Delaware corporation (collectively, “NEXA”). NEXA provides calibration optimization and other technical solutions to improve asset and reliability management programs to pharmaceutical, biotechnology, and medical device companies worldwide. This transaction aligned with a key component of the Company’s acquisition strategy of targeting businesses that expand the depth and breadth of the Company’s Service capabilities.
+The NEXA goodwill is primarily attributable to the workforce acquired, as well as operational synergies and other intangibles that do
+not
+qualify for separate recognition. All of the goodwill and intangible assets relating to the NEXA acquisition has been allocated to the Service segment. Intangible assets related to the NEXA acquisition are being amortized for financial reporting purposes on an accelerated basis over the estimated useful life of up to
+five
+years and are deductible for tax purposes. Amortization of goodwill related to the NEXA acquisition is
+not
+deductible for tax purposes.
+16
+Table of Contents
+The purchase price for NEXA was approximately $ 26.2
+million and was paid with $ 23.9
+million in cash and the issuance of
+34,943
+shares of our common stock valued at $ 2.4
+million. Additionally, there are potential earn-out payments of up to $ 7.5
+million over the
+four -year period following the closing of the transaction based upon NEXA achieving certain annual revenue and EBITDA goals. If achieved, the earn-out payments will also be made in shares of common stock unless certain criteria is met for cash payment. As of
+August 31, 2021  the estimated fair value for the contingent earn-out payments, classified as Level
+3
+in the fair value hierarchy, was $ 0.2
+million and included in the purchase price allocation below. This amount was calculated using a Geometric Brownian motion distribution that was then used in a Monte Carlo simulation model. Assumptions used in the Monte Carlo simulation model included:
+1 ) weighted-average cost of capital of
+6.60 %,
+2 ) risk-free interest rate of
+0.58 %,
+3 ) asset volatility of
+20.00 %, and
+4 ) forecasted revenue and EBITDA. This contingent consideration is remeasured quarterly. If, as a result of remeasurement, the value of the contingent consideration changes, any charges or income will be included in the Company's Consolidated Statements of Income.  During the
+second
+quarter of fiscal year
+2023,
+the Company reduced the contingent consideration down to zero.  As a result of remeasurement, the change was included in the Company’s Consolidated Statements of Income.  There were
+no
+remeasurement adjustments during the
+third
+quarter of fiscal year
+2023.
+$ 0.1
+million of the purchase price has been put into escrow for indemnification claims, if any.
+The following is a summary of the purchase price allocation, in the aggregate, to the fair value, based on Level
+3
+inputs, of NEXA’s assets and liabilities acquired on
+August 31, 2021 ( in thousands):
+Goodwill
+$ 15,679
+Intangible Assets – Customer Base & Contracts
+5,600
+Intangible Assets – Backlog
+490
+Intangible Assets – Covenant Not to Compete
+600
+22,369
+Plus:
+Cash
+3,732
+Accounts Receivable
+2,434
+Non-Current Assets
+38
+Less:
+Current Liabilities
+( 572 )
+Deferred Tax Liability
+( 1,769 )
+Total Purchase Price
+$ 26,232
+During the
+first
+nine
+months of fiscal year
+2023 , NEXA contributed revenue of $ 9.8  million and operating income of $ 0.2  million, which includes the negative impact of amortization of the acquired intangible assets.
+Upstate Metrology : Effective
+April 29, 2021,
+Transcat acquired substantially all of the assets of Upstate Metrology Inc. (“Upstate Metrology”), a New York based provider of calibration services. This transaction aligned with a key component of the Company’s acquisition strategy of targeting businesses that can leverage the Company’s already existing operating infrastructure.
+All the goodwill related to the Upstate Metrology acquisition has been allocated to the Service segment. Amortization of goodwill related to the Upstate Metrology acquisition is deductible for tax purposes.  The goodwill is primarily attributable to the workforce acquired, as well as operational synergies and other intangibles that do
+not
+qualify for separate recognition.
+The total purchase price for the assets of Upstate Metrology was approximately $ 0.9
+million. The following is a summary of the purchase price allocation, in the aggregate, to the fair value, based on Level
+3
+inputs, of Upstate Metrology’s assets and liabilities acquired on
+April 29, 2021 ( in thousands):
+Goodwill
+$ 483
+Plus:
+Current Assets
+189
+Non-Current Assets
+270
+Less:
+Current Liabilities
+( 11 )
+Total Purchase Price
+$ 931
+Since this operation was integrated immediately into our existing operation, Upstate Metrology’s separate operating income in undeterminable.
+17
+Table of Contents
+The results of acquired businesses are included in Transcat’s consolidated operating results as of the dates the businesses were acquired. The following unaudited pro forma information presents the Company’s results of operations as if the acquisitions of Complete Calibrations,
+e2b,
+Alliance, Tangent, NEXA and Upstate Metrology had occurred at the beginning of fiscal year
+2022.
+The pro forma results do
+not
+purport to represent what the Company’s results of operations actually would have been if the transactions had occurred at the beginning of the period presented or what the Company’s operating results will be in future periods.
+(Unaudited)
+(Unaudited)
+Third Quarter Ended
+Nine Months Ended
+(in thousands except per share information)
+December 24, 2022
+December 25, 2021
+December 24, 2022
+December 25, 2021
+Total Revenue
+$ 57,402     $ 52,760     $ 170,648     $ 158,848
+Net Income
+$ 1,601     $ 1,648     $ 7,245     $ 9,749
+Basic Earnings Per Share
+$ 0.21     $ 0.22     $ 0.96     $ 1.30
+Diluted Earnings Per Share
+$ 0.21     $ 0.22     $ 0.95     $ 1.28
+Certain of the Company’s acquisition agreements include provisions for contingent consideration and other holdback amounts. The Company accrues for contingent consideration and holdback provisions based on their estimated fair value at the date of acquisition.  There is uncertainty of the fair value measurement from the use of significant unobservable inputs if those inputs reasonably could have been different at the reporting date. Changes in those significant unobservable inputs to a different amount might result in a significantly higher or lower fair value.  As of
+December 24, 2022 ,
+$0.5
+million of other holdback amounts unpaid are reflected in current liabilities on the Consolidated Balance Sheets. During the
+first
+nine
+months of fiscal year
+2023
+and fiscal year
+2022 ,
+no
+contingent consideration or other holdback amounts were paid.
+During the
+first
+nine
+months of fiscal year  2023 , acquisition costs of $ 0.1
+million were recorded as incurred as general and administrative expenses in the Consolidated Statements of Income.  During the
+first
+nine
+months of fiscal year
+2022,
+acquisition costs were $ 0.9  million.
+18
+Table of Contents
+ITEM 2. MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Forward-Looking Statements.
+This report contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements relate to expectations, estimates, beliefs, assumptions and predictions of future events and are identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “seek,” “strategy,” “target,” “could,” “may,” “will,” “would,” and other similar words. Forward-looking statements are not statements of historical fact and thus are subject to risks, uncertainties and other factors that could cause actual results to differ materially from historical results or those expressed in such forward-looking statements. You should evaluate forward-looking statements in light of important risk factors and uncertainties that may affect our operating and financial results and our ability to achieve our financial objectives. These factors include, but are not limited to, general economic conditions applicable to our business, the impact of the COVID-19 pandemic, inflationary impacts, the highly competitive nature of the industries in which we compete and in the nature of our two business segments, the concentration of Service segment customers in the life science and other regulated and industrial manufacturing industries, tariffs and trade relations, any impairment of our goodwill or intangible assets, cybersecurity risks, the risk of significant disruptions in our information technology systems, our ability to recruit, train and retain quality employees, skilled technicians and senior management, fluctuations in our operating results, competition in the rental market, the volatility of our stock price, our ability to adapt our technology, reliance on our enterprise resource planning system, technology updates, risks related to our acquisition strategy and the integration of the businesses we acquire, volatility in our customers’ industries, changes in vendor rebate programs, supply chain delays or disruptions, the risks related to current and future indebtedness, risks related to our intellectual property, the relatively low trading volume of our common stock, foreign currency rate fluctuations, adverse weather events or other catastrophes or natural disasters, changes in tax rates, and changes in accounting standards, legal requirements and listing standards. These risk factors and uncertainties are more fully described by us under the heading “Risk Factors” in our reports filed with the Securities and Exchange Commission, including our Annual Report on Form 10-K for the fiscal year ended March 26, 2022. You should not place undue reliance on our forward-looking statements, which speak only as of the date they are made. Except as required by law, we undertake no obligation to update or publicly announce any revisions to any of the forward-looking statements contained in this report, whether as a result of new information, future events or otherwise.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+There have been no material changes to our critical accounting policies and estimates from the information provided in our Annual Report on Form 10-K for the fiscal year ended March 26, 2022.
+RESULTS OF OPERATIONS
+Executive Summary
+During our third quarter of fiscal year 2023, we had consolidated revenue of $57.4 million. This represented an increase of $6.5 million or 12.8% versus the third quarter of fiscal year 2022. This increase was primarily due to the recently completed acquisitions, strong demand in our Service segment’s highly-regulated end markets and improved market conditions in our Distribution segment, especially rentals.
+Our third quarter of fiscal year 2023 gross profit was $16.4 million. This was an increase of $2.8 million or 20.3% versus the third quarter of fiscal year 2022. In addition, consolidated gross margin was 28.6%, an increase of 180 basis points, versus the third quarter of fiscal year 2022. This increase was largely the result of operating leverage on our fixed costs and accretive gross margins from our rental business.
+Total operating expenses were $13.2 million in the third quarter of fiscal year 2023, an increase of $2.0 million or 17.4% when compared to the prior year third quarter. Included in operating expenses during the third quarter of fiscal year 2023 were incremental operating expenses related to the acquisitions of Alliance, e2b and Complete Calibrations, investments in technology and higher incentive-based employee costs due to higher sales. As a percentage of total revenue, operating expenses were 23.1% in the third quarter of fiscal year 2023, up 90 basis points from 22.2% in the third quarter of fiscal year 2022. Operating income was $3.2 million, an increase of $0.8 million, or 34.0% and operating margin increased from 4.6% to 5.5% in the third quarter of fiscal year 2023.
+Net income was $1.6 million for each of the third quarter of fiscal year 2023 and fiscal year 2022.  The difference between higher operating income and flat net income compared to the prior period is due to higher interest expense.
+19
+Table of Contents
+The following table presents, for the third quarter of fiscal year 2023 and fiscal year 2022, the components of our Consolidated Statements of Income:
+(Unaudited)
+(Unaudited)
+Third Quarter Ended
+Nine Months Ended
+December 24,
+December 25,
+December 24,
+December 25,
+2022
+2021
+2022
+2021
+As a Percentage of Total Revenue:
+Service Revenue
+62.7
+%
+59.4
+%
+62.4
+%
+58.6
+%
+Distribution Sales
+37.3
+%
+40.6
+%
+37.6
+%
+41.4
+%
+Total Revenue
+100.0
+%
+100.0
+%
+100.0
+%
+100.0
+%
+Gross Profit Percentage:
+Service Gross Profit
+30.0
+%
+29.7
+%
+31.5
+%
+31.4
+%
+Distribution Gross Profit
+26.2
+%
+22.5
+%
+25.4
+%
+23.2
+%
+Total Gross Profit
+28.6
+%
+26.8
+%
+29.2
+%
+28.0
+%
+Selling, Marketing and Warehouse Expenses
+11.5
+%
+10.0
+%
+10.9
+%
+10.1
+%
+General and Administrative Expenses
+11.6
+%
+12.2
+%
+12.1
+%
+11.4
+%
+Total Operating Expenses
+23.1
+%
+22.2
+%
+23.0
+%
+21.5
+%
+Operating Income
+5.5
+%
+4.6
+%
+6.2
+%
+6.5
+%
+Interest and Other Expense, net
+1.8
+%
+0.2
+%
+1.0
+%
+0.4
+%
+Income Before Income Taxes
+3.7
+%
+4.4
+%
+5.2
+%
+6.1
+%
+Provision for Income Taxes
+0.9
+%
+1.2
+%
+1.0
+%
+0.5
+%
+Net Income
+2.8
+%
+3.2
+%
+4.2
+%
+5.6
+%
+Third Quarter Ended December 24, 2022
+COMPARED TO
+Third Quarter Ended December 25, 2021
+(dollars in thousands):
+Revenue:
+Third Quarter Ended
+Change
+December 24,
+December 25,
+2022
+2021
+$
+%
+Revenue:
+Service
+$
+35,977
+$
+30,237
+$
+5,740
+19.0
+%
+Distribution
+21,425
+20,665
+760
+3.7
+%
+Total
+$
+57,402
+$
+50,902
+$
+6,500
+12.8
+%
+Total revenue was $57.4 million, an increase of $6.5 million, or 12.8%, in our fiscal year 2023 third quarter compared to the prior fiscal year third quarter.
+Service revenue, which accounted for 62.7% and 59.4% of our total revenue in the third quarter of fiscal years 2023 and 2022, respectively, increased 19.0% from the third quarter of fiscal year 2022 to the third quarter of fiscal year 2023. This year-over-year increase included $2.1 million in revenue from acquisitions, and also included organic revenue growth of 12.0% driven by improvement in end market conditions and continued market share gains.
+20
+Table of Contents
+Our fiscal years 2023 and 2022 Service revenue growth, in relation to prior fiscal year quarter comparisons, was as follows:
+FY 2023
+FY 2022
+Q3
+Q2
+Q1
+Q4
+Q3
+Q2
+Q1
+Service Revenue Growth
+19.0
+%
+19.4
+%
+22.9
+%
+19.6
+%
+22.1
+%
+20.4
+%
+20.0
+%
+The growth in Service segment revenue during the third quarter of fiscal year 2023 versus the third quarter of fiscal year 2022 reflected both organic growth and acquisitions.
+Within any fiscal year, while we add new customers, we also have customers from the prior fiscal year whose service orders may not repeat for any number of factors. Among those factors are variations in the timing of periodic calibrations and other services, customer capital expenditures and customer outsourcing decisions. Because the timing of Service segment orders can vary on a quarter-to-quarter basis, we believe trailing twelve-month information provides a better indication of the progress of this segment.
+The following table presents the trailing twelve-month Service segment revenue for the first, second and third quarter of fiscal year 2023 and each quarter in fiscal year 2022 as well as the trailing twelve-month revenue growth as a comparison to that of the prior fiscal year period:
+FY 2023
+FY 2022
+Q3
+Q2
+Q1
+Q4
+Q3
+Q2
+Q1
+Trailing Twelve-Month:
+Service Revenue
+$
+139,787
+$
+134,047
+$
+128,324
+$
+122,005
+$
+116,315
+$
+110,854
+$
+105,864
+Service Revenue Growth
+20.2
+%
+20.9
+%
+21.2
+%
+20.5
+%
+19.5
+%
+17.2
+%
+13.1
+%
+Our strategy has been to focus our investments in the core electrical, temperature, pressure, physical/dimensional and radio frequency/microwave calibration disciplines. We expect to subcontract approximately 13% to 15% of our Service revenue to third-party vendors for calibration beyond our chosen scope of capabilities. We continually evaluate our outsourcing needs and make capital investments, as deemed necessary, to add more in-house capabilities and reduce the need for third-party vendors. Capability expansion through business acquisitions is another way that we seek to reduce the need for outsourcing. The following table presents the source of our Service revenue and the percentage of Service revenue derived from each source for the first, second and third quarter of fiscal year 2023 and for each quarter during fiscal year 2022:
+FY 2023
+FY 2022
+Q3
+Q2
+Q1
+Q4
+Q3
+Q2
+Q1
+Percent of Service Revenue:
+In-House
+86.2
+%
+86.2
+%
+85.4
+%
+85.4
+%
+84.1
+%
+83.2
+%
+83.1
+%
+Outsourced
+12.6
+%
+12.6
+%
+13.2
+%
+13.1
+%
+14.4
+%
+15.3
+%
+15.4
+%
+Freight Billed to Customers
+1.2
+%
+1.2
+%
+1.4
+%
+1.5
+%
+1.5
+%
+1.5
+%
+1.5
+%
+100.0
+%
+100.0
+%
+100.0
+%
+100.0
+%
+100.0
+%
+100.0
+%
+100.0
+%
+21
+Table of Contents
+Our Distribution sales accounted for 37.3% of our total revenue in the third quarter of fiscal year 2023 and 40.6% of our total revenue in the third quarter of fiscal year 2022. During the third quarter of fiscal year 2023, Distribution segment sales showed an increase of 3.7% or $0.8 million to $21.4 million. This increase was primarily due to strong demand for rental orders.
+Our fiscal years 2023 and 2022 Distribution sales growth, in relation to prior fiscal year quarter comparisons, was as follows:
+FY 2023
+FY 2022
+Q3
+Q2
+Q1
+Q4
+Q3
+Q2
+Q1
+Distribution Sales Growth
+3.7
+%
+1.6
+%
+2.7
+%
+7.2
+%
+7.2
+%
+22.2
+%
+27.0
+%
+The change in the third quarter of fiscal year 2023 versus the third quarter of fiscal year 2022 for the Distribution segment reflected organic growth.
+Distribution sales orders include orders for instruments that we routinely stock in our inventory, customized products, and other products ordered less frequently, which we do not stock. Backorders are the total dollar value of orders received for which revenue has not yet been recognized. Pending product shipments are primarily backorders, but also include products that are requested to be calibrated in our service centers prior to shipment, orders required by the customer to be shipped complete or at a future date, and other orders awaiting final credit or management review prior to shipment. Management uses pending product shipments and backorders as measures of our future business performance and financial performance within the distribution segment.
+Our total pending product shipments at the end of the third quarter of fiscal year 2023 were $9.5 million, an increase of $0.6 million versus the end of the third quarter of fiscal year 2022 and an increase of $1.8 million since March 26, 2022. The year-over-year increase in pending product shipments and backorders was a result of the disruption to the supply of products as well as increased orders.
+The following table presents our total pending product shipments and the percentage of total pending product shipments that were backorders at the end of the first, second and third quarter of fiscal year 2023 and each quarter of fiscal year 2022:
+FY 2023
+FY 2022
+Q3
+Q2
+Q1
+Q4
+Q3
+Q2
+Q1
+Total Pending Product Shipments
+$
+9,543
+$
+9,116
+$
+9,034
+$
+7,747
+$
+8,943
+$
+7,707
+$
+8,272
+% of Pending Product
+Shipments that were Backorders
+78.4
+%
+80.8
+%
+78.1
+%
+83.2
+%
+80.5
+%
+77.2
+%
+77.5
+%
+Gross Profit:
+Third Quarter Ended
+Change
+December 24,
+December 25,
+2022
+2021
+$
+%
+Gross Profit:
+Service
+$
+10,793
+$
+8,983
+$
+1,810
+20.1
+%
+Distribution
+5,607
+4,653
+954
+20.5
+%
+Total
+$
+16,400
+$
+13,636
+$
+2,764
+20.3
+%
+Total gross profit for the third quarter of fiscal year 2023 was $16.4 million, an increase of $2.8 million or 20.3% versus the third quarter of fiscal year 2022. Total gross margin was 28.6% in the third quarter of fiscal year 2023, up from 26.8% in the third quarter of fiscal year 2022, a 180 basis point increase.
+Service gross profit in the third quarter of fiscal year 2023 increased $1.8 million, or 20.1%, from the third quarter of fiscal year 2022. Service gross margin was 30.0% in the third quarter of fiscal year 2023, a 30 basis point increase versus the third quarter of fiscal year 2022. This increase in gross margin was the result of improved productivity offset by increased start-up costs from new client-based lab implementations.
+22
+Table of Contents
+The following table presents the quarterly historical trend of our Service gross margin as a percent of Service revenue:
+FY 2023
+FY 2022
+Q3
+Q2
+Q1
+Q4
+Q3
+Q2
+Q1
+Service Gross Margin
+30.0
+%
+32.6
+%
+32.0
+%
+33.1
+%
+29.7
+%
+32.9
+%
+31.8
+%
+Our Distribution gross margin includes net sales less the direct cost of inventory sold and the direct costs of equipment rental revenues, primarily depreciation expense for the fixed assets in our rental equipment pool, as well as the impact of rebates and cooperative advertising income we receive from vendors, freight billed to customers, freight expenses and direct shipping costs. In general, our Distribution gross margin can vary based upon the mix of products sold, price discounting, and the timing of periodic vendor rebates offered and cooperative advertising programs from suppliers.
+The following table reflects the quarterly historical trend of our Distribution gross margin as a percent of Distribution sales:
+FY 2023
+FY 2022
+Q3
+Q2
+Q1
+Q4
+Q3
+Q2
+Q1
+Distribution Gross Margin
+26.2
+%
+24.9
+%
+25.0
+%
+24.5
+%
+22.5
+%
+23.5
+%
+23.6
+%
+Distribution segment gross margin was 26.2% in the third quarter of fiscal year 2023 versus 22.5% in the third quarter of fiscal year 2022, a 370 basis point increase. The increase in segment gross margin was primarily due to a favorable mix of higher margin products sold and rented.
+Operating Expenses:
+Third Quarter Ended
+Change
+December 24,
+December 25,
+2022
+2021
+$
+%
+Operating Expenses:
+Selling, Marketing and Warehouse
+$
+6,595
+$
+5,051
+$
+1,544
+30.6
+%
+General and Administrative
+6,642
+6,224
+418
+6.7
+%
+Total
+$
+13,237
+$
+11,275
+$
+1,962
+17.4
+%
+Total operating expenses were $13.2 million in the third quarter of fiscal year 2023 versus $11.3 million during the third quarter of fiscal year 2022. The year-over-year increase in selling, marketing and warehouse expenses is due to increased expenses related to recent acquisitions, especially acquisition related amortization expense, and higher incentive-based employee costs due to higher sales. The increase in general and administrative expenses includes incremental expenses related to acquired companies, increased payroll costs for new employees and continued investments in technology.
+As a percentage of total revenue, operating expenses were 23.1% in the third quarter of fiscal year 2023 and 22.2% in the third quarter of fiscal year 2022, an increase of 90 basis points.
+Income Taxes:
+Third Quarter Ended
+Change
+December 24,
+December 25,
+2022
+2021
+$
+%
+Provision for Income Taxes
+$
+523
+$
+596
+$
+(73
+)
+(12.2
+)%
+Our effective tax rate for the third quarter of fiscal years 2023 and 2022 was 24.6% and 26.8%, respectively. The decrease in the tax provision is due to the mix of net income by country. Our quarterly provision for income taxes is affected by discrete items that may occur in any given period but are not consistent from year to year. The discrete benefits related to share-based compensation activity in each of the third quarter of fiscal years 2023 and 2022 was less than $0.1 million.
+23
+Table of Contents
+Net Income:
+Third Quarter Ended
+Change
+December 24,
+December 25,
+2022
+2021
+$
+%
+Net Income
+$
+1,601
+$
+1,629
+$
+(28
+)
+(1.7
+)%
+Net income for the third quarter of fiscal year 2023 was flat compared to the third quarter of fiscal year 2022.  This is primarily due to higher operating income offset by increased interest expense.
+Adjusted EBITDA:
+In addition to reporting net income, a GAAP measure, we present Adjusted EBITDA (earnings before interest, income taxes, depreciation and amortization, non-cash stock compensation expense, acquisition related transaction expenses, non-cash loss on sale of building, and restructuring expense), which is a non-GAAP measure. Our management believes Adjusted EBITDA is an important measure of our operating performance because it allows management, investors and others to evaluate and compare the performance of our core operations from period to period by removing the impact of the capital structure (interest), tangible and intangible asset base (depreciation and amortization), taxes, stock-based compensation expense and other items, which is not always commensurate with the reporting period in which it is included. As such, our management uses Adjusted EBITDA as a measure of performance when evaluating our business segments and as a basis for planning and forecasting. Adjusted EBITDA is also commonly used by rating agencies, lenders and other parties to evaluate our credit worthiness.
+Adjusted EBITDA is not a measure of financial performance under GAAP and is not calculated through the application of GAAP. As such, it should not be considered as a substitute or alternative for the GAAP measure of net income and, therefore, should not be used in isolation of, but in conjunction with, the GAAP measure. Adjusted EBITDA, as presented, may produce results that vary from the GAAP measure and may not be comparable to a similarly defined non-GAAP measure used by other companies.
+Third Quarter Ended
+December 24,
+December 25,
+2022
+2021
+Net Income
+$
+1,601
+$
+1,629
++ Interest Expense
+726
+194
++ Other (Income) / Expense
+313
+(58
+)
++ Tax Provision
+523
+596
+Operating Income
+$
+3,163
+$
+2,361
++ Depreciation & Amortization
+2,824
+2,368
++ Transaction Expense
+96
+55
++ Other Income / (Expense)
+(313
+)
+58
++ Noncash Stock Compensation
+815
+624
+Adjusted EBITDA
+$
+6,585
+$
+5,466
+Total Adjusted EBITDA for the third quarter of fiscal year 2023 was $6.6 million, an increase of $1.1 million or 20.5% versus the third quarter of fiscal year 2022. As a percentage of revenue, Adjusted EBITDA increased to 11.5% for the third quarter of fiscal year 2023 from 10.7% for the third quarter of fiscal year 2022. The increase in Adjusted EBITDA during the third quarter of fiscal year 2023 was primarily driven by the increase in depreciation and amortization expense and interest expense.
+24
+Table of Contents
+Adjusted Diluted Earnings Per Share:
+In addition to reporting Diluted Earnings Per Share, a GAAP measure, we present Adjusted Diluted Earnings Per Share (net income plus acquisition related amortization expense, acquisition related transaction expenses, acquisition related stock-based compensation, acquisition amortization of backlog and restructuring expense, on a diluted per share basis), which is a non-GAAP measure. Our management believes Adjusted Diluted Earnings Per Share is an important measure of our operating performance because it provides a basis for comparison of our business operations between current, past and future periods by excluding items that we do not believe are indicative of our core operating performance.
+Adjusted Diluted Earnings Per Share is not a measure of financial performance under GAAP and is not calculated through the application of GAAP. As such, it should not be considered as a substitute or alternative for the GAAP measure of Diluted Earnings Per Share and, therefore, should not be used in isolation of, but in conjunction with, the GAAP measure. Adjusted Diluted Earnings Per Share, as presented, may produce results that vary from the GAAP measure and may not be comparable to a similarly defined non-GAAP measure used by other companies.
+Third Quarter Ended
+December 24,
+December 25,
+2022
+2021
+Net Income
+$
+1,601
+$
+1,629
++ Amortization of Intangible Assets
+1,180
+947
++ Acquisition Amortization of Backlog
+-
+300
++ Acquisition Deal Costs
+254
+293
++ Income Tax Effect @ 25%
+(359
+)
+(385
+)
+Adjusted Net Income
+2,676
+2,784
+Average Diluted Shares Outstanding
+7,666
+7,653
+Diluted Earnings Per Share – GAAP
+$
+0.21
+$
+0.21
+Adjusted Diluted Earnings Per Share
+$
+0.35
+$
+0.36
+nine months ended December 24, 2022 COMPARED TO nine months ended December 25, 2021 :
+Revenue:
+Nine Months Ended
+Change
+(dollars in thousands)
+December 24,
+December 25,
+2022
+2021
+$
+%
+Revenue:
+Service
+$
+105,120
+$
+87,338
+$
+17,782
+20.4
+%
+Distribution
+63,382
+61,741
+1,641
+2.7
+%
+Total
+$
+168,502
+$
+149,079
+$
+19,423
+13.0
+%
+Service revenue, which accounted for 62.4% of our total revenue during the first nine months of fiscal year 2023 and 58.6% of our total revenue during the first nine months of fiscal year 2022, increased $17.8 million, or 20.4%, from the first nine months of fiscal year 2022 compared to the first nine months of fiscal year 2023. This year-over-year increase reflected increased demand from the life sciences and other highly-regulated end markets and included $9.0 million of incremental revenue from acquisitions.
+Our Distribution sales accounted for 37.6% and 41.4% of our total revenue in the first nine months of fiscal years 2023 and 2022, respectively. For the first nine months of fiscal year 2023, Distribution sales increased $1.6 million, or 2.7%, compared to the first nine months of fiscal year 2022. This increase in revenue was due to increased orders in the first nine months of fiscal year 2023 and strong demand for rental orders.
+25
+Table of Contents
+Gross Profit:
+Nine Months Ended
+Change
+(dollars in thousands)
+December 24,
+December 25,
+2022
+2021
+$
+%
+Gross Profit:
+Service
+$
+33,115
+$
+27,447
+$
+5,668
+20.7
+%
+Distribution
+16,090
+14,320
+1,770
+12.4
+%
+Total
+$
+49,205
+$
+41,767
+$
+7,438
+17.8
+%
+Total gross profit for the first nine months of fiscal year 2023 was $49.2 million, an increase of $7.4 million or 17.8% versus the first nine months of fiscal year 2022. Total gross margin was 29.2%, a 120 basis points increase compared to 28.0% in the first nine months of fiscal year 2022. This increase in gross margin was primarily due to operating leverage on our fixed cost base in the Service segment and a favorable mix of products sold and rented in the Distribution segment.
+Operating Expenses:
+Nine Months Ended
+Change
+(dollars in thousands)
+December 24,
+December 25,
+2022
+2021
+$
+%
+Operating Expenses:
+Selling, Marketing and Warehouse
+$
+18,315
+$
+15,022
+$
+3,293
+21.9
+%
+General and Administrative
+$
+20,497
+17,117
+3,380
+19.7
+%
+Total
+$
+38,812
+$
+32,139
+$
+6,673
+20.8
+%
+Total operating expenses for the first nine months of fiscal year 2023 were $38.8 million, an increase of $6.7 million or 20.8% versus the first nine months of fiscal year 2022. The year-over-year increase in selling, marketing and warehouse was due to increased expenses related to recent acquisitions, especially acquisition related amortization expense, and higher incentive-based employee costs due to higher sales. The increase in general and administrative expenses includes incremental expenses related to acquired companies, increased payroll costs from new employees and continued investments in technology.  As a percentage of total revenue, operating expenses during the first nine months of fiscal year 2023 were 23.0%, compared to 21.6% in the first nine months of fiscal year 2022, an increase of 140 basis points.
+Provision for Income Taxes:
+Nine Months Ended
+Change
+(dollars in thousands)
+December 24,
+December 25,
+2022
+2021
+$
+%
+Provision for Income Taxes
+$
+1,631
+$
+715
+$
+916
+128.1
+%
+Our effective tax rates for the first nine months of fiscal years 2023 and 2022 were 18.8% and 7.9%, respectively. The increase in our tax rate is due to the decreased discrete tax benefits from share-based compensation activity. Our provision for income taxes is affected by discrete items that may occur in any given period but are not consistent from year to year. The discrete benefits related to share-based compensation activity in the first nine months of fiscal years 2023 and 2022 were $0.5 million and $1.7 million, respectively.
+26
+Table of Contents
+Net Income:
+Nine Months Ended
+Change
+December 24,
+December 25,
+2022
+2021
+$
+%
+Net Income
+$
+7,030
+$
+8,332
+$
+(1,302
+)
+(15.6
+)%
+Net income for the first nine months of fiscal year 2023 was $7.0 million, a decrease of $1.3 million or 15.6% versus the first nine months of fiscal year 2022. The year over year decrease in net income was due higher operating income offset by higher operating expenses, higher interest expense and a higher provision for income taxes.
+Adjusted EBITDA:
+In addition to reporting net income, a GAAP measure, we present Adjusted EBITDA (earnings before interest, income taxes, depreciation and amortization, non-cash stock compensation expense, acquisition related transaction expenses, non-cash loss on sale of building, and restructuring expense), which is a non-GAAP measure. Our management believes Adjusted EBITDA is an important measure of our operating performance because it allows management, investors and others to evaluate and compare the performance of our core operations from period to period by removing the impact of the capital structure (interest), tangible and intangible asset base (depreciation and amortization), taxes, stock-based compensation expense and other items, which is not always commensurate with the reporting period in which it is included. As such, our management uses Adjusted EBITDA as a measure of performance when evaluating our business segments and as a basis for planning and forecasting. Adjusted EBITDA is also commonly used by rating agencies, lenders and other parties to evaluate our credit worthiness.
+Adjusted EBITDA is not a measure of financial performance under GAAP and is not calculated through the application of GAAP. As such, it should not be considered as a substitute or alternative for the GAAP measure of net income and, therefore, should not be used in isolation of, but in conjunction with, the GAAP measure. Adjusted EBITDA, as presented, may produce results that vary from the GAAP measure and may not be comparable to a similarly defined non-GAAP measure used by other companies.
+Nine Months Ended
+(dollars in thousands)
+December 24,
+December 25,
+2022
+2021
+Net Income
+$
+7,030
+$
+8,332
++ Interest Expense
+1,636
+552
++ Other Expense
+96
+29
++ Tax Provision
+1,631
+715
+Operating Income
+10,393
+9,628
++ Depreciation & Amortization
+8,243
+6,499
++ Transaction Expense
+126
+876
++ Other Expense
+(96
+)
+(29
+)
++ Noncash Stock Compensation
+2,757
+1,681
+Adjusted EBITDA
+$
+21,423
+$
+18,655
+During the first nine months of fiscal year 2023, Adjusted EBITDA was $21.4 million, an increase of $2.8 million or 14.8% versus the first nine months of fiscal year 2022. As a percentage of revenue, Adjusted EBITDA was 12.7% for the first nine months of fiscal year 2023 compared to 12.5% for the first nine months of fiscal year 2022. The increase in Adjusted EBITDA during the first nine months of fiscal year 2023 was primarily driven by the increase in interest expense, tax provision, depreciation and amortization expense and noncash stock compensation expense.
+27
+Table of Contents
+Adjusted Diluted Earnings Per Share:
+In addition to reporting Diluted Earnings Per Share, a GAAP measure, we present Adjusted Diluted Earnings Per Share (net income plus acquisition related amortization expense, acquisition related transaction expenses, acquisition related stock-based compensation, acquisition amortization of backlog and restructuring expense, on a diluted per share basis), which is a non-GAAP measure. Our management believes Adjusted Diluted Earnings Per Share is an important measure of our operating performance because it provides a basis for comparison of our business operations between current, past and future periods by excluding items that we do not believe are indicative of our core operating performance.
+Adjusted Diluted Earnings Per Share is not a measure of financial performance under GAAP and is not calculated through the application of GAAP. As such, it should not be considered as a substitute or alternative for the GAAP measure of Diluted Earnings Per Share and, therefore, should not be used in isolation of, but in conjunction with, the GAAP measure. Adjusted Diluted Earnings Per Share, as presented, may produce results that vary from the GAAP measure and may not be comparable to a similarly defined non-GAAP measure used by other companies.
+Nine Months Ended
+December 24,
+December 25,
+2022
+2021
+Net Income
+$
+7,030
+$
+8,332
++ Amortization of Intangible Assets
+3,411
+2,296
++ Acquisition Amortization of Backlog
+-
+400
++ Acquisition Deal Costs
+792
+1,193
++ Income Tax Effect @ 25%
+(1,051
+)
+(972
+)
+Adjusted Net Income
+10,182
+11,249
+Average Diluted Shares Outstanding
+7,644
+7,599
+Diluted Earnings Per Share – GAAP
+$
+0.92
+$
+1.10
+Adjusted Diluted Earnings Per Share
+$
+1.33
+$
+1.48
+LIQUIDITY AND CAPITAL RESOURCES
+We expect that foreseeable liquidity and capital resource requirements will be met through anticipated cash flows from operations and borrowings from our revolving credit facility. We believe that these sources of financing will be adequate to meet our future requirements.
+On July 7, 2021, we entered into the Second Amended and Restated Credit Facility Agreement (the “2021 Credit Agreement”) with Manufacturers and Traders Trust Company (“M&T”), that amended and restated in its entirety the Company’s Amended and Restated Credit Facility Agreement dated as of October 30, 2017, as amended by Amended and Restated Credit Facility Agreement Amendment 1 dated December 10, 2018 and Amended and Restated Credit Facility Agreement Amendment 2 (“Amendment Two”) dated May 18, 2020 (as amended, the “Prior Credit Agreement”).
+The 2021 Credit Agreement increased the revolving credit commitment (the “Revolving Credit Commitment”) from $40.0 million to $80.0 million, with a letter of credit subfacility increased from $2.0 million to $10.0 million, and extended the term of the Revolving Credit Commitment to June 2026. The 2021 Credit Agreement amended the definition of Applicable Margin (formerly Applicable Rate under the Prior Credit Agreement), which is based upon our then current leverage ratio and is used to determine interest charges on outstanding and unused borrowings under the revolving credit facility; the amendments reduced the Applicable Margins payable at the two highest leverage ratio levels. The 2021 Credit Agreement also amended the definition of Permitted Acquisitions, that is, acquisitions which are permitted under, and may be financed with proceeds of, the revolving credit facility, including increasing the aggregate purchase price for acquisitions consummated in any fiscal year from $1.0 million to $65.0 million during fiscal year 2022 and $50.0 million during any subsequent fiscal year, and adding an aggregate purchase price of $40.0 million for acquisitions consummated at any time during the term of the 2021 Credit Agreement related to businesses with a principal place of business located in the United Kingdom or the European Union.
+28
+Table of Contents
+In addition, the 2021 Credit Agreement provides that, assuming no event of default, restricted payments up to $25.0 million (increased from $10.0 million in the Prior Credit Agreement) in the aggregate and $10.0 million (increased from $3.0 million in the Prior Credit Agreement) in any single fiscal year may be used by us to repurchase our shares and pay dividends. The 2021 Credit Agreement modified the leverage ratio and fixed charge coverage ratio covenants with which we are required to comply. The 2021 Credit Agreement also reduced the London Interbank Offered Rate (“LIBOR”) floor from 1.0% to 0.25% and included a mechanism for adoption of a different benchmark rate upon the discontinuation of LIBOR. The 2021 Credit Agreement also reduced the fixed interest rate on our term loan in the amount of $15.0 million (the “2018 Term Loan”) was reduced from 4.15% to 3.90%.
+The 2021 Credit Agreement superseded in its entirety, the Prior Credit Agreement. Amendment Two to the Prior Credit Agreement had previously extended the term of the revolving credit facility to October 20, 2022 and increased the revolving credit commitment to $40.0 million.
+Amendment Two had modified the definition of the applicable rate used to determine interest charges on outstanding and unused borrowings under the revolving credit facility and it amended the definition of permitted acquisitions to amend borrowings available under the revolving credit facility for acquisitions. In addition, Amendment Two had amended the definition of restricted payments to exclude amounts up to $2.5 million during each fiscal year used to pay certain employee tax obligations associated with share-based payment and stock option activity, and modified certain restrictions to our ability to repurchase our shares and pay dividends. Amendment Two also had modified the leverage ratio and fixed charge coverage ratio covenants with which we were required to comply and limited capital expenditures to $5.5 million for fiscal year 2021. Amendment Two also had established a LIBOR floor of 1.0% and included a mechanism for adoption of a different benchmark rate in the event LIBOR was discontinued.
+As of December 24, 2022, $80.0 million was available under the revolving credit facility, of which $42.2 million was outstanding and included in long-term debt on the Consolidated Balance Sheets. During the first nine months of fiscal year 2023 and 2022, we used $8.3 million and $20.9 million, respectively, for business acquisitions.
+As of December 24, 2022, $7.0 million was outstanding on the 2018 Term Loan, of which $2.2 million was included in current liabilities on the Consolidated Balance Sheets with the remainder included in long-term debt. The 2018 Term Loan requires total repayments (principal plus interest) of $0.2 million per month through December 2025.
+Pursuant to the Prior Credit Agreement, we were required to comply with a fixed charge ratio covenant and a leverage ratio covenant, which were modified by the 2021 Credit Agreement. The allowable leverage ratio under the Prior Credit Agreement for the first quarter of fiscal year 2022 was a maximum multiple of 4.0 of total debt outstanding compared to EBITDA and non-cash stock-based compensation expense for the preceding four consecutive fiscal quarters. The Prior Credit Agreement also had provided that the trailing twelve-month pro forma EBITDA of an acquired business was included in the allowable leverage calculation. After the first quarter of fiscal year 2022, pursuant to the 2021 Credit Agreement, the allowable leverage ratio is a maximum multiple of 3.0. We were in compliance with all loan covenants and requirements during the third quarter of fiscal year 2023. Our leverage ratio, as defined in the 2021 Credit Agreement, was 1.66 at December 24, 2022, compared with 1.74 at March 26, 2022
+Interest on the revolving credit facility continues to accrue, at our election, at either the variable one-month LIBOR or a fixed rate for a designated period at the LIBOR corresponding to such period (subject to a 1% floor during the first quarter of fiscal year 2022 and a 0.25% floor for subsequent periods), in each case, plus a margin. Interest on outstanding borrowings under the 2018 Term Loan accrued at a fixed rate of 4.15% during the first quarter of fiscal year 2022 and accrue at a fixed rate of 3.90% during the second quarter of fiscal year 2022 and over the term of the loan for subsequent periods. Unused fees accrue based on the average daily amount of unused credit available on the revolving credit facility. Interest rate margins and unused fees are determined on a quarterly basis based upon our calculated leverage ratio.
+29
+Table of Contents
+Cash Flows:
+The following table is a summary of our Consolidated Statements of Cash Flows (dollars in thousands):
+Nine Months Ended
+December 24,
+December 25,
+2022
+2021
+Cash Provided by (Used in):
+Operating Activities
+$
+13,975
+$
+12,378
+Investing Activities
+$
+(15,445
+)
+$
+(26,759
+)
+Financing Activities
+$
+782
+$
+16,900
+Operating Activities : Net cash provided by operations was $14.0 million during the first nine months of fiscal year 2023 compared to $12.4 million of net cash provided by operating activities during the first nine months of fiscal year 2022. The year-over-year increase in cash provided by operations was primarily the result of changes in net working capital (defined as current assets less current liabilities). The significant working capital fluctuations were as follows:
+●
+Receivables: Accounts receivable decreased $2.0 million during the first nine months of fiscal year 2023 inclusive of $0.7 million of accounts receivable acquired during the period. During the first nine months of fiscal year 2022, accounts receivable increased by a net amount of $0.8 million inclusive of $2.6 million of accounts receivable acquired during the period. The year-over-year variation reflects changes in the timing of collections. The following table illustrates our “days sales outstanding” as of December 24, 2022 and December 25, 2021 (dollars in thousands):
+December 24,
+December 25,
+2022
+2021
+Net Sales, for the last two fiscal months
+$
+40,088
+$
+34,743
+Accounts Receivable, net
+$
+37,702
+$
+34,702
+Days Sales Outstanding
+59
+63
+●
+Inventory: Our inventory strategy includes making appropriate large quantity, high dollar purchases with key manufacturers for various reasons, including maximizing on-hand availability of key products, expanding the number of SKU’s stocked in anticipation of customer demand, reducing backorders for products with long lead times and optimizing vendor purchase and sales volume discounts. As a result, inventory levels may vary from quarter-to-quarter based on the timing of these large orders in relation to our quarter end. Our inventory balance increased $4.2 million during the first nine months of fiscal year 2023. Our inventory balance increased by $2.2 million during the first nine months of fiscal year 2022.
+●
+Accounts Payable: Changes in accounts payable may or may not correlate with changes in inventory balances at any given quarter end due to the timing of vendor payments for inventory, as well as the timing of payments for outsourced Service vendors and capital expenditures.
+Accounts payable decreased $0.3 million during the first nine months of fiscal year 2023 inclusive of $0.1 million of accounts payable acquired during the period.  Accounts payable increased $0.7 million during the first nine months of fiscal year 2022. The variances are largely due to the timing of inventory and capital expenditures and other payments in the respective periods.
+●
+Accrued Compensation and Other Current Liabilities: Accrued compensation and other current liabilities include, among other things, amounts paid to employees for non-equity performance-based compensation. At the end of any particular period, the amounts accrued for such compensation may vary due to many factors including, but not limited to, changes in expected performance levels, the performance measurement period, and timing of payments to employees.
+During the first nine months of fiscal year 2023, accrued compensation and other current liabilities decreased by $2.4 million. During the first nine months of fiscal year 2022, accrued compensation and other current liabilities decreased by $1.1 million. The change from the first nine months of fiscal year 2022 was largely due to the annual payment of incentive based compensation accruals.
+●
+Income Taxes Payable: In any given period, net working capital may be affected by the timing and amount of income tax payments. During the first nine months of fiscal year 2023 the net income tax receivable decreased by $0.8 million. During the first nine months of fiscal year 2022, income taxes payable decreased by $0.4 million. The year-over-year difference is due to timing of income tax payments.
+30
+Table of Contents
+Investing Activities:
+During the first nine months of fiscal year 2023, we invested $7.1 million in capital expenditures that was used primarily for customer-driven expansion of Service segment capabilities and our rental business.
+During the first nine months of fiscal year 2022, we invested $5.9 million in capital expenditures that was used primarily for customer-driven expansion of Service segment capabilities and our rental business.
+During the first nine months of fiscal year 2023, we used $8.3 million for business acquisitions. During the first nine months of fiscal year 2022, we used $20.9 million for business acquisitions.
+During each of the first nine months of fiscal year 2023 and fiscal year 2022, no contingent consideration or other holdback amounts were paid related to business acquisitions.
+Financing Activities : During the first nine months of fiscal year 2023, $2.3 million was borrowed from our revolving line of credit and $0.5 million in cash was generated from the issuance of common stock. In addition, we used $1.6 million for scheduled repayments of our term loan and $0.4 million for the “net” awarding of certain share awards to cover employee tax-withholding obligations for share award and stock option activity in fiscal year 2023, which are shown as a repurchase of shares of our common stock.
+During the first nine months of fiscal year 2022, $22.8 million was borrowed from our revolving line of credit and $1.4 million in cash was generated from the issuance of common stock. In addition, we used $1.6 million for scheduled repayments of our term loan and $5.6 million for the “net” awarding of certain share awards to cover employee tax-withholding obligations for share award and stock option activity in fiscal year 2022, which are shown as a repurchase of shares of our common stock.
+OUTLOOK
+We are pleased with the growth across all of our business channels including double-digit organic Service growth in our third quarter of fiscal 2023. We expect our unique value proposition will continue to drive a sustainable competitive advantage in the highly regulated markets that we serve, particularly the Life Science and Aerospace and Defense markets.
+We are confident our work around differentiation, including Nexa's service tracks and consulting platform, will foster continued organic revenue growth.  Driven by recurring revenue streams and regulation, we expect our Service segment to outperform through various economic cycles.
+Our acquisition pipeline is very active. Acquisitions, which have generated compelling returns throughout fiscal year 2023, will continue to be an important component of Service growth. In addition, in both the fourth quarter of fiscal year 2023 and fiscal year 2024, we expect organic Service revenue growth to remain in the high-single digit range. We also expect gross margin improvement to continue in those periods as a by-product of both growth and successful execution of various ongoing productivity enhancement programs.
+We expect our income tax rate to range between 21% and 23% for full fiscal year 2023. This estimate includes Federal, various state, Canadian and Irish income taxes and reflects the discrete tax accounting associated with share-based payment awards.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+INTEREST RATES
+Our exposure to changes in interest rates results from our borrowing activities. In the event interest rates were to move by 1%, our yearly interest expense would increase or decrease by approximately $0.4 million assuming our average borrowing levels remained constant. As of December 24, 2022, $80.0 million was available under our revolving credit facility, of which $42.2 million was outstanding and included in long-term debt on the Consolidated Balance Sheets. As described above under “Liquidity and Capital Resources,” we also have a $15.0 million (original principal) term loan. The 2018 Term Loan is considered a fixed interest rate loan. As of December 24, 2022, $7.0 million was outstanding on the 2018 Term Loan and was included in long-term debt and current portion of long-term debt on the Consolidated Balance Sheets. The 2018 Term Loan requires total (principal and interest) repayments of $0.2 million per month.
+31
+Table of Contents
+At our option, we borrow from our revolving credit facility at the variable one-month LIBOR or at a fixed rate for a designated period at the LIBOR corresponding to such period (subject to a 1% floor during the first quarter of fiscal year 2022 and a 0.25% floor for subsequent periods), in each case, plus a margin. Our interest rate margin is determined on a quarterly basis based upon our calculated leverage ratio. Our interest rate during the first nine months of fiscal year 2023 for our revolving credit facility ranged from 1.6% to 6.0%. Interest on outstanding borrowings of the 2018 Term Loan accrued at a fixed rate of 4.15% over the term of the loan during the first quarter of fiscal year 2022 and 3.90% over the term of the loan for subsequent periods. Our revolving credit facility includes a mechanism for adoption of a different benchmark rate upon the discontinuation of LIBOR. On December 24, 2022, we had no hedging arrangements in place for our revolving credit facility to limit our exposure to upward movements in interest rates.
+FOREIGN CURRENCY
+Approximately 90% of our total revenues for each of the first nine months of fiscal year 2023 and 2022 were denominated in U.S. dollars, with the remainder denominated in Canadian dollars and Euros. A 10% change in the value of the Canadian dollar to the U.S. dollar and the Euro to the U.S. dollar would impact our revenue by approximately 1%. We monitor the relationship between U.S. and Canadian currencies and the U.S. dollar and the Euro on a monthly basis and adjust sales prices for products and services sold in Canadian dollars or Euros as we believe to be appropriate.
+We continually utilize short-term foreign exchange forward contracts to reduce the risk that future earnings denominated in Canadian dollars would be adversely affected by changes in currency exchange rates. We do not apply hedge accounting and therefore the net change in the fair value of the contracts, which totaled a gain of $0.3 million and less than $0.1 million during the first nine months of each of the fiscal years 2023 and 2022, respectively, was recognized as a component of Interest and Other Expense, net in the Consolidated Statements of Income. The change in the fair value of the contracts is offset by the change in fair value on the underlying accounts receivables denominated in Canadian dollars being hedged. On December 24, 2022, we had a foreign exchange contract, which matured in January 2023, outstanding in the notional amount of $3.0 million. The foreign exchange contract was renewed in January 2023 and continues to be in place. We do not use hedging arrangements for speculative purposes.
+ITEM 4. CONTROLS AND PROCEDURES
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures.
+Our principal executive officer and our principal financial officer evaluated our disclosure controls and procedures (as defined in the Securities Exchange Act of 1934, as amended (the “Exchange Act”), Rules 13a-15(e) and 15d-15(e)) as of the end of the period covered by this quarterly report. Disclosure controls and procedures are designed to ensure that information required to be disclosed in our reports filed under the Exchange Act, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms and that such information is accumulated and communicated to our principal executive officer and principal financial officer to allow timely decisions regarding required disclosure. Based on this evaluation, our principal executive officer and our principal financial officer concluded that our disclosure controls and procedures were effective as of such date.
+Changes in Internal Control over Financial Reporting.
+There has been no change in our internal control over financial reporting that occurred during the last fiscal quarter covered by this quarterly report (our third quarter of fiscal year 2023) that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+32
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 6. EXHIBITS
+INDEX TO EXHIBITS
+Exhibit No.
+Description
+(31)
+Rule 13a-14(a)/15d-14(a) Certifications
+31.1*
+Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+(32)
+Section 1350 Certifications
+32.1**
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+(101)
+Interactive Data File
+101.INS*
+Inline XBRL Instance Document
+101.SCH*
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL*
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB*
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE*
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+(104)
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*
+Exhibit filed with this report.
+**
+Exhibit furnished with this report.
+33
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+TRANSCAT, INC.
+Date: February 1, 2023
+/s/ Lee D. Rudow
+Lee D. Rudow
+President and Chief Executive Officer
+(Principal Executive Officer)
+Date: February 1, 2023
+/s/ Thomas L. Barbato
+Thomas L. Barbato
+Senior Vice President of Finance and Chief Financial Officer
+(Principal Financial Officer)
+34

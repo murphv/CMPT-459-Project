@@ -1,0 +1,2118 @@
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0000875582 2022-09-01 2022-11-30
+0000875582 2023-01-12
+xbrli:shares
+xbrli:pure
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:JPMorganChaseBankMember us-gaap:SubsequentEventMember 2023-01-06 2023-01-06
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:JPMorganChaseBankMember us-gaap:SubsequentEventMember ntic:AdjustedSOFRRateMember 2023-01-06 2023-01-06
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:JPMorganChaseBankMember us-gaap:SubsequentEventMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2023-01-06 2023-01-06
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:JPMorganChaseBankMember us-gaap:SubsequentEventMember us-gaap:PrimeRateMember 2023-01-06 2023-01-06
+iso4217:USD
+0000875582 us-gaap:StandbyLettersOfCreditMember ntic:JPMorganChaseBankMember us-gaap:SubsequentEventMember 2023-01-06
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:JPMorganChaseBankMember us-gaap:SubsequentEventMember 2023-01-06
+0000875582 2021-09-01 2021-11-30
+0000875582 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-08-31
+0000875582 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-08-31
+0000875582 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-08-31
+0000875582 us-gaap:FairValueMeasurementsRecurringMember 2022-08-31
+0000875582 us-gaap:FairValueInputsLevel3Member us-gaap:FairValueMeasurementsRecurringMember 2022-11-30
+0000875582 us-gaap:FairValueInputsLevel2Member us-gaap:FairValueMeasurementsRecurringMember 2022-11-30
+0000875582 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember 2022-11-30
+0000875582 us-gaap:FairValueMeasurementsRecurringMember 2022-11-30
+0000875582 2021-11-30
+0000875582 2022-11-30
+0000875582 country:US 2021-09-01 2021-11-30
+0000875582 country:US 2022-09-01 2022-11-30
+0000875582 ntic:OtherCountriesMember 2021-09-01 2021-11-30
+0000875582 ntic:OtherCountriesMember 2022-09-01 2022-11-30
+0000875582 country:IN 2021-09-01 2021-11-30
+0000875582 country:IN 2022-09-01 2022-11-30
+0000875582 country:BR 2021-09-01 2021-11-30
+0000875582 country:BR 2022-09-01 2022-11-30
+0000875582 country:CN 2021-09-01 2021-11-30
+0000875582 country:CN 2022-09-01 2022-11-30
+0000875582 2022-08-31
+0000875582 country:US 2022-08-31
+0000875582 country:US 2022-11-30
+0000875582 ntic:OtherCountriesMember 2022-08-31
+0000875582 ntic:OtherCountriesMember 2022-11-30
+0000875582 country:CN 2022-08-31
+0000875582 country:CN 2022-11-30
+0000875582 country:GB 2021-09-01 2021-11-30
+0000875582 country:GB 2022-09-01 2022-11-30
+0000875582 country:KR 2021-09-01 2021-11-30
+0000875582 country:KR 2022-09-01 2022-11-30
+0000875582 country:CZ 2021-09-01 2021-11-30
+0000875582 country:CZ 2022-09-01 2022-11-30
+0000875582 country:TH 2021-09-01 2021-11-30
+0000875582 country:TH 2022-09-01 2022-11-30
+0000875582 country:FI 2021-09-01 2021-11-30
+0000875582 country:FI 2022-09-01 2022-11-30
+0000875582 country:SE 2021-09-01 2021-11-30
+0000875582 country:SE 2022-09-01 2022-11-30
+0000875582 country:FR 2021-09-01 2021-11-30
+0000875582 country:FR 2022-09-01 2022-11-30
+0000875582 country:JP 2021-09-01 2021-11-30
+0000875582 country:JP 2022-09-01 2022-11-30
+0000875582 country:PL 2021-09-01 2021-11-30
+0000875582 country:PL 2022-09-01 2022-11-30
+0000875582 country:DE 2021-09-01 2021-11-30
+0000875582 country:DE 2022-09-01 2022-11-30
+0000875582 ntic:UnaffiliatedCustomersOutsideTheUSAMember 2021-09-01 2021-11-30
+0000875582 ntic:UnaffiliatedCustomersOutsideTheUSAMember 2022-09-01 2022-11-30
+0000875582 ntic:JointVenturesInWhichTheCompanyIsAShareholderDirectlyAndIndirectlyOutsideTheUSAMember 2021-09-01 2021-11-30
+0000875582 ntic:JointVenturesInWhichTheCompanyIsAShareholderDirectlyAndIndirectlyOutsideTheUSAMember 2022-09-01 2022-11-30
+0000875582 ntic:InsideTheUSAToUnaffiliatedCustomersMember 2021-09-01 2021-11-30
+0000875582 ntic:InsideTheUSAToUnaffiliatedCustomersMember 2022-09-01 2022-11-30
+0000875582 ntic:IndirectCostOfGoodsSoldMember 2021-09-01 2021-11-30
+0000875582 ntic:IndirectCostOfGoodsSoldMember 2022-09-01 2022-11-30
+0000875582 ntic:DirectCostOfGoodsSoldMember ntic:NaturTecMember 2021-09-01 2021-11-30
+0000875582 ntic:DirectCostOfGoodsSoldMember ntic:NaturTecMember 2022-09-01 2022-11-30
+0000875582 ntic:DirectCostOfGoodsSoldMember ntic:ZERUSTMember 2021-09-01 2021-11-30
+0000875582 ntic:DirectCostOfGoodsSoldMember ntic:ZERUSTMember 2022-09-01 2022-11-30
+0000875582 ntic:NaturTecMember 2021-09-01 2021-11-30
+0000875582 ntic:NaturTecMember 2022-09-01 2022-11-30
+0000875582 ntic:ZERUSTMember 2021-09-01 2021-11-30
+0000875582 ntic:ZERUSTMember 2022-09-01 2022-11-30
+utr:Y
+iso4217:USD xbrli:shares
+0000875582 us-gaap:EmployeeStockOptionMember 2021-09-01 2021-11-30
+0000875582 us-gaap:EmployeeStockOptionMember 2022-09-01 2022-11-30
+0000875582 ntic:ESPPMember 2022-11-30
+0000875582 2021-09-01 2021-09-01
+0000875582 2022-09-01 2022-09-01
+thunderdome:item
+0000875582 2021-10-20 2021-10-20
+0000875582 2022-10-20 2022-10-20
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:PNCBankMember 2022-08-31
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:PNCBankMember 2022-11-30
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:PNCBankMember 2021-09-01 2021-11-30
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:PNCBankMember 2022-09-01 2022-11-30
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:PNCBankMember us-gaap:LondonInterbankOfferedRateLiborSwapRateMember 2022-09-01 2022-11-30
+0000875582 us-gaap:RevolvingCreditFacilityMember ntic:PNCBankMember us-gaap:LondonInterbankOfferedRateLIBORMember 2022-09-01 2022-11-30
+0000875582 ntic:AllOtherMember 2021-09-01 2021-11-30
+0000875582 ntic:EXCORMember 2021-09-01 2021-11-30
+0000875582 ntic:EXCORAndAllOtherJointVentursMember 2021-09-01 2021-11-30
+0000875582 ntic:JointVenturesInFranceMember 2021-09-01 2021-11-30
+0000875582 ntic:EXCORMember 2021-09-01 2021-11-30
+0000875582 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember 2021-09-01 2021-11-30
+0000875582 ntic:AllOtherMember 2022-08-31
+0000875582 ntic:EXCORMember 2022-08-31
+0000875582 ntic:EXCORAndAllOtherJointVentursMember 2022-08-31
+0000875582 ntic:JointVenturesInFranceMember 2022-08-31
+0000875582 ntic:EXCORMember 2022-08-31
+0000875582 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember 2022-08-31
+0000875582 ntic:AllOtherMember 2022-09-01 2022-11-30
+0000875582 ntic:EXCORMember 2022-09-01 2022-11-30
+0000875582 ntic:EXCORAndAllOtherJointVentursMember 2022-09-01 2022-11-30
+0000875582 ntic:AllOtherMember 2022-09-01 2022-11-30
+0000875582 ntic:EXCORMember 2022-09-01 2022-11-30
+0000875582 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember 2022-09-01 2022-11-30
+0000875582 ntic:AllOtherMember 2022-11-30
+0000875582 ntic:EXCORMember 2022-11-30
+0000875582 ntic:EXCORAndAllOtherJointVentursMember 2022-11-30
+0000875582 ntic:AllOtherMember 2022-11-30
+0000875582 ntic:EXCORMember 2022-11-30
+0000875582 us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeOrGroupOfInvesteesMember 2022-11-30
+0000875582 us-gaap:CustomerRelationshipsMember 2022-08-31
+0000875582 ntic:PatentsAndTrademarksMember 2022-08-31
+0000875582 us-gaap:CustomerRelationshipsMember 2022-11-30
+0000875582 ntic:PatentsAndTrademarksMember 2022-11-30
+0000875582 2021-08-31
+0000875582 us-gaap:NoncontrollingInterestMember 2022-11-30
+0000875582 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-11-30
+0000875582 us-gaap:RetainedEarningsMember 2022-11-30
+0000875582 us-gaap:AdditionalPaidInCapitalMember 2022-11-30
+0000875582 us-gaap:CommonStockMember 2022-11-30
+0000875582 us-gaap:NoncontrollingInterestMember 2022-09-01 2022-11-30
+0000875582 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-01 2022-11-30
+0000875582 us-gaap:RetainedEarningsMember 2022-09-01 2022-11-30
+0000875582 us-gaap:AdditionalPaidInCapitalMember 2022-09-01 2022-11-30
+0000875582 us-gaap:CommonStockMember 2022-09-01 2022-11-30
+0000875582 us-gaap:NoncontrollingInterestMember 2022-08-31
+0000875582 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-08-31
+0000875582 us-gaap:RetainedEarningsMember 2022-08-31
+0000875582 us-gaap:AdditionalPaidInCapitalMember 2022-08-31
+0000875582 us-gaap:CommonStockMember 2022-08-31
+0000875582 us-gaap:NoncontrollingInterestMember 2021-11-30
+0000875582 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-11-30
+0000875582 us-gaap:RetainedEarningsMember 2021-11-30
+0000875582 us-gaap:AdditionalPaidInCapitalMember 2021-11-30
+0000875582 us-gaap:CommonStockMember 2021-11-30
+0000875582 us-gaap:NoncontrollingInterestMember 2021-09-01 2021-11-30
+0000875582 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-01 2021-11-30
+0000875582 us-gaap:RetainedEarningsMember 2021-09-01 2021-11-30
+0000875582 us-gaap:AdditionalPaidInCapitalMember 2021-09-01 2021-11-30
+0000875582 us-gaap:CommonStockMember 2021-09-01 2021-11-30
+0000875582 us-gaap:NoncontrollingInterestMember 2021-08-31
+0000875582 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-08-31
+0000875582 us-gaap:RetainedEarningsMember 2021-08-31
+0000875582 us-gaap:AdditionalPaidInCapitalMember 2021-08-31
+0000875582 us-gaap:CommonStockMember 2021-08-31
+0000875582 ntic:CustomerRelationshipsAndAssembledWorkforceMember 2022-09-01 2022-11-30
+0000875582 ntic:FeesForServicesProvidedToJointVenturesMember 2022-09-01 2022-11-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+______________________________
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+November 30, 2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 ‐‐
+For the transition period from ________________ to __________________
+Commission File Number:
+001-11038
+____________________
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+(State or other jurisdiction of incorporation or organization)
+41-0857886
+(I.R.S. Employer Identification No.)
+4201 Woodland Road
+P.O. Box 69
+Circle Pines ,
+Minnesota   55014
+(Address of principal executive offices) (Zip Code)
+( 763 )
+225-6600
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.02 per share
+NTIC
+Nasdaq
+Global Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐
+No ☒
+As of January 12, 2023, there were
+9,366,358
+shares of common stock of the registrant outstanding.
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION
+FORM 10-Q
+November 30, 2022
+TABLE OF CONTENTS
+Description
+Page
+PART I — FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+Consolidated Balance Sheets as of November 30, 2022 (unaudited) and August 31, 2022
+1
+Consolidated Statements of Operations (unaudited) for the Three Months Ended November 30, 2022 and 2021
+2
+Consolidated Statements of Comprehensive Income (unaudited) for the Three Months Ended November 30, 2022 and 2021
+3
+Consolidated Statements of Equity (unaudited) for the Three Months Ended November 30, 2022 and 2021
+4
+Consolidated Statements of Cash Flows (unaudited) for the Three Months Ended November 30, 2022 and 2021
+5
+Notes to Consolidated Financial Statements (unaudited)
+6-15
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+16-29
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+29
+Item 4.
+Controls and Procedures
+30
+PART II — OTHER INFORMATION
+Item 1.
+Legal Proceedings
+31
+Item 1A.
+Risk Factors
+31
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+31
+Item 3.
+Defaults Upon Senior Securities
+31
+Item 4.
+Mine Safety Disclosures
+31
+Item 5.
+Other Information
+32
+Item 6.
+Exhibits
+33
+SIGNATURES
+34
+_________________
+This quarterly report on Form 10-Q contains certain forward-looking statements that are within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, and are subject to the safe harbor created by those sections. For more information, see
+“ Part I. Financial Information
+–
+Item 2.
+Management ’ s Discussion and Analysis of Financial Condition and Results of Operations
+–
+Forward-Looking Statements. ”
+i
+_________________
+As used in this report, references to
+“ NTIC, ”
+the
+“ Company, ”
+“ we, ”
+“ our ”
+or
+“ us, ”
+unless the context otherwise requires, refer to Northern Technologies International Corporation and its wholly-owned and majority-owned subsidiaries, all of which are consolidated on NTIC ’ s consolidated financial statements.
+As used in this report, references to: (1)
+“ NTIC China ”
+refer to NTIC ’ s wholly-owned subsidiary in China, NTIC (Shanghai) Co., Ltd.; (2)
+“ NTI Europe ”
+refer to NTIC ’ s wholly-owned subsidiary in Germany, NTIC Europe GmbH; (3)
+“ Zerust Mexico ”
+refer to NTIC ’ s wholly-owned subsidiary in Mexico, ZERUST-EXCOR MEXICO, S. de R.L. de C.V.; (4)
+“ Zerust India ”
+refer to NTIC ’ s wholly-owned subsidiary in India effective as of September 1, 2021, HNTI Limited (formerly Harita-NTI Limited); and (5) “ NTI Asean ”
+refer to NTIC ’ s majority-owned holding company subsidiary, NTI Asean LLC, which holds investments in certain entities that operate in the Association of Southeast Asian Nations (ASEAN) region.
+NTIC ’ s consolidated financial statements do not include the accounts of any of its joint ventures. Except as otherwise indicated, references in this report to NTIC ’ s joint ventures do not include any of NTIC ’ s wholly-owned or majority-owned subsidiaries.
+As used in this report, references to
+“ EXCOR ”
+refer to NTIC ’ s joint venture in Germany, Excor Korrosionsschutz
+–
+Technologien und Produkte GmbH.
+All trademarks, trade names or service marks referred to in this report are the property of their respective owners.
+ii
+PART I -
+FINANCIAL INFORMATION
+ITEM 1.
+FINANCIAL STATEMENTS
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS AS OF NOVEMBER 30, 2022 (UNAUDITED) AND
+AUGUST 31, 2022 (AUDITED)
+November 30, 2022
+August 31, 2022
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents
+$
+6,066,321
+$
+5,333,890
+Available for sale securities
+5,590
+5,590
+Receivables:
+Trade, excluding joint ventures, less allowance for doubtful accounts of $ 439,000
+as of November 30, 2022 and August 31, 2022
+14,398,185
+14,136,930
+Trade, joint ventures
+593,601
+697,861
+Fees for services provided to joint ventures
+1,123,478
+1,765,117
+Income taxes
+226,731
+—
+Inventories
+15,236,496
+16,341,729
+Prepaid expenses
+2,241,664
+1,953,764
+Total current assets
+39,892,066
+40,234,881
+PROPERTY AND EQUIPMENT, NET
+12,145,152
+12,170,493
+OTHER ASSETS:
+Investments in joint ventures
+20,331,746
+21,814,754
+Intangible asset, net
+6,530,512
+6,633,878
+Goodwill
+4,782,376
+4,782,376
+Operating lease right of use asset
+440,921
+557,571
+Total other assets
+32,085,555
+33,788,579
+Total assets
+$
+84,122,773
+$
+86,193,953
+LIABILITIES AND EQUITY
+CURRENT LIABILITIES:
+Accounts payable
+$
+6,032,918
+$
+7,796,494
+Line of credit
+5,450,000
+5,900,000
+Income taxes payable
+12,210
+30,742
+Accrued liabilities:
+Payroll and related benefits
+1,601,033
+2,297,543
+Other
+1,069,489
+667,292
+Current portion of operating lease
+317,496
+373,330
+Total current liabilities
+14,483,146
+17,065,401
+LONG-TERM LIABILITIES:
+Deferred income tax, net
+1,643,007
+1,700,015
+Operating lease, less current portion
+123,425
+184,241
+Total long-term liabilities
+1,766,432
+1,884,256
+COMMITMENTS AND CONTINGENCIES (Note 14)
+EQUITY:
+Preferred stock,
+no
+par value; authorized
+10,000
+shares;
+none
+issued and outstanding
+—
+—
+Common stock, $ 0.02
+par value per share; authorized
+15,000,000
+shares as of November 30, 2022 and August 31, 2022; issued and outstanding
+9,366,358
+and
+9,232,483 , respectively
+187,327
+184,650
+Additional paid-in capital
+20,721,235
+19,939,131
+Retained earnings
+50,563,210
+50,716,613
+Accumulated other comprehensive loss
+( 7,305,836
+)
+( 7,245,132
+)
+Stockholders’ equity
+64,165,936
+63,595,262
+Non-controlling interests
+3,707,259
+3,649,034
+Total equity
+67,873,195
+67,244,296
+Total liabilities and equity
+$
+84,122,773
+$
+86,193,953
+See notes to consolidated financial statements.
+1
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+FOR THE THREE MONTHS ENDED NOVEMBER 30, 2022 AND 2021
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+NET SALES:
+Net sales
+$
+19,952,766
+$
+18,193,413
+Cost of goods sold
+13,599,642
+12,490,483
+Gross profit
+6,353,124
+5,702,930
+JOINT VENTURE OPERATIONS:
+Equity in income from joint ventures
+1,189,404
+1,374,749
+Fees for services provided to joint ventures
+1,181,805
+1,258,858
+Total joint venture operations
+2,371,209
+2,633,607
+OPERATING EXPENSES:
+Selling expenses
+3,507,434
+3,237,758
+General and administrative expenses
+3,130,599
+2,596,347
+Research and development expenses
+1,256,724
+1,235,821
+Total operating expenses
+7,894,757
+7,069,926
+OPERATING INCOME
+829,576
+1,266,611
+REMEASUREMENT GAIN ON ACQUISITION OF EQUITY METHOD INVESTEE
+—
+3,951,550
+INTEREST INCOME
+6,168
+10,943
+INTEREST EXPENSE
+( 91,331
+)
+( 2,891
+)
+INCOME BEFORE INCOME TAX EXPENSE
+744,413
+5,226,213
+INCOME TAX EXPENSE
+110,733
+504,380
+NET INCOME
+633,680
+4,721,833
+NET INCOME ATTRIBUTABLE TO NON-CONTROLLING INTERESTS
+131,438
+228,074
+NET INCOME ATTRIBUTABLE TO NTIC
+$
+502,242
+$
+4,493,759
+NET INCOME ATTRIBUTABLE TO NTIC PER COMMON SHARE:
+Basic
+$
+0.05
+$
+0.49
+Diluted
+$
+0.05
+$
+0.46
+WEIGHTED AVERAGE COMMON SHARES ASSUMED OUTSTANDING:
+Basic
+9,317,680
+9,199,976
+Diluted
+9,718,931
+9,779,770
+CASH DIVIDENDS DECLARED PER COMMON SHARE
+$
+0.07
+$
+0.07
+See notes to consolidated financial statements.
+2
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED)
+FOR THE THREE MONTHS ENDED NOVEMBER 30, 2022 AND 2021
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+NET INCOME
+$
+633,680
+$
+4,721,833
+OTHER COMPREHENSIVE LOSS – FOREIGN CURRENCY TRANSLATION ADJUSTMENT
+( 53,917
+)
+( 409,064
+)
+COMPREHENSIVE INCOME
+579,763
+4,312,769
+COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO NON-CONTROLLING INTERESTS
+( 138,225
+)
+( 156,065
+)
+COMPREHENSIVE INCOME ATTRIBUTABLE TO NTIC
+$
+717,988
+$
+4,468,834
+See notes to consolidated financial statements.
+3
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EQUITY (UNAUDITED)
+FOR THE THREE MONTHS ENDED NOVEMBER 30, 2022 AND 2021
+STOCKHOLDERS ’
+EQUITY
+Accumulated
+Additional
+Other
+Non-
+Common Stock
+Paid-in
+Retained
+Comprehensive
+Controlling
+Total
+Shares
+Amount
+Capital
+Earnings
+Income Loss
+Interests
+Equity
+BALANCE AT AUGUST 31, 2021
+9,184,811
+$
+183,696
+$
+18,736,268
+$
+46,973,092
+$
+( 3,525,030
+)
+$
+3,382,555
+$
+65,750,581
+Stock options exercised
+16,000
+320
+138,880
+—
+—
+—
+139,200
+Stock issued for employee stock purchase plan
+2,635
+53
+38,479
+—
+—
+—
+38,532
+Stock option expense
+—
+—
+232,883
+—
+—
+—
+232,883
+Investment by non-controlling interest
+—
+—
+—
+—
+—
+( 200,000
+)
+( 200,000
+)
+Dividends paid to shareholders
+—
+—
+—
+( 643,121
+)
+—
+—
+( 643,121
+)
+Net income
+—
+—
+—
+4,493,759
+—
+228,074
+4,721,833
+Comprehensive loss
+—
+—
+—
+—
+( 337,055
+)
+( 72,009
+)
+( 409,064
+)
+BALANCE AT NOVEMBER 30, 2021
+9,203,446
+$
+184,069
+$
+19,146,510
+$
+50,823,730
+$
+( 3,862,085
+)
+$
+3,338,620
+$
+69,630,844
+BALANCE AT AUGUST 31, 2022
+9,232,483
+$
+184,650
+$
+19,939,131
+$
+50,716,613
+$
+( 7,245,132
+)
+$
+3,649,034
+$
+67,244,296
+Stock options exercised
+130,254
+2,605
+413,958
+—
+—
+—
+416,563
+Stock issued for employee stock purchase plan
+3,620
+72
+38,624
+—
+—
+—
+38,696
+Stock option expense
+—
+—
+329,522
+—
+—
+—
+329,522
+Investment by non-controlling interest
+—
+—
+—
+—
+—
+( 80,000
+)
+( 80,000
+)
+Dividends paid to shareholders
+—
+—
+—
+( 655,645
+)
+—
+—
+( 655,645
+)
+Net income
+—
+—
+—
+502,242
+—
+131,438
+633,680
+Comprehensive loss
+—
+—
+—
+—
+( 60,704
+)
+6,787
+( 53,917
+)
+BALANCE AT NOVEMBER 30, 2022
+9,336,357
+$
+187,327
+$
+20,721,235
+$
+50,563,210
+$
+( 7,305,836
+)
+$
+3,707,259
+$
+67,873,195
+See notes to consolidated financial statements.
+4
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+FOR THE THREE MONTHS ENDED NOVEMBER 30, 2022 AND 2021
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income
+$
+633,680
+$
+4,721,833
+Adjustments to reconcile net income to net cash provided by operating activities:
+Stock-based compensation
+329,522
+232,883
+Depreciation expense
+262,876
+215,306
+Amortization expense
+147,811
+119,894
+Remeasurement gain on acquisition of equity method investee
+—
+( 3,951,550
+)
+Equity in income from joint ventures
+( 1,189,404
+)
+( 1,374,749
+)
+Dividends received from joint ventures
+3,042,688
+5,042,271
+Deferred income taxes
+( 54,376
+)
+126,852
+Changes in current assets and liabilities:
+Receivables:
+Trade, excluding joint ventures
+( 539,925
+)
+( 308,325
+)
+Trade, joint ventures
+104,260
+( 166,438
+)
+Fees for services provided to joint ventures
+641,639
+304,258
+Income taxes
+( 226,731
+)
+( 119,978
+)
+Inventories
+948,661
+516,283
+Prepaid expenses and other
+( 252,301
+)
+( 418,888
+)
+Accounts payable
+( 1,573,008
+)
+98,545
+Income tax payable
+( 18,407
+)
+( 102,074
+)
+Accrued liabilities
+( 254,442
+)
+( 1,617,099
+)
+Net cash provided by operating activities
+2,002,543
+3,319,024
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Acquisition of Zerust India business, net of cash acquired
+—
+( 5,062,003
+)
+Purchases of property and equipment
+( 409,094
+)
+( 315,390
+)
+Investments in patents
+( 44,445
+)
+( 52,197
+)
+Net cash used in investing activities
+( 453,539
+)
+( 5,429,590
+)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Net proceeds from line of credit
+( 450,000
+)
+2,500,000
+Dividends paid on NTIC common stock
+( 655,645
+)
+( 643,121
+)
+Proceeds from the exercise of stock options
+416,563
+139,200
+Dividends received by non-controlling interest
+( 80,000
+)
+( 200,000
+)
+Proceeds from employee stock purchase plan
+38,696
+38,532
+Net cash (used in) provided by financing activities
+( 730,386
+)
+1,834,611
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS:
+( 86,187
+)
+642,879
+NET INCREASE IN CASH AND CASH EQUIVALENTS
+732,431
+366,924
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD
+5,333,890
+7,680,641
+CASH AND CASH EQUIVALENTS AT END OF PERIOD
+$
+6,066,321
+$
+8,047,565
+See notes to consolidated financial statements.
+5
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+1.
+INTERIM FINANCIAL INFORMATION
+In the opinion of management, the accompanying unaudited consolidated financial statements contain all necessary adjustments, which are of a normal recurring nature, and present fairly the consolidated financial position of Northern Technologies International Corporation and its subsidiaries (the Company) as of November 30, 2022 and August 31, 2022 and the results of the Company’s operations for the three months ended November 30, 2022 and 2021, the changes in stockholders’ equity for the three months ended November 30, 2022 and 2021 and the Company’s cash flows for the three months ended November 30, 2022 and 2021, in conformity with accounting principles generally accepted in the United States of America (U.S. GAAP).
+These consolidated financial statements should be read in conjunction with the consolidated financial statements and related notes contained in the Company’s annual report on Form 10-K for the fiscal year ended August 31, 2022. These consolidated financial statements also should be read in conjunction with the “ Management ’ s Discussion and Analysis of Financial Condition and Results of Operations ” section appearing in this report.
+Operating results for the three months ended November 30, 2022 are not necessarily indicative of the results that may be expected for the full fiscal year ending August 31, 2023.
+The Company evaluates events occurring after the date of the consolidated financial statements requiring recording or disclosure in the consolidated financial statements.
+Impact of COVID-19 Pandemic
+As a result of the novel coronavirus (COVID-19) pandemic and related government mandated restrictions on the Company’s business, as well as the businesses of its joint ventures, customers and suppliers, disruption to the Company’s business and the manufacture and sale of its products and services continued to occur during the first quarter of fiscal 2023 and may continue during the remainder of fiscal 2023. In the first quarter of fiscal 2023, the Company continued to be impacted by shipping issues, including increased costs, supply chain issues, including longer lead times, and raw material cost increases.
+2.
+ACCOUNTING PRONOUNCEMENTS
+Recently Adopted Accounting Pronouncements
+In June 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2016-13,
+Measurement of Credit Losses on Financial Instruments , which revises guidance for the accounting for credit losses on financial instruments within its scope, and in November 2018, issued ASU No. 2018-19 and in April 2019, issued ASU No. 2019-04 and in May 2019, issued ASU No. 2019-05, and in November 2019, issued ASU No. 2019-11, which amended the standard. The new standard introduces an approach, based on expected losses, to estimate credit losses on certain types of financial instruments and modifies the impairment model for available-for-sale debt securities. The new approach to estimating credit losses (referred to as the current expected credit losses model) applies to most financial assets measured at amortized cost and certain other instruments, including trade and other receivables, loans, held-to-maturity debt securities, net investments in leases and off-balance-sheet credit exposures. This ASU is effective for fiscal years beginning after December 15, 2022, including interim periods within those fiscal years, with early adoption permitted. Entities are required to apply the standard’s provisions as a cumulative-effect adjustment to retained earnings as of the beginning of the first reporting period in which the guidance is adopted. The Company is still evaluating the impact of this ASU.
+6
+3.
+INVENTORIES
+Inventories consisted of the following:
+November 30, 2022
+August 31, 2022
+Production materials
+$
+5,340,632
+$
+6,496,656
+Finished goods
+9,895,864
+9,845,073
+$
+15,236,496
+$
+16,341,729
+4.
+PROPERTY AND EQUIPMENT, NET
+Property and equipment, net consisted of the following:
+November 30, 2022
+August 31, 2022
+Land
+$
+310,365
+$
+310,365
+Buildings and improvements
+14,927,540
+14,778,759
+Machinery and equipment
+5,749,249
+5,643,320
+20,987,154
+20,732,444
+Less accumulated depreciation
+( 8,842,002
+)
+( 8,561,951
+)
+$
+12,145,152
+$
+12,170,493
+5.
+INTANGIBLE ASSETS, NET
+Intangible assets, net consisted of the following:
+As of November 30, 2022
+Gross Carrying
+Amount
+Accumulated
+Amortization
+Net Carrying
+Amount
+Patents and trademarks
+$
+3,270,100
+$
+( 2,557,670
+)
+$
+712,430
+Customer relationships
+6,347,000
+( 528,918
+)
+5,818,082
+Total intangible assets, net
+9,617,100
+( 3,086,588
+)
+6,530,512
+As of August 31, 2022
+Gross Carrying
+Amount
+Accumulated
+Amortization
+Net Carrying
+Amount
+Patents and trademarks
+$
+3,225,655
+$
+( 2,515,644
+)
+$
+710,011
+Customer relationships
+6,347,000
+( 423,133
+)
+5,923,867
+Total intangible assets, net
+9,572,655
+( 2,938,777
+)
+6,633,878
+Amortization expense related to intangible assets was $ 147,811
+and $ 119,894
+for the three months ended November 30, 2022 and 2021, respectively.
+As of November 31, 2022, future amortization expense related to intangible assets for each of the next five years and thereafter was as follows:
+Remainder of 2023
+$
+613,000
+2024
+613,000
+2025
+613,000
+2026
+613,000
+2027
+613,000
+Thereafter
+3,465,512
+Total
+$
+6,530,512
+7
+6.
+INVESTMENTS IN JOINT VENTURES
+The consolidated financial statements of the Company’s foreign joint ventures are initially prepared using the accounting principles accepted in the respective joint ventures’ countries of domicile. Amounts related to foreign joint ventures reported in the below tables and the accompanying consolidated financial statements have subsequently been adjusted to conform with U.S. GAAP in all material respects. All material profits on sales recorded that remain on the consolidated balance sheet from the Company to its joint ventures and from joint ventures to other joint ventures have been eliminated for financial reporting purposes.
+Financial information from the audited and unaudited financial statements of the Company’s joint venture in Germany, Excor Korrosionsschutz – Technologien und Produkte GmbH (EXCOR), and all the Company’s other joint ventures are summarized as follows:
+As of November 30, 2022
+Total
+EXCOR
+All Other
+Current assets
+$
+50,644,203
+$
+23,082,855
+$
+27,561,348
+Total assets
+54,232,523
+25,102,700
+29,129,823
+Current liabilities
+12,684,139
+2,848,920
+9,835,219
+Noncurrent liabilities
+354,984
+-
+354,984
+Joint ventures’ equity
+41,193,400
+22,253,780
+18,939,620
+Northern Technologies International Corporation’s share of joint ventures’ equity
+20,331,746
+11,126,892
+9,204,854
+Northern Technologies International Corporation’s share of joint ventures’ undistributed earnings
+19,303,110
+11,095,987
+8,207,123
+Three Months Ended November 30, 2022
+Total
+EXCOR
+All Other
+Net sales
+$
+24,730,289
+$
+10,145,921
+$
+14,584,368
+Gross profit
+9,693,568
+4,720,042
+4,973,526
+Net income
+2,646,908
+1,742,287
+904,621
+Northern Technologies International Corporation’s share of equity in income from joint ventures
+1,189,400
+871,144
+318,260
+Northern Technologies International Corporation's dividends received from joint ventures
+3,042,688
+2,459,500
+583,188
+As of August 31, 2022
+Total
+EXCOR
+All Other
+Current assets
+$
+52,428,831
+$
+26,047,914
+$
+26,380,917
+Total assets
+55,854,457
+27,932,532
+27,921,925
+Current liabilities
+10,981,833
+2,943,895
+8,037,938
+Noncurrent liabilities
+1,138,980
+—
+1,138,980
+Joint ventures’ equity
+43,733,644
+24,988,637
+18,745,007
+Northern Technologies International Corporation’s share of joint ventures’ equity
+21,814,754
+12,494,320
+9,320,434
+Northern Technologies International Corporation’s share of joint ventures’ undistributed earnings
+21,256,923
+12,463,415
+8,793,508
+8
+Three Months Ended November 30, 2021
+Total
+EXCOR
+All Other
+Net sales
+$
+27,022,995
+$
+11,300,228
+$
+15,722,767
+Gross profit
+11,032,959
+5,468,986
+5,563,973
+Net income
+2,777,605
+1,821,547
+956,058
+Northern Technologies International Corporation’s share of equity in income from joint ventures
+1,374,749
+910,773
+463,976
+Northern Technologies International Corporation's dividends received from joint ventures
+5,042,271
+4,255,200
+787,071
+7.
+CORPORATE DEBT
+The Company had a revolving line of credit with a bank of $ 7,000,000
+as of November 30, 2022. The line of credit had a maturity date of January 7, 2023 and bore interest at an annual rate equal to the daily Bloomberg Short-Term Bank Yield (BSBY) Index plus
+250
+basis points ( 2.50 %).
+Borrowings of $ 5,450,000
+and $ 5,900,000
+were outstanding under the line of credit as of November 30, 2022 and August 31, 2022, respectively. The average interest rate was
+5.80 % and
+2.57 % during the three months ended November 30, 2022 and 2021.
+The obligations of the Company under the loan agreement were secured by a lien on all of the Company’s personal property, excepting certain liens. The loan agreement contained covenants, including affirmative financial covenants, such as the maintenance of a minimum fixed charge coverage ratio, and negative covenants, which, among other things, limit the incurrence of additional indebtedness, loans and equity investments, disposition of assets, mergers and consolidations and other matters customarily restricted in such agreements. As of November 30, 2022, the Company was in compliance with all debt covenants.
+As of November 30, 2022 and August 31, 2022, the Company did
+not
+have any letters of credit outstanding with respect to the letter of credit sub-facility available under the revolving line of credit with the bank.
+On January 6, 2023, the Company entered into a Credit Agreement with JPMorgan Chase Bank, N.A., which provides the Company with a senior secured revolving line of credit of up to $ 10.0
+million, which includes a $ 5.0
+million sublimit for standby letters of credit. In connection with the execution of the new Credit Agreement, the prior loan agreement was terminated. See Note 16 entitled “Subsequent Event.”
+8.
+STOCKHOLDERS ’
+EQUITY
+On October 20, 2022, the Company’s Board of Directors declared a cash dividend of $ 0.07
+per share of the Company’s common stock, payable on
+November 16, 2022
+to stockholders of record on November 3, 2022. On October 20, 2021, the Company’s Board of Directors declared a cash dividend of $ 0.07
+per share of the Company’s common stock, payable on
+November 17, 2021
+to stockholders of record on November 3, 2021.
+During the three months ended November 30, 2022 and 2021, the Company repurchased
+no
+shares of its common stock.
+The Company issued
+3,620
+and
+2,636
+shares of common stock on September 1, 2022 and 2021, respectively, under the Northern Technologies International Corporation Employee Stock Purchase Plan (the ESPP). The ESPP is compensatory for financial reporting purposes. As of November 30, 2022,
+65,600
+shares of common stock remained available for sale under the ESPP.
+9
+9.
+NET INCOME PER COMMON SHARE
+Basic net income per common share is computed by dividing net income by the weighted average number of common shares outstanding. Diluted net income per share assumes the exercise of stock options using the treasury stock method, if dilutive.
+The following is a reconciliation of the net income per share computation for the three months ended November 30, 2022 and 2021:
+Three Months Ended
+Numerator:
+November 30,
+2022
+November 30,
+2021
+Net income attributable to NTIC
+$
+502,242
+$
+4,493,759
+Denominator
+Basic – weighted shares outstanding
+9,317,680
+9,199,976
+Weighted shares assumed upon exercise of stock options
+401,251
+579,794
+Diluted – weighted shares outstanding
+9,718,931
+9,779,770
+Basic net income per share:
+$
+0.05
+$
+0.49
+Diluted net income per share:
+$
+0.05
+$
+0.46
+The dilutive impact summarized above relates to the periods when the average market price of the Company’s common stock exceeded the exercise price of the potentially dilutive option securities granted. Net income per common share was based on the weighted average number of common shares outstanding during the periods when computing basic net income per share. When dilutive, stock options are included as equivalents using the treasury stock market method when computing the diluted net income per share. Excluded from the computation of diluted net income per share for the three months ended November 30, 2022 were options outstanding to purchase
+305,514
+shares of common stock. Excluded from the computation of diluted net income per share for the three months ended November 30, 2021 were options outstanding to purchase
+311,061
+shares of common stock.
+10.
+STOCK-BASED COMPENSATION
+A summary of stock option activities under the Northern Technologies International Corporation Amended and Restated 2019 Stock Incentive Plan (the 2019 Plan) and the Northern Technologies International Corporation Amended and Restated 2007 Stock Incentive Plan (the 2007 Plan) is as follows:
+Number of
+Options
+Outstanding
+Weighted
+Average
+Exercise Price
+Outstanding as of August 31, 2022
+1,544,727
+$
+10.23
+Granted
+272,102
+$
+11.38
+Exercised
+( 178,331
+)
+$
+6.03
+Cancelled/Forfeited
+-
+-
+Outstanding as of November 30, 2022
+1,638,498
+$
+10.88
+The weighted average per share fair value of options granted during the three months ended November 30, 2022 and 2021 was $ 4.85
+and $ 7.29 , respectively. The weighted average remaining contractual life of the options outstanding as of November 30, 2022 and 2021 was
+6.66
+years and
+6.41
+years, respectively.
+10
+The Company recognized compensation expense of $ 329,522
+and $ 232,883
+during the three months ended November 30, 2022 and 2021, respectively. As of November 30, 2022, there was $ 1,999,892
+of unrecognized compensation expense. The amount is expected to be recognized over a period of
+2.7
+years.
+11.
+SEGMENT AND GEOGRAPHIC INFORMATION
+Segment Information
+The Company’s chief operating decision maker is its Chief Executive Officer. The Company’s business is organized into
+two
+reportable segments: ZERUST® and Natur-Tec®. The Company has been selling its proprietary ZERUST® rust and corrosion inhibiting products and services to the automotive, electronics, electrical, mechanical, military and retail consumer markets for almost 50 years and, more recently, has targeted and expanded into the oil and gas industry. The Company also sells a portfolio of bio-based and compostable (fully biodegradable) polymer resins and finished products under the Natur-Tec® brand.
+The following table sets forth the Company’s net sales for the three months ended November 30, 2022 and 2021 by segment:
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+ZERUST® net sales
+$
+15,370,001
+$
+14,423,785
+Natur-Tec® net sales
+4,582,765
+3,769,628
+Total net sales
+$
+19,952,766
+$
+18,193,413
+The following table sets forth the Company’s cost of goods sold for the three months ended November 30, 2022 and 2021 by segment:
+November 30,
+2022
+% of
+Product
+Sales*
+November 30,
+2021
+% of
+Product
+Sales*
+Direct cost of goods sold
+ZERUST®
+$
+9,179,254
+59.7
+%
+$
+8,706,667
+60.4
+%
+Natur-Tec®
+3,570,673
+77.9
+%
+2,922,098
+77.5
+%
+Indirect cost of goods sold
+849,715
+NA
+861,718
+NA
+Total net cost of goods sold ….
+$
+13,599,642
+$
+12,490,483
+*
+The percent of segment sales is calculated by dividing the direct cost of goods sold for each individual segment category by the net sales for each segment category.
+The Company utilizes product net sales and direct and indirect cost of goods sold for each product in reviewing the financial performance of a product type. Further allocation of Company expenses or assets, aside from amounts presented in the tables above, is not utilized in evaluating product performance, nor does such allocation occur for internal financial reporting.
+11
+Geographic Information
+Net sales by geographic location for the three months ended November 30, 2022 and 2021 were as follows:
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+Inside the U.S.A. to unaffiliated customers
+$
+7,478,161
+$
+6,156,322
+Outside the U.S.A. to:
+Joint ventures in which the Company is a shareholder directly and indirectly
+633,465
+840,439
+Unaffiliated customers
+11,841,140
+11,196,652
+$
+19,952,766
+$
+18,193,413
+Net sales by geographic location are based on the location of the customer.
+Fees for services provided to joint ventures by geographic location as a percentage of total fees for services provided to joint ventures during the three months ended November 30, 2022 and 2021 were as follows:
+Three Months Ended
+November 30,
+2022
+% of Total Fees for
+Services Provided to
+Joint Ventures
+November 30,
+2021
+% of Total Fees for
+Services Provided
+to Joint Ventures
+Germany
+$
+193,828
+16.4
+%
+$
+218,430
+17.4
+%
+Poland
+186,696
+15.8
+%
+176,927
+14.1
+%
+Japan
+147,920
+12.5
+%
+166,807
+13.3
+%
+France
+109,357
+9.3
+%
+116,295
+9.2
+%
+Sweden
+100,436
+8.5
+%
+108,070
+8.6
+%
+Finland
+90,432
+7.7
+%
+80,173
+6.4
+%
+Thailand
+82,956
+7.0
+%
+87,554
+7.0
+%
+Czech Republic
+80,332
+6.8
+%
+70,098
+5.6
+%
+South Korea
+63,395
+5.4
+%
+62,626
+5.0
+%
+United Kingdom
+57,691
+4.9
+%
+94,927
+7.5
+%
+Other
+68,762
+5.7
+%
+76,951
+5.9
+%
+$
+1,181,805
+100.0
+%
+$
+1,258,858
+100.0
+%
+The geographical distribution of total property and equipment and net sales is as follows:
+At
+November 30, 2022
+At
+August 31, 2022
+China
+$
+5,740,401
+$
+5,826,898
+Other
+631,835
+565,022
+United States
+5,772,916
+5,778,573
+Total property and equipment, net
+$
+12,145,152
+$
+12,170,493
+12
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+China
+$
+3,746,640
+$
+4,057,853
+Brazil
+1,367,418
+1,296,217
+India
+4,846,927
+4,476,984
+Other
+2,513,620
+2,206,037
+United States
+7,478,161
+6,156,322
+Total net sales
+$
+19,952,766
+$
+18,193,413
+Long-lived assets consist of property and equipment. These assets are periodically reviewed to assure the net realizable value from the estimated future production based on forecasted sales exceeds the carrying value of the assets.
+Sales to the Company’s joint ventures are included in the foregoing segment and geographic information; however, sales by the Company’s joint ventures to other parties are not included. The foregoing segment and geographic information represents only sales recognized directly by the Company and sold in that geographic territory.
+All joint venture operations, including equity in income, fees for services and related dividends, are primarily related to ZERUST® products and services.
+12.
+COMMITMENTS AND CONTINGENCIES
+Concentrations
+Two joint ventures (consisting of the Company’s joint ventures in Thailand and Japan) accounted for
+47.4 % of the Company’s trade joint venture receivables as of November 30, 2022, and two joint ventures (consisting of the Company’s joint ventures in South Korea and Japan) accounted for
+42.4 % of the Company’s trade joint venture receivables as of November 30, 2021.
+Legal Matters
+From time to time, the Company is subject to various other claims and legal actions in the ordinary course of its business. The Company records a liability in its consolidated financial statements for costs related to claims, including future legal costs, settlements and judgments, where the Company has assessed that a loss is probable, and an amount could be reasonably estimated. If the reasonable estimate of a probable loss is a range, the Company records the most probable estimate of the loss or the minimum amount when no amount within the range is a better estimate than any other amount. The Company discloses a contingent liability even if the liability is not probable or the amount is not estimable, or both, if there is a reasonable possibility that material loss may have been incurred. In the opinion of management, as of November 30, 2022, the amount of liability, if any, with respect to these matters, individually or in the aggregate, will not materially affect the Company’s consolidated results of operations, financial position or cash flows.
+13.
+FAIR VALUE MEASUREMENTS
+Assets and liabilities that are measured at fair value on a recurring basis primarily relate to marketable equity securities. These items are marked-to-market at each reporting period, and the Company estimates that market value approximates costs.
+13
+The following tables provide information by level for assets and liabilities that are measured at fair value on a recurring basis:
+Fair Value Measurements
+Using Inputs Considered as
+Fair value as of
+November 30, 2022
+Level 1
+Level 2
+Level 3
+Available for sale securities
+$
+5,590
+$
+5,590
+$
+—
+$
+—
+Fair Value Measurements
+Using Inputs Considered as
+Fair value as of
+August 31, 2022
+Level 1
+Level 2
+Level 3
+Available for sale securities
+$
+5,590
+$
+5,590
+$
+—
+$
+—
+There were no transfers between Level 1, Level 2, or Level 3 during the three months ended November 30, 2022 or 2021.
+14.
+SUPPLEMENTAL CASH FLOW INFORMATION
+Supplemental disclosures of cash flow information consisted of:
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+Cash paid for interest
+$
+91,331
+$
+2,891
+15.
+INCOME TAXES
+Income tax expense for the three months ended November 30, 2022 was $ 110,733
+compared to $ 504,380
+for the three months ended November 30, 2021. The expense was largely due to foreign operations. The Company has federal and state tax credit carry forwards, net operating loss carry forwards and foreign tax carry forwards. The Company has recorded a full valuation allowance against the U.S. deferred tax assets as of November 30, 2022 and August 31, 2022.
+16.
+SUBSEQUENT EVENT
+On January 6, 2023, Northern Technologies International Corporation entered into a Credit Agreement (the “Credit Agreement”) with JPMorgan Chase Bank, N.A. (“JPM”), which provides NTIC with a senior secured revolving line of credit (the “Credit Facility”) of up to $ 10.0
+million. The Credit Facility includes a $ 5.0
+million sublimit for standby letters of credit.
+Unless terminated earlier, the Credit Facility will mature on January 6, 2024, and the principal amount thereunder, together with all accrued unpaid interest and other amounts owing thereunder, if any, will be payable in full on such date. Borrowings under the Credit Agreement bear interest at a floating rate, at the option of NTIC, equal to either the CB Floating Rate or the Adjusted SOFR Rate. The term “CB Floating Rate” means the greater of the Prime Rate in the United States or
+2.50 %. The term “Adjusted SOFR Rate” means the term secured overnight financing rate for either one, three or six months (depending on the interest period selected by NTIC) plus
+0.10 % per annum. With respect to any borrowings using an Adjusted SOFR Rate, there is an applicable margin of
+2.15 % applied per annum. There is no applicable margin with respect to borrowings using a CB Floating Rate.
+The Credit Agreement contains customary affirmative and negative covenants, including, among other matters, limitations on NTIC’s ability to incur additional debt, grant liens, engage in certain business operations and transactions, make certain investments, modify its organizational documents or form any new subsidiaries, subject to certain exceptions. Further, the Credit Agreement contains a negative covenant that restricts the ability of NTIC to redeem or repurchase its common stock or pay dividends if the result of which would cause an event of default under the Credit Agreement. The Credit Agreement also requires the Company to maintain a Fixed Charge Coverage Ratio of at least
+1.25
+to 1.00. The term “Fixed Charge Coverage Ratio” means the ratio, computed for the NTIC on a consolidated basis, of net income plus income tax expense, plus amortization expense, plus depreciation expense, plus interest expense, and plus dividends received from joint ventures, minus unfinanced capital expenditures and equity in income from joint ventures, all computed for the twelve month period then ending, to scheduled principal payments made, plus scheduled finance lease payments made, plus interest expense paid, plus income tax expense paid, and plus cash distributions and dividends paid, all computed for the same twelve month period then ending.
+14
+The Credit Agreement also contains customary events of default, including, without limitation, payment defaults, material inaccuracy of representations and warranties, covenant defaults, bankruptcy and insolvency proceedings, cross-defaults to certain other agreements, breach of any financial covenant and change of control. Upon the occurrence and during the continuance of any event of default, JPM may accelerate the payment of the obligations thereunder and exercise various other customary default remedies.
+In connection with the execution of the Credit Agreement described above, on January 6, 2023, the Amended and Restated Loan Agreement dated August 31, 2021 between Northern Technologies International Corporation and PNC Bank, National Association was terminated.
+15
+ITEM 2.
+MANAGEMENT ’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This Management’s Discussion and Analysis provides material historical and prospective disclosures intended to enable investors and other users to assess NTIC’s financial condition and results of operations. Statements that are not historical are forward-looking and involve risks and uncertainties discussed under the heading “ Part I. Item 2. Management ’ s Discussion and Analysis of Financial Condition and Results of Operations — Forward-Looking Statements ” in this report and under “ Part 1. Item 1A. Risk Factors ” in our annual report on Form 10-K for the fiscal year ended August 31, 2022. The following discussion of the results of the operations and financial condition of NTIC should be read in conjunction with NTIC’s consolidated financial statements and the related notes thereto included under the heading “ Part I. Item 1. Financial Statements .”
+Business Overview
+NTIC develops and markets proprietary, environmentally beneficial products and services in over 65 countries either directly or via a network of subsidiaries, joint ventures, independent distributors, and agents. NTIC’s primary business is corrosion prevention marketed mainly under the ZERUST® brand. NTIC has been selling its proprietary ZERUST® products and services to the automotive, electronics, electrical, mechanical, military, and retail consumer markets for almost 50 years and, more recently, has also expanded into the oil and gas industry. Additionally, NTIC markets and sells a portfolio of proprietary bio-based and certified compostable (fully biodegradable) polymer resin compounds and finished products under the Natur-Tec® brand. These products are intended to reduce NTIC’s customers’ carbon footprint and provide environmentally sound waste disposal options.
+NTIC’s ZERUST® rust and corrosion inhibiting products include plastic and paper packaging, liquids, coatings, rust removers, cleaners, and diffusers as well as engineered solutions designed specifically for the oil and gas industry. NTIC also offers worldwide, on-site, technical consulting for rust and corrosion prevention issues. NTIC’s technical service consultants work directly with the end users of NTIC’s ZERUST® rust and corrosion inhibiting products to analyze their specific needs and develop systems to meet their performance requirements. In North America, NTIC sells its ZERUST® corrosion prevention solutions through a network of independent distributors and agents supported by a direct sales force.
+Internationally, NTIC sells its ZERUST® corrosion prevention solutions through its wholly-owned subsidiary in China, NTIC (Shanghai) Co., Ltd. (NTIC China), starting September 1, 2021 its wholly-owned subsidiary in India, HNTI Ltd. (Zerust India), its majority-owned joint venture holding company for NTIC’s joint venture investments in the Association of Southeast Asian Nations (ASEAN) region, NTI Asean LLC (NTI Asean), certain majority-owned and wholly-owned subsidiaries, and joint venture arrangements in North America, Europe, and Asia. NTIC also sells products directly to its European joint venture partners through its wholly-owned subsidiary in Germany, NTIC Europe GmbH (NTI Europe).
+One of NTIC’s strategic initiatives is to expand into and penetrate other markets for its ZERUST® corrosion prevention technologies. Consequently, for the past several years, NTIC has focused significant sales and marketing efforts on the oil and gas industry, as the infrastructure that supports that industry is typically constructed using metals that are highly susceptible to corrosion. NTIC believes that its ZERUST® corrosion prevention solutions will minimize maintenance downtime on critical oil and gas industry infrastructure, extend the life of such infrastructure, and reduce the risk of environmental pollution due to leaks caused by corrosion. NTIC markets and sells its ZERUST® rust and corrosion prevention solutions to customers in the oil and gas industry in a continuously increasing number of countries either directly, through its subsidiaries, or through its joint venture partners and other strategic partners. The sale of ZERUST® corrosion prevention solutions to customers in the oil and gas industry typically involves long sales cycles, often including multi-year trial periods with each customer and a slow integration process thereafter.
+16
+Natur-Tec® bio-based and compostable plastics are manufactured using NTIC’s patented and/or proprietary technologies and are intended to replace conventional petroleum-based plastics. The Natur-Tec® biopolymer resin compound portfolio includes formulations that have been optimized for a variety of applications, including blown-film extrusion, extrusion coating, injection molding, and engineered plastics. These resin compounds are certified to be fully biodegradable in a composting environment and are currently being used to produce finished products, including can liners, shopping and grocery bags, lawn and leaf bags, branded apparel packaging bags and accessories, and various foodservice items, such as disposable cutlery, drinking straws, food-handling gloves, and coated paper products. In North America, NTIC markets its Natur-Tec® resin compounds and finished products primarily through a network of regional and national distributors as well as independent agents. NTIC continues to see significant opportunities for finished bioplastic products and, therefore, continues to strengthen and expand its North American distribution network for finished Natur-Tec® bioplastic products.
+Internationally, NTIC sells its Natur-Tec® resin compounds and finished products both directly and through its wholly-owned subsidiary in China and majority-owned subsidiaries in India and Sri Lanka, and through distributors and certain joint ventures.
+Impact of the COVID-19 Pandemic
+The COVID-19 pandemic has negatively impacted the global economy, disrupted global supply chains and shipping, created significant volatility and disruption in financial markets and resulted in weakened economic conditions. While as part of efforts to contain the spread of COVID-19, federal, state, local and foreign governments imposed various restrictions on the conduct of business and travel during 2020 and 2021, most of these restrictions have been lifted, except in China where many remained in place as of November 31, 2022. Because of these restrictions, NTIC continued to experience softened demand for its products in China during the first quarter of fiscal 2023.
+Worldwide Supply Chain Disruptions
+Worldwide supply chain disruptions, which were initially brought about by the impact of the COVID-19 pandemic, have persisted despite the recovery in the global economy and financial markets. These issues continued during the first quarter of fiscal 2023 and, although these issues have shown some improvement, are expected to continue to some degree throughout fiscal 2023. NTIC has experienced longer lead times for raw materials, has been forced to find new suppliers of certain raw materials, and has experienced raw material cost increases compared to prior fiscal quarters. Additionally, NTIC has experienced significantly longer shipping times and significant price increases per shipping container compared to prior fiscal quarters due to ocean freight capacity issues resulting from increased demand for shipping and reduced capacity and equipment. These and other issues resulting from worldwide supply chain disruptions have recently improved but are expected to continue to some degree throughout fiscal 2023 and could continue to have a material adverse effect on NTIC’s business, operating results and financial condition. The precise financial impact and duration, however, cannot be reasonably estimated at this time.
+Financial Overview
+NTIC’s management, including its chief executive officer, who is NTIC’s chief operating decision maker, reports and manages NTIC’s operations in two reportable business segments based on products sold, customer base and distribution center: ZERUST® products and services and Natur-Tec® products.
+Highlights of NTIC’s financial results for the three months ended November 30, 2022 include the following, with increases or decreases in each case as compared to the respective prior fiscal year period:
+●
+NTIC’s consolidated net sales increased 9.7% during the three months ended November 30, 2022 compared to the three months ended November 30, 2021 primarily as a result of an increase in sales of and demand for both Zerust® and Natur-Tec® products, as well as targeted price increases on certain products.
+17
+●
+During the three months ended November 30, 2022, 77.0% of NTIC’s consolidated net sales were derived from sales of ZERUST® products and services, which increased 6.6% to $15,370,001 compared to $14,423,785 for the three months ended November 30, 2021. This increase was due to increased sales to new and existing customers as a result of increased global demand and targeted price increases on certain of our products. NTIC’s consolidated net sales for the three months ended November 30, 2022 included $1,621,897 of sales made to customers in the oil and gas industry, a 66.9% increase compared to $971,816 for the three months ended November 30, 2021.
+●
+Net sales of Natur-Tec® products increased 21.6% during the three months ended November 30, 2022 compared to the three months ended November 30, 2021 primarily due to an increase in demand of finished product sales in North America and at NTIC’s majority-owned subsidiary in India, Natur-Tec India Private Limited.
+●
+Cost of goods sold as a percentage of net sales decreased slightly to 68.2% during the three months ended November 30, 2022, compared to 68.7% during the three months ended November 30, 2021 primarily as a result of passing along price increases to customers and increased sales made to customers in the oil and gas industry, which products carry higher margins than our Zerust industrial products.
+●
+NTIC’s equity in income from joint ventures decreased 13.5% to $1,189,404 during the three months ended November 30, 2022 compared to $1,374,749 during the three months ended November 30, 2021. This decrease was primarily due to an increase in operating expenses and a decrease in gross margins at the joint ventures.
+●
+Net sales at the joint ventures decreased 8.5% to $24,730,289 during the three months ended November 30, 2022, compared to $27,022,995 for the three months ended November 30, 2021. This decrease was primarily a result of decreased demand during the three months ended November 30, 2022.
+●
+NTIC’s total operating expenses increased 11.7% to $7,894,757 during the three months ended November 30, 2022 compared to $7,069,926 for the three months ended November 30, 2021. This increase was primarily due to increased personnel expenses, including benefits and travel, and expenses incurred during the current fiscal year period in connection with the startup of a new indirect, majority owned subsidiary formed to assume the operations of a former joint venture in Taiwan.
+●
+Since NTIC acquired the remaining 50% ownership interest of Zerust India effective September 1, 2021, NTIC recognized a gain of $3,951,550 during the three months ended November 30, 2021, which is included in “Remeasurement gain on acquisition of equity method investee” on NTIC’s consolidated statements of operations.
+●
+NTIC incurred net income attributable to NTIC of $502,242, or $0.05 per diluted common share, for the three months ended November 30, 2022 compared to net income attributable to NTIC of $4,493,759, or $0.46 per diluted common share, for the three months ended November 30, 2021. Of the net income attributable to NTIC incurred in the three months ended November 30, 2021, $3,951,550 was due to the gain from the Zerust India acquisition.
+18
+Results of Operations
+The following table sets forth NTIC’s results of operations for the three months ended November 30, 2022 and 2021.
+Three Months Ended
+November 30,
+2022
+% of
+Net Sales
+November 30,
+2021
+% of
+Net Sales
+$
+Change
+%
+Change
+Net sales
+$
+19,952,766
+n/a
+$
+18,193,413
+n/a
+$
+1,759,353
+9.7
+%
+Cost of goods sold
+13,599,642
+68.2
+%
+12,490,483
+68.7
+%
+1,109,159
+8.9
+%
+Equity in income from joint ventures
+1,189,404
+n/a
+1,374,749
+n/a
+(185,345
+)
+(13.5
+)%
+Fees for services provided to joint ventures
+1,181,805
+n/a
+1,258,858
+n/a
+(77,053
+)
+(6.1
+)%
+Selling expenses
+3,507,434
+17.6
+%
+3,237,758
+17.8
+%
+269,676
+8.3
+%
+General and administrative expenses
+3,130,599
+15.7
+%
+2,596,347
+14.3
+%
+534,252
+20.6
+%
+Research and development expenses
+1,256,724
+6.3
+%
+1,235,821
+6.8
+%
+20,903
+1.7
+%
+Net Sales . NTIC’s consolidated net sales increased 9.7% to $19,952,766 during the three months ended November 30, 2022 compared to the three months ended November 30, 2021. This increase was primarily a result of increased demand across all market segments, including oil and gas, as well as targeted price increases on certain products.
+The following table sets forth NTIC’s net sales by product segment for the three months ended November 30, 2022 and 2021:
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+$
+Change
+%
+Change
+Total ZERUST® sales
+$
+15,370,001
+$
+14,423,785
+$
+946,216
+6.6
+%
+Total Natur-Tec® sales
+4,582,765
+3,769,628
+813,137
+21.6
+%
+Total net sales
+$
+19,952,766
+$
+18,193,413
+$
+1,759,353
+9.7
+%
+During the three months ended November 30, 2022, 77.0% of NTIC’s consolidated net sales were derived from sales of ZERUST® products and services, which increased 6.6% to $15,370,001 during the three months ended November 30, 2022 compared to $14,423,785 during the three months ended November 30, 2021. This increase was primarily a result of increased demand in North America, as well as targeted price increases on certain products.
+The following table sets forth NTIC’s net sales of ZERUST® products for the three months ended November 30, 2022 and 2021:
+Three Months Ended
+November 30,
+2022
+November 30,
+2021
+$
+Change
+%
+Change
+ZERUST® industrial net sales
+$
+13,114,638
+$
+12,611,530
+$
+503,108
+4.0
+%
+ZERUST® joint venture net sales
+633,466
+840,439
+$
+(206,973
+)
+-24.6
+%
+ZERUST® oil & gas net sales
+1,621,897
+971,816
+$
+650,081
+66.9
+%
+Total ZERUST® net sales
+$
+15,370,001
+$
+14,423,785
+$
+946,216
+6.6
+%
+NTIC’s total ZERUST® net sales increased during the three months ended November 30, 2022, compared to the prior fiscal year period, primarily due to increased sales to new and existing customers as a result of increased global demand and targeted price increases on certain products, partially offset by a decrease in joint venture net sales. Overall, demand for ZERUST® products and services depends heavily on the overall health of the markets in which NTIC sells its products, including the automotive, oil and gas, agriculture, and mining markets in particular.
+19
+ZERUST® oil and gas net sales increased 66.9% during the three months ended November 30, 2022 compared to the same period last fiscal year primarily as a result of new opportunities with new customers. NTIC anticipates that its sales of ZERUST® products and services into the oil and gas industry will continue to remain subject to significant volatility from quarter to quarter as sales are recognized, specifically due to the volatility of oil prices. Demand for oil and gas products around the world depends primarily on market acceptance and the reach of NTIC’s distribution network. Because of the typical size of individual orders and overall size of NTIC’s net sales derived from sales of oil and gas products, the timing of one or more orders can materially affect NTIC’s quarterly sales compared to prior fiscal year quarters.
+During the three months ended November 30, 2022, 23.0% of NTIC’s consolidated net sales were derived from sales of Natur-Tec® products, compared to 20.7% during the three months ended November 30, 2021. Sales of Natur-Tec® products increased 21.6% to $4,582,765 during the three months ended November 30, 2022 compared to $3,769,628 during the three months ended November 30, 2021 as a result of increased global demand. COVID-19 adversely impacted demand for Natur-Tec® products from across the apparel industry, as well as many large users of bioplastics, including college campuses, stadiums, arenas, restaurants, and corporate office complexes. While NTIC has experienced a recovery in many of these areas to pre-pandemic levels, NTIC still expects some of these customers will be the last businesses to fully re-open and operate at full pre-pandemic capacities.
+Cost of Goods Sold . Cost of goods sold increased 8.9% for the three months ended November 30, 2022 compared to the three months ended November 30, 2021 primarily as a result of the increase in net sales, as described above, and price increases on raw materials used in NTIC’s products, as well as increased labor and shipping costs. Cost of goods sold as a percentage of net sales decreased slightly to 68.2% for the three months ended November 30, 2022 compared to 68.7% for the three months ended November 30, 2021 primarily as a result of passing along price increases to customers and increased sales made to customers in the oil and gas industry, which products carry higher margins than our Zerust industrial products. Although NTIC has taken certain actions to address inflationary pressures and pass on related cost increases to its customers, we expect some of these inflationary pressures to persist in fiscal 2023. Some improvements from these actions as well as some improvements in gross margin were realized in the three months ended November 30, 2022.
+Equity in Income from Joint Ventures.
+NTIC’s equity in income from joint ventures decreased 13.5% to $1,189,404 during the three months ended November 30, 2022 compared to $1,374,749 during the three months ended November 30, 2021. This decrease was primarily due to an increase in operating expenses and a decrease in gross margins at the joint ventures. NTIC’s equity in income from joint ventures fluctuates based on net sales and profitability of the joint ventures during the respective periods. Of the total equity in income from joint ventures, NTIC had equity in income from joint ventures of $871,144 attributable to EXCOR during the three months ended November 30, 2022 compared to $910,773 attributable to EXCOR during the three months ended November 30, 2021. NTIC had equity in income from all other joint ventures of $318,260 during the three months ended November 30, 2022, compared to $463,976 during the three months ended November 30, 2021.
+Fees for Services Provided to Joint Ventures . NTIC recognized fee income for services provided to joint ventures of $1,181,805 during the three months ended November 30, 2022 compared to $1,258,858 during the three months ended November 30, 2021, representing a decrease of 6.1%, or $77,053. Fee income for services provided to joint ventures is traditionally a function of the sales made by NTIC’s joint ventures; however, at various joint ventures, the fee income for services is a fixed amount that does not fluctuate with the change in sales which was experienced by certain joint ventures during the three months ended November 30, 2022. Total net sales of NTIC’s joint ventures decreased to $24,730,289 during the three months ended November 30, 2022 compared to $27,022,995 for the three months ended November 30, 2021, representing a decrease of 8.5%. This decrease was primarily a result of decreased demand during the three months ended November 30, 2022 due in part to geopolitical uncertainty. Net sales of NTIC’s joint ventures are not included in NTIC’s product sales and are not included in NTIC’s consolidated financial statements. Of the total fee income for services provided to joint ventures, fees of $193,828 were attributable to EXCOR during the three months ended November 30, 2022 compared to $218,430 attributable to EXCOR during the three months ended November 30, 2021.
+20
+Selling Expenses . NTIC’s selling expenses increased 8.3% for the three months ended November 30, 2022 compared to the same period in fiscal 2022 due primarily to an increase in travel and personnel expenses during the current fiscal year period compared to the prior fiscal year period. Selling expenses as a percentage of net sales decreased slightly to 17.6% for the three months ended November 30, 2022 compared to 17.8% during the three months ended November 30, 2021 primarily due to the increase in net sales, partially offset by the increased selling expenses, as previously described.
+General and Administrative Expenses . NTIC’s general and administrative expenses increased 20.6% for the three months ended November 30, 2022 compared to the same period in fiscal 2022 due primarily to increased professional services and travel and personnel expenses during the current fiscal year period compared to the prior fiscal year period, as well as expenses incurred during the current fiscal year period in connection with the startup of a new indirect, majority owned subsidiary formed to assume the operations of a former joint venture in Taiwan. As a percentage of net sales, general and administrative expenses increased to 15.7% for the three months ended November 30, 2022 from 14.3% for the three months ended November 30, 2021 primarily due to the increase in general and administrative expenses, partially offset by the increase in net sales.
+Research and Development Expenses . NTIC’s research and development expenses increased 1.7% for the three months ended November 30, 2022 compared to the same period in fiscal 2022 primarily due to increased personnel and development efforts.
+Interest Income . NTIC’s interest income decreased to $6,168 during the three months ended November 30, 2022 compared to $10,943 during the three months ended November 30, 2021 due primarily to changes in the invested cash balances.
+Interest Expense . NTIC’s interest expense increased to $91,331 during the three months ended November 30, 2022 compared to $2,891 during the three months ended November 30, 2021 due primarily to increased outstanding borrowings under the line of credit and increased interest rates, in each case during the current fiscal year period compared to the prior fiscal year period.
+Remeasurement Gain on Acquisition of Equity Method Investee . Authoritative guidance on accounting for business combinations requires that an acquirer re-measure its previously held equity interest in the acquisition at its acquisition date fair value and recognize the resulting gain or loss in earnings. As such, since NTIC acquired the remaining 50% ownership interest of Zerust India effective September 1, 2021, NTIC recognized a gain of $3,951,550 during the three months ended November 30, 2021. This gain is included in “Remeasurement gain on acquisition of equity method investee” on NTIC’s consolidated statements of operations. There was no comparable such gain during the current fiscal year period.
+Income Before Income Tax Expense . NTIC had income before income tax expense of $744,413 for the three months ended November 30, 2022 compared to income before income tax expense of $5,226,213 for the three months ended November 30, 2021.
+Income Tax Expense . Income tax expense was $110,733 during the three months ended November 30, 2022 compared to $504,380 during the three months ended November 30, 2021. Income tax expense was calculated based on management’s estimate of NTIC’s annual effective income tax rate.
+NTIC considers the earnings of certain foreign joint ventures to be indefinitely invested outside the United States on the basis of estimates that NTIC’s future domestic cash generation will be sufficient to meet future domestic cash needs. As a result, U.S. income and foreign withholding taxes have not been recognized on the cumulative undistributed earnings of $19,303,110 and $21,256,923 as of November 30, 2022 and August 31, 2022, respectively. To the extent undistributed earnings of NTIC’s joint ventures are distributed in the future, they are not expected to result in any material additional income tax liability after the application of foreign tax credits.
+21
+Net Income Attributable to NTIC . Net income attributable to NTIC decreased to $502,242, or $0.05 per diluted common share, for the three months ended November 30, 2022 compared to $4,493,759, or $0.46 per diluted common share, for the three months ended November 30, 2021. This decrease was primarily due to the $3,951,550 remeasurement gain on acquisition of equity method investee recognized during the prior fiscal year period, which did not repeat this fiscal year, and to a lesser extent, the increase in operating expenses and cost of goods sold and decrease in joint venture income contribution.
+NTIC anticipates that its earnings will continue to be adversely affected to some extent by COVID-19, inflation and worldwide supply chain disruptions, among other factors. Additionally, NTIC anticipates that its quarterly net income will continue to remain subject to significant volatility primarily due to the financial performance of its subsidiaries and joint ventures, sales of its ZERUST® products and services into the oil and gas industry, and sales of its Natur-Tec® bioplastics products, which sales fluctuate more on a quarterly basis than the traditional ZERUST® business.
+Other Comprehensive Income
+–
+Foreign Currency Translations Adjustment.
+The changes in the foreign currency translations adjustment were due to the fluctuation of the U.S. dollar compared to the Euro and other foreign currencies during the three months ended November 30, 2022 compared to the same period in fiscal 2022.
+Liquidity and Capital Resources
+Sources of Cash and Working Capital . NTIC’s working capital, defined as current assets less current liabilities, was $25,408,920 as of November 30, 2022, including $6,066,321 in cash and cash equivalents and $5,590 in available for sale securities, compared to $23,169,480 as of August 31, 2022, including $5,333,890 in cash and cash equivalents and $5,590 in available for sale securities.
+On January 6, 2023, NTIC entered into a Credit Agreement (the “Credit Agreement”) with JPMorgan Chase Bank, N.A. (“JPM”), which provides NTIC with a senior secured revolving line of credit (the “Credit Facility”) of up to $10.0 million. The Credit Facility includes a $5.0 million sublimit for standby letters of credit. Unless terminated earlier, the Credit Facility will mature on January 6, 2024, and the principal amount thereunder, together with all accrued unpaid interest and other amounts owing thereunder, if any, will be payable in full on such date. Borrowings under the Credit Agreement bear interest at a floating rate, at the option of NTIC, equal to either the CB Floating Rate or the Adjusted SOFR Rate. The term “CB Floating Rate” means the greater of the Prime Rate in the United States or 2.50%. The term “Adjusted SOFR Rate” means the term secured overnight financing rate for either one, three or six months (depending on the interest period selected by NTIC) plus 0.10% per annum. With respect to any borrowings using an Adjusted SOFR Rate, there is an applicable margin of 2.15% applied per annum. There is no applicable margin with respect to borrowings using a CB Floating Rate. The Credit Agreement contains customary affirmative and negative covenants, including, among other matters, limitations on NTIC’s ability to incur additional debt, grant liens, engage in certain business operations and transactions, make certain investments, modify its organizational documents or form any new subsidiaries, subject to certain exceptions. Further, the Credit Agreement contains a negative covenant that restricts the ability of NTIC to redeem or repurchase its common stock or pay dividends if the result of which would cause an event of default under the Credit Agreement. The Credit Agreement also requires the Company to maintain a Fixed Charge Coverage Ratio of at least 1.25 to 1.00. The term “Fixed Charge Coverage Ratio” means the ratio, computed for the NTIC on a consolidated basis, of net income plus income tax expense, plus amortization expense, plus depreciation expense, plus interest expense, and plus dividends received from joint ventures, minus unfinanced capital expenditures and equity in income from joint ventures, all computed for the twelve month period then ending, to scheduled principal payments made, plus scheduled finance lease payments made, plus interest expense paid, plus income tax expense paid, and plus cash distributions and dividends paid, all computed for the same twelve month period then ending. The Credit Agreement also contains customary events of default, including, without limitation, payment defaults, material inaccuracy of representations and warranties, covenant defaults, bankruptcy and insolvency proceedings, cross-defaults to certain other agreements, breach of any financial covenant and change of control. Upon the occurrence and during the continuance of any event of default, JPM may accelerate the payment of the obligations thereunder and exercise various other customary default remedies.
+22
+As of November 30, 2022, NTIC had a revolving line of credit with PNC Bank of $7,000,000, which was increased from $5,000,000 effective as of May 20, 2022 to allow for financial flexibility, and was scheduled to decrease back to $5,000,000 effective as of August 16, 2022. Subsequently, to maintain future financial flexibility, on August 8, 2022, NTIC and PNC Bank entered into an Amended and Restated Revolving Line of Credit Note and agreed to keep the line of credit at $7,000,000 until its maturity date, January 7, 2023. As of November 30, 2022, $5,450,000 was outstanding under the revolving line of credit, compared to $2,500,000 outstanding as of November 30, 2021. Such outstanding borrowings were used primarily to fund NTIC’s acquisition of the remaining ownership interest of Zerust India. Outstanding advances under the line of credit bear interest at the daily Bloomberg Short-Term Bank Yield Index (BSBY) rate plus 250 basis points (2.50%). The line of credit is scheduled to mature on January 7, 2023. The line of credit is governed under an Amended and Restated Loan Agreement dated August 31, 2021. The loan agreement contains standard covenants, including affirmative financial covenants, such as the maintenance of a minimum fixed charge coverage ratio, and negative covenants, which, among other things, limit the incurrence of additional indebtedness, loans and equity investments, disposition of assets, mergers and consolidations and other matters customarily restricted in such agreements. Under the loan agreement, NTIC is subject to a minimum fixed charge coverage ratio of 1.10:1.00. As of November 30, 2022, NTIC was in compliance with all debt covenants under the Amended and Restated Loan Agreement. As of November 30, 2022, NTIC did not have any letters of credit outstanding with respect to the letter of credit sub-facility available under the revolving line of credit with PNC Bank. In connection with the execution of the Credit Agreement described above, on January 6, 2023, loan agreement with PNC Bank was terminated.
+NTIC believes that a combination of its existing cash and cash equivalents, available for sale securities, forecasted cash flows from future operations, anticipated distributions of earnings, anticipated fees to NTIC for services provided to its joint ventures, and funds available through existing or anticipated financing arrangements will be adequate to fund its existing operations, investments in new or existing joint ventures or subsidiaries, capital expenditures, debt repayments, cash dividends, and any stock repurchases for at least the next 12 months. During the remainder of fiscal 2023, NTIC expects to continue to invest directly and through its use of working capital in Zerust India, NTIC China, Zerust Mexico, NTI Europe, its joint ventures, research and development, marketing efforts, resources for the application of its corrosion prevention technology in the oil and gas industry, and its Natur-Tec® bio-plastics business, although the amounts of these various investments are not known at this time.
+NTIC also expects to use some of its capital resources to continue to transition some of its joint ventures as needed or appropriate, which may include additional acquisitions by NTIC of the remaining ownership interests of joint ventures not owned by NTIC, the formation of one or more new subsidiaries to assume the operations of a joint venture, and dissolutions or liquidations of one or more of its joint ventures. Some of these joint venture transitions may materially impact NTIC’s results of operations for a particular reporting period. For example, the formation of a new indirect, majority owned subsidiary of NTIC to assume the operations of a former joint venture increased NTIC’s operating expenses during the three months ended November 30, 2022.
+NTIC traditionally has used the cash generated from its operations, distributions of earnings from joint ventures and fees for services provided to its joint ventures to fund NTIC’s new technology investments and capital contributions to new and existing subsidiaries and joint ventures. NTIC’s joint ventures traditionally have operated with little or no debt and have been self-financed with minimal initial capital investment and minimal additional capital investment from their respective owners. Therefore, NTIC believes there is limited exposure by NTIC’s joint ventures that could materially impact their respective operations and/or liquidity.
+23
+In order to take advantage of new product and market opportunities to expand its business and increase its revenues and assist with joint venture transitions, NTIC may decide to finance such opportunities by additional borrowing under its revolving line of credit or raising additional financing through the issuance of debt or equity securities. There is no assurance that any financing transaction will be available on terms acceptable to NTIC or at all or that any financing transaction will not be dilutive to NTIC’s current stockholders.
+Uses of Cash and Cash Flows . Net cash provided by operating activities during the three months ended November 30, 2022 was $2,002,543, which resulted principally from dividends received from joint ventures, NTIC’s net income, an increase in inventories, depreciation and amortization expense, and stock-based compensation, partially offset by equity in income from joint ventures and an increase in accounts payable. Net cash provided by operating activities during the three months ended November 30, 2021 was $3,319,024, which resulted principally from NTIC’s net income, dividends received from joint ventures, deferred income tax, depreciation expense, and stock-based compensation, partially offset by the remeasurement gain on acquisition of equity method investee and equity in income from joint ventures.
+NTIC’s cash flows from operations are impacted by significant changes in certain components of NTIC’s working capital, including inventory turnover and changes in receivables and payables. NTIC considers internal and external factors when assessing the use of its available working capital, specifically when determining inventory levels and credit terms of customers. Key internal factors include existing inventory levels, stock reorder points, customer forecasts and customer requested payment terms. Key external factors include the availability of primary raw materials and sub-contractor production lead times. NTIC’s typical contractual terms for trade receivables, excluding joint ventures, are traditionally 30 days and 90 days for trade receivables from its joint ventures. Before extending unsecured credit to customers, excluding NTIC’s joint ventures, NTIC reviews customers’ credit histories and will establish an allowance for uncollectible accounts based upon factors surrounding the credit risk of specific customers and other information. Accounts receivable over 30 days are considered past due for most customers. NTIC does not accrue interest on past due accounts receivable. If accounts receivables in excess of the provided allowance are determined uncollectible, they are charged to selling expense in the period that the determination is made. Accounts receivable are deemed uncollectible based on NTIC exhausting reasonable efforts to collect. NTIC’s typical contractual terms for receivables for services provided to its joint ventures are 90 days. NTIC records receivables for services provided to its joint ventures on an accrual basis, unless circumstances exist that make the collection of the balance uncertain, in which case the fee income will be recorded on a cash basis until there is consistency in payments. This determination is handled on a case-by-case basis.
+NTIC experienced an increase in trade receivables and a decrease in inventory as of November 30, 2022 compared to August 31, 2022. Trade receivables, excluding joint ventures, as of November 30, 2022 increased $261,255 compared to August 31, 2022, primarily related to an increase in sales.
+Outstanding trade receivables, excluding joint ventures balances, increased an average of 1 day to an average of 68 days from balances outstanding from these customers as of November 30, 2022 from an average of 67 days as of August 31, 2022.
+Outstanding trade receivables from joint ventures as of November 30, 2022 decreased $104,260 compared to August 31, 2022 primarily due to the timing of payments. Outstanding balances from trade receivables from joint ventures decreased an average of 4 days to an average of 85 days from balances outstanding from these customers as of November 30, 2022 from an average of 89 days as of August 31, 2022. The average days outstanding of trade receivables from joint ventures as of November 30, 2022 were primarily due to the receivables balances at NTIC’s joint ventures in Thailand and Japan.
+24
+Outstanding receivables for services provided to joint ventures as of November 30, 2022 decreased $641,639 compared to August 31, 2022, and the average days to pay increased an average of 2 days to an average of 87 days from an average of 85 days as of August 31, 2022.
+Net cash used in investing activities for the three months ended November 30, 2022 was $453,539, which was primarily the result of the purchases of property and equipment, and investments in patents. Net cash used in investing activities for the three months ended November 30, 2021 was $5,429,590, which was primarily the result of the purchase of the remaining 50% ownership interest in Zerust India, purchases of property and equipment, and investments in patents.
+Net cash used in financing activities for the three months ended November 30, 2022 was $730,386, which resulted from dividends paid to shareholders, the repayment of borrowings under the line of credit, and dividends received by non-controlling interests, partially offset by proceeds from the exercise of stock options and proceeds from NTIC’s employee stock purchase plan. Net cash provided by financing activities for the three months ended November 30, 2021 was $1,834,611, which resulted from borrowings under the line of credit and proceeds from NTIC’s employee stock purchase plan and the exercise of stock options, partially offset by dividends paid to shareholders and dividends received by non-controlling interests.
+Share Repurchase Plan . On January 15, 2015, NTIC’s Board of Directors authorized the repurchase of up to $3,000,000 in shares of NTIC common stock through open market purchases or unsolicited or solicited privately negotiated transactions. This program has no expiration date but may be terminated by NTIC’s Board of Directors at any time. No repurchases occurred during the three months ended November 30, 2022. As of November 30, 2022, up to $2,640,548 in shares of NTIC common stock remained available for repurchase under NTIC’s stock repurchase program.
+Cash Dividends . On October 20, 2022, the Company’s Board of Directors declared a cash dividend of $0.07 per share of the Company’s common stock, payable on November 16, 2022 to stockholders of record on November 3, 2022. On October 20, 2021, the Company’s Board of Directors declared a cash dividend of $0.07 per share of the Company’s common stock, payable on November 17, 2021 to stockholders of record on November 3, 2021. The declaration of future dividends is not guaranteed and will be determined by NTIC’s Board of Directors in light of conditions then existing, including NTIC’s earnings, financial condition, cash requirements, restrictions in financing agreements, business conditions and other factors, including without limitation the effect of COVID-19 on NTIC’s business, operating results and financial condition.
+Capital Expenditures and Commitments . NTIC spent $409,094 on capital expenditures during the three months ended November 30, 2022, which related primarily to the purchase of new equipment and facility improvements. NTIC expects to spend an aggregate of approximately $1,200,000 to $1,500,000 on capital expenditures during fiscal 2023, which it expects will relate primarily to the purchase of new equipment and facility improvements.
+Contractual Obligations
+There has been no material change to NTIC’s contractual obligations as provided in “ Part II. Item 7, Management ’ s Discussion and Analysis of Financial Condition and Results of Operations — Contractual Obligations ,” included in NTIC’s annual report on Form 10-K for the fiscal year ended August 31, 2022.
+Inflation and Seasonality
+Although inflation in the United States and abroad historically has had little effect on NTIC, inflationary pressures adversely affected NTIC’s gross margins during the first quarter of fiscal 2023 and are expected to persist into at least the second quarter of fiscal 2023.
+25
+NTIC believes there is some seasonality in its business. NTIC anticipates its net sales in the second fiscal quarter may be adversely affected by the long Chinese New Year, the North American holiday season and overall less corrosion taking place at lower winter temperatures worldwide.
+Market Risk
+NTIC is exposed to some market risk stemming from changes in foreign currency exchange rates, commodity prices and interest rates.
+Because the functional currency of NTIC’s foreign operations and investments in its foreign joint ventures is the applicable local currency, NTIC is exposed to foreign currency exchange rate risk arising from transactions in the normal course of business. NTIC’s principal exchange rate exposure is with the Euro, the Japanese Yen, the Indian Rupee, the Chinese Renminbi, the South Korean Won, and the English Pound against the U.S. Dollar. NTIC’s fees for services provided to joint ventures and dividend distributions from these foreign entities are paid in foreign currencies and, thus, fluctuations in foreign currency exchange rates could result in declines in NTIC’s reported net income. Since NTIC’s investments in its joint ventures are accounted for using the equity method, any changes in foreign currency exchange rates would be reflected as a foreign currency translation adjustment and would not change NTIC’s equity in income from joint ventures reflected in its consolidated statements of operations. NTIC does not hedge against its foreign currency exchange rate risk.
+Some raw materials used in NTIC’s products are exposed to commodity price changes. The primary commodity price exposures are with a variety of plastic resins.
+Any outstanding advances under NTIC’s revolving line of credit with PNC Bank bear interest at an annual rate based on daily BSBY plus 2.50%. As of November 30, 2022, NTIC had borrowings of $5,450,000 under the line of credit that existed as of that date.
+Critical Accounting Policies and Estimates
+There have been no material changes to NTIC’s critical accounting policies and estimates from the information provided in “ Part II. Item 7, Management ’ s Discussion and Analysis of Financial Condition and Results of Operations — Critical Accounting Policies and Estimates ” included in NTIC’s annual report on Form 10-K for the fiscal year ended August 31, 2022.
+Recent Accounting Pronouncements
+See Note 2 to NTIC’s consolidated financial statements for a discussion of recent accounting pronouncements.
+Forward-Looking Statements
+This quarterly report on Form 10-Q contains not only historical information, but also forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements are subject to the safe harbor created by those sections. In addition, NTIC or others on NTIC’s behalf may make forward-looking statements from time to time in oral presentations, including telephone conferences and/or web casts open to the public, in press releases or reports, on NTIC’s Internet web site, or otherwise. All statements other than statements of historical facts included in this report or expressed by NTIC orally from time to time that address activities, events, or developments that NTIC expects, believes, or anticipates will or may occur in the future are forward-looking statements, including, in particular, the statements about NTIC’s plans, objectives, strategies, and prospects regarding, among other things, NTIC’s financial condition, results of operations and business, the anticipated effect of COVID-19 and its acquisition of Zerust India on NTIC’s business, operating results and financial condition, the outcome of contingencies, such as legal proceedings. NTIC has identified some of these forward-looking statements in this report with words like “believe,” “can,” “may,” “could,” “would,” “might,” “forecast,” “possible,” “potential,” “project,” “will,” “should,” “expect,” “intend,” “plan,” “predict,” “anticipate,” “estimate,” “approximate,” “outlook,” or “continue” or the negative of these words or other words and terms of similar meaning. The use of future dates is also an indication of a forward-looking statement. Forward-looking statements may be contained in the notes to NTIC’s consolidated financial statements and elsewhere in this report, including under the heading “ Management ’ s Discussion and Analysis of Financial Condition and Results of Operations .”
+26
+Forward-looking statements are based on current expectations about future events affecting NTIC and are subject to uncertainties and factors that affect all businesses operating in a global market as well as matters specific to NTIC. These uncertainties and factors are difficult to predict, and many of them are beyond NTIC’s control. The following are some of the uncertainties and factors known to us that could cause NTIC’s actual results to differ materially from what NTIC has anticipated in its forward-looking statements:
+●
+The effect of worldwide disruption in supply issues on NTIC’s business, operating results and financial condition, which will likely continue through fiscal 2023, regardless of the status of COVID-19;
+●
+The effect of COVID-19 on NTIC’s business, operating results and financial condition, including in particular in China, and disruption to our customers, suppliers and subcontractors, as well as the global economy and financial markets;
+●
+The effect of current worldwide economic conditions, inflation, recessionary indications and any turmoil and disruption in the global credit and financial markets on NTIC’s business, including in particular as a result of the ongoing war between Russia and Ukraine, and the effect of the war and the resulting sanctions by U.S. and European governments on commodity price fluctuations, which have decreased our margins and the margins of our joint ventures and resulted in decreased joint venture profitability, which will likely continue during fiscal 2023;
+●
+Variability in NTIC’s sales of ZERUST® products and services to the oil and gas industry and Natur-Tec® products and NTIC’s equity income of joint ventures, which variability in sales and equity in income from joint ventures, in turn, subject NTIC’s earnings to quarterly fluctuations;
+●
+Risks associated with NTIC’s international operations and exposure to fluctuations in foreign currency exchange rates, import duties, taxes, and tariffs;
+●
+The effect of the United Kingdom’s process to exit the European Union on NTIC’s operating results, including, in particular, future net sales of NTIC’s European and other joint ventures;
+●
+The effect of the health of the U.S. automotive industry on NTIC’s business and the evolution of the automotive industry towards electric vehicles;
+●
+NTIC’s dependence on the success of its joint ventures and fees and dividend distributions that NTIC receives from them;
+●
+Risks associated with NTIC’s acquisition of the remaining 50% ownership interest in its Indian joint venture, Zerust India;
+●
+NTIC’s relationships with its joint ventures and its ability to maintain those relationships, especially in light of anticipated succession planning issues, and risks associated with possible future acquisitions of the remaining ownership interests of certain joint ventures;
+●
+Fluctuations in the cost and availability of raw materials, including resins and other commodities, including supply chain disruptions and weather related impacts;
+●
+The success of and risks associated with NTIC’s emerging new businesses and products and services, including in particular NTIC’s ability and the ability of NTIC’s joint ventures to sell ZERUST® products and services to the oil and gas industry and Natur-Tec® products and the often lengthy and extensive sales process involved in selling such products and services;
+27
+●
+NTIC’s ability to introduce new products and services that respond to changing market conditions and customer demand;
+●
+Market acceptance of NTIC’s existing and new products, especially in light of existing and new competitive products;
+●
+Maturation of certain existing markets for NTIC’s ZERUST® products and services and NTIC’s ability to grow market share and succeed in penetrating other existing and new markets;
+●
+Increased competition, especially with respect to NTIC’s ZERUST® products and services, and the effect of such competition on NTIC’s and its joint ventures’ pricing, net sales, and margins;
+●
+NTIC’s reliance upon and its relationships with its distributors, independent sales representatives, and joint ventures;
+●
+NTIC’s reliance upon suppliers;
+●
+Oil prices, which may affect sales of NTIC’s ZERUST® products and services to the oil and gas industry, and which may be impacted by the action of Russian military forces in Ukraine;
+●
+NTIC’s operations in China, and the risks associated therewith;
+●
+The costs and effects of complying with laws and regulations and changes in tax, fiscal, government, and other regulatory policies, including rules relating to environmental, health, and safety matters;
+●
+Unforeseen product quality or other problems in the development, production, and usage of new and existing products;
+●
+Unforeseen production expenses incurred in connection with new customers and new products;
+●
+Loss of or changes in executive management or key employees and the need to hire and train local support in a timely manner in order to support customer needs;
+●
+Ability of management to manage around unplanned events;
+●
+Pending and future litigation;
+●
+NTIC’s reliance on its intellectual property rights and the absence of infringement of the intellectual property rights of others;
+●
+NTIC’s ability to maintain effective internal control over financial reporting, especially in light of its joint venture arrangements;
+●
+Changes in applicable laws or regulations and NTIC’s failure to comply with applicable laws, rules, and regulations;
+●
+Changes in generally accepted accounting principles and the effect of new accounting pronouncements;
+●
+Fluctuations in NTIC’s effective tax rate;
+28
+●
+The effect of extreme weather conditions on NTIC’s operating results; and
+●
+NTIC’s reliance upon its management information systems.
+For more information regarding these and other uncertainties and factors that could cause NTIC’s actual results to differ materially from what NTIC has anticipated in its forward-looking statements or otherwise could materially adversely affect its business, financial condition or operating results, see NTIC’s annual report on Form 10-K for the fiscal year ended August 31, 2022 under the heading “ Part I. Item 1A. Risk Factors .”
+All forward-looking statements included in this report are expressly qualified in their entirety by the foregoing cautionary statements. NTIC wishes to caution readers not to place undue reliance on any forward-looking statement that speaks only as of the date made and to recognize that forward-looking statements are predictions of future results, which may not occur as anticipated. Actual results could differ materially from those anticipated in the forward-looking statements and from historical results due to the uncertainties and factors described above and others that NTIC may consider immaterial or does not anticipate at this time. Although NTIC believes that the expectations reflected in its forward-looking statements are reasonable, NTIC does not know whether its expectations will prove correct. NTIC’s expectations reflected in its forward-looking statements can be affected by inaccurate assumptions NTIC might make or by known or unknown uncertainties and factors, including those described above. The risks and uncertainties described above are not exclusive, and further information concerning NTIC and its business, including factors that potentially could materially affect its financial results or condition, may emerge from time to time. NTIC assumes no obligation to update, amend, or clarify forward-looking statements to reflect actual results or changes in factors or assumptions affecting such forward-looking statements. NTIC advises you, however, to consult any further disclosures NTIC makes on related subjects in its annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K that NTIC files with or furnishes to the Securities and Exchange Commission.
+ITEM 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+NTIC is exposed to some market risk stemming from changes in foreign currency exchange rates, commodity prices and interest rates.
+Because the functional currency of NTIC’s foreign operations and investments in its foreign joint ventures is the applicable local currency, NTIC is exposed to foreign currency exchange rate risk arising from transactions in the normal course of business. NTIC’s principal exchange rate exposure is with the Euro, the Japanese Yen, the Indian Rupee, the Chinese Renminbi, the South Korean Won, and the English Pound against the U.S. Dollar. NTIC’s fees for services provided to joint ventures and dividend distributions from these foreign entities are paid in foreign currencies, and, thus, fluctuations in foreign currency exchange rates could result in declines in NTIC’s reported net income. Since NTIC’s investments in its joint ventures are accounted for using the equity method, any changes in foreign currency exchange rates would be reflected as a foreign currency translation adjustment and would not change NTIC’s equity in income from joint ventures reflected in its consolidated statements of operations. NTIC does not hedge against its foreign currency exchange rate risk.
+Some raw materials used in NTIC’s products are exposed to commodity price changes. The primary commodity price exposures are with a variety of plastic resins.
+Any outstanding advances under NTIC’s revolving line of credit with PNC Bank bear interest at an annual rate based on daily BSBY plus 2.50%. As of November 30, 2022, NTIC had borrowings of $5,450,000 under the line of credit that existed as of that date.
+29
+ITEM 4.
+CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+NTIC maintains disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) that are designed to provide reasonable assurance that information required to be disclosed by NTIC in the reports it files or submits under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms and that such information is accumulated and communicated to NTIC’s management, including NTIC’s principal executive officer and principal financial officer, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. NTIC’s management evaluated, with the participation of its Chief Executive Officer and its Chief Financial Officer, the effectiveness of the design and operation of NTIC’s disclosure controls and procedures as of the end of the period covered in this report. Based on that evaluation, NTIC’s Chief Executive Officer and Chief Financial Officer concluded that NTIC’s disclosure controls and procedures were effective as of the end of such period to provide reasonable assurance that information required to be disclosed in the reports that NTIC files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to NTIC’s management, including NTIC’s Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+Changes in Internal Control over Financial Reporting
+There was no change in NTIC’s internal control over financial reporting that occurred during the quarter ended November 30, 2022 that has materially affected or is reasonably likely to materially affect NTIC’s internal control over financial reporting, other than changes implemented to continue integrating Zerust India’s internal controls with NTIC’s internal controls.
+30
+PART II -
+OTHER INFORMATION
+ITEM 1.
+LEGAL PROCEEDINGS
+See Note 14 to NTIC’s consolidated financial statements in
+Part I. Item 1. Financial Statements
+of this report.
+ITEM 1A.
+RISK FACTORS
+This Item 1A. is inapplicable to NTIC as a smaller reporting company.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Recent Sales of Unregistered Equity Securities
+During the three months ended November 30, 2022, NTIC did not issue any shares of its common stock or other equity securities of NTIC that were not registered under the Securities Act of 1933, as amended.
+Issuer Purchases of Equity Securities
+The following table shows NTIC’s first quarter of fiscal 2023 stock repurchase activity.
+Period
+Total Number
+of Shares
+(or Units)
+Purchased
+Average
+Price Paid
+Per Share
+(or Unit)
+Total Number of
+Shares (or Units)
+Purchased As
+Part of Publicly
+Announced
+Plans or
+Programs
+Maximum
+Number of
+Shares (or Units)
+that May Yet Be
+Purchased Under
+the Plans or
+Programs
+September 1, 2022 through September 30, 2022
+0
+$0
+0
+(1)
+October 1, 2022 through October 31, 2022
+0
+$0
+0
+(1)
+November 1, 2022 through November 30, 2022
+0
+$0
+0
+(1)
+Total
+0
+$0
+0
+(1)(2)
+(1)
+On January 15, 2015, NTIC’s Board of Directors authorized the repurchase of up to $3,000,000 in shares of NTIC common stock through open market purchases or unsolicited or solicited privately negotiated transactions. This program has no expiration date but may be terminated by NTIC’s Board of Directors at any time.
+(2)
+As of November 30, 2022, up to $2,640,548 in shares of NTIC common stock remained available for repurchase under NTIC’s stock repurchase program.
+ITEM 3.
+DEFAULTS UPON SENIOR SECURITIES
+Not applicable.
+ITEM 4.
+MINE SAFETY DISCLOSURES
+Not applicable.
+31
+ITEM 5.
+OTHER INFORMATION
+On January 6, 2023, Northern Technologies International Corporation entered into a Credit Agreement (the “Credit Agreement”) with JPMorgan Chase Bank, N.A. (“JPM”), which provides NTIC with a senior secured revolving line of credit (the “Credit Facility”) of up to $10.0 million. The Credit Facility includes a $5.0 million sublimit for standby letters of credit.
+Unless terminated earlier, the Credit Facility will mature on January 6, 2024, and the principal amount thereunder, together with all accrued unpaid interest and other amounts owing thereunder, if any, will be payable in full on such date. Borrowings under the Credit Agreement bear interest at a floating rate, at the option of NTIC, equal to either the CB Floating Rate or the Adjusted SOFR Rate. The term “CB Floating Rate” means the greater of the Prime Rate in the United States or 2.50%. The term “Adjusted SOFR Rate” means the term secured overnight financing rate for either one, three or six months (depending on the interest period selected by NTIC) plus 0.10% per annum. With respect to any borrowings using an Adjusted SOFR Rate, there is an applicable margin of 2.15% applied per annum. There is no applicable margin with respect to borrowings using a CB Floating Rate.
+The Credit Agreement contains customary affirmative and negative covenants, including, among other matters, limitations on NTIC’s ability to incur additional debt, grant liens, engage in certain business operations and transactions, make certain investments, modify its organizational documents or form any new subsidiaries, subject to certain exceptions. Further, the Credit Agreement contains a negative covenant that restricts the ability of NTIC to redeem or repurchase its common stock or pay dividends if the result of which would cause an event of default under the Credit Agreement. The Credit Agreement also requires the Company to maintain a Fixed Charge Coverage Ratio of at least 1.25 to 1.00. The term “Fixed Charge Coverage Ratio” means the ratio, computed for the NTIC on a consolidated basis, of net income plus income tax expense, plus amortization expense, plus depreciation expense, plus interest expense, and plus dividends received from joint ventures, minus unfinanced capital expenditures and equity in income from joint ventures, all computed for the twelve month period then ending, to scheduled principal payments made, plus scheduled finance lease payments made, plus interest expense paid, plus income tax expense paid, and plus cash distributions and dividends paid, all computed for the same twelve month period then ending.
+The Credit Agreement also contains customary events of default, including, without limitation, payment defaults, material inaccuracy of representations and warranties, covenant defaults, bankruptcy and insolvency proceedings, cross-defaults to certain other agreements, breach of any financial covenant and change of control. Upon the occurrence and during the continuance of any event of default, JPM may accelerate the payment of the obligations thereunder and exercise various other customary default remedies.
+The foregoing description of the Credit Agreement is a summary of the material terms of such agreement, does not purport to be complete and is qualified in its entirety by reference to the complete terms of the Credit Agreement, which will be filed as an exhibit to NTIC’s quarterly report on Form 10-Q for the quarterly period ended January 31, 2023, and is incorporated herein by reference.
+In connection with the execution of the Credit Agreement described above, on January 6, 2023, the Amended and Restated Loan Agreement dated August 31, 2021 between Northern Technologies International Corporation and PNC Bank, National Association was terminated.
+32
+ITEM 6.
+EXHIBITS
+The following exhibits are being filed or furnished with this quarterly report on Form 10-Q:
+Exhibit No.
+Description
+3.1
+Second Amended and Restated Bylaws of Northern Technologies International Corporation, effective November 11, 2022 (Incorporated by reference to Exhibit 3.1 to NTIC’s Current Report on Form 8-K as filed with the Securities and Exchange Commission on November 14, 2022 (File No. 001-11038))
+31.1
+Certification of President and Chief Executive Officer pursuant to SEC Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith)
+31.2
+Certification of Chief Financial Officer pursuant to SEC Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith)
+32.1
+Certification of President and Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith)
+32.2
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith)
+101
+The following materials from NTIC’s Quarterly Report on Form 10-Q for the fiscal quarter ended November 30, 2022, formatted in Inline XBRL (Extensible Business Reporting Language): (i) the unaudited Consolidated Balance Sheets, (ii) the unaudited Consolidated Statements of Operations, (iii) the unaudited Consolidated Statements of Comprehensive Income , (iv) the unaudited Consolidated Statements of Equity, (v) the unaudited Consolidated Statements of Cash Flows, and (vi) Notes to Consolidated Financial Statements (filed herewith)
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+33
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+NORTHERN TECHNOLOGIES INTERNATIONAL   CORPORATION
+/s/ Matthew C. Wolsfeld
+Date:  January 12, 2023
+Matthew C. Wolsfeld, CPA
+Chief Financial Officer
+(Principal Financial and Accounting Officer and
+Duly Authorized to Sign on Behalf of the Registrant)
+34

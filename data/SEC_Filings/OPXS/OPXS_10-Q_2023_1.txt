@@ -1,0 +1,3436 @@
+P5Y
+0001397016
+2022-10-03
+2023-01-01
+0001397016
+2023-02-13
+0001397016
+2023-01-01
+0001397016
+2022-10-02
+0001397016
+2021-10-04
+2022-01-02
+0001397016
+2021-10-03
+0001397016
+2022-01-02
+0001397016
+us-gaap:CommonStockMember
+2022-10-02
+0001397016
+us-gaap:TreasuryStockMember
+2022-10-02
+0001397016
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-02
+0001397016
+us-gaap:RetainedEarningsMember
+2022-10-02
+0001397016
+us-gaap:CommonStockMember
+2021-10-03
+0001397016
+us-gaap:TreasuryStockMember
+2021-10-03
+0001397016
+us-gaap:AdditionalPaidInCapitalMember
+2021-10-03
+0001397016
+us-gaap:RetainedEarningsMember
+2021-10-03
+0001397016
+us-gaap:CommonStockMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:TreasuryStockMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:AdditionalPaidInCapitalMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:RetainedEarningsMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:CommonStockMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:TreasuryStockMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:AdditionalPaidInCapitalMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:RetainedEarningsMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:CommonStockMember
+2023-01-01
+0001397016
+us-gaap:TreasuryStockMember
+2023-01-01
+0001397016
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+0001397016
+us-gaap:RetainedEarningsMember
+2023-01-01
+0001397016
+us-gaap:CommonStockMember
+2022-01-02
+0001397016
+us-gaap:TreasuryStockMember
+2022-01-02
+0001397016
+us-gaap:AdditionalPaidInCapitalMember
+2022-01-02
+0001397016
+us-gaap:RetainedEarningsMember
+2022-01-02
+0001397016
+OPXS:USGovernmentMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:USDefenseContractorOneMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:OneMajorCommercialCustomerMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:AllOtherCustomersMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+country:US
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:SalesRevenueNetMember
+OPXS:ForeignCustomersMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:USGovernmentAgenciesMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:MajorUSDefenseContractorOneMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:MajorUSDefenseContractorTwoMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:MajorUSDefenseContractorThreeMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:OneCommercialCustomerMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:AllOtherCustomersMember
+us-gaap:AccountsReceivableMember
+us-gaap:CustomerConcentrationRiskMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:ServiceMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:ServiceMember
+2021-10-04
+2022-01-02
+0001397016
+2022-11-30
+0001397016
+OPXS:UnvestedRectrictedStockUnitsMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:UnvestedRectrictedStockMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:UnvestedRectrictedStockUnitsMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:UnvestedRectrictedStockMember
+2021-10-04
+2022-01-02
+0001397016
+2021-10-03
+2022-01-01
+0001397016
+OPXS:DomesticMilitaryCustomersMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:ForeignMilitaryCustomersMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:USGovernmentMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:OneMajorUSDefenseContractorMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2023-01-01
+0001397016
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:CommercialCustomersMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:SubcontractedCustomersMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:RevenuesFromExternalCustomersMember
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:MilitaryContractsMember
+OPXS:IntersegmentSalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:SalesRevenueNetMember
+us-gaap:CustomerConcentrationRiskMember
+OPXS:MajorUSDefenseContractorOneMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:AppliedOpticsCenterAOCDallasMember
+2023-01-01
+0001397016
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:RevenuesFromExternalCustomersMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:RevenuesFromExternalCustomersMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:IntersegmentEliminationMember
+OPXS:RevenuesFromExternalCustomersMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:RevenuesFromExternalCustomersMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:IntersegmentRevenuesMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:IntersegmentRevenuesMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:IntersegmentEliminationMember
+OPXS:IntersegmentRevenuesMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:IntersegmentRevenuesMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:IntersegmentEliminationMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:RevenuesFromExternalCustomersMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:RevenuesFromExternalCustomersMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:IntersegmentEliminationMember
+OPXS:RevenuesFromExternalCustomersMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:RevenuesFromExternalCustomersMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:IntersegmentRevenuesMember
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:IntersegmentRevenuesMember
+OPXS:AppliedOpticsCenterAOCDallasMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:IntersegmentEliminationMember
+OPXS:IntersegmentRevenuesMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:IntersegmentRevenuesMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:OptexSystemsOPXRichardsonTexasMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:AppliedOpticsCenterAOCDallasMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:IntersegmentEliminationMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:OneNonCancellableOfficeEquipmentLeaseMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:OneNonCancellableOfficeEquipmentLeaseMember
+2023-01-01
+0001397016
+OPXS:FacilityLeaseAgreementMember
+2022-10-03
+2023-01-01
+0001397016
+OPXS:FacilityLeaseAgreementMember
+2021-10-04
+2022-01-02
+0001397016
+OPXS:OfficeEquipmentLeaseMember
+2023-01-01
+0001397016
+OPXS:CommonAreaMaintenanceEstimateMember
+2023-01-01
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+OPXS:BBVAMember
+2020-04-15
+2020-04-16
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+OPXS:BBVAMember
+us-gaap:PrimeRateMember
+2020-04-15
+2020-04-16
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+OPXS:BBVAMember
+2022-04-10
+2022-04-12
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+2022-04-10
+2022-04-12
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+2022-11-20
+2022-11-20
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+2022-11-21
+2022-11-21
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:PrimeRateMember
+2022-11-21
+2022-11-21
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+2023-01-01
+0001397016
+us-gaap:RevolvingCreditFacilityMember
+2022-10-02
+0001397016
+OPXS:TwoThousandNineStockOptionPlanMember
+2023-01-01
+0001397016
+OPXS:TwoThousandSixteenRestrictedStockUnitPlanMember
+srt:ChiefExecutiveOfficerMember
+2018-12-28
+2019-01-02
+0001397016
+OPXS:TwoThousandSixteenRestrictedStockUnitPlanMember
+srt:ChiefFinancialOfficerMember
+2018-12-28
+2019-01-02
+0001397016
+OPXS:TwoThousandSixteenRestrictedStockUnitPlanMember
+OPXS:BillGatesMember
+2020-02-16
+2020-02-17
+0001397016
+OPXS:TwoThousandSixteenRestrictedStockUnitPlanMember
+OPXS:BillGatesMember
+2019-01-02
+0001397016
+OPXS:EmploymentAgreementMember
+2021-11-30
+2021-12-01
+0001397016
+OPXS:TwoThousandSixteenRestrictedStockUnitPlanMember
+2021-12-01
+0001397016
+OPXS:TwoThousandSixteenRestrictedStockUnitPlanMember
+OPXS:BillGatesMember
+2020-02-17
+0001397016
+OPXS:ThreeIndependentDirectorsMember
+srt:MinimumMember
+2020-04-29
+2020-04-30
+0001397016
+OPXS:ThreeIndependentDirectorsMember
+srt:MaximumMember
+2020-04-29
+2020-04-30
+0001397016
+OPXS:ThreeIndependentDirectorsMember
+2020-04-29
+2020-04-30
+0001397016
+OPXS:ThreeIndependentDirectorsMember
+2020-04-30
+0001397016
+srt:DirectorMember
+2023-01-01
+2023-01-01
+0001397016
+srt:DirectorMember
+2022-01-01
+2022-01-01
+0001397016
+srt:DirectorMember
+2021-01-01
+2021-01-01
+0001397016
+srt:ChiefFinancialOfficerMember
+2022-01-03
+2022-01-04
+0001397016
+srt:ChiefExecutiveOfficerMember
+2023-01-03
+2023-01-04
+0001397016
+srt:ChiefExecutiveOfficerMember
+2023-01-01
+0001397016
+us-gaap:RestrictedStockUnitsRSUMember
+2021-10-03
+0001397016
+us-gaap:RestrictedStockMember
+2021-10-03
+0001397016
+us-gaap:RestrictedStockUnitsRSUMember
+2021-10-04
+2022-10-02
+0001397016
+us-gaap:RestrictedStockMember
+2021-10-04
+2022-10-02
+0001397016
+us-gaap:RestrictedStockUnitsRSUMember
+2022-10-02
+0001397016
+us-gaap:RestrictedStockMember
+2022-10-02
+0001397016
+us-gaap:RestrictedStockUnitsRSUMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:RestrictedStockMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:RestrictedStockUnitsRSUMember
+2023-01-01
+0001397016
+us-gaap:RestrictedStockMember
+2023-01-01
+0001397016
+us-gaap:RestrictedStockMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:RestrictedStockUnitsRSUMember
+2021-10-04
+2022-01-02
+0001397016
+us-gaap:DividendPaidMember
+2022-10-03
+2023-01-01
+0001397016
+us-gaap:DividendPaidMember
+2021-10-04
+2022-10-02
+0001397016
+OPXS:StockRepurchasePlanMember
+2020-06-08
+0001397016
+OPXS:JuneTwoThousandTwentyStockRepurchasePlanMember
+2020-09-27
+2020-09-27
+0001397016
+OPXS:StockRepurchasePlanMember
+2021-04-01
+2021-04-30
+0001397016
+OPXS:StockRepurchasePlanMember
+2021-09-22
+0001397016
+us-gaap:CommonStockMember
+2022-08-17
+2022-08-18
+0001397016
+us-gaap:CommonStockMember
+2022-09-14
+2022-09-15
+0001397016
+us-gaap:CommonStockMember
+2022-09-15
+0001397016
+2021-10-04
+2021-10-31
+0001397016
+2021-10-31
+0001397016
+2021-11-01
+2021-11-28
+0001397016
+2021-11-28
+0001397016
+2021-11-29
+2022-01-02
+0001397016
+2022-01-03
+2022-01-30
+0001397016
+2022-01-30
+0001397016
+2022-01-31
+2022-02-27
+0001397016
+2022-02-27
+0001397016
+2022-02-28
+2022-04-03
+0001397016
+2022-04-03
+0001397016
+2022-04-04
+2022-05-01
+0001397016
+2022-05-01
+0001397016
+2022-05-02
+2022-05-29
+0001397016
+2022-05-29
+0001397016
+2022-05-30
+2022-07-03
+0001397016
+2022-07-03
+0001397016
+2022-07-04
+2022-07-25
+0001397016
+2022-07-25
+0001397016
+2022-07-26
+2022-08-13
+0001397016
+2022-08-13
+0001397016
+2021-10-04
+2022-10-02
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:sqft
+OPXS:Integer
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+WASHINGTON,
+D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the quarterly period ended
+January 1, 2023
+☐
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from ______to______.
+OPTEX
+SYSTEMS HOLDINGS, INC.
+(Exact
+Name of Registrant as Specified in Charter)
+Delaware
+000-54114
+90-0609531
+(State
+or other jurisdiction
+of
+incorporation)
+(Commission
+File
+Number)
+(IRS
+Employer
+Identification
+No.)
+1420
+Presidential Drive ,
+Richardson ,
+TX
+75081-2439
+(Address
+of principal executive offices)
+(Zip
+Code)
+Registrant’s
+telephone number, including area code:
+(972)
+764-5700
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title
+of each class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+None.
+Indicate
+by check mark whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the issuer was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files).
+Yes
+☒ No ☐
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller
+reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act:
+Large
+Accelerated Filer ☐
+Accelerated
+Filer ☐
+Non-Accelerated
+Filer
+☒
+Smaller
+Reporting Company
+☒
+☐
+Emerging
+growth company
+☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to section 13(a) of the Exchange Act.
+Indicate
+by check mark whether the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act. Yes ☐
+No
+☒
+Indicate
+the number of shares outstanding of each of the issuer’s classes of common stock, as of February 13, 2023:
+6,763,070
+shares of common stock.
+OPTEX
+SYSTEMS HOLDINGS, INC.
+FORM
+10-Q
+For
+the period ended January 1, 2023
+INDEX
+PART
+I— FINANCIAL INFORMATION
+F-1
+Item
+1.
+Unaudited
+Condensed Consolidated Financial Statements
+F-1
+Item
+2.
+Management’s
+Discussion and Analysis of Financial Condition and Results of Operations
+3
+Item
+3.
+Quantitative
+and Qualitative Disclosures About Market Risk
+14
+Item
+4.
+Controls
+and Procedures
+14
+PART
+II— OTHER INFORMATION
+14
+Item
+1.
+Legal
+Proceedings
+14
+Item
+1A.
+Risk
+Factors
+14
+Item
+2.
+Unregistered
+Sales of Equity Securities and Use of Proceeds
+14
+Item
+3.
+Defaults
+Upon Senior Securities
+14
+Item
+4.
+Mine
+Safety Disclosures
+14
+Item
+6.
+Exhibits
+15
+SIGNATURE
+16
+2
+Part
+1. Financial Information
+Item
+1. Unaudited Condensed Consolidated Financial Statements
+OPTEX
+SYSTEMS HOLDINGS, INC.
+UNAUDITED
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+AS
+OF JANUARY 1, 2023
+CONDENSED
+CONSOLIDATED BALANCE SHEETS AS OF JANUARY 1, 2023 (UNAUDITED) AND OCTOBER 2, 2022
+F-2
+CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS FOR THE THREE MONTHS ENDED JANUARY 1, 2023 (UNAUDITED) AND THE THREE MONTHS ENDED JANUARY 2,
+2022 (UNAUDITED)
+F-3
+CONDENSED
+CONSOLIDATED STATEMENTS OF CASH FLOWS FOR THE THREE MONTHS ENDED JANUARY 1, 2023 (UNAUDITED) AND THE THREE MONTHS ENDED JANUARY 2,
+2022 (UNAUDITED)
+F-4
+CONDENSED
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY FOR THE THREE MONTHS ENDED JANUARY 1, 2023 (UNAUDITED) AND THE THREE MONTHS
+ENDED JANUARY 2, 2022 (UNAUDITED)
+F-5
+CONDENSED
+CONSOLIDATED FINANCIAL STATEMENT FOOTNOTES (UNAUDITED)
+F-6
+F- 1
+Optex
+Systems Holdings, Inc.
+Condensed
+Consolidated Balance Sheets
+(Thousands,
+except share and per share data)
+January
+1, 2023
+October
+2, 2022
+(Unaudited)
+ASSETS
+Cash
+and Cash Equivalents
+$ 1,280
+$ 934
+Accounts
+Receivable, Net
+1,605
+2,908
+Inventory,
+Net
+10,798
+9,212
+Contract Asset
+336
+-
+Prepaid
+Expenses
+249
+328
+Current
+Assets
+14,268
+13,382
+Property
+and Equipment, Net
+977
+968
+Other
+Assets
+Deferred
+Tax Asset
+1,001
+942
+Right-of-use
+Asset
+3,104
+3,222
+Security
+Deposits
+23
+23
+Other
+Assets
+4,128
+4,187
+Total
+Assets
+$ 19,373
+$ 18,537
+LIABILITIES
+AND STOCKHOLDERS’ EQUITY
+Current
+Liabilities
+Accounts
+Payable
+$ 1,433
+$ 706
+Operating
+Lease Liability
+608
+604
+Federal
+Income Taxes Payable
+331
+331
+Accrued
+Expenses
+977
+958
+Accrued
+Selling Expense
+336
+-
+Accrued
+Warranty Costs
+229
+169
+Contract
+Loss Reserves
+282
+289
+Customer
+Advance Deposits
+326
+311
+Current
+Liabilities
+4,522
+3,368
+Other
+Liabilities
+Operating
+Lease Liability, net of current portion
+2,646
+2,761
+Other
+Liabilities
+2,646
+2,761
+Total
+Liabilities
+7,168
+6,129
+Commitments
+and Contingencies
+Stockholders’
+Equity
+Common
+Stock – ($ 0.001
+par,
+2,000,000,000
+authorized,
+6,763,070
+and
+6,716,638
+shares issued, and
+6,763,070
+and
+6,716,638
+shares outstanding,
+respectively)
+7
+7
+Additional
+Paid in capital
+21,116
+21,096
+Accumulated
+Deficit
+( 8,918 )
+( 8,695 )
+Stockholders’
+Equity
+12,205
+12,408
+Total
+Liabilities and Stockholders’ Equity
+$ 19,373
+$ 18,537
+The
+accompanying notes are an integral part of these condensed consolidated financial statements
+F- 2
+Optex
+Systems Holdings, Inc.
+Condensed
+Consolidated Statements of Operations
+(Unaudited)
+(Thousands,
+except share and per share data)
+Three
+months ended
+January
+1, 2023
+January
+2, 2022
+Revenue
+$ 4,040
+$ 4,340
+Cost
+of Sales
+3,323
+3,517
+Gross
+Profit
+717
+823
+General
+and Administrative Expense
+999
+808
+Operating
+(Loss) Income
+( 282 )
+15
+Other
+Expense
+-
+-
+(Loss)
+Income Before Taxes
+( 282 )
+15
+Income
+Tax Benefit
+$ ( 59 )
+$ ( 14 )
+Net
+(loss) income
+$ ( 223 )
+$ 29
+Basic
+(loss) income per share
+$ ( 0.03 )
+$ 0.00
+Weighted
+Average Common Shares Outstanding - basic
+6,537,808
+8,228,980
+Diluted
+(loss) income per share
+$ ( 0.03 )
+$ 0.00
+Weighted
+Average Common Shares Outstanding - diluted
+6,537,808
+8,281,841
+The
+accompanying notes are an integral part of these condensed consolidated financial statements
+F- 3
+Optex
+Systems Holdings, Inc.
+Condensed
+Consolidated Statements of Cash Flows
+(Unaudited)
+(Thousands)
+Three
+months ended
+January
+1, 2023
+January
+2, 2022
+Cash
+Flows from Operating Activities:
+Net
+(Loss) Income
+$ ( 223 )
+$ 29
+Adjustments
+to Reconcile Net (Loss) Income to Net Cash provided by Operating Activities:
+Depreciation
+and Amortization
+81
+72
+Stock
+Compensation Expense
+35
+57
+Deferred
+Tax
+( 59 )
+( 14 )
+Accounts
+Receivable
+1,303
+1,173
+Inventory
+( 1,586 )
+( 335 )
+Contract Asset
+( 336 )
+-
+Prepaid
+Expenses
+79
+11
+Leases
+8
+55
+Accounts
+Payable and Accrued Expenses
+745
+457
+Accrued
+Warranty Costs
+60
+44
+Accrued
+Selling Expense
+336
+-
+Customer
+Advance Deposits
+15
+-
+Accrued
+Contract Losses
+( 7 )
+Total
+Adjustments
+674
+1,520
+Net
+Cash provided by Operating Activities
+451
+1,549
+Cash
+Flows used in Investing Activities
+Purchases
+of Property and Equipment
+( 90 )
+( 90 )
+Net
+Cash used in Investing Activities
+( 90 )
+( 90 )
+Cash
+Flows used in Financing Activities
+Cash
+Paid for Taxes Withheld on Net Settled Restricted Stock Unit Shares Issued
+( 15 )
+-
+Common
+Stock Repurchase
+-
+( 74 )
+Net
+Cash used in Financing Activities
+( 15 )
+( 74 )
+Net
+Increase in Cash and Cash Equivalents
+346
+1,385
+Cash
+and Cash Equivalents at Beginning of Period
+934
+3,900
+Cash
+and Cash Equivalents at End of Period
+$ 1,280
+$ 5,285
+The
+accompanying notes are an integral part of these condensed consolidated financial statements
+F- 4
+Optex
+Systems Holdings, Inc.
+Condensed
+Consolidated Statement of Stockholders’ Equity
+(Unaudited)
+(Thousands,
+except share data)
+Three
+months ended January 1, 2023
+Common
+Additional
+Total
+Shares
+Treasury
+Common
+Treasury
+Paid
+in
+Retained
+Stockholders
+Issued
+Shares
+Stock
+Stock
+Capital
+Earnings
+Equity
+Balance
+at October 2, 2022
+6,716,638
+-
+$       7
+$       -
+$ 21,096
+$ ( 8,695 )
+$ 12,408
+Stock
+Compensation Expense
+-
+-
+-
+-
+35
+-
+35
+Vested
+Restricted Stock Units, net of withheld taxes
+46,432
+-
+-
+-
+( 15 )
+-
+( 15 )
+Net
+loss
+-
+-
+-
+-
+-
+( 223 )
+( 223 )
+Balance
+at January 1, 2023
+6,763,070
+-
+$ 7
+$ -
+$ 21,116
+$ ( 8,918 )
+$ 12,205
+Three
+months ended January 2, 2022
+Common
+Additional
+Total
+Shares
+Treasury
+Common
+Treasury
+Paid
+in
+Retained
+Stockholders
+Issued
+Shares
+Stock
+Stock
+Capital
+Earnings
+Equity
+Balance
+at October 3, 2021
+8,523,704
+35,555
+$ 9
+$ ( 69 )
+$ 25,752
+$ ( 9,978 )
+$ 15,714
+Stock
+Compensation Expense
+-
+-
+-
+-
+57
+-
+57
+Common
+Stock Repurchase (1)
+-
+37,238
+-
+( 74 )
+-
+-
+( 74 )
+Vested
+Restricted Stock Units, net of withheld taxes
+23,216
+-
+-
+-
+-
+-
+-
+Net
+income
+-
+-
+-
+-
+-
+29
+29
+Net
+income (loss)
+-
+-
+-
+-
+-
+29
+29
+Balance
+at January 2, 2022
+8,546,920
+72,793
+$ 9
+$ ( 143 )
+$ 25,809
+$ ( 9,949 )
+$ 15,726
+Ending balance
+8,546,920
+72,793
+$ 9
+$ ( 143 )
+$ 25,809
+$ ( 9,949 )
+$ 15,726
+(1)
+Common
+shares repurchased in the open market during the three months ended January 2, 2022. The shares were held as treasury stock using
+the cost method and subsequently cancelled as of October 2, 2022.
+The
+accompanying notes are an integral part of these condensed consolidated financial statements
+F- 5
+Note
+1 -
+Organization and Operations
+Optex
+Systems Holdings, Inc. (the “Company”) manufactures optical sighting systems and assemblies for the U.S. Department of Defense,
+foreign military applications and commercial markets. Its products are installed on a variety of U.S. military land vehicles, such as
+the Abrams and Bradley fighting vehicles, light armored and advanced security vehicles, and have been selected for installation on the
+Stryker family of vehicles. The Company also manufactures and delivers numerous periscope configurations, rifle and surveillance sights
+and night vision optical assemblies. Optex Systems Holdings’ products consist primarily of build to customer print products that
+are delivered both directly to the military and to other defense prime contractors or commercial customers. The Company’s consolidated
+revenues for the three months ended January 1, 2023 were derived from the U.S. government ( 22 %), one major U.S. defense contractor ( 14 %),
+one major commercial customer ( 37 %), and all other customers ( 27 %). Approximately
+95 % of the total company revenue is generated from
+domestic customers and
+5 % is derived from foreign customers, primarily in Canada. Optex Systems Holdings’ operations are based
+in Dallas and Richardson, Texas in leased facilities comprising
+93,967
+square feet. As of January 1, 2023, Optex Systems Holdings operated
+with
+92
+full-time equivalent employees.
+Note
+2 -
+Accounting Policies
+Basis
+of Presentation
+Principles
+of Consolidation:
+The condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiary,
+Optex Systems, Inc. All significant inter-company balances and transactions have been eliminated in consolidation.
+The
+condensed consolidated financial statements of Optex Systems Holdings included herein have been prepared by Optex Systems Holdings, without
+audit, pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”). Certain information and footnote
+disclosures normally included in financial statements prepared in conjunction with generally accepted accounting principles have been
+condensed or omitted pursuant to such rules and regulations, although the Company believes that the disclosures are adequate to make
+the information presented not misleading.
+These
+condensed consolidated financial statements should be read in conjunction with the annual audited consolidated financial statements and
+the notes thereto included in the Optex Systems Holdings’ Form 10-K for the year ended October 2, 2022 and other reports filed
+with the SEC.
+The
+accompanying unaudited interim condensed consolidated financial statements reflect all adjustments of a normal and recurring nature which
+are, in the opinion of management, necessary to present fairly the financial position, results of operations and cash flows of Optex
+Systems Holdings for the interim periods presented. The results of operations for these periods are not necessarily comparable to, or
+indicative of, results of any other interim period or for the fiscal year taken as a whole. Certain information that is not required
+for interim financial reporting purposes has been omitted.
+Inventory :
+As of January 1, 2023, and October 2, 2022, inventory included:
+Schedule of Inventory
+January
+1, 2023
+October
+2, 2022
+(Thousands)
+January
+1, 2023
+October
+2, 2022
+Raw
+Materials
+$ 6,240
+$ 6,953
+Work
+in Process
+4,822
+2,722
+Finished
+Goods
+547
+348
+Gross
+Inventory
+$ 11,609
+$ 10,023
+Less:
+Inventory Reserves
+( 811 )
+( 811 )
+Net
+Inventory
+$ 10,798
+$ 9,212
+Concentration
+of Credit Risk :
+Optex Systems Holdings’ accounts receivables as of January 1, 2023 consist of U.S. government agencies
+( 30 %), three major U.S. defense contractors ( 12 %,
+12 % and
+7 %, respectively), one major commercial customer ( 32 %) and all other customers
+( 7 %). The Company does not believe that this concentration results in undue credit risk because of the financial strength of the customers
+and the Company’s long history with these customers.
+F- 6
+Accrued
+Warranties :
+Optex Systems Holdings accrues product warranty liabilities based on the historical return rate against period shipments
+as they occur and reviews and adjusts these accruals quarterly for any significant changes in estimated costs or return rates. The accrued
+warranty liability includes estimated costs to repair or replace returned warranty backlog units currently in-house plus estimated costs
+for future warranty returns that may be incurred against warranty covered products previously shipped as of the period end date. As of
+January 1, 2023, and October 2, 2022, the Company had warranty reserve balances of $ 229
+thousand and $ 169
+thousand, respectively.
+Schedule of Warranty Reserves
+Three
+months ended
+January
+1, 2023
+January
+2, 2022
+Beginning
+balance
+$ 169
+$ 78
+Incurred
+costs for warranties satisfied during the period
+-
+( 2 )
+Warranty
+expenses for new product shipped during the period (1)
+60
+46
+Ending
+balance
+$ 229
+$ 122
+(1)
+Warranty
+expenses accrued to cost of sales (based on current period shipments and historical warranty return rate).
+Use
+of Estimates :
+The preparation of financial statements in conformity with accounting principles generally accepted in the United
+States of America requires management to make estimates and assumptions that affect reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statement and the reported amounts of revenues and expenses during
+the reporting period. Actual results could differ from the estimates.
+Fair
+Value of Financial Instruments :
+Fair value estimates discussed herein are based upon certain market assumptions and pertinent
+information available to management as of the financial statement presentation date.
+The
+carrying value of cash and cash equivalents, accounts receivable, accounts payable and accrued liabilities, are carried at, or approximate,
+fair value as of the reporting date because of their short-term nature. The credit facility is reported at fair value as it bears market
+rates of interest.
+The
+fair value hierarchy prioritizes the inputs to valuation techniques used to measure fair value and requires that assets and liabilities
+carried at fair value be classified and disclosed in one of the following three categories:
+Level
+1: Quoted market prices in active markets for identical assets or liabilities.
+Level
+2: Observable market-based inputs or unobservable inputs that are corroborated by market data.
+Level
+3: Unobservable inputs reflecting the reporting entity’s own assumptions.
+The
+accounting guidance establishes a hierarchy which requires an entity to maximize the use of quoted market prices and minimize the use
+of unobservable inputs. An asset or liability’s level is based on the lowest level of input that is significant to the fair value
+measurement. Fair value estimates are reviewed at the origination date and again at each applicable measurement date and interim or annual
+financial reporting dates, as applicable for the financial instrument, and are based upon certain market assumptions and pertinent information
+available to management at those times.
+F- 7
+Revenue
+Recognition :
+The majority of the Company’s contracts and customer orders originate with fixed determinable unit prices
+for each deliverable quantity of goods defined by the customer order line item (performance obligation) and include the specific due
+date for the transfer of control and title of each of those deliverables to the customer at pre-established payment terms, which are
+generally within thirty to sixty days from the transfer of title and control. We have elected to account for shipping and handling costs
+as fulfillment costs after the customer obtains control of the goods. In addition, the Company has one ongoing service contract which
+relates to optimized weapon system support (OWSS) and includes ongoing program maintenance, repairs and spare inventory support for the
+customer’s existing fleet units in service during the duration of the contract. Revenue recognition for this program has been recorded
+by the Company, and compensated by the customer, at fixed monthly increments over time, consistent with the defined contract maintenance
+period. During the three months ended January 1, 2023 and January 2, 2022, there was $ 112
+thousand and $ 120
+thousand in service contract
+revenue recognized over time.
+During
+the three-month periods ended January 1, 2023 and January 2, 2022, there was $ 29
+thousand and
+zero
+of revenue recognized, respectively,
+from customer deposit liabilities (deferred contract revenue). As of January 1, 2023, there were $ 326
+thousand in customer deposit liabilities.
+For
+the three months ended January 1, 2023, there were $ 336
+thousand in accrued selling expenses and $ 336
+thousand in contract assets
+related to a new $ 3.4
+million contract booked in November 2022. The costs will be amortized against the revenue for the contract deliveries
+expected to begin in April 2023 and extend through the following 10-15 months into fiscal year 2024.
+Contract
+Loss Reserves :
+The Company records loss provisions in the event that the current estimated total revenue against a
+contract and the total estimated cost remaining to fulfill the contract indicate a loss upon completion. When the estimated costs
+indicate a loss, we record the entire value of the loss against the contract loss reserve in the period the determination is made.
+The Company has several long-term fixed price contracts that are currently indicative of a loss condition due to recent inflationary
+pressures on material and labor, combined with increased manufacturing overhead costs. Some of these long-term contracts have option
+year ordering periods ending in February 2025 with deliveries that may extend into February 2026. As of the three months ended
+January 1, 2023 and October 2, 2022, the accrued contract loss reserves were $ 282
+thousand
+and $ 289
+thousand, respectively.
+During the three months ended January 1, 2023, the Company recognized additional expenses for contract loss reserves of $ 51
+thousand on new task awards against the long-term fixed contracts and applied $ 58
+thousand of the reserves against revenues booked during the period.
+Income
+Tax/Deferred Tax :
+As of January 1, 2023 and October 2, 2022, Optex Systems, Inc. has a deferred tax asset valuation allowance
+of ($ 0.8 ) million against deferred tax assets of $ 1.8
+million. The valuation allowance has been established due to historical losses
+resulting in a Net Operating Loss Carryforward for each of the fiscal years 2011 through 2016 which may not be fully recognized due to
+an IRS Section 382 limitation related to a change in control. During the three months ended January 1, 2023, our deferred tax assets
+increased by $ 59
+thousand related to temporary tax adjustments.
+Earnings
+per Share :
+Basic earnings per share is computed by dividing income available for common shareholders (the numerator) by the weighted
+average number of common shares outstanding (the denominator) for the period. Diluted earnings per share reflect the potential dilution
+that could occur if securities or other contracts to issue common stock were exercised or converted into common stock.
+The
+Company has potentially dilutive securities outstanding which include unvested restricted stock units and stock options. The Company
+uses the Treasury Stock Method to compute the dilutive effect of any dilutive shares. Unvested restricted stock units and stock options
+that are anti-dilutive are excluded from the calculation of diluted earnings per common share.
+For
+the three months ended January 1, 2023,
+120,000
+unvested shares of restricted stock (which convert to an aggregate of
+36,045
+incremental
+shares) were excluded from the diluted earnings per share calculation as antidilutive due to the net loss for the period. For the three
+months ended January 2, 2022,
+66,000
+unvested restricted stock units and
+180,000
+shares of unvested restricted stock (which convert to
+an aggregate of
+52,861
+incremental shares) were included in the diluted earnings per share calculation.
+F- 8
+Note
+3 -
+Segment Reporting
+The
+Company’s reportable segments are strategic businesses offering similar products to similar markets and customers; however, the
+companies are operated and managed separately due to differences in manufacturing technology, equipment, geographic location, and specific
+product mix. Applied Optics Center was acquired as a unit, and the management at the time of the acquisition was retained. Both the Applied
+Optics Center and Optex Systems – Richardson operate as reportable segments under the Optex Systems, Inc. corporate umbrella.
+The
+Applied Optics Center segment also serves as the key supplier of laser coated filters used in the production of periscope assemblies
+for the Optex Systems-Richardson (“Optex Systems”) segment. Intersegment sales and transfers are accounted for at annually
+agreed to pricing rates based on estimated segment product cost, which includes segment direct manufacturing and general and administrative
+costs, but exclude profits that would apply to third party external customers.
+Optex
+Systems (OPX) – Richardson, Texas
+Optex
+Systems revenues are primarily in support of prime and subcontracted military customers. Approximately
+86 %
+of the Optex Systems segment revenue is comprised of domestic military customers,
+12 %
+is comprised of foreign military customers and
+2 %
+is comprised of commercial customers. Optex Systems segment revenue is derived from the U.S. government, representing
+19 %,
+and one major U.S. defense contractor representing
+14 %
+of the Company’s consolidated revenue.
+Optex
+Systems is located in Richardson Texas, with leased premises consisting of approximately
+49,100
+square feet. As of January 1, 2023, the
+Richardson facility operated with
+50
+full time equivalent employees in a single shift operation. Optex Systems, Richardson serves as
+the home office for both the Optex Systems and Applied Optics Center segments.
+Applied
+Optics Center (AOC) – Dallas, Texas
+The
+Applied Optics Center serves primarily domestic U.S. customers. Sales to commercial customers represent
+65 % and military sales to prime
+and subcontracted customers represent
+35 % of the total segment revenue. Approximately
+95 % of the AOC revenue is derived from external
+customers and approximately
+5 % is related to intersegment sales to Optex Systems in support of military contracts. For the three months
+ended January 1, 2023, the AOC segment revenue from one major commercial customer represents approximately
+37 % of the Company’s
+consolidated revenue.
+The
+Applied Optics Center is located in Dallas, Texas with leased premises consisting of approximately
+44,867
+square feet of space. As of
+January 1, 2023, AOC operated with
+42
+full time equivalent employees in a single shift operation.
+The
+financial tables below present information on the reportable segments’ profit or loss for each period, as well as segment assets
+as of each period end. The Company does not allocate interest expense, income taxes or unusual items to segments.
+Schedule of Segment Reporting Information
+F- 9
+Reportable
+Segment Financial Information
+(thousands)
+As
+of and for the three months ended January 1, 2023
+Optex
+Systems
+Richardson
+Applied
+Optics Center
+Dallas
+Other
+(non-allocated costs and intersegment eliminations)
+Consolidated
+Total
+Revenues
+from external customers
+$ 1,619
+$ 2,421
+$ -
+$ 4,040
+Intersegment
+revenues
+-
+116
+( 116 )
+-
+Total
+Revenue
+$ 1,619
+$ 2,537
+$ ( 116 )
+$ 4,040
+Depreciation
+and Amortization
+$ 11
+$ 70
+$ -
+$ 81
+(Loss) income before taxes
+$ ( 424 )
+$ 177
+$ ( 35 )
+$ ( 282 )
+Other
+significant noncash items:
+Allocated
+home office expense
+$ ( 280 )
+$ 280
+$ -
+$ -
+Stock
+compensation expense
+$ -
+$ -
+$ 35
+$ 35
+Warranty
+expense
+$ -
+$ 60
+$ -
+$ 60
+Segment
+Assets
+$ 11,745
+$ 7,628
+$ -
+$ 19,373
+Expenditures
+for segment assets
+$ 23
+$ 67
+$ -
+$ 90
+Reportable
+Segment Financial Information
+(thousands)
+As
+of and for the three months ended January 2, 2022
+Optex
+Systems
+Richardson
+Applied
+Optics Center
+Dallas
+Other
+(non-allocated costs and intersegment eliminations)
+Consolidated
+Total
+Revenues
+from external customers
+$ 1,857
+$ 2,483
+$ -
+$ 4,340
+Intersegment
+revenues
+-
+180
+( 180 )
+-
+Total
+Revenue
+$ 1,857
+$ 2,663
+$ ( 180 )
+$ 4,340
+Depreciation
+and Amortization
+$ 10
+$ 62
+$ -
+$ 72
+Income
+(loss) before taxes
+$ ( 216 )
+$ 288
+$ ( 57 )
+$ 15
+Other
+significant noncash items:
+Allocated
+home office expense
+$ ( 236 )
+$ 236
+$ -
+$ -
+Stock
+compensation expense
+$ -
+$ -
+$ 57
+$ 57
+Warranty
+expense
+$ -
+$ 46
+$ -
+$ 46
+Segment
+Assets
+$ 14,267
+$ 7,088
+$ -
+$ 21,355
+Expenditures
+for segment assets
+$ 25
+$ 65
+$ -
+$ 90
+F- 10
+Note
+4 -
+Commitments and Contingencies
+Non-cancellable
+Operating Leases
+Optex
+Systems Holdings leases its office and manufacturing facilities for the Optex Systems, Inc. Richardson location and the Applied Optics
+Center Dallas location. The Company also leases certain office equipment under non-cancellable operating leases.
+The
+leased facility under Optex Systems Inc. located at 1420 Presidential Drive, Richardson, Texas consists of
+49,100
+square feet of space
+at the premises. The previous lease term for this location expired
+March 31, 2021
+and
+the monthly base rent was $24.6 thousand through
+March 31, 2021. On January 11, 2021 the Company executed a sixth amendment extending the terms of the lease for eighty-six (86) months,
+commencing on April 1, 2021 and ending on May 31, 2028. The initial base rent is set at $25.3 thousand and escalates 3% on April 1 each
+year thereafter . The initial term included 2 months of rent abatement for April and May of 2021. The monthly rent includes approximately
+$ 11.9
+thousand for additional Common Area Maintenance fees and taxes (“CAM”), to be adjusted annually based on actual expenses
+incurred by the landlord.
+The
+leased facility under the Applied Optics Center located at 9839 and 9827 Chartwell Drive, Dallas, Texas, consists of
+44,867
+square feet
+of space at the premises. The previous lease term for this location expired on
+October 31, 2021
+and
+the monthly base rent was $21.9 thousand
+through the end of the lease. On January 11, 2021 the Company executed a first amendment extending the terms of the lease for eighty-six
+(86) months, commencing on November 1, 2021 and ending on December 31, 2028. The initial base rent is set at $23.6 thousand as of January
+1, 2022 and escalates 2.75% on January 1 each year thereafter. The initial term included 2 months of rent abatement for November and
+December of 2021. The amendment provides for a five-year renewal option at the end of the lease term at the greater of the then “prevailing
+rental rate” or the then current base rental rate. Our obligations to make payments under the lease are secured by a $ 125,000
+standby
+letter of credit . The monthly rent includes approximately $ 8.6
+thousand for additional CAM, to be adjusted annually based on actual expenses
+incurred by the landlord.
+The
+Company had one non-cancellable office equipment lease with a commencement date of October 1, 2018 and a term of
+39
+months. The lease
+cost for the equipment was $1.5 thousand per month from October 1, 2018 through December 31, 2021. The lease was renewed on November
+18, 2021 for an additional 48 months at a cost of $1.2 thousand per month. The start of the lease was delayed until April 2022 due to
+temporary equipment shortages. The lease renewal resulted in the recognition of an additional right of use asset and a lease liability
+of $51 thousand, respectively during the twelve months ended October 2, 2022 .
+As
+of January 1, 2023, the remaining minimum lease and estimated CAM payments under the non-cancelable facility space leases are as follows:
+Schedule
+of Non-cancellable Operating Leases Minimum Payments
+Non-cancellable
+Operating Leases Minimum Payments
+Fiscal
+Year
+Facility
+Lease
+Payments
+Facility
+Lease
+Payments
+Lease
+Payments
+Total
+Lease
+Payments
+Total
+Variable
+CAM Estimate
+(Thousands)
+Optex
+Richardson
+Applied
+Optics
+Center
+Office
+Equipment
+Consolidated
+Fiscal
+Year
+Facility
+Lease
+Payments
+Facility
+Lease
+Payments
+Lease
+Payments
+Total
+Lease
+Payments
+Total
+Variable
+CAM Estimate
+2023
+Base year lease
+$ 239
+$ 218
+$ 11
+$ 468
+$ 188
+2024
+Base year lease
+327
+296
+15
+638
+256
+2025
+Base year lease
+336
+305
+15
+656
+261
+2026
+Base year lease
+346
+313
+3
+662
+266
+2027
+Base year lease
+357
+322
+-
+679
+272
+2028
+Base year lease
+242
+330
+-
+572
+198
+2029
+Base year lease
+-
+83
+-
+83
+30
+Total
+base lease payments
+$ 1,847
+$ 1,867
+$ 44
+$ 3,758
+$ 1,471
+Imputed
+interest on lease payments
+(1)
+( 238 )
+( 263 )
+( 3 )
+( 504 )
+Total
+Operating Lease Liability (3)
+$ 1,609
+$ 1,604
+$ 41
+$ 3,254
+Right-of-use
+Asset (2)
+$ 1,527
+$ 1,536
+$ 41
+$ 3,104
+(1)
+Assumes
+a discount borrowing rate of
+5.0 % on the new lease amendments effective as of
+January 11, 2021 .
+(2)
+Includes
+$ 150
+thousand of unamortized deferred rent.
+(3)
+Short-term
+and Long-term portion of Operating Lease Liability is $ 608
+thousand and $ 2,646
+thousand, respectively.
+Total
+facilities rental and CAM expense for both facility lease agreements as of the three months ended January 1, 2023 and January 2, 2022
+was $ 214
+thousand and $ 209
+thousand, respectively.
+Total
+office equipment rentals included in operating expenses was $ 5
+and $ 4
+thousand for the three months ended January 1, 2023 and January
+2, 2022, respectively.
+F- 11
+Note
+5 -
+Debt Financing
+Credit
+Facility — PNC Bank (formerly BBVA, USA)
+On
+April 16, 2020, the Company terminated its facility with Avidbank and entered into a new facility with BBVA USA.
+On
+April 16, 2020, Optex Systems Holdings, Inc. and its subsidiary, Optex Systems, Inc. (collectively, the “Borrower”) entered
+into a line of credit facility (the “Facility”) with BBVA, USA. In June 2021, PNC Bank completed its acquisition of BBVA,
+USA and the bank name changed to PNC Bank (“PNC”). The substantive terms are as follows:
+●
+The
+principal amount of the Facility was $ 2.25
+million. The Facility matured on
+April 15, 2022 . The interest rate was variable based
+on PNC’s Prime Rate plus a margin of
+- 0.250 %, initially set at
+3 % at loan origination, and all accrued and unpaid interest
+was payable monthly in arrears starting on May 15, 2020; and the principal amount was due in full with all accrued and unpaid interest
+and any other fees on April 15, 2022.
+●
+There
+were commercially standard covenants including, but not limited to, covenants regarding maintenance of corporate existence, not incurring
+other indebtedness except trade debt, not changing more than 25% stock ownership of Borrower, and a Fixed Charge Coverage Ratio of
+1.25:1, with the Fixed Charge Coverage Ratio defined as (earnings before taxes, amortization, depreciation, amortization and rent
+expense less cash taxes, distribution, dividends and fair value of warrants) divided by (current maturities on long term debt plus
+interest expense plus rent expense).
+●
+The
+Facility contained commercially standard events of default including, but not limited to, not making payments when due; incurring
+a judgment of $ 10,000
+or more not covered by insurance; not maintaining collateral and the like.
+●
+The
+Facility was secured by a first lien on all of the assets of Borrower.
+On
+April 12, 2022, the Company and its subsidiary, Optex Systems, Inc. (collectively with the Company, the “Borrowers”),
+entered into an Amended and Restated Loan Agreement (the “Loan Agreement”) with PNC Bank, National Association,
+successor to BBVA USA (the “Lender”), pursuant to which the Borrowers’ existing revolving line of credit facility
+was decreased from $ 2.25
+million to $ 1.125
+million, and
+the
+maturity date was extended from April 15, 2022 to April 15, 2023 . The Company intends to replace or renew the Loan Agreement by April 15, 2023.
+F- 12
+The
+Loan Agreement requires the Borrowers to maintain a fixed charge coverage ratio of at least 1.25:1 .
+On
+November 21, 2022, the Borrowers issued an Amended and Restated Revolving Line of Credit Note (the “Line of Credit Note”)
+to the Lender in connection with an increase of the Borrowers’ revolving line of credit facility under the Loan Agreement from
+$ 1.125
+million to $ 2.0
+million.
+The maturity date remains April 15, 2023 . Obligations outstanding under the credit facility will accrue
+interest at a rate equal to the Lender’s prime rate minus
+0.25 %.
+The
+Line of Credit Note and Loan Agreement contain customary events of default and negative covenants, including but not limited to those
+governing indebtedness, liens, fundamental changes, investments, and restricted payments. The credit facility is secured by substantially
+all of the operating assets of the Borrowers as collateral. The Borrowers’ obligations under the credit facility are subject to
+acceleration upon the occurrence of an event of default as defined in the Line of Credit Note and Loan Agreement.
+The
+outstanding balance on the facility was
+zero
+as of January 1, 2023 and October 2, 2022. For the three months ended January 1, 2023 and
+January 2, 2022, the total interest expense against the outstanding line of credit balance was
+zero .
+Note
+6- Stock Based Compensation
+Stock
+Options issued to Employees, Officers and Directors
+The
+Optex Systems Holdings 2009 Stock Option Plan provides for the issuance of up to
+75,000
+shares to the Company’s officers, directors,
+employees and to independent contractors who provide services to Optex Systems Holdings as either incentive or non-statutory stock options
+determined at the time of grant. There were no new grants of stock options during the three months ended January 1, 2023. As of January
+1, 2023, there are
+zero
+stock options outstanding.
+Restricted
+Stock and Restricted Stock Units issued to Officers and Employees
+The
+following table summarizes the status of Optex Systems Holdings’ aggregate non-vested restricted stock and restricted stock units,
+with the latter granted under the Company’s 2016 Restricted Stock Unit Plan:
+Schedule
+of Aggregate Non-vested Restricted Stock and Restricted Stock Units Granted
+Restricted
+Stock Units
+Weighted
+Average Grant Date Fair Value
+Restricted
+Shares
+Weighted
+Average Grant Date Fair Value
+Outstanding
+at October 3, 2021
+99,000
+$ 1.59
+240,000
+$ 1.75
+Granted
+-
+-
+-
+-
+Vested
+( 33,000 )
+$ 1.73
+( 60,000 )
+$ 1.75
+Forfeited
+-
+-
+-
+-
+Outstanding
+at October 2, 2022
+66,000
+$ 1.52
+180,000
+$ 1.75
+Granted
+-
+-
+-
+-
+Vested
+( 66,000 )
+$ 1.52
+( 60,000 )
+$ 1.75
+Forfeited
+-
+-
+-
+-
+Outstanding
+at January 1, 2023
+-
+$ -
+120,000
+$ 1.75
+On
+January 2, 2019, the Company granted
+150,000
+and
+50,000
+restricted stock units with a January 2, 2019 grant date to Danny Schoening and
+Karen Hawkins, respectively, vesting as of January 1 each year subsequent to the grant date over a three-year period at a rate of
+34 %
+in year one, and
+33 % each year thereafter. The stock price at grant date was $ 1.32
+per share. Effective December 1, 2021, the vesting
+terms of Danny Schoening’s Restricted Stock Unit (RSU) grant from January 2019 were revised as described below. The Company amortizes
+the grant date fair value of $ 264
+thousand to stock compensation expense on a straight-line basis across the three-year vesting period
+beginning on January 2, 2019. As of January 1, 2023, there was no unrecognized compensation cost relating to this award.
+F- 13
+The
+Company entered into an amended and restated employment agreement with Danny Schoening dated December 1, 2021.
+The updated employment
+agreement also served to amend Mr. Schoening’s RSU Agreement, dated January 2, 2019, by changing the third and final vesting date
+for the restricted stock units granted under such agreement from January 1, 2022 to the “change of control date,” that being
+the first of the following to occur with respect to the Company: (i) any “Person,” as that term is defined in Sections 13(d)
+and 14(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), with certain exclusions, is or becomes
+the “Beneficial Owner” (as that term is defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities
+of the Company representing fifty percent (50%) or more of the combined voting power of the Company’s then outstanding securities;
+or (ii) the Company is merged or consolidated with any other corporation or other entity, other than: (A) a merger or consolidation which
+would result in the voting securities of the Company outstanding immediately prior thereto continuing to represent (either by remaining
+outstanding or by being converted into voting securities of the surviving entity) more than fifty percent (50%) of the combined voting
+power of the voting securities of the Company or such surviving entity outstanding immediately after such merger or consolidation; or
+(B) the Company engages in a merger or consolidation effected to implement a recapitalization of the Company (or similar transaction)
+in which no “Person” (as defined above) acquires fifty percent (50%) or more of the combined voting power of the Company’s
+then outstanding securities. The amended RSU Agreement contains certain exceptions to the definition of change of control .
+As
+of the December 1, 2021 modification date related to the third and final vesting date of the
+49,500
+unvested restricted stock units held
+by Danny Schoening, there was no change in the fair value of the modified award as compared to the original award immediately prior to
+the modification date. The restricted stock units initially were certain to vest on January 1, 2022, but due to the modification, they
+were less certain to vest, contingent on a “change in control” occurring, which change in control, in case Mr. Schoening
+is terminated by the Company without cause or he resigns with good reason prior to such change in control, was required to occur prior
+to March 13, 2023. As of the modification date, there was $ 5
+thousand of unrecognized compensation cost associated with the original
+award. As a matter of expediency, the unrecognized compensation expense as of the modification date was fully expensed through January
+1, 2022. There is no additional compensation expense associated with the modification of the restricted stock unit agreement.
+On
+November 28, 2022, the Company entered into a new employment agreement with Danny Schoening which amended Mr. Schoening’s RSU Agreement,
+dated January 2, 2019, which had been previously amended as of December 1, 2021, by changing the third and final vesting date for the
+restricted stock units granted under such agreement from the “change of control date” to January 1, 2023.
+On
+February 17, 2020, the Company granted
+50,000
+restricted stock units to Bill Bates, General Manager of the Applied Optics Center. The
+restricted stock units vest as of January 1 each year subsequent to the grant date over a
+three-year
+period at a rate of
+34 % in year
+one, and
+33 % each year thereafter. The stock price at grant date was $ 2.13
+per share. The Company will amortize the grant date fair value
+of $ 107
+thousand to stock compensation expense on a straight-line basis across the three-year vesting period beginning on February 17,
+2020.
+On
+April 30, 2020, the Optex Systems Holdings, Inc. Board of Directors held a meeting and voted to increase the annual board compensation
+for the three independent directors from $ 22,000
+to $ 36,000
+with
+an effective date of January 1, 2020, in addition to granting 100,000
+restricted shares to each independent director which shall vest at a rate of 20% per year (20,000 shares) each January 1 st ,
+over the next five years, through January 1, 2025 . The total market value for the
+300,000
+shares is $ 525
+thousand based on the stock
+price of $ 1.75
+as of April 30, 2020. The Company amortizes the grant date fair value to stock compensation expense on a straight-line
+basis across the
+five-year
+vesting period beginning on April 30, 2020. On each of January 1, 2021, January 1, 2022, and January 1, 2023,
+60,000
+of the restricted director shares vested. As of January 1, 2023, there were
+120,000
+unvested restricted shares.
+On
+January 4, 2022, the Company issued
+23,216
+common shares to Karen Hawkins, CFO and Bill Bates (AOC GM), net of tax withholding of $ 19
+thousand, in
+settlement of
+33,000
+restricted stock units which vested on January 1, 2022.
+On
+January 4, 2023, the Company issued
+46,432
+common shares to Danny Schoening, CEO, and Bill Bates (AOC GM), net of tax withholding of $ 15
+thousand, in
+settlement of
+66,000
+restricted stock units which vested on January 1, 2023. As of January 1, 2023, there are
+zero
+unvested restricted
+stock units outstanding.
+F- 14
+Stock
+Based Compensation Expense
+Equity
+compensation is amortized based on a straight-line basis across the vesting or service period as applicable. The recorded compensation
+costs for options and shares granted and restricted stock units awarded as well as the unrecognized compensation costs are summarized
+in the table below:
+Schedule of Unrecognized Compensation Costs
+Stock
+Compensation
+(thousands)
+Recognized
+Compensation Expense
+Unrecognized
+Compensation Expense
+Three
+months ended
+As
+of
+January
+1, 2023
+January
+2, 2022
+January
+1, 2023
+October
+2, 2022
+Restricted
+Shares
+$ 26
+$ 26
+$ 210
+$ 236
+Restricted
+Stock Units
+9
+31
+-
+9
+Total
+Stock Compensation
+$ 35
+$ 57
+$ 210
+$ 245
+Note
+7 -
+Stockholders’ Equity
+Dividends
+As
+of the three months ended January 1, 2023 and the twelve months ended October 2, 2022, there were
+no
+declared or outstanding dividends
+payable.
+Common
+stock
+On
+June 8, 2020 the Company announced authorization for a $ 1
+million stock repurchase program. As of September 27, 2020 there were
+105,733
+shares held in treasury purchased under the June 2020 stock repurchase program. The Company purchased a total of
+519,266
+common shares
+against the program through April 2021, which were subsequently cancelled in June 2021.
+On
+September 22, 2021 the Company announced authorization for an additional $ 1
+million stock repurchase program. The shares authorized to
+be repurchased under the repurchase program may be purchased from time to time at prevailing market prices, through open market transactions
+or in negotiated transactions, depending upon market conditions and subject to Rule 10b-18 as promulgated by the SEC.
+F- 15
+During
+the three months ended January 1, 2023, there were zero common shares repurchased under the program. All shares purchased have been
+cancelled. A summary of the purchases under the program follows:
+Summary of Purchases Under Plan
+Fiscal
+Period
+Total
+number
+of
+shares
+purchased
+Total
+purchase
+cost
+Average
+price
+paid
+per
+share
+(with
+commission)
+Maximum
+dollar
+value
+that
+may
+yet
+be
+purchased
+under
+the
+plan
+October
+4, 2021 through October 31, 2021
+18,265
+$ 37
+$ 2.01
+$ 894
+November
+1, 2021 through November 28, 2021
+4,415
+9
+2.04
+885
+November
+29, 2021 through January 2, 2022
+14,558
+28
+1.93
+857
+January
+3, 2022 through January 30, 2022
+15,585
+29
+1.89
+828
+January
+31, 2022 through February 27, 2022
+27,618
+49
+1.75
+779
+February
+28, 2022 through April 3, 2022
+35,530
+70
+1.98
+709
+April
+4, 2022 through May 1, 2022
+12,304
+27
+2.22
+682
+May
+2, 2022 through May 29, 2022
+10,482
+22
+2.11
+660
+May
+30, 2022 through July 3, 2022
+49,657
+95
+1.90
+565
+July
+4, 2022 through July 25,2022
+610
+1
+2.10
+564
+July
+26, 2022 through August 13, 2022
+1,930
+4
+2.09
+560
+Total
+shares repurchased for twelve months ended October 2, 2022
+190,954
+$ 371
+$ 1.94
+$ 560
+Furthermore,
+on August 18, 2022, the Company announced the commencement of a tender offer to purchase up to $ 4.25
+million in value of shares of its
+common stock. On September 15, 2022, the Company’s “modified Dutch auction” tender offer expired. In accordance with
+the terms and conditions of the tender offer, the Company accepted for purchase
+1,603,773
+shares of common stock at a price of $ 2.65
+per share, for an aggregate cost of approximately $ 4.25
+million, excluding fees and expenses relating to the tender offer. The transaction
+cost associated with the tender offer was $ 111
+thousand. The shares were immediately cancelled upon completion of the transaction.
+As
+of October 2, 2022, and January 1, 2023, the total issued and outstanding common shares were
+6,716,638
+and
+6,763,070 , respectively. As
+of October 2, 2022, and January 1, 2023 there were zero shares held in Treasury.
+Note
+8 -
+Subsequent Events
+None.
+F- 16
+ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to supplement and
+complement our audited consolidated financial statements and notes thereto for the fiscal year ended October 2, 2022 and our
+unaudited condensed consolidated financial statements and notes thereto for the quarter ended January 1, 2023, prepared in
+accordance with U.S. generally accepted accounting principles (GAAP). You are encouraged to review our condensed consolidated
+financial statements in conjunction with your review of this MD&A. The financial information in this MD&A has been prepared
+in accordance with GAAP, unless otherwise indicated. In addition, we use non-GAAP financial measures as supplemental indicators of
+our operating performance and financial position. We use these non-GAAP financial measures internally for comparing actual results
+from one period to another, as well as for planning purposes. We will also report non-GAAP financial results as supplemental
+information, as we believe their use provides more insight into our performance. When a non-GAAP measure is used in this MD&A,
+it is clearly identified as a non-GAAP measure and reconciled to the most closely corresponding GAAP measure.
+The
+following discussion highlights the principal factors that have affected our financial condition and results of operations as well as
+our liquidity and capital resources for the periods described. The operating results for the periods presented were not significantly
+affected by inflation.
+Cautionary
+Note Regarding Forward-Looking Information
+This
+Quarterly Report on Form 10-Q, in particular the MD&A, contains certain “forward-looking statements” within the meaning
+of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”). Any statements contained in this Quarterly Report on Form 10-Q that are not
+statements of historical fact may be deemed to be forward-looking statements. When used in this Quarterly Report on Form 10-Q and other
+reports, statements, and information we have filed with the Securities and Exchange Commission (“Commission” or “SEC”),
+in our press releases, presentations to securities analysts or investors, or in oral statements made by or with the approval of an executive
+officer, the words or phrases “believes,” “may,” “will,” “expects,” “should,”
+“continue,” “anticipates,” “intends,” “will likely result,” “estimates,”
+“projects” or similar expressions and variations thereof are intended to identify such forward-looking statements.
+These
+forward-looking statements represent our expectations, beliefs, intentions or strategies concerning future events, including, but
+not limited to, any statements regarding growth strategy; product and development programs; financial performance (including revenue
+and net income); backlog; expected timing of shipments; increases in the cost of materials and labor; labor shortages; follow-on
+orders; the impact of the COVID-19 pandemic; supply chain challenges; the continuation of historical trends; the sufficiency of our
+cash balances for future liquidity and capital resource needs; the expected impact of changes in accounting policies on our results
+of operations, financial condition or cash flows; anticipated problems and our plans for future operations; and the economy in
+general or the future of the defense industry.
+We
+caution that these statements by their nature involve risks and uncertainties, certain of which are beyond our control, and actual
+results may differ materially depending on a variety of important factors. Some of these risks and uncertainties are identified in
+this Management’s Discussion and Analysis of Financial Condition and Results of Operations and the section “Risk
+Factors” in our Annual Report on Form 10-K and you are urged to review those sections.
+You should understand that it is not possible to predict or identify all such factors. Consequently, you should not consider any
+such list to be a complete list of all potential risks or uncertainties.
+We
+do not assume the obligation to update any forward-looking statement. You should carefully evaluate such statements in light of factors
+described in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K.
+Background
+Optex
+Systems, Inc. (Delaware) manufactures optical sighting systems and assemblies, primarily for Department of Defense applications. Its
+products are installed on various types of U.S. military land vehicles, such as the Abrams and Bradley fighting vehicles, light armored
+and armored security vehicles and have been selected for installation on the Stryker family of vehicles. Optex Systems, Inc. (Delaware)
+also manufactures and delivers numerous periscope configurations, rifle and surveillance sights and night vision optical assemblies.
+Optex Systems, Inc. (Delaware) products consist primarily of build-to-customer print products that are delivered both directly to the
+armed services and to other defense prime contractors. Less than 1% of today’s revenue is related to the resale of products substantially
+manufactured by others. In this case, the product would likely be a simple replacement part of a larger system previously produced by
+Optex Systems, Inc. (Delaware).
+3
+We
+are both a prime and sub-prime contractor to the Department of Defense. Sub-prime contracts are typically issued through major defense
+contractors such as General Dynamics Land Systems, Raytheon Corp., BAE, ADS Inc. and others. We are also a military supplier to foreign
+governments such as Israel, Australia and South American countries and as a subcontractor for several large U.S. defense companies
+serving foreign governments.
+The Federal Acquisition Regulation is the principal set of regulations that govern the acquisition process of government
+agencies and contracts with the U.S. government. In general, parts of the Federal Acquisition Regulation are incorporated into government
+solicitations and contracts by reference as terms and conditions effecting contract awards and pricing solicitations .
+Many
+of our contracts are prime or subcontracted directly with the Federal government and, as such, are subject to Federal Acquisition Regulation
+Subpart 49.5, “Contract Termination Clauses” and more specifically Federal Acquisition Regulation clauses 52.249-2 “Termination
+for Convenience of the Government (Fixed-Price)”, and 49.504 “Termination of fixed-price contracts for default”. These
+clauses are standard clauses on our prime military contracts and generally apply to us as subcontractors. It has been our experience
+that the termination for convenience is rarely invoked, except where it is mutually beneficial for both parties. We are currently not
+aware of any pending terminations for convenience or for default on our existing contracts.
+In
+the event a termination for convenience were to occur, Federal Acquisition Regulation clause 52.249-2 provides for full recovery of all
+contractual costs and profits reasonably occurred up to and as a result of the terminated contract. In the event a termination for default
+were to occur, we could be liable for any excess cost incurred by the government to acquire supplies from another supplier similar to
+those terminated from us. We would not be liable for any excess costs if the failure to perform the contract arises from causes beyond
+the control and without the fault or negligence of the Company as defined by Federal Acquisition Regulation clause 52.249-8.
+In
+addition, some of our contracts allow for government contract financing in the form of contract progress payments pursuant to Federal
+Acquisition Regulation 52.232-16, “Progress Payments”. As a small business, and subject to certain limitations, this clause
+provides for government payment of up to 90% of incurred program costs prior to product delivery. To the extent our contracts allow for
+progress payments, we intend to utilize this benefit, thereby minimizing the working capital impact on Optex Systems Holdings for materials
+and labor required to complete the contracts.
+Recent
+Developments
+NASDAQ
+Listing Application
+On
+December 7, 2022 the Company submitted an application to list its common stock on the NASDAQ Capital Market. There are no assurances
+(1) that the Company will continue to meet the initial listing criteria throughout the pendency of the application (including with respect
+to its share price), (2) that NASDAQ will approve the application or (3) relating to the timing of any such approval. If and when listed
+on NASDAQ, there are no assurances that the Company will continue to meet NASDAQ’s continued listing requirements.
+Amended
+and Restated Employment Agreement for Danny Schoening
+On
+November 28, 2022, the Company entered into a new employment agreement with Danny Schoening. Pursuant to the agreement, which is dated
+as of December 1, 2022, Mr. Schoening will continue to serve as the Company’s President and Chief Executive Officer through November
+30, 2025. Mr. Schoening’s base salary initially is $304,912 per annum, and will be increased to $314,060 on December 1, 2023 and
+$323,481 on December 1, 2024. Mr. Schoening will be eligible for a performance bonus based on a one-year operating plan adopted by the
+Company’s Board of Directors (the “Board”). The bonus will be based on financial and/or operating metrics decided annually
+by the Board or the Compensation Committee and tied to such one-year plan. The target bonus will equate to 30% of Mr. Schoening’s
+base salary. The Board will have discretion in good faith to alter the performance bonus upward or downward by 20%.
+4
+The
+updated employment agreement also served to amend Mr. Schoening’s RSU Agreement, dated January 2, 2019, which had been previously
+amended as of December 1, 2021, by changing the third and final vesting date for the restricted stock units granted under such agreement
+from the “change of control date” to January 1, 2023.
+The
+employment agreement events of termination consist of: (i) death or permanent disability of Mr. Schoening; (ii) termination by the Company
+for cause (including conviction of a felony, commission of fraudulent, illegal or dishonest acts, certain willful misconduct or gross
+negligence by Mr. Schoening, continued failure to perform material duties or cure material breach after written notice, violation of
+securities laws and material breach of the employment agreement), (iii) termination by the Company without cause and (iv) termination
+by Mr. Schoening for good reason (including continued breach by the Company of its material obligations under the agreement after written
+notice, the requirement for Mr. Schoening to move more than 100 miles away for his employment without consent, and merger or consolidation
+that results in more than 66% of the combined voting power of the Company’s then outstanding securities or those of its successor
+changing ownership or a sale of all or substantially all of its assets, without the surviving entity assuming the obligations under the
+agreement). For a termination by the Company for cause or upon death or permanent disability of Mr. Schoening, Mr. Schoening will be
+paid accrued and unpaid salary and any bonus earned through the date of termination. For a termination by the Company without cause or
+by Mr. Schoening with good reason, Mr. Schoening will also be paid six months’ base salary in effect.
+New
+Loan Agreement
+On
+April 12, 2022, the Company and its subsidiary, Optex Systems, Inc. (collectively with the Company, the “Borrowers”), entered
+into an Amended and Restated Loan Agreement (the “Loan Agreement”) with PNC Bank, National Association, successor to BBVA
+USA (the “Lender”), pursuant to which the Borrowers’ existing revolving line of credit facility was decreased from
+$2.25 million to $1.125 million, and the maturity date was extended from April 15, 2022 to April 15, 2023.
+The
+Loan Agreement requires the Borrowers to maintain a fixed charge coverage ratio of at least 1.25:1.
+On
+November 21, 2022, the Borrowers issued an Amended and Restated Revolving Line of Credit Note (the “Line of Credit Note”)
+to the Lender in connection with an increase of the Borrowers’ revolving line of credit facility under the Loan Agreement from
+$1.125 million to $2.0 million. The maturity date remains April 15, 2023. Obligations outstanding under the credit facility will accrue
+interest at a rate equal to the Lender’s prime rate minus 0.25%.
+The
+Line of Credit Note and Loan Agreement contain customary events of default and negative covenants, including but not limited to those
+governing indebtedness, liens, fundamental changes, investments, and restricted payments. The credit facility is secured by substantially
+all of the operating assets of the Borrowers as collateral. The Borrowers’ obligations under the credit facility are subject to
+acceleration upon the occurrence of an event of default as defined in the Line of Credit Note and Loan Agreement.
+Election
+of New Director
+On
+October 19, 2022, the Board of Directors of the Company expanded the size of the Board from four to five members and elected Mr. Dayton
+Judd as a director, to hold office until the Company’s next annual meeting of shareholders and until his successor has been elected
+and qualified.
+5
+Material
+Trends
+Recent
+supply chain disruptions have strained our suppliers and extended supplier delivery lead times, affecting their ability to sustain operations.
+We anticipate market wide material shortages for paint and resin products as well as critical epoxies and chemicals used in our manufacturing
+process. In addition, we are seeing substantial increases in the costs of aluminum, steel and acrylic commodities, which has affected our net income in the first three months of fiscal year 2023 and is expected to continue to
+have a negative effect on our long-term fixed contracts over the next three years.
+We
+have experienced significant material shortages during the three months ended October 2, 2022 and extending into the first three
+months of fiscal year 2023 from two significant suppliers of our periscope covers and housings. These shortages affect several of
+our periscope products at the Optex Richardson segment. The delays in key components, combined with labor shortages during the first
+quarter of fiscal year 2023 have negatively impacted our production levels and have pushed the expected delivery dates into the
+second and third quarters of fiscal year 2023. We are aggressively seeking alternative sources for these components as well as
+increasing employee recruitment initiatives and overtime to attempt to mitigate any continuing risks to the periscope line. In
+addition, one of our major customers for the Applied Optics Center has requested a significant schedule delay pushing their laser
+filter unit delivery schedules from the first half into the second half of fiscal year 2023.
+In
+November 2022, we increased our line of credit to $2.0 million from $1.125 million to facilitate our working capital requirements due
+to the delays and increased backlog. As supplier issues and labor shortages abate, we anticipate increased revenue beginning in the second
+quarter and increased working capital during the second half of fiscal year 2023 with a recovery expected by fiscal year end
+2023. Based on our current backlog, we anticipate an overall increase for fiscal year 2023 revenues as compared to the 2022 levels.
+We
+refer also to “ Item 1. Business – Market Opportunity: U.S. Military ” in our annual report on Form 10-K for the
+year ended October 2, 2022 for a description of current trends in U.S. government military spending and its potential impact on Optex,
+which may be material, including particularly the tables included in that section and disclosure on the significant reduction in spending
+for U.S ground system military programs, which has a direct impact on the Optex Systems Richardson segment revenue, all of which is incorporated
+herein by reference.
+6
+Results of Operations
+Segment
+Information
+We
+have presented the operating results by segment to provide investors with an additional tool to evaluate our operating results and to
+have a better understanding of the overall performance of each business segment. Management of Optex Systems Holdings uses the selected
+financial measures by segment internally to evaluate its ongoing segment operations and to allocate resources within the organization
+accordingly. Segments are determined based on differences in products, location, internal reporting and how operational decisions are
+made. Management has determined that the Optex Systems, Richardson plant and the Applied Optics Center, Dallas plant are separately managed,
+organized, and internally reported as separate business segments. The table below provides a summary of selective statement of operations
+data by operating segment for the three months ended January 1, 2023 and January 2, 2022 reconciled to the Condensed Consolidated Results
+of Operations as presented in Item 1, “Condensed Consolidated Financial Statements.”
+Results
+of Operations Selective Financial Information
+(Thousands)
+Three
+months ended
+January
+1, 2023
+January
+2, 2022
+Optex
+Richardson
+Applied
+Optics Center Dallas
+Other
+(non-allocated costs and eliminations)
+Consolidated
+Optex
+Richardson
+Applied
+Optics Center Dallas
+Other
+(non-allocated costs and eliminations)
+Consolidated
+Revenue
+from External Customers
+$ 1,619
+$ 2,421
+$ -
+$ 4,040
+$ 1,857
+$ 2,483
+$ -
+$ 4,340
+Intersegment
+Revenues
+-
+116
+(116 )
+-
+-
+180
+(180 )
+-
+Total
+Segment Revenue
+1,619
+2,537
+(116 )
+4,040
+1,857
+2,663
+(180 )
+4,340
+Total
+Cost of Sales
+1,460
+1,979
+(116 )
+3,323
+1,667
+2,030
+(180 )
+3,517
+Gross
+Profit
+159
+558
+-
+717
+190
+633
+-
+823
+Gross
+Margin %
+9.8 %
+22.0 %
+-
+17.7 %
+10.2 %
+23.8 %
+-
+19.0 %
+General
+and Administrative Expense
+863
+101
+35
+999
+642
+109
+57
+808
+Segment
+Allocated G&A Expense
+(280 )
+280
+-
+-
+(236 )
+236
+-
+-
+Net
+General & Administrative Expense
+583
+381
+35
+999
+406
+345
+57
+808
+Operating
+(Loss) Income
+(424 )
+177
+(35 )
+(282 )
+(216 )
+288
+(57 )
+15
+Operating
+(Loss) Income %
+(26.2 )%
+7.0 %
+-
+(7.0 )%
+(11.6 )%
+10.8 %
+-
+0.3 %
+Net
+(Loss) Income before taxes
+$ (424 )
+$ 177
+$ (35 )
+$ (282 )
+$ 213
+$ (77 )
+$ 967
+$ 1,103
+Net
+(Loss) Income before taxes %
+(26.2 )%
+7.0 %
+-
+(7.0 )%
+(11.6 )%
+10.8 %
+-
+0.3 %
+7
+Our
+total revenues decreased by $300 thousand, or 6.9%, comparing the three months ended January 1, 2023 with the three months ended January
+2, 2022. The decrease in revenue was primarily driven by a $238 thousand decrease in external revenue at the Optex Richardson segment
+and a $62 thousand decrease in external revenue at the Applied Optics Center segment, respectively, over the prior year period .
+The
+decrease in revenue was due to supply chain issues, labor shortage and customer schedule delays across the segments.
+Consolidated
+gross profit for the three months ended January 1, 2023 decreased by $106 thousand, or 12.9%, compared to the prior year period. The
+decrease in profit was primarily attributable to a decrease in consolidated revenue across a relatively fixed overhead cost base, changes
+in revenue mix between the segments, and inflationary material and labor pressure against our long-term fixed price contracts.
+Our
+operating income for the three months ended January 1, 2023 decreased by $297 thousand to a loss of $282 thousand, as compared to the
+prior year period operating income of $15 thousand. The decrease in operating income was primarily driven by lower gross profit combined
+with an increase in general and administrative spending.
+Non-GAAP
+Adjusted EBITDA
+We
+use adjusted earnings before interest, taxes, depreciation and amortization (EBITDA) as an additional measure for evaluating the performance
+of our business as “net income” includes the significant impact of noncash valuation gains and losses on warrant liabilities,
+noncash compensation expenses related to equity stock issues, as well as depreciation, amortization, interest expenses and federal income
+taxes. We believe that Adjusted EBITDA is a meaningful indicator of our operating performance because it permits period-over-period comparisons
+of our ongoing core operations before the excluded items, which we do not consider relevant to our operations. Adjusted EBITDA is a financial
+measure not required by, or presented in accordance with, U.S. generally accepted accounting principles (“GAAP”).
+Adjusted
+EBITDA has limitations and should not be considered in isolation or a substitute for performance measures calculated under GAAP. This
+non-GAAP measure excludes certain cash expenses that we are obligated to make. In addition, other companies in our industry may calculate
+Adjusted EBITDA differently than we do or may not calculate it at all, which limits the usefulness of Adjusted EBITDA as a comparative
+measure.
+The
+table below summarizes our three-month operating results for the periods ended January 1, 2023 and January 2, 2022, in terms of both
+the GAAP net income measure and the non-GAAP Adjusted EBITDA measure. We believe that including both measures allows the reader better
+to evaluate our overall performance.
+Three months ended
+(thousands)
+January 1, 2023
+January 2, 2022
+Net (Loss) Income (GAAP)
+$ (223 )
+$ 29
+Add:
+Depreciation and Amortization
+81
+72
+Federal Income Tax Benefit
+(59 )
+(14 )
+Stock Compensation
+35
+57
+Adjusted EBITDA – Non-GAAP
+$ (166 )
+$ 144
+8
+Our
+net income decreased by $252 thousand to a loss of $223 thousand for the three months ended January 1, 2023, as compared to income
+of $29 thousand for the three months ended January 2, 2022. Our adjusted EBITDA decreased by $310 thousand to a loss of $166
+thousand for the three months ended January 1, 2023, as compared to income of $144 thousand for the three months ended January 2,
+2022. The decrease in the three-month period ended January 1, 2023 is primarily driven by lower revenue and operating profit as
+compared to the prior year. Operating segment performance is discussed in greater detail throughout the previous and following
+sections.
+Backlog
+During the three months ended
+January 1, 2023 the Company booked $11.2 million in new orders, representing a 220.0% increase over the prior year period new orders of
+$3.5 million. Both segments experienced a sizeable growth in orders as compared to the prior year period.
+The
+orders for the most recently completed quarter consist of $8.6 million for our Optex Richardson segment and $2.6 million attributable
+to the Applied Optics Center. The following table depicts the new customer orders for the three months ending January 1, 2023 as compared
+to the three-month period ending January 2, 2022 in millions of dollars:
+(Millions)
+Product
+Line
+Q1
+2023
+Q1
+2022
+Variance
+%
+Chg
+Periscopes
+$ 3.7
+$ 2.2
+$ 1.5
+68.2 %
+Sighting
+Systems
+3.4
+0.1
+3.3
+3300.0 %
+Howitzer
+-
+-
+-
+- %
+Other
+1.5
+0.3
+1.2
+400.0 %
+Optex
+Systems – Richardson
+8.6
+2.6
+6.0
+230.8 %
+Optical
+Assemblies
+1.2
+0.2
+1.0
+500.0 %
+Laser
+Filters
+1.3
+-
+1.3
+100.0 %
+Day
+Windows
+-
+-
+-
+- %
+Other
+0.1
+0.7
+(0.6 )
+(85.7 )%
+Applied
+Optics Center – Dallas
+2.6
+0.9
+1.7
+188.9 %
+Total
+Customer Orders
+$ 11.2
+$ 3.5
+$ 7.7
+220.0 %
+9
+The Company has seen significant increases in orders for many of its defense and commercial products during the first
+three months of fiscal year 2023 inclusive of two new customers for our sighting systems and filter programs. On November 1, 2022, the
+Company announced it has been awarded a $3.4 million order to repair and refurbish night vision equipment for the Government of Israel.
+The order represents a significant increase in our Optex Richardson sighting systems business base for a new customer and includes an
+additional potential award value with a 100% optional award quantity clause. In October 2023 the Company booked a $0.9 million award for
+Applied Optics Center laser interface filters for a new defense customer in addition to increased purchase orders for our commercial optical
+assemblies for our existing customer.
+Backlog
+as of January 1, 2023, was $40.1 million as compared to a backlog of $26.5 million as of January 2, 2022, representing an increase of
+$13.6 million or 51.3%. Backlog as compared to October 2, 2022 increased by $7.2 million, or 21.9% from $32.9 million.
+The following table depicts the current expected delivery by period of all contracts awarded as of January 1, 2023 in millions of dollars:
+(Millions)
+Product
+Line
+Q2
+2023
+Q3
+2023
+Q4
+2023
+2023
+Delivery
+2024+
+Delivery
+Total
+Backlog
+1/1/2023
+Total
+Backlog
+1/2/2022
+Variance
+%
+Chg
+Periscopes
+$ 2.7
+$ 2.8
+$ 1.1
+$ 6.7
+$ 3.3
+$ 10.0
+$ 6.9
+$ 3.1
+44.9 %
+Sighting
+Systems
+0.2
+1.2
+0.9
+2.3
+2.6
+4.9
+1.5
+3.4
+226.7 %
+Howitzer
+-
+0.1
+0.1
+0.2
+2.1
+2.3
+2.3
+-
+- %
+Other
+1.2
+0.6
+0.9
+2.7
+2.1
+4.8
+1.0
+3.8
+380.0 %
+Optex
+Systems - Richardson
+4.1
+4.7
+3.0
+11.9
+10.1
+22.0
+11.7
+10.3
+88.0 %
+Optical
+Assemblies
+1.6
+1.6
+1.5
+4.7
+1.8
+6.5
+4.1
+2.4
+58.5 %
+Laser
+Filters
+1.2
+2.4
+3.1
+6.8
+2.6
+9.4
+9.0
+0.4
+4.4 %
+Day
+Windows
+0.1
+0.2
+0.1
+0.4
+1.4
+1.8
+0.9
+0.9
+100.0 %
+Other
+0.3
+0.1
+0.1
+0.3
+0.1
+0.4
+0.8
+(0.4 )
+(50.0 )%
+Applied
+Optics Center - Dallas
+3.2
+4.3
+4.8
+12.2
+5.9
+18.1
+14.8
+3.3
+22.3 %
+Total
+Backlog
+$ 7.3
+$ 9.0
+$ 7.8
+$ 24.1
+$ 16.0
+$ 40.1
+$ 26.5
+$ 13.6
+51.3 %
+Optex
+Systems Richardson backlog as of January 1, 2023, was $22.0 million as compared to a backlog of $11.7 million as of January 2, 2022,
+representing an increase of $10.3 million or 88.0%.
+Applied
+Optics Center backlog as of January 1, 2023, was $18.1 million as compared to a backlog of $14.8 million as of January 2, 2022, representing
+an increase of $3.3 million, or 22.3%.
+Please
+refer to “ Material Trends ” above or “ Liquidity and Capital Resources ” below for more information
+on recent developments and trends with respect to our orders and backlog, which information is incorporated herein by reference.
+The
+Company continues to aggressively pursue international and commercial opportunities in addition to maintaining its current footprint
+with U.S. vehicle manufactures, with existing as well as new product lines. We continue to review and seek potential products, outside
+our traditional product lines, which could be manufactured using our current production facilities in order to capitalize on our existing
+excess capacity.
+Three
+Months Ended January 1, 2023 Compared to Three Months Ended January 2, 2022
+Revenues .
+For the three months ended January 1, 2023, revenues decreased by $300 thousand or 6.9% compared to the prior year period as set forth
+in the table below:
+Three
+months ended
+(Thousands)
+Product
+Line
+January
+1, 2023
+January
+2, 2022
+Variance
+%
+Chg
+Periscopes
+$ 1,325
+$ 1,065
+$ 260
+24.4
+Sighting
+Systems
+189
+274
+(85 )
+(31.0 )
+Howitzers
+-
+-
+-
+-
+Other
+105
+518
+(413 )
+(79.7 )
+Optex
+Systems – Richardson
+1,619
+1,857
+(238 )
+(12.8 )
+Optical
+Assemblies
+1,508
+1,145
+363
+31.7
+Laser
+Filters
+557
+937
+(380 )
+(40.6 )
+Day
+Windows
+161
+220
+(59 )
+(26.8 )
+Other
+195
+181
+14
+7.7
+Applied
+Optics Center – Dallas
+2,421
+2,483
+(62 )
+(2.5 )
+Total
+Revenue
+$ 4,040
+$ 4,340
+$ (300 )
+(6.9 )
+10
+Optex
+Systems Richardson revenue decreased by $238 thousand or 12.8% for the three months ended January 1, 2023 as compared to the three months
+ended January 2, 2022 on lower customer demand for sighting system repairs and muzzle reference systems (other) as compared to the prior
+year period. In addition, shipments against existing periscope orders have been delayed into the next quarter due to supplier and manpower
+shortages. We anticipate higher revenue beginning during the second quarter and increasing through the second half of fiscal year 2023
+as the supplier and labor shortages are resolved and the backlog has significantly increased on new orders. We anticipate additional
+periscope orders for delivery in the last fiscal quarter of 2023.
+Applied
+Optics Center revenue decreased by $62 thousand or 2.5% for the three months ended January 1, 2023 as compared to the three months ended
+January 2, 2022. The revenue decrease is primarily attributable to customer requested shipment delays for our laser filter units for
+a large defense contractor to accommodate their ongoing facility move. Based on current backlog and the post-move adjusted customer delivery
+schedule, we are anticipating revenue to begin increasing during the next quarter with more significant increases occurring during the
+second half of the fiscal year.
+Gross
+Profit . The gross margin during the three-month period ended January 1, 2023 was 17.7% of revenue as compared to a gross margin of
+19.0% of revenue for the period ended January 2, 2022. The gross profit decreased by $106 thousand to $717 thousand for the three months
+ended January 1, 2023 as compared to $823 thousand in the prior year three months. The decrease in gross profit is primarily attributable
+to lower revenue spread across a relatively fixed cost base, changes in mix between products and operating segments and material and
+labor inflationary pressure on our long-term contracts. Cost of sales decreased to $3.3 million for the current period as compared to
+the prior year period of $3.5 million on lower period revenue and increased cost.
+G&A
+Expenses . During the three months ended January 1, 2023 and January 2, 2022, we recorded operating expenses of $999 thousand and
+$808 thousand, respectively. Operating expenses increased by 23.6% between the respective periods primarily due to increased labor costs,
+office expenses, legal and audit fees.
+Operating
+(Loss) Income . During the three months ended January 1, 2023, we recorded an operating loss of ($282) thousand, as compared to operating
+income of $15 thousand during the three months ended January 2, 2022. The $297 thousand decrease in operating income for the current
+year period from the prior year period is primarily due to lower gross profit and increased general and administrative costs in the current
+year quarter as compared to the prior year quarter.
+Net
+(Loss) Income applicable to common shareholders . During the three months ended January 1, 2023, we recorded a net loss applicable
+to common shareholders of ($223) thousand as compared to a net income applicable to common shareholders of $29 thousand during the three
+months ended January 2, 2022. The change in net income of $252 thousand is primarily attributable to lower revenue and gross profit combined
+with increased general and administrative costs.
+Liquidity
+and Capital Resources
+As
+of January 1, 2023, the Company had working capital of $9.7 million, as compared to $10.0 million as of October 2, 2022.
+During
+the three months ended January 1, 2023, we generated operating cash flow of $451 thousand and spent ($90) thousand on acquisitions of
+property and equipment.
+11
+The Company has capital commitments
+of $209 thousand for the purchase of property and equipment consisting of an ultrasonic aqueous system and a reflectometer device during
+the next ninety days.
+Backlog
+as of January 1, 2023 was $40.1 million as compared to a backlog of $32.9 million and $26.5 million as of October 2, 2022 and January
+2, 2022, respectively, and representing an increase of 21.9% and 51.3%, respectively.
+The
+Company has historically funded its operations through cash from operations, convertible notes, common and preferred stock offerings
+and bank debt. The Company’s ability to generate positive cash flows depends on a variety of factors, including the continued development
+and successful marketing of the Company’s products. At January 1, 2023, the Company had approximately $1.3 million in cash and
+an outstanding payable balance of zero against its $2.0 million line of credit. As of January 1, 2023, our outstanding accounts receivable
+was $1.6 million. We expect the accounts to be collected during the second quarter of fiscal 2023.
+Recently
+experienced supplier delays, labor shortages, and customer schedule changes negatively impacted our revenue during the three months ended
+January 1, 2023 but are expected to abate during the second quarter of fiscal year 2023. As described in more detail below, in November
+2022, we increased our line of credit to $2.0 million from $1.125 million, to facilitate our working capital requirements due to the
+delays and increased backlog. We anticipate higher revenue beginning during the second quarter and increasing through the second half
+of fiscal year 2023 as the supplier and labor shortages combined with customer schedule delays are resolved and the backlog has significantly
+increased on new orders.
+In
+the short term, the Company plans to utilize its current cash, open line of credit and operating cash flow to fund inventory purchases
+in support of the backlog growth and higher anticipated revenue during the next nine months. Short term cash in excess of our working
+capital needs may be also be used to fund the purchase of property and equipment required to maintain or meet our growing backlog in
+addition to repurchasing common stock against our current stock repurchase plan. Longer term, excess cash beyond our operating needs
+may be used to fund new product development, company or product line acquisitions, or additional stock purchases as attractive opportunities
+present themselves.
+In
+some instances, new government contract awards may allow for contract financing in the form of progress payments pursuant to Federal
+Acquisition Regulation 52.232-16, “Progress Payments.” Subject to certain limitations, this clause provides for government
+payment of up to 90% of incurred program costs prior to product delivery for small businesses like us. To the extent any contracts allow
+for progress payments and the respective contracts would result in significant preproduction cash requirements for design, process development,
+tooling, material or other resources which could exceed our current working capital or line of credit availability, we intend to utilize
+this benefit to minimize any potential negative impact on working capital prior to receipt of payment for the associated contract deliveries.
+Currently none of our existing contracts allow for progress payments.
+The
+Company expects to generate net income and positive cash flow from operating activities over the next nine months. To achieve and retain profitability,
+we need to maintain a level of revenue adequate to support our cost structure. Management intends to manage operations commensurate with
+its level of working capital and line of credit during the next nine months and beyond; however, uneven revenue levels driven by changes
+in customer delivery demands, first article inspection requirements or other program delays associated with the pandemic, labor shortages
+and supply chain issues could create a working capital shortfall. In the event the Company does not successfully implement its ultimate
+business plan, certain assets may not be recoverable.
+On
+April 12, 2022, the Company and its subsidiary, Optex Systems, Inc. (collectively with the Company, the “Borrowers”), entered
+into an Amended and Restated Loan Agreement (the “Loan Agreement”) with PNC Bank, National Association, successor to BBVA
+USA (the “Lender”), pursuant to which the Borrowers’ existing revolving line of credit facility was decreased from
+$2.25 million to $1.125 million, and the maturity date was extended from April 15, 2022 to April 15, 2023.
+The
+Loan Agreement requires the Borrowers to maintain a fixed charge coverage ratio of at least 1.25:1.
+On
+November 21, 2022, the Borrowers issued an Amended and Restated Revolving Line of Credit Note (the “Line of Credit Note”)
+to the Lender in connection with an increase of the Borrowers’ revolving line of credit facility under the Loan Agreement from
+$1.125 million to $2.0 million. The maturity date remains April 15, 2023. Obligations outstanding under the credit facility will accrue
+interest at a rate equal to the Lender’s prime rate minus 0.25%.
+12
+The
+Line of Credit Note and Loan Agreement contain customary events of default and negative covenants, including but not limited to those
+governing indebtedness, liens, fundamental changes, investments, and restricted payments. The credit facility is secured by substantially
+all of the operating assets of the Borrowers as collateral. The Borrowers’ obligations under the credit facility are subject to
+acceleration upon the occurrence of an event of default as defined in the Line of Credit Note and Loan Agreement.
+We
+intend to renew or replace the line of credit facility. If adequate funds are not available on acceptable terms, or at all, we may be
+unable to finance our operations, develop or enhance our products, expand our sales and marketing programs, take advantage of future
+opportunities or respond to competitive pressures.
+On
+September 22, 2021 the Company announced authorization for an additional $1 million stock repurchase program. As of January 1, 2023,
+there was an authorized balance of $560 thousand remaining to be spent against the repurchase program. During the three months ended
+January 1, 2023, there were no stock repurchases against the plan.
+Critical
+Accounting Estimates
+A
+critical accounting estimate is an estimate that:
+●
+is
+made in accordance with generally accepted accounting principles,
+●
+involves
+a significant level of estimation uncertainty, and
+●
+has
+had or is reasonably likely to have a material impact on the company’s financial condition or results of operation.
+Our
+significant accounting policies are fundamental to understanding our results of operations and financial condition. Some accounting policies
+require that we use estimates and assumptions that may affect the value of our assets or liabilities and financial results. These policies
+are described in Note 2 (Accounting Policies) to consolidated financial
+statements in our Annual Report on Form 10-K for the year ended October 2, 2022.
+Our
+critical accounting estimates include warranty costs, contract losses and the deferred tax asset valuation. Future warranty costs are
+based on the estimated cost of replacement for expected returns based upon our most recent experience rate of defects as a percentage
+of warranty covered sales. Our warranty covered sales primarily include the Applied Optics Center optical assemblies. While our warranty
+period is 12 months, our reserve balances assume a general 90-day return period for optical assemblies previously delivered plus any
+returned backlog inhouse that has not yet been repaired or replaced to our customer. If our actual warranty returns should significantly
+exceed our historical rates on new customer products, significant production changes, or substantial customer changes to the 90-day turn-around
+times on returned goods, the impact could be material to our operating profit. We have not experienced any significant changes to our
+warranty trends in the preceding three years and do not anticipate any significant impacts in the near term. We monitor the actual warranty
+costs incurred to the expected values on a quarterly basis and adjust our estimates accordingly. As of January 1, 2023, the Company had
+accrued warranty costs of $229 thousand, as compared to $169 thousand as of October 2, 2022. The primary reason for the $60 thousand
+increase in reserve balances relates to an increase in customer returned backlog pending repair or replacement to our customer during
+the preceding three-month period.
+As
+of January 1, 2023 and October 2, 2022, we had $282 thousand, and $289 thousand, respectively, of contract loss reserves included in
+our balance sheet accrued expenses. These loss contracts are related to some of our older legacy periscope IDIQ contracts which were
+priced in 2018 through early 2020, prior to COVID-19 and the significant downturn in defense spending on ground system vehicles. Due
+to inflationary price increases on component parts and higher internal manufacturing costs (as a result of escalating labor costs and
+higher burden rates on reduced volume), some of these contracts are in a loss condition, or at marginal profit rates. These contracts
+are typically three-year IDIQ contracts with two optional award years, and as such, we are obligated to accept new task awards against
+these contracts until the contract expiration. Should contract costs continue to increase above the negotiated selling price, or in the
+event the customer should release substantial quantities against these existing loss contracts, the losses could be material. For contracts
+currently in a loss status based on the estimated per unit contract costs, losses are booked immediately on new task order awards. Some of these long-term contracts have option year ordering periods ending
+in February 2025 with deliveries that may extend into February 2026. During
+the three months ended January 1, 2023, the Company recognized additional expenses for contract loss reserves of $51 thousand on new
+task awards against the long-term fixed contracts and applied $58 thousand of the reserves against revenues booked during the period.
+There is no way to reasonably estimate future inflationary impacts, or customer awards on the existing loss contracts.
+13
+As
+of January 1, 2023 and October 2, 2022, our deferred tax assets consisted of $1.8 million, partially offset by a valuation reserve of
+$0.8 million against those assets for a net deferred tax asset of $1.0 million. The valuation allowance covers certain deferred tax assets
+where we believe we will be unlikely to recover those tax assets through future operations. The valuation reserve includes assumptions
+related to future taxable income which would be available to cover net operating loss carryforward amounts. Because of the uncertainties
+of future income forecasts combined with the complexity of some of the deferred assets, these forecasts are subject to change over time.
+While we believe our current estimate to be reasonable, changing market conditions and profitability, changes in equity structure and
+changes in tax regulations may impact our estimated reserves in future periods.
+Item
+3. Quantitative and Qualitative Disclosures about Market Risk.
+Not
+applicable.
+Item
+4. Controls and Procedures
+Evaluation
+of Disclosure Controls and Procedures
+As
+of the end of the period covered by our Quarterly Report on Form 10-Q for the quarter ended January 1, 2023, management performed, with
+the participation of our Principal Executive Officer and Principal Financial Officer, an evaluation of the effectiveness of our disclosure
+controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act. Our disclosure controls and procedures are designed
+to ensure that information required to be disclosed in the reports we file or submit under the Exchange Act is recorded, processed, summarized,
+and reported within the time periods specified in the SEC’s forms, and that such information is accumulated and communicated to
+our management, including our Principal Executive Officer and our Principal Financial Officer, to allow timely decisions regarding required
+disclosures. Based upon the evaluation described above, our Principal Executive Officer and our Principal Financial Officer concluded
+that, as of January 1, 2023, our disclosure controls and procedures were effective.
+Changes
+in Internal Control Over Financial Reporting
+During
+the three months ended January 1, 2023, there were no changes in our internal control over financial reporting that have materially affected,
+or are reasonably likely to materially affect, our internal control over financial reporting.
+PART
+II - OTHER INFORMATION
+Item
+1. Legal Proceedings
+We
+are not aware of any material litigation pending or threatened against us.
+Item
+1A .
+Risk Factors
+There
+have been no material changes in risk factors since the risk factors set forth in the Form 10-K filed for the year ended October 2, 2022.
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Issuer
+Purchases of Equity Securities
+There
+were no purchases made by or on behalf of the Company or any “affiliated purchaser” (as defined in Rule 10b-18(a)(3) under
+the Exchange Act) of its common shares during the three months ended January 1, 2023. As of January 1, 2023, the maximum dollar value
+that may yet be purchased against the Company’s stock repurchase plan is $560 thousand.
+Item
+3. Defaults upon Senior Securities.
+None.
+Item
+4. Mine Safety Disclosures
+Not
+applicable .
+14
+Item
+6. Exhibits
+Exhibit
+No.
+Description
+10.1
+Amended and Restated Line of Credit Note dated as of November 21, 2022 by and among Optex Systems Holdings, Inc., Optex Systems, Inc. and PNC Bank, National Association*
+10.2
+Employment Agreement of Danny Schoening, dated December 1, 2022*
+31.1
+and
+31.2
+Certifications
+pursuant to Section 302 of Sarbanes Oxley Act of 2002
+32.1
+and
+32.2
+Certifications
+pursuant to Section 906 of Sarbanes Oxley Act of 2002
+EX-101.INS
+Inline
+XBRL Instance Document
+EX-101.SCH
+Inline
+XBRL Taxonomy Extension Schema Document
+EX-101.CAL
+Inline
+XBRL Taxonomy Extension Calculation Linkbase Document
+EX-101.DEF
+Inline
+XBRL Taxonomy Extension Definition Linkbase Document
+EX-101.LAB
+Inline
+XBRL Taxonomy Extension Label Linkbase Document
+EX-101.PRE
+Inline
+XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+*
+Previously filed
+15
+SIGNATURES
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, as amended, the registrant caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+OPTEX
+SYSTEMS HOLDINGS, INC.
+Date:
+February 13, 2023
+By:
+/s/
+Danny Schoening
+Danny
+Schoening
+Principal
+Executive Officer
+OPTEX
+SYSTEMS HOLDINGS, INC.
+Date:
+February 13, 2023
+By:
+/s/
+Karen Hawkins
+Karen
+Hawkins
+Principal
+Financial Officer and
+Principal
+Accounting Officer
+16

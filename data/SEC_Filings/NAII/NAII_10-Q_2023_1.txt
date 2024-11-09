@@ -1,0 +1,2705 @@
+2022
+1,024
+3,383
+0.01
+0.01
+500,000
+500,000
+0
+0
+0
+0
+0.01
+0.01
+20,000,000
+20,000,000
+6,014,246
+6,129,611
+3,177,160
+3,061,795
+50,377
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+25
+6.9
+0000787253 2022-07-01 2022-12-31
+xbrli:shares
+0000787253 2023-02-08
+thunderdome:item
+iso4217:USD
+0000787253 2022-12-31
+0000787253 2022-06-30
+iso4217:USD xbrli:shares
+0000787253 2022-10-01 2022-12-31
+0000787253 2021-10-01 2021-12-31
+0000787253 2021-07-01 2021-12-31
+0000787253 us-gaap:CommonStockMember 2022-09-30
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2022-09-30
+0000787253 us-gaap:RetainedEarningsMember 2022-09-30
+0000787253 us-gaap:TreasuryStockMember 2022-09-30
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-09-30
+0000787253 2022-09-30
+0000787253 us-gaap:CommonStockMember 2022-10-01 2022-12-31
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2022-10-01 2022-12-31
+0000787253 us-gaap:RetainedEarningsMember 2022-10-01 2022-12-31
+0000787253 us-gaap:TreasuryStockMember 2022-10-01 2022-12-31
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-10-01 2022-12-31
+0000787253 us-gaap:CommonStockMember 2022-12-31
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2022-12-31
+0000787253 us-gaap:RetainedEarningsMember 2022-12-31
+0000787253 us-gaap:TreasuryStockMember 2022-12-31
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31
+0000787253 us-gaap:CommonStockMember 2021-09-30
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2021-09-30
+0000787253 us-gaap:RetainedEarningsMember 2021-09-30
+0000787253 us-gaap:TreasuryStockMember 2021-09-30
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-09-30
+0000787253 2021-09-30
+0000787253 us-gaap:CommonStockMember 2021-10-01 2021-12-31
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2021-10-01 2021-12-31
+0000787253 us-gaap:RetainedEarningsMember 2021-10-01 2021-12-31
+0000787253 us-gaap:TreasuryStockMember 2021-10-01 2021-12-31
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-10-01 2021-12-31
+0000787253 us-gaap:CommonStockMember 2021-12-31
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2021-12-31
+0000787253 us-gaap:RetainedEarningsMember 2021-12-31
+0000787253 us-gaap:TreasuryStockMember 2021-12-31
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31
+0000787253 2021-12-31
+0000787253 us-gaap:CommonStockMember 2022-06-30
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2022-06-30
+0000787253 us-gaap:RetainedEarningsMember 2022-06-30
+0000787253 us-gaap:TreasuryStockMember 2022-06-30
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-06-30
+0000787253 us-gaap:CommonStockMember 2022-07-01 2022-12-31
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2022-07-01 2022-12-31
+0000787253 us-gaap:RetainedEarningsMember 2022-07-01 2022-12-31
+0000787253 us-gaap:TreasuryStockMember 2022-07-01 2022-12-31
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-01 2022-12-31
+0000787253 us-gaap:CommonStockMember 2021-06-30
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2021-06-30
+0000787253 us-gaap:RetainedEarningsMember 2021-06-30
+0000787253 us-gaap:TreasuryStockMember 2021-06-30
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-06-30
+0000787253 2021-06-30
+0000787253 us-gaap:CommonStockMember 2021-07-01 2021-12-31
+0000787253 us-gaap:AdditionalPaidInCapitalMember 2021-07-01 2021-12-31
+0000787253 us-gaap:RetainedEarningsMember 2021-07-01 2021-12-31
+0000787253 us-gaap:TreasuryStockMember 2021-07-01 2021-12-31
+0000787253 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-07-01 2021-12-31
+0000787253 naii:RestrictedStock1Member 2022-10-01 2022-12-31
+0000787253 naii:RestrictedStock1Member 2022-07-01 2022-12-31
+0000787253 us-gaap:EmployeeStockOptionMember 2022-10-01 2022-12-31
+0000787253 us-gaap:EmployeeStockOptionMember 2022-07-01 2022-12-31
+0000787253 us-gaap:EmployeeStockOptionMember 2021-10-01 2021-12-31
+0000787253 us-gaap:EmployeeStockOptionMember 2021-07-01 2021-12-31
+0000787253 naii:RestrictedStock1Member 2021-10-01 2021-12-31
+0000787253 naii:RestrictedStock1Member 2021-07-01 2021-12-31
+0000787253 us-gaap:RestrictedStockMember 2022-10-01 2022-12-31
+0000787253 us-gaap:RestrictedStockMember 2022-07-01 2022-12-31
+0000787253 us-gaap:RestrictedStockMember 2021-10-01 2021-12-31
+0000787253 us-gaap:RestrictedStockMember 2021-07-01 2021-12-31
+0000787253 us-gaap:FairValueInputsLevel1Member 2022-12-31
+0000787253 us-gaap:FairValueInputsLevel1Member 2022-06-30
+0000787253 naii:EuroForwardContractMember us-gaap:FairValueInputsLevel2Member 2022-12-31
+0000787253 naii:EuroForwardContractMember us-gaap:FairValueInputsLevel2Member 2022-06-30
+0000787253 naii:SwissFrancForwardContractMember us-gaap:FairValueInputsLevel2Member 2022-12-31
+0000787253 naii:SwissFrancForwardContractMember us-gaap:FairValueInputsLevel2Member 2022-06-30
+0000787253 us-gaap:FairValueInputsLevel2Member 2022-12-31
+0000787253 us-gaap:FairValueInputsLevel2Member 2022-06-30
+0000787253 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel2Member 2022-12-31
+0000787253 us-gaap:InterestRateSwapMember us-gaap:FairValueInputsLevel2Member 2022-06-30
+0000787253 us-gaap:FairValueInputsLevel3Member 2022-12-31
+0000787253 us-gaap:FairValueInputsLevel3Member 2022-06-30
+0000787253 us-gaap:LandMember 2022-12-31
+0000787253 us-gaap:LandMember 2022-06-30
+utr:Y
+0000787253 us-gaap:BuildingAndBuildingImprovementsMember srt:MinimumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:BuildingAndBuildingImprovementsMember srt:MaximumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:BuildingAndBuildingImprovementsMember 2022-12-31
+0000787253 us-gaap:BuildingAndBuildingImprovementsMember 2022-06-30
+0000787253 us-gaap:MachineryAndEquipmentMember srt:MinimumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:MachineryAndEquipmentMember srt:MaximumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:MachineryAndEquipmentMember 2022-12-31
+0000787253 us-gaap:MachineryAndEquipmentMember 2022-06-30
+0000787253 us-gaap:OfficeEquipmentMember srt:MinimumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:OfficeEquipmentMember srt:MaximumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:OfficeEquipmentMember 2022-12-31
+0000787253 us-gaap:OfficeEquipmentMember 2022-06-30
+0000787253 us-gaap:VehiclesMember 2022-07-01 2022-12-31
+0000787253 us-gaap:VehiclesMember 2022-12-31
+0000787253 us-gaap:VehiclesMember 2022-06-30
+0000787253 us-gaap:LeaseholdImprovementsMember srt:MinimumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:LeaseholdImprovementsMember srt:MaximumMember 2022-07-01 2022-12-31
+0000787253 us-gaap:LeaseholdImprovementsMember 2022-12-31
+0000787253 us-gaap:LeaseholdImprovementsMember 2022-06-30
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-09-30
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-09-30
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2022-09-30
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-10-01 2022-12-31
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-10-01 2022-12-31
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2022-10-01 2022-12-31
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-12-31
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-12-31
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2022-12-31
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-06-30
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-06-30
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2022-06-30
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-07-01 2022-12-31
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-07-01 2022-12-31
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2022-07-01 2022-12-31
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2021-09-30
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-09-30
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2021-09-30
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2021-10-01 2021-12-31
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-10-01 2021-12-31
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2021-10-01 2021-12-31
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2021-12-31
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-12-31
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2021-12-31
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2021-06-30
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-06-30
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2021-06-30
+0000787253 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2021-07-01 2021-12-31
+0000787253 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2021-07-01 2021-12-31
+0000787253 naii:AccumulatedGainLossNetSwapDerivativeParentMember 2021-07-01 2021-12-31
+xbrli:pure
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember 2021-05-24
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember naii:TermLoanMember 2021-08-18
+0000787253 naii:ManufacturingFacilityAndWarehouseMember naii:CarlsbadCaliforniaMember 2021-08-20 2021-08-20
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember 2021-06-30
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember 2022-06-30
+0000787253 naii:WellsFargoBankNAMember 2021-12-31
+0000787253 naii:WellsFargoBankNAMember 2021-01-31
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember 2022-12-31
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember srt:MaximumMember 2021-08-18
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember 2021-08-18 2021-08-18
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember 2021-08-18
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-10-01 2022-12-31
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2022-12-31
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember naii:TermLoanMember 2021-08-18 2021-08-18
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember naii:TermLoanMember us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 2021-08-18 2021-08-18
+0000787253 us-gaap:InterestRateSwapMember 2021-08-18
+0000787253 naii:CreditAgreementMember naii:WellsFargoBankNAMember naii:TermLoanMember 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer1Member 2022-10-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer1Member 2021-10-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer1Member 2022-07-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer1Member 2021-07-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer2Member 2022-10-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer2Member 2021-10-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer2Member 2022-07-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer2Member 2021-07-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer3Member 2022-10-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer3Member 2021-10-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer3Member 2022-07-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember naii:Customer3Member 2021-07-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-10-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-10-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2022-07-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember 2021-07-01 2021-12-31
+0000787253 naii:ThreeCustomersMember 2022-12-31
+0000787253 naii:ThreeCustomersMember 2022-06-30
+0000787253 naii:RawMaterialPurchasesMember us-gaap:SupplierConcentrationRiskMember naii:Supplier1Member 2022-10-01 2022-12-31
+0000787253 naii:RawMaterialPurchasesMember us-gaap:SupplierConcentrationRiskMember naii:Supplier1Member 2021-10-01 2021-12-31
+0000787253 naii:RawMaterialPurchasesMember us-gaap:SupplierConcentrationRiskMember naii:Supplier1Member 2022-07-01 2022-12-31
+0000787253 naii:RawMaterialPurchasesMember us-gaap:SupplierConcentrationRiskMember naii:Supplier1Member 2021-07-01 2021-12-31
+0000787253 naii:PrivateLabelContractManufacturingMember 2022-10-01 2022-12-31
+0000787253 naii:PrivateLabelContractManufacturingMember 2021-10-01 2021-12-31
+0000787253 naii:PrivateLabelContractManufacturingMember 2022-07-01 2022-12-31
+0000787253 naii:PrivateLabelContractManufacturingMember 2021-07-01 2021-12-31
+0000787253 naii:PatentAndTrademarkLicensingMember 2022-10-01 2022-12-31
+0000787253 naii:PatentAndTrademarkLicensingMember 2021-10-01 2021-12-31
+0000787253 naii:PatentAndTrademarkLicensingMember 2022-07-01 2022-12-31
+0000787253 naii:PatentAndTrademarkLicensingMember 2021-07-01 2021-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PrivateLabelContractManufacturingMember 2022-10-01 2022-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PrivateLabelContractManufacturingMember 2021-10-01 2021-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PrivateLabelContractManufacturingMember 2022-07-01 2022-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PrivateLabelContractManufacturingMember 2021-07-01 2021-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PatentAndTrademarkLicensingMember 2022-10-01 2022-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PatentAndTrademarkLicensingMember 2021-10-01 2021-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PatentAndTrademarkLicensingMember 2022-07-01 2022-12-31
+0000787253 us-gaap:OperatingSegmentsMember naii:PatentAndTrademarkLicensingMember 2021-07-01 2021-12-31
+0000787253 us-gaap:OperatingSegmentsMember 2022-10-01 2022-12-31
+0000787253 us-gaap:OperatingSegmentsMember 2021-10-01 2021-12-31
+0000787253 us-gaap:OperatingSegmentsMember 2022-07-01 2022-12-31
+0000787253 us-gaap:OperatingSegmentsMember 2021-07-01 2021-12-31
+0000787253 us-gaap:CorporateNonSegmentMember 2022-10-01 2022-12-31
+0000787253 us-gaap:CorporateNonSegmentMember 2021-10-01 2021-12-31
+0000787253 us-gaap:CorporateNonSegmentMember 2022-07-01 2022-12-31
+0000787253 us-gaap:CorporateNonSegmentMember 2021-07-01 2021-12-31
+0000787253 naii:PrivateLabelContractManufacturingMember 2022-12-31
+0000787253 naii:PrivateLabelContractManufacturingMember 2022-06-30
+0000787253 naii:PatentAndTrademarkLicensingMember 2022-12-31
+0000787253 naii:PatentAndTrademarkLicensingMember 2022-06-30
+0000787253 country:US 2022-10-01 2022-12-31
+0000787253 country:US 2021-10-01 2021-12-31
+0000787253 country:US 2022-07-01 2022-12-31
+0000787253 country:US 2021-07-01 2021-12-31
+0000787253 us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000787253 us-gaap:NonUsMember 2021-10-01 2021-12-31
+0000787253 us-gaap:NonUsMember 2022-07-01 2022-12-31
+0000787253 us-gaap:NonUsMember 2021-07-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember naii:ProductsManufacturedByNAIEMember us-gaap:NonUsMember 2022-10-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember naii:ProductsManufacturedByNAIEMember us-gaap:NonUsMember 2022-07-01 2022-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember naii:ProductsManufacturedByNAIEMember us-gaap:NonUsMember 2021-10-01 2021-12-31
+0000787253 us-gaap:SalesRevenueNetMember us-gaap:ProductConcentrationRiskMember naii:ProductsManufacturedByNAIEMember us-gaap:NonUsMember 2021-07-01 2021-12-31
+0000787253 country:US 2022-12-31
+0000787253 country:US 2022-06-30
+0000787253 srt:EuropeMember 2022-12-31
+0000787253 srt:EuropeMember 2022-06-30
+0000787253 srt:EuropeMember 2022-07-01 2022-12-31
+0000787253 srt:EuropeMember 2021-07-01 2021-12-31
+0000787253 2022-12-02 2022-12-02
+0000787253 2022-12-02
+0000787253 naii:StockRepurchasePlanMember 2022-10-01 2022-12-31
+0000787253 naii:StockRepurchasedFromEmployeeForRestrictedStockVestingMember 2022-10-01 2022-12-31
+0000787253 naii:StockRepurchasePlanMember 2022-07-01 2022-12-31
+0000787253 naii:StockRepurchasedFromEmployeeForRestrictedStockVestingMember 2022-07-01 2022-12-31
+0000787253 naii:StockRepurchasePlanMember 2021-10-01 2021-12-31
+0000787253 naii:StockRepurchasedFromEmployeeForRestrictedStockVestingMember 2021-10-01 2021-12-31
+0000787253 naii:StockRepurchasePlanMember 2021-07-01 2021-12-31
+0000787253 naii:StockRepurchasedFromEmployeeForRestrictedStockVestingMember 2021-07-01 2021-12-31
+0000787253 us-gaap:ForeignExchangeContractMember us-gaap:CashFlowHedgingMember 2022-12-31
+iso4217:EUR
+0000787253 us-gaap:ForeignExchangeContractMember us-gaap:NondesignatedMember 2022-12-31
+iso4217:CHF
+0000787253 us-gaap:ForeignExchangeContractMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:SubsequentEventMember 2023-01-12
+0000787253 us-gaap:CustomerConcentrationRiskMember 2022-07-01 2022-12-31
+0000787253 us-gaap:SupplierConcentrationRiskMember 2022-07-01 2022-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+December 31, 2022
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from              to
+.
+000-15701
+(Commission file number)
+NATURAL ALTERNATIVES INTERNATIONAL, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+84-1007839
+(State of incorporation)
+(IRS Employer Identification No.)
+1535 Faraday Ave
+Carlsbad ,
+CA
+92008
+( 760 )
+736-7700
+(Address of principal executive offices)
+(Registrant ’ s telephone number)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, $0.01 par value per share
+NAII
+Nasdaq
+Stock Market
+Indicate by check mark whether NAI (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that NAI was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     ☒   Yes      ☐  No
+Indicate by check mark whether NAI has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that NAI was required to submit and post such files).    ☒   Yes      ☐  No
+Indicate by check mark whether NAI is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Emerging Growth Company
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether NAI is a shell company (as defined in Rule 12b-2 of the Exchange Act):
+☐
+Yes ☒ No
+As of February 8, 2023,
+6,039,693  shares of NAI's common stock were outstanding, net of 3,202,607 treasury shares.
+Table of Contents
+TABLE OF CONTENTS
+Page
+SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS
+1
+PART I
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+Condensed Consolidated Balance Sheets
+2
+Condensed Consolidated Statements of Income and Comprehensive Income
+3
+Condensed Consolidated Statements of Stockholders’ Equity
+4
+Condensed Consolidated Statements of Cash Flows
+6
+Notes to Condensed Consolidated Financial Statements
+7
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+18
+Item 4.
+Controls and Procedures
+23
+PART II
+OTHER INFORMATION
+Item 1.
+Legal Proceedings
+24
+Item 1A.
+Risk Factors
+24
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+24
+Item 3.
+Defaults Upon Senior Securities
+24
+Item 5.
+Other Information
+24
+Item 6.
+Exhibits
+25
+SIGNATURES
+26
+Table of Contents
+SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS
+Certain statements in this report, including information incorporated by reference, are “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, Section 21E of the Securities Exchange Act of 1934, and the Private Securities Litigation Reform Act of 1995. Forward-looking statements reflect current views about future events and financial performance based on certain assumptions. They include opinions, forecasts, intentions, plans, goals, projections, guidance, expectations, beliefs, or other statements that are not statements of historical fact. Words such as “may,” “will,” “should,” “could,” “would,” “expect,” “plan,” “believe,” “anticipate,” “intend,” “estimate,” “approximate,” “predict,” “forecast,” “project,”, “future”, or “likely”, or the negative or other variation of such words, and similar expressions may identify a statement as a forward-looking statement. Any statements that refer to projections of our future financial performance, our anticipated growth and trends in our business, our goals, strategies, focus and plans, and other characterizations of future events or circumstances, including statements expressing general optimism or pessimism about future operating results, are forward-looking statements. Forward-looking statements in this report may include statements about:
+•
+our ability to develop market acceptance for and increase sales of new products, develop relationships with new customers and maintain or improve existing customer relationships;
+•
+the impact, of the Covid-19 Pandemic (“COVID-19”) and other external factors both within and outside of our control, on our business and results in operations including variations in our quarterly net sales, our employees, supply chain, vendors and customers;
+•
+future financial and operating results, including projections of net sales, revenue, income or loss, net income or loss per share, profit margins, expenditures, liquidity, and other financial items;
+•
+our ability to maintain or increase our patent and trademark licensing revenues;
+•
+our ability to attract and retain sufficient labor to successfully execute our business strategies and achieve our goals and objectives;
+•
+inventory levels, including the adequacy of quality raw material and other inventory levels to meet future customer demand, in particular assumptions regarding the impact of the COVID-19 pandemic;
+•
+our ability to price our products to achieve profit margin targets, especially in the current volatile raw material and labor environment;
+•
+our ability to protect our intellectual property;
+•
+future economic and political conditions;
+•
+our ability to improve operating efficiencies, manage costs and business risks, and improve or maintain profitability;
+•
+currency exchange rates and their effect on our results of operations (including amounts that we may reclassify as earnings), the availability of foreign exchange facilities, our ability to effectively hedge against foreign exchange risks and the extent to which we may seek to hedge against such risks;
+•
+the outcome of litigation, regulatory and tax matters we may become involved in, the costs associated with such matters and the effect of such matters on our business and results of operations;
+•
+sources, availability and quality of raw materials, including the limited number of suppliers of beta-alanine meeting our quality requirements;
+•
+the future adequacy and intended use of our facilities, including obtaining certifications for our new manufacturing facility in Carlsbad, CA once the facility is fully operational;
+•
+potential manufacturing and distribution channels, product returns, and potential product recalls;
+•
+future customer orders;
+•
+the impact of external factors on our business and results of operations, especially, for example, variations in quarterly net sales from seasonal and other external factors;
+•
+our ability to operate within the standards set by the U.S. Food and Drug Administration’s (FDA) Good Manufacturing Practices (GMPs);
+•
+our ability to successfully expand our operations, including outside the United States (U.S.);
+•
+the adequacy of our financial reserves and allowances;
+•
+the sufficiency of our available cash, cash equivalents, and potential cash flows from our operations to fund our working capital and capital expenditure needs through the next 12 months and longer;
+•
+the impact of accounting pronouncements and our adoption of certain accounting guidance; and
+•
+other assumptions described in this Report underlying or relating to any forward-looking statements.
+Forward-looking statements in this Report speak only as of the date of this Report based on information available to us at that time and caution should be taken not to place undue reliance on any such forward-looking statements. Forward-looking statements are subject to certain future events, risks, and uncertainties that are or may be outside of our control. When considering forward-looking statements, you should carefully review the risks, uncertainties and other cautionary statements in this Report as they identify certain important factors that could cause actual results to differ materially from those expressed in, or implied by, the forward-looking statements. These factors include, among others, the risks described under Item 1A of Part I of our fiscal 2022 Annual Report, as well as in other reports and documents we have filed and will file with the United States Securities and Exchange Commission (SEC).
+1
+Table of Contents
+PART I
+–
+FINANCIAL INFORMATION
+ITEM 1.       FINANCIAL STATEMENTS
+Natural Alternatives International, Inc.
+Condensed Consolidated Balance Sheets
+(In thousands, except share and per share data)
+December 31,
+2022
+June 30, 2022
+(Unaudited)
+Assets
+Current assets:
+Cash and cash equivalents
+$ 12,773     $ 21,833
+Accounts receivable – less allowance for doubtful accounts of $ 1,024
+at December 31, 2022 and $ 3,383
+at June 30, 2022
+10,281       17,422
+Inventories, net
+36,036       32,475
+Income tax receivable
+—       67
+Forward contracts
+1,745       3,144
+Prepaids and other current assets
+2,216       1,805
+Total current assets
+63,051       76,746
+Property and equipment, net
+54,169       44,573
+Operating lease right-of-use assets
+20,549       21,701
+Other noncurrent assets, net
+2,809       2,983
+Total assets
+$ 140,578     $ 146,003
+Liabilities and Stockholders ’
+Equity
+Current liabilities:
+Accounts payable
+$ 13,179     $ 16,185
+Accrued liabilities
+2,387       2,787
+Accrued compensation and employee benefits
+1,829       3,673
+Customer deposits
+425       140
+Income taxes payable
+421       174
+Mortgage note payable, current portion
+307       302
+Total current liabilities
+18,548       23,261
+Long-term liability – operating leases
+21,285       22,047
+Long-term pension liability
+394       344
+Deferred tax liability
+484       1,220
+Mortgage note payable, net of current portion
+9,350       9,493
+Income taxes payable, noncurrent
+987       1,118
+Total liabilities
+51,048       57,483
+Commitments and contingencies (Notes E, F, and L)
+Stockholders’ equity:
+Preferred stock;
+$.01
+par value;
+500,000
+shares authorized;
+none
+issued or outstanding
+—       —
+Common stock;
+$.01
+par value;
+20,000,000
+shares authorized at December 31, 2022 and June 30, 2022, issued and outstanding (net of treasury shares)
+6,014,246
+at December 31, 2022 and
+6,129,611
+at June 30, 2022
+89       89
+Additional paid-in capital
+30,890       30,423
+Retained earnings
+80,527       77,661
+Treasury stock, at cost,
+3,177,160
+shares at December 31, 2022 and
+3,061,795
+at June 30, 2022
+( 22,411
+)
+( 21,352
+)
+Accumulated other comprehensive income
+435       1,699
+Total stockholders’ equity
+89,530       88,520
+Total liabilities and stockholders’ equity
+$ 140,578     $ 146,003
+See accompanying notes to condensed consolidated financial statements.
+2
+Table of Contents
+Natural Alternatives International, Inc.
+Condensed Consolidated Statements of Income and Comprehensive Income
+(In thousands, except share and per share data)
+(Unaudited)
+Three Months Ended
+Six Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Net sales
+$
+42,295
+$
+37,727
+$
+85,422
+$
+76,067
+Cost of goods sold
+36,081
+31,181
+73,837
+61,240
+Gross profit
+6,214
+6,546
+11,585
+14,827
+Selling, general and administrative
+3,729
+4,145
+7,558
+8,198
+Income from operations
+2,485
+2,401
+4,027
+6,629
+Other (expense) income:
+Interest income
+9
+—
+13
+—
+Interest expense
+( 55
+)
+( 13
+)
+( 130
+)
+( 26
+)
+Foreign exchange (loss) gain
+( 143
+)
+11
+( 290
+)
+5
+Other, net
+( 10
+)
+( 7
+)
+( 16
+)
+( 14
+)
+Total other (expense) income
+( 199
+)
+( 9
+)
+( 423
+)
+( 35
+)
+Income before income taxes
+2,286
+2,392
+3,604
+6,594
+Provision for income taxes
+473
+545
+738
+1,491
+Net income
+$
+1,813
+$
+1,847
+$
+2,866
+$
+5,103
+Unrealized gain resulting from change in fair value of derivative instruments, net of tax
+( 1,809
+)
+331
+( 1,264
+)
+1,285
+Comprehensive income
+$
+4
+$
+2,178
+$
+1,602
+$
+6,388
+Net income per common share:
+Basic
+$
+0.31
+$
+0.30
+$
+0.49
+$
+0.82
+Diluted
+$
+0.31
+$
+0.30
+$
+0.49
+$
+0.81
+Weighted average common shares outstanding
+Basic
+5,866,494
+6,211,954
+5,893,071
+6,249,791
+Diluted
+5,873,129
+6,256,498
+5,908,287
+6,303,921
+See accompanying notes to condensed consolidated financial statements.
+3
+Table of Contents
+Natural Alternatives International, Inc.
+Condensed Consolidated Statements Of Stockholders’ Equity
+Three-Month Period Ended December 31, 2022 and 2021
+(Dollars in thousands)
+(Unaudited)
+Common Stock
+Additional
+Paid-in
+Retained
+Treasury Stock
+Accumulated
+Other
+Comprehensive
+Shares
+Amount
+Capital
+Earnings
+Shares
+Amount
+Income (Loss)
+Total
+Balance, September 30, 2022
+9,191,406
+$
+89
+$
+30,658
+$
+78,714
+3,108,590
+$
+( 21,849
+)
+$
+2,244
+$
+89,856
+Compensation expense related to stock compensation plans
+—
+—
+232
+—
+—
+—
+—
+232
+Repurchase of common stock
+—
+—
+—
+—
+68,570
+( 562
+)
+—
+( 562
+)
+Unrealized loss resulting from change in fair value of derivative instruments, net of tax
+—
+—
+—
+—
+—
+—
+( 1,809
+)
+( 1,809
+)
+Net income
+—
+—
+—
+1,813
+—
+—
+—
+1,813
+Balance, December 31, 2022
+9,191,406
+$
+89
+$
+30,890
+$
+80,527
+3,177,160
+$
+( 22,411
+)
+$
+435
+$
+89,530
+Balance, September 30, 2021
+9,004,365
+$
+88
+$
+29,678
+$
+70,205
+2,584,821
+$
+( 15,859
+)
+$
+393
+$
+84,505
+Compensation expense related to stock compensation plans
+—
+—
+245
+—
+—
+—
+—
+245
+Repurchase of common stock
+—
+—
+—
+—
+189,702
+( 2,527
+)
+—
+( 2,527
+)
+Forfeiture of restricted stock
+—
+—
+—
+—
+2,100
+—
+—
+—
+Unrealized gain resulting from change in fair value of derivative instruments, net of tax
+—
+—
+—
+—
+—
+—
+331
+331
+Net income
+—
+—
+—
+1,847
+—
+—
+—
+1,847
+Balance, December 31, 2021
+9,004,365
+$
+88
+$
+29,923
+$
+72,052
+2,776,623
+$
+( 18,386
+)
+$
+724
+$
+84,401
+See accompanying notes to condensed consolidated financial statements.
+4
+Table of Contents
+Natural Alternatives International, Inc.
+Condensed Consolidated Statements Of Stockholders’ Equity
+Six-Month Period Ended December 31, 2022 and 2021
+(Dollars in thousands)
+(Unaudited)
+Common Stock
+Additional
+Paid-in
+Retained
+Treasury Stock
+Accumulated
+Other
+Comprehensive
+Shares
+Amount
+Capital
+Earnings
+Shares
+Amount
+Income (Loss)
+Total
+Balance, June 30, 2022
+9,191,406
+$
+89
+$
+30,423
+$
+77,661
+3,061,795
+$
+( 21,352
+)
+$
+1,699
+$
+88,520
+Compensation expense related to stock compensation plans
+—
+—
+467
+—
+—
+—
+—
+467
+Repurchase of common stock
+—
+—
+—
+—
+115,365
+( 1,059
+)
+—
+( 1,059
+)
+Unrealized loss resulting from change in fair value of derivative instruments, net of tax
+—
+—
+—
+—
+—
+—
+( 1,264
+)
+( 1,264
+)
+Net income
+—
+—
+—
+2,866
+—
+—
+—
+2,866
+Balance, December 31, 2022
+9,191,406
+$
+89
+$
+30,890
+$
+80,527
+3,177,160
+$
+( 22,411
+)
+$
+435
+$
+89,530
+Balance, June 30, 2021
+9,004,365
+$
+88
+$
+29,456
+$
+66,949
+2,567,797
+$
+( 15,849
+)
+$
+( 561
+)
+$
+80,083
+Compensation expense related to stock compensation plans
+—
+—
+467
+—
+—
+—
+—
+467
+Repurchase of common stock
+—
+—
+—
+—
+190,394
+( 2,537
+)
+—
+( 2,537
+)
+Forfeiture of restricted stock
+—
+—
+—
+—
+18,432
+—
+—
+—
+Unrealized gain resulting from change in fair value of derivative instruments, net of tax
+—
+—
+—
+—
+—
+—
+1,285
+1,285
+Net income
+—
+—
+—
+5,103
+—
+—
+—
+5,103
+Balance, December 31, 2021
+9,004,365
+$
+88
+$
+29,923
+$
+72,052
+2,776,623
+$
+( 18,386
+)
+$
+724
+$
+84,401
+See accompanying notes to condensed consolidated financial statements.
+5
+Table of Contents
+Natural Alternatives International, Inc.
+Condensed Consolidated Statements of Cash Flows
+(In thousands, except share and per share data)
+(Unaudited)
+Six Months Ended
+December 31,
+2022
+2021
+Cash flows from operating activities
+Net income
+$
+2,866
+$
+5,103
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+(Recovery) provision for uncollectible accounts receivable, net
+( 57
+)
+116
+Depreciation and amortization
+2,039
+2,155
+Non-cash compensation
+467
+467
+Non-cash lease expenses
+2,013
+1,621
+Pension expense, net of contributions
+50
+17
+Gain on disposal of assets
+( 37
+)
+( 6
+)
+Changes in operating assets and liabilities:
+Accounts receivable
+7,198
+2,765
+Inventories, net
+( 3,561
+)
+( 4,822
+)
+Prepaids and other assets
+( 619
+)
+( 691
+)
+Accounts payable and accrued liabilities
+( 3,121
+)
+( 3,775
+)
+Forward contracts
+152
+( 1,562
+)
+Accrued compensation and employee benefits
+( 1,844
+)
+( 1,951
+)
+Operating lease liabilities
+( 1,624
+)
+( 1,616
+)
+Income taxes
+( 187
+)
+1,622
+Net cash provided by (used in) operating activities
+3,735
+( 557
+)
+Cash flows from investing activities
+Proceeds from sale of property and equipment
+42
+25
+Purchases of property and equipment
+( 11,640
+)
+( 19,644
+)
+Net cash used in investing activities
+( 11,598
+)
+( 19,619
+)
+Cash flows from financing activities
+Borrowings on long-term debt
+—
+10,000
+Payments on long-term debt
+( 138
+)
+( 68
+)
+Repurchase of common stock
+( 1,059
+)
+( 2,537
+)
+Net cash (used in) provided by financing activities
+( 1,197
+)
+7,395
+Net decrease in cash and cash equivalents
+( 9,060
+)
+( 12,781
+)
+Cash and cash equivalents at beginning of period
+21,833
+32,133
+Cash and cash equivalents at end of period
+$
+12,773
+$
+19,352
+Supplemental disclosures of cash flow information
+Cash paid during the period for:
+Interest
+$
+131
+$
+94
+Taxes
+$
+877
+$
+953
+See accompanying notes to condensed consolidated financial statements.
+6
+Table of Contents
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+A. Basis of Presentation and Summary of Significant Accounting Policies
+The accompanying interim unaudited condensed consolidated financial statements have been prepared in accordance with the instructions to Form
+10 -Q and with applicable rules and regulations. Pursuant to such rules and regulations, certain information and note disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles (U.S. GAAP) have been condensed or omitted. In management’s opinion, all adjustments necessary for a fair presentation of the financial position, results of operations, stockholders’ equity, and cash flows have been included and are of a normal, recurring nature. The results of operations for the
+three
+and
+six
+months ended
+December 31, 2022
+are
+not
+necessarily indicative of the operating results for the full fiscal year or for any future periods.
+You should read the financial statements and these notes, which notes are an integral part of the financial statements, together with our audited financial statements included in our Annual Report on Form
+10 -K for the fiscal year ended
+June 30, 2022 ( “2022
+Annual Report”). The accounting policies used to prepare the financial statements included in this Report are the same policies described in the notes to the consolidated financial statements in our
+2022
+Annual Report unless otherwise noted below.
+Recently Adopted Accounting Pronouncements
+We did
+not
+adopt any accounting pronouncements during the
+three
+and
+six
+months ended
+December 31, 2022.
+Recently Issued Accounting and Regulatory Pronouncements
+Other recently issued accounting pronouncements are
+not
+discussed in this Report as such pronouncements did
+not
+have, and are
+not
+believed by management to have, a material impact on our present or future financial statements.
+Net Income per Common Share
+We compute net income per common share using the weighted average number of common shares outstanding during the period, and diluted net income per common share using the additional dilutive effect of all dilutive securities. The dilutive impact of stock options and unvested restricted shares account for the additional weighted average shares of common stock outstanding for our diluted net income per common share computation. We calculated basic and diluted net income per common share as follows (in thousands, except per share data):
+Three Months Ended
+Six Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+Numerator
+Net income
+$ 1,813     $ 1,847     $ 2,866     $ 5,103
+Denominator
+Basic weighted average common shares outstanding
+5,866       6,212       5,893       6,250
+Dilutive effect of stock options and restricted stock
+7       44       15       54
+Diluted weighted average common shares outstanding
+5,873       6,256       5,908       6,304
+Basic net income per common share
+$ 0.31     $ 0.30     $ 0.49     $ 0.82
+Diluted net income per common share
+$ 0.31     $ 0.30     $ 0.49     $ 0.81
+We excluded
+50,377
+shares of restricted stock and
+no
+shares related to stock options for the
+three
+and
+six
+months ended
+December 31, 2022,
+as their impact would have been anti-dilutive. We did
+not
+exclude any stock options or restrictive stock shares for the
+three
+and
+six
+months ended
+December 31, 2021,
+as
+none
+would have had an anti-dilutive impact.
+7
+Table of Contents
+Revenue Recognition
+We record revenue based on a
+five -step model which includes: ( 1 ) identifying a contract with a customer; ( 2 ) identifying the performance obligations in the contract; ( 3 ) determining the transaction price; ( 4 ) allocating the transaction price among the performance obligations; and ( 5 ) recognizing revenue as each of the various performance obligations are satisfied.
+Revenue is measured as the net amount of consideration expected to be received in exchange for fulfilling
+one
+or more performance obligations. We identify purchase orders from customers as contracts. The amount of consideration expected to be received and revenue recognized includes estimates of variable consideration, including estimates for early payment discounts and volume rebates. Such estimates are calculated using historical averages adjusted for any expected changes due to current business conditions and experience. We review and update these estimates at the end of each reporting period and the impact of any adjustments is recognized in the period the adjustments are identified. In assessing whether collection of consideration from a customer is probable, we consider both the customer's ability and intent to pay that amount of consideration when it is due. Payment of invoices is due as specified in the underlying customer agreement, which is typically
+30
+days from the invoice date. Invoices are generally issued on the date of transfer of control of the products ordered to the customer.
+Revenue is recognized at the point in time that each of our performance obligations is fulfilled, and control of the ordered products is transferred to the customer. This transfer occurs when the product is shipped, or in some cases, when the product is delivered to the customer.
+We recognize revenue in certain circumstances before delivery to the customer has occurred (commonly referred to as bill-and-hold transactions). Products sold under bill-and-hold arrangements are recorded as revenue when risk of ownership has been transferred to the customer, but the product has
+not
+shipped due to a substantive reason, typically at the customer’s request. The product must be separately identified as belonging to the customer, ready for physical transfer to the customer, and we cannot have the ability to redirect the product to another customer.
+We provide early payment discounts to certain customers. Based on historical payment trends, we expect that these customers will take advantage of these early payment discounts. The cost of these discounts is reported as a reduction to the transaction price. If the actual discounts differ from those estimated, the difference is also reported as a change in the transaction price. We require prepayment from certain customers. We record any payments received in advance of contract fulfillment as a contract liability and they are classified as customer deposits on the consolidated balance sheet.
+Contract liabilities and revenue recognized were as follows (in thousands):
+June 30,
+2022
+Additions
+Revenue
+Recognized
+Customer
+Refunds
+December 31,
+2022
+Contract Liabilities (Customer Deposits)
+$ 140       425     $ ( 137
+)
+( 3 )     425
+June 30,
+2021
+Additions
+Revenue
+Recognized
+Customer
+Refunds
+December 31,
+2021
+Contract Liabilities (Customer Deposits)
+$ 1,721       622     $ ( 1,721
+)
+—       622
+Except for product defects,
+no
+right of return exists on the sale of our products. We estimate returns based on historical experience and recognize a returns liability for any estimated returns. As of
+December 31, 2022,
+we have
+no
+estimated returns liability.
+We currently own certain U.S. patents, and each patent’s corresponding foreign patent applications. All of these patents and patent rights relate to the ingredient known as beta-alanine marketed and sold under our CarnoSyn® and SR CarnoSyn® trade names. We recorded beta-alanine raw material sales and royalty and licensing income as a component of revenue in the amount of $ 1.5
+million during the
+three
+months ended
+December 31, 2022,
+and $ 2.8
+million during the
+six
+months ended
+December 31, 2022.
+We similarly recorded $ 4.1
+million during the
+three
+months ended
+December 31, 2021,
+and $ 8.8
+million during the
+six
+months ended
+December 31, 2021.
+These royalty income and raw material sale amounts resulted in royalty expense paid to the original patent holders from whom NAI acquired its patents and patent rights. We recognized royalty expense as a component of cost of goods sold in the amount of $ 78,000
+during the
+three
+months ended
+December 31, 2022,
+and $ 105,000
+during the
+six
+months ended
+December 31, 2022.
+We recorded $ 163,000
+of royalty expense during the
+three
+months ended
+December 31, 2021,
+and $ 399,000
+during the
+six
+months ended
+December 31, 2021.
+8
+Table of Contents
+Stock-Based Compensation
+The Board of Directors approved our current omnibus equity incentive plan that became effective
+January 1, 2021 ( the
+“2020
+Plan”), which was approved by our stockholders at the Annual Meeting of Stockholders on
+December 4, 2020.
+Under the
+2020
+Plan, we
+may
+grant nonqualified and incentive stock options, restricted stock grants, restricted stock units, stock appreciation rights, and other stock-based awards to employees, non-employee directors and consultants.
+We did
+not
+have any option activity or options outstanding during the
+three
+and
+six
+month periods ended
+December 31, 2022
+or
+December 31, 2021.
+We did
+not
+grant any restricted stock shares during the
+three
+or
+six
+months ending
+December 31, 2022
+or
+December 31, 2021.
+No
+restricted stock shares were forfeited during the
+three
+or
+six
+months ended
+December 31, 2022.
+During the
+three
+months ended
+December 31, 2021,
+2,100
+restricted stock shares were forfeited. During the
+six
+months ended
+December 31, 2021,
+18,432
+restricted stock shares were forfeited. Our net income included stock-based compensation expense in connection with prior restricted stock grants of approximately $ 0.2
+million for the
+three
+months ended
+December 31, 2022
+and $ 0.5
+million for the
+six
+month ended
+December 31, 2022.
+Our net income included stock based compensation expense in connection with the vesting of prior restricted stock grants of approximately $ 0.2
+million for the
+three
+months ended
+December 31, 2021
+and $ 0.5
+million for the
+six
+months ended
+December 31, 2021.
+Deferred Compensation Plan
+Effective
+July 16, 2020,
+the Board of Directors approved and adopted a Non-Qualified Incentive Plan (the “Incentive Plan”). Pursuant to the Incentive Plan, the Human Resources Committee and the Board of Directors
+may
+make deferred cash payments or other cash awards (“Awards”) to directors, officers, employees and eligible consultants of NAI, (“Participants”). These Awards are made subject to conditions precedent that must be met before NAI is obligated to make the payment. The purpose of the Incentive Plan is to enhance the long-term stockholder value of NAI by providing the Human Resources Committee and the Board of Directors the ability to make deferred cash payments or other cash awards to encourage Participants to serve NAI or to remain in the service of NAI, or to assist NAI to achieve results determined by the Human Resources Committee or the Board of Directors to be in NAI's best interest.
+The Incentive Plan authorizes the Human Resources Committee or the Board of Directors to grant to, and administer, unsecured and deferred cash Awards to Participants and to subject each Award to whatever conditions are determined appropriate by the Human Resources Committee or the Board of Directors. The terms of each Award, including the amount and any conditions that must be met to be entitled to payment of the Award are set forth in an Award Agreement between each Participant and NAI. The Incentive Plan provides the Board of Directors with the discretion to set aside assets to fund the Incentive Plan although that has
+not
+been done to date.
+No
+deferred cash awards were granted during the
+three
+and
+six
+months ended
+December 31, 2022
+and the
+three
+and
+six
+months ended
+December 31, 2021.
+No
+deferred cash awards were forfeited during the
+three
+and
+six
+month periods ended
+December 31, 2022.
+No
+deferred cash awards were forfeited during the
+three
+months ended
+December 31, 2021.
+Awards totaling $ 191,000
+were forfeited during the
+six
+months ended
+December 31, 2021.
+Fair Value of Financial Instruments
+Except for cash and cash equivalents, as of
+December 31, 2022,
+and
+June 30, 2022,
+we did
+not
+have any financial assets or liabilities classified as Level
+1.
+We classify derivative forward exchange and interest rate swap contracts as Level
+2
+assets and liabilities. The fair values were determined by obtaining pricing from our bank and corroborating those values with a
+third
+party bank or pricing service.
+9
+Table of Contents
+Fair value of derivative instruments classified as Level
+2
+assets and liabilities consisted of the following (in thousands):
+December 31,
+2022
+June 30,
+2022
+Euro Forward Contract– Current Assets
+$ 1,448     $ 3,144
+Swiss Franc Forward Contract – Current Assets
+297       109
+Total Derivative Contracts – Current Assets
+1,745       3,253
+Interest Swap – Other noncurrent Assets
+632       453
+Euro Forward Contract– Other noncurrent Assets
+—       561
+Total Derivative Contracts – Other noncurrent Assets
+632       1,014
+Fair Value Net Asset – all Derivative Contracts
+$ 2,377     $ 4,267
+We also classify any outstanding line of credit and term loan balance as a Level
+2
+liability. As of
+December 31, 2022,
+and
+June 30, 2022,
+we did
+not
+have any financial assets or liabilities classified as Level
+3.
+We did
+not
+transfer any assets or liabilities between these levels during fiscal
+2022
+or the
+three
+and
+six
+months ended
+December 31, 2022.
+B. Inventories, net
+Inventories, net consisted of the following (in thousands):
+December 31,
+2022
+June 30,
+2022
+Raw materials
+$ 23,780     $ 28,196
+Work in progress
+6,408       1,948
+Finished goods
+6,338       2,842
+Reserve
+( 490
+)
+( 511
+)
+$ 36,036     $ 32,475
+C. Property and Equipment
+Property and equipment consisted of the following (in thousands):
+Depreciable Life
+In Years
+December 31,
+2022
+June 30,
+2022
+Land
+NA
+$
+7,645
+$
+7,645
+Building and building improvements
+7
+–
+39
+25,424
+17,415
+Machinery and equipment
+3
+–
+12
+41,443
+40,131
+Office equipment and furniture
+3
+–
+5
+6,161
+5,970
+Vehicles
+3
+254
+211
+Leasehold improvements
+1
+–
+15
+22,346
+21,626
+Total property and equipment
+103,273
+92,998
+Less: accumulated depreciation and amortization
+( 49,104
+)
+( 48,425
+)
+Property and equipment, net
+$
+54,169
+$
+44,573
+Depreciation expense was approximately $ 1.1
+million and $ 2.0
+million for the
+three
+and
+six
+month periods ended
+December 31, 2022,
+respectively. Depreciation expense was approximately $ 1.1
+million and $ 2.2
+million for the
+three
+and
+six
+month periods ended
+December 31, 2021,
+respectively. Construction in progress is included in the building and building improvements line.
+10
+Table of Contents
+D. Other Comprehensive Income (Loss)
+Other comprehensive (loss) income (“OCL” and “OCI”) consisted of the following during the
+three
+and
+six
+months ended
+December 31, 2022
+and
+December 31, 2021 ( in thousands):
+Three Months Ended
+December 31, 2022
+Defined
+Unrealized Gains
+Unrealized Gains
+Benefit
+(Losses) on
+(Losses) on
+Pension
+Cash Flow
+Swap
+Plan
+Hedges
+Derivative
+Total
+Beginning Balance
+$ ( 444
+)
+$ 2,203     $ 485     $ 2,244
+OCI/OCL before reclassifications
+—       ( 1,173 )     4       ( 1,169
+)
+Amounts reclassified from OCI to Sales
+—       ( 1,162 )     —       ( 1,162
+)
+Tax effect of OCI activity
+—       523       ( 1
+)
+522
+Net current period OCI/OCL
+—       ( 1,812
+)
+3       ( 1,809 )
+Ending Balance
+$ ( 444
+)
+$ 391     $ 488     $ 435
+Six Months Ended
+December 31, 2022
+Defined
+Unrealized Gains
+Unrealized Gains
+Benefit
+(Losses) on
+(Losses) on
+Pension
+Cash Flow
+Swap
+Plan
+Hedges
+Derivative
+Total
+Beginning Balance
+$ ( 444
+)
+$ 1,795     $ 348     $ 1,699
+OCI/OCL before reclassifications
+—       615       178       793
+Amounts reclassified from OCI to Sales
+—       ( 2,423 )     —       ( 2,423
+)
+Tax effect of OCI activity
+—       404       ( 38
+)
+366
+Net current period OCI/OCL
+—       ( 1,404
+)
+140       ( 1,264
+)
+Ending Balance
+$ ( 444
+)
+$ 391     $ 488     $ 435
+Three Months Ended
+December 31, 2021
+Defined
+Unrealized Gains
+Unrealized Gains
+Benefit
+(Losses) on
+(Losses) on
+Pension
+Cash Flow
+Swap
+Plan
+Hedges
+Derivative
+Total
+Beginning Balance
+$ ( 538
+)
+$ 931       —     $ 393
+OCI/OCL before reclassifications
+—       855       62       917
+Amounts reclassified from OCI to Sales
+—       ( 504 )     —       ( 504
+)
+Tax effect of OCI activity
+—       ( 82
+)
+—       ( 82
+)
+Net current period OCI/OCL
+—       269       62       331
+Ending Balance
+$ ( 538
+)
+$ 1,200     $ 62     $ 724
+11
+Table of Contents
+Six Months Ended
+December 31, 2021
+Defined
+Unrealized Gains
+Unrealized Gains
+Benefit
+(Losses) on
+(Losses) on
+Pension
+Cash Flow
+Swap
+Plan
+Hedges
+Derivative
+Total
+Beginning Balance
+$ ( 538
+)
+$ ( 23 )     —     $ ( 561 )
+OCI/OCL before reclassifications
+—       2,244       62       2,306
+Amounts reclassified from OCI to Sales
+—       ( 650 )     —       ( 650
+)
+Tax effect of OCI activity
+—       ( 371
+)
+—       ( 371
+)
+Net current period OCI/OCL
+—       1,223       62       1,285
+Ending Balance
+$ ( 538
+)
+$ 1,200     $ 62     $ 724
+E. Leases
+We currently lease our Vista, CA and Lugano, Switzerland product manufacturing and support facilities.
+Leases are classified as operating leases. Substantially all our operating leases are comprised of payments for the use of manufacturing and office space. We have
+no
+leases classified as finance leases. As of
+December 31, 2022,
+the weighted average remaining lease term for our operating leases was
+5.9
+years and the weighted average discount rate for our operating leases was
+4.14 %. As of
+June 30, 2022,
+the weighted average remaining lease term for our operating leases was
+6.3
+years and the weighted average discount rate was
+4.12 %.
+Other information related to leases as of
+December 31, 2022
+and
+December 31, 2021
+was as follows (in thousands):
+Supplemental Cash Flows Information
+Six Months Ended
+December 31, 2022
+Six Months Ended
+December 31, 2021
+Cash paid for amounts included in the measurement of operating lease liabilities
+$ 1,634     $ 1,620
+Operating lease liabilities arising from obtaining Right of Use Assets for new leases
+—       —
+F. Debt
+On
+May 24, 2021,
+we entered into a new credit facility with Wells Fargo Bank, N.A (“Wells Fargo”) to extend the maturity for our working line of credit from
+November 1, 2022  to
+May 24, 2024.
+This new credit facility provides total lending capacity of up to $ 20.0
+million and allows us to use the credit facility for working capital as well as potential acquisitions. On
+August 18, 2021,
+we entered into an amendment of our credit facility with Wells Fargo. The amended credit facility added a $ 10.0
+million term loan to the existing $ 20.0
+million credit facility, and permitted us to use the
+$10.0
+million term loan as part of the $ 17.5
+million purchase consideration for the acquisition of our new manufacturing and warehouse property in Carlsbad, California. The amended credit agreement also increased the allowed capital expenditures from $ 10.0
+million to $ 15.0
+million for fiscal
+2022  (exclusive of the amount paid for the acquisition of the new Carlsbad property noted above). In addition, the new credit notes now reflect a change in the interest rate reference from LIBOR to Secured Overnight Financing Rate (SOFR). The Credit Agreement was amended and a new Revolving Line of Credit Note, and Security Agreement were entered into. A Term Note and real property security documents were added to secure the Term Note by the new Carlsbad property. Additionally, we entered into a
+second
+amendment to our credit facility with Wells Fargo on
+February 8, 2022
+that was effective
+January 31, 2022
+and modified the annual limit imposed upon our ability to repurchase stock and issue dividends. This amendment increased this limit from $ 5.0
+million annually to $ 7.0
+million annually. Effective
+September 19, 2022,
+we entered into a
+third
+amendment to our credit facility with Wells Fargo. The
+third
+amendment extends the maturity date from
+May 24, 2024
+to
+May 23, 2025
+and also increased the allowed capital expenditures from $ 7.5
+million to $ 25.0
+million for the fiscal year ending
+June 30, 2023.
+12
+Table of Contents
+Under the terms of the Credit Agreement, borrowings are subject to eligibility requirements including maintaining (i) a ratio of total liabilities to tangible net worth of
+not
+greater than
+1.50
+to
+1.0
+at any time; (ii) a ratio of total current assets to total current liabilities of
+not
+less than
+1.75
+to
+1.0
+at each fiscal quarter end (iii) net income after taxes
+not
+less than $ 1.00 , determined on a trailing
+four
+quarter basis with
+no
+two
+consecutive quarterly losses, determined as of each quarter end and (iv) a rolling
+4 -quarter fixed charge coverage ratio
+not
+less than
+1.25
+to
+1.0
+as of each fiscal quarter end. The credit agreement also includes a limitation on the amount of capital expenditures that can be made in a given fiscal year, with such limitation set at $ 25.0
+million for our fiscal year ending
+June 30, 2023
+and $ 7.5
+million for all fiscal years thereafter. Any amounts outstanding under the line of credit will bear interest at a fixed or fluctuating interest rate as elected by us from time to time; provided, however, that if the outstanding principal amount is less than $ 100,000
+such amount shall bear interest at the then applicable fluctuating rate of interest. If elected, the fluctuating rate per annum would be equal to
+1.29 % above the daily simple SOFR rate as in effect from time to time. If a fixed rate is elected, it would equal a per annum rate of
+1.29 % above the SOFR rolling
+30 -day average rate in effect on the
+first
+day of the applicable fixed rate term. Any amounts outstanding under the line of credit must be paid in full on or before the maturity date. Amounts outstanding that are subject to a fluctuating interest rate
+may
+be prepaid at any time without penalty. Amounts outstanding that are subject to a fixed interest rate
+may
+be prepaid at any time in minimum amounts of $ 100,000 , subject to a prepayment fee equal to the sum of the discounted monthly differences between payment under a fixed rate versus payment under the variable rate for each month from the month of prepayment through the month in which the then applicable fixed rate term matures. There is an unused commitment fee of
+0.125 % required as part of the line of credit.
+The Term Note used as part of the purchase consideration of our new manufacturing and warehouse property in Carlsbad, California referenced above, is for the original principal amount of $ 10.0
+million, and is a
+seven
+year term note with payments fully amortized based on a
+twenty five
+year assumed term. Installment payments under this loan commenced
+October 1, 2021
+and continue through
+August 1, 2028
+with a final installment consisting of all remaining amounts due to be paid in full on
+September 1, 2028.
+Amounts outstanding on this note during the term of the agreement will bear interest equal to
+1.8 % above the SOFR rolling
+30 -day average. In connection with our term loan, we entered into an interest rate swap with Wells Fargo that effectively fixes our interest rate on our term loan at
+2.4 % for the
+first
+three
+years of the term of the note.
+Our obligations under the Credit Agreement are secured by our accounts receivable and other rights to payment, general intangibles, inventory, equipment and fixtures. We also have credit approval with Wells Fargo Bank, which allows us to hedge foreign currency exposures up to
+30
+months in the future. We also have credit approval with Bank of America which allows us to hedge foreign currency exposures up to
+24
+months in the future.
+On
+December 31, 2022,
+we were in compliance with all of the financial and other covenants required under the Amended Credit Agreement.
+As of
+December 31, 2022,
+we paid off the outstanding balance on our credit facility with Wells Fargo Bank. As of
+December 31, 2022,
+that credit facility had $ 20
+million available for borrowing.
+As of
+December 31, 2022,
+we had $ 9.7
+million outstanding under the Term Note used in the purchase of the Carlsbad, California warehouse in
+August 2021.
+G. Economic Dependency
+We had substantial net sales to certain customers during the periods shown in the following table. The loss of any of these customers, or a significant decline in (i) sales to these customers, (ii) the growth rate of sales to these customers, or (iii) these customers’ ability to make payments when due, each individually could have a material adverse impact on our net sales and net income. Net sales to any
+one
+customer representing
+10%
+or more of the respective period's consolidated net sales were as follows (in thousands):
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Customer 1
+$ 15,982     $ 4,773     $ 30,987     $ 9,121
+Customer 2
+14,112       12,966       29,265       26,264
+Customer 3
+4,503       8,595       10,831       15,988
+$ 34,597     $ 26,334     $ 71,083     $ 51,373
+Accounts receivable from these customers totaled $ 7.0
+million at
+December 31, 2022
+and $ 10.7
+million at
+June  30,
+2022.
+13
+Table of Contents
+We buy certain products, including beta-alanine, from a limited number of raw material suppliers who meet our quality standards. The loss of any of these suppliers could have a material adverse impact on our net sales and net income. Raw material purchases from any
+one
+supplier representing
+10%
+or more of the respective period’s total raw material purchases were as follows (dollars in thousands):
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Supplier 1
+$ 3,961     $ 4,485     $ 6,793     $ 7,854
+H. Segment Information
+Our business consists of
+two
+segments for financial reporting purposes. The
+two
+segments are identified as (i) private-label contract manufacturing, which primarily relates to the provision of private-label contract manufacturing services to companies that market and distribute nutritional supplements and other health care products, and (ii) patent and trademark licensing, which primarily includes direct raw material sales and royalty income from our license and supply agreements associated with the sale and use of beta-alanine under our CarnoSyn® and SR CarnoSyn® trade names.
+We evaluate performance of these segments based on a number of factors. The primary performance measures for each segment are net sales and income or loss from operations before the allocation of certain corporate level expenses. Operating income or loss for each segment does
+not
+include corporate general and administrative expenses, interest expense and other miscellaneous income and expense items. Corporate general and administrative expenses include, but are
+not
+limited to human resources, corporate legal, finance, information technology, and other corporate level related expenses, which are
+not
+allocated to any segment. Transfers of raw materials between segments are recorded at cost. The accounting policies of our segments are the same as those described in the summary of significant accounting policies in Note A above and in the consolidated financial statements included in our
+2022
+Annual Report.
+Our operating results by business segment were as follows (in thousands):
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022
+2021
+Net Sales
+Private label contract manufacturing
+$ 40,839     $ 33,677     $ 82,615     $ 67,271
+Patent and trademark licensing
+1,456       4,050       2,807       8,796
+Total Net Sales
+$ 42,295     $ 37,727     $ 85,422     $ 76,067
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022     2021
+Income from Operations
+Private label contract manufacturing
+$ 4,266     $ 2,761     $ 7,510     $ 6,461
+Patent and trademark licensing
+347       1,757       694       4,393
+Income from operations of reportable segments
+4,613       4,518       8,204       10,854
+Corporate expenses not allocated to segments
+( 2,128
+)
+( 2,117
+)
+( 4,177
+)
+( 4,225
+)
+Total Income from Operations
+$ 2,485     $ 2,401     $ 4,027     $ 6,629
+December 31,
+2022
+June 30,
+2022
+Total Assets
+Private-label contract manufacturing
+$ 111,151     $ 115,649
+Patent and trademark licensing
+29,427       30,354
+$ 140,578     $ 146,003
+Our private-label contract manufacturing products are sold both in the U.S. and in markets outside the U.S., including Europe, Canada, Australia, New Zealand, Mexico, and Asia. Our primary markets outside the U.S. are Europe and Asia. Our patent and trademark licensing activities are primarily based in the U.S.
+14
+Table of Contents
+Net sales by geographic region, based on the customers’ location, were as follows (in thousands):
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2022
+2021
+2022
+2021
+United States
+$ 28,908     $ 25,402     $ 58,740     $ 48,897
+Markets outside of the United States
+13,387       12,325       26,682       27,170
+Total
+$ 42,295     $ 37,727     $ 85,422     $ 76,067
+Products manufactured by our Swiss subsidiary ("NAIE") accounted for
+73 % of net sales in markets outside the U.S. for the
+three
+months ended
+December 31, 2022
+and
+75 % for the
+six
+months ended
+December 31, 2022.
+Products manufactured by our Swiss subsidiary ("NAIE") accounted for
+89 % of net sales in markets outside the U.S. for the
+three
+months ended
+December 31, 2021
+and
+84 % for the
+six
+months ended
+December 31, 2021.
+Long-lived assets by geographic region, based on the location of the company or subsidiary at which they were located or made, were as follows (in thousands):
+December 31, 2022
+June 30, 2022
+United States
+$ 53,613     $ 43,769
+Europe
+21,105       22,505
+Total Long-Lived Assets
+$ 74,718     $ 66,274
+Total assets by geographic region, based on the location of the company or subsidiary at which they were located or made, were as follows (in thousands):
+December 31, 2022
+June 30, 2022
+United States
+$ 87,466     $ 83,443
+Europe
+53,112       62,560
+Total Assets
+$ 140,578     $ 146,003
+Capital expenditures by geographic region, based on the location of the company or subsidiary at which they were located or made, were as follows (in thousands):
+Six Months Ended
+December 31,
+2022
+2021
+United States
+$ 11,486     $ 19,250
+Europe
+154       394
+Total Capital Expenditures
+$ 11,640     $ 19,644
+I. Income Taxes
+To determine our quarterly provision for income taxes, we use an estimated annual effective tax rate, which is based on expected annual income, statutory tax rates and tax planning opportunities available in the various jurisdictions to which we are subject. Certain significant or unusual items are separately recognized in the quarter in which they occur and can be a source of variability in the effective tax rate from quarter to quarter. We recognize interest and penalties related to uncertain tax positions, if any, as an income tax expense.
+Our effective tax rate for the
+three
+months ended
+December 31, 2022
+was
+20.7 % and our effective tax rate for the
+three
+months ended
+December 31, 2021
+was
+22.8 %. Our effective tax rate for the
+six
+months ended
+December 31, 2022
+was
+20.5 % and our effective tax rate for the
+six
+months ended
+December 31, 2021
+was
+22.6 %. Our effective tax rates for the
+three
+and
+six
+months ended
+December 31, 2021
+differ from the fiscal
+2022
+U.S. federal statutory rate of
+21 % primarily due to foreign income tax rate differential and other tax credits.
+We record valuation allowances to reduce our deferred tax assets to an amount we believe is more likely than
+not
+to be realized. In assessing the realizability of deferred tax assets, management considers whether it is more likely than
+not
+that some portion or all of the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. During the
+three
+and
+six
+months ended
+December 31, 2022,
+there was
+no
+change to our valuation allowance for our deferred tax assets.
+15
+Table of Contents
+J. Treasury Stock
+We purchase shares under a stock repurchase plan (“Repurchase Plan”) authorized by the Board of Directors. On
+December 2, 2022,
+the Board of Directors authorized a $ 1.0
+million increase to the Repurchase Plan, thus bringing the total authorized repurchase to $ 19.0
+million. Under the Repurchase Plan, we
+may,
+from time to time, purchase shares of our common stock, depending upon market conditions, in open market or privately negotiated transactions.
+Stock repurchases for the
+three
+months ended
+December 31, 2022
+were as follows:
+Shares
+Average Cost
+Total Cost (in thousands)
+Shares purchased under Repurchase Plan
+68,570     $ 8.19     $ 562
+Shares acquired from employees for restricted stock vesting
+—       —       —
+Total
+68,570           $ 562
+Stock repurchases for the
+six
+months ended
+December 31, 2022
+were as follows:
+Shares
+Average Cost
+Total Cost (in thousands)
+Shares purchased under Repurchase Plan
+115,365     $ 9.18     $ 1,059
+Shares acquired from employees for restricted stock vesting
+—       —       —
+Total
+115,365             $ 1,059
+Stock repurchases for the
+three
+months ended
+December 31, 2021
+were as follows:
+Shares
+Average Cost
+Total Cost (in thousands)
+Shares purchased under Repurchase Plan
+189,702     $ 13.32     $ 2,527
+Shares acquired from employees for restricted stock vesting
+—       —       —
+Total
+189,702           $ 2,527
+Stock repurchases for the
+six
+months ended
+December 31, 2021
+were as follows:
+Shares
+Average Cost
+Total Cost (in thousands)
+Shares purchased under Repurchase Plan
+189,702     $ 13.32     $ 2,527
+Shares acquired from employees for restricted stock vesting
+692       14.20       10
+Total
+190,394           $ 2,537
+Stock repurchase costs include commissions and fees.
+Shares acquired from employees for restricted stock vesting were returned to us by the related employees and in return we paid each employee’s required tax withholding resulting from the vesting of restricted shares. The valuation of the shares acquired and thereby the number of shares returned to us was calculated based on the closing share price on the date the shares vested.
+K. Derivatives and Hedging
+We are exposed to gains and losses resulting from fluctuations in foreign currency exchange rates relating to forecasted product sales denominated in foreign currencies and to other transactions of NAIE, our foreign subsidiary. As part of our overall strategy to manage the level of exposure to the risk of fluctuations in foreign currency exchange rates, we
+may
+use foreign exchange contracts in the form of forward contracts. To the extent we enter into such contracts, there can be
+no
+guarantee any such contracts will be effective hedges against our foreign currency exchange risk.
+As of
+December 31, 2022,
+we had forward contracts designated as cash flow hedges primarily to protect against the foreign exchange risks inherent in our forecasted sales of products at prices denominated in currencies other than the U.S. Dollar. These contracts are expected to be settled through
+September 2023.
+For derivative instruments that are designated and qualify as cash flow hedges, we record the effective portion of the gain or loss on the derivative in accumulated other comprehensive income (“OCI”) as a separate component of stockholders’ equity and subsequently reclassify these amounts into earnings in the period during which the hedged transaction is recognized in earnings.
+16
+Table of Contents
+For foreign currency contracts designated as cash flow hedges, hedge effectiveness is measured using the spot rate. Changes in the spot-forward differential are excluded from the test of hedge effectiveness and are recorded currently in earnings as revenue. We measure effectiveness by comparing the cumulative change in the hedge contract with the cumulative change in the hedged item.
+No
+hedging relationships were terminated as a result of ineffective hedging for the
+three
+and
+six
+months ended
+December 31, 2022
+and
+December 31, 2021.
+We monitor the probability of forecasted transactions as part of the hedge effectiveness testing on a quarterly basis. During the
+three
+and
+six
+months ended
+December 31, 2022
+and
+December 31, 2021,
+we did
+not
+have any losses or gains related to the ineffective portion of our hedging instruments.
+As of
+December 31, 2022,
+the notional amounts of our foreign exchange contracts designated as cash flow hedges were approximately $ 23.3
+million (EUR
+20.2
+million). As of
+December 31, 2022,
+a net gain of approximately $ 0.5
+million, offset by $ 0.1
+million of deferred taxes, related to derivative instruments designated as cash flow hedges was recorded in OCI. It is expected that the entire amount will be reclassified into earnings in the next
+12
+months along with the earnings effects of the related forecasted transactions.
+For foreign currency contracts
+not
+designated as cash flow hedges, changes in the fair value of the hedge are recorded directly to foreign exchange gain or loss in other income in an effort to offset the change in valuation of the underlying hedged item. During the
+three
+and
+six
+months ended
+December 31, 2022
+we entered into forward contracts in order to hedge foreign exchange risk associated with our lease liability at NAIE, which is denominated in Swiss Francs (CHF). As of
+December 31, 2022,
+the notional amounts of our foreign exchange contracts
+not
+designated as cash flow hedges were approximately $ 12.5
+million (CHF
+11.7
+million).
+We are exposed to interest rate fluctuations related to our $ 10.0
+million Term Note with Wells Fargo, which carries a variable interest rate of
+1.80 % above the SOFR rolling
+30 -day average. To manage our exposure to this variable rate, on
+August 23, 2021,
+we entered into a floored interest rate swap that fixes our all-in rate on this loan to
+2.4 % for the
+first
+three
+years of the term loan. Fluctuations in the relation of our contractual swap rate to current market rates are recorded as an asset or liability with an offset to OCI at the end of each reporting period. Interest expense is adjusted for the difference between the actual SOFR spread and the swap contractual rate such that our effective interest expense for each period is equal to our hedged rate of
+2.4%.
+L. Contingencies
+From time to time, we become involved in various investigations, claims and legal proceedings that arise in the ordinary course of our business. These matters
+may
+relate to product liability, employment, intellectual property, regulatory, contract or other matters. The resolution of these matters as they arise
+may
+be subject to various uncertainties and, even if such claims are without merit, could result in the expenditure of significant financial and managerial resources. While unfavorable outcomes are possible, based on available information, we currently do
+not
+believe the resolution of these matters will result in a material adverse effect on our business, consolidated financial condition, or results of operations. However, a settlement payment or unfavorable outcome could be greater than we currently anticipate and if so, could adversely impact our results of operations. Our evaluation of the likely impact of these actions could change in the future and we could have unfavorable outcomes we do
+not
+expect.
+COVID- 19
+Pandemic
+We continue to monitor and evaluate the risks to public health and the impact on overall global business activity related to the COVID- 19
+pandemic, including its potential impacts on our employees, customers, suppliers and financial results. As the situation remains fluid, it is difficult to predict the duration and scope of the pandemic and its impact on our business. However, it
+may
+result in a material adverse impact to our financial position, operations and cash flows if conditions persist or worsen.
+M. Subsequent Event
+On
+January 12, 2023,
+we purchased
+four
+forward contracts designated and effective as cash flow hedges to protect against the foreign currency exchange risk inherent in a portion of our forecasted sales transactions denominated in Euros. The
+four
+contracts expire quarterly beginning
+December 2023
+and ending
+September 2024.
+The forward contracts have a notional amount of
+€6.9
+million and a weighted average forward rate of
+1.10 .
+17
+Table of Contents
+ITEM 2.       MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis is intended to help you understand our financial condition and results of operations for the three and six months ended December 31, 2022. You should read the following discussion and analysis together with our unaudited condensed consolidated financial statements and the notes to the condensed consolidated financial statements included under Item 1 in this Report, as well as the risk factors and other information included in our 2022 Annual Report and other reports and documents we file with the SEC. Our future financial condition and results of operations will vary from our historical financial condition and results of operations described below based on a variety of factors.
+Executive Overview
+The following overview does not address all of the matters covered in the other sections of this Item 2 or other items in this Report nor does it contain all of the information that may be important to our stockholders or the investing public. You should read this overview in conjunction with the other sections of this Item 2 and this Report.
+Our primary business activity is providing private-label contract manufacturing services to companies that market and distribute vitamins, minerals, herbal and other nutritional supplements, as well as other health care products, to consumers both within and outside the U.S. Historically, our revenue has been largely dependent on sales to two or three private-label contract manufacturing customers and subject to variations in the timing of such customers’ orders, which in turn is impacted by such customers’ internal marketing programs, supply chain management, entry into new markets, new product introductions, the demand for such customers’ products, and general industry and economic conditions. Our revenue also includes raw material sales and royalty and licensing revenue generated from license and supply agreements with third parties, granting them the right to use our patents, trademarks and other intellectual property in connection with the distribution and use of the ingredient known as beta-alanine sold under our CarnoSyn® and SR CarnoSyn® trademarks.
+A cornerstone of our business strategy is to achieve long-term growth and profitability and to diversify our sales base. We have sought and expect to continue to seek to diversify our sales by developing relationships with additional, quality-oriented, private-label contract manufacturing customers, and commercializing our patent estate through sales of beta-alanine under our CarnoSyn® and SR CarnoSyn® trade names, royalties from license agreements, and potentially additional contract manufacturing opportunities with licensees.
+During the six months ended December 31, 2022, our net sales were 12% higher than in the first six months ended December 31, 2021. Private-label contract manufacturing sales increased 23% primarily due to higher sales to our two largest customers, partially offset by decreased sales to other customers and lower average exchange rates applied to sales denominated in Euro as compared to the prior year period. Our foreign exchange rates as applied to sales denominated in Euro decreased to a weighted average of 1.13 EUR/USD in the six months ended December 31, 2022 compared to a weighted average of 1.18 EUR/USD during the six months ended December 31, 2021. Revenue concentration risk for our largest private-label contract manufacturing customer as a percentage of our total net sales increased from 35% for the six months ended December 31, 2021 to 36% for the six months ended December 31, 2022. We expect our annualized fiscal year 2023 revenue concentration for our largest customer to increase compared to fiscal 2022 revenue.
+During the six months ended December 31, 2022, patent and trademark licensing revenue decreased 68% to $2.8 million, compared to revenue of $8.8 million for the six months ended December 31, 2021. The decrease in patent and trademark licensing revenue during six months ended December 31, 2022 was primarily due to a decrease in orders from existing customers as a result of market and inflationary factors along with a general slowdown in the Sports Nutrition sales channel. Included in the market factors is the fact that the six months ended December 31, 2021 benefited from a ramp up of Sports Nutrition sales activity due to easing COVID restrictions on athletic activities with no corresponding activity in the six months ended December 31, 2022.
+We continue to invest in research and development for our SR CarnoSyn® sustained release delivery system.
+We believe SR CarnoSyn® may provide a unique opportunity within the growing Wellness and Healthy Aging markets. We believe our recent efforts to refine our formulations and product offerings will be positively received and result in significant opportunity for increased SR CarnoSyn® sales.
+18
+Table of Contents
+To protect our CarnoSyn® business and our patents, trademarks and other intellectual property, we incurred litigation and patent compliance expenses of approximately $0.1 million during the first six months of fiscal 2023 as compared to $0.2 million during the comparable period in fiscal 2022. Our legal expense associated with our CarnoSyn® business has remained low as we have no active litigation and the current run-rate of expenses is primarily related to maintenance of our patent and trademark estate. Our ability to maintain or further increase our beta-alanine royalty and licensing revenue will depend in large part on our ability to develop a market for our sustained release form of beta-alanine marketed under our SR CarnoSyn® trademark, maintain our patent rights, obtain the raw material beta-alanine when and in the amounts needed, expand distribution of beta-alanine to new and existing customers, and continued compliance by third parties with our license agreements and our patent, trademark and other intellectual property rights. During the remainder of fiscal 2023, we will continue our sales and marketing activities to consumers, customers, potential customers, and brand owners on multiple platforms to promote and reinforce the features and benefits of utilizing CarnoSyn® and SR CarnoSyn® beta-alanine.
+Based on our current sales order volumes and forecasts we have received from our customers, we now anticipate our fiscal 2023 consolidated net sales will decrease slightly compared to fiscal 2022. We anticipate operating income will be negatively impacted by changes in sales mix, unfavorable foreign exchange rates, and inflationary factors including increased operational costs, increased labor, raw material, freight and supply chain costs. We anticipate the negative effects of these factors will have a more significant impact to our operating income in the second half of fiscal 2023. We are actively evaluating cost reduction opportunities, including working with both suppliers and customers, to mitigate the impact of these higher operational costs on our financial results. There can be no assurance our expectations will result in the currently anticipated net sales or financial results.
+During the remainder of fiscal year 2023, we also plan to continue our focus on:
+•
+Leveraging our state-of-the-art, certified facilities to increase the value of the goods and services we provide to our highly valued private-label contract manufacturing customers, and to assist us in developing relationships with additional quality oriented customers;
+•
+Completing construction on our new high-volume powder blending and packaging facility, which we expect to be operational by late fiscal year 2023;
+•
+Expanding the commercialization of our beta-alanine patent estate through raw material sales, developing a new sales distribution channel under the Wellness and Healthy Aging category for our sustained release form of beta-alanine marketed under our SR CarnoSyn® trademark, exploiting new contract manufacturing opportunities license and royalty agreements, and protecting our proprietary rights; and
+•
+Improving operational efficiencies and managing costs and business risks to improve profitability.
+Impact of COVID-19 on Our Business
+The COVID-19 pandemic has resulted, and is likely to continue to result, in significant economic disruption and has and will likely continue to affect our business. Significant uncertainty exists concerning the magnitude of the impact and duration of the COVID-19 pandemic. Our facilities, located both in the United States and Europe, have maintained operations throughout the duration of the COVID-19 pandemic, however, there can be no assurance our facilities will continue to operate without interruption. Factors that derive from COVID-19 and the accompanying response, and that have or may negatively impact sales and gross margin in the future include, but are not limited to the following:
+●
+Limitations on the ability of our suppliers to manufacture, or procure from manufacturers, the materials included in the products we sell, or to meet delivery requirements and commitments;
+●
+Limitations on the ability of our employees to perform their work due to illness caused by the pandemic or due to other restrictions on our employees to keep them safe and the increased cost of measures taken to ensure employee health and safety;
+●
+Limitation on the availability of qualified individuals to adequately staff our manufacturing facilities;
+●
+Limitations on the ability of our suppliers to manufacture and meet timelines associated with capital improvement projects;
+●
+Limitations on the ability of our customers to conduct their business and purchase our products and services; and
+●
+Limitations on the ability of our customers to pay us on a timely basis.
+We will continue to monitor the situation and may take further actions to alter our business operations as may be required by federal, state or local authorities or that we determine are in the best interests of our employees, customers, suppliers and shareholders. While we are unable to determine or predict the nature, duration, or scope of the overall impact the COVID-19 pandemic will have on our business, results of operations, liquidity or capital resources, we believe we will be able to remain operational and our working capital will be sufficient for us to remain operational even as the longer-term consequences of this pandemic become known.
+19
+Table of Contents
+Discussion of Critical Accounting Estimates
+We have identified the following as our most critical accounting estimates, which are those that are most important to the portrayal of the Company’s financial condition and results, and that require management’s most subjective and complex judgments. Information regarding our other significant accounting estimates and policies are disclosed in Note 1 of Item 1 of this report and as disclosed in the 2022 Annual Report.
+Revenue Recognition — Revenue is measured as the net amount of consideration expected to be received in exchange for fulfilling one or more performance obligations. For certain contracts with volume rebates and discounts, our estimates of future sales used to assess the volume rebate and discount estimates are subject to a high degree of judgement and may differ from actual sales due to, among other things, changes in customer orders and raw material availability.
+Results of Operations
+The results of our operations for the three and six months ended December 31 were as follows (dollars in thousands):
+Three Months Ended
+Six Months Ended
+December 31,
+December 31,
+2022
+2021
+% Change
+2022
+2021
+% Change
+Private label contract manufacturing
+$
+40,839
+$
+33,677
+21
+%
+$
+82,615
+$
+67,271
+23
+%
+Patent and trademark licensing
+1,456
+4,050
+(64
+)%
+2,807
+8,796
+(68
+)%
+Total net sales
+42,295
+37,727
+12
+%
+85,422
+76,067
+12
+%
+Cost of goods sold
+36,081
+31,181
+16
+%
+73,837
+61,240
+21
+%
+Gross profit
+6,214
+6,546
+(5
+)%
+11,585
+14,827
+(22
+)%
+Gross profit %
+14.7
+%
+17.4
+%
+13.6
+%
+19.5
+%
+Selling, general and administrative expenses
+3,729
+4,145
+(10
+)%
+7,558
+8,198
+(8
+)%
+% of net sales
+8.8
+%
+11.0
+%
+8.8
+%
+10.8
+%
+Income from operations
+2,485
+2,401
+3
+%
+4,027
+6,629
+(39
+)%
+% of net sales
+5.9
+%
+6.4
+%
+4.7
+%
+8.7
+%
+Other expense
+(199
+)
+(9
+)
+2,111
+%
+(423
+)
+(35
+)
+1,109
+%
+Income before income taxes
+2,286
+2,392
+(4
+)%
+3,604
+6,594
+(45
+)%
+% of net sales
+5.4
+%
+6.3
+%
+4.2
+%
+8.7
+%
+Provision for income taxes
+473
+545
+(13
+)%
+738
+1,491
+(51
+)%
+Net income
+$
+1,813
+$
+1,847
+(2
+)%
+$
+2,866
+$
+5,103
+(44
+)%
+% of net sales
+4.3
+%
+4.9
+%
+3.4
+%
+6.7
+%
+Private-label contract manufacturing net sales increased 21% during the three months ended December 31, 2022, and 23% for the six months ended December 31, 2022, when compared to the same periods in the prior year. The increase in sales during the three and six months ended December 31, 2022 was primarily due to increased sales to two of our largest customers, partially offset by decreased sales to other customers and lower average exchange rates applied to sales denominated in Euro as compared to the prior year period. Our foreign exchange rates as applied to sales denominated in Euro decreased to a weighted average of 1.14 EUR/USD in the three months ended December 31, 2022 compared to a weighted average of 1.18 EUR/USD during the three months ended December 31, 2021. Our foreign exchange rates as applied to sales denominated in Euro decreased to a weighted average of 1.13 EUR/USD in the six months ended December 31, 2022 compared to a weighted average of 1.18 EUR/USD during the six months ended December 31, 2021.
+Net sales from our patent and trademark licensing segment decreased 64% during the three months ended December 31, 2022, and 68% for the six months ended December 31, 2022, when compared to the same periods in the prior year. The decrease in patent and trademark licensing revenue during the three and six months ended December 31, 2022 was primarily due to a decrease in orders from existing customers as a result of market and inflationary factors along with a general slowdown in the Sports Nutrition sales channel. Included in the market factors is the fact that the three and six months ended December 31, 2021 benefited from a ramp up of Sports Nutrition sales activity due to easing COVID restrictions on athletic activities with no corresponding activity in the three and six months ended December 31, 2022.
+20
+Table of Contents
+The change in gross profit margin for the three and six months ended December 31, 2022, was as follows:
+Three Months
+Six Months
+Ended
+Ended
+Contract manufacturing (1)
+1.5
+%
+(0.6
+)%
+Patent and trademark licensing (2)
+(4.2
+)
+(5.4
+)
+Total change in gross profit margin
+(2.7
+)%
+(6.0
+)%
+1
+Private-label contract manufacturing gross profit margin as a percentage of consolidated net sales increased 1.5 percentage points during the three months ended December 31, 2022 when compared to the comparable prior year periods. The increase in gross profit as a percentage of sales for private-label contract manufacturing during the three months ended December 31, 2022 is primarily due to favorable sales mix, partially offset by an increase in per unit manufacturing costs. For the six months ended December 31, 2022, the contract manufacturing gross profit margin as a percentage of consolidated net sales decreased 0.6 percentage points as compared to the comparable prior year period, primarily due to an increase in per-unit manufacturing costs, partially offset by favorable sales mix. The increases in per unit manufacturing costs include the negative impacts of increased labor and freight costs and the impact of unfavorable foreign exchange rates applied to sales denominated in Euros and expenses denominated in Euros and Swiss Francs.
+2
+Patent and trademark licensing gross profit margin as a percentage of consolidated net sales decreased 4.2 percentage points during the three months ended December 31, 2022 and 5.4 percentage points for the six months ended December 31, 2022 when compared to the comparable prior year periods. The decrease in margin contribution was primarily due to decreased patent and trademark licensing net sales as a percentage of total consolidated net sales, as patent and trademark licensing historically provides higher profit margins than our private-label contract manufacturing business. The six months ended December 31, 2021 also included a favorable change in our estimates of certain volume rebate programs while the six months ended December 31, 2022 included an unfavorable change in our estimates of certain volume rebate programs.
+Selling, general and administrative expenses decreased $0.4 million, or 10%, during the three months ended December 31, 2022 and $0.6 million, or 8%, as compared to the comparable prior year periods. The decrease during the three months ended December 21, 2022 as compared to the same period in the prior fiscal year is primarily related to a partial recovery of accounts receivable that had been reserved as uncollectible in a prior fiscal year. The decrease during the six months ended December 21, 2022 as compared to the same period in the prior fiscal year is primarily related to a partial recovery of accounts receivable that had been reserved for in a prior fiscal year and lower salaries expense.
+Other expense increased $0.2 million during the three months ended December 31, 2022 and $0.4 million during the six months ended December 31, 2022 when compared to the comparable periods during the prior year. The increase in both the three and six month periods is primarily associated with increased expenses related to our CHF balance sheet hedge and interest expense related to usage of our line of credit.
+Our income tax expense decreased $0.1 million for the three months ended December 31, 2022 and decreased $0.8 million for the six months ended December 31, 2022 when compared to the same periods in fiscal 2022. The decrease in income tax expenses for the three and six month periods was primarily related to a decrease in pre-tax income as compared to the same periods in the prior year.
+21
+Table of Contents
+Liquidity and Capital Resources
+Our primary sources of liquidity and capital resources are cash flows provided by operating activities and the availability of borrowings under our credit facilities. Net cash provided by operating activities was $3.7 million for the six months ended December 31, 2022 compared to net cash used in operating activities of $0.6 million in the comparable period during the prior fiscal year.
+At December 31, 2022, changes in accounts receivable, consisting of amounts due from our private-label contract manufacturing customers and our patent and trademark licensing activities, provided $7.2 million in cash compared to providing $2.8 million of cash during the comparable six month period in the prior year. The increase in cash used by accounts receivable during the six months ended December 31, 2022 primarily resulted from the timing of sales and related collections and a partial recovery of one accounts receivable that had been reserved as uncollectible in a prior fiscal year. Days sales outstanding was 30 days during the six months ended December 31, 2022 as compared to 40 days for the prior year period.
+Changes in inventory used $3.6 million in cash during the six months ended December 31, 2022 compared to using $4.8 million in the comparable prior year period. The change in cash related to inventory during the six months ended December 31, 2022 was primarily related to the difference in the amount and timing of orders and anticipated sales as compared to same period in the prior year. Changes in accounts payable and accrued liabilities used $3.1 million in cash during the six months ended December 31, 2022 compared to using $3.8 million during the six months ended December 31, 2021. The change in cash flow activity related to accounts payable and accrued liabilities was primarily due to the timing of inventory receipts and payments.
+Cash used in investing activities in the six months ended December 31, 2022 was $11.6 million compared to $19.6 million in the comparable prior year period. The primary reason for the change was due to the purchase of a new manufacturing and warehouse facility in Carlsbad, CA during the six months ended December 31, 2021 while the six months ended December 31, 2022 included capital improvement costs and equipment purchases associated with the on-going project to improve the new facility to become a high capacity powder processing and storage facility.
+Cash used in financing activities for the six months ended December 31, 2022, was $1.2 million, compared to $7.4 million provided in the comparable prior year period.  The difference is primarily due to borrowing costs related to the purchase of our new manufacturing and warehouse facility in Carlsbad, CA, during the first quarter of fiscal 2022 offset by the difference in treasury stock repurchase activity during the same period.
+At December 31, 2022, we had $9.7 million outstanding under the Term Note we used to purchase our new Carlsbad, California warehouse and manufacturing facility in August 2021. We also have $20.0 million available for borrowing under our working capital line of credit with Wells Fargo Bank, which had no amounts outstanding as of December 31, 2022.  During the six months ended December 31, 2022, we were in compliance with all of the financial and other covenants required under the Credit Agreement for this credit line. Refer to Item 1, Note F., "Debt," in this Quarterly Report, for the terms of this Credit Agreement.
+As of December 31, 2022, we had $12.8 million in cash and cash equivalents. We believe our available cash, cash equivalents, credit facility and potential cash flows from operations will be sufficient to fund our current working capital needs, capital expenditures, and minimum debt and interest payments through the next 12 months.  Our capital requirements for fiscal 2023 include amounts that will be required to complete our planned improvements to the proposed powder blending, packaging and storage facility we purchased in August 2021.
+Off-Balance Sheet Arrangements
+As of December 31, 2022, we did not have any off-balance sheet debt nor did we have any transactions, arrangements, obligations (including contingent obligations) or other relationships with any unconsolidated entities or other persons that have or are reasonably likely to have a material current or future effect on our financial condition, changes in financial condition, results of operations, liquidity, capital expenditures, capital resources, or significant components of revenue or expenses material to investors.
+Recent Accounting Pronouncements
+Recent accounting pronouncements are discussed in the notes to our consolidated financial statements included under Item 1, Note A. of this Report. Other than those pronouncements, we are not aware of any other pronouncements that materially affect our financial position or results of operations.
+22
+Table of Contents
+ITEM 4.       CONTROLS AND PROCEDURES
+We maintain certain disclosure controls and procedures as defined under the Securities Exchange Act of 1934. They are designed to help ensure that material information: (1) is gathered and communicated to our management, including our principal executive and financial officers, in a manner that allows for timely decisions regarding required disclosures; and (2) recorded, processed, summarized, reported and filed with the SEC as required under the Securities Exchange Act of 1934 and within the time periods specified by the SEC.
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer (principal financial and accounting officer), evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of December 31, 2022. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective for their intended purpose as of December 31, 2022.
+There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the quarterly period ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+23
+Table of Contents
+PART II - OTHER INFORMATION
+ITEM 1.
+LEGAL PROCEEDINGS
+From time to time, we become involved in various investigations, claims and legal proceedings that arise in the ordinary course of our business. These matters may relate to intellectual property, product liability, employment, tax, regulation, contract or other matters. The resolution of these matters as they arise will be subject to various uncertainties and, even if such claims are without merit, could result in the expenditure of significant financial and managerial resources. While unfavorable outcomes are possible, based on available information, we currently do not believe the resolution of these matters, even if unfavorable, will result in a material adverse effect on our business, consolidated financial condition, or results of operations. However, a settlement payment or unfavorable outcome could adversely impact our results of operations. Our evaluation of the likely impact of these actions could change in the future and we could have unfavorable outcomes we do not expect. An unexpected settlement expense or an unexpected unfavorable outcome of a matter could adversely impact our results of operations.
+As of February 8, 2023, neither NAI nor NAIE were a party to any material pending legal proceeding nor was any of our property the subject of any material pending legal proceeding. We are currently involved in several matters in the ordinary course of our business.
+There is no assurance NAI will prevail in these litigation matters or in similar proceedings NAI or others may initiate or that litigation expenses will not be greater than anticipated.
+ITEM 1A.
+RISK FACTORS
+When evaluating our business and future prospects you should carefully consider the risks described under Item 1A of our 2022 Annual Report, as well as the other information in our 2022 Annual Report, this Report and other reports and documents we file with the SEC. If any of the identified risks actually occur, our business, financial condition and results of operations could be seriously harmed. In that event, the market price of our common stock could decline, and you could lose all or a portion of the value of your investment in our common stock.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+We did not sell any unregistered equity securities during the three and six month periods ended December 31, 2022 and December 31, 2021.
+Repurchases
+During the three months ended December 31, 2022 we repurchased 68,570 shares of our common stock at a total cost of $0.5 million (including commissions and transaction fees) as set forth below:
+Period
+Total Number of
+Shares Purchased
+Average Price
+Paid per Share
+(1)
+Total Number of Shares
+Purchased as Part of
+Publicly Announced
+Plans or Programs
+Maximum Number (or
+Approximate Dollar Value) of
+Shares that May Yet Be Purchased
+Under the Plans or Programs (as of
+December 31, 2022)
+( in thousands )
+October 1, 2022 to October 31, 2022
+21,283
+9.05
+21,283
+—
+November 1, 2022 to November 30, 2022
+11,920
+7.79
+11,920
+—
+December 1, 2022 to December 31, 2022
+35,367
+7.83
+35,367
+—
+Total
+68,570
+68,570
+$
+949
+(1)
+Average price paid per share includes costs associated with the repurchases
+Refer to Note J, "Treasury Stock," in this Quarterly Report, for terms of repurchase plan and additional information.
+ITEM 3.
+DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 5.
+OTHER INFORMATION
+None.
+24
+Table of Contents
+ITEM 6.
+EXHIBITS
+The following exhibit index shows those exhibits filed with this Report and those incorporated by reference:
+EXHIBIT INDEX
+Exhibit
+Number
+Description
+Incorporated By Reference To
+3(i)
+Amended and Restated Certificate of Incorporation of Natural Alternatives International, Inc. filed with the Delaware Secretary of State on January 14, 2005
+Exhibit 3(i) of NAI’s Quarterly Report on Form 10-Q for the quarterly period ended December 31, 2004, filed with the commission on February 14, 2005
+3(ii)
+Amended and Restated By-laws of Natural Alternatives International, Inc. dated as of February 9, 2009
+Exhibit 3(ii) of NAI’s Current Report on Form 8-K dated February 9, 2009, filed with the commission on February 13, 2009
+4(i)
+Form of NAI’s Common Stock Certificate
+Exhibit 4(i) of NAI’s Annual Report on Form 10-K for the fiscal year ended June 30, 2005, filed with the commission on December 8, 2005
+31.1
+Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer
+Filed herewith
+31.2
+Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer
+Filed herewith
+32
+Section 1350 Certification
+Filed herewith
+101.INS
+Inline XBRL Instance Document
+Filed herewith
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+Filed herewith
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+Filed herewith
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+Filed herewith
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+Filed herewith
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+Filed herewith
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+Filed herewith
+25
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, Natural Alternatives International, Inc., the registrant, has duly caused this Report to be signed on its behalf by the undersigned, duly authorized officers.
+Date: February 8, 2023
+NATURAL ALTERNATIVES INTERNATIONAL, INC.
+By:
+/s/ Mark A. LeDoux
+Mark A. LeDoux, Chief Executive Officer
+(principal executive officer)
+By:
+/s/ Michael E. Fortin
+Michael E. Fortin, Chief Financial Officer
+(principal financial and accounting officer)
+26
