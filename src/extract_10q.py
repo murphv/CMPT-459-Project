@@ -160,8 +160,9 @@ def get_sanitized_tickers(df, ciks):
 
 
 def main():
-    if not os.path.exists('SEC_Filings'):
-        os.makedirs('SEC_Filings')
+    path_dir = '../data/SEC_Filings'
+    if not os.path.exists(path_dir):
+        os.makedirs(path_dir)
 
     year = int(sys.argv[1])
     quarter = int(sys.argv[2])
@@ -172,7 +173,7 @@ def main():
     company_ciks = download_ticker_cik_mapping()
 
     # Read the ticker csv file
-    data = pd.read_csv('data/stocks_data.csv')
+    data = pd.read_csv('../data/stocks_data.csv')
     companies_df = data['Company'].unique()
     stocks_data = get_sanitized_tickers(companies_df, company_ciks)
     
@@ -208,7 +209,7 @@ def main():
             text = parse_html_to_text(filing_response.content)
 
             # Save the Filing text
-            company_dir = os.path.join('SEC_Filings', ticker)
+            company_dir = os.path.join(path_dir, ticker)
             if not os.path.exists(company_dir):
                 os.makedirs(company_dir)
 
@@ -221,7 +222,7 @@ def main():
 
     # Write the log
     if log:
-        with open('output/extract_10q_log.txt', 'w', encoding='utf-8') as f:
+        with open('../output/extract_10q_log.txt', 'w', encoding='utf-8') as f:
             f.write(log)
 
     
