@@ -1,5 +1,20 @@
 import pandas as pd
+import os
 ### TODO: The logic should work for any input of year and quarter
+
+def filter_company_with_no_report(companies_list):
+    quarter_folder_path = '../data/SEC_Filings'
+    if not os.path.exists(quarter_folder_path):
+        raise FileNotFoundError(f"The directory {quarter_folder_path} does not exist.")
+
+    companies_df = pd.DataFrame(companies_list, columns=['Company'])
+
+    all_entries = os.listdir(quarter_folder_path)
+    subfolder_names = [entry for entry in all_entries if os.path.isdir(os.path.join(quarter_folder_path, entry))]
+
+    companies = companies_df[companies_df['Company'].isin(subfolder_names)]['Company']
+    return companies.to_numpy()
+
 
 def main():
 
@@ -37,7 +52,7 @@ def main():
 
     #Computing the Stock change over the quarter and adding it as column
     stocks_data['stock_change'] = 0
-    companies = stocks_data['Company'].unique()
+    companies = filter_company_with_no_report(stocks_data['Company'].unique())
 
     for company in companies:
         company_df = stocks_data[stocks_data['Company'] == company].copy()

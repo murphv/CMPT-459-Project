@@ -2,6 +2,8 @@ from datetime import datetime
 import numpy as np
 import pandas as pd
 
+from src.compute_stock_performance import filter_company_with_no_report
+
 
 def extract_quarter(df):
     open_value = df.iloc[0]["Close"]
@@ -37,6 +39,9 @@ def main():
     snp_index = index_performance.loc["^GSPC"]
     stocks_data = pd.read_csv("../data/stocks_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
     stocks_performance = extract_stock_performance(stocks_data)
+    companies_list = filter_company_with_no_report(stocks_performance['Company'].unique())
+    stocks_performance = stocks_performance[stocks_performance['Company'].isin(companies_list)]
+
     stocks_performance["Relative 2023Q1"] = stocks_performance['Performance 2023Q1'] - snp_index['Performance 2023Q1']
     stocks_performance["Relative 2023Q2"] = stocks_performance['Performance 2023Q2'] - snp_index['Performance 2023Q2']
     stocks_performance.to_csv("../data/stocks_performance.csv", index=False)
