@@ -3,7 +3,7 @@ import pandas as pd
 
 def main():
 
-    data_path = '../data/'
+    data_path = 'data/'
 
     stocks_data = pd.read_csv(f'{data_path}stocks_data.csv')
     stocks_data['Date'] = pd.to_datetime(stocks_data['Date'])

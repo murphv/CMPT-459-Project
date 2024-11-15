@@ -31,10 +31,10 @@ def extract_stock_performance(df):
 
 
 def main():
-    index_data = pd.read_csv("../data/index_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
+    index_data = pd.read_csv("data/index_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
     index_performance = extract_stock_performance(index_data)
     snp_index = index_performance.loc["^GSPC"]
-    stocks_data = pd.read_csv("../data/stocks_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
+    stocks_data = pd.read_csv("data/stocks_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
     stocks_performance = extract_stock_performance(stocks_data)
     stocks_performance["Relative 2023Q1"] = stocks_performance['Performance 2023Q1'] - snp_index['Performance 2023Q1']
     stocks_performance["Relative 2023Q2"] = stocks_performance['Performance 2023Q2'] - snp_index['Performance 2023Q2']

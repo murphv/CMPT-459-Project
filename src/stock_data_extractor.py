@@ -73,7 +73,7 @@ def main():
         
         data = pd.concat([data, stock_data], axis=0, ignore_index=True)
         
-    data.to_csv('../data/stocks_data.csv', index=False)
+    data.to_csv('data/stocks_data.csv', index=False)
 
 
     # now we append the Index data (SP500 DowJones NasDaq)
@@ -99,7 +99,7 @@ def main():
 
         index_data = pd.concat([index_data, stock_data], axis=0, ignore_index=True)
 
-    data.to_csv('../data/index_data.csv', index=False)
+    data.to_csv('data/index_data.csv', index=False)
 
         
 
