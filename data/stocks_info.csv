@@ -1,0 +1,949 @@
+zip,sector,fullTimeEmployees,city,phone,state,country,industry,profitMargins,revenueGrowth,recommendationKey,totalCashPerShare,exchange,Company
+95051,Healthcare,17400.0,Santa Clara,800 227 9770,CA,United States,Diagnostics & Research,0.21747999,-0.056,buy,6.192,NYQ,A
+91803,Healthcare,7.0,Alhambra,888 988 1333,CA,United States,Biotechnology,,1.383,none,,OEM,AAGH
+3200,Consumer Cyclical,,Melbourne,61 3 8393 1459,VIC,Australia,Gambling,,,none,,OQB,AAPI
+95014,Technology,164000.0,Cupertino,(408) 996-1010,CA,United States,Consumer Electronics,0.23971,0.061,buy,4.311,NMS,AAPL
+11354,Consumer Cyclical,,Flushing,347-313-8992,NY,United States,Internet Retail,-2.86585,167.391,none,0.004,PNK,AAQL
+89503,Basic Materials,96.0,Reno,775 473 4744,NV,United States,Other Industrial Metals & Mining,,,buy,0.097,NCM,ABAT
+10006,Industrials,123000.0,New York,212 297 0200,NY,United States,Specialty Business Services,0.01884,0.033,hold,1.374,NYQ,ABM
+10005,Communication Services,9.0,New York,,NY,United States,Entertainment,-0.43267,0.218,none,,PNK,ABQQ
+CH41 5AR,Healthcare,,Birkenhead,44 1516 019 477,,United Kingdom,Drug Manufacturers - Specialty & Generic,,,none,,PNK,ABTI
+80202,Real Estate,3.0,Denver,303 862 9000,CO,United States,Real Estate Services,-0.59470004,-0.704,none,0.009,PNK,ACAN
+98101,Healthcare,2400.0,Seattle,206 926 8100,WA,United States,Health Information Services,-0.18160999,0.098,buy,2.91,NMS,ACCD
+83706,Consumer Defensive,108300.0,Boise,208 395 6200,ID,United States,Grocery Stores,0.012519999,0.014,hold,0.513,NYQ,ACI
+75240,Industrials,52000.0,Dallas,972 788 1000,TX,United States,Engineering & Construction,0.01611,0.133,buy,12.383,NYQ,ACM
+D02 P820,Technology,774000.0,Dublin,353 1 646 2000,,Ireland,Information Technology Services,0.111940004,0.026,buy,8.018,NYQ,ACN
+08540,Healthcare,,Princeton,818-839-4378,NJ,United States,Biotechnology,,,buy,1.914,NCM,ACST
+95110-2704,Technology,29945.0,San Jose,408 536 6000,CA,United States,Software - Infrastructure,0.25588,0.106,buy,17.072,NMS,ADBE
+01887,Technology,26000.0,Wilmington,781 935 5565,MA,United States,Semiconductors,0.17068,-0.248,buy,5.127,NMS,ADI
+07647,Healthcare,,Northvale,201 767 6040,NJ,United States,Medical Devices,-0.15448,0.125,none,0.007,OQB,ADMT
+D01 H104,Consumer Cyclical,,Dublin,353 732 254 5000,,Ireland,Auto Parts,0.00123,-0.045,hold,11.131,NYQ,ADNT
+07068,Technology,64000.0,Roseland,973 974 5000,NJ,United States,Software - Application,0.19715,0.071,hold,16.612,NMS,ADP
+94539,Technology,115.0,Fremont,510-623-9400,CA,United States,Semiconductor Equipment & Materials,0.49635,-0.364,buy,1.277,NCM,AEHR
+92121,Healthcare,14.0,San Diego,619 941 0360,CA,United States,Medical Devices,,,buy,0.651,NCM,AEMD
+10549,Communication Services,,Mount Kisco,914-574-6174,NY,United States,Entertainment,518.34534,0.162,none,,OEM,AFOM
+94108,Technology,2006.0,San Francisco,415 960 1518,CA,United States,Software - Infrastructure,-0.17672001,0.407,buy,6.033,NMS,AFRM
+,Financial Services,1.0,Central,852 4620 9298,,Hong Kong,Shell Companies,,,none,,PNK,AGLY
+92629,Healthcare,,Dana Point,321 299 2014,CA,United States,Biotechnology,,,none,,PNK,AGTX
+30022,Technology,1900.0,Alpharetta,770-810-7800,GA,United States,Software - Application,0.37541,0.165,buy,1.988,NMS,AGYS
+94063,Technology,891.0,Redwood City,650 503 2200,CA,United States,Software - Application,-0.85475,0.205,hold,6.003,NYQ,AI
+610000,Financial Services,55.0,Chengdu,86 28 6155 4399,,China,Credit Services,-0.67006,-0.464,none,0.106,NCM,AIHS
+60191,Industrials,5700.0,Wood Dale,630 227 2000,IL,United States,Aerospace & Defense,0.026700001,0.204,buy,1.398,NYQ,AIR
+28262,Industrials,624.0,Charlotte,980 595 2840,NC,United States,Conglomerates,-0.0235,-0.07,none,2.831,NCM,AIRT
+28262,Industrials,624.0,Charlotte,980 595 2840,NC,United States,Conglomerates,-0.0235,-0.07,none,2.831,NGM,AIRTP
+44115,Industrials,6549.0,Cleveland,216 426 4000,OH,United States,Industrial Distribution,0.08565,0.003,buy,14.007,NYQ,AIT
+48220,Technology,97.0,Ferndale,(877) 787-6268,MI,United States,Computer Hardware,,2.479,none,,PNK,AITX
+28078,Technology,117.0,Huntersville,704 997 5735,NC,United States,Communication Equipment,,-0.297,hold,0.158,NCM,AKTS
+33913,Consumer Defensive,194.0,Fort Myers,239 226 2000,FL,United States,Farm Products,0.56129,0.868,buy,1.194,NMS,ALCO
+94111,Technology,1.0,San Francisco,(415) 439-5260,CA,United States,Software - Application,,,none,,OQB,ALDS
+03103,Technology,4593.0,Manchester,603 626 2300,NH,United States,Semiconductors,-0.029560002,-0.32,buy,1.026,NMS,ALGM
+V1YOC2,Healthcare,,Kelowna,877-255-4337,BC,Canada,Drug Manufacturers - Specialty & Generic,,,none,0.001,OQB,ALID
+93117,Technology,11.0,Goleta,805 351 2707,CA,United States,Semiconductors,-2.78706,13.838,none,0.288,OQB,ALMU
+80206-4084,Energy,,Denver,303 265 9312,CO,United States,Oil & Gas E&P,23.31579,-0.25,none,0.237,PNK,ALTX
+30326,Healthcare,4.0,Atlanta,844 722 6333,GA,United States,Biotechnology,,,buy,0.307,NCM,ALZN
+95052-8039,Technology,35200.0,Santa Clara,408 727 5555,CA,United States,Semiconductor Equipment & Materials,0.27743,0.055,buy,11.042,NMS,AMAT
+8050,Consumer Cyclical,41000.0,Zurich,41 44 316 1717,,Switzerland,Packaging & Containers,0.056750003,-0.026,none,0.299,PNK,AMCCF
+8050,Consumer Cyclical,41000.0,Zurich,41 44 316 1717,,Switzerland,Packaging & Containers,0.056750003,-0.026,hold,0.299,NYQ,AMCR
+90245,Financial Services,482.0,El Segundo,310 587 1477,CA,United States,Capital Markets,0.0059100003,0.093,buy,2.024,NMS,AMRK
+01432,Industrials,337.0,Ayer,978 842 3000,MA,United States,Specialty Industrial Machinery,-0.00491,0.602,buy,1.828,NMS,AMSC
+48226,Technology,9.0,Detroit,(734) 876-8130,MI,United States,Software - Application,,-0.774,buy,0.742,NCM,AMST
+22602,Consumer Cyclical,8600.0,Winchester,540 665 9100,VA,United States,"Furnishings, Fixtures & Appliances",0.059720002,-0.079,buy,5.76,NMS,AMWD
+78734,Healthcare,2.0,Lakeway,512 598 0931,TX,United States,Biotechnology,,,buy,0.119,NCM,ANEB
+12110,Healthcare,748.0,Latham,518 795 1400,NY,United States,Medical Instruments & Supplies,-0.83023,-0.142,buy,1.354,NMS,ANGO
+95118,Healthcare,4.0,San Jose,408 708 9808,CA,United States,Biotechnology,,,buy,0.645,NCM,ANIX
+94085,Technology,2332.0,Sunnyvale,408 830 9742,CA,United States,Semiconductors,-0.0294,0.449,hold,6.972,NMS,AOSL
+65202,Consumer Cyclical,289.0,Columbia,800 338 9585,MO,United States,Leisure,-0.05269,-0.041,buy,1.826,NMS,AOUT
+05060,Real Estate,2.0,Randolph,212 727 7085,VT,United States,Real Estate Services,0.097950004,0.024,none,0.027,PNK,AOXY
+18106-5500,Basic Materials,23000.0,Allentown,610 481 4911,PA,United States,Specialty Chemicals,0.31636,-0.001,buy,13.408,NYQ,APD
+11790,Healthcare,52.0,Stony Brook,631 240 8800,NY,United States,Diagnostics & Research,-2.1447701,-0.727,hold,1.014,NCM,APDN
+75219,Technology,150.0,Dallas,214 427 1704,TX,United States,Information Technology Services,-0.74811,0.671,buy,0.27,NMS,APLD
+78701,Technology,754.0,Austin,512 387 7717,TX,United States,Software - Application,-0.61173,-0.171,hold,0.316,NCM,APPS
+32301,Technology,,Tallahassee,850 254 1161,FL,United States,Software - Infrastructure,,,none,,PNK,ARAT
+53717-1954,Healthcare,987.0,Madison,608 824 2800,WI,United States,Medical Devices,-0.03721,0.168,strong_buy,1.157,NMS,ARAY
+10003,Consumer Cyclical,1401.0,New York,212 206 8800,NY,United States,Restaurants,-0.05312,-0.013,none,3.182,NGM,ARKR
+19103,Industrials,262550.0,Philadelphia,215 238 3000,PA,United States,Specialty Business Services,0.01732,0.08,buy,2.154,NYQ,ARMK
+98103-3442,Consumer Defensive,,Seattle,206 517 7141,WA,United States,Packaged Foods,,,none,,PNK,ARRT
+01702,Healthcare,8.0,Framingham,617 431 2313,MA,United States,Biotechnology,,1.326,hold,0.007,OQB,ARTH
+91105,Healthcare,525.0,Pasadena,626 304 3400,CA,United States,Biotechnology,,,buy,3.495,NMS,ARWR
+19808,Basic Materials,3200.0,Wilmington,302 995 3000,DE,United States,Specialty Chemicals,0.07998,0.01,buy,6.122,NYQ,ASH
+34236,Utilities,,Sarasota,800 705 2919,FL,United States,Utilities - Renewable,,,none,,OQB,ASRE
+78758,Technology,30.0,Austin,512 485 9530,TX,United States,Scientific & Technical Instruments,,-0.821,none,19.25,NCM,ASTC
+85288,Technology,405.0,Tempe,480 967 5146,AZ,United States,Semiconductor Equipment & Materials,-0.19048999,-0.13,buy,0.927,NMS,ASYS
+15212,Basic Materials,,Pittsburgh,412 770 3140,PA,United States,Other Industrial Metals & Mining,,,none,,OQB,ATAO
+07424,Communication Services,86.0,Woodland Park,973 771 0300,NJ,United States,Telecom Services,,1.508,buy,2.781,NCM,ATEX
+60661,Consumer Defensive,4624.0,Chicago,312 651 1400,IL,United States,Education & Training Services,0.105500005,0.132,strong_buy,7.063,NYQ,ATGE
+92630,Financial Services,13.0,Lake Forest,308 888 8888,CA,United States,Capital Markets,,1.0,none,0.198,NCM,ATIF
+60426,Industrials,4816.0,Harvey,708 339 1610,IL,United States,Electrical Equipment & Parts,0.16465999,-0.105,buy,8.467,NYQ,ATKR
+75240,Utilities,5019.0,Dallas,972 934 9227,TX,United States,Utilities - Regulated Gas,0.2509,0.059,buy,6.108,NYQ,ATO
+518000,Industrials,112.0,Shenzhen,86 75 5823 30336,,China,Integrated Freight & Logistics,-0.32345,-0.191,none,3.167,NCM,ATXG
+92630,Industrials,11.0,Lake Forest,310 643 5300,CA,United States,Specialty Industrial Machinery,,,none,,PNK,AUSI
+89108,Technology,,Las Vegas,866 533 0065,NV,United States,Software - Application,,,none,,OQB,AVAI
+22202,Industrials,1403.0,Arlington,805 520 8350,VA,United States,Aerospace & Defense,0.07818,0.244,buy,2.898,NMS,AVAV
+94304,Technology,20000.0,Palo Alto,650 427 6000,CA,United States,Semiconductors,0.108830005,0.164,buy,27.019,NMS,AVGO
+78728,Technology,909.0,Austin,408 941 7100,TX,United States,Communication Equipment,-0.011419999,0.017,buy,4.021,NMS,AVNW
+93030,Consumer Defensive,3300.0,Oxnard,805 981 3650,CA,United States,Food Distribution,0.02056,0.239,buy,0.698,NMS,AVO
+85034,Technology,15462.0,Phoenix,480 643 2000,AZ,United States,Electronics & Computer Distribution,0.01513,-0.115,hold,3.077,NMS,AVT
+10111,Healthcare,40.0,New York,844 689 3939,NY,United States,Biotechnology,,,buy,1.636,NMS,AVXL
+33027,Real Estate,4.0,Miramar,855 795 3311,FL,United States,Real Estate Services,,1.696,none,0.002,PNK,AWCA
+89148,Financial Services,1781.0,Las Vegas,858 649 2218,NV,United States,Banks - Regional,0.42558,0.285,buy,46.193,NYQ,AX
+19083,Real Estate,42.0,Havertown,610 487 0905,PA,United States,Real Estate - Development,0.15635,0.855,none,7.678,NYQ,AXR
+30309-7673,Industrials,13200.0,Atlanta,404 853 1400,GA,United States,Electrical Equipment & Parts,0.11002,0.022,hold,27.674,NYQ,AYI
+80237,Healthcare,102.0,Denver,(720) 437-6580,CO,United States,Drug Manufacturers - Specialty & Generic,-0.19559999,-0.415,buy,3.254,NCM,AYTU
+60607,Industrials,2236.0,Chicago,877 275 2935,IL,United States,Building Products & Equipment,0.11083,0.121,buy,2.408,NYQ,AZEK
+38103,Consumer Cyclical,75600.0,Memphis,901 495 6500,TN,United States,Specialty Retail,0.14399,0.09,buy,19.912,NYQ,AZO
+01730,Technology,1187.0,Bedford,781 221 6400,MA,United States,Software - Application,-0.03264,-0.134,buy,3.496,NMS,AZPN
+01803,Healthcare,3300.0,Burlington,978 262 2626,MA,United States,Medical Instruments & Supplies,-0.23657,0.041,hold,12.181,NMS,AZTA
+76107,Industrials,3873.0,Fort Worth,817 810 0095,TX,United States,Specialty Business Services,0.07627,0.026,buy,0.072,NYQ,AZZ
+22102,Industrials,35800.0,McLean,703 902 5000,VA,United States,Consulting Services,0.07253,0.18,buy,4.373,NYQ,BAH
+,,,,,,,,,,,,PCX,BAR
+10271,Consumer Cyclical,708.0,New York,855 501 2275,NY,United States,Specialty Retail,-0.062,0.025,buy,0.66,NYQ,BARK
+80229,Industrials,1720.0,Thornton,303 289 7497,CO,United States,Engineering & Construction,0.03721,-0.092,hold,0.492,NCM,BBCP
+14450,Consumer Cyclical,45.0,Fairport,866 900 0992,NY,United States,Leisure,,23.294,none,1.634,OEM,BBIG
+,,,,,,United States,,,,none,,OQX,BCHG
+92660,Technology,1.0,Newport Beach,800 210 9755,CA,United States,Software - Application,,,none,0.001,OQX,BCRD
+V7T 2X1,Healthcare,,West Vancouver,604-921-1810,BC,Canada,Biotechnology,,,buy,0.047,NCM,BCTX
+89701,Financial Services,,Carson City,702-718-0807,NV,United States,Shell Companies,,,none,,PNK,BDCC
+33334,Consumer Cyclical,665.0,Fort Lauderdale,954 377 1961,FL,United States,Restaurants,0.08599,0.082,none,11.903,ASE,BDL
+,,,,(908) 897-0510,,,,,,,,PCX,BDRY
+07417-1880,Healthcare,70000.0,Franklin Lakes,201 847 6800,NJ,United States,Medical Instruments & Supplies,0.07126,0.069,buy,7.48,NYQ,BDX
+94403,Financial Services,,San Mateo,650-312-2000,CA,United States,Asset Management,0.054819997,0.113,hold,6.452,NYQ,BEN
+47710,Consumer Cyclical,40000.0,Evansville,812 424 2904,IN,United States,Packaging & Containers,0.045500003,-0.021,hold,4.442,NYQ,BERY
+43205,Financial Services,4.0,Columbus,888-287-7555,OH,United States,Shell Companies,,2.239,none,,PNK,BFYW
+95002,Technology,2187.0,San Jose,650 621 7700,CA,United States,Software - Application,0.00588,0.175,buy,13.94,NYQ,BILL
+89703,Healthcare,14.0,Carson City,775 888 3162,NV,United States,Biotechnology,,,buy,3.007,NCM,BIVI
+90831,Healthcare,2.0,Long Beach,858 682 2528,CA,United States,Drug Manufacturers - Specialty & Generic,,,none,,OEM,BKUH
+31210,Industrials,1829.0,Macon,478 822 2801,GA,United States,Farm & Heavy Construction Machinery,0.07655,0.133,buy,2.733,NGM,BLBD
+01801,Technology,55.0,Woburn,781 376 5555,MA,United States,Software - Infrastructure,-0.62722,0.007,buy,0.115,NCM,BLIN
+33771,Industrials,,Largo,754 242 6272,FL,United States,Aerospace & Defense,,,none,,PNK,BLIS
+V6E 2M6,Healthcare,142.0,Vancouver,800 361 6312,BC,Canada,Drug Manufacturers - Specialty & Generic,-0.60454,0.056,none,0.002,PNK,BMMJ
+30339,Financial Services,6.0,Atlanta,404 816 8240,GA,United States,Capital Markets,-1.26743,7.619,none,0.006,OQX,BMNR
+92614,Healthcare,64.0,Irvine,(949) 645-2111,CA,United States,Medical Devices,-1.1185299,0.055,strong_buy,0.168,NCM,BMRA
+07920,Consumer Cyclical,2520.0,Basking Ridge,908 991 2665,NJ,United States,Specialty Retail,-0.07169,-0.003,hold,0.313,NYQ,BNED
+11804,Industrials,5.0,Old Bethpage,516 586 5643,NY,United States,Pollution & Treatment Controls,,,buy,0.001,OQB,BNET
+94545,Healthcare,16.0,Hayward,510 780 0819,CA,United States,Biotechnology,,,strong_buy,4.819,NCM,BNTC
+92618,Consumer Cyclical,3100.0,Irvine,949 453 4400,CA,United States,Apparel Retail,0.08726,0.137,buy,1.224,NYQ,BOOT
+89149,Communication Services,1.0,Las Vegas,702-505-0743,NV,United States,Entertainment,,0.108,none,,PNK,BOTY
+23111,Consumer Cyclical,,Mechanicsville,804 417 2000,VA,United States,Leisure,-0.06628,0.144,buy,0.262,NYQ,BOWL
+11042,Technology,14000.0,Lake Success,516 472 5400,NY,United States,Information Technology Services,0.10572,-0.006,hold,2.511,NYQ,BR
+63144,Consumer Defensive,420.0,Saint Louis,314 644 7600,MO,United States,Packaged Foods,0.11547,0.156,buy,0.562,NYQ,BRBR
+53223,Industrials,5700.0,Milwaukee,414 358 6600,WI,United States,Security & Protection Services,0.14702,-0.007,strong_buy,5.256,NYQ,BRC
+75226,Consumer Defensive,671.0,Dallas,214 428 1535,TX,United States,Packaged Foods,-0.00441,-0.091,none,1.756,NGM,BRID
+96813-2840,Energy,36.0,Honolulu,808 531 8400,HI,United States,Oil & Gas E&P,-0.15547,-0.026,none,0.438,ASE,BRN
+,Consumer Defensive,,Sheung Wan,,,Hong Kong,Education & Training Services,-0.96328,,none,,PNK,BRWC
+24055,Consumer Cyclical,1389.0,Bassett,276 629 6000,VA,United States,"Furnishings, Fixtures & Appliances",-0.04996,-0.133,hold,6.381,NMS,BSET
+94065,Healthcare,55.0,Redwood City,(800) 590-4155,CA,United States,Medical Devices,-1.1740899,0.06,hold,0.029,OQB,BTCY
+66031,Industrials,326.0,New Century,913 780 9595,KS,United States,Aerospace & Defense,0.17327999,0.154,none,0.261,OQX,BUKS
+19422,Industrials,20400.0,Blue Bell,484 567 7204,PA,United States,Specialty Business Services,0.02056,-0.036,buy,1.225,NYQ,BV
+,,,,(908) 897-0510,,,,,,,,PCX,BWET
+30319,Consumer Cyclical,1067.0,Atlanta,770 829 3700,GA,United States,Residential Construction,0.06631,0.04,strong_buy,2.452,NYQ,BZH
+34698,Financial Services,,Dunedin,727 424 3277,FL,United States,Shell Companies,,,none,,PNK,BZRD
+89123-0912,Technology,21.0,Las Vegas,855-294-2900,NV,United States,Software - Application,-1.34594,-0.231,none,,OEM,BZWR
+77055,Healthcare,,Houston,713 335 5697,TX,United States,Biotechnology,,,none,,PNK,BZYR
+20190,Technology,24000.0,Reston,703 841 7800,VA,United States,Information Technology Services,0.057719998,0.112,buy,19.726,NYQ,CACI
+60654,Consumer Defensive,18500.0,Chicago,312 549 5000,IL,United States,Packaged Foods,0.041389998,-0.038,hold,0.27,NYQ,CAG
+43017,Healthcare,47922.0,Dublin,614 757 5000,OH,United States,Medical Distribution,0.0057,-0.043,buy,11.847,NYQ,CAH
+S3 8LT,Industrials,,Sheffield,786 755 3210,,United Kingdom,Specialty Business Services,,,none,,PNK,CAHO
+39157,Consumer Defensive,2929.0,Ridgeland,601 948 6813,MS,United States,Farm Products,0.16093001,0.711,buy,15.368,NMS,CALM
+10027,Financial Services,110.0,New York,718 230 2900,NY,United States,Banks - Regional,-0.13038999,-0.048,none,9.078,NCM,CARV
+57108,Financial Services,1241.0,Sioux Falls,877 497 7497,SD,United States,Banks - Regional,0.23643999,0.124,hold,6.372,NMS,CASH
+50021,Consumer Cyclical,20935.0,Ankeny,515 965 6100,IA,United States,Specialty Retail,0.03399,0.059,buy,8.217,NMS,CASY
+44657,Financial Services,169.0,Minerva,330 868 7701,OH,United States,Banks - Regional,0.23042,0.023,none,8.608,OQX,CBKM
+90071,Financial Services,,Los Angeles,213-633-6929,CA,United States,Shell Companies,,,none,,PNK,CBLO
+37087-4779,Consumer Cyclical,77600.0,Lebanon,615 444 5533,TN,United States,Restaurants,0.01179,0.069,hold,0.542,NMS,CBRL
+02210,Basic Materials,,Boston,617 345 0100,MA,United States,Specialty Chemicals,0.09514,0.037,buy,4.107,NYQ,CBT
+33178-2428,Consumer Cyclical,106000.0,Miami,305 599 2600,FL,United States,Travel Services,0.063930005,0.152,buy,1.172,NYQ,CCL
+90067,Basic Materials,1.0,Los Angeles,310 772 2209,CA,United States,Other Industrial Metals & Mining,,,none,,OEM,CCOB
+89169,Financial Services,13.0,Las Vegas,844 628 2100,NV,United States,Asset Management,-0.28636,-0.606,none,0.13,PNK,CDIX
+92780,Healthcare,371.0,Tustin,714 508 6100,CA,United States,Biotechnology,-1.01269,0.065,buy,0.577,NCM,CDMO
+94597,Consumer Defensive,6700.0,Walnut Creek,925 948 4000,CA,United States,Packaged Foods,0.044180002,-0.026,buy,8.46,NMS,CENT
+94597,Consumer Defensive,6700.0,Walnut Creek,925 948 4000,CA,United States,Packaged Foods,0.044180002,-0.026,buy,8.46,NMS,CENTA
+11222,Technology,328.0,Brooklyn,631 756 9116,NY,United States,Software - Infrastructure,-0.19658001,-0.003,buy,22.304,NCM,CETX
+11222,Technology,328.0,Brooklyn,631 756 9116,NY,United States,Software - Infrastructure,-0.19658001,-0.003,none,22.304,PNK,CETXP
+66603,Financial Services,,Topeka,785 235 1341,KS,United States,Banks - Regional,0.22891001,,hold,1.672,NMS,CFFN
+02170,Financial Services,27.0,Quincy,617 471 0750,MA,United States,Banks - Regional,-0.0128999995,-0.116,none,4.872,NCM,CFSB
+710065,Basic Materials,,Xi'an,86 29 8826 6368,,China,Agricultural Inputs,-0.29636,-0.151,none,3.973,NYQ,CGA
+K7A 0A8,Healthcare,1029.0,Smiths Falls,855 558 9333,ON,Canada,Drug Manufacturers - Specialty & Generic,-2.0127401,-0.095,underperform,2.195,NMS,CGC
+150028,Healthcare,32.0,Harbin,86 451 8810 0688,,China,Drug Manufacturers - Specialty & Generic,,-0.996,none,,OQB,CHHE
+55077,Consumer Defensive,,Inver Grove Heights,651-355-6000,MN,United States,Farm Products,0.028080001,-0.033,none,,NMS,CHSCL
+55077,Consumer Defensive,,Inver Grove Heights,651-355-6000,MN,United States,Farm Products,0.028080001,-0.033,none,,NMS,CHSCM
+55077,Consumer Defensive,,Inver Grove Heights,651-355-6000,MN,United States,Farm Products,0.028080001,-0.033,none,,NMS,CHSCN
+55077,Consumer Defensive,,Inver Grove Heights,651-355-6000,MN,United States,Farm Products,0.028080001,-0.033,none,,NMS,CHSCO
+55077,Consumer Defensive,,Inver Grove Heights,651-355-6000,MN,United States,Farm Products,0.028080001,-0.033,none,,NMS,CHSCP
+21076,Technology,8313.0,Hanover,410 694 5700,MD,United States,Communication Equipment,0.034360003,-0.118,buy,7.624,NYQ,CIEN
+999077,Technology,,Tsim Sha Tsui,852 2251 0781,,Hong Kong,Electronics & Computer Distribution,0.00632,27.796,none,,PNK,CIIT
+44718,Industrials,,Canton,330 966 8120,OH,United States,Farm & Heavy Construction Machinery,,0.874,none,,PNK,CLEV
+55428,Technology,,Minneapolis,763 476 6866,MN,United States,Communication Equipment,-0.0747,-0.059,buy,9.202,NGM,CLFD
+33761,Technology,,Clearwater,813 289 7620,FL,United States,Software - Application,-0.00714,0.794,none,0.003,PNK,CLRI
+89101,Healthcare,,Las Vegas,416 922 4539,NV,United States,Drug Manufacturers - Specialty & Generic,-0.24652,-0.06,hold,0.003,OQB,CLSH
+89052,Financial Services,130.0,Henderson,702-989-7692,NV,United States,Capital Markets,-0.46308997,1.287,buy,0.512,NCM,CLSK
+94612-1888,Consumer Defensive,7400.0,Oakland,510 271 7000,CA,United States,Household & Personal Products,0.0478,0.271,hold,2.246,NYQ,CLX
+75039,Basic Materials,13178.0,Irving,214 689 4300,TX,United States,Steel,0.06125,-0.096,buy,7.532,NYQ,CMC
+28277,Industrials,3515.0,Charlotte,716 689 5400,NC,United States,Farm & Heavy Construction Machinery,0.0150999995,-0.062,buy,2.028,NMS,CMCO
+66210,Basic Materials,2000.0,Overland Park,913 344 9200,KS,United States,Other Industrial Metals & Mining,-0.12467,-0.25,hold,0.437,NYQ,CMP
+A91 XR61,Industrials,15000.0,Dundalk,353 42 938 8500,,Ireland,Specialty Business Services,0.04689,0.063,strong_buy,6.081,NMS,CMPR
+85226,Technology,1676.0,Chandler,480 333 2200,AZ,United States,Communication Equipment,-0.18502001,-0.152,hold,1.124,NMS,CMTL
+20814,Healthcare,2.0,Bethesda,877 424 2429,MD,United States,Biotechnology,,,none,0.002,PNK,CNBX
+10001,Communication Services,176.0,New York,212 206 8600,NY,United States,Entertainment,-0.46226,-0.297,buy,0.252,NCM,CNVS
+32835-6350,Industrials,83.0,Orlando,407 735 2400,FL,United States,Aerospace & Defense,0.1593,0.12,buy,2.254,NCM,CODA
+16056,Technology,26157.0,Saxonburg,724 352 4455,PA,United States,Scientific & Technical Instruments,-0.01254,0.28,buy,6.735,NYQ,COHR
+85750,Communication Services,25.0,Tucson,206 796 0173,AZ,United States,Telecom Services,,-0.934,buy,0.756,OEM,COMS
+94583,Healthcare,15000.0,San Ramon,925 460 3600,CA,United States,Medical Instruments & Supplies,0.09445,0.078,buy,0.551,NMS,COO
+19428-1800,Healthcare,46000.0,Conshohocken,610 727 7000,PA,United States,Medical Distribution,0.00513,0.147,buy,15.961,NYQ,COR
+98027,Consumer Defensive,333000.0,Issaquah,425 313 8100,WA,United States,Discount Stores,0.02895,0.01,buy,25.152,NMS,COST
+13090,Financial Services,,Liverpool,315 451 7515,NY,United States,Shell Companies,,,none,,PNK,COTI
+10118,Consumer Defensive,11791.0,New York,212 389 7300,NY,United States,Household & Personal Products,0.02776,0.018,buy,0.326,NYQ,COTY
+08103-1799,Consumer Defensive,14400.0,Camden,856 342 4800,NJ,United States,Packaged Foods,0.05884,0.109,hold,0.362,NMS,CPB
+W1T 4EZ,Consumer Cyclical,10200.0,London,44 207 632 8600,,United Kingdom,Luxury Goods,-0.074439995,-0.164,hold,1.544,NYQ,CPRI
+75254,Industrials,13086.0,Dallas,972 391 5000,TX,United States,Specialty Business Services,0.32171002,0.072,buy,3.553,NMS,CPRT
+,,,,,,,,,,,,PNK,CRDE
+1-1104,Technology,500.0,Grand Cayman,408 664 9329,,Cayman Islands,Semiconductors,-0.12047,0.702,buy,2.4,NMS,CRDO
+72756,Consumer Cyclical,2280.0,Rogers,479 464 9944,AR,United States,Auto & Truck Dealerships,-0.026670001,-0.052,hold,0.742,NMS,CRMT
+01803,Technology,1700.0,Burlington,857 362 7300,MA,United States,Software - Application,-1.62035,0.144,hold,2.894,NMS,CRNC
+19103,Industrials,4600.0,Philadelphia,610 208 2000,PA,United States,Metal Fabrication,0.08048,0.101,buy,3.013,NYQ,CRS
+78701,Technology,1609.0,Austin,512 851 4000,TX,United States,Semiconductors,0.17192,0.126,buy,9.0,NMS,CRUS
+76109,Financial Services,4870.0,Fort Worth,817 390 1416,TX,United States,Insurance Brokers,0.09641,0.148,none,8.078,NMS,CRVL
+70737,Consumer Cyclical,162.0,Gonzales,225 647 9100,LA,United States,"Furnishings, Fixtures & Appliances",0.048499998,-0.053,hold,0.107,NCM,CRWS
+07601,Healthcare,210.0,Hackensack,201 808 8400,NJ,United States,Biotechnology,-0.06576,0.119,buy,0.213,NCM,CSBR
+95134-1706,Technology,90400.0,San Jose,(408) 526-4000,CA,United States,Communication Equipment,0.19181,-0.103,buy,4.662,NMS,CSCO
+01854,Technology,112.0,Lowell,(978)-954-5038,MA,United States,Information Technology Services,0.04761,-0.26,none,2.959,NGM,CSPI
+32202,Healthcare,,Jacksonville,904 595 5820,FL,United States,Drug Manufacturers - Specialty & Generic,,,none,,PNK,CSUI
+75225,Financial Services,27.0,Dallas,214-238-5700,TX,United States,Asset Management,0.37769002,0.139,buy,0.991,NMS,CSWC
+,,,,,,,,,,,,NMS,CSWCZ
+75240,Industrials,,Dallas,214 884 3777,TX,United States,Specialty Industrial Machinery,0.13766,0.119,buy,16.248,NMS,CSWI
+45262-5737,Industrials,46500.0,Cincinnati,513 459 1200,OH,United States,Specialty Business Services,0.16795,0.068,hold,0.251,NMS,CTAS
+99701,Basic Materials,6.0,Fairbanks,907 888 4273,AK,United States,Gold,,,buy,1.986,ASE,CTGO
+27560,Consumer Cyclical,48.0,Morrisville,919 468 0399,NC,United States,Luxury Goods,-0.77225995,-0.208,buy,1.215,NCM,CTHR
+19335,Technology,360.0,Malvern,610 989 0340,PA,United States,Information Technology Services,0.04899,0.13,buy,0.454,NMS,CTLP
+19335,Technology,360.0,Malvern,610 989 0340,PA,United States,Information Technology Services,0.04899,0.13,none,0.454,PNK,CTLPP
+08873,Healthcare,17000.0,Somerset,732 537 6200,NJ,United States,Drug Manufacturers - Specialty & Generic,-0.0934,0.042,hold,1.846,NYQ,CTLT
+07016,Healthcare,22.0,Cranford,908 967 6677,NJ,United States,Biotechnology,,,buy,0.099,NCM,CTXR
+33178-2428,Consumer Cyclical,106000.0,Miami,305 599 2600,FL,United States,Leisure,0.063930005,0.152,none,1.172,NYQ,CUK
+33178-2428,Consumer Cyclical,106000.0,Miami,305 599 2600,FL,United States,Leisure,0.063930005,0.152,none,1.172,PNK,CUKPF
+27265,Consumer Cyclical,1000.0,High Point,336-889-5161,NC,United States,Textile Manufacturing,-0.07876,-0.002,buy,1.079,NYQ,CULP
+91311,Industrials,2.0,Chatsworth,818 718 0905,CA,United States,Specialty Industrial Machinery,0.32208002,11.538,none,0.001,OQB,CVAT
+85012,Consumer Cyclical,6500.0,Phoenix,602 256 6263,AZ,United States,Residential Construction,0.08,0.123,buy,47.947,NMS,CVCO
+93060,Consumer Defensive,3064.0,Santa Paula,805 525 1245,CA,United States,Food Distribution,-0.00874,0.117,buy,0.063,NMS,CVGW
+07724,Technology,2882.0,Tinton Falls,732 870 4000,NJ,United States,Software - Application,0.19749,0.161,hold,6.931,NMS,CVLT
+22182,Healthcare,,Vienna,703 506 9460,VA,United States,Biotechnology,,,buy,0.007,ASE,CVM
+96740,Consumer Defensive,77.0,Kailua-Kona,(800) 395-1353,HI,United States,Packaged Foods,-0.21408,0.146,none,0.103,OQB,CYAN
+89146,Technology,,Las Vegas,702 900 7022,NV,United States,Communication Equipment,,-0.898,none,0.004,OQB,CYCA
+98660,Healthcare,9.0,Vancouver,360 980 8524,WA,United States,Biotechnology,,,hold,0.02,OQB,CYDY
+77057,Energy,11.0,Houston,,TX,United States,Oil & Gas E&P,,,none,0.001,PNK,CYRB
+57006,Technology,2520.0,Brookings,605 692 0200,SD,United States,Electronic Components,0.01291,-0.028,strong_buy,2.075,NMS,DAKT
+10022,Communication Services,8.0,New York,646 722 2706,NY,United States,Advertising Agencies,-2.35268,-0.57,none,,PNK,DBMM
+77546,Energy,5.0,Friendswood,281-996-4176,TX,United States,Oil & Gas E&P,-1.50577,1.053,none,0.001,OEM,DBRM
+55431,Industrials,14000.0,Bloomington,952 887 3131,MN,United States,Specialty Industrial Machinery,0.115439996,0.064,hold,1.944,NYQ,DCI
+61265,Industrials,83000.0,Moline,309 765 8000,IL,United States,Farm & Heavy Construction Machinery,0.14698,-0.168,buy,21.206,NYQ,DE
+93117,Consumer Cyclical,4800.0,Goleta,805 967 7611,CA,United States,Footwear & Accessories,0.18799,0.201,buy,8.068,NYQ,DECK
+92025,Industrials,,Escondido,858 283 1253,CA,United States,Consulting Services,-0.66370004,0.088,none,0.005,OQB,DFCO
+55343,Technology,822.0,Hopkins,952 912 3444,MN,United States,Communication Equipment,0.03945,-0.063,buy,0.778,NMS,DGII
+76011,Consumer Cyclical,,Arlington,817 390 8200,TX,United States,Residential Construction,0.12925,-0.048,buy,13.191,NYQ,DHI
+91521,Communication Services,173250.0,Burbank,818 560 1000,CA,United States,Entertainment,0.053049996,0.037,buy,3.279,NYQ,DIS
+68122,Consumer Defensive,,Omaha,402 331 3727,NE,United States,Food Distribution,0.00202,0.092,none,1.042,ASE,DIT
+90012,Technology,350.0,Los Angeles,213 229 5300,CA,United States,Software - Application,0.62702,-0.012,none,243.216,NCM,DJCO
+30097,Consumer Cyclical,6000.0,Duluth,864 232 5200,GA,United States,Apparel Manufacturing,-0.18923001,-0.285,buy,0.1,OEM,DLAPQ
+94103-1410,Industrials,2246.0,San Francisco,415 558 0200,CA,United States,Specialty Business Services,0.16867,-0.032,buy,9.114,NYQ,DLB
+30305,Industrials,3200.0,Atlanta,770 554 3545,GA,United States,Specialty Business Services,0.00617,-0.015,buy,0.03,NCM,DLHC
+94107,Healthcare,827.0,San Francisco,650 549 4330,CA,United States,Health Information Services,0.33686,0.204,buy,4.315,NYQ,DOCS
+107-0062,Industrials,1.0,Tokyo,81 90 6002 4978,,Japan,Pollution & Treatment Controls,,7.968,none,,OQB,DRFS
+32837,Consumer Cyclical,191105.0,Orlando,407 245 4000,FL,United States,Restaurants,0.091120005,0.01,buy,1.638,NYQ,DRI
+V6G 2V3,Technology,35.0,Vancouver,604 609 7736,BC,Canada,Software - Application,0.051810004,0.082,none,0.148,OQB,DSNY
+02451,Technology,4700.0,Waltham,781 530 1000,MA,United States,Software - Application,0.10444,0.189,buy,3.367,NYQ,DT
+78230,Communication Services,78.0,San Antonio,210 614 7240,TX,United States,Telecom Services,-0.44319,-0.052,buy,0.005,OQB,DTGI
+92014,Industrials,,Del Mar,800-520-9485,CA,United States,Security & Protection Services,,,none,,PNK,DTII
+100176,Technology,36.0,Beijing,86 10 5614 5240,,China,Software - Infrastructure,-0.47452,0.274,buy,0.035,NCM,DTSS
+19104,Industrials,,Philadelphia,856 577 2763,PA,United States,Rental & Leasing Services,,0.415,none,,PNK,DWAY
+20147,Technology,130000.0,Ashburn,703-972-9700,VA,United States,Information Technology Services,0.0018099999,-0.057,hold,6.881,NYQ,DXC
+55121,Healthcare,111.0,Eagan,(801) 568-7000,MN,United States,Medical Devices,-0.08292,-0.126,buy,0.082,OQB,DYNT
+94065,Communication Services,13700.0,Redwood City,650 628 1500,CA,United States,Electronic Gaming & Multimedia,0.14118,0.058,buy,9.772,NMS,EA
+92807,Technology,584.0,Anaheim,714 876 2490,CA,United States,Electronics & Computer Distribution,0.042,0.198,none,2.086,PNK,EACO
+75019,Consumer Cyclical,68852.0,Dallas,972 980 9917,TX,United States,Restaurants,0.04109,0.125,hold,0.365,NYQ,EAT
+89169,Consumer Cyclical,28.0,Las Vegas,888 411 2726,NV,United States,Gambling,,-0.696,buy,0.042,OEM,EBET
+76065,Industrials,1941.0,Midlothian,972 775 9801,TX,United States,Business Equipment & Supplies,0.10155,-0.072,strong_buy,4.716,NYQ,EBF
+80301,Healthcare,22.0,Boulder,303 444 2600,CO,United States,Medical Instruments & Supplies,-0.08064,-0.014,none,0.023,PNK,ECIA
+91406,Industrials,,Van Nuys,800 922 4356,CA,United States,Specialty Business Services,,,none,,PNK,ECOX
+L3R 5H6,Healthcare,16.0,Markham,289 800 9600,ON,Canada,Biotechnology,,,buy,0.628,NCM,EDSA
+74146,Communication Services,101.0,Tulsa,918 622 4522,OK,United States,Publishing,-0.06424,-0.386,strong_buy,0.088,NGM,EDUC
+85331,Healthcare,,Cave Creek,480 595 6900,AZ,United States,Drug Manufacturers - Specialty & Generic,1.48629,-0.716,hold,,PNK,EDXC
+94089,Technology,539.0,Sunnyvale,408 636 4500,CA,United States,Software - Application,0.08383001,-0.088,buy,2.455,NCM,EGAN
+95008,Technology,1948.0,Campbell,408 727 1885,CA,United States,Software - Application,-0.09679,0.174,hold,1.313,NMS,EGHT
+10153,Consumer Defensive,44020.0,New York,212 572 4200,NY,United States,Household & Personal Products,0.01314,-0.045,hold,6.546,NYQ,EL
+94607,Consumer Defensive,475.0,Oakland,510 778 7787,CA,United States,Household & Personal Products,0.088690005,0.397,buy,1.718,NYQ,ELF
+56071,Healthcare,174.0,New Prague,952 758 9299,MN,United States,Medical Devices,0.094119996,0.09,buy,1.861,ASE,ELMD
+518000,Communication Services,8.0,Shenzhen,86 755 8316 0998,,China,Internet Content & Information,,,none,,PNK,ELRE
+07647,Healthcare,64.0,Northvale,201 750 2646,NJ,United States,Drug Manufacturers - Specialty & Generic,0.29471,1.094,none,0.008,OQB,ELTP
+10111,Financial Services,1.0,New York,929 923 2740,NY,United States,Shell Companies,-0.064569995,0.131,none,,PNK,EMAX
+07054,Healthcare,2200.0,Parsippany,862 401 0000,NJ,United States,Medical Instruments & Supplies,0.06229,-0.048,hold,4.768,NMS,EMBC
+91803,Technology,350.0,Alhambra,626 293 3400,CA,United States,Electronic Components,-0.76641,-0.235,hold,0.935,NCM,EMKR
+63136,Industrials,67000.0,Saint Louis,(314) 553 2000,MO,United States,Specialty Industrial Machinery,0.101160005,0.129,buy,6.273,NYQ,EMR
+,Healthcare,1.0,Kowloon,852 2621 3288,,Hong Kong,Medical Distribution,,,none,,PNK,ENMI
+63141,Industrials,5080.0,Saint Louis,314 985 2000,MO,United States,Electrical Equipment & Parts,0.0035299999,0.003,hold,2.043,NYQ,ENR
+V1Y 4R2,Basic Materials,,Kelowna,250 870 2219,BC,Canada,Other Industrial Metals & Mining,,,buy,0.002,OQB,ENRT
+19605,Industrials,10797.0,Reading,610 208 1991,PA,United States,Electrical Equipment & Parts,0.08249,-0.019,hold,10.244,NYQ,ENS
+02472,Healthcare,145.0,Watertown,617 607 0800,MA,United States,Biotechnology,-1.6026801,-0.049,buy,10.859,NMS,ENTA
+11735,Healthcare,125.0,Farmingdale,631 755 5500,NY,United States,Diagnostics & Research,-0.81731004,,none,1.002,NYQ,ENZ
+53051,Industrials,2000.0,Menomonee Falls,(262) 293-1500,WI,United States,Specialty Industrial Machinery,0.14546,-0.012,buy,3.083,NYQ,EPAC
+06484,Consumer Defensive,6700.0,Shelton,203 944 5500,CT,United States,Household & Personal Products,0.04375,-0.031,hold,4.25,NYQ,EPC
+V5Z 1K5,Healthcare,50.0,Vancouver,778 331 0962,BC,Canada,Biotechnology,,,hold,2.946,NCM,EPIX
+77079,Energy,11.0,Houston,713 935 0122,TX,United States,Oil & Gas E&P,0.047509998,0.168,buy,0.197,ASE,EPM
+63124-1186,Technology,3131.0,Saint Louis,314 213 7200,MO,United States,Scientific & Technical Instruments,0.099530004,0.088,buy,2.163,NYQ,ESE
+19087,Healthcare,40.0,Wayne,610 688 6830,PA,United States,Medical Devices,-0.01045,0.107,none,0.028,OQB,ESMC
+25701,Industrials,1282.0,Huntington,304 522 3868,WV,United States,Engineering & Construction,0.06865,0.005,buy,0.877,NCM,ESOA
+12866-4755,Industrials,148.0,Saratoga Springs,518 584 4100,NY,United States,Electrical Equipment & Parts,0.15012,0.392,hold,9.171,ASE,ESP
+18360-0160,Financial Services,232.0,Stroudsburg,570 421 0531,PA,United States,Banks - Regional,0.2547,-0.037,hold,5.966,NMS,ESSA
+1016 ED,Technology,3299.0,Amsterdam,,,Netherlands,Software - Application,0.04618,0.183,buy,11.167,NYQ,ESTC
+06811-5286,Consumer Cyclical,3347.0,Danbury,203 743 8000,CT,United States,"Furnishings, Fixtures & Appliances",0.09989,-0.058,buy,5.347,NYQ,ETD
+33156,Healthcare,32.0,Miami,(305) 724-5684,FL,United States,Drug Manufacturers - Specialty & Generic,0.09477,37.961,none,0.005,PNK,ETST
+78759,Technology,3916.0,Austin,866 432 6736,TX,United States,Software - Application,-0.4969,-0.04,hold,0.46,NYQ,ETWO
+92122,Healthcare,37.0,San Diego,858 550 1900,CA,United States,Biotechnology,3.4116,0.692,hold,,OQB,EVFM
+33137,Industrials,750.0,Miami,305 402 9300,FL,United States,Industrial Distribution,0.01597,-0.041,none,0.359,ASE,EVI
+52000,Industrials,23.0,Kuala Lumpur,60 3 6243 3379,,Malaysia,Building Products & Equipment,,-0.459,none,0.004,PNK,EVOH
+30318,Consumer Cyclical,1.0,Atlanta,404-549-4542,GA,United States,Personal Services,,,none,,PNK,EVTK
+564-0063,Consumer Defensive,41.0,Suita,81 6 6339 4177,,Japan,Education & Training Services,-0.03221,0.194,none,0.597,PNK,EXDW
+75225,Basic Materials,2500.0,Dallas,214 432 2000,TX,United States,Building Materials,0.21324,0.002,buy,2.8,NYQ,EXP
+27560,Technology,2656.0,Morrisville,408-579-2800,NC,United States,Communication Equipment,-0.12111,-0.238,buy,1.207,NMS,EXTR
+78746,Financial Services,7500.0,Austin,512 314 3400,TX,United States,Credit Services,0.0687,0.1,strong_buy,3.983,NMS,EZPW
+76177,Consumer Defensive,1003.0,Fort Worth,682 549 6600,TX,United States,Packaged Foods,-0.02199,0.039,buy,0.154,NMS,FARM
+10004,Financial Services,1.0,New York,917 720 3366,NY,United States,Shell Companies,,,none,,PNK,FBDS
+84119-2331,Consumer Defensive,,Salt Lake City,801 817 1776,UT,United States,Education & Training Services,0.081470005,0.079,buy,3.751,NYQ,FC
+06810,Industrials,591.0,Danbury,203 825 6000,CT,United States,Electrical Equipment & Parts,-1.3481799,-0.071,hold,0.481,NGM,FCEL
+06810,Industrials,591.0,Danbury,203 825 6000,CT,United States,Electrical Equipment & Parts,-1.3481799,-0.071,none,0.481,PNK,FCELB
+91748,Financial Services,3.0,City Of Industry,917-624-8888,CA,United States,Shell Companies,-1.53,,none,0.008,PNK,FCIC
+06850,Financial Services,12398.0,Norwalk,203 810 1000,CT,United States,Financial Data & Stock Exchanges,0.24381,0.049,hold,12.967,NYQ,FDS
+38120,Industrials,306000.0,Memphis,901 818 7500,TN,United States,Integrated Freight & Logistics,0.0462,0.139,buy,,NYQ,FDX
+92344,Basic Materials,57.0,Hesperia,(442) 221-0225,CA,United States,Specialty Chemicals,,,hold,0.071,NMS,FEAM
+11553,Technology,200.0,Mitchel Field,516 794 4500,NY,United States,Communication Equipment,0.103240006,,none,,NGM,FEIM
+98104,Technology,,Seattle,206 272 5555,WA,United States,Software - Infrastructure,0.20126,0.056,hold,18.498,NMS,FFIV
+,,,,,,,,,,,,PCX,FGDL
+64068,Energy,,Liberty,(816) 792-1600,MO,United States,Oil & Gas Refining & Marketing,0.05939,-0.004,underperform,23.362,PNK,FGPR
+64068,Energy,,Liberty,(816) 792-1600,MO,United States,Oil & Gas Refining & Marketing,0.05939,-0.004,none,23.362,PNK,FGPRB
+46777,Communication Services,,Ossian,260 490 9990,IN,United States,Broadcasting,,,none,,PNK,FHLD
+59715,Technology,3586.0,Bozeman,(406) 982-7276,MT,United States,Software - Application,0.29858,0.164,buy,6.188,NYQ,FICO
+00901,Financial Services,,San Juan,855 422 4200,PR,United States,Asset Management,,0.534,none,0.025,PNK,FIGI
+33324,Consumer Defensive,1559.0,Fort Lauderdale,954 581 0922,FL,United States,Beverages - Non-Alcoholic,0.15363,0.016,hold,0.823,NMS,FIZZ
+92688,Consumer Defensive,,Rancho Santa Margarita,949 525 3278,CA,United States,Household & Personal Products,,,none,,PNK,FKST
+92123,Technology,69.0,San Diego,858 623 0000,CA,United States,Communication Equipment,-0.12872,-0.64,buy,3.179,NCM,FKWL
+85260,Industrials,,Scottsdale,855 535 6643,AZ,United States,Consulting Services,,,none,,OEM,FLCX
+89030,Consumer Cyclical,,Las Vegas,702 267 6100,NV,United States,Auto Parts,,-0.859,buy,0.001,OEM,FLES
+78759,Technology,148115.0,Austin,,TX,United States,Electronic Components,0.037130002,-0.056,buy,6.707,NMS,FLEX
+22203,Utilities,1112.0,Arlington,833 358 3623,VA,United States,Utilities—Renewable,-0.010199999,-0.099,buy,3.01,NMS,FLNC
+92081,Industrials,133.0,Vista,877 505 3589,CA,United States,Electrical Equipment & Parts,-0.110290006,-0.042,buy,0.075,NCM,FLUX
+11753,Consumer Cyclical,4000.0,Jericho,516 237 6000,NY,United States,Specialty Retail,-0.0050199996,-0.1,buy,0.132,NMS,FLWS
+52001-0877,Consumer Cyclical,1500.0,Dubuque,563 556 7730,IA,United States,"Furnishings, Fixtures & Appliances",0.03296,0.099,none,1.102,NMS,FLXS
+KY1-9005,Technology,14213.0,George Town,,,Cayman Islands,Electronic Components,0.10277,0.173,buy,25.06,NYQ,FN
+238164,Communication Services,64.0,Singapore,347 349 5339,,Singapore,Telecom Services,-0.18290001,-0.088,buy,0.015,NCM,FNGR
+76458,Energy,,Jacksboro,972-217-4080,TX,United States,Oil & Gas E&P,,-0.523,none,,OQB,FOMI
+11747,Healthcare,520.0,Melville,631-694-2929,NY,United States,Diagnostics & Research,0.10271,0.006,none,8.748,NCM,FONR
+76006,Real Estate,,Arlington,817 769 1860,TX,United States,Real Estate—Development,0.13475999,0.003,strong_buy,9.5,NYQ,FOR
+11788,Consumer Cyclical,100.0,Hauppauge,631 547 3055,NY,United States,Footwear & Accessories,-0.10223,-0.094,none,2.324,NCM,FORD
+92101,Healthcare,2.0,San Diego,619 324 7388,CA,United States,Medical Devices,,-0.755,none,,OEM,FORZ
+10036,Communication Services,10200.0,New York,212 852 7000,NY,United States,Entertainment,0.13399,0.111,none,8.872,NMS,FOX
+10036,Communication Services,10200.0,New York,212 852 7000,NY,United States,Entertainment,0.13399,0.111,buy,8.872,NMS,FOXA
+19102-2516,Financial Services,525.0,Philadelphia,215 735 4422,PA,United States,Banks—Regional,0.10885,-0.377,hold,2.399,OEM,FRBKQ
+75601,Basic Materials,268.0,Longview,903 758 3431,TX,United States,Steel,0.02477,1.802,none,,ASE,FRD
+07601-5900,Real Estate,21.0,Hackensack,201 488 6400,NJ,United States,REIT—Residential,0.54133,-0.02,none,4.031,PNK,FREVS
+050040,Financial Services,6356.0,Almaty,7 727 311 1064,,Kazakhstan,Capital Markets,0.29551,0.471,none,67.702,NCM,FRHC
+47130,Financial Services,,Jeffersonville,812 283 0724,IN,United States,Banks—Regional,0.20136,-0.218,buy,7.63,NCM,FSFG
+55416,Technology,5.0,Minneapolis,612 927 3700,MN,United States,Software—Application,-1.41707,-0.225,none,,OEM,FSSN
+60450,Financial Services,1.0,Morris,815 941 9888,IL,United States,Shell Companies,,,none,0.004,PNK,FSTJ
+55164-0683,Basic Materials,7200.0,Saint Paul,651-236-5900,MN,United States,Specialty Chemicals,0.051459998,0.019,hold,2.406,NYQ,FUL
+89118,Healthcare,17.0,Las Vegas,(702) 744-0640,NV,United States,Diagnostics & Research,,,none,0.005,OQB,FUNI
+91007,Basic Materials,2.0,Arcadia,626 210 0000,CA,United States,Other Industrial Metals & Mining,-0.84440005,,none,0.003,OQB,FUST
+,Technology,,Sha Tin,,,Hong Kong,Information Technology Services,0.20944999,,none,,PNK,FWFW
+22102,Financial Services,,McLean,703-287-5800,VA,United States,Asset Management,0.78482,0.093,hold,0.067,NMS,GAIN
+,,,,,,,,,,none,,NMS,GAINL
+,,,,,,,,,,none,,NMS,GAINN
+,,,,,,,,,,,,NMS,GAINZ
+V6C 3L2,Basic Materials,19.0,Vancouver,604 424 0984,BC,Canada,Other Precious Metals & Mining,,,buy,1.189,NYQ,GATO
+30577,Technology,24.0,Toccoa,706-391-5030,GA,United States,Consumer Electronics,,-0.482,none,0.001,OEM,GAXYQ
+80111-5006,Healthcare,574.0,Greenwood Village,720 680 0808,CO,United States,Medical Care Facilities,-0.16438,0.073,none,1.05,PNK,GBCS
+10166,Financial Services,,New York,,NY,United States,Asset Management,0.42139998,0.107,buy,0.557,NMS,GBDC
+89148,Healthcare,2.0,Las Vegas,866-721-0297,NV,United States,Biotechnology,,,none,,OEM,GBLX
+97035,Industrials,14200.0,Lake Oswego,503 684 7000,OR,United States,Railroads,0.04517,0.035,hold,11.854,NYQ,GBX
+12414,Financial Services,189.0,Catskill,518-943-2600,NY,United States,Banks—Regional,0.38329,-0.003,none,12.689,NCM,GCBC
+,,,,,,,,,,,,OQX,GDLC
+11354,Financial Services,,Flushing,330-352-7788,NY,United States,Shell Companies,,,none,0.129,NCM,GDST
+11354,Financial Services,,Flushing,330-352-7788,NY,United States,Shell Companies,,,none,0.129,NCM,GDSTU
+43015,Consumer Cyclical,12000.0,Delaware,740 549 6000,OH,United States,Packaging & Containers,0.04991,0.093,buy,4.116,NYQ,GEF
+33410,Financial Services,31.0,Palm Beach Gardens,617 375 3006,FL,United States,Asset Management,-0.07783,1.947,hold,3.82,NMS,GEG
+,,,,,,,,,,,,NGM,GEGGL
+85281,Technology,3400.0,Tempe,650 527 8000,AZ,United States,Software—Infrastructure,0.16153,0.031,buy,1.196,NMS,GEN
+32810,Industrials,314.0,Orlando,407 290 6000,FL,United States,Farm & Heavy Construction Machinery,0.14331001,-0.083,strong_buy,7.954,ASE,GENC
+77040-6601,Energy,681.0,Houston,713 986 4444,TX,United States,Oil & Gas Equipment & Services,0.0828,-0.21,none,3.294,NMS,GEOS
+82009,Basic Materials,8.0,Cheyenne,800 401 4535,WY,United States,Specialty Chemicals,,6.006,none,0.015,PNK,GEVI
+10019,Industrials,5700.0,New York,212 957 5000,NY,United States,Conglomerates,0.07269,-0.052,strong_buy,2.715,NYQ,GFF
+89703,Communication Services,,Carson City,310 467 0721,NV,United States,Entertainment,0.00378,,none,,PNK,GFMH
+91007,Financial Services,,Arcadia,855 707 2077,CA,United States,Shell Companies,,,none,,OEM,GFOO
+723000,Real Estate,95.0,Hanzhong,86 91 6262 2612,,China,Real Estate—Development,,0.128,none,0.033,OEM,GGEI
+14020,Industrials,595.0,Batavia,585 343 2216,NY,United States,Specialty Industrial Machinery,0.025980001,0.05,buy,1.984,NYQ,GHM
+10065,Consumer Cyclical,,New York,212 634 6860,NY,United States,Specialty Retail,,-0.743,none,,PNK,GHST
+55426,Consumer Defensive,34000.0,Minneapolis,763 764 7600,MN,United States,Packaged Foods,0.12136,-0.012,hold,0.843,NYQ,GIS
+22102,Financial Services,,McLean,703-287-5800,VA,United States,Asset Management,0.78405,0.126,hold,0.052,NMS,GLAD
+33477,Industrials,1.0,Jupiter,561 240 0333,FL,United States,Consulting Services,,,none,,OQB,GLAI
+,,,,,,,,,,,,PCX,GLD
+,,,,(212) 317-3800,,,,,,,,PCX,GLDM
+74120,Basic Materials,168.0,Tulsa,918 845 6227,OK,United States,Specialty Chemicals,0.06258,-0.227,none,0.137,OQB,GLGI
+,,,,,,,,,,none,,OQB,GLNS
+STJ 3109,Consumer Cyclical,100.0,St. Julian's,356 2713 1276,,Malta,Gambling,-2.6077802,-0.587,hold,0.835,PNK,GMBL
+STJ 3109,Consumer Cyclical,100.0,St. Julian's,356 2713 1276,,Malta,Gambling,-2.6077802,-0.587,none,0.835,PNK,GMBLP
+89103,Communication Services,1200.0,Las Vegas,(702) 318-7548,NV,United States,Electronic Gaming & Multimedia,0.16922002,0.748,buy,0.272,NCM,GMGI
+30084,Industrials,7624.0,Tucker,800 392 4619,GA,United States,Building Products & Equipment,0.04449,0.028,buy,1.412,NYQ,GMS
+92127,Technology,187.0,San Diego,858 676 1112,CA,United States,Scientific & Technical Instruments,-1.08717,-0.497,buy,0.285,NCM,GNSS
+89120,Industrials,19.0,Las Vegas,702 840 1020,NV,United States,Specialty Business Services,-0.93763,0.244,none,0.001,OQB,GPOX
+08540,Healthcare,,Princeton,818 839 4378,NJ,United States,Biotechnology,,,buy,1.914,NCM,GRCE
+94089,Technology,148.0,Sunnyvale,408 331 8800,CA,United States,Semiconductors,-0.77711,-0.203,none,0.72,NMS,GSIT
+77002,Energy,6.0,Houston,281 918 4100,TX,United States,Oil & Gas E&P,,,none,,OEM,GSPE
+99352,Healthcare,,Richland,206 451 1970,WA,United States,Biotechnology,,,none,,PNK,GSTC
+80401,Consumer Cyclical,2245.0,Golden,303 384 1400,CO,United States,Restaurants,0.00805,0.065,buy,0.448,NCM,GTIM
+07054,Technology,2.0,Parsippany,973 233 5151,NJ,United States,Information Technology Services,0.76779,,none,,PNK,GTLL
+94403,Technology,3469.0,San Mateo,650 357 9100,CA,United States,Software—Application,-0.00622,0.08,buy,12.302,NYQ,GWRE
+,,,,,,,,,,,,OQX,GXLM
+02110,Healthcare,3657.0,Boston,781 848 7100,MA,United States,Medical Instruments & Supplies,0.090959996,0.086,buy,5.974,NYQ,HAE
+07030,Consumer Defensive,2786.0,Hoboken,516-587-5000,NJ,United States,Packaged Foods,-0.049439996,-0.072,buy,0.664,NMS,HAIN
+46904-9013,Industrials,1248.0,Kokomo,765 456 6000,IN,United States,Metal Fabrication,0.06105,0.07,hold,0.927,NMS,HAYN
+90212,Real Estate,,Beverly Hills,310 308 7887,CA,United States,Real Estate Services,-0.15991001,0.246,none,0.005,PNK,HBUV
+350300,Consumer Defensive,,Fuzhou,86 18 0590 16050,,China,Food Distribution,-0.06286,,none,0.001,PNK,HCIL
+33021,Industrials,9600.0,Hollywood,954 987 4000,FL,United States,Aerospace & Defense,0.12640001,0.373,buy,1.464,NYQ,HEI
+79912,Consumer Defensive,1927.0,El Paso,915 225 8000,TX,United States,Household & Personal Products,0.0735,-0.035,hold,0.991,NMS,HELE
+71101,Financial Services,78.0,Shreveport,318 222 1145,LA,United States,Banks—Regional,0.16799,-0.134,none,13.421,NCM,HFBL
+89118,Consumer Defensive,925.0,Las Vegas,888 905 0988,NV,United States,Food Distribution,0.00339,0.034,none,0.265,NCM,HFFG
+91770,Consumer Cyclical,19.0,Rosemead,626 321 1915,CA,United States,Lodging,0.78065,,none,0.003,PNK,HFUS
+47006,Industrials,10400.0,Batesville,812 931 5000,IN,United States,Specialty Industrial Machinery,-0.06673,0.098,buy,3.187,NYQ,HI
+37919,Healthcare,4.0,Knoxville,865 237 4448,TN,United States,Health Information Services,-2.18163,,none,0.002,PNK,HITC
+90067,Financial Services,2601.0,Los Angeles,310 553 8871,CA,United States,Capital Markets,0.15773,0.231,hold,9.948,NYQ,HLI
+19428,Financial Services,700.0,Philadelphia,610 934 2222,PA,United States,Asset Management,0.28029,0.182,hold,4.639,NMS,HLNE
+15233,Communication Services,,Pittsburgh,630 708 0750,PA,United States,Internet Content & Information,,,none,,OEM,HMLA
+34240,Communication Services,15.0,Sarasota,941 306 3019,FL,United States,Telecom Services,-0.54249,0.004,none,0.001,PNK,HMMR
+94945,Financial Services,16.0,Novato,415 899 1555,CA,United States,Asset Management,0.22524999,0.365,buy,8.075,NGM,HNNA
+,,,,,,,,,,,,NGM,HNNAZ
+11501,Financial Services,,Mineola,516 548 8500,NY,United States,Banks—Regional,0.21354,0.123,strong_buy,19.057,NMS,HNVR
+01752,Healthcare,6990.0,Marlborough,508 263 2900,MA,United States,Medical Instruments & Supplies,0.17592,0.045,buy,9.3,NMS,HOLX
+07747,Consumer Cyclical,1715.0,Matawan,732 747 7800,NJ,United States,Residential Construction,0.0841,0.112,hold,20.155,NYQ,HOV
+,,,,,,,,,,,,NGM,HOVNP
+07747,Consumer Cyclical,1715.0,Matawan,732 747 7800,NJ,United States,Residential Construction,0.0841,0.112,none,20.155,PNK,HOVVB
+74119,Energy,7100.0,Tulsa,918 742 5531,OK,United States,Oil & Gas Drilling,0.12720999,-0.036,hold,2.934,NYQ,HP
+77389,Technology,62000.0,Spring,678 259 9860,TX,United States,Communication Equipment,0.06392,0.101,buy,2.393,NYQ,HPE
+94304,Technology,58000.0,Palo Alto,(650)-857-1501,CA,United States,Computer Hardware,0.053319998,0.024,hold,2.986,NYQ,HPQ
+64105,Consumer Cyclical,4200.0,Kansas City,816 854 3000,MO,United States,Personal Services,0.16192,0.054,buy,2.988,NYQ,HRB
+55912-3680,Consumer Defensive,20000.0,Austin,507 437 5611,MN,United States,Packaged Foods,0.065170005,-0.022,hold,1.025,NYQ,HRL
+76092,Healthcare,15.0,Southlake,682-237-7781,TX,United States,Medical Devices,,,buy,4.762,NCM,HSCS
+28801,Financial Services,541.0,Asheville,828 259 3939,NC,United States,Banks—Regional,0.32336,-0.017,buy,18.595,NMS,HTBI
+,,,,,,,,,,buy,,NCM,HURA
+46268,Industrials,716.0,Indianapolis,317 293 5309,IN,United States,Specialty Industrial Machinery,-0.06404,-0.198,none,5.59,NMS,HURC
+31405,Industrials,,Savannah,912 253 0375,GA,United States,Aerospace & Defense,,,none,,OQB,HWKE
+55113,Basic Materials,928.0,Roseville,612 331 6910,MN,United States,Specialty Chemicals,0.08745,0.044,hold,0.36,NMS,HWKN
+52241,Technology,7.0,Coralville,(805) 966-6566,IA,United States,Solar,,,none,0.008,OQB,HYSR
+,,,,,,,,,,,,OQX,HZEN
+33759,Consumer Cyclical,,Clearwater,727 531 1700,FL,United States,Specialty Retail,0.01566,-0.053,buy,10.05,NYQ,HZO
+92121,Healthcare,16.0,San Diego,(979) 446-0027,CA,United States,Biotechnology,,,buy,1.645,ASE,IBIO
+10017,Financial Services,,New York,646 690 5047,NY,United States,Asset Management,-0.17139,-0.224,hold,0.011,NMS,ICMB
+07102,Communication Services,1820.0,Newark,973 438 1000,NJ,United States,Telecom Services,0.05345,0.017,none,7.65,NYQ,IDT
+07102,Communication Services,84.0,Newark,323 433 6670,NJ,United States,Publishing,-0.14568,0.038,buy,0.198,OQB,IDWM
+77056,Industrials,8357.0,Houston,713 860 1500,TX,United States,Engineering & Construction,0.07026,0.315,none,2.989,NGM,IESC
+20854,Healthcare,67.0,Potomac,301 983 0998,MD,United States,Biotechnology,,-0.51,buy,0.024,ASE,IGC
+27030,Industrials,929.0,Mount Airy,336 786 2141,NC,United States,Metal Fabrication,0.03648,-0.147,hold,5.734,NYQ,IIIN
+37215,Technology,1663.0,Nashville,615 465 4487,TN,United States,Software—Infrastructure,-6.0000002e-05,-0.021,buy,0.41,NMS,IIIV
+08902,Financial Services,,North Brunswick,(212) 960-3677,NJ,United States,Shell Companies,,,none,,PNK,IMAQ
+08902,Financial Services,,North Brunswick,(212) 960-3677,NJ,United States,Shell Companies,,,none,,PNK,IMAQU
+92081,Consumer Defensive,33.0,Vista,760 295 2408,CA,United States,Packaged Foods,-2.06458,0.369,buy,0.075,NCM,IMG
+28711,Consumer Defensive,11625.0,Asheville,828 669 2941,NC,United States,Grocery Stores,0.0274,-0.028,none,18.677,NMS,IMKTA
+60406,Healthcare,30.0,Blue Island,708 925 9424,IL,United States,Medical Instruments & Supplies,,0.03,none,0.004,PNK,IMTH
+10018,Healthcare,207.0,New York,(917) 580-3099,NY,United States,Biotechnology,,,buy,3.222,NMS,IMVT
+07205,Consumer Defensive,147.0,Hillside,973 926 0816,NJ,United States,Packaged Foods,0.00223,-0.019,none,0.056,OQX,INBP
+10036,Healthcare,50.0,New York,646 828 8258,NY,United States,Medical Devices,,0.642,strong_buy,1.51,NCM,INBS
+85004,Healthcare,97.0,Phoenix,833 867 6337,AZ,United States,Drug Manufacturers—Specialty & Generic,-1.5761,0.018,hold,0.002,OEM,INLB
+V6C 3E8,Healthcare,13.0,Vancouver,604 669 7207,BC,Canada,Biotechnology,-1.66942,-0.445,hold,0.496,NCM,INM
+95661,Healthcare,26.0,Roseville,833 788 0506,CA,United States,Medical Instruments & Supplies,,,none,0.051,PNK,INND
+80230,Healthcare,2350.0,Denver,844 803 8745,CO,United States,Medical Care Facilities,-0.020299999,0.124,hold,0.633,NMS,INNV
+94306,Technology,1235.0,Palo Alto,(650) 852-0400,CA,United States,Software—Application,-0.04739,0.17,buy,3.28,NMS,INTA
+90025,Consumer Cyclical,28.0,Los Angeles,310 889 2500,CA,United States,Lodging,-0.16851,0.034,none,5.409,NCM,INTG
+94043,Technology,18800.0,Mountain View,650 944 6000,CA,United States,Software—Application,0.18195,0.41,buy,,NMS,INTU
+16946,Financial Services,,Tioga,215 613 9898,PA,United States,Capital Markets,,,none,,OQB,INTV
+60610,Technology,1.0,Chicago,866 440 2278,IL,United States,Software—Application,,,none,0.006,PNK,IONI
+01880,Healthcare,4.0,Wakefield,978 921 4125,MA,United States,Biotechnology,,,none,0.002,OEM,IPIX
+91730,Consumer Cyclical,60.0,Rancho Cucamonga,(626) 863-7344,CA,United States,Internet Retail,-0.01775,-0.169,buy,0.235,NCM,IPW
+60970,Financial Services,109.0,Watseka,815 432 2476,IL,United States,Banks—Regional,0.08721,0.065,none,2.417,NCM,IROQ
+19341-1129,Industrials,95.0,Exton,610 646 9800,PA,United States,Aerospace & Defense,0.14402,0.478,buy,0.03,NMS,ISSC
+78746,Technology,454.0,Austin,512 716 0808,TX,United States,Communication Equipment,0.00802,0.051,hold,0.499,NCM,ITI
+92614,Consumer Defensive,,Irvine,(323) 909-2866,CA,United States,Education & Training Services,,,none,,PNK,ITOR
+15223,Consumer Cyclical,2.0,Pittsburgh,412 799 0350,PA,United States,Apparel Retail,-0.89379,-0.08,none,0.005,OEM,IVDN
+75201,Industrials,60000.0,Dallas,214 583 8500,TX,United States,Engineering & Construction,0.03717,0.011,buy,9.806,NYQ,J
+92123,Consumer Cyclical,1079.0,San Diego,858 571 2121,CA,United States,Restaurants,-0.023039998,-0.07,buy,1.132,NMS,JACK
+10011,Industrials,316.0,New York,212 373 5895,NY,United States,Integrated Freight & Logistics,0.00513,0.098,none,2.574,PNK,JANL
+33716,Technology,138000.0,Saint Petersburg,727 577 9749,FL,United States,Electronic Components,0.048060004,-0.177,buy,19.744,NYQ,JBL
+60123,Consumer Defensive,1800.0,Elgin,847 289 1800,IL,United States,Packaged Foods,0.04899,0.18,strong_buy,0.038,NMS,JBSS
+T12 X8N6,Industrials,100000.0,Cork,353 21 423 5000,,Ireland,Building Products & Equipment,0.07429,-0.095,buy,0.911,NYQ,JCI
+97133,Basic Materials,68.0,North Plains,503 647 0110,OR,United States,Lumber & Wood Production,0.02477,-0.161,none,0.301,NCM,JCTC
+85255,Consumer Cyclical,12.0,Scottsdale,480 356 8798,AZ,United States,Luxury Goods,,-0.382,none,,PNK,JEWL
+201101,Industrials,5.0,Shanghai,86 21 6474 8888,,China,Specialty Business Services,,,none,,OQB,JFIL
+107-0062,Industrials,1.0,Tokyo,81 90 6002 4978,,Japan,Pollution & Treatment Controls,,7.968,none,,OQB,JFTH
+08054,Consumer Defensive,5000.0,Mount Laurel,856 665 9533,NJ,United States,Packaged Foods,0.05486,0.033,buy,3.297,NMS,JJSF
+65708,Technology,7170.0,Monett,417 235 6652,MO,United States,Information Technology Services,0.17785999,0.052,buy,0.525,NMS,JKHY
+32256,Industrials,251.0,Jacksonville,630 954 0400,FL,United States,Staffing & Employment Services,-0.17662,-0.228,buy,0.18,ASE,JOB
+53403,Consumer Cyclical,1400.0,Racine,262 631 6600,WI,United States,Leisure,-0.01418,-0.078,strong_buy,14.555,NMS,JOUT
+07004,Consumer Cyclical,5000.0,Fairfield,201 285 7973,NJ,United States,Apparel Manufacturing,-0.03118,0.178,buy,0.924,NCM,JRSH
+018983,Financial Services,,Singapore,60 3 7733 9340,,Singapore,Shell Companies,,,none,,NCM,KACL
+018983,Financial Services,,Singapore,60 3 7733 9340,,Singapore,Shell Companies,,,none,,NCM,KACLU
+02142,Healthcare,150.0,Cambridge,857 999 0075,MA,United States,Biotechnology,,,buy,4.033,NGM,KALV
+32949,Consumer Defensive,18.0,Grant-Valkaria,833 452 4825,FL,United States,Tobacco,-0.75065005,-0.801,buy,0.667,NCM,KAVL
+10017,Technology,80000.0,New York,212 896 2098,NY,United States,Information Technology Services,-0.00582,-0.073,buy,5.705,NYQ,KD
+47546,Industrials,7000.0,Jasper,812 634 4000,IN,United States,Electrical Equipment & Parts,0.00782,0.15,buy,4.313,NMS,KE
+28677-2927,Consumer Cyclical,1006.0,Statesville,704 873 7202,NC,United States,"Furnishings, Fixtures & Appliances",0.091309994,-0.029,none,8.431,NGM,KEQU
+95403-1738,Technology,15400.0,Santa Rosa,800 829 4444,CA,United States,Scientific & Technical Instruments,0.18249,-0.119,buy,9.404,NYQ,KEYS
+41702,Financial Services,56.0,Hazard,502 223 1638,KY,United States,Banks—Regional,-0.23833,-0.04,none,2.261,NGM,KFFB
+90067,Industrials,9076.0,Los Angeles,310-552-1834,CA,United States,Staffing & Employment Services,0.06761,-0.035,buy,12.719,NYQ,KFY
+95035,Technology,15000.0,Milpitas,408 875 3000,CA,United States,Semiconductor Equipment & Materials,0.28921,0.185,buy,34.612,NMS,KLAC
+19034,Technology,2877.0,Fort Washington,215-784-6000,PA,United States,Semiconductor Equipment & Materials,-0.07943,-0.049,hold,11.042,NMS,KLIC
+15219,Industrials,8400.0,Pittsburgh,412 248 8000,PA,United States,Tools & Accessories,0.049790002,-0.021,hold,1.532,NYQ,KMT
+23238,Consumer Cyclical,30000.0,Richmond,804 747 0422,VA,United States,Auto & Truck Dealerships,0.01508,-0.002,buy,3.387,NYQ,KMX
+33122,Communication Services,2.0,Miami,786 712 6827,FL,United States,Telecom Services,,,none,,PNK,KNIT
+98101,Technology,15.0,Seattle,206 903 1351,WA,United States,Scientific & Technical Instruments,,,buy,0.021,ASE,KNW
+53212,Technology,28.0,Milwaukee,414 964 5000,WI,United States,Consumer Electronics,-0.09202,-0.051,none,1.272,NCM,KOSS
+100025,Consumer Cyclical,34.0,Beijing,86 10 8722 7012,,China,Internet Retail,-0.21414,0.459,none,0.001,OQB,KPEA
+,Industrials,2.0,Fo Tan,852 3585 8905,,Hong Kong,Electrical Equipment & Parts,,0.504,none,,PNK,KRFG
+07004-3510,Financial Services,552.0,Fairfield,(973) 244-4500,NJ,United States,Banks—Regional,-0.70411,-0.139,hold,2.864,NMS,KRNY
+92614,Consumer Cyclical,,Irvine,657-333-4100,CA,United States,Restaurants,-0.03701,0.202,buy,5.394,NGM,KRUS
+99216,Technology,4122.0,Spokane Valley,(509) 928-8000,WA,United States,Computer Hardware,-0.00364,0.143,none,0.323,NGM,KTCC
+43082,Consumer Defensive,3400.0,Westerville,614 224 7141,OH,United States,Packaged Foods,0.084910005,0.202,hold,,NMS,LANC
+80112,Communication Services,12.0,Greenwood Village,720 235 0099,CO,United States,Internet Content & Information,-0.12665,0.131,none,0.002,OEM,LBUY
+010000,Healthcare,49.0,Hohhot,86 47 2510 4980,,China,Diagnostics & Research,0.16989,-0.453,none,0.047,PNK,LDDD
+350,Technology,152.0,Chu-Nan,886 3 758 6788,,Taiwan,Semiconductors,-0.44370997,-0.212,none,0.233,NCM,LEDS
+52807,Communication Services,2832.0,Davenport,563 383 2100,IA,United States,Publishing,-0.02876,-0.121,none,2.169,NMS,LEE
+6900,Technology,,Lugano,41 791595013,,Switzerland,Software—Application,,,none,0.004,PNK,LEEN
+85016,Consumer Cyclical,4100.0,Phoenix,602 366 3999,AZ,United States,Specialty Retail,0.0022200001,-0.068,hold,0.403,NMS,LESL
+V1X 2P7,Healthcare,5.0,Kelowna,250 765 6424,BC,Canada,Biotechnology,,0.081,buy,0.538,NCM,LEXX
+55318,Healthcare,524.0,Chaska,(952) 368-4300,MN,United States,Drug Manufacturers—Specialty & Generic,0.050890002,0.007,hold,0.179,NMS,LFCR
+84043,Consumer Defensive,222.0,Lehi,801 432 9000,UT,United States,Packaged Foods,0.021089999,-0.081,buy,1.165,NCM,LFVN
+30305,Technology,324.0,Atlanta,404 261 4381,GA,United States,Software—Application,0.103879996,0.011,buy,2.732,NMS,LGTY
+95131,Technology,7257.0,San Jose,408 546 5483,CA,United States,Communication Equipment,-0.40695998,0.061,buy,13.354,NMS,LITE
+89119,Consumer Cyclical,1424.0,Las Vegas,702 997 5968,NV,United States,Home Improvement Retail,-0.024549998,0.354,buy,1.504,NCM,LIVE
+93060,Consumer Defensive,257.0,Santa Paula,805 525 5541,CA,United States,Farm Products,0.03237,0.206,buy,0.06,NMS,LMNR
+,Consumer Cyclical,1.0,Hangzhou City,86 18 6218 51468,,China,Specialty Retail,,,none,,PNK,LNBY
+11967-4704,Healthcare,195.0,Shirley,800 760 6826,NY,United States,Medical Devices,-0.35356,-0.38,none,0.013,PNK,LNDZF
+68022,Industrials,1280.0,Omaha,402 829 6800,NE,United States,Farm & Heavy Construction Machinery,0.109139994,-0.073,buy,17.598,NYQ,LNN
+1015,Technology,7300.0,Lausanne,510 795 8500,,Switzerland,Computer Hardware,0.15647,0.056,hold,8.994,NMS,LOGI
+J6Y 1Y4,Basic Materials,50.0,Terrebonne,450 951 8555,QC,Canada,Specialty Chemicals,,-0.574,buy,0.029,NGM,LOOP
+06902,Energy,577.0,Stamford,203 674 9900,CT,United States,Oil & Gas Midstream,0.48099,-0.43,buy,8.423,NYQ,LPG
+32826,Technology,304.0,Orlando,(407) 382-4003,FL,United States,Electronic Components,-0.25858998,0.04,buy,0.108,NCM,LPTH
+91505,Communication Services,74.0,Burbank,213 436 2100,CA,United States,Broadcasting,-1.12831,-0.241,buy,0.019,PNK,LPTV
+20814,Consumer Cyclical,716.0,Bethesda,202 467 6868,MD,United States,Internet Retail,0.05915,0.159,strong_buy,4.48,NMS,LQDT
+94538,Technology,17700.0,Fremont,510 572 0200,CA,United States,Semiconductor Equipment & Materials,0.2602,0.197,buy,4.716,NMS,LRCX
+78705,Energy,5.0,Austin,512 337 1199,TX,United States,Oil & Gas E&P,,,none,0.026,PNK,LRDC
+20190,Consumer Defensive,7800.0,Reston,703 483 7000,VA,United States,Education & Training Services,0.11378,0.478,buy,9.008,NYQ,LRN
+2196,Technology,2531.0,Johannesburg,27 11 343 2000,,South Africa,Software—Infrastructure,-0.03091,0.097,buy,0.966,NMS,LSAK
+V8W 0B6,Healthcare,2.0,Victoria,778-410-5195,BC,Canada,Drug Manufacturers—Specialty & Generic,,,buy,0.12,OEM,LSDIF
+82801,Consumer Cyclical,1.0,Sheridan,800-701-8561,WY,United States,Apparel Retail,,,none,,PNK,LSEB
+10011,,,New York,212-668-5920,NY,United States,,,,none,,OQX,LTCN
+92618,Technology,367.0,Irvine,949 453 3990,CA,United States,Communication Equipment,-0.03173,0.042,buy,0.694,NCM,LTRX
+30360,Consumer Cyclical,192.0,Atlanta,770 246 6400,GA,United States,"Furnishings, Fixtures & Appliances",-0.016239999,-0.062,none,0.013,OQB,LUVU
+90212,Communication Services,140.0,Beverly Hills,310 601 2505,CA,United States,Entertainment,-0.05414,0.143,buy,0.117,NCM,LVO
+83616,Consumer Defensive,10700.0,Eagle,208 938 1047,ID,United States,Packaged Foods,0.09573,-0.007,buy,0.847,NYQ,LW
+45242,Technology,1900.0,Cincinnati,513 793 3200,OH,United States,Electronic Components,0.04879,0.119,buy,0.235,NMS,LYTS
+48162-5138,Consumer Cyclical,10200.0,Monroe,734 242 1444,MI,United States,"Furnishings, Fixtures & Appliances",0.05886,0.029,hold,8.291,NYQ,LZB
+75219,Energy,,Dallas,855 588 7839,TX,United States,Oil & Gas Midstream,0.71024,-0.176,none,0.453,NGM,MARPS
+10036,Financial Services,,New York,888 622 1218,NY,United States,Shell Companies,,,none,0.046,NCM,MARX
+10036,Financial Services,,New York,888 622 1218,NY,United States,Shell Companies,,,none,0.046,NCM,MARXU
+15212-5851,Industrials,12000.0,Pittsburgh,412 442 8200,PA,United States,Conglomerates,0.01434,-0.093,buy,1.417,NMS,MATW
+11201-5805,Real Estate,28.0,Brooklyn,718 624 7400,NY,United States,Real Estate Services,-0.01883,0.016,none,0.617,NCM,MAYS
+37774,Consumer Cyclical,2250.0,Loudon,865 458 5478,TN,United States,Recreational Vehicles,-0.10905,-0.329,buy,1.403,NGM,MBUU
+37885,Consumer Cyclical,920.0,Vonore,423 884 2221,TN,United States,Recreational Vehicles,-0.01048,-0.307,buy,4.93,NGM,MCFT
+85224-6199,Technology,22300.0,Chandler,480 792 7200,AZ,United States,Semiconductors,0.14220001,-0.484,buy,0.533,NMS,MCHP
+75039,Healthcare,45000.0,Irving,972 446 4800,TX,United States,Medical Distribution,0.0076800003,0.213,buy,19.765,NYQ,MCK
+33411,Consumer Defensive,,Wellington,407 245 7339,FL,United States,Food Distribution,,,none,,PNK,MCLE
+,Healthcare,95000.0,Galway,353 1 438 1700,,Ireland,Medical Devices,0.12055001,0.028,buy,6.115,NYQ,MDT
+94080,Healthcare,560.0,South San Francisco,650 938 6300,CA,United States,Diagnostics & Research,,-0.336,buy,6.718,NCM,ME
+60631-3518,Technology,7500.0,Chicago,708 867 6777,IL,United States,Electronic Components,-0.13154,-0.108,hold,3.158,NYQ,MEI
+92121,Healthcare,28.0,San Diego,(858) 369-7100,CA,United States,Biotechnology,0.27226,-1.0,hold,5.755,NCM,MEIP
+85008,Industrials,1992.0,Phoenix,602 685 4000,AZ,United States,Airlines,-0.19861001,-0.034,hold,0.526,NCM,MESA
+92672,Financial Services,116.0,San Clemente,949 429 5370,CA,United States,Asset Management,-0.15856,-0.04,none,0.433,ASE,MGLD
+08901,Financial Services,,New Brunswick,732 342 7600,NJ,United States,Banks—Regional,0.2471,0.185,none,,NGM,MGYR
+92708,Technology,32.0,Fountain Valley,714 751 7998,CA,United States,Communication Equipment,-0.06813,0.1,none,0.533,ASE,MITQ
+21031,Consumer Defensive,13800.0,Hunt Valley,410 771 7301,MD,United States,Packaged Foods,0.11868,-0.003,hold,0.748,NYQ,MKC
+80228,Technology,736.0,Lakewood,303 987 8000,CO,United States,Scientific & Technical Instruments,-1.0756199,0.088,buy,4.788,NMS,MLAB
+49464-0302,Consumer Cyclical,10200.0,Zeeland,616 654 3000,MI,United States,"Furnishings, Fixtures & Appliances",0.018029999,-0.061,hold,3.032,NMS,MLKN
+,,,,,,,,,,,,PNK,MMCP
+78735,Energy,,Fort Stockton,855 880 0400,TX,United States,Oil & Gas E&P,,,none,,PNK,MMEX
+01545,Utilities,,Shrewsbury,508 942 3531,MA,United States,Utilities—Renewable,,,none,0.002,PNK,MMMW
+30309,Communication Services,,Atlanta,678 420 4000,GA,United States,Advertising Agencies,-0.02469,-0.779,none,0.015,OQB,MMND
+90045,Healthcare,428.0,Los Angeles,424 330 2082,CA,United States,Drug Manufacturers—Specialty & Generic,-1.1221299,-0.228,none,0.006,OEM,MMNFQ
+22102,Industrials,39600.0,McLean,703 251 8500,VA,United States,Specialty Business Services,0.055910002,0.106,buy,1.708,NYQ,MMS
+14615,Consumer Cyclical,7660.0,Rochester,585 647 6400,NY,United States,Auto Parts,0.0224,-0.064,hold,0.696,NMS,MNRO
+53403-2552,Consumer Cyclical,11000.0,Racine,262 636 1200,WI,United States,Auto Parts,0.06585,0.06,buy,1.497,NYQ,MOD
+92127,Healthcare,39.0,San Diego,(858) 800-3500,CA,United States,Medical Devices,,,strong_buy,0.155,NCM,MODD
+90503,Consumer Cyclical,5900.0,Torrance,310-212-7910,CA,United States,Auto Parts,-0.09056,0.064,buy,0.477,NMS,MPAA
+01810,Industrials,2364.0,Andover,978 256 1300,MA,United States,Aerospace & Defense,-0.13795,0.154,hold,1.909,NMS,MRCY
+98052-6399,Technology,228000.0,Redmond,425 882 8080,WA,United States,Software—Infrastructure,0.35608003,0.16,buy,10.549,NMS,MSFT
+10121,Communication Services,533.0,New York,(212) 465-4111,NY,United States,Entertainment,0.06752,0.238,buy,2.178,NYQ,MSGS
+11747,Industrials,7191.0,Melville,516 812 2000,NY,United States,Industrial Distribution,0.06768,-0.08,hold,0.529,NYQ,MSM
+07054,Technology,25.0,Parsippany,973-428-2000,NJ,United States,Consumer Electronics,0.03901,0.215,none,0.897,ASE,MSN
+80021,Consumer Cyclical,7600.0,Broomfield,303 404 1800,CO,United States,Resorts & Casinos,0.07986,-0.016,hold,8.612,NYQ,MTN
+74103,Industrials,2064.0,Tulsa,918 838 8822,OK,United States,Engineering & Construction,-0.04458,-0.162,buy,4.522,NMS,MTRX
+01851,Technology,,Lowell,978 656 2500,MA,United States,Semiconductors,0.105349995,0.335,buy,8.06,NMS,MTSI
+83716-9632,Technology,48000.0,Boise,208 368 4000,ID,United States,Semiconductors,0.03098,0.933,buy,7.311,NMS,MU
+106427,Consumer Cyclical,3.0,Taipei,886 9 0515 3139,,Taiwan,Personal Services,,,none,,PNK,MUGH
+92821,Consumer Cyclical,326.0,Brea,714 613 1900,CA,United States,Auto Manufacturers,,-0.788,none,8.842,NCM,MULN
+23452,Financial Services,1.0,Virginia Beach,757 626 1111,VA,United States,Capital Markets,,-0.496,none,,PNK,MVCO
+30328,Industrials,,Atlanta,770 206 4200,GA,United States,Specialty Industrial Machinery,0.08816,0.155,buy,1.984,NYQ,MWA
+79701,Energy,3.0,Midland,432 682 1119,TX,United States,Oil & Gas E&P,0.17774999,-0.012,none,1.206,ASE,MXC
+89701,Basic Materials,1.0,Carson City,(916) 776-2166,NV,United States,Other Precious Metals & Mining,,,none,,OEM,MXSG
+33132,Real Estate,,Miami,786 553 4006,FL,United States,Real Estate—Development,0.43616,-0.519,none,0.002,PNK,MYCB
+92008,Consumer Defensive,296.0,Carlsbad,760 744 7700,CA,United States,Packaged Foods,-0.06342,0.265,none,5.432,NGM,NAII
+94574,Consumer Defensive,560.0,Saint Helena,707 302 2658,CA,United States,Beverages—Wineries & Distilleries,0.13814001,0.073,buy,0.074,NYQ,NAPA
+11753,Consumer Cyclical,147.0,Jericho,516 338 8500,NY,United States,Restaurants,0.15180999,0.061,none,7.64,NMS,NATH
+80112,Basic Materials,7.0,Centennial,720 334 7066,CO,United States,Other Industrial Metals & Mining,,,buy,0.052,NGM,NB
+33408,Healthcare,,North Palm Beach,612 961 5656,FL,United States,Biotechnology,,,none,,OQB,NBIO
+02111,Financial Services,21.0,Boston,781 925 1700,MA,United States,Capital Markets,-1.96478,-0.906,buy,1.104,NCM,NCPL
+44145-4551,Industrials,7700.0,Westlake,440-892-1580,OH,United States,Specialty Industrial Machinery,0.17746,0.02,buy,2.891,NMS,NDSN
+02134,Real Estate,,Allston,617 783 0039,MA,United States,Real Estate Services,0.17126,0.057,none,130.195,ASE,NEN
+48912-1595,Healthcare,2917.0,Lansing,517 372 9200,MI,United States,Diagnostics & Research,-0.025799999,-0.053,buy,0.557,NMS,NEOG
+92064,Industrials,10.0,Poway,800 364 5464,CA,United States,Electrical Equipment & Parts,-1.14888,-0.228,buy,0.012,NCM,NEOV
+14221,Energy,,Williamsville,716 857 7000,NY,United States,Oil & Gas Integrated,0.03986,0.008,hold,0.42,NYQ,NFG
+63734,Financial Services,,La Cruz,52 3 22198 4348,SI,Mexico,Shell Companies,,,none,,PNK,NFTN
+74136,Energy,607.0,Tulsa,918 481 1119,OK,United States,Oil & Gas Midstream,-0.0228,-0.142,hold,0.04,NYQ,NGL
+10591,Consumer Defensive,,Tarrytown,888 888 6444,NY,United States,Packaged Foods,,-0.873,none,0.001,OQB,NGTF
+80228,Consumer Defensive,3235.0,Lakewood,303 986 4600,CO,United States,Grocery Stores,0.02537,0.097,strong_buy,0.61,NYQ,NGVC
+92649,Financial Services,,Huntington Beach,650 222 5141,CA,United States,Capital Markets,,-0.877,none,,OEM,NHMD
+33137,Financial Services,,Miami,305-575-4200,FL,United States,Shell Companies,,,none,,PNK,NIMU
+07719,Utilities,1350.0,Wall,732 938 1000,NJ,United States,Utilities—Regulated Gas,0.13606,0.23,buy,,NYQ,NJR
+97005-6453,Consumer Cyclical,79400.0,Beaverton,503 671 6453,OR,United States,Footwear & Accessories,0.10599,-0.104,buy,6.916,NYQ,NKE
+84062,Basic Materials,,Pleasant Grove,801 885 9260,UT,United States,Other Precious Metals & Mining,,,none,0.001,PNK,NMEX
+10019,Healthcare,36.0,New York,646 416 8000,NY,United States,Medical Devices,,,buy,0.005,OEM,NMRD
+55344,Healthcare,16.0,Eden Prairie,952 426 1383,MN,United States,Medical Devices,,0.311,hold,0.053,NCM,NMTC
+06484,Healthcare,7.0,Shelton,203 937 6137,CT,United States,Biotechnology,,,buy,0.327,ASE,NNVC
+34474,Consumer Cyclical,142.0,Ocala,352 732 5157,FL,United States,Residential Construction,0.16174,-0.058,none,8.125,OQX,NOBH
+90212,Industrials,,Beverly Hills,424 256 8560,CA,United States,Consulting Services,,,none,0.005,OQB,NORD
+84115,Healthcare,,Salt Lake City,801-949-0791,UT,United States,Pharmaceutical Retailers,0.025139999,1.982,none,0.008,PNK,NOTR
+47906,Healthcare,1955.0,West Lafayette,765 463 4527,IN,United States,Diagnostics & Research,-0.19801001,-0.328,buy,0.555,NCM,NOTV
+84070,Basic Materials,,Sandy,415 968 5642,UT,United States,Other Industrial Metals & Mining,,,none,,PNK,NRHI
+,,,,,,,,,,,,OQB,NRIS
+03431,Energy,2.0,Keene,732 741 4008,NH,United States,Oil & Gas E&P,0.84465,-0.015,none,0.33,NYQ,NRT
+,,,,,,,,,,,,NYQ,NRUC
+11701,Industrials,1070.0,Amityville,631 842 9400,NY,United States,Security & Protection Services,0.26433,0.056,buy,2.786,NMS,NSSC
+95128,Technology,11800.0,San Jose,408 822 6000,CA,United States,Computer Hardware,0.17014,0.076,hold,14.767,NMS,NTAP
+01886-4105,Technology,2273.0,Westford,978 614 4000,MA,United States,Software—Infrastructure,-0.76137,-0.029,hold,5.59,NMS,NTCT
+55014,Basic Materials,224.0,Circle Pines,763 225 6600,MN,United States,Specialty Chemicals,0.05475,-0.014,buy,0.614,NGM,NTIC
+91436,Technology,,Encino,818 222 9195,CA,United States,Software—Application,0.01114,0.193,none,1.677,NCM,NTWK
+92081,Consumer Defensive,33.0,Vista,760 295 2408,CA,United States,Packaged Foods,-2.06458,0.369,buy,0.075,NCM,NUZE
+55344-3617,Technology,46.0,Eden Prairie,952 829 9217,MN,United States,Semiconductors,0.58876,-0.053,none,4.744,NCM,NVEC
+,Communication Services,11.0,Tsim Sha Tsui,852 9625 0097,,Hong Kong,Advertising Agencies,-2.36715,1.21,none,,PNK,NWCN
+10036,Communication Services,23900.0,New York,212 416 3400,NY,United States,Entertainment,0.034930002,0.031,none,3.124,NMS,NWS
+10036,Communication Services,23900.0,New York,212 416 3400,NY,United States,Entertainment,0.034930002,0.031,buy,3.124,NMS,NWSA
+77024,Industrials,3792.0,Houston,713 961 4600,TX,United States,Building Products & Equipment,0.06877,-0.064,strong_buy,1.999,NYQ,NX
+80246,Healthcare,,Glendale,303 495 7583,CO,United States,Drug Manufacturers—Specialty & Generic,,,none,,PNK,NXEN
+150-002,Consumer Defensive,7.0,Shibuya,81 3 6457 7612,,Japan,Packaged Foods,,0.194,none,,OEM,NXMH
+94555,Technology,1050.0,Fremont,510 270 2500,CA,United States,Solar,0.17257999,0.109,buy,3.912,NMS,NXT
+24019,Technology,327.0,Roanoke,540 265 0690,VA,United States,Communication Equipment,-0.09069,-0.042,none,0.097,NGM,OCC
+90071,Financial Services,,Los Angeles,213 830 6300,CA,United States,Asset Management,0.17215,-0.068,buy,1.171,NMS,OCSL
+60611-4213,Basic Materials,949.0,Chicago,312 321 1515,IL,United States,Specialty Chemicals,0.090100005,0.059,none,3.221,NYQ,ODC
+89102,Healthcare,6.0,Las Vegas,702 780 6559,NV,United States,Medical Devices,,,none,0.001,OQB,ODYY
+54220,Consumer Cyclical,260.0,Manitowoc,920 892 9340,WI,United States,"Furnishings, Fixtures & Appliances",-0.09467,0.13,buy,0.174,NCM,OESX
+29678,Financial Services,,Seneca,864 882 2765,SC,United States,Banks—Regional,0.20843,-0.225,none,1.3,OQX,OFED
+77056,Energy,,Houston,469 804 1306,TX,United States,Oil & Gas E&P,,-0.983,none,0.777,PNK,OILCF
+91436,Energy,,Encino,818 201 3727,CA,United States,Oil & Gas E&P,,,none,,OQB,OKMN
+33401,Financial Services,,West Palm Beach,305 351 9195,FL,United States,Capital Markets,,-0.621,none,,PNK,OLKR
+33763,Financial Services,7.0,Clearwater,727 726 0763,FL,United States,Credit Services,-1.3332801,-0.918,none,5.57,NMS,OMCC
+08534,Healthcare,40.0,Pennington,855 662 6732,NJ,United States,Biotechnology,,,hold,1.24,OEM,ONCSQ
+30518,Consumer Cyclical,2319.0,Buford,678 541 6300,GA,United States,Specialty Retail,-0.05164,-0.087,buy,2.805,NGM,ONEW
+92121,Healthcare,12.0,San Diego,858-224-1000,CA,United States,Biotechnology,,,hold,0.207,NCM,ONVO
+08831,Industrials,43.0,Monroe Township,609 730 0400,NJ,United States,Specialty Industrial Machinery,,0.023,none,0.032,ASE,OPTT
+75081-2439,Industrials,122.0,Richardson,972 764 5700,TX,United States,Aerospace & Defense,0.12826,0.263,none,0.071,NCM,OPXS
+78741,Technology,159000.0,Austin,(737) 867-1000,TX,United States,Software—Infrastructure,0.20396,0.069,buy,3.938,NYQ,ORCL
+90250,Technology,6681.0,Hawthorne,310 978 0516,CA,United States,Electronic Components,0.08307,0.232,buy,5.09,NMS,OSIS
+N2L 0A1,Technology,21800.0,Waterloo,,ON,Canada,Software—Application,0.08347,-0.11,buy,3.825,NMS,OTEX
+08852,Healthcare,24.0,Iselin,609 619 3990,NJ,United States,Biotechnology,,,buy,1.354,NCM,OTLK
+07666-6712,Healthcare,1940.0,Teaneck,201 329 7300,NJ,United States,Drug Manufacturers—Specialty & Generic,0.01663,0.126,underperform,2.436,NGM,PAHC
+95054,Technology,15289.0,Santa Clara,408 753 4000,CA,United States,Software—Infrastructure,0.3211,0.121,buy,7.92,NMS,PANW
+T3C 3W2,Healthcare,,Calgary,403-850-4120,AB,Canada,Health Information Services,,,none,,PNK,PAXH
+14625-2396,Technology,16000.0,Rochester,585 385 6666,NY,United States,Software—Application,0.31983998,0.025,hold,4.162,NMS,PAYX
+12211,Financial Services,275.0,Albany,518 730 3025,NY,United States,Banks—Regional,0.2316,0.223,none,6.501,NCM,PBFS
+10591,Healthcare,570.0,Tarrytown,914 524 6800,NY,United States,Drug Manufacturers—Specialty & Generic,0.18542999,-0.009,buy,1.043,NYQ,PBH
+00646,Healthcare,100.0,Dorado,787 278 2709,PR,United States,Health Information Services,-0.078049995,-0.472,none,0.56,OQB,PBSV
+90212,Financial Services,,Beverly Hills,310 862 1957,CA,United States,Shell Companies,,,none,0.001,PNK,PCMC
+60173,Technology,6400.0,Schaumburg,847 463 3200,IL,United States,Software—Application,0.1532,0.282,buy,3.709,NMS,PCTY
+34677,Healthcare,19.0,Oldsmar,727 447 2998,FL,United States,Drug Manufacturers—Specialty & Generic,-0.06844,0.175,none,0.112,PNK,PCYN
+80137,Utilities,38.0,Watkins,303 292 3456,CO,United States,Utilities—Regulated Water,0.3101,0.105,none,0.853,NCM,PCYO
+55120,Healthcare,7600.0,Saint Paul,651 686 1600,MN,United States,Medical Distribution,0.02578,-0.022,hold,1.722,NMS,PDCO
+92614,Healthcare,146.0,Irvine,949 769 3200,CA,United States,Medical Instruments & Supplies,0.09169,0.247,none,2.399,NCM,PDEX
+89135,Consumer Cyclical,1.0,Las Vegas,702 985 7544,NV,United States,Personal Services,,,none,,OEM,PDRO
+KY1-9008,Technology,2700.0,Grand Cayman,510 623 1231,,Cayman Islands,Information Technology Services,-0.04482,-0.017,buy,7.309,NMS,PENG
+33445,Healthcare,287.0,Delray Beach,561 526 4444,FL,United States,Pharmaceutical Retailers,-0.0037099998,-0.161,hold,2.527,NMS,PETS
+55439,Healthcare,20.0,Edina,(952) 405-6216,MN,United States,Medical Devices,,0.056,buy,0.001,OQB,PETV
+23238,Consumer Defensive,40000.0,Richmond,804 484 7700,VA,United States,Food Distribution,0.00767,0.032,buy,0.273,NYQ,PFGC
+33139,Financial Services,,Miami Beach,212-905-1000,FL,United States,Asset Management,0.59163,0.286,hold,1.152,NYQ,PFLT
+10022,Financial Services,9.0,New York,212-859-0390,NY,United States,Asset Management,0.89069,0.289,hold,4.39,NGM,PFX
+,,,,,,,,,,,,NGM,PFXNZ
+45202,Consumer Defensive,108000.0,Cincinnati,513 983 1100,OH,United States,Household & Personal Products,0.17063,-0.006,buy,5.162,NYQ,PG
+,,,,,,,,,,,,PNK,PGID
+19901,Industrials,45.0,Dover,302 601 4659,DE,United States,Pollution & Treatment Controls,0.08974,22.616,none,0.25,OEM,PGTK
+44124-4141,Industrials,61120.0,Cleveland,216 896 3000,OH,United States,Specialty Industrial Machinery,0.14468999,0.012,buy,2.883,NYQ,PH
+V3E 3A2,Healthcare,,Coquitlam,702-803-9404,BC,Canada,Drug Manufacturers—Specialty & Generic,,0.03,none,,PNK,PHBI
+77056,Healthcare,,Houston,713 878 7200,TX,United States,Medical Care Facilities,,,none,,PNK,PHCI
+92647,Financial Services,,Huntington Beach,714 642 0571,CA,United States,Capital Markets,,,none,,PNK,PHIL
+28277,Healthcare,2900.0,Charlotte,704 357 0022,NC,United States,Health Information Services,0.10982,-0.078,hold,0.905,NMS,PINC
+33142,Industrials,32.0,Miami,888 798 9100,FL,United States,Staffing & Employment Services,-1.97483,0.037,buy,0.799,NCM,PIXY
+11590,Industrials,123.0,Westbury,(631) 465-3600,NY,United States,Aerospace & Defense,0.118190005,0.339,none,3.606,NYQ,PKE
+06804,Technology,1885.0,Brookfield,203 775 9000,CT,United States,Semiconductor Equipment & Materials,0.16223,-0.059,buy,9.571,NMS,PLAB
+W1S 1BN,Financial Services,180.0,London,44 91 7900 9829,,United Kingdom,Shell Companies,,0.979,none,,PNK,PLPL
+,,,,,,,,,,,,PCX,PLTM
+3508409,Healthcare,106.0,Haifa,972 74 710 8600,,Israel,Biotechnology,,-0.135,buy,5.482,NCM,PLUR
+20171-3413,Technology,1907.0,Herndon,703 984 8400,VA,United States,Software—Application,0.04977,-0.052,buy,13.163,NMS,PLUS
+54957,Technology,20000.0,Neenah,920 969 6000,WI,United States,Electronic Components,0.02823,0.026,hold,12.686,NMS,PLXS
+32159,Financial Services,,Lady Lake,407 536 9422,FL,United States,Shell Companies,,,none,,OEM,PLYN
+89169,Healthcare,2.0,Las Vegas,917-595-2850,NV,United States,Biotechnology,,,hold,4.25,NCM,PMCB
+33139,Financial Services,,Miami Beach,212-905-1000,FL,United States,Asset Management,0.30241,-0.178,hold,0.906,NYQ,PNNT
+90025,Healthcare,,Los Angeles,877 310 7675,CA,United States,Pharmaceutical Retailers,2.41233,316.492,none,,PNK,PNPL
+01440,Healthcare,83.0,Gardner,978 630 1800,MA,United States,Medical Instruments & Supplies,-0.15449001,-0.061,none,0.064,NCM,POCI
+63144,Consumer Defensive,11430.0,Saint Louis,314 644 7600,MO,United States,Packaged Foods,0.04464,0.047,buy,5.775,NYQ,POST
+77075-1180,Industrials,2363.0,Houston,713 944 6900,TX,United States,Electrical Equipment & Parts,0.13767,0.498,buy,31.202,NMS,POWL
+85260,Industrials,374.0,Scottsdale,480 947 0001,AZ,United States,Aerospace & Defense,-0.15892,-0.103,buy,0.427,NCM,POWW
+85260,Industrials,374.0,Scottsdale,480 947 0001,AZ,United States,Aerospace & Defense,-0.15892,-0.103,none,0.427,NCM,POWWP
+3124,Healthcare,1.0,Camberwell,61 3 9882 0780,VIC,Australia,Biotechnology,,,none,,PNK,PPCB
+31822,Consumer Cyclical,49.0,Pine Mountain,706 663 8744,GA,United States,Leisure,-0.12782,0.21,none,0.038,PNK,PRKA
+92506,Financial Services,94.0,Riverside,951 686 6060,CA,United States,Banks—Regional,0.18819,0.093,hold,7.119,NMS,PROV
+90025,Consumer Cyclical,4.0,Los Angeles,310 889 2500,CA,United States,Lodging,-0.27157,0.044,none,5.067,PNK,PRSI
+94070,Technology,137.0,San Carlos,650 817 9012,CA,United States,Software—Application,,-0.326,hold,0.04,PNK,PRST
+10016,Financial Services,,New York,,NY,United States,Asset Management,0.30503,-0.042,underperform,0.191,NMS,PSEC
+92121,Consumer Defensive,12000.0,San Diego,858 404 8800,CA,United States,Discount Stores,0.02826,0.096,buy,7.688,NMS,PSMT
+02210,Technology,7000.0,Boston,781 370 5000,MA,United States,Software—Application,0.16373,0.146,buy,2.213,NMS,PTC
+77056,Energy,,Houston,(806) 375-3338,TX,United States,Oil & Gas E&P,,,none,,PNK,PTCO
+08512,Healthcare,30.0,Cranbury,609 495 2200,NJ,United States,Biotechnology,,-0.801,buy,0.487,ASE,PTN
+10001,Consumer Cyclical,2853.0,New York,917 671 9198,NY,United States,Leisure,-0.14624,-0.016,hold,1.894,NMS,PTON
+92019,Consumer Defensive,11.0,El Cajon,619 596 8600,CA,United States,Household & Personal Products,-1.70657,-0.213,none,0.003,PNK,PURE
+01913,Financial Services,188.0,Amesbury,978 834 8555,MA,United States,Banks—Regional,0.09606,-0.2,hold,8.279,NCM,PVBC
+58200,Technology,,Kuala Lumpur,60 3 7971 8168,,Malaysia,Solar,-0.42237,,none,0.002,PNK,PXPC
+45212,Technology,2900.0,Cincinnati,800 381 0053,OH,United States,Software—Application,-0.06722,0.166,buy,0.543,NMS,PYCR
+27560-2009,Consumer Defensive,3000.0,Morrisville,919 379 4300,NC,United States,Tobacco,0.0029699998,0.331,none,3.282,PNK,PYYX
+89445,Basic Materials,6.0,Winnemucca,(775) 625-3600,NV,United States,Gold,,,buy,0.083,ASE,PZG
+92121-1714,Technology,49000.0,San Diego,858 587 1121,CA,United States,Semiconductors,0.2603,0.187,buy,11.971,NMS,QCOM
+,Financial Services,5.0,Tsim Sha Tsui,852 3488 6893,,Hong Kong,Insurance Brokers,0.2656,-0.701,none,0.019,OQB,QDMI
+95110,Technology,770.0,San Jose,408 944 4000,CA,United States,Computer Hardware,-0.18235001,-0.229,hold,3.607,NGM,QMCO
+94404,Communication Services,899.0,Foster City,650 587 7700,CA,United States,Advertising Agencies,-0.028789999,0.293,buy,1.976,NMS,QNST
+L3R 5M1,Consumer Defensive,,Markham,,ON,Canada,Education & Training Services,-1.3332801,1.529,none,,PNK,QOEG
+89030,Energy,7.0,North Las Vegas,702 323 6455,NV,United States,Oil & Gas Refining & Marketing,,,none,0.067,PNK,QREE
+27409-9421,Technology,8700.0,Greensboro,336 664 1233,NC,United States,Semiconductors,-0.03577,-0.052,hold,11.599,NMS,QRVO
+94104,Technology,1400.0,San Francisco,888-987-6764,CA,United States,Software—Infrastructure,0.00403,0.16,buy,5.339,NYQ,RAMP
+10001,Healthcare,1.0,New York,646 396 4087,NY,United States,Biotechnology,,,none,,OEM,RASP
+75056,Consumer Cyclical,21.0,The Colony,469 384 5000,TX,United States,Restaurants,0.20354,0.101,none,0.537,NCM,RAVE
+06478,Industrials,5302.0,Oxford,203 267 7001,CT,United States,Tools & Accessories,0.14060001,0.032,buy,2.852,NYQ,RBC
+00901-2510,Technology,89.0,San Juan,833 373 3228,PR,United States,Computer Hardware,-1.62377,0.588,strong_buy,0.103,NCM,RCAT
+97201,Basic Materials,3011.0,Portland,503 224 9900,OR,United States,Steel,-0.097279996,0.074,hold,0.198,NMS,RDUS
+60147-0393,Technology,407.0,LaFox,630 208 2200,IL,United States,Electronic Components,-0.00291,0.022,none,1.602,NMS,RELL
+90067,Healthcare,25.0,Los Angeles,(305) 918-1980,CA,United States,Biotechnology,,,none,0.001,NCM,RENB
+01801,Healthcare,331.0,Woburn,781 222 9600,MA,United States,Biotechnology,,,buy,6.866,NMS,REPL
+53005,Industrials,6724.0,Brookfield,414 290 0190,WI,United States,Farm & Heavy Construction Machinery,0.099209994,-0.148,buy,0.971,NYQ,REVG
+92127,Industrials,321.0,San Diego,858 549 6340,CA,United States,Electrical Equipment & Parts,-0.11582,0.076,buy,0.2,NGM,RFIL
+07102,Real Estate,13.0,Newark,212 658 1450,NJ,United States,Real Estate Services,,3.732,none,0.303,NYQ,RFL
+91942,Healthcare,1.0,La Mesa,619 722 5505,CA,United States,Biotechnology,,,none,,PNK,RGBP
+91942,Healthcare,1.0,La Mesa,619 722 5505,CA,United States,Biotechnology,,,none,,PNK,RGBPP
+24016,Utilities,100.0,Roanoke,540 777 4427,VA,United States,Utilities—Regulated Gas,0.1504,0.058,strong_buy,0.37,NGM,RGCO
+07424,Healthcare,3.0,Little Falls,973 557 8914,NJ,United States,Biotechnology,,,none,0.077,OEM,RGIN
+92614,Industrials,757.0,Irvine,714 430 6400,CA,United States,Consulting Services,0.02036,-0.195,hold,2.678,NMS,RGP
+55416,Consumer Cyclical,203.0,Minneapolis,952-947-7777,MN,United States,Personal Services,0.45491,-0.137,buy,2.742,NGM,RGS
+77066,Consumer Cyclical,3778.0,Houston,281 397 6730,TX,United States,Restaurants,0.01666,-0.011,buy,3.884,NGM,RICK
+33309,Technology,27.0,Fort Lauderdale,954 596 1000,FL,United States,Consumer Electronics,-0.30622,-0.07,buy,0.128,NCM,RIME
+33716,Financial Services,,Saint Petersburg,727 567 1000,FL,United States,Asset Management,0.16187,0.132,buy,73.045,NYQ,RJF
+10022,Consumer Cyclical,14800.0,New York,212 318 7000,NY,United States,Apparel Manufacturing,0.10145,0.057,buy,27.21,NYQ,RL
+98057,Industrials,909.0,Renton,425 462 1094,WA,United States,Integrated Freight & Logistics,0.00958,-0.113,buy,0.545,ASE,RLGT
+81303,Consumer Defensive,135.0,Durango,970-259-0554,CO,United States,Confectioners,-0.17045,-0.027,none,0.128,NGM,RMCF
+92123,Healthcare,,San Diego,858-836-5000,CA,United States,Medical Instruments & Supplies,0.23149,0.111,buy,3.015,NYQ,RMD
+,Financial Services,,,,,United States,Shell Companies,,,none,,PNK,RMHI
+02458-1634,Real Estate,600.0,Newton,617 796 8390,MA,United States,Real Estate Services,0.13327,-0.467,hold,12.435,NCM,RMR
+36303,Industrials,1146.0,Dothan,334 673 9763,AL,United States,Engineering & Construction,0.04006,0.227,buy,1.068,NMS,ROAD
+89141,Communication Services,36.0,Las Vegas,888 851 0401,NV,United States,Internet Content & Information,,,none,0.222,OEM,ROII
+SW1H 0DB,Healthcare,908.0,London,44 20 7400 3347,,United Kingdom,Biotechnology,29.91756,1.55,buy,7.679,NMS,ROIV
+53204,Industrials,27000.0,Milwaukee,414 382 2000,WI,United States,Specialty Industrial Machinery,0.11526,-0.206,hold,4.142,NYQ,ROK
+44256,Basic Materials,17200.0,Medina,330 273 5090,OH,United States,Specialty Chemicals,0.08434,-0.021,hold,1.799,NYQ,RPM
+69145,Industrials,185.0,Kimball,308 235 4645,NE,United States,Security & Protection Services,0.34572,0.223,none,9.367,PNK,RSKIA
+92123,Healthcare,,San Diego,858-836-5000,CA,United States,Medical Instruments & Supplies,0.23149,0.111,hold,3.015,PNK,RSMDF
+89052,Technology,145.0,Henderson,(310) 477-0354,NV,United States,Software—Application,-0.08486,0.218,buy,0.199,NCM,RSSS
+10014,Communication Services,99.0,New York,212 675 0541,NY,United States,Entertainment,-0.0022,0.059,buy,0.323,NGM,RSVR
+10014,Communication Services,99.0,New York,212 675 0541,NY,United States,Entertainment,-0.0022,0.059,none,0.323,NGM,RSVRW
+98660,Financial Services,226.0,Vancouver,360 693 6650,WA,United States,Banks—Regional,0.02175,-0.043,none,1.468,NMS,RVSB
+V6C 0B4,Basic Materials,1.0,Vancouver,604 260 4577,BC,Canada,Gold,,,buy,0.004,OQX,RYES
+94065,Healthcare,59.0,Redwood City,650 206 4507,CA,United States,Biotechnology,,,buy,2.291,NCM,RZLT
+,,,,,,,,,,,,NYQ,SAJ
+95134,Technology,,San Jose,408 964 3500,CA,United States,Electronic Components,0.0294,-0.017,hold,11.424,NMS,SANM
+80501-6085,Consumer Defensive,,Longmont,720 506 9191,CO,United States,Farm Products,-0.49686,-0.357,buy,0.129,NCM,SANW
+10022,Financial Services,,New York,212-906-7800,NY,United States,Asset Management,0.13642,0.211,buy,6.128,NYQ,SAR
+,,,,,,,,,,,,NYQ,SAT
+,,,,,,,,,,,,NYQ,SAY
+,,,,,,,,,,,,NYQ,SAZ
+76210,Consumer Cyclical,13000.0,Denton,940 898 7500,TX,United States,Specialty Retail,0.03995,0.012,hold,0.949,NYQ,SBH
+98134,Consumer Cyclical,,Seattle,206 447 1575,WA,United States,Restaurants,0.10396,-0.032,buy,3.126,NMS,SBUX
+10012,Communication Services,4770.0,New York,212 343 6100,NY,United States,Publishing,0.014889999,0.038,none,2.989,NMS,SCHL
+29615,Technology,2300.0,Greenville,864 288 2432,SC,United States,Electronics & Computer Distribution,0.02488,-0.115,hold,6.042,NMS,SCSC
+01608,Technology,23.0,Worcester,508 925 0114,MA,United States,Software—Infrastructure,-0.76925004,0.055,none,0.005,OQB,SDCH
+14450,Consumer Defensive,2800.0,Fairport,585 495 4100,NY,United States,Packaged Foods,0.02792,0.044,none,1.385,NMS,SENEA
+14450,Consumer Defensive,2800.0,Fairport,585 495 4100,NY,United States,Packaged Foods,0.02792,0.044,none,1.385,NMS,SENEB
+,,,,,,,,,,,,PNK,SENEL
+,,,,,,,,,,,,PNK,SENEM
+94104,Consumer Cyclical,4570.0,San Francisco,415 882 7765,CA,United States,Apparel Retail,-0.09633,-0.124,hold,1.983,NMS,SFIX
+11021,Industrials,15.0,Great Neck,718 888 1814,NY,United States,Integrated Freight & Logistics,-1.6286399,-0.219,none,4.179,NCM,SGLY
+06902,Energy,3052.0,Stamford,203 328 7310,CT,United States,Oil & Gas Refining & Marketing,0.02796,0.105,none,1.318,NYQ,SGU
+02910,Industrials,2.0,Cranston,774 250 2456,RI,United States,Building Products & Equipment,,,none,,PNK,SHGI
+75240,Consumer Defensive,19.0,Dallas,888 791 9474,TX,United States,Farm Products,,-0.822,hold,,PNK,SHMP
+62250,Consumer Cyclical,,Putrajaya,60 3 8890 2968,,Malaysia,Restaurants,157.6508,,none,,OEM,SHMY
+75024,Consumer Defensive,32.0,Plano,(469) 304-9400,TX,United States,Packaged Foods,-0.51418,-0.228,none,2.159,PNK,SHRG
+100022,Consumer Defensive,119.0,Beijing,86 10 6813 0220,,China,Farm Products,-2.29028,13.101,none,0.012,NCM,SISI
+44667-0280,Consumer Defensive,9000.0,Orrville,330 682 3000,OH,United States,Packaged Foods,0.08771,0.177,hold,0.371,NYQ,SJM
+L5N 2X7,Technology,12.0,Mississauga,905 702 7851,ON,Canada,Software—Infrastructure,0.01748,0.058,none,0.021,OQB,SKKY
+48084,Consumer Cyclical,9000.0,Troy,248 614 8211,MI,United States,Residential Construction,0.06421,0.329,hold,9.934,NYQ,SKY
+32174,Communication Services,,Ormond Beach,305 747 7647,FL,United States,Telecom Services,2.92211,-0.097,none,0.001,PNK,SLDC
+93534-7059,Healthcare,243.0,Lancaster,661 723 7723,CA,United States,Health Information Services,0.14217,0.194,buy,1.009,NMS,SLP
+66211,Financial Services,4292.0,Overland Park,913 599 9225,KS,United States,Insurance Brokers,-0.03447,0.256,buy,0.068,NYQ,SLQT
+63901,Financial Services,693.0,Poplar Bluff,573 778 1800,MO,United States,Banks—Regional,0.30538,0.033,buy,6.703,NGM,SMBC
+95131,Technology,,San Jose,408 503 8000,CA,United States,Computer Hardware,0.08085,1.43,hold,2.845,NMS,SMCI
+43041,Basic Materials,,Marysville,937 644 0011,OH,United States,Agricultural Inputs,-0.00982,0.107,buy,1.258,NYQ,SMG
+89109,Technology,1.0,Las Vegas,702 990 3687,NV,United States,Software—Infrastructure,,,none,,PNK,SMME
+80202,Consumer Defensive,316.0,Denver,303 633 2840,CO,United States,Packaged Foods,0.10464,0.172,buy,1.322,NCM,SMPL
+10169,Financial Services,4400.0,New York,212 485 3500,NY,United States,Capital Markets,0.00279,0.805,none,509.168,NMS,SNEX
+80301,Healthcare,10.0,Boulder,800 759 9305,CO,United States,Drug Manufacturers—Specialty & Generic,-0.35908002,-0.011,strong_buy,2.704,NCM,SNOA
+94085,Technology,20300.0,Sunnyvale,650-584-5000,CA,United States,Software—Infrastructure,0.23111999,0.127,buy,12.982,NMS,SNPS
+V6X 3Z8,Consumer Cyclical,,Richmond,604 232 3968,BC,Canada,"Furnishings, Fixtures & Appliances",-0.75904,,none,0.001,OQB,SNTW
+33411,Technology,41.0,West Palm Beach,561 848 4311,FL,United States,Semiconductor Equipment & Materials,0.40655,0.389,none,2.018,PNK,SODI
+08540,Healthcare,12.0,Princeton,609 375 2227,NJ,United States,Biotechnology,,,strong_buy,5.207,NCM,SONN
+93103,Technology,1867.0,Santa Barbara,805 965 3001,CA,United States,Consumer Electronics,-0.01039,0.064,buy,2.286,NMS,SONO
+12547,Technology,82.0,Milton,845 795 2020,NY,United States,Scientific & Technical Instruments,0.073520005,-0.085,buy,0.738,NCM,SOTK
+53562,Consumer Defensive,3100.0,Middleton,608 275 3340,WI,United States,Household & Personal Products,0.03855,0.06,buy,10.945,NYQ,SPB
+97124,Consumer Cyclical,1.0,Hillsboro,503 892 7345,OR,United States,Specialty Retail,,-0.551,none,0.004,PNK,SPEV
+07981-0206,Utilities,3240.0,Whippany,973 887 5300,NJ,United States,Utilities—Regulated Gas,0.07279,-0.086,hold,0.076,NYQ,SPH
+10121,Communication Services,970.0,New York,725-258-0001,NY,United States,Entertainment,-0.19540001,1.118,buy,15.83,NYQ,SPHR
+63101,Utilities,3589.0,Saint Louis,314 342 0500,MO,United States,Utilities—Regulated Gas,0.09415,-0.011,hold,0.128,NYQ,SR
+91361,Technology,122.0,Westlake Village,(323) 694-9800,CA,United States,Software—Application,-1.13565,-0.054,buy,0.272,OEM,SRAX
+10017,Technology,4.0,New York,212 239 2666,NY,United States,Software—Application,,-0.333,none,0.004,PNK,SRCO
+55344-3523,Healthcare,,Eden Prairie,952 500 7000,MN,United States,Medical Devices,-0.09155,0.188,hold,2.827,NMS,SRDX
+83814,Basic Materials,,Coeur d'Alene,208-664-5066,ID,United States,Other Precious Metals & Mining,,,none,,OQB,SRGZ
+76351,Financial Services,,Linkenheim-Hochstetten,725 210 5515,,Germany,Shell Companies,-0.42979,1.508,none,0.001,PNK,SSRT
+30339,Healthcare,,Atlanta,770 933 7000,GA,United States,Pharmaceutical Retailers,-0.047069997,,none,1.018,ASE,SSY
+,Basic Materials,,Las Vegas,833 443 7827,NV,United States,Gold,,,none,,PNK,STAL
+10022,Industrials,1000.0,New York,914 461 1276,NY,United States,Integrated Freight & Logistics,0.52999,0.124,none,39.773,NCM,STCN
+44060,Healthcare,18000.0,Mentor,440 354 2600,OH,United States,Medical Devices,0.08164,0.073,buy,1.745,NYQ,STE
+92037,Financial Services,1050.0,La Jolla,858 558 9700,CA,United States,Asset Management,0.05193,0.419,buy,3.09,NMS,STEP
+53209,Consumer Cyclical,3365.0,Milwaukee,414 247 3333,WI,United States,Auto Parts,0.02928,0.027,none,8.624,NGM,STRT
+739009,Technology,30000.0,Singapore,65 6018 2562,,Singapore,Computer Hardware,0.11342,0.491,buy,5.862,NMS,STX
+14564,Consumer Defensive,10600.0,Victor,585 678 7100,NY,United States,Beverages—Brewers,0.05687,0.029,buy,0.356,NYQ,STZ
+84604,Financial Services,1.0,Provo,801 717 3935,UT,United States,Insurance—Diversified,,,none,0.01,OQB,SUND
+273100,Consumer Defensive,242.0,Qufu,86 53 7442 4999,,China,Farm Products,-0.047659997,-0.268,none,0.014,OEM,SUWN
+V7Y 1K4,Basic Materials,3.0,Vancouver,604 687 5800,BC,Canada,Other Industrial Metals & Mining,,,none,0.006,OQB,SVBL
+310000,Technology,138.0,Fuyang,86 571 8719 7085,,China,Software—Application,,0.15,none,0.291,PNK,SVMB
+01104,Industrials,1501.0,Springfield,800 331 0852,MA,United States,Aerospace & Defense,0.06743,-0.227,buy,0.792,NMS,SWBI
+92617,Technology,9750.0,Irvine,949 231 3000,CA,United States,Semiconductors,0.17848,-0.155,hold,7.945,NMS,SWKS
+03079,Industrials,3700.0,Salem,603 893 9701,NH,United States,Specialty Industrial Machinery,0.10258,0.266,buy,11.287,NYQ,SXI
+01887,Industrials,1300.0,Wilmington,978 284 2800,MA,United States,Specialty Industrial Machinery,-0.01026,0.577,buy,8.388,NGM,SYM
+95131,Technology,1716.0,San Jose,408 904 1100,CA,United States,Semiconductors,0.16143,0.084,buy,21.309,NMS,SYNA
+77077-2099,Consumer Defensive,76000.0,Houston,281 584 1390,TX,United States,Food Distribution,0.024360001,0.044,buy,1.492,NYQ,SYY
+14120,Industrials,128.0,North Tonawanda,716 694 0800,NY,United States,Specialty Industrial Machinery,0.21215001,0.171,none,8.674,NCM,TAYD
+01742-2892,Technology,19.0,Concord,978 287 5100,MA,United States,Communication Equipment,,-0.761,none,0.024,PNK,TCCO
+75019-3863,Consumer Cyclical,2000.0,Coppell,972 538 6000,TX,United States,Specialty Retail,-0.12339,-0.105,hold,9.751,NYQ,TCS
+44115,Industrials,16600.0,Cleveland,216 706 2960,OH,United States,Aerospace & Defense,0.21587,0.18,buy,111.95,NYQ,TDG
+55413,Healthcare,3100.0,Minneapolis,612 379 8854,MN,United States,Biotechnology,0.12864,0.045,buy,1.18,NMS,TECH
+H91VN2T,Technology,85000.0,Ballybrit,353 91 378 040,,Ireland,Electronic Components,0.20151,0.008,buy,4.398,NYQ,TEL
+44105,Financial Services,,Cleveland,216 441 6000,OH,United States,Banks—Regional,0.26124,-0.011,hold,1.666,NMS,TFSL
+518000,Financial Services,12.0,Shenzhen,86 138 2338 3535,,China,Shell Companies,,,none,,OEM,TGGI
+19087,Industrials,4530.0,Radnor,610 251 1000,PA,United States,Aerospace & Defense,0.42709,0.065,hold,1.973,NYQ,TGI
+10001,Technology,25.0,New York,601 2643 7688,NY,United States,Software—Application,-0.29849002,-0.981,none,0.094,NCM,TGL
+80401,Healthcare,16.0,Golden,888 585 4923,CO,United States,Biotechnology,,0.518,none,,OEM,THER
+46514-3305,Consumer Cyclical,22300.0,Elkhart,574 970 7460,IN,United States,Recreational Vehicles,0.02642,-0.074,hold,9.471,NYQ,THO
+78735,Industrials,1416.0,Austin,512 690 0600,TX,United States,Specialty Industrial Machinery,0.08894,-0.073,buy,1.098,NYQ,THR
+07073,Industrials,38.0,East Rutherford,201 933 1600,NJ,United States,Aerospace & Defense,0.01011,-0.009,none,0.046,OQB,TIKK
+34211,Consumer Defensive,2.0,Bradenton,631-397-1111,FL,United States,Packaged Foods,,,none,,PNK,TKCM
+N8H 5L4,Healthcare,2650.0,Leamington,844 845 7291,ON,Canada,Drug Manufacturers—Specialty & Generic,-0.26184,0.131,hold,0.31,NMS,TLRY
+33702,Communication Services,,St. Petersburg,800 351 3021,FL,United States,Broadcasting,,,none,,PNK,TMGI
+79851,Basic Materials,2.0,Sierra Blanca,361 790 5831,TX,United States,Other Industrial Metals & Mining,,,none,0.008,OQB,TMRC
+19034,Consumer Cyclical,4800.0,Fort Washington,215 938 8000,PA,United States,Residential Construction,0.14633,0.015,buy,8.848,NYQ,TOL
+01473,Industrials,162.0,Westminster,978-874-0591,MA,United States,Metal Fabrication,-0.22292,0.146,none,0.016,NCM,TPCS
+10001,Consumer Cyclical,12500.0,New York,(212) 946-8400,NY,United States,Luxury Goods,0.12116,-0.004,buy,31.348,NYQ,TPR
+84107,Technology,73.0,Murray,435 645 2000,UT,United States,Software—Application,0.29131,0.079,buy,1.379,NYQ,TRAK
+60563,Technology,162.0,Naperville,877 260 2010,IL,United States,Scientific & Technical Instruments,-0.11237001,0.056,none,0.162,OQB,TRCK
+14624,Industrials,1104.0,Rochester,585 352 7777,NY,United States,Industrial Distribution,0.06626,0.08,buy,2.589,NGM,TRNS
+91406,Technology,,Van Nuys,818 787 7000,CA,United States,Semiconductor Equipment & Materials,0.024820002,0.073,none,3.89,ASE,TRT
+84014,Communication Services,,Centerville,801-298-1997,UT,United States,Electronic Gaming & Multimedia,-0.40829,-0.266,none,0.499,NGM,TRUG
+33324,Financial Services,4.0,Plantation,954 960 7100,FL,United States,Shell Companies,,,none,,PNK,TRXA
+98550,Financial Services,,Hoquiam,360 533 4747,WA,United States,Banks—Regional,0.32747,-0.012,none,21.977,NGM,TSBK
+72762-6999,Consumer Defensive,139000.0,Springdale,(479) 290-4000,AR,United States,Farm Products,-0.00013,0.016,hold,7.256,NYQ,TSN
+55420-1196,Industrials,10706.0,Bloomington,952 888 8801,MN,United States,Tools & Accessories,0.08891,0.069,hold,2.155,NYQ,TTC
+91107-6024,Industrials,28000.0,Pasadena,626 351 4664,CA,United States,Engineering & Construction,0.06869,0.124,buy,0.793,NMS,TTEK
+10036,Communication Services,12371.0,New York,646 536 2842,NY,United States,Electronic Gaming & Multimedia,-0.66375,0.041,buy,5.008,NMS,TTWO
+37902,,,Knoxville,865 632 2101,TN,United States,,0.08407,0.067,none,,NYQ,TVC
+,,,,,,,,,,buy,,NYQ,TVE
+53202,Industrials,910.0,Milwaukee,262 638 4000,WI,United States,Specialty Industrial Machinery,0.03086,0.147,hold,1.192,NMS,TWIN
+94080,Healthcare,919.0,South San Francisco,800 719 0671,CA,United States,Diagnostics & Research,-0.7463,0.278,buy,4.94,NMS,TWST
+21230,Consumer Cyclical,6800.0,Baltimore,410 468 2512,MD,United States,Apparel Manufacturing,-0.00328,-0.107,buy,1.227,NYQ,UA
+21230,Consumer Cyclical,6800.0,Baltimore,410 468 2512,MD,United States,Apparel Manufacturing,-0.00328,-0.107,hold,1.227,NYQ,UAA
+78401,Energy,94.0,Corpus Christi,361-888-8235,TX,United States,Uranium,,-1.0,buy,0.38,ASE,UEC
+27410,Consumer Cyclical,2700.0,Greensboro,(336) 294-4410,NC,United States,Textile Manufacturing,-0.07069,0.061,hold,0.75,NYQ,UFI
+19406,Utilities,5160.0,King of Prussia,610 337 1000,PA,United States,Utilities—Regulated Gas,0.09129,-0.168,buy,0.852,NYQ,UGI
+89511,Industrials,17836.0,Reno,775 688 6300,NV,United States,Rental & Leasing Services,0.08518,0.005,hold,7.322,NYQ,UHAL
+314000,Financial Services,25.0,Jiaxing,86 537 8223 9727,,China,Shell Companies,,,none,,PNK,UHGI
+10017,Technology,1515.0,New York,646 780 7958,NY,United States,Communication Equipment,0.18146999,0.033,hold,2.089,NYQ,UI
+01887,Industrials,16000.0,Wilmington,978 658 8888,MA,United States,Specialty Business Services,0.05993,0.119,hold,9.409,NYQ,UNF
+02908,Consumer Defensive,28333.0,Providence,401 528 8634,RI,United States,Food Distribution,-0.0036199999,0.099,hold,0.756,NYQ,UNFI
+,,,,(215) 979-3750,,,,,,,,BTS,UNOV
+11434,Industrials,109.0,Jamaica,718 978 2000,NY,United States,Integrated Freight & Logistics,-0.02674,0.382,none,0.005,PNK,UNQL
+89118,Industrials,,Las Vegas,949 350 0123,NV,United States,Trucking,,,none,,PNK,UNXP
+33760,Communication Services,95.0,Clearwater,702 332 5591,FL,United States,Internet Content & Information,-0.27715,-0.34,hold,0.477,NCM,UPXI
+75234,Technology,16.0,Dallas,972 888 6052,TX,United States,Software—Application,-0.77584,-0.538,none,0.008,OQB,UPYY
+89801,Basic Materials,4.0,Elko,800 557 4550,NV,United States,Gold,,,buy,0.315,NCM,USAU
+85032,Consumer Defensive,3000.0,Phoenix,623 445 9500,AZ,United States,Education & Training Services,0.04226,0.158,buy,2.162,NYQ,UTI
+21117-6218,Industrials,11.0,Owings Mills,410 363 3000,MD,United States,Security & Protection Services,-0.056350004,-0.314,none,0.139,ASE,UUU
+23235,Consumer Defensive,10800.0,Richmond,804 359 9311,VA,United States,Tobacco,0.043070003,0.153,none,4.119,NYQ,UVV
+94128-8999,Financial Services,,San Francisco,650 432 3200,CA,United States,Credit Services,0.54955,0.117,buy,8.124,NYQ,V
+10176-0001,Financial Services,122.0,New York,212 907 1500,NY,United States,Financial Data & Stock Exchanges,0.54723,-0.088,none,7.568,NCM,VALU
+33127,Healthcare,189.0,Miami,305 509 6897,FL,United States,Biotechnology,-2.6542099,0.183,buy,0.199,NCM,VERU
+80202,Consumer Cyclical,18000.0,Denver,720 778 4000,CO,United States,Apparel Manufacturing,-0.06613,-0.056,hold,1.265,NYQ,VFC
+106427,Consumer Cyclical,3.0,Taipei,886 9 0515 3139,,Taiwan,Personal Services,,,none,,PNK,VGES
+80228,Financial Services,,Lakewood,303-422-8127,CO,United States,Shell Companies,,,none,,PNK,VHLD
+85286,Technology,3600.0,Chandler,408 404 3600,AZ,United States,Communication Equipment,-0.037750002,0.166,buy,3.153,NMS,VIAV
+32926,Technology,35.0,Cocoa,321 784 4427,FL,United States,Computer Hardware,-0.049050003,-0.173,none,0.044,PNK,VIDE
+34236,Consumer Cyclical,13.0,Sarasota,(866) 783-9435,FL,United States,Gambling,,,none,0.008,PNK,VIPZ
+22124,Technology,5.0,Fairfax,703 273 0383,VA,United States,Software—Infrastructure,,,none,,PNK,VISM
+07081,Consumer Defensive,2190.0,Springfield,973 467 2200,NJ,United States,Grocery Stores,0.02256,0.044,none,7.943,NMS,VLGEA
+32824,Technology,911.0,Orlando,800 645 7750,FL,United States,Consumer Electronics,-0.060599998,-0.186,buy,0.163,NMS,VOXX
+76710-4020,Communication Services,2.0,Waco,954 495 4600,TX,United States,Telecom Services,,,none,0.001,OQB,VPLM
+10018,Technology,112.0,New York,917 292 2685,NY,United States,Software—Infrastructure,-0.72628,-0.406,buy,0.102,NCM,VRAR
+63105,Basic Materials,19.0,Saint Louis,314 530 9071,MO,United States,Agricultural Inputs,,14.152,none,,OQB,VRDR
+84104,Healthcare,2300.0,Salt Lake City,801 972 5000,UT,United States,Medical Devices,0.04107,-0.099,buy,4.645,NMS,VREX
+55427,Technology,7.0,Golden Valley,763 253 2670,MN,United States,Software—Application,-2.29501,1.623,none,0.003,PNK,VRTC
+80202,Communication Services,,Denver,303 228 7120,CO,United States,Electronic Gaming & Multimedia,,-0.723,none,0.001,PNK,VRVR
+92009,Technology,7500.0,Carlsbad,760 476 2200,CA,United States,Communication Equipment,-0.08728,-0.084,hold,27.496,NMS,VSAT
+55303,Consumer Cyclical,6400.0,Anoka,763 433 1000,MN,United States,Leisure,-0.00339,-0.016,hold,0.632,NYQ,VSTO
+94080,Healthcare,39.0,South San Francisco,650 577 3600,CA,United States,Biotechnology,,-0.341,strong_buy,3.505,NCM,VTGN
+40509,Consumer Cyclical,9600.0,Lexington,859 357 7777,KY,United States,Auto & Truck Dealerships,0.10682999,0.281,buy,,NYQ,VVV
+45891,Financial Services,43.0,Van Wert,419 238 9662,OH,United States,Banks—Regional,-0.41166002,0.253,none,16.518,OQX,VWFB
+98101,Financial Services,2208.0,Seattle,206 624 7930,WA,United States,Banks—Regional,0.28414,0.245,hold,29.317,NMS,WAFD
+98101,Financial Services,2208.0,Seattle,206 624 7930,WA,United States,Banks—Regional,0.28414,0.245,none,29.317,NMS,WAFDP
+60015,Healthcare,193000.0,Deerfield,847 315 3700,IL,United States,Pharmaceutical Retailers,-0.05849,0.06,hold,3.597,NMS,WBA
+91203,Industrials,,Glendale,(310) 765-1550,CA,United States,Specialty Business Services,,,none,,PNK,WBQNL
+105-0003,Financial Services,,Tokyo,81 90 6002 4978,,Japan,Shell Companies,,,none,,OEM,WCHD
+95119,Technology,51000.0,San Jose,408-801-1000,CA,United States,Computer Hardware,0.02648,,buy,,NMS,WDC
+92131,Basic Materials,644.0,San Diego,619 275 1400,CA,United States,Specialty Chemicals,0.11793,0.111,buy,3.449,NMS,WDFC
+89102,Technology,1.0,Las Vegas,702 944 5599,NV,United States,Software—Application,,,none,0.007,PNK,WEWA
+55347,Consumer Cyclical,5700.0,Eden Prairie,952 829 8600,MN,United States,Recreational Vehicles,0.00437,-0.065,buy,11.443,NYQ,WGO
+92663,Healthcare,5.0,Newport Beach,949 270 7460,CA,United States,Medical Instruments & Supplies,-1.5922799,-0.357,buy,,OEM,WHSI
+33433,Communication Services,,Boca Raton,855 345 9467,FL,United States,Electronic Gaming & Multimedia,,-0.837,none,0.001,OEM,WINR
+07030-5774,Communication Services,6400.0,Hoboken,201 748 6000,NJ,United States,Publishing,-0.059970003,-0.105,buy,1.521,NYQ,WLY
+07030-5774,Communication Services,6400.0,Hoboken,201 748 6000,NJ,United States,Publishing,-0.059970003,-0.105,none,1.521,NYQ,WLYB
+89129,Financial Services,,Las Vegas,702 890 5299,NV,United States,Shell Companies,,,none,,PNK,WLYW
+10019,Communication Services,5900.0,New York,212 275 2000,NY,United States,Entertainment,0.08555,-0.006,buy,1.172,NMS,WMG
+19007,Financial Services,90.0,Bristol,267 540 8500,PA,United States,Banks—Regional,-0.0015700001,-0.038,buy,3.243,NCM,WMPN
+43026,Industrials,5705.0,Hilliard,614 658 0050,OH,United States,Building Products & Equipment,0.17091998,0.048,buy,6.987,NYQ,WMS
+89052,Financial Services,,Henderson,702 840 4433,NV,United States,Shell Companies,,,none,,PNK,WNFT
+27703,Technology,5013.0,Durham,919 407 5300,NC,United States,Semiconductors,-0.93313,-0.014,hold,13.214,NYQ,WOLF
+V7A 1X8,Basic Materials,,Richmond,778 297 4409,BC,Canada,Other Industrial Metals & Mining,,,none,,PNK,WOLV
+43085,Industrials,6000.0,Columbus,614 438 3210,OH,United States,Metal Fabrication,0.03255,-0.175,hold,3.552,NYQ,WOR
+29601,Financial Services,2872.0,Greenville,864 298 9800,SC,United States,Credit Services,0.15025,-0.04,hold,1.811,NMS,WRLD
+,Financial Services,,Nairobi,702 605 4080,,Kenya,Shell Companies,,,none,,PNK,WRPT
+85255,Consumer Defensive,33.0,Scottsdale,480 656 2423,AZ,United States,Beverages—Non-Alcoholic,-0.36466998,-0.085,buy,0.038,PNK,WTER
+80524,Industrials,8800.0,Fort Collins,970 482 5811,CO,United States,Aerospace & Defense,0.11467,0.059,buy,5.168,NMS,WWD
+11530,Healthcare,107.0,Garden City,516 665 8200,NY,United States,Medical Devices,,10.576,buy,0.459,NCM,XAIR
+33431,Industrials,,Boca Raton,561 491 9595,FL,United States,Aerospace & Defense,,,none,0.001,OQB,XERI
+50450,Financial Services,,Kuala Lumpur,,,Malaysia,Shell Companies,,,none,,PNK,XITO
+44023,Healthcare,3.0,Chagrin Falls,213 642 9268,OH,United States,Biotechnology,,,none,,PNK,XSNX
+28217,Healthcare,52.0,Charlotte,704 445 3060,NC,United States,Drug Manufacturers—Specialty & Generic,-0.94115996,-0.155,buy,0.636,ASE,YCBD
+30328,Consumer Defensive,50.0,Atlanta,(404) 805-6044,GA,United States,Packaged Foods,-2.15495,0.811,none,0.001,OEM,YCRM
+10002,Healthcare,1.0,New York,(919) 869-0279,NY,United States,Medical Distribution,0.16182,,none,0.006,PNK,YJGJ
+114,Consumer Defensive,1.0,Taipei,886 2 8751 1886,,Taiwan,Education & Training Services,,,none,,OEM,YUMM
+10001,Communication Services,99.0,New York,330 577 3424,NY,United States,Internet Content & Information,-0.30478,0.143,buy,1.414,ASE,ZDGE
+33328,Healthcare,23.0,Fort Lauderdale,888 963 7881,FL,United States,Biotechnology,-0.94653,-0.106,none,0.168,OQB,ZEOX
+95134,Technology,7348.0,San Jose,408 533 0288,CA,United States,Software—Infrastructure,-0.026619999,0.303,buy,15.802,NMS,ZS
+10001,Industrials,,New York,888 469 3887,NY,United States,Specialty Business Services,,,none,,PNK,ZUUS
