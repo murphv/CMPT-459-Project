@@ -1,0 +1,3 @@
+The PCA explains 80% variances at 12 first features
+The PCA explains 90% variances at 42 first features
+The PCA explains 95% variances at 95 first features
