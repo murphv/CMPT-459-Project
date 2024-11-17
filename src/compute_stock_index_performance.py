@@ -33,11 +33,11 @@ def extract_stock_performance(df):
 
 
 def main():
-    index_data = pd.read_csv("../data/index_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
+    index_data = pd.read_csv("data/index_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
     index_performance = extract_stock_performance(index_data)
     index_performance.to_csv("../data/index_performance.csv", index=False)
     snp_index = index_performance.loc["^GSPC"]
-    stocks_data = pd.read_csv("../data/stocks_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
+    stocks_data = pd.read_csv("data/stocks_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
     stocks_performance = extract_stock_performance(stocks_data)
     companies_list = filter_company_with_no_report(stocks_performance['Company'].unique())
     stocks_performance = stocks_performance[stocks_performance['Company'].isin(companies_list)]

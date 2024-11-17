@@ -173,7 +173,7 @@ def main():
     company_ciks = download_ticker_cik_mapping()
 
     # Read the ticker csv file
-    data = pd.read_csv('../data/stocks_data.csv')
+    data = pd.read_csv('data/stocks_data.csv')
     companies_df = data['Company'].unique()
     stocks_data = get_sanitized_tickers(companies_df, company_ciks)
     
@@ -222,7 +222,7 @@ def main():
 
     # Write the log
     if log:
-        with open('../output/extract_10q_log.txt', 'w', encoding='utf-8') as f:
+        with open('output/extract_10q_log.txt', 'w', encoding='utf-8') as f:
             f.write(log)
 
     
