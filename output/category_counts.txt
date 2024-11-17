@@ -1,0 +1,64 @@
+Relative 2023Q2 Label
+Bad Performance                  381
+Neutral                          271
+Good Performance                 147
+Exceptionally Bad Performance    101
+
+sector
+Technology                175
+Healthcare                150
+Industrials               138
+Consumer Cyclical         111
+Financial Services        105
+Consumer Defensive         86
+Communication Services     50
+Basic Materials            40
+Energy                     22
+Real Estate                13
+Utilities                  10
+
+recommendationKey
+none            357
+buy             350
+hold            162
+strong_buy       27
+underperform      4
+
+Business Sizes
+medium-sized business    319
+large enterprise         280
+small-sized business     245
+mid-market enterprise     56
+
+country
+United States     808
+Canada             22
+China              17
+Hong Kong           8
+Ireland             6
+United Kingdom      5
+Japan               5
+Switzerland         4
+Malaysia            4
+Singapore           4
+Taiwan              4
+Cayman Islands      3
+Australia           2
+Malta               2
+Mexico              1
+Israel              1
+Netherlands         1
+South Africa        1
+Kazakhstan          1
+Kenya               1
+
+exchange
+NMS    215
+NYQ    203
+PNK    161
+NCM    133
+OQB     60
+OEM     47
+NGM     41
+ASE     31
+OQX      9
