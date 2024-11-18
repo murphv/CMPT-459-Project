@@ -38,7 +38,10 @@ def drop_or_process_missing_value(df):
     # impute value
     df['recommendationKey'] = df['recommendationKey'].fillna('none')
 
-    df_cat = process_category(df.copy(), False, True)
+    # Change category
+    df['country'] = simplify_country(df)
+
+    df_cat = encode_category(df.copy())
     imputer = KNNImputer(n_neighbors=5, weights="distance")
     imputer_result = imputer.fit_transform(df_cat)
     df['fullTimeEmployees'] = imputer_result[:, 12].astype(np.int64)
@@ -47,95 +50,103 @@ def drop_or_process_missing_value(df):
     return df
 
 
-def process_category(df, is_output,is_encoding):
-    if is_output:
-        with open('../output/category_counts.txt', 'w') as f:
-            f.write(df['Relative 2023Q2 Label'].value_counts().to_string())
-            f.write('\n\n')
-            f.write(df['sector'].value_counts().to_string())
-            f.write('\n\n')
-            f.write(df['recommendationKey'].value_counts().to_string())
-            f.write('\n\n')
-            f.write(df['Business Sizes'].value_counts().to_string())
-            f.write('\n\n')
-            f.write(df['country'].value_counts().to_string())
-            f.write('\n\n')
-            f.write(df['exchange'].value_counts().to_string())
-    if is_encoding:
-        sector_encoding = {
-            'Technology': 0,
-            'Healthcare': 1,
-            'Industrials': 2,
-            'Consumer Cyclical': 3,
-            'Financial Services': 4,
-            'Consumer Defensive': 5,
-            'Communication Services': 6,
-            'Basic Materials': 7,
-            'Energy': 8,
-            'Real Estate': 9,
-            'Utilities': 10
-        }
-        df['sector'] = df['sector'].map(sector_encoding)
+def encode_category(df):
+    sector_encoding = {
+        'Technology': 0,
+        'Healthcare': 1,
+        'Industrials': 2,
+        'Consumer Cyclical': 3,
+        'Financial Services': 4,
+        'Consumer Defensive': 5,
+        'Communication Services': 6,
+        'Basic Materials': 7,
+        'Energy': 8,
+        'Real Estate': 9,
+        'Utilities': 10
+    }
+    df['sector'] = df['sector'].map(sector_encoding)
 
-        recommendation_encoding = {
-            'none': 0,
-            'hold': 1,
-            'buy': 2,
-            'strong_buy': 3,
-            'underperform': -1
-        }
-        df['recommendationKey'] = df['recommendationKey'].map(recommendation_encoding)
+    recommendation_encoding = {
+        'none': 0,
+        'hold': 1,
+        'buy': 2,
+        'strong_buy': 3,
+        'underperform': -1
+    }
+    df['recommendationKey'] = df['recommendationKey'].map(recommendation_encoding)
 
-        # Due to the number of countries, we categorize them into US, America, Europe, Asia and Pacific, Africa
-        country_encoding = {
-            'United States': 4,
-            'Canada': 0,
-            'China': 1,
-            'Hong Kong': 1,
-            'Ireland': 2,
-            'United Kingdom': 2,
-            'Japan': 1,
-            'Switzerland': 2,
-            'Malaysia': 1,
-            'Singapore': 1,
-            'Taiwan': 1,
-            'Cayman Islands': 0,
-            'Australia': 1,
-            'Malta': 2,
-            'Mexico': 0,
-            'Israel': 2,
-            'Netherlands': 2,
-            'South Africa': 3,
-            'Kazakhstan': 1,
-            'Kenya': 3,
-        }
-        df['country'] = df['country'].map(country_encoding)
+    # Due to the number of countries, we categorize them into US, America, Europe, Asia and Pacific, Africa
+    country_encoding = {
+        'United States': 0,
+        'North America': 1,
+        'Asia and Pacific': 2,
+        'Europe': 3,
+        'Africa': 4
+    }
+    df['country'] = df['country'].map(country_encoding)
 
-        exchange_encoding = {
-            'NMS': 0,
-            'NYQ': 1,
-            'PNK': 2,
-            'NCM': 3,
-            'OQB': 4,
-            'OEM': 5,
-            'NGM': 6,
-            'ASE': 7,
-            'OQX': 8
-        }
-        df['exchange'] = df['exchange'].map(exchange_encoding)
+    exchange_encoding = {
+        'NMS': 0,
+        'NYQ': 1,
+        'PNK': 2,
+        'NCM': 3,
+        'OQB': 4,
+        'OEM': 5,
+        'NGM': 6,
+        'ASE': 7,
+        'OQX': 8
+    }
+    df['exchange'] = df['exchange'].map(exchange_encoding)
     return df
+
+
+def process_category(df):
+    with open('../output/category_counts.txt', 'w') as f:
+        f.write(df['Relative 2023Q2 Label'].value_counts().to_string())
+        f.write('\n\n')
+        f.write(df['sector'].value_counts().to_string())
+        f.write('\n\n')
+        f.write(df['recommendationKey'].value_counts().to_string())
+        f.write('\n\n')
+        f.write(df['country'].value_counts().to_string())
+        f.write('\n\n')
+        f.write(df['exchange'].value_counts().to_string())
+
+    return df
+
+
+def simplify_country(df):
+    country_encoding = {
+        'United States': 'United States',
+        'Canada': 'North America',
+        'China': 'Asia and Pacific',
+        'Hong Kong': 'Asia and Pacific',
+        'Ireland': 'Europe',
+        'United Kingdom': 'Europe',
+        'Japan': 'Asia and Pacific',
+        'Switzerland': 'Europe',
+        'Malaysia': 'Asia and Pacific',
+        'Singapore': 'Asia and Pacific',
+        'Taiwan': 'Asia and Pacific',
+        'Cayman Islands': 'North America',
+        'Australia': 'Asia and Pacific',
+        'Malta': 'Europe',
+        'Mexico': 'North America',
+        'Israel': 'Europe',
+        'Netherlands': 'Europe',
+        'South Africa': 'Africa',
+        'Kazakhstan': 'Asia and Pacific',
+        'Kenya': 'Africa'
+    }
+    return df['country'].map(country_encoding)
 
 
 def create_label(df):
     df['Relative 2023Q2 Label'] = pd.cut(x=df['Relative 2023Q2'],
-                                         bins=[df['Relative 2023Q2'].min()-1, -50, -10, 10, df['Relative 2023Q2'].max()+1],
+                                         bins=[df['Relative 2023Q2'].min() - 1, -50, -10, 10,
+                                               df['Relative 2023Q2'].max() + 1],
                                          labels=['Exceptionally Bad Performance', 'Bad Performance', 'Neutral',
                                                  'Good Performance'])
-    df['Business Sizes'] = pd.cut(x=df['fullTimeEmployees'],
-                                  bins=[0, 100, 1000, 2000, df['fullTimeEmployees'].max()],
-                                  labels=['small-sized business', 'medium-sized business',
-                                          'mid-market enterprise', 'large enterprise'])
-    # df = df.drop(columns=['fullTimeEmployees'])
     return df
 
 
@@ -176,7 +187,7 @@ def main():
     plot_outcome(df_process)
     plot_employees(df_process)
     df_process = create_label(df_process)
-    df_process = process_category(df_process, True, False)
+    df_process = process_category(df_process)
     plot_missing_data(df_process, 'missing_data_post')
     df_process.to_csv('../data/stocks_data_processed_imputed.csv', index=False)
 
