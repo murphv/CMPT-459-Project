@@ -180,6 +180,15 @@ def plot_employees(df):
     plt.close(fig)
 
 
+def plot_heatmap(df):
+    df_encoded = encode_category(df.copy())
+    df_encoded = df_encoded.drop(columns=['Relative 2023Q2 Label', 'Relative 2023Q2'])
+    fig, ax = plt.subplots(figsize=(10, 10))
+    sns.heatmap(df_encoded.corr(numeric_only=True), cmap="YlGnBu")
+    ax.set_title("Correlations Heatmap between features")
+    fig.savefig("../output/plot/heatmap")
+    plt.close(fig)
+
 def main():
     df = pd.read_csv('../data/stocks_data_processed.csv')
     plot_missing_data(df, 'missing_data')
@@ -189,6 +198,7 @@ def main():
     df_process = create_label(df_process)
     df_process = process_category(df_process)
     plot_missing_data(df_process, 'missing_data_post')
+    plot_heatmap(df_process)
     df_process.to_csv('../data/stocks_data_processed_imputed.csv', index=False)
 
 
