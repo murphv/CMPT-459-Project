@@ -1,9 +1,10 @@
-from sklearn.decomposition import PCA, KernelPCA
+from sklearn.impute import KNNImputer
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import seaborn as sns
+from sklearn.preprocessing import LabelEncoder
 
 
 def plot_missing_data(df: pd.DataFrame, title):
@@ -35,24 +36,31 @@ def drop_or_process_missing_value(df):
     df = df[df['sector'].notna()]
 
     # impute value
-    df['fullTimeEmployees'] = df['fullTimeEmployees'].fillna(df['fullTimeEmployees'].median())
     df['recommendationKey'] = df['recommendationKey'].fillna('none')
+
+    df_cat = process_category(df.copy(), False, True)
+    imputer = KNNImputer(n_neighbors=5, weights="distance")
+    imputer_result = imputer.fit_transform(df_cat)
+    df['fullTimeEmployees'] = imputer_result[:, 12].astype(np.int64)
+    # df['fullTimeEmployees'] = df['fullTimeEmployees'].fillna(df['fullTimeEmployees'].median())
+
     return df
 
 
-def process_category(df, is_encoding):
-    with open('../output/category_counts.txt', 'w') as f:
-        f.write(df['Relative 2023Q2 Label'].value_counts().to_string())
-        f.write('\n\n')
-        f.write(df['sector'].value_counts().to_string())
-        f.write('\n\n')
-        f.write(df['recommendationKey'].value_counts().to_string())
-        f.write('\n\n')
-        f.write(df['Business Sizes'].value_counts().to_string())
-        f.write('\n\n')
-        f.write(df['country'].value_counts().to_string())
-        f.write('\n\n')
-        f.write(df['exchange'].value_counts().to_string())
+def process_category(df, is_output,is_encoding):
+    if is_output:
+        with open('../output/category_counts.txt', 'w') as f:
+            f.write(df['Relative 2023Q2 Label'].value_counts().to_string())
+            f.write('\n\n')
+            f.write(df['sector'].value_counts().to_string())
+            f.write('\n\n')
+            f.write(df['recommendationKey'].value_counts().to_string())
+            f.write('\n\n')
+            f.write(df['Business Sizes'].value_counts().to_string())
+            f.write('\n\n')
+            f.write(df['country'].value_counts().to_string())
+            f.write('\n\n')
+            f.write(df['exchange'].value_counts().to_string())
     if is_encoding:
         sector_encoding = {
             'Technology': 0,
@@ -127,7 +135,7 @@ def create_label(df):
                                   bins=[0, 100, 1000, 2000, df['fullTimeEmployees'].max()],
                                   labels=['small-sized business', 'medium-sized business',
                                           'mid-market enterprise', 'large enterprise'])
-    df = df.drop(columns=['fullTimeEmployees'])
+    # df = df.drop(columns=['fullTimeEmployees'])
     return df
 
 
@@ -168,7 +176,7 @@ def main():
     plot_outcome(df_process)
     plot_employees(df_process)
     df_process = create_label(df_process)
-    df_process = process_category(df_process, False)
+    df_process = process_category(df_process, True, False)
     plot_missing_data(df_process, 'missing_data_post')
     df_process.to_csv('../data/stocks_data_processed_imputed.csv', index=False)
 
