@@ -39,7 +39,8 @@ def main():
     df = pd.read_csv('../data/stocks_data_processed_imputed.csv')
     df = normalization(df)
     plot_histogram(df)
-    df.to_csv('../data/stocks_data_normalized.csv')
+    df = df.drop(columns=['Volume']) # we drop Volume since it is somewhat redundant by other features and due to sparseness
+    df.to_csv('../data/stocks_data_normalized.csv', index=False)
 
 
 if __name__ == '__main__':
