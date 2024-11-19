@@ -36,10 +36,17 @@ def outlier_detection(df):
 
     lof_outlier_count = lof_outlier[lof_outlier == -1].size
     isf_outlier_count = isf_outlier[isf_outlier == -1].size
-    both_count = lof_outlier[np.logical_and(lof_outlier == -1, isf_outlier == -1)].size
+    both = np.logical_and(lof_outlier == -1, isf_outlier == -1)
+    both_count = lof_outlier[both].size
 
-    outlier_result = pd.DataFrame({'Stock': stock, 'Local Outlier Factor': lof_outlier, 'Isolation Forest': isf_outlier})
+    outlier_result = pd.DataFrame({'Stock': stock,
+                                   'Local Outlier Factor': lof_outlier,
+                                   'Isolation Forest': isf_outlier,
+                                   'Is both': both})
     outlier_result.to_csv('../data/stock_outlier.csv', index=False)
+
+    df_remove_outlier = df[np.logical_not(both)]
+    df_remove_outlier.to_csv('../data/stock_outlier_removed.csv', index=False)
 
     with open('../output/outlier_result.txt', 'w') as f:
         f.write(f'Number of outliers detected using Local Outlier Factor:\t{lof_outlier_count}\n'
