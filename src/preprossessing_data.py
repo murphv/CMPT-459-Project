@@ -201,7 +201,6 @@ def main():
     df_process = process_category(df_process)
     df_process['Stock'] = stocks #Rename and attach stock name at the end
 
-    plot_missing_data(df_process, 'missing_data_post')
     plot_heatmap(df_process)
     df_process.to_csv('../data/stocks_data_processed_imputed.csv', index=False)
 
