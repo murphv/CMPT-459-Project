@@ -38,8 +38,6 @@ def apply_pca(df):
     nlp_reduced = pca.fit_transform(nlp_data.to_numpy())
     nlp_df = pd.DataFrame(nlp_reduced, columns=columns_label)
     nlp_df['Company'] = df['Company']
-    nlp_df['Year'] = df['Year']
-    nlp_df['Quarter'] = df['Quarter']
     return nlp_df
 
 
