@@ -9,7 +9,7 @@ def extract_stocks_info(stock):
     return pd.Series(info)
 
 def main():
-    stocks_data = pd.read_csv("../data/stocks_performance.csv")
+    stocks_data = pd.read_csv("data/stocks_performance.csv")
     companies_list = stocks_data['Company']
     company_info_list = []
     for company in companies_list:
@@ -21,7 +21,7 @@ def main():
                                        'industry', 'profitMargins', 'revenueGrowth', 'recommendationKey',
                                        'totalCashPerShare', 'exchange']]
     company_info_df['Company'] = companies_list
-    company_info_df.to_csv("../data/stocks_info.csv", index=False)
+    company_info_df.to_csv("data/stocks_info.csv", index=False)
 
 if __name__ == '__main__':
     main()

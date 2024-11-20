@@ -20,7 +20,7 @@ def plot_missing_data(df: pd.DataFrame, title):
     ax.set_xlabel('Features')
     ax.set_ylabel('No. missing data')
     ax.set_title('Plot of number missing data')
-    plt.savefig(f'../output/plot/{title}')
+    plt.savefig(f'output/plot/{title}')
     plt.close(fig)
 
 
@@ -101,7 +101,7 @@ def encode_category(df):
 
 
 def process_category(df):
-    with open('../output/category_counts.txt', 'w') as f:
+    with open('output/category_counts.txt', 'w') as f:
         f.write(df['Relative 2023Q2 Label'].value_counts().to_string())
         f.write('\n\n')
         f.write(df['sector'].value_counts().to_string())
@@ -162,7 +162,7 @@ def plot_outcome(df):
     ax.grid(axis='both', which='major', linewidth=0.5)
     ax.set_title('Histogram of Stock performance in 2023Q2 relative to index stock performance')
     ax.set_xlabel('Relative percentage')
-    plt.savefig('../output/plot/histogram_relative')
+    plt.savefig('output/plot/histogram_relative')
     plt.close(fig)
 
 
@@ -176,7 +176,7 @@ def plot_employees(df):
     plt.xscale('log')
     ax.set_title('Histogram of Employees employed full-time')
     ax.set_xlabel('Full-time Employees')
-    plt.savefig('../output/plot/histogram_employee')
+    plt.savefig('output/plot/histogram_employee')
     plt.close(fig)
 
 
@@ -186,11 +186,11 @@ def plot_heatmap(df):
     fig, ax = plt.subplots(figsize=(10, 10))
     sns.heatmap(df_encoded.corr(numeric_only=True), cmap="YlGnBu")
     ax.set_title("Correlations Heatmap between features")
-    fig.savefig("../output/plot/heatmap")
+    fig.savefig("output/plot/heatmap")
     plt.close(fig)
 
 def main():
-    df = pd.read_csv('../data/stocks_data_processed.csv')
+    df = pd.read_csv('data/stocks_data_processed.csv')
     stocks = df['Company']
 
     plot_missing_data(df, 'missing_data')
@@ -202,7 +202,7 @@ def main():
     df_process['Stock'] = stocks #Rename and attach stock name at the end
 
     plot_heatmap(df_process)
-    df_process.to_csv('../data/stocks_data_processed_imputed.csv', index=False)
+    df_process.to_csv('data/stocks_data_processed_imputed.csv', index=False)
 
 
 if __name__ == '__main__':

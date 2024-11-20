@@ -31,16 +31,16 @@ def plot_histogram(df):
         ax.hist(df[column], bins=30, color='skyblue', edgecolor='black')
         ax.set_title(f'Distribution of {column}')
         ax.set_ylabel('count')
-    fig.savefig('../output/plot/overall_distribution')
+    fig.savefig('output/plot/overall_distribution')
     plt.close(fig)
 
 
 def main():
-    df = pd.read_csv('../data/stocks_data_processed_imputed.csv')
+    df = pd.read_csv('data/stocks_data_processed_imputed.csv')
     df = normalization(df)
     plot_histogram(df)
     df = df.drop(columns=['Volume']) # we drop Volume since it is somewhat redundant by other features and due to sparseness
-    df.to_csv('../data/stocks_data_normalized.csv', index=False)
+    df.to_csv('data/stocks_data_normalized.csv', index=False)
 
 
 if __name__ == '__main__':

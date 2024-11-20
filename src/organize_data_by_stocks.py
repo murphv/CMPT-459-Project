@@ -36,16 +36,16 @@ def extract_stock(df):
 
 
 def main():
-    stock_performance = pd.read_csv("../data/stocks_performance.csv")
-    stock_info = pd.read_csv("../data/stocks_info.csv")
-    nlp_data = pd.read_csv("../data/nlp_features_reduced.csv")
+    stock_performance = pd.read_csv("data/stocks_performance.csv")
+    stock_info = pd.read_csv("data/stocks_info.csv")
+    nlp_data = pd.read_csv("data/nlp_features_reduced.csv")
 
-    stock_data = pd.read_csv("../data/stocks_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
+    stock_data = pd.read_csv("data/stocks_data.csv", parse_dates=[0], date_format='%Y-%m-%d')
     stock_data_extract = extract_stock(stock_data)
     df_merge1 = pd.merge(stock_data_extract, stock_performance, on='Company')
     df_merge2 = pd.merge(df_merge1, stock_info, on='Company')
     df_merge3 = pd.merge(df_merge2, nlp_data, on='Company')
-    df_merge3.to_csv("../data/stocks_data_processed.csv", index=False)
+    df_merge3.to_csv("data/stocks_data_processed.csv", index=False)
 
 
 if __name__ == '__main__':

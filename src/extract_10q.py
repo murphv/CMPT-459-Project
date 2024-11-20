@@ -160,7 +160,7 @@ def get_sanitized_tickers(df, ciks):
 
 
 def main():
-    path_dir = '../data/SEC_Filings'
+    path_dir = 'data/SEC_Filings'
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)
 
