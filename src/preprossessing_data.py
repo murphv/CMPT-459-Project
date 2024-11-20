@@ -191,13 +191,16 @@ def plot_heatmap(df):
 
 def main():
     df = pd.read_csv('../data/stocks_data_processed.csv')
+    stocks = df['Company']
+
     plot_missing_data(df, 'missing_data')
     df_process = drop_or_process_missing_value(df)
     plot_outcome(df_process)
     plot_employees(df_process)
     df_process = create_label(df_process)
     df_process = process_category(df_process)
-    plot_missing_data(df_process, 'missing_data_post')
+    df_process['Stock'] = stocks #Rename and attach stock name at the end
+
     plot_heatmap(df_process)
     df_process.to_csv('../data/stocks_data_processed_imputed.csv', index=False)
 

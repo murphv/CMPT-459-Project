@@ -1,0 +1,3 @@
+Number of outliers detected using Local Outlier Factor:	15
+Number of outliers detected using Isolation Forest:	34
+Number of outliers detected using both methods:	9
