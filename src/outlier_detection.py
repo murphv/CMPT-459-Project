@@ -6,7 +6,7 @@ from sklearn.neighbors import LocalOutlierFactor
 import pandas as pd
 import numpy as np
 
-from src.preprossessing_data import encode_category
+from preprossessing_data import encode_category
 
 
 def outlier_detection(df):
