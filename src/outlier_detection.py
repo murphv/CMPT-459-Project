@@ -30,7 +30,7 @@ def outlier_detection(df):
     axs[1].scatter(df_encoded_pca[:, 0],
                    df_encoded_pca[:, 1], s=10, color=colors[(isf_outlier + 1) // 2])
     axs[1].set_title("Isolation Forest result")
-    plt.savefig("../output/plot/outlier_result")
+    plt.savefig("output/plot/outlier_result")
 
     plt.close(fig)
 
@@ -43,18 +43,18 @@ def outlier_detection(df):
                                    'Local Outlier Factor': lof_outlier,
                                    'Isolation Forest': isf_outlier,
                                    'Is both': both})
-    outlier_result.to_csv('../data/stock_outlier.csv', index=False)
+    outlier_result.to_csv('data/stock_outlier.csv', index=False)
 
     df_remove_outlier = df[np.logical_not(both)]
-    df_remove_outlier.to_csv('../data/stock_outlier_removed.csv', index=False)
+    df_remove_outlier.to_csv('data/stock_outlier_removed.csv', index=False)
 
-    with open('../output/outlier_result.txt', 'w') as f:
+    with open('output/outlier_result.txt', 'w') as f:
         f.write(f'Number of outliers detected using Local Outlier Factor:\t{lof_outlier_count}\n'
                 f'Number of outliers detected using Isolation Forest:\t{isf_outlier_count}\n'
                 f'Number of outliers detected using both methods:\t{both_count}')
 
 def main():
-    df = pd.read_csv('../data/stocks_data_normalized.csv')
+    df = pd.read_csv('data/stocks_data_normalized.csv')
     outlier_detection(df)
 
 if __name__ == '__main__':

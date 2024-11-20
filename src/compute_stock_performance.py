@@ -3,7 +3,7 @@ import os
 ### TODO: The logic should work for any input of year and quarter
 
 def filter_company_with_no_report(companies_list):
-    quarter_folder_path = '../data/SEC_Filings'
+    quarter_folder_path = 'data/SEC_Filings'
     if not os.path.exists(quarter_folder_path):
         raise FileNotFoundError(f"The directory {quarter_folder_path} does not exist.")
 

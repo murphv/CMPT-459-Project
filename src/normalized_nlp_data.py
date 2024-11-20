@@ -24,9 +24,9 @@ def normalization(df):
 
 def plot_histogram(df):
     numerical_columns = ['Last Open', 'Begin Close', 'Last Close', 'Average Daily Price', 'Average Daily Performance',
-                         'Volume', 'Average Daily Volume', 'High', 'Low', 'Performance 2023Q1', 'fullTimeEmployees']
+                         'Volume', 'Average Daily Volume', 'High', 'Low', 'Performance 2023Q1', 'fullTimeEmployees', 'BERT_PCA_0', 'BERT_PCA_1', 'BERT_PCA_2', 'BERT_PCA_40', 'BERT_PCA_41']
 
-    fig, axs = plt.subplots(4, 3, figsize=(15, 12))
+    fig, axs = plt.subplots(4, 4, figsize=(15, 12))
     for column, ax in zip(numerical_columns, axs.ravel()):
         ax.hist(df[column], bins=30, color='skyblue', edgecolor='black')
         ax.set_title(f'Distribution of {column}')

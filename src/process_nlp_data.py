@@ -25,8 +25,8 @@ def plot_nlp_pca(df: pd.DataFrame):
     ax.set_title("Cumulative Explained Variance Ratio by number of features using PCA")
     ax.set_ylabel('Cumulative Explained Variance Ratio')
     ax.set_xlabel('Number of Features')
-    plt.savefig('../output/plot/nlp_pca_variances')
-    with open('../output/pca_variance.txt', 'w') as f:
+    plt.savefig('output/plot/nlp_pca_variances')
+    with open('output/pca_variance.txt', 'w') as f:
         f.write(f'The PCA explains 80% variances at {er_80} first features\n'
                 f'The PCA explains 90% variances at {er_90} first features\n'
                 f'The PCA explains 95% variances at {er_95} first features')
@@ -42,10 +42,10 @@ def apply_pca(df):
 
 
 def main():
-    nlp_df = pd.read_csv('../data/nlp_features.csv')
+    nlp_df = pd.read_csv('data/nlp_features.csv')
     plot_nlp_pca(nlp_df)
     nlp_reduced = apply_pca(nlp_df)
-    nlp_reduced.to_csv('../data/nlp_features_reduced.csv', index=False)
+    nlp_reduced.to_csv('data/nlp_features_reduced.csv', index=False)
 
 
 if __name__ == '__main__':
