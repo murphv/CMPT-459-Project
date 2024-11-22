@@ -1,0 +1,181 @@
+,Stock,True Label,Random Forest Prediction,SVM Prediction
+0,PTCO,Bad Performance,Bad Performance,Bad Performance
+1,HTBI,Bad Performance,Neutral,Neutral
+2,WMG,Bad Performance,Neutral,Bad Performance
+3,QRVO,Neutral,Bad Performance,Neutral
+4,EGAN,Bad Performance,Bad Performance,Bad Performance
+5,GEVI,Good Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+6,PKE,Bad Performance,Bad Performance,Bad Performance
+7,ROIV,Neutral,Bad Performance,Bad Performance
+8,CTGO,Neutral,Neutral,Bad Performance
+9,COHR,Neutral,Bad Performance,Bad Performance
+10,CSBR,Good Performance,Bad Performance,Bad Performance
+11,PLUS,Neutral,Neutral,Neutral
+12,TTEK,Neutral,Neutral,Bad Performance
+13,CIIT,Exceptionally Bad Performance,Bad Performance,Bad Performance
+14,MPAA,Exceptionally Bad Performance,Bad Performance,Bad Performance
+15,NCPL,Neutral,Bad Performance,Bad Performance
+16,HFUS,Good Performance,Good Performance,Good Performance
+17,APD,Bad Performance,Neutral,Neutral
+18,PURE,Bad Performance,Good Performance,Good Performance
+19,IROQ,Bad Performance,Bad Performance,Bad Performance
+20,LNBY,Good Performance,Bad Performance,Bad Performance
+21,NFTN,Exceptionally Bad Performance,Bad Performance,Bad Performance
+22,AIRT,Neutral,Bad Performance,Bad Performance
+23,ARMK,Neutral,Neutral,Bad Performance
+24,VVV,Neutral,Bad Performance,Bad Performance
+25,NTAP,Neutral,Bad Performance,Bad Performance
+26,SAR,Neutral,Bad Performance,Bad Performance
+27,CAH,Neutral,Bad Performance,Bad Performance
+28,EDSA,Exceptionally Bad Performance,Exceptionally Bad Performance,Bad Performance
+29,CHSCN,Neutral,Neutral,Bad Performance
+30,LUVU,Exceptionally Bad Performance,Bad Performance,Bad Performance
+31,MKC,Good Performance,Bad Performance,Bad Performance
+32,SENEA,Bad Performance,Bad Performance,Bad Performance
+33,DIS,Bad Performance,Bad Performance,Neutral
+34,KRFG,Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+35,CLX,Neutral,Neutral,Neutral
+36,TPR,Neutral,Bad Performance,Bad Performance
+37,EMKR,Bad Performance,Neutral,Bad Performance
+38,KOSS,Bad Performance,Bad Performance,Bad Performance
+39,UA,Bad Performance,Bad Performance,Bad Performance
+40,CALM,Bad Performance,Bad Performance,Neutral
+41,HURC,Bad Performance,Neutral,Bad Performance
+42,FREVS,Bad Performance,Bad Performance,Neutral
+43,NBIO,Exceptionally Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+44,ALID,Bad Performance,Bad Performance,Bad Performance
+45,KRNY,Bad Performance,Bad Performance,Bad Performance
+46,EMBC,Bad Performance,Good Performance,Good Performance
+47,FIGI,Neutral,Neutral,Neutral
+48,DE,Bad Performance,Bad Performance,Neutral
+49,ODYY,Exceptionally Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+50,LOOP,Good Performance,Bad Performance,Bad Performance
+51,TRAK,Good Performance,Neutral,Bad Performance
+52,PETS,Bad Performance,Neutral,Bad Performance
+53,PNPL,Good Performance,Good Performance,Good Performance
+54,PBFS,Bad Performance,Bad Performance,Bad Performance
+55,TMGI,Neutral,Bad Performance,Good Performance
+56,ECIA,Bad Performance,Bad Performance,Bad Performance
+57,JACK,Neutral,Neutral,Neutral
+58,BRID,Bad Performance,Bad Performance,Bad Performance
+59,SYNA,Bad Performance,Neutral,Neutral
+60,UGI,Bad Performance,Bad Performance,Bad Performance
+61,ALTX,Neutral,Bad Performance,Bad Performance
+62,MULN,Exceptionally Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+63,KFFB,Bad Performance,Bad Performance,Bad Performance
+64,CMP,Bad Performance,Bad Performance,Bad Performance
+65,MMS,Neutral,Neutral,Neutral
+66,VRVR,Exceptionally Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+67,SWBI,Neutral,Neutral,Bad Performance
+68,LBUY,Neutral,Good Performance,Good Performance
+69,EPIX,Neutral,Exceptionally Bad Performance,Bad Performance
+70,NXEN,Neutral,Bad Performance,Bad Performance
+71,BIVI,Bad Performance,Bad Performance,Good Performance
+72,AFRM,Good Performance,Bad Performance,Bad Performance
+73,RPM,Bad Performance,Neutral,Neutral
+74,HELE,Bad Performance,Neutral,Neutral
+75,RGBPP,Exceptionally Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+76,BOWL,Bad Performance,Bad Performance,Neutral
+77,DECK,Good Performance,Bad Performance,Neutral
+78,LPTH,Bad Performance,Bad Performance,Bad Performance
+79,PHCI,Good Performance,Neutral,Bad Performance
+80,NMRD,Exceptionally Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+81,LPTV,Exceptionally Bad Performance,Neutral,Bad Performance
+82,CRNC,Good Performance,Good Performance,Good Performance
+83,LVO,Good Performance,Bad Performance,Bad Performance
+84,LEDS,Neutral,Bad Performance,Bad Performance
+85,CVM,Bad Performance,Exceptionally Bad Performance,Bad Performance
+86,EPAC,Neutral,Neutral,Neutral
+87,GHST,Good Performance,Bad Performance,Bad Performance
+88,TCCO,Good Performance,Bad Performance,Bad Performance
+89,HOV,Good Performance,Bad Performance,Good Performance
+90,ZDGE,Bad Performance,Bad Performance,Bad Performance
+91,AMRK,Neutral,Bad Performance,Bad Performance
+92,JJSF,Neutral,Neutral,Neutral
+93,AOXY,Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+94,JOB,Neutral,Neutral,Bad Performance
+95,FHLD,Good Performance,Good Performance,Good Performance
+96,NWCN,Good Performance,Good Performance,Bad Performance
+97,ABAT,Neutral,Neutral,Good Performance
+98,PRKA,Bad Performance,Bad Performance,Bad Performance
+99,SMPL,Bad Performance,Neutral,Neutral
+100,YCBD,Exceptionally Bad Performance,Bad Performance,Bad Performance
+101,KACLU,Neutral,Neutral,Bad Performance
+102,INLB,Exceptionally Bad Performance,Bad Performance,Bad Performance
+103,IMTH,Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+104,GHM,Neutral,Neutral,Neutral
+105,KFY,Bad Performance,Bad Performance,Bad Performance
+106,KNW,Neutral,Bad Performance,Bad Performance
+107,QREE,Exceptionally Bad Performance,Bad Performance,Exceptionally Bad Performance
+108,PLAB,Good Performance,Bad Performance,Bad Performance
+109,RSSS,Neutral,Neutral,Bad Performance
+110,AAGH,Bad Performance,Exceptionally Bad Performance,Bad Performance
+111,DGII,Neutral,Bad Performance,Bad Performance
+112,DOCS,Bad Performance,Bad Performance,Bad Performance
+113,BTCY,Bad Performance,Bad Performance,Bad Performance
+114,IVDN,Good Performance,Bad Performance,Bad Performance
+115,VFC,Bad Performance,Bad Performance,Bad Performance
+116,FUNI,Bad Performance,Exceptionally Bad Performance,Bad Performance
+117,HAIN,Bad Performance,Bad Performance,Bad Performance
+118,WOLV,Bad Performance,Bad Performance,Bad Performance
+119,UPYY,Neutral,Neutral,Bad Performance
+120,SPH,Bad Performance,Bad Performance,Bad Performance
+121,WOR,Neutral,Good Performance,Neutral
+122,MGLD,Bad Performance,Good Performance,Bad Performance
+123,FSTJ,Good Performance,Bad Performance,Bad Performance
+124,UFI,Bad Performance,Bad Performance,Bad Performance
+125,FGPRB,Bad Performance,Neutral,Neutral
+126,RJF,Bad Performance,Bad Performance,Bad Performance
+127,BRC,Bad Performance,Bad Performance,Neutral
+128,ZEOX,Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+129,CASH,Neutral,Bad Performance,Bad Performance
+130,OTEX,Good Performance,Bad Performance,Good Performance
+131,CBRL,Bad Performance,Good Performance,Neutral
+132,LZB,Bad Performance,Neutral,Neutral
+133,TLRY,Exceptionally Bad Performance,Bad Performance,Bad Performance
+134,MXSG,Good Performance,Good Performance,Bad Performance
+135,ATXG,Exceptionally Bad Performance,Bad Performance,Bad Performance
+136,NTWK,Bad Performance,Neutral,Bad Performance
+137,LQDT,Neutral,Bad Performance,Bad Performance
+138,BDCC,Exceptionally Bad Performance,Exceptionally Bad Performance,Exceptionally Bad Performance
+139,IIIN,Neutral,Bad Performance,Bad Performance
+140,IIIV,Bad Performance,Neutral,Bad Performance
+141,DSNY,Good Performance,Neutral,Bad Performance
+142,PROV,Bad Performance,Bad Performance,Bad Performance
+143,GIS,Neutral,Neutral,Neutral
+144,CHHE,Good Performance,Bad Performance,Bad Performance
+145,PFGC,Bad Performance,Bad Performance,Bad Performance
+146,NXMH,Bad Performance,Good Performance,Good Performance
+147,PFX,Neutral,Good Performance,Neutral
+148,VRTC,Good Performance,Bad Performance,Bad Performance
+149,PAXH,Bad Performance,Bad Performance,Bad Performance
+150,SJM,Neutral,Neutral,Neutral
+151,PLUR,Bad Performance,Bad Performance,Bad Performance
+152,TWST,Bad Performance,Bad Performance,Bad Performance
+153,HPQ,Neutral,Neutral,Bad Performance
+154,AI,Good Performance,Good Performance,Good Performance
+155,GWRE,Neutral,Bad Performance,Neutral
+156,SVBL,Bad Performance,Bad Performance,Bad Performance
+157,PMCB,Neutral,Bad Performance,Bad Performance
+158,NSSC,Neutral,Good Performance,Good Performance
+159,SBUX,Bad Performance,Bad Performance,Neutral
+160,AMWD,Good Performance,Bad Performance,Neutral
+161,SNOA,Bad Performance,Bad Performance,Bad Performance
+162,SGLY,Bad Performance,Bad Performance,Bad Performance
+163,NMEX,Bad Performance,Bad Performance,Bad Performance
+164,DFCO,Good Performance,Bad Performance,Bad Performance
+165,BRN,Neutral,Bad Performance,Bad Performance
+166,ZS,Good Performance,Neutral,Neutral
+167,KLIC,Neutral,Bad Performance,Neutral
+168,ALDS,Neutral,Bad Performance,Bad Performance
+169,ACI,Neutral,Bad Performance,Bad Performance
+170,MMND,Bad Performance,Bad Performance,Bad Performance
+171,CAG,Bad Performance,Bad Performance,Bad Performance
+172,MITQ,Bad Performance,Bad Performance,Bad Performance
+173,ONCSQ,Exceptionally Bad Performance,Bad Performance,Bad Performance
+174,RASP,Neutral,Bad Performance,Good Performance
+175,AYI,Bad Performance,Neutral,Neutral
+176,WAFDP,Bad Performance,Bad Performance,Bad Performance
+177,AYTU,Exceptionally Bad Performance,Bad Performance,Bad Performance
+178,SFIX,Bad Performance,Good Performance,Good Performance
+179,ITI,Neutral,Bad Performance,Bad Performance
