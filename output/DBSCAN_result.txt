@@ -1,0 +1,5 @@
+Estimated number of clusters: 2
+Estimated number of noise points: 247
+Silhouette Coefficient: 0.194831
+Calinski-Harabasz Index: 184.843933
+Davies-Bouldin Index: 2.549656
