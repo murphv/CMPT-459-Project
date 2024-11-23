@@ -1,0 +1,4 @@
+Number of clusters with the best result: 2
+Silhouette Coefficient: 0.323079
+Calinski-Harabasz Index: 412.087807
+Davies-Bouldin Index: 1.291942
