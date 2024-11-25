@@ -1,0 +1,5 @@
+Regression Results for baseline_random:
+Mean Squared Error (MSE): 600095.7832
+Mean Absolute Error (MAE): 90.8639
+Root Mean Squared Error (RMSE): 774.6585
+R^2 Score: -0.0081

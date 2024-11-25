@@ -1,0 +1,36 @@
+Classification Results for baseline_random:
+Accuracy: 0.2611
+Precision: 0.3285
+Recall: 0.2611
+F1-Score: 0.2750
+Confusion Matrix:
+                               Bad Performance  Exceptionally Bad Performance  Good Performance  Neutral
+Bad Performance                             18                             25                14       19
+Exceptionally Bad Performance                5                              7                 3        5
+Good Performance                             7                             10                 7        6
+Neutral                                     11                             11                17       15
+
+
+
+ Classification Report: 
+                               precision    recall  f1-score   support
+
+              Bad Performance       0.44      0.24      0.31        76
+Exceptionally Bad Performance       0.13      0.35      0.19        20
+             Good Performance       0.17      0.23      0.20        30
+                      Neutral       0.33      0.28      0.30        54
+
+                     accuracy                           0.26       180
+                    macro avg       0.27      0.27      0.25       180
+                 weighted avg       0.33      0.26      0.27       180
+Classification Report:
+                               precision    recall  f1-score   support
+
+              Bad Performance       0.44      0.24      0.31        76
+Exceptionally Bad Performance       0.13      0.35      0.19        20
+             Good Performance       0.17      0.23      0.20        30
+                      Neutral       0.33      0.28      0.30        54
+
+                     accuracy                           0.26       180
+                    macro avg       0.27      0.27      0.25       180
+                 weighted avg       0.33      0.26      0.27       180
