@@ -1,0 +1,36 @@
+Classification Results for svm:
+Accuracy: 0.4444
+Precision: 0.4491
+Recall: 0.4444
+F1-Score: 0.4257
+Confusion Matrix:
+                               Bad Performance  Exceptionally Bad Performance  Good Performance  Neutral
+Bad Performance                             50                              4                 5       17
+Exceptionally Bad Performance               12                              8                 0        0
+Good Performance                            19                              1                 7        3
+Neutral                                     34                              0                 5       15
+
+
+
+ Classification Report: 
+                               precision    recall  f1-score   support
+
+              Bad Performance       0.43      0.66      0.52        76
+Exceptionally Bad Performance       0.62      0.40      0.48        20
+             Good Performance       0.41      0.23      0.30        30
+                      Neutral       0.43      0.28      0.34        54
+
+                     accuracy                           0.44       180
+                    macro avg       0.47      0.39      0.41       180
+                 weighted avg       0.45      0.44      0.43       180
+Classification Report:
+                               precision    recall  f1-score   support
+
+              Bad Performance       0.43      0.66      0.52        76
+Exceptionally Bad Performance       0.62      0.40      0.48        20
+             Good Performance       0.41      0.23      0.30        30
+                      Neutral       0.43      0.28      0.34        54
+
+                     accuracy                           0.44       180
+                    macro avg       0.47      0.39      0.41       180
+                 weighted avg       0.45      0.44      0.43       180
