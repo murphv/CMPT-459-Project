@@ -142,9 +142,12 @@ def simplify_country(df):
 
 
 def create_label(df):
+    lower_bound_bin = df['Relative 2023Q2'].min() if df['Relative 2023Q2'].min() < -51 else -51
+    higher_bound_bin = df['Relative 2023Q2'].max() if df['Relative 2023Q2'].max() > 11 else 11
+
     df['Relative 2023Q2 Label'] = pd.cut(x=df['Relative 2023Q2'],
-                                         bins=[df['Relative 2023Q2'].min() - 1, -50, -10, 10,
-                                               df['Relative 2023Q2'].max() + 1],
+                                         bins=[lower_bound_bin, -50, -10, 10,
+                                               higher_bound_bin],
                                          labels=['Exceptionally Bad Performance', 'Bad Performance', 'Neutral',
                                                  'Good Performance'])
     return df
@@ -179,6 +182,16 @@ def plot_employees(df):
     plt.savefig('output/plot/histogram_employee')
     plt.close(fig)
 
+
+def plot_heatmap(df):
+    df_encoded = encode_category(df.copy())
+    df_encoded = df_encoded.drop(columns=['Relative 2023Q2 Label', 'Relative 2023Q2'])
+    fig, ax = plt.subplots(figsize=(10, 10))
+    sns.heatmap(df_encoded.corr(numeric_only=True), cmap="YlGnBu")
+    ax.set_title("Correlations Heatmap between features")
+    fig.savefig("output/plot/heatmap")
+    plt.close(fig)
+
 def main():
     df = pd.read_csv('data/stocks_data_processed.csv')
     stocks = df['Company']
@@ -191,6 +204,7 @@ def main():
     df_process = process_category(df_process)
     df_process['Stock'] = stocks #Rename and attach stock name at the end
 
+    plot_heatmap(df_process)
     df_process.to_csv('data/stocks_data_processed_imputed.csv', index=False)
 
 

@@ -4,7 +4,7 @@ import sys
 import time
 import requests as req
 
-
+#TODO: modify to incorporate dynamic year and quarter input
 
 sec_headers = {
     'User-Agent': 'jj (jj@gmail.com)',
@@ -18,7 +18,7 @@ def download_ticker_cik_mapping() -> dict:
     """
     url = 'https://www.sec.gov/files/company_tickers.json'
     print(f"Downloading company tickers from {url}...")
-    time.sleep(0.1)  # Rate limiting
+    time.sleep(0.1)
     
     response = req.get(url, headers=sec_headers)
     if response.status_code != 200:
@@ -58,17 +58,15 @@ def main():
         
         stock_data = yf.Ticker(tick).history(start=start_date, end=end_date)
         if stock_data.empty:
-            # print(f"No data found for ticker {tick}. Removing from the list.")
             continue
 
         stock_data.reset_index(inplace=True)
 
-        # Select and rename columns to match your desired format
+        # Selecting the main numerical features
         stock_data = stock_data[['Date', 'Open', 'High', 'Low', 'Close', 'Volume']]
-        stock_data['OpenInt'] = 0  # Open Interest is generally used for options/futures
+        stock_data['OpenInt'] = 0  
         stock_data['Company'] = tick
         
-        # Convert 'Date' to string format if necessary
         stock_data['Date'] = stock_data['Date'].dt.strftime('%Y-%m-%d')
         
         data = pd.concat([data, stock_data], axis=0, ignore_index=True)
@@ -79,27 +77,26 @@ def main():
     # now we append the Index data (SP500 DowJones NasDaq)
     # Special index tickers
     index_tickers = ['^DJI', '^IXIC', '^GSPC']
-    index_data =[]
+    index_data = pd.DataFrame()
 
     for tick in index_tickers:
-        stock_data = yf.Ticker(tick).history(start=start_date, end=end_date)
+        ticker_data = yf.Ticker(tick).history(start=start_date, end=end_date)
         if stock_data.empty:
-            # print(f"No data found for ticker {tick}. Removing from the list.")
             continue
 
-        stock_data.reset_index(inplace=True)
+        ticker_data.reset_index(inplace=True)
 
         # Select and rename columns to match your desired format
-        stock_data = stock_data[['Date', 'Open', 'High', 'Low', 'Close', 'Volume']]
-        stock_data['OpenInt'] = 0  # Open Interest is generally used for options/futures
-        stock_data['Company'] = tick
+        ticker_data = ticker_data[['Date', 'Open', 'High', 'Low', 'Close', 'Volume']]
+        ticker_data['OpenInt'] = 0  # Open Interest is generally used for options/futures
+        ticker_data['Company'] = tick
 
         # Convert 'Date' to string format if necessary
-        stock_data['Date'] = stock_data['Date'].dt.strftime('%Y-%m-%d')
+        ticker_data['Date'] = ticker_data['Date'].dt.strftime('%Y-%m-%d')
 
-        index_data = pd.concat([index_data, stock_data], axis=0, ignore_index=True)
+        index_data = pd.concat([index_data, ticker_data], axis=0, ignore_index=True)
 
-    data.to_csv('data/index_data.csv', index=False)
+    index_data.to_csv('data/index_data.csv', index=False)
 
         
 

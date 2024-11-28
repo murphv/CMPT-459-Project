@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.colors as colors
+import seaborn as sns
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.svm import SVC, SVR
@@ -9,7 +11,12 @@ from sklearn.metrics import (
     classification_report, ConfusionMatrixDisplay,
     mean_squared_error, mean_absolute_error, r2_score
 )
-import seaborn as sns
+
+
+
+def save_txt_results(name, kind, report):
+    with open(f'output/{name}_{kind}.txt', 'w', encoding='utf-8') as f:
+        f.write(report)
 
 
 def evaluate_classification(y_true, y_pred, model_name):
@@ -31,13 +38,7 @@ def evaluate_classification(y_true, y_pred, model_name):
     report += "\n\n Classification Report: \n"
     report += classification_report(y_true, y_pred)
 
-     # Classification Report
-    cls_report = classification_report(y_true, y_pred)
-    report += "Classification Report:\n"
-    report += cls_report
-
-    with open(f'output/{model_name}_classification.txt', 'w', encoding='utf-8') as f:
-        f.write(report)
+    save_txt_results(model_name, 'Classification', report)
 
 
 def evaluate_regression(y_true, y_pred, model_name):
@@ -51,8 +52,7 @@ def evaluate_regression(y_true, y_pred, model_name):
     report += f"Root Mean Squared Error (RMSE): {rmse:.4f}\n"
     report += f"R^2 Score: {r2:.4f}\n"
 
-    with open(f'output/{model_name}_regression.txt', 'w', encoding='utf-8') as f:
-        f.write(report)
+    save_txt_results(model_name, 'Regression', report)
 
 
 def main():
@@ -77,12 +77,16 @@ def main():
     stocks_test = data_test['Stock'].reset_index(drop=True)
 
     # i) [Random Forest]
+    evaluate_classification(y_test, RandomForestClassifier(random_state=42).fit(X_train, y_train).predict(X_test), 'forest')
+    
+    # with hyperparameter tuning
     forest_grid_param = {
         'n_estimators': [100, 200, 500, 100],
         'max_depth': [None, 10, 25 ,100],
         'min_samples_split': [2, 5, 10, 25]
     }
     forert_model_cls = RandomForestClassifier(random_state=42)
+    
     forest_grid_search_cls = GridSearchCV(
         estimator=forert_model_cls,
         param_grid=forest_grid_param,
@@ -94,7 +98,7 @@ def main():
     forest_grid_search_cls.fit(X_train, y_train)
     best_forest = forest_grid_search_cls.best_estimator_
     forest_preds_cls = best_forest.predict(X_test)
-    evaluate_classification(y_test, forest_preds_cls, 'forest')
+    evaluate_classification(y_test, forest_preds_cls, 'forest_tuned')
 
     plt.figure(figsize=(16, 12))
     sns.lineplot(
@@ -104,13 +108,14 @@ def main():
         hue='param_max_depth',
         style='param_min_samples_split',
         markers=True,
-        dashes=False
+        dashes=False,
+        hue_norm=colors.LogNorm()
     )
     plt.title('Random Forest Classifier Hyperparameter Tuning')
     plt.xlabel('Number of Trees (n_estimators)')
     plt.ylabel('Mean Test Accuracy')
     plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
-    plt.savefig('output/plot/rf_classifier_tuning.png', bbox_inches='tight')
+    plt.savefig('output/plot/forest_classifier_tuning.png', bbox_inches='tight')
     plt.close()
     
     disp = ConfusionMatrixDisplay.from_estimator(best_forest, X_test, y_test, cmap=plt.cm.Blues)
@@ -119,6 +124,9 @@ def main():
     plt.savefig('output/plot/forest_confusion.png')
 
     # ii) [SVM]
+    evaluate_classification(y_test, SVC(probability=True, random_state=42).fit(X_train, y_train).predict(X_test), 'svc')
+
+    # with tuning
     param_grid_svm = {
         'C': [1, 5, 10, 20],
         'gamma': ['scale', 'auto'],
@@ -136,7 +144,7 @@ def main():
     grid_search_svc.fit(X_train, y_train)
     best_svc = grid_search_svc.best_estimator_
     svc_preds = best_svc.predict(X_test)
-    evaluate_classification(y_test, svc_preds, 'svc')
+    evaluate_classification(y_test, svc_preds, 'svc_tuned')
 
     plt.figure(figsize=(16, 12))
     svc_results = pd.DataFrame(grid_search_svc.cv_results_)
@@ -149,7 +157,7 @@ def main():
     plt.title('SVM Classifier Hyperparameter Tuning')
     plt.xlabel('Kernel')
     plt.ylabel('C')
-    plt.savefig('output/plot/svc_classifier_tuning.png', bbox_inches='tight')
+    plt.savefig('output/plot/svc_tuning.png', bbox_inches='tight')
     plt.close()
     
 
@@ -168,7 +176,7 @@ def main():
     'Stock': stocks_test,
     'True Label': y_test.reset_index(drop=True),
     'Forest Prediction': forest_preds_cls,
-    'SVM Prediction': svc_preds
+    'SVC Prediction': svc_preds
     }).sort_values(by='Stock').to_csv('output/classification_results.csv')
 
 
@@ -181,6 +189,9 @@ def main():
     stocks_test = data_test['Stock'].reset_index(drop=True)
 
     # i) [Random Forest]
+    evaluate_regression(y_test, RandomForestRegressor(random_state=42).fit(X_train, y_train).predict(X_test), 'forest')
+
+    # with tuning
     forest_reg = RandomForestRegressor(random_state=42)
     forest_grid_search_reg = GridSearchCV(
         estimator=forest_reg,
@@ -193,7 +204,7 @@ def main():
     forest_grid_search_reg.fit(X_train, y_train)
     best_forest = forest_grid_search_reg.best_estimator_
     forest_preds = best_forest.predict(X_test)
-    evaluate_regression(y_test, forest_preds, 'forest')
+    evaluate_regression(y_test, forest_preds, 'forest_tuned')
 
     rf_reg_results = pd.DataFrame(forest_grid_search_reg.cv_results_)
     plt.figure(figsize=(16,12))
@@ -204,16 +215,20 @@ def main():
         hue='param_max_depth',
         style='param_min_samples_split',
         markers=True,
-        dashes=False
+        dashes=False,
+        hue_norm=colors.LogNorm()
     )
     plt.title('Random Forest Regressor Hyperparameter Tuning')
     plt.xlabel('Number of Trees (n_estimators)')
     plt.ylabel('Mean Test MSE')
     plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
-    plt.savefig('output/plot/rf_regressor_tuning.png', bbox_inches='tight')
+    plt.savefig('output/plot/forest_regressor_tuning.png', bbox_inches='tight')
     plt.close()
 
-    # ii) [SVM]
+    # ii) [SVM]    
+    evaluate_regression(y_test, SVR().fit(X_train, y_train).predict(X_test), 'svr')
+
+    # with tuning
     param_grid_svr = {
         'C': [0.1, 1, 10],
         'gamma': ['scale', 'auto'],
@@ -233,7 +248,7 @@ def main():
     grid_search_svr.fit(X_train, y_train)
     best_svr = grid_search_svr.best_estimator_
     svr_preds = best_svr.predict(X_test)
-    evaluate_regression(y_test, svr_preds, 'svr')
+    evaluate_regression(y_test, svr_preds, 'svr_tuned')
     
     # Plotting Grid Search Results for SVR Regressor
     svr_results = pd.DataFrame(grid_search_svr.cv_results_)
@@ -247,7 +262,7 @@ def main():
     plt.title('SVR Regressor Hyperparameter Tuning')
     plt.xlabel('Kernel')
     plt.ylabel('C')
-    plt.savefig('output/plot/svr_regressor_tuning.png', bbox_inches='tight')
+    plt.savefig('output/plot/svr_tuning.png', bbox_inches='tight')
     plt.close()
     
 
@@ -261,7 +276,7 @@ def main():
     'Stock': stocks_test,
     'True Value': y_test.reset_index(drop=True),
     'Forest Prediction': forest_preds,
-    'SVM Prediction': svr_preds
+    'SVR Prediction': svr_preds
     }).sort_values(by='True Value', ascending=False).to_csv('output/regression_results.csv')
 
 

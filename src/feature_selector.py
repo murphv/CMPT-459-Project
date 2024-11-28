@@ -4,11 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.feature_selection import VarianceThreshold, RFE, mutual_info_regression, mutual_info_classif
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import cross_val_score, train_test_split, StratifiedKFold
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.svm import SVC
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, classification_report, ConfusionMatrixDisplay
-import os
+from sklearn.model_selection import cross_val_score, StratifiedKFold
 
 
 def evaluate_model(model, X, y):
