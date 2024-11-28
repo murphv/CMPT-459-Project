@@ -1,0 +1,25 @@
+Classification Results for svc_tuned:
+Accuracy: 0.4556
+Precision: 0.4569
+Recall: 0.4556
+F1-Score: 0.4364
+Confusion Matrix:
+                               Bad Performance  Exceptionally Bad Performance  Good Performance  Neutral
+Bad Performance                             51                              4                 3       18
+Exceptionally Bad Performance               10                              9                 0        1
+Good Performance                            12                              3                 7        8
+Neutral                                     36                              0                 3       15
+
+
+
+ Classification Report: 
+                               precision    recall  f1-score   support
+
+              Bad Performance       0.47      0.67      0.55        76
+Exceptionally Bad Performance       0.56      0.45      0.50        20
+             Good Performance       0.54      0.23      0.33        30
+                      Neutral       0.36      0.28      0.31        54
+
+                     accuracy                           0.46       180
+                    macro avg       0.48      0.41      0.42       180
+                 weighted avg       0.46      0.46      0.44       180

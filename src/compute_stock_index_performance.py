@@ -2,7 +2,7 @@ from datetime import datetime
 import numpy as np
 import pandas as pd
 
-from src.compute_stock_performance import filter_company_with_no_report
+from compute_stock_performance import filter_company_with_no_report
 
 
 def extract_quarter(df):

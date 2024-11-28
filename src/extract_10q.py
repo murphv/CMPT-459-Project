@@ -23,7 +23,7 @@ def download_ticker_cik_mapping() -> dict:
     """
     url = 'https://www.sec.gov/files/company_tickers.json'
     print(f"Downloading company tickers from {url}...")
-    time.sleep(0.1)  # Rate limiting
+    time.sleep(0.1)
     
     response = req.get(url, headers=sec_headers)
     if response.status_code != 200:
@@ -164,8 +164,8 @@ def main():
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)
 
-    year = int(sys.argv[1])
-    quarter = int(sys.argv[2])
+    year = 2023
+    quarter = 1
 
     log = ''
     

@@ -23,14 +23,3 @@ Exceptionally Bad Performance       0.13      0.35      0.19        20
                      accuracy                           0.26       180
                     macro avg       0.27      0.27      0.25       180
                  weighted avg       0.33      0.26      0.27       180
-Classification Report:
-                               precision    recall  f1-score   support
-
-              Bad Performance       0.44      0.24      0.31        76
-Exceptionally Bad Performance       0.13      0.35      0.19        20
-             Good Performance       0.17      0.23      0.20        30
-                      Neutral       0.33      0.28      0.30        54
-
-                     accuracy                           0.26       180
-                    macro avg       0.27      0.27      0.25       180
-                 weighted avg       0.33      0.26      0.27       180

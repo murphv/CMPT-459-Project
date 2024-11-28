@@ -15,7 +15,7 @@ def plot_nlp_pca(df: pd.DataFrame):
     er_80 = np.argmax(cdf_variances >= 0.8)+1
     er_90 = np.argmax(cdf_variances >= 0.9)+1
     er_95 = np.argmax(cdf_variances >= 0.95)+1
-    ax.plot(np.arange(1, nlp_data.columns.size+1), cdf_variances)
+    ax.plot(np.arange(1, cdf_variances.size+1), cdf_variances)
     ax.xaxis.set_major_locator(ticker.MultipleLocator(50))
     ax.xaxis.set_minor_locator(ticker.MultipleLocator(10))
     ax.yaxis.set_major_locator(ticker.MultipleLocator(0.1))

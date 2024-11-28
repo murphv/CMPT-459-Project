@@ -53,6 +53,8 @@ def main():
     df = normalization(df)
     df.to_csv('data/stocks_data_normalized_v1.csv', index=False)
 
+    
+
 
 if __name__ == '__main__':
     main()

@@ -14,7 +14,7 @@ nltk.download('wordnet')
 # nltk.download('punkt_tab')
 
 
-def load_filings(filing_dir):
+def load_filings_df(filing_dir):
     """
     Loads SEC filings from the specified directory and aggregates them per company per quarter.
     
@@ -116,7 +116,7 @@ def main():
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     bert_model = BertModel.from_pretrained('bert-base-uncased')
 
-    df = load_filings(sec_filing_path)
+    df = load_filings_df(sec_filing_path)
     
     df['Report_Text'] = df['Report_Text'].apply(process_text)
 

@@ -9,6 +9,7 @@ from preprossessing_data import encode_category
 
 
 
+
 def clustering_DBSCAN(df):
     df_encoded = encode_category(df.copy())
     df_encoded = df_encoded.drop(columns=['Relative 2023Q2', 'Relative 2023Q2 Label', 'Stock'])
@@ -95,6 +96,7 @@ def clustering_kmeans_plusplus(df):
 
 def main():
     df = pd.read_csv('data/stocks_data_normalized.csv')
+    clustering_by_class(df)
     clustering_DBSCAN(df)
     clustering_kmeans_plusplus(df)
 

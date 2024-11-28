@@ -1,36 +1,25 @@
 Classification Results for svc:
-Accuracy: 0.4556
-Precision: 0.4569
-Recall: 0.4556
-F1-Score: 0.4364
+Accuracy: 0.4444
+Precision: 0.4491
+Recall: 0.4444
+F1-Score: 0.4257
 Confusion Matrix:
                                Bad Performance  Exceptionally Bad Performance  Good Performance  Neutral
-Bad Performance                             51                              4                 3       18
-Exceptionally Bad Performance               10                              9                 0        1
-Good Performance                            12                              3                 7        8
-Neutral                                     36                              0                 3       15
+Bad Performance                             50                              4                 5       17
+Exceptionally Bad Performance               12                              8                 0        0
+Good Performance                            19                              1                 7        3
+Neutral                                     34                              0                 5       15
 
 
 
  Classification Report: 
                                precision    recall  f1-score   support
 
-              Bad Performance       0.47      0.67      0.55        76
-Exceptionally Bad Performance       0.56      0.45      0.50        20
-             Good Performance       0.54      0.23      0.33        30
-                      Neutral       0.36      0.28      0.31        54
+              Bad Performance       0.43      0.66      0.52        76
+Exceptionally Bad Performance       0.62      0.40      0.48        20
+             Good Performance       0.41      0.23      0.30        30
+                      Neutral       0.43      0.28      0.34        54
 
-                     accuracy                           0.46       180
-                    macro avg       0.48      0.41      0.42       180
-                 weighted avg       0.46      0.46      0.44       180
-Classification Report:
-                               precision    recall  f1-score   support
-
-              Bad Performance       0.47      0.67      0.55        76
-Exceptionally Bad Performance       0.56      0.45      0.50        20
-             Good Performance       0.54      0.23      0.33        30
-                      Neutral       0.36      0.28      0.31        54
-
-                     accuracy                           0.46       180
-                    macro avg       0.48      0.41      0.42       180
-                 weighted avg       0.46      0.46      0.44       180
+                     accuracy                           0.44       180
+                    macro avg       0.47      0.39      0.41       180
+                 weighted avg       0.45      0.44      0.43       180
