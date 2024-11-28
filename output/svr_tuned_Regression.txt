@@ -1,0 +1,5 @@
+Regression Results for svr_tuned:
+Mean Squared Error (MSE): 596827.5986
+Mean Absolute Error (MAE): 77.2078
+Root Mean Squared Error (RMSE): 772.5462
+R^2 Score: -0.0026

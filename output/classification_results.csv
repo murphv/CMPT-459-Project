@@ -1,4 +1,4 @@
-,Stock,True Label,Forest Prediction,SVM Prediction
+,Stock,True Label,Forest Prediction,SVC Prediction
 110,AAGH,Bad Performance,Exceptionally Bad Performance,Bad Performance
 97,ABAT,Neutral,Neutral,Good Performance
 169,ACI,Neutral,Bad Performance,Bad Performance

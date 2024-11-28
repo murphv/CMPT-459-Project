@@ -1,5 +1,5 @@
 Regression Results for svr:
-Mean Squared Error (MSE): 596827.5986
-Mean Absolute Error (MAE): 77.2078
-Root Mean Squared Error (RMSE): 772.5462
-R^2 Score: -0.0026
+Mean Squared Error (MSE): 598179.9062
+Mean Absolute Error (MAE): 77.8596
+Root Mean Squared Error (RMSE): 773.4209
+R^2 Score: -0.0049
