@@ -48,7 +48,6 @@ def main():
     companies_count = 0
     tot_compapnies_count = len(tick_cik_map)
     current_progress = 0
-    counter = 500
 
     for tick, _ in tick_cik_map.items():
 
@@ -71,9 +70,6 @@ def main():
         stock_data['Date'] = stock_data['Date'].dt.strftime('%Y-%m-%d')
         
         data = pd.concat([data, stock_data], axis=0, ignore_index=True)
-        counter -= 1
-        if counter < 0:
-            break
         
     data.to_csv('data/stocks_data.csv', index=False)
 
