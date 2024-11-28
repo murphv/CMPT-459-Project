@@ -183,15 +183,6 @@ def plot_employees(df):
     plt.close(fig)
 
 
-def plot_heatmap(df):
-    df_encoded = encode_category(df.copy())
-    df_encoded = df_encoded.drop(columns=['Relative 2023Q2 Label', 'Relative 2023Q2'])
-    fig, ax = plt.subplots(figsize=(10, 10))
-    sns.heatmap(df_encoded.corr(numeric_only=True), cmap="YlGnBu")
-    ax.set_title("Correlations Heatmap between features")
-    fig.savefig("output/plot/heatmap")
-    plt.close(fig)
-
 def main():
     df = pd.read_csv('data/stocks_data_processed.csv')
     stocks = df['Company']
