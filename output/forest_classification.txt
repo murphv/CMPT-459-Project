@@ -1,0 +1,36 @@
+Classification Results for forest:
+Accuracy: 0.4667
+Precision: 0.4684
+Recall: 0.4667
+F1-Score: 0.4453
+Confusion Matrix:
+                               Bad Performance  Exceptionally Bad Performance  Good Performance  Neutral
+Bad Performance                             51                              6                 4       15
+Exceptionally Bad Performance               11                              8                 0        1
+Good Performance                            18                              2                 5        5
+Neutral                                     31                              1                 2       20
+
+
+
+ Classification Report: 
+                               precision    recall  f1-score   support
+
+              Bad Performance       0.46      0.67      0.55        76
+Exceptionally Bad Performance       0.47      0.40      0.43        20
+             Good Performance       0.45      0.17      0.24        30
+                      Neutral       0.49      0.37      0.42        54
+
+                     accuracy                           0.47       180
+                    macro avg       0.47      0.40      0.41       180
+                 weighted avg       0.47      0.47      0.45       180
+Classification Report:
+                               precision    recall  f1-score   support
+
+              Bad Performance       0.46      0.67      0.55        76
+Exceptionally Bad Performance       0.47      0.40      0.43        20
+             Good Performance       0.45      0.17      0.24        30
+                      Neutral       0.49      0.37      0.42        54
+
+                     accuracy                           0.47       180
+                    macro avg       0.47      0.40      0.41       180
+                 weighted avg       0.47      0.47      0.45       180

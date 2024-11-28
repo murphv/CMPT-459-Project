@@ -1,0 +1,5 @@
+Regression Results for forest:
+Mean Squared Error (MSE): 580756.7006
+Mean Absolute Error (MAE): 77.7945
+Root Mean Squared Error (RMSE): 762.0739
+R^2 Score: 0.0244
